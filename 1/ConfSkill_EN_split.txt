@@ -1,4 +1,3 @@
-=== contentBG ===
 A shockwave slams into enemies like a pincer from a pirate fleet, dealing Physical damage.
 A blinding bolt strikes down from the heavens, dealing Electric damage.
 Power charges up before it's unleashed in a powerful strike, dealing Physical damage to the target. When used with Rebound, its power is even mightier.
@@ -113,7 +112,6 @@ tdxct-[Skill_contentBG_121213]
 The shepherd's axes seem to stop in midair, and time freezes as enemies are pierced by a hail of bullets. Deals continuous damage to all enemies.
 The firing pin strikes the bullet, igniting its gunpowder for a deadly blow that deals ailment damage. Increase damage when a foe has Marked.
 The shepherd's axe blades trace an X through the air, dealing damage to enemies caught off guard. From the crosspoint, a beam of light offers healing to allies.
-=== desc ===
 Deal Physical damage to 1 foe.
 If the target's remaining HP is higher than Ryuji's, increase Attack by <color=#FFFC40>^%s^</color>.
 Increase Attack based on missing HP. The minimum increase is 10%, and if HP is 20% or lower, Attack will increase by a maximum of 40%.\nWhen Ryuji has less than 75% HP on his action, gain Rebound for 1 turn.\nRebound: Increases the damage of Ryuji's next skill by 30%, and increases critical rate by 30%.
@@ -1780,7 +1778,6 @@ Increase party's Attack by 2%.
 Increase party's Defense by 2%.
 Increase party's max HP by 2%.
 Increase party's critical rate by 2%.
-Increase party's critical damage by 4%.
 Increase party's ailment accuracy by 5%.
 Increase party's ailment resistance by 5%.
 Increase party's damage by 3%.
@@ -2038,7 +2035,6 @@ Deal Physical damage to 1 foe equal to <color=#fffc40>^%s^%</color> of Attack (2
 Deal Nuclear damage to all foes.
 Spend Energy to restore own HP.
 Deal Nuclear damage to Locked On foes.
-Charge
 Charge and greatly increase next skill damage.
 Deal Curse damage to all foes. Chance to inflict 1 Curse.
 Deal medium Physical damage to all foes, and Lock On to 1 target.
@@ -2089,7 +2085,6 @@ Immune to Rage.
 Increase Despair resistance.
 Immune to Despair.
 Increase Brainwash resistance.
-Nullify Brainwash.
 Increase debuff resistance.
 Nullify Confuse, Fear, Rage, and Despair.
 Halve recovery times for all ailments.
@@ -2219,8 +2214,6 @@ Restore 20% HP to 1 ally.
 Restore 35% HP to 1 ally.
 Restore 50% HP to 1 ally.
 Fully restore HP to 1 ally.
-Cures elemental ailments for 1 ally.
-Cures Rage, Despair, Brainwash, Confuse, Fear, and Taunt for 1 ally.
 Cure Dizzy, Forget, and Sleep for 1 ally.
 Restore 15% HP to party.
 Restore 30% HP to party.
@@ -2265,31 +2258,6 @@ Restore party's HP/SP by 3.2% of user's HP/SP at the start of each turn.
 At the start of battle, fill Highlight Gauge by 8%.
 At the start of battle, fill Highlight Gauge by 12%.
 At the start of battle, fill Highlight Gauge by 16%.
-Increase party's HP by 8%.
-Increase party's HP by 12%.
-Increase party's HP by 16%.
-Increase party's Attack by 8%.
-Increase party's Attack by 12%.
-Increase party's Attack by 16%.
-Increase party's Defense by 8%.
-Increase party's Defense by 12%.
-Increase party's Defense by 16%.
-Increase party's critical rate by 4.8%.
-Increase party's critical rate by 7.2%.
-Increase party's critical rate by 9.6%.
-Increase party's critical damage by 9.6%.
-Increase party's critical damage by 14.4%.
-Increase party's critical damage by 19.2%.
-Increase party's ailment accuracy by 9.6%.
-Increase party's ailment accuracy by 14.4%.
-Increase party's ailment accuracy by 19.2%.
-Increase party's ailment resistance by 9.6%.
-Increase party's ailment resistance by 14.4%.
-Increase party's ailment resistance by 19.2%.
-Increase party's damage by 9.6%.
-Increase party's damage by 12.8%.
-Decrease party's damage taken by 9.6%.
-Decrease party's damage taken by 12.8%.
 Restore party's HP by 2% of user's HP at the start of each turn.
 Restore party's HP by 3% of user's HP at the start of each turn.
 Restore party's HP by 4% of user's HP at the start of each turn.
@@ -2302,31 +2270,6 @@ Restore party's HP/SP by 4% of user's HP/SP at the start of each turn.
 At the start of battle, fill Highlight Gauge by 10%.
 At the start of battle, fill Highlight Gauge by 15%.
 At the start of battle, fill Highlight Gauge by 20%.
-Increase party's HP by 10%.
-Increase party's HP by 15%.
-Increase party's HP by 20%.
-Increase party's Attack by 10%.
-Increase party's Attack by 15%.
-Increase party's Attack by 20%.
-Increase party's Defense by 10%.
-Increase party's Defense by 15%.
-Increase party's Defense by 20%.
-Increase party's critical rate by 6%.
-Increase party's critical rate by 9%.
-Increase party's critical rate by 12%.
-Increase party's critical damage by 12%.
-Increase party's critical damage by 18%.
-Increase party's critical damage by 24%.
-Increase party's ailment accuracy by 12%.
-Increase party's ailment accuracy by 18%.
-Increase party's ailment accuracy by 24%.
-Increase party's ailment resistance by 12%.
-Increase party's ailment resistance by 18%.
-Increase party's ailment resistance by 24%.
-Increase party's damage by 12%.
-Increase party's damage by 16%.
-Decrease party's damage taken by 12%.
-Decrease party's damage taken by 16%.
 Change own affinities and greatly decrease damage taken.
 Increase critical rate and critical damage. When defeated, deal Physical damage to all foes.
 Deal light Physical damage to one foe.
@@ -2532,19 +2475,12 @@ In Attack Position, stance is changed when attacked by the chosen Phantom Thief.
 At the start of battle, designates a foe.
 Attack foes with Energy Accumulation applied.
 At the start of battle, grant 2 Seal of Power stacks to all allies. At the end of a turn, lose 1 stack. Gain 1 stack every time a foe's weakness is hit.
-<color=#FF423F>Node Breaker</color>: <color=#fffc40>Combat Chip</color>. When an ally defeats a foe, gain <color=#fffc40>10</color> deployment points. Increase ally damage by <color=#fffc40>30%</color>.
-<color=#FF423F>Vulnerability Cracking</color>: <color=#fffc40>Combat Chip</color>. When an ally deals weakness damage, gain <color=#fffc40>3</color> deployment points. Increase ally weakness damage by <color=#fffc40>37.5%</color>.
-<color=#FF423F>Synchro-attack</color>: <color=#fffc40>Combat Chip</color>. When allies take damage of their own attribute, gain <color=#fffc40>4</color> deployment points. Increase damage by <color=#fffc40>60%</color> more.
-<color=#FF423F>Flooding Device</color>: <color=#fffc40>Combat Chip</color>. Each time allies attack, gain <color=#fffc40>1</color> deployment point. After every 10 ally attacks, increase party's Attack by <color=#fffc40>40%</color> for 1 turn.
 <color=#FF423F>Trojan Horse</color>: <color=#fffc40>Combat Chip</color>. When an ally activates a Resonance, gain <color=#fffc40>5</color> deployment points. Increase ally Resonance damage dealt by <color=#fffc40>60%</color>.
-<color=#FF423F>Overload</color>: <color=#fffc40>Combat Chip</color>. When an ally deals critical damage, gain <color=#fffc40>4</color> deployment points. Increase ally critical rate by <color=#fffc40>18%</color>.
-<color=#FF423F>Bughack-I0</color>: When a <color=#fffc40>Self-Destruct Bot</color> attacks, 80% chance to grant <color=#fffc40>2</color> random weaknesses to the target. Lasts for 2 turns.
 <color=#FF423F>Shieldbreak-N1</color>: After a <color=#fffc40>Self-Destruct Bot</color> attacks, the target will take <color=#fffc40>30%</color> increased damage from allies with a shield. Lasts for 2 turns.
 <color=#FF423F>Elemental Combat-T0</color>: When a <color=#fffc40>Self-Destruct Bot</color> attacks, increase target's Fire, Ice, Electric, and Wind damage taken by <color=#fffc40>40%</color> for 2 turns.
 <color=#FF423F>Elemental Combat-E2</color>: When a <color=#fffc40>Self-Destruct Bot</color> attacks, increase target's Psychokinesis, Nuclear, Bless, and Curse damage taken by <color=#fffc40>40%</color> for 2 turns.
 <color=#FF423F>Electrojammer-R0</color>: When taking an attack from a <color=#fffc40>Self-Destruct Bot</color>, decrease target's damage by <color=#fffc40>25%</color> for 2 turns.
 <color=#FF423F>Firewall Buster-N3</color>: After taking an attack from a <color=#fffc40>Self-Destruct Bot</color>, increase the target's damage taken by <color=#fffc40>5%</color> for 2 turns. Increase damage taken by <color=#fffc40>5%</color> more for each debuff target has, up to <color=#fffc40>30%</color>.
-<color=#FF423F>Trojan Replicator-E9</color>: After taking an attack from a <color=#fffc40>Self-Destruct Bot</color>, permanently increase damage taken by <color=#fffc40>15%</color>. Stacks up to 3 times.
 <color=#FF423F>Volt Overloader- T1</color>: When a <color=#fffc40>Self-Destruct Bot</color> attacks, decrease the target's critical resistance by <color=#fffc40>9%</color> for 2 turns.
 <color=#FF423F>Volt Amp-E2</color>: When a <color=#fffc40>Combat Drone</color> attacks, increase party's Attack by <color=#fffc40>20%</color> for 1 turn.
 <color=#FF423F>Firewall Booster-X3</color>: When a <color=#fffc40>Combat Drone</color> attacks, increase party's Defense by <color=#fffc40>30%</color> for 1 turn.
@@ -2555,7 +2491,6 @@ At the start of battle, grant 2 Seal of Power stacks to all allies. At the end o
 <color=#FF423F>Data Encryption-I4</color>: When a <color=#fffc40>Combat Drone</color> attacks, grant the ally with the lowest HP a shield equal to <color=#fffc40>80%</color> of their lost HP (250 or more) for 2 turns.
 <color=#FF423F>Chip Overclock-O1</color>: When a <color=#fffc40>Combat Drone</color> attacks, increase party's damage by <color=#fffc40>5%</color>. Increase damage by <color=#fffc40>0.5%</color> more for each 1% of HP lost, up to <color=#fffc40>40%</color> for 1 turn.
 <color=#FF423F>Support Enhancer-N9</color>: When a <color=#fffc40>Combat Drone</color> attacks, increase party's damage by <color=#fffc40>2.5%</color>. Increase damage by <color=#fffc40>7.5%</color> more for each <color=#fffc40>Combat Drone</color>. Lasts for 1 turn.
-<color=#FF423F>Algorithm Booster-F1</color>: When a <color=#fffc40>Combat Drone</color> attacks, decrease Elucidator allies' cooldown time by <color=#fffc40>1</color> turn.
 <color=#FF423F>Energy Circuit Amp-F2</color>: Each time a <color=#fffc40>Combat Drone</color>'s attack hits an enemy, increase party's damage by<color=#fffc40>8%</color>, up to <color=#fffc40>32%</color>. Lasts for 1 turn.
 <color=#FF423F>Electromagnetic Pulse-F3</color>: When a <color=#fffc40>Combat Drone</color> attacks, 1 random enemy will be Marked. When a Marked enemy is attacked, spend Mark to deal a guaranteed critical hit.
 Spend all Legion stacks to summon reinforcements.
@@ -2581,7 +2516,6 @@ During battle, increase elemental ailment resistance. Shadows may be affected by
 Grant a buff to a random target. When a foe's Defense is debuffed, remove its buffs and increase its damage taken.
 Grant a buff to a random target.
 When a foe's Defense is debuffed, remove its buffs and increase its damage taken.
-Increase critical rate by %s.
 Increase critical damage by %s.
 Recover %s HP after defeating a Shocked enemy.
 When a foe is dealt a critical hit, decrease its Defense by %s.
@@ -3058,7 +2992,6 @@ Gun dmg to 1 foe (%s Atk). On critical, remove 1 more Down Point.
 Grant shield to party (%s Atk + %s, 2 turns). When shielded allies take dmg, %s chance to inflict Windswept on attacker.
 Restore party's HP (%s Atk + %s). If ally's HP is below 50%, increase healing 25%. Restore 4 SP to party.
 Fire dmg to all foes (%s Atk). Inflict Burn on main target.
-Trumpeter
 Ice dmg to all foes (%s% Atk). %s% chance to inflict Freeze on main target (2 turns).
 Elec dmg to all foes (%s Atk). At 3 Thunder Lord's Majesty, 80% chance to inflict Shock on all foes (2 turns).
 Grant shield to party (%s Atk + %s). While shielded, increase Def 30% (2 turns).
@@ -3646,7 +3579,6 @@ Shield Multiplier,Shield Base Value
 Atk Increase Cap,Additional Atk Increase
 Highlight Atk Increase Multiplier Cap
 Atk Increase Cap,Status Ailment Accuracy Increase
-SP Recovery
 Dmg Increase,Atk Increase Cap
 Skill Multiplier,Sacred Flame Dmg Multiplier
 Highlight Dmg Taken Increase,Highlight Dmg
@@ -3729,11 +3661,7 @@ tdxct-[Skill_levelUpList_121252]
 tdxct-[Skill_levelUpList_121254]
 Fire Dmg
 SP Drain
-Accuracy
 Skill Cost
-HP Recovery
-Damage
-Shield
 Skill Multiplier,Healing Multiplier
 Skill Multiplier,Chance
 Chance,Skill Multiplier
@@ -3755,8 +3683,6 @@ Highlight Dmg Dealt Increase
 8.3%,16.7%,25.0%,33.3%,41.7%,50.0%,58.3%,66.7%,75.0%
 8.3%,16.7%,25%,33.3%,41.7%,50%,58.3%,66.7%,75%
 6.3%,12.5%,18.8%,25.0%,31.3%,37.5%,43.8%,50.0%,54.4%,58.8%,62.5%
-=== name ===
-Melee Attack
 Pirate Tactics
 Thunderbolt
 God Hand Burst
@@ -3770,7 +3696,6 @@ Riding the Storm
 Raise the Sails!
 Comeback Kid
 1 MORE
-Highlight
 Ranged Attack
 tnxotb-[Skill_name_101191]
 Missile Whirlwind
@@ -3778,13 +3703,11 @@ Gentle Fist
 Healing Breeze
 Masked Gentleman
 Morgana's Method
-Morgana's Favor
 Marvelous Pride
 Black Cat Charm
 Grooming
 Aftercare
 Airplane Ears Mode
-Look, Treasure!
 tnxotb-[Skill_name_102191]
 Owl Green
 Owl Fire
@@ -3799,9 +3722,6 @@ Sheltering Wings of Light
 Preening
 Midnight Bonfire
 Icicle Hatchet
-Smash Hit
-Icy Defense
-Daunting Firepower
 For Your Benefit
 Wild Runner
 Steely Endurance
@@ -3811,7 +3731,6 @@ A Man's Back
 Masterful Cutting Skills
 Robbing and Smuggling
 Atomic Smash
-Justice Barrier
 Ultima Booster
 Energy Recharge
 Full Power: Start!
@@ -3822,14 +3741,9 @@ Serious Action
 Hero's Journey Home
 Self-Discipline
 Turning the Tables
-Pulsating Rhythm
-Club Okyann
 Intermission
-Retro Dance Number
 Toe-Tapping
-Outdated Slang
 Fever Time
-Finish with a Smile
 Disco Ball
 Pop and Show It
 Queen of the Stage
@@ -3838,22 +3752,15 @@ Hey, DJ!
 Enhance Status
 Ring of Fire
 Crimson Summon
-Cleansing Flame
-Uplifting Embers
-Hot to the Touch
 Make Sparks Fly
 Uncontrollable Power
-Flaming Phenomenon
 Repent, Sinner
 Untold Story
 Exorcism
 Contagious Passion
 tnxotb-[Skill_name_112191]
 Sword of Condemnation
-Sacral Glow
-Absolute Judgment
 Cross-Examination
-Urgent Matter
 Scales of Fairness
 Legal Proceedings
 Law-Abiding Spirit
@@ -3886,15 +3793,9 @@ tnxotb-[Skill_name_115144]
 tnxotb-[Skill_name_115145]
 tnxotb-[Skill_name_115146]
 Inspiration
-Creation
 Ink Dragon's Roar
 Insanity: Ink Dragon's Roar
-Frozen Presence
 Bone-Chilling Cold
-Keen Eye
-Painter's Focus
-Artist's Intuition
-Natural Talent
 Both Beauty and Vice
 A Breaktaking Sight
 Still Life
@@ -3920,7 +3821,6 @@ Absurd Comedy
 Tragicomedy of Love
 The Other Prison
 This Beautiful Woman
-Fishing Pond Master
 Flight and Conflict
 Passion for Creation
 Scream from the Soul
@@ -3928,26 +3828,17 @@ Throes of Creation
 Life Advice
 Falling Sun
 Trifire
-Crimson Rose
 Rising Tension
 Carrot and Stick
-Passion
-Seguidilla
 Marriage of Flames
 Beautiful Sins
 Hearts on Fire
 Makeup
 Time for Punishment
 Sanctioned Drift
-President's Prowess
 Nuclear Fury
 Thermonuclear Fury
-Crash Out
-Chief Strategist
-Unshakeable Will
-Enraged Usurper
 Hot and Cold
-Full Throttle
 Fist of the Phantom Star
 Feel My Wrath
 Fist of Justice!
@@ -3957,20 +3848,13 @@ Winter Storm
 Durandal of Ice
 Frozen in Time
 State of Selflessness
-Camel Spin
-Ice Princess
 Heart of Ice
 Resilience
 Axel Jump
 Opening Ceremony
 Guardian of Life
 Nurse's Light
-Healing Grace
-Compassionate Cure
-Health Comes First
-Peace of Mind
 Nurse's Oath
-Angel in White
 Clinical Care
 Practical Care
 Nursing Practice
@@ -3988,22 +3872,17 @@ Fearsome Vines
 Cake Bomb
 Capricious Nightmare
 tdxct-[Skill_name_125163]
-Extra Action
 Trickster's Plunder
 Phantom Omen
 Ars\xe8ne's Chains
 Resistance
 Adverse Resolve
 Rebellion Resurgence
-Calling Card
 Meditate
 Secret Maneuvers
 Highway Robbery
 Moonlit Evening
 Merciless Pursuit
-Little Mermaid's Song
-Poseidon's Blessing
-Tide of Dreams
 Whispering Waves
 I'll Protect You!
 Guardian of the Sea
@@ -4041,22 +3920,18 @@ Cheerful and Considerate
 Extra Run
 Past Dreams
 Key to Victory
-Underworld Ferry
 Flowers of Naihe
 Lion Dance of Oblivion
 Kung Fu Mastery
 Up to Chance
 Goddess of Oblivion
 Road to Rebirth
-Soul Reaper
 Beyond the Bend
 Training Results
 Meng Po's Medicine
 Wisps of Crimson
 Psyche Melody
 Cheering You On
-Spirit's Lullaby
-Esprit de Corps
 Insult to Injury
 Self-Renewal
 Good Save
@@ -4064,11 +3939,8 @@ Shift Change
 Give It Your All
 Lingering Lullaby
 Daily Challenge
-Celebratory Tone
-Jolly Cooperation
 Electric Bomb
 Meta Dynamite
-Sparky Surprise
 Virtual Landowner
 Let's Go Together
 Payappa
@@ -4085,12 +3957,9 @@ Haruna's Trait 4
 Haruna's Trait 5
 Haruna's Trait 6
 Surprise Squad
-Ready for Adventure
-Courageous Campaign
 Let's Hold Hands
 Safety in Numbers
 Off to Treasure Hunt
-Let's Go, Everyone!
 Here to Help
 Still Growing
 Give It to Them
@@ -4104,15 +3973,9 @@ tnxotb-[Skill_name_130106]
 tnxotb-[Skill_name_130107]
 tnxotb-[Skill_name_130108]
 tnxotb-[Skill_name_130109]
-Diving Ray
 Blunt Edge
-Bullseye Bomber
-Eagle Eye
-Perfect Timing
-Artisanal Technique
 Grandmotherly Care
 From Now On
-Jazz Session
 The Older, the Wiser
 Veteran Player
 Not Like This
@@ -4123,17 +3986,12 @@ tnxotb-[Skill_name_131105]
 tnxotb-[Skill_name_131106]
 tnxotb-[Skill_name_131107]
 tnxotb-[Skill_name_131108]
-Tempting Build
-Charming Stare
-Energy Shake
 Cocktail Party
 Taking Orders
 Expert Bartender
 Mojito
 Martini
-Screwdriver
 Old Fashioned
-Bloody Mary
 XYZ
 tnxotb-[Skill_name_132102]
 tnxotb-[Skill_name_132103]
@@ -4145,15 +4003,9 @@ tnxotb-[Skill_name_132108]
 Distortion
 Unison Notes
 Catchy Hook
-Backing Track
 Chorus Effect
-Opening Act
-Hard Rock
 Crescendo Shout
 Amplifier
-Spotlight
-Shredding
-Spirit of Rock
 tnxotb-[Skill_name_105102]
 tnxotb-[Skill_name_105103]
 tnxotb-[Skill_name_105104]
@@ -4161,11 +4013,7 @@ tnxotb-[Skill_name_105105]
 tnxotb-[Skill_name_105106]
 tnxotb-[Skill_name_105107]
 tnxotb-[Skill_name_105108]
-Scattered Plum Blossoms
-Dreams in the Mist
 Verngale Petals
-Springtime Tempest
-Plum Blossom Glory
 Snowfall Fragrance
 Spring Squall
 Ethereal Scent
@@ -4174,17 +4022,12 @@ One Thousand Blossoms
 Sweet Yet Sour
 Majesty
 Shining Sun & Sparkling Sea
-Wave-Kissed Feet
 Golden Glow
-Sails on the Horizon
 Sea Breeze
-Sun Smiling in the Sky
 Summer Stroll
 Refreshing Summer
 Relaxing Vacation
 Wave Chaser
-Heat Wave
-Shade
 Launched Fireworks
 Blooming Light
 Reflections of Fireworks
@@ -4193,19 +4036,12 @@ Melting Uncertainty
 Stronger Connection
 If Tonight Could Never End
 Level 1 Buffs
-Dazzling Fireworks
 Sparkling Blooms
 How About Some Refreshments
-Make Yourself at Home
-Midnight Memory
-Glorious
-Eye-Catching
-Arrival of Promised Light
 Light in Your Eyes
 Summer Isn't Over
 Wishes Under Fireworks
 May the Dream Never End
-Bringing the Love
 tdxct-[Skill_name_133111]
 tdxct-[Skill_name_133112]
 tdxct-[Skill_name_133113]
@@ -4245,7 +4081,6 @@ tdxct-[Skill_name_121246]
 Agi
 Agilao
 Agidyne
-Inferno
 Maragi
 Maragion
 Maragidyne
@@ -4293,7 +4128,6 @@ Cosmic Flare
 Kouha
 Kouga
 Kougaon
-Divine Judgment
 Makouha
 Makouga
 Makougaon
@@ -4322,17 +4156,14 @@ Black Viper
 Megidola
 Megidolaon
 Morning Star
-Life Drain
 Life Leech
 Spirit Drain
 Spirit Leech
-Lunge
 Cleave
 Power Slash
 Cornered Fang
 Assault Dive
 Megaton Raid
-Sword Dance
 Brave Blade
 God's Hand
 Rising Slash
@@ -4381,12 +4212,9 @@ Dormina
 Lullaby
 Makajama
 Makajamaon
-Taunt
 Wage War
 Fire Wall
-Ice Wall
 Elec Wall
-Wind Wall
 Psy Wall
 Nuke Wall
 Fire Break+
@@ -4395,27 +4223,8 @@ Elec Break+
 Wind Break+
 Psy Break+
 Nuke Break
-Fire Break
-Ice Break
-Elec Break
-Wind Break
 Dekaja
 Dekunda
-Tarukaja
-Matarukaja
-Sukukaja
-Masukukaja
-Rakukaja
-Marakukaja
-Heat Riser
-Debilitate
-Rebellion
-Revolution
-Rakunda
-Tarunda
-Concentrate
-Marakunda
-Matarunda
 Dia
 Diarama
 Diarahan
@@ -4451,7 +4260,6 @@ Flames of Hope
 Spirit Healing
 Imaginal Healing
 Transcendent Healing
-Play
 Spirit Prayer
 Imaginal Prayer
 Transcendent Prayer
@@ -4560,10 +4368,6 @@ Battle Acumen I
 Battle Acumen II
 Battle Acumen III
 Battle Acumen IV
-Attack Master I
-Attack Master II
-Attack Master III
-Attack Master IV
 Auto-Mataru I
 Auto-Mataru II
 Auto-Mataru III
@@ -4624,10 +4428,6 @@ Raindrop Barrier I
 Raindrop Barrier II
 Raindrop Barrier III
 Raindrop Barrier IV
-Defense Master I
-Defense Master II
-Defense Master III
-Defense Master IV
 Auto-Maraku I
 Auto-Maraku II
 Auto-Maraku III
@@ -4898,12 +4698,9 @@ Destiny: No. 6
 Support: 2 Set
 Support: 4 Set
 Scarlet Tide
-Purity: No. 1
-Purity: No. 2
 Purity: No. 3
 Purity: No. 4
 Purity: No. 5
-Purity: No. 6
 Purity: 2 Set
 Purity: 4 Set
 Murky: No. 1
@@ -4915,7 +4712,6 @@ Murky: No. 6
 Murky: 2 Set
 Murky: 4 Set
 Starfall
-Sparkling Stage
 Starry: No. 1
 Starry: No. 2
 Starry: No. 3
@@ -4938,36 +4734,16 @@ Ritual: No. 3
 Ritual: No. 4
 Ritual: No. 5
 Ritual: No. 6
-Ritual: 2 Set
-Ritual: 4 Set
 Resound: No. 1
 Resound: No. 2
 Resound: No. 3
 Resound: No. 4
 Resound: No. 5
 Resound: No. 6
-Resound: 2 Set
-Resound: 4 Set
-Bankrupt Checkbook
-Stolen Painting
 Pick-Me-Up
-Red Record
-Cursed Plushie
-Red Capsule
-Blue Capsule
-Transformation Item
-Creepy Dice
-Tactical Goggles
 Co-Op Controller
 Plastic Peashooter
-Trading Card #1
-Trading Card #2
-Trading Card #3
-Trading Card #4
 Stamp Card
-Hero's Sword
-Hero's Shield
-Hero's Crest
 Alliance: No. 1
 Alliance: No. 2
 Alliance: No. 3
@@ -5076,7 +4852,6 @@ Dizzy Needle
 Electric Dance
 Bonfire Festival
 Raging Malediction
-Hunter's Instincts
 Power of Faith
 Spirit Binding
 Underworld Judgment
@@ -5088,13 +4863,11 @@ Mother Goddess' Chant
 Spirit Wave
 Spike
 Salvo
-Wind Barrier
 Reassuring Embrace
 Red-Hot
 Bewitching Sound
 Raging Blizzard
 Thunder Caller
-Snow King's Protection
 Imperial Purge
 Shining Salvation
 Abyssal Flame
@@ -5130,7 +4903,6 @@ Anubis' Trait 6
 Arbiter of Souls
 Arbiter of Souls I
 Arbiter of Souls II
-Ignition
 Ignition I
 Ignition II
 Spiritual Protection
@@ -5161,41 +4933,31 @@ Schemes of a Wicked God
 Schemes of a Wicked God I
 Schemes of a Wicked God II
 Schemes of a Wicked God III
-Seth
 Guidance of Fate
 Guidance of Fate I
 Guidance of Fate II
 Guidance of Fate III
-Norn
 Fae Revelry
 Fae Revelry I
 Fae Revelry II
 Fae Revelry III
-Titania
 Devil's Deliquescence
 Devil's Deliquescence I
 Devil's Deliquescence II
 Devil's Deliquescence III
-Baphomet
 Horn of Calamity
 Horn of Calamity I
 Horn of Calamity II
 Horn of Calamity III
-Verdict of Justice
 Verdict of Justice I
 Verdict of Justice II
 Verdict of Justice III
-Sacrificial Screams
 Sacrificial Screams I
 Sacrificial Screams II
 Sacrificial Screams III
-Yamata-no-Orochi
-Thunder Lord's Majesty
 Thunder Lord's Majesty I
 Thunder Lord's Majesty II
 Thunder Lord's Majesty III
-Thor
-Tower of Purification
 Tower of Purification I
 Tower of Purification II
 Tower of Purification III
@@ -5203,12 +4965,10 @@ Flame of Corruption
 Flame of Corruption I
 Flame of Corruption II
 Flame of Corruption III
-Belial
 Angel's Command
 Angel's Command I
 Angel's Command II
 Angel's Command III
-Dominion
 Lotus Dance
 Lotus Dance I
 Lotus Dance II
@@ -5227,7 +4987,6 @@ Undying Curse I
 Undying Curse II
 Undying Curse III
 Undying Curse IV
-Alice
 Feast of Fools
 Feast of Fools I
 Gratitude in a Bottle
@@ -5401,7 +5160,6 @@ Guardian God's Kingship II
 Curse of Misfortune
 Curse of Misfortune I
 Curse of Misfortune II
-Rangda
 Storm of Shadows
 Storm of Shadows I
 Storm of Shadows II
@@ -5414,7 +5172,6 @@ Demonic Eyes II
 Sweet Dreams
 Sweet Dreams I
 Sweet Dreams II
-Eternal Curse
 Eternal Curse I
 Eternal Curse II
 Rituals of Madness
@@ -5458,7 +5215,6 @@ Mother Earth's Support
 Mother Earth's Support I
 Mother Earth's Support II
 Mother Earth's Support III
-Parvati
 Shadow Contract
 Shadow Contract I
 Shadow Contract II
@@ -5479,16 +5235,13 @@ Fortune's Protection
 Fortune's Protection I
 Fortune's Protection II
 Fortune's Protection III
-Ganesha
 Wrathful Thunder I
 Wrathful Thunder II
 Wrathful Thunder III
-Barong
 Immortal Bird's Gaze
 Immortal Bird's Gaze I
 Immortal Bird's Gaze II
 Immortal Bird's Gaze III
-Garuda
 Windstorm Wings
 Windstorm Wings I
 Windstorm Wings II
@@ -5497,7 +5250,6 @@ Dragon's Protection
 Dragon's Protection I
 Dragon's Protection II
 Dragon's Protection III
-Seiryu
 Cursed Bloodline
 Cursed Bloodline I
 Cursed Bloodline II
@@ -5510,7 +5262,6 @@ Feast of the Frenzied
 Feast of the Frenzied I
 Feast of the Frenzied II
 Feast of the Frenzied III
-Dionysus
 Tundra's Judgment
 Tundra's Judgment I
 Tundra's Judgment II
@@ -5530,8 +5281,6 @@ Greater Reform
 Divine Grace
 Null Elemental Ailments
 Broken Curses
-Busting Out Pages
-Null Spiritual Ailments
 Gabriel's Trait 0
 Gabriel's Trait 1
 Gabriel's Trait 3
@@ -5545,8 +5294,6 @@ Seth's Trait 0
 Seth's Trait 1
 Seth's Trait 3
 Seth's Trait 6
-Wind of Nirvana
-Goodwill to All
 Goodwill to All I
 Goodwill to All II
 Goodwill to All III
@@ -5570,7 +5317,6 @@ Arahabaki's Trait 3
 Arahabaki's Trait 6
 Makarakarn
 Scrap Iron Barrier
-Substitute
 Hell Biker Trait 0
 Hell Biker Trait 3
 Hell Biker Trait 6
@@ -5628,7 +5374,6 @@ Curse Boost: Superior
 Curse Boost: Ascended
 Curse Boost: Ultimate
 Verdict of Agony
-Deathly Silence
 Deathly Silence I
 Deathly Silence II
 Deathly Silence III
@@ -5645,44 +5390,25 @@ Victory Foretold I
 Victory Foretold II
 Victory Foretold III
 Dance of Destruction
-Karmic Alteration
 Karmic Alteration I
 Karmic Alteration II
 Karmic Alteration III
 Hellfire
-Overtime Order
-Performance Evaluation
-Team-Building Exercise
-Corporate Culture
 Selfless Devotion
-Work Order
-Sacrifice Order
-Psychokinesis Weakness
-Nuclear Weakness
-Azure Storm
-Wind Weakness
-Ice Weakness
 Inflict Weakness
-Royal Blessing
 Royal Punishment
 Blessed Power
 Byakko's Claw
 Byakko's Fang
-Prey
-Recovery Block
 Choose Prey
 Devour
 Defense Form
 Attack Form
 Horn of Pestilence
-Horn of War
 Horn of Famine
 Horn of Death
-Horn of Ruin
-Horn of the End
 Horseman's Parry
 Beast King's Strike
-Beast King's Majesty
 Foe's Standard Attack
 Foe's Standard Brainwash
 Eligor's Normal Attack
@@ -5699,19 +5425,13 @@ Golden Knife
 Tongue Whip
 Gold Medal Spike
 Stand by for Self-Destruct!
-Counter
 Boom Boom Pow!
 Unstable Shield
 Resist
-Incubate
-Linked Attack
-Comeback
 Unbreakable Shield
 Heavy Blow
 Dark Whisper
 Strike Back
-Thinking
-Revive
 Hypersonic Slider
 Triple Hit Streak
 Gale Force Forkball
@@ -5720,48 +5440,26 @@ Lustful Drive Ball
 All Hail Kiuchi-sama!
 Unbeatable Kiuchi-sama!
 Fanatic's Fastball
-Black Tortoiseshell
 Genbu's Rage
 King's Protection
-Royal Aid
-Royal Favor
 Royal Conquest
 Royal Decree
-Royal Authority
 Royal Healing
-Royal Domain
-Nue's Power
 True Hysterical Slap
 True Oni-Kagura
 True Wage War
 Rage!
-Counterattack Stance
 Energy Blast
 Nuclear Designation
 Barrier
-Dizzy
 Warning!
-Absolute Counter
-Physical Counter
-Magic Counter
-Hyakki Yagyo
-Oni Slayer
 (Empty line)
 Invalidate
 Karma
 Decarabia Beam
-Power of Courage
-Fairy's Blessing
 Fairy's Dance
-Gift of the Grove
-Fairy's Protection
 Estocada
-Master Step
-Attention
 Group Taunt
-Plague Curse
-Deadly Hex
-Judgement
 Purify
 Spectator
 Spirit Surge
@@ -5769,21 +5467,7 @@ Empty Echoes
 Cure Pestilence
 Preparing Escape
 Evil Plot
-Sword that Defends the Nation
-Growth of all Things
-Eye of Heaven
-Parasol of Chaos
 Power of the Heavenly Kings
-Mark
-Divine Protection
-Full Moon's Blessing
-Deep Sleep
-Sunrise
-Weakness Protection
-SP Cost
-Progress Up
-Abyssal Gaze
-Break
 Mediate Death
 Mediate Life
 Mediate Attack
@@ -5794,55 +5478,37 @@ Bond of Death
 Bond of Life
 Drain
 Training!
-Dance of Healing
-Dance of Spears
 tnxotb-[Skill_name_2393]
 tnxotb-[Skill_name_2394]
-Dance of Items
-Ame-no-Uzume
-Kagura: 1st Style
-Kagura: 2nd Style
-Kagura: 3rd Style
-Kagura: 4th Style
 Shichi-Go-San Bell
 Sword Defending the People
-Down
 Training
 Soul Break
 Weakened Phase
 Weakened Phase End
-Eight Beads of Virtue
 Divine Spear of Baal
 Preparing Activation
 Paravani's Strike
 Golden Fork
-Crown's Strength
 Crown's Healing
 Flame Dance
 Silent Snowscape
 Thunderclap
 Whirlwind
 Dust Flurry
-Watchful Eye
-Boost
 Bite
 Blind Bite
-Repair
 Boom!
-Heroic Strength
 Wrench Attack
 Wrathful Impulse
 Short Temper
 Educational Guidance
-Self-Admonition
 Lightning Legs: Improved
 Frustration
-Exasperation
 Guidance of the Frenzied
 Wings of Fury
 Wild Roar
 Thunderous Rage
-Sanctuary
 Guard Recruitment
 Hypnotic Soundwave
 Heinous Exploitation
@@ -5865,7 +5531,6 @@ Rarity 2 Anubis Skill
 Summon Servant
 Rarity 3 Anubis Skill
 Hariti's Skills
-Mother's Love
 Hariti's Basic Skill
 Damage Cut
 Mother's Wrath
@@ -5873,10 +5538,8 @@ Advent of Judgment
 High Tide
 Ebb Tide
 White Pestilence
-Red War
 Black Famine
 Pale Death
-Chant
 Sokushin
 Nirvana
 Ascetic Discipline
@@ -5884,7 +5547,6 @@ Arrival of Calamity
 Original Mark of Calamity
 Ruinous Calamity
 Hateful Strike
-Physical
 Group Physical
 Sacred Blessing
 Summon
@@ -5894,27 +5556,15 @@ Eternal Binding
 Remedy Disease
 Holy Power
 Fight!
-Royal Forces
-Maintenance
-Zeal
 Moirai Binding
 Moirai Spinning
 Moirai Cutting
 Hundred Arms
-Arms of Strength
-Last Stand
-Blazing Viper
-Glaciating Viper
-Thundering Viper
-Whirling Viper
 Orochi's Fury
-Serpent's Poison
 Supercharge
 Finishing Slash
 Elemental Cascade
 Freidyne: Ultra
-Self-Destruct Bot
-Combat Drone
 Resolve Glitch
 Iron Fist
 Counterstrike
@@ -5928,9 +5578,7 @@ Legion's Purification
 Revenge Stance
 Taunt Attack
 Sharp Claws: Lock On
-Ferocious Lion
 Silent Dance
-Black Dance
 Monochrome Rondeau: Black
 Silent Strike
 White Dance
@@ -5938,7 +5586,6 @@ Monochrome Rondeau: White
 Eternal Rondeau: Black
 Eternal Rondeau: White
 Twilight of the Gods
-Berserk
 Blazing Apocalypse
 Vanity's Strike
 Assassin's Skirmish
@@ -5948,7 +5595,6 @@ Secret Art: Awe of Vanity
 Star's Cinematic Strike
 Ultimate: Clean Sweep
 Muto-Ryu: Raging Fury
-Attack Boost
 Time for Seconds
 Scathing Review: Flash
 Infinite Reversal
@@ -5962,7 +5608,6 @@ Targeting
 Fiercely Sharp Student
 Power Bank
 Extreme Self-Care
-Lock On
 Directional Slash
 Entry Effect
 Fell Flame
@@ -5976,7 +5621,6 @@ Wind Boost
 Wind Amp
 Nuke Boost
 Nuke Amp
-Trial of the Astrolabe
 Psy Boost
 Psy Amp
 Bless Boost
@@ -5992,21 +5636,13 @@ Ambient Aid
 Maha Boost
 Mudo Boost
 Resist Sleep
-Null Sleep
 Resist Forget
-Null Forget
 Resist Dizzy
-Null Dizzy
 Resist Confuse
-Null Confuse
 Resist Fear
-Null Fear
 Resist Rage
-Null Rage
 Resist Despair
-Null Despair
 Resist Brainwash
-Null Brainwash
 Fortify Spirit
 Unshaken Will
 Fast Heal
@@ -6031,66 +5667,25 @@ Victory Cry
 Apt Pupil
 Coach
 Trigger Happy
-Endure
 Motivation
 Firm Stance
 Arms Master
 Spell Master
 Enduring Soul
-Love
-Power
-Abundance
-Peace
-Valor
-Strife
-Completion
-Luxury
-Victory
-Interference
-Science
-Virtue
-Oppression
-Pleasure
-Works
-Success
-Defeat
-Worry
-Reconciliation
 Meditation & Luxury
-Growth & Luxury
-Trust & Completion
 Growth & Completion
-Acceptance & Peace
-Faith & Peace
-Harmony & Victory
 Growth & Power
 Harmony & Power
-Trust & Power
 Awareness & Science
-Harmony & Science
-Acceptance & Strife
 Departure & Dominion
-Awareness & Dominion
-Trust & Abundance
-Departure & Abundance
 Meditation & Valor
 Acceptance & Love
-Meditation & Love
 Faith & Love
-Awareness & Interference
-Departure & Interference
-Determination & Virtue
-Wisdom & Oppression
-Integrity & Pleasure
-Wisdom & Pleasure
-Integrity & Responsibility
-Determination & Duty
 Wisdom & Virtue
 Freedom & Success
 Freedom & Defeat
 Creation & Worry
 Creation & Reconciliation
-First-Aid Medicine
 NB[SK][002]
 NB[SK][003]
 NB[SK][004]
@@ -6098,158 +5693,11 @@ NB[SK][005]
 NB[SK][006]
 NB[SK][007]
 NB[SK][008]
-Limelight
 Super Spotlight
-Kajaclear-R
-Kundaclear-R
-Recov-R S
-Recov-R M
-Recov-R L
-Takemedic
-Nohar-M
-Relax Gel
-Alert Capsule
-Takemedic-All
-Takemedic-All V
-Takemedic-All Z
-Take-Minakata X
-Stamina Kit S
-Stamina Kit M
-Stamina Kit L
-Stamina Kit X
-Destructive Firecracker
-Elemental Firecracker
-Mystery Firecracker
-Vengeance Charm
-Triple-Sealed Charm
-Gale Charm
-Blaze Charm
-Frost Charm
-Storm Charm
-Nightmare Charm
-Atomic Charm
-Golden Fortune Charm
-Devilish Charm
-Bludgeoning Bell
-Bullet Bell
-Windswept Bell
-Burning Bell
-Icy Bell
-Shocking Bell
-Illusion Bell
-Thermodynamic Bell
-Prayer Bell
-Disenchant Bell
-Manju
-Curry with Rice
-Sukiyaki
-Matcha Ice Cream
-Croquette
-Eel Rice Bowl
-Tricolored Dango
-Tempura
-Almond Jelly
-Caramel Flan
-Omelette Rice
-Seafood Salad
-Winter Melon Tea
-Mouthwatering Chicken
-Chinese Stir-Fry
-Sweet Kinako Mochi
-Sweet and Sour Fish
-Spicy Boiled Fish
-Milk Pudding
-Gyoza
-Lychee Shrimp Balls
-Sticky Rice Balls
-Cantonese Char Siu
-Beef Stew
-Spring Rolls
-Youlinji
-Mapo Tofu
-Shiruko
-Chinese Medicinal Soup
-Shrimp Stir-Fry
-Mung Bean Milk
-Vinegar Tofu
-Grilled Rockfish
-Stewed Chicken
-Seared Beef
-Meat Pie
-Refreshing Tonic
-Mellow Float
-Matcha Soda
-Cream Soda
-Superb Manju
-Superb Curry with Rice
-Superb Sukiyaki
-Superb Matcha Ice Cream
-Superb Croquette
-Superb Eel Rice Bowl
-Superb Tricolored Dango
-Superb Tempura
-Superb Almond Jelly
-Superb Flan
-Superb Omelette Rice
-Superb Seafood Salad
-Superb Winter Melon Tea
-Superb Mouthwatering Chicken
-Superb Chinese Stir-Fry
-Superb Sweet Kinako Mochi
-Superb Sweet and Sour Fish
-Superb Spicy Boiled Fish
-Superb Milk Pudding
-Superb Gyoza
 Superb Lychee Shrimp Balls
-Superb Sticky Rice Balls
 Superb Cantonese Char Siu
-Superb Beef Stew
-Superb Spring Rolls
-Superb Youlinji
-Superb Mapo Tofu
-Superb Shiruko
-Superb Chinese Medicinal Soup
-Superb Shrimp Stir-Fry
-Superb Mung Bean Milk
-Superb Vinegar Tofu
-Superb Grilled Rockfish
-Superb Stewed Chicken
-Superb Seared Beef
-Superb Meat Pie
-Special Refreshing Tonic
-Special Mellow Float
-Special Matcha Soda
-Special Cream Soda
-Club Soda
-Mineral Water
-Yogurt Soda
-Strawberry Flan
-Cr\xeape
-Ice Cream Parfait
-Bluebird Drink
-OT Premium Probiotic
-Peach Water
-Orange Soda
-Fruit Juice
-Sparkling Lemon Water
-Tiger Tea
-Plum Juice
-Melon Smoothie
-Apple Juice
-Vegetable Juice
-Luxury Barley Tea
-Dark Green Medley
-Pickle Ramune
-Salted Lemonade
-Premium Shake
-Premium Probiotic
-Vanilla Ice Cream
-Dr. Salt NEO
-Muscle Tea
-Nastea
 Counterattack
 Vengeful Rage
-Guard
 Discipline
 Thief in the Night
 All Mine!
@@ -6267,13 +5715,10 @@ Superalloy
 Healing Warmth
 Blaze of Rebirth
 Plume of Knowledge
-Meditation
 Holy Judgment
 Rival of Sin
-Chain of Salvation
 Razor Sharp
 Binding Hex
-Salt in the Wound
 \u26055 Weapon Assist
 Unending Rebellion
 tdxct-[Skill_name_51721]
@@ -6281,7 +5726,6 @@ tdxct-[Skill_name_51731]
 tdxct-[Skill_name_51741]
 \u26054 Weapon Assist
 tdxct-[Skill_name_51751]
-Justice
 Fortitude
 Will of Extinction
 5\u2605 Weapon
@@ -6296,7 +5740,6 @@ Explosive Outburst
 Arm of the Soul
 Heart of the Blade
 Enlightened Strike
-Chilling Display
 Sworn Oath
 Sleek Performance
 Spirit of Chivalry
@@ -6307,26 +5750,18 @@ Succession of Will
 Hero's Aura
 Know Thyself
 Absolute Zero
-Glacial Gift
 Eternal Wintertide
 Solemnity
-Overloader
 Shock of Atonement
-Thunderstorm
 Meteoric Iron
 Ice Breaker
 Sturdy Blade
-Tundra's Eminence
-Head-turning
 Object of Desire
 16 Chord Ringtone
 On Trend
 Righteousness
 Heated Fervor
-Hallowed Fragment
 Sonic Waves
-Comprehensive Scan
-Echo Barrier
 Call of the Deep
 tdxct-[Skill_name_52921]
 tdxct-[Skill_name_52931]
@@ -6338,10 +5773,6 @@ Upward Shift
 4\u2605 Weapon
 Corroding Lava
 Protecting Light
-Power of Creation
-Overboost
-Holy Resonance
-Eye of the Abyss
 Unbending
 Amnesia
 Battle Preparations
@@ -6370,21 +5801,11 @@ Total Coverage
 Hippocratic Oath
 Snapped in Twain
 Quenched Edges
-Atomic Decay
-Devastating Impact
 A Small Pick-Me-Up
 Slightly Tipsy
-Seductive Kiss
-Moonlit Banquet
 Resounding Strings
-Euphoria
 Tempest of Rhythm
-Loyal Listener
 Blossom and Blade
-Scattered Flowers
-Lunar Reflection
-Shadowdance
-Flower Bud
 tdxct-[Skill_name_51057]
 tdxct-[Skill_name_53321]
 tdxct-[Skill_name_53331]
@@ -6404,16 +5825,11 @@ Multi-Target
 Hidden Ability
 Multi-Heal
 Single-Heal
-Support
 Buff
 Debuff
-Healing
-Control
-Special
 Passive,Single-Target
 Passive,Summon
 Group
-Status Ailment
 Passive,Buff
 Passive,Debuff
 Single-Target,Insta-kill

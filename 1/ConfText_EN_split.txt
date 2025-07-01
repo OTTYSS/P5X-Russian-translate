@@ -1,7 +1,6 @@
 === textContent ===
 %s\nAccount suspension ends in: %s
 Too far.
-This episode is not unlocked.
 Stage locked.
 Stage completed.
 Network error. Please log in again.\n(Error code: 1000010)
@@ -32,15 +31,9 @@ Do you want to quit the game?
 Valid until: %s/%s/%s, %s:%s
 Button Already Assigned
 Restore Defaults
-This button has already been assigned to another action. Change settings?
 Do you want to restore the default controls? (This resets all control settings.)
 Enhancement Tips
 Data size: %
-City Life
-Stage
-All
-Baseball
-Fishing
 Download Paused
 Downloading...
 No downloadable content available.
@@ -52,7 +45,6 @@ Can be charged from the official Persona5: The Phantom X website.
 *
 Claim Supplies
 %s day(s) remaining
-Unlocks at level %s.
 Free
 Do you want to order %s?
 Hm? Nothing to worry about, right?
@@ -104,37 +96,28 @@ Day 3: Get a set of Gold Power Revelation Cards
 Tell ya what, sweet pea\u2014I'll toss in a li'l somethin' extra,\nno matter which you buy!
 %s h
 What's that pumpkin? You wanna swap somethin'?
-Battle
 Turn start.
 Recover %s Action Points for City Life activities at 8 PM UTC daily.
 Account deletion has been canceled because you logged in during the grace period. Have fun!
 Turn end.
 Start Navigation
 %s (%s/%s)
-Get
 Cleared
 Rank Goals (%s/%s)
 End Navigation
 New messages: %s
-Not a Companio member.
 Tap the bottom left and select a contact\nto start a private chat.
 Tap to enter text.
-Too many messages. Please wait %s seconds.
 Invalid room number.
-Room full.
 Not found.
 Entered room %s (Players: %s).
-You are already in the room.
-No messages.
 No friends.
 No other members in Companio.
-Please join the Companio first.
 Select content to send.
 No content available.
 %s d ago
 You are now friends. Say hello!
 Channel opened. Say something to get things rolling!
-Like
 Copy
 Report
 Report Violation
@@ -142,7 +125,6 @@ The first badge will be displayed.
 Player
 Report Category
 Details
-Message
 50 characters max.
 Block
 No blocked players.
@@ -152,24 +134,16 @@ You cooperated with <color=#FFC000>%s</color>. Send a friend request?
 Unlocked at Synergy Rank %s with %s
 Unlock Hidden Ability %s
 Next Hidden Ability: Wonder Lv. %s
-Awareness
 Level Up Materials
 Level Up
 Hidden Ability Materials
-Unlock
 Awareness Materials
-Awakening
-Personas
 Basic Abilities
 Effects
-Melee Attack
-Ranged Attack
-Confirm
 Role Details
 About Attributes
 Recommended Party
 Party Characteristics
-Damage
 %s reached Hidden Ability level %s (%s/%s)
 Raise %s to level %s (%s/%s)
 Wonder will gain the attributes of his equipped Personas.
@@ -183,7 +157,6 @@ Stamina restored: %d
 If you abort the infiltration, you will lose all rewards obtained in the Palace. Are you sure you want to quit?
 Enemies are stronger when the security level is high, making battles more difficult.
 Left: Unlimited
-Clearing %s will unlock the episode.
 Mission failed.\nTry again after becoming stronger or use different tactics.
 Obtained Persona: %s
 Stage End
@@ -196,7 +169,6 @@ Please enter your message.
 %s name change cards left
 Characters: %s/%s
 City Life Day
-Companio
 Time Left: {0} d {1} h
 Expires in {0} h {1} min.
 Role
@@ -210,18 +182,12 @@ Required Level: %d
 <color=#FFFF00>%d</color> <color=#FFFF00>%s%s</color> required.
 Random Attribute
 Nothing equipped
-Material
 Star
 Star Level
-Set
 Remove
-Change
-Equip
 Enhance
 Overclock
 Forge
-Joker
-%s
 New Random Attribute
 Randomize Attribute
 Type Filter
@@ -233,8 +199,6 @@ Additional Attributes
 <color=#FFC000>Rarity is too high.</color>
 Some materials cannot be used due to EXP limitations. The following have been returned.
 Selected Materials
-Training
-,
 %s new Sub-Attributes added.
 Auto-enhance %s Sub-Attributes
 Required Level: <color=#FF423F>%d</color>
@@ -242,7 +206,6 @@ Weapon Level
 Weapon Rarity
 Forge Level
 Currently unavailable.
-Hidden Ability
 Do you want to enhance?
 Reach Hidden Ability level %d to further level up Phantom Thief.
 Melee attack 1 foe, dealing <color=#FF423F>physical damage</color>.
@@ -254,13 +217,6 @@ Level (Descending)
 Level (Ascending)
 Rarity (Descending)
 Rarity (Ascending)
-Attack
-Attack Percentage
-HP
-HP Percentage
-Defense
-Defense Percentage
-Critical Rate
 Set Filter
 Sort by Level
 Sort by Rarity
@@ -269,10 +225,8 @@ Sort by Set
 Card
 Currently equipped Personas are shown here.
 Your main party will be prioritized for main story stages.
-Party
 No Persona selected.
 Fish Caught: %s
-You can enhance even more once Wonder's level reaches %d.
 Unlocked at Synergy Rank %s with Merope
 Crafting currently unavailable.
 Locked
@@ -288,11 +242,9 @@ Common
 Rare
 To Be Unlocked
 <color=#f1b500>%s</color>\n caught at %s with %s. (Weather: %s Time: %s)
-Catch Log
 It seems you've reached Fishing Level %d %s.
 , \n<color=#f1b500>%s</color> unlocked
 2\u2605
-3\u2605
 Forge Details
 \u2022 Speed determines the turn order in battle.\n\u2022 A skill's accuracy changes based on the difference from the target's speed.
 \u2022 SP recovery is the amount of SP a Phantom Thief recovers each turn.\n\u2022 Pierce rate measures the amount of a foe's Defense is ignored when dealing damage.\n\u2022 Ailment accuracy is the rate of inflicting a debuff on a foe.\n\u2022 Ailment resistance is the rate of receiving debuffs.
@@ -302,8 +254,6 @@ Currently locked.
 [%s]
 Forge Effects
 Current Effect
-Back
-Another time.
 Draw 1 %s
 Draw 5 %s
 As per <color=#FF423F>%s</color>'s request, you've successfully exchanged your %s for their %s.
@@ -314,7 +264,6 @@ Do you want to trade %s for %s?
 <color=#FF423F>%s</color> accepted the trade request.
 You can cancel after %s.
 Claim %s and tap screen to close.
-h
 min
 Tradable: %s
 There is nothing to trade.
@@ -334,7 +283,6 @@ My Stock
 <color=#8F8D8D>Online %s d ago</color>
 My ID: %s
 %s has expired.
-Does not exist.
 Online
 %s (%s)
 No friend requests.
@@ -349,15 +297,9 @@ Draw: %s
 Time Left: %s d %s h %s min
 Contracts Left Today: %d
 Drawable Contracts Left Today: %d
-Phantom Thieves
-Weapons
 %s Exclusive
-Phantom Thief
-Weapon
 Left: %s/%s
 You can search messages from the past 90 days. (If the search results do not load, please try again later.)
-Contracts
-Supplies
 Shows only messages from the past %s days.
 Until 5\u2605: %s/%s
 , %s more until the next guaranteed 5\u2605!
@@ -377,7 +319,6 @@ Draw 300 Phantom Idol Contracts to receive one of the following <color=#EADE10>5
 Do you want to trade to receive the 5\u2605 Phantom Thief %s?
 Draw 50 Newcomer Contracts to receive one of the following <color=#EADE10>5\u2605 Phantom Thieves</color> of your choosing.
 Do you want to trade for the Persona {0}?
-Newcomer Contracts
 Select a Persona
 Contract Type
 Contract Time
@@ -394,20 +335,16 @@ Currently Selected Non-Most Wanted Weapons: {0}, {1}
 Replenish %d stamina at 8 PM UTC.
 Restores 1 stamina after %s.
 Complete recovery in: <color=#FFC000>%s</color>
-Progress
 %s/h
 Available Attempts: %s
 Current Points: %s
 <color=#FF423F>Victory</color>
 <color=#FF423F>Defeat</color>
-Victory
-Defeat
 Get rewards at each rank. Ranks reset every season.
 You can only receive achievement rewards once.
 Your end-of-season rewards will be sent to your inbox.
 You
 Season ends in: %s.
-The current season has ended, and the results are being calculated. Please wait a moment.
 This season has ended.
 Space
 Heavens
@@ -418,15 +355,9 @@ Times Cooked: %s
 Collected:
 Base Status
 Maximum level
-Food Effect
-Revelations
-Recipes
-Capsules
 Story Log
 Challenge Attempts: %d/%d
 You do not have enough stamina.
-Daily challenge limit reached.
-Dungeon is locked.
 This dungeon unlocks at level %d.
 This dungeon is %s. Cannot enter.
 Please clear %s first.
@@ -445,15 +376,11 @@ Not Set
 Att.
 Content Details
 You can use a 5\u2605 Welcome Idol Chance to get a 5\u2605 Phantom Thief.\n5\u2605 Phantom Thieves\nMorgana, Ryuji Sakamoto, Ann Takamaki, Yaoling Li, and Haruna Nishimori.
-Rarity
 Name
 Contract Rate
 Note:\nIf you obtain a Phantom Thief or Persona that you already have, it will be automatically exchanged for the items below based on its rarity and how many times you've obtained it.\n5\u2605 Phantom Thief\nObtained 2 - 7 Times\nThat Phantom Thief's Cognitite x1, Violet Cognigem x30\n\nObtained 8+ Times\nViolet Cognigem x75
 Held
 {NAME2}
-{PLAYER_NAME}
-Specified Commercial Transactions Act and Payment Services Act
-Shop
 Error: tnxotb-[Text_textContent_1027036]
 Amount Held
 Do you want to spend the following items to purchase %s?
@@ -483,7 +410,6 @@ Step Down
 Contribution History %s
 No Companios.
 Your level is not high enough.
-Join
 <color=#FF423F>%s</color> created a Companio.
 Stage %s
 Weekly limit %s
@@ -491,7 +417,6 @@ Weekly limit %s
 Rewards will be sent to your inbox after the week's results have been calculated.
 Current Stage
 (Max <color=#FF423F>%s</color>)
-Today
 This week
 Enter a Companio name or ID to search...
 Give your Companio a name.
@@ -509,29 +434,16 @@ Room %s
 Perm.
 Win within %s actions.
 Paused
-Battle Intel
 Continue Battle
 Stage Suspended
 Stage Information
 ContiNuE
 Hide information about Assist Phantom Thief sets.
-This skill cannot specify a target.
 Skip
 Show New
 No info
-Battle Settings
 Use Support Phantom Thief\nskills during auto-battle
-Auto-Select 1 MORE Target
-Change Personas in Auto-Battle
-Use Highlight in Auto-Battle
-Skip Animations
-Support Phantom Thieves Animations
-Highlight Animations
-Skip Normal Attacks
-Simplify Battle Results
-Camera Auto-Adjust
 Network error. Please log in again. (Error code: 1030067)
-Simplified Battle
 Description
 Traits
 Language Settings
@@ -545,8 +457,6 @@ Select a tutorial to view.
 Do you want to use %s to craft %s?
 Fusion will produce 1 <color=#FF423F>%s's Seal</color>.
 Present
-Hangouts
-???
 Tap here to chat.
 Tap here to reply.
 No replies.
@@ -578,7 +488,6 @@ Rank
 Lv.
 Maximum level reached
 Community Category
-This skill cannot be leveled up.
 Record
 This Persona has reached the max star level.
 Unlocks at level %s (%s/%s)
@@ -599,13 +508,10 @@ Unlocks at Hidden Ability level %d
 Can level up at Hidden Ability Lv. %d
 Can enhance at Thief Lv. %d
 This skill is already at max level.
-Obtain Skill
 Hidden Ability enhanced from level 1 to level 2
 Hidden Ability enhanced from level 2 to level 3
 Can level up at Persona Lv. %d
 Additional Skill
-1 MORE
-Highlight
 Current Effect:
 Next Level Effect:
 Max Awareness Level reached
@@ -616,9 +522,6 @@ Material rarity:
 Weapon rarity:
 Card rarity:
 Persona rarity:
-Beginner
-Intermediate
-Advanced
 Super Rare
 Ultra Rare
 Rainbow
@@ -674,8 +577,6 @@ Filter for skills available
 Unlock when Wonder reaches level %d
 <color=#FF423F>Unlockable</color>
 Do you want to reset your schema?
-Not enough schema points.
-The prerequisite skill has not been unlocked.
 Cannot exceed the level\nof the prerequisite skill.
 The total cost <size=46><color=#ffffff><sprite=2 tint=1></size></color> must be higher than %d.
 Requires %d <size=46><color=#ffffff><sprite=2 tint=1></size></color>.
@@ -701,16 +602,6 @@ Team A
 Saved screenshots: Installation folder\\ScreenShots
 Saved to album.
 Saved screenshots: %s
-Chapter 1
-Chapter 2
-Chapter 3
-Chapter 4
-Chapter 5
-Chapter 6
-Chapter 7
-Chapter 8
-Chapter 9
-Chapter 10
 Within %d ally actions
 %s Attack Score
 Weakness Score
@@ -727,8 +618,6 @@ Non-Wonder allies deal weakness/All-Out Attacks
 x %d
 A Team
 B Team
-Requires 4 party members
-Cancel
 Daily Life Menu
 Used in City Life activities.\n<color=#FFFC40>%s</color> points can be earned every day, up to <color=#FFFC40>%s</color> points.
 Unlocked skill <color=#FFFC40>%s</color>/%s
@@ -770,7 +659,6 @@ A total of %s %s have been spent. (Current: %s)
 Unlocks when %s is at Lv. %s (Currently Lv. %s)
 Unlocks when %s is at Rank %s
 Unlocks when you have the Phantom Thief %s
-Event has ended.
 Event not started.
 Countdown: <color=#FF423F>%s</color>s.
 Event ends soon.
@@ -780,7 +668,6 @@ Event Ends in:
 Copy the Exchange Code and go to the redemption site.
 Merchandise Exchange Code: %s
 Unlocked after %s.
-Unlocked after obtaining %s.
 Enter the shipping info for merchandise rewards.
 Do you want to trade %s x%s for %s x%s?
 Select a %s\u2605 Phantom Thief from the list.
@@ -798,8 +685,6 @@ Obtain %s
 Collect %s to earn %s!
 %s Event Ongoing!
 Cleared stage %s
-Combat Chip
-Robot
 Item Type 3
 Select %s %s to go to battle.
 Open (%s)
@@ -827,10 +712,7 @@ Unlocks in {0} h {1} min
 Unlocks after reaching {0}\u2605 in the previous stage
 Box
 Flavor
-Syrup
-D\xe9cor
 Unlocks in {0} min
-Boost
 Supplied Daily!\n<color=#FFEC00>MaraThon Energy x1</color>
 Supplied Daily!\n<color=#FFEC00>Coffee Aid x1</color>
 Total number of core items collected during the event\nShow as: Collected/Total
@@ -850,7 +732,6 @@ Sell at least {0}
 Have fewer than {0} customers leave
 {0}/{1} (Stage ends if {2} customers leave)
 Trigger {0} orders after closing
-Sales
 Drag Shaved Ice here to throw away
 Most Sales: {0}
 In Endless Mode, sell as many as you can until you fail.
@@ -862,7 +743,6 @@ It's recommended to play this event once you've completed {0} in the main story.
 Server is currently down. Please check the announcements.
 Failed to connect to network. Do you want to reconnect?
 Reconnect
-OK
 Network error. Please log in again.\n(Error code: 1045008)
 Failed to reconnect. Please check your connection.
 Network error. Please log in again.\n(Error code: 1045010)
@@ -898,22 +778,18 @@ Network error. Please check your connection.
 The network is unstable. Please check your connection.
 To Palace Entrance
 View Palace Info
-Proceed
 End Game
 Return to game
 Exploration Progress:
-Mementos
 %s more points to unlock
 %s more %s points to unlock
 Clear the goal %s to unlock
 Clear the theme %s to unlock
 %s left
 left this season
-Pass Experience Credit
 Weekly EXP Cap
 Purchase to reach level %d and obtain the rewards below.
 Purchase Tier
-Purchase Pass
 Special Pass
 Phantom Pass Level Up
 Immediately earn the following rewards
@@ -939,17 +815,11 @@ Progress: %d
 Reclear All (%dS)
 Use to obtain %d stamina
 This will spend %d Meta Jewels to restore %d stamina (purchased %d/%d times).\nStamina purchase count resets at 8 PM UTC daily.
-If you quit, your progress will be lost.\nExit anyway?
-If you quit, you will not receive any rewards. Stamina will not be used.\nExit anyway?
 Challenge Clear Win Rate: %0.1f
 Clear Score: %d
 Final Score: %d/%d
 Clear to earn treasure chest rewards
-If you quit, you will not earn rewards.\nExit anyway?
 Stay tuned for new challenges!
-This area has not been discovered yet.
-Stamina
-Action Points
 Purchased %d/%d times (Resets daily at 8 PM UTC)
 5 points are restored at 8 PM UTC daily.
 Unlocks at Lv. %d
@@ -983,15 +853,11 @@ For Phantom Passes purchased during the Phantom Thief trial period, Cognition Cr
 <sprite=0 tint=1>During the trial period, Player A purchased a {1}{0} Premium Pass. As this {1}{0} <color=#EADE10>will be regarded as the amount charged</color>, Player A will have Cognition Crystals returned after release in accordance with [Rule 1], and receive a free Premium Pass.\n<sprite=0 tint=1>During the trial period, Player B used a {1}{0} Premium Pass and purchased a Premium Pass + for {1}{0}. As the amount charged equals <color=#EADE10>{1}{0}</color>, Player B will have Cognition Crystals returned after release in accordance with [Rule 1] and <color=#EADE10>receive a free</color> Premium Pass +.\n\nAbove are details on the Phantom Thief Trial Return Rules.
 Important Notes
 <color=#FFE900>Cognition Crystals, Marthym's Rewards Cards, Phantom Passes, and packs</color> purchased during the Phantom Thief trial period will be returned after the official release.
-Marthym's Rewards Card
-Phantom Pass
 Bonus!
 %s\nThat is my name.
-Please enter your name.
 24 Hours
 Daytime
 Dusk
-Evening
 No events
 Exploration Progress: %s%%
 Obtain at %s%% progress
@@ -1004,7 +870,6 @@ Watch Rewards
 Spend %s to unlock
 Track mission
 Wait until the appropriate time
-Reach level %s
 Wait until it's %s
 Wait until it's %s and %s
 Wait until it's %s, %s, and %s
@@ -1049,11 +914,8 @@ Download
 File error. You must redownload all files and restart the game. Do you want to restart now?
 Restart
 Would you like to download the game in the background? Select "Yes" to download while playing and "No" to download %s of required data now to play after.
-It seems you are not connected to Wi-Fi. Do you want to download it anyway?
 %s Preset: %s/%s
-Casual Clothes
 Uniform
-Loungewear
 Set Assist Phantom Thief
 No Assist Thieves assigned.
 %s d %s h %s min
@@ -1061,7 +923,6 @@ No Assist Thieves assigned.
 %s min %s s
 To Rank Up:
 To Maintain Rank:
-This season's challenge has ended.
 Total %s areas cleared (%s/%s)
 Total %s boss stages cleared, difficulty (%s/%s)
 Total \u2605 Obtained (%s/%s)
@@ -1097,11 +958,9 @@ Take on a trial at least once to earn rewards. Rewards will be sent to Mail afte
 You can get rewards the first time you rank up.
 Receive supplies
 Defeat Lesser Shadows (%s/%s)
-Take the elevator
 Do you want to end the current challenge?
 Do you want to save your progress and quit?
 Select Clear Progress to reset the stage and attempt the trial from the start.
-Trials from the Sea of Souls
 {1}%% before {0}
 Current Rank:
 Total Rarity:
@@ -1122,7 +981,6 @@ Area Reached
 %s%% or lower
 Ranking:
 Ranking Rewards
-Total Score
 Only the currently top 2000 ranked Phantom Thieves are displayed.
 Ranking Info
 No ranking information available.
@@ -1140,9 +998,7 @@ Not Registered
 Seals held: %s
 Press and hold to view Persona details.
 ADVANCED SKILL MATERIALS
-Recollections
 Unlocks in %s
-Unlocked by clearing the required stage.
 Goal: %s
 You won't be able to change these <color=#FF423F>Thieves</color> and <color=#FF423F>Personas</color>. Proceed?
 This <color=#FF423F>Phantom Thief</color> or <color=#FF423F>Persona</color> is locked. Please choose a different one.
@@ -1152,7 +1008,6 @@ Until event ends
 View Nightmare's Gateway Battle Records
 Total Pts This Season
 Current Points
-Participants
 Can be unlocked when total points reach <color=#eade10>%s</color>
 Total Boss Points:
 Companio Points:
@@ -1168,7 +1023,6 @@ Base Damage Points
 Weakened Damage Points
 Difficulty Bonus
 Total Pts.
-Quit
 Restart Challenge
 Raise Difficulty
 All rewards for this week have been claimed.
@@ -1218,8 +1072,6 @@ The requested sub-attribute could not be found.
 %s & %s
 Recommended Revelations {0}
 Select on of the following Space Revelation Cards
-You can select up to two.
-You can select up to four.
 You can obtain {1} Revelation Cards exclusive to this event.
 Only unlocked sub-attributes will be updated during the update.
 Random main attributes for {0}-marked cards include the following: {1}
@@ -1231,20 +1083,14 @@ Obtain {0} new Revelations
 Preset Plan {0}
 For every <color=#FFDE00>{0}</color> <color=#FFDE00>{1}</color>-marked orange-rarity Revelation Cards used, you can inscribe one random <color=#FFDE00>{2}</color>-marked Revelation Card.
 Do you want to use <color=#FFDE00>{0}</color> Revelation Cards to inscribe<color=#FFDE00>{1}</color> random <color=#FFDE00>{2}</color>-marked Revelation Cards?
-Main Story
 Side Story
-Synergy
 Story Animation: %s
-Coming Soon
-Event
 Difficulty: %s
 Chapter %s
 Difficulty %s Chapter %s
-Unlock with %s
 Progress:
 Scoring Efficiency:
 Thief Filter
-Clear
 Cannot reach destination.
 Battle Failed
 You lost... Would you like to edit your party and try again?\nQuit: The challenge will end at your current progress.
@@ -1268,7 +1114,6 @@ Purchased
 Uses Left: %s
 Infiltration Difficulty: %s
 Not cleared
-Unlock at Difficulty %s
 Cleared Party
 Exploration Progress: %s
 Lost Property Obtained: %d
@@ -1313,8 +1158,6 @@ You can obtain a %s Charm.
 <color=#FF423F>Fast</color> Mode
 Unlocks at Band Club Level %d.
 Duration: %s
-Accuracy
-Band Club
 Challenge Rewards
 EaSY
 HaRD
@@ -1329,7 +1172,6 @@ If there is a significant amount of lag, the accuracy may be affected. Try lower
 Benchmark Value
 Lower Speed
 Soccer Points:
-Go
 Resume
 Pause
 Auto-download when Wi-Fi is available <color=#FF423F>(Recommended)</color>
@@ -1354,7 +1196,6 @@ Please enter your surname.
 Use the keyboard to enter a name.
 To play Persona5: The Phantom X,\nyou must first agree to the Terms of Service and Privacy Policy.\nSee below for details.
 Terms of Service
-Privacy Policy
 Agree and play now
 Disagree
 Age verification required
@@ -1407,14 +1248,11 @@ Customizable Card Face
 Hearts
 Diamonds
 Spades
-Clubs
-Special
 Season Countdown:
 A new season has begun. Your new rank is %s.
 #
 Game
 Total Completions
-Emote
 Card strength sorted in reverse order (3 is largest)
 You don't have any cards that are stronger than the previous player's cards.
 Trade %s's %s and <color=#FF423F>any %s card</color>
@@ -1435,11 +1273,9 @@ Forge Level:
 Synergy Ability
 Unknown Weapon
 Unlocks at level
-BONUS UP
 Tap screen to return.
 Pin
 Unpin
-Delete
 Select content to input.
 7 days ago
 Message expired.
@@ -1449,7 +1285,6 @@ Season calculation currently in progress.
 Please enter channel number (1-999).
 Please enter your profile message.
 Characters: 15/20
-Change Name
 Change Message
 Characters: 0/20
 Please type here.
@@ -1459,22 +1294,17 @@ Change Badge
 Change Profile Design
 Main Story Progress
 Add Friend
-Private Chat
 Unfriend
 Unblock
 Copy ID
 Change Avatar
 Change Frame
 Trade Rewards
-Exchange Code
-Enter an exchange code.
 Friends:
 Find Friends with Player ID
 Friend List Memo
 Please enter a memo.
 Extra Stylish Enemy Rewards
-Chinese Stir-Fry
-Crying
 Have:
 Can't raise Synergy Rank.
 New
@@ -1485,11 +1315,7 @@ Japanese
 Track
 Invitation from Ann Takamaki
 3 Times Left
-Airsoft Shop
 Obtainable Rewards:
-Shopping
-Work
-Entertainment
 Cooperation
 Boosted Rewards Left Today:
 No Story Log.
@@ -1497,11 +1323,9 @@ Contract Records
 Reward Type
 Reward Name
 Only information from the past 30 days can be viewed.
-Phantom Idol Contract
 Most Wanted 4\u2605 Weapons
 Most Wanted 4\u2605 Phantom Thieves
 Most Wanted 5\u2605 Weapons
-Arms Deals
 Most Wanted 5\u2605 Phantom Thieves
 Tips
 Please check the lineup.
@@ -1513,7 +1337,6 @@ Flames of Desire
 Assigning Phantom Thieves with the same Attribute activates a Harmony Effect.
 /Stamina
 Tap screen to close.
-Critical Damage
 Attribute Filter
 Recommended Revelations
 Holy Grail
@@ -1540,16 +1363,13 @@ Purchase Limited
 Phantom Pass Level Up!
 Displayed
 Crafting
-Obtain
 Change Preset Name
 Please enter a new preset name.
 Current outfit has been registered.
 Presets
-Bag
 Personal Best
 Maximum Size
 Bait Conditions
-Go fishing to fill your Catch Log!
 Fishing Level
 Fishing Time:
 Pieces
@@ -1557,7 +1377,6 @@ No fish caught yet.
 Have
 Only fishing pond Guardians will be recorded
 No bait held...
-Goalkeeper
 Max club level reached!
 Content Unlocked through Level Up
 Level Up Rewards
@@ -1565,7 +1384,6 @@ Rewards Obtained:
 Select Party Playstyle
 Assists Left:
 Capsule Exchange
-Trade
 Controls
 Trades Left Today:
 My Requests
@@ -1583,7 +1401,6 @@ Reward obtainable upon 100% completion.
 Collection Details
 Obtained:
 How to Get:
-Ren Amamiya
 Select Item
 No event items obtained.
 Required
@@ -1635,10 +1452,7 @@ Weekly Set
 Regular Set
 Get a boost to gems earned from the first charge each rank.
 Recommended
-Gift Set
-Charge
 Be careful not to play the game for too long.
-Gold Parts
 Exchanged:
 You have reached today's data limit.
 About Overplaying the Game
@@ -1655,7 +1469,6 @@ Duration: 1:30
 Song Details
 Rating > 100,000
 What do you desire?
-Merope
 No Personas available.
 Sort
 You can raise a Persona's skill level by allocating schema points.
@@ -1668,17 +1481,13 @@ You can press the Filter Skills icon to sort out certain skills. Press and hold 
 Randomly obtain one of the following skills.
 Select a seal.
 About Skill Inheritance
-Station
 Claimable after Watching:
 Unlock Area
 Ticket Level
-Ticket Level Rewards
-Level
 Unlock Items
 Unlocks at Palace Progress XXX
 Palace Progress at
 Rewards:
-Palace Progress
 You can defeat Shadows to enhance abilities.
 Rank-Up Status:
 Buff Details
@@ -1694,24 +1503,17 @@ Nickname
 or\nlower
 Season Rank:
 Challenge Rank
-Stage 3
-Stage 2
-Stage 1
 Control Tips
 Tap [Reset Challenge] to restart your progress.
 Stage Rating
 Left
 Yellow flag     score will be calculated after clearing the level
 Available
-Party Formation
-Current Progress
 Area:
 Collection:
 Challenge Progress
 Trial
-The Velvet Trials
 Current Star Level:
-Palace Entrance
 Can Get
 Regular Shadow
 Jin's Intro
@@ -1724,18 +1526,15 @@ Max Ticket Level reached. No more rewards available.
 Clear Rank Rewards
 Tickets:
 Home Base Building
-Area
 You've already obtained these clear rank rewards.
 You gained skill points.
 Actions:
-Skill Level Up
 Sorting and Filling
 Fusible
 Registerable
 You already have this Persona, so it will be converted into Awareness after fusion.
 Method to obtain undiscovered.
 Filter
-Occupation
 1\u2605
 4\u2605
 5\u2605
@@ -1744,7 +1543,6 @@ File Management
 Tunnel Expansion
 Smartphone Mode Activating
 Growing Time:
-Persona Lesson
 Trials from the Sea of Souls:
 Scene Item Name
 Add Slot
@@ -1756,7 +1554,6 @@ Unlocked Function
 Battle Effects
 Charm Effects
 Charm Set
-Lost Items
 [Lost Item Effects]
 [Collection Rewards]
 [Set Effects]
@@ -1767,7 +1564,6 @@ Recommended Attributes
 Foe Party
 End
 Sea of Souls Mementos
-Buy
 Set Name
 Gun Damage
 Left: 3
@@ -1801,54 +1597,33 @@ Crit Rate:
 Rounds:
 Download Rewards
 Data Storage: 323 MB
-Voice Language
 *The voiceover language can be changed through the Settings menu.
 *All in-game voices will be changed after you set the new language.
-Resolution
 Detail Level
-Render Quality
 Shader Quality
 Shader Level
-Frame Rate
 Image Quality
 Post-Processing\nEffects
 Effect Quality
 Texture\nLevel
 Highlights
-Shadow Quality
 Shadow Quality\nLevel
-Lens Flare
-Volumetric Lighting
 Bloom
 Depth of Field
 Ambient\nOcclusion
-Anti-Aliasing
-Dynamic Resolution
 Members\nFollowing
-Master Volume
 BGM Volume
 SFX Volume
-Voice
-Environment
 Autoplay Voiceovers
-Enable Push Notifications
 Block Party Requests
-Control Settings
 Gamepad\nCamera Sensitivity
 Mouse\nCamera Sensitivity
 Mouse\nZoom Sensitivity
-Vibration
 Setting
-Block Friend Requests
-Push Notifications
-Display Recent Messages
 Render\nScale
 Fullscreen Mode
-Terrain Blending
 Volumetric\nFog
 Sunlight
-VSync
-Item/Talk Actions
 Press the key you wish to assign. (Cancel with the ESC key.)
 High HP
 No actions available.
@@ -1876,7 +1651,6 @@ Don't remove for sorting.
 Museum of Vanity
 To Crafting
 Tyrant Set
-Awakening of Desire
 Number of People:
 Popular Last Week:
 Minimum Lv.
@@ -1890,7 +1664,6 @@ You have reached today's limit for Wandering Shadow rewards.
 Trait Active
 Weakened Turns Left:
 Dancing Flames
-Jack Frost
 Diego
 Weakness Name (7 chars.)
 15 Floors
@@ -1904,8 +1677,6 @@ Revelation Effects
 <size=54>Select</size> a <size=71>tutorial</size> to <size=54>view</size>.
 GM Interface
 Enter Content
-Enter
-Dash
 Activate Account
 Enter the<color=#FF423F> serial code</color> to activate your game account. Then start the game.
 Please enter the serial code.
@@ -1919,7 +1690,6 @@ Enter a Companio name or ID
 Refresh
 Select Badges
 Preview
-Badge
 Graphic
 Pattern
 Change Color
@@ -1948,9 +1718,7 @@ Activity Level +1 the first time a Companio member takes on a trial.
 Damage Points
 Members Online
 Members
-Log
 Change Permissions
-Kick
 Request List
 No Companio join requests available.
 Join Settings
@@ -1963,19 +1731,15 @@ Change Companio Name
 Change Announcement
 No announcements available.
 Subleader
-Support
 Only \n<color=#EADE10>selected weapons</color> will be shown in the 5\u2605 weapon lineup.
-Final Buster
 Notices
 Event Notice
 Dear Phantom Thief:
 [Game Market Restriction]
 Pet Companio
-Shibuya Central Street
 Hero Level (1\u2605)
 Subtitles
 13 m
-Metaverse
 Total City Life Collection Progress
 Beginner Bookmark
 Fortune-Telling Buff
@@ -2000,8 +1764,6 @@ Reject All
 Accept All
 Send
 Member Ranking
-Friends
-Realm of Repression
 Main Rewards:
 Enemy Intel:
 Stage Info:
@@ -2013,35 +1775,23 @@ Send Barrage of Text
 Animation under Development
 Special Pass Only
 Deluxe Pass Only
-Open Missions
 In Progress
-Tomoko Noge
-Brawl Bots
 Metaverse Trial
 Change Case
 Change Background
 ATK
 DEF
 SPD
-Choices
 Skill Type
 Skill Attribute
-Fuse in the Velvet Room
 Apply All
-Settings
-Mail
-Tutorials
 Accuracy:
-Phantom Thief Awareness
 Fuse
-Forget
 Adjust
 Armory
-Continue
 Unequip All
 Change All
 Recommended Equipment
-Reset
 View Collections
 Status
 Adjust Camera
@@ -2051,7 +1801,6 @@ Select
 <color=#FF423F>Wonder's Attribute</color> changes based on his equipped Persona.
 High Score
 Guide
-Protagonist
 Shadow Intel:
 All Acquired
 Foe Party:
@@ -2069,48 +1818,23 @@ Number of Logins Today: %s
 Companio ID
 Weekly Contribution: %s
 Appoint
-You can set up to three tags.
 If set to "Off," anyone may apply.
 %s Permission Changes:
-Time(s)
 (%s s)
 %s players online
 Boss Battles
 Your Companio
-Undo Transformation
 Purchase Complete
 You can gain the following rewards after leveling up.
 Immediately earn the following Special Pass-exclusive rewards.
 Follow the official YouTube account
 Recieve a gift when you follow the offical Wechat by scanning the QR code!
 Tip: Equipping items gained from Brawl Bots will grant you special effects
-Start
 Before Battle
-Delete Account
-Cognition Crystals
 Rules
-Camera
 Long press a Thief to check stats
 Special Rewards
-You see the article?\nApparently Kiuchi's\nin a slump.
-Hey, the girl in the news looks like Arai.
-No way! Seriously?
-Yeah, seems like he got hurt during the baseball clinic.
-From the pitch Arai hit?
-Yeah, now Kiuchi's\nin a total slump\nbecause of it.
-Arai...
-It's her fault.
-Completely her fault.
-No! Motoha didn't do anythi\u2014!
-Arai ruined his career...
-Thanks to her, he'll never...
-Morgana
-Yaoling Li
-Ann Takamaki
-Ryuji Sakamoto
-Makoto Niijima
 Overclock Material
-Nightmare's Gateway
 Exchange
 No Chat History
 Sell
@@ -2118,18 +1842,13 @@ Gamepad\nZoom Sensitivity
 Unlocks when Wonder reaches Level 40
 Floor
 Obtain the gift set to select from the rewards below.
-Chamber of Recollections
-Camera Mode
 %s can now be unlocked. Do you want to do so now? Unlocking before %s may affect how you experience the story.\n*This won't affect the story content.
 The following items will be discarded:
 Discard
 Once discarded, these items can't be recovered.
-Metro of Desire
-Yusuke Kitagawa
 You can select one of the 5\u2605 Phantom Thieves below.
 Objective Clear
 All Missions
-Novice 5\u2605 Weapon of Your Choice
 Capsule Collection
 Collection
 Collection Rewards
@@ -2142,7 +1861,6 @@ You can change your settings later in Menu > Settings > Gameplay.
 Swapped weapons keep the previous weapon's level.
 Equipped
 Recommended Set
-Miyu Sahara
 Protagonist's Level
 <color=#FF423F>Alt key</color> displays cursor.
 Rec. Level:
@@ -2150,8 +1868,6 @@ Wonder's {0} are not strong enough.
 Your Phantom Thieves' {0} are not strong enough.
 Revise your party and try again.
 {0} is unlocked at level <color=#FF423F>{1}</color>, and greatly increases party's status.
-Schema
-Persona
 {0} unlocks when you clear mission <color=#FF423F>{1}</color>, and greatly enhances party member Attributes.
 Clear Step <size=10></size><size=42>{0}</size><size=10></size> to obtain
 Unlock contents using Synergy Rank
@@ -2160,21 +1876,16 @@ You don't have any seeds. You can buy seeds from the Flower Shop.
 Puzzle Progress
 Drag the piece on the right to complete the puzzle.
 Daily Tasks reset at 8 PM UTC.
-Haruna Nishimori
 Login Failed %s
 Lover's Standoff
 Rulebreaker
-Clear Cognigem
-Violet Cognigem
 Fierce Battles
 Sign the Contract of Fate\n<size=36>Please write your signature on the screen.
 Teddy Bear Pajamas
-Submarine Sonar
 Usage Effect: %s
 Obtainable by cooking at home.\nAlso can be purchased from street stalls, restaurants, and pharmacies.
 Explore
 Dining
-Use
 No usable items.
 Progress Gained:
 New route unlocked
@@ -2196,41 +1907,30 @@ or higher
 Marian
 Day
 Castle Arc
-Museum and Bank Arcs
 Exchange Items
-Meta Jewels
 All puzzle pieces obtained. Please go to the starting screen to start the puzzle game.
 Contract Present
 S-rank Weapon Box
-White Street Outfit
 Enemy levels will scale according to Wonder's level.
 Clear a set amount of missions and earn high-value rewards.
-Money
 Clear this difficulty to automatically clear challenges below selected level.
 Each Treasure Hunt guarantees 4 of the following rewards:
 Complete Tasks to earn more canned cat food.
 Missions update daily at 8 PM UTC
 Cash Bonus Rewards Remaining:
 OFF
-Cooking
-Coffee Candy
 Challenge Goals
 {0} Active
-Third Eye
-Change Bait
 Select Direction
-Change Direction
 Do you want to spend [{1}{0}] to receive [{2}]?
 Event ends: %s
 Point Progress:
 Recieve rewards for clearing all stages of Relativity's Labyrinth
 Exclusive Costume & Avatar Frame & Player Card
-Salamander Coin
 Collect all Glass Orbs to unlock the mission Paw it Forward.
 Current Glass Orbs:
 Complete daily Pass goals to get rewards. Times left: \u3000
 Main Attribute cannot be customized
-Mark
 Held: \xa5%s
 Active
 Remaining Actions:
@@ -2258,19 +1958,12 @@ Select a Lost Item to discard
 [{0}]
 {0} & {1}
 Press {1} to view Rating for {0}
-Sharing failed
-Challenge Mode
 Unlocks Stamina Mode after clearing current difficulty level for the first time.
 New Distortion Level not unlocked.
 Clear Rewards
-Chizuko Nagao
-Rebellion
-Saboteur
 Supply Set Refreshes in:
 Share Rating
-Yumi Shiina
 Press to\nview Rating
-Simplified Battle Messages
 Switch Box
 Please sign your name (6 characters or less)
 No discarded Lost Items
@@ -2278,7 +1971,6 @@ Cannot be insta-killed
 Can be partially insta-killed
 Can be insta-killed
 Select Attribute
-Customize
 Least number of actions: This difficulty level has not been attempted
 Fewest actions: %s
 Challenge Countdown:
@@ -2287,8 +1979,6 @@ Will be used in order of %s
 Least number of actions:
 Display the first 1000 Phantom Thieves
 Ranking rewards will be distributed after the challenge ends.
-Hope Line
-Elucidator
 Tasks Left:
 Task Details
 Thieves
@@ -2316,7 +2006,6 @@ Transcendence Level
 Total Mult. +
 Unlock when Wonder reaches level %s
 The invited player has not yet registered the invitation code. Invite the player and have them register the code!
-Recruit a Friend
 Go to Recruitment
 Link Invite Code
 Unlocks when Wonder reaches level {0}
@@ -2324,24 +2013,18 @@ Upload Log
 Already Linked
 Clear to Unlock {0}{1}
 Unlock x{0}
-You don't have enough {0}.
 During Limited-Time Stages, bringing along a designated Phantom Thieves member will grant an additional set reward bonus. Clearing with multiple designated members will compoud bonus rewards.
 Clear {0}-{1} to unlock.
 Stage has been locked.
 Level limit reached. Please wait for the next version update.
 Free once per day
-Strategist
-Ayaka Sakai
-Riko Tanemura
 A Cool Day in Sushi Village
 Office Heroes
 Respected Captain, if you are enjoying Persona5: The Phantom X, please leave a review. We eagerly await your opinions and feedback!
-Goals
 Screenshot and scan on WeChat to add our dedicated customer service account!
 Marthym's Big Sale
 EXP: %s
 Reach %s%s Rating.
-Gold Ticket
 4\u2605 Phantom Thief Select
 4\u2605 Weapon Select
 Orange Power Revelation
@@ -2351,10 +2034,7 @@ Invitation from a Phantom Thief
 Invited Phantom Thieves must enter the invite code below to recieve rewards!
 Earn generous rewards such as Meta Jewels and Gold Tickets when a friend uses your invite code and completes an active task!
 You have reached today's limit.
-Please enter an invite code.
 Invite code:
-Kotone Montagne
-Crime and Punishment
 <size=48>Claim Rewards</size>
 Complete
 Promises\n%s/%s
@@ -2362,7 +2042,6 @@ Completion of ending prerequesite quest is required.
 Completion of previous stage unlocks story.
 Combo Bonus
 Previous Best
-Current Wave
 Enemies defeated: %s
 Highest Combo: %s
 Complete the Introduction Story
@@ -2382,13 +2061,10 @@ Teammates have not yet been selected
 Please choose the shape
 Goal Time Left:
 Yellow
-Green
-Pink
 Promise
 There are no fireworks in your backpack. Let's go and make some!
 Use the Trial Key to unlock the Secret Chapter.
 Challenge Stage Progress:
-Save
 Watch the fireworks alone
 Insufficient Materials
 Enable Commission Reward Notifications
@@ -2397,14 +2073,11 @@ An occurrence on a certain summer's day...\nDuring the Kokatsu Academy off-campu
 This will begin a new timeline different form the current main story. Would you like to continue?
 You can select fireworks from the backpack and customize an exclusive launch plan.
 Unlock Memories
-Summer Motoha Arai
-Control
 Added Bonus Rewards based on current party:
 Customer Satisfaction Rating
 Customers Lost
 Daily Amount:
 Weekly Amount:
-Open
 Limted-Time Challenge Countdown:
 Mission completion is required
 Shaved Ice to Beat the Heat / Start Making Shaved Ice
@@ -2414,22 +2087,15 @@ This will convert similar items. Items that could exceed the hold limit will be 
 Craft:
 A limted-time event to trade forged protagonist weapons has begun
 Consuming 1 Colorful-quality weapon allows you to exchange <color=#FAFD68>%s</color>.
-Weight
 Target Item
 <color=#FF423F>You couldn't convert to this item as you don't have enough materials of the same type.</color>
 Stable
 Distressed
-Berserk
 Highest Abnormality Level
 Abnormality Level
 Abnormality Effect
-Medic
-Summer Tomoko Noge
 Press and hold to view weapon details
 No exchangeable weapons found.
-No Special Most Wanted Draw
-4\u2605 Special Most Wanted Draw
-5\u2605 Special Most Wanted Draw
 4\u2605 5\u2605 Special Most Wanted Draw
 No Special Most Wanted Rates
 4\u2605 Special Most Wanted Active
@@ -2464,7 +2130,6 @@ Rate
 Thief Level
 No abnormality effect has been selected
 Pt. 1
-Pt. 2
 Highest Abnormality Level:
 Exclusive Badges Available
 Complete the challenge to unlock
@@ -2482,9 +2147,6 @@ Complete the Challenge Goal
 Clear History
 <color=#EADE11>[Cleared]</color>
 [Not Cleared]
-Asura
-Wraith of Envy
-Kira Kitazato
 Rewards based on ranking leaders will be distributed after the challenge ends.
 Members:
 Attack {0} to obtain.
@@ -2507,21 +2169,17 @@ It is recommended to play this event after completing the main story chapter Rik
 Today's Challenge Attempts Left:
 tdxct-[2002500]
 tdxct-[2002501]
-Sinner of Wrath
-Action Report
 Open Source
 tdxct-[2002505]
 tdxct-[2002506]
 tdxct-[2002507]
 tdxct-[2002508]
-Pyramid Arc
 Revelation Reprinting complete.
 Not Customized
 Tasks update daily at 8 PM UTC
 tdxct-[2002511]
 Daily Task
 This Season's Challenge
-Futaba Sakura
 tdxct-[2002515]
 tdxct-[2002516]
 tdxct-[2002517]
@@ -2534,18 +2192,14 @@ After obtaining an item, you can select it from your bag to use it.
 Point Limit:
 On days 2 and 3 of the event, you can earn a max of 600 Tycoon Medals each.
 Season 2 <size=40>Begins</size>!
-Masaki Ashiya
-Guardian
 Masaki Ashiya Synergy Now Available
 Masaki Ashiya's Exclusive Version Set
 Manage Visitors
 Phantom Thieves Visiting:
 Obtain {0} Revelation Cards
-Revelation Cards
 Inscribe
 Current Cost:
 Currently Claimable:
-Spaceport Arc
 A new Phantom Pass has been unlocked.
 Obtain <size=72><sprite=37 tint=1></size><size=34><color=#FFE500> x5</color></size> from the season total when\nyou purchase a Premium Phantom Pass!
 Max Visitor EXP reached
@@ -2558,7 +2212,6 @@ Phantom Thief visitor capacity: {0}
 Unlock a Dialogue Event
 Visitor EXP {0}:
 Exchange <size=72><sprite=37 tint=1></size><size=28><color=#FFE500>x10 </color></size><size=28>for <color=#FFFFFF>5\u2605 weapons</color>!<color=#FFE500> (Held Currently: %s)</color></size>
-Prism Cognigem
 Do you want to set it now?
 Do you want to change to this item?
 Use recommended team formation
@@ -2617,8 +2270,6 @@ Visitor EXP
 You do not have enough <color=#FF423F>Mental Energy</color> to activate the device
 Clear rewards already acquired
 Item Filter
-Purple
-Orange
 Metaverse Earnings
 City Life Earnings
 Battle Earnings
@@ -2641,7 +2292,6 @@ Challenge Rewards:
 Rewards earned immediately:
 Rewards obtainable from completing goals:
 Completed {0} missions.
-Standard
 Place a Phantom Thief to raise your\nVisitor EXP and get P Medals
 Gain {1} Visitor EXP\nevery {0} s
 Summary of Mindscape Attribute Enhancement
@@ -2690,15 +2340,12 @@ Play Realm of Repression\nto gain EXP!
 Clear side missions\nto gain EXP!
 Party is in use for Metro of Desire.
 Trade History
-Thieves Den can now be unlocked. Do you want to do so now? Unlocking before the side mission Break Open the Unknown may affect your relationship with the Saleswoman Shadow.\n*This won't affect the story content.
 Personal Data
 Full Recovery
 Cannot change party.
 No items.
 Obtain Qualia EXP\nwhen Phantom Thief Rating increases.
 Premium Rewards (Partial)
-Place Item
-Blue
 Melee Weapons
 Ranged Weapons
 Armor
@@ -2709,7 +2356,6 @@ The leader role has been automatically given to <color=#FF423F>%s</color>.
 https://beian.miit.gov.cn/"><u>Beijing ICP No. 2021015964-3A</u></link>
 You can earn up to <color=#FF423F>%s</color> <link="s
 1002"><u>Friend Points</u></link> per day.
-<link="s
 1001"><u>S Rank Boost</u></link>
 1001"><u>Rank Boost Phase I</u></link>
 1003"><u>Rank Boost Phase II</u></link>
