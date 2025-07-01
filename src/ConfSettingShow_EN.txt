@@ -1,0 +1,82 @@
+sn	name	tip	gamepadtip
+101	Control Settings	AAAAAA==	AAAAAA==
+130	Gamepad Cursor Mode	You can control the cursor with the <color=#FF423F>Keyboard and Gamepad</color>.
+Cursor Controls for Keyboard:
+<color=#FF423F>Arrow Keys</color> <size=40><keySn>423</keySn><keySn>424</keySn><keySn>425</keySn><keySn>426</keySn></size>: Move Cursor
+<color=#FF423F>Space Bar</color> <size=40><keySn>1201</keySn></size>: Confirm
+<color=#FF423F>Ctrl Key</color> <size=40><keySn>422</keySn></size>: Reset Cursor
+When the cursor is within a scrollable area
+<color=#FF423F>Page Up and Down Keys</color> <size=46><keySn>421</keySn><keySn>420</keySn></size>: Scroll	You can control the cursor with the <color=#FF423F>Keyboard and Gamepad</color>.
+<color=#FF423F>Left Stick</color><size=36><keySn>2001</keySn></size>: Movement
+<color=#FF423F>Confirm Button</color><size=36><keySn>1001</keySn></size>: Confirm
+<color=#FF423F>10 Keys</color><size=36><keySn>1013</keySn><keySn>1014</keySn><keySn>1015</keySn><keySn>1016</keySn></size>: Jump to nearby buttons
+Press the <color=#FF423F>Left Stick</color><size=36><keySn>1005</keySn></size>: Reset
+while cursor is within range
+<color=#FF423F>Confirm Button</color><size=36><keySn>1001</keySn></size>	
+<color=#FF423F>Left Stick</color><size=36><keySn>2001</keySn></size>: Scroll
+102	Camera Mode	Two camera modes are available for mouse and keyboard.
+Classic: Left-click on the mouse and drag to move the camera.
+RPG: Camera moves with the mouse. Press [ALT] to click to move the camera.	AAAAAA==
+103	Mobile Camera Sensitivity	Adjusts camera sensitivity on your phone.	AAAAAA==
+104	Mobile Zoom Sensitivity	Adjusts sensitivity for pinch to zoom and other zoom functions on your phone.	AAAAAA==
+105	Gamepad Camera Sensitivity	Adjusts camera sensitivity on your gamepad.	AAAAAA==
+106	Gamepad Zoom Sensitivity	Adjusts zoom sensitivity on your gamepad.	AAAAAA==
+107	Classic Camera Sensitivity	Adjusts camera sensitivity when using a mouse and keyboard on classic mode.	AAAAAA==
+108	Classic Camera Zoom Sensitivity	Adjusts zoom sensitivity when using a mouse and keyboard on classic mode.	AAAAAA==
+109	RPG Mode Camera Sensitivity	Adjusts camera sensitivity when using a mouse and keyboard in RPG mode.	AAAAAA==
+110	RPG Mode Camera Zoom Sensitivity	Adjusts zoom sensitivity when using a mouse and keyboard in RPG mode.	AAAAAA==
+111	Auto-Adjust Camera	Sets the camera and angle to automatically adjust to keep your character in clear view.	AAAAAA==
+112	Vibration	Enables gamepad vibration.	AAAAAA==
+113	Camera Inversion	Reverses how your camera rotates vertically and horizontally.	AAAAAA==
+114	Cursor Speed	Adjusts movement speed of cursor when using Gamepad Cursor Mode.	AAAAAA==
+115	Mouse Right-Click Settings	Allows you to right-click on the mouse to close the current screen and return to the main screen when enabled.	AAAAAA==
+131	System Settings	AAAAAA==	AAAAAA==
+133	Block Friend Requests	Allows you to reject friend requests from other players.	AAAAAA==
+134	Show Chat on Main Screen	Allows you to show the chat channel on the bottom left of the main screen.	AAAAAA==
+135	Show Chat During Battles	Allows you to show the chat channel on the bottom left of the battle screen.	AAAAAA==
+136	Receive Chat Updates	Keeps the most recent IMs displayed in the bottom-left corner of the main screen when enabled.	AAAAAA==
+137	Display Subtitles	Displays subtitles when playing story animations.	AAAAAA==
+138	Pause Story in Background	Automatically pauses the story when the game is in the background.	AAAAAA==
+171	Battle Settings	AAAAAA==	AAAAAA==
+172	Change Personas in Auto-Battle	Chooses suitable Persona from summonable Personas and swaps between them in auto-battle. If turned off	 only skills from the Persona equipped when attacking will be used.	AAAAAA==
+173	Highlights in Auto-Battle	Activates suitable Highlights in auto-battle. If turned off	 Highlights won't be used in auto-battle.	AAAAAA==
+174	Support Phantom Thief Skills in Auto-Battle	Activates suitable Support Phantom Thief skills in auto-battle. If turned off	 these skills won't be used in auto-battle.	AAAAAA==
+175	Auto-Select 1 More Target	Auto-targets and activates a 1 MORE attack on suitable targets. When turned off	 targets and attacks must be manually selected and activated.	AAAAAA==
+176	Simplify Battle Results	Allows you to simplify battle results during Palace exploration.	AAAAAA==
+177	Skip Battle Animations	Allows you to skip certain battle animations.	AAAAAA==
+178	Support Phantom Thieves Animations	Allows you to skip Support Phantom Thief skill animations.	AAAAAA==
+179	Highlight Animations	Allows you to skip Highlight animations.	AAAAAA==
+201	Voice Language	Selects the language for voiced lines.	AAAAAA==
+299	Volume Settings	AAAAAA==	AAAAAA==
+202	Master Volume	Adjusts the volume for the overall game.	AAAAAA==
+203	BGM	Adjusts the volume for background music in-game.	AAAAAA==
+204	Sound Effects	Adjusts the volume for sound effects in-game.	AAAAAA==
+205	Voice	Adjusts the volume for voiced lines in-game.	AAAAAA==
+206	Environment	Adjust the volume for environmental sounds in-game.	AAAAAA==
+301	Window Mode	Window: Shows in a window.
+Fullscreen: Uses the full display.
+Borderless: Similar to fullscreen but the cursor can move off-screen.	AAAAAA==
+302	Screen Resolution	Increases resolution to improve overall graphic quality. Depending on your system	 your frame rate may be lower than expected.	AAAAAA==
+303	Dynamic Resolution	Automatically optimizes the resolution for your system. This may cause your screen resolution to be lower than expected.	AAAAAA==
+304	Frame Rate	Selects the game's frame rate (FPS). The game will appear smoother at a higher FPS. Depending on your system and other settings	 your frame rate may be lower than expected.	AAAAAA==
+305	Render Quality	Selects the overall render quality. Depending on your system	 increasing the quality may cause your frame rate to be lower than expected.	AAAAAA==
+306	Shadow Quality	Selects the shadow quality. Depending on your system	 increasing the quality may cause your frame rate to be lower than expected.	AAAAAA==
+307	Effects Quality	Selects effect quality. Depending on your system	 increasing the quality may cause your frame rate to be lower than expected.	AAAAAA==
+308	Texture Quality	Selects texture quality. Depending on your system	 increasing the quality may cause your frame rate to be lower than expected.	AAAAAA==
+309	Level of Detail	Selects graphic quality for distant objects. Depending on your system	 increasing the quality may cause your frame rate to be lower than expected.	AAAAAA==
+310	Anti-Aliasing	Allows you to make images smoother. Depending on your system	 this may cause your frame rate to be lower than expected.	AAAAAA==
+311	Render Scale	Changes the proportion of your resolution to display. Increasing render scale improves graphics settings. Depending on your system	 this may cause your frame rate to be lower than expected.	AAAAAA==
+312	Post-Processing Effects	Selects the quality of visual effects and overall graphics. Depending on your system	 increasing the quality may cause your frame rate to be lower than expected.	AAAAAA==
+313	Party Following	Shows party members following behind you when exploring the Metaverse. Depending on your system	 this may cause your frame rate to be lower than expected.	AAAAAA==
+315	Lens Flare	Shows lens flares and enhances lighting. Depending on your system	 this may cause your frame rate to be lower than expected.	AAAAAA==
+316	Ambient Lighting	Enhances shading in the game. Depending on your system	 this may cause your frame rate to be lower than expected.	AAAAAA==
+317	Reflections	Enhances reflections in water and mirrors. Depending on your system	 this may cause your frame rate to be lower than expected.	AAAAAA==
+318	Bloom Effects	Enhances light diffusion. Depending on your system	 this may cause your frame rate to be lower than expected.	AAAAAA==
+319	Fog Effects	Enhances depth by blurring distant objects. Depending on your system	 this may cause your frame rate to be lower than expected.	AAAAAA==
+320	Volumetric Lighting	Enhances rays of light. Depending on your system	 this may cause your frame rate to be lower than expected.	AAAAAA==
+321	Terrain Blending	Blends terrain for smooth transitions between natural textures.	AAAAAA==
+322	Sunlight Effects	Enhances sunlight. Depending on your system	 this may cause your frame rate to be lower than expected.	AAAAAA==
+323	VSync	Maintains graphics quality in fast-paced scenes by adjusting to display capabilities. Depending on your system	 this may cause your frame rate to be lower than expected.	AAAAAA==
+326	Display	Selects a display to use when multiple displays are available.	AAAAAA==
+324	AAAAAA==	Automatically adjusts resolution and frame rate with FidelityFX Super Resolution (FSR) if supported by your system.	AAAAAA==
+325	AAAAAA==	Improves graphic quality by enhancing color brightness and contrast if your system supports HDR.	AAAAAA==

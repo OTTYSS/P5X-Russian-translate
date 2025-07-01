@@ -1,0 +1,126 @@
+sn	name	desc
+1100	Attack Up	Base Attack +1%
+1101	Defense Up	Base Attack +2%
+1102	Critical Rate Up	Crit Rate +3%
+1103	Repel Damage	Repel Rate +1%
+1104	Resist Up	All Resist +1%
+1105	Accuracy Up	Skill Acc +1%
+1201	10% HP Recovery	Party HP Heal 10%
+1202	10% SP Recovery	Party SP Heal 10%
+6001	Weather: Thunderstorm	Shocks a random target. Crit dmg up.
+6011	Weather: Heat Wave	Inflicts Burn on a random target. If inflicted with Burn multiple times	 take damage equal to max HP.
+6021	Weather: Pollen Warning	Gives a random debuff to a random target. Increases spiritual ailments in battle.
+6031	Weather: Flu Season	Elemental ailment resist up. Shadows may be affected by Influenza: Become Berserk	 greatly increasing Attack	 but die after a few turns.
+6041	Weather: Clear	Random buff on a random target. When foe's defense is decreased	 random buffs are removed	 and damage taken up.
+61011	Critical Rate 1	Crit Rate +10%
+61021	Critical Rate 2	Crit Dmg +20%
+61031	Critical Rate 3	When defeating a Shocked foe	 heal 35% HP
+61041	Critical Rate 4	When foes take Critical hits	 Defense down
+61012	Critical Rate 1	Crit Rate +10%
+61022	Critical Rate 2	Increases critical damage by 20%.
+61032	Critical Rate 3	When defeating a Shocked foe	 heal 35% HP
+61042	Critical Rate 4	When foes take Critical hits	 Defense down
+61013	Critical Rate 1	Crit Rate +10%
+61023	Critical Rate 2	Crit Dmg +20%
+61033	Critical Rate 3	When defeating a Shocked foe	 heal 35% HP
+61043	Critical Rate 4	When foes take Critical hits	 Defense down
+6105	Critical Rate Set 2	Critical hits gain bonus DMG and restore HP
+6106	Critical Rate Set 4	After dealing a critical hit	 increase critical damage by 10%	 up to a maximum of 50% (activates once per skill).
+61111	Giant Killer 1	Skill attacks have a chance to Burn targets.
+61121	Giant Killer 2	After using a skill	 insta-kill enemies that have less than 10% HP remaining (excluding bosses).
+61131	Giant Killer 3	Fire attacks deal increased damage to enemies and decrease their Attack. Lasts for 2 turns.
+61141	Giant Killer 4	Increases damage when target's HP is higher than yours.
+61112	Giant Killer 1	Skill attacks have a chance of Burning targets.
+61122	Giant Killer 2	After using a skill	 insta-kill enemies that have less than 10% HP remaining (excluding bosses).
+61132	Giant Killer 3	Fire attacks deal increased damage to enemies and decrease their Attack. Lasts for 2 turns.
+61142	Giant Killer 4	Increases damage when target's HP is higher than yours.
+61113	Giant Killer 1	Skill attacks have a chance of Burning targets.
+61123	Giant Killer 2	After using a skill	 insta-kill enemies that have less than 10% HP remaining (excluding bosses).
+61133	Giant Killer 3	Fire attacks deal increased damage to enemies and decrease their Attack. Lasts for 2 turns.
+61143	Giant Killer 4	Increases damage when target's HP is higher than yours.
+6115	Giant Killer Set 2	Increase damage by 2% for every 10% of the opponent's max HP higher than yours	 up to a maximum of 30%.
+6116	Giant Killer Set 4	When attacking with an active skill	 inflict Bleed and deal 10% damage	 up to a maximum of 2000 HP.
+61211	Healing 1	Healing & Shield Bonus Up
+61221	Healing 2	Healing Received/Shield Received Bonus Up
+61231	Healing 3	Grants a shield when you receive healing
+61241	Healing 4	Attack increases when you receive healing or a shield. Stackable.
+61212	Healing 1	Healing & Shield Bonus Up
+61222	Healing 2	Healing Received/Shield Received Bonus Up
+61232	Healing 3	Grants a shield when you receive healing
+61242	Healing 4	Attack increases when you receive healing or a shield. Stackable.
+61213	Healing 1	Healing & Shield Bonus Up
+61223	Healing 2	Healing Received/Shield Received Bonus Up
+61233	Healing 3	Grants a shield when you receive healing
+61243	Healing 4	Attack increases when you receive healing or a shield. Stackable.
+6125	Healing Set 2	When HP is above 70%	 increase Attack and Defense.
+6126	Healing Set 4	The attribute bonus of the 2-piece set is doubled. Nullify insta-kill damage one time	 and restore 25% HP (once per battle).
+61311	Status Ailment 1	Ailment Accuracy
+61321	Status Ailment 2	Decreases Attack of enemies with debuffs.
+61331	Status Ailment 3	At the start of battle	 Phantom Thieves have greatly increased ailment accuracy for 1 turn.
+61341	Status Ailment 4	At the start of battle	 enemies' damage is decreased for 1 turn.
+61312	Status Ailment 1	Ailment Accuracy
+61322	Status Ailment 2	Decreases Attack of enemies with debuffs.
+61332	Status Ailment 3	At the start of battle	 Phantom Thieves have greatly increased ailment accuracy for 1 turn.
+61342	Status Ailment 4	At the start of battle	 enemies' damage is decreased for 1 turn.
+61313	Status Ailment 1	Ailment Accuracy
+61323	Status Ailment 2	Decreases Attack of enemies with debuffs.
+61333	Status Ailment 3	At the start of battle	 Phantom Thieves have greatly increased ailment accuracy for 1 turn.
+61343	Status Ailment 4	At the start of battle	 enemies' damage is decreased for 1 turn.
+6135	Status Ailment Set 2	When attacking	 damage is increased based on number of debuffs the target has.
+6136	Status Ailment Set 4	Permanently increases all allies' Attack when inflicted an elemental or spiritual ailment in battle. Can be stacked up to 5 times.
+61411	Armor Break 1	When enemies' Defense is decreased	 increase damage taken by 8%. Lasts for 2 turns.
+61421	Armor Break 2	When the enemy's Defense decreases	 increase Phantom Thieves' Defense by 7%. Stacks up to 3 times. Each stack is calculated individually. Lasts for 2 turns.
+61431	Armor Break 3	When the enemy's Defense decreases	 permanently increase Phantom Thieves' Defense by 4%. Stacks up to 5 times.
+61441	Armor Break 4	When an enemy first takes damage	 decrease their Defense by 25%. Lasts for 2 turns.
+61412	Armor Break 1	When decreasing a foe's Defense	 increases damage taken by 8%. Lasts for 2 turns.
+61422	Armor Break 2	When decreasing a foe's Defense	 increases an ally Phantom Thief's Defense by 7%. Can be stacked up to 3 times. Lasts for 2 turns.
+61432	Armor Break 3	When decreasing a foe's Defense	 permanently decreases Defense by 4%. Can be stacked up to 5 times.
+61442	Armor Break 4	When a foe first takes an attack	 decreases Defense by 25%. Lasts for 2 turns.
+61413	Armor Break 1	When decreasing a foe's Defense	 increases damage taken by 8%. Lasts for 2 turns.
+61423	Armor Break 2	When decreasing a foe's Defense	 increases an ally Phantom Thief's Defense by 7%. Can be stacked up to 3 times. Lasts for 2 turns.
+61433	Armor Break 3	When the enemy's Defense decreases	 permanently increase Phantom Thieves' Defense by 4%. Stacks up to 5 times.
+61443	Armor Break 4	When a foe first takes an attack	 decreases Defense by 25%. Lasts for 2 turns.
+6145	Armor Break Set 2	At the start of battle	 decreases all enemies' Defense by 20%.
+6146	Armor Break Set 4	Deal additional damage to foes with reduced Defense. The more reduced the Defense	 the more damage dealt.
+61511	Lunge 1	Increases Attack % for first 2 turns.
+61521	Lunge 2	Increases Defense % for first 2 turns.
+61531	Lunge 3	Grants a damage/healing bonus for each Phantom Thief on their first attack in battle.
+61541	Lunge 4	Increases party's Attack for two turns when a foe is killed. Can stack twice and each turn is counted separately.
+61512	Lunge 1	Increases Attack % for first 2 turns.
+61522	Lunge 2	Increases Defense % for first 2 turns.
+61532	Lunge 3	Grants a damage/healing bonus for each Phantom Thief on their first attack in battle.
+61542	Lunge 4	Increases party's Attack for two turns when a foe is killed. Can stack twice and each turn is counted separately.
+61513	Lunge 1	Increases Attack % for first 2 turns.
+61523	Lunge 2	Increases Defense % for first 2 turns.
+61533	Lunge 3	Grants a damage/healing bonus for each Phantom Thief on their first attack in battle.
+61543	Lunge 4	Increases party's Attack for two turns when a foe is killed. Can stack twice and each turn is counted separately.
+6155	Lunge Set 2	Attack is greatly increased for the first two turns. This buff is reapplied on each of the party's next 5 turns.
+6156	Lunge Set 4	For the first 2 turns	 damage is greatly increased. Defeating a foe will extend this buff. When leveled up	 increase critical hit rate.
+61611	Growth 1	Attack Up each turn.
+61621	Growth 2	Defense Up each turn.
+61631	Growth 3	Increases Attack for each buff.
+61641	Growth 4	Applies buff on party's first turn.
+61612	Growth 1	Attack Up each turn.
+61622	Growth 2	Defense Up each turn.
+61632	Growth 3	Increases Attack for each buff.
+61642	Growth 4	Applies buff on allies' first turn.
+61613	Growth 1	Attack Up each turn.
+61623	Growth 2	Defense Up each turn.
+61633	Growth 3	Increases Attack for each buff.
+61643	Growth 4	Applies buff on allies' first turn.
+6165	Growth Set 2	When attacking	 increases Attack or Healing based on current amount of buffs.
+6166	Growth Set 4	Increases party's Attack	 Defense	 and main attribute at the start of battle. Applies a random buff on each subsequent turn.
+61711	Inferno 1	Enemies with less than 50% HP take increased damage.
+61721	Inferno	Recover HP when attacking a target with Recovery Block.
+61731	Inferno 3	Increases critical rate when using Fire skills.
+61741	Inferno 4	Increases party's overall Fire damage any time Fire damage is dealt to enemies. Stacks up to 3 times.
+61712	Inferno 1	Enemies with 50% HP or less take higher damage.
+61722	Inferno	Recover HP when attacking a target with Recovery Block.
+61732	Inferno 3	Increases critical rate when using Fire skills.
+61742	Inferno 4	Increases party's overall Fire damage any time Fire damage is dealt to enemies. Stacks up to 3 times.
+61713	Inferno 1	Enemies with 50% HP or less take higher damage.
+61723	Inferno	Recover HP when attacking a target with Recovery Block.
+61733	Inferno 3	Increases critical rate when using Fire skills.
+61743	Inferno 4	Increases party's overall Fire damage any time Fire damage is dealt to enemies. Stacks up to 3 times.
+6175	Inferno Set 2	Increases Attack based on the total number of foes.
+6176	Inferno Set 4	Permanently increases Fire damage after defeating a foe with Fire damage. Can carry over into next battle.

@@ -1,0 +1,543 @@
+sn	name	desc
+1	Special Effect	Increase party's Physical damage by 20%.
+2	Special Effect	Increase party's Gun damage by 20%.
+3	Special Effect	Increase party's Fire damage by 20%.
+4	Special Effect	Increase party's Ice damage by 20%.
+5	Special Effect	Increase party's Electric damage by 20%.
+6	Special Effect	Increase party's Wind damage by 20%.
+7	Special Effect	Increase party's Psychokinesis damage by 20%.
+8	Special Effect	Increase party's Nuclear damage by 20%.
+9	Special Effect	Increase party's Bless damage by 20%.
+10	Special Effect	Increase party's Curse damage by 20%.
+11	Special Effect	Increase party's Almighty damage by 20%.
+12	Special Effect	Increase party's <color=#FFFC40>critical damage</color> by 50%.
+13	Special Effect	Increase <color=#FFFC40>Assassin</color> allies' damage by 20%.
+14	Special Effect	Increase <color=#FFFC40>Sweeper</color> allies' damage by 20%.
+15	Special Effect	Increase <color=#FFFC40>Medic</color> allies' damage by 20%.
+16	Special Effect	Increase <color=#FFFC40>Guardian</color> allies' damage by 20%.
+17	Special Effect	Increase <color=#FFFC40>Strategist</color> allies' damage by 20%.
+18	Special Effect	Increase <color=#FFFC40>Saboteur</color> allies' damage by 20%.
+21	Special Effect	Foes inflicted with Burn take 20% increased damage.
+22	Special Effect	Foes inflicted with Freeze take 20% increased damage.
+23	Special Effect	Foes inflicted with Shock take 20% increased damage.
+24	Special Effect	Foes inflicted with Windswept take 20% increased damage.
+25	Special Effect	Foes inflicted with elemental ailments take 20% increased damage.
+31	Special Effect	All foes become weak to Physical.
+32	Special Effect	All foes become weak to Gun.
+33	Special Effect	All foes become weak to Fire.
+34	Special Effect	All foes become weak to Ice.
+35	Special Effect	All foes become weak to Electric.
+36	Special Effect	All foes become weak to Wind.
+37	Special Effect	All foes become weak to Psychokinesis.
+38	Special Effect	All foes become weak to Nuclear.
+39	Special Effect	All foes become weak to Blessing.
+40	Special Effect	All foes become weak to Curse.
+41	Special Effect	Increase damage of allies with Blessings by 25%.
+42	Special Effect	<color=#FF423F>Shielded</color> allies deal 20% more damage.
+43	Special Effect	Party's <color=#FFFC40>Highlight</color> damage is increased by 50%.
+44	Special Effect	<color=#FFFC40>Wonder</color> deals 50% more <color=#FFFC40>final damage</color>. Other allies deal 80% less final damage.
+45	Special Effect	Allies will not deal critical hits	 but will deal increased <color=#FFFC40>final damage</color> with skills and Resonance. The increase is equal to critical hit rate × (critical damage - 100%). (Max critical hit rate in this calculation is 100%).
+46	Special Effect	<color=#FFFC40>Wonder</color> deals 50% more <color=#FFFC40>final damage</color>.
+47	Special Effect	Other allies deal 80% less final damage.
+48	Special Effect	If the party contains Guardians or Medics	 decrease all foes' final damage by 60% and increase final damage taken by 20%. If not	 increase all foes' final damage by 60%.
+101	Special Effect	Decrease party's Physical damage by 20%.
+102	Special Effect	Decrease party's Gun damage by 20%.
+103	Special Effect	Decrease party's Fire damage by 20%.
+104	Special Effect	Decrease party's Ice damage by 20%.
+105	Special Effect	Decrease party's Electric damage by 20%.
+106	Special Effect	Decrease party's Wind damage by 20%.
+107	Special Effect	Decrease party's Psychokinesis damage by 20%.
+108	Special Effect	Decrease party's Nuclear damage by 20%.
+109	Special Effect	Decrease party's Bless damage by 20%.
+110	Special Effect	Decrease party's Curse damage by 20%.
+111	Special Effect	Decrease party's Almighty damage by 20%.
+112	Special Effect	Decrease party's <color=#FFFC40>critical damage</color> by 50%.
+113	Special Effect	Decrease <color=#FFFC40>Assassin</color> allies' damage by 20%.
+114	Special Effect	Decrease <color=#FFFC40>Sweeper</color> allies' damage by 20%.
+115	Special Effect	Decrease <color=#FFFC40>Medic</color> allies' damage by 20%.
+116	Special Effect	Decrease <color=#FFFC40>Guardian</color> allies' damage by 20%.
+117	Special Effect	Decrease <color=#FFFC40>Strategist</color> allies' damage by 20%.
+118	Special Effect	Decrease <color=#FFFC40>Saboteur</color> allies' damage by 20%.
+131	Special Effect	All foes' Physical affinity becomes Resist.
+132	Special Effect	All foes' Gun affinity becomes Resist.
+133	Special Effect	All foes' Fire affinity becomes Resist.
+134	Special Effect	All foes' Ice affinity becomes Resist.
+135	Special Effect	All foes' Electric affinity becomes Resist.
+136	Special Effect	All foes' Wind affinity becomes Resist.
+137	Special Effect	All foes' Psychokinesis affinity becomes Resist.
+138	Special Effect	All foes' Nuclear affinity becomes Resist.
+139	Special Effect	All foes' Bless affinity becomes Resist.
+140	Special Effect	All foes' <color=#FF423F>Curse</color> affinity becomes Resist.
+201	Make Ready!	Increase party's ranged attack damage by 10%.
+202	Load!	When any ally runs out of ammo	 fully reload after 2 turns.
+203	Aim!	When party makes ranged attacks	 increase Gun damage by 10%.
+204	Fire at Will!	When party makes ranged attacks	 increase Gun damage by an additional 10%.
+205	Light 'em up!	When any ally runs out of ammo	 fully reload after 1 turn.
+301	Statue Effect	Statue Effect Active
+302	Statue Effect	Statue Effect Active
+303	Statue Effect	Statue Effect Active
+304	Statue Effect	Statue Effect Active
+305	Statue Effect	Statue Effect Active
+306	Statue Effect	Statue Effect Active
+307	Statue Effect	Statue Effect Active
+308	Statue Effect	Statue Effect Active
+309	Statue Effect	Statue Effect Active
+310	Statue Effect	Statue Effect Active
+311	Statue Effect	Statue Effect Active
+312	Statue Effect	Statue Effect Active
+313	Statue Effect	Statue Effect Active
+314	Statue Effect	Statue Effect Active
+315	Statue Effect	Statue Effect Active
+316	Statue Effect	Statue Effect Active
+317	Statue Effect	Statue Effect Active
+318	Statue Effect	Statue Effect Active
+319	Statue Effect	Statue Effect Active
+320	Statue Effect	Statue Effect Active
+321	Statue Effect	Statue Effect Active
+322	Statue Effect	Statue Effect Active
+323	Statue Effect	Statue Effect Active
+324	Statue Effect	Statue Effect Active
+325	Statue Effect	Statue Effect Active
+326	Statue Effect	Statue Effect Active
+327	Statue Effect	Statue Effect Active
+328	Statue Effect	Statue Effect Active
+329	Statue Effect	Statue Effect Active
+330	Statue Effect	Statue Effect Active
+331	Statue Effect	Statue Effect Active
+332	Statue Effect	Statue Effect Active
+333	Statue Effect	Statue Effect Active
+334	Statue Effect	Statue Effect Active
+335	Statue Effect	Statue Effect Active
+336	Statue Effect	Statue Effect Active
+337	Statue Effect	Statue Effect Active
+338	Statue Effect	Statue Effect Active
+339	Statue Effect	Statue Effect Active
+340	Statue Effect	Statue Effect Active
+341	Painting Effect	Painting Effect Active
+342	Painting Effect	Painting Effect Active
+343	Painting Effect	Painting Effect Active
+344	Painting Effect	Painting Effect Active
+345	Painting Effect	Painting Effect Active
+346	Painting Effect	Painting Effect Active
+347	Painting Effect	Painting Effect Active
+348	Painting Effect	Painting Effect Active
+349	Painting Effect	Painting Effect Active
+350	Painting Effect	Painting Effect Active
+351	Painting Effect	Painting Effect Active
+352	Painting Effect	Painting Effect Active
+353	Painting Effect	Painting Effect Active
+354	Painting Effect	Painting Effect Active
+355	Painting Effect	Painting Effect Active
+356	Painting Effect	Painting Effect Active
+357	Painting Effect	Painting Effect Active
+358	Painting Effect	Painting Effect Active
+359	Painting Effect	Painting Effect Active
+360	Painting Effect	Painting Effect Active
+361	Painting Effect	Painting Effect Active
+362	Painting Effect	Painting Effect Active
+363	Painting Effect	Painting Effect Active
+364	Painting Effect	Painting Effect Active
+365	Painting Effect	Painting Effect Active
+366	Painting Effect	Painting Effect Active
+367	Painting Effect	Painting Effect Active
+368	Painting Effect	Painting Effect Active
+369	Painting Effect	Painting Effect Active
+370	Painting Effect	Painting Effect Active
+371	Painting Effect	Painting Effect Active
+372	Painting Effect	Painting Effect Active
+373	Painting Effect	Painting Effect Active
+374	Painting Effect	Painting Effect Active
+375	Painting Effect	Painting Effect Active
+376	Painting Effect	Painting Effect Active
+377	Painting Effect	Painting Effect Active
+378	Painting Effect	Painting Effect Active
+379	Painting Effect	Painting Effect Active
+380	Painting Effect	Painting Effect Active
+381	Painting Effect	Painting Effect Active
+382	Painting Effect	Painting Effect Active
+383	Painting Effect	Painting Effect Active
+384	Painting Effect	Painting Effect Active
+385	Painting Effect	Painting Effect Active
+386	Painting Effect	Painting Effect Active
+387	Painting Effect	Painting Effect Active
+388	Painting Effect	Painting Effect Active
+389	Painting Effect	Painting Effect Active
+390	Painting Effect	Painting Effect Active
+391	Painting Effect	Painting Effect Active
+392	Painting Effect	Painting Effect Active
+393	Painting Effect	Painting Effect Active
+394	Painting Effect	Painting Effect Active
+395	Painting Effect	Painting Effect Active
+396	Painting Effect	Painting Effect Active
+397	Painting Effect	Painting Effect Active
+398	Painting Effect	Painting Effect Active
+399	Painting Effect	Painting Effect Active
+400	Painting Effect	Painting Effect Active
+401	Painting Effect	Painting Effect Active
+402	Painting Effect	Painting Effect Active
+403	Painting Effect	Painting Effect Active
+404	Painting Effect	Painting Effect Active
+405	Painting Effect	Painting Effect Active
+406	Painting Effect	Painting Effect Active
+407	Painting Effect	Painting Effect Active
+408	Painting Effect	Painting Effect Active
+409	Painting Effect	Painting Effect Active
+410	Painting Effect	Painting Effect Active
+411	Painting Effect	Painting Effect Active
+412	Painting Effect	Painting Effect Active
+413	Painting Effect	Painting Effect Active
+414	Painting Effect	Painting Effect Active
+415	Painting Effect	Painting Effect Active
+416	Painting Effect	Painting Effect Active
+417	Painting Effect	Painting Effect Active
+418	Painting Effect	Painting Effect Active
+419	Painting Effect	Painting Effect Active
+420	Painting Effect	Painting Effect Active
+421	Painting Effect	Painting Effect Active
+422	Painting Effect	Painting Effect Active
+423	Painting Effect	Painting Effect Active
+424	Painting Effect	Painting Effect Active
+425	Painting Effect	Painting Effect Active
+426	Painting Effect	Painting Effect Active
+427	Painting Effect	Painting Effect Active
+428	Painting Effect	Painting Effect Active
+429	Painting Effect	Painting Effect Active
+430	Painting Effect	Painting Effect Active
+431	Painting Effect	Painting Effect Active
+432	Painting Effect	Painting Effect Active
+433	Painting Effect	Painting Effect Active
+434	Painting Effect	Painting Effect Active
+435	Painting Effect	Painting Effect Active
+436	Painting Effect	Painting Effect Active
+437	Painting Effect	Painting Effect Active
+438	Painting Effect	Painting Effect Active
+439	Painting Effect	Painting Effect Active
+440	Painting Effect	Painting Effect Active
+441	Painting Effect	Painting Effect Active
+442	Painting Effect	Painting Effect Active
+443	Painting Effect	Painting Effect Active
+444	Painting Effect	Painting Effect Active
+445	Painting Effect	Painting Effect Active
+446	Painting Effect	Painting Effect Active
+447	Painting Effect	Painting Effect Active
+448	Painting Effect	Painting Effect Active
+449	Painting Effect	Painting Effect Active
+450	Painting Effect	Painting Effect Active
+451	Painting Effect	Painting Effect Active
+452	Painting Effect	Painting Effect Active
+453	Painting Effect	Painting Effect Active
+454	Painting Effect	Painting Effect Active
+455	Painting Effect	Painting Effect Active
+456	Painting Effect	Painting Effect Active
+457	Painting Effect	Painting Effect Active
+458	Painting Effect	Painting Effect Active
+459	Painting Effect	Painting Effect Active
+460	Painting Effect	Painting Effect Active
+461	Painting Effect	Painting Effect Active
+462	Painting Effect	Painting Effect Active
+501	Statue Effect	Statue Effect Active
+502	Statue Effect	Statue Effect Active
+503	Statue Effect	Statue Effect Active
+504	Statue Effect	Statue Effect Active
+505	Statue Effect	Statue Effect Active
+506	Statue Effect	Statue Effect Active
+507	Statue Effect	Statue Effect Active
+508	Statue Effect	Statue Effect Active
+509	Statue Effect	Statue Effect Active
+510	Statue Effect	Statue Effect Active
+511	Statue Effect	Statue Effect Active
+512	Statue Effect	Statue Effect Active
+513	Statue Effect	Statue Effect Active
+514	Statue Effect	Statue Effect Active
+515	Statue Effect	Statue Effect Active
+516	Statue Effect	Statue Effect Active
+517	Statue Effect	Statue Effect Active
+518	Statue Effect	Statue Effect Active
+519	Statue Effect	Statue Effect Active
+520	Statue Effect	Statue Effect Active
+521	Statue Effect	Statue Effect Active
+522	Statue Effect	Statue Effect Active
+523	Statue Effect	Statue Effect Active
+524	Statue Effect	Statue Effect Active
+525	Statue Effect	Statue Effect Active
+526	Statue Effect	Statue Effect Active
+527	Statue Effect	Statue Effect Active
+528	Statue Effect	Statue Effect Active
+529	Statue Effect	Statue Effect Active
+530	Statue Effect	Statue Effect Active
+1001	Special Effect	At the start of battle	 all allies gain 2 Seal of Power stacks. Gain 1 stack when inflicting weakness damage on foes. Lose 1 stack automatically at the end of each turn.
+Seal of Power: Increase final damage by 15% per stack. Lasts for 2 turns. Stacks up to 2 times.
+Also gain effects from Stable Domain during battle.
+Stable Domain: Allies cannot deal critical hits. Final damage is based on critical rate and critical damage.
+1002	Special Effect	When using a skill or Resonance	 gain 1 Seal of Power stack.
+Increase party's final damage by 15% for each stack	 and lose 1 stack after attacking. Stacks up to 3 times.
+Also gain effects from Stable Domain during battle.
+Stable Domain: Allies cannot deal critical hits. Final damage is based on critical rate and critical damage.
+1003	Special Effect	At the start of each turn	 gain 1 Seal of Power stack for each max HP increase. Gain 1 Seal of Power stack when dealing damage with a Resonance.
+Seal of Power: Increase final damage by 10% for each stack.
+Also gain effects from Stable Domain during battle.
+Stable Domain: Allies cannot deal critical hits. Final damage is based on critical rate and critical damage.
+1004	Special Effect	When dealing damage with a Resonance	 inflict 1 Magnetic Interference stack on target. When healing an ally with a skill	 inflict 1 Magnetic Interference stack on a random foe.
+Also gain effects from Stable Domain during battle.
+Stable Domain: Allies cannot deal critical hits. Final damage is based on critical rate and critical damage.
+1005	Special Effect	When a Strategist uses a buff skill	 all allies gain Yang Energy. When a Saboteur uses a debuff skill	 all allies gain Yin Energy.
+1006	Special Effect	After all ally actions	 all enemies are inflicted with an elemental ailment	 and their taken damage increases by 10%.
+1007	Special Effect	Increase Elucidator allies' stat buff effects by 30%.
+1008	Special Effect	When allies activate a Highlight	 all allies obtain 1 Mark of Augmentation.
+Mark of Augmentation: Increases Attack by 30%. Lasts for 2 turns. Stacks up to 3 times.
+1009	Special Effect	When an ally spends HP to use a skill	 they obtain 4 stacks of Blood's Grace. When allies activate a Highlight	 all allies get 2 stacks of Blood's Grace. Lose 1 stack of Blood's Grace at the end of each turn.
+1010	Special Effect	When dealing damage with Resonance	 healing allies with Resonance	 or when health is used to activate a skill	 all allies gain 1 stack of Mental Link.
+Mental Link: Attack increases by 10% for each stack. Lasts for 2 turns. Stacks up to 8 times.
+1011	Special Effect	When dealing damage with Resonance	 obtain Wild Fury.
+Wild Fury: Final damage increases by 20%. Lasts for 2 turns. Stacks up to 2 times.
+1012	Special Effect	When an ally spends HP to use a skill	 they obtain a stack of Sacrificial Blessing.
+Sacrificial Blessing: Final damage increases by 40%.
+1013	Special Effect	Increase Elucidator allies' stat buff effects by 30%. When an ally deals a weakness attack	 give user Tremor Amplification. Tremor Amplification: Increase final damage by 40%. Lasts for 2 turns.
+1014	Special Effect	When allies gain a shield	 they also gain Charge Field. Allies can also gain Charge Field when they deal weakness damage.
+Charge Field: Final damage is increased by 5%. Lasts for 2 turns. Stacks up to 8 times.
+1015	Special Effect	When allies deal weakness damage	 they gain 4 Charge Field stacks. When allies gain a shield	 they gain 1 Charge Field stack.
+Charge Field: Final damage is increased by 5%. Lasts for 1 turn. Stacks up to 8 times.
+1016	Special Effect	At the start of battle	 all allies gain 2 Magnetic Force stacks. Gain 1 stack after dealing weakness damage.
+Magnetic Force: Final damage increased by 20% per stack. Lose 1 stack at the end of each turn. Stacks up to 2 times.
+1017	Special Effect	After dealing damage with skills or Resonance	 gain 1 Impact stack.
+Impact: Deal 5% final damage for each stack. Lasts for 2 turns. Stacks up to 8 times.
+2001	Special Effect	For each <color=#FFFC40>debuff</color> inflicted on foes	 their damage taken increases by 3%. Maximum of 30%.
+2002	Special Effect	Damage taken by foes increases by 50% once. Afterwards	 their damage taken decreases by 50%. Stacks up to 2 times. Resets after 2 turns.
+2003	Special Effect	Damage taken by foes decreases by 50% once. Afterwards	 their damage taken increases by 20%. Stacks up to 4 times. Resets after 2 turns.
+2004	Special Effect	Increase party's <color=#FFFC40>Resonance</color> damage dealt by 50%.
+2005	Special Effect	After the boss takes an action	 all foes are inflicted with <color=#FFFC40>Intimidation</color>. When Intimidation is removed	 all allies will be inflicted with Intimidation.
+Intimidation: Decrease Defense by 10%. Maximum of 50%.
+2006	Special Effect	For each <color=#FFFC40>elemental ailment</color> inflicted on foes	 damage taken increases by 10%. Maximum of 40%.
+2007	Special Effect	Whenever allies take damage	 that ally's damage increases by 1%. Lasts for 3 turns. Stacks up to 80 times.
+2008	Special Effect	The boss will change its affinities. Party's <color=#FFFC40>weakness damage</color> increases by 50%.
+2009	Special Effect	When any ally receives <color=#FFFC40>healing</color>	 their final damage increases by 8%. Lasts for 2 turns. Stacks up to 4 times.
+2010	Special Effect	When any ally receives <color=#FFFC40>healing from a Resonance</color>	 increase their final damage by 8%. Lasts for 2 turns. Stacks up to 2 times.
+2011	Special Effect	Whenever allies take damage	 that ally's damage increases by 4%. Lasts for 3 turns. Stacks up to 10 times.
+2012	Special Effect	For each <color=#FFFC40>debuff</color> inflicted on foes	 their damage taken increases by 3%. Maximum of 45%.
+2013	Special Effect	After party gains <color=#FFFC40>shields</color>	 the final damage of their <color=#FFFC40>Resonance</color> increases by 8%. Lasts for 3 turns. Stacks up to 8 times.
+2014	Special Effect	All allies' final damage is increased based on their ailment accuracy. Maximum of 150% ailment accuracy	 increasing final damage by 15%.
+2015	Special Effect	Increase all allies' <color=#FFFC40>Resonance</color> critical damage by 25%	 and Attack by 25%.
+2101	Special Effect	Dominion will summon continuous waves of Angels. When an Angel is defeated	 SP is restored.
+When Dominion is weakened	 damage dealt to Angels is added to your score.
+2102	Special Effect	Dominion continuously summons waves of Angels. You can restore SP when you defeat an Angel.
+When you deal damage to a summoned Angel	 your score increases.
+2501	Special Effect	After the boss deals damage	 the target is inflicted with 1 stack of <color=#FFFC40>Wicked Poison</color>.
+Wicked Poison: Lose a certain amount of HP at the end of each turn	 and final damage taken is increased by 10%. Stacks up to 7 times. Can be removed.
+2502	Special Effect	At the end of each turn	 grant foes 1 stack of <color=#FFFC40>Berserk</color>.
+Berserk: Increase final damage by 15%. Can be stacked.
+2601	Special Effect	Allies with a <color=#FF423F>shield</color> have their final damage taken decreased by 40%.
+2602	Special Effect	When any ally receives <color=#FFFC40>healing</color>	 their final damage taken decreases by 12%. Lasts for 3 turns. Stacks up to 4 times.
+3001	Special Effect	All foes take 100% increased damage from All-Out Attacks.
+3021	Special Effect	After foes take damage	 party's damage increases by 5%. Maximum of 50%.
+3022	Special Effect	When a foe is defeated	 party's damage increases by 25%. Maximum of 50%.
+3023	Special Effect	At the start of battle	 all allies lose 50% HP. Also	 party's healing and shield effects are increased by 20%	 and after receiving healing or a shield	 damage is increased by 50%.
+3043	Special Effect	Increase party's Fire damage by 50%.
+3044	Special Effect	Increase party's Ice damage by 50%.
+3045	Special Effect	Increase party's Electric damage by 50%.
+3046	Special Effect	Increase party's Wind damage by 50%.
+3047	Special Effect	Increase party's Psychokinesis damage by 50%.
+3048	Special Effect	Increase party's Nuclear damage by 50%.
+3049	Special Effect	Increase party's Bless damage by 50%.
+3050	Special Effect	Increase party's Curse damage by 50%.
+3051	Special Effect	Increase party's <color=#FF423F>Resonance</color> damage by 50%.
+3052	Special Effect	Increase party's <color=#FF423F>Highlight</color> damage by 50%.
+4001	Special Effect	Increase Elucidator allies' <color=#FFFC40>stat buff</color> effects by 25%.
+4003	Special Effect	Increase party's Physical/Gun damage by 20%.
+4004	Special Effect	Increase party's Fire/Psy damage by 20%.
+4005	Special Effect	Increase party's Ice/Nuclear damage by 20%.
+4006	Special Effect	Increase party's Electric/Bless damage by 20%.
+4007	Special Effect	Increase party's Wind/Curse damage by 20%.
+4501	Special Effect	<color=#FFFC40>Assassin</color> allies' final damage is increased by 30%. Other allies' final damage is decreased by 30%.
+4502	Special Effect	<color=#FFFC40>Sweeper</color> allies' final damage is increased by 30%. Other allies' final damage is decreased by 30%.
+4511	Special Effect	Fire/Ice/Electric/Wind attribute allies' final damage is increased by 30%. Allies with other attributes have their final damage decreased by 30%.
+4512	Special Effect	Psychokinesis/Nuclear/Electric/Wind attribute allies' final damage is increased by 30%. Allies with other attributes have their final damage decreased by 30%.
+4513	Special Effect	Physical/Nuclear/Electric/Wind attribute allies' final damage is increased by 30%. Allies with other attributes have their final damage decreased by 30%.
+4521	Special Effect	All foes take 5% increased final damage for each <color=#FFFC40>elemental ailment</color> they have. If a foe has all 4 <color=#FFFC40>elemental ailments</color> at the same time	 final damage taken is increased by an additional 40%.
+4522	Special Effect	Foes are susceptible to <color=#FFFC40>spiritual ailments</color>. When an ally inflicts a <color=#FFFC40>spiritual ailment</color>	 their ailment accuracy will be greatly increased. Foes with <color=#FFFC40>spiritual ailments</color> take an increased 60% final damage.
+4523	Special Effect	When all allies are affected by <color=#FFFC40>spiritual ailments</color>	 ailment accuracy is greatly increased.
+4524	Special Effect	Foes have increased resistance to spiritual ailments. However	 foes affected by a <color=#FFFC40>spiritual ailment</color> take 60% increased final damage.
+4531	Special Effect	When allies activate <color=#FFFC40>Resonance</color>	 increase their final damage by 100%.
+4532	Special Effect	When allies inflict <color=#FFFC40>continuous damage</color> effects	 final damage is increased by 200%.
+4533	Special Effect	The Highlight gauge will be filled 20% slower	 but Highlights deal 200% increased final damage.
+4541	Special Effect	When allies gain a <color=#FFFC40>shield</color>	 their final damage is increased by 8%. Lasts for 3 turns. Stacks up to 8 times.
+4542	Special Effect	When allies receive <color=#FFFC40>healing from a Resonance</color>	 increase thier final damage by 30%. Lasts for 2 turns. Stacks up to 2 times.
+4551	Special Effect	When allies get an <color=#FFFC40>extra action</color>	 final damage is increased by 120%.
+4552	Special Effect	At the start of battle	 and at the start of the enemy's action	 the enemy will change 1 random affinity to Weak (only the most recent Weak affinity will apply). When the enemy takes damage from a 1 More or All-out Attack	 damage taken is increased by 400%.
+4553	Special Effect	All enemies' max HP is decreased by 50%	 and heal 10% of max HP at the end of each turn.
+4554	Special Effect	The lower all enemies' current HP	 the more their final damage is increased. When HP is below 20%	 the maximum damage increase is 40%.
+5001	Special Effect	At the start of battle	 and after every 5 turns	 all allies and enemies take a certain amount of damage and gain 1 stack of <color=#FFFC40>Power of Passion</color>.
+Power of Passion: Damage taken increased by 5%. Stacks up to 15 times. Can be removed.
+5002	Special Effect	When an ally deals damage with a skill	 they gain 1 Attribute Seal. When the total number of Attribute Seals reaches 7	 spend all Attribute Seals and activate Starfall.
+Starfall: Deals 7 hits of Almighty damage to random foes. Repeated hits on the same foe deal less damage.
+5003	Special Effect	When an ally uses a <color=#FFFC40>Highlight</color>	 gain 1 Blazing Starfire stack. When Blazing Starfire reaches 4 stacks	 spend all Blazing Starfire and activate Sparkling Stage.
+Sparkling Stage: Randomly grants 10 buffs to allies. The following buffs may each be applied to 1 random ally.
+Increase Attack by 15%.
+Increase Defense by 22.5%.
+Increase max HP by 15%.
+Increase damage by 12%.
+Increase ailment accuracy by 18%.
+Increase pierce by 6%.
+Increase critical rate by 9%.
+Increase critical damage by 18%.
+Increase pierce resistance by 7.5%.
+Increase weakness damage by 6%.
+6001	Node Breaker	<color=#FF423F>Node Breaker</color>: <color=#fffc40>Combat Chip</color>. When an ally defeats a foe	 gain <color=#fffc40>10</color> deployment points. Increase ally damage by <color=#fffc40>30%</color>.
+6002	Vulnerability Cracking	<color=#FF423F>Vulnerability Cracking</color>: <color=#fffc40>Combat Chip</color>. When an ally deals weakness damage	 gain <color=#fffc40>3</color> deployment points. Increase ally weakness damage by <color=#fffc40>37.5%</color>.
+6003	Synchro-attack	<color=#FF423F>Synchro-attack</color>: <color=#fffc40>Combat Chip</color>. When allies take damage of their own attribute	 gain <color=#fffc40>4</color> deployment points. Increase damage by <color=#fffc40>60%</color> more.
+6004	Flooding Device	<color=#FF423F>Flooding Device</color>: <color=#fffc40>Combat Chip</color>. Each time allies attack	 gain <color=#fffc40>1</color> deployment point. After every 10 ally attacks	 increase party's Attack by <color=#fffc40>40%</color> for 1 turn.
+6005	Trojan Horse	<color=#FF423F>Trojan Horse</color>: <color=#fffc40>Combat Chip</color>. When an ally activates a Resonance	 gain <color=#fffc40>5</color> deployment points (only once per action). Increase ally Resonance damage dealt by <color=#fffc40>60%</color>.
+6006	Overload	<color=#FF423F>Overload</color>: <color=#fffc40>Combat Chip</color>. When an ally deals critical damage	 gain <color=#fffc40>4</color> deployment points. Increase ally critical rate by <color=#fffc40>18%</color>.
+6011	Bughack-I0	<color=#FF423F>Bughack-I0</color>: When a <color=#fffc40>Self-Destruct Bot</color> attacks	 80% chance to grant <color=#fffc40>2</color> random weaknesses to the target. Lasts for 2 turns.
+6012	Shieldbreak-N1	<color=#FF423F>Shieldbreak-N1</color>: After taking an attack from a <color=#fffc40>Self-Destruct Bot</color>	 increase target's damage taken from an ally with a shield by <color=#fffc40>30%</color>. Lasts for 2 turns.
+6013	Elemental Combat-T0	<color=#FF423F>Elemental Combat-T0</color>: When a <color=#fffc40>Self-Destruct Bot</color> attacks	 increase target's Fire	 Ice	 Electric	 and Wind damage taken by <color=#fffc40>40%</color> for 2 turns. Only activates once per battle.
+6014	Elemental Combat-E2	<color=#FF423F>Elemental Combat-E2</color>: After taking an attack from a <color=#fffc40>Self-Destruct Bot</color>	 increase target's Psychokinesis	 Nuclear	 Bless	 and Curse damage taken by 40% for 2 turns. Only activates once per battle.
+6015	Electrojammer-R0	<color=#FF423F>Electrojammer-R0</color>: After taking an attack from a <color=#fffc40>Self-Destruct Bot</color>	 decrease target's damage by <color=#fffc40>25%</color> for 2 turns.
+6016	Firewall Buster-N3	<color=#FF423F>Firewall Buster-N3</color>: After taking an attack from a <color=#fffc40>Self-Destruct Bot</color>	 increase target's damage taken by <color=#fffc40>5%</color> for 2 turns. Increase damage taken by <color=#fffc40>5%</color> more for each debuff target has	 up to <color=#fffc40>30%</color>.
+6017	Trojan Replicator-E9	<color=#FF423F>Trojan Replicator-E9</color>: After taking an attack from a <color=#fffc40>Self-Destruct Bot</color>	 permanently increase damage taken by <color=#fffc40>15%</color>. Stacks up to 3 times.
+6018	Volt Regulator-T1	<color=#FF423F>Volt Regulator-T1</color>: After taking an attack from a <color=#fffc40>Self-Destruct Bot</color>	 decrease target's critical resistance by <color=#fffc40>9%</color> for 2 turns.
+6021	Voltage Amp-E2	<color=#FF423F>Voltage Amp-E2</color>: When a <color=#fffc40>Combat Drone</color> attacks	 increase all allies' all allies' Attack by <color=#fffc40>20%</color>. Lasts for 1 turn.
+6022	Firewall Booster-X3	<color=#FF423F>Firewall Booster-X3</color>: When a <color=#fffc40>Combat Drone</color> attacks	 increase all allies' Defense by <color=#fffc40>30%</color>. Lasts for 1 turn.
+6023	Data Recovery-P1	<color=#FF423F>Data Recovery-P1</color>: When a <color=#fffc40>Combat Drone</color> attacks	 restore all allies' HP by <color=#fffc40>15%</color>.
+6024	Memory Expansion-L9	<color=#FF423F>Memory Expansion-L9</color>: When a <color=#fffc40>Combat Drone</color> attacks	 restore all allies' SP by <color=#fffc40>15%</color>.
+6025	Charging-O1	<color=#FF423F>Charging-O1</color>: When a <color=#fffc40>Combat Drone</color> attacks	 50% chance to fill the Highlight gauge.
+6026	Trojan Hack-S8	<color=#FF423F>Trojan Hack-S8</color>: After a <color=#fffc40>Combat Drone</color> attacks	 all allies' attacks have a <color=#fffc40>50%</color> chance to inflict 1 random elemental ailment on the target. Lasts for 1 turn.
+6027	Data Encryption-I4	<color=#FF423F>Data Encryption-I4</color>: When a <color=#fffc40>Combat Drone</color> attacks	 grant the ally with the lowest HP a shield equal to <color=#fffc40>80%</color> of their lost HP (250 or more). Lasts for 2 turns.
+6028	Chip Overclock-O1	<color=#FF423F>Chip Overclock-O1</color>: When a <color=#fffc40>Combat Drone</color> attacks	 increase all allies' damage by <color=#fffc40>5%</color>. Increase damage <color=#fffc40>0.5%</color> more for each 1% of HP lost	 up to <color=#fffc40>40%</color>. Lasts for 1 turn.
+6029	Support Enhancer-N9	<color=#FF423F>Support Enhancer-N9</color>: When a <color=#fffc40>Combat Drone</color> attacks	 increase all allies' damage by <color=#fffc40>2.5%</color>. Increase damage by <color=#fffc40>7.5%</color> more for each <color=#fffc40>Combat Drone</color>. Lasts for 1 turn.
+6030	Algorithm Booster-F1	<color=#FF423F>Algorithm Booster-F1</color>: When a <color=#fffc40>Combat Drone</color> attacks	 decrease Elucidator allies' cooldown time by <color=#fffc40>1</color> turn.
+6031	Energy Circuit Amp-F2	<color=#FF423F>Energy Circuit Amp-F2</color>: Each time a <color=#fffc40>Combat Drone</color>'s attack hits a foe	 increase all allies' damage by <color=#fffc40>8%</color>	 up to <color=#fffc40>32%</color>. Lasts for 1 turn.
+6032	Electromagnetic Pulse-F3	<color=#FF423F>Electromagnetic Pulse-F3</color>: When a <color=#fffc40>Combat Drone</color> attacks	 1 random foe will be Marked. When a Marked foe is attacked	 spend Mark to deal a guaranteed critical hit.
+7001	Special Effect	When Dvesha's Nose is present	 all of Dvesha's Mouth's affinities change from Resist to Null.
+7002	Special Effect	When all of Dvesha's parts are revived	 its healing effect is increased.
+7003	Special Effect	Dvesha's Nose can attack even without twitching.
+7004	Special Effect	When Dvesha's Eye is defeated	 the other parts will be strengthened.
+7005	Special Effect	Dvesha's Eye can place Watchful Eye on 2 foes at the same time.
+7006	Special Effect	Targets marked by Koumokuten's Eye of Heaven take 50% increased damage. Koumokuten's Attack is increased by 40%.
+7011	Special Effect	All foes' Defense is increased by 10%.
+7012	Special Effect	All foes' max HP is increased by 10%.
+7013	Special Effect	All foes' Attack is increased by 10%.
+7014	Special Effect	All foes' damage is increased by 10%.
+7015	Special Effect	All foes' damage taken is decreased by 10%.
+7021	Special Effect	All foes' Defense is increased by 20%.
+7022	Special Effect	All foes' max HP is increased by 20%.
+7023	Special Effect	All foes' Attack is increased by 20%.
+7030	Special Effect	Party's damage is greatly increased	 and damage taken is greatly decreased.
+7031	Special Effect	When its guards are present	 all of Irshya's affinities change from Resist to Null.
+7032	Special Effect	Decrease allies' damage increase from Power of Money.
+7033	Special Effect	The effect of Incentivization on guards is increased.
+7034	Special Effect	Guards' HP is greatly increased.
+7035	Special Effect	At the end of Piggytron's action	 the effect of Berserk is increased.
+7041	Special Effect	When Cheerleaders are present	 all of Shadow Kiuchi's affinities change to Resist.
+7042	Special Effect	When preparing	 the number of foes targeted by Lock On increases to 2.
+7043	Special Effect	Cheerleaders' HP is greatly increased.
+7044	Special Effect	At the start of the turn	 gain 1 stack of Aphrodite's Blessing. Lose 1 stack when taking damage of the same attribute	 and gain 1 stack when taking damage of a different attribute. Aphrodite's Blessing: Start with 2 stacks. Damage taken decreases by 15% for each stack. Stacks up to 5 times.
+7045	Special Effect	Each time Windswept is inflicted	 damage increases by 15%. Stacks up to 8 times.
+7051	Special Effect	When a Demon Sword Clone is attacked	 Shadow Miyazawa's Attack buffs become permanent.
+7052	Special Effect	At the start of the action	 gain 1 stack of Pan's Protection. Lose 1 stack when taking damage of a different attribute	 and gain 1 stack when taking damage of the same attribute. Start with 2 stacks. Damage taken is decreased by 15% for each stack. Stacks up to 5 times.
+7053	Special Effect	When brainwashed	 damage dealt becomes normal attack damage.
+7054	Special Effect	When entering the screen	 restore 15% HP.
+7055	Special Effect	When exiting the screen	 Attack is permanently increased by 15%.
+7061	Special Effect	When Moha uses Wing Blast	 1 additional foe will be Marked	 increasing their damage taken by 25%.
+7062	Special Effect	The required Wrath for Moha to use Rapid Ascent is reduced to 8.
+7063	Special Effect	The damage of Moha's Sphinx Dive is greatly increased.
+7064	Special Effect	Allies' Ballista Energy gain rate is decreased by 50%.
+7065	Special Effect	Increase the effect of Moha's Growth	 and gain Growth every turn.
+7071	Special Effect	When Avidya uses Work Order	 summon 2 additional Corporobo MDL-AM and Corporobo MDL-DM.
+7072	Special Effect	Performance Evaluation selects 1 additional ally.
+7073	Special Effect	Overtime Order selects 1 additional ally.
+7074	Special Effect	When Avidya activates Selfless Devotion	 2 allies are selected at the same time	 and their self-destruct damage is greatly increased.
+7075	Special Effect	Corporobo MDL-ED's stats are greatly increased. If Corporobo MDL-ED is present when Corporobo MDL-GM is defeated	 it immediately summons another Corporobo MDL-GM.
+8001	Special Effect	All foes' Attack is increased by 10%.
+8002	Special Effect	All foes' Attack is increased by 25%.
+8003	Special Effect	All foes' Attack is increased by 50%.
+8004	Special Effect	All foes' max HP is increased by 25%.
+8005	Special Effect	All foes' max HP is increased by 50%.
+8006	Special Effect	All foes' max HP is increased by 100%.
+8007	Special Effect	All allies' Attack is decreased by 10%.
+8008	Special Effect	All allies' Attack is decreased by 25%.
+8009	Special Effect	All allies' Attack is decreased by 50%.
+8010	Special Effect	All allies' Defense is decreased by 15%.
+8011	Special Effect	All allies' Defense is decreased by 30%.
+8012	Special Effect	All allies' Defense is decreased by 60%.
+8013	Special Effect	All allies' max HP is decreased by 10%.
+8014	Special Effect	All allies' max HP is decreased by 20%.
+8015	Special Effect	All allies' max HP is decreased by 40%.
+8016	Special Effect	All allies' healing effect is decreased by 20%.
+8017	Special Effect	All allies' shield effect is decreased by 10%.
+8018	Special Effect	Elucidator allies' prep time is increased by 2 turns.
+8019	Special Effect	Decreases allies' Fire	 Ice	 Electric	 and Wind damage by 40%.
+8020	Special Effect	Decreases allies' Psy	 Nuclear	 Bless	 and Curse damage by 40%.
+8021	Special Effect	The Highlight gauge refills 35% slower.
+8022	Special Effect	The Highlight gauge refills 60% slower.
+8023	Special Effect	End the battle within 80 turns without any allies defeated.
+8024	Special Effect	End the battle within 60 turns without any allies defeated.
+8025	Special Effect	End the battle within 40 turns without any allies defeated.
+8026	Special Effect	Decreases allies' Fire	 Ice	 Electric	 and Wind damage by 80%.
+8027	Special Effect	Decreases allies' Psy	 Nuclear	 Bless	 and Curse damage by 80%.
+8028	Special Effect	Elucidator allies' prep time is increased by 6 turns.
+8029	Special Effect	All allies' healing effects are decreased by 45%.
+8030	Special Effect	All allies' shield effects are decreased by 25%.
+8031	Special Effect	All allies' healing effects are decreased by 100%.
+8032	Special Effect	All allies' shield effects are decreased by 40%.
+8101	Special Effect	The Wraith of Envy will continuously summon minions to fight.
+8102	Special Effect	The Wraith of Envy can Lock On to 1 more target	 and its max HP is increased by 80%.
+8103	Special Effect	When the Wraith of Envy locks on to a target	 its Attack increases by 10%	 and the target's damage taken increases by 10%.
+8104	Special Effect	When the Wraith of Envy locks on to a target	 its Attack increases by 20%	 and the target's damage taken increases by 25%.
+8105	Special Effect	When the Wraith of Envy locks on to a target	 its Attack increases by 30%	 and the target's damage taken increases by 40%.
+8106	Special Effect	The damage of the Wraith of Envy's Dark Whisper is increased by 15% and its Attack is increased by 10%.
+8107	Special Effect	The damage of the Wraith of Envy's Dark Whisper is increased by 35% and its Attack is increased by 25%.
+8108	Special Effect	The damage of the Wraith of Envy's Dark Whisper is increased by 60% and its Attack is increased by 40%.
+8109	Special Effect	The Wraith of Envy gains 3 Down Points	 and its max HP increases by 20%.
+8110	Special Effect	The Wraith of Envy gains 4 Down Points	 and its max HP increases by 50%.
+8111	Special Effect	The Wraith of Envy gains 5 Down Points	 and its max HP increases by 80%.
+8112	Special Effect	When the Wraith of Envy's Eye is destroyed	 it will be revived in 2 turns instead of 3. The Eye's max HP is increased by 50%.
+8113	Special Effect	When the Wraith of Envy is Weakened	 its damage taken is increased by 80% instead of 100%. Its max HP is increased by 20%.
+8114	Special Effect	When the Wraith of Envy is Weakened	 its damage taken is increased by 60% instead of 100%. Its max HP is increased by 50%.
+8115	Special Effect	When the Wraith of Envy is Weakened	 its damage taken is increased by 40% instead of 100%. Its max HP is increased by 80%.
+8116	Special Effect	The Wraith of Envy's Berserk state gets stronger. Each turn	 damage increases by 15%	 and max HP increases by 30%.
+8117	Special Effect	The Wraith of Envy's Berserk state gets stronger. Each turn	 damage increases by 20%	 and max HP increases by 65%.
+8118	Special Effect	The Wraith of Envy's Berserk state gets stronger. Each turn	 damage increases by 30%	 and max HP increases by 120%.
+8119	Special Effect	When the Wraith of Envy's Eye is destroyed	 it will be revived in 2 turns instead of 3. The Eye's max HP is increased by 40%.
+8120	Special Effect	When the Wraith of Envy's Eye is destroyed	 it will be revived in 2 turns instead of 3. The Eye's max HP is increased by 40%.
+8201	Special Effect	Jikokuten's Sword that Defends the Nation grants a 25% increased shield. Jikokuten's max HP is increased by 20%.
+8202	Special Effect	Jikokuten's Sword that Defends the Nation grants a 55% increased shield. Jikokuten's max HP is increased by 50%.
+8203	Special Effect	Jikokuten's Sword that Defends the Nation grants a 100% increased shield. Jikokuten's max HP is increased by 80%.
+8204	Special Effect	Jikokuten's Attack increases by 10%. Targets with a shield granted by Sword that Defends the Nation have 15% increased Attack.
+8205	Special Effect	Jikokuten's Attack increases by 25%. Targets with a shield granted by Sword that Defends the Nation have 25% increased Attack.
+8206	Special Effect	Jikokuten's Attack increases by 40%. Targets with a shield granted by Sword that Defends the Nation have 50% increased Attack.
+8207	Special Effect	Zouchouten's Growth of all Things increases damage by an additional 25%	 and Zouchouten's Attack is increased by 10%.
+8208	Special Effect	Zouchouten's Growth of all Things increases damage by an additional 55%	 and Zouchouten's Attack is increased by 25%.
+8209	Special Effect	Zouchouten's Growth of all Things increases damage by an additional 100%	 and Zouchouten's Attack is increased by 40%.
+8210	Special Effect	Zouchouten's Growth of all Things reduces damage taken by an additional 5%	 and Zouchouten's max HP is increased by 20%.
+8211	Special Effect	Zouchouten's Growth of all Things reduces damage taken by an additional 12.5%	 and Zouchouten's max HP is increased by 50%.
+8212	Special Effect	Zouchouten's Growth of all Things reduces damage taken by an additional 20%	 and Zouchouten's max HP is increased by 100%.
+8213	Special Effect	Targets marked by Koumokuten's Eye of Heaven take 10% increased damage. Koumokuten's Attack is increased by 10%.
+8214	Special Effect	Targets marked by Koumokuten's Eye of Heaven take 25% increased damage. Koumokuten's Attack is increased by 25%.
+8215	Special Effect	Targets marked by Koumokuten's Eye of Heaven take 50% increased damage. Koumokuten's Attack is increased by 40%.
+8216	Special Effect	Koumokuten's Eye of Heaven now marks 2 targets. Koumokuten's max HP increases by 80%.
+8217	Special Effect	Bishamonten's Parasol of Chaos changes allies' affinities to Null. Bishamonten's Attack increases by 25%.
+8218	Special Effect	Bishamonten's Parasol of Chaos changes allies' affinities to Drain. Bishamonten's Attack increases by 40%.
+8219	Special Effect	Bishamonten's Parasol of Chaos will target the 2 allies with the lowest HP. Bishamonten's max HP increases by 80%.
+8301	Special Effect	The HP reduction effect of Horn of Pestilence increases by 15%	 and White Rider's Attack increases by 10%.
+8302	Special Effect	The HP reduction effect of Horn of Pestilence increases by 20%	 and White Rider's Attack increases by 25%.
+8303	Special Effect	The HP reduction effect of Horn of Pestilence increases by 30%	 and White Rider's Attack increases by 40%.
+8304	Special Effect	Horn of Pestilence now targets 2 random foes	 and White Rider's max HP increases by 20%.
+8305	Special Effect	Horn of Pestilence now targets 3 random foes	 and White Rider's max HP increases by 50%.
+8306	Special Effect	Horn of Pestilence now targets all foes	 and White Rider's max HP increases by 80%.
+8307	Special Effect	Horn of Famine increases foes' SP cost by an additional 20%	 and Black Rider's Attack increases by 10%.
+8308	Special Effect	Horn of Famine increases foes' SP cost by an additional 30%	 and Black Rider's Attack increases by 25%.
+8309	Special Effect	Horn of Famine increases foes' SP cost by an additional 50%	 and Black Rider's Attack increases by 40%.
+8310	Special Effect	Horn of Famine now targets 2 random foes	 and Black Rider's max HP increases by 20%.
+8311	Special Effect	Horn of Famine now targets 3 random foes	 and Black Rider's max HP increases by 50%.
+8312	Special Effect	Horn of Famine now targets all foes	 and Black Rider's max HP increases by 80%.
+8313	Special Effect	Horn of Death decreases skill healing by an additional 30%	 and Pale Rider's Attack increases by 10%.
+8314	Special Effect	Horn of Death decreases skill healing by an additional 50%	 and Pale Rider's Attack increases by 25%.
+8315	Special Effect	Horn of Death decreases skill healing by an additional 80%	 and Pale Rider's Attack increases by 40%.
+8316	Special Effect	Horn of Death increases damage by an additional 15%	 and Pale Rider's max HP increases by 20%.
+8317	Special Effect	Horn of Death increases damage by an additional 25%	 and Pale Rider's max HP increases by 50%.
+8318	Special Effect	Horn of Death increases damage by an additional 40%	 and Pale Rider's max HP increases by 80%.
+8319	Special Effect	While Horn of War is active	 counterattack damage is increased by 50%	 and Red Rider's Attack is increased by 25%.
+8320	Special Effect	While Horn of War is active	 all allies will counterattack. Red Rider's counterattack damage is increased by 50%	 and its Attack is increased by 40%.
+8322	Special Effect	AAAAAA==
+8323	Special Effect	AAAAAA==
+8321	Special Effect	The duration of Horn of War is increased by 1 turn	 and Red Rider's max HP is increased by 80%.
