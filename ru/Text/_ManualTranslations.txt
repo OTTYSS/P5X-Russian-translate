@@ -1,0 +1,330 @@
+© Perfect World Adapted from {{B}} 5 © ATLUS. © SEGA.\nSpecial Thanks: Fontworks Inc. and SHOWASHOTAI Co., Ltd.\nClient {{D}}: 1.0.0 Game {{D}}: 1.0.0 {{C}}esource {{A}}.: P454.E6080.C1291311.L1285651=© Perfect World, адаптировано из {{A}} 5 © ATLUS. © SEGA.\nОсобая благодарность: Fontworks Inc., SHOWASHOTAI Co. \nи @garry4444 за руссификатор Ltd.\nВерсия клиента: 1.0.0 Версия игры: 1.0.0 Номер ресурса: P454.E6080.C1291311.L1285651
+© Perfect World Adapted from Persona 5 © ATLUS. © SEGA.\nSpecial Thanks: Fontworks Inc. and SHOWASHOTAI Co., Ltd.\nClient Version: 1.0.0 Game Version: 1.0.0 Resource No.: P454.E6080.C1291311.L1285651=© Perfect World Адаптирован на основе Persona 5 © ATLUS. © SEGA. \nОсобая благодарность: Fontworks Inc., SHOWASHOTAI Co. Ltd. \nи @garry4444 за руссификатор \nВерсия клиента: 1.0.0 Номер ресурса: P454.E6080.C1291311.L1285651
+
+-------------------------------
+---- I. System / Options ------
+-------------------------------
+// Описание: Перевод настроек, важные системные сообщения или что-то еще, что может быть показано перед входом в систему
+
+-------------------------------
+---- I. System / Options ------
+-------------------------------
+// Description: Settings Translation, important system messages, or whatever can be shown before logging in
+
+r:"^(.)$"=$1
+r:"<sprite\=(\d+) tint\=(\d+)>"=<sprite\=$1 tint\=$2>
+r:"<sprite\=(.+) tint\=(.+)>"=<sprite\=$1 tint\=$2>
+r:"^Version (.*)$"="Версия $1"
+Logging in...=Вход...
+Server is under maintenance.=Сервер на обслуживании.
+No news=Нет новостей
+Password:=Пароль:
+Username:=Имя пользователя:
+Server=Сервер
+Verifying Data=Проверка данных...
+Loading Data...=Загрузка данных...
+Reconnect successfully=Успешное переподключение
+Resolution=Разрешение
+Rendering Quality=Качество рендеринга
+Shadow Quality=Качество теней
+Post Processing Quality=Постобработка
+Anti-Aliasing=Сглаживание
+Rendering Scale=Масштаб рендера
+Frame Rate=Частота кадров
+Auto=Авто
+fps=кадры/с
+Volume Settings=Настройки звука
+Notifications=Уведомления
+Tap screen to return.=Нажмите на экран, чтобы вернуться
+Level of Detail=Уровень детализации
+Texture Quality=Качество текстур
+Effects Quality=Качество эффектов
+{{A}}l Data=Данные
+{{A}}l Data=Ваши данные
+Upload Log=Журнал
+Account=Аккаунт
+Support=Поддержка
+Extreme=Максимум
+Fullscreen=Полный экран
+Windowed=Оконный режим
+Borderless Windowed=Безрамочный режим
+Borderless=Безрамочный
+Full Screen Mode=Режим полного экрана
+Display=Дисплей
+r:"^Display-(\d+)$"="Дисплей $1"
+Screen Space Reflections=Отражения в пространстве
+Cross Flare=Блики
+Bloom=Свечение
+Depth of Field=Глубина резкости
+Ambient Occlusion=Окружающее затенение
+Volumetric Lighting=Объёмное освещение
+Terrain Blending=Смешение ландшафта
+Volumetric Fog=Объёмный туман
+Sun Shaft=Солнечные лучи
+Vsync=Вертикальная синхронизация
+Turning on Vsync will set the frame rate to auto, are you sure?=Включение Vsync установит автоматическую частоту кадров. Продолжить?
+Turning off Vsync will set the game to 60 frames, are you sure?=Выключение Vsync установит 60 кадров в секунду. Продолжить?
+Dynamic Resolution=Динамическое разрешение
+Team Following=Следовать за лидером
+Notices=Уведомления
+Community=Сообщество
+Specified Commercial Transactions Act and Payment Services Act=Закон о коммерческих операциях и платёжных услугах
+Log Out=Выйти из аккаунта
+End Game=Выйти из игры
+Delete Account=Удалить аккаунт
+Post-Processing Effects=Эффекты постобработки
+Render Quality=Качество визуализации
+Screen Resolution=Разрешение экрана
+Window Mode=Режим окна
+Restore Defaults=По умолчанию
+<link="htp|https:\/\/beian.miit.gov.cn/"><u>Beijing ICP No. 2021015964-3A</u></link>=<link="htp|https:\/\/beian.miit.gov.cn/"><u>Пекин ICP № 2021015964-3A</u></link>
+Not Set=Не назначено
+Control Settings=Настройки управления
+Item/Talk Actions=Действия (предметы / разговор)
+No friend requests.=Нет заявок в друзья
+<color=#FFD145>Graphics Settings</color>\nConfigure various graphical settings.\n\n<color=#FFD145>Sound Settings</color>\nAdjust individual volume settings.\n\n<color=#FFD145>Game Settings</color>\nCustomize individual in-game system settings.\n\n<color=#FFD145>Control Settings</color>\nAdjust your game controls.\n\nYou can view details on <color=#FF423F>each setting</color> by tapping the ? icon.=<color=#FFD145>Настройки графики</color>\nНастройте различные параметры отображения.\n\n<color=#FFD145>Настройки звука</color>\nОтрегулируйте громкость отдельных элементов.\n\n<color=#FFD145>Настройки игры</color>\nИзмените параметры игрового процесса.\n\n<color=#FFD145>Настройки управления</color>\nНастройте управление персонажем и интерфейсом.\n\nНажмите значок <color=#FF423F>?</color>, чтобы узнать подробности о каждом параметре.
+120 fps=120 кадров в секунду
+60 fps=60 кадров в секунду
+30 fps=30 кадров в секунду
+Setting the game to 30 or 60 FPS will automatically turn off VSync. Do you want to continue?=При установке 30 или 60 кадров в секунду VSync будет отключён автоматически. Продолжить?
+
+
+2560*1440=2560*1440  
+{{A}} Volume=Громкость игры  
+BGM=Фоновая музыка  
+Sound Effects=Звуковые эффекты  
+Voice=Громкость голосов  
+Environment=Окружение  
+Party Following=Следование отряда 
+Reflections=Отражения  
+Ambient Lighting=Окружающее освещение  
+Lens Flare=Эффект бликов  
+Bloom Effects=Эффекты свечения  
+Fog Effects=Эффекты тумана  
+VSync=VSync  
+Render Scale=Масштаб рендеринга  
+FSR=FSR  
+HDR=HDR  
+{{A}}ging in=Вход в игру
+Missions=Миссия
+Reconnected to the server.=Соединение с сервером восстановлено.
+
+
+{{A}} Quality={{A}} качество
+Post-Processing {{A}}=Постобработка {{A}}
+{{A}} Out={{A}} выход
+Upload {{A}}=Загрузить {{A}}
+Sound {{A}}=Звук {{A}}
+Volume {{A}}=Громкость {{A}}
+Post-Processing {{A}}=Пост-обработка {{A}}
+{{A}} Quality={{A}} качество
+Sound {{A}}=Звук {{A}}
+Upload {{A}}=Логи
+<link\="htp|https:\/\/beian.miit.gov.cn/"><u>Beijing ICP No. 2021015964-3A</u></link>=<link\="htp|https:\/\/beian.miit.gov.cn/"><u>Пекин ICP № 2021015964-3A</u></link>
+City Life=Городская жизнь
+Control {{A}}=Контроль {{A}}
+Window Mode=Режим экрана
+<link\="htp|https:\/\/beian.miit.gov.cn/"><u>Beijing ICP No. 2021015964-3A</u></link>=<link\="htp|https:\/\/beian.miit.gov.cn/"><u>Пекин ICP № 2021015964-3A</u></link>
+City Life=Городская жизнь
+Control {{A}}=Контроль {{A}}
+Item/Talk {{A}}s=Предметы / разговор {{A}}S
+{{A}}ow Mode=Режим экрана
+About Game {{A}}=О игре {{A}}
+<color=#FFD145>Graphics Settings</color>\nConfigure various graphical settings.\n\n<color=#FFD145>Sound Settings</color>\nAdjust individual volume settings.\n\n<color=#FFD145>Game Settings</color>\nCustomize individual in-game system settings.\n\n<color=#FFD145>Control Settings</color>\nAdjust your game controls.\n\nYou can view details on <color=#FF423F>each setting</color> by tapping the ? icon.=<color=#FFD145>Настройки графики</color>\nНастройте различные графические параметры.\n\n<color=#FFD145>Настройки звука</color>\nОтрегулируйте громкость по отдельным категориям.\n\n<color=#FFD145>Настройки игры</color>\nНастройте параметры игровых систем.\n\n<color=#FFD145>Настройки управления</color>\nОтрегулируйте управление в игре.\n\nВы можете просмотреть детали <color=#FF423F>каждой настройки</color>, нажав на значок ?
+{{A}} Following=Следование отряда
+Fog {{A}}=Туман {{A}}
+Bloom {{A}}=Свечение {{A}}
+
+
+About Game Settings=О настройках игры  
+
+Shows lens flares and enhances lighting. Depending on your system, this may cause your frame rate to be lower than expected.=Отображает блики объектива и усиливает освещение. В зависимости от вашей системы это может снизить частоту кадров.
+{{A}}s rays of light. Depending on your system, this may cause your frame rate to be lower than expected.={{A}} отображает лучи света. В зависимости от вашей системы это может снизить частоту кадров.
+{{A}}tains graphics quality in fast-paced scenes by adjusting to display capabilities. Depending on your system, this may cause your frame rate to be lower than expected.={{A}} поддерживает качество графики в динамичных сценах, адаптируясь к возможностям отображения. В зависимости от вашей системы это может снизить частоту кадров.
+{{A}}s light diffusion. Depending on your system, this may cause your frame rate to be lower than expected.={{A}} отвечает за рассеивание света. В зависимости от вашей системы это может снизить частоту кадров.
+{{A}}ow: Shows in a window.\nFullscreen: {{B}}s the full display.\nBorderless: Similar to fullscreen but the cursor can move off-screen.=Режим {{A}}ow: отображается в окне.\nПолный экран: {{B}} выводится на весь экран.\nБез рамки: аналогично полноэкранному, но курсор может выходить за пределы окна.
+{{A}}s reflections in water and mirrors. Depending on your system, this may cause your frame rate to be lower than expected.={{A}} включает отражения в воде и зеркалах. В зависимости от вашей системы это может снизить частоту кадров.
+{{A}}s shading in the game. Depending on your system, this may cause your frame rate to be lower than expected.={{A}} отвечает за затенение в игре. В зависимости от вашей системы это может снизить частоту кадров.
+{{A}}s the volume for the overall game.=Настраивает громкость {{A}} для всей игры.
+{{A}} the volume for environmental sounds in-game.=Настраивает громкость {{A}} для звуков окружения в игре.
+{{A}}s the volume for voiced lines in-game.=Настраивает громкость {{A}} для озвученных реплик в игре.
+{{A}}s the volume for background music in-game.=Настраивает громкость {{A}} для фоновой музыки в игре.
+
+Adjusts the volume for the overall game.=Регулирует общую громкость игры.
+Adjusts the volume for background music in-game.=Регулирует громкость фоновой музыки.
+Adjusts the volume for sound effects in-game.=Регулирует громкость звуковых эффектов.
+Adjusts the volume for voiced lines in-game.=Регулирует громкость голосовых реплик.
+Adjust the volume for environmental sounds in-game.=Регулирует громкость звуков окружения.
+Verify files? This may take a few minutes.=Проверить файлы? Это может занять несколько минут.
+Window: Shows in a window.\nFullscreen: Uses the full display.\nBorderless: Similar to fullscreen but the cursor can move off-screen.=Окно: отображение в оконном режиме.\nПолный экран: использование всего экрана.\nБезрамочный: как полноэкранный, но курсор может выходить за пределы окна.
+Increases resolution to improve overall graphic quality. Depending on your system, your frame rate may be lower than expected.=Повышает разрешение для улучшения общего качества графики. В зависимости от системы частота кадров может снизиться.
+Automatically optimizes the resolution for your system. This may cause your screen resolution to be lower than expected.=Автоматически подбирает оптимальное разрешение для вашей системы. Это может привести к снижению качества изображения.
+Selects the game's frame rate (FPS). The game will appear smoother at a higher FPS. Depending on your system and other settings, your frame rate may be lower than expected.=Выбирает частоту кадров (FPS). Чем выше значение, тем плавнее игра. В зависимости от системы частота кадров может быть ниже ожидаемой.
+Selects the overall render quality. Depending on your system, increasing the quality may cause your frame rate to be lower than expected.=Определяет общее качество рендеринга. Более высокое качество может снизить частоту кадров на слабых системах.
+Selects the shadow quality. Depending on your system, increasing the quality may cause your frame rate to be lower than expected.=Настраивает качество теней. Повышение значения может снизить производительность.
+Selects effect quality. Depending on your system, increasing the quality may cause your frame rate to be lower than expected.=Настраивает качество эффектов. Более высокое значение влияет на производительность.
+Selects texture quality. Depending on your system, increasing the quality may cause your frame rate to be lower than expected.=Настраивает качество текстур. Может повлиять на частоту кадров при слабом железе.
+Selects graphic quality for distant objects. Depending on your system, increasing the quality may cause your frame rate to be lower than expected.=Определяет качество отображения удалённых объектов. Может снижать FPS.
+Selects the quality of visual effects and overall graphics. Depending on your system, increasing the quality may cause your frame rate to be lower than expected.=Выбирает качество визуальных эффектов и общей графики. Высокое значение может уменьшить производительность.
+Enhances rays of light. Depending on your system, this may cause your frame rate to be lower than expected.=Улучшает отображение световых лучей. Может снижать частоту кадров.
+Enhances depth by blurring distant objects. Depending on your system, this may cause your frame rate to be lower than expected.=Создаёт эффект глубины за счёт размытия дальних объектов. Возможна потеря FPS.
+Enhances light diffusion. Depending on your system, this may cause your frame rate to be lower than expected.=Улучшает рассеивание света. Может повлиять на производительность.
+Enhances reflections in water and mirrors. Depending on your system, this may cause your frame rate to be lower than expected.=Улучшает отражения в воде и зеркалах. Требует больше ресурсов.
+Enhances shading in the game. Depending on your system, this may cause your frame rate to be lower than expected.=Улучшает затенение объектов в игре. Может снижать производительность.
+Shows party members following behind you when exploring the Мета-мир. Depending on your system, this may cause your frame rate to be lower than expected.=Показывает, как члены группы следуют за вами в Мета-мире. Может повлиять на частоту кадров.
+Improves graphic quality by enhancing color brightness and contrast if your system supports HDR.=Улучшает графику за счёт повышения яркости и контрастности цветов при поддержке HDR.
+Automatically adjusts resolution and frame rate with FidelityFX Super Resolution (FSR) if supported by your system.=Автоматически регулирует разрешение и частоту кадров с помощью FidelityFX Super Resolution (FSR), если поддерживается.
+Allows you to make images smoother. Depending on your system, this may cause your frame rate to be lower than expected.=Позволяет сгладить изображение. Может снизить производительность.
+Changes the proportion of your resolution to display. Increasing render scale improves graphics settings. Depending on your system, this may cause your frame rate to be lower than expected.=Изменяет масштаб рендеринга. Более высокое значение улучшает картинку, но снижает FPS.
+Maintains graphics quality in fast-paced scenes by adjusting to display capabilities. Depending on your system, this may cause your frame rate to be lower than expected.=Сохраняет качество графики в динамичных сценах, подстраиваясь под возможности системы.
+<color=#FFD145>Graphics Settings</color>\nConfigure various graphical settings.\n\n<color=#FFD145>Sound Settings</color>\nAdjust individual volume settings.\n\n<color=#FFD145>Game Settings</color>\nCustomize individual in-game system settings.\n\n<color=#FFD145>Control Settings</color>\nAdjust your game controls.\n\nYou can view details on <color=#FF423F>each setting</color> by tapping the ? icon.=<color=#FFD145>Графика</color>\nНастройка визуальных параметров.\n\n<color=#FFD145>Звук</color>\nРегулировка громкости.\n\n<color=#FFD145>Игра</color>\nНастройка системных параметров игры.\n\n<color=#FFD145>Управление</color>\nНастройка схемы управления.\n\nНажмите значок вопроса, чтобы узнать подробнее о <color=#FF423F>каждом параметре</color>.
+
+
+
+Combat=Бой  
+<size=27>Automatically select \nONE MORE target</size>=<size=27>Автовыбор цели для ONE MORE</size>  
+<size=27>Enable Navigator skills \nin Auto mode</size>=<size=27>Навыки навигатора в авто-бою</size>  
+<size=27>Enable Persona change \nin Auto mode</size>=<size=27>Смена Персоны в авто-бою</size>  
+<size=27>Enable HIGHLIGHT \nin Auto mode</size>=<size=27>HIGHLIGHT в авто-бою</size>  
+<size=20>Simplify Navigator Animation\n(Quick/ Once per Login/ Full)</size>=<size=20>Анимация навигатора: упрощение (Быстро / Один раз / Всегда)</size>  
+<size=21>Simplify HIGHLIGHT Animation\n(Quick/ Once per Login/ Full)</size>=<size=21>Анимация HIGHLIGHT: упрощение (Быстро / Один раз / Всегда)</size>  
+Enable Persona change in Auto mode=Смена Персоны в авто-бою  
+Enable HIGHLIGHT in Auto mode=HIGHLIGHT в авто-бою  
+Enable HIGHLIGHT/{{A}} in Auto mode=HIGHLIGHT/{{A}} в авто-бою  
+Enable Navigator skills in Auto mode=Навыки навигатора в авто-бою  
+Automatically select ONE MORE target=Автовыбор цели для ONE MORE  
+Simplify Victory Screen=Упростить экран победы  
+Simplify Combat Animation=Упростить боевые анимации  
+Simplify Navigator Animation=Упростить анимации навигатора  
+Simplify HIGHLIGHT Animation=Упростить анимации HIGHLIGHT  
+Simplify HIGHLIGHT/{{A}} Animation=Упростить анимации HIGHLIGHT/{{A}}  
+Full=Полностью  
+Full Once=Один раз  
+Simplify=Упростить
+City=Город  
+Skip [Falling Asleep] Animation=Пропустить анимацию «Засыпание»  
+Skip [City Atmosphere] Animation=Пропустить анимацию «Атмосфера города»  
+Simplify Certain [City Activities] Animation=Упростить некоторые анимации городских активностей  
+Simplify [Start Activities] Animation=Упростить анимацию начала активностей  
+
+
+Missing=Не завершено  
+{{A}} Room 2-C={{A}} комната 2-С
+Train/{{A}}=Поезд/{{A}}
+Exchange contact info. <size=30>(0/1)</size>=Обмен контактной информацией. <size=30>(0/1)</size>
+Clear the mission Treasure Tail. <size=30>(0/1)</size>=Завершите миссию Хвост сокровищ. <size=30>(0/1)</size>
+Open the large door and explore the second Palace. <size=30>(0/1)</size>=Откройте большую дверь и исследуйте второй Дворец. <size=30>(0/1)</size>
+Witness the second Phantom Thief's awakening. <size=30>(0/1)</size>=Станьте свидетелем пробуждения второго вора-призрака. <size=30>(0/1)</size>
+Infiltrate the second Palace. <size=30>(0/1)</size>=Проникните во второй Дворец. <size=30>(0/1)</size>
+Get ramen from Victory Kitchen. <size=30>(0/1)</size>=Получите рамэн с Кухни Победы. <size=30>(0/1)</size>
+Change the first Palace ruler's heart. <size=30>(0/1)</size>=Измените сердце первого правителя Дворца. <size=30>(0/1)</size>
+{{A}} Target Down=Цель {{A}} ликвидирована
+View all of the first Palace ruler's memories. <size=30>(0/1)</size>=Просмотрите все воспоминания первого правителя Дворца. <size=30>(0/1)</size>
+Change the second Palace ruler's heart. <size=30>(0/1)</size>=Измените сердце второго правителя Дворца. <size=30>(0/1)</size>
+Clear the event Crossroads of Fate: Castle Arc. <size=30>(0/1)</size>=Завершите событие Перекресток судеб: Арка замка. <size=30>(0/1)</size>
+Visit the international restaurant, eel shop, and western-style restaurant. <size=30>(0/1)</size>=Посетите интернациональный ресторан, лавку с угрем и ресторан западной кухни. <size=30>(0/1)</size>
+Start 20 battles with an ambush. <size=30>(0/20)</size>=Начните 20 боёв с засады. <size=30>(0/20)</size>
+From the {{A}}=Из {{A}}
+Deal over 50,000 damage during battle. <size=30>(3683/50000)</size>=Нанесите более 50 000 урона в бою. <size=30>(3683/50000)</size>
+Deal over 100,000 damage during battle. <size=30>(3683/100000)</size>=Нанесите более 100 000 урона в бою. <size=30>(3683/100000)</size>
+Coordinated {{A}}=Скоординированный {{A}}
+End 10 battles with an All-Out Attack. <size=30>(0/10)</size>=Завершите 10 боёв Всеобщей атакой. <size=30>(0/10)</size>
+Unified {{A}}=Объединённый {{A}}
+End 100 battles with an All-Out Attack. <size=30>(0/100)</size>=Завершите 100 боёв Всеобщей атакой. <size=30>(0/100)</size>
+Start 100 battles with an ambush. <size=30>(0/100)</size>=Начните 100 боёв с засады. <size=30>(0/100)</size>
+Use a Highlight 500 times. <size=30>(1/500)</size>=Используйте Подсветку 500 раз. <size=30>(1/500)</size>
+Use a Highlight 100 times. <size=30>(1/100)</size>=Используйте Подсветку 100 раз. <size=30>(1/100)</size>
+Use a Highlight 10 times. <size=30>(1/10)</size>=Используйте Подсветку 10 раз. <size=30>(1/10)</size>
+Perform a 1 More attack 500 times. <size=30>(0/500)</size>=Совершите атаку Ещё раз 500 раз. <size=30>(0/500)</size>
+It's Always {{A}}=Это всегда {{A}}
+Perform a 1 More attack 100 times. <size=30>(0/100)</size>=Совершите атаку Ещё раз 100 раз. <size=30>(0/100)</size>
+{{A}} Again={{A}} снова
+Hit an enemy's weakness 100 times. <size=30>(2/100)</size>=Поразите слабость врага 100 раз. <size=30>(2/100)</size>
+Defeat 3 enemies using 3 different Personas in a single battle. <size=30>(0/1)</size>=Победите 3 врагов, используя 3 разных Персоны в одном бою. <size=30>(0/1)</size>
+Guard 50 times. <size=30>(0/50)</size>=Примените Защиту 50 раз. <size=30>(0/50)</size>
+Perform 25 Nuclear attacks on enemies with an elemental ailment. <size=30>(0/25)</size>=Совершите 25 Ядерных атак по врагам с элементальным недугом. <size=30>(0/25)</size>
+Inflict Curse 20 times in one battle. <size=30>(0/20)</size>=Наложите Проклятие 20 раз за один бой. <size=30>(0/20)</size>
+Grant Blessing 20 times in one battle. <size=30>(0/20)</size>=Примените Благословение 20 раз за один бой. <size=30>(0/20)</size>
+Defeat 10 enemies with insta-kill attacks. <size=30>(0/10)</size>=Убейте 10 врагов моментальными атаками. <size=30>(0/10)</size>
+Perform 5 Psychokinesis attacks on enemies with a spiritual ailment. <size=30>(0/5)</size>=Совершите 5 атак Психокинеза по врагам с духовным недугом. <size=30>(0/5)</size>
+Defeat 20 enemies with Almighty damage. <size=30>(0/20)</size>=Уничтожьте 20 врагов уроном Всевышнего. <size=30>(0/20)</size>
+Death's {{A}}=Смерть {{A}}
+Life's {{A}}ing=Жизнь переворачивает все с ног на голову
+Like a Raging {{A}}=Как разъяренный огонь
+Inflict spiritual ailments 10 times. <size=30>(0/10)</size>=Причините духовные недуги 10 раз. <size=30>(0/10)</size>
+Inflict elemental ailments 50 times. <size=30>(0/50)</size>=Причините элементальные недуги 50 раз. <size=30>(0/50)</size>
+Defeat 3 enemies using 3 different Personas in a single battle. <size=30>(0/1)</size>=Победите 3 врагов, используя 3 разных Персоны в одном бою. <size=30>(0/1)</size>
+Guard 50 times. <size=30>(0/50)</size>=Примените Защиту 50 раз. <size=30>(0/50)</size>
+Grant Blessing 20 times in one battle. <size=30>(0/20)</size>=Примените Благословение 20 раз в одном бою. <size=30>(0/20)</size>
+Defeat 10 enemies with insta-kill attacks. <size=30>(0/10)</size>=Победите 10 врагов с помощью мгновенных атак. <size=30>(0/10)</size>
+Perform 5 Psychokinesis attacks on enemies with a spiritual ailment. <size=30>(0/5)</size>=Проведите 5 атак Психокинеза по врагам с духовным недугом. <size=30>(0/5)</size>
+Perform 25 Nuclear attacks on enemies with an elemental ailment. <size=30>(0/25)</size>=Проведите 25 атак Ядерного типа по врагам с элементальным недугом. <size=30>(0/25)</size>
+Heal 500 times. <size=30>(0/500)</size>=Исцелитесь 500 раз. <size=30>(0/500)</size>
+Defeat 10 enemies with melee attacks. <size=30>(0/10)</size>=Победите 10 врагов атаками ближнего боя. <size=30>(0/10)</size>
+Cursor {{A}}=Курсор {{A}}
+RPG Mode Camera Zoom Sensitivity=Чувствительность масштабирования камеры в режиме RPG
+RPG Mode Camera Sensitivity=Чувствительность камеры в режиме RPG
+Auto-{{A}} Camera=Авто-камера {{A}}
+Mouse Right-Click {{A}}=ПКМ по {{A}}
+Receive {{A}} Updates=Получать обновления {{A}}
+Show {{B}} During {{A}}s=Показывать {{B}} во время {{A}}
+Show {{B}} on {{A}} Screen=Показывать {{B}} на экране {{A}}
+{{C}} {{A}}s in Auto-{{B}}={{C}} {{A}} в авто-{{B}}
+Pause {{A}} in Background=Приостанавливать {{A}} в фоне
+{{B}}s in Auto-{{A}}={{B}} в авто-{{A}}
+{{A}} Animations=Анимации {{A}}
+Skip {{A}} Animations=Пропускать анимации {{A}}
+Simplify {{A}} Results=Упростить результаты {{A}}
+Support {{A}} Thief {{C}} in Auto-{{B}}=Поддерживать вора {{A}} {{C}} в авто-{{B}}
+SKILL=НАВЫК
+External Transmission {{A}}lines=Линии внешней передачи {{A}}
+Terms of {{A}}=Условия {{A}}
+Progress in the main story to unlock this feature.=Продвигайтесь по основной истории, чтобы разблокировать эту функцию.
+B<color\=#ff0000ff>l</color>ackboard=Д<color\=#ff0000ff>о</color>ска объявлений
+It's the blackboard.=Это классная доска.
+Logging in=Вход в систему
+{{A}} the hallway={{A}} в коридоре
+Do you want to quit the game?=Вы хотите выйти из игры?
+This content is currently under development and may be subject to changes upon release.=Этот контент находится в разработке и может быть изменён после выпуска.
+As I washed my hands,\nI reflected on life...=Пока я мыл руки,\nя размышлял о жизни...
+Quit Navigation=Выйти из навигации
+Track=Дорожка
+No missions available.=Доступных миссий нет.
+Nothing here yet.=Здесь пока ничего нет.
+Side=Дополнительная
+Main=Основная
+First, I should leave school.=Сначала я должен покинуть школу.
+Don't remove for sorting.=Не удаляйте при сортировке.
+Kokatsu Academy 1F Hallway=Коридор 1F академии Кокацу
+Clear Phantom Pass Missions=Выполните миссии Пропуска Фантома
+Palace Exploration Rewards=Награды за исследование Дворца
+Realm of Repression Challenge=Испытание: Царство репрессий
+Experience gained from daily life activities and Metaverse exploration. Used for raising your level.=Опыт, получаемый за повседневную активность и исследование Метавселенной. Используется для повышения уровня.
+Currency=Валюта
+Wonder EXP Credit=Кредит опыта чудес
+How to Get=Как получить
+Synergy Details=Детали синергии
+Held:=В наличии:
+Assist Rewards=Награды за помощь
+Take on Nightmare's Gateway=Пройдите Врата Кошмара
+The Velvet Trials=Бархатные испытания
+Pursuit of Treasure Challenge=Испытание: В погоне за сокровищем
+Used to train Phantom Thieves and Personas.=Используется для тренировки Призрачных Воров и Персон.
+Konpaku Gem=Самоцвет Конпаку
+Trade with Clear Cognigems=Обменяйте на очищенные когнигемы
+Pursuit of Honor Challenge=Испытание: В погоне за честью
+Grants 1,000 EXP to an ally.=Дает союзнику 1000 ОП.
+Material=Материал
+Thief Compendium Volume=Том сборника Вора
+Ticket Level Rewards=Награды за уровень билета
+Pursuit of Parts Challenge=Испытание: Поиск деталей
+Grants 500 EXP to a weapon.=Дает 500 ОП для оружия.
+Silver Parts=Серебряные детали
+
+Clear the mission Return to Shibuya to unlock Shibuya.=Выполните миссию "Возвращение в Сибуя", чтобы открыть Сибуя.
+Nagisa Kamisiro=Нагиса Камиширо
+Lv.1=Ур. 1
+Return to City Life Main Screen=Вернуться на главный экран городской жизни
+Mission Tracking=Отслеживание миссий
+{{A}} 1F={{A}} на этаж 1F
+G<color\=#ff0000ff>o</color> to the hallway=И<color\=#ff0000ff>д</color>и в коридор
