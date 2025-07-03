@@ -26,7 +26,7 @@ def process_files(input_files):
 
         tag_lines = []
         clean_lines = []
-        pattern = re.compile(r'(</link>|</color>)', re.IGNORECASE)
+        pattern = re.compile(r'(</link>|</color>|</size>|<sprite=)', re.IGNORECASE)
         
         for line in lines:
             if pattern.search(line):
