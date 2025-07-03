@@ -122,8 +122,6 @@ Unable to log in because the account cannot be identified.
 Account verification is incomplete. Please log in again.
 No response to the request. Please log in again.
 Server error. Please log in again.
-Due to %s, your account has been suspended. It will be reinstated after <color=#FF423F>%s</color>.
-This account has been suspended. It will be reinstated after <color=#FF423F>%s</color>.
 This account has been deleted. Please contact support if you wish to restore it.
 Connection error. Please restart the game.
 Server error. Please check your connection to the server and try logging in again.\n*We recommend contacting the support team of your respective platform.
@@ -133,7 +131,6 @@ This feature is temporarily disabled.
 You are using an outdated version. Please download the latest version from the official website or store.
 Maintenance is underway. Please check the official site for more details.
 Sorry, you are using an outdated version. Please close the game and restart.
-Maintenance is currently underway to prepare for the launch of service.\n<color=#FF423F>Service is planned to start on June 26, at 3:00 AM UTC.</color>\n* Exact start time may vary. Please check the notices for more details.\nData can be downloaded in advance from the title screen by pressing [Download].
 Server Error
 Game version error. Please uninstall the app and download it again from the official website. We apologize for the inconvenience and thank you for your understanding.
 The item does not exist.
@@ -160,8 +157,6 @@ The system event %s has not been cleared, so %s is not unlocked.
 The feature has not been unlocked.
 Optimizing the %s feature.
 Progress in the main story to unlock this feature.
-Clearing <color=#FF423F>%s: %s</color> will unlock %s. Do you want to track it?
-Clearing <color=#FF423F>%s: %s</color> will unlock %s.
 The mission does not exist.
 Mission error.
 You cannot accept the mission because your level is insufficient.
@@ -256,11 +251,9 @@ You don't have enough materials.
 You don't have enough Konpaku Gems.
 The protagonist's level is not high enough.
 The maximum number of skills that can be added has been reached.
-<color=#FF423F>Excess experience from leveling up will be converted into level up materials.</color>\nDo you want to proceed?
 You have followed the Phantom Thief.
 Unfollowed.
 There are no items that can be added.
-<color=#FF423F>If you do not agree, you will be returned to the title screen</color>.\nContinue?
 The age you entered is invalid. Please try again.
 You can perform this training up to %d times per day. Come back tomorrow.
 The prerequisite skill has not been unlocked.
@@ -273,12 +266,9 @@ Answer completed.
 Failed to create the quiz.
 Magnificent victory! As expected of our leader!
 Battle failed.
-Victory over <color=#FF423F>%s</color>!
-Defeated by <color=#FF423F>%s</color>!
 You failed to perform the action due to insufficient item usage count.
 No uses remaining.
 It's a draw.
-<color=#FF423F>%s</color> failed to escape.
 There are %s enemies. But we have the advantage.
 Our chances of victory went way up!
 No slacking off.
@@ -315,14 +305,6 @@ Do you want to lower the difficulty and try again? (Valid on a retry)
 You have reached today's purchase limit.
 You do not have enough Meta Jewels to purchase this.
 You cannot go out because the outing spot is not unlocked.
-You need <color=#FFC000>%s</color>'s <color=#FFC000>%s</color>.
-You need <color=#FFC000>%s</color>'s <color=#FFC000>%s</color> and <color=#FFC000>%s</color>'s <color=#FFC000>%s</color>.
-You need <color=#FFC000>%s</color>'s <color=#FFC000>%s</color>, <color=#FFC000>%s</color>'s <color=#FFC000>%s</color>, and <color=#FFC000>%s</color>'s <color=#FFC000>%s</color>.
-You need <color=#FFC000>%s</color>'s <color=#FFC000>%s</color>, <color=#FFC000>%s</color>'s <color=#FFC000>%s</color>, <color=#FFC000>%s</color>'s <color=#FFC000>%s</color>, and <color=#FFC000>%s</color>'s <color=#FFC000>%s</color>.
-You need <color=#FFC000>%s</color>'s <color=#FFC000>%s</color>, <color=#FFC000>%s</color>'s <color=#FFC000>%s</color>, <color=#FFC000>%s</color>'s <color=#FFC000>%s</color>, <color=#FFC000>%s</color>'s <color=#FFC000>%s</color>, and <color=#FFC000>%s</color>'s <color=#FFC000>%s</color>.
-It seems we are lacking in experience.\nLet us try again at level <color=#FFC000>%s</color>.
-You need to clear <color=#FFC000>%s</color> first.
-Try again in <color=#FFC000>%s</color>.
 Overworking yourself isn't good. Change the date.
 I think I'd better take it easy this week.\nLet's give it a shot next week.
 I'm a bit tired. Let's take a short break to regain some energy.
@@ -356,7 +338,6 @@ You are on channel %d. There are currently %d people in the room.
 Copied.
 Player has been blocked.
 Removed from the block list.
-%s is your friend. <color=#FF423F>Blocking them will remove them from your friends list</color>. Do you still want to block them?
 You cannot add as a friend because they are blocked.
 You cannot add as a friend because you are blocked.
 Unable to block as the block list is full.
@@ -431,21 +412,16 @@ Not enough challenge attempts.
 You do not have enough energy to attempt the challenge.
 Clear %s to unlock.
 Unlocked at level %s.
-Hmmm, there's no reaction. Let's call the <color=#FF423F>robot</color> over to help.
 Stage episodes have not been unlocked.
-Hmmm, no response. Looks like there's <color=#FF423F>not enough energy</color>.
 You must bring the robot closer.
 The robot cannot move any further forward.
 No controllable robots available.
 Discovered by a flying robot and lost control.
 Not enough energy, unable to interact.
-Hmmm, it's showing an error. This <color=#FF423F>robot</color> can't enter authentication areas.
 The robot cannot move any further forward and is trying to reset its position.
 You are too close to the robot to stop it from following you.
-The robot is out of energy and cannot be <color=#FF423F>mind controlled</color>.
 The robot cannot activate the device because it is out of energy.
 You are unable to open your third eye due to mental interference.
-Do you want to open this with the <color=#ffff76>{1}</color>?\n(Spend: {0} / Held: {2})
 Infiltration mode has ended.
 Please enter a valid name or ID.
 You cannot apply because your level is not high enough.
@@ -582,13 +558,11 @@ This skill is not unlocked
 This can't be selected as the limit for active skills has been reached.
 Since only one skill of the same type can be selected, %s has been changed to %s.
 Current skills have been saved.
-Do you want to forget %s?\n<color=#FF423F>This can't be undone.</color>
 The Persona has been added to favorites.
 This can't be selected as the limit for skills has been reached.
 Forgot the skill %s.
 There are no materials that can be added.
 This skill is unlocked at level %s.
-You must be <color=#FF423F>level %d</color> to select a <color=#FF423F>rank %s</color> Persona.
 This skill cannot be forgotten.
 You cannot check the details of this Persona at the moment.
 Select a maximum of 3 skills to keep.
@@ -608,12 +582,10 @@ Navigation successful. Displaying route to the destination...
 Woof! There's no clue here! Try checking somewhere else, okay?
 We talked a lot today. Let's check out other places too, woof.
 Woof! I can't tell you yet. Come back after you've collected more.
-Hmm... Seems like we need <color=#FF423F>%s</color>\nin order to unlock this.
 It would be good if we had %d %s.
 I don't think I'm ready to take on this challenge.\n(Unlocks at Level 10)
 I don't think I'm ready to take on this challenge.\n(Unlocks at Level 20)
 I don't think I'm ready to take on this challenge.\n(Unlocks at Level 30)
-You need %d <color=#FF423F>%s</color> to open it. You currently have <color=#FF423F>%d</color> <color=#FF423F>%s</color>.
 This area will be unlocked at ticket level {1}.\nCollect tickets and insert them in the Fare Machine.
 It can't get any smaller than this!
 It can't get any bigger than this!
@@ -734,7 +706,6 @@ You have made too many badge information requests. Please try again later.
 Current card type is incorrect.
 The card trade must consist of the largest %s cards.
 The card trade must consist of any %s cards.
-If you escape, the robots will take over. Continue?\n<color=#FFC000>You will not be able to begin a new game until this game is finished.</color>
 You joined an uncompleted game.
 Please choose the card you would like to use.
 If you retreat, you will leave the current game and won't earn rewards. Continue?
@@ -754,16 +725,12 @@ This mode is not yet available. Stay tuned!
 The customized version of this card is not yet available. Stay tuned!
 Unable to change characters too quickly. Please try again in a moment.
 Unable to send stamps too quickly. Please try again in a moment.
-Player's stamp sending has been <color=#FFC000>blocked</color>.
-Player's stamp sending has been <color=#FFC000>unblocked</color>.
 Obtain the record item %s to unlock.
 Complete tasks related to %s in order to unlock.
 Unlocked when the protagonist reaches level %s.
-<color=#FFC000>%s %s</color> added to playlist.
 Must set at least 1 song.
 Cannot set more songs.
 BGM has been changed.
-<color=#FFC000>%s %s</color> removed from playlist.
 Cannot check music player status in the Metaverse.
 The current BGM cannot be changed.
 Feature under development.
@@ -783,7 +750,6 @@ My eyes do not deceive me! A splendid victory!
 Looks like we found something good.
 Hoho, I didn't expect to get my hands on something like this.
 Having this one come out is pretty lucky.
-If you help me, I'll give you <color=#FFC000>3500 yen</color> as a reward, woof! Can you do it?
 Should we invite them?
 %s Mute Time Left: %s
 It's the same as the current name.
@@ -799,15 +765,12 @@ The mailbox is full.
 Do you want to change the deployed Phantom Thief?
 You can deploy up to three Phantom Thieves!
 Do you want to purchase this item for %s yen?
-You don't have enough Meta Jewels. Do you want to exchange <color=#FFC000>%s</color> Cognition Crystals?
-You need <color=#FFC000>%s</color> more Cognition Crystals. Do you want to purchase them at the shop?
 Do you want to purchase Cognition Crystals at Marthym's Shop?
 Do you want to purchase these items?
 Obtaining a Persona also unlocks it for purchase.
 Unable to pray, insufficient spiritual bells.
 The gift set is sold out for today. Please wait for tomorrow's gift set refresh.
 Let's go check it out.
-You have obtained the Persona <color=#FFC000>Eligor</color>.
 Jack Frost has appeared.
 The FPS seems low. Lower the graphics quality to increase the FPS?
 Unable to obtain rewards since your remaining stamina is too high. Continue?
@@ -825,7 +788,6 @@ Available for purchase at level %s
 Available for purchase upon clearing the mission %s.
 Unlock conditions not met
 %s%s%s%s\nDo you want to use the selected materials to level up?
-<color=#FF423F>Excess experience from enhancement will be converted into enhancement materials.</color>\nDo you want to enhance?
 Required Level: %s
 Maximum level reached.
 Weapon locked.
@@ -889,23 +851,14 @@ You can select up to four.
 Space Revelation Cards can be unlocked by clearing the Nightmare's Gateway.
 Do you want to use %s and forge?
 Forged weapons cannot be used as materials.
-Consume: <color=#FFDE00>%s  x%s</color>.\nTrade: <color=#FFDE00>Space Revelation %s x%s</color>.\nDo you want to confirm?
-Do you want to spend <color=#f1b500>{0} x{1}</color> to reset the Revelation Card?\nAfter the reset, the following changes will occur:\nThe level of the Revelation Card will be reset to 0.\nThe main and sub-attributes will return to their initial states.\nAll experience materials spent to reach the current level will be returned (in the form of generic materials).
 You don't have enough reset items.
 The Revelation Card you are about to reset is of {0} quality. Do you want to continue?
 Locked equipment cannot be changed. Please unlock the equipment first.
 %s is currently equipped. Do you want to change your equipment?
-Use: <color=#FFDE00>%s x%s</color>\nObtain: <color=#FFDE00>%s x%s</color>\nDo you want to use this now? (Auto-Recovery Limit: %s)
 Only orange-rarity weapons can be scrapped.
 All sub-attributes are locked and cannot be updated.
 Unlocks after previous Revelation Card customization is completed.
-Do you want to spend <color=#FFDE00>{0} x{1}</color> to refresh the unlocked sub-attributes once?
-Do you want to customize a Revelation Card with the set <color=#FFDE00>{0}</color>, mark <color=#FFDE00>{1}</color>, and main attribute <color=#FFDE00>{2}</color>?
-Do you want to spend <color=#FFDE00>{0} x{1}</color> to select the <color=#FFDE00>{2}</color> set?
-Do you want to spend <color=#FFDE00>{0} x{1}</color> to change to the <color=#FFDE00>{2}</color> set?
-Do you want to spend <color=#FFDE00>{0} x{1}</color> to select the mark <color=#FFDE00>{2}</color>?
 Changing the mark will reset the current main attribute and clear the current sub-attribute. Do you want change it now?
-Do you want to spend <color=#FFDE00>{0} x{1}</color> to select the main attribute <color=#FFDE00>{2}</color>?
 Changing the main attribute will clear the current sub-attribute and refresh it. Do you want to change it now?
 Please confirm previous selection.
 You don't have enough {0}.
@@ -933,7 +886,6 @@ We have the upper hand!
 We're surrounded. Be careful!
 They got the jump on us!
 Cannot be customized because the Main Attribute has not been selected.
-Do you want to customize a Revelation Card with the <color=#f1b500>{0}</color> mark, <color=#f1b500>{1}</color> set, and Main Attribute <color=#f1b500>{2}</color>?
 You do not have enough {0} to customize this.
 Forged weapons cannot be used for conversion.
 Wow! %s enemies at once!
@@ -1069,7 +1021,6 @@ You are not connected to Wi-Fi. Are you sure you want to download? (Data Size: %
 Your level is not high enough to clear this mission.\nYou can earn experience points in the Metaverse.\nDo you want to go there now?
 Please try again after reaching level %s.
 Let's continue the mission tomorrow.
-An additional download is required for this feature. Please <color=#FFC000>return to the download screen</color> and let the remaining %s of resources finish downloading.
 Common keys cannot be changed.
 %s should provide a clue to your target.
 Follow the instructions to proceed!
@@ -1093,7 +1044,6 @@ You can overclock even more once Wonder's level reaches %d.
 You can enhance even more once Wonder's level reaches %d.
 Not enough schema points.
 Enter a maximum of 7 characters.
-Resetting your schema will require <color=#FFC000>%d %s</color>.\nDo you want to reset?
 Do you want to fish?
 Now, it's time to cast your rod. Ready?
 You're not going to lure any fish if you just sit there.
@@ -1176,7 +1126,6 @@ You cannot use skills while affected by Forget.
 This feature is locked.
 You cannot deploy Support Phantom Thieves.
 Skill target does not exist.
-These Shadows look tough. Let's <color=#FF423F>down</color> them!
 You cannot use your Support Phantom Thief right now.
 Highlight is on cooldown...
 Closer will strike 'em out!
@@ -1186,55 +1135,34 @@ Another one! Attack its weakness.
 Listen here, newbie!
 The flying ones are weak to gunfire. Shoot them down.
 Search the Palace while avoiding fights with Shadows.
-Come forth, <color=#FF423F>Awilda</color>! Let's take back what's ours!
 They're pretty sturdy. If we only had a gun...
 You thieves are after Kiuchi-sama's collection, aren't you?
-<color=#FF423F>3, 1, 3, 2, 0</color>. Try it in that order...
 Hmm... Did you hear what those shadows said?
 Eeeek!\nG-Gunshots!?
 I can't stand loud noises!
 This enemy's attack is strong.\nPay attention to your defense.
 (He's starting to get impatient...)
-(He's glaring at <color=#FF423F>%s</color>...)
 W-Wait! I'll tell you anything you want to know.\nJust let me go...
-Use your <color=#FF423F>Gun</color> to aim for the enemy's weakness and knock them down!
 Please, no more...
 I'll admit you're good... but you're not on my level.
 If you praise me, I'll admit defeat. How's that sound?
 Come on, praise me.
 Foolish humans, I'm taking you down with me!
 How dare you hurt my best friend!
-Activate <color=#FF423F>Horn of Attack</color>!
-Security Chief is glaring at <color=#FF423F>%s</color>...
 Serial code is in use!?
-Began <color=#FF423F>incubation</color>...
 Thanks for sparing me... Here, take this treasure...
-<color=#FF423F>Security Chief</color> called for backup...
-I can't believe you're this weak...\nIf you want to win against me, you need to avoid getting <color=#FF423F>knocked down</color>...
 Miserable fool with eyes clouded by illusions... You have no hope of defeating me...
-I thought I told you <color=#FF423F>not to attack me</color>...\nWhy won't you listen to me...?
 Do you want to skip?
 Hmm? There's something different about this one!
 Be careful! This enemy is much stronger than the others!
-Pick the perfect timing and <color=#FF423F>defend</color>!
 The shadow in the center is exuding a terrifying presence...
-It seems like it could <color=#FF423F>explode</color> at any moment...
-<color=#FF423F>%s</color>, my girl, lend me your strength!\nNow, how should we destroy them!?
-Now! <color=#FF423F>Guard</color>!
 You feel a dangerous aura emanating from the shadow in the center...
-Aim for the <color=#FF423F>weakness</color>!
 Careful! I'm sensing an ominous energy from that shadow in the middle...
-Aim for the enemy's <color=#FF423F>weakness</color> and <color=#FF423F>knock them down</color>!
 Wonder! That enemy's preparing to unleash a powerful attack!
-Break the enemy's <color=#FF423F>shield</color>!
 Look out! The enemy summoned an attendant!
-<color=#FF423F>Don't attack</color> the attendant!
 They got our ally...
-<color=#FF423F>Takeuchi Kiuchi</color> is getting nervous...
-<color=#FF423F>Takeuchi Kiuchi</color> is panicking...
 A mysterious power greatly reduces damage dealt and taken for the entire party
 A mysterious power greatly reduces damage taken and greatly increases healing for the entire party
-I can't feel a thing! Unless you deal <color=#FF423F>continuous damage</color> in 1 turn, you'll never win against me!
 Ahahaha! I got you... You can't tell the real thing from a cheap copy after all!
 Gah! H-How did you find me? Is my star power just that bright...?
 Somethin' smells. Must be your dirty rotten lies!
@@ -1255,7 +1183,6 @@ No items selected to discard.
 Not enough items selected. Please select %s items.
 Maximum number has been reached.
 Do you want to select {0}?\nIt can only be equipped after corresponding Phantom Thief is unlocked.
-Consume: <color=#FFDE00>%s  x%s</color>.\nTrade: <color=#FFDE00>%s x%s</color>.\nDo you want to confirm?
 Can be selected when the Main Story Mission {0} - {1} is cleared.
 This Persona possesses all the skills of the Personas used as materials, so it cannot be enhanced.
 You have selected a Persona that has been trained. Are you sure?
@@ -1367,17 +1294,14 @@ You cannot move Support Phantom Thieves.
 During Metaverse exploration, you can only change your default party in a Safe Room.
 Phantom Thief formation cannot be changed for this battle.
 This Phantom Thief cannot be removed from the current battle.
-<color=#FFF000>%s</color> can't be in your party with <color=#FFF000>%s</color>. Would you like to swap them?
 You cannot change Wonder's weapon or Personas for this battle.
 You cannot train or change Personas for this battle.
-You cannot save a party formation that includes any <color=#FFF000>Tryout</color> or <color=#FFF000>Assist</color> Phantom Thieves.
 Party saved.
 You exited a stage in progress. Would you like to resume from there?
 Protagonist preset applied.
 Could not be saved. Please select at least 1 Persona.
 During an infiltration, you can change your default party only in safe rooms.
 Want to help out today?\nYou're a lifesaver!
-The pay for this part-time job is <color=#FFF000>4000 yen</color>.\nBonuses are given on busy <color=#FFF000>weekends</color>!
 Work at the bookstore?
 Work at the drugstore?
 Do you want to work at the convenience store?
@@ -1386,7 +1310,6 @@ Work at the beef bowl restaurant?
 Work at the cr\xeape shop?
 Work at Heritage Kitchen?
 Want to help out today?
-One reward will be <color=#FFF000>3000 yen</color>.
 Do you want to work here?
 Work at the meat cutlet shop?
 Did you intend to study here?
@@ -1394,9 +1317,6 @@ Are you heading to school?
 It doesn't seem like I can\ndeepen my bond with\nAnn Takamaki...
 Want to hang out with them?
 It doesn't seem like I can\ndeepen my bond with\nTae Takemi...
-Do you want to watch a movie?\nLooks like movie tickets cost <color=#FF423F>1,500 yen</color>.
-Do you want to enter the bathhouse?\nThe entry fee is <color=#FF423F>800 yen</color>.
-Do you want to do some training?\nIt costs <color=#FF423F>1,200 yen</color>.
 Are you going to clean the house?
 All right, let's get started.
 Would you like to spend time with him?
@@ -1408,23 +1328,14 @@ Do you want to help Sato?
 Do you want to help Hiyori?
 Spend some time reading?
 Spend some time reading a magazine?
-Do you want to study here?\nLooks like it'll cost <color=#FF423F>800 yen</color>.
-Do you want to study here?\nIt costs <color=#FF423F>800 yen</color>.
-Do you want to enter the bathhouse?\nIt appears entry is <color=#FF423F>free</color> for today.
 Do you want to chat with Fumiyo?
 Do you want to practice singing with Ayaka?
-Do you want to study here?\n(<color=#FF423F>You will use 1 Action Point</color>.)
 Talk to Tsuda?
 Talk to Sato?
 Do you want to play a game with Shichi-kun?
 Talk to Shishida?
-Do you want to play here?\nLooks like it'll cost <color=#FF423F>800 yen</color>.
 Join Soccer Team Practice?
 Join Band Club Practice?
-It costs <color=#FF423F>500 yen</color> to enter the eating challenge.\nCompeting could improve your <sprite=4><color=#e6b625>Proficiency</color>.
-It costs <color=#FF423F>800 yen</color> to enter the eating challenge.\nCompeting could improve your <sprite=7><color=#e6b625>Knowledge</color>.
-It costs <color=#FF423F>1000 yen</color> to enter the eating challenge.\nCompeting could improve your <sprite=6><color=#e6b625>Guts</color>.
-It looks like participation is <color=#FF423F>free</color>.\nThis might be a great opportunity.
 Do you want to take photos with Shimizu?
 Do you want to do some training with Anderson?
 Find the Tabby's treasure?
@@ -1434,11 +1345,7 @@ Explore with Haruna?
 Should I spend time\nwith Merope...?
 Would you mind if I took\na moment of your time?
 Oh, that's right, you have a\nPersona they asked for...
-Do you want to sing at karaoke?\nIt costs <color=#FF423F>1,500 yen</color>.
 Meditate here?
-Do you want to try a new coffee blend here?\nLooks like it'll cost <color=#FF423F>800 yen</color>.
-Do you want try some mocktails here?\nIt costs <color=#FF423F>1,500 yen</color>.
-Do you want to work at the convenience store?\n(<color=#FF423F>You will use 1 Action Point.</color>)
 How should I answer...?
 Should I spend time with Kurotani?
 Kiyoshi seems to be in a good mood.\nShould I hang out with him?
@@ -1451,14 +1358,7 @@ It looks like Shun has something he wants to talk about.\nWill you spend time wi
 Are you hungry right now?\nI've got somethin' I want you to try.
 Would you like to spend time with Yaoling?
 Should I hang out with Masaki?
-Sounds like Yongen-Jaya is home to a<color=#FF423F>batting center</color>.\nI should check it out if I feel like it.
-There's a <color=#FF423F>movie theater</color> on Shibuya's <color=#FF423F>Central Street</color>.\nI should check it out if I feel like it.
-Shinjuku's <color=#FF423F>Red-light District</color> seems quite bustling. I should check it out if I feel like it.
-Many <color=#FF423F>secondhand bookstores</color>line the streets in Jinbocho.\nI should check it out if I feel like it.
 Should I spend time\nwith Ayaka today...?
-It seems there's a <color=#FF423F>TV station</color> in Akasaka Mitsuke.\nI should check it out if I feel like it.
-There seems to be a <color=#FF423F>park</color> rich in nature.\nI should check it out if I feel like it.
-It seems there's a <color=#FF423F>planetarium</color> in Ikebukuro.\nI should check it out if I feel like it.
 Would you like to spend time with Yumi?
 Would you like to spend time with Miyu?
 Should I spend some more time\nwith Ayaka...?
@@ -1467,37 +1367,15 @@ I should spend time\nwith Miyu today...
 What do you think, will you spend time with Ayaka?
 Should I invite Ashiya over to my place today?
 Should I spend time with Masaki?
-Ueno's <color=#FF423F>Museum</color> is having an exhibition. If you're interested, why not check it out?
 Where should I go with Kira?
 Should I spend time with Kira?
 Should I go with Kotone?
 Should I go to Yumi's bar?
 Yumi seems to be\ndeep in thought...
-Akihabara is full of <color=#FF423F>various hobby shops</color>. You could delve into them if that sounds interesting.
 Should I spend time with Kotone?
-It seems there's an <color=#FF423F>amusement park</color> in Suidobashi. You could visit it if that sounds amusing.
-Asakusa has <color=#FF423F>historic streets</color> and an <color=#FF423F>observation deck with a great view</color>. You could visit them if that's up your alley.
-Kanda's <color=#FF423F>churches</color> are a place where all sorts of people congregate. You could visit them if that sounds interesting.
 I should spend time\nwith Kira today...
 Where should I go\nwith Miyu...?
-Maihama is home to a massive <color=#FF423F>theme park</color>. You could give it a whirl if that sounds interesting.
-It seems there's a <color=#FF423F>fancy sushi restaurant</color> in Ginza. It might take some courage to go in... But it could be quite the feast if that sounds interesting.
-Tsukishima seems to be lined with <color=#FF423F>monja shops</color>. You could grab a bite at one if that sounds interesting.
 This Synergy mission's story takes place after Tomoko Noge's Synergy story mission. It's recommended that you finish the previous mission first in order to get the full experience.
-It seems there's a <color=#FF423F>Ferris wheel</color> at the<color=#FF423F>amusement park</color> in Odaiba. You could ride it if that sounds interesting.
-Aside from<color=#FF423F>swimming</color>, Miura Beach seems to be a place with many fun activities. You could try some if that sounds interesting.
-Motomachi Chinatown seems like a popular place to go on a <color=#FF423F>food tour</color>. You could have a taste if that sounds interesting.
-Harajuku seems like a place of <color=#FF423F>cutting-edge culture</color>. You could witness it for yourself if that sounds interesting.
-Ogikubo seems to have many famous <color=#FF423F>ramen shops</color>. You could dive into one if that sounds interesting.
-It seems there's a <color=#FF423F>fishing pond</color> in Ichigaya. You could try your hand at it if that sounds interesting.
-The <color=#FF423F>school</color> you attend is in Shimo-Kitazawa. Is that where we're headed?
-Your <color=#FF423F>home</color> is in Zoshigaya. Would you like to got back there now?
-Kichijoji's <color=#FF423F>shopping district</color> seems pretty lively. You could see it for yourself if that sounds interesting.
-There's a <color=#FF423F>movie theater</color> on Shibuya's <color=#FF423F>Central Street</color>. You could pass time there if that sounds moving.
-The <color=#FF423F>school</color> I attend is in Shimo-Kitazawa.\nShould I go there?
-There's a <color=#FF423F>Book Town</color> in Jinbocho. Is that where you're going?
-There's a <color=#FF423F>Ferris wheel</color> at the<color=#FF423F>amusement park</color> in Odaiba. Is that where you're going?
-There's a<color=#FF423F>planetarium</color> in Ikebukuro. Is that where you're going?
 You can only select up to %s people!
 Tapping is too fast.
 This preset is being used. Do you want to freely select a character? If you switch, the preset will be canceled.
@@ -1532,10 +1410,6 @@ Sharing failed.
 Sharing canceled.
 This mission cannot be tracked.
 Target does not exist.
-The current mission target is in:\n<color=#FF423F>%s</color>.\nDo you want to head there now?
-Press the <color=#FFD145>camera on the right</color> to take a photo.
-This mission cannot be completed while you are in the Metaverse. Do you want to return to <color=#FF423F>Shibuya</color>?
-This will advance the story up to a predetermined plot point. Do you want to skip?\n<color=#FF423F>(This message will only be displayed once per login.)</color>
 Path of Chemdah is not yet unlocked. Do you want to unlock it now and continue?
 Kichijoji is not yet unlocked. Do you want to unlock it now and continue?
 The prerequisite mission has not been unlocked. Do you want to unlock the mission and task-related functions now? (Unlocking early may affect how you experience the story, so please choose carefully.)
@@ -1544,9 +1418,6 @@ Clear 4 Main Story missions to receive rewards.
 Clear 4 Metaverse Exploration missions to receive rewards.
 Clear 4 Shadows of Ruin missions to receive rewards.
 Clear 4 Kichijoji Adventure missions to receive rewards.
-Please progress through the main story and clear <color=#FF423F>Unconditional Love</color> missions. (Quick Play is unavailable.)
-No missions available. Please progress through the main story and clear <color=#FF423F>Unconditional Love</color> missions.
-No missions available. Progress through the main story and clear <color=#FF423F>Outcome of Pride</color> missions.
 Kichijoji unlocked
 Ena Kageyama's city mission A Captivating Cup has been unlocked.
 Yuta Sato's city mission False Accusations has been unlocked.
@@ -1565,7 +1436,6 @@ Upgrade Thieves Den to level 15 to receive rewards.
 Obtain 5 statues for the Thieves Den to receive rewards.
 Obtain 10 statues for the Thieves Den to receive rewards.
 You can receive a reward by raising the visitor level of any two Phantom Thieves to Level 5.
-This task is not yet available. Continue though the main story and complete goals related to <color=#FF423F>The Glutton's Last Course</color>.
 It seems you don't have enough money. Make\nsure to give it your all at your\npart-time job...
 You have a free ticket. Do you want to use one?
 The challenge award and\nthe Home Run Award for this difficulty have not been earned yet.
@@ -1579,7 +1449,6 @@ Purchase any 3 illustrations at the Thieves Den to receive rewards.
 Purchase any 3 songs at the Thieves Den to receive rewards.
 Complete 4 optional Thieves Den missions to obtain rewards.
 You've obtained all the rewards.\nWhy not try another difficulty level?
-No tasks available. Progress through the main story and unlock the<color=#FF423F>Thieves Den</color> feature.
 Here comes the ball. Swing!
 Hey, you think the ball's going to wait for you or something?
 Excellent moves!
@@ -1587,7 +1456,6 @@ Such a boring mistake to make...
 That was actually on target...
 Ooh, looks like you got it!
 Huh, you're better than I thought.
-No missions available. Please continue playing the main story and clear goals for the mission <color=#FF423F>Chamber of Recollections</color>.
 Yui's Synergy mission is currently locked. Do you want to unlock it now? (Unlocking early may affect how you experience the story, so please choose carefully.)
 Yui's Synergy mission has been unlocked.
 We're bound to get a high score for sure.
@@ -1606,14 +1474,9 @@ Now! Take the shot!
 Hey, stay focused!\nDon't let your chance pass you by!
 My, my... Your focus is lacking.
 How disappointing, we were so close.
-You are currently close friends.\nDo you want to spend <size=66><sprite=31></size> x{0} to rewind your relationship with <color=#FFDE00>{1}</color>? Doing so will make you soulmates.
-You don't have enough <color=#FFDE00>{0}</color> to reset this.
-The wait time for <color=#FFDE00>{0}</color> has been reset.
 Remarkable goal!
 Such graceful movements, and then...\na sudden flash! Truly magnificent.
 Hooaaah!\nNow you've done it... Aim properly!
-<color=#FF423F>%s</color> selected.\nDo you want to enhance?
-<color=#FF423F>%s</color> selected.\nEnhancement will exceed required experience. <color=#FF423F>Exceeded experience will be returned</color>.\nDo you want to enhance?
 Are you sure you want to convert %s into %s?
 You must answer 6 questions correctly to receive a treasure chest.
 If it keeps on like this, it'll be a cakewalk.
@@ -1649,7 +1512,6 @@ Dispatch this Phantom Thief?
 Thief is currently dispatched.
 No usable items...
 Cannot use items right now...
-You've been <color=#FF423F>taunted</color>! You cannot select this target!
 To Unlock: %s.
 To Unlock: %s and %s.
 To Unlock: %s or %s.
@@ -1669,24 +1531,10 @@ Relationships cannot be rewinded in the Metaverse.
 This relationship cannot be rewinded for {0} d {1} h.
 You can't select to become close friends as you are already close friends.
 You can't select to become soulmates as you are already soulmates.
-Unlock after completing {0} Task {1}. <color=#FFDE00>Completing Tomoko Noge's Confidant story will provide a better experience.</color>
-Would you like to become close friends with <color=#FFFC40>Motoha Arai</color>?\n*Your choice will affect some aspects of the story and City Life.
-Would you like to become soulmates with <color=#FFFC40>Motoha Arai</color>?\n*Your choice will affect some aspects of the story and City Life.
 You are currently close friends. Do you want to change your relationship with {0}?
 You are currently soulmates. Do you want to change your relationship with {0}?
-Would you like to become close friends with <color=#FFFC40>Tomoko Noge</color>?\n*Your choice will affect some aspects of the story and City Life.
-Would you like to become soulmates with <color=#FFFC40>Tomoko Noge</color>?\n*Your choice will affect some aspects of the story and City Life.
-Would you like to become close friends with <color=#FFFC40>Yaoling Li</color>?\n*Your choice will affect some aspects of the story and City Life.
-Do you want to become close friends with <color=#FFFC40>Yumi Shiina</color>?\n*This choice will affect story progression and City Life activities.
-Do you want to become soulmates with <color=#FFFC40>Yumi Shiina</color>?\n*This choice will affect story progression and City Life activities.
-You are currently soulmates. Do you want to spend \n<size=66><sprite=31></size> x{0} to rewind your relationship with <color=#FFDE00>{1}</color>?\nDoing so will make you close friends.
 Character locked.
-Do you want to become "Close Friends" with <color=#FFFC40>Miyu Sahara</color>? *This choice will affect story progression and City Life activities.
-Do you want to become soulmates with <color=#FFFC40>Miyu Sahara</color>? *This choice will affect story progression and City Life activities.
-Would you like to become soulmates with <color=#FFFC40>Yaoling Li</color>?\n*Your choice will affect some aspects of the story and City Life.
 You will forfeit all rewards if you retreat. Are you sure you want to retreat?
-Would you like to become close friends with <color=#FFFC40>Ayaka Sakai</color>?\n*Your choice will affect some aspects of the story and City Life.
-Would you like to become soulmates with <color=#FFFC40>Ayaka Sakai</color>?\n*Your choice will affect some aspects of the story and City Life.
 You must clear required episodes in order to participate in this trial.
 This Persona is currently assigned to another team. Do you want to move them to the current team?
 %s needs to be set with more than one Persona.
@@ -1698,7 +1546,6 @@ This Phantom Thief cannot be deployed due to the abnormality effects.
 Wonder must bring along at least one Persona for deployment.
 This area has not been unlocked yet.
 This plan has not been unlocked yet.
-Target is in <color=#FF423F>Mementos</color>.\nGo to Mementos entrance?
 The mission has not been updated.
 Tallying is underway, so you can't enter Mementos right now.
 Tallying is underway. Any battle records after 8 PM UTC won't be included in the tallying for rankings.
@@ -1712,7 +1559,6 @@ If you defeat her underlings, she'll be weakened!
 Go!
 All right! We took down the underling!
 Start the counterattack!
-A wonderful hit, <color=#FF423F>%s</color>.
 Don't give them a chance for a counterattack.
 You don't have enough stamina to use Quick Clear.
 Cannot Clear All, daily challenge attempt limit reached.
@@ -1759,13 +1605,7 @@ Make your way through while hiding from the enemies.\nDon't disappoint him!
 Unable to ready the control panel.
 Hiding myself from enemies... while trying to make it to the other side?
 Cannot track city life missions while in the Metaverse.
-<color=#FF423F>The next battle will be difficult, so make sure that you are thoroughly prepared.\nMotoha must be deployed.</color>
 You cannot track missions outside the dungeon because you are in the middle of a dungeon challenge.
-Camera inoperable because the <color=#FF423F>Zoom Module</color> is missing.
-Camera inoperable because the <color=#FF423F>Chroma Key Module</color> is missing.
-Camera inoperable because the <color=#FF423F>Timeline Module</color> is missing.
-Camera inoperable because the <color=#FF423F>Pause Module</color> is missing.
-You cannot light the torch because you don't have <color=#FF423F>Flint</color>.
 Do you want to use %s\nto raise your Phantom Pass to level %d?
 You don't have enough %s. Do you want to purchase it?
 You've reached the max Pass level.
@@ -1793,8 +1633,6 @@ If you retreat, you will not be able to earn rank rewards.\nRetreat?
 If you reset progress, you will need to restart stage exploration.\nReset?
 You don't have enough stamina.\nWould you like to recover stamina?
 Retreating will return you to the stage entrance.\nRetreat?
-You need %d stamina for the challenge.\n<color=#FF423F>You don't have enough stamina</color>. Do you want to charge your stamina?
-You have collected all of this week's\nRecollections rewards. Do you want to try\n<color=#FF423F>without earning rewards</color>?
 Unlocks through main story missions.
 Challenge will begin after completion of main story: %s.
 If you quit, your challenge record will automatically be saved.\nExit?
@@ -1809,12 +1647,8 @@ If you choose to retreat, your score will not be recorded.\nRetreat?
 Currently in the desired scene.
 You cannot use items in this battle.
 Unlocks in %s.
-Clearing <color=#FF423F>%s</color> will unlock Crossroads of Fate: Castle Arc.\nWould you like to track this now?
 Clear the Caf\xe9 Leblanc event.
-Clearing <color=#FF423F>%s</color> will unlock Caf\xe9 Leblanc.\nWould you like to track this now?
 Unlocked after clearing Crossroads of Fate: Castle Arc 1-1.
-You have not yet witnessed <color=#FF423F>Shun Kano's awakening</color>. This event may affect how you experience the story.\nDo you still wish to continue?
-Clearing <color=#FF423F>%s</color> will unlock Crossroads of Fate: Museum and Bank Arcs.\nWould you like to track this now?
 After clearing Castle Arc 1-6, please clear the main event of City Life.
 Clear Crossroads of Fate: Museum %s to unlock.
 You have not yet cleared Chapters 2-10 of the Museum Arc. This episode may affect how you experience the story. Do you still wish to continue?
@@ -1824,8 +1658,6 @@ Leave the Thieves Den?\nYou will move to Shibuya Station Square.
 You don't have enough %s to purchase this.
 The abnormality effects have not been saved. Do you want to save them?
 You have run out of attempts for today. Please try again tomorrow.
-You have not yet witnessed <color=#FF423F>Riko's awakening</color>. This event may affect how you experience the story.\nDo you still wish to continue?
-Clearing <color=#FF423F>%s</color> will unlock The Crossroads of Fate: Pyramid Arc. Would you like to track this now?
 Let's rest for a bit...
 Do you want to leave the Palace and return to the city?
 Do you want to return to the Mementos entrance and regroup?
@@ -1842,22 +1674,9 @@ You do not have enough stamina to attempt the challenge.
 Not yet available. Stay tuned!
 Your level is not high enough to take on this challenge.
 There's danger ahead.\nInvestigate?
-You need <color=#FF423F>%d</color> stamina to claim the rewards.\nPurchase more stamina?
-You need <color=#FF423F>%d</color> stamina for the challenge.\nPurchase more stamina?
 Area under renovation. Stay tuned!
-Spend <color=#FF423F>%d</color> stamina to take on the challenge?\nPossible rewards: <color=#FFD145>Personas</color>.
 Unlocks at level %s.
-Spend <color=#FF423F>%d</color> stamina to take on the challenge?\nPossible rewards: <color=#FFD145>Tons of Konpaku Gems</color>.
-Spend <color=#FF423F>%d</color> stamina to take on the challenge?\nPossible rewards: <color=#FFD145>Phantom Thief level-up materials</color>.
-Spend <color=#FF423F>%d</color> stamina to take on the challenge?\nPossible rewards: <color=#FFD145>Weapon enhancement materials</color>.
-Spend <color=#FF423F>%d</color> stamina to take on the challenge?\nPossible rewards: <color=#FFD145>Persona enhancement materials</color>.
 No targets spotted.
-Spend <color=#FF423F>%d</color> stamina to take on the challenge?\nRandom rewards: Pazuzu, Suzaku, Sarasvati, Ame-no-Uzume, Mandrake, or Agathion.
-Spend <color=#FF423F>%d</color> stamina to take on the challenge?\nRandom rewards: Byakko, Shiki-Ouji, Eligor, High Pixie, Archangel, or Jack Frost.
-Spend <color=#FF423F>%d</color> stamina to take on the challenge?\nRandom rewards: Moloch, Unicorn, Orthrus, Neko Shogun, Oni, or Sudama.
-Spend <color=#FF423F>%d</color> stamina to take on the challenge?\nRandom rewards: Oberon, Lamia, Clotho, Phoenix, Inugami, or Makami.
-Spend <color=#FF423F>%d</color> stamina to take on the challenge?\nRandom rewards: Arahabaki, Jikokuten, Lilim, Sucubus, or Obariyon.
-Spend <color=#FF423F>%d</color> stamina to take on the challenge?\nRandom rewards: Thor, Jatayu, Anubis, Pixie, or Jack-o'-Lantern.
 Continue exploring the Palace to take on the challenge.
 %s x%d submitted.
 Please raise your ticket level at the Fare Machine.
@@ -1868,13 +1687,7 @@ The fog door has opened! Have fun exploring, okay?
 The current item has already been set.
 After collecting %d train tickets, your ticket level will increase.\nI'll be rooting for you!
 The abnormality effects can't be changed on your own in Palace Mode.
-This irregularity will be unlocked once you clear <color=#FFD145>%s</color><color=#FF423F>%s</color>.\nDo you want to attempt it?
-Aside from Wonder, you must deploy Phantom Thief <color=#FFD145>%s</color>.
 Reached Ticket Level %d.
-<color=#FFC000>Persona Fusion</color> has been unlocked.
-You can now quick travel to <color=#FF423F>Home</color>.
-Collaboration event <color=#FF423F>Crossroads of Fate</color>\nhas been unlocked.
-You can now go to\n<color=#FF423F>Caf\xe9 Leblanc</color> in\nthe cognitive world.
 Unlock %d difficulty at level %d.
 Unlock by clearing %d difficulty.
 Unlocks at level %d.
@@ -1888,42 +1701,25 @@ Unlocks at level 30. Please level up.
 Unlocked by clearing the required difficulty level.
 If you retreat, points will not be recorded.\nRetreat?
 You can view the member rankings after joining a Companio.
-This <color=#FFC000>Phantom Thief</color> is locked. They cannot be edited until you reset the challenge.
-This <color=#FFC000>Persona</color> is locked. They cannot be edited until you reset the challenge.
 If you reset, you will unlock your party and lose your current total points. Are you sure you want to reset?
-You cannot change to the current party because it includes a locked <color=#FFC000>Phantom Thief</color>.
-You cannot change to the current party because it includes a locked <color=#FFC000>Persona</color>.
 This season of Nightmare's Gateway has already ended, so you cannot take on this challenge.
-You cannot change to the current party because it includes a <color=#FFC000>Phantom Thief</color> who is currently deployed.
-You cannot change to the current party because it includes a <color=#FFC000>Persona</color> that is currently deployed.
 The number of uses of an Assist Phantom Thief has been reached. Unable to use until the challenge is reset.
 This season's challenge has ended.
 Do you want to leave and return to the city?
 Currently unavailable in story mode.
 Cannot move here directly.
 You cannot do any more activities.\nWould you like to go home and rest?
-You are currently on a mission. Please check your <color=#ffc000>City</color> Actions Left before proceeding with the event.
-The school is closed. Come back when it is <color=#ffc000>After School</color>.
-Follow the <color=#ffc000>instructions</color> and complete the city event.
 Cannot proceed with the city life mission while in the Metaverse.
-You are currently on a mission. Do you want to advance the time to <color=#FFC000>%s</color> and engage in city life?
-You are currently on a mission. Do you want to return to Shibuya with the time advanced to <color=#FFC000>%s</color> and engage in city life?
-You have already had your fortune read. If you have another reading, you will <color=#FFC000>lose</color> your bonus from last time.
 All %s abilities have been unlocked.
 %s
-You can't do that at this time.\nDo you want to wait until it's <color=#FFC000>%s</color>?
 Do you want to advance time until the appropriate time?
 Do you want to skip reading this book?
-You can't enter the station due to inclement weather. Try returning on a <color=#ffc000>sunny day.</color>
 Unlocks when %s is %s.
 Unlocked by owning the following Persona with the %s skill: %s.
-It's my first time going together with <color=#FFC000>%s</color>.\nMaybe we can become even closer than usual.
 No bonus for today's fortune-telling.
 Do you want to advance time until it's %s and %s to start the mission?
-You can't do that at this time.\nDo you want to wait until it's <color=#FFC000>%s</color>, <color=#FFC000>%s</color>, and <color=#FFC000>%s</color>?
 Multiplier Applied: This uses 3 Action Points and grants 3 times the rewards (excluding first-time rewards).
 Multiplier Applied: This uses 1 Action Point and grants 1 times the rewards.
-It's currently raining. Please wait until the weather is <color=#ffc000>clear</color>.
 You can't go there right now. Please try again after the weather or time of day has changed.
 There are no events currently open.
 Event has ended.
@@ -1941,7 +1737,6 @@ If you quit the stage, your current sales progress will be saved. Quit now?
 Retreating will reset the stage. Retreat?
 Please enter your information.
 Claimable when protagonist reaches level %s.
-Clear the Main Story mission <color=#FF423F>Takeyuki Kiuchi's Ending</color>.
 Entry has been saved.
 Clear 9 Step 4 missions to receive rewards.
 Clear 9 Step 5 missions to receive rewards.
@@ -1959,7 +1754,6 @@ You must be at least level %s to join the event.
 When you quit this stage, all of your goals will be reset. Quit now?
 It seems it was far too easy for you.\nWell then, shall we continue to the next step?
 Well then, I will now relay the plan for the next step. Are you ready!?
-Side Mission <color=#FFDE00>Shichi-kun's Story</color> cleared.
 Event does not exist.
 You have not placed all the robots. Start the battle?
 Well done. You seem to be making great progress.
@@ -1973,14 +1767,8 @@ Clear 7 missions in Step 4 to obtain rewards.
 Clear 7 missions in Step 5 to obtain rewards.
 Clear 9 missions in Step 6 to obtain rewards.
 Clear 10 missions in Step 7 to obtain rewards.
-Unlock after clearing the side mission <color=#FFD145>Foreign Exchange</color>.\n<color=#FF423F><size=24> *If this mission is not available, please continue the main story.</size></color>
-Unlock after clearing the side mission <color=#FFD145>The Will to Start Again</color>.\n<color=#FF423F><size=24> *If this mission is not available, please continue the main story.</size></color>
-Unlock after clearing the side mission <color=#FFD145>New Possibilities</color>.\n<color=#FF423F><size=24> *If this mission is not available, please continue the main story.</size></color>
-Unlock after clearing the side mission <color=#FFD145>A Housewife's Worries</color>.\n<color=#FF423F><size=24> *If this mission is not available, please continue the main story.</size></color>
 Progress the main story in order to unlock this mission.
 Progress the main story in order to unlock this Synergy.
-No missions available. Please continue playing the main story and clear goals for the mission <color=#FF423F>Go to the Path of Aiyatsbus</color>.
-No missions available. Progress through the main story, clear <color=#FF423F>Traces of Dreams</color>, and raise Wonder to level 22.
 No missions available. Unlock more through main story progression.
 Track {0}?
 No missions available. Please progress through the main story and level up Wonder to unlock more.
@@ -2000,13 +1788,7 @@ Clear all missions in Plan IV, Step 4 to receive rewards.
 Clear all missions in Plan IV, Step 5 to receive rewards.
 Clear all missions in Plan IV, Step 6 to receive rewards.
 Clear all missions in Plan IV, Step 7 to receive rewards.
-<color=#FFDE00>{0}</color> is not yet part of your team. Exchange for their Awareness?\nAwareness can only be used if the corresponding Phantom Thief has joined you. It will be stored in your bag as an item until ready to use.
-<color=#FFDE00>{0}</color> is part your team. Exchange for their Awareness?\nAwareness can only be used if the corresponding Phantom Thief has joined you. It will be stored in your bag as an item until ready to use.
 All goals have been completed.
-Clearing <color=#FF423F>{0}</color> will unlock Water Gun Fight. Would you like to track this now?
-Clearing <color=#FF423F>{0}</color> will unlock Shaved Ice Shuffle. Would you like to track this now?
-Clearing <color=#FF423F>{0}</color> will unlock Strange Changes on the Beach. Would you like to track this now?
-This event mission will be unlocked after clearing the main mission objective <color=#FF423F>Traces of Dreams: Go back to your room and sleep</color>. Please progress further in the main missions.
 The event has not been started. Please complete the starting task first.
 This can't be selected as the syrup selection part is locked.
 This can't be selected as the d\xe9cor selection part is locked.
@@ -2074,7 +1856,6 @@ Sent too frequently.
 Previous video has not been unlocked.
 The 7 day login event Gift from the Disciplinary Committee Chair has ended.
 Come back after you've learned how to cook.
-<color=#FF423F>%s</color> has <color=#FF423F>%s</color> uses remaining.\nDo you want to use <color=#FF423F>%s</color>?
 You don't have any %s dishes.
 Please learn the recipe first.
 You don't have enough ingredients.
@@ -2240,117 +2021,6 @@ No... Could this be...?
 Well then, see you.
 Looks like a tough one. Be careful.
 I'm a bit tired...\nCan we rest over here?
-When you rest at a safe room,\n<color=#FFC000>The party will recover some HP</color>.
-You can now quick travel to <color=#FF423F>Mementos</color>.
-You can now quick travel to the\n<color=#FF423F>Path of Qimranut Area 1</color>.
-<color=#FF423F>The Awakening of the Unknown</color> has been unlocked.\nThis Realm of Repression shortcut has been unlocked.
-<color=#FF423F>Weapon Forging</color> has been unlocked.\nThis Realm of Repression shortcut has been unlocked.
-<color=#FF423F>Persona Lesson</color> has been unlocked.\nThis Realm of Repression shortcut has been unlocked.
-<color=#FF423F>Divine Oracle</color> has been unlocked.\nThis Realm of Repression shortcut has been unlocked.
-You can now quick travel to the\n<color=#FF423F>Exhibition Hall 1F: East Exhibition Room</color>.
-You can now quick travel to the\n<color=#FF423F>Exhibition Hall 1F: Central Exhibition Room East Gate</color>.
-You can now quick travel to the\n<color=#FF423F>Exhibition Hall 2F: Batting Practice Field</color>.
-You can now quick travel to the\n<color=#FF423F>Exhibition Hall 1F: Central Exhibition Room West Gate</color>.
-You can now quick travel to the\n<color=#FF423F>Exhibition Hall 1F: West Exhibition Room</color>.
-You can now quick travel to the\n<color=#FF423F>Club 1F: Entrance</color>.
-You can now quick travel to the\n<color=#FF423F>Club 1F: Back Room</color>.
-You can now quick travel to the\n<color=#FF423F>Club 1F: West Side</color>.
-You can now quick travel to the\n<color=#FF423F>Club 1F: East Side</color>.
-You can now quick travel to the\n<color=#FF423F>Club 2F: VIP Area East Side</color>.
-You can now quick travel to the\n<color=#FF423F>Club 2F: VIP Area West Side</color>.
-You can now quick travel to the\n<color=#FF423F>Club 2F: Lobby South Side</color>.
-You can now quick travel to the\n<color=#FF423F>Club 2F: South Side</color>.
-You can now quick travel to the\n<color=#FF423F>Club 3F: Upper VIP Area</color>.
-You can now quick travel to the\n<color=#FF423F>Baseball Stadium: First Base Building</color>.
-You can now quick travel to the\n<color=#FF423F>Baseball Stadium: Second Base Building</color>.
-You can now quick travel to the\n<color=#FF423F>Baseball Stadium: Center Field</color>.
-You can now quick travel to the\n<color=#FF423F>Path of Qimranut Area 2</color>.
-You can now quick travel to the\n<color=#FF423F>Path of Qimranut Area 3</color>.
-You can now quick travel to the\n<color=#FF423F>Path of Qimranut Area 4</color>.
-You can now quick travel to the\n<color=#FF423F>Path of Aiyatsbus Area 1</color>.
-You can now quick travel to the\n<color=#FF423F>Path of Aiyatsbus Area 2</color>.
-You can now quick travel to the\n<color=#FF423F>Path of Aiyatsbus Area 3</color>.
-You can now quick travel to the\n<color=#FF423F>Path of Aiyatsbus Area 4</color>.
-You can now quick travel to the\n<color=#FF423F>Training Hall: Entrance</color>.
-You can now quick travel to the\n<color=#FF423F>Training Hall: South Office Area</color>.
-You can now quick travel to the\n<color=#FF423F>Training Hall: North Hallway</color>.
-You can now quick travel to the\n<color=#FF423F>Training Hall: West Hallway</color>.
-You can now quick travel to the\n<color=#FF423F>Training Hall: West Side Pitching Practice Area</color>.
-You can now quick travel to the\n<color=#FF423F>Realm of Repression</color>.
-You can now quick travel to the\n<color=#FF423F>Outer Castle: Entrance</color>.
-You can now quick travel to the\n<color=#FF423F>Outer Castle: Ring Area</color>.
-You can now quick travel to the\n<color=#FF423F>Outer Castle: East Wing</color>.
-You can now quick travel to the\n<color=#FF423F>Outer Castle: Villa</color>.
-You can now quick travel to the\n<color=#FF423F>Outer Castle: Northwest Area</color>.
-You can now quick travel to the\n<color=#FF423F>Outer Castle: Northeast Area</color>.
-You can now quick travel to the\n<color=#FF423F>Outer Castle: Southwest Area</color>.
-You can now quick travel to the\n<color=#FF423F>Outer Castle: Southeast Area</color>.
-You can now quick travel to the\n<color=#FF423F>Outer Castle: West Wing</color>.
-You can now quick travel to the\n<color=#FF423F>Castle Keep: Reservoir Room</color>.
-You can now quick travel to the\n<color=#FF423F>Castle Keep: Behind Main Hall</color>.
-You can now quick travel to the\n<color=#FF423F>Castle Keep: Western Room</color>.
-You can now quick travel to the\n<color=#FF423F>Castle Keep: West Corridor</color>.
-You can now quick travel to the\n<color=#FF423F>Castle Keep: Corridor Front</color>.
-You can now quick travel to the\n<color=#FF423F>Castle Keep: Relaxing Tea Room</color>.
-You can now quick travel to the\n<color=#FF423F>Castle Keep: Puzzle Corridor Front</color>.
-You can now quick travel to the\n<color=#FF423F>Castle Keep: Puzzle Corridor Back</color>.
-You can now quick travel to the\n<color=#FF423F>Inner Castle Keep: Entrance</color>.
-You can now quick travel to the\n<color=#FF423F>Inner Castle Keep: East Side</color>.
-You can now quick travel to the\n<color=#FF423F>Inner Castle Keep: Center</color>.
-You can now quick travel to the\n<color=#FF423F>Inner Castle Keep: North Side</color>.
-You can now quick travel to the\n<color=#FF423F>Inner Castle Keep: West Side</color>.
-You can now quick travel to the\n<color=#FF423F>Inner Castle Keep: South Side</color>.
-You can now quick travel to the\n<color=#FF423F>Inner Castle Keep: Southwest</color>.
-You can now quick travel to the\n<color=#FF423F>Upper Castle Keep: Northwest</color>.
-You can now quick travel to the\n<color=#FF423F>Upper Castle Keep: Long Corridor</color>.
-You can now quick travel to the\n<color=#FF423F>Upper Castle Keep: West Side</color>.
-You can now quick travel to the\n<color=#FF423F>Upper Castle Keep: Southwest</color>.
-You can now quick travel to the\n<color=#FF423F>Upper Castle Keep: Southwest Corridor</color>.
-You can now quick travel to the\n<color=#FF423F>Upper Castle Keep: North Corridor</color>.
-You can now quick travel to the\n<color=#FF423F>Upper Castle Keep: Southeast</color>.
-You can now quick travel to the\n<color=#FF423F>Upper Castle Keep: East Side</color>.
-You can now quick travel to the\n<color=#FF423F>Upper Castle Keep: Northeast</color>.
-You can now quick travel to the\n<color=#FF423F>Outer Citadel: Northwest Garden</color>.
-You can now quick travel to the\n<color=#FF423F>Outer Citadel: West Garden</color>.
-You can now quick travel to the\n<color=#FF423F>Outer Citadel: South Garden</color>.
-You can now quick travel to the\n<color=#FF423F>Outer Citadel: North Garden</color>.
-You can now quick travel to the\n<color=#FF423F>Outer Citadel: South Entrance</color>.
-You can now quick travel to the\n<color=#FF423F>Outer Citadel: Rest Area</color>.
-You can now quick travel to the\n<color=#FF423F>Outer Citadel: Granary</color>.
-You can now quick travel to the\n<color=#FF423F>Lower Water Treatment Plant: Safe Room</color>.
-You can now quick travel to the\n<color=#FF423F>Lower Water Treatment Plant: East Entrance</color>.
-You can now quick travel to the\n<color=#FF423F>Lower Water Treatment Plant: East Interior</color>.
-You can now quick travel to the\n<color=#FF423F>Lower Water Treatment Plant: North Side</color>.
-You can now quick travel to the\n<color=#FF423F>Lower Water Treatment Plant: West Entrance</color>.
-You can now quick travel to the\n<color=#FF423F>Lower Water Treatment Plant: West Interior</color>.
-You can now quick travel to the\n<color=#FF423F>Lower Water Treatment Plant: South Side</color>.
-You can now quick travel to the\n<color=#FF423F>Water Treatment Plant: West Corridor</color>.
-You can now quick travel to the\n<color=#FF423F>Water Treatment Plant: North Corridor</color>.
-You can now quick travel to the\n<color=#FF423F>Water Treatment Plant: North Side</color>.
-You can now quick travel to the\n<color=#FF423F>Water Treatment Plant: Cooling Facility</color>.
-You can now quick travel to the\n<color=#FF423F>Water Treatment Plant: East Facility</color>.
-You can now quick travel to the\n<color=#FF423F>Water Treatment Plant: South Side</color>.
-You can now quick travel to the\n<color=#FF423F>Upper Water Treatment Plant: West Interior</color>.
-You can now quick travel to the\n<color=#FF423F>Upper Water Treatment Plant: North Entrance</color>.
-You can now quick travel to the\n<color=#FF423F>Upper Water Treatment Plant: West Entrance</color>.
-You can now quick travel to the\n<color=#FF423F>Upper Water Treatment Plant: Elevator Room</color>.
-You can now quick travel to the\n<color=#FF423F>Upper Water Treatment Plant: East Side</color>.
-You can now quick travel to the\n<color=#FF423F>Upper Water Treatment Plant: North Interior</color>.
-You can now quick travel to the\n<color=#FF423F>Water Treatment Plant: Tunnel South Sector</color>.
-You can now quick travel to the\n<color=#FF423F>Water Treatment Plant: Tunnel North Sector</color>.
-You can now quick travel to the\n<color=#FF423F>Realm of Repression: Words of Harmony</color>.
-You can now quick travel to the\n<color=#FF423F>Realm of Repression: Words of Life</color>.
-You can now quick travel to the\n<color=#FF423F>Realm of Repression: Words of Bonds</color>.
-You can now quick travel to the\n<color=#FF423F>Realm of Repression: Words of Feuds</color>.
-You can now quick travel to the\n<color=#FF423F>Realm of Repression: Words of Ruling</color>.
-You can now quick travel to the\n<color=#FF423F>Realm of Repression: Words of Pleasure</color>.
-You can now quick travel to the\n<color=#FF423F>Realm of Repression: Words of Indolence</color>.
-You can now quick travel to the\n<color=#FF423F>Realm of Repression: Words of Instincts</color>.
-You can now quick travel to the\n<color=#FF423F>Realm of the Ruined: Relativity's Labyrinth</color>.
-You can now quick travel to the\n<color=#FF423F>Realm of the Ruined: Strange Castle</color>.
-You can now quick travel to the\n<color=#FF423F>Metro of Desire</color>.
-The <color=#FF423F>Central Tower: Lower Level</color> saferoom has been unlocked.
-The <color=#FF423F>West Building 1F</color> saferoom has been unlocked.
 Someone looks tired.
 Oooh, there's a safe room.\nShould we take a rest?
 Shadow detected. Several, actually. Be careful.
@@ -2760,7 +2430,6 @@ You have reached the contract limit. Please choose a reward.
 Obtain 50 Newcomer Contract draws.
 The discount is only available if you pull 10 contracts. Would you like to pull 1 contract?
 Please select a Phantom Thief, then read the instructions.\nNote: You are free to change after making your selection.
-In recommended contracts, you can lock <color=#FF423F>3</color> Phantom Thieves.\nOnce the contract is confirmed, <color=#FF423F>{0}</color>{0} will have <color=#FF423F>one lock applied</color>.\nWould you like to start the contract?_\nCaution: When the card pool is active, the only UP characters that can be selected will be from the 3 locked Phantom Thieves, so please choose carefully.
 This series is on display elsewhere. Do you want to display it here?
 No gamepad detected.
 Do you want to save these changes?
@@ -2787,17 +2456,13 @@ You can't dispatch any more.
 Phantom Thieves to be dispatched aren't set.
 The task conditions haven't been met.
 Your current settings do not meet the bonus conditions.\nAre you sure you want to depart?
-The same Phantom Thief cannot take part in a dispatch for the same request.\nDo you want to use <color=#FF423F>%s</color>\nto replace %s?
-Do you want to update the requests?\n<color=#FF423F>(Limited requests cannot be updated)</color>\nCost:%s
 Dispatch mission limit has been reached.
 You will lose %s set effects if you sell this.\nSell %s?
 This key configuration is not yet supported. We apologize for the inconvenience.
 Unlocked after obtaining the required skill.
 Unable to forge.
 Forged.
-Do you want to use your free refresh to update the requests?\n<color=#FF423F>(Limited requests cannot be updated)</color>
 %s and %s Gold coins are required.\nAre you sure you want to select it?
-Consume: <color=#FFDE00>%s x%s</color>.\nCraft: <color=#FFDE00>%s x%s</color>.\nConfirm?
 Not enough consumables for crafting.
 You don't have enough Railway Coins to expand this.
 There are still open challenges
@@ -2810,7 +2475,6 @@ You can set up to {0} {2} Phantom Thieves with the {1} attribute in your party.
 In order to receive dispatch rewards in a timely manner, it is recommended to turn on push notifications for the game.\nNotification condition: When there is a dispatch reward to claim.\nNotification times: 10:00 AM, 12:00 PM, 6:00 PM, 8:00 PM.
 Push notifications are currently disabled.\nPlease enable them in your device's settings.
 Set {0} or more {2} Phantom Thieves with the {1} attribute in your party.
-When updating requests, <color=#FF423F>limited requests cannot be updated</color>.
 You can set up to %s Personas with the %s role in your party.
 Set %s or more Personas with the %s role in your party.
 You can set up to %s Personas with the %s attribute in your party.
@@ -2825,7 +2489,6 @@ You've cleared the event. Investigate the train and continue onto the next stati
 Unlock at Difficulty %s
 Prayer Magatama have been used up.
 Cannot use Prayer Magatama because all allies are at maximum HP.
-Do you want to use 1 <color=#FF423F>Prayer Magatama</color> to fully restore HP to all allied characters?\nYou can use this manually by tapping <color=#FF423F>Party Area</color>.
 Cannot open more treasure chests because the reward has already been chosen.
 You don't have enough Railway Coins.
 You don't have enough refreshes.
@@ -2834,7 +2497,6 @@ You need %s Railway Coins to increase your bag space.\nDo you wish to increase i
 You have no Lost Items to discard.
 Lost Item debuff effect: Cannot gain %s.
 Please select an episode that is currently available.
-In the cleared difficulty level, <color=#FF423F>Shadow of Suffering</color>can be insta-killed.
 You can insta-kill Shadows by raising your party's levels.
 During manual operation, you can view detailed information on charms.
 There's plenty more City Life exploration to come. Stay tuned!
@@ -3161,56 +2823,6 @@ Everything is trash...\nEverything...
 Don't want... bad\nguys... Right...?
 Don't want...\nannoying people... Trash...
 So many of them...\nI will play with you all...
-Unlocks at Synergy Rank 16 with <color=#FF423F>Merope</color>.
-Unlocks at Synergy Rank 18 with <color=#FF423F>Merope</color>.
-Unlocks at Synergy Rank 19 with <color=#FF423F>Merope</color>.
-Unlocks at Synergy Rank 16 with <color=#FF423F>Motoha Arai</color>
-Unlocks at Synergy Rank 18 and close friends with <color=#FF423F>Motoha Arai</color>.
-Unlocks at Synergy Rank 18 and soulmates with <color=#FF423F>Motoha Arai</color>.
-Unlocks at Synergy Rank 19 with <color=#FF423F>Motoha Arai</color>.
-Unlocks at Synergy Rank 16 with <color=#FF423F>Tomoko Noge</color>.
-Unlocks at Synergy Rank 18 and close friends with <color=#FF423F>Tomoko Noge</color>.
-Unlocks at Synergy Rank 18 and soulmates with <color=#FF423F>Tomoko Noge</color>.
-Unlocks at Synergy Rank 19 with <color=#FF423F>Tomoko Noge</color>.
-Unlocks at Synergy Rank 16 with <color=#FF423F>Yaoling Li</color>.
-Unlocks at Synergy Rank 18 and close friends with <color=#FF423F>Yaoling Li</color>.
-Unlocks at Synergy Rank 18 and soulmates with <color=#FF423F>Yaoling Li</color>.
-Unlocks at Synergy Rank 19 with <color=#FF423F>Yaoling Li</color>.
-Unlocks at Synergy Rank 16 with <color=#FF423F>Kayo Tomiyama</color>.
-Unlocks at Synergy Rank 18 with <color=#FF423F>Kayo Tomiyama</color>.
-Unlocks at Synergy Rank 19 with <color=#FF423F>Kayo Tomiyama</color>.
-Unlocks at Synergy Rank 16 with <color=#FF423F>Shun Kano</color>.
-Unlocks at Synergy Rank 18 with <color=#FF423F>Shun Kano</color>.
-Unlocks at Synergy Rank 19 with <color=#FF423F>Shun Kano</color>.
-Unlocks at Synergy Rank 16 with <color=#FF423F>Yui</color>.
-Unlocks at Synergy Rank 18 with <color=#FF423F>Yui</color>.
-Unlocks at Synergy Rank 19 with <color=#FF423F>Yui</color>.
-Unlocks at Synergy Rank 16 with <color=#FF423F>Kiyoshi Kurotani</color>.
-Unlocks at Synergy Rank 18 with <color=#FF423F>Kiyoshi Kurotani</color>.
-Unlocks at Synergy Rank 19 with <color=#FF423F>Kiyoshi Kurotani</color>.
-Unlocks at Synergy Rank 16 with <color=#FF423F>Miyu Sahara</color>.
-Unlocks at Synergy Rank 18 and close friends with <color=#FF423F>Miyu Sahara</color>.
-Unlocks at Synergy Rank 18 and soulmates with <color=#FF423F>Miyu Sahara</color>.
-Unlocks at Synergy Rank 19 with <color=#FF423F>Miyu Sahara</color>.
-Unlocks at Synergy Rank 16 with <color=#FF423F>Kira Kitazato</color>.
-Unlocks at Synergy Rank 18 with <color=#FF423F>Kira Kitazato</color>.
-Unlocks at Synergy Rank 19 with <color=#FF423F>Kira Kitazato</color>.
-Unlocks at Synergy Rank 16 with <color=#FF423F>Kotone Montagne</color>.
-Unlocks at Synergy Rank 18 and close friends with <color=#FF423F>Kotone Montagne</color>.
-Unlocks at Synergy Rank 18 and soulmates with <color=#FF423F>Kotone Montagne</color>.
-Unlocks at Synergy Rank 19 with <color=#FF423F>Kotone Montagne</color>.
-Unlocks at Synergy Rank 16 with <color=#FF423F>Runa Dogenzaka</color>.
-Unlocks at Synergy Rank 18 and close friends with <color=#FF423F>Runa Dogenzaka</color>.
-Unlocks at Synergy Rank 18 and soulmates with <color=#FF423F>Runa Dogenzaka</color>.
-Unlocks at Synergy Rank 19 with <color=#FF423F>Runa Dogenzaka</color>.
-Unlocks at Synergy Rank 16 with <color=#FF423F>Riko Tanemura</color>.
-Unlocks at Synergy Rank 18 and close friends with <color=#FF423F>Riko Tanemura</color>.
-Unlocks at Synergy Rank 18 and soulmates with <color=#FF423F>Riko Tanemura</color>.
-Unlocks at Synergy Rank 19 with <color=#FF423F>Riko Tanemura</color>.
-Unlocks at Synergy Rank 16 with <color=#FF423F>Mayumi Hashimoto</color>.
-Unlocks at Synergy Rank 18 and close friends with <color=#FF423F>Mayumi Hashimoto</color>.
-Unlocks at Synergy Rank 18 and soulmates with <color=#FF423F>Mayumi Hashimoto</color>.
-Unlocks at Synergy Rank 19 with <color=#FF423F>Mayumi Hashimoto</color>.
 Unlock this stamp after clearing Chapter 1 of the Main Story missions.
 Unlock this stamp after clearing Chapter 2 of the Main Story missions.
 Unlock this stamp after clearing Crossroads of Fate: Castle Arc.
@@ -3225,18 +2837,7 @@ This is bad. Isn't there\nanything we can do?
 This is a real predicament...
 Wonder? What's wrong?\nAnswer me!
 Hello!? Are you all right!?
-Unlocks at Synergy Rank 16 with <color=#FF423F>Yumi Shiina</color>.
-Unlocks at Synergy Rank 18 and close friends with <color=#FF423F>Yumi Shiina</color>.
-Unlocks at Synergy Rank 16 with <color=#FF423F>Masaki Ashiya</color>.
-Unlocks at Synergy Rank 18 with <color=#FF423F>Masaki Ashiya</color>.
-Unlocks at Synergy Rank 19 with <color=#FF423F>Masaki Ashiya</color>.
-Unlocks at Synergy Rank 18 and soulmates with <color=#FF423F>Yumi Shiina</color>.
-Unlocks at Synergy Rank 19 with <color=#FF423F>Yumi Shiina</color>.
 You're in danger! Hurry and heal!
-Unlocks at Synergy Rank 16 with <color=#FF423F>Ayaka Sakai</color>.
-Unlocks at Synergy Rank 18 and close friends with <color=#FF423F>Ayaka Sakai</color>.
-Unlocks at Synergy Rank 18 and soulmates with <color=#FF423F>Ayaka Sakai</color>.
-Unlocks at Synergy Rank 19 with <color=#FF423F>Ayaka Sakai</color>.
 Someone is in critical\ncondition. Be careful!
 Are you okay, Wonder?
 An ally is down,\nwe need assistance!
@@ -3430,25 +3031,7 @@ Big bro, I'm so glad...\nI was seriously about to cry!
 Unable to use Fast Forward for this story.
 Unable to use Autoplay for this story.
 Important story scene, unable to skip.
-This is an <color=#FF423F>important story scene</color>.\nDo you want to skip it?
 Skippable in %s seconds.
-You unlocked the City Life activity\n<color=#ffc000>Yakitori Invitation</color>.\nThere is a chance for it to appear each day.
-You unlocked the City Life activity\n<color=#ffc000>Help Yuta Sato</color>.\nThere is a chance for it to appear each day.
-You unlocked the City Life activity\n<color=#ffc000>Talk to Hiyori Koide</color>.\nThere is a chance for it to appear each day.
-You unlocked the City Life activity\n<color=#ffc000>Listen to Ayaka's song</color>.\nThere is a chance for it to appear each day.
-You unlocked the City Life activity\n<color=#ffc000>Talk to Tosabayashi</color>.\nThere is a chance for it to appear each day.
-You unlocked the City Life activity\n<color=#ffc000>Chihaya's Fortune-Telling</color>.\nThere is a chance for it to appear each day.
-You unlocked the City Life activity\n<color=#ffc000>Talk to Shichi-kun</color>.\nThere is a chance for it to appear each day.
-You unlocked the City Life activity\n<color=#ffc000>Talk to Tsuda</color>.\nThere is a chance for it to appear each day.
-You unlocked the City Life activity\n<color=#ffc000>Talk to Shishida</color>.\nThere is a chance for it to appear each day.
-You unlocked the City Life activity\n<color=#ffc000>Camerawork with Rikuto Shimizu</color>.\nThere is a chance for it to appear each day.
-You unlocked the City Life activity\n<color=#ffc000>Talk to Anderson</color>.\nThere is a chance for it to appear each day.
-You unlocked the City Life activity\n<color=#ffc000>Tabby's Treasure Hunt</color>.\nThere is a chance for it to appear each day.
-You unlocked the City Life activity\n<color=#ffc000>Namie Komatsu's Running Training</color>.\nThere is a chance for it to appear each day.
-I have joined the <color=#ffc000>band club</color>.\nI can participate in club activities from the Kokatsu Academy club bulletin board.
-I have joined the <color=#ffc000>soccer club</color>.\nI can participate in club activities\nfrom the Kokatsu Academy club bulletin board.
-You unlocked the City Life activity\n<color=#ffc000>Study with Minami Miyashita</color>.\nThere is a chance for it to appear each day.
-You unlocked the City Life activity\n<color=#ffc000>Stargaze with Haruna</color>.\nThere is a chance for it to appear each day.
 This episode is not yet available. Stay tuned!
 Unlocks after meeting Hiyori Koide
 Unlocks after meeting Ayaka Sakai
@@ -3458,13 +3041,6 @@ Unlocked after building Synergy with Merope
 Unlocked after building Synergy with Motoha Arai
 Unlocked after building Synergy with Kiyoshi Kurotani
 Unlocked after building Synergy with Tomoko Noge
-During the final battle, foes become weak to <color=#FF423F>Physical and Gun</color> attacks, and damage for those attributes is increased by 30%.
-During the final battle, foes become weak to <color=#FF423F>Fire, Ice, Wind, and Electric</color> attacks, and damage for those attributes is increased by 30%.
-During the final battle, foes become weak to <color=#FF423F>Psychokinesis, Nuclear, Bless, and Curse</color> attacks, and damage for those attributes is increased by 30%.
-During the final battle, the party's <color=#FF423F>Attack</color> is increased by 35%, and <color=#FF423F>Attack</color>is increased by 150.
-During the final battle, the party's <color=#FF423F>Defense</color> is increased by 75%, and <color=#FF423F>Defense</color> is increased by 150.
-During the final battle, the party's <color=#FF423F>HP</color> is increased by 40%, and <color=#FF423F>HP</color> is increased by 500.
-At the start of the final battle, a <color=#FF423F>Highlight</color> chance is granted, and the Highlight activation rate is greatly increased.
 The robot cannot move to this area.
 Okay, so we go straight for a while this way...\nthen turn left... it should be around there? Follow me!
 Let's proceed.
@@ -3474,8 +3050,6 @@ Claimed all %s.
 Not enough rewards in the box, please draw 1 at a time.
 Set to %s.
 You don't have enough tickets.
-You obtained the grand prize from this box.\n<color=#FF423F>%s</color> unlocked.
-<color=#FF423F>%s</color> unlocked.
 All treasure chests have been opened.
 The badge selection limit has been reached.
 Hmmm... maybe you should\nswitch to better bait?
@@ -3520,8 +3094,6 @@ What!?\nHow did you even do that?
 They're down! Follow it up!
 Hehe, what's the matter?\nFeeling hung over?
 Let the show begin!
-You can now quick travel to the\n<color=#FF423F>Path of Chemdah Area 4</color>.
-You can now quick travel to the\n<color=#FF423F>Path of Chemdah Area 5</color>.
 That was a perfect strike!
 The custom badge has not been saved.\nAre you sure you want to quit?
 It must've seen that coming...
@@ -3533,9 +3105,6 @@ Enjoy responsibly, okay?
 A toast to our victory!\nCheers!
 Oof, you don't look so good.\nWe've gotta get serious!
 Are you okay? Can you walk?
-Please progress through the main story and clear <color=#FF423F>Traces of Dreams</color> missions.
-Please progress through the main story and clear <color=#FF423F>Outcome of Pride</color> missions.
-Please progress through the main story and clear <color=#FF423F>Unconditional Love</color> missions.
 Hey, this is no time to be\ngetting tipsy!
 If you're not feeling good,\nget some rest!
 Don't work too hard, okay?
@@ -3552,9 +3121,6 @@ They're back up.\nTake it easy next time, okay?
 Oh, they're up! I was worried!
 You're back!\nFeeling better now?
 You can't fall here!\nYou're the star of the show...
-You can now quick travel to the\n<color=#FF423F>Path of Chemdah Area 1</color>.
-You can now quick travel to the\n<color=#FF423F>Path of Chemdah Area 2</color>.
-You can now quick travel to the\n<color=#FF423F>Path of Chemdah Area 3</color>.
 A surprise attack!?\nLet's get back in formation!
 Everyone, be careful.
 That was careless. Let's wrap this up, quickly.
@@ -3622,7 +3188,6 @@ Not enough small volleys.
 You have already acquired all player Enthusiasm Rewards.
 Are you sure you want to end?\n*After ending, you will be able to review Commemorative Brochures.\n*After you've finished viewing, you can share Commemorative Brochures and receive sharing rewards.
 Please enter an invite code.
-<color=#FF423F>%s</color>'s account has been deleted.
 I'll do you proud.
 I got you.
 You did well to choose me.
@@ -4039,9 +3604,6 @@ No more uses. Unable to set participation
 You must deploy at least 3 Phantom Thieves before starting the challenge.
 Not enough Spiritual Endurance, unable to challenge.
 Cannot Challenge. There are currently Phantom Thieves in your lineup that do not have enough challenge attempts.
-Consumed <color=#ffc000>Spiritual Endurance</color> and <color=#ffc000>participation counts</color> will be <color=#ffc000>reset</color>, and <color=#FF423F>challenge results</color> will be <color=#FF423F>abandoned</color>. Confirm?
-Consumed <color=#ffc000>Spiritual Endurance</color> and <color=#ffc000>participation counts</color> will be <color=#ffc000>returned</color>, and after Monitoring Points are <color=#FF423F>reoccupied</color>, you will be able to challenge a new Monitoring Point. Confirm?
-Please <color=#FF423F>reoccupy</color> the monitoring point you already passed before taking on the challenge again.
 Yes! An outstanding reward!
 Let's keep up the good work.
 Phew... Our work is done.
@@ -4077,6 +3639,5 @@ Maybe we still have a ways to go...
 *giggle* We've gotten pretty strong!
 Seems satisfactory.
 Appreciate it!
-You will <color=#FF423F>lose</color> your progress for <color=#FF423F>all Monitoring Points</color>, and all of your used <color=#ffc000>Spiritual Endurance</color> and <color=#ffc000>Attempts</color> will be <color=#ffc000>returned</color>. Once you have <color=#FF423F>reclaimed</color> all Monitoring Points, you will be able to resume the challenge. Proceed?
 Successfully reset the Monitoring Points.
 This play mode is unlocked at level 70.
