@@ -1,0 +1,8 @@
+© Perfect World Adapted from {{B}} 5 © ATLUS. © SEGA.\nSpecial Thanks: Fontworks Inc. and SHOWASHOTAI Co., Ltd.\nClient {{D}}: 1.0.0 Game {{D}}: 1.0.0 {{C}}esource {{A}}.: P454.E6080.C1291311.L1285651=© Perfect World, адаптировано из {{A}} 5 © ATLUS. © SEGA.\nОсобая благодарность: Fontworks Inc., SHOWASHOTAI Co. \nи @garry4444 за руссификатор Ltd.\nВерсия клиента: 1.0.0 Версия игры: 1.0.0 Номер ресурса: P454.E6080.C1291311.L1285651
+© Perfect World Adapted from Persona 5 © ATLUS. © SEGA.\nSpecial Thanks: Fontworks Inc. and SHOWASHOTAI Co., Ltd.\nClient Version: 1.0.0 Game Version: 1.0.0 Resource No.: P454.E6080.C1291311.L1285651=© Perfect World Адаптирован на основе Persona 5 © ATLUS. © SEGA. \nОсобая благодарность: Fontworks Inc., SHOWASHOTAI Co. Ltd. \nи @garry4444 за руссификатор \nВерсия клиента: 1.0.0 Номер ресурса: P454.E6080.C1291311.L1285651
+
+r:"^(.)$"=$1
+r:"<sprite\=(\d+) tint\=(\d+)>"=<sprite\=$1 tint\=$2>
+r:"<sprite\=(.+) tint\=(.+)>"=<sprite\=$1 tint\=$2>
+r:"^Version (.*)$"="Версия $1"
+
