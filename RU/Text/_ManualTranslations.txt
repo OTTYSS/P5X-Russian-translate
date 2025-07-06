@@ -7,5 +7,4 @@ r:"^(.)$"=$1
 r:"<sprite\=(\d+) tint\=(\d+)>"=<sprite\=$1 tint\=$2>
 r:"<sprite\=(.+) tint\=(.+)>"=<sprite\=$1 tint\=$2>
 r:"^Version (.*)$"="Версия $1"
-
-Lv=Лвл
+r:"^Lv$"="<size\=37>Ур</size>"
