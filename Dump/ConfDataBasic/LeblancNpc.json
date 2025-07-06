@@ -1,0 +1,98 @@
+[
+  {
+    "sn": 1,
+    "npcSn": "11011,11012,11013,11014,11015",
+    "widgetNpc": "0|0|0|0|0",
+    "type": 1,
+    "weight": 0,
+    "unlockState": 1,
+    "unlockType": "AAAAAA==",
+    "unlockParam": "AAAAAA==",
+    "position": "1,2,3,4,2",
+    "noShowLnpc": "0|0|0|0|0"
+  },
+  {
+    "sn": 2,
+    "npcSn": "11021,11022,11023,11024,11025",
+    "widgetNpc": "0|0|0|0|0",
+    "type": 2,
+    "weight": 10,
+    "unlockState": 1,
+    "unlockType": "AAAAAA==",
+    "unlockParam": "AAAAAA==",
+    "position": "5,6,7,10,6",
+    "noShowLnpc": "0|0|0|0|0"
+  },
+  {
+    "sn": 3,
+    "npcSn": "11031,11032,11033,11034,11035",
+    "widgetNpc": "0|11502|11503|0|0",
+    "type": 2,
+    "weight": 10,
+    "unlockState": 0,
+    "unlockType": "1",
+    "unlockParam": "60109",
+    "position": "9,10,12,1,9",
+    "noShowLnpc": "0|0|0|0|5"
+  },
+  {
+    "sn": 4,
+    "npcSn": "11041,11042,11043,11044,11045",
+    "widgetNpc": "0|11502|11503|11501|0",
+    "type": 2,
+    "weight": 10,
+    "unlockState": 0,
+    "unlockType": "1",
+    "unlockParam": "60114",
+    "position": "11,10,12,13,11",
+    "noShowLnpc": "0|0|0|0|0"
+  },
+  {
+    "sn": 5,
+    "npcSn": "11051,11052,11053,11054,11055",
+    "widgetNpc": "0|11503|11501|0|0",
+    "type": 2,
+    "weight": 10,
+    "unlockState": 0,
+    "unlockType": "1",
+    "unlockParam": "60119",
+    "position": "1,12,13,14,14",
+    "noShowLnpc": "0|0|0|0|0"
+  },
+  {
+    "sn": 6,
+    "npcSn": "11061,11062,11063,11064,11065",
+    "widgetNpc": "0|11504|11501|0|11504",
+    "type": 2,
+    "weight": 10,
+    "unlockState": 0,
+    "unlockType": "1",
+    "unlockParam": "60124",
+    "position": "10,15,13,16,15",
+    "noShowLnpc": "0|0|0|5|0"
+  },
+  {
+    "sn": 7,
+    "npcSn": "11071,11072,11073,11074,11075",
+    "widgetNpc": "11502|11505|0|0|0",
+    "type": 2,
+    "weight": 10,
+    "unlockState": 0,
+    "unlockType": "1",
+    "unlockParam": "60129",
+    "position": "10,13,17,1,5",
+    "noShowLnpc": "0|0|2|0|0"
+  },
+  {
+    "sn": 8,
+    "npcSn": "11081,11082,11083,11084,11085",
+    "widgetNpc": "11501|0|11502|0|0",
+    "type": 2,
+    "weight": 10,
+    "unlockState": 0,
+    "unlockType": "1",
+    "unlockParam": "60135",
+    "position": "13,18,10,5,16",
+    "noShowLnpc": "0|5|0|0|0"
+  }
+]

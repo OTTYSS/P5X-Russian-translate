@@ -1,0 +1,672 @@
+[
+  {
+    "sn": "100",
+    "title": "<color=#72C5FF>Resonance</color>",
+    "desc": "An effect that will be activated when specific conditions are met."
+  },
+  {
+    "sn": "101",
+    "title": "<color=#72C5FF>Elemental Ailments</color>",
+    "desc": "Burn, Freeze, Shock, and Windswept are classified as elemental ailments."
+  },
+  {
+    "sn": "102",
+    "title": "<color=#72C5FF>Burn</color>",
+    "desc": "[Elemental Ailment] Lose 5% HP for 2 turns."
+  },
+  {
+    "sn": "103",
+    "title": "<color=#72C5FF>Freeze</color>",
+    "desc": "[Elemental Ailment] Decrease Attack by 12% for 2 turns."
+  },
+  {
+    "sn": "104",
+    "title": "<color=#72C5FF>Shock</color>",
+    "desc": "[Elemental Ailment] Increase the chance of receiving critical hits by 10% for 2 turns."
+  },
+  {
+    "sn": "105",
+    "title": "<color=#72C5FF>Windswept</color>",
+    "desc": "[Elemental Ailment] Decrease Defense by 12% for 2 turns."
+  },
+  {
+    "sn": "106",
+    "title": "<color=#72C5FF>Spiritual Ailments</color>",
+    "desc": "Dizzy, Forget, Sleep, Rage, Despair, Confuse, Fear, and Brainwash are classified as spiritual ailments."
+  },
+  {
+    "sn": "107",
+    "title": "<color=#72C5FF>Dizzy</color>",
+    "desc": "[Spiritual Ailment] Unable to act."
+  },
+  {
+    "sn": "108",
+    "title": "<color=#72C5FF>Forget</color>",
+    "desc": "[Spiritual Ailment] Cannot use skills."
+  },
+  {
+    "sn": "109",
+    "title": "<color=#72C5FF>Sleep</color>",
+    "desc": "[Spiritual Ailment] Unable to act. Recover 5% HP and SP every turn. Removed after taking damage from an attack."
+  },
+  {
+    "sn": "110",
+    "title": "<color=#72C5FF>Rage</color>",
+    "desc": "[Spiritual Ailment] Increases Attack and decreases Defense. Makes melee attacks against random targets."
+  },
+  {
+    "sn": "111",
+    "title": "<color=#72C5FF>Blessing</color>",
+    "desc": "[Status] Recover 1% HP for 2 turns."
+  },
+  {
+    "sn": "112",
+    "title": "<color=#72C5FF>Curse</color>",
+    "desc": "[Status] Lose 1% HP for 2 turns."
+  },
+  {
+    "sn": "113",
+    "title": "<color=#72C5FF>La Vie en Rose</color>",
+    "desc": "[Status] When dealing Fire damage to foes, gain 1 Passion stack. After obtaining 4 Passion stacks, gain this status on action start and increase attack."
+  },
+  {
+    "sn": "114",
+    "title": "tdxct-[SkillTips_title_114]",
+    "desc": "tdxct-[SkillTips_desc_114]"
+  },
+  {
+    "sn": "115",
+    "title": "<color=#72C5FF>Starfire</color>",
+    "desc": "[Status] Allies healing using skill gain Starfire, increasing attack for 1 turn."
+  },
+  {
+    "sn": "116",
+    "title": "<color=#72C5FF>Gavel</color>",
+    "desc": "[Count] When spent, deal Bless damage to 1 foe, increase party's Attack, and grant shields."
+  },
+  {
+    "sn": "117",
+    "title": "<color=#72C5FF>Tenacity</color>",
+    "desc": "[Count] Increases Attack and Defense on self. When using certain skills, increases skill effect based on the number of stacks."
+  },
+  {
+    "sn": "118",
+    "title": "<color=#72C5FF>Right to Strike</color>",
+    "desc": "[Count] Increases Attack and Speed on self."
+  },
+  {
+    "sn": "119",
+    "title": "<color=#72C5FF>Ice Crystal</color>",
+    "desc": "[Count] When spending a certain number of stacks, activate Blade Dancer."
+  },
+  {
+    "sn": "120",
+    "title": "<color=#72C5FF>Encouragement</color>",
+    "desc": "When Seiji uses a skill, he has a chance to gain a stack of Encouragement. Increases his Attack and Speed by a set amount."
+  },
+  {
+    "sn": "121",
+    "title": "<color=#72C5FF>Oath</color>",
+    "desc": "[Status] At the end of the user's action, grants a shield to the selected ally."
+  },
+  {
+    "sn": "122",
+    "title": "tdxct-[SkillTips_title_122]",
+    "desc": "tdxct-[SkillTips_desc_122]"
+  },
+  {
+    "sn": "123",
+    "title": "<color=#72C5FF>Inspiration</color>",
+    "desc": "[Status] After taking damage from enemy skills, random chance to counter and deal Ice damage."
+  },
+  {
+    "sn": "124",
+    "title": "<color=#72C5FF>Rebellion</color>",
+    "desc": "[Count] At 3 stacks, able to take an extra action. Spend 3 stacks after the extra action is taken."
+  },
+  {
+    "sn": "125",
+    "title": "<color=#72C5FF>Waters of Oblivion</color>",
+    "desc": "[Count] Foes take increased damage based on Speed."
+  },
+  {
+    "sn": "126",
+    "title": "<color=#72C5FF>Red Spider Lily</color>",
+    "desc": "[Condition] Foes take increased damage based on your Speed."
+  },
+  {
+    "sn": "127",
+    "title": "<color=#72C5FF>Meng Po Soup</color>",
+    "desc": "[Count] Spend all when using a skill. Chance to inflict Forget and increase the effect of certain skills."
+  },
+  {
+    "sn": "128",
+    "title": "<color=#72C5FF>Power of Friendship</color>",
+    "desc": "[Count] Increase allies' Attack when granted."
+  },
+  {
+    "sn": "129",
+    "title": "<color=#72C5FF>Justice Barrier</color>",
+    "desc": "[Skill] Grant all allies Shields and Power of Friendship."
+  },
+  {
+    "sn": "130",
+    "title": "<color=#72C5FF>Rebound</color>",
+    "desc": "[Condition] Next skill used deals increased damage."
+  },
+  {
+    "sn": "131",
+    "title": "<color=#72C5FF>Greenleaf</color>",
+    "desc": "[Count] Spent when Tomoko uses certain skills."
+  },
+  {
+    "sn": "132",
+    "title": "<color=#72C5FF>Cheer Song</color>",
+    "desc": "[Status] Increase party's Attack and ailment accuracy."
+  },
+  {
+    "sn": "133",
+    "title": "<color=#72C5FF>Clue</color>",
+    "desc": "When an ally deals damage, Futaba has a chance to gain 1 Clue, increasing the attack power of all allies."
+  },
+  {
+    "sn": "134",
+    "title": "tdxct-[SkillTips_title_134]",
+    "desc": "tdxct-[SkillTips_desc_134]"
+  },
+  {
+    "sn": "135",
+    "title": "<color=#72C5FF>Sacrifice</color>",
+    "desc": "[Count] Increase party's fire damage. When using a skill, take damage."
+  },
+  {
+    "sn": "136",
+    "title": "<color=#72C5FF>Sacred Flame</color>",
+    "desc": "[Status] When target foe takes action, deal Fire damage (2 turns)."
+  },
+  {
+    "sn": "137",
+    "title": "<color=#72C5FF>Blade Dancer</color>",
+    "desc": "[Resonance] After using a skill, if at a certain number of Ice Crystal stacks or higher, deal Ice damage to foes as a follow up. This effect counts as a Resonance. "
+  },
+  {
+    "sn": "138",
+    "title": "<color=#72C5FF>Durandal of Ice</color>",
+    "desc": "[Skill] Deal Ice damage to 1 foe. When user has a set number of Ice Crystal stacks and is in the Parthelion state, increase damage dealt based on foe's missing HP."
+  },
+  {
+    "sn": "139",
+    "title": "<color=#72C5FF>Freezing Point</color>",
+    "desc": "Whenever an ally deals Ice damage while Shun Kano is on the field, decrease target's Defense and inflict 1 Freezing Point stack. When the foe reaches 10 Freezing Point stacks, inflict Absolute Zero."
+  },
+  {
+    "sn": "140",
+    "title": "<color=#72C5FF>Absolute Zero</color>",
+    "desc": "With 10 stacks of Freezing Point, foe gains Absolute Zero, permanently reducing Defense."
+  },
+  {
+    "sn": "141",
+    "title": "<color=#72C5FF>Beat</color>",
+    "desc": "[Count] When spending a certain number of stacks, activate Pulsating Rhythm for all allies."
+  },
+  {
+    "sn": "142",
+    "title": "<color=#72C5FF>Pulsating Rhythm</color>",
+    "desc": "[Count] Increase party's Attack, Defense, and Status Ailment Accuracy."
+  },
+  {
+    "sn": "143",
+    "title": "<color=#72C5FF>Taunt</color>",
+    "desc": "[Status] Enemies will prioritize targeting the user."
+  },
+  {
+    "sn": "144",
+    "title": "<color=#72C5FF>Seashell</color>",
+    "desc": "[Count] Increases ally shield and various stats based on number of stacks."
+  },
+  {
+    "sn": "145",
+    "title": "<color=#72C5FF>Hint</color>",
+    "desc": "When Riddle inflicts a debuff on a foe with Treasure Hunt Mark, it gains 1 Hint. Each stack decreases Defense by 4%."
+  },
+  {
+    "sn": "146",
+    "title": "<color=#72C5FF>Treasure Hunt</color>",
+    "desc": "Increases foes' damage taken by 8%."
+  },
+  {
+    "sn": "147",
+    "title": "<color=#72C5FF>X Marks the Spot!</color>",
+    "desc": "When a foe with Treasure Hunt Mark has 3 Hint stacks, Treasure Hunt Mark becomes X Marks the Spot, increasing damage taken by 15%."
+  },
+  {
+    "sn": "148",
+    "title": "<color=#72C5FF>Fury</color>",
+    "desc": "Deva King Charm set effect. For each stack, increase party's Attack by 1%. For each increase, increase Defense by 1%."
+  },
+  {
+    "sn": "149",
+    "title": "<color=#72C5FF>Rascally Sort</color>",
+    "desc": "tnxotb-[SkillTips_desc_149]"
+  },
+  {
+    "sn": "150",
+    "title": "<color=#72C5FF>Chivalry</color>",
+    "desc": "[Count] Spend stacks to heal the entire party's HP."
+  },
+  {
+    "sn": "999",
+    "title": "<color=#72C5FF>Seal of Power</color>",
+    "desc": "For each stack, increase final damage by 15%. Lasts for 2 turns. Stacks up to 2 times."
+  },
+  {
+    "sn": "151",
+    "title": "<color=#72C5FF>Desperado</color>",
+    "desc": "[Status] At the end of an action, recover HP."
+  },
+  {
+    "sn": "152",
+    "title": "tdxct-[SkillTips_title_152]",
+    "desc": "tdxct-[SkillTips_desc_152]"
+  },
+  {
+    "sn": "153",
+    "title": "<color=#72C5FF>Verse</color>",
+    "desc": "[Count] With a certain number of stacks, when an ally acts, deal follow-up Curse damage to 1 foe."
+  },
+  {
+    "sn": "154",
+    "title": "<color=#72C5FF>Sonnet of Fate</color>",
+    "desc": "[Resonance] With a certain number of Verse Stacks, when an ally acts, deal follow-up Bless damage to 1 foe."
+  },
+  {
+    "sn": "155",
+    "title": "<color=#72C5FF>Despair</color>",
+    "desc": "[Spiritual Ailment] Unable to act, lose SP every turn, and will be KO'd after a few turns."
+  },
+  {
+    "sn": "156",
+    "title": "<color=#72C5FF>Confused</color>",
+    "desc": "[Spiritual Ailment] Unable to act and throws away Konpaku Gems."
+  },
+  {
+    "sn": "157",
+    "title": "<color=#72C5FF>Fear</color>",
+    "desc": "[Spiritual Ailment] May be unable to act, and will flee after a few turns."
+  },
+  {
+    "sn": "158",
+    "title": "<color=#72C5FF>Brainwash</color>",
+    "desc": "[Spiritual Ailment] Become unable to follow action commands and attack allies."
+  },
+  {
+    "sn": "159",
+    "title": "<color=#72C5FF>Memory</color>",
+    "desc": "[Count] After spending a certain number of stacks, gain Meng Po Soup."
+  },
+  {
+    "sn": "160",
+    "title": "<color=#72C5FF>Verse of Hate</color>",
+    "desc": "[Count] When activating Sonnet of Fate, spend for chance to inflict Curse on foe."
+  },
+  {
+    "sn": "161",
+    "title": "<color=#72C5FF>Verse of Healing</color>",
+    "desc": "[Count] When activating Sonnet of Fate, spend to restore HP of ally with the lowest remaining HP."
+  },
+  {
+    "sn": "162",
+    "title": "<color=#72C5FF>Verse of Passion</color>",
+    "desc": "[Count] When activating Sonnet of Fate, spend to deal follow-up Almighty damage to the foe."
+  },
+  {
+    "sn": "163",
+    "title": "<color=#72C5FF>Verse of Zenith</color>",
+    "desc": "[Count] Gain the effects of all Verses at once."
+  },
+  {
+    "sn": "164",
+    "title": "<color=#72C5FF>Childish Heart</color>",
+    "desc": "[Count] When spent, increase party's Attack."
+  },
+  {
+    "sn": "165",
+    "title": "<color=#72C5FF>Affection</color>",
+    "desc": "[Status] When allies granted this status deal damage with a skill, grant user Childish Heart and Mystery."
+  },
+  {
+    "sn": "167",
+    "title": "<color=#72C5FF>Agony</color>",
+    "desc": "Special effect of the Vanquisher Charm set. Deal 1% of max HP per stack as damage to foes. (Lasts for 2 turns.)"
+  },
+  {
+    "sn": "168",
+    "title": "<color=#72C5FF>Infernal Curse</color>",
+    "desc": "Metro of Desire ambient effect. Every 3 actions, reduce max HP by 5% for all allies and foes."
+  },
+  {
+    "sn": "169",
+    "title": "<color=#72C5FF>Diagnosis</color>",
+    "desc": "[Count] Increase user's max HP by 15% for each stack. When using certain skills, spend all stacks to strengthen those skills' effects."
+  },
+  {
+    "sn": "170",
+    "title": "<color=#72C5FF>Scarlet Tide</color>",
+    "desc": "Metro of Desire ambient effect.\nAt the start of battle, and after every 5 turns, all allies and enemies take a certain amount of damage and gain 1 Power of Passion stack.\nPower of Passion: Damage taken increased by 5%. Stacks up to 15 times. Can be removed."
+  },
+  {
+    "sn": "171",
+    "title": "<color=#72C5FF>Magnetic Interference</color>",
+    "desc": "Damage taken up 20%. Lasts for 2 turns. Stacks up to 2 times."
+  },
+  {
+    "sn": "172",
+    "title": "<color=#72C5FF>Imagination</color>",
+    "desc": "[Status] 100% chance to counterattack. Change to multi-target and increase damage."
+  },
+  {
+    "sn": "1001",
+    "title": "<color=#72C5FF>Rank Boost 1</color>",
+    "desc": "While your Protagonist's level is slightly below the server's base level, you can get Level 1 Rank Boost Rewards for each Daily Pass cleared."
+  },
+  {
+    "sn": "1002",
+    "title": "<color=#72C5FF>Assist Rewards</color>",
+    "desc": "You can gain Assist Rewards by supporting other players' battles or defeating enemies with other players' help. These points can be exchanged for rewards."
+  },
+  {
+    "sn": "1003",
+    "title": "<color=#72C5FF>Rank Boost 2</color>",
+    "desc": "While your Protagonist's level is slightly below the server's base level, you can get Level 2 Rank Boost Rewards for each Daily Pass cleared."
+  },
+  {
+    "sn": "1004",
+    "title": "<color=#72C5FF>Rank Boost 3</color>",
+    "desc": "While your Protagonist's level is below the server's base level, you can get Level 3 Rank Boost Rewards for each Daily Pass cleared."
+  },
+  {
+    "sn": "1005",
+    "title": "<color=#72C5FF>Rank Boost 4</color>",
+    "desc": "While your Protagonist's level is below the server's base level, you can get Level 4 Rank Boost Rewards for each Daily Pass cleared."
+  },
+  {
+    "sn": "1006",
+    "title": "<color=#72C5FF>Rank Boost 5</color>",
+    "desc": "While your Protagonist's level is significantly below the server's base level, you can get Level 5 Rank Boost Rewards for each Daily Pass cleared."
+  },
+  {
+    "sn": "1007",
+    "title": "<color=#72C5FF>Rank Boost 6</color>",
+    "desc": "While your Protagonist's level is significantly below the server's base level, you can get Level 6 Rank Boost Rewards for each Daily Pass cleared."
+  },
+  {
+    "sn": "1008",
+    "title": "<color=#72C5FF>Prayer Magatama</color>",
+    "desc": "[Prayer Magatama] Restore party to max HP.\n<color=#FF423F>You currently have %s</color>.\n<color=#FFD145>Use them from the Party Area on the home screen.</color>"
+  },
+  {
+    "sn": "1009",
+    "title": "<color=#72C5FF>Non-Combat Stations</color>",
+    "desc": "All stations other than the Shadow of Discord, Shadow of Suffering, Shadow of Calamity, or Shadow of the Dream-Eater."
+  },
+  {
+    "sn": "1010",
+    "title": "<color=#72C5FF>Station Shop</color>",
+    "desc": "Indicates Showcase of Fortune and Exchange of Fate stations."
+  },
+  {
+    "sn": "1011",
+    "title": "<color=#72C5FF>Safe Platform</color>",
+    "desc": "Indicates Delusional Shadow and Mysterious Shadow stations."
+  },
+  {
+    "sn": "1012",
+    "title": "<color=#72C5FF>Special Ability</color>",
+    "desc": "Included stats: Attack, Defense, Max HP, Critical Hit Rate, Critical Damage"
+  },
+  {
+    "sn": "1013",
+    "title": "<color=#72C5FF>Charm Strengthening</color>",
+    "desc": "Randomly selects a Charm that can be strengthened. The charm will be spent even if the strengthening fails."
+  },
+  {
+    "sn": "1014",
+    "title": "<color=#72C5FF>Trading Card</color>",
+    "desc": "There are 4 types of trading cards with buff and debuff effects. If you collect 3 or more, the negative effects will be removed."
+  },
+  {
+    "sn": "173",
+    "title": "<color=#72C5FF>Vision & Emotion</color>",
+    "desc": "[Effect] Counterattacks deal 2 consecutive hits with Pierce effect."
+  },
+  {
+    "sn": "174",
+    "title": "<color=#72C5FF>Creation</color>",
+    "desc": "[Status] 100% chance to counterattack. Change attack to 2 repeated hits with Pierce effect."
+  },
+  {
+    "sn": "175",
+    "title": "<color=#72C5FF>Yang Energy</color>",
+    "desc": "[Status] Increases damage by 30% for 2 turns. Cannot be used with Yin Energy."
+  },
+  {
+    "sn": "176",
+    "title": "<color=#72C5FF>Yin Energy</color>",
+    "desc": "[Status] Increases damage by 30% for 2 turns. Cannot be used with Yang Energy."
+  },
+  {
+    "sn": "177",
+    "title": "<color=#72C5FF>Tenacity</color>",
+    "desc": "[Count] Increases Attack and Defense on self."
+  },
+  {
+    "sn": "178",
+    "title": "<color=#72C5FF>Crash Out</color>",
+    "desc": "[Effect] Increase own Attack and Defense, and Nuclear Fury becomes Thermonuclear Fury."
+  },
+  {
+    "sn": "179",
+    "title": "<color=#72C5FF>Radiation</color>",
+    "desc": "[Elemental Ailment] Increase Nuclear damage."
+  },
+  {
+    "sn": "180",
+    "title": "<color=#72C5FF>Cocktail</color>",
+    "desc": "[Count] Phoebe gains Mixers. There are 3 levels of quality: Tailor-Made, Standard, and Basic. When using skills, spend a Cocktail to increase various effects."
+  },
+  {
+    "sn": "181",
+    "title": "<color=#72C5FF>Mixer</color>",
+    "desc": "[Count] Gain 1 Mixer when allies deal damage to foes with skills, Resonances, or Highlights. After reaching 3 stacks, create a Cocktail based on the types of Mixers."
+  },
+  {
+    "sn": "182",
+    "title": "<color=#72C5FF>Tailor-Made</color>",
+    "desc": "[Effect] A cocktail created with 3 Mixers of the same attribute."
+  },
+  {
+    "sn": "183",
+    "title": "<color=#72C5FF>Standard</color>",
+    "desc": "[Effect] A cocktail created with 2 Mixers of the same attribute."
+  },
+  {
+    "sn": "184",
+    "title": "<color=#72C5FF>Basic</color>",
+    "desc": "[Effect] A cocktail created with 3 Mixers of different attributes."
+  },
+  {
+    "sn": "185",
+    "title": "<color=#72C5FF>Starfall</color>",
+    "desc": "[Count] When an ally deals damage with a skill, they gain 1 Attribute Seal. When the total number of Attribute Seal stacks reaches 7, spend all Attribute Seal stacks and activate Starfall.\nStarfall: Deals 7 hits of Almighty damage to random foes. Repeated hits on the same foe deal less damage."
+  },
+  {
+    "sn": "186",
+    "title": "<color=#72C5FF>Attribute Seals</color>",
+    "desc": "When an ally deals damage with a skill, Resonance, or Highlight, grant user 1 corresponding Attribute Seal."
+  },
+  {
+    "sn": "187",
+    "title": "<color=#72C5FF>Intel</color>",
+    "desc": "[Count] Spend all when using certain skills to increase effect."
+  },
+  {
+    "sn": "188",
+    "title": "<color=#72C5FF>Insight</color>",
+    "desc": "[Effect] Increase foes' damage taken. When foes take weakness damage, Wind gains Intel."
+  },
+  {
+    "sn": "189",
+    "title": "<color=#72C5FF>Mark of Augmentation</color>",
+    "desc": "[Count] Increase Attack by 30%. Lasts for 2 turns. Stacks up to 3 times."
+  },
+  {
+    "sn": "190",
+    "title": "<color=#72C5FF>Costar</color>",
+    "desc": "[Effect] Increase allies' Attack when granted."
+  },
+  {
+    "sn": "191",
+    "title": "<color=#72C5FF>Blood's Grace</color>",
+    "desc": "[Count] For each stack, increase Attack by 20%, up to 80%."
+  },
+  {
+    "sn": "192",
+    "title": "tdxct-[SkillTips_title_192]",
+    "desc": "tdxct-[SkillTips_desc_192]"
+  },
+  {
+    "sn": "193",
+    "title": "tdxct-[SkillTips_title_193]",
+    "desc": "tdxct-[SkillTips_desc_193]"
+  },
+  {
+    "sn": "194",
+    "title": "tdxct-[SkillTips_title_194]",
+    "desc": "tdxct-[SkillTips_desc_194]"
+  },
+  {
+    "sn": "195",
+    "title": "<color=#72C5FF>Mental Link</color>",
+    "desc": "[Count] For each stack, increases Attack by 10%. Lasts for 2 turns."
+  },
+  {
+    "sn": "196",
+    "title": "tdxct-[SkillTips_title_196]",
+    "desc": "tdxct-[SkillTips_desc_196]"
+  },
+  {
+    "sn": "197",
+    "title": "tdxct-[SkillTips_title_197]",
+    "desc": "tdxct-[SkillTips_desc_197]"
+  },
+  {
+    "sn": "198",
+    "title": "tdxct-[SkillTips_title_198]",
+    "desc": "tdxct-[SkillTips_desc_198]"
+  },
+  {
+    "sn": "199",
+    "title": "tdxct-[SkillTips_title_199]",
+    "desc": "tdxct-[SkillTips_desc_199]"
+  },
+  {
+    "sn": "200",
+    "title": "<color=#72C5FF>Sacrificial Blessing</color>",
+    "desc": "[Status] Increase final damage by 40%."
+  },
+  {
+    "sn": "201",
+    "title": "tdxct-[SkillTips_title_201]",
+    "desc": "tdxct-[SkillTips_desc_201]"
+  },
+  {
+    "sn": "202",
+    "title": "tdxct-[SkillTips_title_202]",
+    "desc": "tdxct-[SkillTips_desc_202]"
+  },
+  {
+    "sn": "203",
+    "title": "tdxct-[SkillTips_title_203]",
+    "desc": "tdxct-[SkillTips_desc_203]"
+  },
+  {
+    "sn": "204",
+    "title": "<color=#72C5FF>Charge Field</color>",
+    "desc": "[Count] Increase final damage by 5%. Lasts for 2 turns. Stacks up to 8 times."
+  },
+  {
+    "sn": "205",
+    "title": "<color=#72C5FF>Charge Field</color>",
+    "desc": "[Count] Increase final damage by 5%. Lasts for 1 turn. Stacks up to 8 times."
+  },
+  {
+    "sn": "206",
+    "title": "<color=#72C5FF>Sparkling Stage</color>",
+    "desc": "[Count] When an ally uses a Highlight, gain 1 Blazing Starfire. When Blazing Starfire reaches 4 stacks, spend all Blazing Starfire and activate Sparkling Stage.\nSparkling Stage: Randomly grant 10 buffs to allies. The following buffs may each be applied to 1 random ally.\nIncrease Attack by 15%.\nIncrease Defense by 22.5%.\nIncrease max HP by 15%.\nIncrease damage by 12%.\nIncrease ailment accuracy by 18%.\nIncrease pierce by 6%.\nIncrease critical rate by 9%.\nIncrease critical damage by 18%.\nIncrease pierce resistance by 7.5%.\nIncrease weakness damage by 6%."
+  },
+  {
+    "sn": "207",
+    "title": "<color=#72C5FF>Blazing Starfire</color>",
+    "desc": "[Status] When allies use a Highlight, they gain 1 Blazing Starfire."
+  },
+  {
+    "sn": "208",
+    "title": "<color=#72C5FF>Magnetic Force</color>",
+    "desc": "[Count] Final damage increased by 20% per stack. Lose 1 stack at the end of each turn. Stacks up to 2 times."
+  },
+  {
+    "sn": "209",
+    "title": "tdxct-[SkillTips_title_209]",
+    "desc": "tdxct-[SkillTips_desc_209]"
+  },
+  {
+    "sn": "210",
+    "title": "tdxct-[SkillTips_title_210]",
+    "desc": "tdxct-[SkillTips_desc_210]"
+  },
+  {
+    "sn": "212",
+    "title": "tdxct-[SkillTips_title_212]",
+    "desc": "tdxct-[SkillTips_desc_212]"
+  },
+  {
+    "sn": "213",
+    "title": "tdxct-[SkillTips_title_213]",
+    "desc": "tdxct-[SkillTips_desc_213]"
+  },
+  {
+    "sn": "214",
+    "title": "tdxct-[SkillTips_title_214]",
+    "desc": "tdxct-[SkillTips_desc_214]"
+  },
+  {
+    "sn": "225",
+    "title": "<color=#72C5FF>Fire Technical</color>",
+    "desc": "Some Fire skills have other effects on foes in certain states.\nFireburn activates on Burning foes and increases damage dealt to the target by 2%.\nIceburn activates on Frozen foes and has a 50% chance to increase the target's Fire and Ice damage taken by 5% for 2 turns.\nWindburn activates on Windswept foes and deals Fire damage as a follow-up equal to 1% of the target's max HP (1 time)."
+  },
+  {
+    "sn": "226",
+    "title": "<color=#72C5FF>Fireburn</color>",
+    "desc": "After activating, increase damage dealt to target by 2%."
+  },
+  {
+    "sn": "227",
+    "title": "<color=#72C5FF>Iceburn</color>",
+    "desc": "50% chance to increase target's Fire/Ice damage taken by 5% for 2 turns."
+  },
+  {
+    "sn": "228",
+    "title": "<color=#72C5FF>Windburn</color>",
+    "desc": "After activating, deal Fire damage as a follow-up equal to 1% of target's max HP."
+  },
+  {
+    "sn": "237",
+    "title": "<color=#72C5FF>Stable Domain</color>",
+    "desc": "Allies will not deal critical hits, but will deal increased <color=#FFFC40>final damage</color> with skills and Resonance. The increase is equal to critical hit rate × (critical damage - 100%). (Max critical hit rate in this calculation is 100%)."
+  },
+  {
+    "sn": "211",
+    "title": "AAAAAA==",
+    "desc": "[Skill] Some skills will activate effects if certain conditions are met."
+  }
+]

@@ -1,0 +1,72 @@
+[
+  {
+    "sn": 1,
+    "type": 3,
+    "actionLimitPerson": 2,
+    "param": "TL_home_piaochuang.prefab",
+    "specialCoop": 0,
+    "fixedAction": "AAAAAA==",
+    "SpecialAction": "AAAAAA==",
+    "faceToAngle": 180,
+    "actionPic": "zhujiemian-jiaohu01.png",
+    "actionName": "坐",
+    "EventNPC": "2129009,2129010",
+    "FuncNPC": "AAAAAA=="
+  },
+  {
+    "sn": 2,
+    "type": 3,
+    "actionLimitPerson": 6,
+    "param": "TL_home_chaji.prefab",
+    "specialCoop": 0,
+    "fixedAction": "AAAAAA==",
+    "SpecialAction": "AAAAAA==",
+    "faceToAngle": 180,
+    "actionPic": "zhujiemian-jiaohu01.png",
+    "actionName": "坐",
+    "EventNPC": "AAAAAA==",
+    "FuncNPC": "AAAAAA=="
+  },
+  {
+    "sn": 3,
+    "type": 3,
+    "actionLimitPerson": 1,
+    "param": "TL_home_tatami.prefab",
+    "specialCoop": 0,
+    "fixedAction": "AAAAAA==",
+    "SpecialAction": "AAAAAA==",
+    "faceToAngle": 180,
+    "actionPic": "zhujiemian-jiaohu01.png",
+    "actionName": "躺",
+    "EventNPC": "AAAAAA==",
+    "FuncNPC": "AAAAAA=="
+  },
+  {
+    "sn": 4,
+    "type": 3,
+    "actionLimitPerson": 3,
+    "param": "TL_home_shafa.prefab",
+    "specialCoop": 0,
+    "fixedAction": "AAAAAA==",
+    "SpecialAction": "AAAAAA==",
+    "faceToAngle": 90,
+    "actionPic": "zhujiemian-jiaohu01.png",
+    "actionName": "坐",
+    "EventNPC": "2129007",
+    "FuncNPC": "AAAAAA=="
+  },
+  {
+    "sn": 5,
+    "type": 3,
+    "actionLimitPerson": 1,
+    "param": "TL_home_chuang.prefab",
+    "specialCoop": 0,
+    "fixedAction": "AAAAAA==",
+    "SpecialAction": "AAAAAA==",
+    "faceToAngle": 0,
+    "actionPic": "zhujiemian-jiaohu01.png",
+    "actionName": "躺",
+    "EventNPC": "AAAAAA==",
+    "FuncNPC": "2129011,2129012,2129013"
+  }
+]

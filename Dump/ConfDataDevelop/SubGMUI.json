@@ -1,0 +1,324 @@
+[
+  {
+    "sn": 1,
+    "subGroup": "stageSwitchCommon",
+    "subName": "传送涩谷",
+    "subGM": "stageSwitchInstance 2102",
+    "order": 1
+  },
+  {
+    "sn": 2,
+    "subGroup": "stageSwitchCommon",
+    "subName": "传送回家",
+    "subGM": "stageSwitchInstance 2129",
+    "order": 2
+  },
+  {
+    "sn": 3,
+    "subGroup": "stageSwitchCommon",
+    "subName": "传送天鹅绒",
+    "subGM": "stageSwitchInstance 999993",
+    "order": 3
+  },
+  {
+    "sn": 4,
+    "subGroup": "stageSwitchCommon",
+    "subName": "传送下北泽车站",
+    "subGM": "stageSwitchInstance 999995",
+    "order": 4
+  },
+  {
+    "sn": 5,
+    "subGroup": "stageSwitchCommon",
+    "subName": "传送杂司谷",
+    "subGM": "stageSwitchInstance 281",
+    "order": 5
+  },
+  {
+    "sn": 6,
+    "subGroup": "stageSwitchCommon",
+    "subName": "传送新宿",
+    "subGM": "stageSwitchInstance 50",
+    "order": 6
+  },
+  {
+    "sn": 7,
+    "subGroup": "jvqing",
+    "subName": "接受任务",
+    "subGM": "acceptQuest sn",
+    "order": 1
+  },
+  {
+    "sn": 8,
+    "subGroup": "jvqing",
+    "subName": "完成任务",
+    "subGM": "finishQuest sn",
+    "order": 2
+  },
+  {
+    "sn": 9,
+    "subGroup": "jvqing",
+    "subName": "播放剧情",
+    "subGM": "playStory sn",
+    "order": 3
+  },
+  {
+    "sn": 10,
+    "subGroup": "jvqing",
+    "subName": "剧情快速跳过",
+    "subGM": "skipStoryClip",
+    "order": 4
+  },
+  {
+    "sn": 11,
+    "subGroup": "zhandou",
+    "subName": "进入指定战斗",
+    "subGM": "instanceCreate 1001 0",
+    "order": 1
+  },
+  {
+    "sn": 12,
+    "subGroup": "zhandou",
+    "subName": "清除怪物",
+    "subGM": "monsterClear",
+    "order": 2
+  },
+  {
+    "sn": 13,
+    "subGroup": "zhandou",
+    "subName": "设置HL能量",
+    "subGM": "addAI 1 1 18",
+    "order": 3
+  },
+  {
+    "sn": 14,
+    "subGroup": "zhandou",
+    "subName": "设置上阵怪盗",
+    "subGM": "teamSetThief",
+    "order": 4
+  },
+  {
+    "sn": 15,
+    "subGroup": "zhandou",
+    "subName": "修改单位适应性",
+    "subGM": "modifyUnitAdaptAttr",
+    "order": 5
+  },
+  {
+    "sn": 16,
+    "subGroup": "zhandou",
+    "subName": "修改单位attr",
+    "subGM": "modifyUnitAttr",
+    "order": 6
+  },
+  {
+    "sn": 17,
+    "subGroup": "qita",
+    "subName": "改变时段-白天",
+    "subGM": "changeTime Day",
+    "order": 1
+  },
+  {
+    "sn": 18,
+    "subGroup": "qita",
+    "subName": "改变时段-黄昏",
+    "subGM": "changeTime Dusk",
+    "order": 2
+  },
+  {
+    "sn": 19,
+    "subGroup": "qita",
+    "subName": "改变时段-夜晚",
+    "subGM": "changeTime Night",
+    "order": 3
+  },
+  {
+    "sn": 20,
+    "subGroup": "qita",
+    "subName": "开启关卡穿墙",
+    "subGM": "SwitchColliderLayerEnable 0",
+    "order": 4
+  },
+  {
+    "sn": 21,
+    "subGroup": "qita",
+    "subName": "关闭关卡穿墙",
+    "subGM": "SwitchColliderLayerEnable 1",
+    "order": 5
+  },
+  {
+    "sn": 22,
+    "subGroup": "qita",
+    "subName": "显示NPC",
+    "subGM": "logicNpcToggle 1",
+    "order": 6
+  },
+  {
+    "sn": 23,
+    "subGroup": "qita",
+    "subName": "隐藏NPC",
+    "subGM": "logicNpcToggle 0",
+    "order": 7
+  },
+  {
+    "sn": 24,
+    "subGroup": "qita",
+    "subName": "创建氛围NPC",
+    "subGM": "logicAmbientNpcToggle 1",
+    "order": 8
+  },
+  {
+    "sn": 25,
+    "subGroup": "qita",
+    "subName": "隐藏氛围NPC",
+    "subGM": "logicAmbientNpcToggle 0",
+    "order": 9
+  },
+  {
+    "sn": 26,
+    "subGroup": "qita",
+    "subName": "启动漫游相机",
+    "subGM": "freecamera1 1",
+    "order": 10
+  },
+  {
+    "sn": 27,
+    "subGroup": "qita",
+    "subName": "关闭漫游相机",
+    "subGM": "freecamera1 0",
+    "order": 11
+  },
+  {
+    "sn": 28,
+    "subGroup": "qita",
+    "subName": "异世界播报屏蔽",
+    "subGM": "NaviState 0/1",
+    "order": 12
+  },
+  {
+    "sn": 29,
+    "subGroup": "qita",
+    "subName": "屏蔽fps",
+    "subGM": "fps",
+    "order": 13
+  },
+  {
+    "sn": 30,
+    "subGroup": "qita",
+    "subName": "屏蔽角色ID和开发中提示",
+    "subGM": "updateUIGroupState /UI-tongyong-uid.prefab/",
+    "order": 14
+  },
+  {
+    "sn": 31,
+    "subGroup": "qita",
+    "subName": "录屏模式",
+    "subGM": "sm SwitchToVidoURP 4k",
+    "order": 15
+  },
+  {
+    "sn": 32,
+    "subGroup": "qita",
+    "subName": "修改游戏分辨率",
+    "subGM": "SetResolutionByWH 长 宽 False",
+    "order": 16
+  },
+  {
+    "sn": 33,
+    "subGroup": "qita",
+    "subName": "解锁全地图",
+    "subGM": "openAllWorldMap",
+    "order": 17
+  },
+  {
+    "sn": 34,
+    "subGroup": "updateUIGroupState",
+    "subName": "UI屏蔽",
+    "subGM": "updateUIGroupState",
+    "order": 18
+  },
+  {
+    "sn": 35,
+    "subGroup": "updateUIGroupState",
+    "subName": "保留热区屏蔽UI",
+    "subGM": "hideall2 1",
+    "order": 19
+  },
+  {
+    "sn": 36,
+    "subGroup": "setThiefCardAttr1",
+    "subName": "①攻暴击",
+    "subGM": "setThiefCardAttr -1 1",
+    "order": 1
+  },
+  {
+    "sn": 37,
+    "subGroup": "setThiefCardAttr1",
+    "subName": "②攻爆伤",
+    "subGM": "setThiefCardAttr -1 2",
+    "order": 2
+  },
+  {
+    "sn": 38,
+    "subGroup": "setThiefCardAttr1",
+    "subName": "③攻 +双叶",
+    "subGM": "setThiefCardAttr 1171 3",
+    "order": 3
+  },
+  {
+    "sn": 39,
+    "subGroup": "setThiefCardAttr1",
+    "subName": "④防暴击 +祐介",
+    "subGM": "setThiefCardAttr 1161 4",
+    "order": 4
+  },
+  {
+    "sn": 40,
+    "subGroup": "setThiefCardAttr1",
+    "subName": "⑤攻击效果",
+    "subGM": "setThiefCardAttr -1 5",
+    "order": 5
+  },
+  {
+    "sn": 41,
+    "subGroup": "setThiefCardAttr1",
+    "subName": "⑥防御 +芦谷",
+    "subGM": "setThiefCardAttr 1331 6",
+    "order": 6
+  },
+  {
+    "sn": 42,
+    "subGroup": "setThiefCardAttr1",
+    "subName": "⑦生命 +美波",
+    "subGM": "setThiefCardAttr 1231 7",
+    "order": 7
+  },
+  {
+    "sn": 43,
+    "subGroup": "setThiefCardAttr1",
+    "subName": "⑧效爆伤 +春",
+    "subGM": "setThiefCardAttr 1251 8",
+    "order": 8
+  },
+  {
+    "sn": 44,
+    "subGroup": "setThiefCardAttr1",
+    "subName": "⑨速度 +桥本",
+    "subGM": "setThiefCardAttr 1361 9",
+    "order": 9
+  },
+  {
+    "sn": 45,
+    "subGroup": "setThiefCardAttr1",
+    "subName": "⑩精力爆伤 +未央",
+    "subGM": "setThiefCardAttr 1052 10",
+    "order": 10
+  },
+  {
+    "sn": 46,
+    "subGroup": "setThiefCardAttr1",
+    "subName": "⑪效果 +夏川澪",
+    "subGM": "setThiefCardAttr 1371 11",
+    "order": 11
+  }
+]

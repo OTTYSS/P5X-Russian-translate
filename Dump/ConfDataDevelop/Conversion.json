@@ -1,0 +1,56 @@
+[
+  {
+    "sn": 302201,
+    "combine": "AAAAAA==",
+    "direct": 0,
+    "split": "302202,3"
+  },
+  {
+    "sn": 302202,
+    "combine": "302201,3",
+    "direct": 1005001,
+    "split": "302203,3"
+  },
+  {
+    "sn": 302203,
+    "combine": "302202,3",
+    "direct": 1005002,
+    "split": "AAAAAA=="
+  },
+  {
+    "sn": 302401,
+    "combine": "AAAAAA==",
+    "direct": 0,
+    "split": "302402,3"
+  },
+  {
+    "sn": 302402,
+    "combine": "302401,3",
+    "direct": 1005011,
+    "split": "302403,3"
+  },
+  {
+    "sn": 302403,
+    "combine": "302402,3",
+    "direct": 1005012,
+    "split": "AAAAAA=="
+  },
+  {
+    "sn": 302601,
+    "combine": "AAAAAA==",
+    "direct": 0,
+    "split": "302602,3"
+  },
+  {
+    "sn": 302602,
+    "combine": "302601,3",
+    "direct": 1005006,
+    "split": "302603,3"
+  },
+  {
+    "sn": 302603,
+    "combine": "302602,3",
+    "direct": 1005007,
+    "split": "AAAAAA=="
+  }
+]

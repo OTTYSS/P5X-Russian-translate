@@ -1,0 +1,14 @@
+[
+  {
+    "sn": 1,
+    "idleAction": "1,50|2,50",
+    "positiveAction": "p_ani,50|p_ani2,80",
+    "negativeAction": "n_ani,50|n_ani2,50"
+  },
+  {
+    "sn": 2,
+    "idleAction": "1,80|2,20",
+    "positiveAction": "p_ani,20|p_ani2,80",
+    "negativeAction": "n_ani,20|n_ani2,50"
+  }
+]

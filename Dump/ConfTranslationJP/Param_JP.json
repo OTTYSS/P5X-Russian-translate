@@ -1,0 +1,362 @@
+[
+  {
+    "sn": "CHAT_ITEM_PATTERN",
+    "value": "#\\{[^#]+?{}[^\\}]*?\\}"
+  },
+  {
+    "sn": "CHAT_NO_MESSAGE",
+    "value": "メッセージはありません"
+  },
+  {
+    "sn": "CHAT_CHANNEL_NAME_WORLD",
+    "value": "世界"
+  },
+  {
+    "sn": "CHAT_CHANNEL_NAME_UNION",
+    "value": "同盟"
+  },
+  {
+    "sn": "GACHA_NOTICE_CHARACTER",
+    "value": "契約"
+  },
+  {
+    "sn": "GACHA_NOTICE_WEAPON",
+    "value": "補給"
+  },
+  {
+    "sn": "ACTIVITY_CALLBACK_DEFAULT_TEXT",
+    "value": "公式サーバー"
+  },
+  {
+    "sn": "PLAYER_DEFAULT_NAME",
+    "value": "上城¤渚"
+  },
+  {
+    "sn": "PERSONA_EVOLVE_ATTR",
+    "value": "ＨＰ加算率,攻撃加算率,防御加算率"
+  },
+  {
+    "sn": "PERSONA_TRAIN_FILTER_TAG_ALL",
+    "value": "すべて"
+  },
+  {
+    "sn": "PERSONA_TRAIN_FILTER_TAG_POSITION",
+    "value": "攻撃,生存,命中,抵抗,特殊"
+  },
+  {
+    "sn": "CARD_CUSTOM_DISPLAY",
+    "value": "空,日,月,星,辰"
+  },
+  {
+    "sn": "UNION_UNIT_ANNOUNCEMENT",
+    "value": "現在会長からのコメントはありません"
+  },
+  {
+    "sn": "CHONGWU_CONTAINER_NAME_BAG",
+    "value": "ペットカバン"
+  },
+  {
+    "sn": "CHONGWU_CONTAINER_NAME_STORE",
+    "value": "ペット倉庫"
+  },
+  {
+    "sn": "CHONGWU_CONTAINER_NAME_CEMETERY",
+    "value": "ペット墓場"
+  },
+  {
+    "sn": "CHONGWU_CONTAINER_NAME_TEMPORAL",
+    "value": "ペット一括選択‐カバン"
+  },
+  {
+    "sn": "TEAM_ENTER_ORDER_TITLE",
+    "value": "強制PVP"
+  },
+  {
+    "sn": "EQUIPMENT_FORGE_NORMAL",
+    "value": "NoRMaLビルド"
+  },
+  {
+    "sn": "EQUIPMENT_FORGE_HARD",
+    "value": "強化ビルド"
+  },
+  {
+    "sn": "QUESTION_HELP_ANSWER",
+    "value": "あなたは選択した"
+  },
+  {
+    "sn": "JIEYI_CHAT_GROUP_NAME",
+    "value": "金蘭の契りを結ぶ"
+  },
+  {
+    "sn": "MAIL_SYSTEM_PUBLIC_SEND_NAME",
+    "value": "ペルソナ５: The Phantom X運営チーム"
+  },
+  {
+    "sn": "PING_EXCEP_KICK_REASON",
+    "value": "サーバーのネットワーク環境が不安定か、サードパーティーツールを使用している可能性があることを検出しました。ゲームを閉じて再度ログインしてください"
+  },
+  {
+    "sn": "SOCIAL_THANK",
+    "value": "初心者です。よろしくお願いします～"
+  },
+  {
+    "sn": "SOCIAL_HOT_DAY_RESET",
+    "value": "0 0 0 * * ?"
+  },
+  {
+    "sn": "CONTAINER_NAME_NONE",
+    "value": "容器"
+  },
+  {
+    "sn": "CONTAINER_NAME_EQUIPMENT",
+    "value": "装備欄"
+  },
+  {
+    "sn": "CONTAINER_NAME_INVENTORY",
+    "value": "カバン"
+  },
+  {
+    "sn": "CONTAINER_NAME_QUEST",
+    "value": "ミッションカバン"
+  },
+  {
+    "sn": "CONTAINER_NAME_THIEF",
+    "value": "怪盗カバン"
+  },
+  {
+    "sn": "CONTAINER_NAME_TEMPORAL",
+    "value": "一時カバン"
+  },
+  {
+    "sn": "CONTAINER_NAME_STORE",
+    "value": "倉庫"
+  },
+  {
+    "sn": "CONTAINER_NAME_AMULET",
+    "value": "お宝カバン"
+  },
+  {
+    "sn": "CONTAINER_NAME_INGREDIENT",
+    "value": "食材カバン"
+  },
+  {
+    "sn": "COLOR_WIHTE",
+    "value": "ホワイト"
+  },
+  {
+    "sn": "COLOR_GREEN",
+    "value": "緑"
+  },
+  {
+    "sn": "COLOR_BLUE",
+    "value": "ブルー"
+  },
+  {
+    "sn": "COLOR_PURPLE",
+    "value": "パープル"
+  },
+  {
+    "sn": "COLOR_ORANGE",
+    "value": "オレンジ"
+  },
+  {
+    "sn": "COLOR_GOLD",
+    "value": "金"
+  },
+  {
+    "sn": "COLOR_PINK",
+    "value": "桃"
+  },
+  {
+    "sn": "COLOR_RED",
+    "value": "赤"
+  },
+  {
+    "sn": "HINT_TEAM",
+    "value": "の編成"
+  },
+  {
+    "sn": "FNAME",
+    "value": "苗字"
+  },
+  {
+    "sn": "SNAME",
+    "value": "名前"
+  },
+  {
+    "sn": "ATTING_FIRST",
+    "value": "１番目の編成"
+  },
+  {
+    "sn": "ATTING_SECOND",
+    "value": "２番目の編成"
+  },
+  {
+    "sn": "ATTING_THIRD",
+    "value": "３番目の編成"
+  },
+  {
+    "sn": "ATTING_FOURTH",
+    "value": "４番目の編成"
+  },
+  {
+    "sn": "CHINESE_COMMA",
+    "value": "、"
+  },
+  {
+    "sn": "TIME_UNITS_DAY",
+    "value": "日"
+  },
+  {
+    "sn": "TIME_UNITS_HOUR",
+    "value": "時"
+  },
+  {
+    "sn": "TIME_UNITS_MINUTE",
+    "value": "分"
+  },
+  {
+    "sn": "PING_EXCEP_SEAL_REASON",
+    "value": "サードパーティツールを使用した疑いがあります。"
+  },
+  {
+    "sn": "GLOBAL_CROSS_ENTERORDER",
+    "value": "神雕２頑張れ"
+  },
+  {
+    "sn": "WEATHER_TIPS_DESCRPTION1",
+    "value": "現在の天気：%s"
+  },
+  {
+    "sn": "WEATHER_TIPS_DESCRPTION2",
+    "value": "もうすぐ：%s"
+  },
+  {
+    "sn": "WEATHER_TIPS_DESCRPTION3",
+    "value": "%s時間後：%s"
+  },
+  {
+    "sn": "WEATHER_TIPS_DESCRPTION4",
+    "value": "最近の変化なし"
+  },
+  {
+    "sn": "WEATHER_TIPS_DESCRPTION5",
+    "value": "特殊シーン\n天気：%s"
+  },
+  {
+    "sn": "REWARD_ITEM_DESC",
+    "value": "ドロップアイテム"
+  },
+  {
+    "sn": "FIRST_REWARD_ITEM_DESC",
+    "value": "初回クリア報酬"
+  },
+  {
+    "sn": "CHALLENGE_BTN_STR",
+    "value": "潜入開始"
+  },
+  {
+    "sn": "STORY_CHECKPOINT_BTN_STR",
+    "value": "回顧を辿る"
+  },
+  {
+    "sn": "ROLE_SCHEME_DEFAULT_NAME1",
+    "value": "装備品案１"
+  },
+  {
+    "sn": "ROLE_SCHEME_DEFAULT_NAME2",
+    "value": "装備品案２"
+  },
+  {
+    "sn": "ROLE_SCHEME_DEFAULT_NAME3",
+    "value": "装備品案３"
+  },
+  {
+    "sn": "ROLE_SCHEME_DEFAULT_NAME4",
+    "value": "装備品案４"
+  },
+  {
+    "sn": "ROLE_SCHEME_DEFAULT_NAME5",
+    "value": "装備品案５"
+  },
+  {
+    "sn": "ROLE_SCHEME_DEFAULT_NAME6",
+    "value": "装備品案６"
+  },
+  {
+    "sn": "ROLE_SCHEME_DEFAULT_NAME7",
+    "value": "装備品案７"
+  },
+  {
+    "sn": "ROLE_SCHEME_DEFAULT_NAME8",
+    "value": "装備品案８"
+  },
+  {
+    "sn": "ROLE_SCHEME_DEFAULT_NAME9",
+    "value": "装備品案９"
+  },
+  {
+    "sn": "ROLE_SCHEME_DEFAULT_NAME10",
+    "value": "装備品案１０"
+  },
+  {
+    "sn": "CHAPTER_DIFFICULTY_TYPE",
+    "value": "NoRMaL,HaRD"
+  },
+  {
+    "sn": "WEEK_NAME_1",
+    "value": "月曜日"
+  },
+  {
+    "sn": "WEEK_NAME_2",
+    "value": "火曜日"
+  },
+  {
+    "sn": "WEEK_NAME_3",
+    "value": "水曜日"
+  },
+  {
+    "sn": "WEEK_NAME_4",
+    "value": "木曜日"
+  },
+  {
+    "sn": "WEEK_NAME_5",
+    "value": "金曜日"
+  },
+  {
+    "sn": "WEEK_NAME_6",
+    "value": "土曜日"
+  },
+  {
+    "sn": "WEEK_NAME_7",
+    "value": "日曜日"
+  },
+  {
+    "sn": "ARRAR_DEFAULTNAME",
+    "value": "編成"
+  },
+  {
+    "sn": "BATTLEPASS_WEEK_AWARD_TEXT",
+    "value": "<color=#FF423F>明日ログイン</color>,<color=#FF423F>明後日ログイン</color>,次週,次週,次週,次週,次週一"
+  },
+  {
+    "sn": "BLINDBOX_TIME_TEXT",
+    "value": "一、二、三、四、五"
+  },
+  {
+    "sn": "ACTIVITY_DEFAULT_MAIL_SENDER",
+    "value": "ペルソナ５: The Phantom X運営チーム"
+  },
+  {
+    "sn": "THIEF_INNATE_WIPE_TEXT",
+    "value": "１ＭＯＲＥ：,ハイライト：,銃撃：,近接攻撃："
+  },
+  {
+    "sn": "SETTING_STR_LEVEL",
+    "value": "省電力,標準,準高画質,高画質,最高画質"
+  },
+  {
+    "sn": "SETTING_STR_RESOLUTION",
+    "value": "低,中,高"
+  }
+]

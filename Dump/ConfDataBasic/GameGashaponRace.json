@@ -1,0 +1,29 @@
+[
+  {
+    "sn": 1,
+    "name": "普通款",
+    "icon": "AAAAAA==",
+    "nameTxtColor": "AAAAAA==",
+    "effect": "game_Gashapon_sence_common_up.prefab",
+    "effect2": "game_Gashapon_sence_common.prefab",
+    "BALL_MODEL": "Gashapon_ball_03_yanchu,Gashapon_ball_04_yanchu,Gashapon_ball_05_yanchu,Gashapon_ball_02_yanchu"
+  },
+  {
+    "sn": 2,
+    "name": "限定款",
+    "icon": "niudanji-tujian-SP2-i18n.png",
+    "nameTxtColor": "#f1b500",
+    "effect": "game_Gashapon_sence_exclusive_up.prefab",
+    "effect2": "game_Gashapon_sence_exclusive.prefab",
+    "BALL_MODEL": "Gashapon_ball_01_yanchu,Gashapon_ball_06_yanchu"
+  },
+  {
+    "sn": 3,
+    "name": "隐藏款",
+    "icon": "niudanji-tujian-SP1-i18n.png",
+    "nameTxtColor": "#ff0000",
+    "effect": "game_Gashapon_sence_hidden_up.prefab",
+    "effect2": "game_Gashapon_sence_hidden.prefab",
+    "BALL_MODEL": "Gashapon_ball_06_yanchu"
+  }
+]

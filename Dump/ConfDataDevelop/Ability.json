@@ -1,0 +1,602 @@
+[
+  {
+    "sn": 101,
+    "group": 101,
+    "level": 1,
+    "abilityType": 601,
+    "abilityParam": "1",
+    "abilityName": "偶像之路",
+    "abilityIcon": "xielizhe-icon-meiluopu-06.png",
+    "abilityDesc": "可以使用『契约』功能"
+  },
+  {
+    "sn": 105,
+    "group": 105,
+    "level": 1,
+    "abilityType": 601,
+    "abilityParam": "1",
+    "abilityName": "特别招待",
+    "abilityIcon": "xielizhe-icon-meiluopu-02.png",
+    "abilityDesc": "解锁大天使的合成"
+  },
+  {
+    "sn": 107,
+    "group": 107,
+    "level": 1,
+    "abilityType": 601,
+    "abilityParam": "1",
+    "abilityName": "理想形象",
+    "abilityIcon": "xielizhe-icon-meiluopu-02.png",
+    "abilityDesc": "解锁瑟坦特的合成"
+  },
+  {
+    "sn": 109,
+    "group": 109,
+    "level": 1,
+    "abilityType": 601,
+    "abilityParam": "1",
+    "abilityName": "贵宾席位",
+    "abilityIcon": "xielizhe-icon-meiluopu-02.png",
+    "abilityDesc": "解锁阿努比斯的合成"
+  },
+  {
+    "sn": 111,
+    "group": 111,
+    "level": 1,
+    "abilityType": 601,
+    "abilityParam": "1",
+    "abilityName": "聚光灯下",
+    "abilityIcon": "xielizhe-icon-meiluopu-02.png",
+    "abilityDesc": "解锁大国主的合成"
+  },
+  {
+    "sn": 113,
+    "group": 113,
+    "level": 1,
+    "abilityType": 601,
+    "abilityParam": "1",
+    "abilityName": "我推即正义",
+    "abilityIcon": "xielizhe-icon-meiluopu-02.png",
+    "abilityDesc": "解锁那耳喀索斯的合成"
+  },
+  {
+    "sn": 115,
+    "group": 115,
+    "level": 1,
+    "abilityType": 601,
+    "abilityParam": "1",
+    "abilityName": "应援回馈",
+    "abilityIcon": "xielizhe-icon-meiluopu-07.png",
+    "abilityDesc": "合成Rank4及以下的2星、3星面具时，概率额外获得一个印记"
+  },
+  {
+    "sn": 120,
+    "group": 120,
+    "level": 1,
+    "abilityType": 601,
+    "abilityParam": "1",
+    "abilityName": "对影独舞",
+    "abilityIcon": "xielizhe-icon-meiluopu-02.png",
+    "abilityDesc": "解锁黄龙的合成"
+  },
+  {
+    "sn": 201,
+    "group": 201,
+    "level": 1,
+    "abilityType": 601,
+    "abilityParam": "2",
+    "abilityName": "我看到了",
+    "abilityIcon": "xielizhe-icon-suyu-01.png",
+    "abilityDesc": "在进行棒球练习时，可以进入观察模式"
+  },
+  {
+    "sn": 205,
+    "group": 205,
+    "level": 1,
+    "abilityType": 601,
+    "abilityParam": "2",
+    "abilityName": "一起加油吧",
+    "abilityIcon": "xielizhe-icon-suyu-04.png",
+    "abilityDesc": "以总攻击结束战斗时，回满全队HP（仅对宫殿和印象空间中的游荡阴影生效）"
+  },
+  {
+    "sn": 209,
+    "group": 209,
+    "level": 1,
+    "abilityType": 601,
+    "abilityParam": "2",
+    "abilityName": "多多加强锻炼",
+    "abilityIcon": "xielizhe-icon-suyu-03.png",
+    "abilityDesc": "可以在棒球练习中挑战新的难度\n增加在棒球练习场兑换处能够兑换的商品种类"
+  },
+  {
+    "sn": 213,
+    "group": 213,
+    "level": 1,
+    "abilityType": 601,
+    "abilityParam": "2",
+    "abilityName": "准备上了哦",
+    "abilityIcon": "xielizhe-icon-suyu-05.png",
+    "abilityDesc": "从安全小屋休整后，HL未达到30%能量时，恢复至30%（仅对宫殿和印象空间中的游荡阴影生效）"
+  },
+  {
+    "sn": 217,
+    "group": 217,
+    "level": 1,
+    "abilityType": 601,
+    "abilityParam": "2",
+    "abilityName": "放马过来吧",
+    "abilityIcon": "xielizhe-icon-suyu-03.png",
+    "abilityDesc": "可以在棒球练习中挑战更高的难度\n进一步增加在棒球练习场兑换处能够兑换的商品种类"
+  },
+  {
+    "sn": 301,
+    "group": 301,
+    "level": 1,
+    "abilityType": 601,
+    "abilityParam": "3",
+    "abilityName": "大人的感觉",
+    "abilityIcon": "xielizhe-icon-lizi-01.png",
+    "abilityDesc": "解锁约会场所『高级寿司店』，与某人在该地点约会时好感度提升25%"
+  },
+  {
+    "sn": 305,
+    "group": 305,
+    "level": 1,
+    "abilityType": 601,
+    "abilityParam": "3",
+    "abilityName": "成熟的建议",
+    "abilityIcon": "xielizhe-icon-lizi-01.png",
+    "abilityDesc": "了解新的场所『星空博物馆』，与某人在该地点约会时好感度提升25%"
+  },
+  {
+    "sn": 309,
+    "group": 309,
+    "level": 1,
+    "abilityType": 601,
+    "abilityParam": "3",
+    "abilityName": "提升艺术品位",
+    "abilityIcon": "xielizhe-icon-lizi-01.png",
+    "abilityDesc": "了解新的场所『美术馆』，与某人在该地点约会时好感度提升25%"
+  },
+  {
+    "sn": 313,
+    "group": 313,
+    "level": 1,
+    "abilityType": 601,
+    "abilityParam": "3",
+    "abilityName": "享受静谧时光",
+    "abilityIcon": "xielizhe-icon-lizi-01.png",
+    "abilityDesc": "了解新的场所『爵士酒吧』，与某人在该地点约会时好感度提升25%"
+  },
+  {
+    "sn": 317,
+    "group": 317,
+    "level": 1,
+    "abilityType": 601,
+    "abilityParam": "3",
+    "abilityName": "天空的邀约",
+    "abilityIcon": "xielizhe-icon-lizi-01.png",
+    "abilityDesc": "了解新的场所『豪华全景餐厅』，与某人在该地点约会时好感度提升25%"
+  },
+  {
+    "sn": 401,
+    "group": 401,
+    "level": 1,
+    "abilityType": 601,
+    "abilityParam": "4",
+    "abilityName": "「交易」成立",
+    "abilityIcon": "xielizhe-icon-lufeier-06.png",
+    "abilityDesc": "不定期发布路菲尔的『商业』目标"
+  },
+  {
+    "sn": 402,
+    "group": 402,
+    "level": 1,
+    "abilityType": 601,
+    "abilityParam": "4",
+    "abilityName": "潜入道具制作",
+    "abilityIcon": "xielizhe-icon-lufeier-01.png",
+    "abilityDesc": "可以进行潜入道具的制作"
+  },
+  {
+    "sn": 403,
+    "group": 403,
+    "level": 1,
+    "abilityType": 601,
+    "abilityParam": "4",
+    "abilityName": "潜入行动心得",
+    "abilityIcon": "xielizhe-icon-lufeier-07.png",
+    "abilityDesc": "可以在宫殿与印象空间对低等级的阴影进行瞬杀"
+  },
+  {
+    "sn": 404,
+    "group": 404,
+    "level": 1,
+    "abilityType": 601,
+    "abilityParam": "4",
+    "abilityName": "中阶制作配方",
+    "abilityIcon": "xielizhe-icon-lufeier-02.png",
+    "abilityDesc": "增加『寻宝仪·棒球馆』、『寻宝仪·影视城』潜入道具及礼物的制作"
+  },
+  {
+    "sn": 405,
+    "group": 405,
+    "level": 1,
+    "abilityType": 601,
+    "abilityParam": "4",
+    "abilityName": "材料节省心得",
+    "abilityIcon": "xielizhe-icon-lufeier-04.png",
+    "abilityDesc": "制作潜入道具、礼物、材料时，有几率返还部分制作材料"
+  },
+  {
+    "sn": 406,
+    "group": 406,
+    "level": 1,
+    "abilityType": 601,
+    "abilityParam": "4",
+    "abilityName": "高阶制作配方",
+    "abilityIcon": "xielizhe-icon-lufeier-02.png",
+    "abilityDesc": "增加可以制作的礼物"
+  },
+  {
+    "sn": 407,
+    "group": 407,
+    "level": 1,
+    "abilityType": 601,
+    "abilityParam": "4",
+    "abilityName": "制作技巧",
+    "abilityIcon": "xielizhe-icon-lufeier-04.png",
+    "abilityDesc": "制作潜入道具、礼物、材料时，有几率额外产出一个"
+  },
+  {
+    "sn": 501,
+    "group": 501,
+    "level": 1,
+    "abilityType": 601,
+    "abilityParam": "5",
+    "abilityName": "独家料理配方",
+    "abilityIcon": "xielizhe-icon-jianajun-01.png",
+    "abilityDesc": "增加可以制作料理的种类"
+  },
+  {
+    "sn": 505,
+    "group": 505,
+    "level": 1,
+    "abilityType": 601,
+    "abilityParam": "5",
+    "abilityName": "食材处理心得",
+    "abilityIcon": "xielizhe-icon-jianajun-02.png",
+    "abilityDesc": "制作料理时，有一定几率返还部分制作材料"
+  },
+  {
+    "sn": 509,
+    "group": 509,
+    "level": 1,
+    "abilityType": 601,
+    "abilityParam": "5",
+    "abilityName": "熟练的烹饪技巧",
+    "abilityIcon": "xielizhe-icon-jianajun-03.png",
+    "abilityDesc": "制作完美食物几率增加"
+  },
+  {
+    "sn": 512,
+    "group": 512,
+    "level": 1,
+    "abilityType": 601,
+    "abilityParam": "5",
+    "abilityName": "料理心得",
+    "abilityIcon": "xielizhe-icon-jianajun-02.png",
+    "abilityDesc": "制作料理时，有一定几率会额外获得一个"
+  },
+  {
+    "sn": 515,
+    "group": 515,
+    "level": 1,
+    "abilityType": 601,
+    "abilityParam": "5",
+    "abilityName": "珍贵的料理配方",
+    "abilityIcon": "xielizhe-icon-jianajun-01.png",
+    "abilityDesc": "进一步增加可以制作料理的种类"
+  },
+  {
+    "sn": 601,
+    "group": 601,
+    "level": 1,
+    "abilityType": 601,
+    "abilityParam": "6",
+    "abilityName": "休息也是作战",
+    "abilityIcon": "xielizhe-icon-heiguqing-01.png",
+    "abilityDesc": "获得书籍『高效放松法』"
+  },
+  {
+    "sn": 603,
+    "group": 603,
+    "level": 1,
+    "abilityType": 601,
+    "abilityParam": "6",
+    "abilityName": "治愈天使",
+    "abilityIcon": "xielizhe-icon-heiguqing-01.png",
+    "abilityDesc": "获得书籍『关于急救的一切』"
+  },
+  {
+    "sn": 611,
+    "group": 611,
+    "level": 1,
+    "abilityType": 601,
+    "abilityParam": "6",
+    "abilityName": "突破人体的限制",
+    "abilityIcon": "xielizhe-icon-heiguqing-01.png",
+    "abilityDesc": "获得书籍『肌肉，GO！』"
+  },
+  {
+    "sn": 615,
+    "group": 615,
+    "level": 1,
+    "abilityType": 601,
+    "abilityParam": "6",
+    "abilityName": "我已经知晓了",
+    "abilityIcon": "xielizhe-icon-heiguqing-01.png",
+    "abilityDesc": "获得书籍『图书管理员秘技！』"
+  },
+  {
+    "sn": 620,
+    "group": 620,
+    "level": 1,
+    "abilityType": 601,
+    "abilityParam": "6",
+    "abilityName": "看穿一切",
+    "abilityIcon": "xielizhe-icon-heiguqing-01.png",
+    "abilityDesc": "获得书籍『电影与电影评论家』"
+  },
+  {
+    "sn": 701,
+    "group": 701,
+    "level": 1,
+    "abilityType": 601,
+    "abilityParam": "7",
+    "abilityName": "心灵手巧",
+    "abilityIcon": "xielizhe-icon-lufeier-01.png",
+    "abilityDesc": "开放部分战斗内小道具的制作"
+  },
+  {
+    "sn": 705,
+    "group": 705,
+    "level": 1,
+    "abilityType": 601,
+    "abilityParam": "7",
+    "abilityName": "中华料理配方",
+    "abilityIcon": "xielizhe-icon-jianajun-01.png",
+    "abilityDesc": "开放部分中式料理的烹饪"
+  },
+  {
+    "sn": 709,
+    "group": 709,
+    "level": 1,
+    "abilityType": 601,
+    "abilityParam": "7",
+    "abilityName": "努力的回报",
+    "abilityIcon": "xielizhe-icon-lufeier-01.png",
+    "abilityDesc": "开放更多战斗内道具的制作"
+  },
+  {
+    "sn": 713,
+    "group": 713,
+    "level": 1,
+    "abilityType": 601,
+    "abilityParam": "7",
+    "abilityName": "娴熟的技巧",
+    "abilityIcon": "xielizhe-icon-lufeier-04.png",
+    "abilityDesc": "进行战斗道具制作时概率返还部分材料"
+  },
+  {
+    "sn": 717,
+    "group": 717,
+    "level": 1,
+    "abilityType": 601,
+    "abilityParam": "7",
+    "abilityName": "中华料理的魅力",
+    "abilityIcon": "xielizhe-icon-jianajun-01.png",
+    "abilityDesc": "开放更多中式料理的烹饪"
+  },
+  {
+    "sn": 801,
+    "group": 801,
+    "level": 1,
+    "abilityType": 601,
+    "abilityParam": "8",
+    "abilityName": "打工出道",
+    "abilityIcon": "xielizhe-icon-pengzi-01.png",
+    "abilityDesc": "可以去『涩谷·百万甜品店』打工了"
+  },
+  {
+    "sn": 805,
+    "group": 805,
+    "level": 1,
+    "abilityType": 601,
+    "abilityParam": "8",
+    "abilityName": "观察的心得",
+    "abilityIcon": "xielizhe-icon-pengzi-02-i18n.png",
+    "abilityDesc": "打工时，可以使人格指数获得额外的成长"
+  },
+  {
+    "sn": 807,
+    "group": 807,
+    "level": 1,
+    "abilityType": 601,
+    "abilityParam": "8",
+    "abilityName": "柜台接待能手",
+    "abilityIcon": "xielizhe-icon-pengzi-03.png",
+    "abilityDesc": "可以去『涩谷·药妆店』打工了"
+  },
+  {
+    "sn": 813,
+    "group": 813,
+    "level": 1,
+    "abilityType": 601,
+    "abilityParam": "8",
+    "abilityName": "服务的心得",
+    "abilityIcon": "xielizhe-icon-pengzi-04-i18n.png",
+    "abilityDesc": "打工时，可以使人格指数获得更多的额外成长"
+  },
+  {
+    "sn": 817,
+    "group": 817,
+    "level": 1,
+    "abilityType": 601,
+    "abilityParam": "8",
+    "abilityName": "客人情绪观察",
+    "abilityIcon": "xielizhe-icon-pengzi-05.png",
+    "abilityDesc": "可以去『新宿·日乃国屋书店』打工了"
+  },
+  {
+    "sn": 901,
+    "group": 901,
+    "level": 1,
+    "abilityType": 601,
+    "abilityParam": "9",
+    "abilityName": "时尚设计师",
+    "abilityIcon": "xielizhe-icon-fushanjiadai-01.png",
+    "abilityDesc": "赠送时装『休闲正装』"
+  },
+  {
+    "sn": 903,
+    "group": 903,
+    "level": 1,
+    "abilityType": 601,
+    "abilityParam": "9",
+    "abilityName": "新的潮流",
+    "abilityIcon": "xielizhe-icon-fushanjiadai-01.png",
+    "abilityDesc": "赠送时装『休闲正装·绿』"
+  },
+  {
+    "sn": 909,
+    "group": 909,
+    "level": 1,
+    "abilityType": 601,
+    "abilityParam": "9",
+    "abilityName": "时尚的多样化",
+    "abilityIcon": "xielizhe-icon-fushanjiadai-01.png",
+    "abilityDesc": "可以在『涩谷地下商场·服装店』购买新时装了"
+  },
+  {
+    "sn": 913,
+    "group": 913,
+    "level": 1,
+    "abilityType": 601,
+    "abilityParam": "9",
+    "abilityName": "用心缝制",
+    "abilityIcon": "xielizhe-icon-fushanjiadai-01.png",
+    "abilityDesc": "可以在『涩谷地下商场·高级服装店』购买新时装了"
+  },
+  {
+    "sn": 920,
+    "group": 920,
+    "level": 1,
+    "abilityType": 601,
+    "abilityParam": "9",
+    "abilityName": "特别的品味",
+    "abilityIcon": "xielizhe-icon-fushanjiadai-01.png",
+    "abilityDesc": "赠送时装『休闲学派』"
+  },
+  {
+    "sn": 1001,
+    "group": 1001,
+    "level": 1,
+    "abilityType": 601,
+    "abilityParam": "10",
+    "abilityName": "原来在那里吗",
+    "abilityIcon": "xielizhe-icon-xujianjunye-01.png",
+    "abilityDesc": "解锁钓鱼的观察模式"
+  },
+  {
+    "sn": 1005,
+    "group": 1005,
+    "level": 1,
+    "abilityType": 601,
+    "abilityParam": "10",
+    "abilityName": "享受垂钓",
+    "abilityIcon": "xielizhe-icon-xujianjunye-02.png",
+    "abilityDesc": "解锁新等级的渔场"
+  },
+  {
+    "sn": 1009,
+    "group": 1009,
+    "level": 1,
+    "abilityType": 601,
+    "abilityParam": "10",
+    "abilityName": "钓场的常客",
+    "abilityIcon": "xielizhe-icon-xujianjunye-03.png",
+    "abilityDesc": "开放更多渔场可兑换的奖励"
+  },
+  {
+    "sn": 1013,
+    "group": 1013,
+    "level": 1,
+    "abilityType": 601,
+    "abilityParam": "10",
+    "abilityName": "开拓视野",
+    "abilityIcon": "xielizhe-icon-xujianjunye-02.png",
+    "abilityDesc": "解锁新等级的渔场"
+  },
+  {
+    "sn": 1017,
+    "group": 1017,
+    "level": 1,
+    "abilityType": 601,
+    "abilityParam": "10",
+    "abilityName": "钓场的贵客",
+    "abilityIcon": "xielizhe-icon-xujianjunye-03.png",
+    "abilityDesc": "开放更多渔场可兑换的奖励"
+  },
+  {
+    "sn": 1101,
+    "group": 1101,
+    "level": 1,
+    "abilityType": 601,
+    "abilityParam": "11",
+    "abilityName": "和植物聊天",
+    "abilityIcon": "xielizhe-icon-yui-01.png",
+    "abilityDesc": "种植时间降低"
+  },
+  {
+    "sn": 1105,
+    "group": 1105,
+    "level": 1,
+    "abilityType": 601,
+    "abilityParam": "11",
+    "abilityName": "与植物做朋友",
+    "abilityIcon": "xielizhe-icon-yui-05.png",
+    "abilityDesc": "解锁更多花盆和菜盆"
+  },
+  {
+    "sn": 1109,
+    "group": 1109,
+    "level": 1,
+    "abilityType": 601,
+    "abilityParam": "11",
+    "abilityName": "回应的心意",
+    "abilityIcon": "xielizhe-icon-yui-06.png",
+    "abilityDesc": "种植收获时概率获得种子"
+  },
+  {
+    "sn": 1113,
+    "group": 1113,
+    "level": 1,
+    "abilityType": 601,
+    "abilityParam": "11",
+    "abilityName": "园艺心得",
+    "abilityIcon": "xielizhe-icon-yui-06.png",
+    "abilityDesc": "种植有一定概率获得额外产出"
+  },
+  {
+    "sn": 1117,
+    "group": 1117,
+    "level": 1,
+    "abilityType": 601,
+    "abilityParam": "11",
+    "abilityName": "传达的心声",
+    "abilityIcon": "xielizhe-icon-yui-01.png",
+    "abilityDesc": "种植时间大幅降低"
+  }
+]

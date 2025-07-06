@@ -1,0 +1,38 @@
+[
+  {
+    "sn": 1,
+    "systemEventSn": 510001,
+    "param": 3,
+    "describe": "通过至少3个「监测点」",
+    "award": 244001,
+    "group": 4,
+    "sequence": 4
+  },
+  {
+    "sn": 2,
+    "systemEventSn": 510002,
+    "param": 1,
+    "describe": "通过至少1个「监测点·宫主星」",
+    "award": 244002,
+    "group": 3,
+    "sequence": 3
+  },
+  {
+    "sn": 3,
+    "systemEventSn": 510003,
+    "param": 1,
+    "describe": "通过「监测点·命主星」",
+    "award": 244003,
+    "group": 2,
+    "sequence": 2
+  },
+  {
+    "sn": 4,
+    "systemEventSn": 510004,
+    "param": 13,
+    "describe": "通过全部「监测点」",
+    "award": 244004,
+    "group": 1,
+    "sequence": 1
+  }
+]

@@ -1,0 +1,82 @@
+[
+  {
+    "sn": 1,
+    "value": 0,
+    "description": "<color=#FF0000>%s</color>真的存在么？",
+    "award": 1,
+    "reduceParam": 0,
+    "reduceDesc": "当前影响力处于较低阶段，暂时不会衰减"
+  },
+  {
+    "sn": 2,
+    "value": 0.1,
+    "description": "<color=#FF0000>%s</color>真的存在么？",
+    "award": 1,
+    "reduceParam": 0,
+    "reduceDesc": "当前影响力处于较低阶段，暂时不会衰减"
+  },
+  {
+    "sn": 3,
+    "value": 0.2,
+    "description": "<color=#FF0000>%s</color>值得信赖么？",
+    "award": 1,
+    "reduceParam": 0,
+    "reduceDesc": "当前影响力处于较低阶段，暂时不会衰减"
+  },
+  {
+    "sn": 4,
+    "value": 0.3,
+    "description": "<color=#FF0000>%s</color>值得信赖么？",
+    "award": 1,
+    "reduceParam": 0,
+    "reduceDesc": "当前影响力处于较低阶段，暂时不会衰减"
+  },
+  {
+    "sn": 5,
+    "value": 0.4,
+    "description": "<color=#FF0000>%s</color>永远滴神！",
+    "award": 1,
+    "reduceParam": 0.02,
+    "reduceDesc": "当前影响力衰减系数为低，结算时约衰减%s"
+  },
+  {
+    "sn": 6,
+    "value": 0.5,
+    "description": "<color=#FF0000>%s</color>永远滴神！",
+    "award": 1,
+    "reduceParam": 0.04,
+    "reduceDesc": "当前影响力衰减系数为低，结算时约衰减%s"
+  },
+  {
+    "sn": 7,
+    "value": 0.6,
+    "description": "<color=#FF0000>%s</color>永远滴神！",
+    "award": 1,
+    "reduceParam": 0.06,
+    "reduceDesc": "当前影响力衰减系数为中，结算时约衰减%s"
+  },
+  {
+    "sn": 8,
+    "value": 0.7,
+    "description": "<color=#FF0000>%s</color>永远滴神！",
+    "award": 1,
+    "reduceParam": 0.08,
+    "reduceDesc": "当前影响力衰减系数为中，结算时约衰减%s"
+  },
+  {
+    "sn": 9,
+    "value": 0.8,
+    "description": "<color=#FF0000>%s</color>永远滴神！",
+    "award": 1,
+    "reduceParam": 0.1,
+    "reduceDesc": "当前影响力衰减系数为高，结算时约衰减%s"
+  },
+  {
+    "sn": 10,
+    "value": 0.9,
+    "description": "<color=#FF0000>%s</color>永远滴神！",
+    "award": 1,
+    "reduceParam": 0.1,
+    "reduceDesc": "当前影响力衰减系数为高，结算时约衰减%s"
+  }
+]

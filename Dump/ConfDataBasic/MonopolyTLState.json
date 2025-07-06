@@ -1,0 +1,158 @@
+[
+  {
+    "sn": 1,
+    "startState": 0,
+    "endState": 1,
+    "tlTrackName": "EnterMain"
+  },
+  {
+    "sn": 2,
+    "startState": 1,
+    "endState": 2,
+    "tlTrackName": "MainToRank"
+  },
+  {
+    "sn": 3,
+    "startState": 2,
+    "endState": 1,
+    "tlTrackName": "RankToMain"
+  },
+  {
+    "sn": 4,
+    "startState": 2,
+    "endState": 3,
+    "tlTrackName": "RankToReady"
+  },
+  {
+    "sn": 5,
+    "startState": 1,
+    "endState": 4,
+    "tlTrackName": "MainToClassic"
+  },
+  {
+    "sn": 6,
+    "startState": 4,
+    "endState": 1,
+    "tlTrackName": "ClassicToMain"
+  },
+  {
+    "sn": 7,
+    "startState": 3,
+    "endState": 5,
+    "tlTrackName": "ReadyToDress"
+  },
+  {
+    "sn": 8,
+    "startState": 5,
+    "endState": 3,
+    "tlTrackName": "DressToReady"
+  },
+  {
+    "sn": 9,
+    "startState": 1,
+    "endState": 5,
+    "tlTrackName": "MainToDress"
+  },
+  {
+    "sn": 10,
+    "startState": 5,
+    "endState": 1,
+    "tlTrackName": "DressToMain"
+  },
+  {
+    "sn": 11,
+    "startState": 4,
+    "endState": 5,
+    "tlTrackName": "ClassicToDress"
+  },
+  {
+    "sn": 12,
+    "startState": 5,
+    "endState": 4,
+    "tlTrackName": "DressToClassic"
+  },
+  {
+    "sn": 13,
+    "startState": 5,
+    "endState": 2,
+    "tlTrackName": "DressToRank"
+  },
+  {
+    "sn": 14,
+    "startState": 2,
+    "endState": 5,
+    "tlTrackName": "RankToDress"
+  },
+  {
+    "sn": 15,
+    "startState": 1,
+    "endState": 6,
+    "tlTrackName": "MainToTask"
+  },
+  {
+    "sn": 16,
+    "startState": 6,
+    "endState": 1,
+    "tlTrackName": "TaskToMain"
+  },
+  {
+    "sn": 17,
+    "startState": 2,
+    "endState": 6,
+    "tlTrackName": "RankToTask"
+  },
+  {
+    "sn": 18,
+    "startState": 6,
+    "endState": 2,
+    "tlTrackName": "TaskToRank"
+  },
+  {
+    "sn": 19,
+    "startState": 4,
+    "endState": 6,
+    "tlTrackName": "ClassicToTask"
+  },
+  {
+    "sn": 20,
+    "startState": 6,
+    "endState": 4,
+    "tlTrackName": "TaskToClassic"
+  },
+  {
+    "sn": 21,
+    "startState": 0,
+    "endState": 2,
+    "tlTrackName": "EnterRank"
+  },
+  {
+    "sn": 22,
+    "startState": 0,
+    "endState": 4,
+    "tlTrackName": "EnterClassic"
+  },
+  {
+    "sn": 23,
+    "startState": 2,
+    "endState": 0,
+    "tlTrackName": "RankToMain"
+  },
+  {
+    "sn": 24,
+    "startState": 4,
+    "endState": 0,
+    "tlTrackName": "ClassicToMain"
+  },
+  {
+    "sn": 25,
+    "startState": 0,
+    "endState": 5,
+    "tlTrackName": "EnterReady"
+  },
+  {
+    "sn": 26,
+    "startState": 0,
+    "endState": 3,
+    "tlTrackName": "RankToReady"
+  }
+]

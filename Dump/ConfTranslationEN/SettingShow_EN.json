@@ -1,0 +1,386 @@
+[
+  {
+    "sn": "101",
+    "name": "Control Settings",
+    "tip": "AAAAAA==",
+    "gamepadtip": "AAAAAA=="
+  },
+  {
+    "sn": "130",
+    "name": "Gamepad Cursor Mode",
+    "tip": "You can control the cursor with the <color=#FF423F>Keyboard and Gamepad</color>.\nCursor Controls for Keyboard:\n<color=#FF423F>Arrow Keys</color> <size=40><keySn>423</keySn><keySn>424</keySn><keySn>425</keySn><keySn>426</keySn></size>: Move Cursor\n<color=#FF423F>Space Bar</color> <size=40><keySn>1201</keySn></size>: Confirm\n<color=#FF423F>Ctrl Key</color> <size=40><keySn>422</keySn></size>: Reset Cursor\nWhen the cursor is within a scrollable area\n<color=#FF423F>Page Up and Down Keys</color> <size=46><keySn>421</keySn><keySn>420</keySn></size>: Scroll",
+    "gamepadtip": "You can control the cursor with the <color=#FF423F>Keyboard and Gamepad</color>.\n<color=#FF423F>Left Stick</color><size=36><keySn>2001</keySn></size>: Movement\n<color=#FF423F>Confirm Button</color><size=36><keySn>1001</keySn></size>: Confirm\n<color=#FF423F>10 Keys</color><size=36><keySn>1013</keySn><keySn>1014</keySn><keySn>1015</keySn><keySn>1016</keySn></size>: Jump to nearby buttons\nPress the <color=#FF423F>Left Stick</color><size=36><keySn>1005</keySn></size>: Reset\nwhile cursor is within range\n<color=#FF423F>Confirm Button</color><size=36><keySn>1001</keySn></size>,\n<color=#FF423F>Left Stick</color><size=36><keySn>2001</keySn></size>: Scroll"
+  },
+  {
+    "sn": "102",
+    "name": "Camera Mode",
+    "tip": "Two camera modes are available for mouse and keyboard.\nClassic: Left-click on the mouse and drag to move the camera.\nRPG: Camera moves with the mouse. Press [ALT] to click to move the camera.",
+    "gamepadtip": "AAAAAA=="
+  },
+  {
+    "sn": "103",
+    "name": "Mobile Camera Sensitivity",
+    "tip": "Adjusts camera sensitivity on your phone.",
+    "gamepadtip": "AAAAAA=="
+  },
+  {
+    "sn": "104",
+    "name": "Mobile Zoom Sensitivity",
+    "tip": "Adjusts sensitivity for pinch to zoom and other zoom functions on your phone.",
+    "gamepadtip": "AAAAAA=="
+  },
+  {
+    "sn": "105",
+    "name": "Gamepad Camera Sensitivity",
+    "tip": "Adjusts camera sensitivity on your gamepad.",
+    "gamepadtip": "AAAAAA=="
+  },
+  {
+    "sn": "106",
+    "name": "Gamepad Zoom Sensitivity",
+    "tip": "Adjusts zoom sensitivity on your gamepad.",
+    "gamepadtip": "AAAAAA=="
+  },
+  {
+    "sn": "107",
+    "name": "Classic Camera Sensitivity",
+    "tip": "Adjusts camera sensitivity when using a mouse and keyboard on classic mode.",
+    "gamepadtip": "AAAAAA=="
+  },
+  {
+    "sn": "108",
+    "name": "Classic Camera Zoom Sensitivity",
+    "tip": "Adjusts zoom sensitivity when using a mouse and keyboard on classic mode.",
+    "gamepadtip": "AAAAAA=="
+  },
+  {
+    "sn": "109",
+    "name": "RPG Mode Camera Sensitivity",
+    "tip": "Adjusts camera sensitivity when using a mouse and keyboard in RPG mode.",
+    "gamepadtip": "AAAAAA=="
+  },
+  {
+    "sn": "110",
+    "name": "RPG Mode Camera Zoom Sensitivity",
+    "tip": "Adjusts zoom sensitivity when using a mouse and keyboard in RPG mode.",
+    "gamepadtip": "AAAAAA=="
+  },
+  {
+    "sn": "111",
+    "name": "Auto-Adjust Camera",
+    "tip": "Sets the camera and angle to automatically adjust to keep your character in clear view.",
+    "gamepadtip": "AAAAAA=="
+  },
+  {
+    "sn": "112",
+    "name": "Vibration",
+    "tip": "Enables gamepad vibration.",
+    "gamepadtip": "AAAAAA=="
+  },
+  {
+    "sn": "113",
+    "name": "Camera Inversion",
+    "tip": "Reverses how your camera rotates vertically and horizontally.",
+    "gamepadtip": "AAAAAA=="
+  },
+  {
+    "sn": "114",
+    "name": "Cursor Speed",
+    "tip": "Adjusts movement speed of cursor when using Gamepad Cursor Mode.",
+    "gamepadtip": "AAAAAA=="
+  },
+  {
+    "sn": "115",
+    "name": "Mouse Right-Click Settings",
+    "tip": "Allows you to right-click on the mouse to close the current screen and return to the main screen when enabled.",
+    "gamepadtip": "AAAAAA=="
+  },
+  {
+    "sn": "131",
+    "name": "System Settings",
+    "tip": "AAAAAA==",
+    "gamepadtip": "AAAAAA=="
+  },
+  {
+    "sn": "133",
+    "name": "Block Friend Requests",
+    "tip": "Allows you to reject friend requests from other players.",
+    "gamepadtip": "AAAAAA=="
+  },
+  {
+    "sn": "134",
+    "name": "Show Chat on Main Screen",
+    "tip": "Allows you to show the chat channel on the bottom left of the main screen.",
+    "gamepadtip": "AAAAAA=="
+  },
+  {
+    "sn": "135",
+    "name": "Show Chat During Battles",
+    "tip": "Allows you to show the chat channel on the bottom left of the battle screen.",
+    "gamepadtip": "AAAAAA=="
+  },
+  {
+    "sn": "136",
+    "name": "Receive Chat Updates",
+    "tip": "Keeps the most recent IMs displayed in the bottom-left corner of the main screen when enabled.",
+    "gamepadtip": "AAAAAA=="
+  },
+  {
+    "sn": "137",
+    "name": "Display Subtitles",
+    "tip": "Displays subtitles when playing story animations.",
+    "gamepadtip": "AAAAAA=="
+  },
+  {
+    "sn": "138",
+    "name": "Pause Story in Background",
+    "tip": "Automatically pauses the story when the game is in the background.",
+    "gamepadtip": "AAAAAA=="
+  },
+  {
+    "sn": "171",
+    "name": "Battle Settings",
+    "tip": "AAAAAA==",
+    "gamepadtip": "AAAAAA=="
+  },
+  {
+    "sn": "172",
+    "name": "Change Personas in Auto-Battle",
+    "tip": "Chooses suitable Persona from summonable Personas and swaps between them in auto-battle. If turned off, only skills from the Persona equipped when attacking will be used.",
+    "gamepadtip": "AAAAAA=="
+  },
+  {
+    "sn": "173",
+    "name": "Highlights in Auto-Battle",
+    "tip": "Activates suitable Highlights in auto-battle. If turned off, Highlights won't be used in auto-battle.",
+    "gamepadtip": "AAAAAA=="
+  },
+  {
+    "sn": "174",
+    "name": "Support Phantom Thief Skills in Auto-Battle",
+    "tip": "Activates suitable Support Phantom Thief skills in auto-battle. If turned off, these skills won't be used in auto-battle.",
+    "gamepadtip": "AAAAAA=="
+  },
+  {
+    "sn": "175",
+    "name": "Auto-Select 1 More Target",
+    "tip": "Auto-targets and activates a 1 MORE attack on suitable targets. When turned off, targets and attacks must be manually selected and activated.",
+    "gamepadtip": "AAAAAA=="
+  },
+  {
+    "sn": "176",
+    "name": "Simplify Battle Results",
+    "tip": "Allows you to simplify battle results during Palace exploration.",
+    "gamepadtip": "AAAAAA=="
+  },
+  {
+    "sn": "177",
+    "name": "Skip Battle Animations",
+    "tip": "Allows you to skip certain battle animations.",
+    "gamepadtip": "AAAAAA=="
+  },
+  {
+    "sn": "178",
+    "name": "Support Phantom Thieves Animations",
+    "tip": "Allows you to skip Support Phantom Thief skill animations.",
+    "gamepadtip": "AAAAAA=="
+  },
+  {
+    "sn": "179",
+    "name": "Highlight Animations",
+    "tip": "Allows you to skip Highlight animations.",
+    "gamepadtip": "AAAAAA=="
+  },
+  {
+    "sn": "201",
+    "name": "Voice Language",
+    "tip": "Selects the language for voiced lines.",
+    "gamepadtip": "AAAAAA=="
+  },
+  {
+    "sn": "299",
+    "name": "Volume Settings",
+    "tip": "AAAAAA==",
+    "gamepadtip": "AAAAAA=="
+  },
+  {
+    "sn": "202",
+    "name": "Master Volume",
+    "tip": "Adjusts the volume for the overall game.",
+    "gamepadtip": "AAAAAA=="
+  },
+  {
+    "sn": "203",
+    "name": "BGM",
+    "tip": "Adjusts the volume for background music in-game.",
+    "gamepadtip": "AAAAAA=="
+  },
+  {
+    "sn": "204",
+    "name": "Sound Effects",
+    "tip": "Adjusts the volume for sound effects in-game.",
+    "gamepadtip": "AAAAAA=="
+  },
+  {
+    "sn": "205",
+    "name": "Voice",
+    "tip": "Adjusts the volume for voiced lines in-game.",
+    "gamepadtip": "AAAAAA=="
+  },
+  {
+    "sn": "206",
+    "name": "Environment",
+    "tip": "Adjust the volume for environmental sounds in-game.",
+    "gamepadtip": "AAAAAA=="
+  },
+  {
+    "sn": "301",
+    "name": "Window Mode",
+    "tip": "Window: Shows in a window.\nFullscreen: Uses the full display.\nBorderless: Similar to fullscreen but the cursor can move off-screen.",
+    "gamepadtip": "AAAAAA=="
+  },
+  {
+    "sn": "302",
+    "name": "Screen Resolution",
+    "tip": "Increases resolution to improve overall graphic quality. Depending on your system, your frame rate may be lower than expected.",
+    "gamepadtip": "AAAAAA=="
+  },
+  {
+    "sn": "303",
+    "name": "Dynamic Resolution",
+    "tip": "Automatically optimizes the resolution for your system. This may cause your screen resolution to be lower than expected.",
+    "gamepadtip": "AAAAAA=="
+  },
+  {
+    "sn": "304",
+    "name": "Frame Rate",
+    "tip": "Selects the game's frame rate (FPS). The game will appear smoother at a higher FPS. Depending on your system and other settings, your frame rate may be lower than expected.",
+    "gamepadtip": "AAAAAA=="
+  },
+  {
+    "sn": "305",
+    "name": "Render Quality",
+    "tip": "Selects the overall render quality. Depending on your system, increasing the quality may cause your frame rate to be lower than expected.",
+    "gamepadtip": "AAAAAA=="
+  },
+  {
+    "sn": "306",
+    "name": "Shadow Quality",
+    "tip": "Selects the shadow quality. Depending on your system, increasing the quality may cause your frame rate to be lower than expected.",
+    "gamepadtip": "AAAAAA=="
+  },
+  {
+    "sn": "307",
+    "name": "Effects Quality",
+    "tip": "Selects effect quality. Depending on your system, increasing the quality may cause your frame rate to be lower than expected.",
+    "gamepadtip": "AAAAAA=="
+  },
+  {
+    "sn": "308",
+    "name": "Texture Quality",
+    "tip": "Selects texture quality. Depending on your system, increasing the quality may cause your frame rate to be lower than expected.",
+    "gamepadtip": "AAAAAA=="
+  },
+  {
+    "sn": "309",
+    "name": "Level of Detail",
+    "tip": "Selects graphic quality for distant objects. Depending on your system, increasing the quality may cause your frame rate to be lower than expected.",
+    "gamepadtip": "AAAAAA=="
+  },
+  {
+    "sn": "310",
+    "name": "Anti-Aliasing",
+    "tip": "Allows you to make images smoother. Depending on your system, this may cause your frame rate to be lower than expected.",
+    "gamepadtip": "AAAAAA=="
+  },
+  {
+    "sn": "311",
+    "name": "Render Scale",
+    "tip": "Changes the proportion of your resolution to display. Increasing render scale improves graphics settings. Depending on your system, this may cause your frame rate to be lower than expected.",
+    "gamepadtip": "AAAAAA=="
+  },
+  {
+    "sn": "312",
+    "name": "Post-Processing Effects",
+    "tip": "Selects the quality of visual effects and overall graphics. Depending on your system, increasing the quality may cause your frame rate to be lower than expected.",
+    "gamepadtip": "AAAAAA=="
+  },
+  {
+    "sn": "313",
+    "name": "Party Following",
+    "tip": "Shows party members following behind you when exploring the Metaverse. Depending on your system, this may cause your frame rate to be lower than expected.",
+    "gamepadtip": "AAAAAA=="
+  },
+  {
+    "sn": "315",
+    "name": "Lens Flare",
+    "tip": "Shows lens flares and enhances lighting. Depending on your system, this may cause your frame rate to be lower than expected.",
+    "gamepadtip": "AAAAAA=="
+  },
+  {
+    "sn": "316",
+    "name": "Ambient Lighting",
+    "tip": "Enhances shading in the game. Depending on your system, this may cause your frame rate to be lower than expected.",
+    "gamepadtip": "AAAAAA=="
+  },
+  {
+    "sn": "317",
+    "name": "Reflections",
+    "tip": "Enhances reflections in water and mirrors. Depending on your system, this may cause your frame rate to be lower than expected.",
+    "gamepadtip": "AAAAAA=="
+  },
+  {
+    "sn": "318",
+    "name": "Bloom Effects",
+    "tip": "Enhances light diffusion. Depending on your system, this may cause your frame rate to be lower than expected.",
+    "gamepadtip": "AAAAAA=="
+  },
+  {
+    "sn": "319",
+    "name": "Fog Effects",
+    "tip": "Enhances depth by blurring distant objects. Depending on your system, this may cause your frame rate to be lower than expected.",
+    "gamepadtip": "AAAAAA=="
+  },
+  {
+    "sn": "320",
+    "name": "Volumetric Lighting",
+    "tip": "Enhances rays of light. Depending on your system, this may cause your frame rate to be lower than expected.",
+    "gamepadtip": "AAAAAA=="
+  },
+  {
+    "sn": "321",
+    "name": "Terrain Blending",
+    "tip": "Blends terrain for smooth transitions between natural textures.",
+    "gamepadtip": "AAAAAA=="
+  },
+  {
+    "sn": "322",
+    "name": "Sunlight Effects",
+    "tip": "Enhances sunlight. Depending on your system, this may cause your frame rate to be lower than expected.",
+    "gamepadtip": "AAAAAA=="
+  },
+  {
+    "sn": "323",
+    "name": "VSync",
+    "tip": "Maintains graphics quality in fast-paced scenes by adjusting to display capabilities. Depending on your system, this may cause your frame rate to be lower than expected.",
+    "gamepadtip": "AAAAAA=="
+  },
+  {
+    "sn": "326",
+    "name": "Display",
+    "tip": "Selects a display to use when multiple displays are available.",
+    "gamepadtip": "AAAAAA=="
+  },
+  {
+    "sn": "324",
+    "name": "AAAAAA==",
+    "tip": "Automatically adjusts resolution and frame rate with FidelityFX Super Resolution (FSR) if supported by your system.",
+    "gamepadtip": "AAAAAA=="
+  },
+  {
+    "sn": "325",
+    "name": "AAAAAA==",
+    "tip": "Improves graphic quality by enhancing color brightness and contrast if your system supports HDR.",
+    "gamepadtip": "AAAAAA=="
+  }
+]

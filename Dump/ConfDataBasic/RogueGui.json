@@ -1,0 +1,74 @@
+[
+  {
+    "sn": "UI_RogueliteItemChoose",
+    "showItem": 1,
+    "showBuff": 1,
+    "strUIPlayRuleSn": 0,
+    "tutorialsChainSn": 0,
+    "ignoreUpdateUI": "UI_NpcInteractiveView,UI_SkillTips"
+  },
+  {
+    "sn": "UI_RogueliteBuffChoose",
+    "showItem": 1,
+    "showBuff": 1,
+    "strUIPlayRuleSn": 0,
+    "tutorialsChainSn": 0,
+    "ignoreUpdateUI": "UI_NpcInteractiveView,UI_SkillTips"
+  },
+  {
+    "sn": "UI_RogueliteItemBag",
+    "showItem": 0,
+    "showBuff": 0,
+    "strUIPlayRuleSn": 207,
+    "tutorialsChainSn": 0,
+    "ignoreUpdateUI": "UI_NpcInteractiveView,UI_SkillTips"
+  },
+  {
+    "sn": "UI_RogueliteBuffBag",
+    "showItem": 0,
+    "showBuff": 0,
+    "strUIPlayRuleSn": 207,
+    "tutorialsChainSn": 0,
+    "ignoreUpdateUI": "UI_NpcInteractiveView,UI_SkillTips"
+  },
+  {
+    "sn": "UI_RogueliteShop",
+    "showItem": 1,
+    "showBuff": 1,
+    "strUIPlayRuleSn": 206,
+    "tutorialsChainSn": 0,
+    "ignoreUpdateUI": "UI_NpcInteractiveView,UI_SkillTips"
+  },
+  {
+    "sn": "UI_RogueliteLevelBattleInfoView",
+    "showItem": 1,
+    "showBuff": 1,
+    "strUIPlayRuleSn": 0,
+    "tutorialsChainSn": 604,
+    "ignoreUpdateUI": "UI_NpcInteractiveView,UI_SkillTips"
+  },
+  {
+    "sn": "UI_RogueliteDialogView",
+    "showItem": 1,
+    "showBuff": 1,
+    "strUIPlayRuleSn": 0,
+    "tutorialsChainSn": 0,
+    "ignoreUpdateUI": "UI_NpcInteractiveView,UI_SkillTips"
+  },
+  {
+    "sn": "UI_RogueliteChapterBranchingView",
+    "showItem": 0,
+    "showBuff": 0,
+    "strUIPlayRuleSn": 0,
+    "tutorialsChainSn": 604,
+    "ignoreUpdateUI": "UI_NpcInteractiveView,UI_SkillTips"
+  },
+  {
+    "sn": "UI_RogueliteFightNodeInfoView",
+    "showItem": 1,
+    "showBuff": 1,
+    "strUIPlayRuleSn": 208,
+    "tutorialsChainSn": 0,
+    "ignoreUpdateUI": "UI_NpcInteractiveView,UI_SkillTips"
+  }
+]

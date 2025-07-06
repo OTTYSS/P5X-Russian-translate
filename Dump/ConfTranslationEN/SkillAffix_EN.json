@@ -1,0 +1,2527 @@
+[
+  {
+    "sn": "1",
+    "name": "Special Effect",
+    "desc": "Increase party's Physical damage by 20%."
+  },
+  {
+    "sn": "2",
+    "name": "Special Effect",
+    "desc": "Increase party's Gun damage by 20%."
+  },
+  {
+    "sn": "3",
+    "name": "Special Effect",
+    "desc": "Increase party's Fire damage by 20%."
+  },
+  {
+    "sn": "4",
+    "name": "Special Effect",
+    "desc": "Increase party's Ice damage by 20%."
+  },
+  {
+    "sn": "5",
+    "name": "Special Effect",
+    "desc": "Increase party's Electric damage by 20%."
+  },
+  {
+    "sn": "6",
+    "name": "Special Effect",
+    "desc": "Increase party's Wind damage by 20%."
+  },
+  {
+    "sn": "7",
+    "name": "Special Effect",
+    "desc": "Increase party's Psychokinesis damage by 20%."
+  },
+  {
+    "sn": "8",
+    "name": "Special Effect",
+    "desc": "Increase party's Nuclear damage by 20%."
+  },
+  {
+    "sn": "9",
+    "name": "Special Effect",
+    "desc": "Increase party's Bless damage by 20%."
+  },
+  {
+    "sn": "10",
+    "name": "Special Effect",
+    "desc": "Increase party's Curse damage by 20%."
+  },
+  {
+    "sn": "11",
+    "name": "Special Effect",
+    "desc": "Increase party's Almighty damage by 20%."
+  },
+  {
+    "sn": "12",
+    "name": "Special Effect",
+    "desc": "Increase party's <color=#FFFC40>critical damage</color> by 50%."
+  },
+  {
+    "sn": "13",
+    "name": "Special Effect",
+    "desc": "Increase <color=#FFFC40>Assassin</color> allies' damage by 20%."
+  },
+  {
+    "sn": "14",
+    "name": "Special Effect",
+    "desc": "Increase <color=#FFFC40>Sweeper</color> allies' damage by 20%."
+  },
+  {
+    "sn": "15",
+    "name": "Special Effect",
+    "desc": "Increase <color=#FFFC40>Medic</color> allies' damage by 20%."
+  },
+  {
+    "sn": "16",
+    "name": "Special Effect",
+    "desc": "Increase <color=#FFFC40>Guardian</color> allies' damage by 20%."
+  },
+  {
+    "sn": "17",
+    "name": "Special Effect",
+    "desc": "Increase <color=#FFFC40>Strategist</color> allies' damage by 20%."
+  },
+  {
+    "sn": "18",
+    "name": "Special Effect",
+    "desc": "Increase <color=#FFFC40>Saboteur</color> allies' damage by 20%."
+  },
+  {
+    "sn": "21",
+    "name": "Special Effect",
+    "desc": "Foes inflicted with Burn take 20% increased damage."
+  },
+  {
+    "sn": "22",
+    "name": "Special Effect",
+    "desc": "Foes inflicted with Freeze take 20% increased damage."
+  },
+  {
+    "sn": "23",
+    "name": "Special Effect",
+    "desc": "Foes inflicted with Shock take 20% increased damage."
+  },
+  {
+    "sn": "24",
+    "name": "Special Effect",
+    "desc": "Foes inflicted with Windswept take 20% increased damage."
+  },
+  {
+    "sn": "25",
+    "name": "Special Effect",
+    "desc": "Foes inflicted with elemental ailments take 20% increased damage."
+  },
+  {
+    "sn": "31",
+    "name": "Special Effect",
+    "desc": "All foes become weak to Physical."
+  },
+  {
+    "sn": "32",
+    "name": "Special Effect",
+    "desc": "All foes become weak to Gun."
+  },
+  {
+    "sn": "33",
+    "name": "Special Effect",
+    "desc": "All foes become weak to Fire."
+  },
+  {
+    "sn": "34",
+    "name": "Special Effect",
+    "desc": "All foes become weak to Ice."
+  },
+  {
+    "sn": "35",
+    "name": "Special Effect",
+    "desc": "All foes become weak to Electric."
+  },
+  {
+    "sn": "36",
+    "name": "Special Effect",
+    "desc": "All foes become weak to Wind."
+  },
+  {
+    "sn": "37",
+    "name": "Special Effect",
+    "desc": "All foes become weak to Psychokinesis."
+  },
+  {
+    "sn": "38",
+    "name": "Special Effect",
+    "desc": "All foes become weak to Nuclear."
+  },
+  {
+    "sn": "39",
+    "name": "Special Effect",
+    "desc": "All foes become weak to Blessing."
+  },
+  {
+    "sn": "40",
+    "name": "Special Effect",
+    "desc": "All foes become weak to Curse."
+  },
+  {
+    "sn": "41",
+    "name": "Special Effect",
+    "desc": "Increase damage of allies with Blessings by 25%."
+  },
+  {
+    "sn": "42",
+    "name": "Special Effect",
+    "desc": "<color=#FF423F>Shielded</color> allies deal 20% more damage."
+  },
+  {
+    "sn": "43",
+    "name": "Special Effect",
+    "desc": "Party's <color=#FFFC40>Highlight</color> damage is increased by 50%."
+  },
+  {
+    "sn": "44",
+    "name": "Special Effect",
+    "desc": "<color=#FFFC40>Wonder</color> deals 50% more <color=#FFFC40>final damage</color>. Other allies deal 80% less final damage."
+  },
+  {
+    "sn": "45",
+    "name": "Special Effect",
+    "desc": "Allies will not deal critical hits, but will deal increased <color=#FFFC40>final damage</color> with skills and Resonance. The increase is equal to critical hit rate × (critical damage - 100%). (Max critical hit rate in this calculation is 100%)."
+  },
+  {
+    "sn": "46",
+    "name": "Special Effect",
+    "desc": "<color=#FFFC40>Wonder</color> deals 50% more <color=#FFFC40>final damage</color>."
+  },
+  {
+    "sn": "47",
+    "name": "Special Effect",
+    "desc": "Other allies deal 80% less final damage."
+  },
+  {
+    "sn": "48",
+    "name": "Special Effect",
+    "desc": "If the party contains Guardians or Medics, decrease all foes' final damage by 60% and increase final damage taken by 20%. If not, increase all foes' final damage by 60%."
+  },
+  {
+    "sn": "101",
+    "name": "Special Effect",
+    "desc": "Decrease party's Physical damage by 20%."
+  },
+  {
+    "sn": "102",
+    "name": "Special Effect",
+    "desc": "Decrease party's Gun damage by 20%."
+  },
+  {
+    "sn": "103",
+    "name": "Special Effect",
+    "desc": "Decrease party's Fire damage by 20%."
+  },
+  {
+    "sn": "104",
+    "name": "Special Effect",
+    "desc": "Decrease party's Ice damage by 20%."
+  },
+  {
+    "sn": "105",
+    "name": "Special Effect",
+    "desc": "Decrease party's Electric damage by 20%."
+  },
+  {
+    "sn": "106",
+    "name": "Special Effect",
+    "desc": "Decrease party's Wind damage by 20%."
+  },
+  {
+    "sn": "107",
+    "name": "Special Effect",
+    "desc": "Decrease party's Psychokinesis damage by 20%."
+  },
+  {
+    "sn": "108",
+    "name": "Special Effect",
+    "desc": "Decrease party's Nuclear damage by 20%."
+  },
+  {
+    "sn": "109",
+    "name": "Special Effect",
+    "desc": "Decrease party's Bless damage by 20%."
+  },
+  {
+    "sn": "110",
+    "name": "Special Effect",
+    "desc": "Decrease party's Curse damage by 20%."
+  },
+  {
+    "sn": "111",
+    "name": "Special Effect",
+    "desc": "Decrease party's Almighty damage by 20%."
+  },
+  {
+    "sn": "112",
+    "name": "Special Effect",
+    "desc": "Decrease party's <color=#FFFC40>critical damage</color> by 50%."
+  },
+  {
+    "sn": "113",
+    "name": "Special Effect",
+    "desc": "Decrease <color=#FFFC40>Assassin</color> allies' damage by 20%."
+  },
+  {
+    "sn": "114",
+    "name": "Special Effect",
+    "desc": "Decrease <color=#FFFC40>Sweeper</color> allies' damage by 20%."
+  },
+  {
+    "sn": "115",
+    "name": "Special Effect",
+    "desc": "Decrease <color=#FFFC40>Medic</color> allies' damage by 20%."
+  },
+  {
+    "sn": "116",
+    "name": "Special Effect",
+    "desc": "Decrease <color=#FFFC40>Guardian</color> allies' damage by 20%."
+  },
+  {
+    "sn": "117",
+    "name": "Special Effect",
+    "desc": "Decrease <color=#FFFC40>Strategist</color> allies' damage by 20%."
+  },
+  {
+    "sn": "118",
+    "name": "Special Effect",
+    "desc": "Decrease <color=#FFFC40>Saboteur</color> allies' damage by 20%."
+  },
+  {
+    "sn": "131",
+    "name": "Special Effect",
+    "desc": "All foes' Physical affinity becomes Resist."
+  },
+  {
+    "sn": "132",
+    "name": "Special Effect",
+    "desc": "All foes' Gun affinity becomes Resist."
+  },
+  {
+    "sn": "133",
+    "name": "Special Effect",
+    "desc": "All foes' Fire affinity becomes Resist."
+  },
+  {
+    "sn": "134",
+    "name": "Special Effect",
+    "desc": "All foes' Ice affinity becomes Resist."
+  },
+  {
+    "sn": "135",
+    "name": "Special Effect",
+    "desc": "All foes' Electric affinity becomes Resist."
+  },
+  {
+    "sn": "136",
+    "name": "Special Effect",
+    "desc": "All foes' Wind affinity becomes Resist."
+  },
+  {
+    "sn": "137",
+    "name": "Special Effect",
+    "desc": "All foes' Psychokinesis affinity becomes Resist."
+  },
+  {
+    "sn": "138",
+    "name": "Special Effect",
+    "desc": "All foes' Nuclear affinity becomes Resist."
+  },
+  {
+    "sn": "139",
+    "name": "Special Effect",
+    "desc": "All foes' Bless affinity becomes Resist."
+  },
+  {
+    "sn": "140",
+    "name": "Special Effect",
+    "desc": "All foes' <color=#FF423F>Curse</color> affinity becomes Resist."
+  },
+  {
+    "sn": "201",
+    "name": "Make Ready!",
+    "desc": "Increase party's ranged attack damage by 10%."
+  },
+  {
+    "sn": "202",
+    "name": "Load!",
+    "desc": "When any ally runs out of ammo, fully reload after 2 turns."
+  },
+  {
+    "sn": "203",
+    "name": "Aim!",
+    "desc": "When party makes ranged attacks, increase Gun damage by 10%."
+  },
+  {
+    "sn": "204",
+    "name": "Fire at Will!",
+    "desc": "When party makes ranged attacks, increase Gun damage by an additional 10%."
+  },
+  {
+    "sn": "205",
+    "name": "Light 'em up!",
+    "desc": "When any ally runs out of ammo, fully reload after 1 turn."
+  },
+  {
+    "sn": "301",
+    "name": "Statue Effect",
+    "desc": "Statue Effect Active"
+  },
+  {
+    "sn": "302",
+    "name": "Statue Effect",
+    "desc": "Statue Effect Active"
+  },
+  {
+    "sn": "303",
+    "name": "Statue Effect",
+    "desc": "Statue Effect Active"
+  },
+  {
+    "sn": "304",
+    "name": "Statue Effect",
+    "desc": "Statue Effect Active"
+  },
+  {
+    "sn": "305",
+    "name": "Statue Effect",
+    "desc": "Statue Effect Active"
+  },
+  {
+    "sn": "306",
+    "name": "Statue Effect",
+    "desc": "Statue Effect Active"
+  },
+  {
+    "sn": "307",
+    "name": "Statue Effect",
+    "desc": "Statue Effect Active"
+  },
+  {
+    "sn": "308",
+    "name": "Statue Effect",
+    "desc": "Statue Effect Active"
+  },
+  {
+    "sn": "309",
+    "name": "Statue Effect",
+    "desc": "Statue Effect Active"
+  },
+  {
+    "sn": "310",
+    "name": "Statue Effect",
+    "desc": "Statue Effect Active"
+  },
+  {
+    "sn": "311",
+    "name": "Statue Effect",
+    "desc": "Statue Effect Active"
+  },
+  {
+    "sn": "312",
+    "name": "Statue Effect",
+    "desc": "Statue Effect Active"
+  },
+  {
+    "sn": "313",
+    "name": "Statue Effect",
+    "desc": "Statue Effect Active"
+  },
+  {
+    "sn": "314",
+    "name": "Statue Effect",
+    "desc": "Statue Effect Active"
+  },
+  {
+    "sn": "315",
+    "name": "Statue Effect",
+    "desc": "Statue Effect Active"
+  },
+  {
+    "sn": "316",
+    "name": "Statue Effect",
+    "desc": "Statue Effect Active"
+  },
+  {
+    "sn": "317",
+    "name": "Statue Effect",
+    "desc": "Statue Effect Active"
+  },
+  {
+    "sn": "318",
+    "name": "Statue Effect",
+    "desc": "Statue Effect Active"
+  },
+  {
+    "sn": "319",
+    "name": "Statue Effect",
+    "desc": "Statue Effect Active"
+  },
+  {
+    "sn": "320",
+    "name": "Statue Effect",
+    "desc": "Statue Effect Active"
+  },
+  {
+    "sn": "321",
+    "name": "Statue Effect",
+    "desc": "Statue Effect Active"
+  },
+  {
+    "sn": "322",
+    "name": "Statue Effect",
+    "desc": "Statue Effect Active"
+  },
+  {
+    "sn": "323",
+    "name": "Statue Effect",
+    "desc": "Statue Effect Active"
+  },
+  {
+    "sn": "324",
+    "name": "Statue Effect",
+    "desc": "Statue Effect Active"
+  },
+  {
+    "sn": "325",
+    "name": "Statue Effect",
+    "desc": "Statue Effect Active"
+  },
+  {
+    "sn": "326",
+    "name": "Statue Effect",
+    "desc": "Statue Effect Active"
+  },
+  {
+    "sn": "327",
+    "name": "Statue Effect",
+    "desc": "Statue Effect Active"
+  },
+  {
+    "sn": "328",
+    "name": "Statue Effect",
+    "desc": "Statue Effect Active"
+  },
+  {
+    "sn": "329",
+    "name": "Statue Effect",
+    "desc": "Statue Effect Active"
+  },
+  {
+    "sn": "330",
+    "name": "Statue Effect",
+    "desc": "Statue Effect Active"
+  },
+  {
+    "sn": "331",
+    "name": "Statue Effect",
+    "desc": "Statue Effect Active"
+  },
+  {
+    "sn": "332",
+    "name": "Statue Effect",
+    "desc": "Statue Effect Active"
+  },
+  {
+    "sn": "333",
+    "name": "Statue Effect",
+    "desc": "Statue Effect Active"
+  },
+  {
+    "sn": "334",
+    "name": "Statue Effect",
+    "desc": "Statue Effect Active"
+  },
+  {
+    "sn": "335",
+    "name": "Statue Effect",
+    "desc": "Statue Effect Active"
+  },
+  {
+    "sn": "336",
+    "name": "Statue Effect",
+    "desc": "Statue Effect Active"
+  },
+  {
+    "sn": "337",
+    "name": "Statue Effect",
+    "desc": "Statue Effect Active"
+  },
+  {
+    "sn": "338",
+    "name": "Statue Effect",
+    "desc": "Statue Effect Active"
+  },
+  {
+    "sn": "339",
+    "name": "Statue Effect",
+    "desc": "Statue Effect Active"
+  },
+  {
+    "sn": "340",
+    "name": "Statue Effect",
+    "desc": "Statue Effect Active"
+  },
+  {
+    "sn": "341",
+    "name": "Painting Effect",
+    "desc": "Painting Effect Active"
+  },
+  {
+    "sn": "342",
+    "name": "Painting Effect",
+    "desc": "Painting Effect Active"
+  },
+  {
+    "sn": "343",
+    "name": "Painting Effect",
+    "desc": "Painting Effect Active"
+  },
+  {
+    "sn": "344",
+    "name": "Painting Effect",
+    "desc": "Painting Effect Active"
+  },
+  {
+    "sn": "345",
+    "name": "Painting Effect",
+    "desc": "Painting Effect Active"
+  },
+  {
+    "sn": "346",
+    "name": "Painting Effect",
+    "desc": "Painting Effect Active"
+  },
+  {
+    "sn": "347",
+    "name": "Painting Effect",
+    "desc": "Painting Effect Active"
+  },
+  {
+    "sn": "348",
+    "name": "Painting Effect",
+    "desc": "Painting Effect Active"
+  },
+  {
+    "sn": "349",
+    "name": "Painting Effect",
+    "desc": "Painting Effect Active"
+  },
+  {
+    "sn": "350",
+    "name": "Painting Effect",
+    "desc": "Painting Effect Active"
+  },
+  {
+    "sn": "351",
+    "name": "Painting Effect",
+    "desc": "Painting Effect Active"
+  },
+  {
+    "sn": "352",
+    "name": "Painting Effect",
+    "desc": "Painting Effect Active"
+  },
+  {
+    "sn": "353",
+    "name": "Painting Effect",
+    "desc": "Painting Effect Active"
+  },
+  {
+    "sn": "354",
+    "name": "Painting Effect",
+    "desc": "Painting Effect Active"
+  },
+  {
+    "sn": "355",
+    "name": "Painting Effect",
+    "desc": "Painting Effect Active"
+  },
+  {
+    "sn": "356",
+    "name": "Painting Effect",
+    "desc": "Painting Effect Active"
+  },
+  {
+    "sn": "357",
+    "name": "Painting Effect",
+    "desc": "Painting Effect Active"
+  },
+  {
+    "sn": "358",
+    "name": "Painting Effect",
+    "desc": "Painting Effect Active"
+  },
+  {
+    "sn": "359",
+    "name": "Painting Effect",
+    "desc": "Painting Effect Active"
+  },
+  {
+    "sn": "360",
+    "name": "Painting Effect",
+    "desc": "Painting Effect Active"
+  },
+  {
+    "sn": "361",
+    "name": "Painting Effect",
+    "desc": "Painting Effect Active"
+  },
+  {
+    "sn": "362",
+    "name": "Painting Effect",
+    "desc": "Painting Effect Active"
+  },
+  {
+    "sn": "363",
+    "name": "Painting Effect",
+    "desc": "Painting Effect Active"
+  },
+  {
+    "sn": "364",
+    "name": "Painting Effect",
+    "desc": "Painting Effect Active"
+  },
+  {
+    "sn": "365",
+    "name": "Painting Effect",
+    "desc": "Painting Effect Active"
+  },
+  {
+    "sn": "366",
+    "name": "Painting Effect",
+    "desc": "Painting Effect Active"
+  },
+  {
+    "sn": "367",
+    "name": "Painting Effect",
+    "desc": "Painting Effect Active"
+  },
+  {
+    "sn": "368",
+    "name": "Painting Effect",
+    "desc": "Painting Effect Active"
+  },
+  {
+    "sn": "369",
+    "name": "Painting Effect",
+    "desc": "Painting Effect Active"
+  },
+  {
+    "sn": "370",
+    "name": "Painting Effect",
+    "desc": "Painting Effect Active"
+  },
+  {
+    "sn": "371",
+    "name": "Painting Effect",
+    "desc": "Painting Effect Active"
+  },
+  {
+    "sn": "372",
+    "name": "Painting Effect",
+    "desc": "Painting Effect Active"
+  },
+  {
+    "sn": "373",
+    "name": "Painting Effect",
+    "desc": "Painting Effect Active"
+  },
+  {
+    "sn": "374",
+    "name": "Painting Effect",
+    "desc": "Painting Effect Active"
+  },
+  {
+    "sn": "375",
+    "name": "Painting Effect",
+    "desc": "Painting Effect Active"
+  },
+  {
+    "sn": "376",
+    "name": "Painting Effect",
+    "desc": "Painting Effect Active"
+  },
+  {
+    "sn": "377",
+    "name": "Painting Effect",
+    "desc": "Painting Effect Active"
+  },
+  {
+    "sn": "378",
+    "name": "Painting Effect",
+    "desc": "Painting Effect Active"
+  },
+  {
+    "sn": "379",
+    "name": "Painting Effect",
+    "desc": "Painting Effect Active"
+  },
+  {
+    "sn": "380",
+    "name": "Painting Effect",
+    "desc": "Painting Effect Active"
+  },
+  {
+    "sn": "381",
+    "name": "Painting Effect",
+    "desc": "Painting Effect Active"
+  },
+  {
+    "sn": "382",
+    "name": "Painting Effect",
+    "desc": "Painting Effect Active"
+  },
+  {
+    "sn": "383",
+    "name": "Painting Effect",
+    "desc": "Painting Effect Active"
+  },
+  {
+    "sn": "384",
+    "name": "Painting Effect",
+    "desc": "Painting Effect Active"
+  },
+  {
+    "sn": "385",
+    "name": "Painting Effect",
+    "desc": "Painting Effect Active"
+  },
+  {
+    "sn": "386",
+    "name": "Painting Effect",
+    "desc": "Painting Effect Active"
+  },
+  {
+    "sn": "387",
+    "name": "Painting Effect",
+    "desc": "Painting Effect Active"
+  },
+  {
+    "sn": "388",
+    "name": "Painting Effect",
+    "desc": "Painting Effect Active"
+  },
+  {
+    "sn": "389",
+    "name": "Painting Effect",
+    "desc": "Painting Effect Active"
+  },
+  {
+    "sn": "390",
+    "name": "Painting Effect",
+    "desc": "Painting Effect Active"
+  },
+  {
+    "sn": "391",
+    "name": "Painting Effect",
+    "desc": "Painting Effect Active"
+  },
+  {
+    "sn": "392",
+    "name": "Painting Effect",
+    "desc": "Painting Effect Active"
+  },
+  {
+    "sn": "393",
+    "name": "Painting Effect",
+    "desc": "Painting Effect Active"
+  },
+  {
+    "sn": "394",
+    "name": "Painting Effect",
+    "desc": "Painting Effect Active"
+  },
+  {
+    "sn": "395",
+    "name": "Painting Effect",
+    "desc": "Painting Effect Active"
+  },
+  {
+    "sn": "396",
+    "name": "Painting Effect",
+    "desc": "Painting Effect Active"
+  },
+  {
+    "sn": "397",
+    "name": "Painting Effect",
+    "desc": "Painting Effect Active"
+  },
+  {
+    "sn": "398",
+    "name": "Painting Effect",
+    "desc": "Painting Effect Active"
+  },
+  {
+    "sn": "399",
+    "name": "Painting Effect",
+    "desc": "Painting Effect Active"
+  },
+  {
+    "sn": "400",
+    "name": "Painting Effect",
+    "desc": "Painting Effect Active"
+  },
+  {
+    "sn": "401",
+    "name": "Painting Effect",
+    "desc": "Painting Effect Active"
+  },
+  {
+    "sn": "402",
+    "name": "Painting Effect",
+    "desc": "Painting Effect Active"
+  },
+  {
+    "sn": "403",
+    "name": "Painting Effect",
+    "desc": "Painting Effect Active"
+  },
+  {
+    "sn": "404",
+    "name": "Painting Effect",
+    "desc": "Painting Effect Active"
+  },
+  {
+    "sn": "405",
+    "name": "Painting Effect",
+    "desc": "Painting Effect Active"
+  },
+  {
+    "sn": "406",
+    "name": "Painting Effect",
+    "desc": "Painting Effect Active"
+  },
+  {
+    "sn": "407",
+    "name": "Painting Effect",
+    "desc": "Painting Effect Active"
+  },
+  {
+    "sn": "408",
+    "name": "Painting Effect",
+    "desc": "Painting Effect Active"
+  },
+  {
+    "sn": "409",
+    "name": "Painting Effect",
+    "desc": "Painting Effect Active"
+  },
+  {
+    "sn": "410",
+    "name": "Painting Effect",
+    "desc": "Painting Effect Active"
+  },
+  {
+    "sn": "411",
+    "name": "Painting Effect",
+    "desc": "Painting Effect Active"
+  },
+  {
+    "sn": "412",
+    "name": "Painting Effect",
+    "desc": "Painting Effect Active"
+  },
+  {
+    "sn": "413",
+    "name": "Painting Effect",
+    "desc": "Painting Effect Active"
+  },
+  {
+    "sn": "414",
+    "name": "Painting Effect",
+    "desc": "Painting Effect Active"
+  },
+  {
+    "sn": "415",
+    "name": "Painting Effect",
+    "desc": "Painting Effect Active"
+  },
+  {
+    "sn": "416",
+    "name": "Painting Effect",
+    "desc": "Painting Effect Active"
+  },
+  {
+    "sn": "417",
+    "name": "Painting Effect",
+    "desc": "Painting Effect Active"
+  },
+  {
+    "sn": "418",
+    "name": "Painting Effect",
+    "desc": "Painting Effect Active"
+  },
+  {
+    "sn": "419",
+    "name": "Painting Effect",
+    "desc": "Painting Effect Active"
+  },
+  {
+    "sn": "420",
+    "name": "Painting Effect",
+    "desc": "Painting Effect Active"
+  },
+  {
+    "sn": "421",
+    "name": "Painting Effect",
+    "desc": "Painting Effect Active"
+  },
+  {
+    "sn": "422",
+    "name": "Painting Effect",
+    "desc": "Painting Effect Active"
+  },
+  {
+    "sn": "423",
+    "name": "Painting Effect",
+    "desc": "Painting Effect Active"
+  },
+  {
+    "sn": "424",
+    "name": "Painting Effect",
+    "desc": "Painting Effect Active"
+  },
+  {
+    "sn": "425",
+    "name": "Painting Effect",
+    "desc": "Painting Effect Active"
+  },
+  {
+    "sn": "426",
+    "name": "Painting Effect",
+    "desc": "Painting Effect Active"
+  },
+  {
+    "sn": "427",
+    "name": "Painting Effect",
+    "desc": "Painting Effect Active"
+  },
+  {
+    "sn": "428",
+    "name": "Painting Effect",
+    "desc": "Painting Effect Active"
+  },
+  {
+    "sn": "429",
+    "name": "Painting Effect",
+    "desc": "Painting Effect Active"
+  },
+  {
+    "sn": "430",
+    "name": "Painting Effect",
+    "desc": "Painting Effect Active"
+  },
+  {
+    "sn": "431",
+    "name": "Painting Effect",
+    "desc": "Painting Effect Active"
+  },
+  {
+    "sn": "432",
+    "name": "Painting Effect",
+    "desc": "Painting Effect Active"
+  },
+  {
+    "sn": "433",
+    "name": "Painting Effect",
+    "desc": "Painting Effect Active"
+  },
+  {
+    "sn": "434",
+    "name": "Painting Effect",
+    "desc": "Painting Effect Active"
+  },
+  {
+    "sn": "435",
+    "name": "Painting Effect",
+    "desc": "Painting Effect Active"
+  },
+  {
+    "sn": "436",
+    "name": "Painting Effect",
+    "desc": "Painting Effect Active"
+  },
+  {
+    "sn": "437",
+    "name": "Painting Effect",
+    "desc": "Painting Effect Active"
+  },
+  {
+    "sn": "438",
+    "name": "Painting Effect",
+    "desc": "Painting Effect Active"
+  },
+  {
+    "sn": "439",
+    "name": "Painting Effect",
+    "desc": "Painting Effect Active"
+  },
+  {
+    "sn": "440",
+    "name": "Painting Effect",
+    "desc": "Painting Effect Active"
+  },
+  {
+    "sn": "441",
+    "name": "Painting Effect",
+    "desc": "Painting Effect Active"
+  },
+  {
+    "sn": "442",
+    "name": "Painting Effect",
+    "desc": "Painting Effect Active"
+  },
+  {
+    "sn": "443",
+    "name": "Painting Effect",
+    "desc": "Painting Effect Active"
+  },
+  {
+    "sn": "444",
+    "name": "Painting Effect",
+    "desc": "Painting Effect Active"
+  },
+  {
+    "sn": "445",
+    "name": "Painting Effect",
+    "desc": "Painting Effect Active"
+  },
+  {
+    "sn": "446",
+    "name": "Painting Effect",
+    "desc": "Painting Effect Active"
+  },
+  {
+    "sn": "447",
+    "name": "Painting Effect",
+    "desc": "Painting Effect Active"
+  },
+  {
+    "sn": "448",
+    "name": "Painting Effect",
+    "desc": "Painting Effect Active"
+  },
+  {
+    "sn": "449",
+    "name": "Painting Effect",
+    "desc": "Painting Effect Active"
+  },
+  {
+    "sn": "450",
+    "name": "Painting Effect",
+    "desc": "Painting Effect Active"
+  },
+  {
+    "sn": "451",
+    "name": "Painting Effect",
+    "desc": "Painting Effect Active"
+  },
+  {
+    "sn": "452",
+    "name": "Painting Effect",
+    "desc": "Painting Effect Active"
+  },
+  {
+    "sn": "453",
+    "name": "Painting Effect",
+    "desc": "Painting Effect Active"
+  },
+  {
+    "sn": "454",
+    "name": "Painting Effect",
+    "desc": "Painting Effect Active"
+  },
+  {
+    "sn": "455",
+    "name": "Painting Effect",
+    "desc": "Painting Effect Active"
+  },
+  {
+    "sn": "456",
+    "name": "Painting Effect",
+    "desc": "Painting Effect Active"
+  },
+  {
+    "sn": "457",
+    "name": "Painting Effect",
+    "desc": "Painting Effect Active"
+  },
+  {
+    "sn": "458",
+    "name": "Painting Effect",
+    "desc": "Painting Effect Active"
+  },
+  {
+    "sn": "459",
+    "name": "Painting Effect",
+    "desc": "Painting Effect Active"
+  },
+  {
+    "sn": "460",
+    "name": "Painting Effect",
+    "desc": "Painting Effect Active"
+  },
+  {
+    "sn": "461",
+    "name": "Painting Effect",
+    "desc": "Painting Effect Active"
+  },
+  {
+    "sn": "462",
+    "name": "Painting Effect",
+    "desc": "Painting Effect Active"
+  },
+  {
+    "sn": "501",
+    "name": "Statue Effect",
+    "desc": "Statue Effect Active"
+  },
+  {
+    "sn": "502",
+    "name": "Statue Effect",
+    "desc": "Statue Effect Active"
+  },
+  {
+    "sn": "503",
+    "name": "Statue Effect",
+    "desc": "Statue Effect Active"
+  },
+  {
+    "sn": "504",
+    "name": "Statue Effect",
+    "desc": "Statue Effect Active"
+  },
+  {
+    "sn": "505",
+    "name": "Statue Effect",
+    "desc": "Statue Effect Active"
+  },
+  {
+    "sn": "506",
+    "name": "Statue Effect",
+    "desc": "Statue Effect Active"
+  },
+  {
+    "sn": "507",
+    "name": "Statue Effect",
+    "desc": "Statue Effect Active"
+  },
+  {
+    "sn": "508",
+    "name": "Statue Effect",
+    "desc": "Statue Effect Active"
+  },
+  {
+    "sn": "509",
+    "name": "Statue Effect",
+    "desc": "Statue Effect Active"
+  },
+  {
+    "sn": "510",
+    "name": "Statue Effect",
+    "desc": "Statue Effect Active"
+  },
+  {
+    "sn": "511",
+    "name": "Statue Effect",
+    "desc": "Statue Effect Active"
+  },
+  {
+    "sn": "512",
+    "name": "Statue Effect",
+    "desc": "Statue Effect Active"
+  },
+  {
+    "sn": "513",
+    "name": "Statue Effect",
+    "desc": "Statue Effect Active"
+  },
+  {
+    "sn": "514",
+    "name": "Statue Effect",
+    "desc": "Statue Effect Active"
+  },
+  {
+    "sn": "515",
+    "name": "Statue Effect",
+    "desc": "Statue Effect Active"
+  },
+  {
+    "sn": "516",
+    "name": "Statue Effect",
+    "desc": "Statue Effect Active"
+  },
+  {
+    "sn": "517",
+    "name": "Statue Effect",
+    "desc": "Statue Effect Active"
+  },
+  {
+    "sn": "518",
+    "name": "Statue Effect",
+    "desc": "Statue Effect Active"
+  },
+  {
+    "sn": "519",
+    "name": "Statue Effect",
+    "desc": "Statue Effect Active"
+  },
+  {
+    "sn": "520",
+    "name": "Statue Effect",
+    "desc": "Statue Effect Active"
+  },
+  {
+    "sn": "521",
+    "name": "Statue Effect",
+    "desc": "Statue Effect Active"
+  },
+  {
+    "sn": "522",
+    "name": "Statue Effect",
+    "desc": "Statue Effect Active"
+  },
+  {
+    "sn": "523",
+    "name": "Statue Effect",
+    "desc": "Statue Effect Active"
+  },
+  {
+    "sn": "524",
+    "name": "Statue Effect",
+    "desc": "Statue Effect Active"
+  },
+  {
+    "sn": "525",
+    "name": "Statue Effect",
+    "desc": "Statue Effect Active"
+  },
+  {
+    "sn": "526",
+    "name": "Statue Effect",
+    "desc": "Statue Effect Active"
+  },
+  {
+    "sn": "527",
+    "name": "Statue Effect",
+    "desc": "Statue Effect Active"
+  },
+  {
+    "sn": "528",
+    "name": "Statue Effect",
+    "desc": "Statue Effect Active"
+  },
+  {
+    "sn": "529",
+    "name": "Statue Effect",
+    "desc": "Statue Effect Active"
+  },
+  {
+    "sn": "530",
+    "name": "Statue Effect",
+    "desc": "Statue Effect Active"
+  },
+  {
+    "sn": "1001",
+    "name": "Special Effect",
+    "desc": "At the start of battle, all allies gain 2 Seal of Power stacks. Gain 1 stack when inflicting weakness damage on foes. Lose 1 stack automatically at the end of each turn.\nSeal of Power: Increase final damage by 15% per stack. Lasts for 2 turns. Stacks up to 2 times.\nAlso gain effects from Stable Domain during battle.\nStable Domain: Allies cannot deal critical hits. Final damage is based on critical rate and critical damage."
+  },
+  {
+    "sn": "1002",
+    "name": "Special Effect",
+    "desc": "When using a skill or Resonance, gain 1 Seal of Power stack.\nIncrease party's final damage by 15% for each stack, and lose 1 stack after attacking. Stacks up to 3 times.\nAlso gain effects from Stable Domain during battle.\nStable Domain: Allies cannot deal critical hits. Final damage is based on critical rate and critical damage."
+  },
+  {
+    "sn": "1003",
+    "name": "Special Effect",
+    "desc": "At the start of each turn, gain 1 Seal of Power stack for each max HP increase. Gain 1 Seal of Power stack when dealing damage with a Resonance.\nSeal of Power: Increase final damage by 10% for each stack.\nAlso gain effects from Stable Domain during battle.\nStable Domain: Allies cannot deal critical hits. Final damage is based on critical rate and critical damage."
+  },
+  {
+    "sn": "1004",
+    "name": "Special Effect",
+    "desc": "When dealing damage with a Resonance, inflict 1 Magnetic Interference stack on target. When healing an ally with a skill, inflict 1 Magnetic Interference stack on a random foe.\nAlso gain effects from Stable Domain during battle.\nStable Domain: Allies cannot deal critical hits. Final damage is based on critical rate and critical damage."
+  },
+  {
+    "sn": "1005",
+    "name": "Special Effect",
+    "desc": "When a Strategist uses a buff skill, all allies gain Yang Energy. When a Saboteur uses a debuff skill, all allies gain Yin Energy."
+  },
+  {
+    "sn": "1006",
+    "name": "Special Effect",
+    "desc": "After all ally actions, all enemies are inflicted with an elemental ailment, and their taken damage increases by 10%."
+  },
+  {
+    "sn": "1007",
+    "name": "Special Effect",
+    "desc": "Increase Elucidator allies' stat buff effects by 30%."
+  },
+  {
+    "sn": "1008",
+    "name": "Special Effect",
+    "desc": "When allies activate a Highlight, all allies obtain 1 Mark of Augmentation.\nMark of Augmentation: Increases Attack by 30%. Lasts for 2 turns. Stacks up to 3 times."
+  },
+  {
+    "sn": "1009",
+    "name": "Special Effect",
+    "desc": "When an ally spends HP to use a skill, they obtain 4 stacks of Blood's Grace. When allies activate a Highlight, all allies get 2 stacks of Blood's Grace. Lose 1 stack of Blood's Grace at the end of each turn."
+  },
+  {
+    "sn": "1010",
+    "name": "Special Effect",
+    "desc": "When dealing damage with Resonance, healing allies with Resonance, or when health is used to activate a skill, all allies gain 1 stack of Mental Link.\nMental Link: Attack increases by 10% for each stack. Lasts for 2 turns. Stacks up to 8 times."
+  },
+  {
+    "sn": "1011",
+    "name": "Special Effect",
+    "desc": "When dealing damage with Resonance, obtain Wild Fury.\nWild Fury: Final damage increases by 20%. Lasts for 2 turns. Stacks up to 2 times."
+  },
+  {
+    "sn": "1012",
+    "name": "Special Effect",
+    "desc": "When an ally spends HP to use a skill, they obtain a stack of Sacrificial Blessing.\nSacrificial Blessing: Final damage increases by 40%."
+  },
+  {
+    "sn": "1013",
+    "name": "Special Effect",
+    "desc": "Increase Elucidator allies' stat buff effects by 30%. When an ally deals a weakness attack, give user Tremor Amplification. Tremor Amplification: Increase final damage by 40%. Lasts for 2 turns."
+  },
+  {
+    "sn": "1014",
+    "name": "Special Effect",
+    "desc": "When allies gain a shield, they also gain Charge Field. Allies can also gain Charge Field when they deal weakness damage.\nCharge Field: Final damage is increased by 5%. Lasts for 2 turns. Stacks up to 8 times."
+  },
+  {
+    "sn": "1015",
+    "name": "Special Effect",
+    "desc": "When allies deal weakness damage, they gain 4 Charge Field stacks. When allies gain a shield, they gain 1 Charge Field stack.\nCharge Field: Final damage is increased by 5%. Lasts for 1 turn. Stacks up to 8 times."
+  },
+  {
+    "sn": "1016",
+    "name": "Special Effect",
+    "desc": "At the start of battle, all allies gain 2 Magnetic Force stacks. Gain 1 stack after dealing weakness damage.\nMagnetic Force: Final damage increased by 20% per stack. Lose 1 stack at the end of each turn. Stacks up to 2 times."
+  },
+  {
+    "sn": "1017",
+    "name": "Special Effect",
+    "desc": "After dealing damage with skills or Resonance, gain 1 Impact stack.\nImpact: Deal 5% final damage for each stack. Lasts for 2 turns. Stacks up to 8 times."
+  },
+  {
+    "sn": "2001",
+    "name": "Special Effect",
+    "desc": "For each <color=#FFFC40>debuff</color> inflicted on foes, their damage taken increases by 3%. Maximum of 30%."
+  },
+  {
+    "sn": "2002",
+    "name": "Special Effect",
+    "desc": "Damage taken by foes increases by 50% once. Afterwards, their damage taken decreases by 50%. Stacks up to 2 times. Resets after 2 turns."
+  },
+  {
+    "sn": "2003",
+    "name": "Special Effect",
+    "desc": "Damage taken by foes decreases by 50% once. Afterwards, their damage taken increases by 20%. Stacks up to 4 times. Resets after 2 turns."
+  },
+  {
+    "sn": "2004",
+    "name": "Special Effect",
+    "desc": "Increase party's <color=#FFFC40>Resonance</color> damage dealt by 50%."
+  },
+  {
+    "sn": "2005",
+    "name": "Special Effect",
+    "desc": "After the boss takes an action, all foes are inflicted with <color=#FFFC40>Intimidation</color>. When Intimidation is removed, all allies will be inflicted with Intimidation.\nIntimidation: Decrease Defense by 10%. Maximum of 50%."
+  },
+  {
+    "sn": "2006",
+    "name": "Special Effect",
+    "desc": "For each <color=#FFFC40>elemental ailment</color> inflicted on foes, damage taken increases by 10%. Maximum of 40%."
+  },
+  {
+    "sn": "2007",
+    "name": "Special Effect",
+    "desc": "Whenever allies take damage, that ally's damage increases by 1%. Lasts for 3 turns. Stacks up to 80 times."
+  },
+  {
+    "sn": "2008",
+    "name": "Special Effect",
+    "desc": "The boss will change its affinities. Party's <color=#FFFC40>weakness damage</color> increases by 50%."
+  },
+  {
+    "sn": "2009",
+    "name": "Special Effect",
+    "desc": "When any ally receives <color=#FFFC40>healing</color>, their final damage increases by 8%. Lasts for 2 turns. Stacks up to 4 times."
+  },
+  {
+    "sn": "2010",
+    "name": "Special Effect",
+    "desc": "When any ally receives <color=#FFFC40>healing from a Resonance</color>, increase their final damage by 8%. Lasts for 2 turns. Stacks up to 2 times."
+  },
+  {
+    "sn": "2011",
+    "name": "Special Effect",
+    "desc": "Whenever allies take damage, that ally's damage increases by 4%. Lasts for 3 turns. Stacks up to 10 times."
+  },
+  {
+    "sn": "2012",
+    "name": "Special Effect",
+    "desc": "For each <color=#FFFC40>debuff</color> inflicted on foes, their damage taken increases by 3%. Maximum of 45%."
+  },
+  {
+    "sn": "2013",
+    "name": "Special Effect",
+    "desc": "After party gains <color=#FFFC40>shields</color>, the final damage of their <color=#FFFC40>Resonance</color> increases by 8%. Lasts for 3 turns. Stacks up to 8 times."
+  },
+  {
+    "sn": "2014",
+    "name": "Special Effect",
+    "desc": "All allies' final damage is increased based on their ailment accuracy. Maximum of 150% ailment accuracy, increasing final damage by 15%."
+  },
+  {
+    "sn": "2015",
+    "name": "Special Effect",
+    "desc": "Increase all allies' <color=#FFFC40>Resonance</color> critical damage by 25%, and Attack by 25%."
+  },
+  {
+    "sn": "2101",
+    "name": "Special Effect",
+    "desc": "Dominion will summon continuous waves of Angels. When an Angel is defeated, SP is restored.\nWhen Dominion is weakened, damage dealt to Angels is added to your score."
+  },
+  {
+    "sn": "2102",
+    "name": "Special Effect",
+    "desc": "Dominion continuously summons waves of Angels. You can restore SP when you defeat an Angel.\nWhen you deal damage to a summoned Angel, your score increases."
+  },
+  {
+    "sn": "2501",
+    "name": "Special Effect",
+    "desc": "After the boss deals damage, the target is inflicted with 1 stack of <color=#FFFC40>Wicked Poison</color>.\nWicked Poison: Lose a certain amount of HP at the end of each turn, and final damage taken is increased by 10%. Stacks up to 7 times. Can be removed."
+  },
+  {
+    "sn": "2502",
+    "name": "Special Effect",
+    "desc": "At the end of each turn, grant foes 1 stack of <color=#FFFC40>Berserk</color>.\nBerserk: Increase final damage by 15%. Can be stacked."
+  },
+  {
+    "sn": "2601",
+    "name": "Special Effect",
+    "desc": "Allies with a <color=#FF423F>shield</color> have their final damage taken decreased by 40%."
+  },
+  {
+    "sn": "2602",
+    "name": "Special Effect",
+    "desc": "When any ally receives <color=#FFFC40>healing</color>, their final damage taken decreases by 12%. Lasts for 3 turns. Stacks up to 4 times."
+  },
+  {
+    "sn": "3001",
+    "name": "Special Effect",
+    "desc": "All foes take 100% increased damage from All-Out Attacks."
+  },
+  {
+    "sn": "3021",
+    "name": "Special Effect",
+    "desc": "After foes take damage, party's damage increases by 5%. Maximum of 50%."
+  },
+  {
+    "sn": "3022",
+    "name": "Special Effect",
+    "desc": "When a foe is defeated, party's damage increases by 25%. Maximum of 50%."
+  },
+  {
+    "sn": "3023",
+    "name": "Special Effect",
+    "desc": "At the start of battle, all allies lose 50% HP. Also, party's healing and shield effects are increased by 20%, and after receiving healing or a shield, damage is increased by 50%."
+  },
+  {
+    "sn": "3043",
+    "name": "Special Effect",
+    "desc": "Increase party's Fire damage by 50%."
+  },
+  {
+    "sn": "3044",
+    "name": "Special Effect",
+    "desc": "Increase party's Ice damage by 50%."
+  },
+  {
+    "sn": "3045",
+    "name": "Special Effect",
+    "desc": "Increase party's Electric damage by 50%."
+  },
+  {
+    "sn": "3046",
+    "name": "Special Effect",
+    "desc": "Increase party's Wind damage by 50%."
+  },
+  {
+    "sn": "3047",
+    "name": "Special Effect",
+    "desc": "Increase party's Psychokinesis damage by 50%."
+  },
+  {
+    "sn": "3048",
+    "name": "Special Effect",
+    "desc": "Increase party's Nuclear damage by 50%."
+  },
+  {
+    "sn": "3049",
+    "name": "Special Effect",
+    "desc": "Increase party's Bless damage by 50%."
+  },
+  {
+    "sn": "3050",
+    "name": "Special Effect",
+    "desc": "Increase party's Curse damage by 50%."
+  },
+  {
+    "sn": "3051",
+    "name": "Special Effect",
+    "desc": "Increase party's <color=#FF423F>Resonance</color> damage by 50%."
+  },
+  {
+    "sn": "3052",
+    "name": "Special Effect",
+    "desc": "Increase party's <color=#FF423F>Highlight</color> damage by 50%."
+  },
+  {
+    "sn": "4001",
+    "name": "Special Effect",
+    "desc": "Increase Elucidator allies' <color=#FFFC40>stat buff</color> effects by 25%."
+  },
+  {
+    "sn": "4003",
+    "name": "Special Effect",
+    "desc": "Increase party's Physical/Gun damage by 20%."
+  },
+  {
+    "sn": "4004",
+    "name": "Special Effect",
+    "desc": "Increase party's Fire/Psy damage by 20%."
+  },
+  {
+    "sn": "4005",
+    "name": "Special Effect",
+    "desc": "Increase party's Ice/Nuclear damage by 20%."
+  },
+  {
+    "sn": "4006",
+    "name": "Special Effect",
+    "desc": "Increase party's Electric/Bless damage by 20%."
+  },
+  {
+    "sn": "4007",
+    "name": "Special Effect",
+    "desc": "Increase party's Wind/Curse damage by 20%."
+  },
+  {
+    "sn": "4501",
+    "name": "Special Effect",
+    "desc": "<color=#FFFC40>Assassin</color> allies' final damage is increased by 30%. Other allies' final damage is decreased by 30%."
+  },
+  {
+    "sn": "4502",
+    "name": "Special Effect",
+    "desc": "<color=#FFFC40>Sweeper</color> allies' final damage is increased by 30%. Other allies' final damage is decreased by 30%."
+  },
+  {
+    "sn": "4511",
+    "name": "Special Effect",
+    "desc": "Fire/Ice/Electric/Wind attribute allies' final damage is increased by 30%. Allies with other attributes have their final damage decreased by 30%."
+  },
+  {
+    "sn": "4512",
+    "name": "Special Effect",
+    "desc": "Psychokinesis/Nuclear/Electric/Wind attribute allies' final damage is increased by 30%. Allies with other attributes have their final damage decreased by 30%."
+  },
+  {
+    "sn": "4513",
+    "name": "Special Effect",
+    "desc": "Physical/Nuclear/Electric/Wind attribute allies' final damage is increased by 30%. Allies with other attributes have their final damage decreased by 30%."
+  },
+  {
+    "sn": "4521",
+    "name": "Special Effect",
+    "desc": "All foes take 5% increased final damage for each <color=#FFFC40>elemental ailment</color> they have. If a foe has all 4 <color=#FFFC40>elemental ailments</color> at the same time, final damage taken is increased by an additional 40%."
+  },
+  {
+    "sn": "4522",
+    "name": "Special Effect",
+    "desc": "Foes are susceptible to <color=#FFFC40>spiritual ailments</color>. When an ally inflicts a <color=#FFFC40>spiritual ailment</color>, their ailment accuracy will be greatly increased. Foes with <color=#FFFC40>spiritual ailments</color> take an increased 60% final damage."
+  },
+  {
+    "sn": "4523",
+    "name": "Special Effect",
+    "desc": "When all allies are affected by <color=#FFFC40>spiritual ailments</color>, ailment accuracy is greatly increased."
+  },
+  {
+    "sn": "4524",
+    "name": "Special Effect",
+    "desc": "Foes have increased resistance to spiritual ailments. However, foes affected by a <color=#FFFC40>spiritual ailment</color> take 60% increased final damage."
+  },
+  {
+    "sn": "4531",
+    "name": "Special Effect",
+    "desc": "When allies activate <color=#FFFC40>Resonance</color>, increase their final damage by 100%."
+  },
+  {
+    "sn": "4532",
+    "name": "Special Effect",
+    "desc": "When allies inflict <color=#FFFC40>continuous damage</color> effects, final damage is increased by 200%."
+  },
+  {
+    "sn": "4533",
+    "name": "Special Effect",
+    "desc": "The Highlight gauge will be filled 20% slower, but Highlights deal 200% increased final damage."
+  },
+  {
+    "sn": "4541",
+    "name": "Special Effect",
+    "desc": "When allies gain a <color=#FFFC40>shield</color>, their final damage is increased by 8%. Lasts for 3 turns. Stacks up to 8 times."
+  },
+  {
+    "sn": "4542",
+    "name": "Special Effect",
+    "desc": "When allies receive <color=#FFFC40>healing from a Resonance</color>, increase thier final damage by 30%. Lasts for 2 turns. Stacks up to 2 times."
+  },
+  {
+    "sn": "4551",
+    "name": "Special Effect",
+    "desc": "When allies get an <color=#FFFC40>extra action</color>, final damage is increased by 120%."
+  },
+  {
+    "sn": "4552",
+    "name": "Special Effect",
+    "desc": "At the start of battle, and at the start of the enemy's action, the enemy will change 1 random affinity to Weak (only the most recent Weak affinity will apply). When the enemy takes damage from a 1 More or All-out Attack, damage taken is increased by 400%."
+  },
+  {
+    "sn": "4553",
+    "name": "Special Effect",
+    "desc": "All enemies' max HP is decreased by 50%, and heal 10% of max HP at the end of each turn."
+  },
+  {
+    "sn": "4554",
+    "name": "Special Effect",
+    "desc": "The lower all enemies' current HP, the more their final damage is increased. When HP is below 20%, the maximum damage increase is 40%."
+  },
+  {
+    "sn": "5001",
+    "name": "Special Effect",
+    "desc": "At the start of battle, and after every 5 turns, all allies and enemies take a certain amount of damage and gain 1 stack of <color=#FFFC40>Power of Passion</color>.\nPower of Passion: Damage taken increased by 5%. Stacks up to 15 times. Can be removed."
+  },
+  {
+    "sn": "5002",
+    "name": "Special Effect",
+    "desc": "When an ally deals damage with a skill, they gain 1 Attribute Seal. When the total number of Attribute Seals reaches 7, spend all Attribute Seals and activate Starfall.\nStarfall: Deals 7 hits of Almighty damage to random foes. Repeated hits on the same foe deal less damage."
+  },
+  {
+    "sn": "5003",
+    "name": "Special Effect",
+    "desc": "When an ally uses a <color=#FFFC40>Highlight</color>, gain 1 Blazing Starfire stack. When Blazing Starfire reaches 4 stacks, spend all Blazing Starfire and activate Sparkling Stage.\nSparkling Stage: Randomly grants 10 buffs to allies. The following buffs may each be applied to 1 random ally.\nIncrease Attack by 15%.\nIncrease Defense by 22.5%.\nIncrease max HP by 15%.\nIncrease damage by 12%.\nIncrease ailment accuracy by 18%.\nIncrease pierce by 6%.\nIncrease critical rate by 9%.\nIncrease critical damage by 18%.\nIncrease pierce resistance by 7.5%.\nIncrease weakness damage by 6%."
+  },
+  {
+    "sn": "6001",
+    "name": "Node Breaker",
+    "desc": "<color=#FF423F>Node Breaker</color>: <color=#fffc40>Combat Chip</color>. When an ally defeats a foe, gain <color=#fffc40>10</color> deployment points. Increase ally damage by <color=#fffc40>30%</color>."
+  },
+  {
+    "sn": "6002",
+    "name": "Vulnerability Cracking",
+    "desc": "<color=#FF423F>Vulnerability Cracking</color>: <color=#fffc40>Combat Chip</color>. When an ally deals weakness damage, gain <color=#fffc40>3</color> deployment points. Increase ally weakness damage by <color=#fffc40>37.5%</color>."
+  },
+  {
+    "sn": "6003",
+    "name": "Synchro-attack",
+    "desc": "<color=#FF423F>Synchro-attack</color>: <color=#fffc40>Combat Chip</color>. When allies take damage of their own attribute, gain <color=#fffc40>4</color> deployment points. Increase damage by <color=#fffc40>60%</color> more."
+  },
+  {
+    "sn": "6004",
+    "name": "Flooding Device",
+    "desc": "<color=#FF423F>Flooding Device</color>: <color=#fffc40>Combat Chip</color>. Each time allies attack, gain <color=#fffc40>1</color> deployment point. After every 10 ally attacks, increase party's Attack by <color=#fffc40>40%</color> for 1 turn."
+  },
+  {
+    "sn": "6005",
+    "name": "Trojan Horse",
+    "desc": "<color=#FF423F>Trojan Horse</color>: <color=#fffc40>Combat Chip</color>. When an ally activates a Resonance, gain <color=#fffc40>5</color> deployment points (only once per action). Increase ally Resonance damage dealt by <color=#fffc40>60%</color>."
+  },
+  {
+    "sn": "6006",
+    "name": "Overload",
+    "desc": "<color=#FF423F>Overload</color>: <color=#fffc40>Combat Chip</color>. When an ally deals critical damage, gain <color=#fffc40>4</color> deployment points. Increase ally critical rate by <color=#fffc40>18%</color>."
+  },
+  {
+    "sn": "6011",
+    "name": "Bughack-I0",
+    "desc": "<color=#FF423F>Bughack-I0</color>: When a <color=#fffc40>Self-Destruct Bot</color> attacks, 80% chance to grant <color=#fffc40>2</color> random weaknesses to the target. Lasts for 2 turns."
+  },
+  {
+    "sn": "6012",
+    "name": "Shieldbreak-N1",
+    "desc": "<color=#FF423F>Shieldbreak-N1</color>: After taking an attack from a <color=#fffc40>Self-Destruct Bot</color>, increase target's damage taken from an ally with a shield by <color=#fffc40>30%</color>. Lasts for 2 turns."
+  },
+  {
+    "sn": "6013",
+    "name": "Elemental Combat-T0",
+    "desc": "<color=#FF423F>Elemental Combat-T0</color>: When a <color=#fffc40>Self-Destruct Bot</color> attacks, increase target's Fire, Ice, Electric, and Wind damage taken by <color=#fffc40>40%</color> for 2 turns. Only activates once per battle."
+  },
+  {
+    "sn": "6014",
+    "name": "Elemental Combat-E2",
+    "desc": "<color=#FF423F>Elemental Combat-E2</color>: After taking an attack from a <color=#fffc40>Self-Destruct Bot</color>, increase target's Psychokinesis, Nuclear, Bless, and Curse damage taken by 40% for 2 turns. Only activates once per battle."
+  },
+  {
+    "sn": "6015",
+    "name": "Electrojammer-R0",
+    "desc": "<color=#FF423F>Electrojammer-R0</color>: After taking an attack from a <color=#fffc40>Self-Destruct Bot</color>, decrease target's damage by <color=#fffc40>25%</color> for 2 turns."
+  },
+  {
+    "sn": "6016",
+    "name": "Firewall Buster-N3",
+    "desc": "<color=#FF423F>Firewall Buster-N3</color>: After taking an attack from a <color=#fffc40>Self-Destruct Bot</color>, increase target's damage taken by <color=#fffc40>5%</color> for 2 turns. Increase damage taken by <color=#fffc40>5%</color> more for each debuff target has, up to <color=#fffc40>30%</color>."
+  },
+  {
+    "sn": "6017",
+    "name": "Trojan Replicator-E9",
+    "desc": "<color=#FF423F>Trojan Replicator-E9</color>: After taking an attack from a <color=#fffc40>Self-Destruct Bot</color>, permanently increase damage taken by <color=#fffc40>15%</color>. Stacks up to 3 times."
+  },
+  {
+    "sn": "6018",
+    "name": "Volt Regulator-T1",
+    "desc": "<color=#FF423F>Volt Regulator-T1</color>: After taking an attack from a <color=#fffc40>Self-Destruct Bot</color>, decrease target's critical resistance by <color=#fffc40>9%</color> for 2 turns."
+  },
+  {
+    "sn": "6021",
+    "name": "Voltage Amp-E2",
+    "desc": "<color=#FF423F>Voltage Amp-E2</color>: When a <color=#fffc40>Combat Drone</color> attacks, increase all allies' all allies' Attack by <color=#fffc40>20%</color>. Lasts for 1 turn."
+  },
+  {
+    "sn": "6022",
+    "name": "Firewall Booster-X3",
+    "desc": "<color=#FF423F>Firewall Booster-X3</color>: When a <color=#fffc40>Combat Drone</color> attacks, increase all allies' Defense by <color=#fffc40>30%</color>. Lasts for 1 turn."
+  },
+  {
+    "sn": "6023",
+    "name": "Data Recovery-P1",
+    "desc": "<color=#FF423F>Data Recovery-P1</color>: When a <color=#fffc40>Combat Drone</color> attacks, restore all allies' HP by <color=#fffc40>15%</color>."
+  },
+  {
+    "sn": "6024",
+    "name": "Memory Expansion-L9",
+    "desc": "<color=#FF423F>Memory Expansion-L9</color>: When a <color=#fffc40>Combat Drone</color> attacks, restore all allies' SP by <color=#fffc40>15%</color>."
+  },
+  {
+    "sn": "6025",
+    "name": "Charging-O1",
+    "desc": "<color=#FF423F>Charging-O1</color>: When a <color=#fffc40>Combat Drone</color> attacks, 50% chance to fill the Highlight gauge."
+  },
+  {
+    "sn": "6026",
+    "name": "Trojan Hack-S8",
+    "desc": "<color=#FF423F>Trojan Hack-S8</color>: After a <color=#fffc40>Combat Drone</color> attacks, all allies' attacks have a <color=#fffc40>50%</color> chance to inflict 1 random elemental ailment on the target. Lasts for 1 turn."
+  },
+  {
+    "sn": "6027",
+    "name": "Data Encryption-I4",
+    "desc": "<color=#FF423F>Data Encryption-I4</color>: When a <color=#fffc40>Combat Drone</color> attacks, grant the ally with the lowest HP a shield equal to <color=#fffc40>80%</color> of their lost HP (250 or more). Lasts for 2 turns."
+  },
+  {
+    "sn": "6028",
+    "name": "Chip Overclock-O1",
+    "desc": "<color=#FF423F>Chip Overclock-O1</color>: When a <color=#fffc40>Combat Drone</color> attacks, increase all allies' damage by <color=#fffc40>5%</color>. Increase damage <color=#fffc40>0.5%</color> more for each 1% of HP lost, up to <color=#fffc40>40%</color>. Lasts for 1 turn."
+  },
+  {
+    "sn": "6029",
+    "name": "Support Enhancer-N9",
+    "desc": "<color=#FF423F>Support Enhancer-N9</color>: When a <color=#fffc40>Combat Drone</color> attacks, increase all allies' damage by <color=#fffc40>2.5%</color>. Increase damage by <color=#fffc40>7.5%</color> more for each <color=#fffc40>Combat Drone</color>. Lasts for 1 turn."
+  },
+  {
+    "sn": "6030",
+    "name": "Algorithm Booster-F1",
+    "desc": "<color=#FF423F>Algorithm Booster-F1</color>: When a <color=#fffc40>Combat Drone</color> attacks, decrease Elucidator allies' cooldown time by <color=#fffc40>1</color> turn."
+  },
+  {
+    "sn": "6031",
+    "name": "Energy Circuit Amp-F2",
+    "desc": "<color=#FF423F>Energy Circuit Amp-F2</color>: Each time a <color=#fffc40>Combat Drone</color>'s attack hits a foe, increase all allies' damage by <color=#fffc40>8%</color>, up to <color=#fffc40>32%</color>. Lasts for 1 turn."
+  },
+  {
+    "sn": "6032",
+    "name": "Electromagnetic Pulse-F3",
+    "desc": "<color=#FF423F>Electromagnetic Pulse-F3</color>: When a <color=#fffc40>Combat Drone</color> attacks, 1 random foe will be Marked. When a Marked foe is attacked, spend Mark to deal a guaranteed critical hit."
+  },
+  {
+    "sn": "7001",
+    "name": "Special Effect",
+    "desc": "When Dvesha's Nose is present, all of Dvesha's Mouth's affinities change from Resist to Null."
+  },
+  {
+    "sn": "7002",
+    "name": "Special Effect",
+    "desc": "When all of Dvesha's parts are revived, its healing effect is increased."
+  },
+  {
+    "sn": "7003",
+    "name": "Special Effect",
+    "desc": "Dvesha's Nose can attack even without twitching."
+  },
+  {
+    "sn": "7004",
+    "name": "Special Effect",
+    "desc": "When Dvesha's Eye is defeated, the other parts will be strengthened."
+  },
+  {
+    "sn": "7005",
+    "name": "Special Effect",
+    "desc": "Dvesha's Eye can place Watchful Eye on 2 foes at the same time."
+  },
+  {
+    "sn": "7006",
+    "name": "Special Effect",
+    "desc": "Targets marked by Koumokuten's Eye of Heaven take 50% increased damage. Koumokuten's Attack is increased by 40%."
+  },
+  {
+    "sn": "7011",
+    "name": "Special Effect",
+    "desc": "All foes' Defense is increased by 10%."
+  },
+  {
+    "sn": "7012",
+    "name": "Special Effect",
+    "desc": "All foes' max HP is increased by 10%."
+  },
+  {
+    "sn": "7013",
+    "name": "Special Effect",
+    "desc": "All foes' Attack is increased by 10%."
+  },
+  {
+    "sn": "7014",
+    "name": "Special Effect",
+    "desc": "All foes' damage is increased by 10%."
+  },
+  {
+    "sn": "7015",
+    "name": "Special Effect",
+    "desc": "All foes' damage taken is decreased by 10%."
+  },
+  {
+    "sn": "7021",
+    "name": "Special Effect",
+    "desc": "All foes' Defense is increased by 20%."
+  },
+  {
+    "sn": "7022",
+    "name": "Special Effect",
+    "desc": "All foes' max HP is increased by 20%."
+  },
+  {
+    "sn": "7023",
+    "name": "Special Effect",
+    "desc": "All foes' Attack is increased by 20%."
+  },
+  {
+    "sn": "7030",
+    "name": "Special Effect",
+    "desc": "Party's damage is greatly increased, and damage taken is greatly decreased."
+  },
+  {
+    "sn": "7031",
+    "name": "Special Effect",
+    "desc": "When its guards are present, all of Irshya's affinities change from Resist to Null."
+  },
+  {
+    "sn": "7032",
+    "name": "Special Effect",
+    "desc": "Decrease allies' damage increase from Power of Money."
+  },
+  {
+    "sn": "7033",
+    "name": "Special Effect",
+    "desc": "The effect of Incentivization on guards is increased."
+  },
+  {
+    "sn": "7034",
+    "name": "Special Effect",
+    "desc": "Guards' HP is greatly increased."
+  },
+  {
+    "sn": "7035",
+    "name": "Special Effect",
+    "desc": "At the end of Piggytron's action, the effect of Berserk is increased."
+  },
+  {
+    "sn": "7041",
+    "name": "Special Effect",
+    "desc": "When Cheerleaders are present, all of Shadow Kiuchi's affinities change to Resist."
+  },
+  {
+    "sn": "7042",
+    "name": "Special Effect",
+    "desc": "When preparing, the number of foes targeted by Lock On increases to 2."
+  },
+  {
+    "sn": "7043",
+    "name": "Special Effect",
+    "desc": "Cheerleaders' HP is greatly increased."
+  },
+  {
+    "sn": "7044",
+    "name": "Special Effect",
+    "desc": "At the start of the turn, gain 1 stack of Aphrodite's Blessing. Lose 1 stack when taking damage of the same attribute, and gain 1 stack when taking damage of a different attribute. Aphrodite's Blessing: Start with 2 stacks. Damage taken decreases by 15% for each stack. Stacks up to 5 times."
+  },
+  {
+    "sn": "7045",
+    "name": "Special Effect",
+    "desc": "Each time Windswept is inflicted, damage increases by 15%. Stacks up to 8 times."
+  },
+  {
+    "sn": "7051",
+    "name": "Special Effect",
+    "desc": "When a Demon Sword Clone is attacked, Shadow Miyazawa's Attack buffs become permanent."
+  },
+  {
+    "sn": "7052",
+    "name": "Special Effect",
+    "desc": "At the start of the action, gain 1 stack of Pan's Protection. Lose 1 stack when taking damage of a different attribute, and gain 1 stack when taking damage of the same attribute. Start with 2 stacks. Damage taken is decreased by 15% for each stack. Stacks up to 5 times."
+  },
+  {
+    "sn": "7053",
+    "name": "Special Effect",
+    "desc": "When brainwashed, damage dealt becomes normal attack damage."
+  },
+  {
+    "sn": "7054",
+    "name": "Special Effect",
+    "desc": "When entering the screen, restore 15% HP."
+  },
+  {
+    "sn": "7055",
+    "name": "Special Effect",
+    "desc": "When exiting the screen, Attack is permanently increased by 15%."
+  },
+  {
+    "sn": "7061",
+    "name": "Special Effect",
+    "desc": "When Moha uses Wing Blast, 1 additional foe will be Marked, increasing their damage taken by 25%."
+  },
+  {
+    "sn": "7062",
+    "name": "Special Effect",
+    "desc": "The required Wrath for Moha to use Rapid Ascent is reduced to 8."
+  },
+  {
+    "sn": "7063",
+    "name": "Special Effect",
+    "desc": "The damage of Moha's Sphinx Dive is greatly increased."
+  },
+  {
+    "sn": "7064",
+    "name": "Special Effect",
+    "desc": "Allies' Ballista Energy gain rate is decreased by 50%."
+  },
+  {
+    "sn": "7065",
+    "name": "Special Effect",
+    "desc": "Increase the effect of Moha's Growth, and gain Growth every turn."
+  },
+  {
+    "sn": "7071",
+    "name": "Special Effect",
+    "desc": "When Avidya uses Work Order, summon 2 additional Corporobo MDL-AM and Corporobo MDL-DM."
+  },
+  {
+    "sn": "7072",
+    "name": "Special Effect",
+    "desc": "Performance Evaluation selects 1 additional ally."
+  },
+  {
+    "sn": "7073",
+    "name": "Special Effect",
+    "desc": "Overtime Order selects 1 additional ally."
+  },
+  {
+    "sn": "7074",
+    "name": "Special Effect",
+    "desc": "When Avidya activates Selfless Devotion, 2 allies are selected at the same time, and their self-destruct damage is greatly increased."
+  },
+  {
+    "sn": "7075",
+    "name": "Special Effect",
+    "desc": "Corporobo MDL-ED's stats are greatly increased. If Corporobo MDL-ED is present when Corporobo MDL-GM is defeated, it immediately summons another Corporobo MDL-GM."
+  },
+  {
+    "sn": "8001",
+    "name": "Special Effect",
+    "desc": "All foes' Attack is increased by 10%."
+  },
+  {
+    "sn": "8002",
+    "name": "Special Effect",
+    "desc": "All foes' Attack is increased by 25%."
+  },
+  {
+    "sn": "8003",
+    "name": "Special Effect",
+    "desc": "All foes' Attack is increased by 50%."
+  },
+  {
+    "sn": "8004",
+    "name": "Special Effect",
+    "desc": "All foes' max HP is increased by 25%."
+  },
+  {
+    "sn": "8005",
+    "name": "Special Effect",
+    "desc": "All foes' max HP is increased by 50%."
+  },
+  {
+    "sn": "8006",
+    "name": "Special Effect",
+    "desc": "All foes' max HP is increased by 100%."
+  },
+  {
+    "sn": "8007",
+    "name": "Special Effect",
+    "desc": "All allies' Attack is decreased by 10%."
+  },
+  {
+    "sn": "8008",
+    "name": "Special Effect",
+    "desc": "All allies' Attack is decreased by 25%."
+  },
+  {
+    "sn": "8009",
+    "name": "Special Effect",
+    "desc": "All allies' Attack is decreased by 50%."
+  },
+  {
+    "sn": "8010",
+    "name": "Special Effect",
+    "desc": "All allies' Defense is decreased by 15%."
+  },
+  {
+    "sn": "8011",
+    "name": "Special Effect",
+    "desc": "All allies' Defense is decreased by 30%."
+  },
+  {
+    "sn": "8012",
+    "name": "Special Effect",
+    "desc": "All allies' Defense is decreased by 60%."
+  },
+  {
+    "sn": "8013",
+    "name": "Special Effect",
+    "desc": "All allies' max HP is decreased by 10%."
+  },
+  {
+    "sn": "8014",
+    "name": "Special Effect",
+    "desc": "All allies' max HP is decreased by 20%."
+  },
+  {
+    "sn": "8015",
+    "name": "Special Effect",
+    "desc": "All allies' max HP is decreased by 40%."
+  },
+  {
+    "sn": "8016",
+    "name": "Special Effect",
+    "desc": "All allies' healing effect is decreased by 20%."
+  },
+  {
+    "sn": "8017",
+    "name": "Special Effect",
+    "desc": "All allies' shield effect is decreased by 10%."
+  },
+  {
+    "sn": "8018",
+    "name": "Special Effect",
+    "desc": "Elucidator allies' prep time is increased by 2 turns."
+  },
+  {
+    "sn": "8019",
+    "name": "Special Effect",
+    "desc": "Decreases allies' Fire, Ice, Electric, and Wind damage by 40%."
+  },
+  {
+    "sn": "8020",
+    "name": "Special Effect",
+    "desc": "Decreases allies' Psy, Nuclear, Bless, and Curse damage by 40%."
+  },
+  {
+    "sn": "8021",
+    "name": "Special Effect",
+    "desc": "The Highlight gauge refills 35% slower."
+  },
+  {
+    "sn": "8022",
+    "name": "Special Effect",
+    "desc": "The Highlight gauge refills 60% slower."
+  },
+  {
+    "sn": "8023",
+    "name": "Special Effect",
+    "desc": "End the battle within 80 turns without any allies defeated."
+  },
+  {
+    "sn": "8024",
+    "name": "Special Effect",
+    "desc": "End the battle within 60 turns without any allies defeated."
+  },
+  {
+    "sn": "8025",
+    "name": "Special Effect",
+    "desc": "End the battle within 40 turns without any allies defeated."
+  },
+  {
+    "sn": "8026",
+    "name": "Special Effect",
+    "desc": "Decreases allies' Fire, Ice, Electric, and Wind damage by 80%."
+  },
+  {
+    "sn": "8027",
+    "name": "Special Effect",
+    "desc": "Decreases allies' Psy, Nuclear, Bless, and Curse damage by 80%."
+  },
+  {
+    "sn": "8028",
+    "name": "Special Effect",
+    "desc": "Elucidator allies' prep time is increased by 6 turns."
+  },
+  {
+    "sn": "8029",
+    "name": "Special Effect",
+    "desc": "All allies' healing effects are decreased by 45%."
+  },
+  {
+    "sn": "8030",
+    "name": "Special Effect",
+    "desc": "All allies' shield effects are decreased by 25%."
+  },
+  {
+    "sn": "8031",
+    "name": "Special Effect",
+    "desc": "All allies' healing effects are decreased by 100%."
+  },
+  {
+    "sn": "8032",
+    "name": "Special Effect",
+    "desc": "All allies' shield effects are decreased by 40%."
+  },
+  {
+    "sn": "8101",
+    "name": "Special Effect",
+    "desc": "The Wraith of Envy will continuously summon minions to fight."
+  },
+  {
+    "sn": "8102",
+    "name": "Special Effect",
+    "desc": "The Wraith of Envy can Lock On to 1 more target, and its max HP is increased by 80%."
+  },
+  {
+    "sn": "8103",
+    "name": "Special Effect",
+    "desc": "When the Wraith of Envy locks on to a target, its Attack increases by 10%, and the target's damage taken increases by 10%."
+  },
+  {
+    "sn": "8104",
+    "name": "Special Effect",
+    "desc": "When the Wraith of Envy locks on to a target, its Attack increases by 20%, and the target's damage taken increases by 25%."
+  },
+  {
+    "sn": "8105",
+    "name": "Special Effect",
+    "desc": "When the Wraith of Envy locks on to a target, its Attack increases by 30%, and the target's damage taken increases by 40%."
+  },
+  {
+    "sn": "8106",
+    "name": "Special Effect",
+    "desc": "The damage of the Wraith of Envy's Dark Whisper is increased by 15% and its Attack is increased by 10%."
+  },
+  {
+    "sn": "8107",
+    "name": "Special Effect",
+    "desc": "The damage of the Wraith of Envy's Dark Whisper is increased by 35% and its Attack is increased by 25%."
+  },
+  {
+    "sn": "8108",
+    "name": "Special Effect",
+    "desc": "The damage of the Wraith of Envy's Dark Whisper is increased by 60% and its Attack is increased by 40%."
+  },
+  {
+    "sn": "8109",
+    "name": "Special Effect",
+    "desc": "The Wraith of Envy gains 3 Down Points, and its max HP increases by 20%."
+  },
+  {
+    "sn": "8110",
+    "name": "Special Effect",
+    "desc": "The Wraith of Envy gains 4 Down Points, and its max HP increases by 50%."
+  },
+  {
+    "sn": "8111",
+    "name": "Special Effect",
+    "desc": "The Wraith of Envy gains 5 Down Points, and its max HP increases by 80%."
+  },
+  {
+    "sn": "8112",
+    "name": "Special Effect",
+    "desc": "When the Wraith of Envy's Eye is destroyed, it will be revived in 2 turns instead of 3. The Eye's max HP is increased by 50%."
+  },
+  {
+    "sn": "8113",
+    "name": "Special Effect",
+    "desc": "When the Wraith of Envy is Weakened, its damage taken is increased by 80% instead of 100%. Its max HP is increased by 20%."
+  },
+  {
+    "sn": "8114",
+    "name": "Special Effect",
+    "desc": "When the Wraith of Envy is Weakened, its damage taken is increased by 60% instead of 100%. Its max HP is increased by 50%."
+  },
+  {
+    "sn": "8115",
+    "name": "Special Effect",
+    "desc": "When the Wraith of Envy is Weakened, its damage taken is increased by 40% instead of 100%. Its max HP is increased by 80%."
+  },
+  {
+    "sn": "8116",
+    "name": "Special Effect",
+    "desc": "The Wraith of Envy's Berserk state gets stronger. Each turn, damage increases by 15%, and max HP increases by 30%."
+  },
+  {
+    "sn": "8117",
+    "name": "Special Effect",
+    "desc": "The Wraith of Envy's Berserk state gets stronger. Each turn, damage increases by 20%, and max HP increases by 65%."
+  },
+  {
+    "sn": "8118",
+    "name": "Special Effect",
+    "desc": "The Wraith of Envy's Berserk state gets stronger. Each turn, damage increases by 30%, and max HP increases by 120%."
+  },
+  {
+    "sn": "8119",
+    "name": "Special Effect",
+    "desc": "When the Wraith of Envy's Eye is destroyed, it will be revived in 2 turns instead of 3. The Eye's max HP is increased by 40%."
+  },
+  {
+    "sn": "8120",
+    "name": "Special Effect",
+    "desc": "When the Wraith of Envy's Eye is destroyed, it will be revived in 2 turns instead of 3. The Eye's max HP is increased by 40%."
+  },
+  {
+    "sn": "8201",
+    "name": "Special Effect",
+    "desc": "Jikokuten's Sword that Defends the Nation grants a 25% increased shield. Jikokuten's max HP is increased by 20%."
+  },
+  {
+    "sn": "8202",
+    "name": "Special Effect",
+    "desc": "Jikokuten's Sword that Defends the Nation grants a 55% increased shield. Jikokuten's max HP is increased by 50%."
+  },
+  {
+    "sn": "8203",
+    "name": "Special Effect",
+    "desc": "Jikokuten's Sword that Defends the Nation grants a 100% increased shield. Jikokuten's max HP is increased by 80%."
+  },
+  {
+    "sn": "8204",
+    "name": "Special Effect",
+    "desc": "Jikokuten's Attack increases by 10%. Targets with a shield granted by Sword that Defends the Nation have 15% increased Attack."
+  },
+  {
+    "sn": "8205",
+    "name": "Special Effect",
+    "desc": "Jikokuten's Attack increases by 25%. Targets with a shield granted by Sword that Defends the Nation have 25% increased Attack."
+  },
+  {
+    "sn": "8206",
+    "name": "Special Effect",
+    "desc": "Jikokuten's Attack increases by 40%. Targets with a shield granted by Sword that Defends the Nation have 50% increased Attack."
+  },
+  {
+    "sn": "8207",
+    "name": "Special Effect",
+    "desc": "Zouchouten's Growth of all Things increases damage by an additional 25%, and Zouchouten's Attack is increased by 10%."
+  },
+  {
+    "sn": "8208",
+    "name": "Special Effect",
+    "desc": "Zouchouten's Growth of all Things increases damage by an additional 55%, and Zouchouten's Attack is increased by 25%."
+  },
+  {
+    "sn": "8209",
+    "name": "Special Effect",
+    "desc": "Zouchouten's Growth of all Things increases damage by an additional 100%, and Zouchouten's Attack is increased by 40%."
+  },
+  {
+    "sn": "8210",
+    "name": "Special Effect",
+    "desc": "Zouchouten's Growth of all Things reduces damage taken by an additional 5%, and Zouchouten's max HP is increased by 20%."
+  },
+  {
+    "sn": "8211",
+    "name": "Special Effect",
+    "desc": "Zouchouten's Growth of all Things reduces damage taken by an additional 12.5%, and Zouchouten's max HP is increased by 50%."
+  },
+  {
+    "sn": "8212",
+    "name": "Special Effect",
+    "desc": "Zouchouten's Growth of all Things reduces damage taken by an additional 20%, and Zouchouten's max HP is increased by 100%."
+  },
+  {
+    "sn": "8213",
+    "name": "Special Effect",
+    "desc": "Targets marked by Koumokuten's Eye of Heaven take 10% increased damage. Koumokuten's Attack is increased by 10%."
+  },
+  {
+    "sn": "8214",
+    "name": "Special Effect",
+    "desc": "Targets marked by Koumokuten's Eye of Heaven take 25% increased damage. Koumokuten's Attack is increased by 25%."
+  },
+  {
+    "sn": "8215",
+    "name": "Special Effect",
+    "desc": "Targets marked by Koumokuten's Eye of Heaven take 50% increased damage. Koumokuten's Attack is increased by 40%."
+  },
+  {
+    "sn": "8216",
+    "name": "Special Effect",
+    "desc": "Koumokuten's Eye of Heaven now marks 2 targets. Koumokuten's max HP increases by 80%."
+  },
+  {
+    "sn": "8217",
+    "name": "Special Effect",
+    "desc": "Bishamonten's Parasol of Chaos changes allies' affinities to Null. Bishamonten's Attack increases by 25%."
+  },
+  {
+    "sn": "8218",
+    "name": "Special Effect",
+    "desc": "Bishamonten's Parasol of Chaos changes allies' affinities to Drain. Bishamonten's Attack increases by 40%."
+  },
+  {
+    "sn": "8219",
+    "name": "Special Effect",
+    "desc": "Bishamonten's Parasol of Chaos will target the 2 allies with the lowest HP. Bishamonten's max HP increases by 80%."
+  },
+  {
+    "sn": "8301",
+    "name": "Special Effect",
+    "desc": "The HP reduction effect of Horn of Pestilence increases by 15%, and White Rider's Attack increases by 10%."
+  },
+  {
+    "sn": "8302",
+    "name": "Special Effect",
+    "desc": "The HP reduction effect of Horn of Pestilence increases by 20%, and White Rider's Attack increases by 25%."
+  },
+  {
+    "sn": "8303",
+    "name": "Special Effect",
+    "desc": "The HP reduction effect of Horn of Pestilence increases by 30%, and White Rider's Attack increases by 40%."
+  },
+  {
+    "sn": "8304",
+    "name": "Special Effect",
+    "desc": "Horn of Pestilence now targets 2 random foes, and White Rider's max HP increases by 20%."
+  },
+  {
+    "sn": "8305",
+    "name": "Special Effect",
+    "desc": "Horn of Pestilence now targets 3 random foes, and White Rider's max HP increases by 50%."
+  },
+  {
+    "sn": "8306",
+    "name": "Special Effect",
+    "desc": "Horn of Pestilence now targets all foes, and White Rider's max HP increases by 80%."
+  },
+  {
+    "sn": "8307",
+    "name": "Special Effect",
+    "desc": "Horn of Famine increases foes' SP cost by an additional 20%, and Black Rider's Attack increases by 10%."
+  },
+  {
+    "sn": "8308",
+    "name": "Special Effect",
+    "desc": "Horn of Famine increases foes' SP cost by an additional 30%, and Black Rider's Attack increases by 25%."
+  },
+  {
+    "sn": "8309",
+    "name": "Special Effect",
+    "desc": "Horn of Famine increases foes' SP cost by an additional 50%, and Black Rider's Attack increases by 40%."
+  },
+  {
+    "sn": "8310",
+    "name": "Special Effect",
+    "desc": "Horn of Famine now targets 2 random foes, and Black Rider's max HP increases by 20%."
+  },
+  {
+    "sn": "8311",
+    "name": "Special Effect",
+    "desc": "Horn of Famine now targets 3 random foes, and Black Rider's max HP increases by 50%."
+  },
+  {
+    "sn": "8312",
+    "name": "Special Effect",
+    "desc": "Horn of Famine now targets all foes, and Black Rider's max HP increases by 80%."
+  },
+  {
+    "sn": "8313",
+    "name": "Special Effect",
+    "desc": "Horn of Death decreases skill healing by an additional 30%, and Pale Rider's Attack increases by 10%."
+  },
+  {
+    "sn": "8314",
+    "name": "Special Effect",
+    "desc": "Horn of Death decreases skill healing by an additional 50%, and Pale Rider's Attack increases by 25%."
+  },
+  {
+    "sn": "8315",
+    "name": "Special Effect",
+    "desc": "Horn of Death decreases skill healing by an additional 80%, and Pale Rider's Attack increases by 40%."
+  },
+  {
+    "sn": "8316",
+    "name": "Special Effect",
+    "desc": "Horn of Death increases damage by an additional 15%, and Pale Rider's max HP increases by 20%."
+  },
+  {
+    "sn": "8317",
+    "name": "Special Effect",
+    "desc": "Horn of Death increases damage by an additional 25%, and Pale Rider's max HP increases by 50%."
+  },
+  {
+    "sn": "8318",
+    "name": "Special Effect",
+    "desc": "Horn of Death increases damage by an additional 40%, and Pale Rider's max HP increases by 80%."
+  },
+  {
+    "sn": "8319",
+    "name": "Special Effect",
+    "desc": "While Horn of War is active, counterattack damage is increased by 50%, and Red Rider's Attack is increased by 25%."
+  },
+  {
+    "sn": "8320",
+    "name": "Special Effect",
+    "desc": "While Horn of War is active, all allies will counterattack. Red Rider's counterattack damage is increased by 50%, and its Attack is increased by 40%."
+  },
+  {
+    "sn": "8322",
+    "name": "Special Effect",
+    "desc": "AAAAAA=="
+  },
+  {
+    "sn": "8323",
+    "name": "Special Effect",
+    "desc": "AAAAAA=="
+  },
+  {
+    "sn": "8321",
+    "name": "Special Effect",
+    "desc": "The duration of Horn of War is increased by 1 turn, and Red Rider's max HP is increased by 80%."
+  }
+]

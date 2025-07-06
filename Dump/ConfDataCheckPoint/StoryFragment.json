@@ -1,0 +1,123 @@
+[
+  {
+    "sn": 1,
+    "type": 1,
+    "picture": "suipianb-1.png",
+    "param1": "suipianb-1.png",
+    "param2": "那天，我回家晚了，见到烂醉的男人正缠着一名女性\n我对此无法置之不理，所以我阻止了他，但是——\n“你个死小鬼，我一定要告你！”|\n我以为做了正确的事，结果却被迫背井离乡前往东京\n真的，是我做错了吗……？",
+    "voiceParam": "suipian1_1",
+    "soundParam": "AAAAAA==",
+    "watchAfterTxt": "那天，我以为我做了正确的事情\n结果被起诉、被迫前往东京……",
+    "preconditionSN": 0
+  },
+  {
+    "sn": 2,
+    "type": 1,
+    "picture": "suipianb-2.png",
+    "param1": "suipianb-2.png",
+    "param2": "我来到了卢布朗咖啡店\n推开门，听到清脆的风铃声\n咖啡店的老板，懒洋洋地站起身——\n“我是佐仓惣治郎。”|\n他是我在东京的监护人\n这一年的时间，我都要住在店里的二楼\n直至「观察处分」的解除|\n这段期间，我将在秀尽学园高中上学\n“再惹上事，就会被送到少年看管所。”\n佐仓惣治郎这般说道，这算是……提醒吧",
+    "voiceParam": "suipian2_1,suipian2_2",
+    "soundParam": "UI_remind_fengling",
+    "watchAfterTxt": "咖啡店老板名为「佐仓惣治郎」\n这一年的时间，我都要住在他这里",
+    "preconditionSN": 1
+  },
+  {
+    "sn": 3,
+    "type": 2,
+    "picture": "suipianb-3.png",
+    "param1": "100018",
+    "param2": "AAAAAA==",
+    "voiceParam": "AAAAAA==",
+    "soundParam": "AAAAAA==",
+    "watchAfterTxt": "上学第一天，就遇到了大雨\n在避雨的时候，我邂逅了……",
+    "preconditionSN": 2
+  },
+  {
+    "sn": 4,
+    "type": 1,
+    "picture": "suipianb-4.png",
+    "param1": "suipianb-4.png",
+    "param2": "她最后乘上车离开了\n只留下看起来很不良的少年\n“变态老师！”\n“他以为自己是城堡里的「国王」啊！”\n听上去他也是秀尽学园的学生\n……似乎有很多隐情的样子|\n“雨没那么大吧，要迟到了哦。”\n虽然看起来那样、还算是个好人嘛\n之后，我们踏上了通向学校的路……",
+    "voiceParam": "suipian4_1,suipian4_2",
+    "soundParam": "Huanjing_rain,Huanjing_rain",
+    "watchAfterTxt": "我们踏上了通向学校的路，但是\n……有什么事情，发生了",
+    "preconditionSN": 3
+  },
+  {
+    "sn": 5,
+    "type": 2,
+    "picture": "suipianb-5.png",
+    "param1": "100019",
+    "param2": "AAAAAA==",
+    "voiceParam": "AAAAAA==",
+    "soundParam": "AAAAAA==",
+    "watchAfterTxt": "高耸入云的城堡，出现在我们面前\n这里、真的是学校？",
+    "preconditionSN": 4
+  },
+  {
+    "sn": 6,
+    "type": 2,
+    "picture": "yazhitian001.png",
+    "param1": "100015",
+    "param2": "AAAAAA==",
+    "voiceParam": "AAAAAA==",
+    "soundParam": "AAAAAA==",
+    "watchAfterTxt": "AAAAAA==",
+    "preconditionSN": 0
+  },
+  {
+    "sn": 7,
+    "type": 2,
+    "picture": "yazhitian001.png",
+    "param1": "100016",
+    "param2": "AAAAAA==",
+    "voiceParam": "AAAAAA==",
+    "soundParam": "AAAAAA==",
+    "watchAfterTxt": "AAAAAA==",
+    "preconditionSN": 0
+  },
+  {
+    "sn": 8,
+    "type": 2,
+    "picture": "yazhitian001.png",
+    "param1": "100017",
+    "param2": "AAAAAA==",
+    "voiceParam": "AAAAAA==",
+    "soundParam": "AAAAAA==",
+    "watchAfterTxt": "AAAAAA==",
+    "preconditionSN": 7
+  },
+  {
+    "sn": 9,
+    "type": 2,
+    "picture": "yazhitian001.png",
+    "param1": "100018",
+    "param2": "AAAAAA==",
+    "voiceParam": "AAAAAA==",
+    "soundParam": "AAAAAA==",
+    "watchAfterTxt": "AAAAAA==",
+    "preconditionSN": 0
+  },
+  {
+    "sn": 10,
+    "type": 2,
+    "picture": "yazhitian001.png",
+    "param1": "100019",
+    "param2": "AAAAAA==",
+    "voiceParam": "AAAAAA==",
+    "soundParam": "AAAAAA==",
+    "watchAfterTxt": "AAAAAA==",
+    "preconditionSN": 0
+  },
+  {
+    "sn": 11,
+    "type": 2,
+    "picture": "yazhitian001.png",
+    "param1": "100020",
+    "param2": "AAAAAA==",
+    "voiceParam": "AAAAAA==",
+    "soundParam": "AAAAAA==",
+    "watchAfterTxt": "AAAAAA==",
+    "preconditionSN": 10
+  }
+]

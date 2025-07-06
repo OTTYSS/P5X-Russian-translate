@@ -1,0 +1,132 @@
+[
+  {
+    "sn": "CampaignStart",
+    "priority": 99,
+    "lockPlayContinue": 0
+  },
+  {
+    "sn": "Transport",
+    "priority": 80,
+    "lockPlayContinue": 0
+  },
+  {
+    "sn": "Destination",
+    "priority": 79,
+    "lockPlayContinue": 0
+  },
+  {
+    "sn": "PossibleWay",
+    "priority": 98,
+    "lockPlayContinue": 0
+  },
+  {
+    "sn": "LockedDoor",
+    "priority": 96,
+    "lockPlayContinue": 0
+  },
+  {
+    "sn": "WrongWay",
+    "priority": 97,
+    "lockPlayContinue": 0
+  },
+  {
+    "sn": "MissionComplete",
+    "priority": 105,
+    "lockPlayContinue": 0
+  },
+  {
+    "sn": "NearChest",
+    "priority": 90,
+    "lockPlayContinue": 1
+  },
+  {
+    "sn": "BadState",
+    "priority": 85,
+    "lockPlayContinue": 0
+  },
+  {
+    "sn": "OpeningChest",
+    "priority": 91,
+    "lockPlayContinue": 0
+  },
+  {
+    "sn": "OpenedChest",
+    "priority": 92,
+    "lockPlayContinue": 0
+  },
+  {
+    "sn": "HideEnemy",
+    "priority": 93,
+    "lockPlayContinue": 1
+  },
+  {
+    "sn": "FindSafeHouse",
+    "priority": 100,
+    "lockPlayContinue": 1
+  },
+  {
+    "sn": "EnterSafeHouse",
+    "priority": 1,
+    "lockPlayContinue": 0
+  },
+  {
+    "sn": "LeavePalace",
+    "priority": 0,
+    "lockPlayContinue": 0
+  },
+  {
+    "sn": "CampaignEnd",
+    "priority": 0,
+    "lockPlayContinue": 0
+  },
+  {
+    "sn": "Remind",
+    "priority": 85,
+    "lockPlayContinue": 0
+  },
+  {
+    "sn": "RemindSafeHouse",
+    "priority": 0,
+    "lockPlayContinue": 0
+  },
+  {
+    "sn": "NearTreasure",
+    "priority": 0,
+    "lockPlayContinue": 0
+  },
+  {
+    "sn": "ManyEnemy",
+    "priority": 0,
+    "lockPlayContinue": 0
+  },
+  {
+    "sn": "FewEnemy",
+    "priority": 0,
+    "lockPlayContinue": 0
+  },
+  {
+    "sn": "LockedChest",
+    "priority": 0,
+    "lockPlayContinue": 0
+  },
+  {
+    "sn": "Trap",
+    "priority": 0,
+    "lockPlayContinue": 0
+  },
+  {
+    "sn": "Mechanism",
+    "priority": 0,
+    "lockPlayContinue": 0
+  },
+  {
+    "sn": "thiefGachaSoundOne",
+    "priority": 0,
+    "lockPlayContinue": 0
+  },
+  {
+    "sn": "thiefGachaSoundTwo",
+    "priority": 0,
+    "lockPlayContinue": 0
+  }
+]

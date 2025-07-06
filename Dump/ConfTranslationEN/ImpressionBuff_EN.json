@@ -1,0 +1,627 @@
+[
+  {
+    "sn": "1100",
+    "name": "Attack Up",
+    "desc": "Base Attack +1%"
+  },
+  {
+    "sn": "1101",
+    "name": "Defense Up",
+    "desc": "Base Attack +2%"
+  },
+  {
+    "sn": "1102",
+    "name": "Critical Rate Up",
+    "desc": "Crit Rate +3%"
+  },
+  {
+    "sn": "1103",
+    "name": "Repel Damage",
+    "desc": "Repel Rate +1%"
+  },
+  {
+    "sn": "1104",
+    "name": "Resist Up",
+    "desc": "All Resist +1%"
+  },
+  {
+    "sn": "1105",
+    "name": "Accuracy Up",
+    "desc": "Skill Acc +1%"
+  },
+  {
+    "sn": "1201",
+    "name": "10% HP Recovery",
+    "desc": "Party HP Heal 10%"
+  },
+  {
+    "sn": "1202",
+    "name": "10% SP Recovery",
+    "desc": "Party SP Heal 10%"
+  },
+  {
+    "sn": "6001",
+    "name": "Weather: Thunderstorm",
+    "desc": "Shocks a random target. Crit dmg up."
+  },
+  {
+    "sn": "6011",
+    "name": "Weather: Heat Wave",
+    "desc": "Inflicts Burn on a random target. If inflicted with Burn multiple times, take damage equal to max HP."
+  },
+  {
+    "sn": "6021",
+    "name": "Weather: Pollen Warning",
+    "desc": "Gives a random debuff to a random target. Increases spiritual ailments in battle."
+  },
+  {
+    "sn": "6031",
+    "name": "Weather: Flu Season",
+    "desc": "Elemental ailment resist up. Shadows may be affected by Influenza: Become Berserk, greatly increasing Attack, but die after a few turns."
+  },
+  {
+    "sn": "6041",
+    "name": "Weather: Clear",
+    "desc": "Random buff on a random target. When foe's defense is decreased, random buffs are removed, and damage taken up."
+  },
+  {
+    "sn": "61011",
+    "name": "Critical Rate 1",
+    "desc": "Crit Rate +10%"
+  },
+  {
+    "sn": "61021",
+    "name": "Critical Rate 2",
+    "desc": "Crit Dmg +20%"
+  },
+  {
+    "sn": "61031",
+    "name": "Critical Rate 3",
+    "desc": "When defeating a Shocked foe, heal 35% HP"
+  },
+  {
+    "sn": "61041",
+    "name": "Critical Rate 4",
+    "desc": "When foes take Critical hits, Defense down"
+  },
+  {
+    "sn": "61012",
+    "name": "Critical Rate 1",
+    "desc": "Crit Rate +10%"
+  },
+  {
+    "sn": "61022",
+    "name": "Critical Rate 2",
+    "desc": "Increases critical damage by 20%."
+  },
+  {
+    "sn": "61032",
+    "name": "Critical Rate 3",
+    "desc": "When defeating a Shocked foe, heal 35% HP"
+  },
+  {
+    "sn": "61042",
+    "name": "Critical Rate 4",
+    "desc": "When foes take Critical hits, Defense down"
+  },
+  {
+    "sn": "61013",
+    "name": "Critical Rate 1",
+    "desc": "Crit Rate +10%"
+  },
+  {
+    "sn": "61023",
+    "name": "Critical Rate 2",
+    "desc": "Crit Dmg +20%"
+  },
+  {
+    "sn": "61033",
+    "name": "Critical Rate 3",
+    "desc": "When defeating a Shocked foe, heal 35% HP"
+  },
+  {
+    "sn": "61043",
+    "name": "Critical Rate 4",
+    "desc": "When foes take Critical hits, Defense down"
+  },
+  {
+    "sn": "6105",
+    "name": "Critical Rate Set 2",
+    "desc": "Critical hits gain bonus DMG and restore HP"
+  },
+  {
+    "sn": "6106",
+    "name": "Critical Rate Set 4",
+    "desc": "After dealing a critical hit, increase critical damage by 10%, up to a maximum of 50% (activates once per skill)."
+  },
+  {
+    "sn": "61111",
+    "name": "Giant Killer 1",
+    "desc": "Skill attacks have a chance to Burn targets."
+  },
+  {
+    "sn": "61121",
+    "name": "Giant Killer 2",
+    "desc": "After using a skill, insta-kill enemies that have less than 10% HP remaining (excluding bosses)."
+  },
+  {
+    "sn": "61131",
+    "name": "Giant Killer 3",
+    "desc": "Fire attacks deal increased damage to enemies and decrease their Attack. Lasts for 2 turns."
+  },
+  {
+    "sn": "61141",
+    "name": "Giant Killer 4",
+    "desc": "Increases damage when target's HP is higher than yours."
+  },
+  {
+    "sn": "61112",
+    "name": "Giant Killer 1",
+    "desc": "Skill attacks have a chance of Burning targets."
+  },
+  {
+    "sn": "61122",
+    "name": "Giant Killer 2",
+    "desc": "After using a skill, insta-kill enemies that have less than 10% HP remaining (excluding bosses)."
+  },
+  {
+    "sn": "61132",
+    "name": "Giant Killer 3",
+    "desc": "Fire attacks deal increased damage to enemies and decrease their Attack. Lasts for 2 turns."
+  },
+  {
+    "sn": "61142",
+    "name": "Giant Killer 4",
+    "desc": "Increases damage when target's HP is higher than yours."
+  },
+  {
+    "sn": "61113",
+    "name": "Giant Killer 1",
+    "desc": "Skill attacks have a chance of Burning targets."
+  },
+  {
+    "sn": "61123",
+    "name": "Giant Killer 2",
+    "desc": "After using a skill, insta-kill enemies that have less than 10% HP remaining (excluding bosses)."
+  },
+  {
+    "sn": "61133",
+    "name": "Giant Killer 3",
+    "desc": "Fire attacks deal increased damage to enemies and decrease their Attack. Lasts for 2 turns."
+  },
+  {
+    "sn": "61143",
+    "name": "Giant Killer 4",
+    "desc": "Increases damage when target's HP is higher than yours."
+  },
+  {
+    "sn": "6115",
+    "name": "Giant Killer Set 2",
+    "desc": "Increase damage by 2% for every 10% of the opponent's max HP higher than yours, up to a maximum of 30%."
+  },
+  {
+    "sn": "6116",
+    "name": "Giant Killer Set 4",
+    "desc": "When attacking with an active skill, inflict Bleed and deal 10% damage, up to a maximum of 2000 HP."
+  },
+  {
+    "sn": "61211",
+    "name": "Healing 1",
+    "desc": "Healing & Shield Bonus Up"
+  },
+  {
+    "sn": "61221",
+    "name": "Healing 2",
+    "desc": "Healing Received/Shield Received Bonus Up"
+  },
+  {
+    "sn": "61231",
+    "name": "Healing 3",
+    "desc": "Grants a shield when you receive healing"
+  },
+  {
+    "sn": "61241",
+    "name": "Healing 4",
+    "desc": "Attack increases when you receive healing or a shield. Stackable."
+  },
+  {
+    "sn": "61212",
+    "name": "Healing 1",
+    "desc": "Healing & Shield Bonus Up"
+  },
+  {
+    "sn": "61222",
+    "name": "Healing 2",
+    "desc": "Healing Received/Shield Received Bonus Up"
+  },
+  {
+    "sn": "61232",
+    "name": "Healing 3",
+    "desc": "Grants a shield when you receive healing"
+  },
+  {
+    "sn": "61242",
+    "name": "Healing 4",
+    "desc": "Attack increases when you receive healing or a shield. Stackable."
+  },
+  {
+    "sn": "61213",
+    "name": "Healing 1",
+    "desc": "Healing & Shield Bonus Up"
+  },
+  {
+    "sn": "61223",
+    "name": "Healing 2",
+    "desc": "Healing Received/Shield Received Bonus Up"
+  },
+  {
+    "sn": "61233",
+    "name": "Healing 3",
+    "desc": "Grants a shield when you receive healing"
+  },
+  {
+    "sn": "61243",
+    "name": "Healing 4",
+    "desc": "Attack increases when you receive healing or a shield. Stackable."
+  },
+  {
+    "sn": "6125",
+    "name": "Healing Set 2",
+    "desc": "When HP is above 70%, increase Attack and Defense."
+  },
+  {
+    "sn": "6126",
+    "name": "Healing Set 4",
+    "desc": "The attribute bonus of the 2-piece set is doubled. Nullify insta-kill damage one time, and restore 25% HP (once per battle)."
+  },
+  {
+    "sn": "61311",
+    "name": "Status Ailment 1",
+    "desc": "Ailment Accuracy"
+  },
+  {
+    "sn": "61321",
+    "name": "Status Ailment 2",
+    "desc": "Decreases Attack of enemies with debuffs."
+  },
+  {
+    "sn": "61331",
+    "name": "Status Ailment 3",
+    "desc": "At the start of battle, Phantom Thieves have greatly increased ailment accuracy for 1 turn."
+  },
+  {
+    "sn": "61341",
+    "name": "Status Ailment 4",
+    "desc": "At the start of battle, enemies' damage is decreased for 1 turn."
+  },
+  {
+    "sn": "61312",
+    "name": "Status Ailment 1",
+    "desc": "Ailment Accuracy"
+  },
+  {
+    "sn": "61322",
+    "name": "Status Ailment 2",
+    "desc": "Decreases Attack of enemies with debuffs."
+  },
+  {
+    "sn": "61332",
+    "name": "Status Ailment 3",
+    "desc": "At the start of battle, Phantom Thieves have greatly increased ailment accuracy for 1 turn."
+  },
+  {
+    "sn": "61342",
+    "name": "Status Ailment 4",
+    "desc": "At the start of battle, enemies' damage is decreased for 1 turn."
+  },
+  {
+    "sn": "61313",
+    "name": "Status Ailment 1",
+    "desc": "Ailment Accuracy"
+  },
+  {
+    "sn": "61323",
+    "name": "Status Ailment 2",
+    "desc": "Decreases Attack of enemies with debuffs."
+  },
+  {
+    "sn": "61333",
+    "name": "Status Ailment 3",
+    "desc": "At the start of battle, Phantom Thieves have greatly increased ailment accuracy for 1 turn."
+  },
+  {
+    "sn": "61343",
+    "name": "Status Ailment 4",
+    "desc": "At the start of battle, enemies' damage is decreased for 1 turn."
+  },
+  {
+    "sn": "6135",
+    "name": "Status Ailment Set 2",
+    "desc": "When attacking, damage is increased based on number of debuffs the target has."
+  },
+  {
+    "sn": "6136",
+    "name": "Status Ailment Set 4",
+    "desc": "Permanently increases all allies' Attack when inflicted an elemental or spiritual ailment in battle. Can be stacked up to 5 times."
+  },
+  {
+    "sn": "61411",
+    "name": "Armor Break 1",
+    "desc": "When enemies' Defense is decreased, increase damage taken by 8%. Lasts for 2 turns."
+  },
+  {
+    "sn": "61421",
+    "name": "Armor Break 2",
+    "desc": "When the enemy's Defense decreases, increase Phantom Thieves' Defense by 7%. Stacks up to 3 times. Each stack is calculated individually. Lasts for 2 turns."
+  },
+  {
+    "sn": "61431",
+    "name": "Armor Break 3",
+    "desc": "When the enemy's Defense decreases, permanently increase Phantom Thieves' Defense by 4%. Stacks up to 5 times."
+  },
+  {
+    "sn": "61441",
+    "name": "Armor Break 4",
+    "desc": "When an enemy first takes damage, decrease their Defense by 25%. Lasts for 2 turns."
+  },
+  {
+    "sn": "61412",
+    "name": "Armor Break 1",
+    "desc": "When decreasing a foe's Defense, increases damage taken by 8%. Lasts for 2 turns."
+  },
+  {
+    "sn": "61422",
+    "name": "Armor Break 2",
+    "desc": "When decreasing a foe's Defense, increases an ally Phantom Thief's Defense by 7%. Can be stacked up to 3 times. Lasts for 2 turns."
+  },
+  {
+    "sn": "61432",
+    "name": "Armor Break 3",
+    "desc": "When decreasing a foe's Defense, permanently decreases Defense by 4%. Can be stacked up to 5 times."
+  },
+  {
+    "sn": "61442",
+    "name": "Armor Break 4",
+    "desc": "When a foe first takes an attack, decreases Defense by 25%. Lasts for 2 turns."
+  },
+  {
+    "sn": "61413",
+    "name": "Armor Break 1",
+    "desc": "When decreasing a foe's Defense, increases damage taken by 8%. Lasts for 2 turns."
+  },
+  {
+    "sn": "61423",
+    "name": "Armor Break 2",
+    "desc": "When decreasing a foe's Defense, increases an ally Phantom Thief's Defense by 7%. Can be stacked up to 3 times. Lasts for 2 turns."
+  },
+  {
+    "sn": "61433",
+    "name": "Armor Break 3",
+    "desc": "When the enemy's Defense decreases, permanently increase Phantom Thieves' Defense by 4%. Stacks up to 5 times."
+  },
+  {
+    "sn": "61443",
+    "name": "Armor Break 4",
+    "desc": "When a foe first takes an attack, decreases Defense by 25%. Lasts for 2 turns."
+  },
+  {
+    "sn": "6145",
+    "name": "Armor Break Set 2",
+    "desc": "At the start of battle, decreases all enemies' Defense by 20%."
+  },
+  {
+    "sn": "6146",
+    "name": "Armor Break Set 4",
+    "desc": "Deal additional damage to foes with reduced Defense. The more reduced the Defense, the more damage dealt."
+  },
+  {
+    "sn": "61511",
+    "name": "Lunge 1",
+    "desc": "Increases Attack % for first 2 turns."
+  },
+  {
+    "sn": "61521",
+    "name": "Lunge 2",
+    "desc": "Increases Defense % for first 2 turns."
+  },
+  {
+    "sn": "61531",
+    "name": "Lunge 3",
+    "desc": "Grants a damage/healing bonus for each Phantom Thief on their first attack in battle."
+  },
+  {
+    "sn": "61541",
+    "name": "Lunge 4",
+    "desc": "Increases party's Attack for two turns when a foe is killed. Can stack twice and each turn is counted separately."
+  },
+  {
+    "sn": "61512",
+    "name": "Lunge 1",
+    "desc": "Increases Attack % for first 2 turns."
+  },
+  {
+    "sn": "61522",
+    "name": "Lunge 2",
+    "desc": "Increases Defense % for first 2 turns."
+  },
+  {
+    "sn": "61532",
+    "name": "Lunge 3",
+    "desc": "Grants a damage/healing bonus for each Phantom Thief on their first attack in battle."
+  },
+  {
+    "sn": "61542",
+    "name": "Lunge 4",
+    "desc": "Increases party's Attack for two turns when a foe is killed. Can stack twice and each turn is counted separately."
+  },
+  {
+    "sn": "61513",
+    "name": "Lunge 1",
+    "desc": "Increases Attack % for first 2 turns."
+  },
+  {
+    "sn": "61523",
+    "name": "Lunge 2",
+    "desc": "Increases Defense % for first 2 turns."
+  },
+  {
+    "sn": "61533",
+    "name": "Lunge 3",
+    "desc": "Grants a damage/healing bonus for each Phantom Thief on their first attack in battle."
+  },
+  {
+    "sn": "61543",
+    "name": "Lunge 4",
+    "desc": "Increases party's Attack for two turns when a foe is killed. Can stack twice and each turn is counted separately."
+  },
+  {
+    "sn": "6155",
+    "name": "Lunge Set 2",
+    "desc": "Attack is greatly increased for the first two turns. This buff is reapplied on each of the party's next 5 turns."
+  },
+  {
+    "sn": "6156",
+    "name": "Lunge Set 4",
+    "desc": "For the first 2 turns, damage is greatly increased. Defeating a foe will extend this buff. When leveled up, increase critical hit rate."
+  },
+  {
+    "sn": "61611",
+    "name": "Growth 1",
+    "desc": "Attack Up each turn."
+  },
+  {
+    "sn": "61621",
+    "name": "Growth 2",
+    "desc": "Defense Up each turn."
+  },
+  {
+    "sn": "61631",
+    "name": "Growth 3",
+    "desc": "Increases Attack for each buff."
+  },
+  {
+    "sn": "61641",
+    "name": "Growth 4",
+    "desc": "Applies buff on party's first turn."
+  },
+  {
+    "sn": "61612",
+    "name": "Growth 1",
+    "desc": "Attack Up each turn."
+  },
+  {
+    "sn": "61622",
+    "name": "Growth 2",
+    "desc": "Defense Up each turn."
+  },
+  {
+    "sn": "61632",
+    "name": "Growth 3",
+    "desc": "Increases Attack for each buff."
+  },
+  {
+    "sn": "61642",
+    "name": "Growth 4",
+    "desc": "Applies buff on allies' first turn."
+  },
+  {
+    "sn": "61613",
+    "name": "Growth 1",
+    "desc": "Attack Up each turn."
+  },
+  {
+    "sn": "61623",
+    "name": "Growth 2",
+    "desc": "Defense Up each turn."
+  },
+  {
+    "sn": "61633",
+    "name": "Growth 3",
+    "desc": "Increases Attack for each buff."
+  },
+  {
+    "sn": "61643",
+    "name": "Growth 4",
+    "desc": "Applies buff on allies' first turn."
+  },
+  {
+    "sn": "6165",
+    "name": "Growth Set 2",
+    "desc": "When attacking, increases Attack or Healing based on current amount of buffs."
+  },
+  {
+    "sn": "6166",
+    "name": "Growth Set 4",
+    "desc": "Increases party's Attack, Defense, and main attribute at the start of battle. Applies a random buff on each subsequent turn."
+  },
+  {
+    "sn": "61711",
+    "name": "Inferno 1",
+    "desc": "Enemies with less than 50% HP take increased damage."
+  },
+  {
+    "sn": "61721",
+    "name": "Inferno",
+    "desc": "Recover HP when attacking a target with Recovery Block."
+  },
+  {
+    "sn": "61731",
+    "name": "Inferno 3",
+    "desc": "Increases critical rate when using Fire skills."
+  },
+  {
+    "sn": "61741",
+    "name": "Inferno 4",
+    "desc": "Increases party's overall Fire damage any time Fire damage is dealt to enemies. Stacks up to 3 times."
+  },
+  {
+    "sn": "61712",
+    "name": "Inferno 1",
+    "desc": "Enemies with 50% HP or less take higher damage."
+  },
+  {
+    "sn": "61722",
+    "name": "Inferno",
+    "desc": "Recover HP when attacking a target with Recovery Block."
+  },
+  {
+    "sn": "61732",
+    "name": "Inferno 3",
+    "desc": "Increases critical rate when using Fire skills."
+  },
+  {
+    "sn": "61742",
+    "name": "Inferno 4",
+    "desc": "Increases party's overall Fire damage any time Fire damage is dealt to enemies. Stacks up to 3 times."
+  },
+  {
+    "sn": "61713",
+    "name": "Inferno 1",
+    "desc": "Enemies with 50% HP or less take higher damage."
+  },
+  {
+    "sn": "61723",
+    "name": "Inferno",
+    "desc": "Recover HP when attacking a target with Recovery Block."
+  },
+  {
+    "sn": "61733",
+    "name": "Inferno 3",
+    "desc": "Increases critical rate when using Fire skills."
+  },
+  {
+    "sn": "61743",
+    "name": "Inferno 4",
+    "desc": "Increases party's overall Fire damage any time Fire damage is dealt to enemies. Stacks up to 3 times."
+  },
+  {
+    "sn": "6175",
+    "name": "Inferno Set 2",
+    "desc": "Increases Attack based on the total number of foes."
+  },
+  {
+    "sn": "6176",
+    "name": "Inferno Set 4",
+    "desc": "Permanently increases Fire damage after defeating a foe with Fire damage. Can carry over into next battle."
+  }
+]

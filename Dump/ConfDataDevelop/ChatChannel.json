@@ -1,0 +1,41 @@
+[
+  {
+    "sn": 2,
+    "channel": "world",
+    "name": "论坛",
+    "type": 1,
+    "input": 1,
+    "interval": 3,
+    "wordLimit": 60,
+    "saveLimit": 50,
+    "saveDays": 3,
+    "miniPic": "pindao-shijie-i18n.png",
+    "miniColor": "2899FF"
+  },
+  {
+    "sn": 4,
+    "channel": "union",
+    "name": "乐园",
+    "type": 2,
+    "input": 1,
+    "interval": 3,
+    "wordLimit": 60,
+    "saveLimit": 100,
+    "saveDays": 0,
+    "miniPic": "pindao-lianmeng-i18n.png",
+    "miniColor": "EC1919"
+  },
+  {
+    "sn": 8,
+    "channel": "private",
+    "name": "私聊",
+    "type": 2,
+    "input": 1,
+    "interval": 3,
+    "wordLimit": 60,
+    "saveLimit": 1000,
+    "saveDays": 0,
+    "miniPic": "pindao-haoyou-i18n.png",
+    "miniColor": "FE7EC8"
+  }
+]

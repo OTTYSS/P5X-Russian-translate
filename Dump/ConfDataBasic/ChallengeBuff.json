@@ -1,0 +1,172 @@
+[
+  {
+    "sn": 1,
+    "buffName": "沉积冗气",
+    "buffDesc": "在战斗中获得<link=\"dc|237\"><u>『稳定领域』</u></link>效果；进入战斗时，所有怪盗获得2层<link=\"dc|999\"><u>『强化印记』</u></link>；回合结束时，自动消除1层；每次打出弱点伤害时，获得1层。",
+    "buffPic": "tianerong-tiaozhan-buff-baopoyaoji01.png",
+    "buffSoleplate": "tianerong-buffbg-cheng.png",
+    "buffColor": "#C77A18",
+    "buffGroup": 0,
+    "buffSn": 0
+  },
+  {
+    "sn": 2,
+    "buffName": "坍塌预警",
+    "buffDesc": "在战斗中获得<link=\"dc|237\"><u>『稳定领域』</u></link>效果；使用人格面具技能或触发追加效果时，获得1层『强化印记』，最多可叠加3层；全体怪盗行动一轮后，获得『强化印记』层数*15%的伤害加成并移除1层『强化印记』。",
+    "buffPic": "tianerong-tiaozhan-buff-zuantanjixie01.png",
+    "buffSoleplate": "tianerong-buffbg-cheng.png",
+    "buffColor": "#C77A18",
+    "buffGroup": 0,
+    "buffSn": 0
+  },
+  {
+    "sn": 3,
+    "buffName": "结晶辐射",
+    "buffDesc": "在战斗中获得<link=\"dc|237\"><u>『稳定领域』</u></link>效果；回合开始时，每有一个最大生命值提升的效果，获得1层『强化印记』；触发追加效果造成伤害时，获得1层『强化印记』；『强化印记』：每层提供10%的伤害加成，最多可叠加3层。",
+    "buffPic": "tianerong-tiaozhan-buff-wuxiantongxun01.png",
+    "buffSoleplate": "tianerong-buffbg-cheng.png",
+    "buffColor": "#C77A18",
+    "buffGroup": 0,
+    "buffSn": 0
+  },
+  {
+    "sn": 4,
+    "buffName": "岩层磁暴",
+    "buffDesc": "在战斗中获得<link=\"dc|237\"><u>『稳定领域』</u></link>效果；触发追加效果造成伤害时，为目标添加1层<link=\"dc|171\"><u>『磁能干扰』</u></link>；使用人格面具技能治疗队友时，为随机一个敌方单位添加1层<link=\"dc|171\"><u>『磁能干扰』</u></link>。",
+    "buffPic": "tianerong-tiaozhan-buff-zhaomingsheshi01.png",
+    "buffSoleplate": "tianerong-buffbg-cheng.png",
+    "buffColor": "#C77A18",
+    "buffGroup": 0,
+    "buffSn": 0
+  },
+  {
+    "sn": 5,
+    "buffName": "阴阳之力",
+    "buffDesc": "优越怪盗的群体增益技能会额外为所有友方怪盗添加<link=\"dc|175\"><u>『阳之力』</u></link>；屈从怪盗的群体减益技能会额外为所有友方怪盗添加<link=\"dc|176\"><u>『阴之力』</u></link>。",
+    "buffPic": "tianerong-tiaozhan-buff-baopoyaoji01.png",
+    "buffSoleplate": "tianerong-buffbg-cheng.png",
+    "buffColor": "#C77A18",
+    "buffGroup": 0,
+    "buffSn": 0
+  },
+  {
+    "sn": 6,
+    "buffName": "元素侵袭",
+    "buffDesc": "所有怪盗行动完一轮后，对敌方全体施加一种元素异常，并使其受到的伤害提升10%。",
+    "buffPic": "tianerong-tiaozhan-buff-zhaomingsheshi01.png",
+    "buffSoleplate": "tianerong-buffbg-cheng.png",
+    "buffColor": "#C77A18",
+    "buffGroup": 0,
+    "buffSn": 0
+  },
+  {
+    "sn": 7,
+    "buffName": "神秘祭火",
+    "buffDesc": "解明怪盗对在场怪盗的『属性提升』效果提升至30%。",
+    "buffPic": "tianerong-tiaozhan-buff-zhaomingsheshi01.png",
+    "buffSoleplate": "tianerong-buffbg-cheng.png",
+    "buffColor": "#C77A18",
+    "buffGroup": 0,
+    "buffSn": 0
+  },
+  {
+    "sn": 8,
+    "buffName": "心灵信标",
+    "buffDesc": "任意怪盗释放HIGHLIGHT技能时，使所有同伴获得1层<link=\"dc|189\"><u>『增幅印记』</u></link>。",
+    "buffPic": "tianerong-tiaozhan-buff-zhaomingsheshi01.png",
+    "buffSoleplate": "tianerong-buffbg-cheng.png",
+    "buffColor": "#C77A18",
+    "buffGroup": 0,
+    "buffSn": 0
+  },
+  {
+    "sn": 9,
+    "buffName": "血祭圣仪",
+    "buffDesc": "友方怪盗消耗自身生命释放技能时，为自己添加4层<link=\"dc|191\"><u>『血之赐福』</u></link>，回合结束时移除1层<link=\"dc|191\"><u>『血之赐福』</u></link>；任意怪盗释放HIGHLIGHT技能时，为所有同伴添加2层<link=\"dc|191\"><u>『血之赐福』</u></link>。",
+    "buffPic": "tianerong-tiaozhan-buff-celiangyi01.png",
+    "buffSoleplate": "tianerong-buffbg-cheng.png",
+    "buffColor": "#C77A18",
+    "buffGroup": 0,
+    "buffSn": 0
+  },
+  {
+    "sn": 10,
+    "buffName": "地脉图腾",
+    "buffDesc": "使用追加效果造成伤害、使用追加效果治疗同伴或消耗自身生命释放技能时，为所有同伴添加1层<link=\"dc|195\"><u>『精神链接』</u></link>。",
+    "buffPic": "tianerong-tiaozhan-buff-baopoyaoji01.png",
+    "buffSoleplate": "tianerong-buffbg-cheng.png",
+    "buffColor": "#C77A18",
+    "buffGroup": 0,
+    "buffSn": 0
+  },
+  {
+    "sn": 11,
+    "buffName": "地窟追猎",
+    "buffDesc": "使用追加效果造成伤害时，自身获得『野性之怒』；『野性之怒』：最终伤害提升20%，最多可叠加2层，持续2回合（每层独立计算）。",
+    "buffPic": "tianerong-tiaozhan-buff-celiangyi01.png",
+    "buffSoleplate": "tianerong-buffbg-cheng.png",
+    "buffColor": "#C77A18",
+    "buffGroup": 0,
+    "buffSn": 0
+  },
+  {
+    "sn": 12,
+    "buffName": "血祭圣仪",
+    "buffDesc": "友方怪盗消耗自身生命释放技能时，为自己添加1层<link=\"dc|200\"><u>『血祭祝福』</u></link>。",
+    "buffPic": "tianerong-tiaozhan-buff-celiangyi01.png",
+    "buffSoleplate": "tianerong-buffbg-cheng.png",
+    "buffColor": "#C77A18",
+    "buffGroup": 0,
+    "buffSn": 0
+  },
+  {
+    "sn": 13,
+    "buffName": "声呐脉冲",
+    "buffDesc": "解明怪盗对在场怪盗的『属性提升』效果提升至30%。怪盗打出弱点伤害时，自身获得『增幅震荡』。『增幅震荡』：最终伤害提升40%，持续2回合。",
+    "buffPic": "tianerong-tiaozhan-buff-wuxiantongxun01.png",
+    "buffSoleplate": "tianerong-buffbg-cheng.png",
+    "buffColor": "#C77A18",
+    "buffGroup": 0,
+    "buffSn": 0
+  },
+  {
+    "sn": 14,
+    "buffName": "混沌磁场",
+    "buffDesc": "怪盗获得护盾时，自己获得1层<link=\"dc|204\"><u>『蓄能力场』</u></link>，怪盗打出弱点伤害时，自己获得1层<link=\"dc|204\"><u>『蓄能力场』</u></link>。",
+    "buffPic": "tianerong-tiaozhan-buff-wuxiantongxun01.png",
+    "buffSoleplate": "tianerong-buffbg-cheng.png",
+    "buffColor": "#C77A18",
+    "buffGroup": 0,
+    "buffSn": 0
+  },
+  {
+    "sn": 15,
+    "buffName": "相位干扰",
+    "buffDesc": "怪盗打出弱点伤害时，自己获得4层<link=\"dc|205\"><u>『蓄能力场』</u></link>，怪盗获得护盾时，自己获得1层<link=\"dc|205\"><u>『蓄能力场』</u></link>。",
+    "buffPic": "tianerong-tiaozhan-buff-jinxingweilan01.png",
+    "buffSoleplate": "tianerong-buffbg-cheng.png",
+    "buffColor": "#C77A18",
+    "buffGroup": 0,
+    "buffSn": 0
+  },
+  {
+    "sn": 16,
+    "buffName": "引力黯波",
+    "buffDesc": "进入战斗时，所有怪盗获得2层<link=\"dc|208\"><u>『电磁解离』</u></link>；回合结束时，自动消除1层；每次打出弱点伤害时，获得1层。",
+    "buffPic": "tianerong-tiaozhan-buff-wuxiantongxun01.png",
+    "buffSoleplate": "tianerong-buffbg-cheng.png",
+    "buffColor": "#C77A18",
+    "buffGroup": 0,
+    "buffSn": 0
+  },
+  {
+    "sn": 17,
+    "buffName": "超限崩解",
+    "buffDesc": "人格面具技能或追加效果每次造成伤害时，使自己获得1层『深化活性』。『深化活性』：每层提供5%的最终伤害加成,持续2回合,最多可叠加8层。",
+    "buffPic": "tianerong-tiaozhan-buff-celiangyi01.png",
+    "buffSoleplate": "tianerong-buffbg-cheng.png",
+    "buffColor": "#C77A18",
+    "buffGroup": 0,
+    "buffSn": 0
+  }
+]

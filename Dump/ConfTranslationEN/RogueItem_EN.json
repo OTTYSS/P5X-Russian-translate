@@ -1,0 +1,612 @@
+[
+  {
+    "sn": "1",
+    "name": "Lucky Cat",
+    "text": "Receive 100% more Railway Coins after winning a battle. Effect lasts for 5 platforms.",
+    "text0": "A slightly unusual lucky cat said to bring good luck.",
+    "text3": "AAAAAA==",
+    "text2": "AAAAAA==",
+    "text5": "AAAAAA==",
+    "text4": "AAAAAA=="
+  },
+  {
+    "sn": "2",
+    "name": "Bankrupt Checkbook",
+    "text": "For every 100 Railway Coins collected, all Phantom Thieves' Attack increases by 5.5%.",
+    "text0": "An old bankbook with a balance of zero yen.",
+    "text3": "Current Enhancement: %%s",
+    "text2": "AAAAAA==",
+    "text5": "AAAAAA==",
+    "text4": "AAAAAA=="
+  },
+  {
+    "sn": "3",
+    "name": "Promising Bonds",
+    "text": "Receive more Railway Coins after winning a battle.",
+    "text0": "A promising bond that seems to provide a good return on investment.",
+    "text3": "AAAAAA==",
+    "text2": "AAAAAA==",
+    "text5": "AAAAAA==",
+    "text4": "AAAAAA=="
+  },
+  {
+    "sn": "4",
+    "name": "Piggy Bank",
+    "text": "Increase your current Railway Coins by 100%, but receive no Railway Coins for the next 5 platforms.",
+    "text0": "A savings box shaped like a pig.",
+    "text3": "AAAAAA==",
+    "text2": "Effective after %s stations",
+    "text5": "AAAAAA==",
+    "text4": "AAAAAA=="
+  },
+  {
+    "sn": "5",
+    "name": "Stolen Painting",
+    "text": "Lose all of your current Railway Coins. Increases all Phantom Thieves' damage dealt by 10% for every 100 coins lost.",
+    "text0": "A famous painting that seems strange. It is said to be real, but something about it feels off.",
+    "text3": "Current Enhancement: %%s",
+    "text2": "AAAAAA==",
+    "text5": "AAAAAA==",
+    "text4": "AAAAAA=="
+  },
+  {
+    "sn": "6",
+    "name": "Winning Ticket",
+    "text": "The next time you win a battle, you are guaranteed to receive an Orange Charm.",
+    "text0": "A scratch-off ticket where you match up identical pictures. Looks to be a winner.",
+    "text3": "AAAAAA==",
+    "text2": "AAAAAA==",
+    "text5": "AAAAAA==",
+    "text4": "AAAAAA=="
+  },
+  {
+    "sn": "7",
+    "name": "Schrödinger's Box",
+    "text": "Receive 1-2 Blue Charms.",
+    "text0": "A box filled with quantum mysteries. It is said that its contents are unknown until the box is opened.",
+    "text3": "AAAAAA==",
+    "text2": "AAAAAA==",
+    "text5": "AAAAAA==",
+    "text4": "AAAAAA=="
+  },
+  {
+    "sn": "8",
+    "name": "Mood-Changing Meds",
+    "text": "When selecting Charms after battle, gain 1 free refresh.",
+    "text0": "A strange medicine that can instantly change your mood.",
+    "text3": "AAAAAA==",
+    "text2": "AAAAAA==",
+    "text5": "AAAAAA==",
+    "text4": "AAAAAA=="
+  },
+  {
+    "sn": "9",
+    "name": "Lucky Clover",
+    "text": "When selecting Charms after battle, you will have 1 additional option.",
+    "text0": "A charming clover that guarantees good luck to its owner.",
+    "text3": "AAAAAA==",
+    "text2": "AAAAAA==",
+    "text5": "AAAAAA==",
+    "text4": "AAAAAA=="
+  },
+  {
+    "sn": "10",
+    "name": "Ouija Board",
+    "text": "After the next 3 battles, perform <link=\"s|1013\"><u>Charm Strengthening</u></link> on 1 of your Charms.",
+    "text0": "An old tool necessary for carrying out forbidden rituals.",
+    "text3": "AAAAAA==",
+    "text2": "AAAAAA==",
+    "text5": "AAAAAA==",
+    "text4": "AAAAAA=="
+  },
+  {
+    "sn": "11",
+    "name": "Magic Lamp",
+    "text": "Perform <link=\"s|1013\"><u>Charm Strengthening</u></link> on 1-5 of your Charms.",
+    "text0": "A teapot-shaped lamp that grants wishes to those who rub it.",
+    "text3": "AAAAAA==",
+    "text2": "AAAAAA==",
+    "text5": "AAAAAA==",
+    "text4": "AAAAAA=="
+  },
+  {
+    "sn": "12",
+    "name": "Mystical Crystal Ball",
+    "text": "Randomly change 1 of your Charms into another Charm.",
+    "text0": "A crystal ball emanating a mysterious power.",
+    "text3": "AAAAAA==",
+    "text2": "AAAAAA==",
+    "text5": "AAAAAA==",
+    "text4": "AAAAAA=="
+  },
+  {
+    "sn": "15",
+    "name": "Extra Wallet",
+    "text": "Receive 60 Railway Coins.",
+    "text0": "A spare wallet with some loose change inside.",
+    "text3": "AAAAAA==",
+    "text2": "AAAAAA==",
+    "text5": "AAAAAA==",
+    "text4": "AAAAAA=="
+  },
+  {
+    "sn": "16",
+    "name": "Super Express Meal",
+    "text": "After battle, fully recovers HP of all allies.",
+    "text0": "A meal delivered extremely fast. Its contents change daily.",
+    "text3": "AAAAAA==",
+    "text2": "AAAAAA==",
+    "text5": "AAAAAA==",
+    "text4": "AAAAAA=="
+  },
+  {
+    "sn": "17",
+    "name": "Hardy Pocket Watch",
+    "text": "If you lose a battle, it will count as a victory, and all allies will be healed to max HP. Only works once.",
+    "text0": "A broken pocket watch imbued with the owner's obsession.",
+    "text3": "AAAAAA==",
+    "text2": "AAAAAA==",
+    "text5": "AAAAAA==",
+    "text4": "AAAAAA=="
+  },
+  {
+    "sn": "20",
+    "name": "Prayer Mushrooms",
+    "text": "Receive 1 <link=\"rg|1008\"><u>Prayer Magatama</u></link>.",
+    "text0": "A mystical mushroom containing the power of prayer. Also tastes good.",
+    "text3": "AAAAAA==",
+    "text2": "AAAAAA==",
+    "text5": "AAAAAA==",
+    "text4": "AAAAAA=="
+  },
+  {
+    "sn": "21",
+    "name": "Cursed Plushie",
+    "text": "Loses all of your <link=\"rg|1008\"><u>Prayer Magatama</u></link>, and you cannot gain any more. Increases all allies' damage dealt by 20% and decreases attribute damage taken by 20%.",
+    "text0": "A worn-out stuffed animal wearing a sad smile.",
+    "text3": "AAAAAA==",
+    "text2": "AAAAAA==",
+    "text5": "AAAAAA==",
+    "text4": "AAAAAA=="
+  },
+  {
+    "sn": "22",
+    "name": "Red Capsule",
+    "text": "Decreases all allies' max HP by 25%, and increases damage dealt by 30%.",
+    "text0": "A strange red capsule that reveals the truth and grants the power to fight.",
+    "text3": "AAAAAA==",
+    "text2": "AAAAAA==",
+    "text5": "AAAAAA==",
+    "text4": "AAAAAA=="
+  },
+  {
+    "sn": "23",
+    "name": "Blue Capsule",
+    "text": "Decreases all allies' max HP by 25%, and heals 20% of HP every turn.",
+    "text0": "A strange blue capsule that hides the truth and grants the power to survive.",
+    "text3": "AAAAAA==",
+    "text2": "AAAAAA==",
+    "text5": "AAAAAA==",
+    "text4": "AAAAAA=="
+  },
+  {
+    "sn": "24",
+    "name": "Transformation Item",
+    "text": "At the start of battle, all allies change 1 random affinity to Drain and 1 to Weak.",
+    "text0": "A transformation item that plays a voice when the button is pressed. The voice that plays is random.",
+    "text3": "AAAAAA==",
+    "text2": "AAAAAA==",
+    "text5": "AAAAAA==",
+    "text4": "AAAAAA=="
+  },
+  {
+    "sn": "25",
+    "name": "Providence Dice",
+    "text": "At the start of battle, increases all allies' <link=\"s|1012\"><u>Special Ability</u></link> by 30%. Decreases <link=\"s|1012\"><u>Special Ability</u></link> by 15%.",
+    "text0": "Heavyweight dice that entrust your fate to the heavens.",
+    "text3": "AAAAAA==",
+    "text2": "AAAAAA==",
+    "text5": "AAAAAA==",
+    "text4": "AAAAAA=="
+  },
+  {
+    "sn": "26",
+    "name": "Tactical Goggles",
+    "text": "At the start of battle, all foes receive 1 random weakness corresponding to your allies' attributes. Damage taken by all allies increases by 20%.",
+    "text0": "Convenient goggles that expose the enemy's hidden weaknesses. Be careful of distractions.",
+    "text3": "AAAAAA==",
+    "text2": "AAAAAA==",
+    "text5": "AAAAAA==",
+    "text4": "AAAAAA=="
+  },
+  {
+    "sn": "27",
+    "name": "Wireless Gamepad",
+    "text": "For each Phantom Thief with a different role, party's weakness damage increases by 10% at the start of battle.",
+    "text0": "A sleek controller that lets you play together with friends.",
+    "text3": "Current Enhancement: %%s",
+    "text2": "AAAAAA==",
+    "text5": "AAAAAA==",
+    "text4": "AAAAAA=="
+  },
+  {
+    "sn": "28",
+    "name": "Airsoft BBs",
+    "text": "Critical chance increases by 100% when attacking with a ranged weapon. Final damage increased by 50%.",
+    "text0": "Plastic ammo used for loading airsoft guns.",
+    "text3": "AAAAAA==",
+    "text2": "AAAAAA==",
+    "text5": "AAAAAA==",
+    "text4": "AAAAAA=="
+  },
+  {
+    "sn": "29",
+    "name": "Trading Card #1",
+    "text": "Increase damage dealt by 25%, but also increases damage taken by 15%. After collecting 3 cards, the negative effect will no longer activate.",
+    "text0": "A first-edition pack of a popular trading card game. Contains many offensive cards.",
+    "text3": "AAAAAA==",
+    "text2": "AAAAAA==",
+    "text5": "<color=#FF423F> (%s/%s Collected) </color>",
+    "text4": "AAAAAA=="
+  },
+  {
+    "sn": "30",
+    "name": "Trading Card #2",
+    "text": "Increase max HP by 25%, but also decreases Attack by 15%. After collecting 3 cards, the negative effect will no longer activate.",
+    "text0": "A second-edition pack of a popular trading card game. Contains many strategic cards.",
+    "text3": "AAAAAA==",
+    "text2": "AAAAAA==",
+    "text5": "<color=#FF423F> (%s/%s Collected) </color>",
+    "text4": "AAAAAA=="
+  },
+  {
+    "sn": "31",
+    "name": "Trading Card #3",
+    "text": "Decreases damage taken by 25%, but also decreases damage dealt by 15%. After collecting 3 cards, the negative effect will no longer activate.",
+    "text0": "A third-edition pack of a popular trading card game. Contains many technical cards.",
+    "text3": "AAAAAA==",
+    "text2": "AAAAAA==",
+    "text5": "<color=#FF423F> (%s/%s Collected) </color>",
+    "text4": "AAAAAA=="
+  },
+  {
+    "sn": "32",
+    "name": "Trading Card #4",
+    "text": "Increase Attack by 25%, but also decreases max HP by 15%. After collecting 3 cards, the negative effect will no longer activate.",
+    "text0": "A fourth-edition pack of a popular trading card game. Contains many powerful cards.",
+    "text3": "AAAAAA==",
+    "text2": "AAAAAA==",
+    "text5": "<color=#FF423F> (%s/%s Collected) </color>",
+    "text4": "AAAAAA=="
+  },
+  {
+    "sn": "34",
+    "name": "Discount Sticker",
+    "text": "Discounts items in the <link=\"s|1010\"><u>Shop</u></link> by 30%, but increases the price by 5% for each item purchased.",
+    "text0": "A discount sticker that brings joy when stuck on a price tag.",
+    "text3": "AAAAAA==",
+    "text2": "AAAAAA==",
+    "text5": "AAAAAA==",
+    "text4": "AAAAAA=="
+  },
+  {
+    "sn": "35",
+    "name": "VIP Member's Card",
+    "text": "The first item you buy at the <link=\"s|1010\"><u>Station Shop</u></link> will be free.",
+    "text0": "A VIP membership card exuding celebrity status.",
+    "text3": "AAAAAA==",
+    "text2": "AAAAAA==",
+    "text5": "AAAAAA==",
+    "text4": "AAAAAA=="
+  },
+  {
+    "sn": "36",
+    "name": "Thank-You Lucky Bag",
+    "text": "Buying 3 items at the same <link=\"s|1010\"><u>Station Shop</u></link> grants 1 Lost Item. Can only be used once.",
+    "text0": "A special present received as a bonus for purchasing items.",
+    "text3": "AAAAAA==",
+    "text2": "AAAAAA==",
+    "text5": "AAAAAA==",
+    "text4": "AAAAAA=="
+  },
+  {
+    "sn": "37",
+    "name": "Hero's Sword",
+    "text": "Increases all allies' damage dealt by 5%.",
+    "text0": "A replica of a sword made to resemble an item from a popular game.",
+    "text3": "AAAAAA==",
+    "text2": "AAAAAA==",
+    "text5": "AAAAAA==",
+    "text4": "AAAAAA=="
+  },
+  {
+    "sn": "38",
+    "name": "Hero's Shield",
+    "text": "Decreases all allies' damage taken by 3%.",
+    "text0": "A replica of a shield made to resemble an item from a popular game.",
+    "text3": "AAAAAA==",
+    "text2": "AAAAAA==",
+    "text5": "AAAAAA==",
+    "text4": "AAAAAA=="
+  },
+  {
+    "sn": "39",
+    "name": "Hero's Crest",
+    "text": "Decreases damage taken by 30%. Increases damage dealt by 50%.",
+    "text0": "A replica of a rare item received from an in-person event for a popular game.",
+    "text3": "AAAAAA==",
+    "text2": "AAAAAA==",
+    "text5": "AAAAAA==",
+    "text4": "AAAAAA=="
+  },
+  {
+    "sn": "40",
+    "name": "Tengu Mask",
+    "text": "Each time you win a battle, all allies' Attack and Defense increases by 10%. In exchange, you will no longer receive any Railway Coins.",
+    "text0": "A tengu mask said to ward off evil spirits.",
+    "text3": "AAAAAA==",
+    "text2": "AAAAAA==",
+    "text5": "AAAAAA==",
+    "text4": "AAAAAA=="
+  },
+  {
+    "sn": "41",
+    "name": "Festival Fan",
+    "text": "Decreases all allies' Attack by 10%. Whenever entering a <link=\"s|1011\"><u>Safe Platform</u></link>, increases all allies' max HP by 10%.",
+    "text0": "A large fan you can purchase at festival stands.",
+    "text3": "AAAAAA==",
+    "text2": "AAAAAA==",
+    "text5": "AAAAAA==",
+    "text4": "AAAAAA=="
+  },
+  {
+    "sn": "42",
+    "name": "Prayer Board",
+    "text": "Each time you arrive at a station, chance to gain one of the following effects: Obtain 30 Railway Coins. Ally Attack +10%. Recover 20% Ally HP. Lose 20% Ally HP. (Will not reduce below 1%)",
+    "text0": "An invaluable prayer board said to bring a bit of good fortune.",
+    "text3": "Current Attack of All Allies: +%%s",
+    "text2": "AAAAAA==",
+    "text5": "AAAAAA==",
+    "text4": "Grants 30 Railway Coins,Increases all allies' Attack by 10%,Restores all allies' HP by 20%,Decreases all allies' HP by 20%."
+  },
+  {
+    "sn": "43",
+    "name": "Daredevil Stamp Card",
+    "text": "For the next 4 platforms, damage taken increases by 30%. After completion, receive 150 Railway Coins.",
+    "text0": "A stamp card received from clearing trials. You may get bonuses from brining this card to stations.",
+    "text3": "AAAAAA==",
+    "text2": "Effective after %s stations",
+    "text5": "AAAAAA==",
+    "text4": "AAAAAA=="
+  },
+  {
+    "sn": "45",
+    "name": "Fortune-Up Drink",
+    "text": "Receive 30% of your current Railway Coins.",
+    "text0": "A limited-time high-volume drink. Apparently drinking it increases wealth.",
+    "text3": "AAAAAA==",
+    "text2": "AAAAAA==",
+    "text5": "AAAAAA==",
+    "text4": "AAAAAA=="
+  },
+  {
+    "sn": "46",
+    "name": "Old Bottle",
+    "text": "After winning the next 2 battles, receive 100 Railway Coins instead of a Charm.",
+    "text0": "An old-looking bottle sealed tightly with a cork. Looks like it contains something valuable.",
+    "text3": "AAAAAA==",
+    "text2": "Effect activates after winning a battle at %s station",
+    "text5": "AAAAAA==",
+    "text4": "AAAAAA=="
+  },
+  {
+    "sn": "47",
+    "name": "Display Case",
+    "text": "Each <link=\"rg|1008\"><u>Prayer Magatama</u></link> will give you 50 Railway Coins.",
+    "text0": "A display case used to store your Magatama.",
+    "text3": "AAAAAA==",
+    "text2": "AAAAAA==",
+    "text5": "AAAAAA==",
+    "text4": "AAAAAA=="
+  },
+  {
+    "sn": "48",
+    "name": "Vibrant Record",
+    "text": "Increase all allies' max HP by 15% and increase Attack by 15%.",
+    "text0": "A strange record containing melodies that boost the listener's vitality.",
+    "text3": "AAAAAA==",
+    "text2": "AAAAAA==",
+    "text5": "AAAAAA==",
+    "text4": "AAAAAA=="
+  },
+  {
+    "sn": "49",
+    "name": "Brutal Record",
+    "text": "All allies' Ailment Accuracy increases by 20%, and Damage Dealt increases by 10%.",
+    "text0": "An old record containing melodies that incite aggression in the listener.",
+    "text3": "AAAAAA==",
+    "text2": "AAAAAA==",
+    "text5": "AAAAAA==",
+    "text4": "AAAAAA=="
+  },
+  {
+    "sn": "50",
+    "name": "Enthralling Record",
+    "text": "Increases all allies' critical rate by 10% and critical damage by 20%.",
+    "text0": "A strange record containing melodies that concentrate the listener's nerves.",
+    "text3": "AAAAAA==",
+    "text2": "AAAAAA==",
+    "text5": "AAAAAA==",
+    "text4": "AAAAAA=="
+  },
+  {
+    "sn": "51",
+    "name": "Durable Record",
+    "text": "Increase all allies' Defense by 30% and decrease damage taken by 10%.",
+    "text0": "A strange record containing melodies that strengthen the listener's fortitude.",
+    "text3": "AAAAAA==",
+    "text2": "AAAAAA==",
+    "text5": "AAAAAA==",
+    "text4": "AAAAAA=="
+  },
+  {
+    "sn": "52",
+    "name": "Passionate Record",
+    "text": "All foes become weak to Fire and Psy, but become immune to other random attributes.",
+    "text0": "An old record containing melodies that get the listener fired up.",
+    "text3": "AAAAAA==",
+    "text2": "AAAAAA==",
+    "text5": "AAAAAA==",
+    "text4": "AAAAAA=="
+  },
+  {
+    "sn": "53",
+    "name": "Analytical Record",
+    "text": "All foes become weak to Ice and Nuclear, but become immune to other random attributes.",
+    "text0": "An old record containing melodies that calm the listener's spirit.",
+    "text3": "AAAAAA==",
+    "text2": "AAAAAA==",
+    "text5": "AAAAAA==",
+    "text4": "AAAAAA=="
+  },
+  {
+    "sn": "54",
+    "name": "Revelatory Record",
+    "text": "All foes become weak to Elec and Bless, but become immune to other random attributes.",
+    "text0": "An old record containing melodies that can impart thunderous revelations upon the listener.",
+    "text3": "AAAAAA==",
+    "text2": "AAAAAA==",
+    "text5": "AAAAAA==",
+    "text4": "AAAAAA=="
+  },
+  {
+    "sn": "55",
+    "name": "Mournful Record",
+    "text": "All foes become weak to Wind and Curse, but become immune to other random attributes.",
+    "text0": "An old record containing melodies that leave the listener in a desolate, sorrowful state.",
+    "text3": "AAAAAA==",
+    "text2": "AAAAAA==",
+    "text5": "AAAAAA==",
+    "text4": "AAAAAA=="
+  },
+  {
+    "sn": "56",
+    "name": "Single-Frequency Radio",
+    "text": "At the start of battle, for each Phantom Thief with matching attributes, party's weakness damage increases by 8%.",
+    "text0": "A wireless radio that can pick up a certain frequency.",
+    "text3": "AAAAAA==",
+    "text2": "AAAAAA==",
+    "text5": "AAAAAA==",
+    "text4": "AAAAAA=="
+  },
+  {
+    "sn": "57",
+    "name": "Multi-Frequency Radio",
+    "text": "At the start of battle, for each Phantom Thief with different attributes, all allies' Pierce Resistance increases by 8%.",
+    "text0": "A wireless radio that can pick up many different frequencies.",
+    "text3": "AAAAAA==",
+    "text2": "AAAAAA==",
+    "text5": "AAAAAA==",
+    "text4": "AAAAAA=="
+  },
+  {
+    "sn": "58",
+    "name": "Protection Envelope",
+    "text": "At the start of battle, all allies' Damage Taken decreases by 90% for 3 turns.",
+    "text0": "A thick envelope containing a talisman to protect against ill will.",
+    "text3": "AAAAAA==",
+    "text2": "AAAAAA==",
+    "text5": "AAAAAA==",
+    "text4": "AAAAAA=="
+  },
+  {
+    "sn": "59",
+    "name": "Marthym's Point Card",
+    "text": "After acquiring 12 Charms, increase allies' damage dealt by 10% for each additional Charm.",
+    "text0": "A point card designed with Marthym's logo.",
+    "text3": "Current Enhancement: %%s",
+    "text2": "AAAAAA==",
+    "text5": "AAAAAA==",
+    "text4": "AAAAAA=="
+  },
+  {
+    "sn": "60",
+    "name": "Marthym's Shopping Bag",
+    "text": "Increases Charm carrying slots by 2.",
+    "text0": "A sturdy shopping bag designed with Marthym's logo.",
+    "text3": "AAAAAA==",
+    "text2": "AAAAAA==",
+    "text5": "AAAAAA==",
+    "text4": "AAAAAA=="
+  },
+  {
+    "sn": "61",
+    "name": "Empty Flower Pot",
+    "text": "While holding this Lost Item, unknown changes will occur when you complete specific actions.",
+    "text0": "An unused flower pot with some soft soil inside.",
+    "text3": "AAAAAA==",
+    "text2": "AAAAAA==",
+    "text5": "AAAAAA==",
+    "text4": "AAAAAA=="
+  },
+  {
+    "sn": "62",
+    "name": "Growing Potted Plant",
+    "text": "While holding this Lost Item, unknown changes will occur when you complete specific actions.",
+    "text0": "A potted plant that continues to grow rapidly.",
+    "text3": "AAAAAA==",
+    "text2": "AAAAAA==",
+    "text5": "AAAAAA==",
+    "text4": "AAAAAA=="
+  },
+  {
+    "sn": "63",
+    "name": "Blossomed Potted Plant",
+    "text": "Receive 1000 Railway Coins. All allies' max HP increases by 100% and damage taken decreases by 50%.",
+    "text0": "A heavy flower pot with blooming, colorful flowers.",
+    "text3": "AAAAAA==",
+    "text2": "AAAAAA==",
+    "text5": "AAAAAA==",
+    "text4": "AAAAAA=="
+  },
+  {
+    "sn": "64",
+    "name": "Marthym's Exchange Voucher",
+    "text": "Activates the 4-set effect of one Charm.",
+    "text0": "A special exchange voucher from Marthym.",
+    "text3": "AAAAAA==",
+    "text2": "AAAAAA==",
+    "text5": "AAAAAA==",
+    "text4": "AAAAAA=="
+  },
+  {
+    "sn": "65",
+    "name": "Metro Guidebook",
+    "text": "Increases all allies' critical rate by 1% and critical damage by 2% for each Lost Item.",
+    "text0": "A guidebook with information on how to navigate the metro lines in comfort.",
+    "text3": "AAAAAA==",
+    "text2": "AAAAAA==",
+    "text5": "AAAAAA==",
+    "text4": "AAAAAA=="
+  },
+  {
+    "sn": "66",
+    "name": "Hero Set",
+    "text": "Critical chance increases by 100% when attacking with a melee weapon. Final damage increased by 50%.",
+    "text0": "A hero set that emits light and sound at the press of a button.",
+    "text3": "AAAAAA==",
+    "text2": "AAAAAA==",
+    "text5": "AAAAAA==",
+    "text4": "AAAAAA=="
+  },
+  {
+    "sn": "67",
+    "name": "Card Binder",
+    "text": "Increases all allies' damage dealt by 10% for each <link=\"s|1014\"><u>trading card</u></link> held.",
+    "text0": "A card binder that lets you store your cards in style.",
+    "text3": "AAAAAA==",
+    "text2": "AAAAAA==",
+    "text5": "AAAAAA==",
+    "text4": "AAAAAA=="
+  }
+]

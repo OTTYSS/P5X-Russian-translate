@@ -1,0 +1,502 @@
+[
+  {
+    "sn": "110",
+    "desc": "力",
+    "attrDesc": "AAAAAA=="
+  },
+  {
+    "sn": "120",
+    "desc": "魔",
+    "attrDesc": "AAAAAA=="
+  },
+  {
+    "sn": "130",
+    "desc": "耐",
+    "attrDesc": "AAAAAA=="
+  },
+  {
+    "sn": "150",
+    "desc": "運",
+    "attrDesc": "AAAAAA=="
+  },
+  {
+    "sn": "210",
+    "desc": "現在のＨＰ",
+    "attrDesc": "AAAAAA=="
+  },
+  {
+    "sn": "220",
+    "desc": "現在のＳＰ",
+    "attrDesc": "AAAAAA=="
+  },
+  {
+    "sn": "230",
+    "desc": "現在のダウン値",
+    "attrDesc": "AAAAAA=="
+  },
+  {
+    "sn": "960",
+    "desc": "防御ダウン値",
+    "attrDesc": "AAAAAA=="
+  },
+  {
+    "sn": "970",
+    "desc": "スキルダウン値",
+    "attrDesc": "AAAAAA=="
+  },
+  {
+    "sn": "240",
+    "desc": "ＨＰ",
+    "attrDesc": "AAAAAA=="
+  },
+  {
+    "sn": "250",
+    "desc": "ＳＰ",
+    "attrDesc": "AAAAAA=="
+  },
+  {
+    "sn": "260",
+    "desc": "攻撃力",
+    "attrDesc": "AAAAAA=="
+  },
+  {
+    "sn": "270",
+    "desc": "防御力",
+    "attrDesc": "AAAAAA=="
+  },
+  {
+    "sn": "280",
+    "desc": "ＣＲＴ発生率",
+    "attrDesc": "AAAAAA=="
+  },
+  {
+    "sn": "290",
+    "desc": "ＣＲＴ倍率",
+    "attrDesc": "AAAAAA=="
+  },
+  {
+    "sn": "300",
+    "desc": "状態異常命中",
+    "attrDesc": "『状態異常命中』が上昇すると、敵に属性異常・行動異常（及び一部の特殊効果）を付与する確率が上昇します。"
+  },
+  {
+    "sn": "310",
+    "desc": "状態異常抵抗",
+    "attrDesc": "『状態異常抵抗』が上昇すると、自身が属性異常・行動異常（及び一部の特殊効果）になる確率が減少します。"
+  },
+  {
+    "sn": "320",
+    "desc": "ダウン値",
+    "attrDesc": "AAAAAA=="
+  },
+  {
+    "sn": "330",
+    "desc": "命中率",
+    "attrDesc": "AAAAAA=="
+  },
+  {
+    "sn": "340",
+    "desc": "速さ",
+    "attrDesc": "・『速さ』はバトルの行動順に影響します。\n・スキルの命中率は対象との『速さ』の差によって変動します。\n・速度が同じだった場合、編成されている順に行動します。"
+  },
+  {
+    "sn": "350",
+    "desc": "先制攻撃",
+    "attrDesc": "AAAAAA=="
+  },
+  {
+    "sn": "360",
+    "desc": "ＳＰ回復",
+    "attrDesc": "『ＳＰ回復』が上昇すると、毎ターンのＳＰ回復量が上昇します。"
+  },
+  {
+    "sn": "370",
+    "desc": "貫通",
+    "attrDesc": "『貫通』が上昇すると、敵にダメージを与えた時、防御力を無視する割合が上昇します。"
+  },
+  {
+    "sn": "380",
+    "desc": "AAAAAA==",
+    "attrDesc": "AAAAAA=="
+  },
+  {
+    "sn": "410",
+    "desc": "攻撃倍率＋",
+    "attrDesc": "AAAAAA=="
+  },
+  {
+    "sn": "420",
+    "desc": "被ダメージ",
+    "attrDesc": "AAAAAA=="
+  },
+  {
+    "sn": "430",
+    "desc": "物理倍率＋",
+    "attrDesc": "AAAAAA=="
+  },
+  {
+    "sn": "440",
+    "desc": "銃撃倍率＋",
+    "attrDesc": "AAAAAA=="
+  },
+  {
+    "sn": "450",
+    "desc": "火炎倍率＋",
+    "attrDesc": "AAAAAA=="
+  },
+  {
+    "sn": "460",
+    "desc": "氷結倍率＋",
+    "attrDesc": "AAAAAA=="
+  },
+  {
+    "sn": "470",
+    "desc": "電撃倍率＋",
+    "attrDesc": "AAAAAA=="
+  },
+  {
+    "sn": "480",
+    "desc": "疾風倍率＋",
+    "attrDesc": "AAAAAA=="
+  },
+  {
+    "sn": "490",
+    "desc": "念動倍率＋",
+    "attrDesc": "AAAAAA=="
+  },
+  {
+    "sn": "500",
+    "desc": "核熱倍率＋",
+    "attrDesc": "AAAAAA=="
+  },
+  {
+    "sn": "510",
+    "desc": "祝福倍率＋",
+    "attrDesc": "AAAAAA=="
+  },
+  {
+    "sn": "520",
+    "desc": "呪怨倍率＋",
+    "attrDesc": "AAAAAA=="
+  },
+  {
+    "sn": "530",
+    "desc": "万能倍率＋",
+    "attrDesc": "AAAAAA=="
+  },
+  {
+    "sn": "540",
+    "desc": "被物理ダメージ",
+    "attrDesc": "AAAAAA=="
+  },
+  {
+    "sn": "550",
+    "desc": "被銃撃ダメージ",
+    "attrDesc": "AAAAAA=="
+  },
+  {
+    "sn": "560",
+    "desc": "被火炎ダメージ",
+    "attrDesc": "AAAAAA=="
+  },
+  {
+    "sn": "570",
+    "desc": "被氷結ダメージ",
+    "attrDesc": "AAAAAA=="
+  },
+  {
+    "sn": "580",
+    "desc": "被電撃ダメージ",
+    "attrDesc": "AAAAAA=="
+  },
+  {
+    "sn": "590",
+    "desc": "被疾風ダメージ",
+    "attrDesc": "AAAAAA=="
+  },
+  {
+    "sn": "600",
+    "desc": "被念動ダメージ",
+    "attrDesc": "AAAAAA=="
+  },
+  {
+    "sn": "610",
+    "desc": "被核熱ダメージ",
+    "attrDesc": "AAAAAA=="
+  },
+  {
+    "sn": "620",
+    "desc": "被祝福ダメージ",
+    "attrDesc": "AAAAAA=="
+  },
+  {
+    "sn": "630",
+    "desc": "被呪怨ダメージ",
+    "attrDesc": "AAAAAA=="
+  },
+  {
+    "sn": "640",
+    "desc": "被万能ダメージ",
+    "attrDesc": "AAAAAA=="
+  },
+  {
+    "sn": "650",
+    "desc": "被クリティカル",
+    "attrDesc": "AAAAAA=="
+  },
+  {
+    "sn": "660",
+    "desc": "クリティカル耐性",
+    "attrDesc": "AAAAAA=="
+  },
+  {
+    "sn": "670",
+    "desc": "ＨＰ回復量",
+    "attrDesc": "AAAAAA=="
+  },
+  {
+    "sn": "680",
+    "desc": "被ＨＰ回復量",
+    "attrDesc": "AAAAAA=="
+  },
+  {
+    "sn": "690",
+    "desc": "シールド量",
+    "attrDesc": "AAAAAA=="
+  },
+  {
+    "sn": "700",
+    "desc": "被シールド量",
+    "attrDesc": "AAAAAA=="
+  },
+  {
+    "sn": "710",
+    "desc": "スキルカスタムパラメータ１",
+    "attrDesc": "AAAAAA=="
+  },
+  {
+    "sn": "720",
+    "desc": "スキルカスタムパラメータ２",
+    "attrDesc": "AAAAAA=="
+  },
+  {
+    "sn": "730",
+    "desc": "スキルカスタムパラメータ３",
+    "attrDesc": "AAAAAA=="
+  },
+  {
+    "sn": "740",
+    "desc": "スキルカスタムパラメータ４",
+    "attrDesc": "AAAAAA=="
+  },
+  {
+    "sn": "750",
+    "desc": "スキルカスタムパラメータ５",
+    "attrDesc": "AAAAAA=="
+  },
+  {
+    "sn": "760",
+    "desc": "スキルカスタムパラメータ６",
+    "attrDesc": "AAAAAA=="
+  },
+  {
+    "sn": "770",
+    "desc": "スキルカスタムパラメータ７",
+    "attrDesc": "AAAAAA=="
+  },
+  {
+    "sn": "780",
+    "desc": "スキルカスタムパラメータ８",
+    "attrDesc": "AAAAAA=="
+  },
+  {
+    "sn": "790",
+    "desc": "スキルカスタムパラメータ９",
+    "attrDesc": "AAAAAA=="
+  },
+  {
+    "sn": "800",
+    "desc": "スキルカスタムパラメータ１０",
+    "attrDesc": "AAAAAA=="
+  },
+  {
+    "sn": "810",
+    "desc": "弱点倍率＋",
+    "attrDesc": "AAAAAA=="
+  },
+  {
+    "sn": "820",
+    "desc": "弱点攻撃軽減",
+    "attrDesc": "AAAAAA=="
+  },
+  {
+    "sn": "830",
+    "desc": "耐性貫通",
+    "attrDesc": "AAAAAA=="
+  },
+  {
+    "sn": "840",
+    "desc": "耐性攻撃軽減",
+    "attrDesc": "AAAAAA=="
+  },
+  {
+    "sn": "850",
+    "desc": "ダメージ軽減",
+    "attrDesc": "AAAAAA=="
+  },
+  {
+    "sn": "860",
+    "desc": "被総攻撃ダメージ",
+    "attrDesc": "AAAAAA=="
+  },
+  {
+    "sn": "870",
+    "desc": "被１ＭＯＲＥダメージ",
+    "attrDesc": "AAAAAA=="
+  },
+  {
+    "sn": "880",
+    "desc": "被ハイライトダメージ",
+    "attrDesc": "AAAAAA=="
+  },
+  {
+    "sn": "910",
+    "desc": "武器スキルパラメータ１",
+    "attrDesc": "AAAAAA=="
+  },
+  {
+    "sn": "920",
+    "desc": "武器スキルパラメータ２",
+    "attrDesc": "AAAAAA=="
+  },
+  {
+    "sn": "930",
+    "desc": "武器スキルパラメータ３",
+    "attrDesc": "AAAAAA=="
+  },
+  {
+    "sn": "940",
+    "desc": "武器スキルパラメータ４",
+    "attrDesc": "AAAAAA=="
+  },
+  {
+    "sn": "950",
+    "desc": "武器スキルパラメータ５",
+    "attrDesc": "AAAAAA=="
+  },
+  {
+    "sn": "980",
+    "desc": "現在の進行度",
+    "attrDesc": "AAAAAA=="
+  },
+  {
+    "sn": "990",
+    "desc": "進行度の上限",
+    "attrDesc": "AAAAAA=="
+  },
+  {
+    "sn": "1000",
+    "desc": "プレイカスタムパラメーター１",
+    "attrDesc": "AAAAAA=="
+  },
+  {
+    "sn": "1010",
+    "desc": "プレイカスタムパラメーター２",
+    "attrDesc": "AAAAAA=="
+  },
+  {
+    "sn": "1020",
+    "desc": "プレイカスタムパラメーター３",
+    "attrDesc": "AAAAAA=="
+  },
+  {
+    "sn": "1030",
+    "desc": "プレイカスタムパラメーター４",
+    "attrDesc": "AAAAAA=="
+  },
+  {
+    "sn": "1040",
+    "desc": "プレイカスタムパラメーター５",
+    "attrDesc": "AAAAAA=="
+  },
+  {
+    "sn": "1050",
+    "desc": "プレイカスタムパラメーター６",
+    "attrDesc": "AAAAAA=="
+  },
+  {
+    "sn": "1060",
+    "desc": "プレイカスタムパラメーター７",
+    "attrDesc": "AAAAAA=="
+  },
+  {
+    "sn": "1070",
+    "desc": "プレイカスタムパラメーター８",
+    "attrDesc": "AAAAAA=="
+  },
+  {
+    "sn": "1080",
+    "desc": "プレイカスタムパラメーター９",
+    "attrDesc": "AAAAAA=="
+  },
+  {
+    "sn": "1090",
+    "desc": "プレイカスタムパラメーター１０",
+    "attrDesc": "AAAAAA=="
+  },
+  {
+    "sn": "1110",
+    "desc": "最終倍率＋",
+    "attrDesc": "AAAAAA=="
+  },
+  {
+    "sn": "1120",
+    "desc": "最終被ダメージ",
+    "attrDesc": "AAAAAA=="
+  },
+  {
+    "sn": "1130",
+    "desc": "ハイライトゲージ回復効率",
+    "attrDesc": "デフォルトは１００% （ハイライトゲージ回復量＝ハイライトゲージ基礎回復量×ハイライトゲージ回復効率）"
+  },
+  {
+    "sn": "1140",
+    "desc": "ナビ解析進捗ゲージ",
+    "attrDesc": "AAAAAA=="
+  },
+  {
+    "sn": "1150",
+    "desc": "才能スキルパラメータ１",
+    "attrDesc": "AAAAAA=="
+  },
+  {
+    "sn": "1160",
+    "desc": "才能スキルパラメータ２",
+    "attrDesc": "AAAAAA=="
+  },
+  {
+    "sn": "1170",
+    "desc": "才能スキルパラメータ３",
+    "attrDesc": "AAAAAA=="
+  },
+  {
+    "sn": "1180",
+    "desc": "才能スキルパラメータ４",
+    "attrDesc": "AAAAAA=="
+  },
+  {
+    "sn": "1190",
+    "desc": "才能スキルパラメータ５",
+    "attrDesc": "AAAAAA=="
+  },
+  {
+    "sn": "1200",
+    "desc": "AAAAAA==",
+    "attrDesc": "AAAAAA=="
+  },
+  {
+    "sn": "1210",
+    "desc": "AAAAAA==",
+    "attrDesc": "AAAAAA=="
+  }
+]

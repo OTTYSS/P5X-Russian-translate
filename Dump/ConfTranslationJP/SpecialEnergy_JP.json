@@ -1,0 +1,38 @@
+[
+  {
+    "sn": "1",
+    "functionName": "配置コスト：",
+    "progressDetails": "１.味方のターン終了時に、『<color=#FF423F>配置コスト</color>』を３獲得する。\n２.『<color=#FF423F>配置コスト</color>』が２０に達すると、自動的に『配置コスト』を２０消費して、１台の『<color=#FF423F>自爆ロボット</color>』と１機の『<color=#FF423F>ドローン戦闘機</color>』（所持状況に応じて数を増やすことが可能）を派遣し、敵に攻撃を行う。\n３.各『<color=#FF423F>戦術チップ</color>』には特定の追加効果がある。",
+    "progressName": "『<color=#FF423F>戦術チップ</color>』"
+  },
+  {
+    "sn": "2",
+    "functionName": "属性刻印：",
+    "progressDetails": "１.味方がスキルを使用してダメージを与えた時、自身に対応する『<color=#FF423F>属性刻印</color>』を１つ獲得する。\n２.味方の『<color=#FF423F>属性刻印</color>』の総数が７つに達すると、すべての『属性刻印』が解除され、『<color=#FF423F>星刻</color>』が発動する：ランダムな敵に対して合計７回の万能属性ダメージを与える。同じ敵が複数回ダメージを受けると、与えるダメージが低下する。",
+    "progressName": "『<color=#FF423F>星刻</color>』"
+  },
+  {
+    "sn": "3",
+    "functionName": "エネルギー",
+    "progressDetails": "AAAAAA==",
+    "progressName": "AAAAAA=="
+  },
+  {
+    "sn": "4",
+    "functionName": "怒り度",
+    "progressDetails": "AAAAAA==",
+    "progressName": "AAAAAA=="
+  },
+  {
+    "sn": "5",
+    "functionName": "エネルギー",
+    "progressDetails": "１.味方のターン終了時に、少量の『<color=#FF423F>エネルギー</color>』を獲得する。\n２.味方が<color=#FF423F>弱点ダメージ上昇</color>を与えた時、大量の『<color=#FF423F>エネルギー</color>』を獲得する。各ターンで最大１回まで発動する。\n３.味方のターン開始時に、『<color=#FF423F>エネルギー</color>』が１００に達している場合、自動的に１００の『エネルギー』を消費して『<color=#FF423F>弩砲の重撃</color>』を使用し、敵に攻撃を行う。",
+    "progressName": "『<color=#FF423F>弩砲エネルギー</color>』"
+  },
+  {
+    "sn": "6",
+    "functionName": "星光の熱量：",
+    "progressDetails": "１.味方がハイライトを使用すると、『<color=#FF423F>星光の熱量</color>』を１つ獲得する。\n２.『<color=#FF423F>星光の熱量</color>』が４つになると、すべての『星光の熱量』が消費され、『<color=#FF423F>煌きの舞台</color>』が発動する。味方に対して以下の強化効果がランダムに１０回付与する。各回で味方単体にランダムで以下の効果を付与する：「攻撃力１５%上昇」「防御力２２.５%上昇」「最大ＨＰ１５%上昇」「与ダメージ１２%上昇」「状態異常命中１８%上昇」「貫通６%上昇」「クリティカル率９%上昇」「クリティカルダメージ１８%上昇」「耐性貫通７.５%上昇」「弱点ダメージ６%上昇」。",
+    "progressName": "『<color=#FF423F>煌きの舞台</color>』"
+  }
+]

@@ -1,0 +1,362 @@
+[
+  {
+    "sn": "CHAT_ITEM_PATTERN",
+    "value": "#\\{[^#]+?{}[^\\}]*?\\}"
+  },
+  {
+    "sn": "CHAT_NO_MESSAGE",
+    "value": "No messages."
+  },
+  {
+    "sn": "CHAT_CHANNEL_NAME_WORLD",
+    "value": "The World"
+  },
+  {
+    "sn": "CHAT_CHANNEL_NAME_UNION",
+    "value": "Alliance"
+  },
+  {
+    "sn": "GACHA_NOTICE_CHARACTER",
+    "value": "Contracts"
+  },
+  {
+    "sn": "GACHA_NOTICE_WEAPON",
+    "value": "Supplies"
+  },
+  {
+    "sn": "ACTIVITY_CALLBACK_DEFAULT_TEXT",
+    "value": "Official Server"
+  },
+  {
+    "sn": "PLAYER_DEFAULT_NAME",
+    "value": "Nagisa¤Kamisiro"
+  },
+  {
+    "sn": "PERSONA_EVOLVE_ATTR",
+    "value": "HP Boost,Atk Boost,Def Boost"
+  },
+  {
+    "sn": "PERSONA_TRAIN_FILTER_TAG_ALL",
+    "value": "All"
+  },
+  {
+    "sn": "PERSONA_TRAIN_FILTER_TAG_POSITION",
+    "value": "Atk,Life,Acc.,Resist,Spec."
+  },
+  {
+    "sn": "CARD_CUSTOM_DISPLAY",
+    "value": "Space,Sun,Moon,Star,Sky"
+  },
+  {
+    "sn": "UNION_UNIT_ANNOUNCEMENT",
+    "value": "No messages from the leader."
+  },
+  {
+    "sn": "CHONGWU_CONTAINER_NAME_BAG",
+    "value": "Pet Bag"
+  },
+  {
+    "sn": "CHONGWU_CONTAINER_NAME_STORE",
+    "value": "Pet Storage"
+  },
+  {
+    "sn": "CHONGWU_CONTAINER_NAME_CEMETERY",
+    "value": "Pet Cemetery"
+  },
+  {
+    "sn": "CHONGWU_CONTAINER_NAME_TEMPORAL",
+    "value": "Select All Pets - Bag"
+  },
+  {
+    "sn": "TEAM_ENTER_ORDER_TITLE",
+    "value": "Forced PVP"
+  },
+  {
+    "sn": "EQUIPMENT_FORGE_NORMAL",
+    "value": "NoRMaL Build"
+  },
+  {
+    "sn": "EQUIPMENT_FORGE_HARD",
+    "value": "Enhanced Build"
+  },
+  {
+    "sn": "QUESTION_HELP_ANSWER",
+    "value": "Your choice"
+  },
+  {
+    "sn": "JIEYI_CHAT_GROUP_NAME",
+    "value": "Form a close bond"
+  },
+  {
+    "sn": "MAIL_SYSTEM_PUBLIC_SEND_NAME",
+    "value": "Persona5: The Phantom X Operations Team"
+  },
+  {
+    "sn": "PING_EXCEP_KICK_REASON",
+    "value": "The server has detected that your network environment is unstable or that you are using third-party tools. Please close the game and log in again."
+  },
+  {
+    "sn": "SOCIAL_THANK",
+    "value": "Hi, I'm new. Nice to meet you."
+  },
+  {
+    "sn": "SOCIAL_HOT_DAY_RESET",
+    "value": "0 0 0 * * ?"
+  },
+  {
+    "sn": "CONTAINER_NAME_NONE",
+    "value": "Container"
+  },
+  {
+    "sn": "CONTAINER_NAME_EQUIPMENT",
+    "value": "Equipment Column"
+  },
+  {
+    "sn": "CONTAINER_NAME_INVENTORY",
+    "value": "Bag"
+  },
+  {
+    "sn": "CONTAINER_NAME_QUEST",
+    "value": "Mission Bag"
+  },
+  {
+    "sn": "CONTAINER_NAME_THIEF",
+    "value": "Thief Bag"
+  },
+  {
+    "sn": "CONTAINER_NAME_TEMPORAL",
+    "value": "Temp Bag"
+  },
+  {
+    "sn": "CONTAINER_NAME_STORE",
+    "value": "Warehouse"
+  },
+  {
+    "sn": "CONTAINER_NAME_AMULET",
+    "value": "Treasure Bag"
+  },
+  {
+    "sn": "CONTAINER_NAME_INGREDIENT",
+    "value": "Materials Bag"
+  },
+  {
+    "sn": "COLOR_WIHTE",
+    "value": "White"
+  },
+  {
+    "sn": "COLOR_GREEN",
+    "value": "Green"
+  },
+  {
+    "sn": "COLOR_BLUE",
+    "value": "Blue"
+  },
+  {
+    "sn": "COLOR_PURPLE",
+    "value": "Purple"
+  },
+  {
+    "sn": "COLOR_ORANGE",
+    "value": "Orange"
+  },
+  {
+    "sn": "COLOR_GOLD",
+    "value": "Gold"
+  },
+  {
+    "sn": "COLOR_PINK",
+    "value": "Pink"
+  },
+  {
+    "sn": "COLOR_RED",
+    "value": "Red"
+  },
+  {
+    "sn": "HINT_TEAM",
+    "value": " Party"
+  },
+  {
+    "sn": "FNAME",
+    "value": "Last Name"
+  },
+  {
+    "sn": "SNAME",
+    "value": "First Name"
+  },
+  {
+    "sn": "ATTING_FIRST",
+    "value": "1st Formation"
+  },
+  {
+    "sn": "ATTING_SECOND",
+    "value": "2nd Formation"
+  },
+  {
+    "sn": "ATTING_THIRD",
+    "value": "3rd Formation"
+  },
+  {
+    "sn": "ATTING_FOURTH",
+    "value": "4th Formation"
+  },
+  {
+    "sn": "CHINESE_COMMA",
+    "value": ", "
+  },
+  {
+    "sn": "TIME_UNITS_DAY",
+    "value": "d"
+  },
+  {
+    "sn": "TIME_UNITS_HOUR",
+    "value": "h"
+  },
+  {
+    "sn": "TIME_UNITS_MINUTE",
+    "value": "m"
+  },
+  {
+    "sn": "PING_EXCEP_SEAL_REASON",
+    "value": "Suspected of using third-party tools."
+  },
+  {
+    "sn": "GLOBAL_CROSS_ENTERORDER",
+    "value": "Go, Condor 2!"
+  },
+  {
+    "sn": "WEATHER_TIPS_DESCRPTION1",
+    "value": "Current Weather: %s"
+  },
+  {
+    "sn": "WEATHER_TIPS_DESCRPTION2",
+    "value": "Later: %s"
+  },
+  {
+    "sn": "WEATHER_TIPS_DESCRPTION3",
+    "value": "In %s hours: %s"
+  },
+  {
+    "sn": "WEATHER_TIPS_DESCRPTION4",
+    "value": "No recent changes."
+  },
+  {
+    "sn": "WEATHER_TIPS_DESCRPTION5",
+    "value": "Special Scene\nWeather: %s"
+  },
+  {
+    "sn": "REWARD_ITEM_DESC",
+    "value": "Drop Item:"
+  },
+  {
+    "sn": "FIRST_REWARD_ITEM_DESC",
+    "value": "First Clear Rewards:"
+  },
+  {
+    "sn": "CHALLENGE_BTN_STR",
+    "value": "Commence Infiltration"
+  },
+  {
+    "sn": "STORY_CHECKPOINT_BTN_STR",
+    "value": "View Recollection"
+  },
+  {
+    "sn": "ROLE_SCHEME_DEFAULT_NAME1",
+    "value": "Equipment Plan 1"
+  },
+  {
+    "sn": "ROLE_SCHEME_DEFAULT_NAME2",
+    "value": "Equipment Plan 2"
+  },
+  {
+    "sn": "ROLE_SCHEME_DEFAULT_NAME3",
+    "value": "Equipment Plan 3"
+  },
+  {
+    "sn": "ROLE_SCHEME_DEFAULT_NAME4",
+    "value": "Equipment Plan 4"
+  },
+  {
+    "sn": "ROLE_SCHEME_DEFAULT_NAME5",
+    "value": "Equipment Plan 5"
+  },
+  {
+    "sn": "ROLE_SCHEME_DEFAULT_NAME6",
+    "value": "Equipment Plan 6"
+  },
+  {
+    "sn": "ROLE_SCHEME_DEFAULT_NAME7",
+    "value": "Equipment Plan 7"
+  },
+  {
+    "sn": "ROLE_SCHEME_DEFAULT_NAME8",
+    "value": "Equipment Plan 8"
+  },
+  {
+    "sn": "ROLE_SCHEME_DEFAULT_NAME9",
+    "value": "Equipment Plan 9"
+  },
+  {
+    "sn": "ROLE_SCHEME_DEFAULT_NAME10",
+    "value": "Equipment Plan 10"
+  },
+  {
+    "sn": "CHAPTER_DIFFICULTY_TYPE",
+    "value": "NoRMaL,HaRD"
+  },
+  {
+    "sn": "WEEK_NAME_1",
+    "value": "Monday"
+  },
+  {
+    "sn": "WEEK_NAME_2",
+    "value": "Tuesday"
+  },
+  {
+    "sn": "WEEK_NAME_3",
+    "value": "Wednesday"
+  },
+  {
+    "sn": "WEEK_NAME_4",
+    "value": "Thursday"
+  },
+  {
+    "sn": "WEEK_NAME_5",
+    "value": "Friday"
+  },
+  {
+    "sn": "WEEK_NAME_6",
+    "value": "Saturday"
+  },
+  {
+    "sn": "WEEK_NAME_7",
+    "value": "Sunday"
+  },
+  {
+    "sn": "ARRAR_DEFAULTNAME",
+    "value": "Party"
+  },
+  {
+    "sn": "BATTLEPASS_WEEK_AWARD_TEXT",
+    "value": "<color=#FF423F>Log in Tomorrow</color>,<color=#FF423F>Log in Day After Tomorrow</color>,Next Week,Next Week,Next Week,Next Week,Next Week"
+  },
+  {
+    "sn": "BLINDBOX_TIME_TEXT",
+    "value": "1,2,3,4,5"
+  },
+  {
+    "sn": "ACTIVITY_DEFAULT_MAIL_SENDER",
+    "value": "Persona5: The Phantom X Operations Team"
+  },
+  {
+    "sn": "THIEF_INNATE_WIPE_TEXT",
+    "value": "1 More:,Highlight:,Gun Attack:,Melee Attack:"
+  },
+  {
+    "sn": "SETTING_STR_LEVEL",
+    "value": "Low,Standard,Semi-High,High,Best"
+  },
+  {
+    "sn": "SETTING_STR_RESOLUTION",
+    "value": "Low,Medium,High"
+  }
+]

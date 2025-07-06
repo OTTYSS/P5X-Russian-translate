@@ -1,0 +1,682 @@
+[
+  {
+    "sn": 2,
+    "description": "正常待机",
+    "callAction": "normal_zhengchang_idle",
+    "playType": 1,
+    "paramAction": 1,
+    "paramMovestate": 0,
+    "paramWeather": 1,
+    "paramOutdoor": -1
+  },
+  {
+    "sn": 3,
+    "description": "正常行走",
+    "callAction": "normal_zhengchang_walk",
+    "playType": 1,
+    "paramAction": 1,
+    "paramMovestate": 1,
+    "paramWeather": 1,
+    "paramOutdoor": -1
+  },
+  {
+    "sn": 5,
+    "description": "抱肩待机",
+    "callAction": "normal_baojian_idle",
+    "playType": 1,
+    "paramAction": 2,
+    "paramMovestate": 0,
+    "paramWeather": 1,
+    "paramOutdoor": -1
+  },
+  {
+    "sn": 6,
+    "description": "抱肩行走",
+    "callAction": "normal_baojian_walk",
+    "playType": 1,
+    "paramAction": 2,
+    "paramMovestate": 1,
+    "paramWeather": 1,
+    "paramOutdoor": -1
+  },
+  {
+    "sn": 8,
+    "description": "看手机待机",
+    "callAction": "normal_kanshouji_idle",
+    "playType": 1,
+    "paramAction": 3,
+    "paramMovestate": 0,
+    "paramWeather": 1,
+    "paramOutdoor": -1
+  },
+  {
+    "sn": 9,
+    "description": "看手机行走",
+    "callAction": "normal_kanshouji_walk",
+    "playType": 1,
+    "paramAction": 3,
+    "paramMovestate": 1,
+    "paramWeather": 1,
+    "paramOutdoor": -1
+  },
+  {
+    "sn": 11,
+    "description": "手扶肩挎包待机",
+    "callAction": "normal_shoufujiankuabao_idle",
+    "playType": 1,
+    "paramAction": 4,
+    "paramMovestate": 0,
+    "paramWeather": 1,
+    "paramOutdoor": -1
+  },
+  {
+    "sn": 12,
+    "description": "手扶肩挎包行走",
+    "callAction": "normal_shoufujiankuabao_walk",
+    "playType": 1,
+    "paramAction": 4,
+    "paramMovestate": 1,
+    "paramWeather": 1,
+    "paramOutdoor": -1
+  },
+  {
+    "sn": 14,
+    "description": "手挎包待机",
+    "callAction": "normal_shoukuabao_idle",
+    "playType": 1,
+    "paramAction": 5,
+    "paramMovestate": 0,
+    "paramWeather": 1,
+    "paramOutdoor": -1
+  },
+  {
+    "sn": 15,
+    "description": "手挎包行走",
+    "callAction": "normal_shoukuabao_walk",
+    "playType": 1,
+    "paramAction": 5,
+    "paramMovestate": 1,
+    "paramWeather": 1,
+    "paramOutdoor": -1
+  },
+  {
+    "sn": 17,
+    "description": "手拎包待机",
+    "callAction": "normal_shoulinbao_idle",
+    "playType": 1,
+    "paramAction": 6,
+    "paramMovestate": 0,
+    "paramWeather": 1,
+    "paramOutdoor": -1
+  },
+  {
+    "sn": 18,
+    "description": "手拎包行走",
+    "callAction": "normal_shoulinbao_walk",
+    "playType": 1,
+    "paramAction": 6,
+    "paramMovestate": 1,
+    "paramWeather": 1,
+    "paramOutdoor": -1
+  },
+  {
+    "sn": 20,
+    "description": "拎包插兜待机",
+    "callAction": "normal_linbaochadou_idle",
+    "playType": 1,
+    "paramAction": 7,
+    "paramMovestate": 0,
+    "paramWeather": 1,
+    "paramOutdoor": -1
+  },
+  {
+    "sn": 21,
+    "description": "拎包插兜行走",
+    "callAction": "normal_linbaochadou_walk",
+    "playType": 1,
+    "paramAction": 7,
+    "paramMovestate": 1,
+    "paramWeather": 1,
+    "paramOutdoor": -1
+  },
+  {
+    "sn": 23,
+    "description": "正常待机",
+    "callAction": "normal_zhengchang_idle",
+    "playType": 1,
+    "paramAction": 1,
+    "paramMovestate": 0,
+    "paramWeather": 3,
+    "paramOutdoor": 0
+  },
+  {
+    "sn": 24,
+    "description": "正常行走",
+    "callAction": "normal_zhengchang_walk",
+    "playType": 1,
+    "paramAction": 1,
+    "paramMovestate": 1,
+    "paramWeather": 3,
+    "paramOutdoor": 0
+  },
+  {
+    "sn": 26,
+    "description": "抱肩待机",
+    "callAction": "normal_baojian_idle",
+    "playType": 1,
+    "paramAction": 2,
+    "paramMovestate": 0,
+    "paramWeather": 3,
+    "paramOutdoor": 0
+  },
+  {
+    "sn": 27,
+    "description": "抱肩行走",
+    "callAction": "normal_baojian_walk",
+    "playType": 1,
+    "paramAction": 2,
+    "paramMovestate": 1,
+    "paramWeather": 3,
+    "paramOutdoor": 0
+  },
+  {
+    "sn": 29,
+    "description": "看手机待机",
+    "callAction": "normal_kanshouji_idle",
+    "playType": 1,
+    "paramAction": 3,
+    "paramMovestate": 0,
+    "paramWeather": 3,
+    "paramOutdoor": 0
+  },
+  {
+    "sn": 30,
+    "description": "看手机行走",
+    "callAction": "normal_kanshouji_walk",
+    "playType": 1,
+    "paramAction": 3,
+    "paramMovestate": 1,
+    "paramWeather": 3,
+    "paramOutdoor": 0
+  },
+  {
+    "sn": 32,
+    "description": "手扶肩挎包待机",
+    "callAction": "normal_shoufujiankuabao_idle",
+    "playType": 1,
+    "paramAction": 4,
+    "paramMovestate": 0,
+    "paramWeather": 3,
+    "paramOutdoor": 0
+  },
+  {
+    "sn": 33,
+    "description": "手扶肩挎包行走",
+    "callAction": "normal_shoufujiankuabao_walk",
+    "playType": 1,
+    "paramAction": 4,
+    "paramMovestate": 1,
+    "paramWeather": 3,
+    "paramOutdoor": 0
+  },
+  {
+    "sn": 35,
+    "description": "手挎包待机",
+    "callAction": "normal_shoukuabao_idle",
+    "playType": 1,
+    "paramAction": 5,
+    "paramMovestate": 0,
+    "paramWeather": 3,
+    "paramOutdoor": 0
+  },
+  {
+    "sn": 36,
+    "description": "手挎包行走",
+    "callAction": "normal_shoukuabao_walk",
+    "playType": 1,
+    "paramAction": 5,
+    "paramMovestate": 1,
+    "paramWeather": 3,
+    "paramOutdoor": 0
+  },
+  {
+    "sn": 38,
+    "description": "手拎包待机",
+    "callAction": "normal_shoulinbao_idle",
+    "playType": 1,
+    "paramAction": 6,
+    "paramMovestate": 0,
+    "paramWeather": 3,
+    "paramOutdoor": 0
+  },
+  {
+    "sn": 39,
+    "description": "手拎包行走",
+    "callAction": "normal_shoulinbao_walk",
+    "playType": 1,
+    "paramAction": 6,
+    "paramMovestate": 1,
+    "paramWeather": 3,
+    "paramOutdoor": 0
+  },
+  {
+    "sn": 41,
+    "description": "拎包插兜待机",
+    "callAction": "normal_linbaochadou_idle",
+    "playType": 1,
+    "paramAction": 7,
+    "paramMovestate": 0,
+    "paramWeather": 3,
+    "paramOutdoor": 0
+  },
+  {
+    "sn": 42,
+    "description": "拎包插兜行走",
+    "callAction": "normal_linbaochadou_walk",
+    "playType": 1,
+    "paramAction": 7,
+    "paramMovestate": 1,
+    "paramWeather": 3,
+    "paramOutdoor": 0
+  },
+  {
+    "sn": 43,
+    "description": "打伞待机",
+    "callAction": "umbrella_idle",
+    "playType": 1,
+    "paramAction": -1,
+    "paramMovestate": 0,
+    "paramWeather": 3,
+    "paramOutdoor": 1
+  },
+  {
+    "sn": 44,
+    "description": "打伞移动",
+    "callAction": "umbrella_walk",
+    "playType": 1,
+    "paramAction": -1,
+    "paramMovestate": 1,
+    "paramWeather": 3,
+    "paramOutdoor": 1
+  },
+  {
+    "sn": 45,
+    "description": "自拍杆",
+    "callAction": "normal_pause00",
+    "playType": 1,
+    "paramAction": 100,
+    "paramMovestate": -1,
+    "paramWeather": 1,
+    "paramOutdoor": -1
+  },
+  {
+    "sn": 46,
+    "description": "抽烟",
+    "callAction": "normal_pause01",
+    "playType": 1,
+    "paramAction": 101,
+    "paramMovestate": -1,
+    "paramWeather": 1,
+    "paramOutdoor": -1
+  },
+  {
+    "sn": 47,
+    "description": "向右看",
+    "callAction": "normal_pause02",
+    "playType": 1,
+    "paramAction": 102,
+    "paramMovestate": -1,
+    "paramWeather": 1,
+    "paramOutdoor": -1
+  },
+  {
+    "sn": 48,
+    "description": "坐看手机",
+    "callAction": "normal_pause03",
+    "playType": 1,
+    "paramAction": 103,
+    "paramMovestate": -1,
+    "paramWeather": 1,
+    "paramOutdoor": -1
+  },
+  {
+    "sn": 49,
+    "description": "靠墙看手机",
+    "callAction": "normal_pause04",
+    "playType": 1,
+    "paramAction": 104,
+    "paramMovestate": -1,
+    "paramWeather": 1,
+    "paramOutdoor": -1
+  },
+  {
+    "sn": 50,
+    "description": "打电话",
+    "callAction": "normal_pause05",
+    "playType": 1,
+    "paramAction": 105,
+    "paramMovestate": -1,
+    "paramWeather": 1,
+    "paramOutdoor": -1
+  },
+  {
+    "sn": 51,
+    "description": "看手机",
+    "callAction": "normal_pause06",
+    "playType": 1,
+    "paramAction": 106,
+    "paramMovestate": -1,
+    "paramWeather": 1,
+    "paramOutdoor": -1
+  },
+  {
+    "sn": 52,
+    "description": "蹲着",
+    "callAction": "normal_pause07",
+    "playType": 1,
+    "paramAction": 107,
+    "paramMovestate": -1,
+    "paramWeather": 1,
+    "paramOutdoor": -1
+  },
+  {
+    "sn": 53,
+    "description": "向前看",
+    "callAction": "normal_pause08",
+    "playType": 1,
+    "paramAction": 108,
+    "paramMovestate": -1,
+    "paramWeather": 1,
+    "paramOutdoor": -1
+  },
+  {
+    "sn": 54,
+    "description": "半蹲",
+    "callAction": "normal_pause09",
+    "playType": 1,
+    "paramAction": 109,
+    "paramMovestate": -1,
+    "paramWeather": 1,
+    "paramOutdoor": -1
+  },
+  {
+    "sn": 55,
+    "description": "扶手拎包",
+    "callAction": "normal_pause10",
+    "playType": 1,
+    "paramAction": 110,
+    "paramMovestate": -1,
+    "paramWeather": 1,
+    "paramOutdoor": -1
+  },
+  {
+    "sn": 56,
+    "description": "盘腿仰头",
+    "callAction": "normal_pause11",
+    "playType": 1,
+    "paramAction": 111,
+    "paramMovestate": -1,
+    "paramWeather": 1,
+    "paramOutdoor": -1
+  },
+  {
+    "sn": 57,
+    "description": "杵地坐",
+    "callAction": "normal_pause12",
+    "playType": 1,
+    "paramAction": 112,
+    "paramMovestate": -1,
+    "paramWeather": 1,
+    "paramOutdoor": -1
+  },
+  {
+    "sn": 58,
+    "description": "盘腿低头",
+    "callAction": "normal_pause13",
+    "playType": 1,
+    "paramAction": 113,
+    "paramMovestate": -1,
+    "paramWeather": 1,
+    "paramOutdoor": -1
+  },
+  {
+    "sn": 59,
+    "description": "盘腿坐看手机",
+    "callAction": "normal_pause14",
+    "playType": 1,
+    "paramAction": 114,
+    "paramMovestate": -1,
+    "paramWeather": 1,
+    "paramOutdoor": -1
+  },
+  {
+    "sn": 60,
+    "description": "坐椅子看手机",
+    "callAction": "normal_pause15",
+    "playType": 1,
+    "paramAction": 115,
+    "paramMovestate": -1,
+    "paramWeather": 1,
+    "paramOutdoor": -1
+  },
+  {
+    "sn": 61,
+    "description": "半蹲斜看",
+    "callAction": "normal_pause16",
+    "playType": 1,
+    "paramAction": 116,
+    "paramMovestate": -1,
+    "paramWeather": 1,
+    "paramOutdoor": -1
+  },
+  {
+    "sn": 62,
+    "description": "靠墙",
+    "callAction": "normal_pause17",
+    "playType": 1,
+    "paramAction": 117,
+    "paramMovestate": -1,
+    "paramWeather": 1,
+    "paramOutdoor": -1
+  },
+  {
+    "sn": 63,
+    "description": "挠头",
+    "callAction": "normal_pause18",
+    "playType": 1,
+    "paramAction": 118,
+    "paramMovestate": -1,
+    "paramWeather": 1,
+    "paramOutdoor": -1
+  },
+  {
+    "sn": 64,
+    "description": "自拍杆",
+    "callAction": "normal_pause00",
+    "playType": 1,
+    "paramAction": 100,
+    "paramMovestate": -1,
+    "paramWeather": 3,
+    "paramOutdoor": 0
+  },
+  {
+    "sn": 65,
+    "description": "抽烟",
+    "callAction": "normal_pause01",
+    "playType": 1,
+    "paramAction": 101,
+    "paramMovestate": -1,
+    "paramWeather": 3,
+    "paramOutdoor": 0
+  },
+  {
+    "sn": 66,
+    "description": "向右看",
+    "callAction": "normal_pause02",
+    "playType": 1,
+    "paramAction": 102,
+    "paramMovestate": -1,
+    "paramWeather": 3,
+    "paramOutdoor": 0
+  },
+  {
+    "sn": 67,
+    "description": "坐看手机",
+    "callAction": "normal_pause03",
+    "playType": 1,
+    "paramAction": 103,
+    "paramMovestate": -1,
+    "paramWeather": 3,
+    "paramOutdoor": 0
+  },
+  {
+    "sn": 68,
+    "description": "靠墙看手机",
+    "callAction": "normal_pause04",
+    "playType": 1,
+    "paramAction": 104,
+    "paramMovestate": -1,
+    "paramWeather": 3,
+    "paramOutdoor": 0
+  },
+  {
+    "sn": 69,
+    "description": "打电话",
+    "callAction": "normal_pause05",
+    "playType": 1,
+    "paramAction": 105,
+    "paramMovestate": -1,
+    "paramWeather": 3,
+    "paramOutdoor": 0
+  },
+  {
+    "sn": 70,
+    "description": "看手机",
+    "callAction": "normal_pause06",
+    "playType": 1,
+    "paramAction": 106,
+    "paramMovestate": -1,
+    "paramWeather": 3,
+    "paramOutdoor": 0
+  },
+  {
+    "sn": 71,
+    "description": "蹲着",
+    "callAction": "normal_pause07",
+    "playType": 1,
+    "paramAction": 107,
+    "paramMovestate": -1,
+    "paramWeather": 3,
+    "paramOutdoor": 0
+  },
+  {
+    "sn": 72,
+    "description": "向前看",
+    "callAction": "normal_pause08",
+    "playType": 1,
+    "paramAction": 108,
+    "paramMovestate": -1,
+    "paramWeather": 3,
+    "paramOutdoor": 0
+  },
+  {
+    "sn": 73,
+    "description": "半蹲",
+    "callAction": "normal_pause09",
+    "playType": 1,
+    "paramAction": 109,
+    "paramMovestate": -1,
+    "paramWeather": 3,
+    "paramOutdoor": 0
+  },
+  {
+    "sn": 74,
+    "description": "扶手拎包",
+    "callAction": "normal_pause10",
+    "playType": 1,
+    "paramAction": 110,
+    "paramMovestate": -1,
+    "paramWeather": 3,
+    "paramOutdoor": 0
+  },
+  {
+    "sn": 75,
+    "description": "盘腿仰头",
+    "callAction": "normal_pause11",
+    "playType": 1,
+    "paramAction": 111,
+    "paramMovestate": -1,
+    "paramWeather": 3,
+    "paramOutdoor": 0
+  },
+  {
+    "sn": 76,
+    "description": "杵地坐",
+    "callAction": "normal_pause12",
+    "playType": 1,
+    "paramAction": 112,
+    "paramMovestate": -1,
+    "paramWeather": 3,
+    "paramOutdoor": 0
+  },
+  {
+    "sn": 77,
+    "description": "盘腿低头",
+    "callAction": "normal_pause13",
+    "playType": 1,
+    "paramAction": 113,
+    "paramMovestate": -1,
+    "paramWeather": 3,
+    "paramOutdoor": 0
+  },
+  {
+    "sn": 78,
+    "description": "盘腿坐看手机",
+    "callAction": "normal_pause14",
+    "playType": 1,
+    "paramAction": 114,
+    "paramMovestate": -1,
+    "paramWeather": 3,
+    "paramOutdoor": 0
+  },
+  {
+    "sn": 79,
+    "description": "坐椅子看手机",
+    "callAction": "normal_pause15",
+    "playType": 1,
+    "paramAction": 115,
+    "paramMovestate": -1,
+    "paramWeather": 3,
+    "paramOutdoor": 0
+  },
+  {
+    "sn": 80,
+    "description": "半蹲斜看",
+    "callAction": "normal_pause16",
+    "playType": 1,
+    "paramAction": 116,
+    "paramMovestate": -1,
+    "paramWeather": 3,
+    "paramOutdoor": 0
+  },
+  {
+    "sn": 81,
+    "description": "靠墙",
+    "callAction": "normal_pause17",
+    "playType": 1,
+    "paramAction": 117,
+    "paramMovestate": -1,
+    "paramWeather": 3,
+    "paramOutdoor": 0
+  },
+  {
+    "sn": 82,
+    "description": "挠头",
+    "callAction": "normal_pause18",
+    "playType": 1,
+    "paramAction": 118,
+    "paramMovestate": -1,
+    "paramWeather": 3,
+    "paramOutdoor": 0
+  }
+]

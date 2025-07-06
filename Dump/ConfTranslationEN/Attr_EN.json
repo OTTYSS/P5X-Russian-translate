@@ -1,0 +1,502 @@
+[
+  {
+    "sn": "110",
+    "desc": "St",
+    "attrDesc": "AAAAAA=="
+  },
+  {
+    "sn": "120",
+    "desc": "Ma",
+    "attrDesc": "AAAAAA=="
+  },
+  {
+    "sn": "130",
+    "desc": "Str",
+    "attrDesc": "AAAAAA=="
+  },
+  {
+    "sn": "150",
+    "desc": "Lu",
+    "attrDesc": "AAAAAA=="
+  },
+  {
+    "sn": "210",
+    "desc": "Current HP",
+    "attrDesc": "AAAAAA=="
+  },
+  {
+    "sn": "220",
+    "desc": "Current SP",
+    "attrDesc": "AAAAAA=="
+  },
+  {
+    "sn": "230",
+    "desc": "Current Down Points",
+    "attrDesc": "AAAAAA=="
+  },
+  {
+    "sn": "960",
+    "desc": "Defense Down Points",
+    "attrDesc": "AAAAAA=="
+  },
+  {
+    "sn": "970",
+    "desc": "Skill Down Points",
+    "attrDesc": "AAAAAA=="
+  },
+  {
+    "sn": "240",
+    "desc": "HP",
+    "attrDesc": "AAAAAA=="
+  },
+  {
+    "sn": "250",
+    "desc": "SP",
+    "attrDesc": "AAAAAA=="
+  },
+  {
+    "sn": "260",
+    "desc": "Attack",
+    "attrDesc": "AAAAAA=="
+  },
+  {
+    "sn": "270",
+    "desc": "Defense",
+    "attrDesc": "AAAAAA=="
+  },
+  {
+    "sn": "280",
+    "desc": "Crit Rate",
+    "attrDesc": "AAAAAA=="
+  },
+  {
+    "sn": "290",
+    "desc": "Crit Mult.",
+    "attrDesc": "AAAAAA=="
+  },
+  {
+    "sn": "300",
+    "desc": "Ailment Acc.",
+    "attrDesc": "A higher status ailment accuracy increases the chance of inflicting status ailments (and some special effects) on foes."
+  },
+  {
+    "sn": "310",
+    "desc": "Ailment Resist.",
+    "attrDesc": "A higher status ailment resistance decreases the chance of being inflicted with a status ailment (and some special effects)."
+  },
+  {
+    "sn": "320",
+    "desc": "Down Points",
+    "attrDesc": "AAAAAA=="
+  },
+  {
+    "sn": "330",
+    "desc": "Accuracy",
+    "attrDesc": "AAAAAA=="
+  },
+  {
+    "sn": "340",
+    "desc": "Speed",
+    "attrDesc": "• Speed determines the action order in battle.\n• Skill accuracy changes based on the difference from the target's speed.\n• If Speed is the same, action order will follow party's formation order."
+  },
+  {
+    "sn": "350",
+    "desc": "Ambush",
+    "attrDesc": "AAAAAA=="
+  },
+  {
+    "sn": "360",
+    "desc": "SP Recovery",
+    "attrDesc": "A higher SP recovery rate increases the amount of SP that is restored each turn."
+  },
+  {
+    "sn": "370",
+    "desc": "Pierce Rate",
+    "attrDesc": "A higher pierce rate increases the percentage of Defense that is ignored when dealing damage to foes."
+  },
+  {
+    "sn": "380",
+    "desc": "AAAAAA==",
+    "attrDesc": "AAAAAA=="
+  },
+  {
+    "sn": "410",
+    "desc": "Attack Mult. +",
+    "attrDesc": "AAAAAA=="
+  },
+  {
+    "sn": "420",
+    "desc": "Damage Taken",
+    "attrDesc": "AAAAAA=="
+  },
+  {
+    "sn": "430",
+    "desc": "Physical Mult. +",
+    "attrDesc": "AAAAAA=="
+  },
+  {
+    "sn": "440",
+    "desc": "Gun Mult. +",
+    "attrDesc": "AAAAAA=="
+  },
+  {
+    "sn": "450",
+    "desc": "Fire Mult. +",
+    "attrDesc": "AAAAAA=="
+  },
+  {
+    "sn": "460",
+    "desc": "Ice Mult. +",
+    "attrDesc": "AAAAAA=="
+  },
+  {
+    "sn": "470",
+    "desc": "Electric Mult. +",
+    "attrDesc": "AAAAAA=="
+  },
+  {
+    "sn": "480",
+    "desc": "Wind Mult. +",
+    "attrDesc": "AAAAAA=="
+  },
+  {
+    "sn": "490",
+    "desc": "Psy Mult. +",
+    "attrDesc": "AAAAAA=="
+  },
+  {
+    "sn": "500",
+    "desc": "Nuclear Mult. +",
+    "attrDesc": "AAAAAA=="
+  },
+  {
+    "sn": "510",
+    "desc": "Bless Mult. +",
+    "attrDesc": "AAAAAA=="
+  },
+  {
+    "sn": "520",
+    "desc": "Curse Mult. +",
+    "attrDesc": "AAAAAA=="
+  },
+  {
+    "sn": "530",
+    "desc": "Almighty Mult. +",
+    "attrDesc": "AAAAAA=="
+  },
+  {
+    "sn": "540",
+    "desc": "Physical Damage Taken",
+    "attrDesc": "AAAAAA=="
+  },
+  {
+    "sn": "550",
+    "desc": "Gun Damage Taken",
+    "attrDesc": "AAAAAA=="
+  },
+  {
+    "sn": "560",
+    "desc": "Fire Damage Taken",
+    "attrDesc": "AAAAAA=="
+  },
+  {
+    "sn": "570",
+    "desc": "Ice Damage Taken",
+    "attrDesc": "AAAAAA=="
+  },
+  {
+    "sn": "580",
+    "desc": "Electric Damage Taken",
+    "attrDesc": "AAAAAA=="
+  },
+  {
+    "sn": "590",
+    "desc": "Wind Damage Taken",
+    "attrDesc": "AAAAAA=="
+  },
+  {
+    "sn": "600",
+    "desc": "Psychokinetic Damage Taken",
+    "attrDesc": "AAAAAA=="
+  },
+  {
+    "sn": "610",
+    "desc": "Nuclear Damage Taken",
+    "attrDesc": "AAAAAA=="
+  },
+  {
+    "sn": "620",
+    "desc": "Bless Damage Taken",
+    "attrDesc": "AAAAAA=="
+  },
+  {
+    "sn": "630",
+    "desc": "Curse Damage Taken",
+    "attrDesc": "AAAAAA=="
+  },
+  {
+    "sn": "640",
+    "desc": "Almighty Damage Taken",
+    "attrDesc": "AAAAAA=="
+  },
+  {
+    "sn": "650",
+    "desc": "Critical Hit Taken",
+    "attrDesc": "AAAAAA=="
+  },
+  {
+    "sn": "660",
+    "desc": "Critical Resistance",
+    "attrDesc": "AAAAAA=="
+  },
+  {
+    "sn": "670",
+    "desc": "HP Recovery",
+    "attrDesc": "AAAAAA=="
+  },
+  {
+    "sn": "680",
+    "desc": "HP Recovery Taken",
+    "attrDesc": "AAAAAA=="
+  },
+  {
+    "sn": "690",
+    "desc": "Shield",
+    "attrDesc": "AAAAAA=="
+  },
+  {
+    "sn": "700",
+    "desc": "Shield Received",
+    "attrDesc": "AAAAAA=="
+  },
+  {
+    "sn": "710",
+    "desc": "Skill Custom Parameter 1",
+    "attrDesc": "AAAAAA=="
+  },
+  {
+    "sn": "720",
+    "desc": "Skill Custom Parameter 2",
+    "attrDesc": "AAAAAA=="
+  },
+  {
+    "sn": "730",
+    "desc": "Skill Custom Parameter 3",
+    "attrDesc": "AAAAAA=="
+  },
+  {
+    "sn": "740",
+    "desc": "Skill Custom Parameter 4",
+    "attrDesc": "AAAAAA=="
+  },
+  {
+    "sn": "750",
+    "desc": "Skill Custom Parameter 5",
+    "attrDesc": "AAAAAA=="
+  },
+  {
+    "sn": "760",
+    "desc": "Skill Custom Parameter 6",
+    "attrDesc": "AAAAAA=="
+  },
+  {
+    "sn": "770",
+    "desc": "Skill Custom Parameter 7",
+    "attrDesc": "AAAAAA=="
+  },
+  {
+    "sn": "780",
+    "desc": "Skill Custom Parameter 8",
+    "attrDesc": "AAAAAA=="
+  },
+  {
+    "sn": "790",
+    "desc": "Skill Custom Parameter 9",
+    "attrDesc": "AAAAAA=="
+  },
+  {
+    "sn": "800",
+    "desc": "Skill Custom Parameter 10",
+    "attrDesc": "AAAAAA=="
+  },
+  {
+    "sn": "810",
+    "desc": "Weakness Mult. +",
+    "attrDesc": "AAAAAA=="
+  },
+  {
+    "sn": "820",
+    "desc": "Weak Attack Down",
+    "attrDesc": "AAAAAA=="
+  },
+  {
+    "sn": "830",
+    "desc": "Pierce Resistance",
+    "attrDesc": "AAAAAA=="
+  },
+  {
+    "sn": "840",
+    "desc": "Strong Attack Down",
+    "attrDesc": "AAAAAA=="
+  },
+  {
+    "sn": "850",
+    "desc": "Damage Down",
+    "attrDesc": "AAAAAA=="
+  },
+  {
+    "sn": "860",
+    "desc": "All-Out Attack Damage Taken",
+    "attrDesc": "AAAAAA=="
+  },
+  {
+    "sn": "870",
+    "desc": "One More Damage Taken",
+    "attrDesc": "AAAAAA=="
+  },
+  {
+    "sn": "880",
+    "desc": "Highlight Damage Taken",
+    "attrDesc": "AAAAAA=="
+  },
+  {
+    "sn": "910",
+    "desc": "Weapon Skill Parameter 1",
+    "attrDesc": "AAAAAA=="
+  },
+  {
+    "sn": "920",
+    "desc": "Weapon Skill Parameter 2",
+    "attrDesc": "AAAAAA=="
+  },
+  {
+    "sn": "930",
+    "desc": "Weapon Skill Parameter 3",
+    "attrDesc": "AAAAAA=="
+  },
+  {
+    "sn": "940",
+    "desc": "Weapon Skill Parameter 4",
+    "attrDesc": "AAAAAA=="
+  },
+  {
+    "sn": "950",
+    "desc": "Weapon Skill Parameter 5",
+    "attrDesc": "AAAAAA=="
+  },
+  {
+    "sn": "980",
+    "desc": "Current Progress",
+    "attrDesc": "AAAAAA=="
+  },
+  {
+    "sn": "990",
+    "desc": "Progress Cap",
+    "attrDesc": "AAAAAA=="
+  },
+  {
+    "sn": "1000",
+    "desc": "Play Custom Parameter 1",
+    "attrDesc": "AAAAAA=="
+  },
+  {
+    "sn": "1010",
+    "desc": "Play Custom Parameter 2",
+    "attrDesc": "AAAAAA=="
+  },
+  {
+    "sn": "1020",
+    "desc": "Play Custom Parameter 3",
+    "attrDesc": "AAAAAA=="
+  },
+  {
+    "sn": "1030",
+    "desc": "Play Custom Parameter 4",
+    "attrDesc": "AAAAAA=="
+  },
+  {
+    "sn": "1040",
+    "desc": "Play Custom Parameter 5",
+    "attrDesc": "AAAAAA=="
+  },
+  {
+    "sn": "1050",
+    "desc": "Play Custom Parameter 6",
+    "attrDesc": "AAAAAA=="
+  },
+  {
+    "sn": "1060",
+    "desc": "Play Custom Parameter 7",
+    "attrDesc": "AAAAAA=="
+  },
+  {
+    "sn": "1070",
+    "desc": "Play Custom Parameter 8",
+    "attrDesc": "AAAAAA=="
+  },
+  {
+    "sn": "1080",
+    "desc": "Play Custom Parameter 9",
+    "attrDesc": "AAAAAA=="
+  },
+  {
+    "sn": "1090",
+    "desc": "Play Custom Parameter 10",
+    "attrDesc": "AAAAAA=="
+  },
+  {
+    "sn": "1110",
+    "desc": "Final Mult. +",
+    "attrDesc": "AAAAAA=="
+  },
+  {
+    "sn": "1120",
+    "desc": "Final Damage Taken",
+    "attrDesc": "AAAAAA=="
+  },
+  {
+    "sn": "1130",
+    "desc": "Highlight Gauge Recovery Rate",
+    "attrDesc": "Set at 100% by default. (Highlight Gauge Recovery = Highlight Gauge Base Recovery Rate x Highlight Gauge Recovery Rate)"
+  },
+  {
+    "sn": "1140",
+    "desc": "Oracle Progress Gauge",
+    "attrDesc": "AAAAAA=="
+  },
+  {
+    "sn": "1150",
+    "desc": "Hidden Ability Skill Parameter 1",
+    "attrDesc": "AAAAAA=="
+  },
+  {
+    "sn": "1160",
+    "desc": "Hidden Ability Skill Parameter 2",
+    "attrDesc": "AAAAAA=="
+  },
+  {
+    "sn": "1170",
+    "desc": "Hidden Ability Skill Parameter 3",
+    "attrDesc": "AAAAAA=="
+  },
+  {
+    "sn": "1180",
+    "desc": "Hidden Ability Skill Parameter 4",
+    "attrDesc": "AAAAAA=="
+  },
+  {
+    "sn": "1190",
+    "desc": "Hidden Ability Skill Parameter 5",
+    "attrDesc": "AAAAAA=="
+  },
+  {
+    "sn": "1200",
+    "desc": "AAAAAA==",
+    "attrDesc": "AAAAAA=="
+  },
+  {
+    "sn": "1210",
+    "desc": "AAAAAA==",
+    "attrDesc": "AAAAAA=="
+  }
+]
