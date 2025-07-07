@@ -1699,7 +1699,7 @@ Successful defenses:=Успешные защиты:
 Summary of Mindscape Attribute Enhancement=Итог улучшения атрибутов Ментального ландшафта  
 Summary:=Итог:  
 Sunlight=Солнечный свет  
-Super Rare=Ультраредкий  
+r:"^Super Rare$"="<size\=33>Суперредкий</size>"
 Supply Set Refreshes in:=Обновление набора припасов через:  
 Supply Time=Время поставки  
 Supply Type=Тип припасов  
@@ -1870,7 +1870,7 @@ Turns Survived Bonus Points=Бонусные очки за выжитые ход
 Type Filter=Фильтр типа
 Type: %s=Тип: %s
 Tyrant Set=Набор Тирана
-Ultra Rare=Ультраредкий
+r:"^Ultra Rare$"="<size\=30>Ультраредкий</size>"
 Unblock=Разблокировать
 Under Improvement=В разработке
 Unequip All=Снять всё
