@@ -444,7 +444,7 @@ Companio Rank=Ранг Companio
 Companio Rank:=Ранг Companio:
 Companio Ranking Rewards=Награды рейтинга Companio
 Complete=Завершить
-Complete daily Pass goals to get rewards. Times left: \u3000=Выполняйте ежедневные цели Пропуска для получения наград. Осталось раз: \u3000
+r:"^Complete daily Pass goals to get rewards. Times left: \u3000$"="<size\=20>Выполняйте ежедневные цели для получения наград. Осталось: \u3000</size>"
 Complete high level challenges to update your highest abnormality level badge.=Выполняйте сложные испытания, чтобы обновить значок максимального уровня аномалии.
 Complete Tasks to earn more canned cat food.=Выполняйте задания, чтобы получить больше консервов для кошек.
 Complete the Challenge Goal=Выполните цель испытания
@@ -1763,7 +1763,7 @@ The requested set could not be found.=Набор не найден.
 The requested sub-attribute could not be found.=Дополнительный атрибут не найден.
 The required mission has not been unlocked.=Необходимая миссия не разблокирована.
 The set effect is not active.=Эффект набора не активен.
-The Supply Set restocks every Monday.\nTry to complete daily Pass goals each week!=Набор припасов пополняется по понедельникам.\nСтарайтесь выполнять ежедневные цели Пропуска каждую неделю!
+r:"^The Supply Set restocks every Monday.\nTry to complete daily Pass goals each week!$"="<size\=20>Припасы пополняются по понедельникам.\nСтарайтесь выполнять цели Пропуска каждую неделю!</size>"
 There are multiple set effects for the Space Revelation effect, which is determined by the effects of the Heavens 4-piece set that is currently active. You can determine the effect of the required 4-piece set from the name of the Space set effect.=Эффект "Откровение Космоса" имеет несколько вариантов, зависящих от активного эффекта небесного 4-част. набора. Нужный эффект можно определить по названию эффекта Космического набора.
 There are no fireworks in your backpack. Let's go and make some!=В рюкзаке нет фейерверков. Давайте сделаем их!
 There are no tutorials available.=Нет доступных обучающих материалов.
@@ -1999,7 +1999,7 @@ Weapons with the same rarity can be used for forging.=Оружие одинак�
 Weapons with the same star level can be used as materials.=Оружие одинакового звёздного уровня можно использовать как материал.  
 Weapons with the same star level or\n%scan be used as materials.=Оружие одинакового звёздного уровня или\n%sможно использовать как материал.  
 Weekly Amount:=Недельный лимит:  
-Weekly Cap:=Недельный лимит:  
+r:"^Weekly Cap:"="<size\=23>Нед. лимит:</size>"
 Weekly Contribution: %s=Недельный вклад: %s  
 Weekly Cumulative Rewards:=Накопительные недельные награды:  
 Weekly EXP Cap=Лимит недельного опыта  
