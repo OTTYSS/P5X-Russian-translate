@@ -129,7 +129,7 @@
     "sn": "1011082",
     "title": "Cower",
     "desc": "Increase Skull's skill dmg.",
-    "BuffDesc": "F<color=#000000>e</color>ar",
+    "BuffDesc": "C<color=#000000>o</color>wer",
     "addText": "AAAAAA==",
     "removeText": "AAAAAA==",
     "calText": "AAAAAA=="
@@ -146,7 +146,7 @@
   {
     "sn": "1011121",
     "title": "Shock",
-    "desc": "Increase rate of taking critical hits by 10%.",
+    "desc": "Increase critical taken rate by 10%.",
     "BuffDesc": "S<color=#000000>h</color>ock",
     "addText": "AAAAAA==",
     "removeText": "AAAAAA==",
@@ -299,7 +299,7 @@
   {
     "sn": "1041322",
     "title": "Starfire I",
-    "desc": "Increase stats, and gain Starfire II when effect ends.",
+    "desc": "Increase stats and gain Starfire II when effect ends.",
     "BuffDesc": "S<color=#000000>t</color>arfire I",
     "addText": "AAAAAA==",
     "removeText": "AAAAAA==",
@@ -308,7 +308,7 @@
   {
     "sn": "1041323",
     "title": "Starfire I",
-    "desc": "Increase stats, and gain Starfire II when effect ends.",
+    "desc": "Increase stats and gain Starfire II when effect ends.",
     "BuffDesc": "S<color=#000000>t</color>arfire I",
     "addText": "AAAAAA==",
     "removeText": "AAAAAA==",
@@ -317,7 +317,7 @@
   {
     "sn": "1041324",
     "title": "Starfire I",
-    "desc": "Increase stats, and gain Starfire II when effect ends.",
+    "desc": "Increase stats and gain Starfire II when effect ends.",
     "BuffDesc": "S<color=#000000>t</color>arfire I",
     "addText": "AAAAAA==",
     "removeText": "AAAAAA==",
@@ -326,7 +326,7 @@
   {
     "sn": "1041401",
     "title": "Starfire I",
-    "desc": "Increase stats, and gain Starfire II when effect ends.",
+    "desc": "Increase stats and gain Starfire II when effect ends.",
     "BuffDesc": "S<color=#000000>t</color>arfire I",
     "addText": "AAAAAA==",
     "removeText": "AAAAAA==",
@@ -344,7 +344,7 @@
   {
     "sn": "1041407",
     "title": "Starfire II",
-    "desc": "Increase stats, and gain Starfire III when effect ends.",
+    "desc": "Increase stats and gain Starfire III when effect ends.",
     "BuffDesc": "S<color=#000000>t</color>arfire II",
     "addText": "AAAAAA==",
     "removeText": "AAAAAA==",
@@ -578,7 +578,7 @@
   {
     "sn": "1081316",
     "title": "Shock",
-    "desc": "Increase rate of taking critical hits by 10%.",
+    "desc": "Increase critical taken rate by 10%.",
     "BuffDesc": "S<color=#000000>h</color>ock",
     "addText": "AAAAAA==",
     "removeText": "AAAAAA==",
@@ -624,7 +624,7 @@
     "sn": "1121021",
     "title": "Chosen One",
     "desc": "Increase party's Fire dmg by 5%. When using skill, deal 4% of max HP as dmg.",
-    "BuffDesc": "C<color=#000000>h</color>osen",
+    "BuffDesc": "C<color=#000000>h</color>osen One",
     "addText": "AAAAAA==",
     "removeText": "AAAAAA==",
     "calText": "AAAAAA=="
@@ -651,7 +651,7 @@
     "sn": "1121084",
     "title": "Spreading Flames",
     "desc": "Increase Fire dmg by %s.",
-    "BuffDesc": "C<color=#000000>o</color>ntagious Passion",
+    "BuffDesc": "S<color=#000000>p</color>reading Flames",
     "addText": "AAAAAA==",
     "removeText": "AAAAAA==",
     "calText": "AAAAAA=="
@@ -677,7 +677,7 @@
   {
     "sn": "1121121",
     "title": "Sacred Flame",
-    "desc": "On action, deal Fire dmg based on max HP.",
+    "desc": "On action, deal Fire dmg based on Kiyoshi's max HP.",
     "BuffDesc": "S<color=#000000>a</color>cred Flame",
     "addText": "Inflicted with Sacred Flame!",
     "removeText": "Recovered from Sacred Flame...",
@@ -766,7 +766,7 @@
   },
   {
     "sn": "1131132",
-    "title": "Chains of Salvation",
+    "title": "Chain of Salvation",
     "desc": "Decrease Def by %s.",
     "BuffDesc": "C<color=#000000>h</color>ain of Salvation",
     "addText": "AAAAAA==",
@@ -1101,7 +1101,7 @@
     "sn": "1161041",
     "title": "Zen Blade",
     "desc": "Increase dmg by %s.",
-    "BuffDesc": "E<color=#000000>n</color>lightened Strike",
+    "BuffDesc": "Z<color=#000000>e</color>n Blade",
     "addText": "AAAAAA==",
     "removeText": "AAAAAA==",
     "calText": "AAAAAA=="
@@ -1298,7 +1298,7 @@
   {
     "sn": "1201523",
     "title": "Shock",
-    "desc": "Increase rate of taking critical hits by 10%.",
+    "desc": "Increase critical taken rate by 10%.",
     "BuffDesc": "S<color=#000000>h</color>ock",
     "addText": "AAAAAA==",
     "removeText": "AAAAAA==",
@@ -1937,7 +1937,7 @@
   {
     "sn": "1071024",
     "title": "Power of Friendship",
-    "desc": "Increase party's dmg.",
+    "desc": "Increase party's Atk.",
     "BuffDesc": "AAAAAA==",
     "addText": "AAAAAA==",
     "removeText": "AAAAAA==",
@@ -1946,7 +1946,7 @@
   {
     "sn": "1071123",
     "title": "Power of Friendship",
-    "desc": "Increase party's dmg.",
+    "desc": "Increase party's Atk.",
     "BuffDesc": "AAAAAA==",
     "addText": "AAAAAA==",
     "removeText": "AAAAAA==",
@@ -1955,7 +1955,7 @@
   {
     "sn": "1071524",
     "title": "Power of Friendship",
-    "desc": "Increase party's dmg.",
+    "desc": "Increase party's Atk.",
     "BuffDesc": "AAAAAA==",
     "addText": "AAAAAA==",
     "removeText": "AAAAAA==",
@@ -2108,7 +2108,7 @@
   {
     "sn": "1031021",
     "title": "Shock",
-    "desc": "Increase rate of taking critical hits by 10%.",
+    "desc": "Increase critical taken rate by 10%.",
     "BuffDesc": "S<color=#000000>h</color>ock",
     "addText": "AAAAAA==",
     "removeText": "AAAAAA==",
@@ -2117,7 +2117,7 @@
   {
     "sn": "1031023",
     "title": "Shock",
-    "desc": "Increase rate of taking critical hits by 10%.",
+    "desc": "Increase critical taken rate by 10%.",
     "BuffDesc": "S<color=#000000>h</color>ock",
     "addText": "AAAAAA==",
     "removeText": "AAAAAA==",
@@ -2126,7 +2126,7 @@
   {
     "sn": "1031024",
     "title": "Shock",
-    "desc": "Increase rate of taking critical hits by 10%.",
+    "desc": "Increase critical taken rate by 10%.",
     "BuffDesc": "S<color=#000000>h</color>ock",
     "addText": "AAAAAA==",
     "removeText": "AAAAAA==",
@@ -2135,7 +2135,7 @@
   {
     "sn": "1031025",
     "title": "Shock",
-    "desc": "Increase rate of taking critical hits by 10%.",
+    "desc": "Increase critical taken rate by 10%.",
     "BuffDesc": "S<color=#000000>h</color>ock",
     "addText": "AAAAAA==",
     "removeText": "AAAAAA==",
@@ -2144,7 +2144,7 @@
   {
     "sn": "1031026",
     "title": "Shock",
-    "desc": "Increase rate of taking critical hits by 10%.",
+    "desc": "Increase critical taken rate by 10%.",
     "BuffDesc": "S<color=#000000>h</color>ock",
     "addText": "AAAAAA==",
     "removeText": "AAAAAA==",
@@ -2153,7 +2153,7 @@
   {
     "sn": "1031027",
     "title": "Shock",
-    "desc": "Increase rate of taking critical hits by 10%.",
+    "desc": "Increase critical taken rate by 10%.",
     "BuffDesc": "S<color=#000000>h</color>ock",
     "addText": "AAAAAA==",
     "removeText": "AAAAAA==",
@@ -2189,7 +2189,7 @@
   {
     "sn": "1031522",
     "title": "Shock",
-    "desc": "Increase rate of taking critical hits by 10%.",
+    "desc": "Increase critical taken rate by 10%.",
     "BuffDesc": "S<color=#000000>h</color>ock",
     "addText": "AAAAAA==",
     "removeText": "AAAAAA==",
@@ -2199,7 +2199,7 @@
     "sn": "1031523",
     "title": "Highlight",
     "desc": "Increase Electric dmg taken by %s.",
-    "BuffDesc": "E<color=#000000>l</color>ectric Damage Taken Up",
+    "BuffDesc": "E<color=#000000>l</color>ec Damage Taken Up",
     "addText": "AAAAAA==",
     "removeText": "AAAAAA==",
     "calText": "AAAAAA=="
@@ -2208,7 +2208,7 @@
     "sn": "1031524",
     "title": "Highlight",
     "desc": "Increase Electric dmg taken by %s.",
-    "BuffDesc": "E<color=#000000>l</color>ectric Damage Taken Up",
+    "BuffDesc": "E<color=#000000>l</color>ec Damage Taken Up",
     "addText": "AAAAAA==",
     "removeText": "AAAAAA==",
     "calText": "AAAAAA=="
@@ -2217,7 +2217,7 @@
     "sn": "1141021",
     "title": "Right to Strike",
     "desc": "Increase Atk and speed.",
-    "BuffDesc": "R<color=#000000>i</color>ght to Attack",
+    "BuffDesc": "R<color=#000000>i</color>ght to Strike",
     "addText": "Gained Right to Strike!",
     "removeText": "AAAAAA==",
     "calText": "AAAAAA=="
@@ -2226,7 +2226,7 @@
     "sn": "1141026",
     "title": "Right to Strike",
     "desc": "Increase Atk and speed.",
-    "BuffDesc": "R<color=#000000>i</color>ght to Attack",
+    "BuffDesc": "R<color=#000000>i</color>ght to Strike",
     "addText": "Gained Right to Strike!",
     "removeText": "AAAAAA==",
     "calText": "AAAAAA=="
@@ -2235,7 +2235,7 @@
     "sn": "1141024",
     "title": "Right to Strike",
     "desc": "Increase Atk and speed.",
-    "BuffDesc": "R<color=#000000>i</color>ght to Attack",
+    "BuffDesc": "R<color=#000000>i</color>ght to Strike",
     "addText": "Gained Right to Strike!",
     "removeText": "AAAAAA==",
     "calText": "AAAAAA=="
@@ -2244,7 +2244,7 @@
     "sn": "1141025",
     "title": "Right to Strike",
     "desc": "Increase Atk and speed.",
-    "BuffDesc": "R<color=#000000>i</color>ght to Attack",
+    "BuffDesc": "R<color=#000000>i</color>ght to Strike",
     "addText": "Gained Right to Strike!",
     "removeText": "AAAAAA==",
     "calText": "AAAAAA=="
@@ -2253,7 +2253,7 @@
     "sn": "1141027",
     "title": "Right to Strike",
     "desc": "Increase Atk and speed.",
-    "BuffDesc": "R<color=#000000>i</color>ght to Attack",
+    "BuffDesc": "R<color=#000000>i</color>ght to Strike",
     "addText": "Gained Right to Strike!",
     "removeText": "AAAAAA==",
     "calText": "AAAAAA=="
@@ -2280,7 +2280,7 @@
     "sn": "1141321",
     "title": "Right to Strike",
     "desc": "Increase Atk and speed.",
-    "BuffDesc": "R<color=#000000>i</color>ght to Attack",
+    "BuffDesc": "R<color=#000000>i</color>ght to Strike",
     "addText": "Gained Right to Strike!",
     "removeText": "AAAAAA==",
     "calText": "AAAAAA=="
@@ -2334,7 +2334,7 @@
     "sn": "1091095",
     "title": "Curse Damage Up",
     "desc": "Increase Curse dmg by %s.",
-    "BuffDesc": "C<color=#000000>u</color>rse Damage Up ",
+    "BuffDesc": "C<color=#000000>u</color>rse Damage Up",
     "addText": "AAAAAA==",
     "removeText": "AAAAAA==",
     "calText": "AAAAAA=="
@@ -2405,7 +2405,7 @@
   {
     "sn": "1101021",
     "title": "Greenleaf",
-    "desc": "Spends Greenleaf when skill is used.",
+    "desc": "When using skill, spend Greenleaf.",
     "BuffDesc": "AAAAAA==",
     "addText": "AAAAAA==",
     "removeText": "AAAAAA==",
@@ -2414,7 +2414,7 @@
   {
     "sn": "1101091",
     "title": "Greenleaf",
-    "desc": "Spends Greenleaf when skill is used.",
+    "desc": "When using skill, spend Greenleaf.",
     "BuffDesc": "AAAAAA==",
     "addText": "AAAAAA==",
     "removeText": "AAAAAA==",
@@ -2531,7 +2531,7 @@
   {
     "sn": "1111111",
     "title": "Shock",
-    "desc": "Increase rate of taking critical hits by 10%.",
+    "desc": "Increase critical taken rate by 10%.",
     "BuffDesc": "S<color=#000000>h</color>ock",
     "addText": "AAAAAA==",
     "removeText": "AAAAAA==",
@@ -2657,7 +2657,7 @@
   {
     "sn": "1281111",
     "title": "Affection",
-    "desc": "Riddle acquires Childish Heart after dealing skill dmg",
+    "desc": "After dealing skill dmg, Haruna gains Childish Heart.",
     "BuffDesc": "A<color=#000000>f</color>fection",
     "addText": "AAAAAA==",
     "removeText": "AAAAAA==",
@@ -2666,7 +2666,7 @@
   {
     "sn": "1281121",
     "title": "Ready for Adventure",
-    "desc": "HP Recovery Taken Up %s",
+    "desc": "Increase healing received by %s.",
     "BuffDesc": "R<color=#000000>e</color>ady for Adventure",
     "addText": "AAAAAA==",
     "removeText": "AAAAAA==",
@@ -2675,7 +2675,7 @@
   {
     "sn": "1281122",
     "title": "Ready for Adventure",
-    "desc": "Shield Effect Up %s",
+    "desc": "Increase shield effect by %s.",
     "BuffDesc": "R<color=#000000>e</color>ady for Adventure",
     "addText": "AAAAAA==",
     "removeText": "AAAAAA==",
@@ -2891,7 +2891,7 @@
   {
     "sn": "1301024",
     "title": "Eagle Eye",
-    "desc": "Increase Nuke damage taken by %s.",
+    "desc": "Increase Nuke dmg taken by %s.",
     "BuffDesc": "E<color=#000000>a</color>gle Eye",
     "addText": "AAAAAA==",
     "removeText": "AAAAAA==",
@@ -2954,7 +2954,7 @@
   {
     "sn": "1301115",
     "title": "Shock",
-    "desc": "Increase rate of taking critical hits by 10%.",
+    "desc": "Increase critical taken rate by 10%.",
     "BuffDesc": "S<color=#000000>h</color>ock",
     "addText": "AAAAAA==",
     "removeText": "AAAAAA==",
@@ -2981,16 +2981,16 @@
   {
     "sn": "1301521",
     "title": "Nuke Damage Taken Up",
-    "desc": "Nuke Damage Taken Up %s",
-    "BuffDesc": "N<color=#000000>u</color>ke Damage Taken Up ",
+    "desc": "Increase Nuke dmg taken by %s.",
+    "BuffDesc": "N<color=#000000>u</color>ke Damage Taken Up",
     "addText": "AAAAAA==",
     "removeText": "AAAAAA==",
     "calText": "AAAAAA=="
   },
   {
     "sn": "1311001",
-    "title": "Physical Flavor",
-    "desc": "A cocktail made with 3 Phys mixers.",
+    "title": "Physical Mixer",
+    "desc": "A cocktail made with 3 Physical Mixers.",
     "BuffDesc": "AAAAAA==",
     "addText": "AAAAAA==",
     "removeText": "AAAAAA==",
@@ -2998,8 +2998,8 @@
   },
   {
     "sn": "1311002",
-    "title": "Gun Flavor",
-    "desc": "A cocktail made with 3 Gun mixers.",
+    "title": "Gun Mixer",
+    "desc": "A cocktail made with 3 Gun Mixers.",
     "BuffDesc": "AAAAAA==",
     "addText": "AAAAAA==",
     "removeText": "AAAAAA==",
@@ -3007,8 +3007,8 @@
   },
   {
     "sn": "1311003",
-    "title": "Fire Flavor",
-    "desc": "A cocktail made with 3 Fire mixers.",
+    "title": "Fire Mixer",
+    "desc": "A cocktail made with 3 Fire Mixers.",
     "BuffDesc": "AAAAAA==",
     "addText": "AAAAAA==",
     "removeText": "AAAAAA==",
@@ -3016,8 +3016,8 @@
   },
   {
     "sn": "1311004",
-    "title": "Ice Flavor",
-    "desc": "A cocktail made with 3 Ice mixers.",
+    "title": "Ice Mixer",
+    "desc": "A cocktail made with 3 Ice Mixers.",
     "BuffDesc": "AAAAAA==",
     "addText": "AAAAAA==",
     "removeText": "AAAAAA==",
@@ -3025,8 +3025,8 @@
   },
   {
     "sn": "1311005",
-    "title": "Electric Flavor",
-    "desc": "A cocktail made with 3 Elec mixers.",
+    "title": "Electric Mixer",
+    "desc": "A cocktail made with 3 Electric Mixers.",
     "BuffDesc": "AAAAAA==",
     "addText": "AAAAAA==",
     "removeText": "AAAAAA==",
@@ -3034,8 +3034,8 @@
   },
   {
     "sn": "1311006",
-    "title": "Wind Flavor",
-    "desc": "A cocktail made with 3 Wind mixers.",
+    "title": "Wind Mixer",
+    "desc": "A cocktail made with 3 Wind Mixers.",
     "BuffDesc": "AAAAAA==",
     "addText": "AAAAAA==",
     "removeText": "AAAAAA==",
@@ -3043,8 +3043,8 @@
   },
   {
     "sn": "1311007",
-    "title": "Psychokinesis Flavor",
-    "desc": "A cocktail made with 3 Psy mixers.",
+    "title": "Psychokinesis Mixer",
+    "desc": "A cocktail made with 3 Psychokinesis Mixers.",
     "BuffDesc": "AAAAAA==",
     "addText": "AAAAAA==",
     "removeText": "AAAAAA==",
@@ -3052,8 +3052,8 @@
   },
   {
     "sn": "1311008",
-    "title": "Nuclear Flavor",
-    "desc": "A cocktail made with 3 Nuke mixers.",
+    "title": "Nuclear Mixer",
+    "desc": "A cocktail made with 3 Nuclear Mixers.",
     "BuffDesc": "AAAAAA==",
     "addText": "AAAAAA==",
     "removeText": "AAAAAA==",
@@ -3061,8 +3061,8 @@
   },
   {
     "sn": "1311009",
-    "title": "Blessed Flavor",
-    "desc": "A cocktail made with 3 Bless mixers.",
+    "title": "Bless Mixer",
+    "desc": "A cocktail made with 3 Bless Mixers.",
     "BuffDesc": "AAAAAA==",
     "addText": "AAAAAA==",
     "removeText": "AAAAAA==",
@@ -3070,8 +3070,8 @@
   },
   {
     "sn": "1311010",
-    "title": "Cursed Flavor",
-    "desc": "A cocktail made with 3 Curse mixers.",
+    "title": "Curse Mixer",
+    "desc": "A cocktail made with 3 Curse Mixers.",
     "BuffDesc": "AAAAAA==",
     "addText": "AAAAAA==",
     "removeText": "AAAAAA==",
@@ -3079,8 +3079,8 @@
   },
   {
     "sn": "1311011",
-    "title": "Almighty Flavor",
-    "desc": "A cocktail made with 3 Almighty mixers.",
+    "title": "Almighty Mixer",
+    "desc": "A cocktail made with 3 Almighty Mixers.",
     "BuffDesc": "AAAAAA==",
     "addText": "AAAAAA==",
     "removeText": "AAAAAA==",
@@ -3089,7 +3089,7 @@
   {
     "sn": "1311021",
     "title": "Tailor-Made",
-    "desc": "Combination of 3 Mixers of same attribute.",
+    "desc": "Made with 3 Mixers of same attribute.",
     "BuffDesc": "AAAAAA==",
     "addText": "AAAAAA==",
     "removeText": "AAAAAA==",
@@ -3683,8 +3683,8 @@
   {
     "sn": "1102021",
     "title": "Sparklers",
-    "desc": "When 3 Sparklers are applied, Tomoko activates Dazzling Fireworks.",
-    "BuffDesc": "S<color=#000000>p</color>ark",
+    "desc": "At 3 Sparklers, have Tomoko activate Dazzling Fireworks.",
+    "BuffDesc": "S<color=#000000>p</color>arklers",
     "addText": "AAAAAA==",
     "removeText": "AAAAAA==",
     "calText": "AAAAAA=="
@@ -3728,7 +3728,7 @@
   {
     "sn": "1102029",
     "title": "Sparklers",
-    "desc": "When 3 Sparklers are applied, Tomoko activates Dazzling Fireworks.",
+    "desc": "At 3 Sparklers, have Tomoko activate Dazzling Fireworks.",
     "BuffDesc": "S<color=#000000>p</color>arklers",
     "addText": "AAAAAA==",
     "removeText": "AAAAAA==",
@@ -3737,7 +3737,7 @@
   {
     "sn": "1102035",
     "title": "Sparklers",
-    "desc": "When 3 Sparklers are applied, Tomoko activates Dazzling Fireworks.",
+    "desc": "At 3 Sparklers, have Tomoko activate Dazzling Fireworks.",
     "BuffDesc": "S<color=#000000>p</color>arklers",
     "addText": "AAAAAA==",
     "removeText": "AAAAAA==",
@@ -3745,8 +3745,8 @@
   },
   {
     "sn": "1102036",
-    "title": "Spark",
-    "desc": "When 3 Sparklers are applied, Tomoko activates Dazzling Fireworks.",
+    "title": "Sparklers",
+    "desc": "At 3 Sparklers, have Tomoko activate Dazzling Fireworks.",
     "BuffDesc": "S<color=#000000>p</color>arklers",
     "addText": "AAAAAA==",
     "removeText": "AAAAAA==",
@@ -3764,7 +3764,7 @@
   {
     "sn": "1102111",
     "title": "Sparklers",
-    "desc": "When 3 Sparklers are applied, Tomoko activates Dazzling Fireworks.",
+    "desc": "At 3 Sparklers, have Tomoko activate Dazzling Fireworks.",
     "BuffDesc": "S<color=#000000>p</color>arklers",
     "addText": "AAAAAA==",
     "removeText": "AAAAAA==",
@@ -3773,7 +3773,7 @@
   {
     "sn": "1102113",
     "title": "Sparklers",
-    "desc": "When 3 Sparklers are applied, Tomoko activates Dazzling Fireworks.",
+    "desc": "At 3 Sparklers, have Tomoko activate Dazzling Fireworks.",
     "BuffDesc": "S<color=#000000>p</color>arklers",
     "addText": "AAAAAA==",
     "removeText": "AAAAAA==",
@@ -3818,7 +3818,7 @@
   {
     "sn": "1102136",
     "title": "Sparklers",
-    "desc": "When 3 Sparklers are applied, Tomoko activates Dazzling Fireworks.",
+    "desc": "At 3 Sparklers, have Tomoko activate Dazzling Fireworks.",
     "BuffDesc": "S<color=#000000>p</color>arklers",
     "addText": "AAAAAA==",
     "removeText": "AAAAAA==",
@@ -3908,7 +3908,7 @@
   {
     "sn": "1331101",
     "title": "Trial of Justice",
-    "desc": "While in effect, increase party's critical rate by 15%.",
+    "desc": "While active, increase party's critical rate by 15%.",
     "BuffDesc": "T<color=#000000>r</color>ial of Justice",
     "addText": "AAAAAA==",
     "removeText": "AAAAAA==",
@@ -3953,7 +3953,7 @@
   {
     "sn": "1102521",
     "title": "Sparklers",
-    "desc": "When 3 Sparklers are applied, Tomoko activates Dazzling Fireworks.",
+    "desc": "At 3 Sparklers, have Tomoko activate Dazzling Fireworks.",
     "BuffDesc": "S<color=#000000>p</color>arklers",
     "addText": "AAAAAA==",
     "removeText": "AAAAAA==",
@@ -3962,7 +3962,7 @@
   {
     "sn": "1102523",
     "title": "Sparklers",
-    "desc": "When 3 Sparklers are applied, Tomoko activates Dazzling Fireworks.",
+    "desc": "At 3 Sparklers, have Tomoko activate Dazzling Fireworks.",
     "BuffDesc": "S<color=#000000>p</color>arklers",
     "addText": "AAAAAA==",
     "removeText": "AAAAAA==",
@@ -5557,7 +5557,7 @@
     "title": "Heat Riser",
     "desc": "Increase Atk, Def, ailment accuracy, and ailment resistance by %s.",
     "BuffDesc": "H<color=#000000>e</color>at Riser",
-    "addText": "Several statuses increased!",
+    "addText": "Several stats increased!",
     "removeText": "AAAAAA==",
     "calText": "AAAAAA=="
   },
@@ -5575,7 +5575,7 @@
     "title": "Debilitate",
     "desc": "Decrease Atk, Def, ailment accuracy, and ailment resistance by %s.",
     "BuffDesc": "D<color=#000000>e</color>bilitate",
-    "addText": "Several statuses decreased!",
+    "addText": "Several stats decreased!",
     "removeText": "AAAAAA==",
     "calText": "AAAAAA=="
   },
@@ -6060,7 +6060,7 @@
     "sn": "85312",
     "title": "Freeze",
     "desc": "Decrease Atk by 12%.",
-    "BuffDesc": "Fre<color=#000000>e</color>ze",
+    "BuffDesc": "F<color=#000000>r</color>eeze",
     "addText": "AAAAAA==",
     "removeText": "AAAAAA==",
     "calText": "AAAAAA=="
@@ -6725,7 +6725,7 @@
   {
     "sn": "400661",
     "title": "Attack Up",
-    "desc": "Increase Atk by %s based on Atk of previous ally to act.",
+    "desc": "Increase Atk by %s, based on Atk of previous ally to act.",
     "BuffDesc": "A<color=#000000>t</color>tack Up",
     "addText": "AAAAAA==",
     "removeText": "AAAAAA==",
@@ -6823,90 +6823,90 @@
   },
   {
     "sn": "401840",
-    "title": "Creepy Dice",
+    "title": "Providence Dice",
     "desc": "Increase Atk by %s.",
-    "BuffDesc": "C<color=#000000>r</color>eepy Dice",
+    "BuffDesc": "P<color=#000000>r</color>ovidence Dice",
     "addText": "AAAAAA==",
     "removeText": "AAAAAA==",
     "calText": "AAAAAA=="
   },
   {
     "sn": "401841",
-    "title": "Creepy Dice",
+    "title": "Providence Dice",
     "desc": "Increase critical rate by %s.",
-    "BuffDesc": "C<color=#000000>r</color>eepy Dice",
+    "BuffDesc": "P<color=#000000>r</color>ovidence Dice",
     "addText": "AAAAAA==",
     "removeText": "AAAAAA==",
     "calText": "AAAAAA=="
   },
   {
     "sn": "401842",
-    "title": "Creepy Dice",
+    "title": "Providence Dice",
     "desc": "Increase critical dmg by %s.",
-    "BuffDesc": "C<color=#000000>r</color>eepy Dice",
+    "BuffDesc": "P<color=#000000>r</color>ovidence Dice",
     "addText": "AAAAAA==",
     "removeText": "AAAAAA==",
     "calText": "AAAAAA=="
   },
   {
     "sn": "401843",
-    "title": "Creepy Dice",
+    "title": "Providence Dice",
     "desc": "Increase HP by %s.",
-    "BuffDesc": "C<color=#000000>r</color>eepy Dice",
+    "BuffDesc": "P<color=#000000>r</color>ovidence Dice",
     "addText": "AAAAAA==",
     "removeText": "AAAAAA==",
     "calText": "AAAAAA=="
   },
   {
     "sn": "401844",
-    "title": "Creepy Dice",
+    "title": "Providence Dice",
     "desc": "Increase Def by %s.",
-    "BuffDesc": "C<color=#000000>r</color>eepy Dice",
+    "BuffDesc": "P<color=#000000>r</color>ovidence Dice",
     "addText": "AAAAAA==",
     "removeText": "AAAAAA==",
     "calText": "AAAAAA=="
   },
   {
     "sn": "401845",
-    "title": "Creepy Dice",
+    "title": "Providence Dice",
     "desc": "Decrease Atk by %s.",
-    "BuffDesc": "C<color=#000000>r</color>eepy Dice",
+    "BuffDesc": "P<color=#000000>r</color>ovidence Dice",
     "addText": "AAAAAA==",
     "removeText": "AAAAAA==",
     "calText": "AAAAAA=="
   },
   {
     "sn": "401846",
-    "title": "Creepy Dice",
+    "title": "Providence Dice",
     "desc": "Decrease critical rate by %s.",
-    "BuffDesc": "C<color=#000000>r</color>eepy Dice",
+    "BuffDesc": "P<color=#000000>r</color>ovidence Dice",
     "addText": "AAAAAA==",
     "removeText": "AAAAAA==",
     "calText": "AAAAAA=="
   },
   {
     "sn": "401847",
-    "title": "Creepy Dice",
+    "title": "Providence Dice",
     "desc": "Decrease critical dmg by %s.",
-    "BuffDesc": "C<color=#000000>r</color>eepy Dice",
+    "BuffDesc": "P<color=#000000>r</color>ovidence Dice",
     "addText": "AAAAAA==",
     "removeText": "AAAAAA==",
     "calText": "AAAAAA=="
   },
   {
     "sn": "401848",
-    "title": "Creepy Dice",
+    "title": "Providence Dice",
     "desc": "Decrease HP by %s.",
-    "BuffDesc": "C<color=#000000>r</color>eepy Dice",
+    "BuffDesc": "P<color=#000000>r</color>ovidence Dice",
     "addText": "AAAAAA==",
     "removeText": "AAAAAA==",
     "calText": "AAAAAA=="
   },
   {
     "sn": "401849",
-    "title": "Creepy Dice",
+    "title": "Providence Dice",
     "desc": "Decrease Def by %s.",
-    "BuffDesc": "C<color=#000000>r</color>eepy Dice",
+    "BuffDesc": "P<color=#000000>r</color>ovidence Dice",
     "addText": "AAAAAA==",
     "removeText": "AAAAAA==",
     "calText": "AAAAAA=="
@@ -7048,7 +7048,7 @@
   },
   {
     "sn": "402731",
-    "title": "Green Record",
+    "title": "Vibrant Record",
     "desc": "Increase max HP by 15% and Atk by 15%.",
     "BuffDesc": "AAAAAA==",
     "addText": "AAAAAA==",
@@ -7057,7 +7057,7 @@
   },
   {
     "sn": "402741",
-    "title": "Red Record",
+    "title": "Brutal Record",
     "desc": "Increase ailment accuracy by 20% and dmg by 10%.",
     "BuffDesc": "AAAAAA==",
     "addText": "AAAAAA==",
@@ -7066,7 +7066,7 @@
   },
   {
     "sn": "402751",
-    "title": "Blue Record",
+    "title": "Enthralling Record",
     "desc": "Increase critical rate by 10% and critical dmg by 20%.",
     "BuffDesc": "AAAAAA==",
     "addText": "AAAAAA==",
@@ -7075,7 +7075,7 @@
   },
   {
     "sn": "402761",
-    "title": "Pink Record",
+    "title": "Durable Record",
     "desc": "Increase Def by 30% and decrease dmg taken by 10%.",
     "BuffDesc": "AAAAAA==",
     "addText": "AAAAAA==",
@@ -7201,7 +7201,7 @@
   },
   {
     "sn": "402951",
-    "title": "Impure Body: No. 1",
+    "title": "Murky: No. 1",
     "desc": "Increase Def by %s.",
     "BuffDesc": "I<color=#000000>m</color>pure Body: No. 1",
     "addText": "AAAAAA==",
@@ -7210,7 +7210,7 @@
   },
   {
     "sn": "402981",
-    "title": "Impure Body: No. 4",
+    "title": "Murky: No. 4",
     "desc": "Shield: %s",
     "BuffDesc": "I<color=#000000>m</color>pure Body: No. 4",
     "addText": "AAAAAA==",
@@ -7301,7 +7301,7 @@
   {
     "sn": "403519",
     "title": "Sparkling Stage",
-    "desc": "Increase pierce resistance by %s.",
+    "desc": "Increase resistance pierce rate by %s.",
     "BuffDesc": "S<color=#000000>p</color>arkling Stage",
     "addText": "AAAAAA==",
     "removeText": "AAAAAA==",
@@ -7327,7 +7327,7 @@
   },
   {
     "sn": "410011",
-    "title": "Passionate Record",
+    "title": "Outworn Record",
     "desc": "Change Fire and Psychokinesis affinities to Weak, and Physical to Null.",
     "BuffDesc": "AAAAAA==",
     "addText": "AAAAAA==",
@@ -7336,7 +7336,7 @@
   },
   {
     "sn": "410012",
-    "title": "Passionate Record",
+    "title": "Outworn Record",
     "desc": "Change Fire and Psychokinesis affinities to Weak, and Gun to Null.",
     "BuffDesc": "AAAAAA==",
     "addText": "AAAAAA==",
@@ -7345,7 +7345,7 @@
   },
   {
     "sn": "410013",
-    "title": "Passionate Record",
+    "title": "Outworn Record",
     "desc": "Change Fire and Psychokinesis affinities to Weak, and Ice to Null.",
     "BuffDesc": "AAAAAA==",
     "addText": "AAAAAA==",
@@ -7354,7 +7354,7 @@
   },
   {
     "sn": "410014",
-    "title": "Passionate Record",
+    "title": "Outworn Record",
     "desc": "Change Fire and Psychokinesis affinities to Weak, and Electric to Null.",
     "BuffDesc": "AAAAAA==",
     "addText": "AAAAAA==",
@@ -7363,7 +7363,7 @@
   },
   {
     "sn": "410015",
-    "title": "Passionate Record",
+    "title": "Outworn Record",
     "desc": "Change Fire and Psychokinesis affinities to Weak, and Wind to Null.",
     "BuffDesc": "AAAAAA==",
     "addText": "AAAAAA==",
@@ -7372,7 +7372,7 @@
   },
   {
     "sn": "410016",
-    "title": "Passionate Record",
+    "title": "Outworn Record",
     "desc": "Change Fire and Psychokinesis affinities to Weak, and Nuclear to Null.",
     "BuffDesc": "AAAAAA==",
     "addText": "AAAAAA==",
@@ -7381,7 +7381,7 @@
   },
   {
     "sn": "410017",
-    "title": "Passionate Record",
+    "title": "Outworn Record",
     "desc": "Change Fire and Psychokinesis affinities to Weak, and Bless to Null.",
     "BuffDesc": "AAAAAA==",
     "addText": "AAAAAA==",
@@ -7390,7 +7390,7 @@
   },
   {
     "sn": "410018",
-    "title": "Passionate Record",
+    "title": "Outworn Record",
     "desc": "Change Fire and Psychokinesis affinities to Weak, and Curse to Null.",
     "BuffDesc": "AAAAAA==",
     "addText": "AAAAAA==",
@@ -7399,7 +7399,7 @@
   },
   {
     "sn": "410021",
-    "title": "Analytical Record",
+    "title": "Jazz Record",
     "desc": "Change Ice and Nuclear affinities to Weak, and Physical to Null.",
     "BuffDesc": "AAAAAA==",
     "addText": "AAAAAA==",
@@ -7408,7 +7408,7 @@
   },
   {
     "sn": "410022",
-    "title": "Analytical Record",
+    "title": "Jazz Record",
     "desc": "Change Ice and Nuclear affinities to Weak, and Gun to Null.",
     "BuffDesc": "AAAAAA==",
     "addText": "AAAAAA==",
@@ -7417,7 +7417,7 @@
   },
   {
     "sn": "410023",
-    "title": "Analytical Record",
+    "title": "Jazz Record",
     "desc": "Change Ice and Nuclear affinities to Weak, and Fire to Null.",
     "BuffDesc": "AAAAAA==",
     "addText": "AAAAAA==",
@@ -7426,7 +7426,7 @@
   },
   {
     "sn": "410024",
-    "title": "Analytical Record",
+    "title": "Jazz Record",
     "desc": "Change Ice and Nuclear affinities to Weak, and Electric to Null.",
     "BuffDesc": "AAAAAA==",
     "addText": "AAAAAA==",
@@ -7435,7 +7435,7 @@
   },
   {
     "sn": "410025",
-    "title": "Analytical Record",
+    "title": "Jazz Record",
     "desc": "Change Ice and Nuclear affinities to Weak, and Wind to Null.",
     "BuffDesc": "AAAAAA==",
     "addText": "AAAAAA==",
@@ -7453,7 +7453,7 @@
   },
   {
     "sn": "410027",
-    "title": "Analytical Record",
+    "title": "Jazz Record",
     "desc": "Change Ice and Nuclear affinities to Weak, and Bless to Null.",
     "BuffDesc": "AAAAAA==",
     "addText": "AAAAAA==",
@@ -7462,7 +7462,7 @@
   },
   {
     "sn": "410028",
-    "title": "Analytical Record",
+    "title": "Jazz Record",
     "desc": "Change Ice and Nuclear affinities to Weak, and Curse to Null.",
     "BuffDesc": "AAAAAA==",
     "addText": "AAAAAA==",
@@ -7471,7 +7471,7 @@
   },
   {
     "sn": "410031",
-    "title": "Revelatory Record",
+    "title": "Reggae Record",
     "desc": "Change Electric and Bless affinities to Weak, and Physical to Null.",
     "BuffDesc": "AAAAAA==",
     "addText": "AAAAAA==",
@@ -7480,7 +7480,7 @@
   },
   {
     "sn": "410032",
-    "title": "Revelatory Record",
+    "title": "Reggae Record",
     "desc": "Change Electric and Bless affinities to Weak, and Gun to Null.",
     "BuffDesc": "AAAAAA==",
     "addText": "AAAAAA==",
@@ -7489,7 +7489,7 @@
   },
   {
     "sn": "410033",
-    "title": "Revelatory Record",
+    "title": "Reggae Record",
     "desc": "Change Electric and Bless affinities to Weak, and Fire to Null.",
     "BuffDesc": "AAAAAA==",
     "addText": "AAAAAA==",
@@ -7498,7 +7498,7 @@
   },
   {
     "sn": "410034",
-    "title": "Revelatory Record",
+    "title": "Reggae Record",
     "desc": "Change Electric and Bless affinities to Weak, and Ice to Null.",
     "BuffDesc": "AAAAAA==",
     "addText": "AAAAAA==",
@@ -7516,7 +7516,7 @@
   },
   {
     "sn": "410036",
-    "title": "Revelatory Record",
+    "title": "Reggae Record",
     "desc": "Change Electric and Bless affinities to Weak, and Psychokinesis to Null.",
     "BuffDesc": "AAAAAA==",
     "addText": "AAAAAA==",
@@ -7525,7 +7525,7 @@
   },
   {
     "sn": "410037",
-    "title": "Revelatory Record",
+    "title": "Reggae Record",
     "desc": "Change Electric and Bless affinities to Weak, and Nuclear to Null.",
     "BuffDesc": "AAAAAA==",
     "addText": "AAAAAA==",
@@ -7534,7 +7534,7 @@
   },
   {
     "sn": "410038",
-    "title": "Revelatory Record",
+    "title": "Reggae Record",
     "desc": "Change Electric and Bless affinities to Weak, and Curse to Null.",
     "BuffDesc": "AAAAAA==",
     "addText": "AAAAAA==",
@@ -7579,7 +7579,7 @@
   },
   {
     "sn": "410045",
-    "title": "Haunting Record",
+    "title": "Mournful Record",
     "desc": "Change Wind and Curse affinities to Weak, and Electric to Null.",
     "BuffDesc": "AAAAAA==",
     "addText": "AAAAAA==",
@@ -7625,7 +7625,7 @@
   {
     "sn": "410063",
     "title": "Multi-Frequency Radio",
-    "desc": "Increase pierce resistance by %s.",
+    "desc": "Increase resistance pierce rate by %s.",
     "BuffDesc": "M<color=#000000>u</color>lti-Frequency Radio",
     "addText": "AAAAAA==",
     "removeText": "AAAAAA==",
@@ -7797,7 +7797,7 @@
     "sn": "403282",
     "title": "Ritual: 2 Set",
     "desc": "Increase weakness dmg taken by %s.",
-    "BuffDesc": "R<color=#000000>i</color>tual: 2-piece Set",
+    "BuffDesc": "R<color=#000000>i</color>tual: 2 Set",
     "addText": "AAAAAA==",
     "removeText": "AAAAAA==",
     "calText": "AAAAAA=="
@@ -7806,7 +7806,7 @@
     "sn": "403296",
     "title": "Ritual: 4 Set",
     "desc": "Change all affinities to Weak.",
-    "BuffDesc": "R<color=#000000>i</color>tual: 4-piece Set",
+    "BuffDesc": "R<color=#000000>i</color>tual: 4 Set",
     "addText": "AAAAAA==",
     "removeText": "AAAAAA==",
     "calText": "AAAAAA=="
@@ -7815,7 +7815,7 @@
     "sn": "403297",
     "title": "Ritual: 4 Set",
     "desc": "Increase dmg taken by %s.",
-    "BuffDesc": "R<color=#000000>i</color>tual: 4-piece Set",
+    "BuffDesc": "R<color=#000000>i</color>tual: 4 Set",
     "addText": "AAAAAA==",
     "removeText": "AAAAAA==",
     "calText": "AAAAAA=="
@@ -7824,7 +7824,7 @@
     "sn": "403382",
     "title": "Resound: 2 Set",
     "desc": "Increase weakness dmg taken by %s.",
-    "BuffDesc": "R<color=#000000>e</color>sound: 2-piece Set",
+    "BuffDesc": "R<color=#000000>e</color>sound: 2 Set",
     "addText": "AAAAAA==",
     "removeText": "AAAAAA==",
     "calText": "AAAAAA=="
@@ -7833,7 +7833,7 @@
     "sn": "403397",
     "title": "Resound: 4 Set",
     "desc": "Increase dmg taken by %s.",
-    "BuffDesc": "R<color=#000000>e</color>sound: 4-piece Set",
+    "BuffDesc": "R<color=#000000>e</color>sound: 4 Set",
     "addText": "AAAAAA==",
     "removeText": "AAAAAA==",
     "calText": "AAAAAA=="
@@ -11441,7 +11441,7 @@
   {
     "sn": "62271",
     "title": "Performance Evaluation",
-    "desc": "Increase Attack by %s. When effect ends, change to Corporobo MDL-AM.",
+    "desc": "Increase Attack by %s, change to Corporobo MDL-AM when effect ends.",
     "BuffDesc": "P<color=#000000>e</color>rformance Evaluation",
     "addText": "Given a Performance Evaluation!",
     "removeText": "AAAAAA==",
@@ -11450,7 +11450,7 @@
   {
     "sn": "62281",
     "title": "Performance Evaluation",
-    "desc": "Increase Attack by %s. When effect ends, change to Corporobo MDL-AM.",
+    "desc": "Increase Attack by %s, change to Corporobo MDL-AM when effect ends.",
     "BuffDesc": "P<color=#000000>e</color>rformance Evaluation",
     "addText": "Given a Performance Evaluation!",
     "removeText": "AAAAAA==",
@@ -11459,7 +11459,7 @@
   {
     "sn": "62291",
     "title": "Performance Evaluation",
-    "desc": "Increase Attack by %s. When effect ends, change to Corporobo MDL-AM.",
+    "desc": "Increase Attack by %s, change to Corporobo MDL-AM when effect ends.",
     "BuffDesc": "P<color=#000000>e</color>rformance Evaluation",
     "addText": "Given a Performance Evaluation!",
     "removeText": "AAAAAA==",
@@ -11468,7 +11468,7 @@
   {
     "sn": "62301",
     "title": "Performance Evaluation",
-    "desc": "Increase Attack by %s. When effect ends, change to Corporobo MDL-AM.",
+    "desc": "Increase Attack by %s, change to Corporobo MDL-AM when effect ends.",
     "BuffDesc": "P<color=#000000>e</color>rformance Evaluation",
     "addText": "Given a Performance Evaluation!",
     "removeText": "AAAAAA==",
@@ -11477,7 +11477,7 @@
   {
     "sn": "62311",
     "title": "Performance Evaluation",
-    "desc": "Increase Attack by %s. When effect ends, change to Corporobo MDL-AM.",
+    "desc": "Increase Attack by %s, change to Corporobo MDL-AM when effect ends.",
     "BuffDesc": "P<color=#000000>e</color>rformance Evaluation",
     "addText": "Given a Performance Evaluation!",
     "removeText": "AAAAAA==",
@@ -11486,7 +11486,7 @@
   {
     "sn": "62321",
     "title": "Performance Evaluation",
-    "desc": "Increase Attack by %s. When effect ends, change to Corporobo MDL-AM.",
+    "desc": "Increase Attack by %s, change to Corporobo MDL-AM when effect ends.",
     "BuffDesc": "P<color=#000000>e</color>rformance Evaluation",
     "addText": "Given a Performance Evaluation!",
     "removeText": "AAAAAA==",
@@ -12116,7 +12116,7 @@
   {
     "sn": "39",
     "title": "Riot Control Area",
-    "desc": "Don't activate critical hits, but increase final damage by %s.",
+    "desc": "Cannot activate critical hits, but increase final damage by %s.",
     "BuffDesc": "AAAAAA==",
     "addText": "AAAAAA==",
     "removeText": "AAAAAA==",
@@ -12170,7 +12170,7 @@
   {
     "sn": "281",
     "title": "Shield",
-    "desc": "Negates set amount of damage.",
+    "desc": "Negates fixed amount of damage.",
     "BuffDesc": "S<color=#000000>h</color>ield",
     "addText": "AAAAAA==",
     "removeText": "AAAAAA==",
@@ -12440,7 +12440,7 @@
   {
     "sn": "1348",
     "title": "Fear",
-    "desc": "Fixed chance to become unable to act. Will flee after set number of turns.",
+    "desc": "Fixed chance to become unable to act. Will flee after fixed number of turns.",
     "BuffDesc": "F<color=#000000>e</color>ar",
     "addText": "Inflicted with fear...",
     "removeText": "Recovered from fear!",
@@ -12449,7 +12449,7 @@
   {
     "sn": "1349",
     "title": "Fear",
-    "desc": "Fixed chance to become unable to act. Will flee after set number of turns.",
+    "desc": "Fixed chance to become unable to act. Will flee after fixed number of turns.",
     "BuffDesc": "F<color=#000000>e</color>ar",
     "addText": "Inflicted with confusion...",
     "removeText": "Recovered from fear!",
@@ -12458,7 +12458,7 @@
   {
     "sn": "1350",
     "title": "Despair",
-    "desc": "Unable to act. Lose SP each turn. Become defeated after set number of turns.",
+    "desc": "Unable to act. Lose SP each turn. Defeated after fixed number of turns.",
     "BuffDesc": "D<color=#000000>e</color>spair",
     "addText": "Inflicted with despair...",
     "removeText": "Recovered from despair!",
@@ -12476,7 +12476,7 @@
   {
     "sn": "1352",
     "title": "Despair",
-    "desc": "Unable to act. Lose SP each turn. Become defeated after set number of turns.",
+    "desc": "Unable to act. Lose SP each turn. Defeated after fixed number of turns.",
     "BuffDesc": "D<color=#000000>e</color>spair",
     "addText": "Inflicted with despair...",
     "removeText": "Recovered from despair!",
@@ -12791,7 +12791,7 @@
   {
     "sn": "20013",
     "title": "Shield",
-    "desc": "Negates set amount of dmg.",
+    "desc": "Negates fixed amount of dmg.",
     "BuffDesc": "S<color=#000000>h</color>ield",
     "addText": "AAAAAA==",
     "removeText": "AAAAAA==",
@@ -12800,7 +12800,7 @@
   {
     "sn": "20051",
     "title": "Beast King's Majesty",
-    "desc": "Gain 1 more action. Greatly increase dmg.",
+    "desc": "Gain 1 extra action. Greatly increase dmg.",
     "BuffDesc": "B<color=#000000>e</color>ast King's Majesty",
     "addText": "AAAAAA==",
     "removeText": "AAAAAA==",
@@ -12872,7 +12872,7 @@
   {
     "sn": "20351",
     "title": "Preparing",
-    "desc": "Activate 1 powerful attack next turn.",
+    "desc": "Activate a powerful attack next turn.",
     "BuffDesc": "P<color=#000000>r</color>eparing",
     "addText": "The Wraith of Envy has gathered its power!",
     "removeText": "AAAAAA==",
@@ -12899,7 +12899,7 @@
   {
     "sn": "20401",
     "title": "Preparing",
-    "desc": "Activate 1 powerful attack next turn.",
+    "desc": "Activate a powerful attack next turn.",
     "BuffDesc": "P<color=#000000>r</color>eparing",
     "addText": "%s is getting nervous!",
     "removeText": "AAAAAA==",
@@ -12917,7 +12917,7 @@
   {
     "sn": "20421",
     "title": "Shield",
-    "desc": "Absorb set amount of Ice dmg.",
+    "desc": "Absorb fixed amount of Ice dmg.",
     "BuffDesc": "S<color=#000000>h</color>ield",
     "addText": "Shielded!",
     "removeText": "Shield destroyed!",
@@ -12944,7 +12944,7 @@
   {
     "sn": "20441",
     "title": "Shield",
-    "desc": "Casts powerful attack if shield is not broken in 2 turns.",
+    "desc": "Activates powerful attack if shield is not broken in 2 turns.",
     "BuffDesc": "S<color=#000000>h</color>ield",
     "addText": "%s is preparing a powerful attack...",
     "removeText": "AAAAAA==",
@@ -13007,7 +13007,7 @@
   {
     "sn": "20491",
     "title": "Preparing",
-    "desc": "Activate 1 powerful attack next turn.",
+    "desc": "Activate a powerful attack next turn.",
     "BuffDesc": "P<color=#000000>r</color>eparing",
     "addText": "%s is getting nervous...",
     "removeText": "AAAAAA==",
@@ -13016,7 +13016,7 @@
   {
     "sn": "20501",
     "title": "Shield",
-    "desc": "Negate set amount of Bless dmg.",
+    "desc": "Negate fixed amount of Bless dmg.",
     "BuffDesc": "S<color=#000000>h</color>ield",
     "addText": "AAAAAA==",
     "removeText": "AAAAAA==",
@@ -13178,7 +13178,7 @@
   {
     "sn": "20705",
     "title": "Shield",
-    "desc": "Negates set amount of dmg.",
+    "desc": "Negates fixed amount of dmg.",
     "BuffDesc": "S<color=#000000>h</color>ield",
     "addText": "AAAAAA==",
     "removeText": "AAAAAA==",
@@ -13268,7 +13268,7 @@
   {
     "sn": "20791",
     "title": "Shield",
-    "desc": "Negate set amount of dmg.",
+    "desc": "Negate fixed amount of dmg.",
     "BuffDesc": "S<color=#000000>h</color>ield",
     "addText": "AAAAAA==",
     "removeText": "AAAAAA==",
@@ -13385,7 +13385,7 @@
   {
     "sn": "20871",
     "title": "Thunderous Bastion",
-    "desc": "After dealing set amount of dmg, chance of lightning strike.",
+    "desc": "After dealing fixed amount of dmg, chance of lightning strike.",
     "BuffDesc": "T<color=#000000>h</color>underous Bastion",
     "addText": "AAAAAA==",
     "removeText": "AAAAAA==",
@@ -13403,7 +13403,7 @@
   {
     "sn": "20921",
     "title": "Preparing",
-    "desc": "Activate 1 powerful attack next turn.",
+    "desc": "Activate a powerful attack next turn.",
     "BuffDesc": "P<color=#000000>r</color>eparing",
     "addText": "%s has charged up!",
     "removeText": "AAAAAA==",
@@ -13538,9 +13538,9 @@
   {
     "sn": "30101",
     "title": "Preparing",
-    "desc": "Activate 1 powerful attack next turn.",
+    "desc": "Activate a powerful attack next turn.",
     "BuffDesc": "P<color=#000000>r</color>eparing",
-    "addText": "%s is focusing...",
+    "addText": "%s is preparing...",
     "removeText": "AAAAAA==",
     "calText": "AAAAAA=="
   },
@@ -13619,7 +13619,7 @@
   {
     "sn": "21161",
     "title": "Preparing",
-    "desc": "Activate 1 powerful attack next turn.",
+    "desc": "Activate a powerful attack next turn.",
     "BuffDesc": "P<color=#000000>r</color>eparing",
     "addText": "%s is getting nervous...",
     "removeText": "AAAAAA==",
@@ -13663,7 +13663,7 @@
   },
   {
     "sn": "21191",
-    "title": "Null Dizzy",
+    "title": "Nullify Dizzy",
     "desc": "Become Dizzy when taking weakness dmg.",
     "BuffDesc": "N<color=#000000>u</color>llify Dizzy",
     "addText": "Became susceptible to dizziness!",
@@ -13763,7 +13763,7 @@
   {
     "sn": "21263",
     "title": "Royal Majesty",
-    "desc": "While present, whenever taking foe's skill attack, gain 1 Intimidation.",
+    "desc": "While present, whenever taking foe's skill attack, inflict 1 Intimidation.",
     "BuffDesc": "R<color=#000000>o</color>yal Majesty",
     "addText": "Eligor's aura can be felt...",
     "removeText": "AAAAAA==",
@@ -13792,7 +13792,7 @@
     "title": "Royal Wrath",
     "desc": "Eligor will attack.",
     "BuffDesc": "R<color=#000000>o</color>yal Wrath",
-    "addText": "Became enraged!",
+    "addText": "Became wrathful!",
     "removeText": "AAAAAA==",
     "calText": "AAAAAA=="
   },
@@ -14015,7 +14015,7 @@
   {
     "sn": "21362",
     "title": "Yaksha​",
-    "desc": "Increase user's Atk. Gain 1 stack when hit by normal Physical attack.",
+    "desc": "Increase user's Atk. Gain 1 stack when hit by a normal attack.",
     "BuffDesc": "Y<color=#000000>a</color>ksha​",
     "addText": "AAAAAA==",
     "removeText": "AAAAAA==",
@@ -14059,7 +14059,7 @@
   },
   {
     "sn": "21411",
-    "title": "Counter Position",
+    "title": "Counterattack Stance",
     "desc": "Counterattack 1 time when hit by normal Physical attack.",
     "BuffDesc": "C<color=#000000>o</color>unterattack Stance",
     "addText": "%s has entered Counterattack Stance!",
@@ -14186,7 +14186,7 @@
   {
     "sn": "21603",
     "title": "Shield",
-    "desc": "Negate set amount of dmg. Remove Dizzy from all foes when defeated.",
+    "desc": "Negate fixed amount of dmg. Remove Dizzy from all foes when defeated.",
     "BuffDesc": "S<color=#000000>h</color>ield",
     "addText": "AAAAAA==",
     "removeText": "AAAAAA==",
@@ -14321,7 +14321,7 @@
   {
     "sn": "21861",
     "title": "Defense Position",
-    "desc": "Inflict Dizzy when attacked by foes without Attention. Lasts for 2 turns. ",
+    "desc": "Inflict Dizzy when attacked by foes without Attention. Lasts for 2 turns.",
     "BuffDesc": "D<color=#000000>e</color>fense Position",
     "addText": "AAAAAA==",
     "removeText": "AAAAAA==",
@@ -14356,7 +14356,7 @@
   },
   {
     "sn": "22041",
-    "title": "Hyakki Yagyo",
+    "title": "Hyakki Yagyo +1",
     "desc": "Activates Hyakki Yagyo at 4 stacks.",
     "BuffDesc": "H<color=#000000>y</color>akki Yagyo +1",
     "addText": "AAAAAA==",
@@ -14402,9 +14402,9 @@
   {
     "sn": "22121",
     "title": "Woe",
-    "desc": "Increase dmg by 50% per stack for 1 turn. When taking dmg, lose 1 stack. If Woe at turn start, add 1 Disaster.",
+    "desc": "Increase dmg by 50% per stack for 1 turn. When taking dmg, lose 1 stack. Change to Disaster at turn start.",
     "BuffDesc": "W<color=#000000>o</color>e",
-    "addText": "Gained 3 stacks of Woe!\nLose 1 if damage is taken...",
+    "addText": "Gained 3 Woe stacks!\nLose 1 if damage is taken...",
     "removeText": "AAAAAA==",
     "calText": "AAAAAA=="
   },
@@ -14978,7 +14978,7 @@
   {
     "sn": "22714",
     "title": "Servant",
-    "desc": "Increase buffs when servant is present.",
+    "desc": "Increase stats when servant is present.",
     "BuffDesc": "S<color=#000000>e</color>rvant",
     "addText": "AAAAAA==",
     "removeText": "AAAAAA==",
@@ -15248,7 +15248,7 @@
   {
     "sn": "23013",
     "title": "HP Recovery",
-    "desc": "All enemies recover 30% HP when attacked.",
+    "desc": "All foes recover 30% HP when attacked.",
     "BuffDesc": "H<color=#000000>P</color> Recovery",
     "addText": "AAAAAA==",
     "removeText": "AAAAAA==",
@@ -15319,9 +15319,9 @@
   },
   {
     "sn": "23071",
-    "title": "Interference",
+    "title": "Ruin",
     "desc": "Greatly decrease healing skill effects.",
-    "BuffDesc": "I<color=#000000>n</color>terference",
+    "BuffDesc": "R<color=#000000>u</color>in",
     "addText": "AAAAAA==",
     "removeText": "AAAAAA==",
     "calText": "AAAAAA=="
@@ -15419,7 +15419,7 @@
   {
     "sn": "23241",
     "title": "Shield",
-    "desc": "Shield gained when Take-Minakata uses skill. Negate set amount of dmg.",
+    "desc": "Shield gained when Take-Minakata uses skill. Negate fixed amount of dmg.",
     "BuffDesc": "S<color=#000000>h</color>ield",
     "addText": "AAAAAA==",
     "removeText": "AAAAAA==",
@@ -15428,7 +15428,7 @@
   {
     "sn": "23261",
     "title": "Shield",
-    "desc": "Shield gained by draining War God's Spirit. Negate set amount of dmg.",
+    "desc": "Shield gained by absorbing War God's Spirit. Negate fixed amount of dmg.",
     "BuffDesc": "S<color=#000000>h</color>ield",
     "addText": "AAAAAA==",
     "removeText": "AAAAAA==",
@@ -15535,18 +15535,18 @@
   },
   {
     "sn": "23391",
-    "title": "Natural Life Drain",
-    "desc": "Acquire Lunar Power when Fire, Water, Electric, or Wind dmg is taken.",
-    "BuffDesc": "N<color=#000000>a</color>tural Life Drain",
+    "title": "Natural Attribute Drain",
+    "desc": "Gain Lunar Power when taking Fire, Water, Electric, or Wind dmg.",
+    "BuffDesc": "N<color=#000000>a</color>tural Attribute Drain",
     "addText": "Gain Lunar Power when attacked by Fire, Ice, Electric, or Wind!",
     "removeText": "AAAAAA==",
     "calText": "AAAAAA=="
   },
   {
     "sn": "23392",
-    "title": "Mental Life Drain",
-    "desc": "When taking Psy, Nuke, Bless or Curse dmg, gain Lunar Power.",
-    "BuffDesc": "M<color=#000000>e</color>ntal Life Drain",
+    "title": "Spiritual Attribute Drain",
+    "desc": "Gain Lunar Power when taking Psy, Nuke, Bless or Curse dmg.",
+    "BuffDesc": "S<color=#000000>p</color>iritual Attribute Drain",
     "addText": "Gain Lunar Power when attacked by Psychokinesis, Nuclear, Bless, or Curse!",
     "removeText": "AAAAAA==",
     "calText": "AAAAAA=="
@@ -15580,7 +15580,7 @@
   },
   {
     "sn": "23423",
-    "title": "New Moon",
+    "title": "Full Moon",
     "desc": "Increase dmg dealt by 50%, decrease dmg taken by 50%.",
     "BuffDesc": "F<color=#000000>u</color>ll Moon",
     "addText": "Damage dealt increased, damage taken decreased!",
@@ -15662,7 +15662,7 @@
   {
     "sn": "23462",
     "title": "Sunrise",
-    "desc": "Greatly increase SP cost. Increase dmg dealt by 50%.",
+    "desc": "Greatly increase SP cost. Increase dmg by 50%.",
     "BuffDesc": "S<color=#000000>u</color>nrise",
     "addText": "AAAAAA==",
     "removeText": "AAAAAA==",
@@ -15689,7 +15689,7 @@
   {
     "sn": "23501",
     "title": "Dogu's Protection",
-    "desc": "Psychokinesis and Nuclear affinities changed to Repel.",
+    "desc": "Change Psychokinesis and Nuclear affinities to Repel.",
     "BuffDesc": "D<color=#000000>o</color>gu's Protection",
     "addText": "Psychokinesis and Nuclear affinities become Repel!",
     "removeText": "Psy and Nuke affinities reverted!",
@@ -15743,7 +15743,7 @@
   {
     "sn": "23541",
     "title": "Despair",
-    "desc": "Unable to act. Lose SP each turn. Become defeated after set number of turns.",
+    "desc": "Unable to act. Lose SP each turn. Defeated after fixed number of turns.",
     "BuffDesc": "D<color=#000000>e</color>spair",
     "addText": "Inflicted with despair...",
     "removeText": "Recovered from despair!",
@@ -15770,7 +15770,7 @@
   {
     "sn": "23622",
     "title": "SP Dogu",
-    "desc": "Enemies lose SP each turn.",
+    "desc": "Foes lose SP each turn.",
     "BuffDesc": "S<color=#000000>P</color> Dogu",
     "addText": "%s became a SP Dogu!",
     "removeText": "AAAAAA==",
@@ -15860,7 +15860,7 @@
   {
     "sn": "23781",
     "title": "Escape",
-    "desc": "Will escape after 1 turn. If defeated, Black Frost is will be debuffed.",
+    "desc": "Will escape after 1 turn. If defeated, Black Frost will be debuffed.",
     "BuffDesc": "E<color=#000000>s</color>cape",
     "addText": "%s is trying to escape.\nBlack Frost is debuffed upon defeat...",
     "removeText": "AAAAAA==",
@@ -15905,7 +15905,7 @@
   {
     "sn": "23871",
     "title": "Growth",
-    "desc": "The higher stack count, stronger post-transformation Asura becomes.",
+    "desc": "With more stacks, Asura becomes stronger after transforming.",
     "BuffDesc": "G<color=#000000>r</color>owth",
     "addText": "AAAAAA==",
     "removeText": "AAAAAA==",
@@ -15914,7 +15914,7 @@
   {
     "sn": "23872",
     "title": "Growth",
-    "desc": "The higher stack count, stronger post-transformation Asura becomes.",
+    "desc": "With more stacks, Asura becomes stronger after transforming.",
     "BuffDesc": "G<color=#000000>r</color>owth",
     "addText": "AAAAAA==",
     "removeText": "AAAAAA==",
@@ -16005,7 +16005,7 @@
     "sn": "24031",
     "title": "Times Struck",
     "desc": "Number of attacks received.",
-    "BuffDesc": "S<color=#000000>t</color>rike",
+    "BuffDesc": "T<color=#000000>i</color>mes Struck",
     "addText": "AAAAAA==",
     "removeText": "AAAAAA==",
     "calText": "AAAAAA=="
@@ -16067,7 +16067,7 @@
   {
     "sn": "24161",
     "title": "Saki Mitama",
-    "desc": "Escape after 1 turn. Upon defeat, decrease Jikokuten's Down Points by 3 and change Elec affinity.",
+    "desc": "Escapes after 1 turn. Upon defeat, decrease Jikokuten's Down Points by 3 and change Elec affinity.",
     "BuffDesc": "AAAAAA==",
     "addText": "AAAAAA==",
     "removeText": "AAAAAA==",
@@ -16076,7 +16076,7 @@
   {
     "sn": "24162",
     "title": "Kushi Mitama",
-    "desc": "Escape after 1 turn. Upon defeat, decrease Jikokuten's Down Points by 3 and change Wind affinity.",
+    "desc": "Escapes after 1 turn. Upon defeat, decrease Jikokuten's Down Points by 3 and change Wind affinity.",
     "BuffDesc": "AAAAAA==",
     "addText": "AAAAAA==",
     "removeText": "AAAAAA==",
@@ -16085,7 +16085,7 @@
   {
     "sn": "24163",
     "title": "Nigi Mitama",
-    "desc": "Escape after 1 turn. Upon defeat, decrease Jikokuten's Down Points by 3 and change Ice affinity.",
+    "desc": "Escapes after 1 turn. Upon defeat, decrease Jikokuten's Down Points by 3 and change Ice affinity.",
     "BuffDesc": "AAAAAA==",
     "addText": "AAAAAA==",
     "removeText": "AAAAAA==",
@@ -16094,7 +16094,7 @@
   {
     "sn": "24164",
     "title": "Ara Mitama",
-    "desc": "Escape after 1 turn. Upon defeat, decrease Jikokuten's Down Points by 3 and change Fire affinity.",
+    "desc": "Escapes after 1 turn. Upon defeat, decrease Jikokuten's Down Points by 3 and change Fire affinity.",
     "BuffDesc": "AAAAAA==",
     "addText": "AAAAAA==",
     "removeText": "AAAAAA==",
@@ -16175,7 +16175,7 @@
   {
     "sn": "24231",
     "title": "Special Effect",
-    "desc": "Increase dmg taken based on debuffs granted. (Current Increase: %s)",
+    "desc": "Increase dmg taken based on debuffs inflicted. (Current Increase: %s)",
     "BuffDesc": "S<color=#000000>p</color>ecial Effect",
     "addText": "AAAAAA==",
     "removeText": "AAAAAA==",
@@ -16184,7 +16184,7 @@
   {
     "sn": "24232",
     "title": "Special Effect",
-    "desc": "Increase dmg taken based on debuffs granted. (Current Increase: %s)",
+    "desc": "Increase dmg taken based on debuffs inflicted. (Current Increase: %s)",
     "BuffDesc": "S<color=#000000>p</color>ecial Effect",
     "addText": "AAAAAA==",
     "removeText": "AAAAAA==",
@@ -16220,7 +16220,7 @@
   {
     "sn": "24284",
     "title": "Seiryu's Might",
-    "desc": "Acquire Shield equal to 10% of max HP each turn.",
+    "desc": "Gain Shield equal to 10% of max HP each turn.",
     "BuffDesc": "S<color=#000000>e</color>iryu's Might",
     "addText": "AAAAAA==",
     "removeText": "AAAAAA==",
@@ -16310,7 +16310,7 @@
   {
     "sn": "24333",
     "title": "Mountain Spirit",
-    "desc": "Upon defeat, increase critical hit rate and critical dmg of foe with highest Atk. Can take 1 extra turn.",
+    "desc": "Upon defeat, increase critical hit rate and critical dmg of foe with highest Atk. Can take 1 extra action.",
     "BuffDesc": "AAAAAA==",
     "addText": "AAAAAA==",
     "removeText": "AAAAAA==",
@@ -16328,7 +16328,7 @@
   {
     "sn": "24366",
     "title": "Ragnarok",
-    "desc": "Increase dmg dealt by 5%, but lose HP each turn (max 10 stacks, cannot be removed).",
+    "desc": "Increase dmg by 5%, but lose HP each turn (max 10 stacks, cannot be removed).",
     "BuffDesc": "R<color=#000000>a</color>gnarok",
     "addText": "AAAAAA==",
     "removeText": "AAAAAA==",
@@ -16337,7 +16337,7 @@
   {
     "sn": "24367",
     "title": "Extra Action",
-    "desc": "Can take additional turn.",
+    "desc": "Can take extra action.",
     "BuffDesc": "E<color=#000000>x</color>tra Action",
     "addText": "AAAAAA==",
     "removeText": "AAAAAA==",
@@ -16643,7 +16643,7 @@
   {
     "sn": "24451",
     "title": "Eight Beads of Virtue",
-    "desc": "Increase dmg 50%. Decrease dmg taken 50%. Resist all attributes until granted <color=#FF423F>4 elemental ailments</color>.",
+    "desc": "Increase dmg 50%. Decrease dmg taken 50%. Resist all attributes until taking <color=#FF423F>4 elemental ailments</color>.",
     "BuffDesc": "E<color=#000000>i</color>ght Beads of Virtue",
     "addText": "Damage dealt increased, damage taken decreased!\nRemoved after taking 4 elemental ailments...",
     "removeText": "%s lost the Eight Beads of Virtue!",
@@ -16994,7 +16994,7 @@
   {
     "sn": "24851",
     "title": "Crown's Strength",
-    "desc": "zBonus xshield rom Crown of Desire. (Shield Left: %s)",
+    "desc": "Bonus shield from Crown of Desire. (Shield Left: %s)",
     "BuffDesc": "C<color=#000000>r</color>own's Strength",
     "addText": "Gained shield and buffed!",
     "removeText": "AAAAAA==",
@@ -17003,7 +17003,7 @@
   {
     "sn": "24852",
     "title": "Crown's Majesty",
-    "desc": "Increase dmg dealt by %s. Lose if shield breaks.",
+    "desc": "Increase dmg by %s. Lose if shield breaks.",
     "BuffDesc": "C<color=#000000>r</color>own's Majesty",
     "addText": "AAAAAA==",
     "removeText": "Raga lost Crown's Majesty!",
@@ -17102,7 +17102,7 @@
   {
     "sn": "26361",
     "title": "Heroic Strength",
-    "desc": "Cu Chulainn's Lock On will be lost when shield breaks. (Shield Left: %s)",
+    "desc": "Cu Chulainn's lock on will be lost when shield breaks. (Shield Left: %s)",
     "BuffDesc": "H<color=#000000>e</color>roic Strength",
     "addText": "AAAAAA==",
     "removeText": "AAAAAA==",
@@ -17111,7 +17111,7 @@
   {
     "sn": "26362",
     "title": "Heroic Strength",
-    "desc": "Increase dmg dealt by %s. Lose if shield breaks.",
+    "desc": "Increase dmg by %s. Lose if shield breaks.",
     "BuffDesc": "H<color=#000000>e</color>roic Strength",
     "addText": "AAAAAA==",
     "removeText": "Cu Chulainn lost Heroic Strength!",
@@ -17120,7 +17120,7 @@
   {
     "sn": "26363",
     "title": "Lock On",
-    "desc": "Cu Chulainn Locks On. Take Gae Bolg's attack next turn.",
+    "desc": "Locked on by Cu Chulainn. Take Gae Bolg's attack next turn.",
     "BuffDesc": "L<color=#000000>o</color>ck On",
     "addText": "%s is targeted...",
     "removeText": "AAAAAA==",
@@ -17137,7 +17137,7 @@
   },
   {
     "sn": "27000",
-    "title": "Money",
+    "title": "Funds",
     "desc": "Product of cognition. Power source.",
     "BuffDesc": "F<color=#000000>u</color>nds",
     "addText": "Gained Money!",
@@ -17146,7 +17146,7 @@
   },
   {
     "sn": "27001",
-    "title": "Money",
+    "title": "Funds",
     "desc": "Product of cognition. Power source.",
     "BuffDesc": "F<color=#000000>u</color>nds",
     "addText": "Gained Money!",
@@ -17155,7 +17155,7 @@
   },
   {
     "sn": "27002",
-    "title": "Money",
+    "title": "Funds",
     "desc": "Product of cognition. Power source.",
     "BuffDesc": "F<color=#000000>u</color>nds",
     "addText": "Gained Money!",
@@ -17164,7 +17164,7 @@
   },
   {
     "sn": "27003",
-    "title": "Money",
+    "title": "Funds",
     "desc": "Product of cognition. Power source.",
     "BuffDesc": "F<color=#000000>u</color>nds",
     "addText": "Gained Money!",
@@ -17345,7 +17345,7 @@
   {
     "sn": "27171",
     "title": "Lock On",
-    "desc": "Enemy will Lock On. Increase dmg taken by %s.",
+    "desc": "Locked on. Increase dmg taken by %s.",
     "BuffDesc": "L<color=#000000>o</color>ck On",
     "addText": "%s is targeted...",
     "removeText": "AAAAAA==",
@@ -17354,7 +17354,7 @@
   {
     "sn": "27172",
     "title": "Lock On",
-    "desc": "Enemy will Lock On. Increase dmg taken by %s.",
+    "desc": "Locked on. Increase dmg taken by %s.",
     "BuffDesc": "L<color=#000000>o</color>ck On",
     "addText": "%s is targeted...",
     "removeText": "AAAAAA==",
@@ -17362,7 +17362,7 @@
   },
   {
     "sn": "27176",
-    "title": "Status Buff",
+    "title": "Stat Buff",
     "desc": "Decrease final dmg taken by %s.",
     "BuffDesc": "tdxct-[SkillBuff_BuffDesc_27176]",
     "addText": "AAAAAA==",
@@ -17371,9 +17371,9 @@
   },
   {
     "sn": "27177",
-    "title": "Status Debuff",
+    "title": "Stat Debuff",
     "desc": "Increase weakness dmg taken by %s.",
-    "BuffDesc": "S<color=#000000>t</color>atus Debuff",
+    "BuffDesc": "S<color=#000000>t</color>at Debuff",
     "addText": "AAAAAA==",
     "removeText": "AAAAAA==",
     "calText": "AAAAAA=="
@@ -17390,7 +17390,7 @@
   {
     "sn": "27221",
     "title": "Wrath",
-    "desc": "Activate certain skill after reaching certain level.",
+    "desc": "Activates a skill after reaching certain level.",
     "BuffDesc": "W<color=#000000>r</color>ath",
     "addText": "AAAAAA==",
     "removeText": "AAAAAA==",
@@ -17399,7 +17399,7 @@
   {
     "sn": "27222",
     "title": "Wrath",
-    "desc": "Activate certain skill after reaching certain level.",
+    "desc": "Activates a skill after reaching certain level.",
     "BuffDesc": "W<color=#000000>r</color>ath",
     "addText": "AAAAAA==",
     "removeText": "AAAAAA==",
@@ -17416,9 +17416,9 @@
   },
   {
     "sn": "27224",
-    "title": "Status Debuff",
+    "title": "Stat Debuff",
     "desc": "Increase dmg taken.",
-    "BuffDesc": "S<color=#000000>t</color>atus Debuff",
+    "BuffDesc": "S<color=#000000>t</color>at Debuff",
     "addText": "AAAAAA==",
     "removeText": "AAAAAA==",
     "calText": "AAAAAA=="
@@ -17426,7 +17426,7 @@
   {
     "sn": "27301",
     "title": "Judgment of Good",
-    "desc": "Increase Def by 10%. Negate Judgment of Evil. At 5 stacks, activate Advent of Judgment.",
+    "desc": "Increase Def by 10%. Negates Judgment of Evil. At 5 stacks, activate Advent of Judgment.",
     "BuffDesc": "J<color=#000000>u</color>dgment of Good",
     "addText": "The scale tilted toward Judgment of Good...",
     "removeText": "AAAAAA==",
@@ -17435,7 +17435,7 @@
   {
     "sn": "27302",
     "title": "Judgment of Evil",
-    "desc": "Increase Atk by 10%. Negate Judgment of Good. At 5 stacks, activate Advent of Judgment.",
+    "desc": "Increase Atk by 10%. Negates Judgment of Good. At 5 stacks, activate Advent of Judgment.",
     "BuffDesc": "J<color=#000000>u</color>dgment of Evil",
     "addText": "The scale tilted toward Judgment of Evil...",
     "removeText": "AAAAAA==",
@@ -17534,7 +17534,7 @@
   {
     "sn": "27721",
     "title": "Lock On",
-    "desc": "Take Royal Punishment attacks. When all foes take skill dmg 15 times, remove lock on.",
+    "desc": "Targeted by Royal Punishment. When all foes take skill dmg 15 times, remove lock on.",
     "BuffDesc": "L<color=#000000>o</color>ck On",
     "addText": "%s is targeted...",
     "removeText": "AAAAAA==",
@@ -17543,7 +17543,7 @@
   {
     "sn": "27731",
     "title": "Lock On",
-    "desc": "Take Royal Punishment attacks. When all foes take skill dmg 20 times, remove lock on.",
+    "desc": "Targeted by Royal Punishment. When all foes take skill dmg 20 times, remove lock on.",
     "BuffDesc": "L<color=#000000>o</color>ck On",
     "addText": "%s is targeted...",
     "removeText": "AAAAAA==",
@@ -17552,7 +17552,7 @@
   {
     "sn": "27741",
     "title": "Lock On",
-    "desc": "Take Royal Punishment attacks. When all foes take skill dmg 25 times, remove lock on.",
+    "desc": "Targeted by Royal Punishment. When all foes take skill dmg 25 times, remove lock on.",
     "BuffDesc": "L<color=#000000>o</color>ck On",
     "addText": "%s is targeted...",
     "removeText": "AAAAAA==",
@@ -17831,7 +17831,7 @@
   {
     "sn": "25061",
     "title": "Special Effect",
-    "desc": "Critical dmg down %s",
+    "desc": "Decrease critical dmg by %s",
     "BuffDesc": "S<color=#000000>p</color>ecial Effect",
     "addText": "AAAAAA==",
     "removeText": "AAAAAA==",
@@ -18029,7 +18029,7 @@
   {
     "sn": "25091",
     "title": "Special Effect",
-    "desc": "Increase dmg through Resonance by 50%.",
+    "desc": "Increase dmg from Resonance by 50%.",
     "BuffDesc": "S<color=#000000>p</color>ecial Effect",
     "addText": "AAAAAA==",
     "removeText": "AAAAAA==",
@@ -18038,7 +18038,7 @@
   {
     "sn": "25101",
     "title": "Special Effect",
-    "desc": "Inflict Blessed and increase dmg dealt %s.",
+    "desc": "Grant Blessing and increase dmg by %s.",
     "BuffDesc": "S<color=#000000>p</color>ecial Effect",
     "addText": "AAAAAA==",
     "removeText": "AAAAAA==",
@@ -18047,7 +18047,7 @@
   {
     "sn": "25111",
     "title": "Intimidation",
-    "desc": "Def Down %s. Stacks up to 5 times.",
+    "desc": "Decrease Defense by %s. Stacks up to 5 times.",
     "BuffDesc": "I<color=#000000>n</color>timidation",
     "addText": "AAAAAA==",
     "removeText": "AAAAAA==",
@@ -18056,7 +18056,7 @@
   {
     "sn": "25112",
     "title": "Intimidation",
-    "desc": "Def Down %s. Stacks up to 5 times.",
+    "desc": "Decrease Defense by %s. Stacks up to 5 times.",
     "BuffDesc": "I<color=#000000>n</color>timidation",
     "addText": "AAAAAA==",
     "removeText": "AAAAAA==",
@@ -18065,7 +18065,7 @@
   {
     "sn": "25113",
     "title": "Special Effect",
-    "desc": "At end of each turn, all foes gain 1 Intimidation stack.",
+    "desc": "At end of each turn, inflict 1 Intimidation stack on all foes.",
     "BuffDesc": "S<color=#000000>p</color>ecial Effect",
     "addText": "AAAAAA==",
     "removeText": "AAAAAA==",
@@ -18074,7 +18074,7 @@
   {
     "sn": "25121",
     "title": "Special Effect",
-    "desc": "Increase dmg dealt by %s when protected by Shield.",
+    "desc": "Increase dmg by %s when protected by Shield.",
     "BuffDesc": "S<color=#000000>p</color>ecial Effect",
     "addText": "AAAAAA==",
     "removeText": "AAAAAA==",
@@ -18083,7 +18083,7 @@
   {
     "sn": "25123",
     "title": "Special Effect",
-    "desc": "Increase dmg taken based on elemental ailments granted. (Current Increase: %s)",
+    "desc": "Increase dmg taken based on elemental ailments inflicted. (Current Increase: %s)",
     "BuffDesc": "S<color=#000000>p</color>ecial Effect",
     "addText": "AAAAAA==",
     "removeText": "AAAAAA==",
@@ -18092,7 +18092,7 @@
   {
     "sn": "25125",
     "title": "Special Effect",
-    "desc": "Increase dmg dealt by 50% when using Highlight.",
+    "desc": "Increase dmg by 50% when using Highlight.",
     "BuffDesc": "S<color=#000000>p</color>ecial Effect",
     "addText": "AAAAAA==",
     "removeText": "AAAAAA==",
@@ -18101,7 +18101,7 @@
   {
     "sn": "25131",
     "title": "Special Effect",
-    "desc": "Increase dmg dealt by %s. Stacks up to 80 times.",
+    "desc": "Increase dmg by %s. Stacks up to 80 times.",
     "BuffDesc": "AAAAAA==",
     "addText": "AAAAAA==",
     "removeText": "AAAAAA==",
@@ -18110,7 +18110,7 @@
   {
     "sn": "25132",
     "title": "Special Effect",
-    "desc": "Increase dmg dealt by %s. Stacks up to 10 times.",
+    "desc": "Increase dmg by %s. Stacks up to 10 times.",
     "BuffDesc": "AAAAAA==",
     "addText": "AAAAAA==",
     "removeText": "AAAAAA==",
@@ -18119,7 +18119,7 @@
   {
     "sn": "25133",
     "title": "Damage Up",
-    "desc": "Increase dmg dealt by %s. Stacks up to 5 times.",
+    "desc": "Increase dmg by %s. Stacks up to 5 times.",
     "BuffDesc": "D<color=#000000>a</color>mage Dealt Up",
     "addText": "AAAAAA==",
     "removeText": "AAAAAA==",
@@ -18128,7 +18128,7 @@
   {
     "sn": "25134",
     "title": "Pierce Up",
-    "desc": "Increase Pierce by %s. Stacks up to 5 times.",
+    "desc": "Increase pierce rate by %s. Stacks up to 5 times.",
     "BuffDesc": "P<color=#000000>i</color>erce Up",
     "addText": "AAAAAA==",
     "removeText": "AAAAAA==",
@@ -18146,7 +18146,7 @@
   {
     "sn": "25092",
     "title": "Special Effect",
-    "desc": "Resonance: Increase Critical Rate and Atk by 25%.",
+    "desc": "Increase Resonance critical rate and Atk by 25%.",
     "BuffDesc": "S<color=#000000>p</color>ecial Effect",
     "addText": "AAAAAA==",
     "removeText": "AAAAAA==",
@@ -18173,7 +18173,7 @@
   {
     "sn": "25140",
     "title": "Special Effect",
-    "desc": "Don't activate critical hits, but increase final dmg by %s.",
+    "desc": "Cannot activate critical hits, but increase final dmg by %s.",
     "BuffDesc": "AAAAAA==",
     "addText": "AAAAAA==",
     "removeText": "AAAAAA==",
@@ -18182,7 +18182,7 @@
   {
     "sn": "25141",
     "title": "Special Effect",
-    "desc": "Physical affinity changes to Resist.",
+    "desc": "Change Physical affinity to Resist.",
     "BuffDesc": "S<color=#000000>p</color>ecial Effect",
     "addText": "AAAAAA==",
     "removeText": "AAAAAA==",
@@ -18191,7 +18191,7 @@
   {
     "sn": "25142",
     "title": "Special Effect",
-    "desc": "Gun affinity changes to Resist.",
+    "desc": "Change Gun affinity to Resist.",
     "BuffDesc": "S<color=#000000>p</color>ecial Effect",
     "addText": "AAAAAA==",
     "removeText": "AAAAAA==",
@@ -18200,7 +18200,7 @@
   {
     "sn": "25143",
     "title": "Special Effect",
-    "desc": "Fire affinity changes to Resist.",
+    "desc": "Change Fire affinity to Resist.",
     "BuffDesc": "S<color=#000000>p</color>ecial Effect",
     "addText": "AAAAAA==",
     "removeText": "AAAAAA==",
@@ -18209,7 +18209,7 @@
   {
     "sn": "25144",
     "title": "Special Effect",
-    "desc": "Ice affinity changes to Resist.",
+    "desc": "Change Ice affinity to Resist.",
     "BuffDesc": "S<color=#000000>p</color>ecial Effect",
     "addText": "AAAAAA==",
     "removeText": "AAAAAA==",
@@ -18218,7 +18218,7 @@
   {
     "sn": "25145",
     "title": "Special Effect",
-    "desc": "Electric affinity changes to Resist.",
+    "desc": "Change Electric affinity to Resist.",
     "BuffDesc": "S<color=#000000>p</color>ecial Effect",
     "addText": "AAAAAA==",
     "removeText": "AAAAAA==",
@@ -18227,7 +18227,7 @@
   {
     "sn": "25146",
     "title": "Special Effect",
-    "desc": "Wind affinity changes to Resist.",
+    "desc": "Change Wind affinity to Resist.",
     "BuffDesc": "S<color=#000000>p</color>ecial Effect",
     "addText": "AAAAAA==",
     "removeText": "AAAAAA==",
@@ -18236,7 +18236,7 @@
   {
     "sn": "25147",
     "title": "Special Effect",
-    "desc": "Psychokinesis affinity changes to Resist.",
+    "desc": "Change Psychokinesis affinity to Resist.",
     "BuffDesc": "S<color=#000000>p</color>ecial Effect",
     "addText": "AAAAAA==",
     "removeText": "AAAAAA==",
@@ -18245,7 +18245,7 @@
   {
     "sn": "25148",
     "title": "Special Effect",
-    "desc": "Nuclear affinity changes to Resist.",
+    "desc": "Change Nuclear affinity to Resist.",
     "BuffDesc": "S<color=#000000>p</color>ecial Effect",
     "addText": "AAAAAA==",
     "removeText": "AAAAAA==",
@@ -18254,7 +18254,7 @@
   {
     "sn": "25149",
     "title": "Special Effect",
-    "desc": "Bless affinity changes to Resist.",
+    "desc": "Change Bless affinity to Resist.",
     "BuffDesc": "S<color=#000000>p</color>ecial Effect",
     "addText": "AAAAAA==",
     "removeText": "AAAAAA==",
@@ -18263,7 +18263,7 @@
   {
     "sn": "25150",
     "title": "Special Effect",
-    "desc": "Curse affinity changes to Resist.",
+    "desc": "Change Curse affinity to Resist.",
     "BuffDesc": "S<color=#000000>p</color>ecial Effect",
     "addText": "AAAAAA==",
     "removeText": "AAAAAA==",
@@ -18353,7 +18353,16 @@
   {
     "sn": "25683",
     "title": "Special Effect",
-    "desc": "Increase final dmg taken by 50%, and decrease final dmg dealt by 60%.",
+    "desc": "Increase final dmg taken by 20%, and decrease final dmg dealt by 60%.",
+    "BuffDesc": "AAAAAA==",
+    "addText": "AAAAAA==",
+    "removeText": "AAAAAA==",
+    "calText": "AAAAAA=="
+  },
+  {
+    "sn": "25692",
+    "title": "Berserk",
+    "desc": "Gain a set amount of increased damage.",
     "BuffDesc": "AAAAAA==",
     "addText": "AAAAAA==",
     "removeText": "AAAAAA==",
@@ -18389,7 +18398,7 @@
   {
     "sn": "26525",
     "title": "Lock On",
-    "desc": "Katayama has Locked On, and will attack with Lightning Legs: Improved.",
+    "desc": "Katayama has locked on, and will attack with Lightning Legs: Improved.",
     "BuffDesc": "L<color=#000000>o</color>ck On",
     "addText": "%s is targeted...",
     "removeText": "AAAAAA==",
@@ -18400,7 +18409,7 @@
     "title": "Heat Riser",
     "desc": "Increase Atk, Def, ailment accuracy, and ailment resistance by %s.",
     "BuffDesc": "H<color=#000000>e</color>at Riser",
-    "addText": "Several statuses increased!",
+    "addText": "Several stats increased!",
     "removeText": "AAAAAA==",
     "calText": "AAAAAA=="
   },
@@ -18416,7 +18425,7 @@
   {
     "sn": "26735",
     "title": "Lock On",
-    "desc": "When Kumi Kiskil-lilla Locks On, she'll attack with Wings of Fury.",
+    "desc": "When Kiskil-lilla locks on, she will attack with Wings of Fury.",
     "BuffDesc": "L<color=#000000>o</color>ck On",
     "addText": "%s is targeted...",
     "removeText": "AAAAAA==",
@@ -18425,7 +18434,7 @@
   {
     "sn": "26761",
     "title": "Sanctuary",
-    "desc": "Increase dmg dealt by %s. Effect is lost if Shield breaks.",
+    "desc": "Increase dmg by %s. Effect is lost if shield breaks.",
     "BuffDesc": "S<color=#000000>a</color>nctuary",
     "addText": "AAAAAA==",
     "removeText": "Sanctuary lost!",
@@ -18434,7 +18443,7 @@
   {
     "sn": "26762",
     "title": "Sanctuary",
-    "desc": "Remaining Shield Rate: %s",
+    "desc": "Remaining shield: %s",
     "BuffDesc": "S<color=#000000>a</color>nctuary",
     "addText": "Shielded!",
     "removeText": "AAAAAA==",
@@ -18443,7 +18452,7 @@
   {
     "sn": "26821",
     "title": "Defense Position",
-    "desc": "Atks and debuffs have no effect while in Def position.",
+    "desc": "Attacks and debuffs have no effect while in Defense Position.",
     "BuffDesc": "D<color=#000000>e</color>fense Position",
     "addText": "%s has entered Defense Position!",
     "removeText": "AAAAAA==",
@@ -18488,7 +18497,7 @@
   {
     "sn": "28031",
     "title": "Famine",
-    "desc": "Increase SP cost by 30%, increase dmg dealt by 30%.",
+    "desc": "Increase SP cost by 30%, increase dmg by 30%.",
     "BuffDesc": "F<color=#000000>a</color>mine",
     "addText": "Inflicted with Famine...",
     "removeText": "AAAAAA==",
@@ -18497,7 +18506,7 @@
   {
     "sn": "28041",
     "title": "Despair",
-    "desc": "Unable to act. Slightly decrease SP each turn. Become defeated after set number of turns.",
+    "desc": "Unable to act. Slightly decrease SP each turn. Defeated after fixed number of turns.",
     "BuffDesc": "D<color=#000000>e</color>spair",
     "addText": "Inflicted with despair...",
     "removeText": "Recovered from despair!",
@@ -18677,7 +18686,7 @@
   {
     "sn": "28611",
     "title": "Grudge",
-    "desc": "Receive attack from Kumbhanda.",
+    "desc": "Take attack from Kumbhanda.",
     "BuffDesc": "G<color=#000000>r</color>udge",
     "addText": "AAAAAA==",
     "removeText": "AAAAAA==",
@@ -18785,7 +18794,7 @@
   {
     "sn": "28882",
     "title": "Percentage Damage Down",
-    "desc": "Percentage Damage Down",
+    "desc": "Decrease damage percentage.",
     "BuffDesc": "AAAAAA==",
     "addText": "AAAAAA==",
     "removeText": "AAAAAA==",
@@ -18803,7 +18812,7 @@
   {
     "sn": "28903",
     "title": "Brainwash",
-    "desc": "Unable to act. Controlled by enemy.",
+    "desc": "Unable to act. Controlled by foe.",
     "BuffDesc": "B<color=#000000>r</color>ainwash",
     "addText": "%s was brainwashed...",
     "removeText": "No longer brainwashed!",
@@ -18839,7 +18848,7 @@
   {
     "sn": "28971",
     "title": "Plague Origin",
-    "desc": "After attacking, inflict Plague Curse on ally. Upon defeat, deal Pazuzu's Plague Curse.",
+    "desc": "After attacking, inflict Plague Curse on ally. Upon defeat, inflict Pazuzu's Plague Curse.",
     "BuffDesc": "P<color=#000000>l</color>ague Origin",
     "addText": "AAAAAA==",
     "removeText": "AAAAAA==",
@@ -18866,7 +18875,7 @@
   {
     "sn": "28983",
     "title": "Protection of Horus",
-    "desc": "When not user's turn, decrease final dmg by 60%. When user's turn, increase final dmg by 300%.",
+    "desc": "When not user's action, decrease final dmg by 60%. When user's action, increase final dmg by 300%.",
     "BuffDesc": "P<color=#000000>r</color>otection of Horus",
     "addText": "AAAAAA==",
     "removeText": "AAAAAA==",
@@ -18875,7 +18884,7 @@
   {
     "sn": "28984",
     "title": "Protection of Horus",
-    "desc": "When not user's turn, decrease final dmg by 60%. When user's turn, increase final dmg by 300%.",
+    "desc": "When not user's action, decrease final dmg by 60%. When user's action, increase final dmg by 300%.",
     "BuffDesc": "P<color=#000000>r</color>otection of Horus",
     "addText": "AAAAAA==",
     "removeText": "AAAAAA==",
@@ -18884,7 +18893,7 @@
   {
     "sn": "30022",
     "title": "Frost Power",
-    "desc": "Upon defeat, decrease heat.",
+    "desc": "Upon defeat, decrease Heat.",
     "BuffDesc": "F<color=#000000>r</color>ost Power",
     "addText": "AAAAAA==",
     "removeText": "AAAAAA==",
@@ -18893,7 +18902,7 @@
   {
     "sn": "30032",
     "title": "Sudama's Blessing",
-    "desc": "All enemies recover 30% SP when attacked.",
+    "desc": "All foes recover 30% SP when attacked.",
     "BuffDesc": "S<color=#000000>u</color>dama's Blessing",
     "addText": "%s is trying to flee...",
     "removeText": "AAAAAA==",
@@ -18911,7 +18920,7 @@
   {
     "sn": "30041",
     "title": "Will of Lunging",
-    "desc": "Decrease Def and greatly increase dmg dealt, via Eligor's Inspiration.",
+    "desc": "Decrease Def and greatly increase dmg, via Eligor's inspiration.",
     "BuffDesc": "W<color=#000000>i</color>ll of Lunging",
     "addText": "Damage increased, Defense decreased!",
     "removeText": "AAAAAA==",
@@ -18929,7 +18938,7 @@
   {
     "sn": "30061",
     "title": "Preparing",
-    "desc": "Activate 1 powerful attack next turn.",
+    "desc": "Activate a powerful attack next turn.",
     "BuffDesc": "P<color=#000000>r</color>eparing",
     "addText": "%s is preparing a skill...",
     "removeText": "AAAAAA==",
@@ -18973,7 +18982,7 @@
   },
   {
     "sn": "30150",
-    "title": "Status Buff",
+    "title": "Stat Buff",
     "desc": "Increase Atk.",
     "BuffDesc": "S<color=#000000>t</color>at Buff",
     "addText": "AAAAAA==",
@@ -18982,7 +18991,7 @@
   },
   {
     "sn": "30160",
-    "title": "Status Buff",
+    "title": "Stat Buff",
     "desc": "Increase Def.",
     "BuffDesc": "tdxct-[SkillBuff_BuffDesc_30160]",
     "addText": "AAAAAA==",
@@ -18991,7 +19000,7 @@
   },
   {
     "sn": "30170",
-    "title": "Status Buff",
+    "title": "Stat Buff",
     "desc": "Increase max HP.",
     "BuffDesc": "S<color=#000000>t</color>at Buff",
     "addText": "AAAAAA==",
@@ -19001,7 +19010,7 @@
   {
     "sn": "30234",
     "title": "Soul Vessel",
-    "desc": "Increase dmg dealt and healing for each stack (max 5). Lose HP each turn.",
+    "desc": "Increase dmg and healing effect for each stack (max 5). Lose HP each turn.",
     "BuffDesc": "S<color=#000000>o</color>ul Vessel",
     "addText": "Gained Soul Vessel!\nDamage and healing increased, but lose HP...",
     "removeText": "Soul Vessel lost!",
@@ -19010,7 +19019,7 @@
   {
     "sn": "30235",
     "title": "Soul Vessel",
-    "desc": "Increase dmg dealt and healing for each stack (max 5). Lose HP each turn.",
+    "desc": "Increase dmg and healing effect for each stack (max 5). Lose HP each turn.",
     "BuffDesc": "S<color=#000000>o</color>ul Vessel",
     "addText": "Gained Soul Vessel!\nDamage and healing increased, but lose HP...",
     "removeText": "Soul Vessel lost!",
@@ -19028,7 +19037,7 @@
   {
     "sn": "30272",
     "title": "Damage Reduction",
-    "desc": "Increase dmg taken by 20% per stack. When taking dmg, gain stack (max 5).",
+    "desc": "Increase dmg taken by 50% per stack. When taking dmg, gain stack (max 5).",
     "BuffDesc": "D<color=#000000>m</color>g Taken Down",
     "addText": "AAAAAA==",
     "removeText": "AAAAAA==",
@@ -19037,7 +19046,7 @@
   {
     "sn": "30281",
     "title": "Sorrow",
-    "desc": "Immobile due to Sorrow.",
+    "desc": "Unable to act due to Sorrow.",
     "BuffDesc": "S<color=#000000>o</color>rrow",
     "addText": "%s is sad...",
     "removeText": "Damage significantly increased!",
@@ -19082,7 +19091,7 @@
   {
     "sn": "30301",
     "title": "Mark: Physical",
-    "desc": "Attribute dmg received last turn: Physical",
+    "desc": "Last dmg taken: Physical",
     "BuffDesc": "M<color=#000000>a</color>rk: Physical",
     "addText": "AAAAAA==",
     "removeText": "AAAAAA==",
@@ -19091,7 +19100,7 @@
   {
     "sn": "30302",
     "title": "Mark: Gun",
-    "desc": "Attribute dmg received last turn: Gun",
+    "desc": "Last dmg taken: Gun",
     "BuffDesc": "M<color=#000000>a</color>rk: Gun",
     "addText": "AAAAAA==",
     "removeText": "AAAAAA==",
@@ -19100,7 +19109,7 @@
   {
     "sn": "30303",
     "title": "Mark: Fire",
-    "desc": "Attribute dmg received last turn: Fire",
+    "desc": "Last dmg taken: Fire",
     "BuffDesc": "M<color=#000000>a</color>rk: Fire",
     "addText": "AAAAAA==",
     "removeText": "AAAAAA==",
@@ -19109,7 +19118,7 @@
   {
     "sn": "30304",
     "title": "Mark: Ice",
-    "desc": "Attribute dmg received last turn: Ice",
+    "desc": "Last dmg taken: Ice",
     "BuffDesc": "M<color=#000000>a</color>rk: Ice",
     "addText": "AAAAAA==",
     "removeText": "AAAAAA==",
@@ -19118,7 +19127,7 @@
   {
     "sn": "30305",
     "title": "Mark: Electric",
-    "desc": "Attribute dmg received last turn: Electric",
+    "desc": "Last dmg taken: Electric",
     "BuffDesc": "M<color=#000000>a</color>rk: Electric",
     "addText": "AAAAAA==",
     "removeText": "AAAAAA==",
@@ -19127,7 +19136,7 @@
   {
     "sn": "30306",
     "title": "Mark: Wind",
-    "desc": "Attribute dmg received last turn: Wind",
+    "desc": "Last dmg taken: Wind",
     "BuffDesc": "M<color=#000000>a</color>rk: Wind",
     "addText": "AAAAAA==",
     "removeText": "AAAAAA==",
@@ -19136,7 +19145,7 @@
   {
     "sn": "30307",
     "title": "Mark: Psychokinesis",
-    "desc": "Attribute dmg received last turn: Psychokinesis",
+    "desc": "Last dmg taken: Psychokinesis",
     "BuffDesc": "M<color=#000000>a</color>rk: Psychokinesis",
     "addText": "AAAAAA==",
     "removeText": "AAAAAA==",
@@ -19145,7 +19154,7 @@
   {
     "sn": "30308",
     "title": "Mark: Nuclear",
-    "desc": "Attribute dmg received last turn: Nuclear",
+    "desc": "Last dmg taken: Nuclear",
     "BuffDesc": "M<color=#000000>a</color>rk: Nuclear",
     "addText": "AAAAAA==",
     "removeText": "AAAAAA==",
@@ -19154,7 +19163,7 @@
   {
     "sn": "30309",
     "title": "Mark: Bless",
-    "desc": "Attribute dmg received last turn: Bless",
+    "desc": "Last dmg taken: Bless",
     "BuffDesc": "M<color=#000000>a</color>rk: Bless",
     "addText": "AAAAAA==",
     "removeText": "AAAAAA==",
@@ -19163,7 +19172,7 @@
   {
     "sn": "30310",
     "title": "Mark: Curse",
-    "desc": "Attribute dmg received last turn: Curse",
+    "desc": "Last dmg taken: Curse",
     "BuffDesc": "M<color=#000000>a</color>rk: Curse",
     "addText": "AAAAAA==",
     "removeText": "AAAAAA==",
@@ -19172,7 +19181,7 @@
   {
     "sn": "30322",
     "title": "Mark: Almighty",
-    "desc": "Attribute dmg received last turn: Almighty",
+    "desc": "Last dmg taken: Almighty",
     "BuffDesc": "M<color=#000000>a</color>rk: Almighty",
     "addText": "AAAAAA==",
     "removeText": "AAAAAA==",
@@ -19253,7 +19262,7 @@
   {
     "sn": "30363",
     "title": "Interlaced Fates I",
-    "desc": "Threads of Fate intertwined. Increased dmg and healing effects!",
+    "desc": "Threads of Fate intertwined. Increased dmg and healing effect!",
     "BuffDesc": "I<color=#000000>n</color>terlaced Fates I",
     "addText": "AAAAAA==",
     "removeText": "AAAAAA==",
@@ -19289,7 +19298,7 @@
   {
     "sn": "30459",
     "title": "Spirit of Fate I",
-    "desc": "When defeating foe, can gain unexpected effects by intertwining Threads of Fate.",
+    "desc": "When defeated, gain unexpected effects by intertwining Threads of Fate.",
     "BuffDesc": "AAAAAA==",
     "addText": "AAAAAA==",
     "removeText": "AAAAAA==",
@@ -19298,7 +19307,7 @@
   {
     "sn": "30460",
     "title": "Spirit of Fate II",
-    "desc": "When defeating foe, can gain unexpected effects by intertwining Threads of Fate.",
+    "desc": "When defeated, gain unexpected effects by intertwining Threads of Fate.",
     "BuffDesc": "AAAAAA==",
     "addText": "AAAAAA==",
     "removeText": "AAAAAA==",
@@ -19307,7 +19316,7 @@
   {
     "sn": "30461",
     "title": "Spirit of Fate III",
-    "desc": "When defeating foe, can gain unexpected effects by intertwining Threads of Fate.",
+    "desc": "When defeated, gain unexpected effects by intertwining Threads of Fate.",
     "BuffDesc": "AAAAAA==",
     "addText": "AAAAAA==",
     "removeText": "AAAAAA==",
@@ -19316,7 +19325,7 @@
   {
     "sn": "30462",
     "title": "Spirit of Fate IV",
-    "desc": "When defeating foe, can gain unexpected effects by intertwining Threads of Fate.",
+    "desc": "When defeated, gain unexpected effects by intertwining Threads of Fate.",
     "BuffDesc": "AAAAAA==",
     "addText": "AAAAAA==",
     "removeText": "AAAAAA==",
@@ -19352,7 +19361,7 @@
   {
     "sn": "30494",
     "title": "Last Stand",
-    "desc": "Increase final dmg by %s. Switch Output mode.",
+    "desc": "Increase final dmg by %s. Attack pattern changed.",
     "BuffDesc": "L<color=#000000>a</color>st Stand",
     "addText": "Entered its Last Stand, and damage has increased!",
     "removeText": "AAAAAA==",
@@ -19378,36 +19387,36 @@
   },
   {
     "sn": "30561",
-    "title": "Blazing Viper",
-    "desc": "Obtain Fire Power and activate Fire skill.",
-    "BuffDesc": "B<color=#000000>l</color>azing Viper",
+    "title": "Blazing Serpent",
+    "desc": "Gain Fire Power and activate Fire skill.",
+    "BuffDesc": "B<color=#000000>l</color>azing Serpent",
     "addText": "Seized Fire Power, and affinities changed!",
     "removeText": "AAAAAA==",
     "calText": "AAAAAA=="
   },
   {
     "sn": "30571",
-    "title": "Glaciating Viper",
-    "desc": "Obtain Ice Power and activate Ice skill.",
-    "BuffDesc": "G<color=#000000>l</color>aciating Viper",
+    "title": "Glaciating Serpent",
+    "desc": "Gain Ice Power and activate Ice skill.",
+    "BuffDesc": "G<color=#000000>l</color>aciating Serpent",
     "addText": "Seized Ice Power, and affinities changed!",
     "removeText": "AAAAAA==",
     "calText": "AAAAAA=="
   },
   {
     "sn": "30581",
-    "title": "Thundering Viper",
-    "desc": "Obtain Thunder Power and activate Electric skill.",
-    "BuffDesc": "T<color=#000000>h</color>undering Viper",
+    "title": "Thundering Serpent",
+    "desc": "Gain Thunder Power and activate Electric skill.",
+    "BuffDesc": "T<color=#000000>h</color>undering Serpent",
     "addText": "Seized Thunder Power, and affinities changed!",
     "removeText": "AAAAAA==",
     "calText": "AAAAAA=="
   },
   {
     "sn": "30591",
-    "title": "Whirling Viper",
-    "desc": "Obtain Wind Power and activate Wind skill.",
-    "BuffDesc": "W<color=#000000>h</color>irling Viper",
+    "title": "Whirling Serpent",
+    "desc": "Gain Wind Power and activate Wind skill.",
+    "BuffDesc": "W<color=#000000>h</color>irling Serpent",
     "addText": "Seized Wind Power, and affinities changed!",
     "removeText": "AAAAAA==",
     "calText": "AAAAAA=="
@@ -19415,7 +19424,7 @@
   {
     "sn": "30601",
     "title": "Orochi's Tail",
-    "desc": "Acquire unexpected results upon defeating foe.",
+    "desc": "Grants unexpected results when defeated.",
     "BuffDesc": "O<color=#000000>r</color>ochi's Tail",
     "addText": "Yamata-no-Orochi's Serpent's Tail has appeared!",
     "removeText": "AAAAAA==",
@@ -19424,7 +19433,7 @@
   {
     "sn": "30605",
     "title": "Ame-no-Murakumo",
-    "desc": "Sacred treasure obtained by defeating Serpent's Tail. Greatly increase next dmg dealt by allies.",
+    "desc": "Sacred treasure obtained by defeating Serpent's Tail. Greatly increase party's next dmg.",
     "BuffDesc": "A<color=#000000>m</color>e-no-Murakumo",
     "addText": "AAAAAA==",
     "removeText": "AAAAAA==",
@@ -19452,7 +19461,7 @@
     "sn": "30621",
     "title": "Serpent's Poison",
     "desc": "Lose 10% max HP each turn. Can stack up to 10.",
-    "BuffDesc": "S<color=#000000>n</color>ake Venom",
+    "BuffDesc": "S<color=#000000>e</color>rpent's Poison",
     "addText": "AAAAAA==",
     "removeText": "AAAAAA==",
     "calText": "AAAAAA=="
@@ -19460,7 +19469,7 @@
   {
     "sn": "30622",
     "title": "Snakebite",
-    "desc": "Grants Serpent's Venom when attacking.",
+    "desc": "Inflicts Serpent's Poison when attacking.",
     "BuffDesc": "S<color=#000000>n</color>akebite",
     "addText": "AAAAAA==",
     "removeText": "AAAAAA==",
@@ -19505,7 +19514,7 @@
   {
     "sn": "30661",
     "title": "Thoth Count",
-    "desc": "Try to reach 50 Counts by Thoth's action.",
+    "desc": "Try to reach Count of 50 by Thoth's action.",
     "BuffDesc": "AAAAAA==",
     "addText": "AAAAAA==",
     "removeText": "AAAAAA==",
@@ -19514,7 +19523,7 @@
   {
     "sn": "30662",
     "title": "Thoth Count",
-    "desc": "Try to reach 50 Counts by Thoth's action.",
+    "desc": "Try to reach Count of 50 by Thoth's action.",
     "BuffDesc": "AAAAAA==",
     "addText": "AAAAAA==",
     "removeText": "AAAAAA==",
@@ -19523,7 +19532,7 @@
   {
     "sn": "30663",
     "title": "Thoth Count",
-    "desc": "Try to reach 50 Counts by Thoth's action.",
+    "desc": "Try to reach Count of 50 by Thoth's action.",
     "BuffDesc": "AAAAAA==",
     "addText": "AAAAAA==",
     "removeText": "AAAAAA==",
@@ -19568,7 +19577,7 @@
   {
     "sn": "30671",
     "title": "Damage Up",
-    "desc": "When Thoth's Count reaches exactly 50, increase dmg dealt by 100% via Thoth's reward.",
+    "desc": "When Thoth's Count reaches exactly 50, increase dmg by 100% via Thoth's reward.",
     "BuffDesc": "D<color=#000000>a</color>mage Up",
     "addText": "Damage increased!",
     "removeText": "AAAAAA==",
@@ -19685,7 +19694,7 @@
   {
     "sn": "31000",
     "title": "Seal of Power",
-    "desc": "For every stack, increase dmg dealt by %s. Stacks up to 2 times.",
+    "desc": "For every stack, increase dmg by %s. Stacks up to 2 times.",
     "BuffDesc": "S<color=#000000>e</color>al of Power",
     "addText": "Gained a Seal of Power!",
     "removeText": "AAAAAA==",
@@ -19694,7 +19703,7 @@
   {
     "sn": "31001",
     "title": "Seal of Power",
-    "desc": "For every stack, increase dmg dealt by %s. Stacks up to 2 times.",
+    "desc": "For every stack, increase dmg by %s. Stacks up to 2 times.",
     "BuffDesc": "S<color=#000000>e</color>al of Power",
     "addText": "Gained a Seal of Power!",
     "removeText": "AAAAAA==",
@@ -19830,14 +19839,14 @@
     "sn": "31101",
     "title": "Wild Fury",
     "desc": "Increase final dmg by 20% for each stack.",
-    "BuffDesc": "W<color=#000000>i</color>ld Rage",
+    "BuffDesc": "W<color=#000000>i</color>ld Fury",
     "addText": "Gained Wild Fury!",
     "removeText": "AAAAAA==",
     "calText": "AAAAAA=="
   },
   {
     "sn": "31201",
-    "title": "Sacrificial Blessing",
+    "title": "Bloodbath Blessing",
     "desc": "Increase final dmg by 40%.",
     "BuffDesc": "B<color=#000000>l</color>oodbath Blessing",
     "addText": "Gained Sacrificial Blessing!",
@@ -19874,7 +19883,7 @@
   {
     "sn": "32011",
     "title": "Mark: Physical",
-    "desc": "Attribute dmg received last turn: Physical",
+    "desc": "Last dmg taken: Physical",
     "BuffDesc": "M<color=#000000>a</color>rk: Physical",
     "addText": "AAAAAA==",
     "removeText": "AAAAAA==",
@@ -19892,7 +19901,7 @@
   {
     "sn": "32012",
     "title": "Mark: Gun",
-    "desc": "Attribute dmg received last turn: Gun",
+    "desc": "Last dmg taken: Gun",
     "BuffDesc": "M<color=#000000>a</color>rk: Gun",
     "addText": "AAAAAA==",
     "removeText": "AAAAAA==",
@@ -19901,7 +19910,7 @@
   {
     "sn": "32013",
     "title": "Mark: Fire",
-    "desc": "Attribute dmg received last turn: Fire",
+    "desc": "Last dmg taken: Fire",
     "BuffDesc": "M<color=#000000>a</color>rk: Fire",
     "addText": "AAAAAA==",
     "removeText": "AAAAAA==",
@@ -19910,7 +19919,7 @@
   {
     "sn": "32014",
     "title": "Mark: Ice",
-    "desc": "Attribute dmg received last turn: Ice",
+    "desc": "Last dmg taken: Ice",
     "BuffDesc": "M<color=#000000>a</color>rk: Ice",
     "addText": "AAAAAA==",
     "removeText": "AAAAAA==",
@@ -19919,7 +19928,7 @@
   {
     "sn": "32015",
     "title": "Mark: Electric",
-    "desc": "Attribute dmg dealt last turn: Electric",
+    "desc": "Last dmg taken: Electric",
     "BuffDesc": "M<color=#000000>a</color>rk: Electric",
     "addText": "AAAAAA==",
     "removeText": "AAAAAA==",
@@ -19928,7 +19937,7 @@
   {
     "sn": "32016",
     "title": "Mark: Wind",
-    "desc": "Attribute dmg dealt last turn: Wind",
+    "desc": "Last dmg taken: Wind",
     "BuffDesc": "M<color=#000000>a</color>rk: Wind",
     "addText": "AAAAAA==",
     "removeText": "AAAAAA==",
@@ -19937,7 +19946,7 @@
   {
     "sn": "32017",
     "title": "Mark: Psychokinesis",
-    "desc": "Attribute dmg dealt last turn: Psychokinesis",
+    "desc": "Last dmg taken: Psychokinesis",
     "BuffDesc": "M<color=#000000>a</color>rk: Psychokinesis",
     "addText": "AAAAAA==",
     "removeText": "AAAAAA==",
@@ -19946,7 +19955,7 @@
   {
     "sn": "32018",
     "title": "Mark: Nuclear",
-    "desc": "Attribute dmg dealt last turn: Nuclear",
+    "desc": "Last dmg taken: Nuclear",
     "BuffDesc": "M<color=#000000>a</color>rk: Nuclear",
     "addText": "AAAAAA==",
     "removeText": "AAAAAA==",
@@ -19955,7 +19964,7 @@
   {
     "sn": "32019",
     "title": "Mark: Bless",
-    "desc": "Attribute dmg dealt last turn: Bless",
+    "desc": "Last dmg taken: Bless",
     "BuffDesc": "M<color=#000000>a</color>rk: Bless",
     "addText": "AAAAAA==",
     "removeText": "AAAAAA==",
@@ -19964,7 +19973,7 @@
   {
     "sn": "32020",
     "title": "Mark: Curse",
-    "desc": "Attribute dmg dealt last turn: Curse",
+    "desc": "Last dmg taken: Curse",
     "BuffDesc": "M<color=#000000>a</color>rk: Curse",
     "addText": "AAAAAA==",
     "removeText": "AAAAAA==",
@@ -19972,162 +19981,162 @@
   },
   {
     "sn": "32021",
-    "title": "Status Buff",
+    "title": "Stat Buff",
     "desc": "Increase dmg from same attribute by 60%.",
-    "BuffDesc": "S<color=#000000>t</color>atus Buff",
+    "BuffDesc": "S<color=#000000>t</color>at Buff",
     "addText": "AAAAAA==",
     "removeText": "AAAAAA==",
     "calText": "AAAAAA=="
   },
   {
     "sn": "32051",
-    "title": "Status Debuff",
+    "title": "Stat Debuff",
     "desc": "Increase Fire, Ice, Electric, and Wind dmg by 40%.",
-    "BuffDesc": "S<color=#000000>t</color>atus Debuff",
+    "BuffDesc": "S<color=#000000>t</color>at Debuff",
     "addText": "AAAAAA==",
     "removeText": "AAAAAA==",
     "calText": "AAAAAA=="
   },
   {
     "sn": "32055",
-    "title": "Status Debuff",
+    "title": "Stat Debuff",
     "desc": "Increase Psychokinesis, Nuclear, Bless, and Curse dmg by 40%.",
-    "BuffDesc": "S<color=#000000>t</color>atus Debuff",
+    "BuffDesc": "S<color=#000000>t</color>at Buff",
     "addText": "AAAAAA==",
     "removeText": "AAAAAA==",
     "calText": "AAAAAA=="
   },
   {
     "sn": "32061",
-    "title": "Status Buff",
+    "title": "Stat Buff",
     "desc": "Increase dmg by %s.",
-    "BuffDesc": "S<color=#000000>t</color>atus Buff",
+    "BuffDesc": "S<color=#000000>t</color>at Buff",
     "addText": "AAAAAA==",
     "removeText": "AAAAAA==",
     "calText": "AAAAAA=="
   },
   {
     "sn": "32091",
-    "title": "Status Buff",
+    "title": "Stat Buff",
     "desc": "Increase dmg by %s.",
-    "BuffDesc": "S<color=#000000>t</color>atus Buff",
+    "BuffDesc": "S<color=#000000>t</color>at Buff",
     "addText": "AAAAAA==",
     "removeText": "AAAAAA==",
     "calText": "AAAAAA=="
   },
   {
     "sn": "32211",
-    "title": "Status Buff",
+    "title": "Stat Buff",
     "desc": "Increase dmg by 30%.",
-    "BuffDesc": "S<color=#000000>t</color>atus Buff",
+    "BuffDesc": "S<color=#000000>t</color>at Buff",
     "addText": "AAAAAA==",
     "removeText": "AAAAAA==",
     "calText": "AAAAAA=="
   },
   {
     "sn": "32221",
-    "title": "Status Buff",
+    "title": "Stat Buff",
     "desc": "Increase weakness dmg by 37.5%.",
-    "BuffDesc": "S<color=#000000>t</color>atus Buff",
+    "BuffDesc": "S<color=#000000>t</color>at Buff",
     "addText": "AAAAAA==",
     "removeText": "AAAAAA==",
     "calText": "AAAAAA=="
   },
   {
     "sn": "32245",
-    "title": "Status Buff",
+    "title": "Stat Buff",
     "desc": "Increase dmg by 40%.",
-    "BuffDesc": "S<color=#000000>t</color>atus Buff",
+    "BuffDesc": "S<color=#000000>t</color>at Buff",
     "addText": "AAAAAA==",
     "removeText": "AAAAAA==",
     "calText": "AAAAAA=="
   },
   {
     "sn": "32251",
-    "title": "Status Buff",
+    "title": "Stat Buff",
     "desc": "Increase Resonance dmg by 60%.",
-    "BuffDesc": "S<color=#000000>t</color>atus Buff",
+    "BuffDesc": "S<color=#000000>t</color>at Buff",
     "addText": "AAAAAA==",
     "removeText": "AAAAAA==",
     "calText": "AAAAAA=="
   },
   {
     "sn": "32261",
-    "title": "Status Buff",
+    "title": "Stat Buff",
     "desc": "Increase critical rate by 18%.",
-    "BuffDesc": "S<color=#000000>t</color>atus Buff",
+    "BuffDesc": "S<color=#000000>t</color>at Buff",
     "addText": "AAAAAA==",
     "removeText": "AAAAAA==",
     "calText": "AAAAAA=="
   },
   {
     "sn": "32422",
-    "title": "Status Debuff",
-    "desc": "Increase dmg taken from Shielded foes by 30%.",
-    "BuffDesc": "S<color=#000000>t</color>atus Debuff",
+    "title": "Stat Debuff",
+    "desc": "Increase dmg taken from shielded foes by 30%.",
+    "BuffDesc": "S<color=#000000>t</color>at Buff",
     "addText": "AAAAAA==",
     "removeText": "AAAAAA==",
     "calText": "AAAAAA=="
   },
   {
     "sn": "32424",
-    "title": "Status Debuff",
+    "title": "Stat Debuff",
     "desc": "Increase dmg taken by 24%.",
-    "BuffDesc": "S<color=#000000>t</color>atus Debuff",
+    "BuffDesc": "S<color=#000000>t</color>at Buff",
     "addText": "AAAAAA==",
     "removeText": "AAAAAA==",
     "calText": "AAAAAA=="
   },
   {
     "sn": "32452",
-    "title": "Status Debuff",
+    "title": "Stat Debuff",
     "desc": "Decrease dmg by 25%.",
-    "BuffDesc": "S<color=#000000>t</color>atus Debuff",
+    "BuffDesc": "S<color=#000000>t</color>at Buff",
     "addText": "AAAAAA==",
     "removeText": "AAAAAA==",
     "calText": "AAAAAA=="
   },
   {
     "sn": "32462",
-    "title": "Status Debuff",
+    "title": "Stat Debuff",
     "desc": "Increase user's dmg taken by %s.",
-    "BuffDesc": "S<color=#000000>t</color>atus Debuff",
+    "BuffDesc": "S<color=#000000>t</color>at Buff",
     "addText": "AAAAAA==",
     "removeText": "AAAAAA==",
     "calText": "AAAAAA=="
   },
   {
     "sn": "32472",
-    "title": "Status Debuff",
+    "title": "Stat Debuff",
     "desc": "Increase dmg taken by 15%.",
-    "BuffDesc": "S<color=#000000>t</color>atus Debuff",
+    "BuffDesc": "S<color=#000000>t</color>at Buff",
     "addText": "AAAAAA==",
     "removeText": "AAAAAA==",
     "calText": "AAAAAA=="
   },
   {
     "sn": "32482",
-    "title": "Status Debuff",
-    "desc": "Increase critical rate taken by 9%.",
-    "BuffDesc": "S<color=#000000>t</color>atus Debuff",
+    "title": "Stat Debuff",
+    "desc": "Increase critical taken rate by 9%.",
+    "BuffDesc": "S<color=#000000>t</color>at Buff",
     "addText": "AAAAAA==",
     "removeText": "AAAAAA==",
     "calText": "AAAAAA=="
   },
   {
     "sn": "32612",
-    "title": "Status Buff",
+    "title": "Stat Buff",
     "desc": "Increase Atk by 20%.",
-    "BuffDesc": "S<color=#000000>t</color>atus Buff",
+    "BuffDesc": "S<color=#000000>t</color>at Buff",
     "addText": "AAAAAA==",
     "removeText": "AAAAAA==",
     "calText": "AAAAAA=="
   },
   {
     "sn": "32622",
-    "title": "Status Buff",
+    "title": "Stat Buff",
     "desc": "Increase Def by 30%.",
-    "BuffDesc": "S<color=#000000>t</color>atus Buff",
+    "BuffDesc": "S<color=#000000>t</color>at Buff",
     "addText": "AAAAAA==",
     "removeText": "AAAAAA==",
     "calText": "AAAAAA=="
@@ -20144,7 +20153,7 @@
   {
     "sn": "32672",
     "title": "Shield",
-    "desc": "Max Drain dmg %s.",
+    "desc": "Absorb up to %s dmg.",
     "BuffDesc": "S<color=#000000>h</color>ield",
     "addText": "AAAAAA==",
     "removeText": "AAAAAA==",
@@ -20152,18 +20161,18 @@
   },
   {
     "sn": "32682",
-    "title": "Status Buff",
+    "title": "Stat Buff",
     "desc": "Increase final dmg by 5%. For every 1% of HP lost, increase dmg by 0.5% more (1 turn, up to 40%).",
-    "BuffDesc": "S<color=#000000>t</color>atus Buff",
+    "BuffDesc": "S<color=#000000>t</color>at Buff",
     "addText": "AAAAAA==",
     "removeText": "AAAAAA==",
     "calText": "AAAAAA=="
   },
   {
     "sn": "32723",
-    "title": "Status Debuff",
-    "desc": "Guaranteed critical hit when successfully attacked.",
-    "BuffDesc": "S<color=#000000>t</color>atus Debuff",
+    "title": "Stat Debuff",
+    "desc": "Guaranteed critical hit when attack hits.",
+    "BuffDesc": "S<color=#000000>t</color>at Buff",
     "addText": "AAAAAA==",
     "removeText": "AAAAAA==",
     "calText": "AAAAAA=="
@@ -20269,9 +20278,9 @@
   },
   {
     "sn": "33011",
-    "title": "Status Buff",
+    "title": "Stat Buff",
     "desc": "Decrease dmg taken by 80% when fence is present.",
-    "BuffDesc": "S<color=#000000>t</color>atus Buff",
+    "BuffDesc": "S<color=#000000>t</color>at Buff",
     "addText": "Damage taken decreased 80%!",
     "removeText": "Damage reduction removed!",
     "calText": "AAAAAA=="
@@ -20296,9 +20305,9 @@
   },
   {
     "sn": "33020",
-    "title": "Status Buff",
+    "title": "Stat Buff",
     "desc": "Increase Atk by 100%.",
-    "BuffDesc": "S<color=#000000>t</color>atus Buff",
+    "BuffDesc": "S<color=#000000>t</color>at Buff",
     "addText": "Lost Seals of Power and Attack increased 100%!",
     "removeText": "AAAAAA==",
     "calText": "AAAAAA=="
@@ -20351,7 +20360,7 @@
   {
     "sn": "34001",
     "title": "Legion",
-    "desc": "Buff skill activation after 5 stacks.",
+    "desc": "Activate buff skill after 5 stacks.",
     "BuffDesc": "L<color=#000000>e</color>gion",
     "addText": "AAAAAA==",
     "removeText": "AAAAAA==",
@@ -20396,7 +20405,7 @@
   {
     "sn": "34101",
     "title": "Lock On",
-    "desc": "Byakko has Locked On.",
+    "desc": "Byakko has locked on.",
     "BuffDesc": "L<color=#000000>o</color>ck On",
     "addText": "AAAAAA==",
     "removeText": "AAAAAA==",
@@ -20432,7 +20441,7 @@
   {
     "sn": "34181",
     "title": "Black Dance",
-    "desc": "Increase dmg, decrease dmg taken.",
+    "desc": "Increase dmg dealt, decrease dmg taken.",
     "BuffDesc": "B<color=#000000>l</color>ack Dance",
     "addText": "AAAAAA==",
     "removeText": "AAAAAA==",
@@ -20450,7 +20459,7 @@
   {
     "sn": "34211",
     "title": "Lock On",
-    "desc": "Locked On.",
+    "desc": "Locked on.",
     "BuffDesc": "L<color=#000000>o</color>ck On",
     "addText": "AAAAAA==",
     "removeText": "AAAAAA==",
@@ -20549,7 +20558,7 @@
   {
     "sn": "34411",
     "title": "Mark: Physical",
-    "desc": "Attribute dmg received last turn: Physical",
+    "desc": "Last dmg taken: Physical",
     "BuffDesc": "M<color=#000000>a</color>rk: Physical",
     "addText": "AAAAAA==",
     "removeText": "AAAAAA==",
@@ -20558,7 +20567,7 @@
   {
     "sn": "34412",
     "title": "Mark: Gun",
-    "desc": "Attribute dmg received last turn: Gun",
+    "desc": "Last dmg taken: Gun",
     "BuffDesc": "M<color=#000000>a</color>rk: Gun",
     "addText": "AAAAAA==",
     "removeText": "AAAAAA==",
@@ -20567,7 +20576,7 @@
   {
     "sn": "34413",
     "title": "Mark: Fire",
-    "desc": "Attribute dmg received last turn: Fire",
+    "desc": "Last dmg taken: Fire",
     "BuffDesc": "M<color=#000000>a</color>rk: Fire",
     "addText": "AAAAAA==",
     "removeText": "AAAAAA==",
@@ -20576,7 +20585,7 @@
   {
     "sn": "34414",
     "title": "Mark: Ice",
-    "desc": "Attribute dmg received last turn: Ice",
+    "desc": "Last dmg taken: Ice",
     "BuffDesc": "M<color=#000000>a</color>rk: Ice",
     "addText": "AAAAAA==",
     "removeText": "AAAAAA==",
@@ -20585,7 +20594,7 @@
   {
     "sn": "34415",
     "title": "Mark: Electric",
-    "desc": "Attribute dmg received last turn: Electric",
+    "desc": "Last dmg taken: Electric",
     "BuffDesc": "M<color=#000000>a</color>rk: Electric",
     "addText": "AAAAAA==",
     "removeText": "AAAAAA==",
@@ -20594,7 +20603,7 @@
   {
     "sn": "34416",
     "title": "Mark: Wind",
-    "desc": "Attribute dmg received last turn: Wind",
+    "desc": "Last dmg taken: Wind",
     "BuffDesc": "M<color=#000000>a</color>rk: Wind",
     "addText": "AAAAAA==",
     "removeText": "AAAAAA==",
@@ -20603,7 +20612,7 @@
   {
     "sn": "34417",
     "title": "Mark: Psychokinesis",
-    "desc": "Attribute dmg received last turn: Psychokinesis",
+    "desc": "Last dmg taken: Psychokinesis",
     "BuffDesc": "M<color=#000000>a</color>rk: Psychokinesis",
     "addText": "AAAAAA==",
     "removeText": "AAAAAA==",
@@ -20612,7 +20621,7 @@
   {
     "sn": "34418",
     "title": "Mark: Nuclear",
-    "desc": "Attribute dmg received last turn: Nuclear",
+    "desc": "Last dmg taken: Nuclear",
     "BuffDesc": "M<color=#000000>a</color>rk: Nuclear",
     "addText": "AAAAAA==",
     "removeText": "AAAAAA==",
@@ -20621,7 +20630,7 @@
   {
     "sn": "34419",
     "title": "Mark: Bless",
-    "desc": "Attribute dmg received last turn: Bless",
+    "desc": "Last dmg taken: Bless",
     "BuffDesc": "M<color=#000000>a</color>rk: Bless",
     "addText": "AAAAAA==",
     "removeText": "AAAAAA==",
@@ -20630,7 +20639,7 @@
   {
     "sn": "34420",
     "title": "Mark: Curse",
-    "desc": "Attribute dmg received last turn: Curse",
+    "desc": "Last dmg taken: Curse",
     "BuffDesc": "M<color=#000000>a</color>rk: Curse",
     "addText": "AAAAAA==",
     "removeText": "AAAAAA==",
@@ -20648,7 +20657,7 @@
   {
     "sn": "34441",
     "title": "Brainwash",
-    "desc": "Unable to act. Controlled by enemy.",
+    "desc": "Unable to act. Controlled by foe.",
     "BuffDesc": "B<color=#000000>r</color>ainwash",
     "addText": "Brainwashed...",
     "removeText": "No longer brainwashed!",
@@ -20657,7 +20666,7 @@
   {
     "sn": "34911",
     "title": "Ultimate Brainwash",
-    "desc": "Unable to act. Controlled by enemy.",
+    "desc": "Unable to act. Controlled by foe.",
     "BuffDesc": "U<color=#000000>l</color>timate Brainwash",
     "addText": "Ultimate Brainwashed...",
     "removeText": "Recovered from Ultimate Brainwash!",
@@ -20692,9 +20701,9 @@
   },
   {
     "sn": "34533",
-    "title": "Status Debuff",
+    "title": "Stat Debuff",
     "desc": "Greatly decrease dmg taken.",
-    "BuffDesc": "S<color=#000000>t</color>atus Debuff",
+    "BuffDesc": "S<color=#000000>t</color>at Buff",
     "addText": "AAAAAA==",
     "removeText": "AAAAAA==",
     "calText": "AAAAAA=="
@@ -20710,18 +20719,18 @@
   },
   {
     "sn": "34551",
-    "title": "Status Buff",
+    "title": "Stat Buff",
     "desc": "Increase Atk by 20%.",
-    "BuffDesc": "S<color=#000000>t</color>atus Buff",
+    "BuffDesc": "S<color=#000000>t</color>at Buff",
     "addText": "Attack increased!",
     "removeText": "AAAAAA==",
     "calText": "AAAAAA=="
   },
   {
     "sn": "34901",
-    "title": "Status Buff",
+    "title": "Stat Buff",
     "desc": "Increase Atk by 20%.",
-    "BuffDesc": "S<color=#000000>t</color>atus Buff",
+    "BuffDesc": "S<color=#000000>t</color>at Buff",
     "addText": "Attack increased!",
     "removeText": "AAAAAA==",
     "calText": "AAAAAA=="
@@ -20828,7 +20837,7 @@
   {
     "sn": "34801",
     "title": "Lock On",
-    "desc": "Orthrus has Locked On.",
+    "desc": "Orthrus has locked on.",
     "BuffDesc": "L<color=#000000>o</color>ck On",
     "addText": "AAAAAA==",
     "removeText": "AAAAAA==",
@@ -20954,7 +20963,7 @@
   {
     "sn": "35011",
     "title": "Preparing",
-    "desc": "Activate 1 powerful attack next turn.",
+    "desc": "Activate a powerful attack next turn.",
     "BuffDesc": "P<color=#000000>r</color>eparing",
     "addText": "The Wraith of Envy is gathering its power...",
     "removeText": "AAAAAA==",
@@ -21278,7 +21287,7 @@
   {
     "sn": "45071",
     "title": "Special Effect",
-    "desc": "Increase dmg taken from 1 More and All-Out Atks by %s",
+    "desc": "Increase dmg taken from 1 More and All-Out Attacks by %s",
     "BuffDesc": "S<color=#000000>p</color>ecial Effect",
     "addText": "AAAAAA==",
     "removeText": "AAAAAA==",
@@ -21287,7 +21296,7 @@
   {
     "sn": "45075",
     "title": "Special Effect",
-    "desc": "Decrease final HP by 50% and recover 10% of max HP at start of each turn.",
+    "desc": "Decrease final HP by 50% and recover a percentage of max HP at start of each turn.",
     "BuffDesc": "AAAAAA==",
     "addText": "AAAAAA==",
     "removeText": "AAAAAA==",
@@ -21296,7 +21305,7 @@
   {
     "sn": "45076",
     "title": "Special Effect",
-    "desc": "Increase final dmg taken based on HP. (Current Increase: %s)",
+    "desc": "Increase final dmg taken when HP is low. (Current Increase: %s)",
     "BuffDesc": "S<color=#000000>p</color>ecial Effect",
     "addText": "AAAAAA==",
     "removeText": "AAAAAA==",
@@ -21313,25 +21322,25 @@
   },
   {
     "sn": "52521",
-    "title": "Valor",
+    "title": "Courage",
     "desc": "Increase critical dmg by 30%.",
-    "BuffDesc": "V<color=#000000>a</color>lor",
+    "BuffDesc": "C<color=#000000>o</color>urage",
     "addText": "AAAAAA==",
     "removeText": "AAAAAA==",
     "calText": "AAAAAA=="
   },
   {
     "sn": "52621",
-    "title": "Strife",
+    "title": "Valor",
     "desc": "Increase Atk by 15%.",
-    "BuffDesc": "S<color=#000000>t</color>rife",
+    "BuffDesc": "V<color=#000000>a</color>lor",
     "addText": "AAAAAA==",
     "removeText": "AAAAAA==",
     "calText": "AAAAAA=="
   },
   {
     "sn": "52721",
-    "title": "Completion",
+    "title": "Renewal",
     "desc": "Increase Electric dmg by 9%.",
     "BuffDesc": "E<color=#000000>l</color>ec Damage Up",
     "addText": "AAAAAA==",
@@ -21385,16 +21394,16 @@
   },
   {
     "sn": "57021",
-    "title": "Growth & Luxury",
+    "title": "Growth & Opulence",
     "desc": "Increase Ice dmg by 10%.",
-    "BuffDesc": "G<color=#000000>r</color>owth & Luxury",
+    "BuffDesc": "G<color=#000000>r</color>owth & Opulence",
     "addText": "AAAAAA==",
     "removeText": "AAAAAA==",
     "calText": "AAAAAA=="
   },
   {
     "sn": "57031",
-    "title": "Trust & Completion",
+    "title": "Trust & Renewal",
     "desc": "Increase Electric dmg by 12%.",
     "BuffDesc": "E<color=#000000>l</color>ec Damage Up",
     "addText": "AAAAAA==",
@@ -21439,7 +21448,7 @@
   },
   {
     "sn": "57125",
-    "title": "Harmony & Science",
+    "title": "Harmony & Truth",
     "desc": "Increase Nuclear dmg by 5%.",
     "BuffDesc": "AAAAAA==",
     "addText": "AAAAAA==",
@@ -21448,7 +21457,7 @@
   },
   {
     "sn": "57126",
-    "title": "Harmony & Science",
+    "title": "Harmony & Truth",
     "desc": "Increase Nuclear dmg by 5%.",
     "BuffDesc": "AAAAAA==",
     "addText": "AAAAAA==",
@@ -21457,7 +21466,7 @@
   },
   {
     "sn": "57127",
-    "title": "Harmony & Science",
+    "title": "Harmony & Truth",
     "desc": "Increase Nuclear dmg by 5%.",
     "BuffDesc": "AAAAAA==",
     "addText": "AAAAAA==",
@@ -21466,7 +21475,7 @@
   },
   {
     "sn": "57128",
-    "title": "Harmony & Science",
+    "title": "Harmony & Truth",
     "desc": "Increase Nuclear dmg by 5%.",
     "BuffDesc": "AAAAAA==",
     "addText": "AAAAAA==",
@@ -21475,7 +21484,7 @@
   },
   {
     "sn": "57129",
-    "title": "Harmony & Science",
+    "title": "Harmony & Truth",
     "desc": "Increase Nuclear dmg by 5%.",
     "BuffDesc": "AAAAAA==",
     "addText": "AAAAAA==",
@@ -21484,7 +21493,7 @@
   },
   {
     "sn": "57131",
-    "title": "Acceptance & Strife",
+    "title": "Acceptance & Valor",
     "desc": "Increase Atk by %s.",
     "BuffDesc": "AAAAAA==",
     "addText": "AAAAAA==",
@@ -21502,7 +21511,7 @@
   },
   {
     "sn": "57153",
-    "title": "Awareness & Dominion",
+    "title": "Awareness & Control",
     "desc": "Increase Fire dmg by 6%.",
     "BuffDesc": "F<color=#000000>i</color>re Damage Up",
     "addText": "AAAAAA==",
@@ -21538,7 +21547,7 @@
   },
   {
     "sn": "57221",
-    "title": "Awareness & Interference",
+    "title": "Awareness & Ruin",
     "desc": "Increase Atk by 9% for each stack.",
     "BuffDesc": "A<color=#000000>t</color>tack Up",
     "addText": "AAAAAA==",
@@ -21547,7 +21556,7 @@
   },
   {
     "sn": "57232",
-    "title": "Departure & Interference",
+    "title": "Departure & Ruin",
     "desc": "Increase Atk by 30%.",
     "BuffDesc": "A<color=#000000>t</color>tack Up",
     "addText": "AAAAAA==",
@@ -21611,7 +21620,7 @@
   {
     "sn": "57313",
     "title": "Glory",
-    "desc": "Increase Piece of next Resonance by %s.",
+    "desc": "Increase piece rate of next Resonance by %s.",
     "BuffDesc": "AAAAAA==",
     "addText": "AAAAAA==",
     "removeText": "AAAAAA==",
@@ -21738,7 +21747,7 @@
     "sn": "61211",
     "title": "Recover 1",
     "desc": "Recover 1",
-    "BuffDesc": "R<color=#000000>e</color>cover_1",
+    "BuffDesc": "R<color=#000000>e</color>cover 1",
     "addText": "AAAAAA==",
     "removeText": "AAAAAA==",
     "calText": "AAAAAA=="
@@ -21747,7 +21756,7 @@
     "sn": "61221",
     "title": "Recover 2",
     "desc": "Recover 2",
-    "BuffDesc": "R<color=#000000>e</color>cover_2",
+    "BuffDesc": "R<color=#000000>e</color>cover 2",
     "addText": "AAAAAA==",
     "removeText": "AAAAAA==",
     "calText": "AAAAAA=="
@@ -21791,7 +21800,7 @@
   {
     "sn": "61271",
     "title": "Healing Set 4",
-    "desc": "Double attribute boost effects for 2-piece sets.",
+    "desc": "Double 2-piece set attribute boost effect.",
     "BuffDesc": "H<color=#000000>e</color>aling Set 4",
     "addText": "AAAAAA==",
     "removeText": "AAAAAA==",
@@ -22726,7 +22735,7 @@
   },
   {
     "sn": "75031",
-    "title": "Status Buff",
+    "title": "Stat Buff",
     "desc": "Increase critical rate by 10%.",
     "BuffDesc": "S<color=#000000>t</color>at Buff",
     "addText": "AAAAAA==",
@@ -22735,7 +22744,7 @@
   },
   {
     "sn": "75032",
-    "title": "Status Buff",
+    "title": "Stat Buff",
     "desc": "Increase critical dmg by 50%.",
     "BuffDesc": "S<color=#000000>t</color>at Buff",
     "addText": "AAAAAA==",
@@ -22834,7 +22843,7 @@
   },
   {
     "sn": "525411",
-    "title": "Status Buff",
+    "title": "Stat Buff",
     "desc": "Increase ailment accuracy by %s.",
     "BuffDesc": "AAAAAA==",
     "addText": "AAAAAA==",
@@ -22843,7 +22852,7 @@
   },
   {
     "sn": "525412",
-    "title": "Status Buff",
+    "title": "Stat Buff",
     "desc": "Increase Atk by %s.",
     "BuffDesc": "AAAAAA==",
     "addText": "AAAAAA==",
@@ -22852,9 +22861,9 @@
   },
   {
     "sn": "525531",
-    "title": "Status Buff",
+    "title": "Stat Buff",
     "desc": "Increase Atk by %s.",
-    "BuffDesc": "S<color=#000000>t</color>atus Buff",
+    "BuffDesc": "S<color=#000000>t</color>at Buff",
     "addText": "AAAAAA==",
     "removeText": "AAAAAA==",
     "calText": "AAAAAA=="
@@ -22879,16 +22888,16 @@
   },
   {
     "sn": "508311",
-    "title": "Everyone's Admiration",
+    "title": "Object of Desire",
     "desc": "Increase Atk by %s.",
-    "BuffDesc": "E<color=#000000>v</color>eryone's Admiration",
+    "BuffDesc": "O<color=#000000>b</color>ject of Desire",
     "addText": "AAAAAA==",
     "removeText": "AAAAAA==",
     "calText": "AAAAAA=="
   },
   {
     "sn": "512532",
-    "title": "Sacred Shards",
+    "title": "Hallowed Fragment",
     "desc": "Increase dmg taken by %s.",
     "BuffDesc": "H<color=#000000>a</color>llowed Fragment",
     "addText": "AAAAAA==",
@@ -22924,7 +22933,7 @@
   },
   {
     "sn": "527532",
-    "title": "Voice of the Sea",
+    "title": "Call of the Deep",
     "desc": "Increase Atk and Def.",
     "BuffDesc": "C<color=#000000>a</color>ll of the Deep",
     "addText": "AAAAAA==",
@@ -23194,8 +23203,8 @@
   },
   {
     "sn": "520542",
-    "title": "Will of Annihilation",
-    "desc": "Increase Nuclear dmg by %s for next skill.",
+    "title": "Will of Extinction",
+    "desc": "Increase next skill's Nuclear dmg by %s.",
     "BuffDesc": "AAAAAA==",
     "addText": "AAAAAA==",
     "removeText": "AAAAAA==",
@@ -23286,7 +23295,7 @@
     "sn": "514521",
     "title": "Right to Strike",
     "desc": "Increase Atk and Speed.",
-    "BuffDesc": "R<color=#000000>i</color>ght to Attack",
+    "BuffDesc": "R<color=#000000>i</color>ght to Strike",
     "addText": "Gained Right to Strike!",
     "removeText": "AAAAAA==",
     "calText": "AAAAAA=="
@@ -23374,7 +23383,7 @@
   },
   {
     "sn": "500532",
-    "title": "Lava Erosion",
+    "title": "Corroding Lava",
     "desc": "Decrease Def by %s.",
     "BuffDesc": "C<color=#000000>o</color>rroding Lava",
     "addText": "AAAAAA==",
@@ -23710,7 +23719,7 @@
     "title": "Divine Protection",
     "desc": "Decrease user's dmg taken by 5% per stack. Whenever taking dmg, lose 1 stack.",
     "BuffDesc": "D<color=#000000>i</color>vine Protection",
-    "addText": "Gained 6 Divine Protection!",
+    "addText": "Gained 15 Divine Protection!",
     "removeText": "AAAAAA==",
     "calText": "AAAAAA=="
   },
@@ -23719,7 +23728,7 @@
     "title": "Divine Protection",
     "desc": "Decrease user's dmg taken by 5% per stack. Whenever taking dmg, lose 1 stack.",
     "BuffDesc": "D<color=#000000>i</color>vine Protection",
-    "addText": "Gained 6 Divine Protection!",
+    "addText": "Gained 15 Divine Protection!",
     "removeText": "AAAAAA==",
     "calText": "AAAAAA=="
   },
@@ -23762,7 +23771,7 @@
   {
     "sn": "5031014",
     "title": "Angel's Bindings",
-    "desc": "Decrease dmg dealt by 50%.",
+    "desc": "Decrease dmg by 50%.",
     "BuffDesc": "A<color=#000000>n</color>gel's Bindings",
     "addText": "Damage decreased!",
     "removeText": "AAAAAA==",
@@ -23780,7 +23789,7 @@
   {
     "sn": "5041112",
     "title": "Vajra Curse",
-    "desc": "Decrease dmg dealt by 50%.",
+    "desc": "Decrease dmg by 50%.",
     "BuffDesc": "V<color=#000000>a</color>jra Curse",
     "addText": "Damage decreased!",
     "removeText": "AAAAAA==",
@@ -23788,9 +23797,9 @@
   },
   {
     "sn": "5081121",
-    "title": "Status Buff",
+    "title": "Stat Buff",
     "desc": "Increase dmg by 15%.",
-    "BuffDesc": "S<color=#000000>t</color>atus Buff",
+    "BuffDesc": "S<color=#000000>t</color>at Buff",
     "addText": "AAAAAA==",
     "removeText": "AAAAAA==",
     "calText": "AAAAAA=="
@@ -23834,7 +23843,7 @@
   {
     "sn": "5131011",
     "title": "Angel's Bindings",
-    "desc": "All attribute affinities changed.",
+    "desc": "All affinities changed.",
     "BuffDesc": "D<color=#000000>e</color>monic Curse",
     "addText": "All affinities changed to Weak!",
     "removeText": "All affinities reverted!",
@@ -23969,7 +23978,7 @@
   {
     "sn": "531311",
     "title": "Tailor-Made",
-    "desc": "Extremely high-quality combination of 3 Mixers of same attribute.",
+    "desc": "Extremely high-quality blend of 3 Mixers of same attribute.",
     "BuffDesc": "AAAAAA==",
     "addText": "AAAAAA==",
     "removeText": "AAAAAA==",
@@ -23978,7 +23987,7 @@
   {
     "sn": "531312",
     "title": "Standard",
-    "desc": "High-quality combination of 2 Mixers of same attribute.",
+    "desc": "High-quality blend of 2 Mixers of same attribute.",
     "BuffDesc": "AAAAAA==",
     "addText": "AAAAAA==",
     "removeText": "AAAAAA==",
@@ -24076,7 +24085,7 @@
   },
   {
     "sn": "531539",
-    "title": "Moonlight Banquet",
+    "title": "Moonlit Banquet",
     "desc": "Increase dmg by %s.",
     "BuffDesc": "M<color=#000000>o</color>onlit Banquet",
     "addText": "AAAAAA==",

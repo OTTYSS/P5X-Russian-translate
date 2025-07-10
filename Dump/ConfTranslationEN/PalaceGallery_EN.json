@@ -49,6 +49,20 @@
     "lockDesc": "• Get Haruna's Rating to 60 points."
   },
   {
+    "sn": "12",
+    "resultsDesc": "Increases Yui's HP by 40.",
+    "name": "Cut-In: Yui",
+    "desc": "A battle cut-in.",
+    "lockDesc": "• Get Yui's Rating to 60 points."
+  },
+  {
+    "sn": "13",
+    "resultsDesc": "Increases Minami's HP by 40 (effective in battle).",
+    "name": "Cut-In: Minami",
+    "desc": "A battle cut-in.",
+    "lockDesc": "• Get Minami's Rating to 60 points."
+  },
+  {
     "sn": "18",
     "resultsDesc": "Increases Ren's HP by 40 (effective in battle).",
     "name": "Cut-In: Ren",
@@ -75,6 +89,13 @@
     "name": "Cut-In: Ann",
     "desc": "Ann cut-in that\ndisplays during battle.",
     "lockDesc": "• Get Ann's Rating to 60 points."
+  },
+  {
+    "sn": "22",
+    "resultsDesc": "Increases Yusuke's HP by 40.",
+    "name": "Cut-In: Yusuke",
+    "desc": "A battle cut-in.",
+    "lockDesc": "• Get Yusuke's Rating to 60 points."
   },
   {
     "sn": "26",
@@ -182,6 +203,20 @@
     "lockDesc": "• Get Haruna's Rating to 80 points."
   },
   {
+    "sn": "1012",
+    "resultsDesc": "Increases Yui's Defense by 10.",
+    "name": "All-Out Attack (Yui)",
+    "desc": "An All-Out Attack cut-in.",
+    "lockDesc": "• Get Yui's Rating to 80 points."
+  },
+  {
+    "sn": "1013",
+    "resultsDesc": "Increases Minami's Defense by 10.",
+    "name": "All-Out Attack (Minami)",
+    "desc": "An All-Out Attack cut-in.",
+    "lockDesc": "• Get Minami's Rating to 80 points."
+  },
+  {
     "sn": "1018",
     "resultsDesc": "Increases Ren's Defense by 10 (effective in battle).",
     "name": "All-Out Attack (Ren)",
@@ -208,6 +243,13 @@
     "name": "All-Out Attack (Ann)",
     "desc": "Ryuji cut-in that displays\nduring an All-Out Attack.",
     "lockDesc": "• Get Ann's Rating to 80 points."
+  },
+  {
+    "sn": "1022",
+    "resultsDesc": "Increases Yusuke's Defense by 10.",
+    "name": "All-Out Attack (Yusuke)",
+    "desc": "An All-Out Attack cut-in.",
+    "lockDesc": "• Get Yusuke's Rating to 80 points."
   },
   {
     "sn": "1026",
@@ -315,6 +357,20 @@
     "lockDesc": "• Get Haruna's Rating to 100 points."
   },
   {
+    "sn": "2012",
+    "resultsDesc": "Increases Yui's Attack by 10.",
+    "name": "All-Out Attack Finisher (Yui)",
+    "desc": "An All-Out Attack finisher cut-in.",
+    "lockDesc": "• Get Yui's Rating to 100 points."
+  },
+  {
+    "sn": "2013",
+    "resultsDesc": "Increases Minami's Attack by 10 (effective in battle).",
+    "name": "All-Out Attack Finisher (Minami)",
+    "desc": "An All-Out Attack finisher cut-in.",
+    "lockDesc": "• Get Minami's Rating to 100 points."
+  },
+  {
     "sn": "2018",
     "resultsDesc": "Increases Ren's Attack by 10 (effective in battle).",
     "name": "All-Out Attack Finisher (Ren)",
@@ -341,6 +397,13 @@
     "name": "All-Out Attack Finisher (Ann)",
     "desc": "Image of Ann that displays\nafter an All-Out Attack finisher.",
     "lockDesc": "• Get Ann's Rating to 100 points."
+  },
+  {
+    "sn": "2022",
+    "resultsDesc": "Increases Yusuke's Attack by 10.",
+    "name": "All-Out Attack Finisher (Yusuke)",
+    "desc": "An All-Out Attack finisher cut-in.",
+    "lockDesc": "• Get Yusuke's Rating to 100 points."
   },
   {
     "sn": "2026",
@@ -456,7 +519,7 @@
   },
   {
     "sn": "3201",
-    "resultsDesc": "Increases Persona 5 collab Phantom Thieves' damage by 0.5% (effective in battle).",
+    "resultsDesc": "Increases Persona 5 Phantom Thieves' damage by 0.5% (effective in battle).",
     "name": "Persona 5 Cover Art",
     "desc": "The illustration used for the\nPersona 5 box art.",
     "lockDesc": "AAAAAA=="
@@ -470,7 +533,7 @@
   },
   {
     "sn": "3203",
-    "resultsDesc": "Increases Persona 5 collab Phantom Thieves' Defense by 15 (effective in battle).",
+    "resultsDesc": "Increases Persona 5 Phantom Thieves' Defense by 15 (effective in battle).",
     "name": "Persona 5 Limited Edition Jacket",
     "desc": "The illustration used for the\nPersona 5 limited edition jacket.",
     "lockDesc": "AAAAAA=="
@@ -484,7 +547,7 @@
   },
   {
     "sn": "3205",
-    "resultsDesc": "Increases Persona 5 collab Phantom Thieves' HP by 40 (effective in battle).",
+    "resultsDesc": "Increases Persona 5 Phantom Thieves' HP by 40 (effective in battle).",
     "name": "Shigenori Soejima Drawing Art",
     "desc": "Illustration that was shown in\na stream at TOKYO GAME SHOW 2015.",
     "lockDesc": "AAAAAA=="

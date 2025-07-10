@@ -7,7 +7,7 @@
   {
     "sn": "10201",
     "title": "Weaknesses and 1 More",
-    "text": "Skills have various <color=#FF423F>elemental attributes</color>, and enemies can be <color=#FF423F>weak</color> to certain elements. If you attack an enemy's weakness, you will deal more damage and knock them down."
+    "text": "Skills have various <color=#FF423F>elemental attributes</color>, and enemies can be <color=#FF423F>weak</color> to certain attributes. By attacking an enemy's weakness, you can deal more damage and knock them down."
   },
   {
     "sn": "10202",
@@ -567,7 +567,7 @@
   {
     "sn": "30101",
     "title": "Marking Destinations",
-    "text": "If you are ever confused about what to do or where to go next, look to the upper right corner of the screen to view various hints.\nAlso, you can select Track Mission from the Mission screen to show the distance to your goal."
+    "text": "If you are ever confused about what to do or where to go next, look to the top-right corner of the screen to view various hints.\nAlso, you can select Track Mission from the Mission screen to show the distance to your goal."
   },
   {
     "sn": "30201",
@@ -757,22 +757,22 @@
   {
     "sn": "50201",
     "title": "Phantom Thief Training",
-    "text": "When your level increases, your stats will also increase.\nWhen you reach a certain level, you can unlock your hidden ability and enhance hidden ability skills, which increase your stats even further.\nThe level cap is based on Wonder's own level."
+    "text": "When your level increases, your stats will also increase.\nWhen you reach a certain level, you can unlock your Talent and enhance Talent skills, which increase your stats even further.\nThe level cap is based on Wonder's own level."
   },
   {
     "sn": "50202",
     "title": "Phantom Thief Training",
-    "text": "As <color=#FF423F>Awareness</color> increases, the thief's stats will increase, they will learn new Awareness Skills, and their skills will get stronger."
+    "text": "As a Thief gains <color=#FF423F>Awareness</color>, their stats will increase, they will learn new Awareness skills, and their skills will get stronger."
   },
   {
     "sn": "50301",
     "title": "Phantom Thief Weapons",
-    "text": "<color=#FF423F>Weapons</color> with higher Rarity have higher stats and stronger additional effects. There are different types of weapons and each one can only be equipped by certain characters."
+    "text": "<color=#FF423F>Weapons</color> with higher rarity have higher stats and stronger effects. There are different types of weapons and each one can only be equipped by certain characters."
   },
   {
     "sn": "50302",
     "title": "Phantom Thief Weapons",
-    "text": "<color=#FF423F>Enhancing</color> a weapon will increase its base Level. If you raise a weapon to a certain level and overclock it, you can significantly boost its combat power.\nEven if you change a weapon, its weapon level will be inherited."
+    "text": "<color=#FF423F>Enhancing</color> a weapon will increase its level and its stats. If you raise a weapon to a certain level and overclock it, you can significantly boost its stats.\nThis higher level will be carried over to other weapons if you switch to a different one."
   },
   {
     "sn": "50303",
@@ -787,7 +787,7 @@
   {
     "sn": "50402",
     "title": "Phantom Thief Revelations",
-    "text": "As your level increases, your stats will increase. Certain levels also give extra effects."
+    "text": "As your level increases, your stats will increase. Effects will also be added every few levels."
   },
   {
     "sn": "50403",
@@ -802,7 +802,7 @@
   {
     "sn": "50502",
     "title": "Phantom Thief Skills",
-    "text": "New skills can be learned by increasing the Phantom Thief's level, and can be strengthened after reaching a certain level. Also, increasing the Phantom Thief's hidden ability level will strengthen their hidden ability skills; likewise, increasing awareness will strengthen awareness skills."
+    "text": "New skills can be learned by increasing the Phantom Thief's level, and can be strengthened after reaching a certain level. Also, increasing the Phantom Thief's Talent level will strengthen their Talent skills; likewise, increasing awareness will strengthen awareness skills."
   },
   {
     "sn": "50601",
@@ -822,7 +822,7 @@
   {
     "sn": "50702",
     "title": "Switching Personas",
-    "text": "Wonder's stats are based on the stats of the currently equipped Persona.\nIf you <color=#FF423F>switch Personas</color>, your stats will also change."
+    "text": "Wonder's stats are based on those of the currently equipped Persona.\nIf you <color=#FF423F>switch Personas</color>, your stats will also change."
   },
   {
     "sn": "50801",
@@ -907,7 +907,7 @@
   {
     "sn": "60304",
     "title": "Train Upgrades",
-    "text": "You can gain helpful buffs and items to give you an advantage in the Control Center."
+    "text": "You can gain helpful stat buffs and items to give you an advantage in the Control Center."
   },
   {
     "sn": "60305",
@@ -922,32 +922,32 @@
   {
     "sn": "60402",
     "title": "Marthym's Shop/Marthym's Trading Post",
-    "text": "When you encounter Marthym, you can buy Lost Items or Charms, or upgrade your currently held Charms.\n\n<color=#FFD145>Fateful Departure</color>\nA stop on your journey as you continue to the Control Center.\nYou can choose 1 of 3 Lost Items.\n\n<color=#FFD145>Marthym's Shop</color>\nYou can use your Railway Coins to buy Lost Items and Charms.\n\n<color=#FFD145>Marthym's Trading Post</color>\nThe last station before the Boss Shadow at the final terminal.\nYou can use your Railway Coins to buy Lost Items or Charms, or upgrade your currently held Charms."
+    "text": "You can buy Lost Items and Charms from Marthym.\nShe can also upgrade your currently held Charms."
   },
   {
     "sn": "60403",
     "title": "Lost Shadow",
-    "text": "Meet various people and obtain Lost Items or Railway Coins depending on your responses to their conversations.\n\n<color=#FFD145>Lost Shadows</color>\nRandom events will occur.\nSome events may have a positive effect.\n\n<color=#FFD145>Mysterious Stations</color>\nYou will randomly arrive at a Lost Shadow, Battle Platform, or Fortune Station."
+    "text": "Meet various people and obtain items or trigger events depending on your responses to their conversations."
   },
   {
     "sn": "60404",
     "title": "Battle 1",
-    "text": "When you defeat Shadows, you can receive Charms and Railway Coins.\nYou may also receive a random Lost Item.\n\n<color=#FFD145>Wandering Shadows</color>\nA normal Shadow will appear.\nDefeat it to obtain Charms and Railway Coins.\nLow chance of receiving a Lost Item.\n\n<color=#FFD145>Agitated Shadows</color>\nA powerful Shadow will appear.\nDefeat it for a high chance to obtain an Orange Charm and Railway Coins.\nHigh chance of receiving a Lost Item."
+    "text": "When you defeat Shadows, you can receive Charms and Railway Coins.\nYou may also receive a random Lost Item."
   },
   {
     "sn": "60405",
     "title": "Battle 2",
-    "text": "<color=#FFD145>Savage Shadows</color>\nAn extremely powerful Shadow will appear at this station.\nIf you defeat it, you can select an Orange Charm or a Lost Item, and also receive Railway Coins.\n\n<color=#FFD145>Stubborn Shadows</color>\nA boss Shadow that appears at the final terminal. \nDefeat it to clear the Control Center, and receive Upgrade Tickets and experience points."
+    "text": "An extremely powerful Shadow will appear.\nWhen defeated, you can continue to the next line and clear the Control Center."
   },
   {
     "sn": "60406",
     "title": "Fortune Station",
-    "text": "<color=#FFD145>Fortune Stations</color>\n1-3 treasure chests will appear, but only 1 can be opened.\nChests will contain Lost Items, Charms, or Railway Coins."
+    "text": "1-3 treasure chests will appear, containing Lost Items, Charms, or Railway Coins. You can only obtain one."
   },
   {
     "sn": "60411",
     "title": "Control Center Terminal",
-    "text": "If you defeat the Shadow at the Terminal Station, or if you end the journey partway, you will earn experience points and Upgrade Tickets depending on the difficulty and progress."
+    "text": "Defeat the Shadow at the final station.\nIf you end the journey partway, you will earn experience points and Upgrade Tickets depending on the difficulty and progress."
   },
   {
     "sn": "60407",
@@ -977,7 +977,7 @@
   {
     "sn": "60501",
     "title": "Nightmare's Gateway",
-    "text": "<color=#FF423F>Nightmare's Gateway</color> is a challenge that Companio members can undertake together.\nEvery Wednesday at 8 PM UTC, new bosses will appear for the Phantom Thieves to face.\nDuring the challenge, your Phantom Thieves, Personas, and equipment will be <color=#FF423F>locked</color>.\nIf you want to make any changes to your party, you will need to <color=#FF423F>reset the challenge</color>."
+    "text": "<color=#FF423F>Gates of the Nightmare Catcher</color> is a challenge that Companio members can undertake together.\nEvery Wednesday at 8 PM UTC, new bosses will appear for the Phantom Thieves to face.\nDuring the challenge, your Phantom Thieves, Personas, and equipment will be <color=#FF423F>locked</color>.\nIf you want to make any changes to your party, you will need to <color=#FF423F>reset the challenge</color>."
   },
   {
     "sn": "60502",
@@ -987,12 +987,12 @@
   {
     "sn": "60601",
     "title": "Crossroads of Fate",
-    "text": "The new <color=#FF423F>Persona 5</color> collaboration story <color=#FF423F>Castle Arc</color> has arrived!\nEmbark on a journey with those bound by fate to connect past and future..."
+    "text": "The <color=#FF423F>Persona 5</color> special event <color=#FF423F>Crossroads of Fate: Castle Arc</color> has arrived!\nEmbark on a journey with those bound by fate to connect past and future..."
   },
   {
     "sn": "61101",
     "title": "Stamina Mode",
-    "text": "<color=#FF423F>Stamina Mode</color> is now available for the Sinner of Gluttony.\nIn this mode, you can <color=#FF423F>consume stamina to fight continuously and earn rewards</color>. You will also have powerful Affixes to support you in this boss challenge."
+    "text": "<color=#FF423F>Stamina Mode</color> is now available for the Irshya.\nIn this mode, you can <color=#FF423F>consume stamina to fight continuously and earn rewards</color>.\nYou will also have powerful traits to support you in this boss challenge."
   },
   {
     "sn": "61201",

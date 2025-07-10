@@ -915,7 +915,7 @@
     "sn": "517101",
     "name": "Melchizedek",
     "desc": "An angel of Gnosticism, governing over peace and righteousness. Though said to be the savior of the angels, he used to be a human, the king of Salem.",
-    "strategy": "1. Melchizedek gains 6 stacks of Divine Protection each turn\n2. Decrease damage taken by 5% for each stack of Divine Protection.  Whenever Melchizedek takes damage from a skill or Resonance, lose 1 Divine Protection.\n3. When Melchizedek has lost all stacks of Divine Protection, give all Phantom Thieves Divine Blessing, which increases damage dealt."
+    "strategy": "1. Melchizedek gains 6 stacks of Divine Protection each turn\n2. Decrease damage taken by 5% for each stack of Divine Protection. Whenever Melchizedek takes damage from a skill or Resonance, lose 1 Divine Protection.\n3. When Melchizedek has lost all stacks of Divine Protection, give all Phantom Thieves Divine Blessing, which increases damage dealt."
   },
   {
     "sn": "517111",
@@ -3577,8 +3577,20 @@
   },
   {
     "sn": "2029",
-    "name": "Jack-o'-Lantern",
-    "desc": "A drunkard who tricked the Devil out of taking him to Hell. When refused entry to Heaven, he was forced to wander the earth with only an ember as a light.",
+    "name": "NB[Gu][029]",
+    "desc": "Error: tnxotb-[GuaiWu_desc_2029]",
+    "strategy": "AAAAAA=="
+  },
+  {
+    "sn": "2031",
+    "name": "Jack Frost",
+    "desc": "A winter fairy of European descent. He leaves ice patterns on windows and nips people's noses. Though normally an innocent creature, he will freeze his victims to death if provoked.",
+    "strategy": "AAAAAA=="
+  },
+  {
+    "sn": "2032",
+    "name": "King Frost",
+    "desc": "The king of snow who rules over an infinite number of Jack Frosts. He has the power to freeze the entire world, but is unaware of it due to his naïve personality.",
     "strategy": "AAAAAA=="
   },
   {
@@ -5732,7 +5744,7 @@
   {
     "sn": "252",
     "name": "Kali",
-    "desc": "A goddess of death and destruction. She is said to be another face of Parvati. She is violent, wears a string of skulls,and carries bloody weapons, but she also blesses her followers.",
+    "desc": "A goddess of death and destruction. She is said to be another face of Parvati. She is violent, wears a string of skulls, and carries bloody weapons, but she also blesses her followers.",
     "strategy": "AAAAAA=="
   },
   {
@@ -8594,7 +8606,7 @@
   {
     "sn": "902",
     "name": "Black Frost",
-    "desc": "A Jack Frost that yearned for evil. This powerful demon is born when a cute Jack Frost remembers its nature as a demon.",
+    "desc": "A Jack Frost that yearned for evil. This powerful demon is born when a cute Jack Frost remembers its demonic nature.",
     "strategy": "AAAAAA=="
   },
   {
@@ -12422,7 +12434,7 @@
   {
     "sn": "201171",
     "name": "Agathion",
-    "desc": "A general term for familiars used by Judeo-Christian magicians,\nthey are usually sealed away in bottles, rings, or talismans.\nThey torment the target selected by the conjuror.",
+    "desc": "A general term for familiars used by Judeo-Christian magicians, they are usually sealed away in bottles, rings, or talismans. They torment the target selected by the conjuror.",
     "strategy": "AAAAAA=="
   },
   {
@@ -12974,7 +12986,7 @@
   {
     "sn": "202191",
     "name": "Suzaku",
-    "desc": "One of the Ssu-Ling, celestial creatures of Chinese myth. It is a giant bird that is said to chirp in five beautiful voices. It represents the direction south, the season of summer, and the element of fire.",
+    "desc": "One of the Ssu-Ling, celestial creatures in Chinese myth. It is a giant bird that is said to chirp in five beautiful voices. It represents the direction south, the season of summer, and the element of fire.",
     "strategy": "AAAAAA=="
   },
   {
@@ -14156,7 +14168,7 @@
   {
     "sn": "203504",
     "name": "Succubus",
-    "desc": "A female demon of European lore in medieval times.\nThey visit sleeping men and have sexual intercourse with them.\nThe victims don't wake up but may dream of the encounter.",
+    "desc": "A female demon of European lore in medieval times. They visit sleeping men and have sexual intercourse with them. The victims don't wake up but may dream of the encounter.",
     "strategy": "AAAAAA=="
   },
   {
@@ -14643,7 +14655,7 @@
     "sn": "202271",
     "name": "Archangel",
     "desc": "Eighth of the nine orders of angels. Their duty is to minister to humans and deliver messages. They are warriors of Heaven and lead Heaven's forces during battle with the armies of evil.",
-    "strategy": "1. Archangel will make Phantom Thieves <color=#FF423F>Dizzy</color> for 2 turns. At the start of the next turn, if any Phantom Thieves are <color=#FF423F>Dizzy</color>, Archangel will use Lunge to deal heavy damage.\n2. When Archangel is attacked, it will inflict 1 <color=#FF423F>Sin</color> stack on the attacker. The Phantom Thief with the most <color=#FF423F>Sin</color> stacks will become Dizzy.\n3. Archangel deals more damage based on the number of <color=#FF423F>Sin</color> stacks present.\n4. Attacking Apsaras will remove 1 <color=#FF423F>Sin</color> stack."
+    "strategy": "1. Archangel will make Phantom Thieves <color=#FF423F>Dizzy</color> for 2 turns. At the start of the next turn, if any Phantom Thieves are <color=#FF423F>Dizzy</color>, Archangel will use Lunge to deal heavy damage.\n2. When Archangel is attacked, it will inflict 2 <color=#FF423F>Sin</color> stacks on the attacker. The Phantom Thief with the most <color=#FF423F>Sin</color> stacks will become Dizzy.\n3. Archangel deals more damage based on the number of <color=#FF423F>Sin</color> stacks present.\n4. Attacking Apsaras will remove 1 <color=#FF423F>Sin</color> stack."
   },
   {
     "sn": "202272",
@@ -16700,7 +16712,7 @@
   {
     "sn": "213272",
     "name": "Sudama",
-    "desc": "A spirit of rivers and mountains in Japanese lore,\nit dwells in ancient trees and ageless rocks.\nThey are not evil, and will often appear as humans or supernatural wonders to warn people.",
+    "desc": "A spirit of rivers and mountains in Japanese lore, it dwells in ancient trees and ageless rocks. They are not evil, and will often appear as humans or supernatural wonders to warn people.",
     "strategy": "AAAAAA=="
   },
   {
@@ -18345,7 +18357,7 @@
     "sn": "218091",
     "name": "Jikokuten",
     "desc": "Also known as Dhritarashtra, he is the protector of the East, and is one of the four Heavenly Kings of Buddhist origin. He helps maintain the security of the nation.",
-    "strategy": "1. Jikokuten starts the battle with 10 Down Points. Every 2 turns, it activates Sword that Defends the Nation, granting itself 10 Down Points, and granting 1 Down Point to all Shadows. When Jikokuten's Down Points reach 36, it transforms into <color=#FF423F>Asura</color>, greatly enhancing its abilities.\n2. Jikokuten constantly summons various Shadows. When a Shadow is defeated, Jikokuten's Down Points are reduced by 3.\n3. Victory can be achieved by reducing Jikokuten's Down Points to 0, or by defeating it."
+    "strategy": "1. Jikokuten starts the battle with 10 Down Points. Every 2 turns, it activates Sword that Defends the Nation, granting itself 10 Down Points, and granting 1 Down Point to all Shadows. When Jikokuten's Down Points reach 36, it transforms into <color=#FF423F>Asura</color>, greatly enhancing its abilities.\n2. Jikokuten constantly summons various Shadows. When a Shadow is defeated, Jikokuten's Down Points are reduced by 3.\n3. Victory can be achieved by reducing Jikokuten's Down Points to 0, or by defeating all foes."
   },
   {
     "sn": "218092",
@@ -18387,7 +18399,7 @@
     "sn": "218101",
     "name": "Jikokuten",
     "desc": "Also known as Dhritarashtra, he is the protector of the East, and is one of the four Heavenly Kings of Buddhist origin. He helps maintain the security of the nation.",
-    "strategy": "1. Jikokuten starts the battle with 20 Down Points, and gains 4 Down Points every turn. When Jikokuten's Down Points reach 36, it transforms into <color=#FF423F>Asura</color>, greatly increasing its stats.\n2. Jikokuten summons 4 Mitama every 3 turns. The Mitama will flee after 1 turn. When a Mitama is defeated, Jikokuten's Down Points are reduced by 3, and one of its affinities becomes Weak for 3 turns: Fire, Ice, Electric, or Wind.\n3. Victory can be achieved by reducing Jikokuten's Down Points to 0, or by defeating it."
+    "strategy": "1. Jikokuten starts the battle with 20 Down Points, and gains 4 Down Points every turn. When Jikokuten's Down Points reach 36, it transforms into <color=#FF423F>Asura</color>, greatly increasing its stats.\n2. Jikokuten summons 4 Mitama every 3 turns. The Mitama will flee after 1 turn. When a Mitama is defeated, Jikokuten's Down Points are reduced by 3, and one of its affinities becomes Weak for 3 turns: Fire, Ice, Electric, or Wind.\n3. Victory can be achieved by reducing Jikokuten's Down Points to 0, or by defeating all foes."
   },
   {
     "sn": "218102",
@@ -18417,7 +18429,7 @@
     "sn": "218111",
     "name": "Jikokuten",
     "desc": "Also known as Dhritarashtra, he is the protector of the East, and is one of the four Heavenly Kings of Buddhist origin. He helps maintain the security of the nation.",
-    "strategy": "1. Jikokuten starts the battle with 30 Down Points, all affinities set to Null, and gains 3 more Down Points every turn. When Jikokuten's Down Points reach 36, it transforms into <color=#FF423F>Asura</color>, greatly increasing its stats.\n2. At the start of battle, Jikokuten spends 6 Down Points to summon Jikokuten's Spirit.\n3. Jikokuten's Spirit has 4 Down Points. Each turn, 4 of its weaknesses change. If it is knocked down or defeated, it becomes Crushed Spirit; Jikokuten loses 10 Down Points, and all its affinities change to weaknesses (excluding Physical and Gun). Jikokuten then resummons Jikokuten's Spirit.\n4. Victory can be achieved once Jikokuten's Down Points reach 0, or it is defeated."
+    "strategy": "1. Jikokuten starts the battle with 30 Down Points, all affinities set to Null, and gains 3 more Down Points every turn. When Jikokuten's Down Points reach 36, it transforms into <color=#FF423F>Asura</color>, greatly increasing its stats.\n2. At the start of battle, Jikokuten spends 6 Down Points to summon Jikokuten's Spirit.\n3. Jikokuten's Spirit has 4 Down Points. Each turn, 4 of its weaknesses change. If it is knocked down or defeated, it becomes Crushed Spirit; Jikokuten loses 10 Down Points, and all its affinities change to weaknesses (excluding Physical and Gun). Jikokuten then resummons Jikokuten's Spirit.\n4. Victory can be achieved once Jikokuten's Down Points reach 0, or all foes are defeated."
   },
   {
     "sn": "218112",
@@ -19747,7 +19759,7 @@
   },
   {
     "sn": "221232",
-    "name": "Dominion",
+    "name": "Power",
     "desc": "The sixth of the nine orders of angels. It is said that they were the first order to be created. Their duty is to protect human souls from demons.",
     "strategy": "AAAAAA=="
   },
@@ -19790,7 +19802,7 @@
   {
     "sn": "221251",
     "name": "Kaiwan",
-    "desc": "A god in Assyrian legend, his name is interchangeable with Sakkut,\nanother incarnation of the star-god, Saturn.",
+    "desc": "A god in Assyrian legend, his name is interchangeable with Sakkut, another incarnation of the star-god, Saturn.",
     "strategy": "AAAAAA=="
   },
   {
@@ -20804,7 +20816,7 @@
   {
     "sn": "228093",
     "name": "Oni",
-    "desc": "An evil monster from Japanese lore known for its hideous visage and brute strength.\nThey loot and plunder villages, massacring the townspeople with their iron clubs.\nThey have horns on their heads, red skin, long claws, and razor-sharp teeth.",
+    "desc": "An evil monster from Japanese lore known for its hideous visage and brute strength. They loot and plunder villages, massacring the townspeople with their iron clubs. They have horns on their heads, red skin, long claws, and razor-sharp teeth.",
     "strategy": "AAAAAA=="
   },
   {
@@ -21187,7 +21199,7 @@
   },
   {
     "sn": "230091",
-    "name": "Dominion",
+    "name": "Power",
     "desc": "The sixth of the nine orders of angels. It is said that they were the first order to be created. Their duty is to protect human souls from demons.",
     "strategy": "AAAAAA=="
   },
@@ -21535,7 +21547,7 @@
   },
   {
     "sn": "230281",
-    "name": "Dominion",
+    "name": "Power",
     "desc": "The sixth of the nine orders of angels. It is said that they were the first order to be created. Their duty is to protect human souls from demons.",
     "strategy": "AAAAAA=="
   },
@@ -21949,7 +21961,7 @@
   },
   {
     "sn": "230522",
-    "name": "Dominion",
+    "name": "Power",
     "desc": "The sixth of the nine orders of angels. It is said that they were the first order to be created. Their duty is to protect human souls from demons.",
     "strategy": "AAAAAA=="
   },
@@ -22196,7 +22208,7 @@
   {
     "sn": "238043",
     "name": "Naga",
-    "desc": "Half-snake, half-human divine beings in Hindu lore, worshipped as bringers of rain.\nThey live in the bottoms of lakes and seas, singing and dancing when they are not fighting.",
+    "desc": "Half-snake, half-human divine beings in Hindu lore, worshipped as bringers of rain. They live in the bottoms of lakes and seas, singing and dancing when they are not fighting.",
     "strategy": "AAAAAA=="
   },
   {
@@ -24489,7 +24501,7 @@
     "sn": "503101",
     "name": "Power",
     "desc": "The sixth of the nine orders of angels. It is said that they were the first order to be created. Their duty is to protect human souls from demons.",
-    "strategy": "AAAAAA=="
+    "strategy": "1. Power will repeatedly summon servants. When a servant is defeated, Power takes Almighty damage based on the servant's max HP.\n2. Power restores all Phantom Thieves' SP each turn, but also uses Angel's Bindings on the Phantom Thief with the highest Attack, greatly decreasing their damage."
   },
   {
     "sn": "503102",
@@ -24507,7 +24519,7 @@
     "sn": "503111",
     "name": "Zaou-Gongen",
     "desc": "Repeller of evil found at Kinpusen by En-no-Ozunu. Believed to be a fusion of Buddha, Guanyin, and Maitreya, he's a god who originated from Japan rather than the Buddhavacana.",
-    "strategy": "AAAAAA=="
+    "strategy": "1. At the start of battle, Zaou-Gongen gains 15 Vajra Shield stacks. Each stack decreases damage taken by 5%.\n2. When Zaou-Gongen takes damage from a skill or Resonance, it loses 1 Vajra Shield stack.\n3. When Zaou-Gongen loses all Vajra Shield stacks, all Phantom Thieves gain Demon Power, increasing their damage."
   },
   {
     "sn": "503112",
@@ -30002,7 +30014,7 @@
   {
     "sn": "712351",
     "name": "Stone of Scone",
-    "desc": "Also known as the Stone of Destiny,it is a stone used in the coronations of Scotland's monarchs. Legends say the stone is linked to angels.",
+    "desc": "Also known as the Stone of Destiny, it is a stone used in the coronations of Scotland's monarchs. Legends say the stone is linked to angels.",
     "strategy": "AAAAAA=="
   },
   {
@@ -30398,13 +30410,13 @@
   {
     "sn": "713201",
     "name": "Thor",
-    "desc": "The Norse thunder god and son of Odin, Thor owns the power-enhancing belt Megingjard and wields Mjolnir, a hammer that causes lightning to strike and returns to its owner if thrown.",
+    "desc": "The Norse thunder god and son of Odin, Thor owns the power enhancing belt, Megingjard, and wields Mjolnir, a hammer that causes lightning to strike and returns to its owner if thrown.",
     "strategy": "AAAAAA=="
   },
   {
     "sn": "713211",
     "name": "Kali",
-    "desc": "A goddess of death and destruction. She is said to be another face of Parvati. She is violent, wears a string of skulls,and carries bloody weapons, but she also blesses her followers.",
+    "desc": "A goddess of death and destruction. She is said to be another face of Parvati. She is violent, wears a string of skulls, and carries bloody weapons, but she also blesses her followers.",
     "strategy": "AAAAAA=="
   },
   {
@@ -31868,7 +31880,7 @@
   {
     "sn": "717231",
     "name": "Kali",
-    "desc": "A goddess of death and destruction. She is said to be another face of Parvati. She is violent, wears a string of skulls,and carries bloody weapons, but she also blesses her followers.",
+    "desc": "A goddess of death and destruction. She is said to be another face of Parvati. She is violent, wears a string of skulls, and carries bloody weapons, but she also blesses her followers.",
     "strategy": "AAAAAA=="
   },
   {
@@ -32601,13 +32613,13 @@
     "sn": "740123",
     "name": "Horus",
     "desc": "An ancient god of Egypt whose eyes are the sun and moon. Revered by some as the chief god, he is often depicted as a hawk or a falcon.",
-    "strategy": "When Horus and Yatagarasu take damage from a Phantom Thief, that Thief's damage increases by 2% for 3 turns. Stacks up to 5 times."
+    "strategy": "When Horus and Yatagarasu take damage from a Phantom Thief, that Thief's pierce rate increases by 2% for 3 turns. This can stack up to 5 times."
   },
   {
     "sn": "740124",
     "name": "Yatagarasu",
     "desc": "A divine creature in Japanese lore. They are three-legged birds sent by Amaterasu to help humans. They are said to have helped Emperor Jinmu claim victory.",
-    "strategy": "When Horus and Yatagarasu take damage from a Phantom Thief, that Thief's damage increases by 2% for 3 turns. Stacks up to 5 times."
+    "strategy": "When Horus and Yatagarasu take damage from a Phantom Thief, that Thief's pierce rate increases by 2% for 3 turns. This can stack up to 5 times."
   },
   {
     "sn": "740131",
@@ -32625,19 +32637,19 @@
     "sn": "740133",
     "name": "Horus",
     "desc": "An ancient god of Egypt whose eyes are the sun and moon. Revered by some as the chief god, he is often depicted as a hawk or a falcon.",
-    "strategy": "When Horus and Yatagarasu take damage from a Phantom Thief, that Thief's damage increases by 2% for 3 turns. Stacks up to 5 times."
+    "strategy": "When Horus and Yatagarasu take damage from a Phantom Thief, that Thief's pierce rate increases by 2% for 3 turns. This can stack up to 5 times."
   },
   {
     "sn": "740134",
     "name": "Yatagarasu",
     "desc": "A divine creature in Japanese lore. They are three-legged birds sent by Amaterasu to help humans. They are said to have helped Emperor Jinmu claim victory.",
-    "strategy": "When Horus and Yatagarasu take damage from a Phantom Thief, that Thief's damage increases by 2% for 3 turns. Stacks up to 5 times."
+    "strategy": "When Horus and Yatagarasu take damage from a Phantom Thief, that Thief's pierce rate increases by 2% for 3 turns. This can stack up to 5 times."
   },
   {
     "sn": "740611",
     "name": "Kartikeya",
     "desc": "A Hindu god of war, known as Skanda or Murugan. He ridesatop a peacock called Paravani,with bow and arrow drawn. He commands the army of the gods and defeated the forces of Asura.",
-    "strategy": "1. Kartikeya leads its army of birds to attack all at once.\n2. When Garuda and Jatayu take damage from a Phantom Thief, that Thief's damage increases by 4% for 3 turns. Stacks up to 5 times. When Horus and Yatagarasu take damage from a Phantom Thief, that Thief's pierce rate increases by 2% for 3 turns. Stacks up to 5 times."
+    "strategy": "1. Kartikeya leads its army of birds to attack all at once.\n2. When Garuda and Jatayu take damage from a Phantom Thief, that Thief's damage increases by 4% for 3 turns. Stacks up to 5 times. When Horus and Yatagarasu take damage from a Phantom Thief, that Thief's pierce rate increases by 2% for 3 turns. This can stack up to 5 times."
   },
   {
     "sn": "740621",
@@ -32655,13 +32667,13 @@
     "sn": "740623",
     "name": "Horus",
     "desc": "An ancient god of Egypt whose eyes are the sun and moon. Revered by some as the chief god, he is often depicted as a hawk or a falcon.",
-    "strategy": "When Horus and Yatagarasu take damage from a Phantom Thief, that Thief's damage increases by 2% for 3 turns. Stacks up to 5 times."
+    "strategy": "When Horus and Yatagarasu take damage from a Phantom Thief, that Thief's pierce rate increases by 2% for 3 turns. This can stack up to 5 times."
   },
   {
     "sn": "740624",
     "name": "Yatagarasu",
     "desc": "A divine creature in Japanese lore. They are three-legged birds sent by Amaterasu to help humans. They are said to have helped Emperor Jinmu claim victory.",
-    "strategy": "When Horus and Yatagarasu take damage from a Phantom Thief, that Thief's damage increases by 2% for 3 turns. Stacks up to 5 times."
+    "strategy": "When Horus and Yatagarasu take damage from a Phantom Thief, that Thief's pierce rate increases by 2% for 3 turns. This can stack up to 5 times."
   },
   {
     "sn": "741111",
@@ -35246,7 +35258,7 @@
   {
     "sn": "812011",
     "name": "Shiisaa",
-    "desc": "A holy beast said to protect houses from evil and bring good fortune.\nThey look similar to Shinto guardian dogs, but are actually modeled after a lion. There are many stories about it in Ryukyu lore.",
+    "desc": "A holy beast said to protect houses from evil and bring good fortune. They look similar to Shinto guardian dogs, but are actually modeled after a lion. There are many stories about it in Ryukyu lore.",
     "strategy": "AAAAAA=="
   },
   {
@@ -35732,7 +35744,7 @@
   {
     "sn": "813142",
     "name": "Anzu",
-    "desc": "An evil deity of Mesopotamian folklore with an eagle's body and lion's head.\nWhile the god Enlil purified himself, Anzu stole the Tablets of Destiny from him.",
+    "desc": "An evil deity of Mesopotamian folklore with an eagle's body and lion's head. While the god Enlil purified himself, Anzu stole the Tablets of Destiny from him.",
     "strategy": "AAAAAA=="
   },
   {
@@ -36110,7 +36122,7 @@
   {
     "sn": "817061",
     "name": "Stone of Scone",
-    "desc": "Also known as the Stone of Destiny,it is a stone used in the coronations of Scotland's monarchs. Legends say the stone is linked to angels.",
+    "desc": "Also known as the Stone of Destiny, it is a stone used in the coronations of Scotland's monarchs. Legends say the stone is linked to angels.",
     "strategy": "AAAAAA=="
   },
   {
@@ -36518,7 +36530,7 @@
   {
     "sn": "819143",
     "name": "Rakshasa",
-    "desc": "A Hindu demon. He is an enemy of the gods and attacks humans to feed off of them.\nHis hideous appearance strikes fear into those who see him. Rakshasa shape-shifts to deceive his enemies.",
+    "desc": "A Hindu demon. He is an enemy of the gods and attacks humans to feed off of them. His hideous appearance strikes fear into those who see him. Rakshasa shape-shifts to deceive his enemies.",
     "strategy": "AAAAAA=="
   },
   {
@@ -37478,7 +37490,7 @@
   {
     "sn": "823104",
     "name": "Ara Mitama",
-    "desc": "One of the four aspects of Shinto thought, it has the\npower to grant ferocity. It is said to aid in one's\nbravery, growth, and endeavors, though it can lead in a negative direction.",
+    "desc": "One of the four aspects of Shinto thought, it has the power to grant ferocity. It is said to aid in one's bravery, growth, and endeavors, though it can lead in a negative direction.",
     "strategy": "AAAAAA=="
   },
   {
@@ -38534,31 +38546,31 @@
   {
     "sn": "827011",
     "name": "Stone of Scone",
-    "desc": "Also known as the Stone of Destiny,it is a stone used in the coronations of Scotland's monarchs. Legends say the stone is linked to angels.",
+    "desc": "Also known as the Stone of Destiny, it is a stone used in the coronations of Scotland's monarchs. Legends say the stone is linked to angels.",
     "strategy": "AAAAAA=="
   },
   {
     "sn": "827021",
     "name": "Stone of Scone",
-    "desc": "Also known as the Stone of Destiny,it is a stone used in the coronations of Scotland's monarchs. Legends say the stone is linked to angels.",
+    "desc": "Also known as the Stone of Destiny, it is a stone used in the coronations of Scotland's monarchs. Legends say the stone is linked to angels.",
     "strategy": "AAAAAA=="
   },
   {
     "sn": "827031",
     "name": "Stone of Scone",
-    "desc": "Also known as the Stone of Destiny,it is a stone used in the coronations of Scotland's monarchs. Legends say the stone is linked to angels.",
+    "desc": "Also known as the Stone of Destiny, it is a stone used in the coronations of Scotland's monarchs. Legends say the stone is linked to angels.",
     "strategy": "AAAAAA=="
   },
   {
     "sn": "827041",
     "name": "Stone of Scone",
-    "desc": "Also known as the Stone of Destiny,it is a stone used in the coronations of Scotland's monarchs. Legends say the stone is linked to angels.",
+    "desc": "Also known as the Stone of Destiny, it is a stone used in the coronations of Scotland's monarchs. Legends say the stone is linked to angels.",
     "strategy": "AAAAAA=="
   },
   {
     "sn": "827051",
     "name": "Stone of Scone",
-    "desc": "Also known as the Stone of Destiny,it is a stone used in the coronations of Scotland's monarchs. Legends say the stone is linked to angels.",
+    "desc": "Also known as the Stone of Destiny, it is a stone used in the coronations of Scotland's monarchs. Legends say the stone is linked to angels.",
     "strategy": "AAAAAA=="
   },
   {
@@ -40209,7 +40221,7 @@
     "sn": "752041",
     "name": "King Frost",
     "desc": "The king of snow who rules over an infinite number of Jack Frosts. He has the power to freeze the entire world, but is unaware of it due to his naïve personality.",
-    "strategy": "1. King Frost will not attack, but will continously summon Jack Frost and Black Frost. When they are defeated, King Frost loses 30% HP.\n2. The longer Jack Frost and Black Frost stay on the field, the more their Attack and Defense will increase."
+    "strategy": "1. King Frost will not attack, but will continously summon shadows. When all the summoned shadows are defeated, King Frost loses 30% HP.\n2. The longer the summoned shadows stay on the field, the more their Attack and Defense will increase."
   },
   {
     "sn": "752042",
@@ -40725,6 +40737,18 @@
     "sn": "900512",
     "name": "Pixie",
     "desc": "Friendly fairies of the forest that tend to hide from humans. They like to play tricks on lazy people. It is said they are the souls of dead, unbaptized children.",
+    "strategy": "AAAAAA=="
+  },
+  {
+    "sn": "752001",
+    "name": "Power",
+    "desc": "The sixth of the nine orders of angels. It is said that they were the first order to be created. Their duty is to protect human souls from demons.",
+    "strategy": "1. When Shadows on the field use a certain skill, all Shadows gain <color=#72C5FF>Legion</color>.\n2. When <color=#72C5FF>Legion</color> reaches 5 stacks, Power will activate a powerful multi-target attack skill.\n3. When there are less than 2 Principalities on the field, Power will spend all <color=#72C5FF>Legion</color> stacks to summon 2 Principalities. It can summon a maximum of 2 times during the battle."
+  },
+  {
+    "sn": "752002",
+    "name": "Principality",
+    "desc": "The seventh of the nine orders of angels. They guard cities and nations, and protect various religious figures.",
     "strategy": "AAAAAA=="
   },
   {
@@ -41661,7 +41685,7 @@
     "sn": "901414",
     "name": "Bishamonten",
     "desc": "Also known as Tamonten and Vaishravana in Buddhist lore, he is the strongest of the Heavenly Kings. He protects the North and is the god of war.",
-    "strategy": "4. Bishamonten has <color=#72C5FF>Parasol of Chaos</color>.\nParasol of Chaos: Covers the Shadow with the lowest HP, and changes all affinities to Resist for 2 turns.\n1. When the number of Four Heavenly Kings falls below 3, they will sacrifice themselves to summon <color=#72C5FF>Asura</color>.\n2. <color=#72C5FF>Asura</color> has the special skills of the sacrificed King (if there are less than 2 special skills, it will gain another King's special skill at random).\n3. <color=#72C5FF>Asura</color> activates its skill every turn."
+    "strategy": "Bishamonten has <color=#72C5FF>Parasol of Chaos</color>.\nParasol of Chaos: Covers the Shadow with the lowest HP, and changes all affinities to Resist for 2 turns.\n1. When the number of Four Heavenly Kings falls below 3, they will sacrifice themselves to summon <color=#72C5FF>Asura</color>.\n2. <color=#72C5FF>Asura</color> has the special skills of the sacrificed King (if there are less than 2 special skills, it will gain another King's special skill at random).\n3. <color=#72C5FF>Asura</color> activates its skill every turn."
   },
   {
     "sn": "901415",
@@ -42289,19 +42313,19 @@
   },
   {
     "sn": "911501",
-    "name": "Sinner of Lust",
+    "name": "Raga",
     "desc": "-",
     "strategy": "AAAAAA=="
   },
   {
     "sn": "911502",
-    "name": "Sinner of Lust",
+    "name": "Raga",
     "desc": "-",
     "strategy": "AAAAAA=="
   },
   {
     "sn": "911503",
-    "name": "Sinner of Lust",
+    "name": "Raga",
     "desc": "-",
     "strategy": "AAAAAA=="
   },
@@ -43021,7 +43045,7 @@
   },
   {
     "sn": "912501",
-    "name": "Sinner of Vanity's Left Eye",
+    "name": "Dvesha's Left Eye",
     "desc": "-",
     "strategy": "AAAAAA=="
   },
@@ -43033,19 +43057,19 @@
   },
   {
     "sn": "912503",
-    "name": "Sinner of Vanity's Nose",
+    "name": "Dvesha's Nose",
     "desc": "-",
     "strategy": "AAAAAA=="
   },
   {
     "sn": "912504",
-    "name": "Sinner of Vanity's Mouth",
+    "name": "Dvesha's Mouth",
     "desc": "-",
     "strategy": "AAAAAA=="
   },
   {
     "sn": "912911",
-    "name": "Sinner of Vanity's Left Eye",
+    "name": "Dvesha's Left Eye",
     "desc": "-",
     "strategy": "AAAAAA=="
   },
@@ -43057,7 +43081,7 @@
   },
   {
     "sn": "912913",
-    "name": "Sinner of Vanity's Nose",
+    "name": "Dvesha's Nose",
     "desc": "-",
     "strategy": "AAAAAA=="
   },
@@ -43604,7 +43628,7 @@
   {
     "sn": "912591",
     "name": "Mokoi",
-    "desc": "Evil spirits of Murngin lore believed to be reborn shadows.\nThey kidnap and eat children,\nand strike down any sorcerer who uses black magic.",
+    "desc": "Evil spirits of Murngin lore believed to be reborn shadows. They kidnap and eat children, and strike down any sorcerer who uses black magic.",
     "strategy": "AAAAAA=="
   },
   {
@@ -44899,7 +44923,7 @@
   },
   {
     "sn": "913501",
-    "name": "Sinner of Gluttony",
+    "name": "Irshya",
     "desc": "-",
     "strategy": "AAAAAA=="
   },
@@ -44935,7 +44959,7 @@
   },
   {
     "sn": "913911",
-    "name": "Sinner of Gluttony",
+    "name": "Irshya",
     "desc": "-",
     "strategy": "AAAAAA=="
   },
@@ -44971,7 +44995,7 @@
   },
   {
     "sn": "913921",
-    "name": "Sinner of Gluttony",
+    "name": "Irshya",
     "desc": "-",
     "strategy": "AAAAAA=="
   },
@@ -44989,7 +45013,7 @@
   },
   {
     "sn": "913931",
-    "name": "Sinner of Gluttony",
+    "name": "Irshya",
     "desc": "-",
     "strategy": "AAAAAA=="
   },
@@ -45007,7 +45031,7 @@
   },
   {
     "sn": "913941",
-    "name": "Sinner of Gluttony",
+    "name": "Irshya",
     "desc": "-",
     "strategy": "AAAAAA=="
   },
@@ -45025,7 +45049,7 @@
   },
   {
     "sn": "913951",
-    "name": "Sinner of Gluttony",
+    "name": "Irshya",
     "desc": "-",
     "strategy": "AAAAAA=="
   },
@@ -45061,7 +45085,7 @@
   },
   {
     "sn": "913961",
-    "name": "Sinner of Gluttony",
+    "name": "Irshya",
     "desc": "-",
     "strategy": "AAAAAA=="
   },
@@ -47042,7 +47066,7 @@
   {
     "sn": "114",
     "name": "AAAAAA==",
-    "desc": "Also known as the Stone of Destiny,it is a stone used in the coronations of Scotland's monarchs. Legends say the stone is linked to angels.",
+    "desc": "Also known as the Stone of Destiny, it is a stone used in the coronations of Scotland's monarchs. Legends say the stone is linked to angels.",
     "strategy": "AAAAAA=="
   },
   {

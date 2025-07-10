@@ -22,7 +22,7 @@
   {
     "sn": "104",
     "title": "<color=#72C5FF>Shock</color>",
-    "desc": "[Elemental Ailment] Increase the chance of receiving critical hits by 10% for 2 turns."
+    "desc": "[Elemental Ailment] Increase critical taken rate by 10% for 2 turns."
   },
   {
     "sn": "105",
@@ -67,7 +67,7 @@
   {
     "sn": "113",
     "title": "<color=#72C5FF>La Vie en Rose</color>",
-    "desc": "[Status] When dealing Fire damage to foes, gain 1 Passion stack. After obtaining 4 Passion stacks, gain this status on action start and increase attack."
+    "desc": "[Status] When dealing Fire damage to foes, gain 1 Passion stack. With 4 Passion stacks, gain this status at start of action and increase Attack."
   },
   {
     "sn": "114",
@@ -77,12 +77,12 @@
   {
     "sn": "115",
     "title": "<color=#72C5FF>Starfire</color>",
-    "desc": "[Status] Allies healing using skill gain Starfire, increasing attack for 1 turn."
+    "desc": "[Status] Allies healed using skills gain Starfire, increasing Attack for 1 turn."
   },
   {
     "sn": "116",
     "title": "<color=#72C5FF>Gavel</color>",
-    "desc": "[Count] When spent, deal Bless damage to 1 foe, increase party's Attack, and grant shields."
+    "desc": "[Count] When spent, deal Bless damage to 1 foe, increase party's Attack, and grant shield."
   },
   {
     "sn": "117",
@@ -92,7 +92,7 @@
   {
     "sn": "118",
     "title": "<color=#72C5FF>Right to Strike</color>",
-    "desc": "[Count] Increases Attack and Speed on self."
+    "desc": "[Count] Increases Seiji's Attack and Speed."
   },
   {
     "sn": "119",
@@ -102,12 +102,12 @@
   {
     "sn": "120",
     "title": "<color=#72C5FF>Encouragement</color>",
-    "desc": "When Seiji uses a skill, he has a chance to gain a stack of Encouragement. Increases his Attack and Speed by a set amount."
+    "desc": "When Motoha uses a skill, she has a chance to gain a stack of Conduction. Increase Attack by a fixed amount."
   },
   {
     "sn": "121",
     "title": "<color=#72C5FF>Oath</color>",
-    "desc": "[Status] At the end of the user's action, grants a shield to the selected ally."
+    "desc": "[Status] At the end of Yukimi's action, grant a shield to the selected ally."
   },
   {
     "sn": "122",
@@ -176,7 +176,7 @@
   },
   {
     "sn": "135",
-    "title": "<color=#72C5FF>Sacrifice</color>",
+    "title": "<color=#72C5FF>Chosen One</color>",
     "desc": "[Count] Increase party's fire damage. When using a skill, take damage."
   },
   {
@@ -187,7 +187,7 @@
   {
     "sn": "137",
     "title": "<color=#72C5FF>Blade Dancer</color>",
-    "desc": "[Resonance] After using a skill, if at a certain number of Ice Crystal stacks or higher, deal Ice damage to foes as a follow up. This effect counts as a Resonance. "
+    "desc": "[Resonance] After using a skill, if at a certain number of Ice Crystal stacks or higher, deal Ice damage to foes as a follow up. This effect counts as a Resonance."
   },
   {
     "sn": "138",
@@ -227,7 +227,7 @@
   {
     "sn": "145",
     "title": "<color=#72C5FF>Hint</color>",
-    "desc": "When Riddle inflicts a debuff on a foe with Treasure Hunt Mark, it gains 1 Hint. Each stack decreases Defense by 4%."
+    "desc": "When Haruna inflicts a debuff on a foe with Treasure Hunt Mark, inflict 1 Hint. Each stack decreases Defense by 4%."
   },
   {
     "sn": "146",
@@ -242,7 +242,7 @@
   {
     "sn": "148",
     "title": "<color=#72C5FF>Fury</color>",
-    "desc": "Deva King Charm set effect. For each stack, increase party's Attack by 1%. For each increase, increase Defense by 1%."
+    "desc": "Deva King Charm set effect. For each 1% increase in party's Attack, increase Defense by 1%."
   },
   {
     "sn": "149",
@@ -252,7 +252,7 @@
   {
     "sn": "150",
     "title": "<color=#72C5FF>Chivalry</color>",
-    "desc": "[Count] Spend stacks to heal the entire party's HP."
+    "desc": "[Count] Spend stacks to heal the party's HP."
   },
   {
     "sn": "999",
@@ -277,7 +277,7 @@
   {
     "sn": "154",
     "title": "<color=#72C5FF>Sonnet of Fate</color>",
-    "desc": "[Resonance] With a certain number of Verse Stacks, when an ally acts, deal follow-up Bless damage to 1 foe."
+    "desc": "[Resonance] With a certain number of Verse stacks, when an ally acts, deal follow-up Curse damage to 1 foe."
   },
   {
     "sn": "155",
@@ -332,12 +332,12 @@
   {
     "sn": "165",
     "title": "<color=#72C5FF>Affection</color>",
-    "desc": "[Status] When allies granted this status deal damage with a skill, grant user Childish Heart and Mystery."
+    "desc": "[Status] When allies granted this status deal damage with a skill, Haruna gains Childish Heart and Mystery."
   },
   {
     "sn": "167",
     "title": "<color=#72C5FF>Agony</color>",
-    "desc": "Special effect of the Vanquisher Charm set. Deal 1% of max HP per stack as damage to foes. (Lasts for 2 turns.)"
+    "desc": "Special effect of the Purge Charm set. Deal 1% of max HP per stack as damage to foes. Lasts for 2 turns."
   },
   {
     "sn": "168",
@@ -347,7 +347,7 @@
   {
     "sn": "169",
     "title": "<color=#72C5FF>Diagnosis</color>",
-    "desc": "[Count] Increase user's max HP by 15% for each stack. When using certain skills, spend all stacks to strengthen those skills' effects."
+    "desc": "[Count] Increase Minami's max HP by 15% for each stack. When using certain skills, spend all stacks to strengthen those skills' effects."
   },
   {
     "sn": "170",
@@ -402,12 +402,12 @@
   {
     "sn": "1008",
     "title": "<color=#72C5FF>Prayer Magatama</color>",
-    "desc": "[Prayer Magatama] Restore party to max HP.\n<color=#FF423F>You currently have %s</color>.\n<color=#FFD145>Use them from the Party Area on the home screen.</color>"
+    "desc": "You can use a Prayer Magatama to restore party to max HP.\n<color=#FF423F>You currently have %s</color>.\n<color=#FFD145>Use them from the Party Area on the home screen.</color>"
   },
   {
     "sn": "1009",
     "title": "<color=#72C5FF>Non-Combat Stations</color>",
-    "desc": "All stations other than the Shadow of Discord, Shadow of Suffering, Shadow of Calamity, or Shadow of the Dream-Eater."
+    "desc": "Indicates Wandering Shadow, Agitated Shadow, Depraved Shadow, and Shadow of the Dream-Eater stations."
   },
   {
     "sn": "1010",
@@ -422,7 +422,7 @@
   {
     "sn": "1012",
     "title": "<color=#72C5FF>Special Ability</color>",
-    "desc": "Included stats: Attack, Defense, Max HP, Critical Hit Rate, Critical Damage"
+    "desc": "Included stats: Attack, Defense, max HP, critical hit rate, and critical damage"
   },
   {
     "sn": "1013",
@@ -437,12 +437,12 @@
   {
     "sn": "173",
     "title": "<color=#72C5FF>Vision & Emotion</color>",
-    "desc": "[Effect] Counterattacks deal 2 consecutive hits with Pierce effect."
+    "desc": "[Status] Change counterattacks to deal 2 consecutive hits with pierce effect."
   },
   {
     "sn": "174",
     "title": "<color=#72C5FF>Creation</color>",
-    "desc": "[Status] 100% chance to counterattack. Change attack to 2 repeated hits with Pierce effect."
+    "desc": "[Status] Change counterattacks to 100% chance and deal 2 consecutive hits with pierce effect."
   },
   {
     "sn": "175",
@@ -467,7 +467,7 @@
   {
     "sn": "179",
     "title": "<color=#72C5FF>Radiation</color>",
-    "desc": "[Elemental Ailment] Increase Nuclear damage."
+    "desc": "[Elemental Ailment] Increase Nuclear damage by 15% for 2 turns."
   },
   {
     "sn": "180",
@@ -547,7 +547,7 @@
   {
     "sn": "195",
     "title": "<color=#72C5FF>Mental Link</color>",
-    "desc": "[Count] For each stack, increases Attack by 10%. Lasts for 2 turns."
+    "desc": "[Count] For each stack, increases Attack by 10%. Lasts for 2 turns. Stacks up to 8 times."
   },
   {
     "sn": "196",
@@ -571,7 +571,7 @@
   },
   {
     "sn": "200",
-    "title": "<color=#72C5FF>Sacrificial Blessing</color>",
+    "title": "<color=#72C5FF>Bloodbath Blessing</color>",
     "desc": "[Status] Increase final damage by 40%."
   },
   {

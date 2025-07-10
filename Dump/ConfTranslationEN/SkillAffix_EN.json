@@ -1337,17 +1337,17 @@
   {
     "sn": "1002",
     "name": "Special Effect",
-    "desc": "When using a skill or Resonance, gain 1 Seal of Power stack.\nIncrease party's final damage by 15% for each stack, and lose 1 stack after attacking. Stacks up to 3 times.\nAlso gain effects from Stable Domain during battle.\nStable Domain: Allies cannot deal critical hits. Final damage is based on critical rate and critical damage."
+    "desc": "When a skill is used or Resonance is activated, gain 1 Seal of Power stack. After all ally actions, increase final damage by 15% for each Seal of Power stack, and then lose 1 stack. Stacks up to 3 times."
   },
   {
     "sn": "1003",
     "name": "Special Effect",
-    "desc": "At the start of each turn, gain 1 Seal of Power stack for each max HP increase. Gain 1 Seal of Power stack when dealing damage with a Resonance.\nSeal of Power: Increase final damage by 10% for each stack.\nAlso gain effects from Stable Domain during battle.\nStable Domain: Allies cannot deal critical hits. Final damage is based on critical rate and critical damage."
+    "desc": "At the start of each turn, gain 1 Seal of Power for each max HP increase. Gain 1 Seal of Power stack when dealing damage with a Resonance.\nSeal of Power: Increase final damage by 10% for each stack. Stacks up to 3 times."
   },
   {
     "sn": "1004",
     "name": "Special Effect",
-    "desc": "When dealing damage with a Resonance, inflict 1 Magnetic Interference stack on target. When healing an ally with a skill, inflict 1 Magnetic Interference stack on a random foe.\nAlso gain effects from Stable Domain during battle.\nStable Domain: Allies cannot deal critical hits. Final damage is based on critical rate and critical damage."
+    "desc": "When dealing damage with a Resonance, inflict Magnetic Interference on the target.\nMagnetic Interference: Increase damage taken by 40% for 2 turns. Stacks up to 1 time."
   },
   {
     "sn": "1005",
@@ -1357,12 +1357,12 @@
   {
     "sn": "1006",
     "name": "Special Effect",
-    "desc": "After all ally actions, all enemies are inflicted with an elemental ailment, and their taken damage increases by 10%."
+    "desc": "After all ally actions, all foes are inflicted with an elemental ailment, and their taken damage increases by 10%."
   },
   {
     "sn": "1007",
     "name": "Special Effect",
-    "desc": "Increase Elucidator allies' stat buff effects by 30%."
+    "desc": "Increase Elucidator allies' stat buff effects by 30% and increase weakness damage by 20%."
   },
   {
     "sn": "1008",
@@ -1387,12 +1387,12 @@
   {
     "sn": "1012",
     "name": "Special Effect",
-    "desc": "When an ally spends HP to use a skill, they obtain a stack of Sacrificial Blessing.\nSacrificial Blessing: Final damage increases by 40%."
+    "desc": "When an ally spends HP to use a skill, they obtain a stack of Bloodbath Blessing.\nBloodbath Blessing: Final damage increases by 40%."
   },
   {
     "sn": "1013",
     "name": "Special Effect",
-    "desc": "Increase Elucidator allies' stat buff effects by 30%. When an ally deals a weakness attack, give user Tremor Amplification. Tremor Amplification: Increase final damage by 40%. Lasts for 2 turns."
+    "desc": "Increase Elucidator allies' stat buff effects by 30%. When an ally deals a weakness attack, give user Tremor Amplification.\nTremor Amplification: Increase final damage by 40%. Lasts for 2 turns."
   },
   {
     "sn": "1014",
@@ -1417,7 +1417,7 @@
   {
     "sn": "2001",
     "name": "Special Effect",
-    "desc": "For each <color=#FFFC40>debuff</color> inflicted on foes, their damage taken increases by 3%. Maximum of 30%."
+    "desc": "For each <color=#FFFC40>debuff</color> inflicted on foes, their damage taken increases by 6%. Maximum of 30%."
   },
   {
     "sn": "2002",
@@ -1437,7 +1437,7 @@
   {
     "sn": "2005",
     "name": "Special Effect",
-    "desc": "After the boss takes an action, all foes are inflicted with <color=#FFFC40>Intimidation</color>. When Intimidation is removed, all allies will be inflicted with Intimidation.\nIntimidation: Decrease Defense by 10%. Maximum of 50%."
+    "desc": "After the boss takes an action, all allies are inflicted with <color=#FFFC40>Intimidation</color>. When Intimidation is removed, all foes are inflicted with Intimidation.\nIntimidation: Decrease Defense by 10%. Decrease up to 50%."
   },
   {
     "sn": "2006",
@@ -1637,12 +1637,12 @@
   {
     "sn": "4512",
     "name": "Special Effect",
-    "desc": "Psychokinesis/Nuclear/Electric/Wind attribute allies' final damage is increased by 30%. Allies with other attributes have their final damage decreased by 30%."
+    "desc": "Psychokinesis/Nuclear/Bless/Curse attribute allies' final damage is increased by 30%. Allies with other attributes have their final damage decreased by 30%."
   },
   {
     "sn": "4513",
     "name": "Special Effect",
-    "desc": "Physical/Nuclear/Electric/Wind attribute allies' final damage is increased by 30%. Allies with other attributes have their final damage decreased by 30%."
+    "desc": "Physical/Gun/Almighty attribute allies' final damage is increased by 30%. Allies with other attributes have their final damage decreased by 30%."
   },
   {
     "sn": "4521",
@@ -1702,12 +1702,12 @@
   {
     "sn": "4553",
     "name": "Special Effect",
-    "desc": "All enemies' max HP is decreased by 50%, and heal 10% of max HP at the end of each turn."
+    "desc": "All foes' max HP is decreased by 50%, and heal 10% of max HP at the end of each turn."
   },
   {
     "sn": "4554",
     "name": "Special Effect",
-    "desc": "The lower all enemies' current HP, the more their final damage is increased. When HP is below 20%, the maximum damage increase is 40%."
+    "desc": "The lower all foes' current HP, the more their final damage is increased. When HP is below 20%, the maximum damage increase is 40%."
   },
   {
     "sn": "5001",
@@ -1722,7 +1722,7 @@
   {
     "sn": "5003",
     "name": "Special Effect",
-    "desc": "When an ally uses a <color=#FFFC40>Highlight</color>, gain 1 Blazing Starfire stack. When Blazing Starfire reaches 4 stacks, spend all Blazing Starfire and activate Sparkling Stage.\nSparkling Stage: Randomly grants 10 buffs to allies. The following buffs may each be applied to 1 random ally.\nIncrease Attack by 15%.\nIncrease Defense by 22.5%.\nIncrease max HP by 15%.\nIncrease damage by 12%.\nIncrease ailment accuracy by 18%.\nIncrease pierce by 6%.\nIncrease critical rate by 9%.\nIncrease critical damage by 18%.\nIncrease pierce resistance by 7.5%.\nIncrease weakness damage by 6%."
+    "desc": "<nobr>When an ally uses a <color=#FFFC40>Highlight</color>, gain 1 Blazing Starfire stack. When Blazing Starfire reaches 4 stacks, spend all Blazing Starfire and activate Sparkling Stage.\nSparkling Stage: Randomly grants 10 buffs to allies. The following buffs may each be granted to 1 random ally.\nIncrease Attack by 15%.\nIncrease Defense by 22.5%.\nIncrease max HP by 15%.\nIncrease damage by 12%.\nIncrease ailment accuracy by 18%.\nIncrease pierce by 6%.\nIncrease critical rate by 9%.\nIncrease critical damage by 18%.\nIncrease pierce resistance by 7.5%.\nIncrease weakness damage by 6%."
   },
   {
     "sn": "6001",
@@ -1750,6 +1750,11 @@
     "desc": "<color=#FF423F>Trojan Horse</color>: <color=#fffc40>Combat Chip</color>. When an ally activates a Resonance, gain <color=#fffc40>5</color> deployment points (only once per action). Increase ally Resonance damage dealt by <color=#fffc40>60%</color>."
   },
   {
+    "sn": "2503",
+    "name": "Special Effect",
+    "desc": "At the end of each turn, foes gain 1 <color=#FFFC40>Berserk</color> stack.\nBerserk: Increase damage by a set amount. Stacks up to 3 times."
+  },
+  {
     "sn": "6006",
     "name": "Overload",
     "desc": "<color=#FF423F>Overload</color>: <color=#fffc40>Combat Chip</color>. When an ally deals critical damage, gain <color=#fffc40>4</color> deployment points. Increase ally critical rate by <color=#fffc40>18%</color>."
@@ -1757,7 +1762,7 @@
   {
     "sn": "6011",
     "name": "Bughack-I0",
-    "desc": "<color=#FF423F>Bughack-I0</color>: When a <color=#fffc40>Self-Destruct Bot</color> attacks, 80% chance to grant <color=#fffc40>2</color> random weaknesses to the target. Lasts for 2 turns."
+    "desc": "<color=#FF423F>Bughack-I0</color>: When a <color=#fffc40>Self-Destruct Bot</color> attacks, 80% chance to grant <color=#fffc40>1</color> random weaknesses to the target. Lasts for 2 turns."
   },
   {
     "sn": "6012",
@@ -1782,7 +1787,7 @@
   {
     "sn": "6016",
     "name": "Firewall Buster-N3",
-    "desc": "<color=#FF423F>Firewall Buster-N3</color>: After taking an attack from a <color=#fffc40>Self-Destruct Bot</color>, increase target's damage taken by <color=#fffc40>5%</color> for 2 turns. Increase damage taken by <color=#fffc40>5%</color> more for each debuff target has, up to <color=#fffc40>30%</color>."
+    "desc": "<color=#FF423F>Firewall Buster-N3</color>: After taking an attack from a <color=#fffc40>Self-Destruct Bot</color>, increase target's damage taken by <color=#fffc40>5%</color>. Increase damage taken by <color=#fffc40>5%</color> more for each debuff target has, up to <color=#fffc40>30%</color>. Lasts for 2 turns."
   },
   {
     "sn": "6017",
@@ -2142,7 +2147,7 @@
   {
     "sn": "8018",
     "name": "Special Effect",
-    "desc": "Elucidator allies' prep time is increased by 2 turns."
+    "desc": "Elucidator allies' cooldown time is increased by 2 actions."
   },
   {
     "sn": "8019",
@@ -2192,7 +2197,7 @@
   {
     "sn": "8028",
     "name": "Special Effect",
-    "desc": "Elucidator allies' prep time is increased by 6 turns."
+    "desc": "Elucidator allies' cooldown time is increased by 6 actions."
   },
   {
     "sn": "8029",

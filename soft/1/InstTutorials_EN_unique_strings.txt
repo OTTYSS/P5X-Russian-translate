@@ -1,0 +1,637 @@
+=== sn ===
+10000
+201211
+201212
+201221
+201222
+201251
+201252
+202171
+202172
+202191
+202192
+202211
+202212
+202231
+202251
+202271
+202272
+202291
+202311
+202312
+202313
+202314
+203711
+203712
+203731
+203732
+203751
+203771
+203772
+203791
+203811
+203812
+203831
+203832
+203851
+203852
+203853
+203871
+203872
+203891
+203892
+203911
+203912
+203931
+203932
+211511
+211512
+211531
+211551
+211571
+211572
+211591
+211592
+211611
+211612
+218091
+218101
+218111
+218121
+218131
+218141
+218151
+218161
+218171
+218181
+218191
+218201
+218211
+218221
+218231
+218241
+228011
+228021
+228031
+228041
+228051
+228061
+228071
+228081
+228091
+228101
+228111
+228121
+228131
+228141
+228151
+228161
+238011
+238021
+238031
+238041
+238051
+238061
+238071
+238081
+410111
+420111
+430111
+440111
+441111
+442111
+443111
+444111
+445111
+446111
+447111
+501101
+501111
+502101
+502111
+503101
+503111
+504011
+504111
+505101
+506101
+508111
+509101
+510101
+511101
+512101
+512111
+513101
+514101
+515101
+517101
+701011
+701021
+701031
+701041
+701051
+701061
+701062
+702011
+702021
+702031
+702041
+702051
+702061
+702071
+702072
+702081
+702082
+702083
+702084
+702091
+702101
+703011
+703021
+703031
+703051
+703061
+703062
+703071
+703081
+703091
+703101
+703111
+703121
+703122
+703123
+703131
+703132
+703133
+703134
+703141
+703142
+703143
+704011
+704021
+704031
+704041
+704051
+704061
+704071
+730111
+730611
+731111
+732111
+733111
+733611
+734111
+734611
+735111
+736111
+736611
+737111
+738111
+738611
+739111
+740111
+741111
+752011
+752021
+752031
+752041
+752051
+752061
+753011
+753061
+753071
+753081
+753091
+753111
+753121
+753131
+753141
+808211
+808221
+808222
+808231
+808232
+808241
+808251
+808252
+808261
+808262
+808271
+808272
+808281
+808282
+808291
+808292
+809111
+809121
+809131
+809141
+809142
+809143
+809144
+818011
+818021
+818031
+818041
+818051
+818091
+818101
+818111
+818121
+819111
+819121
+819131
+819141
+819151
+819152
+829011
+829021
+829031
+829041
+829051
+829061
+829071
+829081
+829091
+829101
+829111
+829121
+829711
+829721
+829731
+829741
+829751
+900111
+900112
+900113
+901311
+901312
+901313
+901411
+901412
+901511
+901512
+914501
+915501
+920011
+920111
+920211
+920311
+920411
+920511
+920611
+920711
+920811
+920911
+921011
+921111
+921112
+921211
+921311
+921411
+921511
+930211
+930241
+930251
+931211
+931241
+931251
+932211
+932241
+932251
+933211
+934211
+9851
+9852
+
+=== text ===
+1. After acting each turn, if Moha has taken damage during that turn, its <color=#FF423F>Wrath</color> increases by 4.\nIf it has not taken damage during the turn, its Wrath decreases by 1.\n2. If Moha's Wrath reaches 12 by the end of the turn, it will spend all Wrath to use <color=#FF423F>Rapid Ascent</color>, and on the next turn, uses <color=#FF423F>Sphinx Dive</color> to deal heavy Physical damage to all Phantom Thieves.\n3. When Moha is on the field, the Phantom Thieves gain a small amount of Ballista Energy at the end of each turn.\n4. When the Phantom Thieves deal weakness damage to Moha, they gain a large amount of <color=#FF423F>Ballista Energy</color>. This can be done only once per turn.\n5. When the Phantom Thieves have 100 Ballista Energy at the start of the turn, they will spend 100 Ballista Energy to attack Moha with a <color=#FF423F>Ballista Shot</color>, putting it in a Weakened state and causing it to lose all Wrath.
+1. After the Phantom Thieves land 3 critical hits with their skills, the Phantom Thief with the highest Attack can act for 1 extra turn, and their critical rate and critical damage are increased.\n2. Oberon and Titania are in the <color=#FF423F>Soul Link</color> state.\nSoul Link: Distributes all damage received between all Shadows who share this condition, based on the percentage of their current HP.\n3. Every 2 turns, Oberon's damage taken increases, then gradually decreases.\nEvery 2 turns, Titania's damage taken decreases, then gradually increases.\n4. Oberon will summon Sudama, which will attempt to flee.\nIf Sudama is defeated, the Phantom Thief with the highest Attack will be able to act for 1 extra turn, and their critical rate and critical damage are increased.
+1. All of Black Ooze's affinities start as <color=#FF423F>Weak</color>.\n2. After taking damage, Black Ooze's affinity to that attack's attribute becomes <color=#FF423F>Repel</color>. Lasts for 2 turns.
+1. Ara Mitama governs <color=#FF423F>courage</color>, Nigi Mitama governs <color=#FF423F>affection</color>, Saki Mitama governs <color=#FF423F>love</color>, and Kushi Mitama governs <color=#FF423F>wisdom</color>.\n2. The four Mitama share a Soul Link, which distributes all damage received between all Shadows who share this condition, based on the percentage of their current HP.\n3. According to the mysterious words, you must <color=#FF423F>select the corresponding Mitama to attack</color>.
+1. Arahabaki summons a variety of Dogu. When Dogu are on the field, Arahabaki is granted various effects.\n2. At the start of Arahabaki's turn, Arahabaki's Progress increases for each Dogu on the field. When Progress reaches 10, Arahabaki activates Abyssal Gaze and inflicts all Phantom Thieves with <color=#ff3b37>Despair</color>.\n3. There is always a Metamorphosis Dogu on the field. This Dogu cannot be attacked, and it will transform into another Dogu randomly every turn, activating its corresponding ability.\n4. When it HP falls below 50% for the first time, Arahabaki summons an additional Metamorphosis Dogu.\nWeakness Dogu: Protects Arahabaki's weakness.\nSP Dogu: Causes the Phantom Thieves to lose SP each turn.\nHP Dogu: Restores Arahabkaki's HP each turn.\nProgress Dogu: Increases Arahabaki's Progress each turn.
+1. Arahabaki summons a variety of Dogu.\nWhen Dogu are on the field, Arahabaki is granted various effects.\n2. At the start of Arahabaki's turn, Arahabaki's Progress increases for each Dogu on the field.\nWhen Progress reaches 10, Arahabaki activates <color=#FF423F>Abyssal Gaze</color> and inflicts all Phantom Thieves with <color=#FF423F>Despair</color>.\n3. Arahabaki will randomly summon 2 Dogu each turn.\nWhen its HP falls below 50%, Arahabaki summons an additional of Dogu.\nWeakness Dogu: Protects Arahabaki's weakness\nWhen defeated, several of Arahabaki's affinities change to Weak.\nSP Dogu: Causes the Phantom Thieves to lose SP each turn.\nWhen defeated, the Phantom Thieves regain SP.\nHP Dogu: Restores Arahabkaki's HP each turn. When defeated, the Phantom Thieves regain HP.\nProgress Dogu: Increases Arahabaki's Progress each turn.\nWhen defeated, Arahabaki's Progress decreases.
+1. Arahabaki summons a variety of Dogu.\nWhen Dogu are on the field, Arahabaki is granted various effects.\n2. At the start of Arahabaki's turn, Arahabaki's Progress increases for each Dogu on the field.\nWhen Progress reaches 10, Arahabaki activates <color=#FF423F>Abyssal Gaze</color> and inflicts all Phantom Thieves with <color=#FF423F>Despair</color>.\n3. At the start of the battle or when its HP falls below 50%, Arahabaki summons 1 of each of the 4 types of Dogu.\nWeakness Dogu: Protects Arahabaki's weakness\nWhen defeated, several of Arahabaki's affinities change to Weak.\nSP Dogu: Causes the Phantom Thieves to lose SP each turn.\nWhen defeated, the Phantom Thieves regain SP.\nHP Dogu: Restores Arahabkaki's HP each turn. When defeated, the Phantom Thieves regain HP.\nProgress Dogu: Increases Arahabaki's Progress each turn.\nWhen defeated, Arahabaki's Progress decreases.
+1. Archangel will make Phantom Thieves <color=#FF423F>Dizzy</color> for 2 turns.\nAt the start of the next turn, if any Phantom Thieves are Dizzy, Archangel will use <color=#FF423F>Lunge</color> to deal heavy damage.
+1. Archangel will make Phantom Thieves <color=#FF423F>Dizzy</color> for 2 turns.\nAt the start of the next turn, if any Phantom Thieves are Dizzy, Archangel will use <color=#FF423F>Lunge</color> to deal heavy damage.\n2. Archangel will make Phantom Thieves Dizzy based on their turn order.
+1. Archangel will make Phantom Thieves <color=#FF423F>Dizzy</color> for 2 turns.\nAt the start of the next turn, if any Phantom Thieves are Dizzy, Archangel will use <color=#FF423F>Lunge</color> to deal heavy damage.\n2. When Archangel is attacked, it will inflict 2 stacks of <color=#FF423F>Sin</color> on the attacker.\nThe Phantom Thief with the most Sins will become Dizzy.
+1. At the end of Zouchouten's turn, it selects a random Phantom Thief to attack on the next turn.\n2. While Ippon-Datara is present, Zouchouten's Attack is increased.\n3. While High Pixie is present, Zouchouten's Defense is increased.
+1. At the end of each turn, Hell Biker will inflict <color=#FF423F>Hellscorched</color> on a random Phantom Thief.\nHellscorched: Lose a large amount of HP at the end of each turn.\n Can be removed after taking <color=#FF423F>Ice</color> damage.\nStacks up to 3 times.\n2. Jack Frost will not attack unprovoked and cannot be defeated.\nWhen damaged, he will immediately use <color=#FF423F>Bufu</color> on the attacker, dealing a small amount of <color=#FF423F>Ice</color> damage.
+1. At the end of each turn, Hell Biker will inflict <color=#FF423F>Hellscorched</color> on a random Phantom Thief.\nHellscorched: Lose a large amount of HP at the end of each turn.\n Can be removed after taking <color=#FF423F>Ice</color> damage.\nStacks up to 3 times.\n2. Jack Frost will not attack unprovoked and cannot be defeated.\nWhen damaged, he will immediately use <color=#FF423F>Bufu</color> on the attacker, dealing a small amount of <color=#FF423F>Ice</color> damage.\n3. When Hell Biker is defeated, you win the battle.
+1. At the end of each turn, Suzaku raises the Heat level.\nIf the Heat is high at the start of the turn, Suzaku deals heavy Nuclear damage to all Phantom Thieves.\n2. If Jack Frost is defeated, <color=#FF423F>the Heat level decreases significantly</color>.
+1. At the start of battle, 3 Warriors will appear.\nWhen the Warriors are defeated, Valkyrie will receive a buff, and 1 more of the same Warrior will reappear.\n2. When 3 Warriors have been defeated, the Warriors will leave and Valkyrie will appear.\n3. When Setanta is defeated, Valkyrie receives the following effect: At the end of the turn, restores 20% of HP. Stacks up to 3 times.\n4. When Cu Chulainn is defeated, Valkyrie receives the following effect: When using a skill, all Phantom Thieves are inflicted with <color=#FF423F>Army of Ruin</color>.\nArmy of Ruin: After acting, take damage equal to 30% of HP.\nStacks up to 3 times.\n5. When Narcissus is defeated, Valkyrie receives the following effect: After using a skill, makes 1 additional follow-up attack on the Phantom Thief with the lowest HP.
+1. At the start of battle, 3 Warriors will appear.\nWhen the Warriors are defeated, Valkyrie will receive a buff, and 1 more of the same Warrior will reappear.\n2. When 3 Warriors have been defeated, the Warriors will leave and Valkyrie will appear.\n3. When Setanta is defeated, Valkyrie receives the following effect: When using a skill, Attack is greatly increased.\nLasts for 2 turns. Stacks up to 3 times.\n4. When Cu Chulainn is defeated, Valkyrie receives the following effect: After attacking, all Phantom Thieves' damage taken is increased.\nLasts for 2 turns. Stacks up to 3 times.\n5. When Narcissus is defeated, Valkyrie receives the following effect: After using a skill, makes an additional multi-target follow-up attack.\nStacks up to 3 times.
+1. At the start of battle, Asura gains 2 Vajra Armor stacks and restores 1 stack each turn.\nEach stack reduces damage taken by 15%.\n2. When Asura takes damage from its weakness, it loses 1 Vajra Armor stack.\n3. When Asura loses all Vajra Armor stacks, all Phantom Thieves gain Demon Subjugation, increasing their damage.
+1. At the start of battle, Belphegor randomly selects 1 Phantom Thief, greatly increasing their max HP, but reducing their remaining HP to 5%.\n2. The higher the HP percentage of the Phantom Thief, the more damage will be dealt.\n3. Belphegor will summon Mokoi, who will flee after 1 turn.\nIf Mokoi is defeated, all Phantom Thieves restore 30% HP.
+1. At the start of battle, Eligor activates <color=#FF423F>Royal Domain</color>.\nRoyal Domain changes all the user's affinities to <color=#FF423F>Null</color>.\n2. On Eligor's turn, it summons 1 Berith and activates <color=#FF423F>Royal Aid</color>.\nRoyal Aid is granted to 1 Berith, heals 50% of its max HP, negates 50% of damage taken for 1 turn, and inflicts <color=#FF423F>Taunt</color> on all Phantom Thieves.
+1. At the start of battle, Eligor activates <color=#FF423F>Royal Domain</color>.\nWhile Royal Domain is active, all Shadows have increased Attack and Defense.\n2. On Eligor's action, it can activate <color=#FF423F>Royal Healing</color> to restore HP to all Shadows.
+1. At the start of battle, Genbu will gain <color=#FF423F>Black Tortoiseshell</color> stacks equal to its <color=#FF423F>Down Points</color>, and its Defense and damage reduction will increase with each stack.\n2. When Genbu is hit by an attack other than its weakness or a critical, it will gain 1 <color=#FF423F>Down Point</color> and <color=#FF423F>Black Tortoiseshell</color> stack.\nWhen hit by its weakness or a critical, it will lose 1 <color=#FF423F>Black Tortoiseshell</color> stack.\nWhen Genbu is knocked down, it becomes unable to act for 2 turns, and cannot recover Down Points or use skills.
+1. At the start of battle, Mara summons 4 Decarabias.\n2. Mara maintains 4 Decarabias on the field.\n3. When Decarabia is defeated, Mara loses a certain amount of HP.\n4. When Weakened, damage dealt to Decarabia is added to your score.
+1. At the start of battle, Nue gains all 4 of the following effects:\n<color=#FF423F>Monkey Mask</color>: At the end of the turn, heals a certain amount of HP.\n<color=#FF423F>Tanuki Form</color>: Gains an 80% dodge chance.
+1. At the start of battle, Oberon and Titania each gain 5 Fairy Power, decreasing damage taken by 4% per stack.\n2. Each time Oberon or Titania is defeated, the other will spend 1 Fairy Power to summon them again.\n3. When their Fairy Power is depleted, Oberon and Titania will be weakened, greatly increasing their damage taken.\nLasts for 2 turns, after which they regain 5 Fairy Power.
+1. At the start of battle, Seiryu gains 2 Azure Scales stacks, and gains 1 more stack every turn.\nEach stack decreases damage taken by 15%.\n2. When Seiryu takes weakness damage, it loses 1 Azure Scales stack.\n3. When Seiryu loses all Azure Scales stacks, all Phantom Thieves gain Azure Power, increasing their damage.
+1. At the start of battle, Trumpeter summons the Four Horsemen, and becomes invincible.\nThe Four Horsemen share a <color=#FF423F>Soul Link</color>, and if all four are defeated, Trumpeter will enter a Mania state.\nSoul Link: Distributes all damage received between all Shadows who share this condition, based on the percentage of their current HP.\n2. Trumpeter and the Four Horsemen will sound their horns once every 3 turns. They cannot sound their horns if they are affected by a spiritual ailment.\n3. White Rider: On Trumpeter's command, it will sound the <color=#FF423F>Horn of Pestilence</color>, decreasing the max HP of 1 random Phantom Thief.\n4. Red Rider: On Trumpeter's command, it will sound the <color=#FF423F>Horn of War</color>, granting itself the Horn of War status.\nWhen this status is active, it will counterattack when attacked. Lasts for 1 turn.\n5. Black Rider: On Trumpeter's command, it will sound the <color=#FF423F>Horn of Famine</color>, increasing the SP cost of skills for 1 random Phantom Thief.\n6. Pale Rider: On Trumpeter's command, it will sound the <color=#FF423F>Horn of Death</color>, decreasing the healing effect of all Phantom Thieves' skills, and increasing all Shadows' damage. Lasts for 2 turns.\n7. Trumpeter: Each time the Four Horsemen sound a horn, Trumpeter gains 1 stack of <color=#FF423F>Power of Ruin</color>.\nAfter all Four Horsemen have been commanded, Trumpeter will prepare for 1 turn before sounding the Horn of Ruin.\nThis will spend all stacks of Power of Ruin to deal Almighty damage to all Phantom Thieves (deals higher damage based on the Attack of all Four Horsemen).\nAdditional effects are based on the number of stacks of Power of Ruin.\n1 stack: Final attack power increases by 25%.\n2 stacks: Damage increases by 15%.\n3 stacks: All Four Horsemen heal 10% of their HP.\n4 stacks: This attack is guaranteed to be a Critical Hit.
+1. At the start of battle, Unicorn gains 5 stacks of Purity.\n2. When Unicorn receives a buff or healing, it gains 1 extra stack of Purity.\nPurity: Increases Attack and Defense. When Purity reaches 10 stacks, Unicorn activates <color=#FF423F>Holy Power</color>.\nHoly Power deals heavy damage to all Phantom Thieves and fully restores all Shadows' HP.\n3. Every turn, Unicorn randomly summons Nigi Mitama, Saki Mitama, Kushi Mitama, or Ara Mitama, which each grant Unicorn various buffs.\n4. When Unicorn takes most <color=#FF423F>debuffs</color>, it loses 2 stacks of Purity.
+1. At the start of battle, Zaou-Gongen gains 15 Vajra Shield stacks. Each stack decreases damage taken by 5%.\n2. When Zaou-Gongen takes damage from a skill or Resonance, it loses 1 Vajra Shield stack.\n3. When Zaou-Gongen loses all Vajra Shield stacks, all Phantom Thieves gain Demon Power, increasing their damage.
+1. At the start of battle, all Phantom Thieves will gain 10 stacks of Great Tengu Power.\nEach stack increases Attack and Defense by 5%.\n2. Every turn, as well as every time the Phantom Thief uses a skill, they lose 1 Great Tengu Power and Kurama Tengu gains 1 Great Tengu Power.\n3. Kurama Tengu will summon Sudama, who will flee after 1 turn.\nIf Sudama is defeated, all Phantom Thieves gain 5 stacks of Great Tengu Power.
+1. At the start of battle, all four angels are affected by Demonic Curse, changing all affinities to Weak. Lasts for 1 turn.\n2. Raphael will restore all Phantom Thieves' SP every turn, but also inflicts Angelic Binding on the Phantom Thief with the highest Attack, greatly decreasing their damage.
+1. At the start of the battle, Hecatoncheires has 100 <color=#FF423F>Arms of Protection</color> stacks, and takes less damage depending on the number of stacks. When it has Arms of Protection, it also has <color=#FF423F>Arms of Defense</color>, reducing final damage by 70%.\n2. Hecatoncheires will summon the Avatar of Arms and the Avatar of Gathering.\nWhen the Avatar of Arms is defeated, it loses 1 Arms of Protection stack. When the Avatar of Gathering is defeated, it loses 10 Arms of Protection stacks.\nFor each Arms of Protection stack removed, all Phantom Thieves gain <color=#FF423F>Arms of Strength</color>.\nArms of Strength: Damage increased based on number of stacks.\n3. When Hecatoncheires has 80 or more Arms of Protection stacks, it becomes invincible and will not attack.\nIt keeps 4 Avatars of Arms on the field, and gains 1 <color=#FF423F>Arms of Might</color> stack every turn.\nArms of Might: Damage increased based on number of stacks.\n4. When Hecatoncheires has less than 80 Arms of Protection stacks, it loses its invincibility and begins to attack. Every turn it summons 2 Avatars of Gathering.\nWhen it takes damage, 1 Arms of Protection stack is removed.\n5. When Arms of Protection reaches 0, Hecatoncheires enters the <color=#FF423F>Last Stand</color> state.\nLast Stand: Damage is significantly increased, and attack pattern changes.
+1. At the start of the battle, Hecatoncheires has 100 <color=#FF423F>Arms of Protection</color> stacks, and takes less damage depending on the number of stacks.\nWhen it has Arms of Protection, it also has <color=#FF423F>Arms of Defense</color>, reducing final damage by 70%.
+1. At the start of the battle, Okuninushi becomes invincible and does not attack, instead summoning 4 random enemies.\n2. Nigi Mitama: After 3 turns, it unleashes a powerful area attack skill.\n3. Kushi Mitama: It has low HP but high attack power.\nIt targets the Phantom Thief with the lowest HP and attacks with an insta-kill skill.
+1. At the start of the battle, Unicorn gains 5 stacks of Purity.\n2. When Unicorn is healed or receives a buff, it also gains 1 stack of Purity.\nPurity: Increases Attack and Defense, and when Purity reaches 10 stacks, Unicorn activates <color=#FF423F>Holy Power</color>.\nHoly Power deals heavy damage to all Phantom Thieves, and fully heals all Shadows.\n3. If there are less than 4 Mitama on the field, Unicorn will spend 3 Purity to summon 1 Mitama.
+1. Avidya cannot be targeted in the first phase of battle, and will continuously summon Corporobos to fight the Phantom Thieves.\nAfter a certain number of Corporobos have been defeated, Avidya will move to the second phase.\n2. Avidya cannot be targeted in the second phase of battle, and will summon a team of powerful Corporobos to fight.\nWhen all of the Corporobos have been defeated, Avidya will move to the third phase, where he can be targeted and will not use any skills.\n3. During the battle, Avidya will use <color=#FF423F>Selfless Devotion</color> on randomly selected Corporobos, who will self-destruct after 2 turns, dealing heavy damage to the Phantom Thieves.\n4. Corporobo MDL-CH will use Overtime Order on the Shadow with the highest Attack, granting it an extra turn.\n5. Corporobo MDL-DM will use <color=#FF423F>Performance Evaluation</color> on the Shadow with the lowest Attack, increasing its Attack, and promoting it to a Corporobo MDL-AM after 2 turns.\n6. Corporobo MDL-GM uses skills to buff and heal Shadows.\n7. Corporobo MDL-ED will use <color=#FF423F>Team-Building Exercise</color> to drain all other Shadows' HP to strengthen itself.
+1. Baphomet will summon minions during the battle.\nWhen a minion is defeated, Baphomet takes Almighty damage based on the minion's max HP.\n2. Baphomet will restore all Phantom Thieves' SP each turn, but also inflicts Devilish Hex on the Phantom Thief with the highest Attack, greatly decreasing their damage.
+1. Baphomet will summon minions during the battle.\nWhen a minion is defeated, Baphomet takes Almighty damage based on the minion's max HP.\n2. Baphomet will restore all Phantom Thieves' SP each turn, but also inflicts Devilish Hex on the Phantom Thief with the highest Attack, greatly decreasing their damage.\n3. When a minion is knocked down, all Phantom Thieves' damage is increased by 15%. Lasts for 1 turn.
+1. Belphegor is always <color=#FF423F>Asleep</color>.\nAfter being attacked, he will wake up, and can take 1 action before going back to sleep.\n2. Belphegor deals increased damage to Sleeping targets.\n3. Every turn, Sandman will choose 1 random target and put them to Sleep. Lasts for 2 turns.\n4. The first time Decarabia takes damage each turn, it will counterattack all targets 1 time.
+1. Belphegor is always <color=#FF423F>Asleep</color>.\nAfter being attacked, he will wake up, and can take 1 action before going back to sleep.\n2. Belphegor takes increased damage while Asleep.\nEvery 2 turns, it summons 1 Sandman.\n3. When Sandman is defeated, Belphegor will fall asleep.
+1. Belphegor is always <color=#FF423F>Asleep</color>.\nAfter being attacked, he will wake up, and can take 1 action before going back to sleep.\n2. Each time Belphegor acts, it gains 1 stack of <color=#FF423F>Irate</color>, and its damage increases.\n3. When Sandman is defeated, Belphegor will fall asleep.
+1. Black Rider will use <color=#FF423F>Black Famine</color>.\nBlack Famine: Inflicts Famine on all targets, decreasing their Attack and increasing the cost of skills. Lasts for 1 turn. Stacks up to 2 times.\n2. Pale Rider will use <color=#FF423F>Pale Death</color>.\nPale Death: Deals damage based on current HP percentage to 1 target, and inflicts <color=#FF423F>Despair</color>. Lasts for 3 turns.
+1. Bui specializes in <color=#FF423F>single-target attacks</color>.\nAfter an ally uses an attack skill, she has a chance to activate a <color=#FF423F>follow-up attack</color>.\n2. Bui can select 1 ally to be <color=#FF423F>Player 2</color>.\nWhen Bui uses a Highlight or selects a Player 2, her follow-up attacks get even stronger.\n3. She can deal increased damage against <color=#FF423F>Shocked</color> enemies.
+1. Byakko alternates between <color=#FF423F>Byakko's Claw</color> and <color=#FF423F>Byakko's Fang</color>.\n2. Byakko's Claw: Deals damage to 1 target and inflicts <color=#FF423F>Deep Wounds</color>.\nThis effect deals damage over time, and can be removed by inflicting an elemental or spiritual ailment.\n3. Byakko's Fang: Deals damage to all targets and inflicts <color=#FF423F>Bite Marks</color>.\nThis effect increases damage taken and can be removed by activating a Highlight or Resonance.\n4. At the start of each turn, if both Deep Wounds and Bite Marks have been inflicted, Byakko will activate <color=#FF423F>Prey</color>, dealing heavy damage and inflicting Despair</color> on the target.\n5. Every 2 turns, Byakko summons 1 Byakko's Afterimage.\nByakko's Afterimage has the same skills, but very low HP and ailment resistance.
+1. Byakko alternates between <color=#FF423F>Byakko's Claw</color> and <color=#FF423F>Byakko's Fang</color>.\n2. Byakko's Claw: Deals damage to 1 target and inflicts <color=#FF423F>Deep Wounds</color>.\nThis effect deals damage over time, and can be removed by receiving healing 3 times.\n3. Byakko's Fang: Deals damage to all targets and inflicts <color=#FF423F>Bite Marks</color>.\nThis effect increases damage taken, and can be removed by dealing damage 3 times.\n4. At the start of each turn, if both Deep Wounds and Bite Marks have been inflicted, Byakko will activate <color=#FF423F>Prey</color>, dealing heavy damage and inflicting <color=#FF423F>Despair</color> on the target.\n5. Every 2 turns, 1 Leanan Sidhe will be summoned.
+1. Byakko alternates between <color=#FF423F>Byakko's Claw</color> and <color=#FF423F>Byakko's Fang</color>.\n2. Byakko's Claw: Deals damage to 1 target and inflicts <color=#FF423F>Deep Wounds</color>.\nThis effect deals damage over time.\n3. Byakko's Fang: Deals damage to all targets and inflicts <color=#FF423F>Bite Marks</color>.\nThis effect increases damage taken.\n4. At the start of each turn, if both Deep Wounds and Bite Marks have been inflicted, Byakko will activate <color=#FF423F>Prey</color>, dealing heavy damage and inflicting <color=#FF423F>Despair</color> on the target.\n5. Every 2 turns, Byakko selects 1 Sudama as Bait, and on the next turn, eats the Sudama, fully restoring its HP and granting itself a buff.
+1. Byakko's <color=#FF423F>Vicious Bite</color> skill will inflict <color=#FF423F>Deep Wounds</color> on all Phantom Thieves, decreasing their Defense and increasing their damage taken.\nUse the Guard command to remove the Deep Wounds condition.\n2. Byakko's <color=#FF423F>Sharp Claws</color> skill will target the Phantom Thief with the lowest HP, and if they have Deep Wounds, the damage is increased.\nWhen this skill KO's a Phantom Thief, it immediately activates again.
+1. Cerberus will summon minions during the battle.\nWhen a minion is defeated, Cerberus takes Almighty damage.\n2. When Cerberus has taken a certain amount of damage, it moves to the next phase, and all Phantom Thieves restore SP.
+1. Cherish specializes in <color=#FF423F>boosting the Defense of allies</color>.\nHe can grant his allies a <color=#FF423F>shield</color> or increase their Defense to improve their survivability.\n2. During battle, he can use <color=#FF423F>Emblem of Honesty</color> to protect allies from damage and gain <color=#FF423F>Heroism</color> to activate <color=#FF423F>Declaration of Justice</color>.\n3. Declaration of Justice strengthens skills, and further increases the Attack and survivability of allies.
+1. Clotho uses Moirai Binding to grant a random Phantom Thief the Thread of Fate.\n2. Lachesis uses Moirai Spinning to change a Phantom Thief's Thread of Fate to <color=#FF423F>Weave of Fate</color>.\nWeave of Fate: Attack increases due to the threads of fate.
+1. Clotho uses Moirai Binding to grant a random Phantom Thief the Thread of Fate.\n2. Lachesis uses Moirai Spinning to change a Phantom Thief's Thread of Fate to <color=#FF423F>Weave of Fate</color>.\nWeave of Fate: Attack increases due to the threads of fate.\n3. At certain times, Clotho, Lachesis and Atropos will summon a Spirit of Fate.\nDefeating the Spirit of Fate will grant an <color=#FF423F>additional strengthening effect</color> to Phantom Thieves with the Weave of Fate.\n4. At certain times, Atropos will use <color=#FF423F>Moirai Cutting</color>, dealing severe damage to Phantom Thieves with the Weave of Fate.\n(1) After Atropos has acted 10 times.\n(2) After Clotho or Lachesis have been defeated.\n(3) After Atropos has been defeated.
+1. Cu Chulainn gains 2 Runic Protection stacks each turn. Each stack decreases damage taken by 15%.\n2. When Cu Chulainn takes damage from its weakness, it loses 1 Runic Protection stack.\n3. When Cu Chulainn loses all Runic Protection stacks, all Phantom Thieves gain Runic Strength, increasing their damage.\n4. Cu Chulainn will restore all Phantom Thieves' SP each turn, but also inflicts Runic Curse on the Phantom Thief with the highest Attack, greatly decreasing their damage.
+1. Cu Chulainn's <color=#FF423F>critical damage</color> is increased by 30%, and Critical damage taken is decreased by 50%.\n2. Cu Chulainn will activate Heroic Strength, granting itself a Shield at a set amount, increasing its damage, and locking on to 1 Phantom Thief.\nOn the next turn, it unleashes <color=#FF423F>Gae Bolg</color>on the targeted Phantom Thief, dealing heavy damage with a chance of insta-killing.\nIf Cu Chulainn's <color=#FF423F>Shield is broken</color>, it loses Heroic Strength and the lock on is canceled.
+1. Daisoujou cannot be targeted or defeated.\n2. At the start of the battle, Daisoujou's HP is only 1% of the maximum, and each turn it will use <color=#FF423F>Sokushin</color>.\n Sokushin: Deals damage to all Phantom Thieves based on their current HP percentage, and consumes a certain amount of SP. Also restores the same amount of HP to Daisoujou.\n3. Shadows will continously appear on the field, and deal a set amount of damage to Daisoujou.\n4. Victory is acheived if Daisoujou's HP is healed to 100%.\nThe battle is lost if Daisoujou's HP is too low. Quickly defeat the Shadows while protecting Daisoujou.
+1. Daisoujou cannot be targeted or defeated.\n2. Shadows and Sarasvati will appear on the field. Shadows will deal a set amount of damage to Daisoujou, and Sarasvati will heal Daisoujou.\n3. At the start of the battle, Daisoujou has 1% of its max HP. Victory is acheived if Daisoujou's HP is healed to 100%.\nThe battle is lost if Daisoujou's HP is too low. Be mindful of Daisoujou's remaining HP.\n4. Quickly defeat the Shadows while protecting Sarasvati.
+1. Due to a mysterious power, a random Phantom Thief or Shadow will gain 1 stack of <color=#FF423F>Soul Vessel</color> each turn.\nSoul Vessel: Damage and healing effect increase, but a set amount of HP is lost every turn.\nStacks up to 5 times.
+1. Due to a mysterious power, all Phantom Thieves will be <color=#FF423F>unable to heal</color> during this Trial.\n2. Attacking Kodama will greatly increase the Attack of all Phantom Thieves. Lasts for 2 turns.\n3. Attacking Sudama will add <color=#FF423F>Life Drain</color> to all Phantom Thieves' attacks. Lasts for 2 turns.\n4. Defeat Arahabaki to win the battle.
+1. Due to the erosion of Mementos, after any Phantom Thief's action, all Phantom Thieves lose 5% HP.\n2. After all Phantom Thieves receive healing, their damage increases by 25%. Lasts 2 turns. Stacks up to 2 times.
+1. Each time Gabriel loses 33% of its max HP, it summons Dominion.\nWhen Dominion is on the field, all of Gabriel's affinities change to Resist.\n2. When Gabriel's HP falls below 33%, it summons 2 Powers every 3 turns.\n3. When Power is on the field, all of Gabriel's affinities change to Null.
+1. Each turn, Girimehkala inflicts a <color=#FF423F>Mark of Calamity</color> on 2 Phantom Thieves and 1 Shadow.\nLasts for 2 turns.\n2. When a Phantom Thief with a Mark of Calamity deals damage with a skill, <color=#FF423F>Arrival of Calamity</color> is activated on that Phantom Thief.\nArrival of Calamity: Deals multi-target damage based on the user's Attack, and inflicts a Mark of Calamity on the main target of the skill.\n3. All Shadows take 60% decreased final damage from all attacks other than Arrival of Calamity.\n4. When Girimehkala has a Mark of Calamity, its damage is permanently increased by 50% after attacking.\n5. When Incubus has a Mark of Calamity, it heals all Shadows after attacking.\n6. If Succubus has a Mark of Calamity, it will inflict <color=#FF423F>Dizzy</color> on 1 Phantom Thief after attacking.\n7. If Oni has a Mark of Calamity, it greatly increases the damage of another Shadow after attacking.
+1. Each turn, Girimehkala inflicts a <color=#FF423F>Mark of Calamity</color> on 2 Phantom Thieves. Lasts for 2 turns.\n2. When a Phantom Thief with a Mark of Calamity deals damage with a skill, <color=#FF423F>Arrival of Calamity</color> is activated on that Phantom Thief.\nArrival of Calamity: Deals multi-target damage based on the user's Attack, and inflicts a Mark of Calamity on the main target of the skill.\n3. All Shadows take 60% decreased final damage from all attacks other than Arrival of Calamity.\n4. Up to 2 Marks of Calamity can be held.\nWhen Mark of Calamity reaches 2 stacks, using a skill will activate Ruinous Calamity once, dealing severe damage.\nThis effect does not inflict a Mark of Calamity on the target.
+1. Each turn, Girimehkala inflicts a <color=#FF423F>Mark of Calamity</color> on 2 Phantom Thieves. Lasts for 2 turns.\n2. When a Phantom Thief with a Mark of Calamity deals damage with a skill, <color=#FF423F>Arrival of Calamity</color> is activated on that Phantom Thief: Deals multi-target damage based on the user's Attack, and inflicts a Mark of Calamity on the main target of the skill.\n3. All Shadows take 60% decreased final damage from all attacks other than Arrival of Calamity.\n4. After taking damage from Arrival of Calamity, damage taken is greatly increased.\nLasts for 1 turn.
+1. Each turn, Oni will alternate between <color=#FF423F>Physical Counter</color> and <color=#FF423F>Magic Counter</color>.\nWhenever it takes damage of the corresponding attribute, it will counterattack, dealing single-target Physical damage to the attacker.\n2. Whenever Oni counterattacks, a count is added, and when the count reaches 4, it activates <color=#FF423F>Hyakki Yagyo</color>, dealing heavy damage to all Phantom Thieves.
+1. Each turn, Seiryu will record the attributes of damage it takes, and on the next turn inflicts a weakness to that attribute to a Shadow.\n2. When a Shadow is defeated, Seiryu gains 1 stack of <color=#FF423F>Azure Storm</color>.\nAzure Storm: Damage increases by 30%.\nWhen Azure Storm reaches 6 stacks, Seiryu deals heavy damage.
+1. Each turn, Thoth's affinity will change to Drain either Fire, Ice, Electric, Wind, Psychokinesis, Nuclear, Bless, or Curse. When it takes damage of the corresponding attribute, it gains 1 Lunar Power stack.\n2. When Thoth has 2 or more Lunar Power stacks, it will spend 2 Lunar Power stacks to enter the <color=#FF423F>Full Moon</color> state, increasing its own abilities and summoning 2 Sandmen.\n3. Every 3 turns, Thoth will use Full Moon's Protection, entering a preparation state and gaining a Shield.\nIf the Shield is destroyed before the next turn, the preparation is canceled. If it is not destroyed, Thoth immediately enters the Full Moon state.
+1. Each turn, Titania gains 2 Fairy Power.\n2. Titania loses 1 Fairy Power each time she takes a Physical attack.\n3. Before the start of her turn, Titania spends all Fairy Power to activate Fairy Curse, decreasing all Phantom Thieves' damage by 15% for each Fairy Power spent.
+1. Each turn, Zaou-Gongen gains 15 Vajra Shield stacks. Each stack decreases damage taken by 5%.\n2. When Zaou-Gongen takes damage from a skill or additional effect, it loses 1 stack of Vajra Shield.\n3. When Zaou-Gongen loses all stacks of Vajra Shield, all Phantom Thieves gain Demon Power, increasing their damage.
+1. Every 2 turns, Oni will gain <color=#FF423F>Absolute Counter</color> for 1 turn.\nWhenever it takes damage, it will counterattack, dealing single-target Physical damage to the attacker.\n2. Whenever Oni counterattacks, a count is added, and when the count reaches 4, it activates <color=#FF423F>Hyakki Yagyo</color>, dealing heavy damage to all Phantom Thieves.
+1. Every 2 turns, Yaksini will activate <color=#FF423F>True Wage War</color>.\nTrue Wage War has a high chance to <color=#FF423F>Enrage</color> all Phantom Thieves.\nRage: Causes target to use <color=#FF423F>normal attacks</color> uncontrollably.\nAttack is greatly increased, and Defense is greatly decreased.
+1. Every 2 turns, Yaksini will become <color=#FF423F>Enraged</color>, and randomly target 1 Phantom Thief, dealing heavy Physical damage on the next turn.\nRage: Causes target to use <color=#FF423F>normal attacks</color> uncontrollably.\nAttack is greatly increased, and Defense is greatly decreased.
+1. Every 3 turns, Anubis will curse 1 Phantom Thief, dealing 50% of their max HP as damage and knocking them down.\nThe curse is lifted when the cursed Phantom Thief's HP is fully healed.\n2. If the curse is not lifted within 2 turns, the Phantom Thief will be KO'd.
+1. Every turn, Kumbhanda will attack a Phantom Thief who has a <color=#FF423F>Grudge</color>.\nIf no Phantom Thieves have a Grudge, it will attack all Phantom Thieves.\n2. Whenever Kumbhanda attacks, it reduces the target's HP by 20%, and restores 20% HP to the Agathion with the lowest HP.\n3. When Agathion is hit by an attack, the attacker gains a Grudge.\nLasts for 1 turn.\n4. If an Agathion's HP is less than 40% at the start of its turn, it transforms into Kumbhanda.\nIf it is defeated, it restores the HP of all Shadows by 40%.
+1. Every turn, Kumbhanda will attack a Phantom Thief who has a <color=#FF423F>Grudge</color>.\nIf no Phantom Thieves have a Grudge, it will attack all Phantom Thieves.\n2. Whenever Kumbhanda attacks, it reduces the target's SP by 20%, and restores 10 SP to 1 random Agathion.\n3. When Agathion is hit by an attack, the attacker gains a Grudge.\nLasts for 1 turn.\n4. If an Agathion's SP is less than 40% at the start of its turn, it transforms into Kumbhanda.\nIf it is defeated, it restores the SP of all Shadows by 40%.
+1. Every turn, as well as every time the Phantom Thieves use a skill, the entire party gains 1 stack of Great Tengu Power.\n2. When the Phantom Thieves take damage, they lose 3 stacks of Great Tengu Power.\n3. When Great Tengu Power reaches a certain number of stacks, an additional effect is gained.\n5 stacks: damage increases by 20%.\n10 stacks: damage increases by 50%.
+1. Fuu-Ki's <color=#FF423F>Wind Domain</color> give it a base chance of 80% to put the target in an <color=#FF423F>Ultrawindswept</color> state when attacking. Ultrawindswept lasts for 2 turns.\nUltrawindswept: An enhanced version of Windswept inflicted by Fuu-Ki. Decreases Defense by 24%.
+1. Fuu-Ki's <color=#FF423F>Wind Domain</color> give it a base chance of 80% to put the target in an <color=#FF423F>Ultrawindswept</color> state when attacking. Ultrawindswept lasts for 2 turns.\nUltrawindswept: An enhanced version of Windswept inflicted by Fuu-Ki. Decreases Defense by 24%.\n2. Fuu-Ki deals increased damage to Phantom Thieves in the Ultrawindswept state.
+1. Genbu alternates between two skills, <color=#FF423F>High Tide</color> and <color=#FF423F>Ebb Tide</color>.\n2. Ebb Tide: Inflicts the <color=#FF423F>Submerged</color> status on 2 Phantom Thieves.\nClears all Shadows from the battle and summons 2 Decarabias and 2 Yurlungurs.\n1. High Tide: Deals damage to all Phantom Thieves, and inflicts the Submerged status on 1 Phantom Thief.\n4. Submerged: Deals damage equal to 10% of max HP at the end of each turn.\nLasts 4 turns and can stack.\n5. When Decarabia is defeated, 1 stack of Submerged will be removed.\nDuring Ebb Tide, each Decarabia will inflict 1 stacks of Submerged on all Phantom Thieves.\n6. When Yurlungur is defeated, all Phantom Thieves will heal 20% of their max HP, and all Shadows will have their defense decreased for 2 turns.\nDuring Ebb Tide, each Yurlungur will heal all Shadows for 20% of their max HP.
+1. Genbu alternates between two skills, <color=#FF423F>High Tide</color> and <color=#FF423F>Ebb Tide</color>.\n2. Ebb Tide: Inflicts the <color=#FF423F>Submerged</color> status on 2 Phantom Thieves.\nClears all Shadows from the battle and summons 2 Decarabias and 2 Yurlungurs.\n1. High Tide: Deals damage to all Phantom Thieves, and inflicts the Submerged status on 1 Phantom Thief.\n4. Submerged: Deals damage equal to 12.5% of max HP at the end of each turn.\nLasts 4 turns and can stack.\n5. When Decarabia is defeated, 2 stack of Submerged will be removed.\nDuring Ebb Tide, each Decarabia will inflict 2 stacks of Submerged on all Phantom Thieves.\n6. When Yurlungur is defeated, all Phantom Thieves will heal 20% of their max HP, and all Shadows will have their defense decreased for 2 turns.\nDuring Ebb Tide, each Yurlungur will heal all Shadows for 40% of their max HP.
+1. Genbu alternates between two skills, <color=#FF423F>High Tide</color> and <color=#FF423F>Ebb Tide</color>.\n2. Ebb Tide: Inflicts the <color=#FF423F>Submerged</color> status on 2 Phantom Thieves.\nClears all Shadows from the battle and summons 2 Decarabias and 2 Yurlungurs.\n3. High Tide: Deals damage to all Phantom Thieves, and inflicts the Submerged status on 1 Phantom Thief.\n4. Submerged: Deals damage equal to 17.5% of max HP at the end of each turn.\nLasts 4 turns and can stack.\n5. When Decarabia is defeated, 1 stack of Submerged will be removed.\nDuring Ebb Tide, each Decarabia will inflict 3 stacks of Submerged on all Phantom Thieves.\n6. When Yurlungur is defeated, all Phantom Thieves will heal 20% of their max HP, and all Shadows will have their defense decreased for 2 turns.\nDuring Ebb Tide, each Yurlungur will heal all Shadows for 60% of their max HP.
+1. Genbu gains Black Tortoiseshell stacks equal to its <color=#FF423F>Down Points</color>, increasing its Defense and damage reduction.\n2. When Genbu is hit by an attack other than its weakness or a critical, it gains 1 <color=#FF423F>Down Point</color> and 1 Black Tortoiseshell stack.\n3. At the start of its action, if Genbu has 8 Black Tortoiseshell stacks, it will activate Genbu's Rage and deal heavy damage to all Phantom Thieves.
+1. Hariti has extremely high damage reduction, making it difficult to deal damage with direct attacks.\n2. When Hariti's turn ends, it spends its own HP to fully heal all other Shadows, losing HP equal to the amount healed.\n3. At the start of Hariti's turn, it summons 1 Agathion.\nHariti's damage increases by 30% for each Agathion on the field.
+1. Hariti has extremely high damage reduction, making it difficult to deal damage with direct attacks.\n2. When Hariti's turn ends, it spends its own HP to fully heal all other Shadows, losing HP equal to the amount healed.\n3. Each turn, Hariti summons 1 Jack Frost, and grants <color=#FF423F>Mother's Love</color> to a random Jack Frost.\n4. A Jack Frost with Mother's Love will grow into Black Frost after 2 turns, and will become unable to receive healing effects.
+1. Hariti has extremely high damage reduction, making it difficult to deal damage with direct attacks.\n2. When Hariti's turn ends, it spends its own HP to fully heal all other Shadows, losing HP equal to the amount healed.\n3. When Jack-o'-Lantern is defeated, Hariti immediately deals heavy damage to all Phantom Thieves.\n4. At the start of Hariti's turn, it summons up to 4 Jack-o'-Lanterns.
+1. Hell Biker alternates between <color=#FF423F>Hellfire</color> and <color=#FF423F>Cleansing Flame</color>.\n2. Hellfire: Deals heavy Fire damage to all Phantom Thieves, and inflicts <color=#FF423F>Hellscorched</color> if the target's HP is low.\nHellscorched: Take damage equal to 35% of max HP each turn.\n3. Cleansing Flame: Deals heavy Fire damage to the Phantom Thief with the highest Attack, permanently decreases Attack by 50%, and increases Hell Biker's Attack by 30%.\n4. Oni and Hell Biker have the <color=#FF423F>Soul Link</color> condition.\n5. Oni will prioritize attacking the Phantom Thief with the lowest HP.
+1. Horus is blessed by the Sun God, and at the end of each turn it gains 1 <color=#FF423F>Power of the Sun</color>.\nPower of the Sun: Damage taken decreased by 20%.\n2. If Horus has Power of the Sun at the beginning of its turn, it deals heavy Almighty damage to all Phantom Thieves.\nDamage increases based on the number of stacks of Power of the Sun.\n3. Kushi Mitama has the power of the Moon God, and removes 1 stack of Power of the Sun from Horus every turn. In exchange, it loses 34% of its max HP.
+1. Horus is blessed by the Sun God, and at the end of each turn it gains 1 <color=#FF423F>Power of the Sun</color>.\nPower of the Sun: Damage taken decreased by 20%.\n2. If Horus has Power of the Sun at the beginning of its turn, it deals heavy Almighty damage to all Phantom Thieves.\nDamage increases based on the number of stacks of Power of the Sun.\n3. The Left Eye of Horus removes 1 Power of the Sun from Horus each turn. In exchange, it loses 34% of its max HP.\n4. The Right Eye of Horus grants 3 stacks of Power of the Sun to Horus when it is defeated.
+1. Horus is blessed by the Sun God, and at the end of each turn it gains 1 <color=#FF423F>Power of the Sun</color>.\nPower of the Sun: Final damage taken decreased by 20%.\n2. If Horus has Power of the Sun at the beginning of its turn, it deals heavy Almighty damage to all Phantom Thieves.\nDamage increases based on the number of stacks of Power of the Sun.\n3. The Left Eye of Horus removes 1 Power of the Sun from Horus each turn.\nIn exchange, it loses 34% of its max HP.\n4. The Right Eye of Horus grants 1 Power of the Sun to Horus each turn.\nIf it is defeated, Horus loses all stacks of Power of the Sun.\n5. The Right Eye of Horus removes all continuous damage effects on Horus at the start of its turn.\nFor each effect removed, Horus takes 3% of its max HP as damage (this is affected by Horus' final damage reduction).\n6. The Right Eye of Horus has <color=#FF423F>Protection of Horus</color>, which decreases damage taken outside of its own turn by 60%, but increases damage taken during its own turn by 300%.\n7. If only the Left Eye of Horus remains on the field, it transforms into Seth and takes control of the field.
+1. Jikokuten has <color=#FF423F>Sword that Defends the Nation</color>.\nSword that Defends the Nation: Each time damage is dealt, also grants a shield to 1 random Shadow.\n2. Zouchouten can activate <color=#FF423F>Growth of all Things</color>.\nGrowth of all Things: Randomly increases Attack, Defense, or Damage of all Shadows each turn.\n3. Koumokuten can activate <color=#FF423F>Eye of Heaven</color>.\nEye of Heaven: Selects 1 Phantom Thief.\nIncreases their damage taken and has Shadows focus attacks on them next turn.\n4. Bishamonten has <color=#FF423F>Parasol of Chaos</color>.\nParasol of Chaos: Covers the Shadow with the lowest HP, and changes all elemental affinities to Resist.\nLasts for 2 turns.
+1. Jikokuten starts the battle with 10 Down Points.\nEvery 2 turns, it activates <color=#FF423F>Sword that Defends the Nation</color>, granting itself 10 Down Points, and granting 1 Down Point to all Shadows.\nWhen Jikokuten's Down Points reach 36, it transforms into <color=#FF423F>Asura</color>, greatly enhancing its abilities.\n2. Jikokuten constantly summons various Shadows.\nWhen a Shadow is defeated, Jikokuten's Down Points are reduced by 3.\n3. Victory is acheived by reducing Jikokuten's Down Points to 0, or by defeating all foes.
+1. Jikokuten starts the battle with 20 Down Points, and gains 4 Down Points every turn.\nWhen Jikokuten's Down Points reach 36, it transforms into <color=#FF423F>Asura</color>, greatly increasing its stats.\n2. Jikokuten summons 4 Mitama every 3 turns.\nThe Mitama will flee after 1 turn.\nWhen a Mitama is defeated, Jikokuten's Down Points are reduced by 3, and one of its affinities becomes Weak for 3 turns: Fire, Ice, Electric, or Wind.\n3. Victory is acheived by reducing Jikokuten's Down Points to 0, or by defeating all foes.
+1. Jikokuten starts the battle with 30 Down Points, all affinities set to Null, and gains 3 extra Down Points every turn.\nWhen Jikokuten's Down Points reach 36, it transforms into <color=#FF423F>Asura</color>, greatly increasing its stats.\n2. At the start of battle, Jikokuten spends 6 Down Points to summon Jikokuten's Spirit.\n3. Jikokuten's Spirit has 4 Down Points. Each turn, 4 of its weaknesses change.\nIf it is knocked down or defeated, it becomes Crushed Spirit; Jikokuten loses 10 Down Points, and all its affinities change to weaknesses (excluding Physical and Gun).\nJikokuten then resummons Jikokuten's Spirit.\n4. Victory is acheived by reducing Jikokuten's Down Points to 0, or by defeating all foes.
+1. Kartikeya leads its army of birds to attack all at once.\n2. When Garuda and Jatayu take damage from a Phantom Thief, that Thief's damage increases by 4%.\nLasts for 3 turns. Stacks up to 5 times.\nWhen Horus and Yatagarasu take damage from a Phantom Thief, that Thief's Pierce Rate increases by 2%.\nLasts for 3 turns. Stacks up to 5 times.
+1. Kin-Ki's <color=#FF423F>Golden Domain</color> allows it to grant <color=#FF423F>Indestructible Vajra</color> to 1 random Shadow after dealing damage.\nIndestructible Vajra: Nullifies the next damage taken.\n2. When Kin-Ki has Indestructible Vajra, its damage increases.
+1. King Frost will not attack, but will continuously summon Jack Frost and Black Frost.\nWhen all summoned Shadows are defeated, King Frost loses 30% HP.\n2. The longer Jack Frost and Black Frost stay on the field, the more their Attack and Defense will increase.
+1. Leanan Sidhe grants 1 Growth stack to Setanta every turn. When Growth reaches 3 stacks, Setanta transforms into <color=#FF423F>Cu Chulainn</color>.\n2. When Leanan Sidhe is defeated, Setanta gains 3 Growth stacks.\n3. Cu Chulainn will lock on to 1 Phantom Thief, and will activate <color=#FF423F>Gae Bolg</color> on the next turn, dealing heavy damage with a chance to insta-kill.
+1. Leanan Sidhe will first remove its own debuffs, and then remove Unicorn's debuffs.\nIf neither of them have any debuffs, it uses an attack skill.
+1. Matador has <color=#FF423F>Master Step</color>, granting a 100% chance to evade all attacks.\n2. At regular intervals, Matador will summon Matador's Spirit, which will flee after 1 turn.
+1. Matador's skillful footwork raises its evasion.\nMirage Step: 100% chance to avoid <color=#FF423F>normal attacks</color>.\nReverse Step: 100% chance to avoid <color=#FF423F>ranged attacks</color>.\nCape-Sweep Step: 100% chance to avoid <color=#FF423F>skill attacks</color>.
+1. Melchizedek gains 6 stacks of Divine Protection each turn, and each stack of Divine Protection decreases damage taken by 5%.\n2. Melchizedek loses 1 Divine Protection each time it takes damage from a skill or Resonance.\n3. When Melchizedek has lost all Divine Protection, all Phantom Thieves receive Divine Protection, and their damage is increased.
+1. Messa specializes in <color=#FF423F>single-target Physical attacks</color>. During battle, he can switch between 2 different attack modes by using <color=#FF423F>Nightfall</color> to use different skills.
+1. Mont specializes in <color=#FF423F>single-target attacks</color>. During battle, she can switch between <color=#FF423F>Wind Form</color> and <color=#FF423F>Ice Form</color>, allowing her to use different skills.\n2. During battle, she can create a barrier to collect Ice Crystals, and then spend Ice Crystals to shatter the barrier and unleash a powerful Resonance on enemies.\n3. When a Phantom Thief with the same Attribute uses skills, more Ice Crystals can be collected, and Mont will deal more damage.
+1. Nidhoggr and the Vipers are in the <color=#FF423F>Soul Link</color> state.\nSoul Link: Distributes all damage received between all Shadows who share this condition, based on the percentage of their current HP.\n2. When Nidhoggr and Vipers use skills, all skill targets are inflicted with 1 stack of <color=#FF423F>Poison</color>.\nPoison: At the end of a Phantom Thief's action, lose a certain about of HP for each stack, but also increase Attack by 10%.\nPoison cannot be dispelled and can stack up to 3 times.
+1. Nidhoggr and the Vipers are in the <color=#FF423F>Soul Link</color> state.\nSoul Link: Distributes all damage received between all Shadows who share this condition, based on the percentage of their current HP.\n2. When Nidhoggr and Vipers use skills, all skill targets are inflicted with 1 stack of <color=#FF423F>Poison</color>.\nPoison: At the end of a Phantom Thief's action, lose a certain about of HP for each stack, but also increase Attack by 10%.\nPoison cannot be dispelled and can stack up to 3 times.\n3. When Weakened, damage dealt to Vipers is added to your score.
+1. On Eligor's action, it can summon 1 Berith and activate <color=#FF423F>Royal Authority</color>.\nRoyal Authority grants <color=#FF423F>Royal Fealty</color> to 1 Berith.\nWhen Eligor takes damage, this Berith will take damage instead.
+1. On Eligor's action, it can summon 1 Berith and activate <color=#FF423F>Royal Favor</color>.\nRoyal Favor is granted to 1 Berith, decreasing its Defense but greatly increasing its damage.\n2. When Eligor dies, all Beriths gain Royal Favor.
+1. On Eligor's action, it summons 1 Berith and activates <color=#FF423F>Royal Decree</color>.\nRoyal Decree: Select 1 Phantom Thief, and Berith focuses attacks on that Thief for the next turn.\n2. When Eligor has <color=#FF423F>Royal Majesty</color> and attacks a Phantom Thief with a skill, the damage taken by that Thief is permanently increased.
+1. On Leanan Sidhe's action, 1 random Shadow gains 3 stacks of <color=#FF423F>Fairy's Blessing</color>.\nFairy's Blessing: Significantly increases damage.\nLose 1 stack after taking damage.
+1. On Leanan Sidhe's action, Koppa Tengu gains 2 stacks of <color=#FF423F>Fairy's Blessing</color>.\nFairy's Blessing: Significantly increases damage.\nLose 1 stack after taking damage.
+1. On Leanan Sidhe's action, it gains 4 stacks of <color=#FF423F>Fairy's Blessing</color>.\nIt loses 1 stack when it takes damage.\n2. On Leanan Sidhe's action, if it has Fairy's Blessing, it activates <color=#FF423F>Gift of the Grove</color>.\nAll Shadows' damage is significantly increased. Lasts for 2 turns.
+1. Oni always has <color=#FF423F>Absolute Counter</color>.\nWhenever it takes damage, it will counterattack, dealing single-target Physical damage to the attacker.\n2. Whenever Oni counterattacks, a count is added, and when the count reaches 4, it activates <color=#FF423F>Hyakki Yagyo</color>, dealing heavy damage to all Phantom Thieves.
+1. Oni will use the <color=#FF423F>Taunt</color> skill on all Phantom Thieves.\n2. If all Shadows besides Oni are defeated, Oni will become Weakened.
+1. Oracle specializes in <color=#FF423F>multi-target debuff skills</color>. She can inflict <color=#FF423F>Disrupting Virus</color> on all foes to manipulate their affinities.\n2. She can decrease the defense and increase the damage taken by enemies, and can use an additional debuff to increase the damage taken from their weakness.\n3. During battle, she can collect <color=#FF423F>Clues</color> to activate <color=#FF423F>Analysis Complete</color>, increasing damage for all her allies and granting them a <color=#FF423F>shield</color>.
+1. Pazuzu's skills can inflict <color=#FF423F>Plague Curse</color>.\nPlague Curse: Deals damage equal to 5% of HP at the end of the turn.\n2. Pazuzu uses <color=#FF423F>Spreading Sickness</color> every other turn.\nSpreading Sickness: Inflicts 2 Plague Curse stacks on all Phantom Thieves, and inflicts 2 Plague Curse stacks on Pixie.\n3. Pazuzu uses <color=#FF423F>Eternal Binding</color> every other turn.\nEternal Binding: Inflicts 2 Plague Curse stacks on all Phantom Thieves, and removes 1 Plague Curse stack from the target.\n4. When Pale Rider attacks, it inflicts 1 Plague Curse stack on Shadows.\nWhile Pale Rider is present, Pazuzu's final damage taken is reduced by 30%.\n5. When Pixie uses a skill, all Phantom Thieves have 1 Plague Curse stack removed.
+1. Pazuzu's skills can inflict <color=#FF423F>Plague Curse</color>.\nPlague Curse: Deals damage equal to 5% of HP at the end of the turn.\n2. Pazuzu uses <color=#FF423F>Spreading Sickness</color> every other turn.\nSpreading Sickness: Inflicts 2 Plague Curse stacks on all Phantom Thieves, with a high chance of inflicting spiritual ailments.\n3. Pazuzu uses <color=#FF423F>Eternal Binding</color> every other turn.\nEternal Binding: Inflicts 2 Plague Curse stacks on all Phantom Thieves, and removes 1 Plague Curse stack from the target.\n4. When Pale Rider attacks, it inflicts 1 Plague Curse stack on Shadows.\nWhile Pale Rider is present, Pazuzu's final damage taken is reduced by 30%.\n5. When Sudama is defeated, all Phantom Thieves' ailment resistance is increased by 100%.\nLasts for 2 turns.
+1. Pazuzu's skills can inflict <color=#FF423F>Plague Curse</color>.\nPlague Curse: Deals damage equal to 5% of HP at the end of the turn.\n2. Pazuzu uses <color=#FF423F>Spreading Sickness</color> every other turn.\nSpreading Sickness: Inflicts Plague Origin on 1 Black Ooze. Lasts for 2 turns.\n3. After a Shadow with <color=#FF423F>Plague Origin</color> attacks, all Phantom Thieves are inflicted with 2 Plague Curse stacks.\nAfter being defeated, Pazuzu is inflicted with 2 Plague Curse stacks.\n4. Pazuzu uses <color=#FF423F>Eternal Binding</color> every other turn.\nEternal Binding: Inflicts 2 Plague Curse stacks on all Phantom Thieves, and removes 1 Plague Curse stack from the target.
+1. Phantom Thieves affected by Nue's <color=#FF423F>Plague Curse</color> will be unable to heal starting from the <color=#FF423F>next turn</color>. Lasts for 2 turns.\n2. Onmoraki will only attack Phantom Thieves who are unable to heal.
+1. Power will summon servants. When a servant is defeated, Power takes Almighty damage based on the servant's max HP.\n2. Power will restore all Phantom Thieves' SP each turn, but also uses Angel's Bindings on the Phantom Thief with the highest Attack, greatly decreasing their damage.
+1. Raja Naga alternates between <color=#FF423F>Royal Blessing</color> and <color=#FF423F>Royal Punishment</color>.\n2. Royal Blessing: Greatly strengthens 1 Shadow, and when that Shadow attacks, all Shadows' ailment resistance is increased.\n3. Royal Punishment: Locks on to the Phantom Thief with the highest Attack, and deals heavy damage on the next turn.\nIf Shadows are inflicted with a total of 15 debuffs, the lock on will be lost.
+1. Raja Naga alternates between <color=#FF423F>Royal Blessing</color> and <color=#FF423F>Royal Punishment</color>.\n2. Royal Blessing: Greatly strengthens 1 Shadow, and when that Shadow attacks, it can inflict <color=#FF423F>Brainwash</color> on 1 Phantom Thief.\n3. Royal Punishment: Locks on to a Phantom Thief, and deals heavy damage on the next turn.\nIf Shadows take damage from 4 different attribute types, the lock on will be lost.
+1. Seiryu alternates between inflicting weaknesses to Psychokinesis and Nuclear. These effects last for 2 turns.\n2. When a Shadow is defeated, Seiryu gains 1 stack of <color=#FF423F>Azure Storm</color>.\nAzure Storm: Damage increases by 30%.\nWhen Azure Storm reaches 6 stacks, Seiryu deals heavy damage.\n3. Every 2 turns, Seiryu summons 1 Phoenix and 1 Leanan Sidhe.\nPhoenix uses Nuclear skills, and Leanan Sidhe uses Psychokinesis skills.
+1. Seiryu alternates between inflicting weaknesses to Wind and Ice. These effects last for 2 turns.\n2. When a Shadow is defeated, Seiryu gains 1 stack of <color=#FF423F>Azure Storm</color>.\nAzure Storm: Damage increases by 30%.\nWhen Azure Storm reaches 6 stacks, Seiryu deals heavy damage.\n3. At the start of the turn, if there are no Sudama or Kodama on the field, 1 Sudama or Kodama will be summoned.
+1. Setanta will transform into <color=#FF423F>Cu Chulainn</color> under certain circumstances.\n2. Cu Chulainn will lock on to 1 Phantom Thief, and will activate <color=#FF423F>Gae Bolg</color> on the next turn, dealing heavy damage with a chance to insta-kill.
+1. Shiki-Ouji changes forms every turn.\n2. In Defense Form, Shiki-Ouji permanently gains 5 <color=#FF423F>Defensive Stance</color> stacks.\nDefensive Stance: Damage taken is decreased by 10%. Lose 1 stack when taking weakness damage.\n3. In Attack Form, Shiki-Ouji will act twice, and each stack of Defensive Stance increases its damage by 25%.
+1. Shiki-Ouji starts with all affinities as Normal.\nEach turn, Shiki-Ouji randomly changes 5 affinities to <color=#FF423F>Null</color> for 1 turn.\n2. At the end of Shiki-Ouji's turn, it gains 3 <color=#FF423F>Woe</color> stacks.\nEach stack increases its damage by 50%.\nEach time Shiki-Ouji takes damage, it loses 1 stack.
+1. Shiki-Ouji's initial affinity to each attribute is <color=#FF423F>Null</color>.\n2. Each time Mokoi receives damage, Shiki-Ouji's affinity to a random attribute becomes <color=#FF423F>Normal</color>.\nShiki-Ouji can have a maximum of 1 affinity set to Normal.
+1. Shiki-Ouji's initial affinity to each attribute is Normal.\n2. Each time it receives damage from an attribute, Shiki-Ouji's affinity to that attribute permanently becomes <color=#FF423F>Null</color>.\nEach time Shiki-Ouji's affinity changes, as a <color=#FF423F>Side Effect</color>, its Damage Taken is also permanently increased by 30%.
+1. Sraosha will summon servants during the battle.\nWhen a servant is defeated, Sraosha takes Almighty damage based on the servant's max HP.\n2. Sraosha will restore all Phantom Thieves' SP each turn, but also uses Debilitate on the Phantom Thief with the highest Attack, greatly decreasing their damage.\n3. When a servant loses a Down Point, all Phantom Thieves' damage is increased by 15%. Lasts for 1 turn.
+1. Starting on turn 2, Yaksini will activate <color=#FF423F>True Wage War</color> multiple times.\nTrue Wage War has a high chance to <color=#FF423F>Enrage</color> all Phantom Thieves.\nRage: Causes target to use <color=#FF423F>normal attacks</color> uncontrollably.\nAttack is greatly increased, and Defense is greatly decreased.
+1. Sui-Ki can only take <color=#FF423F>Physical</color> and <color=#FF423F>Gun</color> damage.\nAfter being knocked down, all affinities become Weak.\n2. When Mothman is defeated, all Phantom Thieves' critical rate is greatly increased. Lasts for 2 turns.
+1. Summer Tomoko has excellent <color=#FF423F>healing and attack</color> capabilities.\nAfter applying a certain number of <color=#FF423F>Sparklers</color> to foes, she activates <color=#FF423F>Dazzling Fireworks</color>, dealing damage to enemies while also healing allies.\nTeam up with allies who use <color=#FF423F>multi-target</color> or <color=#FF423F>multi-hit</color> attacks to build up Sparklers quickly.\n2. She can increase her allies' <color=#FF423F>Attack</color> and <color=#FF423F>survivability</color>.\nShe can also reduce the damage dealt by enemies and increase their damage taken, giving her <color=#FF423F>excellent support capability</color>.
+1. Surt grants 2 stacks of <color=#FF423F>Ragnarok</color> to all Shadows every turn.\nRagnarok: Damage increases by 5%, and lose a set amount of HP each turn.\nStacks up to 10 times.\n2. Damage dealt to Jack-o'-Lantern is added to your score.
+1. Surt grants <color=#FF423F>Ragnarok</color> to Shadows every turn.\nRagnarok: Damage increases by 5%, and lose a set amount of HP each turn.\nStacks up to 10 times.\n2. When Baphomet is defeated, Surt loses a certain amount of HP.\n3. When Weakened, Surt will grant 5 stacks of Ragnarok to all Phantom Thieves, and summon 4 Jack-o'-Lanterns.\nDamage dealt to Jack-o'-Lanterns is added to your score.
+1. Surt has the ability <color=#FF423F>Ragnarok</color>: All Shadows besides Surt have their max HP decreased by 20% each turn.\n2. When Surt's HP is below 15%, it goes Berserk, restoring 20% of its HP and increasing its Attack by 20%.\nIf it still survives after 3 turns, it activates <color=#FF423F>Blazing Apocalypse</color>, and KO's all Phantom Thieves.\n3. When Valkyrie is defeated, Surt gains <color=#FF423F>Valkyrie's Blessing</color>, increasing its damage.
+1. Take-Minakata deals more damage the lower its HP is.\n2. Take-Minakata will take 90% of the damage for other Shadows, and when it receives fatal damage, it will instead enter an Endure state, its HP will be fixed at 1, and will die after 2 turns.
+1. Take-Minakata deals more damage the lower its HP is.\n2. When Take-Minakata's HP is low, it will summon 4 War God's Spirits, and after 1 turn absorb all of them.\nFor each one absorbed, it restores 25% of its max HP.\nIf the Phantom Thieves defeat all of the War God's Spirits, Take-Minakata will be defeated.
+1. Take-Minakata deals more damage the lower its HP is.\n2. Whenever Take-Minakata uses a skill, it loses 20% of its current HP, and gains a Shield equal to 20% of its max HP.\n3. Every 3 turns, Take-Minakata summons 1 War God's Spirit. If it is defeated in 1 turn, all Phantom Thieves' Attack is increased.\nIf it is not defeated in 1 turn, Take-Minakata absorbs the War God's Spirit, and gains a Shield equal to 50% of its max HP.
+1. The day and night cycle switches every turn.\nDuring the day, SP cost is greatly increased and damage dealt is increased.\nAt night, all units enter a <color=#FF423F>Deep Sleep</color>state.\nDeep Sleep: Unable to act, and restore 20% of max HP and 20% of max SP every turn.\n2. At night, Thoth summons 1 Sandman.\nEach Sandman on the field extends the duration of night by 1 turn.
+1. The first damage Girimehkala takes is greatly decreased, but <color=#FF423F>the next damage taken is greatly increased</color>. When Girimehkala acts, this effect is reset.\n2. Girimehkala summons 1 Sudama every turn.\nWhen Sudama is defeated, Girimehkala takes 5 hits of Almighty damage.
+1. The first damage Oberon and Titania take is greatly increased, but <color=#FF423F>the next damage taken is greatly decreased</color>.\nThis effect is reset every 2 turns.\n2. When either Oberon or Titania is defeated, the other will become Sad for 1 turn.\nAfter they recover, their damage will be significantly increased.
+1. The moon changes phases, starting with New Moon.\nIt follows a sequence of New Moon, Waxing Crescent, Full Moon, and Waning Crescent.\n2. Depending on the phase of the moon, Thoth gains the following effects.\nNew Moon: Damage decreases by 50%, and damage taken increases by 50%.\nWaxing Crescent: Damage increases by 50%, and damage taken increases by 50%.\nFull Moon: Damage increases by 50%, and damage taken decreases by 50%.\nWaning Crescent: Damage decreases by 50%, and damage taken decreases by 50%.\n3. When a Clock is on the field, and it is attacked by different attributes, the phase of the moon will change.\nFire, Ice, Electric, and Wind attacks will change the phase in the usual order.\nPsychokinesis, Nuclear, Bless and Curse attacks will change the phase in reverse order.
+1. This Thief specializes in <color=#FF423F>counterattacks</color> to deal heavy damage back at foes.\nBy enhancing his skills, Fox's counterattacks can trigger with every attack taken, and can target <color=#FF423F>all enemies</color>.\n2. Skill damage is based on Fox's own <color=#FF423F>Defense</color>.\nWhen he has a shield, his attacks gain additional <color=#FF423F>Pierce Rate</color>, making them even stronger.\n3. Fox's powerful <color=#FF423F>Taunt ability</color> improves his counterattacks and survivability.\nHe can protect allies from taking powerful enemy attacks, and then deal even greater damage with a counterattack.
+1. This Thief specializes in <color=#FF423F>full-party buffs</color>.\nRiddle can <color=#FF423F>increase Attack</color> and <color=#FF423F>damage dealt</color> for all of her teammates.\n2. By teaming up with allies who have different <color=#FF423F>attack types</color> or who use <color=#FF423F>multi-hit attacks</color>, the effects of her buffs on the whole party can be enhanced.
+1. This Thief specializes in <color=#FF423F>healing</color> allies.\nBy gaining <color=#FF423F>Diagnosis</color>, Marian can further increase her healing abilities to save her teammates from danger.\n2. She can <color=#FF423F>increase max HP</color> and <color=#FF423F>remove debuffs</color>, allowing her to boost her allies' survivability. Some skills can also provide continuous healing to allies over time.\n3. She can grant <color=#FF423F>increased damage</color> to Phantom Thieves healed.
+1. This Thief specializes in <color=#FF423F>inflicting debuffs on all foes</color>.\nRin can <color=#FF423F>lower Defense</color> and <color=#FF423F>increase damage taken</color>, making her allies' attacks more effective.\n2. During battle, Rin can collect <color=#FF423F>Memories</color>, allowing her to gain <color=#FF423F>Meng Po Soup</color>, increasing the effectiveness of her debuff skills.\n3. When foes are inflicted with <color=#FF423F>Forget</color>, their attack skills are weakened.
+1. This Thief specializes in <color=#FF423F>multi-target attacks</color>. Joker can gain <color=#FF423F>Will of Rebellion</color> with certain attack skills and increase his own Attack. He can gain more <color=#FF423F>Will of Rebellion</color> during his turn after reducing the enemy's HP a certain amount.\n2. With enough <color=#FF423F>Will of Rebellion</color>, he gains an Extra Action and greatly increases his damage.
+1. This Thief specializes in <color=#FF423F>multi-target attacks</color>. When Closer is in the <color=#FF423F>Midsummer</color> state, she receives a <color=#FF423F>damage bonus</color> and <color=#FF423F>critical rate increase</color>, making her skills more powerful.\n2. After receiving <color=#FF423F>healing</color>, her skill <color=#FF423F>cooldown</color> is reduced, and her abilities are improved.\n3. Increases HP and Attack.\nWhile increasing her survivability, she also strengthens her attack power.
+1. This Thief specializes in <color=#FF423F>multi-target attacks</color>.\nBy using certain skills, Noir gains <color=#FF423F>Reform</color>, allowing her to deal powerful Psychokinesis damage with long-range attacks.\n2. Each skill Noir activates will give different types of Reform.\nEach one will <color=#FF423F>enhance her long-range attacks</color> in various ways.\n3. By increasing Noir's ailment accuracy, she can not only gain increased Attack and critical damage, she can also improve the accuracy of her <color=#FF423F>Marked</color> effect.
+1. This Thief specializes in <color=#FF423F>providing buffs to all allies</color>.\nPhoebe can increase the team's <color=#FF423F>Attack</color> and <color=#FF423F>damage of specific Attributes</color>.\n2. When allies deal damage, Phoebe can create a <color=#FF423F>Mixer</color> of the same attribute, and mix it together into a <color=#FF423F>Cocktail</color> that strengthens allies' skills.\nWhen the team has multiple Phantom Thieves of the <color=#FF423F>same Attribute</color>, the effect is stronger.
+1. This Thief specializes in <color=#FF423F>single-target attacks</color>.\nQueen can deal extra damage to foes with <color=#FF423F>elemental ailments</color>.\n2. When certain conditions are met during battle, she can enter the <color=#FF423F>Crash Out</color> state. Her <color=#FF423F>skills will be enhanced</color>, greatly increasing her Attack and survivability.\n3. She is able to <color=#FF423F>heal allies</color> while strengthening herself, allowing her to turn the tide of combat.
+1. Thoth is the god of the Moon, and Horus is the god of the Sun.\nThey govern over day and night respectively. If Thoth is attacked, it will become night. If Horus is attacked, it will become day.\n2. During the day, Thoth's damage is decreased by 70%, and its damage taken is increased by 70%.\nAt night, its damage is increased by 70%, and its damage taken is decreased by 70%.\nThe effects of day and night on Horus are the opposite.
+1. Thoth loves the number <color=#FF423F>50</color>, and at the end of each turn, it randomly gives itself a Count from 1-100.\nThe Phantom Thieves can increase or decrease the Count by attacking surrounding Shadows.\n2. If the Count is close to 50 at the start of Thoth's turn, he will be happy and give the Phantom Thief some sort of benefit.\nHowever, if he is not happy, he will give a penalty.
+1. Trumpeter cannot be targeted and will not attack.\n2. Trumpeter will use <color=#FF423F>Horn of the End</color> to instantly activate other Shadows' skills.\n3. If all other Shadows are defeated, Trumpeter will become targetable and begins preparing the <color=#FF423F>Horn of Ruin</color> for 2 turns.\nHorn of Ruin: Sacrifices self to resummon all defeated Shadows, greatly strengthening their abilities and dealing heavy damage to all Phantom Thieves.
+1. Unicorn will activate <color=#FF423F>Sacred Blessing</color>.\nSacred Blessing: Deals Bless damage to all Phantom Thieves, gains 10 stacks of <color=#FF423F>Purity</color>, and summons 1 Emperor's Amulet.\n2. Unicorn will activate <color=#FF423F>Sacred Radiance</color> 2 turns after activating Sacred Blessing.\nSacred Radiance: Deals heavy damage to all Phantom Thieves based on the number of Purity stacks.\nIf there are 5 stacks of Purity or more, Phantom Thieves will also be inflicted with <color=#FF423F>Rebuke</color>.\nRebuke: Permanently increases damage taken by 50%.\n3. Each stack of Purity decreases Unicorn's damage taken by 5% for each stack. Lose 1 stack for each status ailment inflicted.\n4. When Emperor's Amulet is inflicted with a status ailment, the same ailment is inflicted on Unicorn, and 1 stack of Purity is removed.\n5. Emperor's Talisman will die after 1 action, and Unicorn will take damage equal to the HP lost by Emperor's Talisman.
+1. Unicorn will activate <color=#FF423F>Sacred Blessing</color>.\nSacred Blessing: Deals Bless damage to all Phantom Thieves, gains 15 stacks of <color=#FF423F>Purity</color>, and summons 1 Emperor's Amulet.\n2. Unicorn will activate <color=#FF423F>Sacred Radiance</color> 2 turns after activating Sacred Blessing.\nSacred Radiance: Deals heavy damage to all Phantom Thieves based on the number of Purity stacks.\nIf there are 5 stacks of Purity or more, Phantom Thieves will also be inflicted with <color=#FF423F>Rebuke</color>.\nRebuke: Permanently increases damage taken by 50%.\n3. Each stack of Purity decreases Unicorn's damage taken by 5% for each stack. Lose 1 stack for each status ailment inflicted.\n4. When Emperor's Amulet is inflicted with a status ailment, the same ailment is inflicted on Unicorn, and 1 stack of Purity is removed.\n5. Emperor's Talisman will die after 1 action, and Unicorn will take damage equal to the HP lost by Emperor's Talisman.
+1. Unicorn will activate <color=#FF423F>Sacred Blessing</color>.\nSacred Blessing: Deals Bless damage to all Phantom Thieves, gains 25 stacks of <color=#FF423F>Purity</color>, and summons 1 Emperor's Amulet.\n2. Unicorn will activate <color=#FF423F>Sacred Radiance</color> 2 turns after activating Sacred Blessing.\nSacred Radiance: Deals heavy damage to all Phantom Thieves based on the number of Purity stacks.\nIf there are 5 stacks of Purity or more, Phantom Thieves will also be inflicted with <color=#FF423F>Rebuke</color>.\nRebuke: Permanently increases damage taken by 50%.\n3. Each stack of Purity decreases Unicorn's damage taken by 5% for each stack. Lose 1 stack for each status ailment inflicted.\n4. When Emperor's Amulet is inflicted with a status ailment, the same ailment is inflicted on Unicorn, and 1 stack of Purity is removed.\n5. Emperor's Talisman will die after 1 action, and Unicorn will take damage equal to the HP lost by Emperor's Talisman.
+1. When Angel takes damage, Anubis gains 1 <color=#FF423F>Judgment of Evil</color>.\n2. When Succubus takes damage, Anubis gains 1 <color=#FF423F>Judgment of Good</color>.\n3.Judgment of Good and Judgment of Evil <color=#FF423F>negate</color> each other.\n4. When either Judgment of Good or Judgment of Evil reach 5 stacks, Anubis will use <color=#FF423F>Advent of Judgment</color>, dealing heavy damage to all Phantom Thieves.\n5. If Angel does not take any damage for 1 turn, it will use <color=#FF423F>Angel Healing</color> to restore HP to all Shadows.\n6. If Succubus does not take any damage for 1 turn, it will use <color=#FF423F>Succubus Lullaby</color>, which has a 75% chance to put 2 random Phantom Thieves to Sleep.
+1. When Anubis receives a debuff, it gains 1 <color=#FF423F>Judgment of Evil</color>.\n2. When Anubis receives a buff, it gains 1 <color=#FF423F>Judgment of Good</color>.\n3.Judgment of Good and Judgment of Evil <color=#FF423F>negate</color> each other.\n4. When either Judgment of Good or Judgment of Evil reach 5 stacks, Anubis will use <color=#FF423F>Advent of Judgment</color>, dealing heavy damage to all Phantom Thieves.\n5. At the start of each turn, Anubis will summon 1 Saki Mitama.
+1. When Arahabaki and Take-Minakata take damage from a skill, Resonance, or Highlight, they will record the attribute of the damage taken. (If damage from multiple attribute types is taken in the same turn, an attribute is recorded at random).\n2. When Arahabaki takes damage of the <color=#FF423F>same attribute</color> it previously recorded, its <color=#FF423F>damage taken increases</color>.\nThis effect can stack.\n When Arahabaki takes damage of a different attribute than the one it recorded, the increased damage taken effect is removed, and Arahabaki's damage increases.\n3.When Take-Minakata takes damage of a <color=#FF423F>different attribute</color> than what it previously recorded, its <color=#FF423F>damage taken increases</color>.\nThis effect can stack.\nWhen Take-Minakata takes damage of the same attribute as the one it recorded, the increased damage taken effect is removed, and Take-Minakata's damage increases. 
+1. When Arahabaki takes damage, it will record the attribute of the damage taken.\n2. When Arahabaki takes damage of the <color=#FF423F>same attribute</color> it previously recorded, its <color=#FF423F>damage taken</color> increases. This effect can stack.\n3. When Arahabaki takes damage of a different attribute than the one it recorded, the increased damage taken effect is removed, and Arahabaki's damage increases.
+1. When Baal takes skill damage or receives a debuff, it gains 1 stack of <color=#FF423F>Decline</color>.\nDecline: Decreases Defense. Lasts 3 turns.\nStacks up to 15 times.\n2. Baal will start preparing, and on the next turn, uses <color=#FF423F>Divine Spear of Baal</color>, dealing heavy damage to 1 target.\nIf Decline reaches 10 stacks while preparing, the preparation is canceled and the attack changes to Cleave.\nBaal's single-target attacks will prioritize Assassin or Sweeper Phantom Thieves.
+1. When Black Rider or Pale Rider take fatal damage, they survive with 1 HP and enter a <color=#FF423F>False Death</color> state.\nIf both enter the False Death state at the same time, they are defeated.\n2. If either Black Rider or Pale Rider are in a False Death state at the start of the turn, the other will use a skill to revive them.\nThis will also increase their Attack and max HP.\n3. Black Rider's ability, <color=#FF423F>Black Dance</color>: Increase the damage dealt by both Riders and decrease their damage taken.\nEffect lasts until either Rider is defeated.\n<color=#FF423F>Monochrome Rondeau: Black</color>: After reviving 2 or more times, the Riders will activate Monochrome Rondeau: Black, dealing heavy multi-target damage and inflicting Forget on the Phantom Thief with the lowest current HP.\n4. Pale Rider's ability, <color=#FF423F>White Dance</color>: Deals a set amount of damage to the Phantom Thief with the lowest Defense, and locks on.\n<color=#ff0000>Monochrome Rondeau: White</color>: On the next turn after using White Dance, deals heavy damage to the Phantom Thief that was locked on to, if neither Rider is in the False Death state.
+1. When Decarabia takes <color=#FF423F>weakness damage</color>, it will permanently gain 1 <color=#FF423F>Weakness</color> stack.\nEach stack increases Decarabia's damage taken.\n2. When Decarabia takes damage from an attribute other than its weakness, it will immediately use <color=#FF423F>Agilao</color> against the attacker.
+1. When Eligor's HP falls below 70% or 30%, it summons 1 minion.\nWhile the minion is present, Eligor's damage increases and its damage taken decreases.\n2. The minion will attack the Phantom Thief with the lowest percentage of remaining HP.
+1. When Ose activates <color=#FF423F>Revenge Stance</color>, it enters a Counterattack Stance and will counterattack when it takes damage. <color=#FF423F>Revenge Stance</color> lasts for 2 turns.\nWhen a counterattack is successful, Attack increases.\n2. After Revenge Stance ends, targets who took counterattacks from Ose will be Taunted.
+1. When Phantom Thieves use debuffs or attack skills, Anubis gains <color=#FF423F>Judgment of Evil</color>.\n2. When Phantom Thieves use buffs or recovery skills, Anubis gains <color=#FF423F>Judgment of Good</color>.\n3. Judgment of Good and Judgment of Evil <color=#FF423F>negate</color> each other.\n4. When either Judgment of Good or Judgment of Evil reach 5 stacks, Anubis activates <color=#FF423F>Advent of Judgment</color>, dealing heavy damage to all Phantom Thieves.
+1. When Shadows damage a Phantom Thief, their <color=#FF423F>SP</color> will decrease.\n2. Every 2 turns, Setanta summons 1 Sudama.\nWhen Sudama is defeated, all Phantom Thieves restore SP.
+1. When Shadows on the field use a certain skill, all Shadows gain <color=#FF423F>Legion</color>.\n2. When Legion reaches 5 stacks, Power will activate a powerful multi-target skill.\n3. When there are less than 2 Principalities on the field, Power will spend all Legion stacks to summon 2 Principalities.\nIt can summon a maximum of 2 times during the battle.
+1. When Shiki-Ouji's HP is reduced to 0, it will not be defeated, but enters a <color=#FF423F>False Death</color> state.\nAfter 2 turns, it will recover some HP and increase the Attack of all Shadows.\n2. When all Shiki-Ouji are in the False Death state, you win the battle.\n3. At the start of Shiki-Ouji's turn, it has a set chance to grant itself a <color=#FF423F>barrier</color> that can nullify damage once.
+1. When Suzaku attacks, it inflicts 1 stack of <color=#FF423F>Nuclear Heat</color> on the target.\n2. When a Phantom Thief reaches 6 stacks of Nuclear Heat, they take heavy damage.\n3. When Suzaku attacks a Phantom Thief with less than 50% HP, it inflicts 2 stacks of Nuclear Heat on the target.
+1. When Suzaku attacks, it inflicts 1 stack of <color=#FF423F>Nuclear Heat</color> to the target.\n2. When the number of Nuclear Heat stacks reaches 6, the Phantom Thief takes heavy damage.
+1. When Suzaku attacks, it inflicts 1 stack of <color=#FF423F>Nuclear Heat</color> to the target.\n2. When the number of Nuclear Heat stacks reaches 6, the Phantom Thief takes heavy damage.\n3. For each stack of Nuclear Heat, the Phantom Thief's Attack decreases.
+1. When Suzaku attacks, it inflicts 1 stack of <color=#FF423F>Nuclear Heat</color> to the target.\n2. When the number of Nuclear Heat stacks reaches 6, the target takes heavy damage.\n3. When Suzaku is attacked, it inflicts 1 stack of Nuclear Heat on the attacker.\n4. Succubus will grant a barrier to Suzaku that can negate damage once.
+1. When Take-Minakata takes damage, it will record the attribute of the damage taken.\n2. When Take-Minakata takes damage of a <color=#FF423F>different attribute</color> than what it previously recorded, its <color=#FF423F>damage taken</color> increases.\nThis effect can stack.\n3. When Take-Minakata takes damage of the same attribute as the one it recorded, the increased damage taken effect is removed, and Take-Minakata's damage increases.
+1. When Unicorn is affected by a debuff, its Attack and Defense are permanently decreased. This effect can stack.\n2. When Unicorn uses Charge and is affected by a debuff while Charging, it immediately counterattacks with a powerful skill and removes the debuff.
+1. When Yaksini's HP falls below 50% for the first time, it will activate <color=#FF423F>True Wage War</color>, and enter Counterattack Stance for 1 turn.\nTrue Wage War has a high chance to <color=#FF423F>Enrage</color> all Phantom Thieves.\nRage: Causes target to use <color=#FF423F>normal attacks</color> uncontrollably.\nAttack is greatly increased, and Defense is greatly decreased.
+1. When Yamata-no-Orochi's HP reaches 0, it revives with new affinities and skills. It can revive up to 4 times.
+1. When Yamata-no-Orochi's HP reaches 0, it revives with new affinities and skills. It can revive up to 4 times.\n2. After reviving 4 times, Yamata-no-Orochi will begin preparing and summon a Serpent's Tail.\n3. When a Serpent's Tail is defeated, all Phantom Thieves gain <color=#FF423F>Ame-no-Murakumo</color>, which greatly increases the damage of their next attack.\n4. When Yamata-no-Orochi is defeated, 4 Shadows appear.
+1. White Rider will use <color=#FF423F>White Pestilence</color>.\nWhite Pestilence: All Phantom Thieves lose a certain amount of HP, and 3 random Phantom Thieves are inflicted with <color=#FF423F>Pestilence</color>, causing them to lose a certain amount of HP each turn. Lasts for 3 turns and stacks up to 5 times.\n.\n2. Red Rider will use <color=#FF423F>Red War</color>.\nRed War: Increases damage of all Shadows. Can be stacked. It also has a chance to inflict <color=#FF423F>Rage</color> on 2 random Phantom Thieves. Lasts for 2 turns.\n3. Black Rider will use <color=#FF423F>Black Famine</color>.\nBlack Famine: Inflicts Famine on all targets, decreasing their Attack and increasing the cost of skills. Lasts for 1 turn and stacks up to 2 times.\n.\n4. Pale Rider will use <color=#FF423F>Pale Death</color>.\nPale Death: Deals damage based on current HP percentage to 1 target, and inflicts <color=#FF423F>Despair</color>. Lasts for 3 turns.\n5. Trumpeter cannot be targeted and will not attack. Trumpeter will use <color=#FF423F>Horn of the End</color> to instantly activate other Shadows' skills.\n6. If all other Shadows are defeated, Trumpeter will become targetable and begins preparing the <color=#FF423F>Horn of Ruin</color> for 2 turns.\nHorn of Ruin: Sacrifices self to resummon all defeated Shadows, greatly strengthening their abilities and dealing heavy damage to all Phantom Thieves.
+1. Yatsufusa will activate the <color=#FF423F>Eight Beads of Virtue</color>: All affinities change to Resist, damage increases, and damage taken decreases.\nIt also summons 4 Elemental Souls.\nWhen an Elemental Soul is defeated, Yatsufusa is inflicted with the corresponding Elemental Ailment.\nLasts for 2 turns.\n2. When Yatsufusa is in the Eight Beads of Justice state and is inflicted with all 4 types of Elemental Ailments, the Eight Beads of Justice state is canceled and its Defense decreases.
+1. Yatsufusa will activate the <color=#FF423F>Eight Beads of Virtue</color>: All affinities change to Resist, damage increases, and damage taken decreases.\nIt also summons 4 Elemental Souls.\nWhen an Elemental Soul is defeated, Yatsufusa is inflicted with the corresponding Elemental Ailment.\nLasts for 2 turns.\n2. When Yatsufusa is in the Eight Beads of Justice state and is inflicted with all 4 types of Elemental Ailments, the Eight Beads of Justice state is canceled and its Defense decreases.\n3. When Yatsufusa is Weakened, all Elemental Souls vanish, and the Eight Beads of Justice state is canceled.
+1. Zouchouten has <color=#FF423F>Growth of all Things</color>, and every turn grants Growth to 1 random Shadow and 1 random Phantom Thief.\nEach stack of Growth increases damage dealt by 30%, but also increases damage taken by 30%.\n2. When a target with Growth is defeated, the attacker takes their Growth.
+1. Zouchouten has <color=#FF423F>Growth of all Things</color>, which grants Growth to 2 random Shadows each turn.\nEach stack of Growth increases Attack by 30%.\n2. Zouchouten will absorb Growth from the Shadows every 3 turns. When it reaches 4 stacks of Growth, it will unleash a powerful attack.\n3. When a Shadow with Growth is defeated, its stack of Growth disappears.
+1. Zouchouten has <color=#FF423F>Growth of all Things</color>. It starts with 10 stacks of Growth, and each turn gains 5-8 stacks of Growth, up to a maximum of 30.\n2. When Zouchouten takes damage, it loses 1 stack of Growth.\nIf its stacks of Growth fall below 8, it immediately grants itself 10 stacks of Growth.\n3. After 4 turns, or when Growth has reached 20 stacks, it transforms into <color=#FF423F>Asura</color>, greatly enhancing its abilities.
+1. Zouchouten has Growth of all Things, and each turn grants Growth to 1 Shadow.\n2. If Jack Frost receives Growth, it becomes King Frost. If King Frost receives Growth, it becomes <color=#FF423F>Black Frost</color>, and summons 1 Jack-o'-Lantern.\nWhen Jack-o'-Lantern is defeated, Black Frost reverts to Jack Frost.
+2. After reviving 4 times, Yamata-no-Orochi will begin preparing and summon a Serpent's Tail.\n3. When a Serpent's Tail is defeated, all Phantom Thieves gain <color=#FF423F>Ame-no-Murakumo</color>, which greatly increases the damage of their next attack.
+2. At the end of each turn, Matador gains <color=#FF423F>1 random Step effect</color> and 3 Capote stacks.\nIt will lose 1 stack when taking damage.\n3. If Matador has Capote when it takes action, it will use Estocada to deal heavy damage to 1 Phantom Thief.
+2. At the end of each turn, all Matadors gain<color=#FF423F>2 random Step effects</color> and 1 Capote stacks.\nIt will lose 1 stack when taking damage.\n3. If Matador has Capote when it takes action, it will use Estocada to deal heavy damage to 1 Phantom Thief.
+2. At the start of battle, Matador gains <color=#FF423F>2 random Step effects</color>. After taking damage, it will change to 2 other random Step effects.\n3. At the end of each turn, Matador gains 3 Capote stacks.\nIt loses 1 stack when taking damage.\n4. If Matador has Capote when it takes action, it will use Estocada to deal heavy damage to 1 Phantom Thief.
+2. Hecatoncheires will summon the Avatar of Arms and the Avatar of Gathering.\nWhen the Avatar of Arms is defeated, it loses 1 Arms of Protection stack. When the Avatar of Gathering is defeated, it loses 10 Arms of Protection stacks.\nFor each Arms of Protection stack removed, all Phantom Thieves gain <color=#FF423F>Arms of Strength</color>.\nArms of Strength: Damage increased based on number of stacks.
+2. In <color=#FF423F>Hunter</color> mode, Messa's skills will inflict <color=#FF423F>Bleed</color> on targets, causing damage over time. It's especially effective against enemies with high HP.\n3. In <color=#FF423F>Executioner</color> mode, Messa deals higher Physical damage based on the number of <color=#FF423F>Bleed</color> stacks the enemy has.
+2. On Leanan Sidhe's action, for each Shadow with Fairy's Blessing, the count increases by 1.\nWhen the count reaches 2, Fairy's Dance activates, dealing heavy damage to all Phantom Thieves.
+2. Sui-Ki's <color=#FF423F>Ice Domain</color> gives it a base chance of 80% to inflict <color=#FF423F>Ultrafreeze</color> when attacking. Ultrafreeze lasts for 2 turns.\nUltrafreeze: An enhanced version of Frozen inflicted by Sui-Ki. Decreases Attack Power by 24%.
+2. The Shadow has two stances, <color=#FF423F>Attack Position</color> and <color=#FF423F>Defense Position</color>.\nAttack Position increases Attack by 10% each turn, and resets when the stance is changed.\nDefense Position increases Defense by 10% each turn, and resets when the stance is changed.
+2. The damage Inugami receives from normal attacks is greatly decreased.\nWhen Inugami is defeated, all Phantom Thieves gain <color=#FF423F>Inugami's Blessing</color>, significantly increasing ailment resistance for 2 turns.\n3. When Yaksini is hit by a normal attack, it gains 1 Yaksha, increasing its Attack for each stack.
+2. When Koppa Tengu does not have Fairy's Blessing, Leanan Sidhe will grant it Fairy's Protection, which <color=#FF423F>nullifies all damage</color>.\nThe effect lasts until Leanan Sidhe's next action.
+2. When Yaksini is hit by a normal attack, it gains 1 Yaksha, increasing its Attack for each stack.
+2. When Yaksini is hit by a normal attack, it gains 1 Yaksha,\nincreasing its Attack for each stack.
+2. When a Berith is defeated, Eligor gains 1 <color=#FF423F>Royal Sorrow</color> stack.\nWhen it has 3 stacks, it enters the <color=#FF423F>Royal Wrath</color> state.\n3. When Royal Wrath is active, Eligor can activate Royal Conquest, dealing heavy Physical damage to all Phantom Thieves.
+2. When a character with Soul Vessel is defeated, the attacker <color=#FF423F>takes all of their Soul Vessel stacks</color>.
+2. When the Monkey Mask, Tanuki Form, Tiger Claws, or Snake Tail Shadows are defeated, the corresponding effects will be removed from Nue.\n3. When all 4 effects have been removed, Nue will become Weakened.
+3. Archangel deals more damage based on the number of <color=#FF423F>Sin</color> stacks present.\n4. Attacking Apsaras will remove 1 Sin.
+3. At certain times, Clotho, Lachesis and Atropos will summon a Spirit of Fate.\nDefeating the Spirit of Fate will grant an <color=#FF423F>additional strengthening effect</color> to Phantom Thieves with the Weave of Fate.
+3. At the start of battle, Archangel selects 1 Phantom Thief, and changes stances each time it is attacked by that Thief.\nThe selected Thief cannot become <color=#FF423F>Dizzy</color>.
+3. At the start of battle, Decarabia will summon 1 Courageous Spirit.\n4. When Courageous Spirit is present, <color=#FF423F>Decarabia's weak affinity will change</color>.\n5. When Courageous Spirit is defeated, Decarabia's weak affinity will return to normal.
+3. At the start of battle, Suzaku will select 1 Andras.\n When the selected Andras attacks, the target is inflicted with 2 stacks of <color=#FF423F>Nuclear Heat</color>.\n4. When the selected Andras is defeated, all Phantom Thieves have their Nuclear Heat removed.
+3. At the start of its action, Genbu may activate <color=#FF423F>Genbu's Rage</color> and deal heavy Ice damage to all Phantom Thieves.\nDamage increases based on the number of <color=#FF423F>Black Tortoiseshell</color> stacks.
+3. At the start of its action, if Genbu has 8 Black Tortoiseshell stacks, it will activate <color=#FF423F>Genbu's Rage</color> and deal heavy damage to all Phantom Thieves.\n4. Apsaras will periodically grant Elec Wall to Genbu.
+3. At the start of its action, if Genbu has 8 Black Tortoiseshell stacks, it will activate <color=#FF423F>Genbu's Rage</color> and deal heavy damage to all Phantom Thieves.\n4. The effect of <color=#FF423F>Black Tortoiseshell</color> applies to other Shadows as well.
+3. Each time Shiki-Ouji receives damage from an attribute, its affinity to that attribute permanently becomes Null.\nEach time Shiki-Ouji's affinity changes, as a <color=#FF423F>Side Effect</color>, its damage taken is also permanently increased by 30%.
+3. If Archangel's <color=#FF423F>Shield</color> is broken, all Phantom Thieves will recover from <color=#FF423F>Dizzy</color>.
+3. If Shiki-Ouji has Woe at the beginning of its turn, it changes to <color=#FF423F>Disaster</color>.\nWhen it has 3 stacks of Disaster, it automatically activates <color=#FF423F>Karma</color>, dealing heavy damage to all Phantom Thieves.
+3. If a Berith is defeated, Eligor loses a certain amount of HP.\n4. If the number of Beriths increases, Eligor activates <color=#FF423F>Royal Conquest</color>, dealing heavy Physical damage to all Phantom Thieves.
+3. If the number of Beriths increases, Eligor activates <color=#FF423F>Royal Conquest</color>, dealing heavy Physical damage to all Phantom Thieves.
+3. Kin-Ki's <color=#FF423F>Golden Domain</color> allows it to grant <color=#FF423F>Indestructible Vajra</color> to 1 random Shadow after dealing damage.\nIndestructible Vajra: Nullifies the next damage taken.
+3. On each of Oni's turns, 1 Phantom Thief gains <color=#72C5FF>Oni Slayer</color>. A Phantom Thief in this state will not activate Oni's Absolute Counter for 1 turn.\n4. When Obariyon is defeated, all Phantom Thieves gain <color=#72C5FF>Oni Slayer</color> for 1 turn.
+3. Sui-Ki's <color=#FF423F>Ice Domain</color> gives it a base chance of 80% to inflict <color=#FF423F>Ultrafreeze</color> when attacking. Ultrafreeze lasts for 2 turns.\nUltrafreeze: An enhanced version of Frozen inflicted by Sui-Ki. Decreases Attack Power by 24%.\n4. Sui-Ki deals increased damage to Phantom Thieves in the Ultrafreeze state.
+3. When Hecatoncheires has 80 or more Arms of Protection stacks, it becomes <color=#FF423F>invincible</color> and will not attack.\nIt keeps 4 Avatars of Arms on the field, and gains 1 <color=#FF423F>Arms of Might</color> stack every turn.\nArms of Might: Damage increased based on number of stacks.\n4. When Hecatoncheires has less than 80 Arms of Protection stacks, it loses its invincibility and begins to attack. Every turn it summons 2 Avatars of Gathering.\nWhen it takes damage, 1 Arms of Protection stack is removed.
+3. When Koropokguru is defeated, all of Shiki-Ouji's affinities are reset, and it loses all Side Effects.
+3. When Matador's Spirit is defeated, Matador will lose its motivation, and also lose Master Step.\nIt will become unable to act for 2 turns.\nAfter 2 turns, its motivation will return, and it will regain Master Step.
+4. At certain times, Atropos will use <color=#FF423F>Moirai Cutting</color>, dealing severe damage to Phantom Thieves with the Weave of Fate.\n(1) After Atropos has acted 10 times.\n(2) After Clotho or Lachesis have been defeated.\n(3) After Atropos has been defeated.
+4. Ongyo-Ki starts with 3 <color=#FF423F>Damage Reduction</color> stacks, which increases the damage dealt to Phantom Thieves with elemental ailments.\n5. When Fuu-Ki, Sui-Ki, or Kin-Ki are defeated, Ongyo-Ki loses 1 <color=#FF423F>Damage Reduction</color> stack. It then gains the Domain effect from the defeated Shadow, and its affinities change.
+4. Saki Mitama: It has high HP and Defense, but its Defense decreases each turn.
+4. When Apsaras attacks, it inflicts <color=#FF423F>Nuclear Heat</color> on the target.\n5. When Hua Po attacks, it removes 2 stacks of Nuclear Heat from itself.
+4. When Yamata-no-Orochi is defeated, 4 Shadows appear.
+4. When in Attack Position, Archangel will use <color=#FF423F>Lunge</color> against all Phantom Thieves.\nWhen in Defense Position, Archangel will cause attackers to become <color=#FF423F>Dizzy</color>.
+4. While Succubus is present, Zouchouten's critical rate is increased.\n5. When all Shadows besides Zouchouten are defeated, Zouchouten will activate a special skill after 3 turns.
+5. When Arms of Protection reaches 0, Hecatoncheires enters the <color=#FF423F>Last Stand</color> state.\nLast Stand: Damage is significantly increased, and attack pattern changes.
+5. When only 1 of the Four Heavenly Kings remains, it transforms into <color=#FF423F>Asura</color>, and restores 30% HP.\n6. Asura has the skills of all Four Heavenly Kings, so fight with caution.
+5. When the other Shadows are defeated, Okuninushi will be Weakened, and can be attacked.\nLasts for 2 turns.\n6. When Okuninushi's HP falls below 66%, it becomes invincible again and randomly summons 4 more enemies.\n7. When the Shadows are defeated, Okuninushi becomes Weakened again.
+8. After all Four Horsemen have been defeated once, Trumpeter will enter a Mania state, sacrificing 50% of its own HP to revive the Four Horsemen, and becoming invincible again.\nThe Four Horsemen share a <color=#FF423F>Soul Link</color>, and once they are defeated, Trumpeter will lose its invincibility.\n9. When in the Mania state, Trumpeter does not spend Power of Ruin when it sounds the Horn of Ruin, but still gains additional effects based on the number of stacks.\nThe number of stacks of Power of Ruin will increase the damage of all Shadows.
+8. When Okuninushi's HP falls below 33%, it will begin to attack.
+<color=#FF423F>Combat Chips</color>:\n1. At the end of each turn, the Phantom Thieves receive 3 <color=#FF423F>Deployment Points</color>.\n2. After reaching 20 Deployment Points, automatically spend 20 Deployment Points to summon 1 <color=#FF423F>Self-Destruct Bot</color> and 1 <color=#FF423F>Combat Drone </color>(number can increase depending on equipment), which will attack the enemy.\n3. Each Combat Chip has special effects.
+<color=#FF423F>Combat Drones</color>:\n1. For each Bot equipped, gain 1 Combat Drone, and 1 more <color=#FF423F>Data Abnormality</color> can be removed.\n2. Each Combat Drone has special effects.
+<color=#FF423F>Counterattack Stance</color>: When Yaksini is hit by a normal attack, it will counterattack and deal single-target Physical damage to the attacker.\n2. When Yaksini hit by a normal attack, it gains 1 Yaksha, increasing its Attack for each stack.
+<color=#FF423F>Self-Destruct Bots</color>:\n1. For each Bot equipped, gain 1 extra Self-Destruct Bot, and increase Self-Destruct Bots' <color=#FF423F>Almighty</color> damage dealt by 100%.\n2. Each Self-Destruct Bot has special effects.
+<color=#FF423F>Tiger Claws</color>: Greatly increases damage.\n<color=#FF423F>Snake Tail</color>: Inflicts Poison when dealing damage.
+<color=#FF423F>Tiger Claws</color>: Greatly increases damage.\n<color=#FF423F>Snake Tail</color>: Inflicts Poison when dealing damage.\n<color=#FF423F>Nue's Power</color>: Greatly increases Attack and Defense.
+<color=#FF423F>Wraith of Envy</color>:\n1. The Wraith of Envy and its eyes are in the <color=#FF423F>Soul Link</color> state.\nSoul Link: Distributes all damage received between all Shadows who share this condition, based on the percentage of their current HP.\n2. The Wraith of Envy is Enraged, and its damage increases every turn.
+<color=#FF423F>Wraith of Envy</color>:\n1. While both of the Wraith of Envy's eyes are present, all affinities will be Resist.\nWhen both eyes have been defeated, it enters a Weakened state and will take more damage.\n2. When the Wraith of Envy's eyes are defeated, they will revive after 3 turns.\n3. The Wraith of Envy will gather power every other turn, and on the next turn uses <color=#FF423F>Dark Whisper</color>, dealing heavy Curse damage to all Phantom Thieves.\nIf both eyes are defeated while gathering power, Dark Whisper will not be activated. If one eye is defeated while gathering power, the damage of Dark Whisper will be decreased by 30%.
+After a Shadow takes damage, damage dealt by all Phantom Thieves increases by 5%.\nStacks up to 10 times.
+After being defeated, Shadows take greatly increased damage.
+Archangel will summon continuous waves of Angels. When an Angel is defeated, SP is restored.\nDamage dealt to Angels is added to your score.
+At the start of its turn, Suzaku will select 1 Phantom Thief and decrease their Defense. On the next turn, it will attack the selected Phantom Thief.\n<color=#FF423F>Guarding</color> is recommended.
+At the start of the battle, Kikuri-Hime activates Border of Life and Death, greatly reducing the HP of all Phantom Thieves and activating Arbitration - Survival for 2 turns.\nAfterwards, it activates Arbitration - Attack and Arbitration - Support for all Phantom Thieves.\nIn addition, every 2 turns, Kikuri-Hime will use a random Arbiter's Power on the Phantom Thieves, preventing them from taking certain actions.\nIf the Phantom Thieves defy the arbitration, they gain 1 Seal of Mortality, and if they gain 2 seals, they are KO'd.\nArbitration - Survival: Healing and Defense skills or Highlights must not be used.\nArbitration - Attack: Attack skills or Highlights must not be used.\nArbitration - Support: Buff and Debuff skills or Highlights must not be used.\nIf all Phantom Thieves obey the arbitration, Kikuri-Hime will grant all Phantom Thieves a damage increase effect.
+Bishamonten can activate <color=#FF423F>Parasol of Chaos</color>.\nParasol of Chaos: Covers the Shadow with the lowest HP percentage, and changes all affinities to Drain. Lasts for 2 turns.
+Defeating Shadows will grant the following effects:\n1. Jack-o'-Lantern: When defeated, the attacking Phantom Thief's Attack decreases by 30%.\n2. Jack Frost: When defeated, the attacking Phantom Thief's Attack increases by 30%.\n3. King Frost: When defeated, the attacking Phantom Thief's Attack increases by 100%.
+Dominion, Power, Principality, and Archangel are in the <color=#FF423F>Soul Link</color> state, and also have the <color=#FF423F>Sanctuary</color> state.\nSoul Link: When a Shadow with Soul Link takes damage, split the damage between all Shadows with Soul Link, based on its current HP.\nSanctuary: Increase damage taken by 6% per <color=#FF423F>debuff</color> inflicted, up to 30%.
+Dominion, Power, Principality, and Archangel are in the <color=#ff3b37>Soul Link</color> state.\nSoul Link: When a Shadow with Soul Link takes damage, split the damage between all Shadows with Soul Link, based on its current HP.\nDominion will summon continuous waves of Angels. When an Angel is defeated, SP is restored.\nDominion will summon continuous waves of Angels. When an Angel is defeated, SP is restored.\nDamage dealt to Angels is added to your score.
+During battle, Kohryu will summon Shadows of Seiryu, Byakko, Suzaku, and Genbu.\nWhen a Shadow is summoned, its corresponding <color=#FF423F>Might</color> is granted to all Shadows on the field.\nWhen a Shadow is defeated, the Shadows lose that Might and it is granted to all Phantom Thieves instead.\nSeiryu's Might: Grants a Shield equal to 10% of max HP every turn.\nByakko's Might: Increases Attack by 20%.\nSuzaku's Might: Increases damage dealt by 20%.\nGenbu's Might: Increases Defense by 20%.
+During battle, Kohryu will summon Shadows of Seiryu, Byakko, Suzaku, and Genbu.\nWhen a Shadow is summoned, its corresponding Might is granted to all Shadows on the field.\nWhen a Shadow is defeated, the Shadows lose that Might and it is granted to all Phantom Thieves instead.\nSeiryu's Might: Grants a Shield equal to 10% of max HP every turn.\nByakko's Might: Increases Attack by 20%.\nSuzaku's Might: Increases damage dealt by 20%.\nGenbu's Might: Increases Defense by 20%.
+Each time a Phantom Thief <color=#FF423F>gains a buff</color>, their damage increases by 10%.\nStacks up to 5 times.
+Each time a certain number of turns pass, Melchizedek changes its affinities, decreasing its damage taken.\nIt also summons a servant. When the servant is defeated, the Phantom Thieves' critical rate and critical damage are increased.
+Each turn the Four Heavenly Kings will focus their Death Stare on 1 random Phantom Thief.\nThey will prioritize attacking the Phantom Thief under the Death Stare.
+Each turn, Asura inflicts Vajra Curse on the 2 Phantom Thieves with the highest Attack, greatly decreasing their damage.
+Each turn, Kikuri-Hime will use a random Arbiter's Power on the Phantom Thieves, preventing them from taking certain actions.\nIf the Phantom Thieves defy the arbitration, they gain 1 Seal of Mortality, and if they gain 2 seals, they are KO'd.\nArbitration - Survival: Healing and Defense skills or Highlights must not be used.\nArbitration - Attack: Attack skills or Highlights must not be used.\nArbitration - Support: Buff and Debuff skills or Highlights must not be used.\nIf all Phantom Thieves obey the arbitration, Kikuri-Hime will grant all Phantom Thieves a damage increase effect.
+Each turn, the Four Heavenly Kings will focus their Death Stare on 1 Phantom Thief.\nThey will prioritize attacking the Phantom Thief under the Death Stare.\nBy using Taunt skills, a Phantom Thief can transfer the Death Stare to themselves.
+Error: tnxotb-[InstTutorials_text_9852]
+Every 3 turns, Kikuri-Hime will activate Bond of Death, randomly KO'ing 1 Phantom Thief.\nIt also uses a random Arbiter's Power on the other Phantom Thieves, preventing them from taking certain actions.\nIf the Phantom Thieves defy the arbitration, they gain 1 Seal of Mortality, and if they gain 2 seals, they are KO'd.\nArbitration - Survival: Healing and Defense skills or Highlights must not be used.\nArbitration - Attack: Attack skills or Highlights must not be used.\nArbitration - Support: Buff and Debuff skills or Highlights must not be used.\nIf all Phantom Thieves obey the arbitration, Kikuri-Hime will revive the KO'd Phantom Thief.
+If Lamia survives for more than 3 turns, it will use a powerful multi-target attack skill.
+Increases the damage of all Phantom Thieves' <color=#FF423F>Bless</color> attacks by 50%.
+Increases the damage of all Phantom Thieves' <color=#FF423F>Curse</color> attacks by 50%.
+Increases the damage of all Phantom Thieves' <color=#FF423F>Electric</color> attacks by 50%.
+Increases the damage of all Phantom Thieves' <color=#FF423F>Fire</color> attacks by 50%.
+Increases the damage of all Phantom Thieves' <color=#FF423F>Ice</color> attacks by 50%.
+Increases the damage of all Phantom Thieves' <color=#FF423F>Nuclear</color> attacks by 50%.
+Increases the damage of all Phantom Thieves' <color=#FF423F>Psychokinesis</color> attacks by 50%.
+Increases the damage of all Phantom Thieves' <color=#FF423F>Wind</color> attacks by 50%.
+Jikokuten has <color=#FF423F>Sword that Defends the Nation</color>.\nSword that Defends the Nation: Each time damage is dealt, also grants a shield to 1 random Shadow.
+Koumokuten can activate <color=#FF423F>Eye of Heaven</color>.\nEye of Heaven: Selects 1 Phantom Thief. Increases their damage taken and has Shadows focus attacks on them next turn.\n2. After activating Eye of Heaven, Koumokuten will summon 1 Makami.
+Placeholder
+Protecting the Queen's Necklace is the key to victory.\nRestoring the Queen's Necklace's HP to the maximum will win the battle.
+Quetzalcoatl forms a <color=#FF423F>Soul Link</color> with all Yurlungurs.\nSoul Link: Distributes all damage received between all Shadows who share this condition, based on the percentage of their current HP.
+Raja Naga alternates between <color=#FF423F>Royal Decree</color> and <color=#FF423F>Royal Punishment</color>.\n1. Royal Decree: Grants 3 stacks of <color=#FF423F>Royal Shield</color> to all Shadows.\nRoyal Shield: Damage taken decreases by 15%. Stacks up to 5 times.\nLose 1 stack when damaged by a skill, Resonance, or Highlight.\n1. Royal Punishment: Locks on to a Phantom Thief, and deals severe damage on the next turn.\nIf Raja Naga takes damage a total of 20 times from skills, Resonances, or Highlights, the lock on will be lost.\n3. <color=#FF423F>Royal Blessing</color>: When any Naga has more than 25% HP remaining, its own damage is greatly increased.\nAfterwards, all other Nagas heal 50% of their HP.\n4. At the start of each turn, Raja Naga automatically gains 1 stack of Royal Shield.\n5. Other Nagas cannot be defeated while Raja Naga is present.
+Raja Naga alternates between <color=#FF423F>Royal Decree</color> and <color=#FF423F>Royal Punishment</color>.\n1. Royal Decree: Grants 3 stacks of <color=#FF423F>Royal Shield</color> to all Shadows.\nRoyal Shield: Damage taken decreases by 15%. Stacks up to 5 times.\nLose 1 stack when damaged by a skill, Resonance, or Highlight.\n2. Royal Punishment: Locks on to a Phantom Thief, and deals severe damage on the next turn.\nIf Raja Naga takes damage a total of 15 times from skills, Resonances, or Highlights, the lock on will be lost.\n3. Other Nagas cannot be defeated while Raja Naga is present.
+Raja Naga alternates between <color=#FF423F>Royal Decree</color> and <color=#FF423F>Royal Punishment</color>.\n1. Royal Decree: Grants 3 stacks of <color=#FF423F>Royal Shield</color> to all Shadows.\nRoyal Shield: Damage taken decreases by 15%. Stacks up to 5 times.\nLose 1 stack when damaged by a skill, Resonance, or Highlight.\n2. Royal Punishment: Locks on to a Phantom Thief, and deals severe damage on the next turn.\nIf Raja Naga takes damage a total of 25 times from skills, Resonances, or Highlights, the lock on will be lost.\n3. <color=#FF423F>Royal Blessing</color>: When any Naga has more than 25% HP remaining, its own damage is greatly increased.\nAfterwards, all other Nagas heal 50% of their HP.\n4. At the start of each turn, Raja Naga automatically gains 2 stacks of Royal Shield.\n5. Other Nagas cannot be defeated while Raja Naga is present.
+Red Rider will use <color=#FF423F>Red War</color>.\nRed War: Increases damage of all Shadows.\nCan be stacked. Also, has a chance to inflict <color=#FF423F>Rage</color> on 2 random Phantom Thieves.\nLasts for 2 turns.
+Shadows gain the following abilities as turns progress.\nStarting on turn 3, Shadows gain 1 stack of <color=#FF423F>Berserk</color> every turn.\nStarting on turn 5, Shadows gain 2 stacks of <color=#FF423F>Berserk</color> every turn.\nBerserk: Damage increases by 10%. Stacks up to 20 times.
+Shadows gain the following abilities: After taking damage, all other Shadows take decreased damage. Stacks up to 5 times.\nWhen defeated, the decreased damage effect on all other Shadows is removed.
+Shadows gain the following abilities: At the start of the turn, gain a barrier that can nullify damage once.
+The Archangels switch between <color=#FF423F>Discipline</color> and <color=#FF423F>Fervor</color> modes for both Phantom Thieves and Shadows.\nDiscipline: Damage taken is greatly decreased, and healing is greatly increased.\nFervor: Damage both taken and dealt is greatly increased.
+The Four Heavenly Kings will activate their unique skills each turn.\n1. Jikokuten has <color=#FF423F>Sword that Defends the Nation</color>.\nSword that Defends the Nation: Grants a shield to all Shadows. Lasts for 2 turns.\n2. Zouchouten has <color=#FF423F>Growth of All Things</color>.\nGrowth of All Things: Permanently increases damage of all Shadows.\n3. Koumokuten has <color=#FF423F>Eye of Heaven</color>.\nEye of Heaven: Selects 1 Phantom Thief. Increases their damage taken and has Shadows focus attacks on them next turn.\n4. Bishamonten has <color=#FF423F>Parasol of Chaos</color>.\nParasol of Chaos: Covers the Shadow with the lowest HP, and changes all affinities to Resist. Lasts for 2 turns.
+The Wraith of Envy and its eyes share a <color=#FF423F>Soul Link</color>.\nSoul Link: Distributes all damage received between all Shadows who share this condition, based on the percentage of their current HP.\nEach turn, the Wraith of Envy will lock on to 1 Phantom Thief, and deal heavy damage to that Phantom Thief on the next turn.
+Thoth selects 1 Phantom Thief and uses Elemental Cascade, inflicting <color=#FF423F>4 types of elemental ailments</color> on the target.\nOn the next turn, Thoth uses <color=#FF423F>Freidyne: Ultra</color> on that Phantom Thief.\nThis skill deals extra damage to targets with elemental ailments.
+Vishnu's Avatars and its main body are in the <color=#FF423F>Soul Link</color> state.\nSoul Link: Distributes all damage received between all Shadows who share this condition, based on the percentage of their current HP.
+When Atavaka takes damage from a skill, it gains a Mark based on that skill's <color=#FF423F>attribute</color>.\nThe maximum number of Marks is 7.\nWhen it has collected 3 Marks of the same attribute, Atavaka spends all Marks to summon a Rakshasa.\nWhen Rakshasa is defeated, the corresponding attribute damage of all Phantom Thieves is increased.\nAtavaka can summon Rakshasa up to 2 times.
+When Nue acts, Nue and other Shadows will gain one of the following random effects for 1 turn:\n<color=#FF423F>Monkey Mask</color>: At the end of the turn, heals a certain amount of HP. Heals any elemental ailments.\n<color=#FF423F>Tanuki Form</color>: Gains an 80% dodge chance. Heals any spiritual ailments.
+When Nue acts, Nue will gain 1 of the following random effects for 3 turns:\n<color=#FF423F>Monkey Mask</color>: At the end of the turn, heals a certain amount of HP. Heals any elemental ailments.\n<color=#FF423F>Tanuki Form</color>: Gains an 80% dodge chance. Heals any spiritual ailments.
+When Oumitsunu takes damage from a skill, Highlight, or Resonance, the damage of the corresponding attribute increases by 6%.\nLasts for 3 turns. Stacks up to 8 times.
+When Vishnu's HP falls below 90%/60% for the first time, it summons 2 Avatars.\nThe Avatars and Vishnu's main body are in the <color=#FF423F>Soul Link</color> state.\nSoul Link: Distributes all damage received between all Shadows who share this condition, based on the percentage of their current HP.
+When a Shadow is defeated, the damage dealt by all Phantom Thieves increases by 25%.\nStacks up to 2 times.
+When either Oberon or Titania is defeated, the other will be unable to act for 2 turns.\nAfter they recover, their damage will be <color=#FF423F>significantly increased</color>.
+When the number of Four Heavenly Kings falls below 3, they will sacrifice themselves to summon <color=#FF423F>Asura</color>.\nAsura has the special skills of the sacrificed King (if there are less than 2 special skills, it will gain another Royal special skill at random.\nAsura activates its skill every turn.
+White Rider will use <color=#FF423F>White Pestilence</color>.\nWhite Pestilence: All Phantom Thieves lose a certain amount of HP, and 3 random Phantom Thieves are inflicted with <color=#FF423F>Pestilence</color>, causing them to lose a certain amount of HP each turn.\nLasts for 3 turns and stacks up to 5 times.
+Zouchouten can activate <color=#FF423F>Growth of all Things</color>.\nGrowth of all Things: Randomly increases Attack, Defense, or Damage of all Shadows each turn.
+tnxotb-[InstTutorials_text_218121]
+tnxotb-[InstTutorials_text_218131]
+tnxotb-[InstTutorials_text_218141]
+
+=== title ===
+AAAAAA==
+Ashiya's Skills
+Asura
+Avidya's Skills
+Combat Chip
+Combat Drones
+Futaba's Skills
+Genbu I
+Haru's Skills
+Haruna's Skills
+Hecatoncheires
+Intel
+Kitazato's Skills
+Makoto's Skills
+Minami Miyashita's Skills
+Moha
+Ren Amamiya's Skills
+Self-Destruct Bot
+Slow Dance Kotone's Skills
+Special Effect
+Summer Motoha's Skills
+Summer Tomoko's Skills
+The Three Fates
+The Velvet Trials
+Trumpeter
+Unique Shadow Abilities
+Wraith of Envy
+Yamata-no-Orochi
+Yaoling's Skills
+Yui's Skills
+Yumi's Skills
+Yusuke's Skills

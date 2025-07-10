@@ -1,5 +1,421 @@
 [
   {
+    "sn": "COOP_MOOD_PROP1",
+    "value": "1"
+  },
+  {
+    "sn": "COOP_MOOD_PROP2",
+    "value": "0"
+  },
+  {
+    "sn": "COOP_MOOD_PROP3",
+    "value": "0"
+  },
+  {
+    "sn": "COOP_MOOD_ICON1",
+    "value": "yuehui-10-xiaolian.png"
+  },
+  {
+    "sn": "COOP_MOOD_ICON2",
+    "value": "yuehui-10-xiaolian-putonglian.png"
+  },
+  {
+    "sn": "COOP_MOOD_ICON3",
+    "value": "yuehui-10-xiaolian-nanshoulian.png"
+  },
+  {
+    "sn": "COOP_MOOD_YELLOW",
+    "value": "#FFB900"
+  },
+  {
+    "sn": "COOP_MOOD_RED",
+    "value": "#FF0000"
+  },
+  {
+    "sn": "COOP_MOOD_GREEN",
+    "value": "#00FF46"
+  },
+  {
+    "sn": "COOP_APPOINTMENT_PARAM",
+    "value": "9"
+  },
+  {
+    "sn": "COOP_LIKE",
+    "value": "itemicon-000.png"
+  },
+  {
+    "sn": "COOP_GIFT_PER_PLAYER",
+    "value": "10"
+  },
+  {
+    "sn": "COOP_GIFT_PER_COOP",
+    "value": "1"
+  },
+  {
+    "sn": "COOP_GIFT_UI_MASK_NPC_DISTANCE",
+    "value": "10"
+  },
+  {
+    "sn": "COOP_GIFT_DIALOG1",
+    "value": "1011201,1011202,1011203"
+  },
+  {
+    "sn": "COOP_GIFT_DIALOG2",
+    "value": "1011204,1011205,1011206"
+  },
+  {
+    "sn": "COOP_GIFT_DIALOG3",
+    "value": "1011207,1011208,1011209"
+  },
+  {
+    "sn": "COOP_APPOINTMENT_DIALOG1",
+    "value": "1011301,1011302,1011303"
+  },
+  {
+    "sn": "COOP_APPOINTMENT_DIALOG2",
+    "value": "1011304,1011305,1011306"
+  },
+  {
+    "sn": "COOP_APPOINTMENT_DIALOG3",
+    "value": "1011307,1011308,1011309"
+  },
+  {
+    "sn": "COOP_BIRTH_ADDITION_GIFT",
+    "value": "3"
+  },
+  {
+    "sn": "COOP_BIRTH_ADDITION_DATE",
+    "value": "5"
+  },
+  {
+    "sn": "COOP_ABILITY_ICON1",
+    "value": "yuehui-015.png"
+  },
+  {
+    "sn": "COOP_ABILITY_ICON2",
+    "value": "yuehui-015.png"
+  },
+  {
+    "sn": "COOP_ABILITY_ICON3",
+    "value": "yuehui-015.png"
+  },
+  {
+    "sn": "COOP_PARAM_VISIBLE_MOOD",
+    "value": "1,0.5,0"
+  },
+  {
+    "sn": "COOP_PARAM_VISIBLE_RANK",
+    "value": "0.02"
+  },
+  {
+    "sn": "COOP_PARAM_APPOINTMENT_SUCCESS_MOOD",
+    "value": "1,0.5,0"
+  },
+  {
+    "sn": "COOP_PARAM_APPOINTMENT_SUCCESS_RANK",
+    "value": "0.01"
+  },
+  {
+    "sn": "COOP_PARAM_HOME_SUCCESS_MOOD",
+    "value": "1,0.5,0"
+  },
+  {
+    "sn": "COOP_PARAM_HOME_SUCCESS_RANK",
+    "value": "0.01"
+  },
+  {
+    "sn": "COOP_PARAM_HOME_BASIC",
+    "value": "0.1"
+  },
+  {
+    "sn": "COOP_PARAM_INITITAVE_MOOD",
+    "value": "1,0.5,0"
+  },
+  {
+    "sn": "COOP_PARAM_INITITAVE_BASIC",
+    "value": "0.3"
+  },
+  {
+    "sn": "COOP_UI_UNLOCKMESSAGE_TYPE1",
+    "value": "shenghuo-text-huijia-new-1.png"
+  },
+  {
+    "sn": "COOP_UI_UNLOCKMESSAGE_TYPE2",
+    "value": "shenghuo-text-huijia-new-2.png"
+  },
+  {
+    "sn": "COOP_LUFEIER_ABILITY_RANK3",
+    "value": "4,3"
+  },
+  {
+    "sn": "COOP_LUFEIER_ABILITY_RANK5",
+    "value": "4,7"
+  },
+  {
+    "sn": "COOP_LUFEIER_ABILITY_RANK13",
+    "value": "4,5"
+  },
+  {
+    "sn": "COMPOUNDITEM_ADDITIONALRETURN_COOP_LUFEIER",
+    "value": "1,4,5"
+  },
+  {
+    "sn": "COOP_FAVORITE_SOUND",
+    "value": "0"
+  },
+  {
+    "sn": "COOP_FAVORITE_CHARACTER",
+    "value": "1"
+  },
+  {
+    "sn": "COOP_ONMAP_ZOOM",
+    "value": "0.2"
+  },
+  {
+    "sn": "COOP_PERSONA_CONSUME",
+    "value": "1,5"
+  },
+  {
+    "sn": "COOP_PERSONA_CREDIT",
+    "value": "1,13"
+  },
+  {
+    "sn": "COOP_PERSONA_DOUBLE_LEVEL",
+    "value": "1,15"
+  },
+  {
+    "sn": "COOP_PERSONA_DOUBLE_PROB",
+    "value": "10"
+  },
+  {
+    "sn": "COOP_PERSONA_DOUBLE_GRADE",
+    "value": "3"
+  },
+  {
+    "sn": "COOP_PERSONA_DOUBLE_RANK",
+    "value": "4"
+  },
+  {
+    "sn": "COOP_BASEBALL_THIRDEYE",
+    "value": "2,1"
+  },
+  {
+    "sn": "COOP_CLOSER_HL_ENERGYRECOVERY",
+    "value": "2,13,30"
+  },
+  {
+    "sn": "COOP_CLOSER_GENERALATTACK_HP",
+    "value": "2,5"
+  },
+  {
+    "sn": "COOP_FAVORITE_CHARACTER_WEIGHT",
+    "value": "9999"
+  },
+  {
+    "sn": "COOPVISIT_SCHOOL_WEIGHT",
+    "value": "90,0|10,1"
+  },
+  {
+    "sn": "COOPVISIT_REST_WEIGHT",
+    "value": "90,0|10,1"
+  },
+  {
+    "sn": "COOPVISIT_INTERVAL_DAYS",
+    "value": "2"
+  },
+  {
+    "sn": "COOPVISIT_DATE_WEIGHT",
+    "value": "10"
+  },
+  {
+    "sn": "COOPVISIT_IMPORTANT",
+    "value": "5,6,7"
+  },
+  {
+    "sn": "COOP_YUI_ABILITY_RANK1",
+    "value": "11,1"
+  },
+  {
+    "sn": "COOP_YUI_ABILITY_RANK5",
+    "value": "11,5"
+  },
+  {
+    "sn": "COOP_YUI_ABILITY_RANK9",
+    "value": "11,9"
+  },
+  {
+    "sn": "COOP_YUI_ABILITY_RANK13",
+    "value": "11,13"
+  },
+  {
+    "sn": "COOP_YUI_ABILITY_RANK17",
+    "value": "11,17"
+  },
+  {
+    "sn": "COOP_SOY_ABILITY_RETURNMATERIALS",
+    "value": "5,5"
+  },
+  {
+    "sn": "COOP_SOY_ABILITY_SPECIALDISH_UP",
+    "value": "5,9"
+  },
+  {
+    "sn": "COOP_SOY_ABILITY_ADDITIONALDISH",
+    "value": "5,12"
+  },
+  {
+    "sn": "COOP_SOY_ABILITY_ADDITIONALRETURN",
+    "value": "10"
+  },
+  {
+    "sn": "COOP_RIN_ABILITY_RANK13",
+    "value": "7,13"
+  },
+  {
+    "sn": "COMPOUNDITEM_ADDITIONALRETURN_COOP_RIN",
+    "value": "3"
+  },
+  {
+    "sn": "COOP_MAINUI_LOVER_NOTICE",
+    "value": "15"
+  },
+  {
+    "sn": "COOP_FISHING_THIRDEYE",
+    "value": "10,1"
+  },
+  {
+    "sn": "COOP_RESETTIME",
+    "value": "30"
+  },
+  {
+    "sn": "COOP_RESET_RESUME",
+    "value": "303200,1"
+  },
+  {
+    "sn": "COOP_PHOEBE_ABILITY_ADDITIONALRETURN",
+    "value": "10"
+  },
+  {
+    "sn": "COOP_DOCTOR_ABILITY",
+    "value": "15,1,201|15,5,202|15,9,203|15,13,204|15,17,205"
+  },
+  {
+    "sn": "COOP_MEILUOPU_RELATION_ICON",
+    "value": "tianerong-xinzhihai-duanwei02-new.png"
+  },
+  {
+    "sn": "ROGUE_TEAM_THIEF_MAX",
+    "value": "6"
+  },
+  {
+    "sn": "ROGUE_BUFF_WEIGHT",
+    "value": "75"
+  },
+  {
+    "sn": "ROGUE_BUFF_OTHER",
+    "value": "Tongyong-shuxingicon-mingzhong.png"
+  },
+  {
+    "sn": "ROGUE_MOTIF_INITIAL",
+    "value": "1"
+  },
+  {
+    "sn": "ROGUE_BUFF_COLOR_OPEN",
+    "value": "#2899ff"
+  },
+  {
+    "sn": "ROGUE_BUFF_COLOR_CLOSE",
+    "value": "#8b8a8a"
+  },
+  {
+    "sn": "ROGUE_LIFE_INITIAL_HP",
+    "value": "100"
+  },
+  {
+    "sn": "ROGUE_LIFE_POPUP_HP",
+    "value": "100"
+  },
+  {
+    "sn": "ROGUE_LIFE_REVIVE_HP",
+    "value": "25"
+  },
+  {
+    "sn": "PALACE_ROGUE_NODEMAP_NODE_GAP",
+    "value": "420,176"
+  },
+  {
+    "sn": "ROGUE_MAP_ICON_SCALE",
+    "value": "1"
+  },
+  {
+    "sn": "ROGUE_BEGIN_LIFE_NUM",
+    "value": "2"
+  },
+  {
+    "sn": "ROGUE_BEGIN_GOLD_NUM",
+    "value": "50"
+  },
+  {
+    "sn": "ROGUE_EVENT_TYPE_TOUCH",
+    "value": "9"
+  },
+  {
+    "sn": "ROGUETYPE_SOUND_6",
+    "value": "VO_sys_MQM_01_01,VO_sys_MQM_01_02,VO_SW_MQM_07_02"
+  },
+  {
+    "sn": "ROGUETYPE_SOUND_8",
+    "value": "VO_SW_MQM_07_01,VO_SW_MQM_01_01,VO_sys_MQM_01_03"
+  },
+  {
+    "sn": "ROGUE_SOUND_PROB_1",
+    "value": "70"
+  },
+  {
+    "sn": "ROGUE_SOUND_PROB_2",
+    "value": "70"
+  },
+  {
+    "sn": "ROGUE_SOUND_PROB_3",
+    "value": "70"
+  },
+  {
+    "sn": "ROGUE_SOUND_PROB_4",
+    "value": "70"
+  },
+  {
+    "sn": "ROGUE_SOUND_PROB_5",
+    "value": "70"
+  },
+  {
+    "sn": "ROGUE_SOUND_PROB_6",
+    "value": "70"
+  },
+  {
+    "sn": "ROGUE_SOUND_PROB_7",
+    "value": "70"
+  },
+  {
+    "sn": "ROGUE_SOUND_PROB_8",
+    "value": "70"
+  },
+  {
+    "sn": "ROGUE_SOUND_PROB_9",
+    "value": "70"
+  },
+  {
+    "sn": "ROGUE_ACTIVITY_AWARD_PR",
+    "value": "15"
+  },
+  {
+    "sn": "ROGUE_ACTIVITY_MODEL_SN",
+    "value": "rogue_common_choujiangquan"
+  },
+  {
+    "sn": "ROGUE_MONSTER_KILLED_LEVEL",
+    "value": "0"
+  },
+  {
     "sn": "UNION_QUESTION_FIRST_REWARD",
     "value": "10"
   },
@@ -480,6 +896,130 @@
     "value": "20"
   },
   {
+    "sn": "GAME_BASE_TIME",
+    "value": "2025/06/26 00:00:00"
+  },
+  {
+    "sn": "FULL_DOWNLOAD_TIPS_TIME",
+    "value": "2025-04-26 09:00:00"
+  },
+  {
+    "sn": "OB_SERVER_OPEN_TIME",
+    "value": "2025/06/26 12:00:00"
+  },
+  {
+    "sn": "NAME_CHARACTER_WHITELIST",
+    "value": ",，。 .々ヶ¤"
+  },
+  {
+    "sn": "NAME_LANGUAGE_WHITELIST",
+    "value": "1,2,4,6"
+  },
+  {
+    "sn": "ACTIVITY_COMEBACK_WEBSITE",
+    "value": "AAAAAA=="
+  },
+  {
+    "sn": "MONTHLY_CARD_REBATE_TIME",
+    "value": "2024/05/23 05:00:00"
+  },
+  {
+    "sn": "ADVANCE_PAYMENT_ITEM_SN",
+    "value": "2,300002,300001,300004"
+  },
+  {
+    "sn": "ADVANCE_PAYMENT_ITEM_PARAM",
+    "value": "1,150,150,100"
+  },
+  {
+    "sn": "ADVANCE_PAYMENT_NOT_SHOW_ITEM_SN",
+    "value": "AAAAAA=="
+  },
+  {
+    "sn": "ADVANCE_PAYMENT_NOT_SHOW_ITEM_PARAM",
+    "value": "AAAAAA=="
+  },
+  {
+    "sn": "PAYMENT_AGE_LIMIT",
+    "value": "12,5000|19,20000"
+  },
+  {
+    "sn": "FIRST_LOGIN_SDK",
+    "value": "1"
+  },
+  {
+    "sn": "ACTIVITY_CALLBACK_DEFAULT_RES",
+    "value": "Image-QRcode-P5X.png"
+  },
+  {
+    "sn": "ACTIVITY_CALLBACK_DEFAULT_TEXT",
+    "value": "官服"
+  },
+  {
+    "sn": "MODE_TGS",
+    "value": "0"
+  },
+  {
+    "sn": "MODE_TGS_STORY_ENDQUEST",
+    "value": "10056"
+  },
+  {
+    "sn": "NAME_MAX",
+    "value": "17"
+  },
+  {
+    "sn": "PLAYER_DEFAULT_NAME",
+    "value": "游戏测试账号"
+  },
+  {
+    "sn": "ACTIVITY_COMEBACK_CHANGE_TIME",
+    "value": "2024/11/21 05:00:00"
+  },
+  {
+    "sn": "VELVET_TRIAL_PERIOD_START_TIME",
+    "value": "2024/11/21 05:00:00"
+  },
+  {
+    "sn": "SUB_PACKAGE_WIFI_AUTO_DOWNLOAD",
+    "value": "0"
+  },
+  {
+    "sn": "SUB_PACKAGE_WIFI_BACKGROUND_DOWNLOAD",
+    "value": "1"
+  },
+  {
+    "sn": "MOTTO_LEN_LIMIT",
+    "value": "100"
+  },
+  {
+    "sn": "ATTING_INFO_NAME_LEN",
+    "value": "17"
+  },
+  {
+    "sn": "ARRAY_NAMELIMIT",
+    "value": "17"
+  },
+  {
+    "sn": "FASHION_PRESETS_NAMENUM",
+    "value": "17"
+  },
+  {
+    "sn": "UNION_MIN_NAME_LENGTH",
+    "value": "2"
+  },
+  {
+    "sn": "UNION_MAX_NAME_LENGTH",
+    "value": "20"
+  },
+  {
+    "sn": "UNION_MAX_ANNOUNCEMENT_LENGTH",
+    "value": "100"
+  },
+  {
+    "sn": "UNION_MAX_DECLARATION_LENGTH",
+    "value": "100"
+  },
+  {
     "sn": "ENERGY_ TRANSFER_PILE_CONNECT_GROUP_1",
     "value": "9002,9003,9004,9005,9006,9007,9008,9013"
   },
@@ -578,322 +1118,6 @@
   {
     "sn": "ENERGY_ TRANSFER_PILE_CONNECT_GROUP_25",
     "value": "85211462"
-  },
-  {
-    "sn": "PALACE_CHESS_PULL_ACTION",
-    "value": "wonder_thief@point_screen"
-  },
-  {
-    "sn": "CHESS_MOVE_TIME",
-    "value": "0.8"
-  },
-  {
-    "sn": "CHESS_SUCCESS_EFFECT",
-    "value": "TL_chess_finish.prefab"
-  },
-  {
-    "sn": "CHESS_GOLD_TRIGGER_EFFECT",
-    "value": "AAAAAA=="
-  },
-  {
-    "sn": "PALACE_CHESS_ENEMY_ATTACK_RANGE_EFFECT",
-    "value": "fx_chess_attackRange"
-  },
-  {
-    "sn": "PALACE_CHESS_ENEMY_ROUTINE_STRIGHT_EFFECT",
-    "value": "fx_chess_routine_line"
-  },
-  {
-    "sn": "PALACE_CHESS_ENEMY_ROUTINE_CORNER_EFFECT",
-    "value": "fx_chess_routine_corner"
-  },
-  {
-    "sn": "ROGUE_TEAM_THIEF_MAX",
-    "value": "6"
-  },
-  {
-    "sn": "ROGUE_BUFF_WEIGHT",
-    "value": "75"
-  },
-  {
-    "sn": "ROGUE_BUFF_OTHER",
-    "value": "Tongyong-shuxingicon-mingzhong.png"
-  },
-  {
-    "sn": "ROGUE_MOTIF_INITIAL",
-    "value": "1"
-  },
-  {
-    "sn": "ROGUE_BUFF_COLOR_OPEN",
-    "value": "#2899ff"
-  },
-  {
-    "sn": "ROGUE_BUFF_COLOR_CLOSE",
-    "value": "#8b8a8a"
-  },
-  {
-    "sn": "ROGUE_LIFE_INITIAL_HP",
-    "value": "100"
-  },
-  {
-    "sn": "ROGUE_LIFE_POPUP_HP",
-    "value": "100"
-  },
-  {
-    "sn": "ROGUE_LIFE_REVIVE_HP",
-    "value": "25"
-  },
-  {
-    "sn": "PALACE_ROGUE_NODEMAP_NODE_GAP",
-    "value": "420,176"
-  },
-  {
-    "sn": "ROGUE_MAP_ICON_SCALE",
-    "value": "1"
-  },
-  {
-    "sn": "ROGUE_BEGIN_LIFE_NUM",
-    "value": "2"
-  },
-  {
-    "sn": "ROGUE_BEGIN_GOLD_NUM",
-    "value": "50"
-  },
-  {
-    "sn": "ROGUE_EVENT_TYPE_TOUCH",
-    "value": "9"
-  },
-  {
-    "sn": "ROGUETYPE_SOUND_6",
-    "value": "VO_sys_MQM_01_01,VO_sys_MQM_01_02,VO_SW_MQM_07_02"
-  },
-  {
-    "sn": "ROGUETYPE_SOUND_8",
-    "value": "VO_SW_MQM_07_01,VO_SW_MQM_01_01,VO_sys_MQM_01_03"
-  },
-  {
-    "sn": "ROGUE_SOUND_PROB_1",
-    "value": "70"
-  },
-  {
-    "sn": "ROGUE_SOUND_PROB_2",
-    "value": "70"
-  },
-  {
-    "sn": "ROGUE_SOUND_PROB_3",
-    "value": "70"
-  },
-  {
-    "sn": "ROGUE_SOUND_PROB_4",
-    "value": "70"
-  },
-  {
-    "sn": "ROGUE_SOUND_PROB_5",
-    "value": "70"
-  },
-  {
-    "sn": "ROGUE_SOUND_PROB_6",
-    "value": "70"
-  },
-  {
-    "sn": "ROGUE_SOUND_PROB_7",
-    "value": "70"
-  },
-  {
-    "sn": "ROGUE_SOUND_PROB_8",
-    "value": "70"
-  },
-  {
-    "sn": "ROGUE_SOUND_PROB_9",
-    "value": "70"
-  },
-  {
-    "sn": "ROGUE_ACTIVITY_SN",
-    "value": "2600002"
-  },
-  {
-    "sn": "ROGUE_ACTIVITY_AWARD_SN",
-    "value": "215003"
-  },
-  {
-    "sn": "ROGUE_ACTIVITY_AWARD_PR",
-    "value": "15"
-  },
-  {
-    "sn": "ROGUE_ACTIVITY_ITEM_SN",
-    "value": "63"
-  },
-  {
-    "sn": "ROGUE_ACTIVITY_GOAL_SN",
-    "value": "260201"
-  },
-  {
-    "sn": "ROGUE_ACTIVITY_MODEL_SN",
-    "value": "rogue_common_choujiangquan"
-  },
-  {
-    "sn": "ROGUE_MONSTER_KILLED_LEVEL",
-    "value": "0"
-  },
-  {
-    "sn": "DRAWCARD_RECORD",
-    "value": "300"
-  },
-  {
-    "sn": "DRAWCARD_SKIPANIM_TIME",
-    "value": "0.5"
-  },
-  {
-    "sn": "DRAWCARD_SKIPDISPLAY_TIME",
-    "value": "0.5"
-  },
-  {
-    "sn": "DRAWCARD_SKIPCHARACTER_TIME",
-    "value": "0.5"
-  },
-  {
-    "sn": "DRAWCARD_SKIP_FIVESTARS_TIME",
-    "value": "3"
-  },
-  {
-    "sn": "DRAWCARD_SKIP_FOURSTARS_TIME",
-    "value": "1.5"
-  },
-  {
-    "sn": "DRAWCARD_SKIP_FOURSTARSP_TIME",
-    "value": "1"
-  },
-  {
-    "sn": "DRAWCARD_SKIPWEAPON_TIME",
-    "value": "1"
-  },
-  {
-    "sn": "DRAWCARD_SKIPWEAPON_FIVESTARS_TIME",
-    "value": "1.5"
-  },
-  {
-    "sn": "DRAWCARD_SKIPWEAPON_FOURSTARS_TIME",
-    "value": "1.5"
-  },
-  {
-    "sn": "DRAWCARD_TENTIMES_GUARDTIME",
-    "value": "1"
-  },
-  {
-    "sn": "DRAWCARD_TENTIMES_ANIMFINISH",
-    "value": "0.7"
-  },
-  {
-    "sn": "DRAWCARD_WEAPON_BOX",
-    "value": "TL_WeaponGacha.prefab,21"
-  },
-  {
-    "sn": "DRAWCARD_WEAPON_BUTTON_INTERVAL",
-    "value": "0.05"
-  },
-  {
-    "sn": "DRAWCARD_THIEFNAME_GOLD",
-    "value": "#000000"
-  },
-  {
-    "sn": "DRAWCARD_THIEFNAME_PURPLE",
-    "value": "#ffffff"
-  },
-  {
-    "sn": "DRAWCARD_ONETIMES_GUARDTIME",
-    "value": "2"
-  },
-  {
-    "sn": "GACHA_DAILY_LIMIT",
-    "value": "999999"
-  },
-  {
-    "sn": "GACHA_ITEM_SUBSTRATE",
-    "value": "haoyou-diban5.png"
-  },
-  {
-    "sn": "GACHA_NOTICE_CHARACTER",
-    "value": "签约"
-  },
-  {
-    "sn": "GACHA_NOTICE_WEAPON",
-    "value": "补给"
-  },
-  {
-    "sn": "DRAWCARD_DAYS_RECORD",
-    "value": "30"
-  },
-  {
-    "sn": "EXCLUDE_WEAPON_TYPES",
-    "value": "999"
-  },
-  {
-    "sn": "DRAWCARD_GM_SKIPQUEST",
-    "value": "10448"
-  },
-  {
-    "sn": "GACHA_CHARACTERNORMAL_AWARD",
-    "value": "300,410904"
-  },
-  {
-    "sn": "GACHA_COGNITIONSHOP",
-    "value": "106"
-  },
-  {
-    "sn": "GACHA_ADDITIONALITEM",
-    "value": "302905"
-  },
-  {
-    "sn": "GACHA_CHARACTERRECOMMEND_AWARD",
-    "value": "50,400105"
-  },
-  {
-    "sn": "GACHA_CHARACTER_SKIPTIME",
-    "value": "0"
-  },
-  {
-    "sn": "GACHA_CHARACTER_COLORCHANGE4",
-    "value": "65,40"
-  },
-  {
-    "sn": "GACHA_CHARACTERONE_COLORCHANGE4",
-    "value": "65,40"
-  },
-  {
-    "sn": "GACHA_CHARACTER_ANIMATION_FIRST00",
-    "value": "gacha_first_00_new.usm"
-  },
-  {
-    "sn": "GACHA_CHARACTER_ANIMATION_FIRST",
-    "value": "gacha_first_new.usm"
-  },
-  {
-    "sn": "GACHA_CHARACTER_LOOP",
-    "value": "gacha_third_loop_new.usm"
-  },
-  {
-    "sn": "GACHA_WEAPON_ANIMATION_FIRST",
-    "value": "gacha_weapon_01.usm"
-  },
-  {
-    "sn": "GACHA_WEAPON_LOOP",
-    "value": "gacha_weapon_02.usm"
-  },
-  {
-    "sn": "GACHA_CHARACTER_LOOP_STAYTIME",
-    "value": "1"
-  },
-  {
-    "sn": "GACHA_CHARACTER_SIGNTRAIL",
-    "value": "chouka_qianzi_lizituowei.prefab"
-  },
-  {
-    "sn": "GACHA_HANDLE_PROTECTTIME",
-    "value": "0.5"
-  },
-  {
-    "sn": "GACHA_SUPPLEAWARD_NUM",
-    "value": "165"
   },
   {
     "sn": "GAMES_BASEBALL_FREECOUPON",
@@ -3897,11 +4121,11 @@
   },
   {
     "sn": "CLINET_RES_VERSION",
-    "value": "2024112102"
+    "value": "2025071011"
   },
   {
     "sn": "CLINET_GAME_VERSION",
-    "value": "1.0.0"
+    "value": "1.1.0"
   },
   {
     "sn": "SEND_ANNOUNCE_CNT",
@@ -7044,6 +7268,194 @@
     "value": "1,39,63,4"
   },
   {
+    "sn": "DRAWCARD_RECORD",
+    "value": "300"
+  },
+  {
+    "sn": "DRAWCARD_SKIPANIM_TIME",
+    "value": "0.5"
+  },
+  {
+    "sn": "DRAWCARD_SKIPDISPLAY_TIME",
+    "value": "0.5"
+  },
+  {
+    "sn": "DRAWCARD_SKIPCHARACTER_TIME",
+    "value": "0.5"
+  },
+  {
+    "sn": "DRAWCARD_SKIP_FIVESTARS_TIME",
+    "value": "3"
+  },
+  {
+    "sn": "DRAWCARD_SKIP_FOURSTARS_TIME",
+    "value": "1.5"
+  },
+  {
+    "sn": "DRAWCARD_SKIP_FOURSTARSP_TIME",
+    "value": "1"
+  },
+  {
+    "sn": "DRAWCARD_SKIPWEAPON_TIME",
+    "value": "1"
+  },
+  {
+    "sn": "DRAWCARD_SKIPWEAPON_FIVESTARS_TIME",
+    "value": "1.5"
+  },
+  {
+    "sn": "DRAWCARD_SKIPWEAPON_FOURSTARS_TIME",
+    "value": "1.5"
+  },
+  {
+    "sn": "DRAWCARD_TENTIMES_GUARDTIME",
+    "value": "1"
+  },
+  {
+    "sn": "DRAWCARD_TENTIMES_ANIMFINISH",
+    "value": "0.7"
+  },
+  {
+    "sn": "DRAWCARD_WEAPON_BOX",
+    "value": "TL_WeaponGacha.prefab,21"
+  },
+  {
+    "sn": "DRAWCARD_WEAPON_BUTTON_INTERVAL",
+    "value": "0.05"
+  },
+  {
+    "sn": "DRAWCARD_THIEFNAME_GOLD",
+    "value": "#000000"
+  },
+  {
+    "sn": "DRAWCARD_THIEFNAME_PURPLE",
+    "value": "#ffffff"
+  },
+  {
+    "sn": "DRAWCARD_ONETIMES_GUARDTIME",
+    "value": "2"
+  },
+  {
+    "sn": "GACHA_DAILY_LIMIT",
+    "value": "999999"
+  },
+  {
+    "sn": "GACHA_ITEM_SUBSTRATE",
+    "value": "haoyou-diban5.png"
+  },
+  {
+    "sn": "GACHA_NOTICE_CHARACTER",
+    "value": "签约"
+  },
+  {
+    "sn": "GACHA_NOTICE_WEAPON",
+    "value": "补给"
+  },
+  {
+    "sn": "DRAWCARD_DAYS_RECORD",
+    "value": "30"
+  },
+  {
+    "sn": "EXCLUDE_WEAPON_TYPES",
+    "value": "999"
+  },
+  {
+    "sn": "DRAWCARD_GM_SKIPQUEST",
+    "value": "10448"
+  },
+  {
+    "sn": "GACHA_CHARACTERNORMAL_AWARD",
+    "value": "300,410904"
+  },
+  {
+    "sn": "GACHA_COGNITIONSHOP",
+    "value": "106"
+  },
+  {
+    "sn": "GACHA_ADDITIONALITEM",
+    "value": "302905"
+  },
+  {
+    "sn": "GACHA_CHARACTERRECOMMEND_AWARD",
+    "value": "50,400105"
+  },
+  {
+    "sn": "GACHA_CHARACTER_SKIPTIME",
+    "value": "0"
+  },
+  {
+    "sn": "GACHA_CHARACTER_COLORCHANGE4",
+    "value": "65,40"
+  },
+  {
+    "sn": "GACHA_CHARACTERONE_COLORCHANGE4",
+    "value": "65,40"
+  },
+  {
+    "sn": "GACHA_CHARACTER_ANIMATION_FIRST00",
+    "value": "gacha_first_00_new.usm"
+  },
+  {
+    "sn": "GACHA_CHARACTER_ANIMATION_FIRST",
+    "value": "gacha_first_new.usm"
+  },
+  {
+    "sn": "GACHA_CHARACTER_LOOP",
+    "value": "gacha_third_loop_new.usm"
+  },
+  {
+    "sn": "GACHA_WEAPON_ANIMATION_FIRST",
+    "value": "gacha_weapon_01.usm"
+  },
+  {
+    "sn": "GACHA_WEAPON_LOOP",
+    "value": "gacha_weapon_02.usm"
+  },
+  {
+    "sn": "GACHA_CHARACTER_LOOP_STAYTIME",
+    "value": "1"
+  },
+  {
+    "sn": "GACHA_CHARACTER_SIGNTRAIL",
+    "value": "chouka_qianzi_lizituowei.prefab"
+  },
+  {
+    "sn": "GACHA_HANDLE_PROTECTTIME",
+    "value": "0.5"
+  },
+  {
+    "sn": "GACHA_SUPPLEAWARD_NUM",
+    "value": "165"
+  },
+  {
+    "sn": "PALACE_CHESS_PULL_ACTION",
+    "value": "wonder_thief@point_screen"
+  },
+  {
+    "sn": "CHESS_MOVE_TIME",
+    "value": "0.8"
+  },
+  {
+    "sn": "CHESS_SUCCESS_EFFECT",
+    "value": "TL_chess_finish.prefab"
+  },
+  {
+    "sn": "CHESS_GOLD_TRIGGER_EFFECT",
+    "value": "AAAAAA=="
+  },
+  {
+    "sn": "PALACE_CHESS_ENEMY_ATTACK_RANGE_EFFECT",
+    "value": "fx_chess_attackRange"
+  },
+  {
+    "sn": "PALACE_CHESS_ENEMY_ROUTINE_STRIGHT_EFFECT",
+    "value": "fx_chess_routine_line"
+  },
+  {
+    "sn": "PALACE_CHESS_ENEMY_ROUTINE_CORNER_EFFECT",
+    "value": "fx_chess_routine_corner"
+  },
+  {
     "sn": "CHAT_JOIN_WORLD_LEVEL",
     "value": "1"
   },
@@ -7162,130 +7574,6 @@
   {
     "sn": "CHAT_SIGN_GAMEPAD_SPEED",
     "value": "8"
-  },
-  {
-    "sn": "GAME_BASE_TIME",
-    "value": "2025/06/26 00:00:00"
-  },
-  {
-    "sn": "FULL_DOWNLOAD_TIPS_TIME",
-    "value": "2025-04-26 09:00:00"
-  },
-  {
-    "sn": "OB_SERVER_OPEN_TIME",
-    "value": "2025/06/26 12:00:00"
-  },
-  {
-    "sn": "NAME_CHARACTER_WHITELIST",
-    "value": ",，。 .々ヶ¤"
-  },
-  {
-    "sn": "NAME_LANGUAGE_WHITELIST",
-    "value": "1,2,4,6"
-  },
-  {
-    "sn": "ACTIVITY_COMEBACK_WEBSITE",
-    "value": "AAAAAA=="
-  },
-  {
-    "sn": "MONTHLY_CARD_REBATE_TIME",
-    "value": "2024/05/23 05:00:00"
-  },
-  {
-    "sn": "ADVANCE_PAYMENT_ITEM_SN",
-    "value": "2,300002,300001,300004"
-  },
-  {
-    "sn": "ADVANCE_PAYMENT_ITEM_PARAM",
-    "value": "1,150,150,100"
-  },
-  {
-    "sn": "ADVANCE_PAYMENT_NOT_SHOW_ITEM_SN",
-    "value": "501271,212703,100101"
-  },
-  {
-    "sn": "ADVANCE_PAYMENT_NOT_SHOW_ITEM_PARAM",
-    "value": "150,100,60"
-  },
-  {
-    "sn": "PAYMENT_AGE_LIMIT",
-    "value": "12,5000|19,20000"
-  },
-  {
-    "sn": "FIRST_LOGIN_SDK",
-    "value": "1"
-  },
-  {
-    "sn": "ACTIVITY_CALLBACK_DEFAULT_RES",
-    "value": "Image-QRcode-P5X.png"
-  },
-  {
-    "sn": "ACTIVITY_CALLBACK_DEFAULT_TEXT",
-    "value": "官服"
-  },
-  {
-    "sn": "MODE_TGS",
-    "value": "0"
-  },
-  {
-    "sn": "MODE_TGS_STORY_ENDQUEST",
-    "value": "10056"
-  },
-  {
-    "sn": "NAME_MAX",
-    "value": "17"
-  },
-  {
-    "sn": "PLAYER_DEFAULT_NAME",
-    "value": "游戏测试账号"
-  },
-  {
-    "sn": "ACTIVITY_COMEBACK_CHANGE_TIME",
-    "value": "2024/11/21 05:00:00"
-  },
-  {
-    "sn": "VELVET_TRIAL_PERIOD_START_TIME",
-    "value": "2024/11/21 05:00:00"
-  },
-  {
-    "sn": "SUB_PACKAGE_WIFI_AUTO_DOWNLOAD",
-    "value": "0"
-  },
-  {
-    "sn": "SUB_PACKAGE_WIFI_BACKGROUND_DOWNLOAD",
-    "value": "1"
-  },
-  {
-    "sn": "MOTTO_LEN_LIMIT",
-    "value": "100"
-  },
-  {
-    "sn": "ATTING_INFO_NAME_LEN",
-    "value": "17"
-  },
-  {
-    "sn": "ARRAY_NAMELIMIT",
-    "value": "17"
-  },
-  {
-    "sn": "FASHION_PRESETS_NAMENUM",
-    "value": "17"
-  },
-  {
-    "sn": "UNION_MIN_NAME_LENGTH",
-    "value": "2"
-  },
-  {
-    "sn": "UNION_MAX_NAME_LENGTH",
-    "value": "20"
-  },
-  {
-    "sn": "UNION_MAX_ANNOUNCEMENT_LENGTH",
-    "value": "100"
-  },
-  {
-    "sn": "UNION_MAX_DECLARATION_LENGTH",
-    "value": "100"
   },
   {
     "sn": "OPEN_WORLD_SCENE_TYPES",
@@ -7422,242 +7710,6 @@
   {
     "sn": "MUSIC_PLAYER_SCENE_BLACK_LIST",
     "value": "12,21"
-  },
-  {
-    "sn": "FIRST_QUEST",
-    "value": "10000"
-  },
-  {
-    "sn": "QUEST_FOR_CHANGENAME",
-    "value": "10002"
-  },
-  {
-    "sn": "FIND_TARGET_ANGLE_HORIZONTAL",
-    "value": "360"
-  },
-  {
-    "sn": "QUEST_ACCEPT_ICON",
-    "value": "common-renwu-wenhao.png"
-  },
-  {
-    "sn": "QUEST_NAVIGATE_ICON",
-    "value": "common-renwu-tanhao.png"
-  },
-  {
-    "sn": "QUEST_FINISH_ICON",
-    "value": "common-renwu-tanhao.png"
-  },
-  {
-    "sn": "QUEST_ACCEPT_ICON_PALACE",
-    "value": "common-renwu-wenhaobai.png"
-  },
-  {
-    "sn": "QUEST_NAVIGATE_ICON_PALACE",
-    "value": "common-renwu-tanhao-bai.png"
-  },
-  {
-    "sn": "QUEST_FINISH_ICON_PALACE",
-    "value": "common-renwu-tanhao-bai.png"
-  },
-  {
-    "sn": "QUEST_ONMAP_SHOWDISTANCE",
-    "value": "30"
-  },
-  {
-    "sn": "QUEST_HOVERING_TIME",
-    "value": "5"
-  },
-  {
-    "sn": "TASK_NEW_ICON_SHOW_TIME",
-    "value": "3"
-  },
-  {
-    "sn": "QUEST_ACCEPT_TIP_TIME",
-    "value": "3"
-  },
-  {
-    "sn": "FIND_TARGET_ANGLE",
-    "value": "30"
-  },
-  {
-    "sn": "FIND_TARGET_INDICATION_RANGE",
-    "value": "400,400"
-  },
-  {
-    "sn": "FIND_PALACE_TARGET_INDICATION_RANGE",
-    "value": "0.4,0.95"
-  },
-  {
-    "sn": "FIND_TARGET_HEIGHT",
-    "value": "0.45"
-  },
-  {
-    "sn": "FIND_TARGET_DISTANCE",
-    "value": "3"
-  },
-  {
-    "sn": "GUIDE_PAUSE_LONGEST_TIME",
-    "value": "600"
-  },
-  {
-    "sn": "FIND_TARGET_DISTANCE_ARROW",
-    "value": "10,45;5,60;2,360"
-  },
-  {
-    "sn": "FIND_TARGET_HIDE",
-    "value": "2"
-  },
-  {
-    "sn": "FIND_TARGET_NPC_HEIGHT",
-    "value": "0.01"
-  },
-  {
-    "sn": "FIND_TARGET_DISTANCE_HIDE",
-    "value": "1.5"
-  },
-  {
-    "sn": "FIND_TARGET_DISTANCE_DISPLAY",
-    "value": "3"
-  },
-  {
-    "sn": "FIND_TARGET_DISTANCE_HIDE_CAR",
-    "value": "5"
-  },
-  {
-    "sn": "FIND_TARGET_DISTANCE_DISPLAY_CAR",
-    "value": "9"
-  },
-  {
-    "sn": "FIND_TARGET_DISTANCE_HIDE_ROBOT",
-    "value": "6"
-  },
-  {
-    "sn": "FIND_TARGET_DISTANCE_DISPLAY_ROBOT",
-    "value": "10"
-  },
-  {
-    "sn": "FIND_TARGET_DISTANCE_HIDE_ARROW",
-    "value": "6,180;3,180;2,360"
-  },
-  {
-    "sn": "QUEST_TAP_ALL",
-    "value": "1,2,3,4,5,10"
-  },
-  {
-    "sn": "QUEST_SHOW_ON_TOP",
-    "value": "1,2,3,4,5,10"
-  },
-  {
-    "sn": "QUEST_TRACK_ALL",
-    "value": "1,2,3,4,5,10,1000"
-  },
-  {
-    "sn": "REALTIME_TRACE_QUEST_GOAL_PALACE",
-    "value": "104,202"
-  },
-  {
-    "sn": "REALTIME_TRACE_QUEST_GOAL_CITY",
-    "value": "104"
-  },
-  {
-    "sn": "QUEST_SCENE_ICON_SCALE",
-    "value": "0.65"
-  },
-  {
-    "sn": "STRESS_TAP_END_QUEST",
-    "value": "10430"
-  },
-  {
-    "sn": "STRESS_TAP_QUEST_NO_CHANGE_TIMEOUT",
-    "value": "60"
-  },
-  {
-    "sn": "STRESS_TAP_NOT_IN_SCENE_TIMEOUT",
-    "value": "60"
-  },
-  {
-    "sn": "QUEST_LOG_TASK_TYPE",
-    "value": "102,1"
-  },
-  {
-    "sn": "QUEST_LOG_STYLE_1_DIALOG_PARAM",
-    "value": "1,4,8,9,12,19"
-  },
-  {
-    "sn": "QUEST_LOG_STYLE_2_DIALOG_PARAM",
-    "value": "2"
-  },
-  {
-    "sn": "QUEST_LOG_STYLE_3_DIALOG_PARAM",
-    "value": "3,10,11"
-  },
-  {
-    "sn": "QUEST_TYPE_TRACK_TO_ACTIVE",
-    "value": "2,4,5,10"
-  },
-  {
-    "sn": "TRACK_TYPE_SHOW_ON_MAP",
-    "value": "200,299"
-  },
-  {
-    "sn": "QUEST_TYPE_ONLY_OTHER_SYSTEM_TRIGGER",
-    "value": "3"
-  },
-  {
-    "sn": "QUEST_LVUP_SHOW",
-    "value": "11147,10713,10784,11081,11464,12442,12331"
-  },
-  {
-    "sn": "QUEST_FIRST_SCENE_AREA_QUESTS",
-    "value": "10001,10002,10003,10004"
-  },
-  {
-    "sn": "QUEST_FIRST_SCENE_AREA_TIMEOUT",
-    "value": "5"
-  },
-  {
-    "sn": "QUEST_COMMON_RAID_SCENE_TYPE",
-    "value": "1100,1700"
-  },
-  {
-    "sn": "QUEST_TARGET_TPYES_IN_OPEN_WORLD",
-    "value": "100,101,301"
-  },
-  {
-    "sn": "DIRECT_VICTORY_QUEST_BATTLES",
-    "value": "20004"
-  },
-  {
-    "sn": "QUEST_WEAR_FASHION_PARAM",
-    "value": "101,100,101,10075,10092|101,100,101,10095,10095|101,100,101,10120,10131"
-  },
-  {
-    "sn": "QUEST_TYPE_SPECIAL",
-    "value": "1000,1001,2001,2002,2004,2005,2010"
-  },
-  {
-    "sn": "QUEST_LEAVE_SCHOOL_TELEPORT",
-    "value": "999971"
-  },
-  {
-    "sn": "QUEST_RESET_CLIENT_LOGIN_EXCEPT_QUESTS",
-    "value": "11054,12445,12302,10116,10146,10083,11903"
-  },
-  {
-    "sn": "QUEST_RESET_AFTER_SERVER_STOP_PROCESSING_QUESTS",
-    "value": "10031,10032,10035,10036,10037,10040,10063,10071,10090,10110,10111,10122,10131,10132,10150,10161,10170,10260,10262,10270,10271,10281,10283,10285,10286,10288,10291,10293,10294,10683,10687,10688,10689,10257,10255,10256,10171,10008,10030,10056,10120,10121,10130,10151,10173,10290,11175,10267,10160"
-  },
-  {
-    "sn": "QUEST_LOGIN_SCENE_QUEST_TELEPORT",
-    "value": "4001,10071,999886"
-  },
-  {
-    "sn": "QUEST_LOGIN_IGNORED_NEW_LINE",
-    "value": "AAAAAA=="
-  },
-  {
-    "sn": "QUEST_AUTOMATIC_TRACKING",
-    "value": "50001,22040"
   },
   {
     "sn": "MONOPOLY_FIRST_CARD_SN",
@@ -8104,308 +8156,240 @@
     "value": "3,2.5,2"
   },
   {
-    "sn": "COOP_MOOD_PROP1",
-    "value": "1"
+    "sn": "FIRST_QUEST",
+    "value": "10000"
   },
   {
-    "sn": "COOP_MOOD_PROP2",
-    "value": "0"
+    "sn": "QUEST_FOR_CHANGENAME",
+    "value": "10002"
   },
   {
-    "sn": "COOP_MOOD_PROP3",
-    "value": "0"
+    "sn": "FIND_TARGET_ANGLE_HORIZONTAL",
+    "value": "360"
   },
   {
-    "sn": "COOP_MOOD_ICON1",
-    "value": "yuehui-10-xiaolian.png"
+    "sn": "QUEST_ACCEPT_ICON",
+    "value": "common-renwu-wenhao.png"
   },
   {
-    "sn": "COOP_MOOD_ICON2",
-    "value": "yuehui-10-xiaolian-putonglian.png"
+    "sn": "QUEST_NAVIGATE_ICON",
+    "value": "common-renwu-tanhao.png"
   },
   {
-    "sn": "COOP_MOOD_ICON3",
-    "value": "yuehui-10-xiaolian-nanshoulian.png"
+    "sn": "QUEST_FINISH_ICON",
+    "value": "common-renwu-tanhao.png"
   },
   {
-    "sn": "COOP_MOOD_YELLOW",
-    "value": "#FFB900"
+    "sn": "QUEST_ACCEPT_ICON_PALACE",
+    "value": "common-renwu-wenhaobai.png"
   },
   {
-    "sn": "COOP_MOOD_RED",
-    "value": "#FF0000"
+    "sn": "QUEST_NAVIGATE_ICON_PALACE",
+    "value": "common-renwu-tanhao-bai.png"
   },
   {
-    "sn": "COOP_MOOD_GREEN",
-    "value": "#00FF46"
+    "sn": "QUEST_FINISH_ICON_PALACE",
+    "value": "common-renwu-tanhao-bai.png"
   },
   {
-    "sn": "COOP_APPOINTMENT_PARAM",
-    "value": "9"
-  },
-  {
-    "sn": "COOP_LIKE",
-    "value": "itemicon-000.png"
-  },
-  {
-    "sn": "COOP_GIFT_PER_PLAYER",
-    "value": "10"
-  },
-  {
-    "sn": "COOP_GIFT_PER_COOP",
-    "value": "1"
-  },
-  {
-    "sn": "COOP_GIFT_UI_MASK_NPC_DISTANCE",
-    "value": "10"
-  },
-  {
-    "sn": "COOP_GIFT_DIALOG1",
-    "value": "1011201,1011202,1011203"
-  },
-  {
-    "sn": "COOP_GIFT_DIALOG2",
-    "value": "1011204,1011205,1011206"
-  },
-  {
-    "sn": "COOP_GIFT_DIALOG3",
-    "value": "1011207,1011208,1011209"
-  },
-  {
-    "sn": "COOP_APPOINTMENT_DIALOG1",
-    "value": "1011301,1011302,1011303"
-  },
-  {
-    "sn": "COOP_APPOINTMENT_DIALOG2",
-    "value": "1011304,1011305,1011306"
-  },
-  {
-    "sn": "COOP_APPOINTMENT_DIALOG3",
-    "value": "1011307,1011308,1011309"
-  },
-  {
-    "sn": "COOP_BIRTH_ADDITION_GIFT",
-    "value": "3"
-  },
-  {
-    "sn": "COOP_BIRTH_ADDITION_DATE",
-    "value": "5"
-  },
-  {
-    "sn": "COOP_ABILITY_ICON1",
-    "value": "yuehui-015.png"
-  },
-  {
-    "sn": "COOP_ABILITY_ICON2",
-    "value": "yuehui-015.png"
-  },
-  {
-    "sn": "COOP_ABILITY_ICON3",
-    "value": "yuehui-015.png"
-  },
-  {
-    "sn": "COOP_PARAM_VISIBLE_MOOD",
-    "value": "1,0.5,0"
-  },
-  {
-    "sn": "COOP_PARAM_VISIBLE_RANK",
-    "value": "0.02"
-  },
-  {
-    "sn": "COOP_PARAM_APPOINTMENT_SUCCESS_MOOD",
-    "value": "1,0.5,0"
-  },
-  {
-    "sn": "COOP_PARAM_APPOINTMENT_SUCCESS_RANK",
-    "value": "0.01"
-  },
-  {
-    "sn": "COOP_PARAM_HOME_SUCCESS_MOOD",
-    "value": "1,0.5,0"
-  },
-  {
-    "sn": "COOP_PARAM_HOME_SUCCESS_RANK",
-    "value": "0.01"
-  },
-  {
-    "sn": "COOP_PARAM_HOME_BASIC",
-    "value": "0.1"
-  },
-  {
-    "sn": "COOP_PARAM_INITITAVE_MOOD",
-    "value": "1,0.5,0"
-  },
-  {
-    "sn": "COOP_PARAM_INITITAVE_BASIC",
-    "value": "0.3"
-  },
-  {
-    "sn": "COOP_UI_UNLOCKMESSAGE_TYPE1",
-    "value": "shenghuo-text-huijia-new-1.png"
-  },
-  {
-    "sn": "COOP_UI_UNLOCKMESSAGE_TYPE2",
-    "value": "shenghuo-text-huijia-new-2.png"
-  },
-  {
-    "sn": "COOP_LUFEIER_ABILITY_RANK3",
-    "value": "4,3"
-  },
-  {
-    "sn": "COOP_LUFEIER_ABILITY_RANK5",
-    "value": "4,7"
-  },
-  {
-    "sn": "COOP_LUFEIER_ABILITY_RANK13",
-    "value": "4,5"
-  },
-  {
-    "sn": "COMPOUNDITEM_ADDITIONALRETURN_COOP_LUFEIER",
-    "value": "1,4,5"
-  },
-  {
-    "sn": "COOP_FAVORITE_SOUND",
-    "value": "0"
-  },
-  {
-    "sn": "COOP_FAVORITE_CHARACTER",
-    "value": "1"
-  },
-  {
-    "sn": "COOP_ONMAP_ZOOM",
-    "value": "0.2"
-  },
-  {
-    "sn": "COOP_PERSONA_CONSUME",
-    "value": "1,5"
-  },
-  {
-    "sn": "COOP_PERSONA_CREDIT",
-    "value": "1,13"
-  },
-  {
-    "sn": "COOP_PERSONA_DOUBLE_LEVEL",
-    "value": "1,15"
-  },
-  {
-    "sn": "COOP_PERSONA_DOUBLE_PROB",
-    "value": "10"
-  },
-  {
-    "sn": "COOP_PERSONA_DOUBLE_GRADE",
-    "value": "3"
-  },
-  {
-    "sn": "COOP_PERSONA_DOUBLE_RANK",
-    "value": "4"
-  },
-  {
-    "sn": "COOP_BASEBALL_THIRDEYE",
-    "value": "2,1"
-  },
-  {
-    "sn": "COOP_CLOSER_HL_ENERGYRECOVERY",
-    "value": "2,13,30"
-  },
-  {
-    "sn": "COOP_CLOSER_GENERALATTACK_HP",
-    "value": "2,5"
-  },
-  {
-    "sn": "COOP_FAVORITE_CHARACTER_WEIGHT",
-    "value": "9999"
-  },
-  {
-    "sn": "COOPVISIT_SCHOOL_WEIGHT",
-    "value": "90,0|10,1"
-  },
-  {
-    "sn": "COOPVISIT_REST_WEIGHT",
-    "value": "90,0|10,1"
-  },
-  {
-    "sn": "COOPVISIT_INTERVAL_DAYS",
-    "value": "2"
-  },
-  {
-    "sn": "COOPVISIT_DATE_WEIGHT",
-    "value": "10"
-  },
-  {
-    "sn": "COOPVISIT_IMPORTANT",
-    "value": "5,6,7"
-  },
-  {
-    "sn": "COOP_YUI_ABILITY_RANK1",
-    "value": "11,1"
-  },
-  {
-    "sn": "COOP_YUI_ABILITY_RANK5",
-    "value": "11,5"
-  },
-  {
-    "sn": "COOP_YUI_ABILITY_RANK9",
-    "value": "11,9"
-  },
-  {
-    "sn": "COOP_YUI_ABILITY_RANK13",
-    "value": "11,13"
-  },
-  {
-    "sn": "COOP_YUI_ABILITY_RANK17",
-    "value": "11,17"
-  },
-  {
-    "sn": "COOP_SOY_ABILITY_RETURNMATERIALS",
-    "value": "5,5"
-  },
-  {
-    "sn": "COOP_SOY_ABILITY_SPECIALDISH_UP",
-    "value": "5,9"
-  },
-  {
-    "sn": "COOP_SOY_ABILITY_ADDITIONALDISH",
-    "value": "5,12"
-  },
-  {
-    "sn": "COOP_SOY_ABILITY_ADDITIONALRETURN",
-    "value": "10"
-  },
-  {
-    "sn": "COOP_RIN_ABILITY_RANK13",
-    "value": "7,13"
-  },
-  {
-    "sn": "COMPOUNDITEM_ADDITIONALRETURN_COOP_RIN",
-    "value": "3"
-  },
-  {
-    "sn": "COOP_MAINUI_LOVER_NOTICE",
-    "value": "15"
-  },
-  {
-    "sn": "COOP_FISHING_THIRDEYE",
-    "value": "10,1"
-  },
-  {
-    "sn": "COOP_RESETTIME",
+    "sn": "QUEST_ONMAP_SHOWDISTANCE",
     "value": "30"
   },
   {
-    "sn": "COOP_RESET_RESUME",
-    "value": "303200,1"
+    "sn": "QUEST_HOVERING_TIME",
+    "value": "5"
   },
   {
-    "sn": "COOP_PHOEBE_ABILITY_ADDITIONALRETURN",
+    "sn": "TASK_NEW_ICON_SHOW_TIME",
+    "value": "3"
+  },
+  {
+    "sn": "QUEST_ACCEPT_TIP_TIME",
+    "value": "3"
+  },
+  {
+    "sn": "FIND_TARGET_ANGLE",
+    "value": "30"
+  },
+  {
+    "sn": "FIND_TARGET_INDICATION_RANGE",
+    "value": "400,400"
+  },
+  {
+    "sn": "FIND_PALACE_TARGET_INDICATION_RANGE",
+    "value": "0.4,0.95"
+  },
+  {
+    "sn": "FIND_TARGET_HEIGHT",
+    "value": "0.45"
+  },
+  {
+    "sn": "FIND_TARGET_DISTANCE",
+    "value": "3"
+  },
+  {
+    "sn": "GUIDE_PAUSE_LONGEST_TIME",
+    "value": "600"
+  },
+  {
+    "sn": "FIND_TARGET_DISTANCE_ARROW",
+    "value": "10,45;5,60;2,360"
+  },
+  {
+    "sn": "FIND_TARGET_HIDE",
+    "value": "2"
+  },
+  {
+    "sn": "FIND_TARGET_NPC_HEIGHT",
+    "value": "0.01"
+  },
+  {
+    "sn": "FIND_TARGET_DISTANCE_HIDE",
+    "value": "1.5"
+  },
+  {
+    "sn": "FIND_TARGET_DISTANCE_DISPLAY",
+    "value": "3"
+  },
+  {
+    "sn": "FIND_TARGET_DISTANCE_HIDE_CAR",
+    "value": "5"
+  },
+  {
+    "sn": "FIND_TARGET_DISTANCE_DISPLAY_CAR",
+    "value": "9"
+  },
+  {
+    "sn": "FIND_TARGET_DISTANCE_HIDE_ROBOT",
+    "value": "6"
+  },
+  {
+    "sn": "FIND_TARGET_DISTANCE_DISPLAY_ROBOT",
     "value": "10"
   },
   {
-    "sn": "COOP_DOCTOR_ABILITY",
-    "value": "15,1,201|15,5,202|15,9,203|15,13,204|15,17,205"
+    "sn": "FIND_TARGET_DISTANCE_HIDE_ARROW",
+    "value": "6,180;3,180;2,360"
   },
   {
-    "sn": "COOP_MEILUOPU_RELATION_ICON",
-    "value": "tianerong-xinzhihai-duanwei02-new.png"
+    "sn": "QUEST_TAP_ALL",
+    "value": "1,2,3,4,5,10"
+  },
+  {
+    "sn": "QUEST_SHOW_ON_TOP",
+    "value": "1,2,3,4,5,10"
+  },
+  {
+    "sn": "QUEST_TRACK_ALL",
+    "value": "1,2,3,4,5,10,1000"
+  },
+  {
+    "sn": "REALTIME_TRACE_QUEST_GOAL_PALACE",
+    "value": "104,202"
+  },
+  {
+    "sn": "REALTIME_TRACE_QUEST_GOAL_CITY",
+    "value": "104"
+  },
+  {
+    "sn": "QUEST_SCENE_ICON_SCALE",
+    "value": "0.65"
+  },
+  {
+    "sn": "STRESS_TAP_END_QUEST",
+    "value": "10430"
+  },
+  {
+    "sn": "STRESS_TAP_QUEST_NO_CHANGE_TIMEOUT",
+    "value": "60"
+  },
+  {
+    "sn": "STRESS_TAP_NOT_IN_SCENE_TIMEOUT",
+    "value": "60"
+  },
+  {
+    "sn": "QUEST_LOG_TASK_TYPE",
+    "value": "102,1"
+  },
+  {
+    "sn": "QUEST_LOG_STYLE_1_DIALOG_PARAM",
+    "value": "1,4,8,9,12,19"
+  },
+  {
+    "sn": "QUEST_LOG_STYLE_2_DIALOG_PARAM",
+    "value": "2"
+  },
+  {
+    "sn": "QUEST_LOG_STYLE_3_DIALOG_PARAM",
+    "value": "3,10,11"
+  },
+  {
+    "sn": "QUEST_TYPE_TRACK_TO_ACTIVE",
+    "value": "2,4,5,10"
+  },
+  {
+    "sn": "TRACK_TYPE_SHOW_ON_MAP",
+    "value": "200,299"
+  },
+  {
+    "sn": "QUEST_TYPE_ONLY_OTHER_SYSTEM_TRIGGER",
+    "value": "3"
+  },
+  {
+    "sn": "QUEST_LVUP_SHOW",
+    "value": "11147,10713,10784,11081,11464,12442,12331"
+  },
+  {
+    "sn": "QUEST_FIRST_SCENE_AREA_QUESTS",
+    "value": "10001,10002,10003,10004"
+  },
+  {
+    "sn": "QUEST_FIRST_SCENE_AREA_TIMEOUT",
+    "value": "5"
+  },
+  {
+    "sn": "QUEST_COMMON_RAID_SCENE_TYPE",
+    "value": "1100,1700"
+  },
+  {
+    "sn": "QUEST_TARGET_TPYES_IN_OPEN_WORLD",
+    "value": "100,101,301"
+  },
+  {
+    "sn": "DIRECT_VICTORY_QUEST_BATTLES",
+    "value": "20004"
+  },
+  {
+    "sn": "QUEST_WEAR_FASHION_PARAM",
+    "value": "101,100,101,10075,10092|101,100,101,10095,10095|101,100,101,10120,10131"
+  },
+  {
+    "sn": "QUEST_TYPE_SPECIAL",
+    "value": "1000,1001,2001,2002,2004,2005,2010"
+  },
+  {
+    "sn": "QUEST_LEAVE_SCHOOL_TELEPORT",
+    "value": "999971"
+  },
+  {
+    "sn": "QUEST_RESET_CLIENT_LOGIN_EXCEPT_QUESTS",
+    "value": "11054,12445,12302,10116,10146,10083,11903"
+  },
+  {
+    "sn": "QUEST_RESET_AFTER_SERVER_STOP_PROCESSING_QUESTS",
+    "value": "10031,10032,10035,10036,10037,10040,10063,10071,10090,10110,10111,10122,10131,10132,10150,10161,10170,10260,10262,10270,10271,10281,10283,10285,10286,10288,10291,10293,10294,10683,10687,10688,10689,10257,10255,10256,10171,10008,10030,10056,10120,10121,10130,10151,10173,10290,11175,10267,10160"
+  },
+  {
+    "sn": "QUEST_LOGIN_SCENE_QUEST_TELEPORT",
+    "value": "4001,10071,999886"
+  },
+  {
+    "sn": "QUEST_LOGIN_IGNORED_NEW_LINE",
+    "value": "AAAAAA=="
+  },
+  {
+    "sn": "QUEST_AUTOMATIC_TRACKING",
+    "value": "50001,22040"
   },
   {
     "sn": "PALACE_SCENE_BGM_SHOWTIME",

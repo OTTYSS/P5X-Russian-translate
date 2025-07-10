@@ -12,7 +12,7 @@
   {
     "sn": 2,
     "buffName": "坍塌预警",
-    "buffDesc": "在战斗中获得<link=\"dc|237\"><u>『稳定领域』</u></link>效果；使用人格面具技能或触发追加效果时，获得1层『强化印记』，最多可叠加3层；全体怪盗行动一轮后，获得『强化印记』层数*15%的伤害加成并移除1层『强化印记』。",
+    "buffDesc": "使用人格面具技能或触发追加效果时，获得1层『强化印记』，最多可叠加3层；全体怪盗行动一轮后，获得『强化印记』层数*15%的伤害加成并移除1层『强化印记』。",
     "buffPic": "tianerong-tiaozhan-buff-zuantanjixie01.png",
     "buffSoleplate": "tianerong-buffbg-cheng.png",
     "buffColor": "#C77A18",
@@ -22,7 +22,7 @@
   {
     "sn": 3,
     "buffName": "结晶辐射",
-    "buffDesc": "在战斗中获得<link=\"dc|237\"><u>『稳定领域』</u></link>效果；回合开始时，每有一个最大生命值提升的效果，获得1层『强化印记』；触发追加效果造成伤害时，获得1层『强化印记』；『强化印记』：每层提供10%的伤害加成，最多可叠加3层。",
+    "buffDesc": "回合开始时，每有一个最大生命值提升的效果，获得1层『强化印记』；触发追加效果造成伤害时，获得1层『强化印记』；『强化印记』：每层提供10%的伤害加成，最多可叠加3层。",
     "buffPic": "tianerong-tiaozhan-buff-wuxiantongxun01.png",
     "buffSoleplate": "tianerong-buffbg-cheng.png",
     "buffColor": "#C77A18",
@@ -32,7 +32,7 @@
   {
     "sn": 4,
     "buffName": "岩层磁暴",
-    "buffDesc": "在战斗中获得<link=\"dc|237\"><u>『稳定领域』</u></link>效果；触发追加效果造成伤害时，为目标添加1层<link=\"dc|171\"><u>『磁能干扰』</u></link>；使用人格面具技能治疗队友时，为随机一个敌方单位添加1层<link=\"dc|171\"><u>『磁能干扰』</u></link>。",
+    "buffDesc": "触发追加效果造成伤害时，为目标添加1层<link=\"dc|171\"><u>『磁能干扰』</u></link>。",
     "buffPic": "tianerong-tiaozhan-buff-zhaomingsheshi01.png",
     "buffSoleplate": "tianerong-buffbg-cheng.png",
     "buffColor": "#C77A18",
@@ -62,7 +62,7 @@
   {
     "sn": 7,
     "buffName": "神秘祭火",
-    "buffDesc": "解明怪盗对在场怪盗的『属性提升』效果提升至30%。",
+    "buffDesc": "解明怪盗对在场怪盗的『属性提升』效果提升至30%；弱点伤害提升20%。",
     "buffPic": "tianerong-tiaozhan-buff-zhaomingsheshi01.png",
     "buffSoleplate": "tianerong-buffbg-cheng.png",
     "buffColor": "#C77A18",

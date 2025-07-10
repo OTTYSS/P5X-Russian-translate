@@ -1,0 +1,857 @@
+=== desc ===
+<color=#FF423F>Algorithm Booster-F1</color>: When a <color=#fffc40>Combat Drone</color> attacks, decrease Elucidator allies' cooldown time by <color=#fffc40>1</color> turn.
+<color=#FF423F>Bughack-I0</color>: When a <color=#fffc40>Self-Destruct Bot</color> attacks, 80% chance to grant <color=#fffc40>1</color> random weaknesses to the target. Lasts for 2 turns.
+<color=#FF423F>Charging-O1</color>: When a <color=#fffc40>Combat Drone</color> attacks, 50% chance to fill the Highlight gauge.
+<color=#FF423F>Chip Overclock-O1</color>: When a <color=#fffc40>Combat Drone</color> attacks, increase all allies' damage by <color=#fffc40>5%</color>. Increase damage <color=#fffc40>0.5%</color> more for each 1% of HP lost, up to <color=#fffc40>40%</color>. Lasts for 1 turn.
+<color=#FF423F>Data Encryption-I4</color>: When a <color=#fffc40>Combat Drone</color> attacks, grant the ally with the lowest HP a shield equal to <color=#fffc40>80%</color> of their lost HP (250 or more). Lasts for 2 turns.
+<color=#FF423F>Data Recovery-P1</color>: When a <color=#fffc40>Combat Drone</color> attacks, restore all allies' HP by <color=#fffc40>15%</color>.
+<color=#FF423F>Electrojammer-R0</color>: After taking an attack from a <color=#fffc40>Self-Destruct Bot</color>, decrease target's damage by <color=#fffc40>25%</color> for 2 turns.
+<color=#FF423F>Electromagnetic Pulse-F3</color>: When a <color=#fffc40>Combat Drone</color> attacks, 1 random foe will be Marked. When a Marked foe is attacked, spend Mark to deal a guaranteed critical hit.
+<color=#FF423F>Elemental Combat-E2</color>: After taking an attack from a <color=#fffc40>Self-Destruct Bot</color>, increase target's Psychokinesis, Nuclear, Bless, and Curse damage taken by 40% for 2 turns. Only activates once per battle.
+<color=#FF423F>Elemental Combat-T0</color>: When a <color=#fffc40>Self-Destruct Bot</color> attacks, increase target's Fire, Ice, Electric, and Wind damage taken by <color=#fffc40>40%</color> for 2 turns. Only activates once per battle.
+<color=#FF423F>Energy Circuit Amp-F2</color>: Each time a <color=#fffc40>Combat Drone</color>'s attack hits a foe, increase all allies' damage by <color=#fffc40>8%</color>, up to <color=#fffc40>32%</color>. Lasts for 1 turn.
+<color=#FF423F>Firewall Booster-X3</color>: When a <color=#fffc40>Combat Drone</color> attacks, increase all allies' Defense by <color=#fffc40>30%</color>. Lasts for 1 turn.
+<color=#FF423F>Firewall Buster-N3</color>: After taking an attack from a <color=#fffc40>Self-Destruct Bot</color>, increase target's damage taken by <color=#fffc40>5%</color>. Increase damage taken by <color=#fffc40>5%</color> more for each debuff target has, up to <color=#fffc40>30%</color>. Lasts for 2 turns.
+<color=#FF423F>Flooding Device</color>: <color=#fffc40>Combat Chip</color>. Each time allies attack, gain <color=#fffc40>1</color> deployment point. After every 10 ally attacks, increase party's Attack by <color=#fffc40>40%</color> for 1 turn.
+<color=#FF423F>Memory Expansion-L9</color>: When a <color=#fffc40>Combat Drone</color> attacks, restore all allies' SP by <color=#fffc40>15%</color>.
+<color=#FF423F>Node Breaker</color>: <color=#fffc40>Combat Chip</color>. When an ally defeats a foe, gain <color=#fffc40>10</color> deployment points. Increase ally damage by <color=#fffc40>30%</color>.
+<color=#FF423F>Overload</color>: <color=#fffc40>Combat Chip</color>. When an ally deals critical damage, gain <color=#fffc40>4</color> deployment points. Increase ally critical rate by <color=#fffc40>18%</color>.
+<color=#FF423F>Shieldbreak-N1</color>: After taking an attack from a <color=#fffc40>Self-Destruct Bot</color>, increase target's damage taken from an ally with a shield by <color=#fffc40>30%</color>. Lasts for 2 turns.
+<color=#FF423F>Shielded</color> allies deal 20% more damage.
+<color=#FF423F>Support Enhancer-N9</color>: When a <color=#fffc40>Combat Drone</color> attacks, increase all allies' damage by <color=#fffc40>2.5%</color>. Increase damage by <color=#fffc40>7.5%</color> more for each <color=#fffc40>Combat Drone</color>. Lasts for 1 turn.
+<color=#FF423F>Synchro-attack</color>: <color=#fffc40>Combat Chip</color>. When allies take damage of their own attribute, gain <color=#fffc40>4</color> deployment points. Increase damage by <color=#fffc40>60%</color> more.
+<color=#FF423F>Trojan Hack-S8</color>: After a <color=#fffc40>Combat Drone</color> attacks, all allies' attacks have a <color=#fffc40>50%</color> chance to inflict 1 random elemental ailment on the target. Lasts for 1 turn.
+<color=#FF423F>Trojan Horse</color>: <color=#fffc40>Combat Chip</color>. When an ally activates a Resonance, gain <color=#fffc40>5</color> deployment points (only once per action). Increase ally Resonance damage dealt by <color=#fffc40>60%</color>.
+<color=#FF423F>Trojan Replicator-E9</color>: After taking an attack from a <color=#fffc40>Self-Destruct Bot</color>, permanently increase damage taken by <color=#fffc40>15%</color>. Stacks up to 3 times.
+<color=#FF423F>Volt Regulator-T1</color>: After taking an attack from a <color=#fffc40>Self-Destruct Bot</color>, decrease target's critical resistance by <color=#fffc40>9%</color> for 2 turns.
+<color=#FF423F>Voltage Amp-E2</color>: When a <color=#fffc40>Combat Drone</color> attacks, increase all allies' all allies' Attack by <color=#fffc40>20%</color>. Lasts for 1 turn.
+<color=#FF423F>Vulnerability Cracking</color>: <color=#fffc40>Combat Chip</color>. When an ally deals weakness damage, gain <color=#fffc40>3</color> deployment points. Increase ally weakness damage by <color=#fffc40>37.5%</color>.
+<color=#FFFC40>Assassin</color> allies' final damage is increased by 30%. Other allies' final damage is decreased by 30%.
+<color=#FFFC40>Sweeper</color> allies' final damage is increased by 30%. Other allies' final damage is decreased by 30%.
+<color=#FFFC40>Wonder</color> deals 50% more <color=#FFFC40>final damage</color>.
+<color=#FFFC40>Wonder</color> deals 50% more <color=#FFFC40>final damage</color>. Other allies deal 80% less final damage.
+<nobr>When an ally uses a <color=#FFFC40>Highlight</color>, gain 1 Blazing Starfire stack. When Blazing Starfire reaches 4 stacks, spend all Blazing Starfire and activate Sparkling Stage.\nSparkling Stage: Randomly grants 10 buffs to allies. The following buffs may each be granted to 1 random ally.\nIncrease Attack by 15%.\nIncrease Defense by 22.5%.\nIncrease max HP by 15%.\nIncrease damage by 12%.\nIncrease ailment accuracy by 18%.\nIncrease pierce by 6%.\nIncrease critical rate by 9%.\nIncrease critical damage by 18%.\nIncrease pierce resistance by 7.5%.\nIncrease weakness damage by 6%.
+AAAAAA==
+After all ally actions, all foes are inflicted with an elemental ailment, and their taken damage increases by 10%.
+After dealing damage with skills or Resonance, gain 1 Impact stack.\nImpact: Deal 5% final damage for each stack. Lasts for 2 turns. Stacks up to 8 times.
+After foes take damage, party's damage increases by 5%. Maximum of 50%.
+After party gains <color=#FFFC40>shields</color>, the final damage of their <color=#FFFC40>Resonance</color> increases by 8%. Lasts for 3 turns. Stacks up to 8 times.
+After the boss deals damage, the target is inflicted with 1 stack of <color=#FFFC40>Wicked Poison</color>.\nWicked Poison: Lose a certain amount of HP at the end of each turn, and final damage taken is increased by 10%. Stacks up to 7 times. Can be removed.
+After the boss takes an action, all allies are inflicted with <color=#FFFC40>Intimidation</color>. When Intimidation is removed, all foes are inflicted with Intimidation.\nIntimidation: Decrease Defense by 10%. Decrease up to 50%.
+All allies' Attack is decreased by 10%.
+All allies' Attack is decreased by 25%.
+All allies' Attack is decreased by 50%.
+All allies' Defense is decreased by 15%.
+All allies' Defense is decreased by 30%.
+All allies' Defense is decreased by 60%.
+All allies' final damage is increased based on their ailment accuracy. Maximum of 150% ailment accuracy, increasing final damage by 15%.
+All allies' healing effect is decreased by 20%.
+All allies' healing effects are decreased by 100%.
+All allies' healing effects are decreased by 45%.
+All allies' max HP is decreased by 10%.
+All allies' max HP is decreased by 20%.
+All allies' max HP is decreased by 40%.
+All allies' shield effect is decreased by 10%.
+All allies' shield effects are decreased by 25%.
+All allies' shield effects are decreased by 40%.
+All foes become weak to Blessing.
+All foes become weak to Curse.
+All foes become weak to Electric.
+All foes become weak to Fire.
+All foes become weak to Gun.
+All foes become weak to Ice.
+All foes become weak to Nuclear.
+All foes become weak to Physical.
+All foes become weak to Psychokinesis.
+All foes become weak to Wind.
+All foes take 100% increased damage from All-Out Attacks.
+All foes take 5% increased final damage for each <color=#FFFC40>elemental ailment</color> they have. If a foe has all 4 <color=#FFFC40>elemental ailments</color> at the same time, final damage taken is increased by an additional 40%.
+All foes' <color=#FF423F>Curse</color> affinity becomes Resist.
+All foes' Attack is increased by 10%.
+All foes' Attack is increased by 20%.
+All foes' Attack is increased by 25%.
+All foes' Attack is increased by 50%.
+All foes' Bless affinity becomes Resist.
+All foes' Defense is increased by 10%.
+All foes' Defense is increased by 20%.
+All foes' Electric affinity becomes Resist.
+All foes' Fire affinity becomes Resist.
+All foes' Gun affinity becomes Resist.
+All foes' Ice affinity becomes Resist.
+All foes' Nuclear affinity becomes Resist.
+All foes' Physical affinity becomes Resist.
+All foes' Psychokinesis affinity becomes Resist.
+All foes' Wind affinity becomes Resist.
+All foes' damage is increased by 10%.
+All foes' damage taken is decreased by 10%.
+All foes' max HP is decreased by 50%, and heal 10% of max HP at the end of each turn.
+All foes' max HP is increased by 10%.
+All foes' max HP is increased by 100%.
+All foes' max HP is increased by 20%.
+All foes' max HP is increased by 25%.
+All foes' max HP is increased by 50%.
+Allies will not deal critical hits, but will deal increased <color=#FFFC40>final damage</color> with skills and Resonance. The increase is equal to critical hit rate \xd7 (critical damage - 100%). (Max critical hit rate in this calculation is 100%).
+Allies with a <color=#FF423F>shield</color> have their final damage taken decreased by 40%.
+Allies' Ballista Energy gain rate is decreased by 50%.
+At the end of Piggytron's action, the effect of Berserk is increased.
+At the end of each turn, foes gain 1 <color=#FFFC40>Berserk</color> stack.\nBerserk: Increase damage by a set amount. Stacks up to 3 times.
+At the end of each turn, grant foes 1 stack of <color=#FFFC40>Berserk</color>.\nBerserk: Increase final damage by 15%. Can be stacked.
+At the start of battle, all allies gain 2 Magnetic Force stacks. Gain 1 stack after dealing weakness damage.\nMagnetic Force: Final damage increased by 20% per stack. Lose 1 stack at the end of each turn. Stacks up to 2 times.
+At the start of battle, all allies gain 2 Seal of Power stacks. Gain 1 stack when inflicting weakness damage on foes. Lose 1 stack automatically at the end of each turn.\nSeal of Power: Increase final damage by 15% per stack. Lasts for 2 turns. Stacks up to 2 times.\nAlso gain effects from Stable Domain during battle.\nStable Domain: Allies cannot deal critical hits. Final damage is based on critical rate and critical damage.
+At the start of battle, all allies lose 50% HP. Also, party's healing and shield effects are increased by 20%, and after receiving healing or a shield, damage is increased by 50%.
+At the start of battle, and after every 5 turns, all allies and enemies take a certain amount of damage and gain 1 stack of <color=#FFFC40>Power of Passion</color>.\nPower of Passion: Damage taken increased by 5%. Stacks up to 15 times. Can be removed.
+At the start of battle, and at the start of the enemy's action, the enemy will change 1 random affinity to Weak (only the most recent Weak affinity will apply). When the enemy takes damage from a 1 More or All-out Attack, damage taken is increased by 400%.
+At the start of each turn, gain 1 Seal of Power for each max HP increase. Gain 1 Seal of Power stack when dealing damage with a Resonance.\nSeal of Power: Increase final damage by 10% for each stack. Stacks up to 3 times.
+At the start of the action, gain 1 stack of Pan's Protection. Lose 1 stack when taking damage of a different attribute, and gain 1 stack when taking damage of the same attribute. Start with 2 stacks. Damage taken is decreased by 15% for each stack. Stacks up to 5 times.
+At the start of the turn, gain 1 stack of Aphrodite's Blessing. Lose 1 stack when taking damage of the same attribute, and gain 1 stack when taking damage of a different attribute. Aphrodite's Blessing: Start with 2 stacks. Damage taken decreases by 15% for each stack. Stacks up to 5 times.
+Bishamonten's Parasol of Chaos changes allies' affinities to Drain. Bishamonten's Attack increases by 40%.
+Bishamonten's Parasol of Chaos changes allies' affinities to Null. Bishamonten's Attack increases by 25%.
+Bishamonten's Parasol of Chaos will target the 2 allies with the lowest HP. Bishamonten's max HP increases by 80%.
+Cheerleaders' HP is greatly increased.
+Corporobo MDL-ED's stats are greatly increased. If Corporobo MDL-ED is present when Corporobo MDL-GM is defeated, it immediately summons another Corporobo MDL-GM.
+Damage taken by foes decreases by 50% once. Afterwards, their damage taken increases by 20%. Stacks up to 4 times. Resets after 2 turns.
+Damage taken by foes increases by 50% once. Afterwards, their damage taken decreases by 50%. Stacks up to 2 times. Resets after 2 turns.
+Decrease <color=#FFFC40>Assassin</color> allies' damage by 20%.
+Decrease <color=#FFFC40>Guardian</color> allies' damage by 20%.
+Decrease <color=#FFFC40>Medic</color> allies' damage by 20%.
+Decrease <color=#FFFC40>Saboteur</color> allies' damage by 20%.
+Decrease <color=#FFFC40>Strategist</color> allies' damage by 20%.
+Decrease <color=#FFFC40>Sweeper</color> allies' damage by 20%.
+Decrease allies' damage increase from Power of Money.
+Decrease party's <color=#FFFC40>critical damage</color> by 50%.
+Decrease party's Almighty damage by 20%.
+Decrease party's Bless damage by 20%.
+Decrease party's Curse damage by 20%.
+Decrease party's Electric damage by 20%.
+Decrease party's Fire damage by 20%.
+Decrease party's Gun damage by 20%.
+Decrease party's Ice damage by 20%.
+Decrease party's Nuclear damage by 20%.
+Decrease party's Physical damage by 20%.
+Decrease party's Psychokinesis damage by 20%.
+Decrease party's Wind damage by 20%.
+Decreases allies' Fire, Ice, Electric, and Wind damage by 40%.
+Decreases allies' Fire, Ice, Electric, and Wind damage by 80%.
+Decreases allies' Psy, Nuclear, Bless, and Curse damage by 40%.
+Decreases allies' Psy, Nuclear, Bless, and Curse damage by 80%.
+Dominion continuously summons waves of Angels. You can restore SP when you defeat an Angel.\nWhen you deal damage to a summoned Angel, your score increases.
+Dominion will summon continuous waves of Angels. When an Angel is defeated, SP is restored.\nWhen Dominion is weakened, damage dealt to Angels is added to your score.
+Dvesha's Eye can place Watchful Eye on 2 foes at the same time.
+Dvesha's Nose can attack even without twitching.
+Each time Windswept is inflicted, damage increases by 15%. Stacks up to 8 times.
+Elucidator allies' cooldown time is increased by 2 actions.
+Elucidator allies' cooldown time is increased by 6 actions.
+End the battle within 40 turns without any allies defeated.
+End the battle within 60 turns without any allies defeated.
+End the battle within 80 turns without any allies defeated.
+Fire/Ice/Electric/Wind attribute allies' final damage is increased by 30%. Allies with other attributes have their final damage decreased by 30%.
+Foes are susceptible to <color=#FFFC40>spiritual ailments</color>. When an ally inflicts a <color=#FFFC40>spiritual ailment</color>, their ailment accuracy will be greatly increased. Foes with <color=#FFFC40>spiritual ailments</color> take an increased 60% final damage.
+Foes have increased resistance to spiritual ailments. However, foes affected by a <color=#FFFC40>spiritual ailment</color> take 60% increased final damage.
+Foes inflicted with Burn take 20% increased damage.
+Foes inflicted with Freeze take 20% increased damage.
+Foes inflicted with Shock take 20% increased damage.
+Foes inflicted with Windswept take 20% increased damage.
+Foes inflicted with elemental ailments take 20% increased damage.
+For each <color=#FFFC40>debuff</color> inflicted on foes, their damage taken increases by 3%. Maximum of 45%.
+For each <color=#FFFC40>debuff</color> inflicted on foes, their damage taken increases by 6%. Maximum of 30%.
+For each <color=#FFFC40>elemental ailment</color> inflicted on foes, damage taken increases by 10%. Maximum of 40%.
+Guards' HP is greatly increased.
+Horn of Death decreases skill healing by an additional 30%, and Pale Rider's Attack increases by 10%.
+Horn of Death decreases skill healing by an additional 50%, and Pale Rider's Attack increases by 25%.
+Horn of Death decreases skill healing by an additional 80%, and Pale Rider's Attack increases by 40%.
+Horn of Death increases damage by an additional 15%, and Pale Rider's max HP increases by 20%.
+Horn of Death increases damage by an additional 25%, and Pale Rider's max HP increases by 50%.
+Horn of Death increases damage by an additional 40%, and Pale Rider's max HP increases by 80%.
+Horn of Famine increases foes' SP cost by an additional 20%, and Black Rider's Attack increases by 10%.
+Horn of Famine increases foes' SP cost by an additional 30%, and Black Rider's Attack increases by 25%.
+Horn of Famine increases foes' SP cost by an additional 50%, and Black Rider's Attack increases by 40%.
+Horn of Famine now targets 2 random foes, and Black Rider's max HP increases by 20%.
+Horn of Famine now targets 3 random foes, and Black Rider's max HP increases by 50%.
+Horn of Famine now targets all foes, and Black Rider's max HP increases by 80%.
+Horn of Pestilence now targets 2 random foes, and White Rider's max HP increases by 20%.
+Horn of Pestilence now targets 3 random foes, and White Rider's max HP increases by 50%.
+Horn of Pestilence now targets all foes, and White Rider's max HP increases by 80%.
+If the party contains Guardians or Medics, decrease all foes' final damage by 60% and increase final damage taken by 20%. If not, increase all foes' final damage by 60%.
+Increase <color=#FFFC40>Assassin</color> allies' damage by 20%.
+Increase <color=#FFFC40>Guardian</color> allies' damage by 20%.
+Increase <color=#FFFC40>Medic</color> allies' damage by 20%.
+Increase <color=#FFFC40>Saboteur</color> allies' damage by 20%.
+Increase <color=#FFFC40>Strategist</color> allies' damage by 20%.
+Increase <color=#FFFC40>Sweeper</color> allies' damage by 20%.
+Increase Elucidator allies' <color=#FFFC40>stat buff</color> effects by 25%.
+Increase Elucidator allies' stat buff effects by 30% and increase weakness damage by 20%.
+Increase Elucidator allies' stat buff effects by 30%. When an ally deals a weakness attack, give user Tremor Amplification.\nTremor Amplification: Increase final damage by 40%. Lasts for 2 turns.
+Increase all allies' <color=#FFFC40>Resonance</color> critical damage by 25%, and Attack by 25%.
+Increase damage of allies with Blessings by 25%.
+Increase party's <color=#FF423F>Highlight</color> damage by 50%.
+Increase party's <color=#FF423F>Resonance</color> damage by 50%.
+Increase party's <color=#FFFC40>Resonance</color> damage dealt by 50%.
+Increase party's <color=#FFFC40>critical damage</color> by 50%.
+Increase party's Almighty damage by 20%.
+Increase party's Bless damage by 20%.
+Increase party's Bless damage by 50%.
+Increase party's Curse damage by 20%.
+Increase party's Curse damage by 50%.
+Increase party's Electric damage by 20%.
+Increase party's Electric damage by 50%.
+Increase party's Electric/Bless damage by 20%.
+Increase party's Fire damage by 20%.
+Increase party's Fire damage by 50%.
+Increase party's Fire/Psy damage by 20%.
+Increase party's Gun damage by 20%.
+Increase party's Ice damage by 20%.
+Increase party's Ice damage by 50%.
+Increase party's Ice/Nuclear damage by 20%.
+Increase party's Nuclear damage by 20%.
+Increase party's Nuclear damage by 50%.
+Increase party's Physical damage by 20%.
+Increase party's Physical/Gun damage by 20%.
+Increase party's Psychokinesis damage by 20%.
+Increase party's Psychokinesis damage by 50%.
+Increase party's Wind damage by 20%.
+Increase party's Wind damage by 50%.
+Increase party's Wind/Curse damage by 20%.
+Increase party's ranged attack damage by 10%.
+Increase the effect of Moha's Growth, and gain Growth every turn.
+Jikokuten's Attack increases by 10%. Targets with a shield granted by Sword that Defends the Nation have 15% increased Attack.
+Jikokuten's Attack increases by 25%. Targets with a shield granted by Sword that Defends the Nation have 25% increased Attack.
+Jikokuten's Attack increases by 40%. Targets with a shield granted by Sword that Defends the Nation have 50% increased Attack.
+Jikokuten's Sword that Defends the Nation grants a 100% increased shield. Jikokuten's max HP is increased by 80%.
+Jikokuten's Sword that Defends the Nation grants a 25% increased shield. Jikokuten's max HP is increased by 20%.
+Jikokuten's Sword that Defends the Nation grants a 55% increased shield. Jikokuten's max HP is increased by 50%.
+Koumokuten's Eye of Heaven now marks 2 targets. Koumokuten's max HP increases by 80%.
+Other allies deal 80% less final damage.
+Overtime Order selects 1 additional ally.
+Painting Effect Active
+Party's <color=#FFFC40>Highlight</color> damage is increased by 50%.
+Party's damage is greatly increased, and damage taken is greatly decreased.
+Performance Evaluation selects 1 additional ally.
+Physical/Gun/Almighty attribute allies' final damage is increased by 30%. Allies with other attributes have their final damage decreased by 30%.
+Psychokinesis/Nuclear/Bless/Curse attribute allies' final damage is increased by 30%. Allies with other attributes have their final damage decreased by 30%.
+Statue Effect Active
+Targets marked by Koumokuten's Eye of Heaven take 10% increased damage. Koumokuten's Attack is increased by 10%.
+Targets marked by Koumokuten's Eye of Heaven take 25% increased damage. Koumokuten's Attack is increased by 25%.
+Targets marked by Koumokuten's Eye of Heaven take 50% increased damage. Koumokuten's Attack is increased by 40%.
+The HP reduction effect of Horn of Pestilence increases by 15%, and White Rider's Attack increases by 10%.
+The HP reduction effect of Horn of Pestilence increases by 20%, and White Rider's Attack increases by 25%.
+The HP reduction effect of Horn of Pestilence increases by 30%, and White Rider's Attack increases by 40%.
+The Highlight gauge refills 35% slower.
+The Highlight gauge refills 60% slower.
+The Highlight gauge will be filled 20% slower, but Highlights deal 200% increased final damage.
+The Wraith of Envy can Lock On to 1 more target, and its max HP is increased by 80%.
+The Wraith of Envy gains 3 Down Points, and its max HP increases by 20%.
+The Wraith of Envy gains 4 Down Points, and its max HP increases by 50%.
+The Wraith of Envy gains 5 Down Points, and its max HP increases by 80%.
+The Wraith of Envy will continuously summon minions to fight.
+The Wraith of Envy's Berserk state gets stronger. Each turn, damage increases by 15%, and max HP increases by 30%.
+The Wraith of Envy's Berserk state gets stronger. Each turn, damage increases by 20%, and max HP increases by 65%.
+The Wraith of Envy's Berserk state gets stronger. Each turn, damage increases by 30%, and max HP increases by 120%.
+The boss will change its affinities. Party's <color=#FFFC40>weakness damage</color> increases by 50%.
+The damage of Moha's Sphinx Dive is greatly increased.
+The damage of the Wraith of Envy's Dark Whisper is increased by 15% and its Attack is increased by 10%.
+The damage of the Wraith of Envy's Dark Whisper is increased by 35% and its Attack is increased by 25%.
+The damage of the Wraith of Envy's Dark Whisper is increased by 60% and its Attack is increased by 40%.
+The duration of Horn of War is increased by 1 turn, and Red Rider's max HP is increased by 80%.
+The effect of Incentivization on guards is increased.
+The lower all foes' current HP, the more their final damage is increased. When HP is below 20%, the maximum damage increase is 40%.
+The required Wrath for Moha to use Rapid Ascent is reduced to 8.
+When Avidya activates Selfless Devotion, 2 allies are selected at the same time, and their self-destruct damage is greatly increased.
+When Avidya uses Work Order, summon 2 additional Corporobo MDL-AM and Corporobo MDL-DM.
+When Cheerleaders are present, all of Shadow Kiuchi's affinities change to Resist.
+When Dvesha's Eye is defeated, the other parts will be strengthened.
+When Dvesha's Nose is present, all of Dvesha's Mouth's affinities change from Resist to Null.
+When Moha uses Wing Blast, 1 additional foe will be Marked, increasing their damage taken by 25%.
+When a Demon Sword Clone is attacked, Shadow Miyazawa's Attack buffs become permanent.
+When a Strategist uses a buff skill, all allies gain Yang Energy. When a Saboteur uses a debuff skill, all allies gain Yin Energy.
+When a foe is defeated, party's damage increases by 25%. Maximum of 50%.
+When a skill is used or Resonance is activated, gain 1 Seal of Power stack. After all ally actions, increase final damage by 15% for each Seal of Power stack, and then lose 1 stack. Stacks up to 3 times.
+When all allies are affected by <color=#FFFC40>spiritual ailments</color>, ailment accuracy is greatly increased.
+When all of Dvesha's parts are revived, its healing effect is increased.
+When allies activate <color=#FFFC40>Resonance</color>, increase their final damage by 100%.
+When allies activate a Highlight, all allies obtain 1 Mark of Augmentation.\nMark of Augmentation: Increases Attack by 30%. Lasts for 2 turns. Stacks up to 3 times.
+When allies deal weakness damage, they gain 4 Charge Field stacks. When allies gain a shield, they gain 1 Charge Field stack.\nCharge Field: Final damage is increased by 5%. Lasts for 1 turn. Stacks up to 8 times.
+When allies gain a <color=#FFFC40>shield</color>, their final damage is increased by 8%. Lasts for 3 turns. Stacks up to 8 times.
+When allies gain a shield, they also gain Charge Field. Allies can also gain Charge Field when they deal weakness damage.\nCharge Field: Final damage is increased by 5%. Lasts for 2 turns. Stacks up to 8 times.
+When allies get an <color=#FFFC40>extra action</color>, final damage is increased by 120%.
+When allies inflict <color=#FFFC40>continuous damage</color> effects, final damage is increased by 200%.
+When allies receive <color=#FFFC40>healing from a Resonance</color>, increase thier final damage by 30%. Lasts for 2 turns. Stacks up to 2 times.
+When an ally deals damage with a skill, they gain 1 Attribute Seal. When the total number of Attribute Seals reaches 7, spend all Attribute Seals and activate Starfall.\nStarfall: Deals 7 hits of Almighty damage to random foes. Repeated hits on the same foe deal less damage.
+When an ally spends HP to use a skill, they obtain 4 stacks of Blood's Grace. When allies activate a Highlight, all allies get 2 stacks of Blood's Grace. Lose 1 stack of Blood's Grace at the end of each turn.
+When an ally spends HP to use a skill, they obtain a stack of Bloodbath Blessing.\nBloodbath Blessing: Final damage increases by 40%.
+When any ally receives <color=#FFFC40>healing from a Resonance</color>, increase their final damage by 8%. Lasts for 2 turns. Stacks up to 2 times.
+When any ally receives <color=#FFFC40>healing</color>, their final damage increases by 8%. Lasts for 2 turns. Stacks up to 4 times.
+When any ally receives <color=#FFFC40>healing</color>, their final damage taken decreases by 12%. Lasts for 3 turns. Stacks up to 4 times.
+When any ally runs out of ammo, fully reload after 1 turn.
+When any ally runs out of ammo, fully reload after 2 turns.
+When brainwashed, damage dealt becomes normal attack damage.
+When dealing damage with Resonance, healing allies with Resonance, or when health is used to activate a skill, all allies gain 1 stack of Mental Link.\nMental Link: Attack increases by 10% for each stack. Lasts for 2 turns. Stacks up to 8 times.
+When dealing damage with Resonance, obtain Wild Fury.\nWild Fury: Final damage increases by 20%. Lasts for 2 turns. Stacks up to 2 times.
+When dealing damage with a Resonance, inflict Magnetic Interference on the target.\nMagnetic Interference: Increase damage taken by 40% for 2 turns. Stacks up to 1 time.
+When entering the screen, restore 15% HP.
+When exiting the screen, Attack is permanently increased by 15%.
+When its guards are present, all of Irshya's affinities change from Resist to Null.
+When party makes ranged attacks, increase Gun damage by 10%.
+When party makes ranged attacks, increase Gun damage by an additional 10%.
+When preparing, the number of foes targeted by Lock On increases to 2.
+When the Wraith of Envy is Weakened, its damage taken is increased by 40% instead of 100%. Its max HP is increased by 80%.
+When the Wraith of Envy is Weakened, its damage taken is increased by 60% instead of 100%. Its max HP is increased by 50%.
+When the Wraith of Envy is Weakened, its damage taken is increased by 80% instead of 100%. Its max HP is increased by 20%.
+When the Wraith of Envy locks on to a target, its Attack increases by 10%, and the target's damage taken increases by 10%.
+When the Wraith of Envy locks on to a target, its Attack increases by 20%, and the target's damage taken increases by 25%.
+When the Wraith of Envy locks on to a target, its Attack increases by 30%, and the target's damage taken increases by 40%.
+When the Wraith of Envy's Eye is destroyed, it will be revived in 2 turns instead of 3. The Eye's max HP is increased by 40%.
+When the Wraith of Envy's Eye is destroyed, it will be revived in 2 turns instead of 3. The Eye's max HP is increased by 50%.
+Whenever allies take damage, that ally's damage increases by 1%. Lasts for 3 turns. Stacks up to 80 times.
+Whenever allies take damage, that ally's damage increases by 4%. Lasts for 3 turns. Stacks up to 10 times.
+While Horn of War is active, all allies will counterattack. Red Rider's counterattack damage is increased by 50%, and its Attack is increased by 40%.
+While Horn of War is active, counterattack damage is increased by 50%, and Red Rider's Attack is increased by 25%.
+Zouchouten's Growth of all Things increases damage by an additional 100%, and Zouchouten's Attack is increased by 40%.
+Zouchouten's Growth of all Things increases damage by an additional 25%, and Zouchouten's Attack is increased by 10%.
+Zouchouten's Growth of all Things increases damage by an additional 55%, and Zouchouten's Attack is increased by 25%.
+Zouchouten's Growth of all Things reduces damage taken by an additional 12.5%, and Zouchouten's max HP is increased by 50%.
+Zouchouten's Growth of all Things reduces damage taken by an additional 20%, and Zouchouten's max HP is increased by 100%.
+Zouchouten's Growth of all Things reduces damage taken by an additional 5%, and Zouchouten's max HP is increased by 20%.
+
+=== name ===
+Aim!
+Algorithm Booster-F1
+Bughack-I0
+Charging-O1
+Chip Overclock-O1
+Data Encryption-I4
+Data Recovery-P1
+Electrojammer-R0
+Electromagnetic Pulse-F3
+Elemental Combat-E2
+Elemental Combat-T0
+Energy Circuit Amp-F2
+Fire at Will!
+Firewall Booster-X3
+Firewall Buster-N3
+Flooding Device
+Light 'em up!
+Load!
+Make Ready!
+Memory Expansion-L9
+Node Breaker
+Overload
+Painting Effect
+Shieldbreak-N1
+Special Effect
+Statue Effect
+Support Enhancer-N9
+Synchro-attack
+Trojan Hack-S8
+Trojan Horse
+Trojan Replicator-E9
+Volt Regulator-T1
+Voltage Amp-E2
+Vulnerability Cracking
+
+=== sn ===
+1
+10
+1001
+1002
+1003
+1004
+1005
+1006
+1007
+1008
+1009
+101
+1010
+1011
+1012
+1013
+1014
+1015
+1016
+1017
+102
+103
+104
+105
+106
+107
+108
+109
+11
+110
+111
+112
+113
+114
+115
+116
+117
+118
+12
+13
+131
+132
+133
+134
+135
+136
+137
+138
+139
+14
+140
+15
+16
+17
+18
+2
+2001
+2002
+2003
+2004
+2005
+2006
+2007
+2008
+2009
+201
+2010
+2011
+2012
+2013
+2014
+2015
+202
+203
+204
+205
+21
+2101
+2102
+22
+23
+24
+25
+2501
+2502
+2503
+2601
+2602
+3
+3001
+301
+302
+3021
+3022
+3023
+303
+304
+3043
+3044
+3045
+3046
+3047
+3048
+3049
+305
+3050
+3051
+3052
+306
+307
+308
+309
+31
+310
+311
+312
+313
+314
+315
+316
+317
+318
+319
+32
+320
+321
+322
+323
+324
+325
+326
+327
+328
+329
+33
+330
+331
+332
+333
+334
+335
+336
+337
+338
+339
+34
+340
+341
+342
+343
+344
+345
+346
+347
+348
+349
+35
+350
+351
+352
+353
+354
+355
+356
+357
+358
+359
+36
+360
+361
+362
+363
+364
+365
+366
+367
+368
+369
+37
+370
+371
+372
+373
+374
+375
+376
+377
+378
+379
+38
+380
+381
+382
+383
+384
+385
+386
+387
+388
+389
+39
+390
+391
+392
+393
+394
+395
+396
+397
+398
+399
+4
+40
+400
+4001
+4003
+4004
+4005
+4006
+4007
+401
+402
+403
+404
+405
+406
+407
+408
+409
+41
+410
+411
+412
+413
+414
+415
+416
+417
+418
+419
+42
+420
+421
+422
+423
+424
+425
+426
+427
+428
+429
+43
+430
+431
+432
+433
+434
+435
+436
+437
+438
+439
+44
+440
+441
+442
+443
+444
+445
+446
+447
+448
+449
+45
+450
+4501
+4502
+451
+4511
+4512
+4513
+452
+4521
+4522
+4523
+4524
+453
+4531
+4532
+4533
+454
+4541
+4542
+455
+4551
+4552
+4553
+4554
+456
+457
+458
+459
+46
+460
+461
+462
+47
+48
+5
+5001
+5002
+5003
+501
+502
+503
+504
+505
+506
+507
+508
+509
+510
+511
+512
+513
+514
+515
+516
+517
+518
+519
+520
+521
+522
+523
+524
+525
+526
+527
+528
+529
+530
+6
+6001
+6002
+6003
+6004
+6005
+6006
+6011
+6012
+6013
+6014
+6015
+6016
+6017
+6018
+6021
+6022
+6023
+6024
+6025
+6026
+6027
+6028
+6029
+6030
+6031
+6032
+7
+7001
+7002
+7003
+7004
+7005
+7006
+7011
+7012
+7013
+7014
+7015
+7021
+7022
+7023
+7030
+7031
+7032
+7033
+7034
+7035
+7041
+7042
+7043
+7044
+7045
+7051
+7052
+7053
+7054
+7055
+7061
+7062
+7063
+7064
+7065
+7071
+7072
+7073
+7074
+7075
+8
+8001
+8002
+8003
+8004
+8005
+8006
+8007
+8008
+8009
+8010
+8011
+8012
+8013
+8014
+8015
+8016
+8017
+8018
+8019
+8020
+8021
+8022
+8023
+8024
+8025
+8026
+8027
+8028
+8029
+8030
+8031
+8032
+8101
+8102
+8103
+8104
+8105
+8106
+8107
+8108
+8109
+8110
+8111
+8112
+8113
+8114
+8115
+8116
+8117
+8118
+8119
+8120
+8201
+8202
+8203
+8204
+8205
+8206
+8207
+8208
+8209
+8210
+8211
+8212
+8213
+8214
+8215
+8216
+8217
+8218
+8219
+8301
+8302
+8303
+8304
+8305
+8306
+8307
+8308
+8309
+8310
+8311
+8312
+8313
+8314
+8315
+8316
+8317
+8318
+8319
+8320
+8321
+8322
+8323
+9
