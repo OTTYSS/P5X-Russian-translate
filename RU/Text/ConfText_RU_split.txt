@@ -114,9 +114,9 @@
 7 days ago=7 дней назад
 : Phantom Thief Test cannot be charged on PC=: Тест Фантомного Вора нельзя пополнить на ПК
 : Phantom Thief Test cannot be directly charged on iOS=: Тест Фантомного Вора нельзя пополнить напрямую на iOS
-\u2022 Ranged attack damage and accuracy increases with your level.\n\u2022 Ranged attacks also have their own critical rate, which is affected by your critical rate.=\u2022 Урон и точность дальних атак увеличиваются с уровнем.\n\u2022 Дальние атаки имеют свой шанс крита, зависящий от вашего шанса.
-\u2022 SP recovery is the amount of SP a Phantom Thief recovers each turn.\n\u2022 Pierce rate measures the amount of a foe's Defense is ignored when dealing damage.\n\u2022 Ailment accuracy is the rate of inflicting a debuff on a foe.\n\u2022 Ailment resistance is the rate of receiving debuffs.=\u2022 Восстановление SP - количество SP, восстанавливаемое Фантомным Вором каждый ход.\n\u2022 Пробивание показывает, какая часть защиты врага игнорируется при атаке.\n\u2022 Точность эффектов - шанс наложения дебаффа на врага.\n\u2022 Сопротивление эффектам - шанс получения дебаффов.
-\u2022 Speed determines the turn order in battle.\n\u2022 A skill's accuracy changes based on the difference from the target's speed.=\u2022 Скорость определяет порядок ходов в бою.\n\u2022 Точность навыков меняется в зависимости от разницы скоростей с целью.
+• Ranged attack damage and accuracy increases with your level.\n• Ranged attacks also have their own critical rate, which is affected by your critical rate.=• Урон и точность дальних атак увеличиваются с уровнем.\n• Дальние атаки имеют свой шанс крита, зависящий от вашего шанса.
+• SP recovery is the amount of SP a Phantom Thief recovers each turn.\n• Pierce rate measures the amount of a foe's Defense is ignored when dealing damage.\n• Ailment accuracy is the rate of inflicting a debuff on a foe.\n• Ailment resistance is the rate of receiving debuffs.=• Восстановление SP - количество SP, восстанавливаемое Фантомным Вором каждый ход.\n• Пробивание показывает, какая часть защиты врага игнорируется при атаке.\n• Точность эффектов - шанс наложения дебаффа на врага.\n• Сопротивление эффектам - шанс получения дебаффов.
+• Speed determines the turn order in battle.\n• A skill's accuracy changes based on the difference from the target's speed.=• Скорость определяет порядок ходов в бою.\n• Точность навыков меняется в зависимости от разницы скоростей с целью.
 ★=★
 ★★=★★
 ★★★=★★★
@@ -444,7 +444,7 @@ Companio Rank=Ранг Companio
 Companio Rank:=Ранг Companio:
 Companio Ranking Rewards=Награды рейтинга Companio
 Complete=Завершить
-r:"^Complete daily Pass goals to get rewards. Times left: \u3000$"="<size\=20>Выполняйте ежедневные цели для получения наград. Осталось: \u3000</size>"
+r:"^Complete daily Pass goals to get rewards. Times left: 　$"="<size\=20>Выполняйте ежедневные цели для получения наград. Осталось: 　</size>"
 Complete high level challenges to update your highest abnormality level badge.=Выполняйте сложные испытания, чтобы обновить значок максимального уровня аномалии.
 Complete Tasks to earn more canned cat food.=Выполняйте задания, чтобы получить больше консервов для кошек.
 Complete the Challenge Goal=Выполните цель испытания
@@ -1737,7 +1737,7 @@ Team A=Команда А
 Team B=Команда Б  
 Teammates have not yet been selected=Союзники ещё не выбраны
 Teddy Bear Pajamas=Пижама с мишками
-Tell ya what, sweet pea\u2014I'll toss in a li'l somethin' extra,\nno matter which you buy!=Знаешь что, милашка — я подкину тебе кое-что extra,\nне важно что выберешь!
+Tell ya what, sweet pea—I'll toss in a li'l somethin' extra,\nno matter which you buy!=Знаешь что, милашка — я подкину тебе кое-что extra,\nне важно что выберешь!
 Temporary Energy Storage=Временное хранилище энергии
 Terminal Station=Конечная станция
 Terms of Service=Условия обслуживания
