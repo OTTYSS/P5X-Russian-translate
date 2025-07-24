@@ -97,7 +97,7 @@
   {
     "sn": "119",
     "title": "<color=#72C5FF>Ice Crystal</color>",
-    "desc": "[Count] When spending a certain number of stacks, activate Blade Dancer."
+    "desc": "[Count] When a certain amount is spent, activates Blade Dancer."
   },
   {
     "sn": "120",
@@ -117,7 +117,7 @@
   {
     "sn": "123",
     "title": "<color=#72C5FF>Inspiration</color>",
-    "desc": "[Status] After taking damage from enemy skills, random chance to counter and deal Ice damage."
+    "desc": "[Status] After taking damage from enemy skills, random chance to counterattack and deal Ice damage."
   },
   {
     "sn": "124",
@@ -242,7 +242,7 @@
   {
     "sn": "148",
     "title": "<color=#72C5FF>Fury</color>",
-    "desc": "Deva King Charm set effect. For each 1% increase in party's Attack, increase Defense by 1%."
+    "desc": "Fierce Charm set effect. For each 1% increase in party's Attack, increase Defense by 1%."
   },
   {
     "sn": "149",
@@ -287,7 +287,7 @@
   {
     "sn": "156",
     "title": "<color=#72C5FF>Confused</color>",
-    "desc": "[Spiritual Ailment] Unable to act and throws away Konpaku Gems."
+    "desc": "[Spiritual Ailment] Unable to act and throw away Konpaku Gems."
   },
   {
     "sn": "157",
@@ -307,17 +307,17 @@
   {
     "sn": "160",
     "title": "<color=#72C5FF>Verse of Hate</color>",
-    "desc": "[Count] When activating Sonnet of Fate, spend for chance to inflict Curse on foe."
+    "desc": "[Count] When spent to activate Sonnet of Fate, chance to inflict Curse on foe."
   },
   {
     "sn": "161",
     "title": "<color=#72C5FF>Verse of Healing</color>",
-    "desc": "[Count] When activating Sonnet of Fate, spend to restore HP of ally with the lowest remaining HP."
+    "desc": "[Count] When spent to activate Sonnet of Fate, restore HP of ally with the lowest remaining HP."
   },
   {
     "sn": "162",
     "title": "<color=#72C5FF>Verse of Passion</color>",
-    "desc": "[Count] When activating Sonnet of Fate, spend to deal follow-up Almighty damage to the foe."
+    "desc": "[Count] When spent to activate Sonnet of Fate, deal bonus Almighty damage to foe."
   },
   {
     "sn": "163",
@@ -337,7 +337,7 @@
   {
     "sn": "167",
     "title": "<color=#72C5FF>Agony</color>",
-    "desc": "Special effect of the Purge Charm set. Deal 1% of max HP per stack as damage to foes. Lasts for 2 turns."
+    "desc": "Special effect of the Cruel Charm set. Deal 1% of max HP per stack as damage to foes. Lasts for 2 turns."
   },
   {
     "sn": "168",
@@ -357,7 +357,7 @@
   {
     "sn": "171",
     "title": "<color=#72C5FF>Magnetic Interference</color>",
-    "desc": "Damage taken up 20%. Lasts for 2 turns. Stacks up to 2 times."
+    "desc": "Increase damage taken by 40% for 2 turns. Stacks up to 1 time."
   },
   {
     "sn": "172",
@@ -402,7 +402,7 @@
   {
     "sn": "1008",
     "title": "<color=#72C5FF>Prayer Magatama</color>",
-    "desc": "You can use a Prayer Magatama to restore party to max HP.\n<color=#FF423F>You currently have %s</color>.\n<color=#FFD145>Use them from the Party Area on the home screen.</color>"
+    "desc": "You can use a Prayer Magatama to restore all allies to max HP.\n<color=#FF423F>You currently have %s</color>.\n<color=#FFD145>Use them from the Party Area on the home screen.</color>"
   },
   {
     "sn": "1009",
@@ -412,22 +412,22 @@
   {
     "sn": "1010",
     "title": "<color=#72C5FF>Station Shop</color>",
-    "desc": "Indicates Showcase of Fortune and Exchange of Fate stations."
+    "desc": "Indicates Marthym's Shop and Marthym's Trading Post stations."
   },
   {
     "sn": "1011",
-    "title": "<color=#72C5FF>Safe Platform</color>",
-    "desc": "Indicates Delusional Shadow and Mysterious Shadow stations."
+    "title": "<color=#72C5FF>Safe Station</color>",
+    "desc": "Indicates Lost Shadow: Blessing and Lost Shadow: Encounter stations."
   },
   {
     "sn": "1012",
     "title": "<color=#72C5FF>Special Ability</color>",
-    "desc": "Included stats: Attack, Defense, max HP, critical hit rate, and critical damage"
+    "desc": "Included stats: Attack, Defense, max HP, critical rate, and critical damage"
   },
   {
     "sn": "1013",
     "title": "<color=#72C5FF>Charm Strengthening</color>",
-    "desc": "Randomly selects a Charm that can be strengthened. The charm will be spent even if the strengthening fails."
+    "desc": "Randomly selects a Charm that can be strengthened. Will be spent even if the strengthening fails."
   },
   {
     "sn": "1014",
@@ -442,7 +442,7 @@
   {
     "sn": "174",
     "title": "<color=#72C5FF>Creation</color>",
-    "desc": "[Status] Change counterattacks to 100% chance and deal 2 consecutive hits with pierce effect."
+    "desc": "[Status] 100% chance to counterattack. Change to multi-target, increase damage, and deal 2 consecutive hits with pierce effect."
   },
   {
     "sn": "175",
@@ -457,22 +457,22 @@
   {
     "sn": "177",
     "title": "<color=#72C5FF>Tenacity</color>",
-    "desc": "[Count] Increases Attack and Defense on self."
+    "desc": "[Count] Increase Makoto's Attack by 6% and Defense by 2%."
   },
   {
     "sn": "178",
     "title": "<color=#72C5FF>Crash Out</color>",
-    "desc": "[Effect] Increase own Attack and Defense, and Nuclear Fury becomes Thermonuclear Fury."
+    "desc": "[Effect] Increase Makoto's Attack by 40% and Defense by 20% for 2 turns, and Nuclear Fury becomes Thermonuclear Fury."
   },
   {
     "sn": "179",
     "title": "<color=#72C5FF>Radiation</color>",
-    "desc": "[Elemental Ailment] Increase Nuclear damage by 15% for 2 turns."
+    "desc": "[Elemental Ailment] Increase damage taken by 15 for 2 turns."
   },
   {
     "sn": "180",
     "title": "<color=#72C5FF>Cocktail</color>",
-    "desc": "[Count] Phoebe gains Mixers. There are 3 levels of quality: Tailor-Made, Standard, and Basic. When using skills, spend a Cocktail to increase various effects."
+    "desc": "[Count] Created when Phoebe gains Mixers. There are 3 levels of quality: Tailor-Made, Standard, and Basic. When using skills, spend a Cocktail to increase various effects."
   },
   {
     "sn": "181",
@@ -502,7 +502,7 @@
   {
     "sn": "186",
     "title": "<color=#72C5FF>Attribute Seals</color>",
-    "desc": "When an ally deals damage with a skill, Resonance, or Highlight, grant user 1 corresponding Attribute Seal."
+    "desc": "[Status] When an ally deals damage with a skill, Resonance, or Highlight, they gain 1 Attribute Seal."
   },
   {
     "sn": "187",
@@ -512,7 +512,7 @@
   {
     "sn": "188",
     "title": "<color=#72C5FF>Insight</color>",
-    "desc": "[Effect] Increase foes' damage taken. When foes take weakness damage, Wind gains Intel."
+    "desc": "[Effect] Increase damage taken by 6%. When the target takes damage, Riko gains 2 Intel stacks. When the target takes weakness damage or normal attacks, decrease Down Points by 1 and gain 1 more Intel stack."
   },
   {
     "sn": "189",
@@ -522,7 +522,7 @@
   {
     "sn": "190",
     "title": "<color=#72C5FF>Costar</color>",
-    "desc": "[Effect] Increase allies' Attack when granted."
+    "desc": "[Effect] Increase Attack based on Ayaka's Attack for 3 turns."
   },
   {
     "sn": "191",
@@ -531,18 +531,18 @@
   },
   {
     "sn": "192",
-    "title": "tdxct-[SkillTips_title_192]",
-    "desc": "tdxct-[SkillTips_desc_192]"
+    "title": "<color=#72C5FF>Summer Hype</color>",
+    "desc": "[Status] Increase user's critical hit rate, damage, and skill effects for 1 turn."
   },
   {
     "sn": "193",
-    "title": "tdxct-[SkillTips_title_193]",
-    "desc": "tdxct-[SkillTips_desc_193]"
+    "title": "<color=#72C5FF>Afterglow</color>",
+    "desc": "[Count] After an ally acts, if foes have 3 Sparks stacks, activate Summer Tomoko's Resonance."
   },
   {
     "sn": "194",
-    "title": "tdxct-[SkillTips_title_194]",
-    "desc": "tdxct-[SkillTips_desc_194]"
+    "title": "<color=#72C5FF>Summer Reminiscence</color>",
+    "desc": "[Resonance] After an ally acts, activate if foes have reached 3 Sparks stacks total: Deal Psy damage to all foes for every 3 Sparks stacks spent in total from all foes and decrease the target's damage for 1 turn. Restore all allies' HP."
   },
   {
     "sn": "195",
@@ -602,7 +602,7 @@
   {
     "sn": "206",
     "title": "<color=#72C5FF>Sparkling Stage</color>",
-    "desc": "[Count] When an ally uses a Highlight, gain 1 Blazing Starfire. When Blazing Starfire reaches 4 stacks, spend all Blazing Starfire and activate Sparkling Stage.\nSparkling Stage: Randomly grant 10 buffs to allies. The following buffs may each be applied to 1 random ally.\nIncrease Attack by 15%.\nIncrease Defense by 22.5%.\nIncrease max HP by 15%.\nIncrease damage by 12%.\nIncrease ailment accuracy by 18%.\nIncrease pierce by 6%.\nIncrease critical rate by 9%.\nIncrease critical damage by 18%.\nIncrease pierce resistance by 7.5%.\nIncrease weakness damage by 6%."
+    "desc": "[Count] When an ally uses a Highlight, gain 1 Blazing Starfire. When Blazing Starfire reaches 4 stacks, spend all Blazing Starfire and activate Sparkling Stage.\nSparkling Stage: Randomly grant 10 buffs to allies. The following buffs may each be applied to 1 random ally.\nIncrease Attack by 15%.\nIncrease Defense by 22.5%.\nIncrease max HP by 15%.\nIncrease damage by 12%.\nIncrease ailment accuracy by 18%.\nIncrease pierce rate by 6%.\nIncrease critical rate by 9%.\nIncrease critical damage by 18%.\nIncrease pierce resistance by 7.5%.\nIncrease weakness damage by 6%."
   },
   {
     "sn": "207",

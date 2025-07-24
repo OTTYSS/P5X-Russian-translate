@@ -27,7 +27,7 @@
   {
     "sn": "6",
     "buffName": "Elemental Invasion",
-    "buffDesc": "After all ally actions, all foes are inflicted with an elemental ailment, and their taken damage increases by 10%."
+    "buffDesc": "After all allies have acted, all foes are inflicted with an elemental ailment, and their taken damage increases by 10%."
   },
   {
     "sn": "7",
@@ -62,7 +62,7 @@
   {
     "sn": "13",
     "buffName": "Sonic Detection",
-    "buffDesc": "Increase Elucidator allies' stat buff effects by 30%. When an ally deals weakness damage, they obtain Tremor Amplification.Tremor Amplification: Increase final damage by 40%. Lasts for 2 turns."
+    "buffDesc": "Increase Elucidator's stat buff effects by 30%. When an ally deals weakness damage, they gain Tremor Amplification.Tremor Amplification: Increase final damage by 40% for 2 turns."
   },
   {
     "sn": "14",
@@ -82,6 +82,6 @@
   {
     "sn": "17",
     "buffName": "Transfinite Collapse",
-    "buffDesc": "After dealing damage with skills or Resonance, gain 1 stack of Impact. Impact: Deal 5% final damage for each stack. Lasts for 2 turns. Stacks up to 8 times."
+    "buffDesc": "After dealing damage with skills or Resonance, gain 1 Impact stack. Impact: Deal 5% final damage for each stack. Lasts for 2 turns. Stacks up to 8 times."
   }
 ]

@@ -38,7 +38,7 @@
   {
     "sn": "1321",
     "testThiefInfo1": "<color=#FFFC40>味方単体を強化</color>することが得意。味方に高い攻撃力とダメージ上昇を付与できる。",
-    "testThiefInfo2": "味方の<color=#FFFC40>ハイライト</color>を直接発動することができ、さらにハイライトの与ダメージが大幅に上昇する。",
+    "testThiefInfo2": "味方の<color=#FFFC40>ハイライト</color>を即座に発動させることができ、さらにハイライトの与ダメージが大幅に上昇する。",
     "testThiefInfo3": "<color=#FFFC40>ハイライトゲージを回復</color>し、ハイライトの発動を早めることができる。"
   },
   {
@@ -49,14 +49,14 @@
   },
   {
     "sn": "1032",
-    "testThiefInfo1": "tdxct-[ActivityTestThief_testThiefInfo1_1032]<color=#FFFC40>全体攻撃</color>が得意。『<color=#FFFC40>盛夏</color>』状態になると<color=#FFFC40>ダメージ上昇</color>と<color=#FFFC40>クリティカル率上昇</color>を獲得し、スキルを強化できる。",
-    "testThiefInfo2": "<color=#FFFC40>回復</color>効果を受けると、スキルの<color=#FFFC40>クールタイム</color>を短縮し、自身の発揮する能力が大幅に向上する。",
-    "testThiefInfo3": "ＨＰを上昇し、攻撃力も上昇できる。生存能力を高めながら、自身の攻撃力も強化できる。"
+    "testThiefInfo1": "<color=#FFFC40>全体攻撃</color>が得意。『<color=#FFFC40>真夏のテンション</color>』状態になると<color=#FFFC40>ダメージ上昇</color>と<color=#FFFC40>クリティカル率上昇</color>を獲得し、スキルを強化できる。",
+    "testThiefInfo2": "<color=#FFFC40>回復</color>を受けると、スキルの<color=#FFFC40>クールタイム</color>が短縮され、自身の発揮する能力が大幅に向上する。",
+    "testThiefInfo3": "ＨＰの上昇と同時に攻撃力も上昇できる。生存能力を高めながら、自身の攻撃力も強化できる。"
   },
   {
     "sn": "1102",
-    "testThiefInfo1": "tdxct-[ActivityTestThief_testThiefInfo1_1102]味方の回復と攻撃が得意。『<color=#FFFC40>スパーク</color>』を一定数累積すると『<color=#FFFC40>華麗な花火</color>』を発動し、敵にダメージを与えつつ味方を回復する。<color=#FFFC40>全体攻撃</color>や<color=#FFFC40>多段攻撃</color>を行える味方と組み合わせることで、『<color=#FFFC40>スパーク</color>』の獲得を早めることができる。",
-    "testThiefInfo2": "味方の<color=#FFFC40>攻撃能力</color>と<color=#FFFC40>生存能力</color>を向上できる。敵の与ダメージを低下し、被ダメージを上昇して弱体化させる<color=#FFFC40>優れたサポート能力</color>を持つ。",
+    "testThiefInfo1": "味方の回復と攻撃が得意。『<color=#FFFC40>残光</color>』を一定数、累積すると『<color=#FFFC40>ひと夏の思い出</color>』を発動し、敵にダメージを与えつつ味方を回復する。<color=#FFFC40>全体攻撃</color>や<color=#FFFC40>多段攻撃</color>を行える味方と組み合わせることで、『<color=#FFFC40>残光</color>』の獲得を早めることができる。",
+    "testThiefInfo2": "味方の<color=#FFFC40>攻撃力</color>と<color=#FFFC40>生存能力</color>を向上できる。敵の与ダメージを低下し、被ダメージを上昇して弱体化させる<color=#FFFC40>優れたサポート能力</color>を持つ。",
     "testThiefInfo3": "AAAAAA=="
   },
   {
@@ -67,9 +67,9 @@
   },
   {
     "sn": "1291",
-    "testThiefInfo1": "tdxct-[ActivityTestThief_testThiefInfo1_1291]<color=#FFFC40>物理属性</color>の<color=#FFFC40>単体攻撃</color>が得意。戦闘中に２つの攻撃形態を切り替えて、異なるスキルを発動できる。",
-    "testThiefInfo2": "tdxct-[ActivityTestThief_testThiefInfo2_1291]『<color=#FFFC40>シーカー</color>』状態では、スキルで敵に『<color=#FFFC40>出血</color>』を付与し、継続的なダメージを与えることができ、高いＨＰを持つ敵に対して大ダメージを与えることができる。",
-    "testThiefInfo3": "tdxct-[ActivityTestThief_testThiefInfo3_1291]『<color=#FFFC40>処刑人</color>』状態では、北里は敵に付与している『<color=#FFFC40>流血</color>』の累積数に応じて、追加の物理属性ダメージを与えることができる。"
+    "testThiefInfo1": "<color=#FFFC40>物理属性</color>の<color=#FFFC40>単体攻撃</color>が得意。戦闘中に２つの状態を切り替えて、異なる性質のスキルを使い分ける。",
+    "testThiefInfo2": "『<color=#FFFC40>ドクター</color>』状態では、敵に『<color=#FFFC40>出血</color>』を付与することができる。『出血』は継続的に一定のダメージを与えるので、高いＨＰを持つ敵に対して効率的なダメージを与えることができる。",
+    "testThiefInfo3": "『<color=#FFFC40>バスター</color>』状態では、敵に付与されている『<color=#FFFC40>出血</color>』の累積数に応じて、追加の物理属性ダメージを与えることができる。"
   },
   {
     "sn": "1171",

@@ -5,7 +5,8 @@
     "whiteColor": "#fcfac4",
     "blackColor": "#514708",
     "buffEffect": "buff_xuanyun.prefab",
-    "secondIcon": "zhandou-buff-02-xunyun.png"
+    "secondIcon": "zhandou-buff-02-xunyun.png",
+    "BindPoint": "t_TaskTag"
   },
   {
     "sn": 35,
@@ -13,7 +14,8 @@
     "whiteColor": "#de9dff",
     "blackColor": "#4a113b",
     "buffEffect": "buff_shuimian.prefab",
-    "secondIcon": "zhandou-buff-02-shuimian.png"
+    "secondIcon": "zhandou-buff-02-shuimian.png",
+    "BindPoint": "t_TaskTag"
   },
   {
     "sn": 36,
@@ -21,7 +23,8 @@
     "whiteColor": "#c8f989",
     "blackColor": "#3c6154",
     "buffEffect": "buff_hunluan.prefab",
-    "secondIcon": "zhandou-buff-02-hunluan.png"
+    "secondIcon": "zhandou-buff-02-hunluan.png",
+    "BindPoint": "t_TaskTag"
   },
   {
     "sn": 37,
@@ -29,7 +32,8 @@
     "whiteColor": "#f9cef0",
     "blackColor": "#6b1c7c",
     "buffEffect": "buff_kongju.prefab",
-    "secondIcon": "zhandou-buff-02-kongbu.png"
+    "secondIcon": "zhandou-buff-02-kongbu.png",
+    "BindPoint": "t_TaskTag"
   },
   {
     "sn": 38,
@@ -37,7 +41,8 @@
     "whiteColor": "#80e9f5",
     "blackColor": "#262d27",
     "buffEffect": "buff_yiwang.prefab",
-    "secondIcon": "zhandou-buff-02-yiwang.png"
+    "secondIcon": "zhandou-buff-02-yiwang.png",
+    "BindPoint": "t_TaskTag"
   },
   {
     "sn": 39,
@@ -45,7 +50,8 @@
     "whiteColor": "#fcfae6",
     "blackColor": "#bb1009",
     "buffEffect": "buff_kuangnu.prefab",
-    "secondIcon": "zhandou-buff-02-jinu.png"
+    "secondIcon": "zhandou-buff-02-jinu.png",
+    "BindPoint": "t_TaskTag"
   },
   {
     "sn": 40,
@@ -53,7 +59,8 @@
     "whiteColor": "#ba93c9",
     "blackColor": "#221323",
     "buffEffect": "buff_juewang.prefab",
-    "secondIcon": "zhandou-buff-02-juewang.png"
+    "secondIcon": "zhandou-buff-02-juewang.png",
+    "BindPoint": "t_TaskTag"
   },
   {
     "sn": 41,
@@ -61,7 +68,8 @@
     "whiteColor": "#ff32f3",
     "blackColor": "#63365e",
     "buffEffect": "buff_xinao.prefab",
-    "secondIcon": "zhandou-buff-02-xinao.png"
+    "secondIcon": "zhandou-buff-02-xinao.png",
+    "BindPoint": "t_TaskTag"
   },
   {
     "sn": 42,
@@ -69,7 +77,8 @@
     "whiteColor": "#ee6464",
     "blackColor": "#2f1313",
     "buffEffect": "buff_jinu.prefab",
-    "secondIcon": "zhandou-buff-02-chaofeng.png"
+    "secondIcon": "zhandou-buff-02-chaofeng.png",
+    "BindPoint": "t_TaskTag"
   },
   {
     "sn": 92,
@@ -77,15 +86,8 @@
     "whiteColor": "#fcfac4",
     "blackColor": "#bb1009",
     "buffEffect": "buff_locked.prefab",
-    "secondIcon": "zhandou-buff-02-suoding.png"
-  },
-  {
-    "sn": 103,
-    "icon": "AAAAAA==",
-    "whiteColor": "AAAAAA==",
-    "blackColor": "AAAAAA==",
-    "buffEffect": "skill_defense_banmu.prefab",
-    "secondIcon": "zhandou-buff-03-1-fangyu.png"
+    "secondIcon": "zhandou-buff-02-suoding.png",
+    "BindPoint": "t_TaskTag"
   },
   {
     "sn": 159,
@@ -93,6 +95,7 @@
     "whiteColor": "AAAAAA==",
     "blackColor": "AAAAAA==",
     "buffEffect": "m_shedim_Fire.prefab",
-    "secondIcon": "zhandou-buff-03-1-shanghaijiacheng.png"
+    "secondIcon": "zhandou-buff-03-1-shanghaijiacheng.png",
+    "BindPoint": "t_TaskTag"
   }
 ]

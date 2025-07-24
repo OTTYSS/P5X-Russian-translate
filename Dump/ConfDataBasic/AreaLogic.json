@@ -90474,6 +90474,23 @@
     "IsAreaLogicClose": 0
   },
   {
+    "sn": 420311010,
+    "areaSn": 42031101,
+    "triggerReset": 0,
+    "triggerCnt": "0,0",
+    "triggerActIn": 2,
+    "triggerParamIn": "Cam_louti01",
+    "triggerActLeave": 2,
+    "triggerParamLeave": "ziyou",
+    "canTeleportTriggerLeave": 0,
+    "jumpLink": "AAAAAA==",
+    "jumpAngle": 0,
+    "forceRotateAngle": 0,
+    "appearType": 0,
+    "appearParam": "AAAAAA==",
+    "IsAreaLogicClose": 0
+  },
+  {
     "sn": 420410010,
     "areaSn": 42041001,
     "triggerReset": 0,
@@ -93373,7 +93390,7 @@
     "triggerActLeave": 0,
     "triggerParamLeave": "AAAAAA==",
     "canTeleportTriggerLeave": 0,
-    "jumpLink": "420810060|1",
+    "jumpLink": "1000|1",
     "jumpAngle": 0,
     "forceRotateAngle": 0,
     "appearType": 0,

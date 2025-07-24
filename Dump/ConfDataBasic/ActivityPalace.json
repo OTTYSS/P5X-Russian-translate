@@ -23,7 +23,8 @@
     "defeatParam": "0,0,0",
     "victoryText": "成功抵达目标地点",
     "tryoutTeam": 211,
-    "monsterShow": "911011,911012"
+    "monsterShow": "911011,911012",
+    "frontPlotSn": 0
   },
   {
     "sn": 10002,
@@ -49,7 +50,8 @@
     "defeatParam": "AAAAAA==",
     "victoryText": "成功抵达目标地点",
     "tryoutTeam": 212,
-    "monsterShow": "911511,911512"
+    "monsterShow": "911511,911512",
+    "frontPlotSn": 0
   },
   {
     "sn": 10003,
@@ -75,7 +77,8 @@
     "defeatParam": "AAAAAA==",
     "victoryText": "成功抵达目标地点",
     "tryoutTeam": 213,
-    "monsterShow": "911522,911532,911541,911552"
+    "monsterShow": "911522,911532,911541,911552",
+    "frontPlotSn": 0
   },
   {
     "sn": 10004,
@@ -101,7 +104,8 @@
     "defeatParam": "AAAAAA==",
     "victoryText": "成功抵达目标地点",
     "tryoutTeam": 214,
-    "monsterShow": "911562,911572,911582,911593"
+    "monsterShow": "911562,911572,911582,911593",
+    "frontPlotSn": 0
   },
   {
     "sn": 10005,
@@ -127,7 +131,8 @@
     "defeatParam": "AAAAAA==",
     "victoryText": "成功抵达目标地点",
     "tryoutTeam": 215,
-    "monsterShow": "911604,911603,911602,911601"
+    "monsterShow": "911604,911603,911602,911601",
+    "frontPlotSn": 0
   },
   {
     "sn": 10006,
@@ -153,7 +158,8 @@
     "defeatParam": "AAAAAA==",
     "victoryText": "成功抵达目标地点",
     "tryoutTeam": 216,
-    "monsterShow": "911613,911623,911631,911643,911641,911654,911662"
+    "monsterShow": "911613,911623,911631,911643,911641,911654,911662",
+    "frontPlotSn": 0
   },
   {
     "sn": 10007,
@@ -179,7 +185,8 @@
     "defeatParam": "AAAAAA==",
     "victoryText": "成功抵达目标地点",
     "tryoutTeam": 217,
-    "monsterShow": "911702,911701,911713,911722,911732,911744"
+    "monsterShow": "911702,911701,911713,911722,911732,911744",
+    "frontPlotSn": 0
   },
   {
     "sn": 10008,
@@ -205,7 +212,8 @@
     "defeatParam": "AAAAAA==",
     "victoryText": "成功抵达目标地点",
     "tryoutTeam": 218,
-    "monsterShow": "911763,911762,911772,"
+    "monsterShow": "911763,911762,911772,",
+    "frontPlotSn": 0
   },
   {
     "sn": 10009,
@@ -231,7 +239,8 @@
     "defeatParam": "0,0,0",
     "victoryText": "成功抵达目标地点",
     "tryoutTeam": 219,
-    "monsterShow": "911081"
+    "monsterShow": "911081",
+    "frontPlotSn": 0
   },
   {
     "sn": 10010,
@@ -257,7 +266,8 @@
     "defeatParam": "AAAAAA==",
     "victoryText": "成功抵达目标地点",
     "tryoutTeam": 220,
-    "monsterShow": "911783,911782,911792,911802"
+    "monsterShow": "911783,911782,911792,911802",
+    "frontPlotSn": 0
   },
   {
     "sn": 10011,
@@ -283,7 +293,8 @@
     "defeatParam": "AAAAAA==",
     "victoryText": "获得棒球",
     "tryoutTeam": 0,
-    "monsterShow": "911822,911834,911843"
+    "monsterShow": "911822,911834,911843",
+    "frontPlotSn": 0
   },
   {
     "sn": 10012,
@@ -309,7 +320,8 @@
     "defeatParam": "0",
     "victoryText": "成功抵达目标地点",
     "tryoutTeam": 222,
-    "monsterShow": "911852,911872,911883,911894,911881"
+    "monsterShow": "911852,911872,911883,911894,911881",
+    "frontPlotSn": 0
   },
   {
     "sn": 10013,
@@ -335,7 +347,8 @@
     "defeatParam": "AAAAAA==",
     "victoryText": "获得棒球",
     "tryoutTeam": 0,
-    "monsterShow": "911902,911901,911911,911922"
+    "monsterShow": "911902,911901,911911,911922",
+    "frontPlotSn": 0
   },
   {
     "sn": 10014,
@@ -361,7 +374,8 @@
     "defeatParam": "AAAAAA==",
     "victoryText": "成功抵达目标地点",
     "tryoutTeam": 225,
-    "monsterShow": "911501,911962,911973,911981,911972"
+    "monsterShow": "911501,911962,911973,911981,911972",
+    "frontPlotSn": 0
   },
   {
     "sn": 20001,
@@ -373,9 +387,9 @@
     "desc": "异界导航似乎又一次发生了异常。这次是被带到了像美术馆一样的地方……在这里，还能再次见到『他们』吗？",
     "frontPalaceSn": "AAAAAA==",
     "type": 1,
-    "sceneSn": "42011,42012",
+    "sceneSn": "42010,42011,42012",
     "storySn": "AAAAAA==",
-    "questSn": 20461,
+    "questSn": 20460,
     "teleportPointSn": "AAAAAA==",
     "firstAwardSn": 436601,
     "explorationGroup": 117,
@@ -383,11 +397,12 @@
     "uiType": 2,
     "victoryType": "1",
     "victoryParam": "20466",
-    "defeatType": "1,4,5",
-    "defeatParam": "0,0,0",
+    "defeatType": "AAAAAA==",
+    "defeatParam": "AAAAAA==",
     "victoryText": "成功抵达目标地点",
     "tryoutTeam": 311,
-    "monsterShow": "912011,912311,912511,912521,912531"
+    "monsterShow": "912011,912311,912511,912521,912531",
+    "frontPlotSn": 10014
   },
   {
     "sn": 20002,
@@ -413,7 +428,8 @@
     "defeatParam": "AAAAAA==",
     "victoryText": "获得美术馆的宝物",
     "tryoutTeam": 312,
-    "monsterShow": "912021,912321,912401,912541"
+    "monsterShow": "912021,912321,912401,912541",
+    "frontPlotSn": 0
   },
   {
     "sn": 20003,
@@ -439,7 +455,8 @@
     "defeatParam": "AAAAAA==",
     "victoryText": "获得美术馆的宝物",
     "tryoutTeam": 313,
-    "monsterShow": "912031,912331,912411,912601,912631"
+    "monsterShow": "912031,912331,912411,912601,912631",
+    "frontPlotSn": 0
   },
   {
     "sn": 20004,
@@ -465,7 +482,8 @@
     "defeatParam": "AAAAAA==",
     "victoryText": "获得美术馆的宝物",
     "tryoutTeam": 314,
-    "monsterShow": "912041,912161,912341,912661"
+    "monsterShow": "912041,912161,912341,912661",
+    "frontPlotSn": 0
   },
   {
     "sn": 20005,
@@ -487,11 +505,12 @@
     "uiType": 2,
     "victoryType": "1",
     "victoryParam": "20567",
-    "defeatType": "1,4,5",
-    "defeatParam": "0,0,0",
+    "defeatType": "AAAAAA==",
+    "defeatParam": "AAAAAA==",
     "victoryText": "成功抵达目标地点",
     "tryoutTeam": 315,
-    "monsterShow": "912051,912691,912701,912721"
+    "monsterShow": "912051,912691,912701,912721",
+    "frontPlotSn": 0
   },
   {
     "sn": 20006,
@@ -517,7 +536,8 @@
     "defeatParam": "AAAAAA==",
     "victoryText": "获得美术馆的宝物",
     "tryoutTeam": 316,
-    "monsterShow": "912171,912181,912351,912751"
+    "monsterShow": "912171,912181,912351,912751",
+    "frontPlotSn": 0
   },
   {
     "sn": 20007,
@@ -543,7 +563,8 @@
     "defeatParam": "AAAAAA==",
     "victoryText": "获得美术馆的宝物",
     "tryoutTeam": 317,
-    "monsterShow": "912191,912361,912761,912771,912781,912881"
+    "monsterShow": "912191,912361,912761,912771,912781,912881",
+    "frontPlotSn": 0
   },
   {
     "sn": 20008,
@@ -569,7 +590,8 @@
     "defeatParam": "AAAAAA==",
     "victoryText": "获得美术馆的宝物",
     "tryoutTeam": 318,
-    "monsterShow": "912081,912201,912811,912821,912831"
+    "monsterShow": "912081,912201,912811,912821,912831",
+    "frontPlotSn": 0
   },
   {
     "sn": 20009,
@@ -595,7 +617,8 @@
     "defeatParam": "AAAAAA==",
     "victoryText": "获得美术馆的宝物",
     "tryoutTeam": 319,
-    "monsterShow": "912091,912381,912851,912861,912871"
+    "monsterShow": "912091,912381,912851,912861,912871",
+    "frontPlotSn": 0
   },
   {
     "sn": 20010,
@@ -621,7 +644,8 @@
     "defeatParam": "0,0,0",
     "victoryText": "成功抵达目标地点",
     "tryoutTeam": 320,
-    "monsterShow": "912501,912502,912503,912504"
+    "monsterShow": "912501,912502,912503,912504",
+    "frontPlotSn": 0
   },
   {
     "sn": 20011,
@@ -647,7 +671,8 @@
     "defeatParam": "AAAAAA==",
     "victoryText": "前往银行大厅监控室",
     "tryoutTeam": 411,
-    "monsterShow": "913011,913511,913521"
+    "monsterShow": "913011,913511,913521",
+    "frontPlotSn": 20010
   },
   {
     "sn": 20012,
@@ -673,7 +698,8 @@
     "defeatParam": "AAAAAA==",
     "victoryText": "调查银行大厅接待室",
     "tryoutTeam": 412,
-    "monsterShow": "913021,913311,913531,913541,913561"
+    "monsterShow": "913021,913311,913531,913541,913561",
+    "frontPlotSn": 0
   },
   {
     "sn": 20013,
@@ -699,7 +725,8 @@
     "defeatParam": "AAAAAA==",
     "victoryText": "前往银行地下层",
     "tryoutTeam": 0,
-    "monsterShow": "913031,913571,913581,913591,913601"
+    "monsterShow": "913031,913571,913581,913591,913601",
+    "frontPlotSn": 0
   },
   {
     "sn": 20014,
@@ -725,7 +752,8 @@
     "defeatParam": "99",
     "victoryText": "调查员工通道东侧",
     "tryoutTeam": 414,
-    "monsterShow": "913041,913211,913621,913631"
+    "monsterShow": "913041,913211,913621,913631",
+    "frontPlotSn": 0
   },
   {
     "sn": 20015,
@@ -751,7 +779,8 @@
     "defeatParam": "99",
     "victoryText": "前往员工通道监控室",
     "tryoutTeam": 415,
-    "monsterShow": "913051,913221,913331,913641"
+    "monsterShow": "913051,913221,913331,913641",
+    "frontPlotSn": 0
   },
   {
     "sn": 20016,
@@ -777,7 +806,8 @@
     "defeatParam": "99",
     "victoryText": "前往洗钱办公室最下层",
     "tryoutTeam": 416,
-    "monsterShow": "913061,913231,913671,913681,913701"
+    "monsterShow": "913061,913231,913671,913681,913701",
+    "frontPlotSn": 0
   },
   {
     "sn": 20017,
@@ -803,7 +833,8 @@
     "defeatParam": "99",
     "victoryText": "调查地下大金库第一层",
     "tryoutTeam": 417,
-    "monsterShow": "913071,913241,913721"
+    "monsterShow": "913071,913241,913721",
+    "frontPlotSn": 0
   },
   {
     "sn": 20018,
@@ -829,7 +860,8 @@
     "defeatParam": "99",
     "victoryText": "调查地下大金库第二层",
     "tryoutTeam": 0,
-    "monsterShow": "913081,913251,913741,913751,913761"
+    "monsterShow": "913081,913251,913741,913751,913761",
+    "frontPlotSn": 0
   },
   {
     "sn": 20019,
@@ -855,7 +887,8 @@
     "defeatParam": "99",
     "victoryText": "调查地下大金库第三层",
     "tryoutTeam": 419,
-    "monsterShow": "913091,913771,913781,913791,913801,913811,913821,913831"
+    "monsterShow": "913091,913771,913781,913791,913801,913811,913821,913831",
+    "frontPlotSn": 0
   },
   {
     "sn": 20020,
@@ -881,7 +914,8 @@
     "defeatParam": "0,0,0",
     "victoryText": "获得银行的宝物",
     "tryoutTeam": 420,
-    "monsterShow": "913501"
+    "monsterShow": "913501",
+    "frontPlotSn": 0
   },
   {
     "sn": 30001,
@@ -907,7 +941,8 @@
     "defeatParam": "0,0,0",
     "victoryText": "寻找求救声音的来源",
     "tryoutTeam": 501,
-    "monsterShow": "914011,914511,914514"
+    "monsterShow": "914011,914511,914514",
+    "frontPlotSn": 20020
   },
   {
     "sn": 30002,
@@ -933,7 +968,8 @@
     "defeatParam": "AAAAAA==",
     "victoryText": "调查金字塔地下区域",
     "tryoutTeam": 512,
-    "monsterShow": "914021,914022,914521,914531"
+    "monsterShow": "914021,914022,914521,914531",
+    "frontPlotSn": 0
   },
   {
     "sn": 30003,
@@ -959,7 +995,8 @@
     "defeatParam": "AAAAAA==",
     "victoryText": "成功抵达目标地点",
     "tryoutTeam": 513,
-    "monsterShow": "914031,914551,914553,914561,914562,914571,914572"
+    "monsterShow": "914031,914551,914553,914561,914562,914571,914572",
+    "frontPlotSn": 0
   },
   {
     "sn": 30004,
@@ -985,7 +1022,8 @@
     "defeatParam": "AAAAAA==",
     "victoryText": "调查拒绝之间",
     "tryoutTeam": 514,
-    "monsterShow": "914211,914213,914311,914312,914591,914593"
+    "monsterShow": "914211,914213,914311,914312,914591,914593",
+    "frontPlotSn": 0
   },
   {
     "sn": 30005,
@@ -1011,7 +1049,8 @@
     "defeatParam": "0,0,0",
     "victoryText": "成功抵达目标地点",
     "tryoutTeam": 515,
-    "monsterShow": "914041,914042,914221,914223"
+    "monsterShow": "914041,914042,914221,914223",
+    "frontPlotSn": 0
   },
   {
     "sn": 30006,
@@ -1037,7 +1076,8 @@
     "defeatParam": "AAAAAA==",
     "victoryText": "调查自责之间",
     "tryoutTeam": 516,
-    "monsterShow": "914051,914052,914321,914323"
+    "monsterShow": "914051,914052,914321,914323",
+    "frontPlotSn": 0
   },
   {
     "sn": 30007,
@@ -1063,7 +1103,8 @@
     "defeatParam": "AAAAAA==",
     "victoryText": "调查庇护之间",
     "tryoutTeam": 517,
-    "monsterShow": "914061,914062,914601,914611,914612,914621,914622"
+    "monsterShow": "914061,914062,914601,914611,914612,914621,914622",
+    "frontPlotSn": 0
   },
   {
     "sn": 30008,
@@ -1089,7 +1130,8 @@
     "defeatParam": "AAAAAA==",
     "victoryText": "成功抵达目标地点",
     "tryoutTeam": 518,
-    "monsterShow": "914071,914072,914331,914333,914651"
+    "monsterShow": "914071,914072,914331,914333,914651",
+    "frontPlotSn": 0
   },
   {
     "sn": 30009,
@@ -1115,7 +1157,8 @@
     "defeatParam": "AAAAAA==",
     "victoryText": "调查虚无之间",
     "tryoutTeam": 519,
-    "monsterShow": "914231,914232,914241,914242,914661,914671"
+    "monsterShow": "914231,914232,914241,914242,914661,914671",
+    "frontPlotSn": 0
   },
   {
     "sn": 30010,
@@ -1141,7 +1184,8 @@
     "defeatParam": "0,0,0",
     "victoryText": "获取金字塔的宝物",
     "tryoutTeam": 520,
-    "monsterShow": "914501"
+    "monsterShow": "914501",
+    "frontPlotSn": 0
   },
   {
     "sn": 40001,
@@ -1167,7 +1211,8 @@
     "defeatParam": "AAAAAA==",
     "victoryText": "成功抵达目标地点",
     "tryoutTeam": 611,
-    "monsterShow": "915011,915514,915522,915534,915532"
+    "monsterShow": "915011,915514,915522,915534,915532",
+    "frontPlotSn": 30010
   },
   {
     "sn": 40002,
@@ -1193,7 +1238,8 @@
     "defeatParam": "AAAAAA==",
     "victoryText": "成功抵达目标地点",
     "tryoutTeam": 612,
-    "monsterShow": "915023,915022,915212,915313,915541"
+    "monsterShow": "915023,915022,915212,915313,915541",
+    "frontPlotSn": 0
   },
   {
     "sn": 40003,
@@ -1219,7 +1265,8 @@
     "defeatParam": "AAAAAA==",
     "victoryText": "成功抵达目标地点",
     "tryoutTeam": 613,
-    "monsterShow": "915033,915032,915552,915562,915572,915571"
+    "monsterShow": "915033,915032,915552,915562,915572,915571",
+    "frontPlotSn": 0
   },
   {
     "sn": 40004,
@@ -1245,7 +1292,8 @@
     "defeatParam": "AAAAAA==",
     "victoryText": "成功抵达目标地点",
     "tryoutTeam": 614,
-    "monsterShow": "915044,915221,915584,915582,915593,915592,915603"
+    "monsterShow": "915044,915221,915584,915582,915593,915592,915603",
+    "frontPlotSn": 0
   },
   {
     "sn": 40005,
@@ -1271,7 +1319,8 @@
     "defeatParam": "AAAAAA==",
     "victoryText": "成功抵达目标地点",
     "tryoutTeam": 615,
-    "monsterShow": "915051,915232,915321,915613,915622,915323"
+    "monsterShow": "915051,915232,915321,915613,915622,915323",
+    "frontPlotSn": 0
   },
   {
     "sn": 40006,
@@ -1297,7 +1346,8 @@
     "defeatParam": "AAAAAA==",
     "victoryText": "成功抵达目标地点",
     "tryoutTeam": 616,
-    "monsterShow": "915065,915663,915662,915673,915683,915682"
+    "monsterShow": "915065,915663,915662,915673,915683,915682",
+    "frontPlotSn": 0
   },
   {
     "sn": 40007,
@@ -1323,7 +1373,8 @@
     "defeatParam": "AAAAAA==",
     "victoryText": "成功抵达目标地点",
     "tryoutTeam": 617,
-    "monsterShow": "915333,915332,915694,915692,915713,915712"
+    "monsterShow": "915333,915332,915694,915692,915713,915712",
+    "frontPlotSn": 0
   },
   {
     "sn": 40008,
@@ -1349,7 +1400,8 @@
     "defeatParam": "AAAAAA==",
     "victoryText": "成功抵达目标地点",
     "tryoutTeam": 618,
-    "monsterShow": "915074,915244,915242,915721,915731,915743,915763"
+    "monsterShow": "915074,915244,915242,915721,915731,915743,915763",
+    "frontPlotSn": 0
   },
   {
     "sn": 40009,
@@ -1375,7 +1427,8 @@
     "defeatParam": "AAAAAA==",
     "victoryText": "成功抵达目标地点",
     "tryoutTeam": 619,
-    "monsterShow": "915083,915082,915342,915772,915783,915781,915794"
+    "monsterShow": "915083,915082,915342,915772,915783,915781,915794",
+    "frontPlotSn": 0
   },
   {
     "sn": 40010,
@@ -1401,6 +1454,7 @@
     "defeatParam": "0,0,0",
     "victoryText": "获取宇宙基地的宝物",
     "tryoutTeam": 620,
-    "monsterShow": "915501"
+    "monsterShow": "915501",
+    "frontPlotSn": 0
   }
 ]

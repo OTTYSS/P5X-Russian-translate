@@ -1,5 +1,13 @@
 [
   {
+    "sn": "2303207",
+    "textContent": "Butler Ren Set\n<color=#FFFC40>On sale for a limited time</color> in the Shop!"
+  },
+  {
+    "sn": "2303216",
+    "textContent": "Butler Yusuke Set\n<color=#FFFC40>On sale for a limited time</color> in the Shop!"
+  },
+  {
     "sn": "1000003",
     "textContent": "%s\nAccount suspension ends in: %s"
   },
@@ -61,11 +69,11 @@
   },
   {
     "sn": "1000023",
-    "textContent": "Time Left: %s h %s min"
+    "textContent": "Time Left: %s h %s m"
   },
   {
     "sn": "1000024",
-    "textContent": "Time Left: %s min"
+    "textContent": "Time Left: %s m"
   },
   {
     "sn": "1000025",
@@ -101,11 +109,11 @@
   },
   {
     "sn": "1000033",
-    "textContent": " %s h %s min"
+    "textContent": " %s h %s m"
   },
   {
     "sn": "1000034",
-    "textContent": " %s min"
+    "textContent": " %s m"
   },
   {
     "sn": "1000037",
@@ -201,7 +209,7 @@
   },
   {
     "sn": "1000061",
-    "textContent": "AAAAAA=="
+    "textContent": "Can be charged from the official Persona 5: The Phantom X WeChat account."
   },
   {
     "sn": "1000062",
@@ -245,7 +253,7 @@
   },
   {
     "sn": "1000072",
-    "textContent": "AAAAAA=="
+    "textContent": "For more details, visit the official Persona 5: The Phantom X WeChat account."
   },
   {
     "sn": "1000073",
@@ -281,7 +289,7 @@
   },
   {
     "sn": "1000081",
-    "textContent": "Additional Present"
+    "textContent": "Bonus"
   },
   {
     "sn": "1000082",
@@ -337,7 +345,7 @@
   },
   {
     "sn": "1000095",
-    "textContent": "Item has expired."
+    "textContent": "Event-only item."
   },
   {
     "sn": "1000096",
@@ -409,7 +417,7 @@
   },
   {
     "sn": "1000114",
-    "textContent": "Get spiritual bells from request rewards and past appreciation event rewards, or when you purchase <link=\"mqm\"><u>%s</u></link>."
+    "textContent": "Get Kagura Bells from task rewards and past appreciation event rewards, or when you purchase <link=\"mqm\"><u>%s</u></link>."
   },
   {
     "sn": "1000115",
@@ -429,7 +437,7 @@
   },
   {
     "sn": "1000120",
-    "textContent": " %s h %s min"
+    "textContent": " %s h %s m"
   },
   {
     "sn": "1000121",
@@ -437,7 +445,7 @@
   },
   {
     "sn": "1000122",
-    "textContent": " %s min"
+    "textContent": " %s m"
   },
   {
     "sn": "1000124",
@@ -446,6 +454,10 @@
   {
     "sn": "1000125",
     "textContent": "Battle"
+  },
+  {
+    "sn": "1000126",
+    "textContent": "Sale ends in %s"
   },
   {
     "sn": "1011001",
@@ -478,6 +490,10 @@
   {
     "sn": "1012004",
     "textContent": "Cleared"
+  },
+  {
+    "sn": "1012006",
+    "textContent": "x%d"
   },
   {
     "sn": "1012501",
@@ -725,7 +741,7 @@
   },
   {
     "sn": "1015025",
-    "textContent": "%s reached Talent level %s (%s/%s)"
+    "textContent": "%s reached Hidden Ability level %s (%s/%s)"
   },
   {
     "sn": "1015026",
@@ -733,7 +749,7 @@
   },
   {
     "sn": "1015027",
-    "textContent": "Wonder will gain the attributes of his equipped Personas."
+    "textContent": "This character gains the attributes of their equipped Personas."
   },
   {
     "sn": "1015028",
@@ -785,7 +801,7 @@
   },
   {
     "sn": "1016011",
-    "textContent": "Clearing %s will unlock the episode."
+    "textContent": "Clear the %s %s to unlock the episode."
   },
   {
     "sn": "1016012",
@@ -805,15 +821,15 @@
   },
   {
     "sn": "1018001",
-    "textContent": " %s d"
+    "textContent": "%s d"
   },
   {
     "sn": "1018002",
-    "textContent": " %s h"
+    "textContent": "%s h"
   },
   {
     "sn": "1018003",
-    "textContent": " %s min"
+    "textContent": " %s m"
   },
   {
     "sn": "1018005",
@@ -821,7 +837,7 @@
   },
   {
     "sn": "1018006",
-    "textContent": "Expires in under 1 min."
+    "textContent": "Expires in under 1 m."
   },
   {
     "sn": "1018007",
@@ -829,7 +845,7 @@
   },
   {
     "sn": "1019000",
-    "textContent": "No profile message added."
+    "textContent": "No profile message."
   },
   {
     "sn": "1019001",
@@ -861,7 +877,7 @@
   },
   {
     "sn": "1019010",
-    "textContent": "Expires in {0} h {1} min."
+    "textContent": "Expires in {0} h {1} m."
   },
   {
     "sn": "1019501",
@@ -1065,11 +1081,11 @@
   },
   {
     "sn": "1020054",
-    "textContent": "Melee damage increases according to your level."
+    "textContent": "Melee damage increases with your level."
   },
   {
     "sn": "1020055",
-    "textContent": "• Ranged attack damage and accuracy increases with your level.\n• Ranged attacks also have their own critical rate, which is affected by your critical rate."
+    "textContent": "• Ranged attack damage and accuracy increase with your level.\n• Ranged attacks also have their own critical rate, which is affected by your critical rate."
   },
   {
     "sn": "1020056",
@@ -1269,7 +1285,7 @@
   },
   {
     "sn": "1020106",
-    "textContent": "• SP recovery is the amount of SP a Phantom Thief recovers each turn.\n• Pierce rate measures the amount of a foe's Defense is ignored when dealing damage.\n• Ailment accuracy is the rate of inflicting a debuff on a foe.\n• Ailment resistance is the rate of receiving debuffs."
+    "textContent": "• SP recovery is the amount of SP a Phantom Thief recovers each turn.\n• Pierce rate shows how much of a foe's Defense is ignored when dealing damage.\n• Ailment accuracy is the rate of inflicting a debuff on a foe.\n• Ailment resistance is the rate of receiving debuffs."
   },
   {
     "sn": "1020107",
@@ -1353,7 +1369,7 @@
   },
   {
     "sn": "1020219",
-    "textContent": " min"
+    "textContent": " m"
   },
   {
     "sn": "1020220",
@@ -1417,7 +1433,7 @@
   },
   {
     "sn": "1021002",
-    "textContent": "<color=#8F8D8D>Online %s min ago</color>"
+    "textContent": "<color=#8F8D8D>Online %s m ago</color>"
   },
   {
     "sn": "1021003",
@@ -1489,7 +1505,7 @@
   },
   {
     "sn": "1022005",
-    "textContent": "Time Left: %s d %s h %s min"
+    "textContent": "Time Left: %s d %s h %s m"
   },
   {
     "sn": "1022006",
@@ -1509,11 +1525,11 @@
   },
   {
     "sn": "1022011",
-    "textContent": "Time Left: %s h %s min"
+    "textContent": "Time Left: %s h %s m"
   },
   {
     "sn": "1022012",
-    "textContent": "Time Left: %s min"
+    "textContent": "Time Left: %s m"
   },
   {
     "sn": "1022013",
@@ -1685,7 +1701,7 @@
   },
   {
     "sn": "1022068",
-    "textContent": "In this gacha, you can receive an extra <color=#EADE10>{0} x{1}</color> each time you draw a contract."
+    "textContent": "In these contracts, you can receive an extra <color=#EADE10>{0} x{1}</color> each time you draw a contract."
   },
   {
     "sn": "1022069",
@@ -1881,7 +1897,7 @@
   },
   {
     "sn": "1026008",
-    "textContent": "Clearing %s will unlock the episode."
+    "textContent": "Clear the %s %s to unlock the episode."
   },
   {
     "sn": "1026009",
@@ -1909,7 +1925,7 @@
   },
   {
     "sn": "1026055",
-    "textContent": "Challenge will begin after completion of %s in the main story."
+    "textContent": "Available after clearing %s in the main story."
   },
   {
     "sn": "1027000",
@@ -2221,7 +2237,7 @@
   },
   {
     "sn": "1028046",
-    "textContent": "<color=#8F8D8D>Online %s min ago</color>"
+    "textContent": "<color=#8F8D8D>Online %s m ago</color>"
   },
   {
     "sn": "1028047",
@@ -2233,7 +2249,7 @@
   },
   {
     "sn": "1028049",
-    "textContent": "Participation:"
+    "textContent": "Participants:"
   },
   {
     "sn": "1028050",
@@ -2337,7 +2353,7 @@
   },
   {
     "sn": "1030055",
-    "textContent": "No info"
+    "textContent": "No info available"
   },
   {
     "sn": "1030056",
@@ -2469,7 +2485,7 @@
   },
   {
     "sn": "1033008",
-    "textContent": "Basic Synergy +%s\nBonus +%s for preferred gifts\nBonus +%s</color> for first-time preferred gifts"
+    "textContent": "Base Synergy +%s\nBonus +%s for preferred gifts\nBonus +%s for first-time preferred gifts"
   },
   {
     "sn": "1033009",
@@ -2485,11 +2501,11 @@
   },
   {
     "sn": "1033012",
-    "textContent": "Have stat %s reach level %s"
+    "textContent": "Reach %s level %s"
   },
   {
     "sn": "1033013",
-    "textContent": "Have stat %s reach level %s. Have %s reach level %s"
+    "textContent": "Reach %s level %s. Reach %s level %s"
   },
   {
     "sn": "1033014",
@@ -2497,7 +2513,7 @@
   },
   {
     "sn": "1033015",
-    "textContent": "Own a %s with the skill %s"
+    "textContent": "Own a {1} with the skill {0}"
   },
   {
     "sn": "1033016",
@@ -2541,7 +2557,7 @@
   },
   {
     "sn": "1033026",
-    "textContent": "Your gift increased your Synergy by <color=#FFDE00>{0}</color>."
+    "textContent": "Increases your Synergy by <color=#FFDE00>{0}</color>."
   },
   {
     "sn": "1033027",
@@ -2549,11 +2565,11 @@
   },
   {
     "sn": "1033028",
-    "textContent": "Well-received +%s"
+    "textContent": "Preferred +%s"
   },
   {
     "sn": "1033029",
-    "textContent": "First-time well-received +%s"
+    "textContent": "First-Time Preferred +%s"
   },
   {
     "sn": "1033030",
@@ -2565,7 +2581,7 @@
   },
   {
     "sn": "1034001",
-    "textContent": "Lv."
+    "textContent": "Lv. "
   },
   {
     "sn": "1034002",
@@ -2649,7 +2665,7 @@
   },
   {
     "sn": "1034022",
-    "textContent": "Overclock"
+    "textContent": "Perseverance"
   },
   {
     "sn": "1034023",
@@ -2677,7 +2693,7 @@
   },
   {
     "sn": "1034029",
-    "textContent": "Can enhance at Thief Lv. %d"
+    "textContent": "Can enhance more at Thief Lv. %d"
   },
   {
     "sn": "1034030",
@@ -2789,7 +2805,7 @@
   },
   {
     "sn": "1034057",
-    "textContent": "You already have this Persona, so you obtained %s x%d from the fusion."
+    "textContent": "You already have this Persona, so you obtained {1} x{0} from the fusion."
   },
   {
     "sn": "1034058",
@@ -2817,7 +2833,7 @@
   },
   {
     "sn": "1034064",
-    "textContent": "Concerto: Enhances damage for four Attributes in party."
+    "textContent": "Concerto: Enhances damage for four attributes in party."
   },
   {
     "sn": "1034065",
@@ -2925,7 +2941,7 @@
   },
   {
     "sn": "1034092",
-    "textContent": "Overclock"
+    "textContent": "Perseverance"
   },
   {
     "sn": "1034093",
@@ -3265,11 +3281,11 @@
   },
   {
     "sn": "1040004",
-    "textContent": "Weakness Score"
+    "textContent": "WEAK"
   },
   {
     "sn": "1040005",
-    "textContent": "1 More Score"
+    "textContent": "1 MORE"
   },
   {
     "sn": "1040006",
@@ -3465,7 +3481,7 @@
   },
   {
     "sn": "1042015",
-    "textContent": "Receive again in %s min"
+    "textContent": "Receive again in %s m"
   },
   {
     "sn": "1042016",
@@ -3565,7 +3581,7 @@
   },
   {
     "sn": "1043015",
-    "textContent": "Select a %s★ Weapon from the list."
+    "textContent": "Select a %s★ weapon from the list."
   },
   {
     "sn": "1043016",
@@ -3733,7 +3749,7 @@
   },
   {
     "sn": "1043088",
-    "textContent": "Unlocks in {0} h {1} min"
+    "textContent": "Unlocks in {0} h {1} m"
   },
   {
     "sn": "1043089",
@@ -3757,7 +3773,7 @@
   },
   {
     "sn": "1043069",
-    "textContent": "Unlocks in {0} min"
+    "textContent": "Unlocks in {0} m"
   },
   {
     "sn": "1043071",
@@ -3873,7 +3889,7 @@
   },
   {
     "sn": "1043097",
-    "textContent": "It's recommended to play this event once you've completed {0} in the main story. Playing it before then may affect how you experience the story."
+    "textContent": "It's recommended to play this event once you've completed {0} in the main story. Playing it before then may impact your experience of the story."
   },
   {
     "sn": "1045003",
@@ -4277,11 +4293,11 @@
   },
   {
     "sn": "1050027",
-    "textContent": "Find the exhibition hall exit"
+    "textContent": "Find the exit"
   },
   {
     "sn": "1050028",
-    "textContent": "Less than %s gimmicks activated"
+    "textContent": "Trigger less than %s switches"
   },
   {
     "sn": "1050029",
@@ -4369,7 +4385,7 @@
   },
   {
     "sn": "1050050",
-    "textContent": "If four 30-yuan Marthym's Rewards Cards were purchased during the trial period, the amount charged will be 120 yuan, and Cognition Crystals will be returned after the game's release in accordance with [Rule 1]. The player will also receive two Marthym's Rewards Cards. (Cognition Crystals received through Marthym's Rewards Card won't be counted toward returns for [Rule 1].)"
+    "textContent": "If four {1}{0} Marthym's Rewards Cards were purchased during the trial period, the amount charged will be {1}{0}, and Cognition Crystals will be returned after the game's release in accordance with [Rule 1]. The player will also receive two Marthym's Rewards Cards. (Cognition Crystals received through Marthym's Rewards Card won't be counted toward returns for [Rule 1].)"
   },
   {
     "sn": "1050051",
@@ -4393,7 +4409,7 @@
   },
   {
     "sn": "1050056",
-    "textContent": "AAAAAA=="
+    "textContent": "<sprite=0 tint=1>Only the same account that was charged from the same platform during the Phantom Thief trial can receive a refund. The amount charged for one account's <color=#EADE10>device or website will be calculated</color> and refunded in accordance with the above Charge Return Rules.\n<sprite=0 tint=1>Returns<color=#EADE10> will be distributed through the in-game Mail screen after the official release</color>. The <color=#EADE10>return messages</color> will be sent after logging in on the same platform with the account that was charged during the Phantom Thief trial period.\n<sprite=0 tint=1>Items returned after the official release<color=#EADE10>don't have an expiration dateuse</color>. The Marthym's Rewards Card can be used to receive a 300-Cognition Crystal Customer Card valid for 30 days. If a Marthym's Rewards Card has already been activated and used after release, <color=#EADE10>it will increase the validity period for 30 days</color>. The Phantom Pass can be used to unlock a rank based on the current season's Phantom Pass. If a Phantom Pass rank has already been activated, the returned Phantom Pass becomes unusable, but can be used after the next season unlocks.\n<sprite=0 tint=1>Players under the age of 18 who participated in the Phantom Thief trial period are subject to the \"Game Dependency Prevention System\" restrictions."
   },
   {
     "sn": "1050057",
@@ -4413,7 +4429,7 @@
   },
   {
     "sn": "1051001",
-    "textContent": "%s\nThat is my name."
+    "textContent": "%s.\nThat is my name."
   },
   {
     "sn": "1051002",
@@ -4453,7 +4469,7 @@
   },
   {
     "sn": "1053501",
-    "textContent": "Lv."
+    "textContent": "Lv. "
   },
   {
     "sn": "1053502",
@@ -4465,7 +4481,7 @@
   },
   {
     "sn": "1053504",
-    "textContent": "Can be obtained at Ticket Level %s"
+    "textContent": "Can be obtained at Ticket Lv. %s"
   },
   {
     "sn": "1053505",
@@ -4669,7 +4685,7 @@
   },
   {
     "sn": "1061006",
-    "textContent": "AAAAAA=="
+    "textContent": "1. This game is a 3D turn-based role-playing game, suitable for users aged 12 and above. It is recommended that minors use the game product with their parents' supervision.\n\n2. This game is a new derivative mobile game based on the world view of \"Persona 5.\" The game world is exquisitely made but should not be confused with real life.\n\n3. There is a small amount of potential interaction with strangers through text and gameplay in the game, but the management of the social system follows relevant laws and regulations. The game has a user real-name authentication system; accounts that are not authenticated cannot enter the game, and users authenticated as minors will be subject to the following management:\nUnder 8 years old (excluding) cannot recharge.\n8 to 16 years old (including 8 years old, excluding 16 years old) single recharge shall not exceed 50 yuan, and the cumulative recharge amount per month shall not exceed 200 yuan.\n16 to 18 years old (including 16 years old, excluding 18 years old) single recharge shall not exceed 100 yuan, and the cumulative recharge amount per month shall not exceed 400 yuan.\nMinor players can log in to the game from 20:00 to 21:00 on Fridays, Saturdays, Sundays (excluding working days) and statutory holidays, and cannot log in to the game at other times."
   },
   {
     "sn": "1061007",
@@ -4717,7 +4733,7 @@
   },
   {
     "sn": "1062001",
-    "textContent": "%s Preset: %s/%s"
+    "textContent": "%s Presets: %s/%s"
   },
   {
     "sn": "1062002",
@@ -4725,7 +4741,7 @@
   },
   {
     "sn": "1062003",
-    "textContent": "Casual Clothes"
+    "textContent": "Casualwear"
   },
   {
     "sn": "1062004",
@@ -4749,15 +4765,15 @@
   },
   {
     "sn": "1070001",
-    "textContent": " %s d %s h %s min"
+    "textContent": " %s d %s h %s m"
   },
   {
     "sn": "1070002",
-    "textContent": " %s h %s min %s s"
+    "textContent": " %s h %s m %s s"
   },
   {
     "sn": "1070003",
-    "textContent": " %s min %s s"
+    "textContent": " %s m %s s"
   },
   {
     "sn": "1070004",
@@ -5045,7 +5061,7 @@
   },
   {
     "sn": "1070076",
-    "textContent": "Not Attempted"
+    "textContent": "N/A"
   },
   {
     "sn": "1070079",
@@ -5137,7 +5153,7 @@
   },
   {
     "sn": "1073006",
-    "textContent": "Goal: %s"
+    "textContent": "Goal %s"
   },
   {
     "sn": "1075001",
@@ -5165,15 +5181,15 @@
   },
   {
     "sn": "1075007",
-    "textContent": " %s d %s h %s min"
+    "textContent": " %s d %s h %s m"
   },
   {
     "sn": "1075008",
-    "textContent": " %s h %s min %s s"
+    "textContent": " %s h %s m %s s"
   },
   {
     "sn": "1075009",
-    "textContent": " %s min %s s"
+    "textContent": " %s m %s s"
   },
   {
     "sn": "1075010",
@@ -5213,11 +5229,11 @@
   },
   {
     "sn": "1075019",
-    "textContent": "As your Companio's participation increases, you can earn rewards! Current: <color=#eade10>%s</color>"
+    "textContent": "Have members of your Companio participate to earn rewards! Current total: <color=#eade10>%s</color>"
   },
   {
     "sn": "1075020",
-    "textContent": "+1 when a Companio member participates for the first time"
+    "textContent": "+1 when a Companio member participates for the first time."
   },
   {
     "sn": "1075021",
@@ -5225,7 +5241,7 @@
   },
   {
     "sn": "1075022",
-    "textContent": "About Points\nCompanio Points are calculated as follows:\nChallenge Points × difficulty bonus\nIn cases where multiple difficulty levels for the same boss have been attempted, the highest score is used."
+    "textContent": "About Points\nCompanio Points are calculated as follows:\nChallenge Points x Difficulty Bonus\nIn cases where multiple difficulty levels for the same boss have been attempted, the highest score is used."
   },
   {
     "sn": "1075023",
@@ -5373,11 +5389,11 @@
   },
   {
     "sn": "1075059",
-    "textContent": "After joining a Companion, you can claim participation rewards."
+    "textContent": "After joining a Companio, you can claim participation rewards."
   },
   {
     "sn": "1075060",
-    "textContent": "Ranking Rewards"
+    "textContent": "Rank Rewards"
   },
   {
     "sn": "1076003",
@@ -5433,7 +5449,7 @@
   },
   {
     "sn": "1075069",
-    "textContent": "Turns Survived Bonus Points"
+    "textContent": "Turns Survived Bonus"
   },
   {
     "sn": "1075070",
@@ -5581,7 +5597,7 @@
   },
   {
     "sn": "1082005",
-    "textContent": "Coming Soon"
+    "textContent": "Don't miss it!"
   },
   {
     "sn": "1082006",
@@ -5689,7 +5705,7 @@
   },
   {
     "sn": "1083024",
-    "textContent": "Collected Lost Items: <color=#edae10>%s/%s</color>"
+    "textContent": "Collected: <color=#edae10>%s/%s</color>"
   },
   {
     "sn": "1083025",
@@ -6117,11 +6133,11 @@
   },
   {
     "sn": "1086205",
-    "textContent": "Please enter your name."
+    "textContent": "Please enter your surname."
   },
   {
     "sn": "1086206",
-    "textContent": "Please enter your surname."
+    "textContent": "Please enter your name."
   },
   {
     "sn": "1086207",
@@ -6577,7 +6593,7 @@
   },
   {
     "sn": "2001028",
-    "textContent": "Please enter your profile message."
+    "textContent": "Please type here."
   },
   {
     "sn": "2001029",
@@ -7353,7 +7369,7 @@
   },
   {
     "sn": "2001222",
-    "textContent": "Unlocked by clearing the required stage."
+    "textContent": "Clear the required stage to unlock."
   },
   {
     "sn": "2001223",
@@ -7389,7 +7405,7 @@
   },
   {
     "sn": "2001231",
-    "textContent": "Follow the official Instagram account "
+    "textContent": "Friend the official LINE account "
   },
   {
     "sn": "2001232",
@@ -7625,7 +7641,7 @@
   },
   {
     "sn": "2001290",
-    "textContent": "AAAAAA=="
+    "textContent": "In accordance with the \"Notice on the Management of Online Game Addiction among Minors\" issued by the State Press Publishing House, minors can only log into the game between 8 pm and 9 pm on Fridays, Saturdays, Sundays, and public holidays.\n\nThank you for your understanding."
   },
   {
     "sn": "2001291",
@@ -7725,7 +7741,7 @@
   },
   {
     "sn": "2001315",
-    "textContent": "Overclock"
+    "textContent": "Perseverance"
   },
   {
     "sn": "2001316",
@@ -7865,7 +7881,7 @@
   },
   {
     "sn": "2001350",
-    "textContent": "Return to previous term"
+    "textContent": "Last Season Summary"
   },
   {
     "sn": "2001351",
@@ -7961,7 +7977,7 @@
   },
   {
     "sn": "2001374",
-    "textContent": "Yellow flag\u3000\u3000score will be calculated after completion."
+    "textContent": "Scores with\u3000\u3000yellow flags are calculated at completion."
   },
   {
     "sn": "2001375",
@@ -8517,7 +8533,7 @@
   },
   {
     "sn": "2001520",
-    "textContent": "Effect Quality"
+    "textContent": "Effects Quality"
   },
   {
     "sn": "2001521",
@@ -8845,7 +8861,7 @@
   },
   {
     "sn": "2001602",
-    "textContent": "Unlocks after Conditions Are Met"
+    "textContent": "Unlocks after conditions are met."
   },
   {
     "sn": "2001603",
@@ -9081,7 +9097,7 @@
   },
   {
     "sn": "2001661",
-    "textContent": "Autojoin Level"
+    "textContent": "Autojoin Lv."
   },
   {
     "sn": "2001662",
@@ -9145,7 +9161,7 @@
   },
   {
     "sn": "2001677",
-    "textContent": "Ranking Rewards"
+    "textContent": "Class Rewards"
   },
   {
     "sn": "2001678",
@@ -9157,7 +9173,7 @@
   },
   {
     "sn": "2001680",
-    "textContent": "Activity Level +1 the first time a Companio member takes on a trial."
+    "textContent": "+1 when a Companio member participates for the first time"
   },
   {
     "sn": "2001681",
@@ -9229,7 +9245,7 @@
   },
   {
     "sn": "2001698",
-    "textContent": "Autojoin Level"
+    "textContent": "Autojoin Lv."
   },
   {
     "sn": "2001699",
@@ -9413,7 +9429,7 @@
   },
   {
     "sn": "2001744",
-    "textContent": "Introduction to Forging"
+    "textContent": "Forging Effects"
   },
   {
     "sn": "2001745",
@@ -9605,7 +9621,7 @@
   },
   {
     "sn": "2001817",
-    "textContent": "Claim"
+    "textContent": "Cancel"
   },
   {
     "sn": "2001818",
@@ -9737,7 +9753,7 @@
   },
   {
     "sn": "2001883",
-    "textContent": "<color=#FF423F>Wonder's Attribute</color> changes based on his equipped Persona."
+    "textContent": "<color=#FF423F>Wonder's attribute</color> changes based on his equipped Personas."
   },
   {
     "sn": "2001884",
@@ -9937,7 +9953,7 @@
   },
   {
     "sn": "2001933",
-    "textContent": "Time(s)"
+    "textContent": "Actions"
   },
   {
     "sn": "2001934",
@@ -9949,7 +9965,7 @@
   },
   {
     "sn": "2001936",
-    "textContent": "Boss Battles"
+    "textContent": "Challenge"
   },
   {
     "sn": "2001937",
@@ -9985,7 +10001,7 @@
   },
   {
     "sn": "2001945",
-    "textContent": "Follow the official YouTube account "
+    "textContent": "Subscribe to the official YouTube account "
   },
   {
     "sn": "2001946",
@@ -10013,7 +10029,7 @@
   },
   {
     "sn": "2001952",
-    "textContent": "<color=#ffffff> </color>Cognition Crystals"
+    "textContent": " Cognition Crystals"
   },
   {
     "sn": "2001953",
@@ -10117,7 +10133,7 @@
   },
   {
     "sn": "2001978",
-    "textContent": "Gates of the Nightmare Catcher"
+    "textContent": "Nightmare Catcher"
   },
   {
     "sn": "2001979",
@@ -10145,7 +10161,7 @@
   },
   {
     "sn": "2001985",
-    "textContent": "Unlocks when Wonder reaches Level 40"
+    "textContent": "Unlocks when Wonder reaches Lv. 40"
   },
   {
     "sn": "2001986",
@@ -10153,7 +10169,7 @@
   },
   {
     "sn": "2001987",
-    "textContent": "Floor"
+    "textContent": "<color=#ffffff>  </color>"
   },
   {
     "sn": "2001988",
@@ -10173,7 +10189,7 @@
   },
   {
     "sn": "2001992",
-    "textContent": "%s can now be unlocked. Do you want to do so now? Unlocking before %s may affect how you experience the story.\n*This won't affect the story content."
+    "textContent": "%s can now be unlocked. Do you want to do so now? Unlocking before %s may impact your experience of the story.\n*This won't affect the story content."
   },
   {
     "sn": "2001993",
@@ -10393,7 +10409,7 @@
   },
   {
     "sn": "2002043",
-    "textContent": "Coming Soon"
+    "textContent": "Don't miss it!"
   },
   {
     "sn": "2002044",
@@ -10480,6 +10496,10 @@
     "textContent": "Weekly Cumulative Rewards: "
   },
   {
+    "sn": "2002065",
+    "textContent": "To: {0}"
+  },
+  {
     "sn": "2002066",
     "textContent": "Event Bonus Rewards Left: "
   },
@@ -10497,7 +10517,7 @@
   },
   {
     "sn": "2002070",
-    "textContent": "Missions reset daily at 8 PM UTC"
+    "textContent": "Tasks reset daily at 8 PM UTC"
   },
   {
     "sn": "2002072",
@@ -10513,19 +10533,19 @@
   },
   {
     "sn": "2002075",
-    "textContent": "Total Points: "
+    "textContent": "Total Score: "
   },
   {
     "sn": "2002076",
-    "textContent": "Clear Points: "
+    "textContent": "Score"
   },
   {
     "sn": "2002077",
-    "textContent": "Earn Challenge Points each time you clear."
+    "textContent": "Max Score: "
   },
   {
     "sn": "2002078",
-    "textContent": "Foe Party: "
+    "textContent": "Enemy Intel: "
   },
   {
     "sn": "2002079",
@@ -10533,11 +10553,11 @@
   },
   {
     "sn": "2002080",
-    "textContent": "Distortion Level"
+    "textContent": "Distortion"
   },
   {
     "sn": "2002081",
-    "textContent": "Unlock Level: "
+    "textContent": "Levels Unlocked: "
   },
   {
     "sn": "2002141",
@@ -10549,11 +10569,11 @@
   },
   {
     "sn": "2002083",
-    "textContent": "AAAAAA=="
+    "textContent": "<color=#ffffff> </color> "
   },
   {
     "sn": "2002084",
-    "textContent": "AAAAAA=="
+    "textContent": " <color=#ffffff> </color>"
   },
   {
     "sn": "2102142",
@@ -10565,7 +10585,7 @@
   },
   {
     "sn": "2102144",
-    "textContent": "Coming Soon"
+    "textContent": "Don't miss it!"
   },
   {
     "sn": "2002085",
@@ -10573,11 +10593,11 @@
   },
   {
     "sn": "2002086",
-    "textContent": "Time Left: %s h %s min"
+    "textContent": "Time Left: %s h %s m"
   },
   {
     "sn": "2002087",
-    "textContent": "Time Left: %s min"
+    "textContent": "Time Left: %s m"
   },
   {
     "sn": "2002088",
@@ -10649,11 +10669,11 @@
   },
   {
     "sn": "2002108",
-    "textContent": "Complete Tasks to earn more canned cat food."
+    "textContent": "Complete Tasks to earn more Cat Food."
   },
   {
     "sn": "2002109",
-    "textContent": "Missions update daily at 8 PM UTC"
+    "textContent": "Tasks update daily at 8 PM UTC"
   },
   {
     "sn": "2002132",
@@ -10673,7 +10693,7 @@
   },
   {
     "sn": "2002114",
-    "textContent": "Challenge Goals"
+    "textContent": "Stage Goal"
   },
   {
     "sn": "2002115",
@@ -10717,7 +10737,7 @@
   },
   {
     "sn": "2002124",
-    "textContent": "Exclusive Costume & Avatar Frame & Player Card"
+    "textContent": "Exclusive Outfit, Avatar Frame & Player Card"
   },
   {
     "sn": "2002125",
@@ -10729,15 +10749,15 @@
   },
   {
     "sn": "2002127",
-    "textContent": "Collect all Glass Orbs to unlock the mission Paw it Forward."
+    "textContent": "Collect all the marbles to unlock the mission Paw it Forward."
   },
   {
     "sn": "2002128",
-    "textContent": "Current Glass Orbs: "
+    "textContent": "Marbles Collected: "
   },
   {
     "sn": "2002129",
-    "textContent": "Complete daily Pass goals to get rewards. Times left: \u3000"
+    "textContent": "Complete daily Pass goals to get rewards. Goals left: \u3000"
   },
   {
     "sn": "2002130",
@@ -10745,7 +10765,7 @@
   },
   {
     "sn": "2002149",
-    "textContent": "Main Attribute cannot be customized"
+    "textContent": "Main atribute cannot be customized"
   },
   {
     "sn": "2002150",
@@ -10765,7 +10785,7 @@
   },
   {
     "sn": "2002154",
-    "textContent": "Remaining Actions: "
+    "textContent": "Actions: "
   },
   {
     "sn": "2002155",
@@ -10913,7 +10933,7 @@
   },
   {
     "sn": "2002177",
-    "textContent": "Unlocks Stamina Mode after clearing current difficulty level for the first time."
+    "textContent": "Clear the challenge to unlock Stamina Mode"
   },
   {
     "sn": "2002178",
@@ -10977,19 +10997,19 @@
   },
   {
     "sn": "2002189",
-    "textContent": "Main Attribute cannot be customized"
+    "textContent": "Main atribute cannot be customized"
   },
   {
     "sn": "2002190",
-    "textContent": "Cannot be insta-killed"
+    "textContent": "Cannot insta-kill"
   },
   {
     "sn": "2002191",
-    "textContent": "Can be partially insta-killed"
+    "textContent": "Can partially insta-kill"
   },
   {
     "sn": "2002192",
-    "textContent": "Can be insta-killed"
+    "textContent": "Can insta-kill"
   },
   {
     "sn": "2002193",
@@ -11069,7 +11089,7 @@
   },
   {
     "sn": "2002201",
-    "textContent": "Dispatch"
+    "textContent": "Task"
   },
   {
     "sn": "2002202",
@@ -11121,7 +11141,7 @@
   },
   {
     "sn": "2002210",
-    "textContent": "Refresh normal dispatch amount: "
+    "textContent": "Regular Task Refreshes: "
   },
   {
     "sn": "2002211",
@@ -11269,11 +11289,11 @@
   },
   {
     "sn": "2002268",
-    "textContent": "AAAAAA=="
+    "textContent": "Screenshot and scan on WeChat to add our dedicated customer service account!"
   },
   {
     "sn": "2002273",
-    "textContent": "Your end-of-season rewards will be sent to your inbox."
+    "textContent": "Unclaimed rewards will be sent to your Inbox after the event ends."
   },
   {
     "sn": "2002274",
@@ -11317,7 +11337,7 @@
   },
   {
     "sn": "2002288",
-    "textContent": "Earn <color=#FAFD68>resplendant rewards</color> when a friend you invite takes part in an event!"
+    "textContent": "Earn <color=#FAFD68>special rewards</color> when a friend you invite takes part in an event!"
   },
   {
     "sn": "2002289",
@@ -11953,7 +11973,7 @@
   },
   {
     "sn": "2002487",
-    "textContent": "About 20 min"
+    "textContent": "About 20 m"
   },
   {
     "sn": "2002408",
@@ -12093,7 +12113,7 @@
   },
   {
     "sn": "2002495",
-    "textContent": "It is recommended to play this event after completing the main story chapter Riko's Awakening. Otherwise, it may affect how you experience the story."
+    "textContent": "It is recommended to play this event after completing the main story chapter Riko's Awakening. Otherwise, it may impact your experience of the story."
   },
   {
     "sn": "2002496",
@@ -12301,7 +12321,7 @@
   },
   {
     "sn": "2002533",
-    "textContent": "<color=#ffffff>  </color>"
+    "textContent": "It seems that {0} has something they want to talk about."
   },
   {
     "sn": "2002534",
@@ -12381,7 +12401,7 @@
   },
   {
     "sn": "2002564",
-    "textContent": "Remove Max Visitor EXP"
+    "textContent": "Hide Max\nVisitor EXP"
   },
   {
     "sn": "2002567",
@@ -12721,7 +12741,7 @@
   },
   {
     "sn": "2002659",
-    "textContent": "Claimable after clearing goals: "
+    "textContent": "Claim after clearing goals: "
   },
   {
     "sn": "2002660",
@@ -12745,7 +12765,7 @@
   },
   {
     "sn": "2002669",
-    "textContent": "Summary of Mindscape Attribute Enhancement"
+    "textContent": "Mindscape Attribute Increases:"
   },
   {
     "sn": "2002671",
@@ -12781,7 +12801,7 @@
   },
   {
     "sn": "2002675",
-    "textContent": "Get with Marthym's Rewards Card"
+    "textContent": "Purchase to unlock more rewards"
   },
   {
     "sn": "2002679",
@@ -12793,7 +12813,7 @@
   },
   {
     "sn": "2002681",
-    "textContent": "Objects Unlocked"
+    "textContent": "Conditions Cleared!"
   },
   {
     "sn": "2002682",
@@ -13033,7 +13053,7 @@
   },
   {
     "sn": "2003039",
-    "textContent": "Cannot change party."
+    "textContent": "Party can't be changed."
   },
   {
     "sn": "2003081",
@@ -13082,5 +13102,25 @@
   {
     "sn": "2002789",
     "textContent": "AAAAAA=="
+  },
+  {
+    "sn": "2303208",
+    "textContent": "Outfit Details:\n1. You can change a character's outfit on the Thieves screen.\n2. After changing, the character will have a new look in battle and in the Metaverse."
+  },
+  {
+    "sn": "2303209",
+    "textContent": "Ren-only Outfit: "
+  },
+  {
+    "sn": "2303210",
+    "textContent": "Sale period: %s"
+  },
+  {
+    "sn": "2303217",
+    "textContent": "Yusuke-only Outfit: "
+  },
+  {
+    "sn": "2303279",
+    "textContent": "x"
   }
 ]

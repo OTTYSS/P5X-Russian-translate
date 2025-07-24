@@ -92,7 +92,7 @@
   {
     "sn": "61022",
     "name": "Critical Rate 2",
-    "desc": "Increases critical damage by 20%."
+    "desc": "Crit Dmg +20%"
   },
   {
     "sn": "61032",
@@ -157,7 +157,7 @@
   {
     "sn": "61112",
     "name": "Giant Killer 1",
-    "desc": "Skill attacks have a chance of Burning targets."
+    "desc": "Skill attacks have a chance to Burn targets."
   },
   {
     "sn": "61122",
@@ -177,7 +177,7 @@
   {
     "sn": "61113",
     "name": "Giant Killer 1",
-    "desc": "Skill attacks have a chance of Burning targets."
+    "desc": "Skill attacks have a chance to Burn targets."
   },
   {
     "sn": "61123",
@@ -347,22 +347,22 @@
   {
     "sn": "61411",
     "name": "Armor Break 1",
-    "desc": "When enemies' Defense is decreased, increase damage taken by 8%. Lasts for 2 turns."
+    "desc": "When decreasing a foe's Defense, increases damage taken by 8%. Lasts for 2 turns."
   },
   {
     "sn": "61421",
     "name": "Armor Break 2",
-    "desc": "When the enemy's Defense decreases, increase Phantom Thieves' Defense by 7%. Stacks up to 3 times. Each stack is calculated individually. Lasts for 2 turns."
+    "desc": "When decreasing a foe's Defense, increases an ally Phantom Thief's Defense by 7%. Stacks up to 3 times. Lasts for 2 turns."
   },
   {
     "sn": "61431",
     "name": "Armor Break 3",
-    "desc": "When the enemy's Defense decreases, permanently increase Phantom Thieves' Defense by 4%. Stacks up to 5 times."
+    "desc": "When decreasing a foe's Defense, permanently decreases Defense by 4%. Stacks up to 5 times."
   },
   {
     "sn": "61441",
     "name": "Armor Break 4",
-    "desc": "When an enemy first takes damage, decrease their Defense by 25%. Lasts for 2 turns."
+    "desc": "When a foe first takes an attack, decreases Defense by 25%. Lasts for 2 turns."
   },
   {
     "sn": "61412",
@@ -372,12 +372,12 @@
   {
     "sn": "61422",
     "name": "Armor Break 2",
-    "desc": "When decreasing a foe's Defense, increases an ally Phantom Thief's Defense by 7%. Can be stacked up to 3 times. Lasts for 2 turns."
+    "desc": "When decreasing a foe's Defense, increases an ally Phantom Thief's Defense by 7%. Stacks up to 3 times. Lasts for 2 turns."
   },
   {
     "sn": "61432",
     "name": "Armor Break 3",
-    "desc": "When decreasing a foe's Defense, permanently decrease Defense by 4%. Can be stacked up to 5 times."
+    "desc": "When decreasing a foe's Defense, permanently decreases Defense by 4%. Stacks up to 5 times."
   },
   {
     "sn": "61442",
@@ -392,12 +392,12 @@
   {
     "sn": "61423",
     "name": "Armor Break 2",
-    "desc": "When decreasing a foe's Defense, increases an ally Phantom Thief's Defense by 7%. Can be stacked up to 3 times. Lasts for 2 turns."
+    "desc": "When decreasing a foe's Defense, increases an ally Phantom Thief's Defense by 7%. Stacks up to 3 times. Lasts for 2 turns."
   },
   {
     "sn": "61433",
     "name": "Armor Break 3",
-    "desc": "When the enemy's Defense decreases, permanently increase Phantom Thieves' Defense by 4%. Stacks up to 5 times."
+    "desc": "When decreasing a foe's Defense, permanently decreases Defense by 4%. Stacks up to 5 times."
   },
   {
     "sn": "61443",
@@ -412,7 +412,7 @@
   {
     "sn": "6146",
     "name": "Armor Break Set 4",
-    "desc": "Deal additional damage to foes with reduced Defense. The more reduced the Defense, the more damage dealt."
+    "desc": "Deal bonus damage to foes with decreased Defense. The more Defense has been decreased, the more damage is dealt."
   },
   {
     "sn": "61511",
@@ -432,7 +432,7 @@
   {
     "sn": "61541",
     "name": "Lunge 4",
-    "desc": "Increases party's Attack for two turns when a foe is killed. Can stack twice and each turn is counted separately."
+    "desc": "Increases party's Attack for two turns when a foe is defeated. Stacks up to 2 times. Each turn is counted separately."
   },
   {
     "sn": "61512",
@@ -452,7 +452,7 @@
   {
     "sn": "61542",
     "name": "Lunge 4",
-    "desc": "Increases party's Attack for two turns when a foe is killed. Can stack twice and each turn is counted separately."
+    "desc": "Increases party's Attack for two turns when a foe is defeated. Stacks up to 2 times. Each turn is counted separately."
   },
   {
     "sn": "61513",
@@ -472,7 +472,7 @@
   {
     "sn": "61543",
     "name": "Lunge 4",
-    "desc": "Increases party's Attack for two turns when a foe is killed. Can stack twice and each turn is counted separately."
+    "desc": "Increases party's Attack for two turns when a foe is defeated. Stacks up to 2 times. Each turn is counted separately."
   },
   {
     "sn": "6155",
@@ -502,7 +502,7 @@
   {
     "sn": "61641",
     "name": "Growth 4",
-    "desc": "Applies buff on party's first turn."
+    "desc": "Grants a buff on an allies' first action."
   },
   {
     "sn": "61612",
@@ -522,7 +522,7 @@
   {
     "sn": "61642",
     "name": "Growth 4",
-    "desc": "Applies buff on allies' first turn."
+    "desc": "Grants a buff on an allies' first action."
   },
   {
     "sn": "61613",
@@ -562,7 +562,7 @@
   {
     "sn": "61721",
     "name": "Inferno",
-    "desc": "Recover HP when attacking a target with Recovery Block."
+    "desc": "Restores own HP when attacking a target with Recovery Block."
   },
   {
     "sn": "61731",
@@ -577,7 +577,7 @@
   {
     "sn": "61712",
     "name": "Inferno 1",
-    "desc": "Enemies with 50% HP or less take higher damage."
+    "desc": "Enemies with less than 50% HP take increased damage."
   },
   {
     "sn": "61722",
@@ -597,7 +597,7 @@
   {
     "sn": "61713",
     "name": "Inferno 1",
-    "desc": "Enemies with 50% HP or less take higher damage."
+    "desc": "Enemies with less than 50% HP take increased damage."
   },
   {
     "sn": "61723",

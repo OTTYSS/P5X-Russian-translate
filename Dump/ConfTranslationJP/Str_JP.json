@@ -92,7 +92,7 @@
   },
   {
     "sn": "10009",
-    "strContent": "サーバー異常。再度ログインしてください。",
+    "strContent": "通信エラーが発生しました。しばらくしてから再度お試しください。",
     "option1": "AAAAAA==",
     "showName": "AAAAAA==",
     "option2": "AAAAAA=="
@@ -162,7 +162,7 @@
   },
   {
     "sn": "10103",
-    "strContent": "現在メンテナンス中です。詳細は公式サイトにてご案内します。",
+    "strContent": "サーバーに接続できませんでした。\n通信状況が不安定か、メンテナンス中となります。\nメンテナンス情報は公式サイトをご確認ください。",
     "option1": "AAAAAA==",
     "showName": "AAAAAA==",
     "option2": "AAAAAA=="
@@ -176,7 +176,7 @@
   },
   {
     "sn": "10105",
-    "strContent": "現在サービス開始に向けた、メンテナンスを行っております。brサービス開始予定：６月２６日（木）１２：００頃br※開始時間は前後する場合がございます。詳しくはお知らせをご確認ください。brタイトル画面の「ダウンロード」ボタンより、事前にデータダウンロードいただけます。",
+    "strContent": "現在サービス開始に向けた、メンテナンスを行っております。\nサービス開始予定：６月２６日（木）１２：００頃\n※開始時間は前後する場合がございます。詳しくはお知らせをご確認ください。\nタイトル画面の「ダウンロード」ボタンより、事前にデータダウンロードいただけます。",
     "option1": "AAAAAA==",
     "showName": "AAAAAA==",
     "option2": "AAAAAA=="
@@ -10021,7 +10021,7 @@
     "strContent": "メロペと一緒に過ごそうか…",
     "option1": "メロペと過ごす",
     "showName": "AAAAAA==",
-    "option2": "今はちょっと…"
+    "option2": "他の予定が…"
   },
   {
     "sn": "1019102",
@@ -10103,23 +10103,23 @@
   {
     "sn": "1019121",
     "strContent": "黒谷と一緒に過ごすのか？",
-    "option1": "分かった",
+    "option1": "黒谷と過ごす",
     "showName": "ル<#000000,フ,#FFFFFF>ェル",
-    "option2": "少し考えよう"
+    "option2": "他の予定が…"
   },
   {
     "sn": "1019122",
-    "strContent": "黒谷はかなり喜んでいるようだな。\n黒谷と過ごすのか？",
-    "option1": "分かった",
+    "strContent": "黒谷と過ごすのか？",
+    "option1": "黒谷と過ごす",
     "showName": "ル<#000000,フ,#FFFFFF>ェル",
-    "option2": "少し考えよう"
+    "option2": "他の予定が…"
   },
   {
     "sn": "1019123",
-    "strContent": "黒谷はかなり喜んでいるようだな。\n黒谷と過ごすのか？",
-    "option1": "もしそうなら",
+    "strContent": "黒谷と過ごすのか？",
+    "option1": "黒谷と過ごす",
     "showName": "AAAAAA==",
-    "option2": "今日はちょっと……"
+    "option2": "他の予定が…"
   },
   {
     "sn": "1019131",
@@ -10137,7 +10137,7 @@
   },
   {
     "sn": "1019132",
-    "strContent": "朋子と過ごすか？",
+    "strContent": "朋子と過ごすのか？",
     "option1": "朋子と過ごす",
     "showName": "ル<#000000,フ,#FFFFFF>ェル",
     "option2": "他に予定が…"
@@ -10158,7 +10158,7 @@
   },
   {
     "sn": "1019142",
-    "strContent": "富山と過ごすか？",
+    "strContent": "富山と過ごすのか？",
     "option1": "富山と過ごす",
     "showName": "ル<#000000,フ,#FFFFFF>ェル",
     "option2": "他の予定が…"
@@ -10168,7 +10168,7 @@
     "strContent": "なんと答えようか…",
     "option1": "ぜひお願いします",
     "showName": "AAAAAA==",
-    "option2": "それは遠慮します"
+    "option2": "他の予定が…"
   },
   {
     "sn": "1019151",
@@ -10182,7 +10182,7 @@
     "strContent": "清はとても落ち込んでいるようだ。\n彼に付き合おうか？",
     "option1": "分かった",
     "showName": "ル<#000000,フ,#FFFFFF>ェル",
-    "option2": "少し考えよう"
+    "option2": "他の予定が…"
   },
   {
     "sn": "1019152",
@@ -10210,7 +10210,7 @@
     "strContent": "瑤鈴と一緒に過ごすのか？",
     "option1": "瑤鈴と過ごす",
     "showName": "ル<#000000,フ,#FFFFFF>ェル",
-    "option2": "今日は都合が…"
+    "option2": "他の予定が…"
   },
   {
     "sn": "1019162",
@@ -10249,7 +10249,7 @@
   },
   {
     "sn": "1019217",
-    "strContent": "芦谷と一緒に出かけて遊びますか？",
+    "strContent": "芦谷と一緒に過ごすのか？",
     "option1": "分かった",
     "showName": "AAAAAA==",
     "option2": "時間の都合がよくない…"
@@ -10329,7 +10329,7 @@
     "strContent": "海夕と一緒に過ごすのか？",
     "option1": "分かった",
     "showName": "ル<#000000,フ,#FFFFFF>ェル",
-    "option2": "少し考えよう"
+    "option2": "他の予定が…"
   },
   {
     "sn": "1019190",
@@ -10438,8 +10438,8 @@
   },
   {
     "sn": "1019184",
-    "strContent": "椎名の店に行ってみようか…",
-    "option1": "店へ向かう",
+    "strContent": "椎名と過ごそうか…",
+    "option1": "椎名と過ごす",
     "showName": "AAAAAA==",
     "option2": "また今度にしよう"
   },
@@ -10624,6 +10624,20 @@
     "option1": "行こう",
     "showName": "ル<#000000,フ,#FFFFFF>ェル",
     "option2": "やっぱりやめる"
+  },
+  {
+    "sn": "1020131",
+    "strContent": "『運命が交錯する時・城編』が未クリアですがこのエピソードを進めますか？",
+    "option1": "決定",
+    "showName": "AAAAAA==",
+    "option2": "やめておく"
+  },
+  {
+    "sn": "1020132",
+    "strContent": "{0}をまだ所持していません。コスチュームを購入しますか？",
+    "option1": "はい",
+    "showName": "AAAAAA==",
+    "option2": "いいえ"
   },
   {
     "sn": "1021001",
@@ -12342,21 +12356,21 @@
   },
   {
     "sn": "1037010",
-    "strContent": "異変効果の影響を受けて、現在のマスクは出陣できません。",
+    "strContent": "異変効果の影響を受けて、現在のペルソナでは出陣できません。",
     "option1": "AAAAAA==",
     "showName": "AAAAAA==",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1037011",
-    "strContent": "異変効果の影響を受けて、現在の怪盗は出陣できません。",
+    "strContent": "異変効果の影響を受けて、現在の怪盗では出陣できません。",
     "option1": "AAAAAA==",
     "showName": "AAAAAA==",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1037012",
-    "strContent": "主人公は少なくとも１つのペルソナを携えて出撃する必要があります。",
+    "strContent": "主人公は１体以上のペルソナを編成しないと出撃できません。",
     "option1": "AAAAAA==",
     "showName": "AAAAAA==",
     "option2": "AAAAAA=="
@@ -13182,14 +13196,14 @@
   },
   {
     "sn": "1047018",
-    "strContent": "退出すると、評価報酬を獲得できなくなります。\n退出しますか？",
+    "strContent": "このステージを終了しますか？",
     "option1": "決定",
     "showName": "ル<#000000,フ,#FFFFFF>ェル",
     "option2": "やめておく"
   },
   {
     "sn": "1047019",
-    "strContent": "進行度をリセットすると、このステージも再度探索が必要です。\nリセットしますか？",
+    "strContent": "このステージを最初からやり直しますか？",
     "option1": "決定",
     "showName": "ル<#000000,フ,#FFFFFF>ェル",
     "option2": "やめておく"
@@ -13336,7 +13350,7 @@
   },
   {
     "sn": "1047203",
-    "strContent": "『<color=#FF423F>イベント：%s</color>』クリアで『運命が交錯する時・城編』が解放されます。\n追跡しますか？",
+    "strContent": "『<color=#FF423F>イベント：%s</color>』クリアで『運命が交錯する時・城編』が解放されます。",
     "option1": "決定",
     "showName": "ル<#000000,フ,#FFFFFF>ェル",
     "option2": "やめておく"
@@ -13371,7 +13385,7 @@
   },
   {
     "sn": "1047208",
-    "strContent": "<color=#FF423F>加納駿</color>の覚醒をまだ見ていません。このイベントを開始するとストーリー体験に影響を与えますが、\nよろしいですか？",
+    "strContent": "<color=#FF423F>怪盗団２人目の覚醒</color>をまだ目撃していないためストーリー体験に影響を与えますが、このイベントを開始しますか？",
     "option1": "決定",
     "showName": "ル<#000000,フ,#FFFFFF>ェル",
     "option2": "やめておく"
@@ -13392,14 +13406,14 @@
   },
   {
     "sn": "1047211",
-    "strContent": "『運命が交錯する時・美術館編%s』をクリアするとアンロックされます。",
+    "strContent": "『運命が交錯する時・美術館編%s』をクリアすると解放されます。",
     "option1": "AAAAAA==",
     "showName": "AAAAAA==",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1047212",
-    "strContent": "美術館編２－１０をまだクリアしていません。このエピソードを開始するとストーリー体験に影響を与えますが、よろしいですか？",
+    "strContent": "ストーリー体験に影響を与えるため、美術館編２－１０をクリアした後に挑戦することを推奨しますが、すぐに開始しますか？",
     "option1": "決定",
     "showName": "ル<#000000,フ,#FFFFFF>ェル",
     "option2": "やめておく"
@@ -13413,7 +13427,7 @@
   },
   {
     "sn": "1047215",
-    "strContent": "強化に必要な素材が不足しています。\n%s出来ますが、挑戦しますか？",
+    "strContent": "強化に必要な素材が不足しています。\n%sに挑戦しますか？",
     "option1": "決定",
     "showName": "ル<#000000,フ,#FFFFFF>ェル",
     "option2": "やめておく"
@@ -13455,14 +13469,14 @@
   },
   {
     "sn": "1047224",
-    "strContent": "<color=#FF423F>理子の覚醒</color>をまだ目撃していません。このイベントを直接開始するとストーリー体験に影響を与えます。\n続けますか？",
+    "strContent": "<color=#FF423F>怪盗団３人目の覚醒</color>をまだ目撃していないためストーリー体験に影響を与えますが、このイベントを開始しますか？",
     "option1": "決定",
     "showName": "ル<#000000,フ,#FFFFFF>ェル",
     "option2": "やめておく"
   },
   {
     "sn": "1047225",
-    "strContent": "『<color=#FF423F>イベント：%s</color>』を完了すると『運命交錯の時・ピラミッド編』が解放されます。すぐに追跡しますか？",
+    "strContent": "『<color=#FF423F>イベント：%s</color>』を完了すると『運命が交錯する時・ピラミッド編』が解放されます。\n追跡しますか？",
     "option1": "決定",
     "showName": "ル<#000000,フ,#FFFFFF>ェル",
     "option2": "やめておく"
@@ -13826,7 +13840,7 @@
   },
   {
     "sn": "1050055",
-    "strContent": "ペルソナ５オリジナルイベント『<color=#FF423F>運命が交錯する時</color>』が\n解放されました。",
+    "strContent": "ペルソナ５オリジナルイベント『<color=#FF423F>運命が交錯する時</color>』が解放されました。",
     "option1": "AAAAAA==",
     "showName": "AAAAAA==",
     "option2": "AAAAAA=="
@@ -14680,98 +14694,98 @@
   },
   {
     "sn": "1052063",
-    "strContent": "プランⅢのステップ１の全ミッションクリアで報酬取得。",
+    "strContent": "ＳＴＥＰ１のミッションを１１個クリアで報酬取得。",
     "option1": "AAAAAA==",
     "showName": "AAAAAA==",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1052064",
-    "strContent": "プランⅢのステップ２の全ミッションクリアで報酬取得。",
+    "strContent": "ＳＴＥＰ２のミッションを１０個クリアで報酬取得。",
     "option1": "AAAAAA==",
     "showName": "AAAAAA==",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1052065",
-    "strContent": "プランⅢのステップ３の全ミッションクリアで報酬取得。",
+    "strContent": "ＳＴＥＰ３のミッションを１０個クリアで報酬取得。",
     "option1": "AAAAAA==",
     "showName": "AAAAAA==",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1052066",
-    "strContent": "プランⅢのステップ４の全ミッションクリアで報酬取得。",
+    "strContent": "ＳＴＥＰ４のミッションを１０個クリアで報酬取得。",
     "option1": "AAAAAA==",
     "showName": "AAAAAA==",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1052067",
-    "strContent": "プランⅢのステップ５の全ミッションクリアで報酬取得。",
+    "strContent": "ＳＴＥＰ５のミッションを１０個クリアで報酬取得。",
     "option1": "AAAAAA==",
     "showName": "AAAAAA==",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1052068",
-    "strContent": "プランⅢのステップ６の全ミッションクリアで報酬取得。",
+    "strContent": "ＳＴＥＰ６のミッションを８個クリアで報酬取得。",
     "option1": "AAAAAA==",
     "showName": "AAAAAA==",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1052069",
-    "strContent": "プランⅢのステップ７の全ミッションクリアで報酬取得。",
+    "strContent": "ＳＴＥＰ７のミッションを９個クリアで報酬取得。",
     "option1": "AAAAAA==",
     "showName": "AAAAAA==",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1052070",
-    "strContent": "プランⅣのステップ１の全ミッションクリアで報酬取得。",
+    "strContent": "ＳＴＥＰ１のミッションを９個クリアで報酬取得。",
     "option1": "AAAAAA==",
     "showName": "AAAAAA==",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1052071",
-    "strContent": "プランⅣのステップ２の全ミッションクリアで報酬取得。",
+    "strContent": "ＳＴＥＰ２のミッションを８個クリアで報酬取得。",
     "option1": "AAAAAA==",
     "showName": "AAAAAA==",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1052072",
-    "strContent": "プランⅣのステップ３の全ミッションクリアで報酬取得。",
+    "strContent": "ＳＴＥＰ３のミッションを８個クリアで報酬取得。",
     "option1": "AAAAAA==",
     "showName": "AAAAAA==",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1052073",
-    "strContent": "プランⅣのステップ４の全ミッションクリアで報酬取得。",
+    "strContent": "ＳＴＥＰ４のミッションを７個クリアで報酬取得。",
     "option1": "AAAAAA==",
     "showName": "AAAAAA==",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1052074",
-    "strContent": "プランⅣのステップ５の全ミッションクリアで報酬取得。",
+    "strContent": "ＳＴＥＰ５のミッションを７個クリアで報酬取得。",
     "option1": "AAAAAA==",
     "showName": "AAAAAA==",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1052075",
-    "strContent": "プランⅣのステップ６の全ミッションクリアで報酬取得。",
+    "strContent": "ＳＴＥＰ６のミッションを７個クリアで報酬取得。",
     "option1": "AAAAAA==",
     "showName": "AAAAAA==",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1052076",
-    "strContent": "プランⅣのステップ７の全ミッションクリアで報酬取得。",
+    "strContent": "ＳＴＥＰ７のミッションを８個クリアで報酬取得。",
     "option1": "AAAAAA==",
     "showName": "AAAAAA==",
     "option2": "AAAAAA=="
@@ -21239,7 +21253,7 @@
   },
   {
     "sn": "1083018",
-    "strContent": "終了前のチャレンジがあります。",
+    "strContent": "進行中のステージがあります。",
     "option1": "AAAAAA==",
     "showName": "AAAAAA==",
     "option2": "AAAAAA=="
@@ -22604,7 +22618,7 @@
   },
   {
     "sn": "1157156",
-    "strContent": "この太刀から逃れられると思うな！",
+    "strContent": "この太刀から\n逃れられると思うな！",
     "option1": "AAAAAA==",
     "showName": "AAAAAA==",
     "option2": "AAAAAA=="
@@ -22653,7 +22667,7 @@
   },
   {
     "sn": "1157163",
-    "strContent": "俺は諦めんぞ！",
+    "strContent": "我は諦めんぞ！",
     "option1": "AAAAAA==",
     "showName": "AAAAAA==",
     "option2": "AAAAAA=="
@@ -22730,14 +22744,14 @@
   },
   {
     "sn": "1157174",
-    "strContent": "宮澤様がいる限り、ここは安泰だ。",
+    "strContent": "宮澤様がいる限り、\nここは安泰だ。",
     "option1": "AAAAAA==",
     "showName": "AAAAAA==",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1157175",
-    "strContent": "宮澤様のため、我は修羅となろう！",
+    "strContent": "宮澤様のため、\n我は修羅となろう！",
     "option1": "AAAAAA==",
     "showName": "AAAAAA==",
     "option2": "AAAAAA=="
@@ -22975,7 +22989,7 @@
   },
   {
     "sn": "1157209",
-    "strContent": "侵入者だ！\u3000侵入者がいるぞ！",
+    "strContent": "侵入者だ！\n侵入者がいるぞ！",
     "option1": "AAAAAA==",
     "showName": "AAAAAA==",
     "option2": "AAAAAA=="
@@ -22989,7 +23003,7 @@
   },
   {
     "sn": "1157211",
-    "strContent": "不審者だ！\u3000逃がすな！\u3000追え！",
+    "strContent": "不審者だ！\u3000逃がすな！\n追え！",
     "option1": "AAAAAA==",
     "showName": "AAAAAA==",
     "option2": "AAAAAA=="
@@ -23003,7 +23017,7 @@
   },
   {
     "sn": "1157213",
-    "strContent": "不審者はここにいるぞ！\u3000追え！",
+    "strContent": "不審者はここにいるぞ！\n追え！",
     "option1": "AAAAAA==",
     "showName": "AAAAAA==",
     "option2": "AAAAAA=="
@@ -23087,14 +23101,14 @@
   },
   {
     "sn": "1157222",
-    "strContent": "カツン…カツン…今夜も靴音がよく響くぜ…",
+    "strContent": "自分の足音が良く響くんだよな…\nカツン…カツン…ってさ",
     "option1": "AAAAAA==",
     "showName": "AAAAAA==",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1157223",
-    "strContent": "うっ！\u3000なんだ、自分の影か…",
+    "strContent": "うっ！\nなんだ、自分の影か…",
     "option1": "AAAAAA==",
     "showName": "AAAAAA==",
     "option2": "AAAAAA=="
@@ -23122,7 +23136,7 @@
   },
   {
     "sn": "1157227",
-    "strContent": "カツーン、カツーン… \u3000今夜も靴音が良く響くぜ…",
+    "strContent": "カツーン、カツーン…\n今夜も靴音が良く響くぜ…",
     "option1": "AAAAAA==",
     "showName": "AAAAAA==",
     "option2": "AAAAAA=="
@@ -26608,7 +26622,7 @@
   },
   {
     "sn": "1209431",
-    "strContent": "『運命交錯の時』イベント画面に行き、タスク目標を達成してください。",
+    "strContent": "『運命が交錯する時』のイベント画面に行き、タスク目標を達成してください。",
     "option1": "AAAAAA==",
     "showName": "AAAAAA==",
     "option2": "AAAAAA=="
