@@ -2847,7 +2847,7 @@ Guitar Care Set=Набор для ухода за гитарой
 Gun=Оружие
 Gun affinity changed to Null...=Свойство оружия изменено на Нуль...
 Gun attacks inflict <color\=#FF423F>Gun-attribute</color> damage.=Атаки оружием наносят <color\=#FF423F>урон от оружия</color>.
-Gun dmg to 1 foe (%s Atk). Inflict Marked on foe.=Урон от оружия одному врагу (%s Атк). Наносит Метку врагу.
+r:"^Gun dmg to 1 foe \((.*) Atk\). Inflict Marked on foe.$"="Урон от оружия одному врагу ($1 Атк). Наносит Метку врагу."
 Gun dmg to all foes (%s Atk, 3 hits). If foe is Marked, increase dmg %s and crit dmg %s.=Урон от оружия всем врагам (%s Атк, 3 удара). Если враг помечен, увеличивает урон на %s и критический урон на %s.
 Gun Mixer=Миксер для оружия
 Gun Seal=Печать оружия
