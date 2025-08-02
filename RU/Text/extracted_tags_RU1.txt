@@ -6926,13 +6926,13 @@ r:"^There's something mysterious about you\,\n(.+?)\-kun\. Something that makes 
 r:"^This is embarrassing\, Dad\.\.\. (.+?)\-kun's\nhere\.\.\."="Это неловко, папа...  $1-кун здесь..."
 r:"^This is mere speculation on my part\, but\n(.+?) has been having strange fits like\nthis ever since I met him\."="Это всего лишь мои предположения, но  $1 испытывает странные приступы, как это, с тех пор как я его встретил."
 r:"^To think we'd be working a beach house\ntogether\.\.\. Heheh\, I'm happy to get this time\nwith you\, (.+?)\-kun\."="Неужели мы будем работать в пляжном доме вместе... Хехех, я рад провести это время с тобой,  $1-кун."
-To: {0}=Кому: {0}
+r:"^To\: (.+)"="Кому: $1"
 r:"^Together\.\.\. with you\, (.+?)\-kun\.\.\."="Вместе... с тобой,  $1-кун..."
 r:"^Uh\, this is (.+?)\-kun\."="Эм, это  $1-кун."
 r:"^Unfortunately\, Shiina didn't win the competition\, but she's satisfied knowing that she gave it her best\. While showing off her routine to (.+?)\, she says she looks forward to being able to drink with him someday\."="К сожалению, Шиина не выиграла конкурс, но она довольна тем, что сделала всё возможное. Показывая свою программу  $1, она говорит, что с нетерпением ждет, когда сможет выпить с ним когда-нибудь."
-Unlocked by owning a {1} with the skill {0}.=Разблокировано при наличии {1} с навыком {0}.
-Unlocks in {0} h {1} m=Разблокируется через {0} ч {1} м
-Unlocks in {0} m=Разблокируется через {0} м
+r:"^Unlocked by owning a (.+) with the skill (.+)\."="Тест 2 Разблокировано при наличии $1 с навыком $2."
+r:"^Unlocks in (.+) h (.+) m"="Разблокируется через $1 ч $2 м"
+r:"^Unlocks in (.+) m"="Разблокируется через $1 м"
 r:"^We meet again\, (.+?)\-san\! Our\ninvestigation today has taken a new turn\."="Снова встречаемся,  $1-сан! Наше расследование сегодня приняло новый поворот."
 r:"^We're gonna have a lot of fun today\!\nYou ready\, (.+?)\?"="Сегодня мы отлично проведем время! Ты готов,  $1?"
 r:"^Well then\, (.+?)\.\.\. Shall we go play\?"="Ну что ж,  $1... Пойдем поиграем?"
