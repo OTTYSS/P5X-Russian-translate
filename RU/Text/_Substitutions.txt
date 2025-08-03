@@ -4,9 +4,9 @@ ID:=ID:
 Lv.=Lv.
 
 © Perfect World Adapted from Persona 5 © ATLUS. © SEGA.\nSpecial Thanks: Fontworks Inc. and SHOWASHOTAI Co., Ltd.=© Perfect World Адаптирован на основе Persona 5 © ATLUS. © SEGA.\nОсобая благодарность: Fontworks Inc., SHOWASHOTAI Co. Ltd. \nи <u><size\=25>@garry4444</size></u>, а так же <u><size\=25>@OTTYSS</size></u> за подготовленный руссификатор игры
-r:"^\nClient Version: (.+)"="\nВерсия клиента: $1"
-r:"^Game Version: (.+)"="Версия игры: $1"
-r:"^Resource No.: (.+)"="Номер ресурса: $1"
+\nClient Version: =\nВерсия клиента: 
+Game Version: =Версия игры: 
+.Resource No.: =Номер ресурса: 
 
 
 Jack Frost=Джек Фрост
