@@ -1161,6 +1161,15 @@
     "calText": "AAAAAA=="
   },
   {
+    "sn": "1201026",
+    "title": "我慢",
+    "desc": "攻撃力６%上昇、防御力２%上昇",
+    "BuffDesc": "我<color=#000000>慢</color>",
+    "addText": "AAAAAA==",
+    "removeText": "AAAAAA==",
+    "calText": "AAAAAA=="
+  },
+  {
     "sn": "1201032",
     "title": "ブチ切れ",
     "desc": "攻撃力４０%上昇、防御力２０%上昇、『沸き立つ怒り』が『爆発する怒り』に変化",
@@ -1206,10 +1215,19 @@
     "calText": "AAAAAA=="
   },
   {
+    "sn": "1201044",
+    "title": "激昂の簒奪者",
+    "desc": "与ダメージ%s上昇",
+    "BuffDesc": "激<color=#000000>昂</color>の簒奪者",
+    "addText": "AAAAAA==",
+    "removeText": "AAAAAA==",
+    "calText": "AAAAAA=="
+  },
+  {
     "sn": "1201063",
     "title": "心は熱く頭は冷静に",
     "desc": "貫通力%s上昇",
-    "BuffDesc": "フ<color=#000000>ル</color>スロットル",
+    "BuffDesc": "心<color=#000000>は</color>熱く頭は冷静に    ",
     "addText": "AAAAAA==",
     "removeText": "AAAAAA==",
     "calText": "AAAAAA=="
@@ -1228,6 +1246,42 @@
     "title": "極熱",
     "desc": "被ダメージ１５%上昇（属性異常として扱われる）",
     "BuffDesc": "極<color=#000000>熱</color>",
+    "addText": "AAAAAA==",
+    "removeText": "AAAAAA==",
+    "calText": "AAAAAA=="
+  },
+  {
+    "sn": "1201191",
+    "title": "炎上",
+    "desc": "行動後ＨＰが低下する。",
+    "BuffDesc": "炎<color=#000000>上</color>",
+    "addText": "AAAAAA==",
+    "removeText": "AAAAAA==",
+    "calText": "AAAAAA=="
+  },
+  {
+    "sn": "1201192",
+    "title": "凍結",
+    "desc": "攻撃力１２%低下",
+    "BuffDesc": "凍<color=#000000>結</color>",
+    "addText": "AAAAAA==",
+    "removeText": "AAAAAA==",
+    "calText": "AAAAAA=="
+  },
+  {
+    "sn": "1201193",
+    "title": "感電",
+    "desc": "被クリティカル率１０%上昇",
+    "BuffDesc": "感<color=#000000>電</color>",
+    "addText": "AAAAAA==",
+    "removeText": "AAAAAA==",
+    "calText": "AAAAAA=="
+  },
+  {
+    "sn": "1201194",
+    "title": "風襲",
+    "desc": "防御力１２%低下",
+    "BuffDesc": "風<color=#000000>襲</color>",
     "addText": "AAAAAA==",
     "removeText": "AAAAAA==",
     "calText": "AAAAAA=="
@@ -1893,7 +1947,7 @@
     "sn": "1291321",
     "title": "抜き身の刃",
     "desc": "状態異常命中%s上昇",
-    "BuffDesc": "状<color=#000000>態</color>異常命中上昇",
+    "BuffDesc": "抜<color=#000000>き</color>身の刃",
     "addText": "AAAAAA==",
     "removeText": "AAAAAA==",
     "calText": "AAAAAA=="
@@ -1902,7 +1956,7 @@
     "sn": "1291322",
     "title": "抜き身の刃",
     "desc": "貫通力%s上昇",
-    "BuffDesc": "貫<color=#000000>通</color>力上昇",
+    "BuffDesc": "抜<color=#000000>き</color>身の刃",
     "addText": "AAAAAA==",
     "removeText": "AAAAAA==",
     "calText": "AAAAAA=="
@@ -6913,9 +6967,9 @@
   },
   {
     "sn": "401851",
-    "title": "タクティカル・ゴーグル",
+    "title": "タクティカルゴーグル",
     "desc": "特定の属性の相性が弱点になる",
-    "BuffDesc": "タ<color=#000000>ク</color>ティカル・ゴーグル",
+    "BuffDesc": "タ<color=#000000>ク</color>ティカルゴーグル",
     "addText": "AAAAAA==",
     "removeText": "AAAAAA==",
     "calText": "AAAAAA=="
@@ -7203,7 +7257,7 @@
     "sn": "402951",
     "title": "濁身・其の一",
     "desc": "防御力%s上昇",
-    "BuffDesc": "穢<color=#000000>身</color>・其の一",
+    "BuffDesc": "濁<color=#000000>身</color>・其の一",
     "addText": "AAAAAA==",
     "removeText": "AAAAAA==",
     "calText": "AAAAAA=="
@@ -7212,7 +7266,7 @@
     "sn": "402981",
     "title": "濁身・其の四",
     "desc": "シールド値：%s",
-    "BuffDesc": "穢<color=#000000>身</color>・其の四",
+    "BuffDesc": "濁<color=#000000>身</color>・其の四",
     "addText": "AAAAAA==",
     "removeText": "AAAAAA==",
     "calText": "AAAAAA=="
@@ -17137,7 +17191,7 @@
   },
   {
     "sn": "27000",
-    "title": "金銭",
+    "title": "お金",
     "desc": "認知の産物、力の源泉",
     "BuffDesc": "金<color=#000000>銭</color>",
     "addText": "金銭を獲得した！",
@@ -17146,7 +17200,7 @@
   },
   {
     "sn": "27001",
-    "title": "金銭",
+    "title": "お金",
     "desc": "認知の産物、力の源泉",
     "BuffDesc": "金<color=#000000>銭</color>",
     "addText": "金銭を獲得した！",
@@ -17155,7 +17209,7 @@
   },
   {
     "sn": "27002",
-    "title": "金銭",
+    "title": "お金",
     "desc": "認知の産物、力の源泉",
     "BuffDesc": "金<color=#000000>銭</color>",
     "addText": "金銭を獲得した！",
@@ -17164,7 +17218,7 @@
   },
   {
     "sn": "27003",
-    "title": "金銭",
+    "title": "お金",
     "desc": "認知の産物、力の源泉",
     "BuffDesc": "金<color=#000000>銭</color>",
     "addText": "金銭を獲得した！",
@@ -17182,7 +17236,7 @@
   },
   {
     "sn": "27020",
-    "title": "金銭能力",
+    "title": "お金",
     "desc": "与ダメージが%s上昇する。",
     "BuffDesc": "金<color=#000000>銭</color>能力",
     "addText": "与ダメージが上がった！",
@@ -17218,7 +17272,7 @@
   },
   {
     "sn": "27027",
-    "title": "ボーナス激励",
+    "title": "始末報酬",
     "desc": "与ダメージが%s上昇する。",
     "BuffDesc": "ボ<color=#000000>ー</color>ナス激励",
     "addText": "与ダメージが上がった！",
@@ -17236,8 +17290,8 @@
   },
   {
     "sn": "27030",
-    "title": "偽札",
-    "desc": "認知の産物。ピンクのブタトロンに動力を提供できる。",
+    "title": "お金もどき",
+    "desc": "認知の産物。ピンクトロンに動力を提供できる。",
     "BuffDesc": "偽<color=#000000>札</color>",
     "addText": "AAAAAA==",
     "removeText": "AAAAAA==",
@@ -17245,8 +17299,8 @@
   },
   {
     "sn": "27031",
-    "title": "偽札",
-    "desc": "認知の産物。ピンクのブタトロンに動力を提供できる。",
+    "title": "お金もどき",
+    "desc": "認知の産物。ピンクトロンに動力を提供できる。",
     "BuffDesc": "偽<color=#000000>札</color>",
     "addText": "AAAAAA==",
     "removeText": "AAAAAA==",
@@ -17254,8 +17308,8 @@
   },
   {
     "sn": "27032",
-    "title": "偽札",
-    "desc": "認知の産物。ピンクのブタトロンに動力を提供できる。",
+    "title": "お金もどき",
+    "desc": "認知の産物。ピンクトロンに動力を提供できる。",
     "BuffDesc": "偽<color=#000000>札</color>",
     "addText": "AAAAAA==",
     "removeText": "AAAAAA==",
@@ -17263,8 +17317,8 @@
   },
   {
     "sn": "27033",
-    "title": "偽札",
-    "desc": "認知の産物。ピンクのブタトロンに動力を提供できる。",
+    "title": "お金もどき",
+    "desc": "認知の産物。ピンクトロンに動力を提供できる。",
     "BuffDesc": "偽<color=#000000>札</color>",
     "addText": "AAAAAA==",
     "removeText": "AAAAAA==",
@@ -17272,8 +17326,8 @@
   },
   {
     "sn": "27034",
-    "title": "偽札",
-    "desc": "認知の産物。ピンクのブタトロンに動力を提供できる。",
+    "title": "お金もどき",
+    "desc": "認知の産物。ピンクトロンに動力を提供できる。",
     "BuffDesc": "偽<color=#000000>札</color>",
     "addText": "AAAAAA==",
     "removeText": "AAAAAA==",
@@ -17281,8 +17335,8 @@
   },
   {
     "sn": "27035",
-    "title": "偽札",
-    "desc": "認知の産物。ピンクのブタトロンに動力を提供できる。",
+    "title": "お金もどき",
+    "desc": "認知の産物。ピンクトロンに動力を提供できる。",
     "BuffDesc": "偽<color=#000000>札</color>",
     "addText": "AAAAAA==",
     "removeText": "AAAAAA==",
@@ -17290,8 +17344,8 @@
   },
   {
     "sn": "27036",
-    "title": "偽札",
-    "desc": "認知の産物。ピンクのブタトロンに動力を提供できる。",
+    "title": "お金もどき",
+    "desc": "認知の産物。ピンクトロンに動力を提供できる。",
     "BuffDesc": "偽<color=#000000>札</color>",
     "addText": "AAAAAA==",
     "removeText": "AAAAAA==",
@@ -17317,7 +17371,7 @@
   },
   {
     "sn": "27043",
-    "title": "金銭能力",
+    "title": "お金",
     "desc": "与ダメージが%s上昇する。",
     "BuffDesc": "金<color=#000000>銭</color>能力",
     "addText": "与ダメージが上がった！",
@@ -17326,7 +17380,7 @@
   },
   {
     "sn": "27044",
-    "title": "ボーナス激励",
+    "title": "始末報酬",
     "desc": "与ダメージが%s上昇する。",
     "BuffDesc": "ボ<color=#000000>ー</color>ナス激励",
     "addText": "与ダメージが上がった！",
@@ -18164,7 +18218,7 @@
   {
     "sn": "25137",
     "title": "特殊効果",
-    "desc": "tdxct-[SkillBuff_desc_25137]弱点ダメージ%s上昇",
+    "desc": "弱点ダメージ%s上昇する。",
     "BuffDesc": "特<color=#000000>殊</color>効果",
     "addText": "AAAAAA==",
     "removeText": "AAAAAA==",
@@ -19073,7 +19127,7 @@
   {
     "sn": "30292",
     "title": "ダメージ上昇",
-    "desc": "１つにつきに与ダメージが２０%上昇する。",
+    "desc": "１つにつき与ダメージが２０%上昇する。",
     "BuffDesc": "ダ<color=#000000>メ</color>ージ上昇",
     "addText": "AAAAAA==",
     "removeText": "AAAAAA==",
@@ -19334,7 +19388,7 @@
   {
     "sn": "30491",
     "title": "腕の防御",
-    "desc": "１つにつきに%s分ダメージを軽減する。",
+    "desc": "１つにつき%s分ダメージを軽減する。",
     "BuffDesc": "AAAAAA==",
     "addText": "AAAAAA==",
     "removeText": "AAAAAA==",
@@ -19352,7 +19406,7 @@
   {
     "sn": "30493",
     "title": "腕の武威",
-    "desc": "１つにつきに%s分ダメージが上昇する。",
+    "desc": "１つにつき%s分ダメージが上昇する。",
     "BuffDesc": "腕<color=#000000>の</color>武威",
     "addText": "腕の武威を獲得し、与ダメージが上がった！",
     "removeText": "AAAAAA==",
@@ -19379,7 +19433,7 @@
   {
     "sn": "30499",
     "title": "腕の剛力",
-    "desc": "１つにつきに%sのダメージを上昇させる。",
+    "desc": "１つにつき%sのダメージを上昇させる。",
     "BuffDesc": "腕<color=#000000>の</color>剛力",
     "addText": "AAAAAA==",
     "removeText": "AAAAAA==",
@@ -19894,6 +19948,15 @@
     "title": "深化活性",
     "desc": "最終ダメージが%s上昇する。",
     "BuffDesc": "深<color=#000000>化</color>活性",
+    "addText": "AAAAAA==",
+    "removeText": "AAAAAA==",
+    "calText": "AAAAAA=="
+  },
+  {
+    "sn": "31904",
+    "title": "弱点ダメージ上昇",
+    "desc": "弱点ダメージが%s上昇する。",
+    "BuffDesc": "AAAAAA==",
     "addText": "AAAAAA==",
     "removeText": "AAAAAA==",
     "calText": "AAAAAA=="
@@ -20819,7 +20882,7 @@
   {
     "sn": "34751",
     "title": "熾烈",
-    "desc": "１つにつきに%sの攻撃力、防御力が上昇",
+    "desc": "１つにつき%sの攻撃力、防御力が上昇",
     "BuffDesc": "AAAAAA==",
     "addText": "AAAAAA==",
     "removeText": "AAAAAA==",
@@ -20828,7 +20891,7 @@
   {
     "sn": "34771",
     "title": "熾烈",
-    "desc": "１つにつきに%sの攻撃力、防御力が上昇",
+    "desc": "１つにつき%sの攻撃力、防御力が上昇",
     "BuffDesc": "AAAAAA==",
     "addText": "AAAAAA==",
     "removeText": "AAAAAA==",
@@ -21008,7 +21071,7 @@
   {
     "sn": "35512",
     "title": "剣を以て国を護る",
-    "desc": "tdxct-[SkillBuff_desc_35512]シールド値：%s",
+    "desc": "シールド値：%s",
     "BuffDesc": "剣<color=#000000>を</color>以て国を護る",
     "addText": "AAAAAA==",
     "removeText": "AAAAAA==",
@@ -21548,7 +21611,7 @@
   {
     "sn": "57221",
     "title": "知覚＆妨害",
-    "desc": "１つにつきに攻撃力が９%上昇する。",
+    "desc": "１つにつき攻撃力が９%上昇する。",
     "BuffDesc": "攻<color=#000000>撃</color>力上昇",
     "addText": "AAAAAA==",
     "removeText": "AAAAAA==",
@@ -23753,7 +23816,7 @@
   {
     "sn": "5021111",
     "title": "妖精の力",
-    "desc": "１つにつきに被ダメージが４%低下する。随伴者が撃破されると１つ失い、再召喚する。",
+    "desc": "１つにつき被ダメージが４%低下する。随伴者が撃破されると１つ失い、再召喚する。",
     "BuffDesc": "妖<color=#000000>精</color>の力",
     "addText": "妖精の力を５つ獲得した！",
     "removeText": "AAAAAA==",
@@ -23796,6 +23859,33 @@
     "calText": "AAAAAA=="
   },
   {
+    "sn": "5061011",
+    "title": "青龍鱗甲",
+    "desc": "１つにつき被ダメージが%s低下する。",
+    "BuffDesc": "青<color=#000000>龍</color>鱗甲",
+    "addText": "青龍鱗甲を１つ獲得した！",
+    "removeText": "AAAAAA==",
+    "calText": "AAAAAA=="
+  },
+  {
+    "sn": "5061012",
+    "title": "青龍鱗甲",
+    "desc": "１つにつき被ダメージが%s低下する。",
+    "BuffDesc": "青<color=#000000>龍</color>鱗甲",
+    "addText": "青龍鱗甲を２つ獲得した！",
+    "removeText": "AAAAAA==",
+    "calText": "AAAAAA=="
+  },
+  {
+    "sn": "5061013",
+    "title": "セイリュウの力",
+    "desc": "与ダメージが%s上昇する。",
+    "BuffDesc": "セ<color=#000000>イ</color>リュウの力",
+    "addText": "AAAAAA==",
+    "removeText": "AAAAAA==",
+    "calText": "AAAAAA=="
+  },
+  {
     "sn": "5081121",
     "title": "ステータス上昇",
     "desc": "与ダメージが１５%上昇する。",
@@ -23807,7 +23897,7 @@
   {
     "sn": "5101112",
     "title": "金剛護体",
-    "desc": "１つにつきに自身の被ダメージが５%低下する。スキルや意識奏功からのダメージを受けると１つ失う。",
+    "desc": "１つにつき自身の被ダメージが５%低下する。スキルや意識奏功からのダメージを受けると１つ失う。",
     "BuffDesc": "金<color=#000000>剛</color>護体",
     "addText": "金剛護体を１５個獲得した！",
     "removeText": "AAAAAA==",

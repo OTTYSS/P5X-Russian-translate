@@ -1,13 +1,5 @@
 [
   {
-    "sn": "2303207",
-    "textContent": "執事服・蓮セット\nショップで<color=#FFFC40>期間限定セール中</color>"
-  },
-  {
-    "sn": "2303216",
-    "textContent": "執事服・祐介セット\nショップで<color=#FFFC40>期間限定セール中</color>"
-  },
-  {
     "sn": "1000003",
     "textContent": "%s\nアカウント停止時間のこり%s"
   },
@@ -1589,7 +1581,7 @@
   },
   {
     "sn": "1022027",
-    "textContent": "※限定★５怪盗は後日別の入手機会を設ける場合があります。"
+    "textContent": "※限定★５怪盗は後日別の入手機会を設ける場合が\nあります。"
   },
   {
     "sn": "1022028",
@@ -2057,7 +2049,7 @@
   },
   {
     "sn": "1027039",
-    "textContent": "以下のアイテムを消費して『%s』を購入しますか？"
+    "textContent": "以下のアイテムを消費して\n『%s』を購入しますか？"
   },
   {
     "sn": "1027040",
@@ -2977,7 +2969,7 @@
   },
   {
     "sn": "1034101",
-    "textContent": "ペルソナレベルの上限が\n<color=#FFF000>Ｌｖ.%s</color>にアップ"
+    "textContent": "ペルソナレベルの上限が\n<color=#FF423F>Ｌｖ.%s</color>にアップ"
   },
   {
     "sn": "1034102",
@@ -3005,7 +2997,7 @@
   },
   {
     "sn": "1034108",
-    "textContent": "<color=#FFF000>%s</color>の合体を行います。"
+    "textContent": "<color=#FF423F>%s</color>の合体を行います。"
   },
   {
     "sn": "1034109",
@@ -3029,35 +3021,35 @@
   },
   {
     "sn": "1034117",
-    "textContent": "AAAAAA=="
+    "textContent": "<color=#FF423F>ペルソナのロール</color>がスキル条件を満たしていません。"
   },
   {
     "sn": "1034118",
-    "textContent": "AAAAAA=="
+    "textContent": "<color=#FF423F>ペルソナの属性</color>がスキル条件を満たしていません。"
   },
   {
     "sn": "1034119",
-    "textContent": "AAAAAA=="
+    "textContent": "<color=#FF423F>ペルソナのランク</color>がスキル条件を満たしていません。"
   },
   {
     "sn": "1034120",
-    "textContent": "AAAAAA=="
+    "textContent": "以下のスキルを固定で習得します"
   },
   {
     "sn": "1034121",
-    "textContent": "AAAAAA=="
+    "textContent": "ペルソナのロール条件"
   },
   {
     "sn": "1034122",
-    "textContent": "AAAAAA=="
+    "textContent": "ペルソナの属性条件"
   },
   {
     "sn": "1034123",
-    "textContent": "AAAAAA=="
+    "textContent": "ペルソナのランク条件：<color=#FF423F>ランク%s以上</color>"
   },
   {
     "sn": "1034124",
-    "textContent": "AAAAAA=="
+    "textContent": "このスキルはすでに習得済みです。"
   },
   {
     "sn": "1035001",
@@ -3414,6 +3406,10 @@
   {
     "sn": "1041307",
     "textContent": "ストーリー"
+  },
+  {
+    "sn": "1041308",
+    "textContent": "ＣＶ.%s"
   },
   {
     "sn": "1041309",
@@ -3805,19 +3801,19 @@
   },
   {
     "sn": "1043075",
-    "textContent": "プラン<sprite=0 tint=1>クリアで獲得"
+    "textContent": "プラン<sprite=0 tint=1>全てクリアで獲得"
   },
   {
     "sn": "1043076",
-    "textContent": "プラン<sprite=1 tint=1>クリアで獲得"
+    "textContent": "プラン<sprite=1 tint=1>全てクリアで獲得"
   },
   {
     "sn": "1043077",
-    "textContent": "プラン<sprite=2 tint=1>クリアで獲得"
+    "textContent": "プラン<sprite=2 tint=1>全てクリアで獲得"
   },
   {
     "sn": "1043078",
-    "textContent": "プラン<sprite=3 tint=1>クリアで獲得"
+    "textContent": "プラン<sprite=3 tint=1>全てクリアで獲得"
   },
   {
     "sn": "1043079",
@@ -7933,7 +7929,7 @@
   },
   {
     "sn": "2001363",
-    "textContent": "今シーズンランキング："
+    "textContent": "今シーズン\nランキング："
   },
   {
     "sn": "2001364",
@@ -8141,7 +8137,7 @@
   },
   {
     "sn": "2001415",
-    "textContent": "職業"
+    "textContent": "ロール"
   },
   {
     "sn": "2001416",
@@ -9492,6 +9488,10 @@
     "textContent": "フレンド"
   },
   {
+    "sn": "2001781",
+    "textContent": "ＣＶ："
+  },
+  {
     "sn": "2001782",
     "textContent": "調伏の領域"
   },
@@ -10825,7 +10825,7 @@
   },
   {
     "sn": "2002140",
-    "textContent": "毎週月曜日に『配給パック』を補充\n毎週『デイリーパス目標』を達成しよう"
+    "textContent": "今週の『デイリー』達成数：%s回\n達成数に応じて『配給パック』獲得"
   },
   {
     "sn": "2002142",
@@ -11777,7 +11777,7 @@
   },
   {
     "sn": "2002378",
-    "textContent": "高難度のチャレンジを完了すると、低難度の最高異変レベルが更新されますが、低難度の異変レベルは高難度の異変レベルに影響を与えません。\n通常難易度：%s\n困難難易度：%s\n悪夢難易度：%s"
+    "textContent": "高難度をクリアすると、低難度の最高異変レベルも更新されます。\nＮＯＲＭＡＬ：%s\nＨＡＲＤ：%s\nＮＩＧＨＴＭＡＲＥ：%s"
   },
   {
     "sn": "2002383",
@@ -11805,11 +11805,11 @@
   },
   {
     "sn": "2002402",
-    "textContent": "バランスモード"
+    "textContent": "難易度固定"
   },
   {
     "sn": "2002403",
-    "textContent": "崩壊モード"
+    "textContent": "難易度カスタム"
   },
   {
     "sn": "2002404",
@@ -11921,7 +11921,7 @@
   },
   {
     "sn": "2002438",
-    "textContent": "異変効果がまだ選択されていません"
+    "textContent": "バトル効果が未選択です"
   },
   {
     "sn": "2002442",
@@ -11937,11 +11937,11 @@
   },
   {
     "sn": "2002457",
-    "textContent": "限定バッジを獲得可能"
+    "textContent": "限定バッジを獲得"
   },
   {
     "sn": "2002458",
-    "textContent": "チャレンジを完了すると解除可能"
+    "textContent": "クリアで解放"
   },
   {
     "sn": "2002459",
@@ -11949,15 +11949,15 @@
   },
   {
     "sn": "2002460",
-    "textContent": "高難度チャレンジを完了するとバッジの最高異変レベルが更新されます"
+    "textContent": "高難度をクリアするとバッジの最高異変レベルが更新されます"
   },
   {
     "sn": "2002461",
-    "textContent": "異変の詳細"
+    "textContent": "バトル効果"
   },
   {
     "sn": "2002462",
-    "textContent": "異変アイコンを長押しすると詳細を確認できます"
+    "textContent": "アイコン長押しで詳細確認"
   },
   {
     "sn": "2002405",
@@ -11989,7 +11989,7 @@
   },
   {
     "sn": "2002464",
-    "textContent": "チャレンジ目標を達成する"
+    "textContent": "目標を達成で"
   },
   {
     "sn": "2002468",
@@ -12001,7 +12001,7 @@
   },
   {
     "sn": "2002470",
-    "textContent": "【未クリア】"
+    "textContent": "<color=#8B8A8A>【未クリア】</color>"
   },
   {
     "sn": "2002473",
@@ -12133,7 +12133,7 @@
   },
   {
     "sn": "2002503",
-    "textContent": "アクションレポート"
+    "textContent": "ミッション"
   },
   {
     "sn": "2002504",
@@ -12185,7 +12185,7 @@
   },
   {
     "sn": "2002497",
-    "textContent": "AAAAAA=="
+    "textContent": "★５武器を選んでください"
   },
   {
     "sn": "2002513",
@@ -12497,11 +12497,11 @@
   },
   {
     "sn": "2002598",
-    "textContent": "前のイメジャリーを解放してください"
+    "textContent": "前の効果を解除してください"
   },
   {
     "sn": "2002599",
-    "textContent": "%s%sを向上"
+    "textContent": "%sが%s上昇する。"
   },
   {
     "sn": "2002600",
@@ -12765,7 +12765,7 @@
   },
   {
     "sn": "2002669",
-    "textContent": "イメジャリー属性上昇まとめ"
+    "textContent": "基本ステータス上昇値"
   },
   {
     "sn": "2002671",
@@ -12821,19 +12821,19 @@
   },
   {
     "sn": "2002707",
-    "textContent": "AAAAAA=="
+    "textContent": "編成記録"
   },
   {
     "sn": "2002709",
-    "textContent": "AAAAAA=="
+    "textContent": "採用率："
   },
   {
     "sn": "2002710",
-    "textContent": "AAAAAA=="
+    "textContent": "編成データ収集中"
   },
   {
     "sn": "2002711",
-    "textContent": "AAAAAA=="
+    "textContent": "一括適用"
   },
   {
     "sn": "2002745",
@@ -12861,7 +12861,7 @@
   },
   {
     "sn": "2002720",
-    "textContent": "AAAAAA=="
+    "textContent": "現在のイベントの残り時間："
   },
   {
     "sn": "2002733",
@@ -12881,19 +12881,19 @@
   },
   {
     "sn": "2002738",
-    "textContent": "AAAAAA=="
+    "textContent": "<color=#FF423F>%s</color>後に："
   },
   {
     "sn": "2002739",
-    "textContent": "AAAAAA=="
+    "textContent": "使用可能な精神力が<color=#FFC000>%s</color>増加します（上限%s）"
   },
   {
     "sn": "2002740",
-    "textContent": "AAAAAA=="
+    "textContent": "怪盗の出撃回数が<color=#FFC000>%s回</color>増加します（上限%s）"
   },
   {
     "sn": "2002741",
-    "textContent": "AAAAAA=="
+    "textContent": "編成参考"
   },
   {
     "sn": "2002749",
@@ -13081,11 +13081,11 @@
   },
   {
     "sn": "2003018",
-    "textContent": "AAAAAA=="
+    "textContent": "今すぐスクラッチカードを手に入れよう！"
   },
   {
     "sn": "2002790",
-    "textContent": "AAAAAA=="
+    "textContent": "タップして受け取る"
   },
   {
     "sn": "2002791",
@@ -13093,15 +13093,19 @@
   },
   {
     "sn": "2002792",
-    "textContent": "AAAAAA=="
+    "textContent": " 【お年玉】"
   },
   {
     "sn": "2002807",
-    "textContent": "AAAAAA=="
+    "textContent": "すでに受け取り済み"
   },
   {
     "sn": "2002789",
-    "textContent": "AAAAAA=="
+    "textContent": "ご繁栄をお祈りします、幸運が舞い込みますように！"
+  },
+  {
+    "sn": "2303207",
+    "textContent": "執事服・蓮セット\nショップで<color=#FFFC40>期間限定セール中</color>"
   },
   {
     "sn": "2303208",
@@ -13114,6 +13118,10 @@
   {
     "sn": "2303210",
     "textContent": "セール期間：%s"
+  },
+  {
+    "sn": "2303216",
+    "textContent": "執事服・祐介セット\nショップで<color=#FFFC40>期間限定セール中</color>"
   },
   {
     "sn": "2303217",

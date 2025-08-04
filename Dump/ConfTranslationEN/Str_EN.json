@@ -2906,14 +2906,14 @@
   },
   {
     "sn": "12765",
-    "strContent": "Use %s Meta Jewels to change Companio badge?",
+    "strContent": "Do you want to use %s Meta Jewels to change your Companio badge?",
     "option1": "Change",
     "showName": "L<#000000,u,#FFFFFF>fel",
     "option2": "Never mind."
   },
   {
     "sn": "12766",
-    "strContent": "You cannot move to the base because you are in the Dungeon \"%s\".",
+    "strContent": "You cannot move to the base because you are in the Dungeon \"%s.\"",
     "option1": "AAAAAA==",
     "showName": "AAAAAA==",
     "option2": "AAAAAA=="
@@ -5111,7 +5111,7 @@
   },
   {
     "sn": "1000072",
-    "strContent": "Do you want to purchase these items?",
+    "strContent": "Do you want to make this purchase?",
     "option1": "Buy",
     "showName": "L<#000000,u,#FFFFFF>fel",
     "option2": "Not now"
@@ -5783,7 +5783,7 @@
   },
   {
     "sn": "1000423",
-    "strContent": "Consume: <color=#FFDE00>%s x%s</color>.\nTrade: <color=#FFDE00>Space Revelation %s x%s</color>.\nDo you want to confirm?",
+    "strContent": "Spend: <color=#FFDE00>%s x%s</color>.\nTrade: <color=#FFDE00>Space Revelation %s x%s</color>.\nDo you want to confirm?",
     "option1": "Cancel",
     "showName": "AAAAAA==",
     "option2": "Never mind."
@@ -8751,7 +8751,7 @@
   },
   {
     "sn": "1012006",
-    "strContent": "Consume: <color=#FFDE00>%s x%s</color>.\nTrade: <color=#FFDE00>%s x%s</color>.\nDo you want to confirm?",
+    "strContent": "Spend: <color=#FFDE00>%s x%s</color>.\nTrade: <color=#FFDE00>%s x%s</color>.\nConfirm trade?",
     "option1": "Cancel",
     "showName": "AAAAAA==",
     "option2": "Never mind."
@@ -10116,8 +10116,8 @@
   },
   {
     "sn": "1019123",
-    "strContent": "Would you like to spend time with Kurotani?",
-    "option1": "Spend time with Kurotani",
+    "strContent": "How should I answer...?",
+    "option1": "If you insist...",
     "showName": "AAAAAA==",
     "option2": "I have other plans..."
   },
@@ -10256,31 +10256,31 @@
   },
   {
     "sn": "1020101",
-    "strContent": "Sounds like Yongen-Jaya is home to a <color=#FF423F>batting center</color>.\nIf you're interested, why not check it out?",
+    "strContent": "Sounds like Yongen-Jaya is home to a <color=#FF423F>batting\ncenter</color>. If you're interested, why not check\nit out?",
     "option1": "Let's go.",
     "showName": "L<#000000,u,#FFFFFF>fel",
-    "option2": "Never mind"
+    "option2": "Never mind."
   },
   {
     "sn": "1020102",
-    "strContent": "There's a <color=#FF423F>movie theater</color> on Shibuya's <color=#FF423F>Central Street</color>.\nIf you're interested, why not check it out?",
+    "strContent": "There's a <color=#FF423F>movie theater</color> on Shibuya's <color=#FF423F>Central\nStreet</color>. If you're interested, why not check\nit out?",
     "option1": "Let's go.",
     "showName": "L<#000000,u,#FFFFFF>fel",
-    "option2": "Never mind"
+    "option2": "Never mind."
   },
   {
     "sn": "1020103",
-    "strContent": "Shinjuku's <color=#FF423F>Red-light District</color> seems quite bustling.\nIf you're interested, why not check it out?",
+    "strContent": "Shinjuku's <color=#FF423F>Red-light District</color> seems quite\nbustling. If you're interested, why not check\nit out?",
     "option1": "Let's go.",
     "showName": "L<#000000,u,#FFFFFF>fel",
-    "option2": "Never mind"
+    "option2": "Never mind."
   },
   {
     "sn": "1020104",
-    "strContent": "Many <color=#FF423F>secondhand bookstores</color> line the streets in Jinbocho.\nIf you're interested, why not check it out?",
+    "strContent": "Many <color=#FF423F>secondhand bookstores</color> line the streets\nin Jinbocho. If you're interested, why not check\nit out?",
     "option1": "Let's go.",
     "showName": "L<#000000,u,#FFFFFF>fel",
-    "option2": "Never mind"
+    "option2": "Never mind."
   },
   {
     "sn": "1019194",
@@ -10301,21 +10301,21 @@
     "strContent": "It seems there's a <color=#FF423F>TV station</color> in Akasaka Mitsuke.\nIf you're interested, why not check it out?",
     "option1": "Let's go.",
     "showName": "L<#000000,u,#FFFFFF>fel",
-    "option2": "Never mind"
+    "option2": "Never mind."
   },
   {
     "sn": "1020106",
-    "strContent": "There seems to be a <color=#FF423F>park</color> rich in nature.\nIf you're interested, why not check it out?",
+    "strContent": "There seems to be a <color=#FF423F>park</color> filled with lush\ngreenery. If you're interested, why not check\nit out?",
     "option1": "Let's go.",
     "showName": "L<#000000,u,#FFFFFF>fel",
-    "option2": "Never mind"
+    "option2": "Never mind."
   },
   {
     "sn": "1020107",
     "strContent": "It seems there's a <color=#FF423F>planetarium</color> in Ikebukuro.\nIf you're interested, why not check it out?",
     "option1": "Let's go.",
     "showName": "L<#000000,u,#FFFFFF>fel",
-    "option2": "Never mind"
+    "option2": "Never mind."
   },
   {
     "sn": "1019181",
@@ -10368,7 +10368,7 @@
   },
   {
     "sn": "1019193",
-    "strContent": "What do you think, will you spend time with Ayaka?",
+    "strContent": "Do you want to spend time with Ayaka?",
     "option1": "Let's go together.",
     "showName": "L<#000000,u,#FFFFFF>fel",
     "option2": "I've got somewhere else to be..."
@@ -10410,10 +10410,10 @@
   },
   {
     "sn": "1020108",
-    "strContent": "Ueno's <color=#FF423F>Museum</color> is having an exhibition. If you're interested, why not check it out?",
+    "strContent": "Ueno's <color=#FF423F>museum</color> is having an exhibition.\nIf you're interested, why not check it out?",
     "option1": "Let's go.",
     "showName": "L<#000000,u,#FFFFFF>fel",
-    "option2": "Never mind"
+    "option2": "Never mind."
   },
   {
     "sn": "1019216",
@@ -10441,21 +10441,21 @@
     "strContent": "Should I spend time with Yumi?",
     "option1": "Spend time with Yumi",
     "showName": "AAAAAA==",
-    "option2": "Maybe another time."
+    "option2": "Maybe another time"
   },
   {
     "sn": "1019185",
     "strContent": "Yumi seems to be\ndeep in thought...",
-    "option1": "Talk to Yumi.",
+    "option1": "Talk to Yumi",
     "showName": "AAAAAA==",
-    "option2": "Maybe not today."
+    "option2": "Come back another time"
   },
   {
     "sn": "1020109",
-    "strContent": "Akihabara is full of <color=#FF423F>various hobby shops</color>.\nYou could delve into them if that sounds interesting.",
+    "strContent": "Akihabara is full of <color=#FF423F>various hobby shops</color>.\nYou could delve into them if that sounds\ninteresting.",
     "option1": "Let's go.",
     "showName": "L<#000000,u,#FFFFFF>fel",
-    "option2": "Never mind"
+    "option2": "Never mind."
   },
   {
     "sn": "1019222",
@@ -10469,21 +10469,21 @@
     "strContent": "It seems there's an <color=#FF423F>amusement park</color> in\nSuidobashi. You could visit it if that\nsounds amusing.",
     "option1": "Let's go.",
     "showName": "L<#000000,u,#FFFFFF>fel",
-    "option2": "Never mind"
+    "option2": "Never mind."
   },
   {
     "sn": "1020111",
     "strContent": "Asakusa has <color=#FF423F>historic streets</color> and an <color=#FF423F>\nobservation deck with a great view</color>. You could\nvisit them if that's up your alley.",
     "option1": "Let's go.",
     "showName": "L<#000000,u,#FFFFFF>fel",
-    "option2": "Never mind"
+    "option2": "Never mind."
   },
   {
     "sn": "1020112",
     "strContent": "Kanda's <color=#FF423F>churches</color> are a place where all\nsorts of people congregate. You could visit\nthem if that sounds interesting.",
     "option1": "Let's go.",
     "showName": "L<#000000,u,#FFFFFF>fel",
-    "option2": "Never mind"
+    "option2": "Never mind."
   },
   {
     "sn": "1019214",
@@ -10501,24 +10501,24 @@
   },
   {
     "sn": "1020113",
-    "strContent": "Maihama is home to a massive <color=#FF423F>theme park</color>.\nYou could give it a whirl if that\nsounds interesting.",
+    "strContent": "Maihama is home to a massive <color=#FF423F>theme park</color>.\nYou could give it a whirl if that sounds\ninteresting.",
     "option1": "Let's go.",
     "showName": "L<#000000,u,#FFFFFF>fel",
-    "option2": "Never mind"
+    "option2": "Never mind."
   },
   {
     "sn": "1020114",
-    "strContent": "It seems there's a <color=#FF423F>fancy sushi restaurant</color>\nin Ginza. It may take courage to go... Could\nbe quite the feast if you're up for it.",
+    "strContent": "It seems there's a <color=#FF423F>fancy sushi restaurant</color> in\nGinza. It may take courage to go... Could be\nquite the feast if you're up for it.",
     "option1": "Let's go.",
     "showName": "L<#000000,u,#FFFFFF>fel",
-    "option2": "Never mind"
+    "option2": "Never mind."
   },
   {
     "sn": "1020115",
     "strContent": "Tsukishima seems to be lined with <color=#FF423F>monjayaki\nshops</color>. You could grab a bite at one if that\nsounds appealing.",
     "option1": "Let's go.",
     "showName": "L<#000000,u,#FFFFFF>fel",
-    "option2": "Never mind"
+    "option2": "Never mind."
   },
   {
     "sn": "1019226",
@@ -10532,102 +10532,102 @@
     "strContent": "It seems there's a <color=#FF423F>Ferris wheel</color> at the\n<color=#FF423F>amusement park</color> in Odaiba. You could ride it\nif that sounds enjoyable.",
     "option1": "Let's go.",
     "showName": "L<#000000,u,#FFFFFF>fel",
-    "option2": "Never mind"
+    "option2": "Never mind."
   },
   {
     "sn": "1020117",
     "strContent": "Aside from<color=#FF423F>swimming</color>, Miura Beach seems to be\na place with many fun activities. You could\ngo sometime if that sounds interesting.",
     "option1": "Let's go.",
     "showName": "L<#000000,u,#FFFFFF>fel",
-    "option2": "Never mind"
+    "option2": "Never mind."
   },
   {
     "sn": "1020118",
     "strContent": "Motomachi Chinatown seems like a popular\nplace to go on a <color=#FF423F>food tour</color>. You could have\na taste if that sounds interesting.",
     "option1": "Let's go.",
     "showName": "L<#000000,u,#FFFFFF>fel",
-    "option2": "Never mind"
+    "option2": "Never mind."
   },
   {
     "sn": "1020119",
     "strContent": "Harajuku seems like a place of <color=#FF423F>cutting-edge\nculture</color>. You could witness it for yourself if\nthat sounds up your alley.",
     "option1": "Let's go.",
     "showName": "L<#000000,u,#FFFFFF>fel",
-    "option2": "Never mind"
+    "option2": "Never mind."
   },
   {
     "sn": "1020120",
     "strContent": "Ogikubo seems to have many famous <color=#FF423F>ramen\nshops</color>. You could dive into one if that\nsounds good.",
     "option1": "Let's go.",
     "showName": "L<#000000,u,#FFFFFF>fel",
-    "option2": "Never mind"
+    "option2": "Never mind."
   },
   {
     "sn": "1020121",
-    "strContent": "Seems there's a <color=#FF423F>fishing pond</color> in Ichigaya.\nWhy not try your hand at it, if you're\nfeeling up to it?",
+    "strContent": "Seems there's a <color=#FF423F>fishing pond</color> in Ichigaya. Why\nnot try your hand at it, if you're feeling up\nto it?",
     "option1": "Let's go.",
     "showName": "L<#000000,u,#FFFFFF>fel",
-    "option2": "Never mind"
+    "option2": "Never mind."
   },
   {
     "sn": "1020122",
     "strContent": "The <color=#FF423F>school</color> you attend is in Shimo-Kitazawa.\nIs that where we're headed?",
     "option1": "Let's go.",
     "showName": "L<#000000,u,#FFFFFF>fel",
-    "option2": "Never mind"
+    "option2": "Never mind."
   },
   {
     "sn": "1020123",
     "strContent": "Your <color=#FF423F>home</color> is in Zoshigaya. Would you like\nto go back there now?",
     "option1": "Let's go.",
     "showName": "L<#000000,u,#FFFFFF>fel",
-    "option2": "Never mind"
+    "option2": "Never mind."
   },
   {
     "sn": "1020124",
     "strContent": "Kichijoji's <color=#FF423F>shopping district</color> seems pretty\nlively. You could see it for yourself if that\nsounds interesting.",
     "option1": "Let's go.",
     "showName": "L<#000000,u,#FFFFFF>fel",
-    "option2": "Never mind"
+    "option2": "Never mind."
   },
   {
     "sn": "1020125",
-    "strContent": "There's a <color=#FF423F>movie theater</color> on Shibuya's\n<color=#FF423F>Central Street</color>. You could pass time there\nif that sounds enjoyable.",
+    "strContent": "There's a <color=#FF423F>movie theater</color> on Shibuya's\n<color=#FF423F>Central Street</color>. It may be a good way to pass\nthe time.",
     "option1": "Let's go.",
     "showName": "L<#000000,u,#FFFFFF>fel",
-    "option2": "Never mind"
+    "option2": "Never mind."
   },
   {
     "sn": "1020126",
     "strContent": "The <color=#FF423F>school</color> you attend is in Shimo-Kitazawa.\nIs that where we're headed?",
     "option1": "Let's go.",
     "showName": "L<#000000,u,#FFFFFF>fel",
-    "option2": "Never mind"
+    "option2": "Never mind."
   },
   {
     "sn": "1020127",
     "strContent": "There's a <color=#FF423F>Book Town</color> in Jinbocho. Is that\nwhere you're going?",
     "option1": "Let's go.",
     "showName": "L<#000000,u,#FFFFFF>fel",
-    "option2": "Never mind"
+    "option2": "Never mind."
   },
   {
     "sn": "1020128",
     "strContent": "There's a <color=#FF423F>Ferris wheel</color> at the <color=#FF423F>amusement\npark</color> in Odaiba. Is that where you're going?",
     "option1": "Let's go.",
     "showName": "L<#000000,u,#FFFFFF>fel",
-    "option2": "Never mind"
+    "option2": "Never mind."
   },
   {
     "sn": "1020129",
     "strContent": "There's a <color=#FF423F>planetarium</color> in Ikebukuro. Is that\nwhere you're going?",
     "option1": "Let's go.",
     "showName": "L<#000000,u,#FFFFFF>fel",
-    "option2": "Never mind"
+    "option2": "Never mind."
   },
   {
     "sn": "1020131",
-    "strContent": "You have not completed Crossroads of Fate: Castle Arc. Are you sure you want to play this arc?",
+    "strContent": "You have not completed the previous arc of Crossroads of Fate. Are you sure you want to play this arc?",
     "option1": "Confirm",
     "showName": "AAAAAA==",
     "option2": "Never mind"
@@ -10683,7 +10683,7 @@
   },
   {
     "sn": "1021007",
-    "strContent": "There's not much scenery to speak of here.\nLet's take photos somewhere else.",
+    "strContent": "This place does not offer much scenery.\nPhotos would be better taken elsewhere.",
     "option1": "AAAAAA==",
     "showName": "L<#000000,u,#FFFFFF>fel",
     "option2": "AAAAAA=="
@@ -11508,6 +11508,34 @@
     "option2": "AAAAAA=="
   },
   {
+    "sn": "1024019",
+    "strContent": "Kiyoshi Kurotani's Synergy mission is currently locked. Do you want to unlock it now? (Unlocking early may impact your experience of the story, so please choose carefully.)",
+    "option1": "Confirm",
+    "showName": "L<#000000,u,#FFFFFF>fel",
+    "option2": "Not now"
+  },
+  {
+    "sn": "1024020",
+    "strContent": "Kiyoshi Kurotani's Synergy mission has been unlocked.",
+    "option1": "AAAAAA==",
+    "showName": "AAAAAA==",
+    "option2": "AAAAAA=="
+  },
+  {
+    "sn": "1024021",
+    "strContent": "Yumi Shiina's Synergy mission is currently locked. Do you want to unlock it now? (Unlocking early may impact your experience of the story, so please choose carefully.)",
+    "option1": "Confirm",
+    "showName": "L<#000000,u,#FFFFFF>fel",
+    "option2": "Not now"
+  },
+  {
+    "sn": "1024022",
+    "strContent": "Yumi Shiina's Synergy mission has been unlocked.",
+    "option1": "AAAAAA==",
+    "showName": "AAAAAA==",
+    "option2": "AAAAAA=="
+  },
+  {
     "sn": "1025224",
     "strContent": "We're bound to get a high score for sure.",
     "option1": "AAAAAA==",
@@ -11698,35 +11726,35 @@
   },
   {
     "sn": "1027001",
-    "strContent": "If it keeps on like this, it'll be a cakewalk.",
+    "strContent": "If it keeps on like this,\nit'll be a cakewalk.",
     "option1": "AAAAAA==",
     "showName": "AAAAAA==",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1027002",
-    "strContent": "Since it's you, I doubt you'll have any problems.",
+    "strContent": "Since it's you, I doubt you'll\nhave any problems.",
     "option1": "AAAAAA==",
     "showName": "AAAAAA==",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1036026",
-    "strContent": "Spend {0} {1} to reset the wait time?",
+    "strContent": "Do you want to spend {0} {1} to reset the wait time?",
     "option1": "Confirm",
     "showName": "L<#000000,u,#FFFFFF>fel",
     "option2": "Never mind."
   },
   {
     "sn": "1027003",
-    "strContent": "All set?\nYou better give it all you got!",
+    "strContent": "All set? You better give it\nall you got!",
     "option1": "AAAAAA==",
     "showName": "AAAAAA==",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1027004",
-    "strContent": "What...\nis that the best you got?",
+    "strContent": "What... Is that the best\nyou can muster?",
     "option1": "AAAAAA==",
     "showName": "AAAAAA==",
     "option2": "AAAAAA=="
@@ -11761,7 +11789,7 @@
   },
   {
     "sn": "1027009",
-    "strContent": "That was a flawless performance.\nI'm in awe of your talent.",
+    "strContent": "A flawless performance.\nI'm in awe of your talent.",
     "option1": "AAAAAA==",
     "showName": "AAAAAA==",
     "option2": "AAAAAA=="
@@ -12111,14 +12139,14 @@
   },
   {
     "sn": "1036012",
-    "strContent": "%s is currently at Rank %s. They will need to be Rank %s or higher in order to rank up. While giving them a gift this time won't increase their rank, it will increase their Synergy. Would you like to give them a gift?",
+    "strContent": "%s is currently at Lv. %s. It must be Lv. %s or higher to unlock the next rank. This gift won't unlock the next rank, but it will still increase your Synergy. Do you want to give them this gift?",
     "option1": "Confirm",
     "showName": "L<#000000,u,#FFFFFF>fel",
     "option2": "Never mind."
   },
   {
     "sn": "1036013",
-    "strContent": "%s is currently at Rank %s. They must be Rank %s. %s is at Rank %s. They must be Rank %s. While giving them a gift this time won't increase their rank, it will increase their Synergy. Would you like to give them a gift?",
+    "strContent": "%s is currently at Rank %s. They must be Rank %s. %s is at Rank %s. They must be Rank %s. This gift won't unlock the next rank, but it will still increase your Synergy. Do you want to give them this gift?",
     "option1": "Confirm",
     "showName": "L<#000000,u,#FFFFFF>fel",
     "option2": "Never mind."
@@ -13133,7 +13161,7 @@
   },
   {
     "sn": "1047009",
-    "strContent": "Stage progression has not reached %s.\nQuick Clear this stage?",
+    "strContent": "Stage progression has not reached %s.\nDo you want to Quick Clear this stage?",
     "option1": "Confirm",
     "showName": "L<#000000,u,#FFFFFF>fel",
     "option2": "Never mind."
@@ -13147,7 +13175,7 @@
   },
   {
     "sn": "1047011",
-    "strContent": "Retreating will reset the stage.\nRetreat?",
+    "strContent": "Retreating will reset the stage.\nDo you want to retreat?",
     "option1": "Confirm",
     "showName": "L<#000000,u,#FFFFFF>fel",
     "option2": "Never mind."
@@ -13161,21 +13189,21 @@
   },
   {
     "sn": "1047013",
-    "strContent": "If you quit, you will not earn rewards.\nExit anyway?",
+    "strContent": "If you quit, you will not earn rewards.\nDo you want to exit anyway?",
     "option1": "Confirm",
     "showName": "L<#000000,u,#FFFFFF>fel",
     "option2": "Never mind."
   },
   {
     "sn": "1047014",
-    "strContent": "If you quit, you will not receive any rewards. Stamina will not be used.\nExit anyway?",
+    "strContent": "If you quit, you will not receive any rewards. Stamina will not be used.\nDo you want to exit anyway?",
     "option1": "Confirm",
     "showName": "L<#000000,u,#FFFFFF>fel",
     "option2": "Never mind."
   },
   {
     "sn": "1047015",
-    "strContent": "If you quit, your progress will be lost.\nExit anyway?",
+    "strContent": "If you quit, your progress will be lost.\nDo you want to exit anyway?",
     "option1": "Confirm",
     "showName": "L<#000000,u,#FFFFFF>fel",
     "option2": "Never mind."
@@ -13196,28 +13224,28 @@
   },
   {
     "sn": "1047018",
-    "strContent": "If you retreat, you will not earn any rank rewards.\nRetreat?",
+    "strContent": "Do you want to quit this stage?",
     "option1": "Confirm",
     "showName": "L<#000000,u,#FFFFFF>fel",
     "option2": "Never mind."
   },
   {
     "sn": "1047019",
-    "strContent": "If you restart, you will start the stage over from the beginning.\nRestart?",
+    "strContent": "Do you want to restart this stage from the beginning?",
     "option1": "Confirm",
     "showName": "L<#000000,u,#FFFFFF>fel",
     "option2": "Never mind."
   },
   {
     "sn": "1047020",
-    "strContent": "You don't have enough stamina.\nWould you like to recover stamina?",
+    "strContent": "You don't have enough stamina.\nDo you want to recover stamina?",
     "option1": "Confirm",
     "showName": "L<#000000,u,#FFFFFF>fel",
     "option2": "Never mind."
   },
   {
     "sn": "1047021",
-    "strContent": "Retreating will return you to the stage entrance.\nRetreat?",
+    "strContent": "Retreating will return you to the stage entrance.\nDo you want to retreat?",
     "option1": "Confirm",
     "showName": "L<#000000,u,#FFFFFF>fel",
     "option2": "Never mind."
@@ -13252,14 +13280,14 @@
   },
   {
     "sn": "1047101",
-    "strContent": "If you quit, your challenge record will automatically be saved.\nExit?",
+    "strContent": "If you quit, your challenge record will automatically be saved.\nDo you want to exit?",
     "option1": "Confirm",
     "showName": "L<#000000,u,#FFFFFF>fel",
     "option2": "Never mind."
   },
   {
     "sn": "1047102",
-    "strContent": "Resetting the stage will erase your challenge record and end the stage.\nReset?",
+    "strContent": "Resetting the stage will erase your challenge record and end the stage.\nDo you want to reset?",
     "option1": "Confirm",
     "showName": "L<#000000,u,#FFFFFF>fel",
     "option2": "Never mind."
@@ -13287,7 +13315,7 @@
   },
   {
     "sn": "1047106",
-    "strContent": "If you retreat, you will not clear the star level requirements.\nRetreat?",
+    "strContent": "If you retreat, you will not clear the star level requirements.\nDo you want to retreat?",
     "option1": "Confirm",
     "showName": "L<#000000,u,#FFFFFF>fel",
     "option2": "Never mind."
@@ -13315,7 +13343,7 @@
   },
   {
     "sn": "1047110",
-    "strContent": "If you choose to retreat, your score will not be recorded.\nRetreat?",
+    "strContent": "If you choose to retreat, your score will not be recorded.\nDo you want to retreat?",
     "option1": "Confirm",
     "showName": "L<#000000,u,#FFFFFF>fel",
     "option2": "Never mind."
@@ -13364,7 +13392,7 @@
   },
   {
     "sn": "1047205",
-    "strContent": "Clearing <color=#FF423F>%s</color> will unlock Café Leblanc.\nWould you like to track this now?",
+    "strContent": "Clearing <color=#FF423F>%s</color> will unlock Café Leblanc.\nDo you want to track this now?",
     "option1": "Confirm",
     "showName": "L<#000000,u,#FFFFFF>fel",
     "option2": "Never mind."
@@ -13392,7 +13420,7 @@
   },
   {
     "sn": "1047209",
-    "strContent": "Clearing <color=#FF423F>%s</color> will unlock Crossroads of Fate: Museum and Bank Arcs.\nWould you like to track this now?",
+    "strContent": "Clearing <color=#FF423F>%s</color> will unlock Crossroads of Fate: Museum and Bank Arcs.\nDo you want to  track this now?",
     "option1": "Confirm",
     "showName": "L<#000000,u,#FFFFFF>fel",
     "option2": "Never mind."
@@ -13455,7 +13483,7 @@
   },
   {
     "sn": "1047220",
-    "strContent": "The abnormality effects have not been saved. Do you want to save them?",
+    "strContent": "Do you want to save the battle effects you changed?",
     "option1": "Confirm",
     "showName": "L<#000000,u,#FFFFFF>fel",
     "option2": "Never mind."
@@ -13476,7 +13504,7 @@
   },
   {
     "sn": "1047225",
-    "strContent": "Clearing the event <color=#FF423F>%s</color> will unlock Crossroads of Fate: Pyramid Arc.\nWould you like to track this now?",
+    "strContent": "Clearing the event <color=#FF423F>%s</color> will unlock Crossroads of Fate: Pyramid Arc.\nDo you want to  track this now?",
     "option1": "Confirm",
     "showName": "L<#000000,u,#FFFFFF>fel",
     "option2": "Never mind."
@@ -13602,7 +13630,7 @@
   },
   {
     "sn": "1050004",
-    "strContent": "If you quit, you will not earn rewards.\nExit anyway?",
+    "strContent": "If you quit, you will not earn rewards.\nDo you want to exit anyway?",
     "option1": "Confirm",
     "showName": "L<#000000,u,#FFFFFF>fel",
     "option2": "Never mind."
@@ -13616,14 +13644,14 @@
   },
   {
     "sn": "1050006",
-    "strContent": "You need <color=#FF423F>%d</color> stamina to claim the rewards.\nPurchase more stamina?",
+    "strContent": "You need <color=#FF423F>%d</color> stamina to claim the rewards.\nDo you want to purchase more stamina?",
     "option1": "Confirm",
     "showName": "L<#000000,u,#FFFFFF>fel",
     "option2": "Never mind."
   },
   {
     "sn": "1050007",
-    "strContent": "You need <color=#FF423F>%d</color> stamina for the challenge.\nPurchase more stamina?",
+    "strContent": "You need <color=#FF423F>%d</color> stamina for the challenge.\nDo you want to purchase more stamina?",
     "option1": "Confirm",
     "showName": "L<#000000,u,#FFFFFF>fel",
     "option2": "Never mind."
@@ -13637,7 +13665,7 @@
   },
   {
     "sn": "1050008",
-    "strContent": "Spend <color=#FF423F>%d</color> stamina to take on the challenge?\nPossible rewards: <color=#FFD145>Personas</color>.",
+    "strContent": "Do you want to spend <color=#FF423F>%d</color> stamina to take on the challenge?\nPossible rewards: <color=#FFD145>Personas</color>.",
     "option1": "Confirm",
     "showName": "L<#000000,u,#FFFFFF>fel",
     "option2": "Never mind."
@@ -13651,28 +13679,28 @@
   },
   {
     "sn": "1050009",
-    "strContent": "Spend <color=#FF423F>%d</color> stamina to take on the challenge?\nPossible rewards: <color=#FFD145>Tons of Konpaku Gems</color>.",
+    "strContent": "Do you want to spend <color=#FF423F>%d</color> stamina to take on the challenge?\nPossible rewards: <color=#FFD145>Tons of Konpaku Gems</color>.",
     "option1": "Confirm",
     "showName": "L<#000000,u,#FFFFFF>fel",
     "option2": "Never mind."
   },
   {
     "sn": "1050010",
-    "strContent": "Spend <color=#FF423F>%d</color> stamina to take on the challenge?\nPossible rewards: <color=#FFD145>Phantom Thief level-up materials</color>.",
+    "strContent": "Do you want to spend <color=#FF423F>%d</color> stamina to take on the challenge?\nPossible rewards: <color=#FFD145>Phantom Thief level-up materials</color>.",
     "option1": "Confirm",
     "showName": "L<#000000,u,#FFFFFF>fel",
     "option2": "Never mind."
   },
   {
     "sn": "1050011",
-    "strContent": "Spend <color=#FF423F>%d</color> stamina to take on the challenge?\nPossible rewards: <color=#FFD145>Weapon enhancement materials</color>.",
+    "strContent": "Do you want to spend <color=#FF423F>%d</color> stamina to take on the challenge?\nPossible rewards: <color=#FFD145>Weapon enhancement materials</color>.",
     "option1": "Confirm",
     "showName": "L<#000000,u,#FFFFFF>fel",
     "option2": "Never mind."
   },
   {
     "sn": "1050012",
-    "strContent": "Spend <color=#FF423F>%d</color> stamina to take on the challenge?\nPossible rewards: <color=#FFD145>Persona enhancement materials</color>.",
+    "strContent": "Do you want to spend <color=#FF423F>%d</color> stamina to take on the challenge?\nPossible rewards: <color=#FFD145>Persona enhancement materials</color>.",
     "option1": "Confirm",
     "showName": "L<#000000,u,#FFFFFF>fel",
     "option2": "Never mind."
@@ -13686,42 +13714,42 @@
   },
   {
     "sn": "1050014",
-    "strContent": "Spend <color=#FF423F>%d</color> stamina to take on the challenge?\nRandom rewards: Pazuzu, Suzaku, Sarasvati, Ame-no-Uzume, Mandrake, or Agathion.",
+    "strContent": "Do you want to spend <color=#FF423F>%d</color> stamina to take on the challenge?\nRandom rewards: Pazuzu, Suzaku, Sarasvati, Ame-no-Uzume, Mandrake, or Agathion.",
     "option1": "Confirm",
     "showName": "L<#000000,u,#FFFFFF>fel",
     "option2": "Never mind."
   },
   {
     "sn": "1050015",
-    "strContent": "Spend <color=#FF423F>%d</color> stamina to take on the challenge?\nRandom rewards: Byakko, Shiki-Ouji, Eligor, High Pixie, Archangel, or Jack Frost.",
+    "strContent": "Do you want to spend <color=#FF423F>%d</color> stamina to take on the challenge?\nRandom rewards: Byakko, Shiki-Ouji, Eligor, High Pixie, Archangel, or Jack Frost.",
     "option1": "Confirm",
     "showName": "L<#000000,u,#FFFFFF>fel",
     "option2": "Never mind."
   },
   {
     "sn": "1050016",
-    "strContent": "Spend <color=#FF423F>%d</color> stamina to take on the challenge?\nRandom rewards: Moloch, Unicorn, Orthrus, Neko Shogun, Oni, or Sudama.",
+    "strContent": "Do you want to spend <color=#FF423F>%d</color> stamina to take on the challenge?\nRandom rewards: Moloch, Unicorn, Orthrus, Neko Shogun, Oni, or Sudama.",
     "option1": "Confirm",
     "showName": "L<#000000,u,#FFFFFF>fel",
     "option2": "Never mind."
   },
   {
     "sn": "1050017",
-    "strContent": "Spend <color=#FF423F>%d</color> stamina to take on the challenge?\nRandom rewards: Oberon, Lamia, Clotho, Phoenix, Inugami, or Makami.",
+    "strContent": "Do you want to spend <color=#FF423F>%d</color> stamina to take on the challenge?\nRandom rewards: Oberon, Lamia, Clotho, Phoenix, Inugami, or Makami.",
     "option1": "Confirm",
     "showName": "L<#000000,u,#FFFFFF>fel",
     "option2": "Never mind."
   },
   {
     "sn": "1050018",
-    "strContent": "Spend <color=#FF423F>%d</color> stamina to take on the challenge?\nRandom rewards: Arahabaki, Jikokuten, Lilim, Sucubus, or Obariyon.",
+    "strContent": "Do you want to spend <color=#FF423F>%d</color> stamina to take on the challenge?\nRandom rewards: Arahabaki, Jikokuten, Lilim, Sucubus, or Obariyon.",
     "option1": "Confirm",
     "showName": "L<#000000,u,#FFFFFF>fel",
     "option2": "Never mind."
   },
   {
     "sn": "1050019",
-    "strContent": "Spend <color=#FF423F>%d</color> stamina to take on the challenge?\nRandom rewards: Thor, Jatayu, Anubis, Pixie, or Jack-o'-Lantern.",
+    "strContent": "Do you want to spend <color=#FF423F>%d</color> stamina to take on the challenge?\nRandom rewards: Thor, Jatayu, Anubis, Pixie, or Jack-o'-Lantern.",
     "option1": "Confirm",
     "showName": "L<#000000,u,#FFFFFF>fel",
     "option2": "Never mind."
@@ -13798,21 +13826,21 @@
   },
   {
     "sn": "1047221",
-    "strContent": "The abnormality effects can't be changed on your own in Palace Mode.",
+    "strContent": "Battle effects can't be changed on fixed difficulty.",
     "option1": "AAAAAA==",
     "showName": "AAAAAA==",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1047217",
-    "strContent": "This irregularity will be unlocked once you clear <color=#FFD145>%s</color><color=#FF423F>%s</color>.\nDo you want to attempt it?",
+    "strContent": "These battle effects will be unlocked once you clear <color=#FFD145>%s</color>: <color=#FF423F>%s</color>.\nDo you want to attempt it?",
     "option1": "Confirm",
     "showName": "L<#000000,u,#FFFFFF>fel",
     "option2": "Never mind."
   },
   {
     "sn": "1047218",
-    "strContent": "Aside from Wonder, you must deploy Phantom Thief <color=#FFD145>%s</color>.",
+    "strContent": "In addition to Wonder, you must deploy <color=#FFD145>%s</color> Phantom Thieves.",
     "option1": "AAAAAA==",
     "showName": "AAAAAA==",
     "option2": "AAAAAA=="
@@ -13882,15 +13910,22 @@
   },
   {
     "sn": "1047222",
-    "strContent": "Clear all selected abnormality effects?",
+    "strContent": "Do you want to remove all of the battle effects you have selected?",
     "option1": "Confirm",
+    "showName": "L<#000000,u,#FFFFFF>fel",
+    "option2": "Never mind."
+  },
+  {
+    "sn": "1047246",
+    "strContent": "You have not yet cleared episode 3-10 of the Bank Arc. This mode may impact your experience of the story. Do you still wish to continue?",
+    "option1": "OK",
     "showName": "L<#000000,u,#FFFFFF>fel",
     "option2": "Never mind."
   },
   {
     "sn": "1049018",
     "strContent": "Thieves Den can now be unlocked. Do you want to do so now? Unlocking before the side mission Break Open the Unknown may affect your relationship with the Saleswoman Shadow.\n*This won't affect the story content.",
-    "option1": "OK",
+    "option1": "Confirm",
     "showName": "L<#000000,u,#FFFFFF>fel",
     "option2": "Never mind."
   },
@@ -13931,7 +13966,7 @@
   },
   {
     "sn": "1050501",
-    "strContent": "If you retreat, points will not be recorded.\nRetreat?",
+    "strContent": "If you retreat, points will not be recorded.\nDo you want to retreat?",
     "option1": "Confirm",
     "showName": "L<#000000,u,#FFFFFF>fel",
     "option2": "Never mind."
@@ -14212,14 +14247,14 @@
   {
     "sn": "1051027",
     "strContent": "It's currently raining. Please wait until the weather is <color=#ffc000>clear</color>.",
-    "option1": "Confirm",
+    "option1": "OK",
     "showName": "AAAAAA==",
     "option2": "Never mind."
   },
   {
     "sn": "1051028",
     "strContent": "You can't go there right now. Please try again after the weather or time of day has changed.",
-    "option1": "OK",
+    "option1": "Confirm",
     "showName": "AAAAAA==",
     "option2": "Never mind."
   },
@@ -14281,7 +14316,7 @@
   },
   {
     "sn": "1052009",
-    "strContent": "Unlocked by completing the mission \"%s\".",
+    "strContent": "Unlocked by completing the mission \"%s.\"",
     "option1": "AAAAAA==",
     "showName": "AAAAAA==",
     "option2": "AAAAAA=="
@@ -14309,14 +14344,14 @@
   },
   {
     "sn": "1052083",
-    "strContent": "If you quit the stage, your current sales progress will be saved. Quit now?",
+    "strContent": "If you quit the stage, your current sales progress will be saved. Do you want to quit now?",
     "option1": "Confirm",
     "showName": "L<#000000,u,#FFFFFF>fel",
     "option2": "Never mind."
   },
   {
     "sn": "1052084",
-    "strContent": "Retreating will reset the stage. Retreat?",
+    "strContent": "Retreating will reset the stage. Do you want to retreat?",
     "option1": "Confirm",
     "showName": "L<#000000,u,#FFFFFF>fel",
     "option2": "Never mind."
@@ -14393,7 +14428,7 @@
   },
   {
     "sn": "1052020",
-    "strContent": "If you quit, your stage information will be lost. Exit anyway?",
+    "strContent": "If you quit, your stage information will be lost. Do you want to exit anyway?",
     "option1": "Confirm",
     "showName": "L<#000000,u,#FFFFFF>fel",
     "option2": "Never mind."
@@ -14456,7 +14491,7 @@
   },
   {
     "sn": "1052029",
-    "strContent": "When you quit this stage, all of your goals will be reset. Quit now?",
+    "strContent": "When you quit this stage, all of your goals will be reset. Do you want to quit now?",
     "option1": "Confirm",
     "showName": "L<#000000,u,#FFFFFF>fel",
     "option2": "Never mind."
@@ -14491,7 +14526,7 @@
   },
   {
     "sn": "1052034",
-    "strContent": "You have not placed all the robots. Start the battle?",
+    "strContent": "You have not placed all the robots. Do you want to start the battle?",
     "option1": "Confirm",
     "showName": "L<#000000,u,#FFFFFF>fel",
     "option2": "Never mind."
@@ -14659,7 +14694,7 @@
   },
   {
     "sn": "1052058",
-    "strContent": "Track {0}?",
+    "strContent": "Do you want to track the mission {0}?",
     "option1": "Confirm",
     "showName": "L<#000000,u,#FFFFFF>fel",
     "option2": "Never mind."
@@ -14813,21 +14848,21 @@
   },
   {
     "sn": "1052085",
-    "strContent": "Clearing <color=#FF423F>{0}</color> will unlock Water Gun Fight. Would you like to track this now?",
+    "strContent": "Clearing <color=#FF423F>{0}</color> will unlock Water Gun Fight. Do you want to  track this now?",
     "option1": "Confirm",
     "showName": "L<#000000,u,#FFFFFF>fel",
     "option2": "Never mind."
   },
   {
     "sn": "1052086",
-    "strContent": "Clearing <color=#FF423F>{0}</color> will unlock Shaved Ice Shuffle. Would you like to track this now?",
+    "strContent": "Clearing <color=#FF423F>{0}</color> will unlock Shaved Ice Shuffle. Do you want to  track this now?",
     "option1": "Confirm",
     "showName": "L<#000000,u,#FFFFFF>fel",
     "option2": "Never mind."
   },
   {
     "sn": "1052087",
-    "strContent": "Clearing <color=#FF423F>{0}</color> will unlock Strange Changes on the Beach. Would you like to track this now?",
+    "strContent": "Clearing <color=#FF423F>{0}</color> will unlock Strange Changes on the Beach. Do you want to  track this now?",
     "option1": "Confirm",
     "showName": "L<#000000,u,#FFFFFF>fel",
     "option2": "Never mind."
@@ -15170,21 +15205,21 @@
   },
   {
     "sn": "1052501",
-    "strContent": "Unlocked by completing the mission \"%s\".",
+    "strContent": "Unlocked by completing the mission \"%s.\"",
     "option1": "AAAAAA==",
     "showName": "AAAAAA==",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1052502",
-    "strContent": "Retreating will result in loss of progress. Retreat?",
+    "strContent": "Retreating will result in loss of progress. Do you want to retreat?",
     "option1": "Confirm",
     "showName": "L<#000000,u,#FFFFFF>fel",
     "option2": "Never mind."
   },
   {
     "sn": "1052503",
-    "strContent": "All progress will be lost if the challenge is restarted. Restart?",
+    "strContent": "All progress will be lost if the challenge is restarted. Do you want to restart?",
     "option1": "Confirm",
     "showName": "L<#000000,u,#FFFFFF>fel",
     "option2": "Never mind."
@@ -15296,7 +15331,7 @@
   },
   {
     "sn": "1053003",
-    "strContent": "The video has not finished. If you quit now, you will not receive the watch reward. Quit anyway?",
+    "strContent": "The video has not finished. If you quit now, you will not receive the watch reward. Do you want to quit anyway?",
     "option1": "Confirm",
     "showName": "L<#000000,u,#FFFFFF>fel",
     "option2": "Never mind."
@@ -15506,7 +15541,7 @@
   },
   {
     "sn": "1056015",
-    "strContent": "It's impossible from here.\nNo need to waste our effort.",
+    "strContent": "It's impossible to do that\nfrom this position. No use\nin wasting our effort.",
     "option1": "AAAAAA==",
     "showName": "L<#000000,u,#FFFFFF>fel",
     "option2": "AAAAAA=="
@@ -15653,7 +15688,7 @@
   },
   {
     "sn": "1057009",
-    "strContent": "Anyone else have a good feeling about this one?",
+    "strContent": "Anyone else have a good\nfeeling about this one?",
     "option1": "AAAAAA==",
     "showName": "Motoha Arai",
     "option2": "AAAAAA=="
@@ -16367,7 +16402,7 @@
   },
   {
     "sn": "1062009",
-    "strContent": "There might be something important here.\nWhy don't we look around?",
+    "strContent": "There could be something\nimportant inside. Why don't\nwe take a look?",
     "option1": "AAAAAA==",
     "showName": "Makoto Niijima",
     "option2": "AAAAAA=="
@@ -20588,7 +20623,7 @@
   },
   {
     "sn": "1073005",
-    "strContent": "This Phantom Thief is on display. Would you like to set them as your Assist Phantom Thief?",
+    "strContent": "This Phantom Thief is on display. Do you want to set them as your Assist Phantom Thief?",
     "option1": "Confirm",
     "showName": "L<#000000,u,#FFFFFF>fel",
     "option2": "Never mind."
@@ -20602,7 +20637,7 @@
   },
   {
     "sn": "1073007",
-    "strContent": "Restore default controls? (Resets all control settings.)",
+    "strContent": "Do you want to restore default controls? (This will reset all control settings.)",
     "option1": "Confirm",
     "showName": "Settings Notifications",
     "option2": "Never mind."
@@ -20637,14 +20672,14 @@
   },
   {
     "sn": "1073012",
-    "strContent": "A connected gamepad has been detected.\nWould you like to activate gamepad input? (This will restart the game.)",
+    "strContent": "A connected gamepad has been detected.\nDo you want to activate gamepad input? (This will restart the game.)",
     "option1": "Confirm",
     "showName": "Gamepad Hints",
     "option2": "Never mind."
   },
   {
     "sn": "1073013",
-    "strContent": "Restore default controls? (Resets all control settings.)",
+    "strContent": "Do you want to restore default controls? (This will reset all control settings.)",
     "option1": "Confirm",
     "showName": "Enter",
     "option2": "Never mind."
@@ -20826,7 +20861,7 @@
   },
   {
     "sn": "1074002",
-    "strContent": "Use %s Meta Jewels to change your name?",
+    "strContent": "Do you want to use %s Meta Jewels to change your name?",
     "option1": "Change",
     "showName": "L<#000000,u,#FFFFFF>fel",
     "option2": "Never mind."
@@ -20931,7 +20966,7 @@
   },
   {
     "sn": "1080014",
-    "strContent": "The discount is only available if you pull 10 contracts. Would you like to pull 1 contract?",
+    "strContent": "The discount is only available if you pull 10 contracts. Are you sure you want to draw 1 contract?",
     "option1": "Confirm",
     "showName": "L<#000000,u,#FFFFFF>fel",
     "option2": "Never mind."
@@ -21008,7 +21043,7 @@
   },
   {
     "sn": "1083001",
-    "strContent": "Close the Control Center?\nYou will recieve Mod Tickets and Route Goal completion based on your current progress.",
+    "strContent": "Do you want to quit the Control Center?\nYou will recieve Mod Tickets and Route Goal completion based on your current progress.",
     "option1": "Confirm",
     "showName": "L<#000000,u,#FFFFFF>fel",
     "option2": "Never mind."
@@ -21169,7 +21204,7 @@
   },
   {
     "sn": "1083011",
-    "strContent": "You will lose %s set effects if you sell this.\nSell %s?",
+    "strContent": "You will lose %s set effects if you sell this.\nDo you want to sell %s?",
     "option1": "Confirm",
     "showName": "L<#000000,u,#FFFFFF>fel",
     "option2": "Never mind."
@@ -21218,7 +21253,7 @@
   },
   {
     "sn": "1082101",
-    "strContent": "Consume: <color=#FFDE00>%s x%s</color>.\nCraft: <color=#FFDE00>%s x%s</color>.\nConfirm?",
+    "strContent": "Spend: <color=#FFDE00>%s x%s</color>.\nCraft: <color=#FFDE00>%s x%s</color>.\nDo you want to confirm?",
     "option1": "Confirm",
     "showName": "L<#000000,u,#FFFFFF>fel",
     "option2": "Never mind."
@@ -21477,7 +21512,7 @@
   },
   {
     "sn": "1083044",
-    "strContent": "You need %s Railway Coins to increase your bag space.\nDo you wish to increase it?",
+    "strContent": "You need %s Railway Coins to increase your bag space.\nDo you want to increase it?",
     "option1": "Confirm",
     "showName": "L<#000000,u,#FFFFFF>fel",
     "option2": "Never mind."
@@ -21624,7 +21659,7 @@
   },
   {
     "sn": "1085006",
-    "strContent": "You will unlock this season's %s after using. Would you like to use it?",
+    "strContent": "You will unlock this season's %s after using. Do you want to use it?",
     "option1": "Confirm",
     "showName": "L<#000000,u,#FFFFFF>fel",
     "option2": "Never mind."
@@ -23101,7 +23136,7 @@
   },
   {
     "sn": "1157222",
-    "strContent": "I can hear my ownfootsteps... Click,\nclack, click, clack...",
+    "strContent": "I can hear my own\nfootsteps... Click,\nclack, click, clack...",
     "option1": "AAAAAA==",
     "showName": "AAAAAA==",
     "option2": "AAAAAA=="
@@ -25908,7 +25943,7 @@
   },
   {
     "sn": "1209410",
-    "strContent": "You currently have insufficient stamina. Would you like to replenish your stamina immediately?",
+    "strContent": "You currently have insufficient stamina. Do you want to replenish your stamina now?",
     "option1": "Confirm",
     "showName": "L<#000000,u,#FFFFFF>fel",
     "option2": "Never mind."
@@ -26279,7 +26314,7 @@
   },
   {
     "sn": "1206051",
-    "strContent": "You unlocked the City Life activity\n<color=#ffc000>Stargaze with Haruna</color>.\nThere is a chance for it to appear each day.",
+    "strContent": "Activities with Haruna Nishimori are planned to be added to City Life in a future update.",
     "option1": "AAAAAA==",
     "showName": "AAAAAA==",
     "option2": "AAAAAA=="
@@ -26496,7 +26531,7 @@
   },
   {
     "sn": "1209306",
-    "strContent": "All treasure chests have been opened.",
+    "strContent": "All treasure has been found.",
     "option1": "AAAAAA==",
     "showName": "AAAAAA==",
     "option2": "AAAAAA=="
@@ -31690,7 +31725,7 @@
   },
   {
     "sn": "1303003",
-    "strContent": "Not enough consumables for activation.",
+    "strContent": "You don't have enough materials.",
     "option1": "AAAAAA==",
     "showName": "AAAAAA==",
     "option2": "AAAAAA=="

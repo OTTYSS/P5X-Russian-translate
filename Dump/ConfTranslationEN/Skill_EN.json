@@ -1052,7 +1052,7 @@
   {
     "sn": "112140",
     "name": "Make Sparks Fly",
-    "desc": "When using skills, gain 1 Chosen One stack.\nChosen One: Increase party's Fire damage by 5%, and when Kurotani attacks with a skill, he takes 4% of his current HP as damage. Lasts for 2 turns. Stacks up to 5 times.\nChosen One's duration is managed individually for each stack.",
+    "desc": "When using a skill, gain 1 Chosen One stack.\nChosen One: Increase the party's Fire damage by 5%. When Kurotani uses a skill, deal damage to Kurotani equal to 4% of his current HP. Lasts 2 turns and stacks up to 5 times.\nThe duration of Chosen One is handled individually for each stack.\nWhile active, change Kurotani's ranged attacks to Fire.",
     "descSimple": "When using a skill, gain 1 Chosen One.\nFor every stack, increase party's Fire dmg by 5% per stack, and while active. Kurotani takes 4% current HP as dmg (2 turns).",
     "levelUpList": "AAAAAA==",
     "levelUpValue": "AAAAAA==",
@@ -1112,7 +1112,7 @@
   {
     "sn": "112146",
     "name": "Contagious Passion",
-    "desc": "When <link=\"s|135\"><u>Chosen One</u></link> reaches 10 stacks, increase party's Fire damage by 30% for 2 turns.",
+    "desc": "Increase the party's Fire damage by 30% for every 10 <link=\"s|135\"><u>Chosen One</u></link> stacks gained for 2 turns.",
     "descSimple": "AAAAAA==",
     "levelUpList": "AAAAAA==",
     "levelUpValue": "AAAAAA==",
@@ -1702,8 +1702,8 @@
   {
     "sn": "116112",
     "name": "Bone-Chilling Cold",
-    "desc": "Deal Ice damage to random foes equal to <color=#FFFC40>^%s^</color> of Yusuke's Defense (5 hits). When Yusuke has a shield, increase damage by 30%. From the second attack onwards, prioritize new targets and decrease damage by 60% for each repeated hit on the same target (max decrease to 20%).",
-    "descSimple": "Ice dmg to random foes (%s Def, 5 hits). When Yusuke has shield, increase dmg 30%.\nRepeated hits on same foe deal 60% decreased dmg per hit (min 20% of Def).",
+    "desc": "Deal Ice damage to foes equal to <color=#FFFC40>^%s^</color> of Yusuke's Defense (5 hits). When Yusuke has a shield, increase damage by 30%. From the second hit, prioritize new targets and decrease damage by 60% for each hit on the same target (max decrease to 20%).",
+    "descSimple": "Ice dmg to foes (%s Def, 5 hits). When Yusuke has shield, increase dmg 30%.\nRepeated hits on same foe deal 60% decreased dmg per hit (min 20% of Def).",
     "levelUpList": "Skill Multiplier",
     "levelUpValue": "AAAAAA==",
     "contentBG": "A razor-sharp cold slices through foes, dealing Ice damage.",
@@ -1712,8 +1712,8 @@
   {
     "sn": "116113",
     "name": "Keen Eye",
-    "desc": "Change the next activated <link=\"s|123\"><u>Inspriation</u></link> to <link=\"s|172\"><u>Imagination</u></link>. \nImagination: Increase chance of counterattack to 100%, increase damage by <color=#FFFC40>^%s^</color> of Defense, and change target to all foes. If the effect is not activated by the start of Yusuke's next action, automatically activate it.\nFor 2 turns, gain a shield equal to <color=#FFFC40>^%s^</color> of Yusuke's Defense ＋ <color=#FFFC40>^%s^</color>, increase Fire resistance, and nullify spiritual ailments.\nAlso inflict <link=\"s|143\"><u>Taunt</u></link> on all foes for 2 turns.\nCoodown Time: 1 turn.",
-    "descSimple": "Next Inspiration changes to Imagination.\n100% chance to counterattack, increase dmg (%s Def), and target all foes. Gain shield (%s Def + %s, 2 turns), increase Fire resistance, and nullify spiritual ailments (2 turns).\nTaunt all foes (2 turns).",
+    "desc": "Evolve the next activated <link=\"s|123\"><u>Inspiration</u></link> to <link=\"s|172\"><u>Imagination</u></link>. \nImagination: Increase chance of counterattack to 100%, increase damage by <color=#FFFC40>^%s^</color> of Defense, and change target to all foes. If the effect is not activated by the start of Yusuke's next action, automatically activate it.\nGain a shield equal to <color=#FFFC40>^%s^</color> of Yusuke's Defense ＋ <color=#FFFC40>^%s^</color>, increase Fire resistance, and nullify spiritual ailments. Lasts for 2 turns.\nAlso inflict <link=\"s|143\"><u>Taunt</u></link> on all foes for 2 turns.\nCooldown Time: 1 turn.",
+    "descSimple": "Next Inspiration evolves to Imagination.\n100% chance to counterattack, increase dmg (%s Def), and target all foes. Gain shield (%s Def + %s, 2 turns), increase Fire resistance, and nullify spiritual ailments (2 turns).\nTaunt all foes (2 turns).",
     "levelUpList": "Skill Multiplier,Shield Multiplier,Shield Base Value",
     "levelUpValue": "AAAAAA==",
     "contentBG": "His extaordinary artist's eye allows him to assess his surroundings, steeling himself.",
@@ -1742,8 +1742,8 @@
   {
     "sn": "116140",
     "name": "Inspiration",
-    "desc": "When taking damage from a foe's skill, 65% chance to counterattack via <link=\"s|100\"><u>Resonance</u></link> effect and deal Ice damage equal to 88% of Defense.\nChange this effect to <link=\"s|172\"><u>Imagination</u></link> by using a skill.",
-    "descSimple": "When taking dmg from foe's skill, 65% to counterattack via Resonance effect and deal Ice dmg (88% Def).",
+    "desc": "When taking damage from a foe's skill, 65% chance to activate <link=\"s|100\"><u>Resonance</u></link> and counterattack, dealing Ice damage equal to 88% of Yusuke's Defense.\nEvolve this effect to <link=\"s|172\"><u>Imagination</u></link> by using a skill.",
+    "descSimple": "When taking dmg from foe's skill, 65% to activate Resonance to counterattack and deal Ice dmg (88% Def).",
     "levelUpList": "AAAAAA==",
     "levelUpValue": "AAAAAA==",
     "contentBG": "AAAAAA==",
@@ -1771,7 +1771,7 @@
   },
   {
     "sn": "116143",
-    "name": "A Breaktaking Sight",
+    "name": "A Breathtaking Sight",
     "desc": "Increase the skill levels of Keen Eye and Thief Tactics by 3.",
     "descSimple": "AAAAAA==",
     "levelUpList": "AAAAAA==",
@@ -1802,7 +1802,7 @@
   {
     "sn": "116146",
     "name": "Finishing Touches",
-    "desc": "Change the effects of <nobr><link=\"s|123\"><u>Inspiration</u></link> and <link=\"s|172\"><u>Imagination</u></link> to <link=\"s|173\"><u>Vision & Emotion</u></link> and <link=\"s|174\"><u>Creation</u></link>.\nMake their counterattacks 2 consecutive attacks, each dealing 90% of the original attack's damage. Also increase counterattack pierce rate by 30%.",
+    "desc": "<nobr>Evolve the effects of <link=\"s|123\"><u>Inspiration</u></link> and <link=\"s|172\"><u>Imagination</u></link> to <link=\"s|173\"><u>Vision & Emotion</u></link> and <link=\"s|174\"><u>Creation</u></link>.\nEach counterattack becomes 2 consecutive attacks, each dealing 90% of the original attack's damage. Also increase counterattack pierce rate by 30%.",
     "descSimple": "AAAAAA==",
     "levelUpList": "AAAAAA==",
     "levelUpValue": "AAAAAA==",
@@ -2342,8 +2342,8 @@
   {
     "sn": "120111",
     "name": "Sanctioned Drift",
-    "desc": "Deal Nuclear damage to random foes equal to <color=#FFFC40>^%s^</color> of Attack (5 hits). From the second attack, prioritize new targets and decrease damage by <color=#FFFC40>20%</color> for repeated hits on the same target.\nInflict <link=\"s|179\"><u>Radiation</u></link> on the main target for 2 turns.\nIf the target has an elemental ailment, activate a <link=\"s|211\"><u>Technical</u></link> and deal bonus Nuclear damage equal to <color=#FFFC40>^%s^</color> of Attack.",
-    "descSimple": "Nuke dmg to random foes (%s Atk, 5 hits). Decrease dmg 20% for repeated hits on same target.\nInflict Radiation on main target (2 turns).\nIf target has elemental ailment, activate Technical and deal bonus Nuke dmg (%s Atk).",
+    "desc": "Deal Nuclear damage to foes equal to <color=#FFFC40>^%s^</color> of Attack (5 hits). From the second hit, prioritze new targets and change damage to <color=#FFFC40>20%</color> for hits on the same target. Also inflict a random elemental ailment on the target of each hit, prioritizing inflicting ones the target doesn't have.\nIf the target has an elemental ailment, activate a <link=\"s|211\"><u>Techincal</u></link> and deal bonus Nuclear damage equal to <color=#FFFC40>^%s^</color> of Attack.\nInflict <link=\"s|179\"><u>Radiation</u></link> on the main target for 2 turns.",
+    "descSimple": "Nuke dmg to foes (%s Atk, 5 hits). Inflict random elemental ailment with each hit, prioritizing ones target doesn't have. Change damage to 20% for hits on same target.\nWhen target has elemental ailment, activate Technical and deal bonus Nuke dmg (%s Atk).\nInflict Radiation on main target (2 turns).",
     "levelUpList": "Skill Multiplier,Bonus Dmg Multiplier",
     "levelUpValue": "AAAAAA==",
     "contentBG": "Johanna goes full throttle, dealing Nuclear damage to enemies.",
@@ -2352,8 +2352,8 @@
   {
     "sn": "120112",
     "name": "President's Prowess",
-    "desc": "Restore HP to 1 ally equal to <color=#FFFC40>^%s^</color> of Makoto's Attack + <color=#FFFC40>^%s^</color>, and increase Makoto's Attack by <color=#FFFC40>^%s^</color> until the end of her next turn.\nGain 2 <link=\"s|177\"><u>Tenacity</u></link> stacks, and gain additional Tenacity stacks for each elemental ailment on foes.",
-    "descSimple": "Restore HP to 1 ally (%s of Makoto's Atk + %s), and increase Makoto's Atk %s until end of her next action.\nGain 2 Tenacity, and gain more Tenacity per elemental ailment on foes.",
+    "desc": "Restore HP of 1 ally equal to <color=#FFFC40>^%s^</color> of Makoto's Attack + <color=#FFFC40>^%s^</color>. Increase Makoto's Attack by <color=#FFFC40>^%s^</color> for 2 turns.\nGain 3 <link=\"s|177\"><u>Tenacity</u></link> stacks, and gain more Tenacity stacks for each unique elemental ailment on foes.",
+    "descSimple": "Restore 1 ally's HP (%s of Makoto's Atk + %s). Increase Makoto's Atk %s for 2 turns.\nGain 3 Tenacity, and gain more Tenacity per elemental ailment on foes.",
     "levelUpList": "Skill Multiplier,Healing,Atk Increase",
     "levelUpValue": "AAAAAA==",
     "contentBG": "Draws on her skills as student council president to support her party, healing allies and strengthening herself.",
@@ -2362,7 +2362,7 @@
   {
     "sn": "120113",
     "name": "Nuclear Fury",
-    "desc": "Deal Nuclear damage to 1 foe equal to <color=#FFFC40>^%s^</color> of Attack, and gain 2 <link=\"s|177\"><u>Tenacity</u></link> stacks.\nIf the main target has an elemental ailment, activate a <link=\"s|211\"><u>Technical</u></link>, dealing bonus Nuclear damage equal to <color=#FFFC40>^%s^</color> of Attack.\nWhen <link=\"s|178\"><u>Crash Out</u></link> is active, change this skill to Thermonuclear Fury.\nThermonuclear Fury: Deal Nuclear damage to 1 foe equal to <color=#FFFC40>^%s^</color> of Attack. For each different elemental ailment the foe has, activate a <link=\"s|211\"><u>Technical</u></link>, dealing bonus Nuclear damage equal to <color=#FFFC40>^%s^</color> of Attack (up to 3 hits).",
+    "desc": "Deal Nuclear damage to 1 foe equal to <color=#FFFC40>^%s^</color> of Attack, and gain 2 <link=\"s|177\"><u>Tenacity</u></link> stacks.\nIf the main target has an elemental ailment, activate a <link=\"s|211\"><u>Technical</u></link>, dealing bonus Nuclear damage equal to <color=#FFFC40>^%s^</color> of Attack.\nWhen <link=\"s|178\"><u>Crash Out</u></link> is active, evolve this skill to Thermonuclear Fury.\nThermonuclear Fury: Deal Nuclear damage to 1 foe equal to <color=#FFFC40>^%s^</color> of Attack. For each different elemental ailment the foe has, activate a <link=\"s|211\"><u>Technical</u></link>, dealing bonus Nuclear damage equal to <color=#FFFC40>^%s^</color> of Attack (up to 3 hits).",
     "descSimple": "Nuke dmg to 1 foe (%s Atk). Gain 2 Tenacity.\nIf target has elemental ailment, activate Technical and deal bonus Nuke dmg (%s Atk).\nWith Crash Out, evolve to Thermonuclear Fury.",
     "levelUpList": "Skill Multiplier,Bonus Dmg Multiplier,Thermonuclear Fury Skill Mult.,Thermonuclear Fury Bonus Dmg Mult.",
     "levelUpValue": "AAAAAA==",
@@ -2412,7 +2412,7 @@
   {
     "sn": "120140",
     "name": "Enraged Usurper",
-    "desc": "When attacking a foe with a skill, gain 1 <link=\"s|177\"><u>Tenacity</u></link> stack. For each different type of elemental ailment on the main target, gain 1 more Tenacity stack.\nOn Makoto's action, if at 5 Tenacity stacks, activate <link=\"s|178\"><u>Crash Out</u></link>, increasing Attack by 40% and Defense by 20%, and evolving Nuclear Fury to Thermonuclear Fury for 2 turns. When Crash Out ends, lose all Tenacity stacks.",
+    "desc": "When attacking a foe with a skill, gain 1 <link=\"s|177\"><u>Tenacity</u></link> stack. If <link=\"s|178\"><u>Crash Out</u></link> is not active, at the end of the turn, gain more Tenacity stacks based on the number of elemental ailments inflicted on the foe (including foes defeated during the turn).\nIf Makoto has 5 Tenacity stacks at the start of her turn, she can activate Crash Out, increasing Attack by 40% and Defense by 20% and evolving Nuclear Fury to Thermonuclear Fury for 2 turns. When Crash Out ends, lose all Tenacity stacks.",
     "descSimple": "When attacking foes with skills, gain 1 Tenacity. For each different elemental ailment on foes, gain more Tenacity.\nWhen Tenacity reaches 5, change to Crash Out.",
     "levelUpList": "AAAAAA==",
     "levelUpValue": "AAAAAA==",
@@ -2422,7 +2422,7 @@
   {
     "sn": "120141",
     "name": "Execution of Justice",
-    "desc": "At the start of battle, gain 5 <link=\"s|177\"><u>Tenacity</u></link> stacks, and immediately activate <link=\"s|178\"><u>Crash Out</u></link>.\nWhen Crash Out is active, increase Attack by 50% more.",
+    "desc": "At the start of battle, gain 5 <link=\"s|177\"><u>Tenacity</u></link> stacks, allowing Makoto to activate <link=\"s|178\"><u>Crash Out</u></link> on her action.\nWhen Crash Out is active, increase Attack by 50% more and damage by 35%.",
     "descSimple": "AAAAAA==",
     "levelUpList": "AAAAAA==",
     "levelUpValue": "AAAAAA==",
@@ -2472,7 +2472,7 @@
   {
     "sn": "120146",
     "name": "Fist of Justice!",
-    "desc": "When <link=\"s|178\"><u>Crash Out</u></link> is active, Makoto can gain an extra action. (Extra actions do not affect the duration of effects with turn limits.)\nAlso, decrease SP cost of Thermonuclear Fury by <color=#FFFC40>33%</color>.",
+    "desc": "When <link=\"s|178\"><u>Crash Out</u></link> is active, Makoto can gain an extra action. (These extra actions do not affect the duration of effects with turn limits.)\nAlso decrease the SP cost of Thermonuclear Fury by 33%.",
     "descSimple": "AAAAAA==",
     "levelUpList": "AAAAAA==",
     "levelUpValue": "AAAAAA==",
@@ -3362,8 +3362,8 @@
   {
     "sn": "129101",
     "name": "Melee Attack",
-    "desc": "tdxct-[Skill_desc_129101]",
-    "descSimple": "tdxct-[Skill_descSimple_129101]",
+    "desc": "<link=\"s|198\"><u>Doctor</u></link>: Deal light Physical damage to 1 foe (2 hits).  <link=\"s|199\"><u>Ripper</u></link>: Deal Physical damage to 1 foe.",
+    "descSimple": "Light Physical damage to 1 foe (2 hits).",
     "levelUpList": "Melee Dmg",
     "levelUpValue": "6.7%,13.3%,20.0%,26.7%,33.3%,40.0%,46.7%,51.3%,56.0%,59.3%,62.7%,66.0%,69.3%,72.7%",
     "contentBG": "AAAAAA==",
@@ -3371,52 +3371,52 @@
   },
   {
     "sn": "129111",
-    "name": "tdxct-[Skill_name_129111]",
-    "desc": "tdxct-[Skill_desc_129111]",
-    "descSimple": "tdxct-[Skill_descSimple_129111]",
+    "name": "Moonlit Scalpel/Midnight Surgery",
+    "desc": "<link=\"s|198\"><u>Doctor</u></link> mode: Deal Physical damage to 1 foe equal to <color=#FFFC40>^%s^</color> of Attack (4 hits) and inflict 1 <link=\"s|196\"><u>Bleed</u></link> stack.  <link=\"s|199\"><u>Ripper</u></link> mode: Deal Physical damage to 1 foe equal to <color=#FFFC40>^%s^</color> of Attack, then remove 2 Bleed stacks from the target (can activate <link=\"s|197\"><u>Deep Wounds</u></link> effects).",
+    "descSimple": "Phys dmg to 1 foe (%s Atk, 4 hits). Inflict 1 Bleed.",
     "levelUpList": "Doctor Multiplier,Ripper Multiplier",
     "levelUpValue": "AAAAAA==",
-    "contentBG": "tdxct-[Skill_contentBG_129111]",
+    "contentBG": "The razor flashes with peerless precision, dealing damage to the enemy.",
     "skillTag": "Single-Target"
   },
   {
     "sn": "129112",
-    "name": "tdxct-[Skill_name_129112]",
-    "desc": "tdxct-[Skill_desc_129112]",
-    "descSimple": "tdxct-[Skill_descSimple_129112]",
+    "name": "Crimson Operation/Pathology",
+    "desc": "<link=\"s|198\"><u>Doctor</u></link> mode: Deal Physical damage to 1 foe equal to <color=#FFFC40>^%s^</color> of Attack (2 hits). At the same time, activate link=\"s|196\"><u>Bleed</u></link> damage and reset the turn duration of the target's Bleed stacks.\n<link=\"s|199\"><u>Ripper</u></link> mode: Deal Physical damage to 1 foe equal to <color=#FFFC40>^%s^</color> of Attack. For each Bleed stack on the target, increase the damage of this skill's <link=\"s|197\"><u>Deep Wounds</u></link> by 2%, then remove all Bleed stacks from the target (can activate Deep Wounds effects).",
+    "descSimple": "Phys dmg to 1 foe (%s Atk, 2 hits). Activate Bleed dmg 1 time and reset target's Bleed turn duration.",
     "levelUpList": "Doctor Multiplier,Ripper Multiplier",
     "levelUpValue": "AAAAAA==",
-    "contentBG": "tdxct-[Skill_contentBG_129112]",
+    "contentBG": "A merciless slash swings down with mortal intent, dealing damage to the enemy.",
     "skillTag": "Single-Target"
   },
   {
     "sn": "129113",
-    "name": "tdxct-[Skill_name_129113]",
-    "desc": "tdxct-[Skill_desc_129113]",
-    "descSimple": "tdxct-[Skill_descSimple_129113]",
+    "name": "Nightfall",
+    "desc": "Change to <link=\"s|199\"><u>Ripper</u></link> mode, and change Kitazato's skills (can be activated when any foe has 7 or more <link=\"s|196\"><u>Bleed</u></link> stacks).\nWhen using skills in this mode, for every 3 <link=\"s|196\"><u>Bleed</u></link> stacks on a foe, inflict 1 <link=\"s|197\"><u>Deep Wounds</u></link> stack (Physical damage equal to <color=#FFFC40>^%s^</color> of Attack).\nAfter using this skill, Kitazato can use other skills and changes to <link=\"s|198\"><u>Doctor</u></link> mode at the end of the turn.",
+    "descSimple": "Change Kira to Ripper mode and change how other skills work (can be activated when any foe has 7+ Bleed). When using skills in this mode, inflict 1 more Deep Wounds for every 3 Bleed stacks on target. Deep Wounds: Deal Phys dmg (%s Atk).",
     "levelUpList": "Deep Wounds Multiplier",
     "levelUpValue": "AAAAAA==",
-    "contentBG": "tdxct-[Skill_contentBG_129113]",
+    "contentBG": "Two blades move as one, entering a more violent attacking stance.",
     "skillTag": "Support"
   },
   {
     "sn": "129114",
-    "name": "tdxct-[Skill_name_129114]",
-    "desc": "tdxct-[Skill_desc_129114]",
-    "descSimple": "tdxct-[Skill_descSimple_129114]",
+    "name": "Midnight Surgery",
+    "desc": "tnxotb-[Skill_desc_129114]",
+    "descSimple": "Phys dmg to 1 foe (%s Atk) and remove 2 Bleed (can activate Deep Wounds effects).",
     "levelUpList": "Ripper Multiplier",
     "levelUpValue": "AAAAAA==",
-    "contentBG": "tdxct-[Skill_contentBG_129114]",
+    "contentBG": "tnxotb-[Skill_contentBG_129114]",
     "skillTag": "Single-Target"
   },
   {
     "sn": "129115",
-    "name": "tdxct-[Skill_name_129115]",
-    "desc": "tdxct-[Skill_desc_129115]",
-    "descSimple": "tdxct-[Skill_descSimple_129115]",
+    "name": "Pathology",
+    "desc": "tnxotb-[Skill_desc_129115]",
+    "descSimple": "Phys dmg to 1 foe (%s Atk). Increase dmg from this skill and Deep Wounds 2% for every 1 Bleed stack on target. Then remove all Bleed from target (can activate Deep Wounds effects).",
     "levelUpList": "Ripper Multiplier",
     "levelUpValue": "AAAAAA==",
-    "contentBG": "tdxct-[Skill_contentBG_129115]",
+    "contentBG": "tnxotb-[Skill_contentBG_129115]",
     "skillTag": "Single-Target"
   },
   {
@@ -3431,28 +3431,28 @@
   },
   {
     "sn": "129117",
-    "name": "tdxct-[Skill_name_129117]",
-    "desc": "tdxct-[Skill_desc_129117]",
+    "name": "Moonlit Scalpel",
+    "desc": "tnxotb-[Skill_desc_129117]",
     "descSimple": "tdxct-[Skill_descSimple_129117]",
     "levelUpList": "Doctor Multiplier",
     "levelUpValue": "AAAAAA==",
-    "contentBG": "tdxct-[Skill_contentBG_129117]",
+    "contentBG": "tnxotb-[Skill_contentBG_129117]",
     "skillTag": "Single-Target"
   },
   {
     "sn": "129118",
-    "name": "tdxct-[Skill_name_129118]",
-    "desc": "tdxct-[Skill_desc_129118]",
+    "name": "Crimson Operation",
+    "desc": "tnxotb-[Skill_desc_129118]",
     "descSimple": "tdxct-[Skill_descSimple_129118]",
     "levelUpList": "Doctor Multiplier",
     "levelUpValue": "AAAAAA==",
-    "contentBG": "tdxct-[Skill_contentBG_129118]",
+    "contentBG": "tnxotb-[Skill_contentBG_129118]",
     "skillTag": "Single-Target"
   },
   {
     "sn": "129131",
-    "name": "tdxct-[Skill_name_129131]",
-    "desc": "tdxct-[Skill_desc_129131]",
+    "name": "Hideous Mask",
+    "desc": "In Doctor mode, increase ailment accuracy by <color=#FFFC40>^%s^</color>.\nIn Ripper mode, increase pierce rate by <color=#FFFC40>^%s^</color>.",
     "descSimple": "AAAAAA==",
     "levelUpList": "Ailment Accuracy Increase",
     "levelUpValue": "AAAAAA==",
@@ -3461,8 +3461,8 @@
   },
   {
     "sn": "129132",
-    "name": "tdxct-[Skill_name_129132]",
-    "desc": "tdxct-[Skill_desc_129132]",
+    "name": "Drawn Blade",
+    "desc": "For every 30% of Kitazato's ailment accuracy, increase Physical damage from <link=\"s|196\"><u>Bleed</u></link> by 4% of Attack (up to <color=#FFFC40>^%s^</color> of ailment accuracy).",
     "descSimple": "AAAAAA==",
     "levelUpList": "Ailment Accuracy Increase,Pierce Rate Increase",
     "levelUpValue": "AAAAAA==",
@@ -3471,8 +3471,8 @@
   },
   {
     "sn": "129140",
-    "name": "tdxct-[Skill_name_129140]",
-    "desc": "tdxct-[Skill_desc_129140]",
+    "name": "Mortal Responsibility",
+    "desc": "Kitazato has 2 modes, Doctor and Ripper, and the properties of his skills change depending on the mode. He starts in Doctor mode.\nDoctor: Each time Kitazato deals damage with a skill, there is a 70% chance to inflict 1 Bleed stack on the target. When a foe with Bleed is defeated, its Bleed stacks are passed on to the foe with the highest HP.\nRipper: When Kitazato uses a skill, inflict 1 Deep Wounds stack for every 3 Bleed stacks on the target.\nBleed: Each turn, deal Almighty damage equal to 1% of the target's max HP + Physical damage equal to 4% of Kitazato's Attack. This effect lasts for 4 turns and stacks up to 10 times.\nDeep Wounds: Deal Physical damage based on Kitazato's Attack and Nightbreak's skill level (this damage cannot deal critical hits or Down Point damage).",
     "descSimple": "tdxct-[Skill_descSimple_129140]",
     "levelUpList": "AAAAAA==",
     "levelUpValue": "AAAAAA==",
@@ -3481,8 +3481,8 @@
   },
   {
     "sn": "129141",
-    "name": "tdxct-[Skill_name_129141]",
-    "desc": "tdxct-[Skill_desc_129141]",
+    "name": "Abdominal Incisions",
+    "desc": "In <link=\"s|198\"><u>Doctor</u></link> mode, the first time skill damage is dealt to each foe, inflict 5 more <link=\"s|196\"><u>Bleed</u></link> stacks on the target.\nIn <link=\"s|199\"><u>Ripper</u></link> mode, when using a skill on a foe, increase that skill's damage based on the number of debuffs on the target. When they are inflicted with 10 or more debuffs, increase skill damage up to 80% (maximum).",
     "descSimple": "AAAAAA==",
     "levelUpList": "AAAAAA==",
     "levelUpValue": "AAAAAA==",
@@ -3491,8 +3491,8 @@
   },
   {
     "sn": "129142",
-    "name": "tdxct-[Skill_name_129142]",
-    "desc": "tdxct-[Skill_desc_129142]",
+    "name": "Forbidden Transfusion",
+    "desc": "Increase the Attack multiplier of <link=\"s|197\"><u>Deep Wounds</u></link> by 35% of Kitazato's Attack. Restore Kitazato's HP by 2% of Deep Wounds damage dealt (up to Kitazato's Lv. × 15 + 300 each turn).",
     "descSimple": "AAAAAA==",
     "levelUpList": "AAAAAA==",
     "levelUpValue": "AAAAAA==",
@@ -3501,8 +3501,8 @@
   },
   {
     "sn": "129143",
-    "name": "tdxct-[Skill_name_129143]",
-    "desc": "tdxct-[Skill_desc_129143]",
+    "name": "Master of the Scalpel",
+    "desc": "Increase the skill levels of Moonlit Scalpel/Midnight Surgery and Thief Tactics by 3.",
     "descSimple": "AAAAAA==",
     "levelUpList": "AAAAAA==",
     "levelUpValue": "AAAAAA==",
@@ -3511,8 +3511,8 @@
   },
   {
     "sn": "129144",
-    "name": "tdxct-[Skill_name_129144]",
-    "desc": "tdxct-[Skill_desc_129144]",
+    "name": "Bloody Bacchanal",
+    "desc": "Highlight Enhanced: Increase Highlight damage by 8% for each <link=\"s|196\"><u>Bleed</u></link> stack inflicted on the target.",
     "descSimple": "AAAAAA==",
     "levelUpList": "AAAAAA==",
     "levelUpValue": "AAAAAA==",
@@ -3521,8 +3521,8 @@
   },
   {
     "sn": "129145",
-    "name": "tdxct-[Skill_name_129145]",
-    "desc": "tdxct-[Skill_desc_129145]",
+    "name": "Razor-Sharp Focus",
+    "desc": "Increase the skill levels of Crimson Operation/Pathology and Nightfall by 3.",
     "descSimple": "AAAAAA==",
     "levelUpList": "AAAAAA==",
     "levelUpValue": "AAAAAA==",
@@ -3531,8 +3531,8 @@
   },
   {
     "sn": "129146",
-    "name": "tdxct-[Skill_name_129146]",
-    "desc": "tdxct-[Skill_desc_129146]",
+    "name": "Great Doctor",
+    "desc": "Increase the maximum stacks of <link=\"s|196\"><u>Bleed</u></link> to 13. The number of Bleed stacks inflicted on each foe will not fall below 3.\nWhen using Sinner's Game in <link=\"s|199\"><u>Ripper</u></link> mode, do not remove the target's Bleed stacks. Also evolve <link=\"s|197\"><u>Deep Wounds</u></link> effects to Killing Frenzy, increase damage by 100%, and deal 50% damage to all other foes. Killing Frenzy can activate effects from Deep Wounds with all skills.",
     "descSimple": "AAAAAA==",
     "levelUpList": "AAAAAA==",
     "levelUpValue": "AAAAAA==",
@@ -3552,8 +3552,8 @@
   {
     "sn": "129152",
     "name": "Highlight",
-    "desc": "tdxct-[Skill_desc_129152]",
-    "descSimple": "tdxct-[Skill_descSimple_129152]",
+    "desc": "Change to <link=\"s|198\"><u>Doctor</u></link> mode and immediately inflict 5 <link=\"s|196\"><u>Bleed</u></link> stacks on 1 foe.\nThen immediately change to <link=\"s|199\"><u>Ripper</u></link> mode and deal Physical damage to the target equal to <color=#FFFC40>^%s^</color> of Attack (can activate <link=\"s|197\"><u>Deep Wounds</u></link> effects).",
+    "descSimple": "Change Kira to Doctor mode and inflict 5 Bleed on 1 foe. Immediately change to Ripper mode and deal Phys dmg to target (%s Atk, can activate Deep Wounds effects).",
     "levelUpList": "Highlight Dmg",
     "levelUpValue": "AAAAAA==",
     "contentBG": "AAAAAA==",
@@ -3592,8 +3592,8 @@
   {
     "sn": "103112",
     "name": "Wrathful Thunder",
-    "desc": "Deal Electric damage to random foes equal to <color=#FFFC40>^%s^</color> of Attack (4 hits). From the second attack, prioritize new targets and decrease damage by 10% for repeated hits on the same target.\nAttack on main target is guaranteed. Inflict <link=\"s|104\"><u>Shock</u></link> on the main target for 2 turns.",
-    "descSimple": "Elec dmg to random foes (%s Atk, 4 hits).\nFrom second attack, prioritize targeting different foes and decrease dmg by 10% for repeated hits on same foe.\nInflict Shock on main target.",
+    "desc": "Deal Electric damage to foes equal to <color=#FFFC40>^%s^</color> of Attack (4 hits). From the second hit, prioritize new targets and decrease damage by 10% for hits on the same target.\nAttack on main target is guaranteed. Inflict <link=\"s|104\"><u>Shock</u></link> on the main target for 2 turns.",
+    "descSimple": "Elec dmg to foes (%s Atk, 4 hits).\nFrom second hit, prioritize targeting different foes and decrease dmg 10% for hits on same target.\nInflict Shock on main target.",
     "levelUpList": "Skill Multiplier",
     "levelUpValue": "AAAAAA==",
     "contentBG": "Furious thunderbolts crash down from the heavens, dealing Electric damage to enemies.",
@@ -3612,7 +3612,7 @@
   {
     "sn": "103131",
     "name": "Line Drive to Pitcher",
-    "desc": "Increase Electric damage taken by main target of a skill by <color=#FFFC40>^%s^</color> for 2 turns. Stacks up to 2 times.",
+    "desc": "Increase Electric damage taken by main target of a skill from Motoha by <color=#FFFC40>^%s^</color> for 2 turns. Stacks up to 2 times.",
     "descSimple": "AAAAAA==",
     "levelUpList": "AAAAAA==",
     "levelUpValue": "AAAAAA==",
@@ -3622,7 +3622,7 @@
   {
     "sn": "103132",
     "name": "Extra Inning",
-    "desc": "When foes are <link=\"s|104\"><u>Shocked</u></link>, <color=#FFFC40>^%s^</color> chance to extend effect duration by 1 turn.",
+    "desc": "When inflicting <link=\"s|104\"><u>Shock</u></link> on foes, <color=#FFFC40>^%s^</color> chance to extend effect duration by 1 turn.",
     "descSimple": "AAAAAA==",
     "levelUpList": "AAAAAA==",
     "levelUpValue": "AAAAAA==",
@@ -4582,8 +4582,8 @@
   {
     "sn": "130111",
     "name": "Diving Ray",
-    "desc": "Deal Nuclear damage to 1 foe equal to <color=#FFFC40>^%s^</color> of Attack.\nFor 2 turns, decrease the target's Defense by 22.5% of Chizuko's ailment accuracy (up to <color=#FFFC40>^%s^</color>) and inflict a random elemental ailment that the foe does not already have.",
-    "descSimple": "Deal Nuke dmg to 1 foe (%s Atk).\nDecrease target's Def by 22.5% of Chizuko's ailment accuracy (up to %s, 2 turns) and inflict random elemental ailment target does not have.",
+    "desc": "Deal Nuclear damage to 1 foe equal to <color=#FFFC40>^%s^</color> of Attack.\nFor 2 turns, decrease the target's Defense by 22.5% of Chizuko's ailment accuracy (up to <color=#FFFC40>^%s^</color>) and inflict a random elemental ailment that the target does not already have.",
+    "descSimple": "Nuke dmg to 1 foe (%s Atk).\nDecrease target's Def by 22.5% of Chizuko's ailment accuracy (up to %s, 2 turns) and inflict random elemental ailment target does not have.",
     "levelUpList": "Skill Multiplier,Def Decrease Cap",
     "levelUpValue": "AAAAAA==",
     "contentBG": "Light pours down from the sky above, dealing Nuclear damage to enemies.",
@@ -4602,8 +4602,8 @@
   {
     "sn": "130113",
     "name": "Bullseye Bomber",
-    "desc": "Deal Nuclear damage to 1 foe equal to <color=#FFFC40>^%s^</color> of Attack.\nFor each unique elemental ailment on the target (max 3), increase their damage taken by 11.3% of Chizuko's ailment accuracy (up to <color=#FFFC40>^%s^</color>) for 2 turns.",
-    "descSimple": "Nuke dmg to 1 foe (%s Atk).\nIncrease target's dmg taken for each different elemental ailment (11.3% of Chizuko's ailment accuracy, up to %s, max 3 ailments, 2 turns).",
+    "desc": "Deal Nuclear damage to 1 foe equal to <color=#FFFC40>^%s^</color> of Attack.\nIncrease the target's damage taken by 11.3% of Chizuko's ailment accuracy (up to <color=#FFFC40>^%s^</color>) for 2 turns, based on the number of unique elemental ailments they have.",
+    "descSimple": "Nuke dmg to 1 foe (%s Atk).\nIncrease target's dmg taken based on how many different elemental ailments target has (11.3% of Chizuko's ailment accuracy, up to %s, max 3 ailments, 2 turns).",
     "levelUpList": "Skill Multiplier,Dmg Taken Decrease Cap",
     "levelUpValue": "AAAAAA==",
     "contentBG": "Heat-seeking missiles precisely target an enemy, dealing Nuclear damage to them.",
@@ -4642,7 +4642,7 @@
   {
     "sn": "130141",
     "name": "Grandmotherly Care",
-    "desc": "When foes with <link=\"s|179\"><u>Radiation</u></link> have Burn, Shock, Freeze, or Windswept, increase corresponding Fire, Electric, Ice, or Wind damage taken by 15%.",
+    "desc": "When foes with <link=\"s|179\"><u>Radiation</u></link> are also inflicted with Burn, Shock, Freeze, or Windswept, increase corresponding Fire, Electric, Ice, or Wind damage taken by 15%.",
     "descSimple": "AAAAAA==",
     "levelUpList": "AAAAAA==",
     "levelUpValue": "AAAAAA==",
@@ -4691,7 +4691,7 @@
   },
   {
     "sn": "130146",
-    "name": "Not Done Yet",
+    "name": "Unending",
     "desc": "When an ally attacks a foe with <link=\"s|179\"><u>Radiation</u></link>, activate the following effects based on the number of unique elemental ailments on the foe. (Effects will stack.)\n1 or more: Increase Attack by 10%.\n2 or more: Increase Nuclear damage by 10%.\n3 or more: Increase pierce rate by 8%.",
     "descSimple": "AAAAAA==",
     "levelUpList": "AAAAAA==",
@@ -4803,7 +4803,7 @@
     "sn": "131111",
     "name": "Tempting Build",
     "desc": "Increase party's Attack by 8% of Yumi's Attack for 3 turns (up to <color=#FFFC40>^%s^</color>).\nWhen an ally uses a skill, spend 1 <link=\"s|180\"><u>Cocktail</u></link> to strengthen that skill's effects.\nHigher quality Cocktails will be used first. <link=\"s|182\"><u>Tailor-Made</u></link>, <link=\"s|183\"><u>Standard</u></link>, and <link=\"s|184\"><u>Basic</u></link> Cocktails will increase skill effects by 120%, 100%, and 50% respectively.\nCooldown Time: 6 ally actions.",
-    "descSimple": "Increase party's Atk by 8% of Yumi's Atk, up to <color=#FFFC40>^%s^</color> of Atk (3 turns).\nWhen ally uses skill, spend 1 Cocktail to strengthen skill's effects. Higher quality Cocktail will be used first.\nTailor-Made, Standard, and Basic Cocktail increase effects 120%, 100%, and 50% respectively.",
+    "descSimple": "Increase party's Atk by 8% of Yumi's Atk, up to %s of Atk (3 turns).\nWhen a skill is activated, spend 1 Cocktail to strengthen that skill's effects. Higher-quality Cocktails will be spent first.\nTailor-Made, Standard, and Basic Cocktails increase effects 120%, 100%, and 50%, respectively.",
     "levelUpList": "Atk Increase Cap",
     "levelUpValue": "AAAAAA==",
     "contentBG": "Mixes together a dazzling cocktail that shines like a jewel, powering up allies.",
@@ -4822,11 +4822,11 @@
   {
     "sn": "131113",
     "name": "Invigorating Blend",
-    "desc": "Spend all <link=\"s|180\"><u>Cocktails</u></link> to increase party's attribute damage based on the targeted ally's attribute for 2 turns.\nIncrease damage by 1% for every 250 of Yumi's Attack (up to <color=#FFFC40>^%s^</color>). <link=\"s|182\"><u>Tailor-Made</u></link>, <link=\"s|183\"><u>Standard</u></link>, and <link=\"s|184\"><u>Basic</u></link> Cocktails will increase damage by an additional 120%, 100%, and 50% respectively.\nAlso, increase effects on targeted ally by 1.2 times.\nCooldown Time: 8 ally actions. (This skill requires Cocktails.)",
-    "descSimple": "Spend all Cocktail to increase party's attribute dmg based on targeted ally's attribute (2 turns).\nIncrease dmg 1% per 250 of Yumi's Atk (up to %s of Atk). Increase dmg by 120%, 100%, or 50% for each Tailor-Made, Standard, or Basic Cocktail spent, respectively.\nIncrease effects on targeted ally by 1.2 times (2 turns).",
+    "desc": "Spend all <link=\"s|180\"><u>Cocktail</u></link> stacks to increase the party's attribute damage for 2 turns by 1% for every 250 points of Yumi's Attack (up to <color=#FFFC40>^%s^</color>), based on the selected ally's attribute.\nChange this effect by 120%, 100%, or 50% for each <color=#FFFC40> <link=\"s|182\"><u>Tailor-Made</u></link>, <link=\"s|183\"><u>Standard</u></link>, and <link=\"s|184\"><u>Basic</u></link> Cocktail stack spent, respectively.\nAlso increase this effect by 1.2 times for the selected ally.\nCooldown Time: 8 ally actions. (This skill requires Cocktails.)",
+    "descSimple": "Spend all Cocktail stacks to increase party's attribute dmg 1% per 250 of Yumi's Atk (up to %s of Atk, 2 turns), based on selected ally's attribute.\nChange this effect by 120%, 100%, or 50% for each Tailor-Made, Standard, or Basic Cocktail spent, respectively.\nAlso increase this effect for selected ally by 1.2 times.",
     "levelUpList": "Atk Increase Cap",
     "levelUpValue": "AAAAAA==",
-    "contentBG": "Stirs up a mellow cocktail, powering up all allies.",
+    "contentBG": "Shakes up a mellow cocktail, powering up all allies.",
     "skillTag": "Buff"
   },
   {
@@ -4852,8 +4852,8 @@
   {
     "sn": "131140",
     "name": "Expert Bartender",
-    "desc": "When an ally deals damage with a skill, Resonance, or Highlight, Yumi gains 1 Mixer of the corresponding attribute.\nAt 3 stacks, they become a <link=\"s|180\"><u>Cocktail</u></link> (max 3).\nIf 3 Mixers have the same attribute, the Cocktail becomes <link=\"s|182\"><u>Tailor-Made</u></link>. If 2 are the same, it becomes <link=\"s|183\"><u>Standard</u></link>. If all 3 are different, it becomes <link=\"s|184\"><u>Basic</u></link>.\nUsing skills will spend <link=\"s|180\"><u>Cocktails</u></link> to activate different effects for the party and restore 6 SP to party.",
-    "descSimple": "When an ally deals skill, Resonance, or Highlight dmg, Yumi gains 1 Mixer of corresponding attribute. With 3+ Mixers, change to Cocktail. When Yumi uses skills, spend Cocktail to grant various effects and restore party's SP.",
+    "desc": "When an ally deals damage with a skill, Resonance, or Highlight, Yumi gains 1 <link=\"s|181\"><u>Mixer</u></link> of its attribute.\nAfter gaining 3 Cocktail stacks, change them to a <link=\"s|180\"><u>Cocktail</u></link> (max 3).\nIf the 3 Mixers have the same attribute, create a <link=\"s|182\"><u>Tailor-Made</u></link> Cocktail. If 2 are the same, create a <link=\"s|183\"><u>Standard</u></link> Cocktail. If all 3 are different, create a <link=\"s|184\"><u>Basic</u></link> Cocktail.\nWhen Yumi uses a skill, spend <link=\"s|180\"><u>Cocktails</u></link> to activate various effects for the party and restore all allies' SP by 6.",
+    "descSimple": "When an ally deals dmg with a skill, Resonance, or Highlight, Yumi gains 1 Mixer of its attribute. With 3+ Mixers, change to Cocktail. When Yumi uses a skill, spend Cocktail stacks to grant various effects and restore all allies' SP.",
     "levelUpList": "AAAAAA==",
     "levelUpValue": "AAAAAA==",
     "contentBG": "AAAAAA==",
@@ -4862,7 +4862,7 @@
   {
     "sn": "131141",
     "name": "Mojito",
-    "desc": "Gain 1 random <link=\"s|181\"><u>Mixer</u></link> when spending a <link=\"s|180\"><u>Cocktail</u></link>.",
+    "desc": "When gaining a <link=\"s|180\"><u>Cocktail</u></link>, randomly gain 1 <link=\"s|181\"><u>Mixer</u></link> stack of the attributes spent.",
     "descSimple": "AAAAAA==",
     "levelUpList": "AAAAAA==",
     "levelUpValue": "AAAAAA==",
@@ -5712,7 +5712,7 @@
   {
     "sn": "110211",
     "name": "Have a Cold Drink",
-    "desc": "Deal Psy damage to random foes equal to <color=#FFFC40>^%s^</color> of Attack (4 hits). From the second attack, prioritize new targets and inflict 1 <link=\"s|193\"><u>Sparks</u></link> stack per hit. Decrease damage by 30% for repeated hits on the same target.\nPassive: Increase <link=\"s|194\"><u>Summer Reminiscence</u></link>skill damage multiplier and healing by <color=#FFFC40>^%s^</color>.",
+    "desc": "Deal Psy damage to foes equal to <color=#FFFC40>^%s^</color> of Attack (4 hits). From the second hit, prioritize new targets and inflict 1 <link=\"s|193\"><u>Sparks</u></link> stack per hit. Decrease damage by 30% for hits on the same target.\nPassive: Increase <link=\"s|194\"><u>Summer Reminiscence</u></link>skill damage multiplier and healing by <color=#FFFC40>^%s^</color>.",
     "descSimple": "Psy dmg to random foes (%s Atk, 4 hits). Prioritize foes not yet hit by this skill. Each hit inflicts 1 Sparks. If same foe hit multiple times, deal 30% dmg.\nPassive: Increase skill dmg multiplier and healing from Dazzling Fireworks %s.",
     "levelUpList": "Skill Multiplier,Summer Reminiscence Rate Increase",
     "levelUpValue": "AAAAAA==",
@@ -5762,7 +5762,7 @@
   {
     "sn": "110240",
     "name": "Summer Reminiscence",
-    "desc": "<nobr>Tomoko can inflict Sparks on foes.\nAfter an ally acts, if a foe has 3 Sparks stacks, activate Resonance: For every 3 Sparks stacks on all foes, deal Psy damage to all foes equal to 19% of Attack, and decrease the target's damage by 30% for 1 turn. Restore party's HP by 9% of Tomoko's Attack + 300/600/900, (effect increases at level 1/50/70). This can activate up to 5 damage and healing effects, based on how many Sparks stacks are spent within the same Resonance effect (this Resonance damage does not inflict more Sparks effects).\nChange Resonance damage based on the number of foes present, equal to 150%/120%/100% of the original damage if there are 1/2/3+ foes present. Damage from this Resonance cannot deal Down Point damage. When a foe is defeated, pass its Sparks stacks onto other random foes.",
+    "desc": "<nobr>Tomoko can inflict Sparks on foes.\nAfter an ally acts, if a foe has 3 Sparks stacks, activate Resonance: For every 3 Sparks stacks on all foes, deal Psy damage to all foes equal to 19% of Attack, and decrease the target's damage by 30% for 1 turn. Restore party's HP by 9% of Tomoko's Attack + 300/600/900, (effect increases at level 1/50/70). This can activate up to 5 damage and healing effects, based on how many Sparks stacks are spent within the same Resonance (this Resonance damage does not inflict more Sparks effects).\nChange Resonance damage based on the number of foes present, equal to 150%/120%/100% of the original damage if there are 1/2/3+ foes present. Damage from this Resonance cannot deal Down Point damage. When a foe is defeated, pass its Sparks stacks onto other random foes.",
     "descSimple": "Inflict Sparklers on foes. After 3 stacks, deal dmg to all foes, decrease all foes' dmg, and restore party's HP.",
     "levelUpList": "AAAAAA==",
     "levelUpValue": "AAAAAA==",
@@ -26292,7 +26292,7 @@
   {
     "sn": "6246",
     "name": "Royal Punishment",
-    "desc": "Locks on to 1 foe, and deals severe damage on the next turn. If the user takes 4 different types of attribute damage, the lock-on is lost.",
+    "desc": "Locks on to 1 foe, and deals severe damage on the next turn. After taking 4 different types of attribute damage, the lock-on is lost.",
     "descSimple": "AAAAAA==",
     "levelUpList": "AAAAAA==",
     "levelUpValue": "AAAAAA==",
@@ -26312,7 +26312,7 @@
   {
     "sn": "6249",
     "name": "Royal Punishment",
-    "desc": "Locks on to 1 foe, and deals severe damage on the next turn. If Shadows are inflicted with debuffs 15 times, the lock-on is lost.",
+    "desc": "Locks on to 1 foe, and deals severe damage on the next turn. After being inflicted with debuffs 15 times, the lock-on is lost.",
     "descSimple": "AAAAAA==",
     "levelUpList": "AAAAAA==",
     "levelUpValue": "AAAAAA==",
@@ -28601,7 +28601,7 @@
   },
   {
     "sn": "2309",
-    "name": "Sword that Defends the Nation",
+    "name": "Sword That Defends the Nation",
     "desc": "AAAAAA==",
     "descSimple": "AAAAAA==",
     "levelUpList": "AAAAAA==",
@@ -28611,7 +28611,7 @@
   },
   {
     "sn": "2310",
-    "name": "Growth of all Things",
+    "name": "Growth of All Things",
     "desc": "AAAAAA==",
     "descSimple": "AAAAAA==",
     "levelUpList": "AAAAAA==",
@@ -29041,7 +29041,7 @@
   },
   {
     "sn": "2376",
-    "name": "Growth of all Things",
+    "name": "Growth of All Things",
     "desc": "AAAAAA==",
     "descSimple": "AAAAAA==",
     "levelUpList": "AAAAAA==",
@@ -29051,7 +29051,7 @@
   },
   {
     "sn": "2379",
-    "name": "Growth of all Things",
+    "name": "Growth of All Things",
     "desc": "Grant 1 stack of Attack Growth to 2 random allies. For each, increase Attack by 30%.",
     "descSimple": "AAAAAA==",
     "levelUpList": "AAAAAA==",
@@ -29071,7 +29071,7 @@
   },
   {
     "sn": "2385",
-    "name": "Growth of all Things",
+    "name": "Growth of All Things",
     "desc": "AAAAAA==",
     "descSimple": "AAAAAA==",
     "levelUpList": "AAAAAA==",
@@ -30831,7 +30831,7 @@
   },
   {
     "sn": "2700",
-    "name": "Guard Recruitment",
+    "name": "Special Guards",
     "desc": "When no guards are present, spend Money to hire one.",
     "descSimple": "AAAAAA==",
     "levelUpList": "AAAAAA==",
@@ -30841,7 +30841,7 @@
   },
   {
     "sn": "2701",
-    "name": "Hypnotic Soundwave",
+    "name": "Lullaby",
     "desc": "<color=#fffc40>15%</color> chance to inflict <link=\"s|109\"><u>Sleep</u></link> on all foes for 2 turns.",
     "descSimple": "AAAAAA==",
     "levelUpList": "AAAAAA==",
@@ -30871,7 +30871,7 @@
   },
   {
     "sn": "2704",
-    "name": "Fatal Fumes",
+    "name": "Shadow Gas",
     "desc": "Spend 1-2 Counterfeit Bills to deal light Physical damage to all foes.",
     "descSimple": "AAAAAA==",
     "levelUpList": "AAAAAA==",
@@ -30881,7 +30881,7 @@
   },
   {
     "sn": "2705",
-    "name": "Inflation",
+    "name": "Metabolic Wave",
     "desc": "Spend 3 Counterfeit Bills to deal medium Physical damage to all foes.",
     "descSimple": "AAAAAA==",
     "levelUpList": "AAAAAA==",
@@ -30892,7 +30892,7 @@
   {
     "sn": "2706",
     "name": "March of the Piggy",
-    "desc": "Spend 4 Counterfeit Bills to deal heavy Physical damage to all foes.",
+    "desc": "Spend 4 Counterfeit Bills to deal medium Physical damage to all foes.",
     "descSimple": "AAAAAA==",
     "levelUpList": "AAAAAA==",
     "levelUpValue": "AAAAAA==",
@@ -30901,7 +30901,7 @@
   },
   {
     "sn": "2709",
-    "name": "Guard Recruitment",
+    "name": "Special Guards",
     "desc": "AAAAAA==",
     "descSimple": "AAAAAA==",
     "levelUpList": "AAAAAA==",
@@ -30911,7 +30911,7 @@
   },
   {
     "sn": "2710",
-    "name": "Guard Recruitment",
+    "name": "Special Guards",
     "desc": "AAAAAA==",
     "descSimple": "AAAAAA==",
     "levelUpList": "AAAAAA==",
@@ -30921,7 +30921,7 @@
   },
   {
     "sn": "2711",
-    "name": "Guard Recruitment",
+    "name": "Special Guards",
     "desc": "AAAAAA==",
     "descSimple": "AAAAAA==",
     "levelUpList": "AAAAAA==",
@@ -30981,7 +30981,7 @@
   },
   {
     "sn": "2712",
-    "name": "Guard Recruitment",
+    "name": "Special Guards",
     "desc": "AAAAAA==",
     "descSimple": "AAAAAA==",
     "levelUpList": "AAAAAA==",
@@ -30991,7 +30991,7 @@
   },
   {
     "sn": "2713",
-    "name": "Guard Recruitment",
+    "name": "Special Guards",
     "desc": "AAAAAA==",
     "descSimple": "AAAAAA==",
     "levelUpList": "AAAAAA==",
@@ -31001,7 +31001,7 @@
   },
   {
     "sn": "2714",
-    "name": "Guard Recruitment",
+    "name": "Special Guards",
     "desc": "AAAAAA==",
     "descSimple": "AAAAAA==",
     "levelUpList": "AAAAAA==",
@@ -31621,7 +31621,7 @@
   },
   {
     "sn": "2840",
-    "name": "Arrival of Calamity",
+    "name": "Calamity's Descent",
     "desc": "AAAAAA==",
     "descSimple": "AAAAAA==",
     "levelUpList": "AAAAAA==",
@@ -31631,7 +31631,7 @@
   },
   {
     "sn": "2841",
-    "name": "Original Mark of Calamity",
+    "name": "Primordial Mark of Calamity",
     "desc": "Inflict Mark of Calamity on 2 foes every turn.",
     "descSimple": "AAAAAA==",
     "levelUpList": "AAAAAA==",
@@ -31641,7 +31641,7 @@
   },
   {
     "sn": "2842",
-    "name": "Arrival of Calamity",
+    "name": "Calamity's Descent",
     "desc": "AAAAAA==",
     "descSimple": "AAAAAA==",
     "levelUpList": "AAAAAA==",
@@ -31651,7 +31651,7 @@
   },
   {
     "sn": "2843",
-    "name": "Original Mark of Calamity",
+    "name": "Primordial Mark of Calamity",
     "desc": "Inflict Mark of Calamity on 2 foes every turn.",
     "descSimple": "AAAAAA==",
     "levelUpList": "AAAAAA==",
@@ -31671,7 +31671,7 @@
   },
   {
     "sn": "2845",
-    "name": "Arrival of Calamity",
+    "name": "Calamity's Descent",
     "desc": "AAAAAA==",
     "descSimple": "AAAAAA==",
     "levelUpList": "AAAAAA==",
@@ -31681,7 +31681,7 @@
   },
   {
     "sn": "2846",
-    "name": "Original Mark of Calamity",
+    "name": "Primordial Mark of Calamity",
     "desc": "Inflict Mark of Calamity on 2 foes and 1 ally every turn.",
     "descSimple": "AAAAAA==",
     "levelUpList": "AAAAAA==",
@@ -33381,7 +33381,7 @@
   },
   {
     "sn": "3551",
-    "name": "Sword that Defends the Nation",
+    "name": "Sword That Defends the Nation",
     "desc": "Grant shield to all allies for 2 turns.",
     "descSimple": "AAAAAA==",
     "levelUpList": "AAAAAA==",
@@ -33391,7 +33391,7 @@
   },
   {
     "sn": "3552",
-    "name": "Growth of all Things",
+    "name": "Growth of All Things",
     "desc": "Increase all allies' damage for 2 turns.",
     "descSimple": "AAAAAA==",
     "levelUpList": "AAAAAA==",
@@ -38371,7 +38371,7 @@
   },
   {
     "sn": "52921",
-    "name": "tdxct-[Skill_name_52921]",
+    "name": "tnxotb-[Skill_name_52921]",
     "desc": "Increase Attack by <color=#2899FF>^%s^</color>.",
     "descSimple": "AAAAAA==",
     "levelUpList": "AAAAAA==",
@@ -38381,8 +38381,8 @@
   },
   {
     "sn": "52931",
-    "name": "tdxct-[Skill_name_52931]",
-    "desc": "tdxct-[Skill_desc_52931]",
+    "name": "tnxotb-[Skill_name_52931]",
+    "desc": "When entering <link=\"s|199\"><u>Ripper</u></link> mode, increase Physical damage by <color=#2899FF>^%s^</color> for 1 turn.",
     "descSimple": "AAAAAA==",
     "levelUpList": "AAAAAA==",
     "levelUpValue": "AAAAAA==",
@@ -38391,8 +38391,8 @@
   },
   {
     "sn": "52941",
-    "name": "tdxct-[Skill_name_52941]",
-    "desc": "tdxct-[Skill_desc_52941]",
+    "name": "tnxotb-[Skill_name_52941]",
+    "desc": "When entering <link=\"s|199\"><u>Ripper</u></link> mode, increase Physical damage by <color=#2899FF>^%s^</color> for 1 turn.",
     "descSimple": "AAAAAA==",
     "levelUpList": "AAAAAA==",
     "levelUpValue": "AAAAAA==",
@@ -38401,8 +38401,8 @@
   },
   {
     "sn": "52951",
-    "name": "tdxct-[Skill_name_52951]",
-    "desc": "tdxct-[Skill_desc_52951]",
+    "name": "tnxotb-[Skill_name_52951]",
+    "desc": "Increase Attack by <color=#2899FF>^%s^</color>.\nIncrease pierce rate of <link=\"s|197\"><u>Deep Wounds</u></link> damage by <color=#2899FF>^%s^</color>.\nIncrease damage dealt to foes inflicted with <link=\"s|196\"><u>Bleed</u></link> by <color=#2899FF>^%s^</color>.",
     "descSimple": "AAAAAA==",
     "levelUpList": "AAAAAA==",
     "levelUpValue": "AAAAAA==",
@@ -38832,7 +38832,7 @@
   {
     "sn": "53041",
     "name": "Atomic Decay",
-    "desc": "Increase Attack by <color=#2899FF>^%s^</color>. When foes have elemental ailments, decrease their Defense by <color=#2899FF>^%s^</color>. Also, when inflicted with <link=\"s|179\">Radiation</u></link>, decrease Defense by <color=#2899FF>^%s^</color> more.",
+    "desc": "Increase Attack by <color=#2899FF>^%s^</color>. When a foe with an elemental ailment is present, decrease that foe's Defense by <color=#2899FF>^%s^</color>. Also, when inflicted with <link=\"s|179\"><u>Radiation</u></link>, decrease Defense by <color=#2899FF>^%s^</color> more.",
     "descSimple": "AAAAAA==",
     "levelUpList": "AAAAAA==",
     "levelUpValue": "AAAAAA==",
@@ -38842,7 +38842,7 @@
   {
     "sn": "53051",
     "name": "Devastating Impact",
-    "desc": "Increase ailment accuracy by <color=#2899FF>^%s^</color>. After inflicting an elemental ailment on a foe, decrease target's Defense by <color=#2899FF>^%s^</color> for 2 turns. This effect does not stack. Every 2 turns, at the start of user's action, <color=#2899FF>^%s^</color> chance to inflict a random elemental ailment on 1 foe that it does not currently have.",
+    "desc": "Increase ailment accuracy by <color=#2899FF>^%s^</color>. After inflicting an elemental ailment on a foe, decrease the target's Defense by <color=#2899FF>^%s^</color> for 2 turns. This effect does not stack. Every 2 turns, at the start of Chizuko's action, <color=#2899FF>^%s^</color> base chance to inflict 1 foe with a random elemental ailment that it does not have.",
     "descSimple": "AAAAAA==",
     "levelUpList": "AAAAAA==",
     "levelUpValue": "AAAAAA==",
@@ -38862,7 +38862,7 @@
   {
     "sn": "53131",
     "name": "Slightly Tipsy",
-    "desc": "At the start of battle, <color=#2899FF>^%s^</color> chance to gain 1 <link=\"s|182\">Tailor-Made</u></link> cocktail, and <color=#2899FF>^%s^</color> chance to gain 1 <link=\"s|183\">Standard</u></link> cocktail.",
+    "desc": "At the start of battle, <color=#2899FF>^%s^</color> chance to gain 1 <link=\"s|182\"><u>Tailor-Made</u></link> cocktail, and <color=#2899FF>^%s^</color> chance to gain 1 <link=\"s|183\"><u>Standard</u></link> cocktail.",
     "descSimple": "AAAAAA==",
     "levelUpList": "AAAAAA==",
     "levelUpValue": "AAAAAA==",
@@ -38872,7 +38872,7 @@
   {
     "sn": "53141",
     "name": "Seductive Kiss",
-    "desc": "Increase Attack by <color=#2899FF>^%s^</color>. After using a skill, increase main target's damage by <color=#2899FF>^%s^</color> for 2 turns. If this skill spends <link=\"s|180\"><u>Cocktails</u></link>, increase damage by an additional <color=#2899FF>^%s^</color>.",
+    "desc": "Increase Attack by <color=#2899FF>^%s^</color>. After using a skill, increase main target's damage by <color=#2899FF>^%s^</color> for 2 turns. If this skill spends <link=\"s|180\"><u>Cocktails</u></link>, increase damage by <color=#2899FF>^%s^</color> more.",
     "descSimple": "AAAAAA==",
     "levelUpList": "AAAAAA==",
     "levelUpValue": "AAAAAA==",
@@ -39021,7 +39021,7 @@
   },
   {
     "sn": "51025",
-    "name": "AAAAAA==",
+    "name": "Shimmering Dance",
     "desc": "Increase Attack by <color=#2899FF>^%s^</color>.",
     "descSimple": "AAAAAA==",
     "levelUpList": "AAAAAA==",
@@ -39031,7 +39031,7 @@
   },
   {
     "sn": "51035",
-    "name": "AAAAAA==",
+    "name": "Falling Stars",
     "desc": "When activating <link=\"s|194\"><u>Summer Reminiscence</u></link>, decrease the target's damage by <color=#2899FF>^%s^</color> for 1 turn.",
     "descSimple": "AAAAAA==",
     "levelUpList": "AAAAAA==",
@@ -39041,7 +39041,7 @@
   },
   {
     "sn": "51045",
-    "name": "AAAAAA==",
+    "name": "Twilight Gala",
     "desc": "Increase Attack by <color=#2899FF>^%s^</color>. When activating <link=\"s|194\"><u>Summer Reminiscence</u></link>, increase the user's healing by <color=#2899FF>^%s^</color> for 2 turns.",
     "descSimple": "AAAAAA==",
     "levelUpList": "AAAAAA==",
@@ -41452,7 +41452,7 @@
   {
     "sn": "52943",
     "name": "AAAAAA==",
-    "desc": "tdxct-[Skill_desc_52943]",
+    "desc": "Increase Attack by <color=#2899FF>^%s^</color>.\nWhenever inflicting <link=\"s|196\"><u>Bleed</u></link> on foes, increase Attack by <color=#2899FF>^%s^</color> more. This effect is permanent and stacks up to 10 times.",
     "descSimple": "AAAAAA==",
     "levelUpList": "AAAAAA==",
     "levelUpValue": "AAAAAA==",
@@ -41472,7 +41472,7 @@
   {
     "sn": "52953",
     "name": "AAAAAA==",
-    "desc": "tdxct-[Skill_desc_52953]",
+    "desc": "tnxotb-[Skill_desc_52953]",
     "descSimple": "AAAAAA==",
     "levelUpList": "AAAAAA==",
     "levelUpValue": "AAAAAA==",

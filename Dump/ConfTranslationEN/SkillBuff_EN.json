@@ -1161,9 +1161,18 @@
     "calText": "AAAAAA=="
   },
   {
+    "sn": "1201026",
+    "title": "Tenacity",
+    "desc": "Increase Attack by 6% and Defense by 2%.",
+    "BuffDesc": "T<color=#000000>e</color>nacity",
+    "addText": "AAAAAA==",
+    "removeText": "AAAAAA==",
+    "calText": "AAAAAA=="
+  },
+  {
     "sn": "1201032",
     "title": "Crash Out",
-    "desc": "Increase Atk by 40% and Def by 20%. Change Nuclear Fury to Thermonuclear Fury.",
+    "desc": "Increase Atk by 40% and Def by 20%. Evolve Nuclear Fury to Thermonuclear Fury.",
     "BuffDesc": "AAAAAA==",
     "addText": "AAAAAA==",
     "removeText": "AAAAAA==",
@@ -1206,10 +1215,19 @@
     "calText": "AAAAAA=="
   },
   {
+    "sn": "1201044",
+    "title": "Enraged Usurper",
+    "desc": "Increase damage by %s.",
+    "BuffDesc": "E<color=#000000>n</color>raged Usurper",
+    "addText": "AAAAAA==",
+    "removeText": "AAAAAA==",
+    "calText": "AAAAAA=="
+  },
+  {
     "sn": "1201063",
     "title": "Hot and Cold",
     "desc": "Increase pierce rate by %s.",
-    "BuffDesc": "F<color=#000000>u</color>ll Throttle",
+    "BuffDesc": "H<color=#000000>o</color>t and Cold",
     "addText": "AAAAAA==",
     "removeText": "AAAAAA==",
     "calText": "AAAAAA=="
@@ -1228,6 +1246,42 @@
     "title": "Radiation",
     "desc": "Increase dmg taken by 15% (counts as elemental ailment).",
     "BuffDesc": "R<color=#000000>a</color>diation",
+    "addText": "AAAAAA==",
+    "removeText": "AAAAAA==",
+    "calText": "AAAAAA=="
+  },
+  {
+    "sn": "1201191",
+    "title": "Burn",
+    "desc": "Decrease HP after acting.",
+    "BuffDesc": "B<color=#000000>u</color>rn",
+    "addText": "AAAAAA==",
+    "removeText": "AAAAAA==",
+    "calText": "AAAAAA=="
+  },
+  {
+    "sn": "1201192",
+    "title": "Freeze",
+    "desc": "Decrease Attack by 12%.",
+    "BuffDesc": "F<color=#000000>r</color>eeze",
+    "addText": "AAAAAA==",
+    "removeText": "AAAAAA==",
+    "calText": "AAAAAA=="
+  },
+  {
+    "sn": "1201193",
+    "title": "Shock",
+    "desc": "Increase critcal taken rate by 10%.",
+    "BuffDesc": "S<color=#000000>h</color>ock",
+    "addText": "AAAAAA==",
+    "removeText": "AAAAAA==",
+    "calText": "AAAAAA=="
+  },
+  {
+    "sn": "1201194",
+    "title": "Windswept",
+    "desc": "Decrease Defense by 12%.",
+    "BuffDesc": "W<color=#000000>i</color>ndswept",
     "addText": "AAAAAA==",
     "removeText": "AAAAAA==",
     "calText": "AAAAAA=="
@@ -1893,7 +1947,7 @@
     "sn": "1291321",
     "title": "Drawn Blade",
     "desc": "Increase ailment accuracy by %s.",
-    "BuffDesc": "A<color=#000000>i</color>lment Accuracy Up",
+    "BuffDesc": "D<color=#000000>r</color>awn Blade",
     "addText": "AAAAAA==",
     "removeText": "AAAAAA==",
     "calText": "AAAAAA=="
@@ -1902,7 +1956,7 @@
     "sn": "1291322",
     "title": "Drawn Blade",
     "desc": "Increase pierce rate by %s.",
-    "BuffDesc": "P<color=#000000>i</color>erce Rate Up",
+    "BuffDesc": "D<color=#000000>r</color>awn Blade",
     "addText": "AAAAAA==",
     "removeText": "AAAAAA==",
     "calText": "AAAAAA=="
@@ -17137,36 +17191,36 @@
   },
   {
     "sn": "27000",
-    "title": "Funds",
+    "title": "Money",
     "desc": "Product of cognition. Power source.",
-    "BuffDesc": "F<color=#000000>u</color>nds",
+    "BuffDesc": "M<color=#000000>o</color>ney",
     "addText": "Gained Money!",
     "removeText": "AAAAAA==",
     "calText": "AAAAAA=="
   },
   {
     "sn": "27001",
-    "title": "Funds",
+    "title": "Money",
     "desc": "Product of cognition. Power source.",
-    "BuffDesc": "F<color=#000000>u</color>nds",
+    "BuffDesc": "M<color=#000000>o</color>ney",
     "addText": "Gained Money!",
     "removeText": "AAAAAA==",
     "calText": "AAAAAA=="
   },
   {
     "sn": "27002",
-    "title": "Funds",
+    "title": "Money",
     "desc": "Product of cognition. Power source.",
-    "BuffDesc": "F<color=#000000>u</color>nds",
+    "BuffDesc": "M<color=#000000>o</color>ney",
     "addText": "Gained Money!",
     "removeText": "AAAAAA==",
     "calText": "AAAAAA=="
   },
   {
     "sn": "27003",
-    "title": "Funds",
+    "title": "Money",
     "desc": "Product of cognition. Power source.",
-    "BuffDesc": "F<color=#000000>u</color>nds",
+    "BuffDesc": "M<color=#000000>o</color>ney",
     "addText": "Gained Money!",
     "removeText": "AAAAAA==",
     "calText": "AAAAAA=="
@@ -17182,7 +17236,7 @@
   },
   {
     "sn": "27020",
-    "title": "Power of Money",
+    "title": "Money",
     "desc": "Increase dmg by %s.",
     "BuffDesc": "P<color=#000000>o</color>wer of Money",
     "addText": "Damage increased!",
@@ -17218,7 +17272,7 @@
   },
   {
     "sn": "27027",
-    "title": "Incentivization",
+    "title": "Kill Reward",
     "desc": "Increase dmg by %s.",
     "BuffDesc": "I<color=#000000>n</color>centivization",
     "addText": "Damage increased!",
@@ -17236,8 +17290,8 @@
   },
   {
     "sn": "27030",
-    "title": "Counterfeit Bills",
-    "desc": "Product of cognition. Can supply power to Pink Piggytron.",
+    "title": "Counterfeit Bill",
+    "desc": "A product of cognition that can supply power to Piggytron.",
     "BuffDesc": "C<color=#000000>o</color>unterfeit Bills",
     "addText": "AAAAAA==",
     "removeText": "AAAAAA==",
@@ -17245,8 +17299,8 @@
   },
   {
     "sn": "27031",
-    "title": "Counterfeit Bills",
-    "desc": "Product of cognition. Can supply power to Pink Piggytron.",
+    "title": "Counterfeit Bill",
+    "desc": "A product of cognition that can supply power to Piggytron.",
     "BuffDesc": "C<color=#000000>o</color>unterfeit Bills",
     "addText": "AAAAAA==",
     "removeText": "AAAAAA==",
@@ -17254,8 +17308,8 @@
   },
   {
     "sn": "27032",
-    "title": "Counterfeit Bills",
-    "desc": "Product of cognition. Can supply power to Pink Piggytron.",
+    "title": "Counterfeit Bill",
+    "desc": "A product of cognition that can supply power to Piggytron.",
     "BuffDesc": "C<color=#000000>o</color>unterfeit Bills",
     "addText": "AAAAAA==",
     "removeText": "AAAAAA==",
@@ -17263,8 +17317,8 @@
   },
   {
     "sn": "27033",
-    "title": "Counterfeit Bills",
-    "desc": "Product of cognition. Can supply power to Pink Piggytron.",
+    "title": "Counterfeit Bill",
+    "desc": "A product of cognition that can supply power to Piggytron.",
     "BuffDesc": "C<color=#000000>o</color>unterfeit Bills",
     "addText": "AAAAAA==",
     "removeText": "AAAAAA==",
@@ -17272,8 +17326,8 @@
   },
   {
     "sn": "27034",
-    "title": "Counterfeit Bills",
-    "desc": "Product of cognition. Can supply power to Pink Piggytron.",
+    "title": "Counterfeit Bill",
+    "desc": "A product of cognition that can supply power to Piggytron.",
     "BuffDesc": "C<color=#000000>o</color>unterfeit Bills",
     "addText": "AAAAAA==",
     "removeText": "AAAAAA==",
@@ -17281,8 +17335,8 @@
   },
   {
     "sn": "27035",
-    "title": "Counterfeit Bills",
-    "desc": "Product of cognition. Can supply power to Pink Piggytron.",
+    "title": "Counterfeit Bill",
+    "desc": "A product of cognition that can supply power to Piggytron.",
     "BuffDesc": "C<color=#000000>o</color>unterfeit Bills",
     "addText": "AAAAAA==",
     "removeText": "AAAAAA==",
@@ -17290,8 +17344,8 @@
   },
   {
     "sn": "27036",
-    "title": "Counterfeit Bills",
-    "desc": "Product of cognition. Can supply power to Pink Piggytron.",
+    "title": "Counterfeit Bill",
+    "desc": "A product of cognition that can supply power to Piggytron.",
     "BuffDesc": "C<color=#000000>o</color>unterfeit Bills",
     "addText": "AAAAAA==",
     "removeText": "AAAAAA==",
@@ -17317,7 +17371,7 @@
   },
   {
     "sn": "27043",
-    "title": "Power of Money",
+    "title": "Money",
     "desc": "Increase dmg by %s.",
     "BuffDesc": "P<color=#000000>o</color>wer of Money",
     "addText": "Damage increased!",
@@ -17326,7 +17380,7 @@
   },
   {
     "sn": "27044",
-    "title": "Incentivization",
+    "title": "Kill Reward",
     "desc": "Increase dmg by %s.",
     "BuffDesc": "I<color=#000000>n</color>centivization",
     "addText": "Damage increased!",
@@ -18164,7 +18218,7 @@
   {
     "sn": "25137",
     "title": "Special Effect",
-    "desc": "tdxct-[SkillBuff_desc_25137]",
+    "desc": "Increase weakness damage by %s.",
     "BuffDesc": "S<color=#000000>p</color>ecial Effect",
     "addText": "AAAAAA==",
     "removeText": "AAAAAA==",
@@ -18605,7 +18659,7 @@
   {
     "sn": "28431",
     "title": "Mark of Calamity",
-    "desc": "After dealing dmg, activate Calamity's Descent and spread to main target. At 2 stacks, activate Calamity's Extinction.",
+    "desc": "After dealing dmg, activate Calamity's Descent and spread to main target. At 2 stacks, activate Ruinous Calamity.",
     "BuffDesc": "M<color=#000000>a</color>rk of Calamity",
     "addText": "Gained a Mark of Calamity!",
     "removeText": "AAAAAA==",
@@ -18614,7 +18668,7 @@
   {
     "sn": "28432",
     "title": "Mark of Calamity",
-    "desc": "After dealing dmg, activate Calamity's Descent and spread to main target. At 2 stacks, activate Calamity's Extinction.",
+    "desc": "After dealing dmg, activate Calamity's Descent and spread to main target. At 2 stacks, activate Ruinous Calamity.",
     "BuffDesc": "M<color=#000000>a</color>rk of Calamity",
     "addText": "Gained a Mark of Calamity!",
     "removeText": "AAAAAA==",
@@ -19899,6 +19953,15 @@
     "calText": "AAAAAA=="
   },
   {
+    "sn": "31904",
+    "title": "Weakness Damage Up",
+    "desc": "Increase weakness dmg by %s.",
+    "BuffDesc": "AAAAAA==",
+    "addText": "AAAAAA==",
+    "removeText": "AAAAAA==",
+    "calText": "AAAAAA=="
+  },
+  {
     "sn": "32012",
     "title": "Mark: Gun",
     "desc": "Last dmg taken: Gun",
@@ -21007,18 +21070,18 @@
   },
   {
     "sn": "35512",
-    "title": "Sword that Defends the Nation",
-    "desc": "tdxct-[SkillBuff_desc_35512]",
-    "BuffDesc": "S<color=#000000>w</color>ord that Defends the Nation",
+    "title": "Sword That Defends the Nation",
+    "desc": "Shield: %s",
+    "BuffDesc": "S<color=#000000>w</color>ord That Defends the Nation",
     "addText": "AAAAAA==",
     "removeText": "AAAAAA==",
     "calText": "AAAAAA=="
   },
   {
     "sn": "35522",
-    "title": "Growth of all Things",
+    "title": "Growth of All Things",
     "desc": "Increase dmg by %s.",
-    "BuffDesc": "G<color=#000000>r</color>owth of all Things",
+    "BuffDesc": "G<color=#000000>r</color>owth of All Things",
     "addText": "AAAAAA==",
     "removeText": "AAAAAA==",
     "calText": "AAAAAA=="
@@ -23753,7 +23816,7 @@
   {
     "sn": "5021111",
     "title": "Fairy Power",
-    "desc": "Decrease dmg taken by 4% for each stack. When ally is defeated, spend 1 stack to resummon them.",
+    "desc": "Decrease dmg taken by 4% for each stack. When attendant is defeated, lose 1 stack and resummon them.",
     "BuffDesc": "F<color=#000000>a</color>iry Power",
     "addText": "Gained 5 Fairy Power!",
     "removeText": "AAAAAA==",
@@ -23796,6 +23859,33 @@
     "calText": "AAAAAA=="
   },
   {
+    "sn": "5061011",
+    "title": "Azure Scales",
+    "desc": "Decrease dmg taken by %s for each stack.",
+    "BuffDesc": "A<color=#000000>z</color>ure Scales",
+    "addText": "Gained 1 Azure Scales stack!",
+    "removeText": "AAAAAA==",
+    "calText": "AAAAAA=="
+  },
+  {
+    "sn": "5061012",
+    "title": "Azure Scales",
+    "desc": "Decrease dmg taken by %s for each stack.",
+    "BuffDesc": "A<color=#000000>z</color>ure Scales",
+    "addText": "Gained 2 Azure Scales stack!",
+    "removeText": "AAAAAA==",
+    "calText": "AAAAAA=="
+  },
+  {
+    "sn": "5061013",
+    "title": "Seiryu's Might",
+    "desc": "Increase dmg by %s for each stack.",
+    "BuffDesc": "S<color=#000000>e</color>iryu's Might",
+    "addText": "AAAAAA==",
+    "removeText": "AAAAAA==",
+    "calText": "AAAAAA=="
+  },
+  {
     "sn": "5081121",
     "title": "Stat Buff",
     "desc": "Increase dmg by 15%.",
@@ -23807,7 +23897,7 @@
   {
     "sn": "5101112",
     "title": "Vajra Shield",
-    "desc": "Decrease dmg taken by 5% for each stack. When taking skill/Resonance dmg, lose 1 stack.",
+    "desc": "Decrease dmg taken by 5% for each stack. When taking damage from a skill or Resonance, lose 1 stack.",
     "BuffDesc": "V<color=#000000>a</color>jra Shield",
     "addText": "Gained 15 Vajra Shields!",
     "removeText": "AAAAAA==",
