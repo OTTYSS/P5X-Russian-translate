@@ -3850,7 +3850,6 @@ Upon reaching Synergy Rank {1} with {0}, there is a chance you will make more th
 Upon reaching Synergy Rank {1} with {0}, making battle items will require fewer materials.=На синергии {1} с {0} для создания боевых предметов потребуется меньше материалов.
 Clear missions related to {0} {1}=Выполните задания, связанные с {0} {1}
 {0} is your {1}. Do you want to change your relationship with {2}? Note: Changing your relationship can't be undone for {3} days.={0} — ваш {1}. Хотите изменить отношения с {2}? Внимание: это нельзя будет отменить в течение {3} дней.
-{0} might like this present.=Возможно, {0} понравится этот подарок.
 Unlocks in {0} d=Откроется через {0} дн.
 Unlocks in {0} h=Откроется через {0} ч.
 Unlocks in {0} d {1} h=Откроется через {0} дн. {1} ч.
@@ -5742,7 +5741,6 @@ r:"^Upon reaching Synergy Rank (.+) with (.+)\, there is a chance you will make 
 r:"^Upon reaching Synergy Rank (.+) with (.+)\, making battle items will require fewer materials\."="На синергии $1 с $2 для создания боевых предметов потребуется меньше материалов."
 r:"^Clear missions related to (.+) (.+)"="Выполните задания, связанные с $1 $2"
 r:"^(.+) is your (.+)\. Do you want to change your relationship with (.+)\? Note: Changing your relationship can't be undone for (.+) days\."="$1 — ваш $2. Хотите изменить отношения с $3? Внимание: это нельзя будет отменить в течение $4 дней."
-r:"^(.+) might like this present\."="Возможно, $1 понравится этот подарок."
 r:"^Unlocks in (.+) d"="Откроется через $1 дн."
 r:"^Unlocks in (.+) h"="Откроется через $1 ч."
 r:"^Unlocks in (.+) d (.+) h"="Откроется через $1 дн. $2 ч."
