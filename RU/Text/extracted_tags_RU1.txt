@@ -6247,6 +6247,12 @@ This skill requires <link\="s|164"><u>Childish Heart</u></link>.\nWhen used with
 When spending 3 or more <link\="s|164"><u>Childish Heart</u></link> stacks at once, increase effects of Off to Treasure Hunt by <color\=#FFFC40>(.*)</color> more.=При использовании 3 или более стеков <link\="s|164"><u>Детского Сердца</u></link> сразу, увеличьте эффекты От до Охоты за Сокровищами на <color\=#FFFC40>$1</color> больше.
 Decrease party's SP cost by <color\=#FFFC40>(.*)</color>.=Уменьшите стоимость SP группы на <color\=#FFFC40>$1</color>.
 Increase ammo for ranged attacks by <color\=#FFFC40>18</color>. When attacking foes with ranged attacks, <color\=#FFFC40>10.0%</color>% chance to deal bonus damage equal to <color\=#FFFC40>9%</color> of Shun's max HP, and decrease foe's Defense by 35% for 3 turns. Consecutive ranged attacks against the same foe will deal decreased damage.=Увеличьте боеприпасы для дальних атак на <color\=#FFFC40>18</color>. При атаке врагов с дальними атаками, <color\=#FFFC40>10.0%</color>% шанс нанести бонусный урон, равный <color\=#FFFC40>9%</color> от максимального HP Шуна, и уменьшить Защиту врага на 35% на 3 хода. Последующие дальние атаки по одной и той же цели будут наносить уменьшенный урон.
-Increase damage on extra actions by <color\=#FFFC40>(.*)</color>.=Увеличьте урон на дополнительных действиях на <color\=#FFFC40>$1</color>.
+Increase damage on extra actions by <color\=#FFFC40>^%s^</color>.=Увеличьте урон на дополнительных действиях на <color\=#FFFC40>^%s^</color>.
+Increase Attack by <color\=#FFFC40>^%s^</color> for each <link\="s|124"><u>Will of Rebellion</u></link> stack.=Attack увеличено на <color\=#FFFC40>^%s^</color> for each <link\="s|124"><u>Will of Rebellion</u></link> stack.
+
+
+
 Increase Attack by <color\=#2899FF>(.*)</color>.=Увеличивает атаку на <color\=#2899FF>$1</color>.
+Increase max HP by <color\=#2899FF>(.*)</color>.=Тест 1 Увеличивает максимальный HP на <color\=#2899FF>$1</color>.
+Increase max HP by <color\=#2899FF>^%s^</color>.=Тест 2 Увеличивает максимальный HP на <color\=#2899FF>^%s^</color>.
 [Binding Hex]=[Связывающее проклятие]
