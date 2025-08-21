@@ -5715,7 +5715,7 @@
     "sn": 1281,
     "name": "预设阵容-第一章Boss战斗，素羽加入战斗",
     "type": 3002,
-    "params": "101",
+    "params": "101,20501",
     "funcOpenSn": 0,
     "showFuncOpenNotice": 0,
     "funcIcon": "AAAAAA==",
@@ -5787,7 +5787,7 @@
     "sn": 1287,
     "name": "预设阵容-宫泽BOSS战预设阵容",
     "type": 3002,
-    "params": "112",
+    "params": "112,21901",
     "funcOpenSn": 0,
     "showFuncOpenNotice": 0,
     "funcIcon": "AAAAAA==",
@@ -11244,6 +11244,18 @@
     "appearParam": "AAAAAA=="
   },
   {
+    "sn": 9508,
+    "name": "协同者坂井绫香",
+    "type": 2027,
+    "params": "12",
+    "funcOpenSn": 0,
+    "showFuncOpenNotice": 0,
+    "funcIcon": "AAAAAA==",
+    "isCommend": 0,
+    "appearType": "AAAAAA==",
+    "appearParam": "AAAAAA=="
+  },
+  {
     "sn": 9601,
     "name": "路菲尔的商业目标day1",
     "type": 2012,
@@ -15121,7 +15133,7 @@
   },
   {
     "sn": 10214,
-    "name": "怪盗天赋",
+    "name": "怪盗心象",
     "type": 2057,
     "params": "AAAAAA==",
     "funcOpenSn": 22,
@@ -19860,6 +19872,18 @@
     "appearParam": "AAAAAA=="
   },
   {
+    "sn": 60031,
+    "name": "协同者活动-坂井绫香-快速解锁",
+    "type": 12,
+    "params": "1024024",
+    "funcOpenSn": 0,
+    "showFuncOpenNotice": 0,
+    "funcIcon": "AAAAAA==",
+    "isCommend": 0,
+    "appearType": "AAAAAA==",
+    "appearParam": "AAAAAA=="
+  },
+  {
     "sn": 60101,
     "name": "医者的自渡·除恶务尽",
     "type": 2038,
@@ -19901,6 +19925,18 @@
     "type": 2060,
     "params": "AAAAAA==",
     "funcOpenSn": 631,
+    "showFuncOpenNotice": 1,
+    "funcIcon": "AAAAAA==",
+    "isCommend": 0,
+    "appearType": "AAAAAA==",
+    "appearParam": "AAAAAA=="
+  },
+  {
+    "sn": 60203,
+    "name": "荆棘试炼",
+    "type": 2031,
+    "params": "54,5400001",
+    "funcOpenSn": 402,
     "showFuncOpenNotice": 1,
     "funcIcon": "AAAAAA==",
     "isCommend": 0,

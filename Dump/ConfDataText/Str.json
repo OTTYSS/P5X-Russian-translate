@@ -15070,6 +15070,17 @@
     "option2": "AAAAAA=="
   },
   {
+    "sn": 1015030,
+    "channelType": 0,
+    "strContent": "当前设置不符合推荐阵容条件,\n是否使用当前阵容挑战？",
+    "typeView": 16,
+    "tipsForNpc": 0,
+    "showName": "路<#000000,菲,#FFFFFF>尔",
+    "heads": "lufeier-owl-str-tongchang,1|touxiang-lufeier01,2",
+    "option1": "确定",
+    "option2": "取消"
+  },
+  {
     "sn": 1016004,
     "channelType": 0,
     "strContent": "%s。",
@@ -17878,6 +17889,28 @@
     "sn": 1024022,
     "channelType": 0,
     "strContent": "「椎名悠美」协同任务已解锁",
+    "typeView": 14,
+    "tipsForNpc": 0,
+    "showName": "AAAAAA==",
+    "heads": "AAAAAA==",
+    "option1": "AAAAAA==",
+    "option2": "AAAAAA=="
+  },
+  {
+    "sn": 1024023,
+    "channelType": 0,
+    "strContent": "「坂井绫香」协同任务当前尚未解锁，是否立即解锁以快速体验？（提前解锁可能会影响剧情体验的连贯性，请谨慎选择）",
+    "typeView": 16,
+    "tipsForNpc": 0,
+    "showName": "路<#000000,菲,#FFFFFF>尔",
+    "heads": "lufeier-owl-str-tongchang,1|touxiang-lufeier01,2",
+    "option1": "确定",
+    "option2": "再想想"
+  },
+  {
+    "sn": 1024024,
+    "channelType": 0,
+    "strContent": "「坂井绫香」协同任务已解锁",
     "typeView": 14,
     "tipsForNpc": 0,
     "showName": "AAAAAA==",
@@ -51109,6 +51142,17 @@
     "sn": 1303003,
     "channelType": 0,
     "strContent": "消耗不足，无法激活。",
+    "typeView": 0,
+    "tipsForNpc": 0,
+    "showName": "AAAAAA==",
+    "heads": "AAAAAA==",
+    "option1": "AAAAAA==",
+    "option2": "AAAAAA=="
+  },
+  {
+    "sn": 1303004,
+    "channelType": 0,
+    "strContent": "「%s」点位未开放。",
     "typeView": 0,
     "tipsForNpc": 0,
     "showName": "AAAAAA==",

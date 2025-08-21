@@ -825,7 +825,7 @@
   },
   {
     "sn": "1018005",
-    "textContent": "Claim until: %s"
+    "textContent": "Date received: %s"
   },
   {
     "sn": "1018006",
@@ -1585,15 +1585,15 @@
   },
   {
     "sn": "1022028",
-    "textContent": "This 5★ contract Phantom Thief is a <color=#FFFC40>Standard Phantom Thief</color> and will be added to the <color=#FFFC40>Phantom Idol Contracts</color> lineup after the event ends."
+    "textContent": "This 5★ contract Phantom Thief is a <color=#FFFC40>non-exclusive Phantom Thief</color> and will be added to the <color=#FFFC40>Phantom Idol Contracts</color> lineup after the event ends."
   },
   {
     "sn": "1022029",
-    "textContent": "<color=#FFFC40>{0}</color> is an exclusive weapon and will not be available in the Your Pick lineup after the event ends."
+    "textContent": "<color=#FFFC40>{0}</color> is an exclusive weapon and won't be added to the Choose Weapons lineup after the event ends."
   },
   {
     "sn": "1022030",
-    "textContent": "The Regular Weapon <color=#FFFC40>{0}</color> will be included in the Your Pick lineup after the event ends."
+    "textContent": "<color=#FFFC40>{0}</color> is a non-exclusive weapon and will be included in the Choose Weapons lineup after the event ends."
   },
   {
     "sn": "1022031",
@@ -1913,7 +1913,7 @@
   },
   {
     "sn": "1026054",
-    "textContent": "Unlocks through Main Story missions."
+    "textContent": "Unlocks through main story missions."
   },
   {
     "sn": "1026055",
@@ -2933,7 +2933,7 @@
   },
   {
     "sn": "1034092",
-    "textContent": "Perseverance"
+    "textContent": "Overclock"
   },
   {
     "sn": "1034093",
@@ -3785,7 +3785,7 @@
   },
   {
     "sn": "1043086",
-    "textContent": "Total number of core items collected during the event\nShow as: Collected/Total"
+    "textContent": "Total number of main rewards collected during the event\nShow as: Collected/Total"
   },
   {
     "sn": "1043072",
@@ -4977,7 +4977,7 @@
   },
   {
     "sn": "1070056",
-    "textContent": "Current Season Ranking: "
+    "textContent": "Current Season\nRanking:"
   },
   {
     "sn": "1070057",
@@ -5649,7 +5649,7 @@
   },
   {
     "sn": "1083011",
-    "textContent": "%s times left"
+    "textContent": "%s left"
   },
   {
     "sn": "1083012",
@@ -5673,7 +5673,7 @@
   },
   {
     "sn": "1083017",
-    "textContent": "Buy Lost Property"
+    "textContent": "Buy Lost Items"
   },
   {
     "sn": "1083018",
@@ -5761,7 +5761,7 @@
   },
   {
     "sn": "1083039",
-    "textContent": "Lost Property Obtained: %d"
+    "textContent": "Lost Items Obtained: %d"
   },
   {
     "sn": "1083040",
@@ -5781,11 +5781,11 @@
   },
   {
     "sn": "1083044",
-    "textContent": "Select a Lost Item."
+    "textContent": "Select a Lost Item"
   },
   {
     "sn": "1083045",
-    "textContent": "Select a Charm."
+    "textContent": "Select a Charm"
   },
   {
     "sn": "1083046",
@@ -5833,11 +5833,11 @@
   },
   {
     "sn": "1083078",
-    "textContent": "Select an item of Lost Property to discard."
+    "textContent": "Select a Lost Item to discard"
   },
   {
     "sn": "1083079",
-    "textContent": "You have no Lost Property to discard."
+    "textContent": "You have no Lost Items to discard."
   },
   {
     "sn": "1083058",
@@ -5929,7 +5929,7 @@
   },
   {
     "sn": "1084028",
-    "textContent": "Unlocked at Synergy Rank %s with Ayaka Sakai."
+    "textContent": "Synergy Rank %s with Ayaka Sakai"
   },
   {
     "sn": "1083075",
@@ -5953,7 +5953,7 @@
   },
   {
     "sn": "1084001",
-    "textContent": "Unlocks at Band Club Level %d."
+    "textContent": "Band Club Level %d"
   },
   {
     "sn": "1084002",
@@ -6061,7 +6061,7 @@
   },
   {
     "sn": "1084029",
-    "textContent": "Correct Miss to Perfect"
+    "textContent": "Correct Misses to Perfects"
   },
   {
     "sn": "1086007",
@@ -6329,7 +6329,7 @@
   },
   {
     "sn": "1089001",
-    "textContent": "{0} Obtained: {1}"
+    "textContent": "{0}: {1}"
   },
   {
     "sn": "1090004",
@@ -7737,7 +7737,7 @@
   },
   {
     "sn": "2001315",
-    "textContent": "Perseverance"
+    "textContent": "Overclock"
   },
   {
     "sn": "2001316",
@@ -7929,7 +7929,7 @@
   },
   {
     "sn": "2001363",
-    "textContent": "Current Season\nRanking:"
+    "textContent": "Current Season Ranking:"
   },
   {
     "sn": "2001364",
@@ -8305,7 +8305,7 @@
   },
   {
     "sn": "2001460",
-    "textContent": "Left: 3"
+    "textContent": "3 left"
   },
   {
     "sn": "2001461",
@@ -8837,7 +8837,7 @@
   },
   {
     "sn": "2001597",
-    "textContent": "Popular Last Week: "
+    "textContent": "Last week's contribution:"
   },
   {
     "sn": "2001598",
@@ -9489,7 +9489,7 @@
   },
   {
     "sn": "2001781",
-    "textContent": "VA:\u00A0"
+    "textContent": "VA:"
   },
   {
     "sn": "2001782",
@@ -10297,7 +10297,7 @@
   },
   {
     "sn": "2002019",
-    "textContent": "Recommended Set"
+    "textContent": "Recommended Set "
   },
   {
     "sn": "2002020",
@@ -10393,7 +10393,7 @@
   },
   {
     "sn": "2002098",
-    "textContent": "Daily Tasks reset at 8 PM UTC."
+    "textContent": "Tasks update daily at 8 PM UTC"
   },
   {
     "sn": "2002041",
@@ -10485,7 +10485,7 @@
   },
   {
     "sn": "2002062",
-    "textContent": "Progress Gained: "
+    "textContent": "Progress: "
   },
   {
     "sn": "2002063",
@@ -10765,7 +10765,7 @@
   },
   {
     "sn": "2002149",
-    "textContent": "Main atribute cannot be customized"
+    "textContent": "Main attributes cannot be customized."
   },
   {
     "sn": "2002150",
@@ -10997,7 +10997,7 @@
   },
   {
     "sn": "2002189",
-    "textContent": "Main atribute cannot be customized"
+    "textContent": "Main attributes cannot be customized."
   },
   {
     "sn": "2002190",
@@ -11149,7 +11149,7 @@
   },
   {
     "sn": "2002212",
-    "textContent": "Rank {0} Ability Unlocked:\n"
+    "textContent": "Rank {0} Ability:\n"
   },
   {
     "sn": "2002213",
@@ -11177,7 +11177,7 @@
   },
   {
     "sn": "2002242",
-    "textContent": "Transcendence Level"
+    "textContent": "Superego Level"
   },
   {
     "sn": "2002243",
@@ -11205,7 +11205,7 @@
   },
   {
     "sn": "2002251",
-    "textContent": "Unlocks when Wonder reaches level {0}"
+    "textContent": "Unlocks when Wonder reaches Superego Level {0}"
   },
   {
     "sn": "2002252",
@@ -11285,7 +11285,7 @@
   },
   {
     "sn": "2002267",
-    "textContent": "Goals"
+    "textContent": "Goal"
   },
   {
     "sn": "2002268",
@@ -11777,7 +11777,7 @@
   },
   {
     "sn": "2002378",
-    "textContent": "When you complete high difficulty levels, your highest low-level difficulty will change.\nNormal: %s\nHard: %s\nNightmare: %s"
+    "textContent": "When you complete high difficulty levels, the highest abnormality level of the lower difficulties will also change.\nNormal: %s\nHard: %s\nNightmare: %s"
   },
   {
     "sn": "2002383",
@@ -11817,11 +11817,11 @@
   },
   {
     "sn": "2002410",
-    "textContent": "Unlocks in"
+    "textContent": "Unlocks in: %s"
   },
   {
     "sn": "2002411",
-    "textContent": "Ends in "
+    "textContent": "Ends in: %s"
   },
   {
     "sn": "2002412",
@@ -11921,7 +11921,7 @@
   },
   {
     "sn": "2002438",
-    "textContent": "Battle Effects Unselected"
+    "textContent": "No battle effects selected"
   },
   {
     "sn": "2002442",
@@ -11933,23 +11933,23 @@
   },
   {
     "sn": "2002456",
-    "textContent": "Highest Abnormality Level: "
+    "textContent": "Highest Abnormality Lv: "
   },
   {
     "sn": "2002457",
-    "textContent": "Obtain exclusive badges!"
+    "textContent": "obtain exclusive badges"
   },
   {
     "sn": "2002458",
-    "textContent": "Clear to unlock."
+    "textContent": "Clear to update"
   },
   {
     "sn": "2002459",
-    "textContent": "New Abnormality Effect"
+    "textContent": "Unlock Battle Effects"
   },
   {
     "sn": "2002460",
-    "textContent": "Complete high-level challenges to update your highest abnormality level badge."
+    "textContent": "Displays the highest Abnormality Level difficulty cleared."
   },
   {
     "sn": "2002461",
@@ -11957,7 +11957,7 @@
   },
   {
     "sn": "2002462",
-    "textContent": "Long press an icon to view details."
+    "textContent": "Long press icons to view info"
   },
   {
     "sn": "2002405",
@@ -11989,7 +11989,7 @@
   },
   {
     "sn": "2002464",
-    "textContent": "Complete the Goal"
+    "textContent": "Complete goals to"
   },
   {
     "sn": "2002468",
@@ -12133,7 +12133,7 @@
   },
   {
     "sn": "2002503",
-    "textContent": "Missions"
+    "textContent": "Mission"
   },
   {
     "sn": "2002504",
@@ -12369,7 +12369,7 @@
   },
   {
     "sn": "2002607",
-    "textContent": "Use recommended team formation"
+    "textContent": "Use Tryout Thieves"
   },
   {
     "sn": "2002552",
@@ -12469,7 +12469,7 @@
   },
   {
     "sn": "2002585",
-    "textContent": "Yesterday's Star Rewards: "
+    "textContent": "Yesterday's Stardust Rewards:"
   },
   {
     "sn": "2002586",
@@ -12497,7 +12497,7 @@
   },
   {
     "sn": "2002598",
-    "textContent": "Remove the previous effects."
+    "textContent": "Please unlock the previous effect."
   },
   {
     "sn": "2002599",
@@ -12765,7 +12765,7 @@
   },
   {
     "sn": "2002669",
-    "textContent": "Base Stat Increases:"
+    "textContent": "Stat Increases:"
   },
   {
     "sn": "2002671",
@@ -13016,6 +13016,10 @@
     "textContent": "Current Space-marked Revelation Cards can randomly produce the following sets:"
   },
   {
+    "sn": "2002921",
+    "textContent": "Qualia Lv. "
+  },
+  {
     "sn": "2002937",
     "textContent": "Clear daily missions\nto gain EXP!"
   },
@@ -13065,7 +13069,7 @@
   },
   {
     "sn": "2303008",
-    "textContent": "Obtain Qualia EXP\nwhen Phantom Thief Rating increases."
+    "textContent": "Obtain Qualia EXP when\nPhantom Thief Rating increases."
   },
   {
     "sn": "2303025",
@@ -13130,5 +13134,9 @@
   {
     "sn": "2303279",
     "textContent": " x"
+  },
+  {
+    "sn": "2303329",
+    "textContent": "%s"
   }
 ]

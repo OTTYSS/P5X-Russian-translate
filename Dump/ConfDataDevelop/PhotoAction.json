@@ -1362,5 +1362,27 @@
     "param": 0,
     "description": "AAAAAA==",
     "sort": 2
+  },
+  {
+    "sn": 5001,
+    "name": "站立",
+    "pic": "paizhao-dongzuo-11.png",
+    "CharacterSn": 50,
+    "action": "dorothy_normal@stand",
+    "method": 0,
+    "param": 0,
+    "description": "AAAAAA==",
+    "sort": 1
+  },
+  {
+    "sn": 5002,
+    "name": "生气",
+    "pic": "paizhao-action4.png",
+    "CharacterSn": 50,
+    "action": "dorothy_normal@threaten_story",
+    "method": 0,
+    "param": 0,
+    "description": "AAAAAA==",
+    "sort": 2
   }
 ]

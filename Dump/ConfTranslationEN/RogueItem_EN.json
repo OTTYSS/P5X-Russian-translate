@@ -32,7 +32,7 @@
   {
     "sn": "4",
     "name": "Piggy Bank",
-    "text": "Increases your current Railway Coins by 100%, but receive no Railway Coins for the next 5 stations.",
+    "text": "For the next 5 stations, receive no Railway Coins, but then increase Railway Coins by 100%.",
     "text0": "A savings box shaped like a pig.",
     "text3": "AAAAAA==",
     "text2": "Effective after %s stations",
@@ -111,7 +111,7 @@
   },
   {
     "sn": "12",
-    "name": "Mystical Crystal Ball",
+    "name": "Mystic Crystal Ball",
     "text": "Randomly changes 1 of your Charms into another Charm.",
     "text0": "A crystal ball emanating a mysterious power.",
     "text3": "AAAAAA==",
@@ -151,7 +151,7 @@
   },
   {
     "sn": "20",
-    "name": "Prayer Mushrooms",
+    "name": "Prayer Mushroom",
     "text": "Receive 1 <link=\"rg|1008\"><u>Prayer Magatama</u></link>.",
     "text0": "A mystical mushroom imbued with the power of prayer and deliciousness.",
     "text3": "AAAAAA==",
@@ -362,7 +362,7 @@
   {
     "sn": "42",
     "name": "Prayer Board",
-    "text": "Each time you arrive at a station, chance to gain one of the following effects: Obtain 30 Railway Coins. Ally Attack +10%. Recover 20% Ally HP. Lose 20% Ally HP. (Will not reduce below 1%)",
+    "text": "Each time you arrive at a station, chance to gain one of the following effects:\nObtain 30 Railway Coins.\nIncrease party's Attack by 10%.\nRecover 20% of party's HP.\nLose 20% of party's HP. (Will not reduce below 1%)",
     "text0": "An invaluable prayer board said to bring a bit of good fortune.",
     "text3": "Current Attack of All Allies: +%%s",
     "text2": "AAAAAA==",
@@ -452,7 +452,7 @@
   {
     "sn": "52",
     "name": "Passionate Record",
-    "text": "All foes become weak to Fire and Psy, but become immune to other random attributes.",
+    "text": "All foes' Fire and Psychokinesis affinities become Weak, but another random affinity becomes Null.",
     "text0": "An old record containing melodies that get the listener fired up.",
     "text3": "AAAAAA==",
     "text2": "AAAAAA==",
@@ -462,7 +462,7 @@
   {
     "sn": "53",
     "name": "Analytical Record",
-    "text": "All foes become weak to Ice and Nuclear, but become immune to other random attributes.",
+    "text": "All foes' Ice and Nuclear affinities become Weak, but another random affinity becomes Null.",
     "text0": "An old record containing melodies that calm the listener's spirit.",
     "text3": "AAAAAA==",
     "text2": "AAAAAA==",
@@ -472,7 +472,7 @@
   {
     "sn": "54",
     "name": "Revelatory Record",
-    "text": "All foes become weak to Elec and Bless, but become immune to other random attributes.",
+    "text": "All foes' Electric and Bless affinities become Weak, but another random affinity becomes Null.",
     "text0": "An old record containing melodies that can impart thunderous revelations upon the listener.",
     "text3": "AAAAAA==",
     "text2": "AAAAAA==",
@@ -482,7 +482,7 @@
   {
     "sn": "55",
     "name": "Mournful Record",
-    "text": "All foes become weak to Wind and Curse, but become immune to other random attributes.",
+    "text": "All foes' Wind and Curse affinities become Weak, but another random affinity becomes Null.",
     "text0": "An old record containing melodies that leave the listener in a desolate, sorrowful state.",
     "text3": "AAAAAA==",
     "text2": "AAAAAA==",

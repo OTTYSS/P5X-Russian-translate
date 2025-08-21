@@ -4502,7 +4502,7 @@
   },
   {
     "sn": "15803",
-    "strContent": "Based on your Main Story progress, you don't meet the requirements for using Quick Unlock. Continue playing through the Main Story to unlock it.",
+    "strContent": "To unlock, play more of the main and side story.",
     "option1": "AAAAAA==",
     "showName": "AAAAAA==",
     "option2": "AAAAAA=="
@@ -6280,7 +6280,7 @@
   },
   {
     "sn": "1000458",
-    "strContent": "When refreshing, only unlocked Sub-Attributes will be refreshed.",
+    "strContent": "Only unlocked sub-attributes will be updated.",
     "option1": "AAAAAA==",
     "showName": "AAAAAA==",
     "option2": "AAAAAA=="
@@ -8758,7 +8758,7 @@
   },
   {
     "sn": "1012007",
-    "strContent": "Can be selected when the Main Story Mission {0} - {1} is cleared.",
+    "strContent": "Can be selected when the main story mission {0} - {1} is cleared.",
     "option1": "AAAAAA==",
     "showName": "AAAAAA==",
     "option2": "AAAAAA=="
@@ -9597,6 +9597,13 @@
     "option2": "AAAAAA=="
   },
   {
+    "sn": "1015030",
+    "strContent": "Conditions have not been met.Do you want to use this party anyway?",
+    "option1": "Confirm",
+    "showName": "Lu<#000000,f,#FFFFFF>el",
+    "option2": "Not now"
+  },
+  {
     "sn": "1017001",
     "strContent": "You exited a stage in progress. Would you like to resume from there?",
     "option1": "Continue",
@@ -9710,14 +9717,14 @@
   },
   {
     "sn": "1019010",
-    "strContent": "Do you want to work at the meat cutlet shop?",
-    "option1": "Move",
+    "strContent": "Do you want to work at the fried food store?",
+    "option1": "Let's get to work.",
     "showName": "L<#000000,u,#FFFFFF>fel",
     "option2": "Never mind"
   },
   {
     "sn": "1019014",
-    "strContent": "Did you intend to study here?",
+    "strContent": "Do you intend to study here?",
     "option1": "Study",
     "showName": "L<#000000,u,#FFFFFF>fel",
     "option2": "Never mind"
@@ -9941,7 +9948,7 @@
   },
   {
     "sn": "1019059",
-    "strContent": "Join Band Club Practice?",
+    "strContent": "Do you intend to play with the band\nclub today?",
     "option1": "Join",
     "showName": "L<#000000,u,#FFFFFF>fel",
     "option2": "Maybe another time."
@@ -10032,7 +10039,7 @@
   },
   {
     "sn": "1019103",
-    "strContent": "Oh, that's right, I have a\nPersona she asked for...",
+    "strContent": "Come to think of it, I have\na Persona that Merope\nasked for...",
     "option1": "Talk to Merope",
     "showName": "AAAAAA==",
     "option2": "I have other plans..."
@@ -10040,30 +10047,30 @@
   {
     "sn": "1019070",
     "strContent": "Do you want to sing at karaoke?\nIt costs <color=#FF423F>1,500 yen</color>.",
-    "option1": "Confirm",
+    "option1": "Let's go do karaoke.",
     "showName": "L<#000000,u,#FFFFFF>fel",
-    "option2": "Maybe another time."
+    "option2": "Never mind."
   },
   {
     "sn": "1019071",
-    "strContent": "Meditate here?",
-    "option1": "Calm your mind",
+    "strContent": "Do you want to meditate here?",
+    "option1": "Let's meditate.",
     "showName": "L<#000000,u,#FFFFFF>fel",
-    "option2": "Not now"
+    "option2": "Never mind."
   },
   {
     "sn": "1019072",
-    "strContent": "Do you want to try a new coffee blend here?\nLooks like it'll cost <color=#FF423F>800 yen</color>.",
-    "option1": "Confirm",
+    "strContent": "Do you want to spend time at the café?\nA cup of coffee costs <color=#FF423F>800 yen</color>.",
+    "option1": "Stop by",
     "showName": "L<#000000,u,#FFFFFF>fel",
-    "option2": "Maybe another time."
+    "option2": "Never mind."
   },
   {
     "sn": "1019073",
-    "strContent": "Do you want try some mocktails here?\nIt costs <color=#FF423F>1,500 yen</color>.",
-    "option1": "Confirm",
+    "strContent": "Do you want to spend time at the jazz bar?\nIt costs <color=#FF423F>1,500 yen</color>.",
+    "option1": "Stop by",
     "showName": "L<#000000,u,#FFFFFF>fel",
-    "option2": "Maybe another time."
+    "option2": "Never mind."
   },
   {
     "sn": "1019077",
@@ -10117,23 +10124,23 @@
   {
     "sn": "1019123",
     "strContent": "How should I answer...?",
-    "option1": "If you insist...",
+    "option1": "If you insist.",
     "showName": "AAAAAA==",
-    "option2": "I have other plans..."
+    "option2": "I'm a bit busy today..."
   },
   {
     "sn": "1019131",
     "strContent": "Would you like to spend time with Tomoko?",
     "option1": "Sure.",
     "showName": "L<#000000,u,#FFFFFF>fel",
-    "option2": "Come back another time"
+    "option2": "I have other plans..."
   },
   {
     "sn": "1019105",
     "strContent": "I should report to Merope\nthat we changed the corrupt\nproducer's heart...",
     "option1": "Talk to Merope",
     "showName": "AAAAAA==",
-    "option2": "Report later"
+    "option2": "Come back another time"
   },
   {
     "sn": "1019132",
@@ -10179,8 +10186,8 @@
   },
   {
     "sn": "1019124",
-    "strContent": "Kiyoshi seems really down. Should we spend\nsome time with him?",
-    "option1": "All right.",
+    "strContent": "Would you like to spend time with Kurotani?",
+    "option1": "Spend time with Kiyoshi \u3000",
     "showName": "L<#000000,u,#FFFFFF>fel",
     "option2": "I have other plans..."
   },
@@ -10333,7 +10340,7 @@
   },
   {
     "sn": "1019190",
-    "strContent": "Should I spend some more time\nwith Ayaka...?",
+    "strContent": "Should I spend time\nwith Ayaka today...?",
     "option1": "Sure.",
     "showName": "AAAAAA==",
     "option2": "Now's not a great time..."
@@ -10348,9 +10355,9 @@
   {
     "sn": "1019191",
     "strContent": "Should I spend time\nwith Ayaka today...?",
-    "option1": "Listen.",
+    "option1": "Hear her out",
     "showName": "AAAAAA==",
-    "option2": "Maybe another day..."
+    "option2": "Stop by another time"
   },
   {
     "sn": "1019212",
@@ -10362,16 +10369,16 @@
   {
     "sn": "1019192",
     "strContent": "Should I spend time\nwith Ayaka today...?",
-    "option1": "All good.",
+    "option1": "I've got time to spare.",
     "showName": "AAAAAA==",
     "option2": "I need to go somewhere else..."
   },
   {
     "sn": "1019193",
-    "strContent": "Do you want to spend time with Ayaka?",
-    "option1": "Let's go together.",
+    "strContent": "Would you like to spend time with Ayaka?",
+    "option1": "Sure.",
     "showName": "L<#000000,u,#FFFFFF>fel",
-    "option2": "I've got somewhere else to be..."
+    "option2": "I have other plans..."
   },
   {
     "sn": "1019220",
@@ -10445,7 +10452,7 @@
   },
   {
     "sn": "1019185",
-    "strContent": "Yumi seems to be\ndeep in thought...",
+    "strContent": "Yumi seems to be thinking\nabout something...",
     "option1": "Talk to Yumi",
     "showName": "AAAAAA==",
     "option2": "Come back another time"
@@ -10536,7 +10543,7 @@
   },
   {
     "sn": "1020117",
-    "strContent": "Aside from<color=#FF423F>swimming</color>, Miura Beach seems to be\na place with many fun activities. You could\ngo sometime if that sounds interesting.",
+    "strContent": "Aside from <color=#FF423F>swimming</color>, Miura Beach seems to\nbe brimming with fun activities. You could go\nif that sounds interesting.",
     "option1": "Let's go.",
     "showName": "L<#000000,u,#FFFFFF>fel",
     "option2": "Never mind."
@@ -10949,35 +10956,35 @@
   },
   {
     "sn": "1023010",
-    "strContent": "Once you have unlocked Chapter 3 of the main story, go explore the Dam Palace in the Metaverse.",
+    "strContent": "Once you have unlocked chapter 3 of the main story, go explore the Dam Palace in the Metaverse.",
     "option1": "AAAAAA==",
     "showName": "AAAAAA==",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1023011",
-    "strContent": "Once you have unlocked Chapter 3 of the main story, go explore the Dam Palace in the Metaverse.",
+    "strContent": "Once you have unlocked chapter 3 of the main story, go explore the Dam Palace in the Metaverse.",
     "option1": "AAAAAA==",
     "showName": "AAAAAA==",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1023012",
-    "strContent": "Once you have unlocked Chapter 3 of the main story, go explore the Dam Palace in the Metaverse.",
+    "strContent": "Once you have unlocked chapter 3 of the main story, go explore the Dam Palace in the Metaverse.",
     "option1": "AAAAAA==",
     "showName": "AAAAAA==",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1023013",
-    "strContent": "Once you have unlocked Chapter 3 of the main story, go explore the Dam Palace in the Metaverse.",
+    "strContent": "Once you have unlocked chapter 3 of the main story, go explore the Dam Palace in the Metaverse.",
     "option1": "AAAAAA==",
     "showName": "AAAAAA==",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1023017",
-    "strContent": "Clear 4 Main Story missions to receive rewards.",
+    "strContent": "Clear 4 main story missions to receive rewards.",
     "option1": "AAAAAA==",
     "showName": "AAAAAA==",
     "option2": "AAAAAA=="
@@ -10991,14 +10998,14 @@
   },
   {
     "sn": "1023019",
-    "strContent": "Clear 4 Shadows of Ruin missions to receive rewards.",
+    "strContent": "Clear 4 Visions of Ruin missions to receive rewards.",
     "option1": "AAAAAA==",
     "showName": "AAAAAA==",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1023020",
-    "strContent": "Clear 4 Kichijoji Adventure missions to receive rewards.",
+    "strContent": "Clear 4 missions in Kichijoji Adventure to receive rewards.",
     "option1": "AAAAAA==",
     "showName": "AAAAAA==",
     "option2": "AAAAAA=="
@@ -11152,63 +11159,63 @@
   },
   {
     "sn": "1023043",
-    "strContent": "Once you have unlocked Chapter 3 of the main story, go explore the Dam Palace in the Metaverse.",
+    "strContent": "Once you have unlocked chapter 3 of the main story, go explore the Dam Palace in the Metaverse.",
     "option1": "AAAAAA==",
     "showName": "AAAAAA==",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1023044",
-    "strContent": "Once you have unlocked Chapter 3 of the main story, go explore the Dam Palace in the Metaverse.",
+    "strContent": "Once you have unlocked chapter 3 of the main story, go explore the Dam Palace in the Metaverse.",
     "option1": "AAAAAA==",
     "showName": "AAAAAA==",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1023045",
-    "strContent": "Once you have unlocked Chapter 3 of the main story, go explore the Dam Palace in the Metaverse.",
+    "strContent": "Once you have unlocked chapter 3 of the main story, go explore the Dam Palace in the Metaverse.",
     "option1": "AAAAAA==",
     "showName": "AAAAAA==",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1023046",
-    "strContent": "Once you have unlocked Chapter 3 of the main story, go explore the Dam Palace in the Metaverse.",
+    "strContent": "Once you have unlocked chapter 3 of the main story, go explore the Dam Palace in the Metaverse.",
     "option1": "AAAAAA==",
     "showName": "AAAAAA==",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1023047",
-    "strContent": "Once you have unlocked Chapter 3 of the main story, go explore the Dam Palace in the Metaverse.",
+    "strContent": "Once you have unlocked chapter 3 of the main story, go explore the Dam Palace in the Metaverse.",
     "option1": "AAAAAA==",
     "showName": "AAAAAA==",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1023048",
-    "strContent": "Once you have unlocked Chapter 3 of the main story, go explore the Dam Palace in the Metaverse.",
+    "strContent": "Once you have unlocked chapter 3 of the main story, go explore the Dam Palace in the Metaverse.",
     "option1": "AAAAAA==",
     "showName": "AAAAAA==",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1023049",
-    "strContent": "Once you have unlocked Chapter 3 of the main story, go explore the Dam Palace in the Metaverse.",
+    "strContent": "Once you have unlocked chapter 3 of the main story, go explore the Dam Palace in the Metaverse.",
     "option1": "AAAAAA==",
     "showName": "AAAAAA==",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1023050",
-    "strContent": "Once you have unlocked Chapter 3 of the main story, go explore the Dam Palace in the Metaverse.",
+    "strContent": "Once you have unlocked chapter 3 of the main story, go explore the Dam Palace in the Metaverse.",
     "option1": "AAAAAA==",
     "showName": "AAAAAA==",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1023051",
-    "strContent": "Once you have unlocked Chapter 3 of the main story, go explore the Dam Palace in the Metaverse.",
+    "strContent": "Once you have unlocked chapter 3 of the main story, go explore the Dam Palace in the Metaverse.",
     "option1": "AAAAAA==",
     "showName": "AAAAAA==",
     "option2": "AAAAAA=="
@@ -11383,21 +11390,21 @@
   },
   {
     "sn": "1023060",
-    "strContent": "Once you have unlocked Chapter 3 of the main story, go explore the Dam Palace in the Metaverse.",
+    "strContent": "Once you have unlocked chapter 3 of the main story, go explore the Dam Palace in the Metaverse.",
     "option1": "AAAAAA==",
     "showName": "AAAAAA==",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1023061",
-    "strContent": "Once you have unlocked Chapter 3 of the main story, go explore the Dam Palace in the Metaverse.",
+    "strContent": "Once you have unlocked chapter 3 of the main story, go explore the Dam Palace in the Metaverse.",
     "option1": "AAAAAA==",
     "showName": "AAAAAA==",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1023062",
-    "strContent": "Once you have unlocked Chapter 3 of the main story, go explore the Dam Palace in the Metaverse.",
+    "strContent": "Once you have unlocked chapter 3 of the main story, go explore the Dam Palace in the Metaverse.",
     "option1": "AAAAAA==",
     "showName": "AAAAAA==",
     "option2": "AAAAAA=="
@@ -11495,10 +11502,10 @@
   },
   {
     "sn": "1024009",
-    "strContent": "Yui's Synergy mission is currently locked. Do you want to unlock it now? (Unlocking early may impact your experience of the story, so please choose carefully.)",
+    "strContent": "Yui's Synergy mission is currently locked. Do you want to unlock it now? (Unlocking it early may impact your experience of the story, so please choose carefully.)",
     "option1": "Confirm",
     "showName": "L<#000000,u,#FFFFFF>fel",
-    "option2": "Rethink"
+    "option2": "Not now"
   },
   {
     "sn": "1024010",
@@ -11509,7 +11516,7 @@
   },
   {
     "sn": "1024019",
-    "strContent": "Kiyoshi Kurotani's Synergy mission is currently locked. Do you want to unlock it now? (Unlocking early may impact your experience of the story, so please choose carefully.)",
+    "strContent": "Kiyoshi Kurotani's Synergy mission is currently locked. Do you want to unlock it now? (Unlocking it early may impact your experience of the story.)",
     "option1": "Confirm",
     "showName": "L<#000000,u,#FFFFFF>fel",
     "option2": "Not now"
@@ -11523,7 +11530,7 @@
   },
   {
     "sn": "1024021",
-    "strContent": "Yumi Shiina's Synergy mission is currently locked. Do you want to unlock it now? (Unlocking early may impact your experience of the story, so please choose carefully.)",
+    "strContent": "Yumi Shiina's Synergy mission is currently locked. Do you want to unlock it now? (Unlocking it early may impact your experience of the story.)",
     "option1": "Confirm",
     "showName": "L<#000000,u,#FFFFFF>fel",
     "option2": "Not now"
@@ -11531,6 +11538,20 @@
   {
     "sn": "1024022",
     "strContent": "Yumi Shiina's Synergy mission has been unlocked.",
+    "option1": "AAAAAA==",
+    "showName": "AAAAAA==",
+    "option2": "AAAAAA=="
+  },
+  {
+    "sn": "1024023",
+    "strContent": "Ayaka Sakai 's Synergy mission is currently locked. Do you want to unlock it now? (Unlocking it early may impact your experience of the story.)",
+    "option1": "Confirm",
+    "showName": "L<#000000,u,#FFFFFF>fel",
+    "option2": "Not now"
+  },
+  {
+    "sn": "1024024",
+    "strContent": "Ayaka Sakai 's Synergy mission has been unlocked.",
     "option1": "AAAAAA==",
     "showName": "AAAAAA==",
     "option2": "AAAAAA=="
@@ -11565,14 +11586,14 @@
   },
   {
     "sn": "1025242",
-    "strContent": "We have quite a selection. You're free to pick what you like.",
+    "strContent": "We have quite a selection.\nYou're free to pick what you\nlike.",
     "option1": "AAAAAA==",
     "showName": "AAAAAA==",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1025243",
-    "strContent": "What's wrong?\nDid you not want that one?",
+    "strContent": "What's wrong? Did you not want\nthat one?",
     "option1": "AAAAAA==",
     "showName": "AAAAAA==",
     "option2": "AAAAAA=="
@@ -11586,14 +11607,14 @@
   },
   {
     "sn": "1025245",
-    "strContent": "This is a rare one...!\nDid your desire bring about this good luck...?",
+    "strContent": "This is a rare one...! Did\nyour desire bring about this\ngood luck...?",
     "option1": "AAAAAA==",
     "showName": "AAAAAA==",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1025246",
-    "strContent": "Wow!\nTalk about a stroke of luck! This is a rare find indeed...!",
+    "strContent": "Wow! Talk about a stroke\nof luck! This is a rare find\nindeed...!",
     "option1": "AAAAAA==",
     "showName": "AAAAAA==",
     "option2": "AAAAAA=="
@@ -12384,14 +12405,14 @@
   },
   {
     "sn": "1037010",
-    "strContent": "This Persona can't be sent due to the abnormality effects.",
+    "strContent": "This Persona cannot be deployed due to the battle effects.",
     "option1": "AAAAAA==",
     "showName": "AAAAAA==",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1037011",
-    "strContent": "This Thief can't be set sent to the abnormality effects.",
+    "strContent": "This Phantom Thief cannot be deployed due to the battle effects.",
     "option1": "AAAAAA==",
     "showName": "AAAAAA==",
     "option2": "AAAAAA=="
@@ -13917,7 +13938,7 @@
   },
   {
     "sn": "1047246",
-    "strContent": "You have not yet cleared episode 3-10 of the Bank Arc. This mode may impact your experience of the story. Do you still wish to continue?",
+    "strContent": "You have not yet cleared Episode 3-10 of the Bank Arc. This mode may impact your experience of the story. Do you still wish to continue?",
     "option1": "OK",
     "showName": "L<#000000,u,#FFFFFF>fel",
     "option2": "Never mind."
@@ -14379,7 +14400,7 @@
   },
   {
     "sn": "1052013",
-    "strContent": "Clear the Main Story mission <color=#FF423F>Takeyuki Kiuchi's Ending</color>.",
+    "strContent": "Clear the main story mission <color=#FF423F>Takeyuki Kiuchi's Ending</color>.",
     "option1": "AAAAAA==",
     "showName": "AAAAAA==",
     "option2": "AAAAAA=="
@@ -17172,49 +17193,49 @@
   },
   {
     "sn": "1064121",
-    "strContent": "You can now quick travel to the\n<color=#FF423F>Water Treatment Plant: West Corridor</color>.",
+    "strContent": "You can now quick travel to the\n<color=#FF423F>Mid Water Treatment Plant: West Corridor</color>.",
     "option1": "AAAAAA==",
     "showName": "AAAAAA==",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1064122",
-    "strContent": "You can now quick travel to the\n<color=#FF423F>Water Treatment Plant: North Corridor</color>.",
+    "strContent": "You can now quick travel to the\n<color=#FF423F>Mid Water Treatment Plant: North Corridor</color>.",
     "option1": "AAAAAA==",
     "showName": "AAAAAA==",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1064123",
-    "strContent": "You can now quick travel to the\n<color=#FF423F>Water Treatment Plant: North Side</color>.",
+    "strContent": "You can now quick travel to the\n<color=#FF423F>Mid Water Treatment Plant: North Side</color>.",
     "option1": "AAAAAA==",
     "showName": "AAAAAA==",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1064124",
-    "strContent": "You can now quick travel to the\n<color=#FF423F>Water Treatment Plant: Cooling Facility</color>.",
+    "strContent": "You can now quick travel to the\n<color=#FF423F>Mid Water Treatment Plant: Cooling Facility</color>.",
     "option1": "AAAAAA==",
     "showName": "AAAAAA==",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1064125",
-    "strContent": "You can now quick travel to the\n<color=#FF423F>Water Treatment Plant: East Facility</color>.",
+    "strContent": "You can now quick travel to the\n<color=#FF423F>Mid Water Treatment Plant: East Facility</color>.",
     "option1": "AAAAAA==",
     "showName": "AAAAAA==",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1064126",
-    "strContent": "You can now quick travel to the\n<color=#FF423F>Water Treatment Plant: South Side</color>.",
+    "strContent": "You can now quick travel to the\n<color=#FF423F>Mid Water Treatment Plant: South Side</color>.",
     "option1": "AAAAAA==",
     "showName": "AAAAAA==",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1064131",
-    "strContent": "You can now quick travel to the\n<color=#FF423F>Upper Water Treatment Plant: West Interior</color>.",
+    "strContent": "You can now quick travel to the\n<color=#FF423F>Mid Upper Water Treatment Plant: West Interior</color>.",
     "option1": "AAAAAA==",
     "showName": "AAAAAA==",
     "option2": "AAAAAA=="
@@ -17270,49 +17291,49 @@
   },
   {
     "sn": "1064143",
-    "strContent": "AAAAAA==",
+    "strContent": "You can now quick travel to the<color=#FF423F>Inner Castle Keep: South Side</color>.",
     "option1": "AAAAAA==",
     "showName": "AAAAAA==",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1064144",
-    "strContent": "AAAAAA==",
+    "strContent": "You can now quick travel to the<color=#FF423F>Inner Castle Keep: South Side</color>.",
     "option1": "AAAAAA==",
     "showName": "AAAAAA==",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1064145",
-    "strContent": "AAAAAA==",
+    "strContent": "You can now quick travel to the<color=#FF423F>Inner Castle Keep: South Side</color>.",
     "option1": "AAAAAA==",
     "showName": "AAAAAA==",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1064146",
-    "strContent": "AAAAAA==",
+    "strContent": "You can now quick travel to the<color=#FF423F>Inner Castle Keep: South Side</color>.",
     "option1": "AAAAAA==",
     "showName": "AAAAAA==",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1064147",
-    "strContent": "AAAAAA==",
+    "strContent": "You can now quick travel to the<color=#FF423F>Inner Castle Keep: South Side</color>.",
     "option1": "AAAAAA==",
     "showName": "AAAAAA==",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1064148",
-    "strContent": "AAAAAA==",
+    "strContent": "You can now quick travel to the<color=#FF423F>Inner Castle Keep: South Side</color>.",
     "option1": "AAAAAA==",
     "showName": "AAAAAA==",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1064149",
-    "strContent": "AAAAAA==",
+    "strContent": "You can now quick travel to the<color=#FF423F>Inner Castle Keep: South Side</color>.",
     "option1": "AAAAAA==",
     "showName": "AAAAAA==",
     "option2": "AAAAAA=="
@@ -21169,7 +21190,7 @@
   },
   {
     "sn": "1082006",
-    "strContent": "Your current settings do not meet the bonus conditions.\nAre you sure you want to depart?",
+    "strContent": "Bonus conditions have not been met.\nDo you want to dispatch anyway?",
     "option1": "Confirm",
     "showName": "L<#000000,u,#FFFFFF>fel",
     "option2": "Never mind."
@@ -21442,7 +21463,7 @@
   },
   {
     "sn": "1083037",
-    "strContent": "You've cleared the event. Investigate the train and continue onto the next station.",
+    "strContent": "You've cleared the event. Return to the train and continue onto the next station.",
     "option1": "AAAAAA==",
     "showName": "AAAAAA==",
     "option2": "AAAAAA=="
@@ -24501,14 +24522,14 @@
   },
   {
     "sn": "1200100",
-    "strContent": "Unlock this stamp after clearing Chapter 1 of the Main Story missions.",
+    "strContent": "Unlock this stamp after clearing missions for chapter 1 of the main story.",
     "option1": "AAAAAA==",
     "showName": "AAAAAA==",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1200101",
-    "strContent": "Unlock this stamp after clearing Chapter 2 of the Main Story missions.",
+    "strContent": "Unlock this stamp after clearing missions for chapter 2 of the main story.",
     "option1": "AAAAAA==",
     "showName": "AAAAAA==",
     "option2": "AAAAAA=="
@@ -25768,7 +25789,7 @@
   },
   {
     "sn": "1204021",
-    "strContent": "Ladies and gentlemen, let the show begin!",
+    "strContent": "Ladies and gentlemen,\nlet the show begin!",
     "option1": "AAAAAA==",
     "showName": "AAAAAA==",
     "option2": "AAAAAA=="
@@ -26482,7 +26503,7 @@
   },
   {
     "sn": "1209301",
-    "strContent": "Claimed all %s.",
+    "strContent": "Claimed all of %s.",
     "option1": "AAAAAA==",
     "showName": "AAAAAA==",
     "option2": "AAAAAA=="
@@ -31711,7 +31732,7 @@
   },
   {
     "sn": "1303001",
-    "strContent": "%s has not yet unlocked Mindscape.",
+    "strContent": "Mindscape expansions will be unlocked in a future update.",
     "option1": "AAAAAA==",
     "showName": "AAAAAA==",
     "option2": "AAAAAA=="
@@ -32433,6 +32454,13 @@
   {
     "sn": "1301011",
     "strContent": "This play mode is unlocked at level 70.",
+    "option1": "AAAAAA==",
+    "showName": "AAAAAA==",
+    "option2": "AAAAAA=="
+  },
+  {
+    "sn": "1303004",
+    "strContent": "%s has not been unlocked yet.",
     "option1": "AAAAAA==",
     "showName": "AAAAAA==",
     "option2": "AAAAAA=="

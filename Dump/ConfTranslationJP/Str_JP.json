@@ -4502,7 +4502,7 @@
   },
   {
     "sn": "15803",
-    "strContent": "現在、メインストーリーの進行状況がクイックアンロックの条件を満たしていません。メインストーリーを進めてアンロックしてください。",
+    "strContent": "『メインストーリー』や『サイドストーリー』を進めると解放されます。",
     "option1": "AAAAAA==",
     "showName": "AAAAAA==",
     "option2": "AAAAAA=="
@@ -6098,14 +6098,14 @@
   },
   {
     "sn": "1000430",
-    "strContent": "メイン属性が選択されていないため、カスタマイズできません。",
+    "strContent": "主属性が選択されていないため、カスタマイズできません。",
     "option1": "AAAAAA==",
     "showName": "AAAAAA==",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1000431",
-    "strContent": "<color=#f1b500>{0}</color>の位置に、<color=#f1b500>{1}</color>のセットで、メイン属性が<color=#f1b500>{2}</color>の啓示カードをカスタマイズすることを確認しますか？",
+    "strContent": "<color=#f1b500>{0}</color>の位置に、<color=#f1b500>{1}</color>のセットで、主属性が<color=#f1b500>{2}</color>の啓示カードをカスタマイズすることを確認しますか？",
     "option1": "確認",
     "showName": "AAAAAA==",
     "option2": "やめておく"
@@ -6280,7 +6280,7 @@
   },
   {
     "sn": "1000458",
-    "strContent": "更新時には、ロックされていないサブ属性のみが更新されます。",
+    "strContent": "更新時には、ロックされていない副属性のみが更新されます。",
     "option1": "AAAAAA==",
     "showName": "AAAAAA==",
     "option2": "AAAAAA=="
@@ -9597,6 +9597,13 @@
     "option2": "AAAAAA=="
   },
   {
+    "sn": "1015030",
+    "strContent": "おすすめ編成の条件を満たしていませんが、 \nこの編成で挑戦しますか？",
+    "option1": "決定",
+    "showName": "ル<#000000,フ,#FFFFFF>ェル",
+    "option2": "やめておく"
+  },
+  {
     "sn": "1017001",
     "strContent": "一時中断しているステージがあるが、続けるのか？",
     "option1": "継続",
@@ -9682,7 +9689,7 @@
   },
   {
     "sn": "1019009",
-    "strContent": "渡来軒でアルバイトをするか？",
+    "strContent": "渡来軒でアルバイトをするのか？",
     "option1": "バイトする",
     "showName": "ル<#000000,フ,#FFFFFF>ェル",
     "option2": "やっぱりやめる"
@@ -9710,8 +9717,8 @@
   },
   {
     "sn": "1019010",
-    "strContent": "このメンチカツ屋でアルバイトするか？",
-    "option1": "働こう",
+    "strContent": "揚げ物屋でアルバイトをするのか？",
+    "option1": "バイトする",
     "showName": "ル<#000000,フ,#FFFFFF>ェル",
     "option2": "やっぱりやめる"
   },
@@ -10039,31 +10046,31 @@
   },
   {
     "sn": "1019070",
-    "strContent": "ここで１人カラオケをするのか？\n料金は『<color=#FF423F>１５００円</color>』だな。",
-    "option1": "決定",
+    "strContent": "ここでカラオケをするのか？\n料金は『<color=#FF423F>１５００円</color> 』だな。",
+    "option1": "カラオケする",
     "showName": "ル<#000000,フ,#FFFFFF>ェル",
-    "option2": "また後にしよう"
+    "option2": "やっぱりやめる"
   },
   {
     "sn": "1019071",
-    "strContent": "ここで瞑想するのか？",
-    "option1": "心を落ち着けて",
+    "strContent": "寺で瞑想をするのか？",
+    "option1": "瞑想する",
     "showName": "ル<#000000,フ,#FFFFFF>ェル",
-    "option2": "遠慮する"
+    "option2": "やっぱりやめる"
   },
   {
     "sn": "1019072",
-    "strContent": "ここで新作コーヒーを試すのか？\n料金は『<color=#FF423F>８００円</color>』のようだぞ。",
-    "option1": "決定",
+    "strContent": "カフェに立ち寄るのか？\nコーヒーは１杯『<color=#FF423F>８００円</color>』だな。",
+    "option1": "立ち寄る",
     "showName": "ル<#000000,フ,#FFFFFF>ェル",
-    "option2": "また後にしよう"
+    "option2": "やっぱりやめる"
   },
   {
     "sn": "1019073",
-    "strContent": "ここでモクテルの試飲をするのか？\n料金は『<color=#FF423F>１５００円</color>』だな。",
-    "option1": "決定",
+    "strContent": "ジャズバーに立ち寄るのか？\n料金は『<color=#FF423F>１５００円</color>』だな。",
+    "option1": "立ち寄る",
     "showName": "ル<#000000,フ,#FFFFFF>ェル",
-    "option2": "また後にしよう"
+    "option2": "やっぱりやめる"
   },
   {
     "sn": "1019077",
@@ -10117,9 +10124,9 @@
   {
     "sn": "1019123",
     "strContent": "なんと答えようか…",
-    "option1": "黒谷と過ごす",
+    "option1": "そういうことなら",
     "showName": "AAAAAA==",
-    "option2": "他の予定が…"
+    "option2": "今日はちょっと…"
   },
   {
     "sn": "1019131",
@@ -10179,8 +10186,8 @@
   },
   {
     "sn": "1019124",
-    "strContent": "清はとても落ち込んでいるようだ。\n彼に付き合おうか？",
-    "option1": "分かった",
+    "strContent": "黒谷と過ごすのか？",
+    "option1": "黒谷と過ごす",
     "showName": "ル<#000000,フ,#FFFFFF>ェル",
     "option2": "他の予定が…"
   },
@@ -10319,8 +10326,8 @@
   },
   {
     "sn": "1019181",
-    "strContent": "椎名と過ごすのか？",
-    "option1": "椎名と過ごす",
+    "strContent": "悠美と過ごすのか？",
+    "option1": "悠美と過ごす",
     "showName": "ル<#000000,フ,#FFFFFF>ェル",
     "option2": "他の予定が…"
   },
@@ -10348,7 +10355,7 @@
   {
     "sn": "1019191",
     "strContent": "今日は綾香と過ごそうか…",
-    "option1": "聞いてみてよ",
+    "option1": "聞いてみよう",
     "showName": "AAAAAA==",
     "option2": "別の日にしよう…"
   },
@@ -10368,10 +10375,10 @@
   },
   {
     "sn": "1019193",
-    "strContent": "綾香と過ごすのか？",
-    "option1": "一緒に行こう",
+    "strContent": "綾香と一緒に過ごすのか？",
+    "option1": "綾香と過ごす",
     "showName": "ル<#000000,フ,#FFFFFF>ェル",
-    "option2": "他の場所に行かなければ…"
+    "option2": "他の予定が…"
   },
   {
     "sn": "1019220",
@@ -10396,8 +10403,8 @@
   },
   {
     "sn": "1019182",
-    "strContent": "椎名と過ごすのか？",
-    "option1": "椎名と過ごす",
+    "strContent": "悠美と一緒に過ごすのか？",
+    "option1": "悠美と過ごす",
     "showName": "ル<#000000,フ,#FFFFFF>ェル",
     "option2": "他の予定が…"
   },
@@ -10438,15 +10445,15 @@
   },
   {
     "sn": "1019184",
-    "strContent": "椎名と過ごそうか…",
-    "option1": "椎名と過ごす",
+    "strContent": "悠美と過ごそうか…",
+    "option1": "悠美と過ごす",
     "showName": "AAAAAA==",
     "option2": "また今度にしよう"
   },
   {
     "sn": "1019185",
-    "strContent": "椎名は何か考え事をしているようだ…",
-    "option1": "椎名に話しかける",
+    "strContent": "悠美は何か考え事をしているようだ…",
+    "option1": "悠美に話しかける",
     "showName": "AAAAAA==",
     "option2": "今日はやめておこう"
   },
@@ -10991,14 +10998,14 @@
   },
   {
     "sn": "1023019",
-    "strContent": "『厄影の異象』のミッションを４つクリアで報酬取得。",
+    "strContent": "『異世界討伐』のミッションを４つクリアで報酬取得。",
     "option1": "AAAAAA==",
     "showName": "AAAAAA==",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1023020",
-    "strContent": "『吉祥寺巡り』のミッションを４つクリアで報酬取得。",
+    "strContent": "『吉祥寺巡回』のミッションを４つクリアで報酬取得。",
     "option1": "AAAAAA==",
     "showName": "AAAAAA==",
     "option2": "AAAAAA=="
@@ -11531,6 +11538,20 @@
   {
     "sn": "1024022",
     "strContent": "『椎名悠美』のシナジーミッションが解放されました",
+    "option1": "AAAAAA==",
+    "showName": "AAAAAA==",
+    "option2": "AAAAAA=="
+  },
+  {
+    "sn": "1024023",
+    "strContent": "『坂井綾香』のシナジーミッションは現在未解放です。すぐに解放しますか？（早期解放はストーリー体験の連続性に影響を与える可能性があります）",
+    "option1": "決定",
+    "showName": "ル<#000000,フ,#FFFFFF>ェル",
+    "option2": "考え直す"
+  },
+  {
+    "sn": "1024024",
+    "strContent": "『坂井綾香』のシナジーミッションが解放されました",
     "option1": "AAAAAA==",
     "showName": "AAAAAA==",
     "option2": "AAAAAA=="
@@ -12384,14 +12405,14 @@
   },
   {
     "sn": "1037010",
-    "strContent": "異変効果の影響を受けて、現在のペルソナでは出陣できません。",
+    "strContent": "バトル効果により、このペルソナは出陣できません。",
     "option1": "AAAAAA==",
     "showName": "AAAAAA==",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1037011",
-    "strContent": "異変効果の影響を受けて、現在の怪盗では出陣できません。",
+    "strContent": "バトル効果により、この怪盗は出陣できません。",
     "option1": "AAAAAA==",
     "showName": "AAAAAA==",
     "option2": "AAAAAA=="
@@ -13833,7 +13854,7 @@
   },
   {
     "sn": "1047217",
-    "strContent": "『<color=#FFD145>%s</color>』<color=#FF423F>%s</color>をクリアすると、該当のバトル効果が解放されます。\n挑戦しますか？",
+    "strContent": "『<color=#FFD145>%s</color>』<color=#FF423F>%s</color>をクリアすると\n該当のバトル効果が解放されます。\n挑戦しますか？",
     "option1": "決定",
     "showName": "ル<#000000,フ,#FFFFFF>ェル",
     "option2": "やめておく"
@@ -17123,196 +17144,196 @@
   },
   {
     "sn": "1064111",
-    "strContent": "以下が開放されました。『<color=#FF423F>水処理場下層・セーフルーム</color>』\nのショートカット。",
+    "strContent": "以下が開放されました。\n『<color=#FF423F>水処理場下層・セーフルーム</color>』\nのショートカット。",
     "option1": "AAAAAA==",
     "showName": "AAAAAA==",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1064112",
-    "strContent": "以下が開放されました。『<color=#FF423F>水処理場下層・東側入口</color>』\nのショートカット。",
+    "strContent": "以下が開放されました。\n『<color=#FF423F>水処理場下層・東側入口</color>』\nのショートカット。",
     "option1": "AAAAAA==",
     "showName": "AAAAAA==",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1064113",
-    "strContent": "以下が開放されました。『<color=#FF423F>水処理場下層・東側奥</color>』\nのショートカット。",
+    "strContent": "以下が開放されました。\n『<color=#FF423F>水処理場下層・東側奥</color>』\nのショートカット。",
     "option1": "AAAAAA==",
     "showName": "AAAAAA==",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1064114",
-    "strContent": "以下が開放されました。『<color=#FF423F>水処理場下層・北側</color>』\nのショートカット。",
+    "strContent": "以下が開放されました。\n『<color=#FF423F>水処理場下層・北側</color>』\nのショートカット。",
     "option1": "AAAAAA==",
     "showName": "AAAAAA==",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1064115",
-    "strContent": "以下が開放されました。『<color=#FF423F>水処理場下層・西側入口</color>』\nのショートカット。",
+    "strContent": "以下が開放されました。\n『<color=#FF423F>水処理場下層・西側入口</color>』\nのショートカット。",
     "option1": "AAAAAA==",
     "showName": "AAAAAA==",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1064116",
-    "strContent": "以下が開放されました。『<color=#FF423F>水処理場下層・西側奥</color>』\nのショートカット。",
+    "strContent": "以下が開放されました。\n『<color=#FF423F>水処理場下層・西側奥</color>』\nのショートカット。",
     "option1": "AAAAAA==",
     "showName": "AAAAAA==",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1064117",
-    "strContent": "以下が開放されました。『<color=#FF423F>水処理場下層・南側</color>』\nのショートカット。",
+    "strContent": "以下が開放されました。\n『<color=#FF423F>水処理場下層・南側</color>』\nのショートカット。",
     "option1": "AAAAAA==",
     "showName": "AAAAAA==",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1064121",
-    "strContent": "以下が開放されました。『<color=#FF423F>水処理場中層・西側通路</color>』\nのショートカット。",
+    "strContent": "以下が開放されました。\n『<color=#FF423F>水処理場中層・西側通路</color>』\nのショートカット。",
     "option1": "AAAAAA==",
     "showName": "AAAAAA==",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1064122",
-    "strContent": "以下が開放されました。『<color=#FF423F>水処理場中層・北側通路</color>』\nのショートカット。",
+    "strContent": "以下が開放されました。\n『<color=#FF423F>水処理場中層・北側通路</color>』\nのショートカット。",
     "option1": "AAAAAA==",
     "showName": "AAAAAA==",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1064123",
-    "strContent": "以下が開放されました。『<color=#FF423F>水処理場中層・北側</color>』\nのショートカット。",
+    "strContent": "以下が開放されました。\n『<color=#FF423F>水処理場中層・北側</color>』\nのショートカット。",
     "option1": "AAAAAA==",
     "showName": "AAAAAA==",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1064124",
-    "strContent": "以下が開放されました。『<color=#FF423F>水処理場中層・冷却施設</color>』\nのショートカット。",
+    "strContent": "以下が開放されました。\n『<color=#FF423F>水処理場中層・冷却施設</color>』\nのショートカット。",
     "option1": "AAAAAA==",
     "showName": "AAAAAA==",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1064125",
-    "strContent": "以下が開放されました。『<color=#FF423F>水処理場中層・東側通路</color>』\nのショートカット。",
+    "strContent": "以下が開放されました。\n『<color=#FF423F>水処理場中層・東側通路</color>』\nのショートカット。",
     "option1": "AAAAAA==",
     "showName": "AAAAAA==",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1064126",
-    "strContent": "以下が開放されました。『<color=#FF423F>水処理場中層・南側</color>』\nのショートカット。",
+    "strContent": "以下が開放されました。\n『<color=#FF423F>水処理場中層・南側</color>』\nのショートカット。",
     "option1": "AAAAAA==",
     "showName": "AAAAAA==",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1064131",
-    "strContent": "以下が開放されました。『<color=#FF423F>水処理場上層・西側奥</color>』\nのショートカット。",
+    "strContent": "以下が開放されました。\n『<color=#FF423F>水処理場上層・西側奥</color>』\nのショートカット。",
     "option1": "AAAAAA==",
     "showName": "AAAAAA==",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1064132",
-    "strContent": "以下が開放されました。『<color=#FF423F>水処理場上層・北側入口</color>』\nのショートカット。",
+    "strContent": "以下が開放されました。\n『<color=#FF423F>水処理場上層・北側入口</color>』\nのショートカット。",
     "option1": "AAAAAA==",
     "showName": "AAAAAA==",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1064133",
-    "strContent": "以下が開放されました。『<color=#FF423F>水処理場上層・西側入口</color>』\nのショートカット。",
+    "strContent": "以下が開放されました。\n『<color=#FF423F>水処理場上層・西側入口</color>』\nのショートカット。",
     "option1": "AAAAAA==",
     "showName": "AAAAAA==",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1064134",
-    "strContent": "以下が開放されました。『<color=#FF423F>水処理場上層・エレベーター前</color>』\nのショートカット。",
+    "strContent": "以下が開放されました。\n『<color=#FF423F>水処理場上層・エレベーター前</color>』\nのショートカット。",
     "option1": "AAAAAA==",
     "showName": "AAAAAA==",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1064135",
-    "strContent": "以下が開放されました。『<color=#FF423F>水処理場上層・東側</color>』\nのショートカット。",
+    "strContent": "以下が開放されました。\n『<color=#FF423F>水処理場上層・東側</color>』\nのショートカット。",
     "option1": "AAAAAA==",
     "showName": "AAAAAA==",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1064136",
-    "strContent": "以下が開放されました。『<color=#FF423F>水処理場上層・北側奥</color>』\nのショートカット。",
+    "strContent": "以下が開放されました。\n『<color=#FF423F>水処理場上層・北側奥</color>』\nのショートカット。",
     "option1": "AAAAAA==",
     "showName": "AAAAAA==",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1064141",
-    "strContent": "以下が開放されました。『<color=#FF423F>水処理場・トンネル南部</color>』\nのショートカット。",
+    "strContent": "以下が開放されました。\n『<color=#FF423F>水処理場・トンネル南部</color>』\nのショートカット。",
     "option1": "AAAAAA==",
     "showName": "AAAAAA==",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1064142",
-    "strContent": "以下が開放されました。『<color=#FF423F>水処理場・トンネル北部</color>』\nのショートカット。",
+    "strContent": "以下が開放されました。\n『<color=#FF423F>水処理場・トンネル北部</color>』\nのショートカット。",
     "option1": "AAAAAA==",
     "showName": "AAAAAA==",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1064143",
-    "strContent": "AAAAAA==",
+    "strContent": "以下が開放されました。『<color=#FF423F>天守閣内・南側</color>』\nのショートカット。",
     "option1": "AAAAAA==",
     "showName": "AAAAAA==",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1064144",
-    "strContent": "AAAAAA==",
+    "strContent": "以下が開放されました。『<color=#FF423F>天守閣内・南側</color>』\nのショートカット。",
     "option1": "AAAAAA==",
     "showName": "AAAAAA==",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1064145",
-    "strContent": "AAAAAA==",
+    "strContent": "以下が開放されました。『<color=#FF423F>天守閣内・南側</color>』\nのショートカット。",
     "option1": "AAAAAA==",
     "showName": "AAAAAA==",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1064146",
-    "strContent": "AAAAAA==",
+    "strContent": "以下が開放されました。『<color=#FF423F>天守閣内・南側</color>』\nのショートカット。",
     "option1": "AAAAAA==",
     "showName": "AAAAAA==",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1064147",
-    "strContent": "AAAAAA==",
+    "strContent": "以下が開放されました。『<color=#FF423F>天守閣内・南側</color>』\nのショートカット。",
     "option1": "AAAAAA==",
     "showName": "AAAAAA==",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1064148",
-    "strContent": "AAAAAA==",
+    "strContent": "以下が開放されました。『<color=#FF423F>天守閣内・南側</color>』\nのショートカット。",
     "option1": "AAAAAA==",
     "showName": "AAAAAA==",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1064149",
-    "strContent": "AAAAAA==",
+    "strContent": "以下が開放されました。『<color=#FF423F>天守閣内・南側</color>』\nのショートカット。",
     "option1": "AAAAAA==",
     "showName": "AAAAAA==",
     "option2": "AAAAAA=="
@@ -21169,7 +21190,7 @@
   },
   {
     "sn": "1082006",
-    "strContent": "現在の設定ではボーナス条件が満たされていません。\n今すぐ出発しますか？",
+    "strContent": "現在の編成では『ボーナス』の条件を\n満たしていませんが、遠征を開始しますか？",
     "option1": "決定",
     "showName": "ル<#000000,フ,#FFFFFF>ェル",
     "option2": "やめておく"
@@ -26314,7 +26335,7 @@
   },
   {
     "sn": "1206051",
-    "strContent": "西森陽菜とのエピソードは今後の更新で、都市生活に追加予定です。",
+    "strContent": "都市生活『<color=#ffc000>陽菜の星空探検</color>』\nが解放されました。\n毎日一定の確率で出現します。",
     "option1": "AAAAAA==",
     "showName": "AAAAAA==",
     "option2": "AAAAAA=="
@@ -29233,7 +29254,7 @@
   },
   {
     "sn": "1131204",
-    "strContent": "センス行けてるぅ！",
+    "strContent": "センスイケてるぅ！",
     "option1": "AAAAAA==",
     "showName": "富山佳代",
     "option2": "AAAAAA=="
@@ -30451,7 +30472,7 @@
   },
   {
     "sn": "1209458",
-    "strContent": "大賞は獲得済ですが他の商品が残っています。この福引を行いますか？",
+    "strContent": "大賞は獲得済ですが他の商品が残っています。この福引きを行いますか？",
     "option1": "AAAAAA==",
     "showName": "AAAAAA==",
     "option2": "AAAAAA=="
@@ -31711,7 +31732,7 @@
   },
   {
     "sn": "1303001",
-    "strContent": "『%s』は『イメジャリー』が解放されていません。",
+    "strContent": "イメジャリーの拡張は今後のアップデートで解放されます。",
     "option1": "AAAAAA==",
     "showName": "AAAAAA==",
     "option2": "AAAAAA=="
@@ -32433,6 +32454,13 @@
   {
     "sn": "1301011",
     "strContent": "このプレイモードはレベル70以降に開放されます。",
+    "option1": "AAAAAA==",
+    "showName": "AAAAAA==",
+    "option2": "AAAAAA=="
+  },
+  {
+    "sn": "1303004",
+    "strContent": "『%s』はまだ解放されていません。",
     "option1": "AAAAAA==",
     "showName": "AAAAAA==",
     "option2": "AAAAAA=="

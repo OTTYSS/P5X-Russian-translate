@@ -147,7 +147,7 @@
   {
     "sn": "129",
     "title": "<color=#72C5FF>Justice Barrier</color>",
-    "desc": "[Skill] Grant all allies Shields and Power of Friendship."
+    "desc": "[Skill] Grant all allies shield and Power of Friendship."
   },
   {
     "sn": "130",
@@ -192,7 +192,7 @@
   {
     "sn": "138",
     "title": "<color=#72C5FF>Durandal of Ice</color>",
-    "desc": "[Skill] Deal Ice damage to 1 foe. When user has a set number of Ice Crystal stacks and is in the Parthelion state, increase damage dealt based on foe's missing HP."
+    "desc": "[Skill] Deal Ice damage to 1 foe. When Kotone has a set number of Ice Crystal stacks and Parhelion is active, increase damage based on foe's missing HP."
   },
   {
     "sn": "139",
@@ -497,12 +497,12 @@
   {
     "sn": "185",
     "title": "<color=#72C5FF>Starfall</color>",
-    "desc": "[Count] When an ally deals damage with a skill, they gain 1 Attribute Seal. When the total number of Attribute Seal stacks reaches 7, spend all Attribute Seal stacks and activate Starfall.\nStarfall: Deals 7 hits of Almighty damage to random foes. Repeated hits on the same foe deal less damage."
+    "desc": "When an ally deals damage with a skill, they gain 1 Attribute Seal of the corresponding attribute. When the total number of Attribute Seals reaches 7, spend all Attribute Seals and activate Starfall: Deal 7 hits of Almighty damage to random foes. Decrease damage for repeated hits on the same foe."
   },
   {
     "sn": "186",
     "title": "<color=#72C5FF>Attribute Seals</color>",
-    "desc": "[Status] When an ally deals damage with a skill, Resonance, or Highlight, they gain 1 Attribute Seal."
+    "desc": "[Status] When an ally deals damage with a skill, Resonance, or Highlight, they gain 1 Attribute Seal of the corresponding attribute."
   },
   {
     "sn": "187",
@@ -551,23 +551,23 @@
   },
   {
     "sn": "196",
-    "title": "tdxct-[SkillTips_title_196]",
-    "desc": "tdxct-[SkillTips_desc_196]"
+    "title": "<color=#72C5FF>Bleed</color>",
+    "desc": "[Count] Inflicted on foes when Kitazato is in Doctor mode. Every turn, target takes Almighty damage based on their max HP, and Physical damage based on Kitazato's Attack."
   },
   {
     "sn": "197",
-    "title": "tdxct-[SkillTips_title_197]",
-    "desc": "tdxct-[SkillTips_desc_197]"
+    "title": "<color=#72C5FF>Rending</color>",
+    "desc": "[Awareness] When Kitazato uses a skill in Ripper mode, deals additional damage for every 3 Bleed stacks on target."
   },
   {
     "sn": "198",
-    "title": "tdxct-[SkillTips_title_198]",
-    "desc": "tdxct-[SkillTips_desc_198]"
+    "title": "<color=#72C5FF>Doctor</color>",
+    "desc": "[Status] Kitazato's initial mode. Can inflict Bleed on foes."
   },
   {
     "sn": "199",
-    "title": "tdxct-[SkillTips_title_199]",
-    "desc": "tdxct-[SkillTips_desc_199]"
+    "title": "<color=#72C5FF>Ripper</color>",
+    "desc": "[Status] When Kitazato uses Nightfall, he changes modes. Skill properties change, and foes' Bleed stacks can be removed to deal bonus Rending damage."
   },
   {
     "sn": "200",
@@ -663,6 +663,11 @@
     "sn": "237",
     "title": "<color=#72C5FF>Stable Domain</color>",
     "desc": "Allies will not deal critical hits, but will deal increased <color=#FFFC40>final damage</color> with skills and Resonance. The increase is equal to critical hit rate × (critical damage - 100%). (Max critical hit rate in this calculation is 100%)."
+  },
+  {
+    "sn": "245",
+    "title": "<color=#66ccff>Recovery</color>",
+    "desc": "Phantom Thieves with recovery skills include Minami and Morgana.\nPersonas with recovery skills include Unicorn."
   },
   {
     "sn": "211",
