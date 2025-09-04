@@ -2437,8 +2437,8 @@
   },
   {
     "sn": "12521",
-    "strContent": "<color=#ffff76>{1}</color>を使って、開けるか？\n（消費：{0}／所持数：{2}）",
-    "option1": "開ける",
+    "strContent": "<color=#ffff76>{1}</color>を使うか？\n（消費：{0}／所持数：{2}）",
+    "option1": "使う",
     "showName": "ル<#000000,フ,#FFFFFF>ェル",
     "option2": "今はやめる"
   },
@@ -10047,7 +10047,7 @@
   {
     "sn": "1019070",
     "strContent": "ここでカラオケをするのか？\n料金は『<color=#FF423F>１５００円</color> 』だな。",
-    "option1": "カラオケする",
+    "option1": "カラオケをする",
     "showName": "ル<#000000,フ,#FFFFFF>ェル",
     "option2": "やっぱりやめる"
   },
@@ -10292,16 +10292,16 @@
   {
     "sn": "1019194",
     "strContent": "今日は綾香と過ごそうか…",
-    "option1": "彼女に挨拶しよう",
+    "option1": "綾香と過ごす",
     "showName": "AAAAAA==",
-    "option2": "彼女を１人にしておこう。"
+    "option2": "他の予定が…"
   },
   {
     "sn": "1019195",
     "strContent": "今日は綾香と過ごそうか…",
-    "option1": "聞いてみよう",
+    "option1": "綾香と過ごす",
     "showName": "AAAAAA==",
-    "option2": "次回また彼女に挨拶しよう。"
+    "option2": "他の予定が…"
   },
   {
     "sn": "1020105",
@@ -10341,23 +10341,23 @@
   {
     "sn": "1019190",
     "strContent": "今日は綾香と過ごそうか…",
-    "option1": "いいよ",
+    "option1": "綾香と過ごす",
     "showName": "AAAAAA==",
-    "option2": "ちょっと都合が…"
+    "option2": "他の予定が…"
   },
   {
     "sn": "1019196",
-    "strContent": "綾香とどこに行こうかな…",
-    "option1": "私の家に来る？",
+    "strContent": "なんと答えようか…",
+    "option1": "家に来る？",
     "showName": "AAAAAA==",
-    "option2": "綾香の家に行く？"
+    "option2": "綾香さんの家とか？"
   },
   {
     "sn": "1019191",
     "strContent": "今日は綾香と過ごそうか…",
-    "option1": "聞いてみよう",
+    "option1": "綾香と過ごす",
     "showName": "AAAAAA==",
-    "option2": "別の日にしよう…"
+    "option2": "他の予定が…"
   },
   {
     "sn": "1019212",
@@ -10369,9 +10369,9 @@
   {
     "sn": "1019192",
     "strContent": "今日は綾香と過ごそうか…",
-    "option1": "問題ない",
+    "option1": "綾香と過ごす",
     "showName": "AAAAAA==",
-    "option2": "他の場所に行かなければ…"
+    "option2": "他の予定が…"
   },
   {
     "sn": "1019193",
@@ -10641,7 +10641,7 @@
   },
   {
     "sn": "1020132",
-    "strContent": "{0}をまだ所持していません。コスチュームを購入しますか？",
+    "strContent": "{0}を所持していません。\nコスチュームは、対応する怪盗を所持していないと使用できませんが、購入しますか？",
     "option1": "はい",
     "showName": "AAAAAA==",
     "option2": "いいえ"
@@ -10935,14 +10935,14 @@
   },
   {
     "sn": "1023002",
-    "strContent": "『吉祥寺』は現在未解放です。すぐに解放してプレイを進めますか？",
+    "strContent": "ここで『吉祥寺』を解放できますが、\nすぐに実行しますか？\n3章メインストーリー『無償の愛』の前に解放するとストーリー体験に影響があります。\n※ストーリー自体に変化はありません。",
     "option1": "決定",
     "showName": "ル<#000000,フ,#FFFFFF>ェル",
     "option2": "考え直す"
   },
   {
     "sn": "1023003",
-    "strContent": "『吉祥寺』は現在未解放です。すぐに解放してプレイを進めますか？",
+    "strContent": "ここで『吉祥寺』を解放できますが、\nすぐに実行しますか？\n3章メインストーリー『無償の愛』の前に解放するとストーリー体験に影響があります。\n※ストーリー自体に変化はありません。",
     "option1": "決定",
     "showName": "ル<#000000,フ,#FFFFFF>ェル",
     "option2": "考え直す"
@@ -10956,28 +10956,28 @@
   },
   {
     "sn": "1023010",
-    "strContent": "第三章のメインストーリーが解放されたら、異世界のダムのパレスを探索しに行こう。",
+    "strContent": "第三章のメインストーリーが解放されたら、第３パレスを探索しに行こう。",
     "option1": "AAAAAA==",
     "showName": "AAAAAA==",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1023011",
-    "strContent": "第三章のメインストーリーが解放されたら、異世界のダムのパレスを探索しに行こう。",
+    "strContent": "第三章のメインストーリーが解放されたら、第３パレスを探索しに行こう。",
     "option1": "AAAAAA==",
     "showName": "AAAAAA==",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1023012",
-    "strContent": "第三章のメインストーリーが解放されたら、異世界のダムのパレスを探索しに行こう。",
+    "strContent": "第三章のメインストーリーが解放されたら、第３パレスを探索しに行こう。",
     "option1": "AAAAAA==",
     "showName": "AAAAAA==",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1023013",
-    "strContent": "第三章のメインストーリーが解放されたら、異世界のダムのパレスを探索しに行こう。",
+    "strContent": "第三章のメインストーリーが解放されたら、第３パレスを探索しに行こう。",
     "option1": "AAAAAA==",
     "showName": "AAAAAA==",
     "option2": "AAAAAA=="
@@ -11033,7 +11033,7 @@
   },
   {
     "sn": "1023024",
-    "strContent": "『吉祥寺』が解放",
+    "strContent": "マップ『吉祥寺』が解放されました。",
     "option1": "AAAAAA==",
     "showName": "ル<#000000,フ,#FFFFFF>ェル",
     "option2": "AAAAAA=="
@@ -13361,6 +13361,13 @@
     "option1": "決定",
     "showName": "ル<#000000,フ,#FFFFFF>ェル",
     "option2": "やめておく"
+  },
+  {
+    "sn": "1045420",
+    "strContent": "チェーンのスペア部品、３本集まってるけど…\n渡しちゃう？",
+    "option1": "渡す",
+    "showName": "新<#000000,井,#FFFFFF> 素羽",
+    "option2": "また後で"
   },
   {
     "sn": "1047110",
@@ -16612,14 +16619,14 @@
   },
   {
     "sn": "1064001",
-    "strContent": "以下が開放されました。\n『<color=#FF423F>メメントス</color>』\nのショートカット。",
+    "strContent": "以下が開放されました。\n『<color=#FF423F>メメントス</color>』のショートカット。",
     "option1": "AAAAAA==",
     "showName": "AAAAAA==",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1064002",
-    "strContent": "以下が開放されました。\n『<color=#FF423F>思想奪われし路エリア１</color>』\nのショートカット。",
+    "strContent": "以下が開放されました。\n『<color=#FF423F>思想奪われし路エリア１</color>』のショートカット。",
     "option1": "AAAAAA==",
     "showName": "AAAAAA==",
     "option2": "AAAAAA=="
@@ -16654,28 +16661,28 @@
   },
   {
     "sn": "1064007",
-    "strContent": "以下が開放されました。\n『<color=#FF423F>展示場１Ｆ・東側展示室</color>』\nのショートカット。",
+    "strContent": "以下が開放されました。\n『<color=#FF423F>展示場１Ｆ・東側展示室</color>』のショートカット。",
     "option1": "AAAAAA==",
     "showName": "AAAAAA==",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1064008",
-    "strContent": "以下が開放されました。\n『<color=#FF423F>展示場１Ｆ・中央展示室東門</color>』\nのショートカット。",
+    "strContent": "以下が開放されました。\n『<color=#FF423F>展示場１Ｆ・中央展示室東門</color>』のショートカット。",
     "option1": "AAAAAA==",
     "showName": "AAAAAA==",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1064009",
-    "strContent": "以下が開放されました。\n『<color=#FF423F>展示場２Ｆ・打撃練習場</color>』\nのショートカット。",
+    "strContent": "以下が開放されました。\n『<color=#FF423F>展示場２Ｆ・打撃練習場</color>』のショートカット。",
     "option1": "AAAAAA==",
     "showName": "AAAAAA==",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1064010",
-    "strContent": "以下が開放されました。\n『<color=#FF423F>展示場１Ｆ・中央展示室西門</color>』\nのショートカット。",
+    "strContent": "以下が開放されました。\n『<color=#FF423F>展示場１Ｆ・中央展示室西門</color>』のショートカット。",
     "option1": "AAAAAA==",
     "showName": "AAAAAA==",
     "option2": "AAAAAA=="
@@ -16696,56 +16703,56 @@
   },
   {
     "sn": "1064013",
-    "strContent": "以下が開放されました。\n『<color=#FF423F>クラブ１Ｆ・クラブのバックヤード</color>』\nのショートカット。",
+    "strContent": "以下が開放されました。\n『<color=#FF423F>クラブ１Ｆ・クラブのバックヤード</color>』のショートカット。",
     "option1": "AAAAAA==",
     "showName": "AAAAAA==",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1064014",
-    "strContent": "以下が開放されました。\n『<color=#FF423F>クラブ１Ｆ・クラブ西側</color>』\nのショートカット。",
+    "strContent": "以下が開放されました。\n『<color=#FF423F>クラブ１Ｆ・クラブ西側</color>』のショートカット。",
     "option1": "AAAAAA==",
     "showName": "AAAAAA==",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1064015",
-    "strContent": "以下が開放されました。\n『<color=#FF423F>クラブ１Ｆ・クラブ東側</color>』\nのショートカット。",
+    "strContent": "以下が開放されました。\n『<color=#FF423F>クラブ１Ｆ・クラブ東側</color>』のショートカット。",
     "option1": "AAAAAA==",
     "showName": "AAAAAA==",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1064016",
-    "strContent": "以下が開放されました。\n『<color=#FF423F>クラブ２Ｆ・ＶＩＰエリア東側</color>』\nのショートカット。",
+    "strContent": "以下が開放されました。\n『<color=#FF423F>クラブ２Ｆ・ＶＩＰエリア東側</color>』のショートカット。",
     "option1": "AAAAAA==",
     "showName": "AAAAAA==",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1064017",
-    "strContent": "以下が開放されました。\n『<color=#FF423F>クラブ２Ｆ・ＶＩＰエリア西側</color>』\nのショートカット。",
+    "strContent": "以下が開放されました。\n『<color=#FF423F>クラブ２Ｆ・ＶＩＰエリア西側</color>』のショートカット。",
     "option1": "AAAAAA==",
     "showName": "AAAAAA==",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1064018",
-    "strContent": "以下が開放されました。\n『<color=#FF423F>クラブ２Ｆ・ロビー南側</color>』\nのショートカット。",
+    "strContent": "以下が開放されました。\n『<color=#FF423F>クラブ２Ｆ・ロビー南側</color>』のショートカット。",
     "option1": "AAAAAA==",
     "showName": "AAAAAA==",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1064019",
-    "strContent": "以下が開放されました。\n『<color=#FF423F>クラブ２Ｆ・クラブ南側</color>』\nのショートカット。",
+    "strContent": "以下が開放されました。\n『<color=#FF423F>クラブ２Ｆ・クラブ南側</color>』のショートカット。",
     "option1": "AAAAAA==",
     "showName": "AAAAAA==",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1064020",
-    "strContent": "以下が開放されました。\n『<color=#FF423F>クラブ３Ｆ・上層ＶＩＰエリア</color>』\nのショートカット。",
+    "strContent": "以下が開放されました。\n『<color=#FF423F>クラブ３Ｆ・上層ＶＩＰエリア</color>』のショートカット。",
     "option1": "AAAAAA==",
     "showName": "AAAAAA==",
     "option2": "AAAAAA=="
@@ -16773,49 +16780,49 @@
   },
   {
     "sn": "1064024",
-    "strContent": "以下が開放されました。\n『<color=#FF423F>思想奪われし路エリア２</color>』\nのショートカット。",
+    "strContent": "以下が開放されました。\n『<color=#FF423F>思想奪われし路エリア２</color>』のショートカット。",
     "option1": "AAAAAA==",
     "showName": "AAAAAA==",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1064025",
-    "strContent": "以下が開放されました。\n『<color=#FF423F>思想奪われし路エリア３</color>』\nのショートカット。",
+    "strContent": "以下が開放されました。\n『<color=#FF423F>思想奪われし路エリア３</color>』のショートカット。",
     "option1": "AAAAAA==",
     "showName": "AAAAAA==",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1064026",
-    "strContent": "以下が開放されました。\n『<color=#FF423F>思想奪われし路エリア４</color>』\nのショートカット。",
+    "strContent": "以下が開放されました。\n『<color=#FF423F>思想奪われし路エリア４</color>』のショートカット。",
     "option1": "AAAAAA==",
     "showName": "AAAAAA==",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1064027",
-    "strContent": "以下が開放されました。\n『<color=#FF423F>調和奪われし路エリア１</color>』\nのショートカット。",
+    "strContent": "以下が開放されました。\n『<color=#FF423F>調和奪われし路エリア１</color>』のショートカット。",
     "option1": "AAAAAA==",
     "showName": "AAAAAA==",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1064028",
-    "strContent": "以下が開放されました。\n『<color=#FF423F>調和奪われし路エリア２</color>』\nのショートカット。",
+    "strContent": "以下が開放されました。\n『<color=#FF423F>調和奪われし路エリア２</color>』のショートカット。",
     "option1": "AAAAAA==",
     "showName": "AAAAAA==",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1064029",
-    "strContent": "以下が開放されました。\n『<color=#FF423F>調和奪われし路エリア３</color>』\nのショートカット。",
+    "strContent": "以下が開放されました。\n『<color=#FF423F>調和奪われし路エリア３</color>』のショートカット。",
     "option1": "AAAAAA==",
     "showName": "AAAAAA==",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1064030",
-    "strContent": "以下が開放されました。\n『<color=#FF423F>調和奪われし路エリア４</color>』\nのショートカット。",
+    "strContent": "以下が開放されました。\n『<color=#FF423F>調和奪われし路エリア４</color>』のショートカット。",
     "option1": "AAAAAA==",
     "showName": "AAAAAA==",
     "option2": "AAAAAA=="
@@ -16829,35 +16836,35 @@
   },
   {
     "sn": "1064032",
-    "strContent": "以下が開放されました。\n『<color=#FF423F>訓練場・南側オフィスエリア</color>』\nのショートカット。",
+    "strContent": "以下が開放されました。\n『<color=#FF423F>訓練場・南側オフィスエリア</color>』のショートカット。",
     "option1": "AAAAAA==",
     "showName": "AAAAAA==",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1064033",
-    "strContent": "以下が開放されました。\n『<color=#FF423F>訓練場・北側廊下</color>』\nのショートカット。",
+    "strContent": "以下が開放されました。\n『<color=#FF423F>訓練場・北側廊下</color>』のショートカット。",
     "option1": "AAAAAA==",
     "showName": "AAAAAA==",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1064034",
-    "strContent": "以下が開放されました。\n『<color=#FF423F>訓練場・西側廊下</color>』\nのショートカット。",
+    "strContent": "以下が開放されました。\n『<color=#FF423F>訓練場・西側廊下</color>』のショートカット。",
     "option1": "AAAAAA==",
     "showName": "AAAAAA==",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1064035",
-    "strContent": "以下が開放されました。\n『<color=#FF423F>訓練場・西側投球練習場</color>』\nのショートカット。",
+    "strContent": "以下が開放されました。\n『<color=#FF423F>訓練場・西側投球練習場</color>』のショートカット。",
     "option1": "AAAAAA==",
     "showName": "AAAAAA==",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1064036",
-    "strContent": "以下が開放されました。\n『<color=#FF423F>調伏の領域</color>』\nのショートカット。",
+    "strContent": "以下が開放されました。\n『<color=#FF423F>調伏の領域</color>』のショートカット。",
     "option1": "AAAAAA==",
     "showName": "AAAAAA==",
     "option2": "AAAAAA=="
@@ -16871,14 +16878,14 @@
   },
   {
     "sn": "1064045",
-    "strContent": "以下が開放されました。\n『<color=#FF423F>三の丸・リングエリア</color>』\nのショートカット。",
+    "strContent": "以下が開放されました。\n『<color=#FF423F>三の丸・リングエリア</color>』のショートカット。",
     "option1": "AAAAAA==",
     "showName": "AAAAAA==",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1064046",
-    "strContent": "以下が開放されました。\n『<color=#FF423F>三の丸・イーストウイング</color>』\nのショートカット。",
+    "strContent": "以下が開放されました。\n『<color=#FF423F>三の丸・イーストウイング</color>』のショートカット。",
     "option1": "AAAAAA==",
     "showName": "AAAAAA==",
     "option2": "AAAAAA=="
@@ -16892,35 +16899,35 @@
   },
   {
     "sn": "1064048",
-    "strContent": "以下が開放されました。\n『<color=#FF423F>三の丸・北西エリア</color>』\nのショートカット。",
+    "strContent": "以下が開放されました。\n『<color=#FF423F>三の丸・北西エリア</color>』のショートカット。",
     "option1": "AAAAAA==",
     "showName": "AAAAAA==",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1064049",
-    "strContent": "以下が開放されました。\n『<color=#FF423F>三の丸・北東エリア</color>』\nのショートカット。",
+    "strContent": "以下が開放されました。\n『<color=#FF423F>三の丸・北東エリア</color>』のショートカット。",
     "option1": "AAAAAA==",
     "showName": "AAAAAA==",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1064050",
-    "strContent": "以下が開放されました。\n『<color=#FF423F>三の丸・南西エリア</color>』\nのショートカット。",
+    "strContent": "以下が開放されました。\n『<color=#FF423F>三の丸・南西エリア</color>』のショートカット。",
     "option1": "AAAAAA==",
     "showName": "AAAAAA==",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1064051",
-    "strContent": "以下が開放されました。\n『<color=#FF423F>三の丸・南東エリア</color>』\nのショートカット。",
+    "strContent": "以下が開放されました。\n『<color=#FF423F>三の丸・南東エリア</color>』のショートカット。",
     "option1": "AAAAAA==",
     "showName": "AAAAAA==",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1064052",
-    "strContent": "以下が開放されました。\n『<color=#FF423F>三の丸・ウェストウィング</color>』\nのショートカット。",
+    "strContent": "以下が開放されました。\n『<color=#FF423F>三の丸・ウェストウィング</color>』のショートカット。",
     "option1": "AAAAAA==",
     "showName": "AAAAAA==",
     "option2": "AAAAAA=="
@@ -16962,28 +16969,28 @@
   },
   {
     "sn": "1064058",
-    "strContent": "以下が開放されました。\n『<color=#FF423F>天守閣・憩いの茶室</color>』\nのショートカット。",
+    "strContent": "以下が開放されました。\n『<color=#FF423F>天守閣・憩いの茶室</color>』のショートカット。",
     "option1": "AAAAAA==",
     "showName": "AAAAAA==",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1064059",
-    "strContent": "以下が開放されました。\n『<color=#FF423F>天守閣・ギミック岐路前</color>』\nのショートカット。",
+    "strContent": "以下が開放されました。\n『<color=#FF423F>天守閣・ギミック岐路前</color>』のショートカット。",
     "option1": "AAAAAA==",
     "showName": "AAAAAA==",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1064060",
-    "strContent": "以下が開放されました。\n『<color=#FF423F>天守閣・ギミック岐路後</color>』\nのショートカット。",
+    "strContent": "以下が開放されました。\n『<color=#FF423F>天守閣・ギミック岐路後</color>』のショートカット。",
     "option1": "AAAAAA==",
     "showName": "AAAAAA==",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1064061",
-    "strContent": "以下が開放されました。\n『<color=#FF423F>天守閣内・入り口</color>』\nのショートカット。",
+    "strContent": "以下が開放されました。\n『<color=#FF423F>天守閣内・入り口</color>』のショートカット。",
     "option1": "AAAAAA==",
     "showName": "AAAAAA==",
     "option2": "AAAAAA=="
@@ -17032,70 +17039,70 @@
   },
   {
     "sn": "1064068",
-    "strContent": "以下が開放されました。\n『<color=#FF423F>天守閣最上層・北西</color>』\nのショートカット。",
+    "strContent": "以下が開放されました。\n『<color=#FF423F>天守閣最上層・北西</color>』のショートカット。",
     "option1": "AAAAAA==",
     "showName": "AAAAAA==",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1064069",
-    "strContent": "以下が開放されました。\n『<color=#FF423F>天守閣上部・長廊下</color>』\nのショートカット。",
+    "strContent": "以下が開放されました。\n『<color=#FF423F>天守閣上部・長廊下</color>』のショートカット。",
     "option1": "AAAAAA==",
     "showName": "AAAAAA==",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1064070",
-    "strContent": "以下が開放されました。\n『<color=#FF423F>天守閣上部・西側</color>』\nのショートカット。",
+    "strContent": "以下が開放されました。\n『<color=#FF423F>天守閣上部・西側</color>』のショートカット。",
     "option1": "AAAAAA==",
     "showName": "AAAAAA==",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1064071",
-    "strContent": "以下が開放されました。\n『<color=#FF423F>天守閣上部・南西</color>』\nのショートカット。",
+    "strContent": "以下が開放されました。\n『<color=#FF423F>天守閣上部・南西</color>』のショートカット。",
     "option1": "AAAAAA==",
     "showName": "AAAAAA==",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1064072",
-    "strContent": "以下が開放されました。\n『<color=#FF423F>天守閣上部・南西廊下</color>』\nのショートカット。",
+    "strContent": "以下が開放されました。\n『<color=#FF423F>天守閣上部・南西廊下</color>』のショートカット。",
     "option1": "AAAAAA==",
     "showName": "AAAAAA==",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1064073",
-    "strContent": "以下が開放されました。\n『<color=#FF423F>天守閣上部・回廊北側</color>』\nのショートカット。",
+    "strContent": "以下が開放されました。\n『<color=#FF423F>天守閣上部・回廊北側</color>』のショートカット。",
     "option1": "AAAAAA==",
     "showName": "AAAAAA==",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1064074",
-    "strContent": "以下が開放されました。\n『<color=#FF423F>天守閣上部・南東</color>』\nのショートカット。",
+    "strContent": "以下が開放されました。\n『<color=#FF423F>天守閣上部・南東</color>』のショートカット。",
     "option1": "AAAAAA==",
     "showName": "AAAAAA==",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1064075",
-    "strContent": "以下が開放されました。\n『<color=#FF423F>天守閣上部・東側</color>』\nのショートカット。",
+    "strContent": "以下が開放されました。\n『<color=#FF423F>天守閣上部・東側</color>』のショートカット。",
     "option1": "AAAAAA==",
     "showName": "AAAAAA==",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1064076",
-    "strContent": "以下が開放されました。\n『<color=#FF423F>天守閣上部・北東</color>』\nのショートカット。",
+    "strContent": "以下が開放されました。\n『<color=#FF423F>天守閣上部・北東</color>』のショートカット。",
     "option1": "AAAAAA==",
     "showName": "AAAAAA==",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1064077",
-    "strContent": "以下が開放されました。\n『<color=#FF423F>二の丸・北西庭園</color>』\nのショートカット。",
+    "strContent": "以下が開放されました。\n『<color=#FF423F>二の丸・北西庭園</color>』のショートカット。",
     "option1": "AAAAAA==",
     "showName": "AAAAAA==",
     "option2": "AAAAAA=="
@@ -17123,7 +17130,7 @@
   },
   {
     "sn": "1064081",
-    "strContent": "以下が開放されました。\n『<color=#FF423F>二の丸・南門入口</color>』\nのショートカット。",
+    "strContent": "以下が開放されました。\n『<color=#FF423F>二の丸・南門入口</color>』のショートカット。",
     "option1": "AAAAAA==",
     "showName": "AAAAAA==",
     "option2": "AAAAAA=="
@@ -17144,315 +17151,315 @@
   },
   {
     "sn": "1064111",
-    "strContent": "以下が開放されました。\n『<color=#FF423F>水処理場下層・セーフルーム</color>』\nのショートカット。",
+    "strContent": "以下が開放されました。\n『<color=#FF423F>水処理場下層・セーフルーム</color>』のショートカット。",
     "option1": "AAAAAA==",
     "showName": "AAAAAA==",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1064112",
-    "strContent": "以下が開放されました。\n『<color=#FF423F>水処理場下層・東側入口</color>』\nのショートカット。",
+    "strContent": "以下が開放されました。\n『<color=#FF423F>水処理場下層・東側入口</color>』のショートカット。",
     "option1": "AAAAAA==",
     "showName": "AAAAAA==",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1064113",
-    "strContent": "以下が開放されました。\n『<color=#FF423F>水処理場下層・東側奥</color>』\nのショートカット。",
+    "strContent": "以下が開放されました。\n『<color=#FF423F>水処理場下層・東側奥</color>』のショートカット。",
     "option1": "AAAAAA==",
     "showName": "AAAAAA==",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1064114",
-    "strContent": "以下が開放されました。\n『<color=#FF423F>水処理場下層・北側</color>』\nのショートカット。",
+    "strContent": "以下が開放されました。\n『<color=#FF423F>水処理場下層・北側</color>』のショートカット。",
     "option1": "AAAAAA==",
     "showName": "AAAAAA==",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1064115",
-    "strContent": "以下が開放されました。\n『<color=#FF423F>水処理場下層・西側入口</color>』\nのショートカット。",
+    "strContent": "以下が開放されました。\n『<color=#FF423F>水処理場下層・西側入口</color>』のショートカット。",
     "option1": "AAAAAA==",
     "showName": "AAAAAA==",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1064116",
-    "strContent": "以下が開放されました。\n『<color=#FF423F>水処理場下層・西側奥</color>』\nのショートカット。",
+    "strContent": "以下が開放されました。\n『<color=#FF423F>水処理場下層・西側奥</color>』のショートカット。",
     "option1": "AAAAAA==",
     "showName": "AAAAAA==",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1064117",
-    "strContent": "以下が開放されました。\n『<color=#FF423F>水処理場下層・南側</color>』\nのショートカット。",
+    "strContent": "以下が開放されました。\n『<color=#FF423F>水処理場下層・南側</color>』のショートカット。",
     "option1": "AAAAAA==",
     "showName": "AAAAAA==",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1064121",
-    "strContent": "以下が開放されました。\n『<color=#FF423F>水処理場中層・西側通路</color>』\nのショートカット。",
+    "strContent": "以下が開放されました。\n『<color=#FF423F>水処理場中層・西側通路</color>』のショートカット。",
     "option1": "AAAAAA==",
     "showName": "AAAAAA==",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1064122",
-    "strContent": "以下が開放されました。\n『<color=#FF423F>水処理場中層・北側通路</color>』\nのショートカット。",
+    "strContent": "以下が開放されました。\n『<color=#FF423F>水処理場中層・北側通路</color>』のショートカット。",
     "option1": "AAAAAA==",
     "showName": "AAAAAA==",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1064123",
-    "strContent": "以下が開放されました。\n『<color=#FF423F>水処理場中層・北側</color>』\nのショートカット。",
+    "strContent": "以下が開放されました。\n『<color=#FF423F>水処理場中層・北側</color>』のショートカット。",
     "option1": "AAAAAA==",
     "showName": "AAAAAA==",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1064124",
-    "strContent": "以下が開放されました。\n『<color=#FF423F>水処理場中層・冷却施設</color>』\nのショートカット。",
+    "strContent": "以下が開放されました。\n『<color=#FF423F>水処理場中層・冷却施設</color>』のショートカット。",
     "option1": "AAAAAA==",
     "showName": "AAAAAA==",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1064125",
-    "strContent": "以下が開放されました。\n『<color=#FF423F>水処理場中層・東側通路</color>』\nのショートカット。",
+    "strContent": "以下が開放されました。\n『<color=#FF423F>水処理場中層・東側通路</color>』のショートカット。",
     "option1": "AAAAAA==",
     "showName": "AAAAAA==",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1064126",
-    "strContent": "以下が開放されました。\n『<color=#FF423F>水処理場中層・南側</color>』\nのショートカット。",
+    "strContent": "以下が開放されました。\n『<color=#FF423F>水処理場中層・南側</color>』のショートカット。",
     "option1": "AAAAAA==",
     "showName": "AAAAAA==",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1064131",
-    "strContent": "以下が開放されました。\n『<color=#FF423F>水処理場上層・西側奥</color>』\nのショートカット。",
+    "strContent": "以下が開放されました。\n『<color=#FF423F>水処理場上層・西側奥</color>』のショートカット。",
     "option1": "AAAAAA==",
     "showName": "AAAAAA==",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1064132",
-    "strContent": "以下が開放されました。\n『<color=#FF423F>水処理場上層・北側入口</color>』\nのショートカット。",
+    "strContent": "以下が開放されました。\n『<color=#FF423F>水処理場上層・北側入口</color>』のショートカット。",
     "option1": "AAAAAA==",
     "showName": "AAAAAA==",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1064133",
-    "strContent": "以下が開放されました。\n『<color=#FF423F>水処理場上層・西側入口</color>』\nのショートカット。",
+    "strContent": "以下が開放されました。\n『<color=#FF423F>水処理場上層・西側入口</color>』のショートカット。",
     "option1": "AAAAAA==",
     "showName": "AAAAAA==",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1064134",
-    "strContent": "以下が開放されました。\n『<color=#FF423F>水処理場上層・エレベーター前</color>』\nのショートカット。",
+    "strContent": "以下が開放されました。\n『<color=#FF423F>水処理場上層・エレベーター前</color>』のショートカット。",
     "option1": "AAAAAA==",
     "showName": "AAAAAA==",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1064135",
-    "strContent": "以下が開放されました。\n『<color=#FF423F>水処理場上層・東側</color>』\nのショートカット。",
+    "strContent": "以下が開放されました。\n『<color=#FF423F>水処理場上層・東側</color>』のショートカット。",
     "option1": "AAAAAA==",
     "showName": "AAAAAA==",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1064136",
-    "strContent": "以下が開放されました。\n『<color=#FF423F>水処理場上層・北側奥</color>』\nのショートカット。",
+    "strContent": "以下が開放されました。\n『<color=#FF423F>水処理場上層・北側奥</color>』のショートカット。",
     "option1": "AAAAAA==",
     "showName": "AAAAAA==",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1064141",
-    "strContent": "以下が開放されました。\n『<color=#FF423F>水処理場・トンネル南部</color>』\nのショートカット。",
+    "strContent": "以下が開放されました。\n『<color=#FF423F>水処理場・トンネル南部</color>』のショートカット。",
     "option1": "AAAAAA==",
     "showName": "AAAAAA==",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1064142",
-    "strContent": "以下が開放されました。\n『<color=#FF423F>水処理場・トンネル北部</color>』\nのショートカット。",
+    "strContent": "以下が開放されました。\n『<color=#FF423F>水処理場・トンネル北部</color>』のショートカット。",
     "option1": "AAAAAA==",
     "showName": "AAAAAA==",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1064143",
-    "strContent": "以下が開放されました。『<color=#FF423F>天守閣内・南側</color>』\nのショートカット。",
+    "strContent": "以下が開放されました。\n『<color=#FF423F>天守閣内・南側</color>』のショートカット。",
     "option1": "AAAAAA==",
     "showName": "AAAAAA==",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1064144",
-    "strContent": "以下が開放されました。『<color=#FF423F>天守閣内・南側</color>』\nのショートカット。",
+    "strContent": "以下が開放されました。\n『<color=#FF423F>天守閣内・南側</color>』のショートカット。",
     "option1": "AAAAAA==",
     "showName": "AAAAAA==",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1064145",
-    "strContent": "以下が開放されました。『<color=#FF423F>天守閣内・南側</color>』\nのショートカット。",
+    "strContent": "以下が開放されました。\n『<color=#FF423F>天守閣内・南側</color>』のショートカット。",
     "option1": "AAAAAA==",
     "showName": "AAAAAA==",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1064146",
-    "strContent": "以下が開放されました。『<color=#FF423F>天守閣内・南側</color>』\nのショートカット。",
+    "strContent": "以下が開放されました。\n『<color=#FF423F>天守閣内・南側</color>』のショートカット。",
     "option1": "AAAAAA==",
     "showName": "AAAAAA==",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1064147",
-    "strContent": "以下が開放されました。『<color=#FF423F>天守閣内・南側</color>』\nのショートカット。",
+    "strContent": "以下が開放されました。\n『<color=#FF423F>天守閣内・南側</color>』のショートカット。",
     "option1": "AAAAAA==",
     "showName": "AAAAAA==",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1064148",
-    "strContent": "以下が開放されました。『<color=#FF423F>天守閣内・南側</color>』\nのショートカット。",
+    "strContent": "以下が開放されました。\n『<color=#FF423F>天守閣内・南側</color>』のショートカット。",
     "option1": "AAAAAA==",
     "showName": "AAAAAA==",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1064149",
-    "strContent": "以下が開放されました。『<color=#FF423F>天守閣内・南側</color>』\nのショートカット。",
+    "strContent": "以下が開放されました。\n『<color=#FF423F>天守閣内・南側</color>』のショートカット。",
     "option1": "AAAAAA==",
     "showName": "AAAAAA==",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1065163",
-    "strContent": "以下が開放されました。\n『<color=#FF423F>調伏の領域・調和の言葉</color>』\nのショートカット。",
+    "strContent": "以下が開放されました。\n『<color=#FF423F>調伏の領域・調和の言葉</color>』のショートカット。",
     "option1": "AAAAAA==",
     "showName": "AAAAAA==",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1064151",
-    "strContent": "AAAAAA==",
+    "strContent": "以下が開放されました。\n『<color=#FF423F>天守閣内・南側</color>』のショートカット。",
     "option1": "AAAAAA==",
     "showName": "AAAAAA==",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1064152",
-    "strContent": "AAAAAA==",
+    "strContent": "以下が開放されました。\n『<color=#FF423F>天守閣内・南側</color>』のショートカット。",
     "option1": "AAAAAA==",
     "showName": "AAAAAA==",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1064153",
-    "strContent": "AAAAAA==",
+    "strContent": "以下が開放されました。\n『<color=#FF423F>天守閣内・南側</color>のショートカット。",
     "option1": "AAAAAA==",
     "showName": "AAAAAA==",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1064154",
-    "strContent": "AAAAAA==",
+    "strContent": "以下が開放されました。\n『<color=#FF423F>天守閣内・南側</color>』のショートカット。",
     "option1": "AAAAAA==",
     "showName": "AAAAAA==",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1064155",
-    "strContent": "AAAAAA==",
+    "strContent": "以下が開放されました。\n『<color=#FF423F>天守閣内・南側</color>』のショートカット。",
     "option1": "AAAAAA==",
     "showName": "AAAAAA==",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1064156",
-    "strContent": "AAAAAA==",
+    "strContent": "以下が開放されました。\n『<color=#FF423F>天守閣内・南側</color>』のショートカット。",
     "option1": "AAAAAA==",
     "showName": "AAAAAA==",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1064157",
-    "strContent": "AAAAAA==",
+    "strContent": "以下が開放されました。\n『<color=#FF423F>天守閣内・南側</color>』のショートカット。",
     "option1": "AAAAAA==",
     "showName": "AAAAAA==",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1064158",
-    "strContent": "AAAAAA==",
+    "strContent": "以下が開放されました。\n『<color=#FF423F>天守閣内・南側</color>』のショートカット。",
     "option1": "AAAAAA==",
     "showName": "AAAAAA==",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1064159",
-    "strContent": "AAAAAA==",
+    "strContent": "以下が開放されました。\n『<color=#FF423F>天守閣内・南側</color>』のショートカット。",
     "option1": "AAAAAA==",
     "showName": "AAAAAA==",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1064160",
-    "strContent": "AAAAAA==",
+    "strContent": "以下が開放されました。\n『<color=#FF423F>天守閣内・南側</color>』のショートカット。",
     "option1": "AAAAAA==",
     "showName": "AAAAAA==",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1064161",
-    "strContent": "AAAAAA==",
+    "strContent": "以下が開放されました。\n『<color=#FF423F>天守閣内・南側</color>』のショートカット。",
     "option1": "AAAAAA==",
     "showName": "AAAAAA==",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1064162",
-    "strContent": "AAAAAA==",
+    "strContent": "以下が開放されました。\n『<color=#FF423F>天守閣内・南側</color>』のショートカット。",
     "option1": "AAAAAA==",
     "showName": "AAAAAA==",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1064163",
-    "strContent": "AAAAAA==",
+    "strContent": "以下が開放されました。\n『<color=#FF423F>天守閣内・南側</color>』のショートカット。",
     "option1": "AAAAAA==",
     "showName": "AAAAAA==",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1064164",
-    "strContent": "AAAAAA==",
+    "strContent": "以下が開放されました。\n『<color=#FF423F>天守閣内・南側</color>』のショートカット。",
     "option1": "AAAAAA==",
     "showName": "AAAAAA==",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1064165",
-    "strContent": "AAAAAA==",
+    "strContent": "以下が開放されました。\n『<color=#FF423F>天守閣内・南側</color>』のショートカット。",
     "option1": "AAAAAA==",
     "showName": "AAAAAA==",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1065164",
-    "strContent": "以下が開放されました。\n『<color=#FF423F>調伏の領域・生命の言葉</color>』\nのショートカット。",
+    "strContent": "以下が開放されました。\n『<color=#FF423F>調伏の領域・生命の言葉</color>』のショートカット。",
     "option1": "AAAAAA==",
     "showName": "AAAAAA==",
     "option2": "AAAAAA=="
@@ -17578,63 +17585,63 @@
   },
   {
     "sn": "1065165",
-    "strContent": "以下が開放されました。\n『<color=#FF423F>調伏の領域・絆の言葉</color>』\nのショートカット。",
+    "strContent": "以下が開放されました。\n『<color=#FF423F>調伏の領域・絆の言葉</color>』のショートカット。",
     "option1": "AAAAAA==",
     "showName": "AAAAAA==",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1065166",
-    "strContent": "以下が開放されました。\n『<color=#FF423F>調伏の領域・抗争の言葉</color>』\nのショートカット。",
+    "strContent": "以下が開放されました。\n『<color=#FF423F>調伏の領域・抗争の言葉</color>』のショートカット。",
     "option1": "AAAAAA==",
     "showName": "AAAAAA==",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1065167",
-    "strContent": "以下が開放されました。\n『<color=#FF423F>調伏の領域・決勝の言葉</color>』\nのショートカット。",
+    "strContent": "以下が開放されました。\n『<color=#FF423F>調伏の領域・決勝の言葉</color>』のショートカット。",
     "option1": "AAAAAA==",
     "showName": "AAAAAA==",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1065168",
-    "strContent": "以下が開放されました。\n『<color=#FF423F>調伏の領域・享楽の言葉</color>』\nのショートカット。",
+    "strContent": "以下が開放されました。\n『<color=#FF423F>調伏の領域・享楽の言葉</color>』のショートカット。",
     "option1": "AAAAAA==",
     "showName": "AAAAAA==",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1065169",
-    "strContent": "以下が開放されました。\n『<color=#FF423F>調伏の領域・怠惰の言葉</color>』\nのショートカット。",
+    "strContent": "以下が開放されました。\n『<color=#FF423F>調伏の領域・怠惰の言葉</color>』のショートカット。",
     "option1": "AAAAAA==",
     "showName": "AAAAAA==",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1065170",
-    "strContent": "以下が開放されました。\n『<color=#FF423F>調伏の領域・深化の言葉</color>』\nのショートカット。",
+    "strContent": "以下が開放されました。\n『<color=#FF423F>調伏の領域・深化の言葉</color>』のショートカット。",
     "option1": "AAAAAA==",
     "showName": "AAAAAA==",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1065171",
-    "strContent": "以下が開放されました。\n『<color=#FF423F>厄抑の異象の境・幻画の迷宮</color>』\nのショートカット。",
+    "strContent": "以下が開放されました。\n『<color=#FF423F>厄抑の異象の境・幻画の迷宮</color>』のショートカット。",
     "option1": "AAAAAA==",
     "showName": "AAAAAA==",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1065172",
-    "strContent": "以下が開放されました。\n『<color=#FF423F>厄抑の異象の境・珍奇の古城</color>』\nのショートカット。",
+    "strContent": "以下が開放されました。\n『<color=#FF423F>厄抑の異象の境・珍奇の古城</color>』のショートカット。",
     "option1": "AAAAAA==",
     "showName": "AAAAAA==",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1065173",
-    "strContent": "以下が開放されました。\n『<color=#FF423F>渇望メトロライン</color>』\nのショートカット。",
+    "strContent": "以下が開放されました。\n『<color=#FF423F>渇望メトロライン</color>』のショートカット。",
     "option1": "AAAAAA==",
     "showName": "AAAAAA==",
     "option2": "AAAAAA=="
@@ -21204,7 +21211,7 @@
   },
   {
     "sn": "1082007",
-    "strContent": "依頼を更新しますか？\n<color=#FF423F>（限定と受注済みの依頼は更新されません）</color>\n消費：%s",
+    "strContent": "依頼を更新しますか？\n<color=#FF423F>（限定と遠征中の依頼は更新されません）</color>\n消費：%s",
     "option1": "決定",
     "showName": "ル<#000000,フ,#FFFFFF>ェル",
     "option2": "やめておく"
@@ -21638,7 +21645,7 @@
   },
   {
     "sn": "1084007",
-    "strContent": "坂井綾香のシナジーランク%sで解放",
+    "strContent": "綾香のシナジーランク%sで解放",
     "option1": "AAAAAA==",
     "showName": "AAAAAA==",
     "option2": "AAAAAA=="
@@ -23423,7 +23430,7 @@
   },
   {
     "sn": "1157260",
-    "strContent": "ガキが来ていい場所じゃないぞ！",
+    "strContent": "ガキが来ていい場所\nじゃないぞ！",
     "option1": "AAAAAA==",
     "showName": "AAAAAA==",
     "option2": "AAAAAA=="
@@ -26335,7 +26342,7 @@
   },
   {
     "sn": "1206051",
-    "strContent": "都市生活『<color=#ffc000>陽菜の星空探検</color>』\nが解放されました。\n毎日一定の確率で出現します。",
+    "strContent": "西森陽菜とのエピソードは今後の更新で、都市生活に追加予定です。",
     "option1": "AAAAAA==",
     "showName": "AAAAAA==",
     "option2": "AAAAAA=="
@@ -26895,14 +26902,14 @@
   },
   {
     "sn": "1210318",
-    "strContent": "以下が開放されました。\n『<color=#FF423F>節制奪われし路エリア４</color>』\nへのショートカット。",
+    "strContent": "以下が開放されました。\n『<color=#FF423F>節制奪われし路エリア４</color>』へのショートカット。",
     "option1": "AAAAAA==",
     "showName": "AAAAAA==",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1210319",
-    "strContent": "以下が開放されました。\n『<color=#FF423F>節制奪われし路エリア５</color>』\nへのショートカット。",
+    "strContent": "以下が開放されました。\n『<color=#FF423F>節制奪われし路エリア５</color>』へのショートカット。",
     "option1": "AAAAAA==",
     "showName": "AAAAAA==",
     "option2": "AAAAAA=="
@@ -27126,28 +27133,28 @@
   },
   {
     "sn": "1210315",
-    "strContent": "以下が開放されました。\n『<color=#FF423F>節制奪われし路エリア１</color>』\nへのショートカット。",
+    "strContent": "以下が開放されました。\n『<color=#FF423F>節制奪われし路エリア１</color>』へのショートカット。",
     "option1": "AAAAAA==",
     "showName": "AAAAAA==",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1210316",
-    "strContent": "以下が開放されました。\n『<color=#FF423F>節制奪われし路エリア２</color>』\nへのショートカット。",
+    "strContent": "以下が開放されました。\n『<color=#FF423F>節制奪われし路エリア２</color>』へのショートカット。",
     "option1": "AAAAAA==",
     "showName": "AAAAAA==",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1210317",
-    "strContent": "以下が開放されました。\n『<color=#FF423F>節制奪われし路エリア３</color>』\nへのショートカット。",
+    "strContent": "以下が開放されました。\n『<color=#FF423F>節制奪われし路エリア３</color>』へのショートカット。",
     "option1": "AAAAAA==",
     "showName": "AAAAAA==",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1211011",
-    "strContent": "不意打ち…！？\n体制を立て直しましょう。",
+    "strContent": "不意打ち…！？\n体勢を立て直しましょう。",
     "option1": "AAAAAA==",
     "showName": "AAAAAA==",
     "option2": "AAAAAA=="
@@ -30471,6 +30478,13 @@
     "option2": "AAAAAA=="
   },
   {
+    "sn": "1206059",
+    "strContent": "都市生活『<color=#ffc000>渡来軒でアルバイト</color>』\nが解放されました。\n毎日一定の確率で発生します。",
+    "option1": "AAAAAA==",
+    "showName": "AAAAAA==",
+    "option2": "AAAAAA=="
+  },
+  {
     "sn": "1209458",
     "strContent": "大賞は獲得済ですが他の商品が残っています。この福引きを行いますか？",
     "option1": "AAAAAA==",
@@ -30528,7 +30542,7 @@
   },
   {
     "sn": "1132105",
-    "strContent": "なんかドキドキしてきた…海夕、いきます！",
+    "strContent": "なんかドキドキしてきた…私、いきます！",
     "option1": "AAAAAA==",
     "showName": "佐原海夕",
     "option2": "AAAAAA=="
@@ -32457,6 +32471,34 @@
     "option1": "AAAAAA==",
     "showName": "AAAAAA==",
     "option2": "AAAAAA=="
+  },
+  {
+    "sn": "1310001",
+    "strContent": "QRコードをスキャンするには、カメラのアクセス許可が必要です。\n設定でカメラを有効にしてください。",
+    "option1": "決定",
+    "showName": "AAAAAA==",
+    "option2": "やめておく"
+  },
+  {
+    "sn": "1310002",
+    "strContent": "画像の保存などを行うには、ストレージへのアクセス許可が必要です。\n設定でストレージを有効にしてください。",
+    "option1": "決定",
+    "showName": "AAAAAA==",
+    "option2": "やめておく"
+  },
+  {
+    "sn": "1310003",
+    "strContent": "コードや番号をコピーするには、クリップボードへのアクセス許可が必要です。\n内容はサーバーには送信されません。",
+    "option1": "決定",
+    "showName": "AAAAAA==",
+    "option2": "やめておく"
+  },
+  {
+    "sn": "1310004",
+    "strContent": "お知らせやリマインダーを受け取るには、通知のアクセス許可が必要です。\n設定で通知を有効にしてください。",
+    "option1": "決定",
+    "showName": "AAAAAA==",
+    "option2": "やめておく"
   },
   {
     "sn": "1303004",

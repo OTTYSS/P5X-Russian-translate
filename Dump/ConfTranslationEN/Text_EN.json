@@ -3305,7 +3305,7 @@
   },
   {
     "sn": "1040017",
-    "textContent": "%s Ally Attack Score"
+    "textContent": "%s Attack Score"
   },
   {
     "sn": "1040018",
@@ -4432,6 +4432,10 @@
     "textContent": "Please enter your name."
   },
   {
+    "sn": "1051003",
+    "textContent": "Please enter your name.\n(Your name can be changed later.)"
+  },
+  {
     "sn": "1052001",
     "textContent": "24 Hours"
   },
@@ -5001,7 +5005,7 @@
   },
   {
     "sn": "1070082",
-    "textContent": "Earn points by damaging enemies with a boss icon."
+    "textContent": "Points are only earned by damaging foes marked with Boss or Score."
   },
   {
     "sn": "1070062",
@@ -5593,7 +5597,7 @@
   },
   {
     "sn": "1082005",
-    "textContent": "Don't miss it!"
+    "textContent": "Coming Soon"
   },
   {
     "sn": "1082006",
@@ -5825,7 +5829,7 @@
   },
   {
     "sn": "1083056",
-    "textContent": "Set collected: <color=#edae10>%s/%s</color>"
+    "textContent": "Sets collected: <color=#edae10>%s/%s</color>"
   },
   {
     "sn": "1083057",
@@ -5929,7 +5933,7 @@
   },
   {
     "sn": "1084028",
-    "textContent": "Synergy Rank %s with Ayaka Sakai"
+    "textContent": "Unlocks at Synergy Rank %s with Ayaka Sakai."
   },
   {
     "sn": "1083075",
@@ -5953,7 +5957,7 @@
   },
   {
     "sn": "1084001",
-    "textContent": "Band Club Level %d"
+    "textContent": "Unlocks at Band Club level %d"
   },
   {
     "sn": "1084002",
@@ -10825,7 +10829,7 @@
   },
   {
     "sn": "2002140",
-    "textContent": "Pass goals completed this week: %s\nGet Supply Sets when you complete goals!"
+    "textContent": "Get %s Supply Sets when you complete this week's Daily goals!"
   },
   {
     "sn": "2002142",
@@ -11137,11 +11141,11 @@
   },
   {
     "sn": "2002209",
-    "textContent": "Tasks Claimable at Once: "
+    "textContent": "Simultaneous Tasks:"
   },
   {
     "sn": "2002210",
-    "textContent": "Regular Task Refreshes: "
+    "textContent": "Regular Tasks:"
   },
   {
     "sn": "2002211",
@@ -11161,11 +11165,11 @@
   },
   {
     "sn": "2002215",
-    "textContent": "Obtain {0}"
+    "textContent": "{0} Obtained"
   },
   {
     "sn": "2002217",
-    "textContent": "Requires"
+    "textContent": "Req."
   },
   {
     "sn": "2002218",
@@ -11177,7 +11181,7 @@
   },
   {
     "sn": "2002242",
-    "textContent": "Superego Level"
+    "textContent": "Super Level"
   },
   {
     "sn": "2002243",
@@ -11205,7 +11209,7 @@
   },
   {
     "sn": "2002251",
-    "textContent": "Unlocks when Wonder reaches Superego Level {0}"
+    "textContent": "Unlocks when Wonder reaches S-Lv. {0}"
   },
   {
     "sn": "2002252",
@@ -11941,15 +11945,15 @@
   },
   {
     "sn": "2002458",
-    "textContent": "Clear to update"
+    "textContent": "Clear to unlock"
   },
   {
     "sn": "2002459",
-    "textContent": "Unlock Battle Effects"
+    "textContent": "new battle effects"
   },
   {
     "sn": "2002460",
-    "textContent": "Displays the highest Abnormality Level difficulty cleared."
+    "textContent": "Your highest abnormality level difficulty cleared is shown."
   },
   {
     "sn": "2002461",
@@ -12369,7 +12373,7 @@
   },
   {
     "sn": "2002607",
-    "textContent": "Use Tryout Thieves"
+    "textContent": "Use Thieves for Hire"
   },
   {
     "sn": "2002552",
@@ -12765,7 +12769,7 @@
   },
   {
     "sn": "2002669",
-    "textContent": "Stat Increases:"
+    "textContent": "Stat Increases"
   },
   {
     "sn": "2002671",
@@ -13138,5 +13142,37 @@
   {
     "sn": "2303329",
     "textContent": "%s"
+  },
+  {
+    "sn": "2303334",
+    "textContent": "Review Request"
+  },
+  {
+    "sn": "2303335",
+    "textContent": "Thank you for playing Persona5: The Phantom X.\nIf you'd like, please leave us a review!"
+  },
+  {
+    "sn": "2303336",
+    "textContent": "Review"
+  },
+  {
+    "sn": "2303337",
+    "textContent": "Later"
+  },
+  {
+    "sn": "2303338",
+    "textContent": "Feedback Request"
+  },
+  {
+    "sn": "2303339",
+    "textContent": "If you'd like, please let us know how we can improve your experience with the game."
+  },
+  {
+    "sn": "2303340",
+    "textContent": "Yes"
+  },
+  {
+    "sn": "2303341",
+    "textContent": "No"
   }
 ]
