@@ -3143,7 +3143,7 @@
   {
     "sn": "1311021",
     "title": "オーダーメイド",
-    "desc": "３つの同じ属性の『フレーバー』で調合",
+    "desc": "同じ属性の『フレーバー』、３つで調合",
     "BuffDesc": "AAAAAA==",
     "addText": "AAAAAA==",
     "removeText": "AAAAAA==",
@@ -3152,7 +3152,7 @@
   {
     "sn": "1311022",
     "title": "スタンダード",
-    "desc": "２つの同じ属性の『フレーバー』で調合",
+    "desc": "同じ属性の『フレーバー』、２つで調合",
     "BuffDesc": "AAAAAA==",
     "addText": "AAAAAA==",
     "removeText": "AAAAAA==",
@@ -3161,7 +3161,7 @@
   {
     "sn": "1311023",
     "title": "ベーシック",
-    "desc": "３つの異なる属性の『フレーバー』で調合",
+    "desc": "異なる属性の『フレーバー』、３つで調合",
     "BuffDesc": "AAAAAA==",
     "addText": "AAAAAA==",
     "removeText": "AAAAAA==",
@@ -3242,7 +3242,7 @@
   {
     "sn": "1311123",
     "title": "オーダーメイド",
-    "desc": "同じ属性の『フレーバー』３つで調合",
+    "desc": "同じ属性の『フレーバー』、３つで調合",
     "BuffDesc": "AAAAAA==",
     "addText": "AAAAAA==",
     "removeText": "AAAAAA==",
@@ -3496,6 +3496,15 @@
     "title": "ロックスピリット",
     "desc": "与ダメージ%s上昇",
     "BuffDesc": "与<color=#000000>ダ</color>メージ上昇",
+    "addText": "AAAAAA==",
+    "removeText": "AAAAAA==",
+    "calText": "AAAAAA=="
+  },
+  {
+    "sn": "1321112",
+    "title": "感電",
+    "desc": "被クリティカル率１０%上昇",
+    "BuffDesc": "感<color=#000000>電</color>",
     "addText": "AAAAAA==",
     "removeText": "AAAAAA==",
     "calText": "AAAAAA=="
@@ -7877,7 +7886,7 @@
   {
     "sn": "403282",
     "title": "重祭・二点セット",
-    "desc": "弱点被ダメージが%s上昇する",
+    "desc": "弱点被ダメージ%s上昇",
     "BuffDesc": "重<color=#000000>祭</color>・二点セット",
     "addText": "AAAAAA==",
     "removeText": "AAAAAA==",
@@ -10872,7 +10881,25 @@
     "calText": "AAAAAA=="
   },
   {
+    "sn": "255402",
+    "title": "正義の審判",
+    "desc": "祝福ダメージ%s上昇",
+    "BuffDesc": "正<color=#000000>義</color>の審判",
+    "addText": "AAAAAA==",
+    "removeText": "AAAAAA==",
+    "calText": "AAAAAA=="
+  },
+  {
     "sn": "255411",
+    "title": "正義の審判",
+    "desc": "祝福ダメージ%s上昇",
+    "BuffDesc": "正<color=#000000>義</color>の審判",
+    "addText": "AAAAAA==",
+    "removeText": "AAAAAA==",
+    "calText": "AAAAAA=="
+  },
+  {
+    "sn": "255412",
     "title": "正義の審判",
     "desc": "祝福ダメージ%s上昇",
     "BuffDesc": "正<color=#000000>義</color>の審判",
@@ -10891,6 +10918,15 @@
   },
   {
     "sn": "255481",
+    "title": "正義の審判",
+    "desc": "攻撃力%s上昇",
+    "BuffDesc": "正<color=#000000>義</color>の審判",
+    "addText": "AAAAAA==",
+    "removeText": "AAAAAA==",
+    "calText": "AAAAAA=="
+  },
+  {
+    "sn": "252111",
     "title": "正義の審判",
     "desc": "攻撃力%s上昇",
     "BuffDesc": "正<color=#000000>義</color>の審判",
@@ -17542,7 +17578,7 @@
   },
   {
     "sn": "27481",
-    "title": "母の慈愛",
+    "title": "母の恩情",
     "desc": "ダメージを２０%軽減し、この効果の終了時にジャアクフロストへ変化する。",
     "BuffDesc": "母<color=#000000>の</color>慈愛",
     "addText": "AAAAAA==",
@@ -18387,6 +18423,15 @@
     "calText": "AAAAAA=="
   },
   {
+    "sn": "25185",
+    "title": "特殊効果",
+    "desc": "追加ターン中、クリティカル率とクリティカルダメージが２０%上昇する。",
+    "BuffDesc": "AAAAAA==",
+    "addText": "AAAAAA==",
+    "removeText": "AAAAAA==",
+    "calText": "AAAAAA=="
+  },
+  {
     "sn": "25663",
     "title": "猛毒",
     "desc": "ターン終了時に一定のＨＰを失い、受ける最終ダメージが１０%上昇する。この効果は最大７回まで累積される。",
@@ -18793,7 +18838,7 @@
   },
   {
     "sn": "28632",
-    "title": "ＳＰ保存",
+    "title": "ＳＰ回復",
     "desc": "味方のＳＰを%s蓄えた。",
     "BuffDesc": "Ｓ<color=#000000>Ｐ</color>保存",
     "addText": "AAAAAA==",
@@ -21673,7 +21718,7 @@
   },
   {
     "sn": "57261",
-    "title": "誠実＆歓喜",
+    "title": "誠実＆愉楽",
     "desc": "与ダメージが%s上昇する。",
     "BuffDesc": "AAAAAA==",
     "addText": "AAAAAA==",
@@ -21682,7 +21727,7 @@
   },
   {
     "sn": "57271",
-    "title": "知恵＆歓喜",
+    "title": "知恵＆愉楽",
     "desc": "与ダメージが%s上昇する。",
     "BuffDesc": "AAAAAA==",
     "addText": "AAAAAA==",
@@ -24220,7 +24265,7 @@
   },
   {
     "sn": "532311",
-    "title": "トーン",
+    "title": "ユーフォリア",
     "desc": "攻撃力が%s上昇する。",
     "BuffDesc": "攻<color=#000000>撃</color>力上昇",
     "addText": "AAAAAA==",
@@ -24229,7 +24274,7 @@
   },
   {
     "sn": "532421",
-    "title": "ユーフォリア",
+    "title": "リズムストーム",
     "desc": "攻撃力が%s上昇する。",
     "BuffDesc": "攻<color=#000000>撃</color>力上昇",
     "addText": "AAAAAA==",

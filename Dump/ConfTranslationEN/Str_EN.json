@@ -2115,7 +2115,7 @@
   },
   {
     "sn": "12304",
-    "strContent": "Since the gacha is not yet available, you cannot %s.",
+    "strContent": "The contract is not yet available in %s.",
     "option1": "AAAAAA==",
     "showName": "AAAAAA==",
     "option2": "AAAAAA=="
@@ -2388,7 +2388,7 @@
   },
   {
     "sn": "12513",
-    "strContent": "Not enough energy, unable to interact.",
+    "strContent": "You don't have enough Energy for that.",
     "option1": "AAAAAA==",
     "showName": "L<#000000,u,#FFFFFF>fel",
     "option2": "AAAAAA=="
@@ -2437,8 +2437,8 @@
   },
   {
     "sn": "12521",
-    "strContent": "Do you want to open this with the <color=#ffff76>{1}</color>?\n(Use: {0} / Have: {2})",
-    "option1": "Open",
+    "strContent": "Do you want to use your <color=#ffff76>{1}</color>?\n(Use: {0}/Have: {2})",
+    "option1": "Use",
     "showName": "L<#000000,u,#FFFFFF>fel",
     "option2": "Ignore for now"
   },
@@ -4502,7 +4502,7 @@
   },
   {
     "sn": "15803",
-    "strContent": "To unlock, play more of the main and side story.",
+    "strContent": "Progress in the main story and side stories to unlock this.",
     "option1": "AAAAAA==",
     "showName": "AAAAAA==",
     "option2": "AAAAAA=="
@@ -8550,14 +8550,14 @@
     "sn": "1000179",
     "strContent": "They got our ally...",
     "option1": "AAAAAA==",
-    "showName": "S<#000000,h,#FFFFFF>ort-Tempered Attendant",
+    "showName": "E<#000000,x,#FFFFFF>plosive Servant",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1000180",
     "strContent": "Run!",
     "option1": "AAAAAA==",
-    "showName": "S<#000000,h,#FFFFFF>ort-Tempered Attendant",
+    "showName": "E<#000000,x,#FFFFFF>plosive Servant",
     "option2": "AAAAAA=="
   },
   {
@@ -9598,7 +9598,7 @@
   },
   {
     "sn": "1015030",
-    "strContent": "Conditions have not been met.Do you want to use this party anyway?",
+    "strContent": "Recommended conditions have not been met. Do you want to use this party anyway?",
     "option1": "Confirm",
     "showName": "Lu<#000000,f,#FFFFFF>el",
     "option2": "Not now"
@@ -10047,7 +10047,7 @@
   {
     "sn": "1019070",
     "strContent": "Do you want to sing at karaoke?\nIt costs <color=#FF423F>1,500 yen</color>.",
-    "option1": "Let's go do karaoke.",
+    "option1": "I need to release my inhibitions.",
     "showName": "L<#000000,u,#FFFFFF>fel",
     "option2": "Never mind."
   },
@@ -10061,7 +10061,7 @@
   {
     "sn": "1019072",
     "strContent": "Do you want to spend time at the café?\nA cup of coffee costs <color=#FF423F>800 yen</color>.",
-    "option1": "Stop by",
+    "option1": "Let's go in.",
     "showName": "L<#000000,u,#FFFFFF>fel",
     "option2": "Never mind."
   },
@@ -10186,8 +10186,8 @@
   },
   {
     "sn": "1019124",
-    "strContent": "Would you like to spend time with Kurotani?",
-    "option1": "Spend time with Kiyoshi \u3000",
+    "strContent": "Should I spend time with Kurotani?",
+    "option1": "Spend time with Kurotani",
     "showName": "L<#000000,u,#FFFFFF>fel",
     "option2": "I have other plans..."
   },
@@ -10292,16 +10292,16 @@
   {
     "sn": "1019194",
     "strContent": "Should I spend time\nwith Ayaka today...?",
-    "option1": "Say hello to her",
+    "option1": "Spend time with Ayaka",
     "showName": "AAAAAA==",
-    "option2": "Leave her alone"
+    "option2": "Come back another time"
   },
   {
     "sn": "1019195",
     "strContent": "Should I spend time\nwith Ayaka today...?",
-    "option1": "Hear her out",
+    "option1": "Spend time with Ayaka",
     "showName": "AAAAAA==",
-    "option2": "Say hello to her next time"
+    "option2": "Come back another time"
   },
   {
     "sn": "1020105",
@@ -10341,23 +10341,23 @@
   {
     "sn": "1019190",
     "strContent": "Should I spend time\nwith Ayaka today...?",
-    "option1": "Sure.",
+    "option1": "Spend time with Ayaka",
     "showName": "AAAAAA==",
-    "option2": "Now's not a great time..."
+    "option2": "Come back another time"
   },
   {
     "sn": "1019196",
-    "strContent": "Where should I go\nwith Ayaka...?",
+    "strContent": "How should I answer...?",
     "option1": "Want to come to my place?",
     "showName": "AAAAAA==",
-    "option2": "Could we go to your place?"
+    "option2": "How about your house?"
   },
   {
     "sn": "1019191",
     "strContent": "Should I spend time\nwith Ayaka today...?",
-    "option1": "Hear her out",
+    "option1": "Spend time with Ayaka",
     "showName": "AAAAAA==",
-    "option2": "Stop by another time"
+    "option2": "Come back another time"
   },
   {
     "sn": "1019212",
@@ -10369,9 +10369,9 @@
   {
     "sn": "1019192",
     "strContent": "Should I spend time\nwith Ayaka today...?",
-    "option1": "I've got time to spare.",
+    "option1": "Sure.",
     "showName": "AAAAAA==",
-    "option2": "I need to go somewhere else..."
+    "option2": "I have other plans..."
   },
   {
     "sn": "1019193",
@@ -10427,7 +10427,7 @@
     "strContent": "Where should I go with Kira?",
     "option1": "Would you like to come over?",
     "showName": "AAAAAA==",
-    "option2": "I wanna go to Kira's place."
+    "option2": "I wanna see your place."
   },
   {
     "sn": "1019213",
@@ -10502,9 +10502,9 @@
   {
     "sn": "1019215",
     "strContent": "Where should I go\nwith Miyu...?",
-    "option1": "You coming over?",
+    "option1": "Want to come over?",
     "showName": "AAAAAA==",
-    "option2": "Miyu's house?"
+    "option2": "...What about your place?"
   },
   {
     "sn": "1020113",
@@ -10641,7 +10641,7 @@
   },
   {
     "sn": "1020132",
-    "strContent": "You haven't obtained {0}. Do you want to purchase this outfit?",
+    "strContent": "You haven't obtained {0}. You do not have the Phantom Thief who can wear this outfit, but do you still want to purchase it?",
     "option1": "Yes",
     "showName": "AAAAAA==",
     "option2": "No"
@@ -10935,14 +10935,14 @@
   },
   {
     "sn": "1023002",
-    "strContent": "Kichijoji is not yet unlocked. Do you want to unlock it now and continue?",
+    "strContent": "Kichijoji can now be unlocked. Do you want to do so now? Unlocking before Chapter 3: Unconditional Love in the main story may impact your experience of the story.\n*This won't affect the story content.",
     "option1": "Confirm",
     "showName": "L<#000000,u,#FFFFFF>fel",
     "option2": "Not now"
   },
   {
     "sn": "1023003",
-    "strContent": "Kichijoji is not yet unlocked. Do you want to unlock it now and continue?",
+    "strContent": "Kichijoji can now be unlocked. Do you want to do so now? Unlocking before Chapter 3: Unconditional Love in the main story may impact your experience of the story.\n*This won't affect the story content.",
     "option1": "Confirm",
     "showName": "L<#000000,u,#FFFFFF>fel",
     "option2": "Not now"
@@ -10956,28 +10956,28 @@
   },
   {
     "sn": "1023010",
-    "strContent": "Once you have unlocked chapter 3 of the main story, go explore the Dam Palace in the Metaverse.",
+    "strContent": "Once you have unlocked chapter 3 of the main story, go explore the third Palace.",
     "option1": "AAAAAA==",
     "showName": "AAAAAA==",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1023011",
-    "strContent": "Once you have unlocked chapter 3 of the main story, go explore the Dam Palace in the Metaverse.",
+    "strContent": "Once you have unlocked chapter 3 of the main story, go explore the third Palace.",
     "option1": "AAAAAA==",
     "showName": "AAAAAA==",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1023012",
-    "strContent": "Once you have unlocked chapter 3 of the main story, go explore the Dam Palace in the Metaverse.",
+    "strContent": "Once you have unlocked chapter 3 of the main story, go explore the third Palace.",
     "option1": "AAAAAA==",
     "showName": "AAAAAA==",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1023013",
-    "strContent": "Once you have unlocked chapter 3 of the main story, go explore the Dam Palace in the Metaverse.",
+    "strContent": "Once you have unlocked chapter 3 of the main story, go explore the third Palace.",
     "option1": "AAAAAA==",
     "showName": "AAAAAA==",
     "option2": "AAAAAA=="
@@ -11033,7 +11033,7 @@
   },
   {
     "sn": "1023024",
-    "strContent": "Kichijoji unlocked",
+    "strContent": "Kichijoji has been unlocked.",
     "option1": "AAAAAA==",
     "showName": "L<#000000,u,#FFFFFF>fel",
     "option2": "AAAAAA=="
@@ -11061,7 +11061,7 @@
   },
   {
     "sn": "1023028",
-    "strContent": "Ayumi Ogata's city mission Hear Me Out has been unlocked.",
+    "strContent": "Fumi Ogata's city mission Hear Me Out has been unlocked.",
     "option1": "AAAAAA==",
     "showName": "L<#000000,u,#FFFFFF>fel",
     "option2": "AAAAAA=="
@@ -13363,6 +13363,13 @@
     "option2": "Never mind."
   },
   {
+    "sn": "1045420",
+    "strContent": "We've got three chain links now. Should we\nhand them over?",
+    "option1": "Hand over the chain links",
+    "showName": "Moto<#000000,h,#FFFFFF>a Arai",
+    "option2": "Come back later"
+  },
+  {
     "sn": "1047110",
     "strContent": "If you choose to retreat, your score will not be recorded.\nDo you want to retreat?",
     "option1": "Confirm",
@@ -13399,7 +13406,7 @@
   },
   {
     "sn": "1047203",
-    "strContent": "Crossroads of Fate: Museum Arc unlocks after you complete the event <color=#FF423F>%s</color>.",
+    "strContent": "Crossroads of Fate: Castle Arc unlocks after you complete the event <color=#FF423F>%s</color>.",
     "option1": "Confirm",
     "showName": "L<#000000,u,#FFFFFF>fel",
     "option2": "Never mind."
@@ -16017,7 +16024,7 @@
   },
   {
     "sn": "1059002",
-    "strContent": "*giggle* I'm itching for action. Let's do this!",
+    "strContent": "*giggle* I'm itching for\naction. Let's do this!",
     "option1": "AAAAAA==",
     "showName": "Ann Takamaki",
     "option2": "AAAAAA=="
@@ -17025,14 +17032,14 @@
   },
   {
     "sn": "1064067",
-    "strContent": "You can now quick travel to the\n<color=#FF423F>Inner Castle Keep: Southwest</color>.",
+    "strContent": "You can now quick travel to the\n<color=#FF423F>Inner Castle Keep: Southwest Side</color>.",
     "option1": "AAAAAA==",
     "showName": "AAAAAA==",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1064068",
-    "strContent": "You can now quick travel to the\n<color=#FF423F>Upper Castle Keep: Northwest</color>.",
+    "strContent": "You can now quick travel to the\n<color=#FF423F>Upper Castle Keep: Northwest Side</color>.",
     "option1": "AAAAAA==",
     "showName": "AAAAAA==",
     "option2": "AAAAAA=="
@@ -17053,7 +17060,7 @@
   },
   {
     "sn": "1064071",
-    "strContent": "You can now quick travel to the\n<color=#FF423F>Upper Castle Keep: Southwest</color>.",
+    "strContent": "You can now quick travel to the\n<color=#FF423F>Upper Castle Keep: Southwest Side</color>.",
     "option1": "AAAAAA==",
     "showName": "AAAAAA==",
     "option2": "AAAAAA=="
@@ -17074,7 +17081,7 @@
   },
   {
     "sn": "1064074",
-    "strContent": "You can now quick travel to the\n<color=#FF423F>Upper Castle Keep: Southeast</color>.",
+    "strContent": "You can now quick travel to the\n<color=#FF423F>Upper Castle Keep: Southeast Side</color>.",
     "option1": "AAAAAA==",
     "showName": "AAAAAA==",
     "option2": "AAAAAA=="
@@ -17088,7 +17095,7 @@
   },
   {
     "sn": "1064076",
-    "strContent": "You can now quick travel to the\n<color=#FF423F>Upper Castle Keep: Northeast</color>.",
+    "strContent": "You can now quick travel to the\n<color=#FF423F>Upper Castle Keep: Northeast Side</color>.",
     "option1": "AAAAAA==",
     "showName": "AAAAAA==",
     "option2": "AAAAAA=="
@@ -17144,7 +17151,7 @@
   },
   {
     "sn": "1064111",
-    "strContent": "You can now quick travel to the\n<color=#FF423F>Lower Water Treatment Plant: Safe Room</color>.",
+    "strContent": "You can now quick travel to the\n<color=#FF423F>Lower Water Treatment Plant: Rest Area</color>.",
     "option1": "AAAAAA==",
     "showName": "AAAAAA==",
     "option2": "AAAAAA=="
@@ -17193,49 +17200,49 @@
   },
   {
     "sn": "1064121",
-    "strContent": "You can now quick travel to the\n<color=#FF423F>Mid Water Treatment Plant: West Corridor</color>.",
+    "strContent": "You can now quick travel to the\n<color=#FF423F>Central Water Treatment Plant: West Corridor</color>.",
     "option1": "AAAAAA==",
     "showName": "AAAAAA==",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1064122",
-    "strContent": "You can now quick travel to the\n<color=#FF423F>Mid Water Treatment Plant: North Corridor</color>.",
+    "strContent": "You can now quick travel to the\n<color=#FF423F>Central Water Treatment Plant: North Corridor</color>.",
     "option1": "AAAAAA==",
     "showName": "AAAAAA==",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1064123",
-    "strContent": "You can now quick travel to the\n<color=#FF423F>Mid Water Treatment Plant: North Side</color>.",
+    "strContent": "You can now quick travel to the\n<color=#FF423F>Central Water Treatment Plant: North Side</color>.",
     "option1": "AAAAAA==",
     "showName": "AAAAAA==",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1064124",
-    "strContent": "You can now quick travel to the\n<color=#FF423F>Mid Water Treatment Plant: Cooling Facility</color>.",
+    "strContent": "You can now quick travel to the\n<color=#FF423F>Central Water Treatment Plant: Cooling Facility</color>.",
     "option1": "AAAAAA==",
     "showName": "AAAAAA==",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1064125",
-    "strContent": "You can now quick travel to the\n<color=#FF423F>Mid Water Treatment Plant: East Facility</color>.",
+    "strContent": "You can now quick travel to the\n<color=#FF423F>Central Water Treatment Plant: East Facility</color>.",
     "option1": "AAAAAA==",
     "showName": "AAAAAA==",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1064126",
-    "strContent": "You can now quick travel to the\n<color=#FF423F>Mid Water Treatment Plant: South Side</color>.",
+    "strContent": "You can now quick travel to the\n<color=#FF423F>Central Water Treatment Plant: South Side</color>.",
     "option1": "AAAAAA==",
     "showName": "AAAAAA==",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1064131",
-    "strContent": "You can now quick travel to the\n<color=#FF423F>Mid Upper Water Treatment Plant: West Interior</color>.",
+    "strContent": "You can now quick travel to the\n<color=#FF423F>Upper Water Treatment Plant: West Interior</color>.",
     "option1": "AAAAAA==",
     "showName": "AAAAAA==",
     "option2": "AAAAAA=="
@@ -17277,63 +17284,63 @@
   },
   {
     "sn": "1064141",
-    "strContent": "You can now quick travel to the\n<color=#FF423F>Water Treatment Plant: Tunnel South Sector</color>.",
+    "strContent": "You can now quick travel to the\n<color=#FF423F>Water Treatment Plant: South Tunnel Sector</color>.",
     "option1": "AAAAAA==",
     "showName": "AAAAAA==",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1064142",
-    "strContent": "You can now quick travel to the\n<color=#FF423F>Water Treatment Plant: Tunnel North Sector</color>.",
+    "strContent": "You can now quick travel to the\n<color=#FF423F>Water Treatment Plant: North Tunnel Sector</color>.",
     "option1": "AAAAAA==",
     "showName": "AAAAAA==",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1064143",
-    "strContent": "You can now quick travel to the<color=#FF423F>Inner Castle Keep: South Side</color>.",
+    "strContent": "You can now quick travel to the\n<color=#FF423F>Inner Castle Keep: South Side</color>.",
     "option1": "AAAAAA==",
     "showName": "AAAAAA==",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1064144",
-    "strContent": "You can now quick travel to the<color=#FF423F>Inner Castle Keep: South Side</color>.",
+    "strContent": "You can now quick travel to the\n<color=#FF423F>Inner Castle Keep: South Side</color>.",
     "option1": "AAAAAA==",
     "showName": "AAAAAA==",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1064145",
-    "strContent": "You can now quick travel to the<color=#FF423F>Inner Castle Keep: South Side</color>.",
+    "strContent": "You can now quick travel to the\n<color=#FF423F>Inner Castle Keep: South Side</color>.",
     "option1": "AAAAAA==",
     "showName": "AAAAAA==",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1064146",
-    "strContent": "You can now quick travel to the<color=#FF423F>Inner Castle Keep: South Side</color>.",
+    "strContent": "You can now quick travel to the\n<color=#FF423F>Inner Castle Keep: South Side</color>.",
     "option1": "AAAAAA==",
     "showName": "AAAAAA==",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1064147",
-    "strContent": "You can now quick travel to the<color=#FF423F>Inner Castle Keep: South Side</color>.",
+    "strContent": "You can now quick travel to the\n<color=#FF423F>Inner Castle Keep: South Side</color>.",
     "option1": "AAAAAA==",
     "showName": "AAAAAA==",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1064148",
-    "strContent": "You can now quick travel to the<color=#FF423F>Inner Castle Keep: South Side</color>.",
+    "strContent": "You can now quick travel to the\n<color=#FF423F>Inner Castle Keep: South Side</color>.",
     "option1": "AAAAAA==",
     "showName": "AAAAAA==",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1064149",
-    "strContent": "You can now quick travel to the<color=#FF423F>Inner Castle Keep: South Side</color>.",
+    "strContent": "You can now quick travel to the\n<color=#FF423F>Inner Castle Keep: South Side</color>.",
     "option1": "AAAAAA==",
     "showName": "AAAAAA==",
     "option2": "AAAAAA=="
@@ -17347,105 +17354,105 @@
   },
   {
     "sn": "1064151",
-    "strContent": "AAAAAA==",
+    "strContent": "You can now quick travel to the\n<color=#FF423F>Inner Castle Keep: South Side</color>.",
     "option1": "AAAAAA==",
     "showName": "AAAAAA==",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1064152",
-    "strContent": "AAAAAA==",
+    "strContent": "You can now quick travel to the\n<color=#FF423F>Inner Castle Keep: South Side</color>.",
     "option1": "AAAAAA==",
     "showName": "AAAAAA==",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1064153",
-    "strContent": "AAAAAA==",
+    "strContent": "You can now quick travel to the\n<color=#FF423F>Inner Castle Keep: South Side</color>.",
     "option1": "AAAAAA==",
     "showName": "AAAAAA==",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1064154",
-    "strContent": "AAAAAA==",
+    "strContent": "You can now quick travel to the\n<color=#FF423F>Inner Castle Keep: South Side</color>.",
     "option1": "AAAAAA==",
     "showName": "AAAAAA==",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1064155",
-    "strContent": "AAAAAA==",
+    "strContent": "You can now quick travel to the\n<color=#FF423F>Inner Castle Keep: South Side</color>.",
     "option1": "AAAAAA==",
     "showName": "AAAAAA==",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1064156",
-    "strContent": "AAAAAA==",
+    "strContent": "You can now quick travel to the\n<color=#FF423F>Inner Castle Keep: South Side</color>.",
     "option1": "AAAAAA==",
     "showName": "AAAAAA==",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1064157",
-    "strContent": "AAAAAA==",
+    "strContent": "You can now quick travel to the\n<color=#FF423F>Inner Castle Keep: South Side</color>.",
     "option1": "AAAAAA==",
     "showName": "AAAAAA==",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1064158",
-    "strContent": "AAAAAA==",
+    "strContent": "You can now quick travel to the\n<color=#FF423F>Inner Castle Keep: South Side</color>.",
     "option1": "AAAAAA==",
     "showName": "AAAAAA==",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1064159",
-    "strContent": "AAAAAA==",
+    "strContent": "You can now quick travel to the\n<color=#FF423F>Inner Castle Keep: South Side</color>.",
     "option1": "AAAAAA==",
     "showName": "AAAAAA==",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1064160",
-    "strContent": "AAAAAA==",
+    "strContent": "You can now quick travel to the\n<color=#FF423F>Inner Castle Keep: South Side</color>.",
     "option1": "AAAAAA==",
     "showName": "AAAAAA==",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1064161",
-    "strContent": "AAAAAA==",
+    "strContent": "You can now quick travel to the\n<color=#FF423F>Inner Castle Keep: South Side</color>.",
     "option1": "AAAAAA==",
     "showName": "AAAAAA==",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1064162",
-    "strContent": "AAAAAA==",
+    "strContent": "You can now quick travel to the\n<color=#FF423F>Inner Castle Keep: South Side</color>.",
     "option1": "AAAAAA==",
     "showName": "AAAAAA==",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1064163",
-    "strContent": "AAAAAA==",
+    "strContent": "You can now quick travel to the\n<color=#FF423F>Inner Castle Keep: South Side</color>.",
     "option1": "AAAAAA==",
     "showName": "AAAAAA==",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1064164",
-    "strContent": "AAAAAA==",
+    "strContent": "You can now quick travel to the\n<color=#FF423F>Inner Castle Keep: South Side</color>.",
     "option1": "AAAAAA==",
     "showName": "AAAAAA==",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1064165",
-    "strContent": "AAAAAA==",
+    "strContent": "You can now quick travel to the\n<color=#FF423F>Inner Castle Keep: South Side</color>.",
     "option1": "AAAAAA==",
     "showName": "AAAAAA==",
     "option2": "AAAAAA=="
@@ -17641,7 +17648,7 @@
   },
   {
     "sn": "1065174",
-    "strContent": "The <color=#FF423F>Central Tower: Lower Level</color> safe room has been unlocked.",
+    "strContent": "The <color=#FF423F>Lower Central Tower</color> safe room has been unlocked.",
     "option1": "AAAAAA==",
     "showName": "AAAAAA==",
     "option2": "AAAAAA=="
@@ -18810,14 +18817,14 @@
   },
   {
     "sn": "1077009",
-    "strContent": "Hm? Is that the unmistakable aura of a rare item?",
+    "strContent": "Hm? Is that the unmistakable\naura of a rare item?",
     "option1": "AAAAAA==",
     "showName": "Kiyoshi Kurotani",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1077010",
-    "strContent": "The chosen one will surely make the most of it.",
+    "strContent": "The chosen one will surely\nmake the most of it.",
     "option1": "AAAAAA==",
     "showName": "Kiyoshi Kurotani",
     "option2": "AAAAAA=="
@@ -21638,7 +21645,7 @@
   },
   {
     "sn": "1084007",
-    "strContent": "Unlocks at Synergy Rank %s with Ayaka Sakai.",
+    "strContent": "Synergy Rank %s with Ayaka",
     "option1": "AAAAAA==",
     "showName": "AAAAAA==",
     "option2": "AAAAAA=="
@@ -26335,7 +26342,7 @@
   },
   {
     "sn": "1206051",
-    "strContent": "Activities with Haruna Nishimori are planned to be added to City Life in a future update.",
+    "strContent": "Haruna Nishimori's episode will be added to City Life in a future update.",
     "option1": "AAAAAA==",
     "showName": "AAAAAA==",
     "option2": "AAAAAA=="
@@ -27161,7 +27168,7 @@
   },
   {
     "sn": "1211031",
-    "strContent": "That was careless. Let's wrap this up, quickly.",
+    "strContent": "That was careless of them.\nLet's wrap this up, quickly.",
     "option1": "AAAAAA==",
     "showName": "AAAAAA==",
     "option2": "AAAAAA=="
@@ -27343,14 +27350,14 @@
   },
   {
     "sn": "1211171",
-    "strContent": "And now for a critical hit!",
+    "strContent": "A decisive strike!",
     "option1": "AAAAAA==",
     "showName": "AAAAAA==",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1211181",
-    "strContent": "They caught on!?",
+    "strContent": "They saw through us!?",
     "option1": "AAAAAA==",
     "showName": "AAAAAA==",
     "option2": "AAAAAA=="
@@ -27413,7 +27420,7 @@
   },
   {
     "sn": "1211241",
-    "strContent": "Spiritual effects... Stay focused.",
+    "strContent": "Spiritual afflictions... Stay focused.",
     "option1": "AAAAAA==",
     "showName": "AAAAAA==",
     "option2": "AAAAAA=="
@@ -30471,6 +30478,13 @@
     "option2": "AAAAAA=="
   },
   {
+    "sn": "1206059",
+    "strContent": "You unlocked the City Life activity\n<color=#ffc000>Work at Heritage Kitchen</color>.\nThere is a chance for it to appear each day.",
+    "option1": "AAAAAA==",
+    "showName": "AAAAAA==",
+    "option2": "AAAAAA=="
+  },
+  {
     "sn": "1209458",
     "strContent": "You've obtained the grand prize, but can still win other items. Do you want to spin this raffle?",
     "option1": "AAAAAA==",
@@ -30528,7 +30542,7 @@
   },
   {
     "sn": "1132105",
-    "strContent": "I'm kind of nervous all of a sudden... No, you've got this, Miyu!",
+    "strContent": "I'm kind of nervous all of a sudden... No, I've got this!",
     "option1": "AAAAAA==",
     "showName": "Miyu Sahara",
     "option2": "AAAAAA=="
@@ -32459,8 +32473,36 @@
     "option2": "AAAAAA=="
   },
   {
+    "sn": "1310001",
+    "strContent": "Camera access is required to scan the QR code.\nPlease enable the camera through your settings.",
+    "option1": "Confirm",
+    "showName": "AAAAAA==",
+    "option2": "Cancel"
+  },
+  {
+    "sn": "1310002",
+    "strContent": "Storage access is required to save images.\nPlease enable storage through your settings.",
+    "option1": "Confirm",
+    "showName": "AAAAAA==",
+    "option2": "Cancel"
+  },
+  {
+    "sn": "1310003",
+    "strContent": "Clipboard access is required to copy codes and/or IDs.\nClipboard content will not be sent to the server.",
+    "option1": "Confirm",
+    "showName": "AAAAAA==",
+    "option2": "Cancel"
+  },
+  {
+    "sn": "1310004",
+    "strContent": "Notification access is required to receive notices and/or reminders.\nPlease enable notifications through your settings.",
+    "option1": "Confirm",
+    "showName": "AAAAAA==",
+    "option2": "Cancel"
+  },
+  {
     "sn": "1303004",
-    "strContent": "%s has not been unlocked yet.",
+    "strContent": "%s has not been unlocked.",
     "option1": "AAAAAA==",
     "showName": "AAAAAA==",
     "option2": "AAAAAA=="

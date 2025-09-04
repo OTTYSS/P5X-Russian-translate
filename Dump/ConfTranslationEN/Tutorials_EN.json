@@ -842,12 +842,22 @@
   {
     "sn": "51001",
     "title": "Mindscape",
-    "text": "Here you can increase your Phantom Thieves' stats and your Personas' abilities."
+    "text": "Can enhance Phantom Thief stats and Persona abilities"
   },
   {
     "sn": "51002",
     "title": "Mindscape",
-    "text": "You can use items such as Stardust Shards to unlock abilities."
+    "text": "Can unlock abilities using Stardust Shards and other items."
+  },
+  {
+    "sn": "51101",
+    "title": "Super Level",
+    "text": "When you reach Lv. 80, experience points will increase your super level."
+  },
+  {
+    "sn": "51102",
+    "title": "Super Level",
+    "text": "You can obtain <color=#FF423F>super schema points</color> when you raise your super level. These allow you to strengthen your schema skills."
   },
   {
     "sn": "55101",
@@ -986,12 +996,12 @@
   },
   {
     "sn": "60501",
-    "title": "Nightmare's Gateway",
+    "title": "Gates of the Nightmare Catcher",
     "text": "<color=#FF423F>Gates of the Nightmare Catcher</color> is a challenge that Companio members can undertake together.\nEvery Wednesday at 8 PM UTC, new bosses will appear for the Phantom Thieves to face.\nDuring the challenge, your Phantom Thieves, Personas, and equipment will be <color=#FF423F>locked</color>.\nIf you want to make any changes to your party, you will need to <color=#FF423F>reset the challenge</color>."
   },
   {
     "sn": "60502",
-    "title": "Nightmare's Gateway",
+    "title": "Gates of the Nightmare Catcher",
     "text": "When your individual <color=#FF423F>Extermination Points</color> reach a certain rank, you can earn <color=#FF423F>stage rewards</color>.\nWhen your Companio members take on the challenge, your Companio will increase their Participation level."
   },
   {
@@ -1006,23 +1016,23 @@
   },
   {
     "sn": "61201",
-    "title": "Tasks",
-    "text": "You can obtain rewards when you <color=#FF423F>dispatch phantom thieves</color> based on the conditions for the <color=#FF423F>task</color>.\nMeeting <color=#FF423F>bonus</color> conditions will grant additional rewards."
+    "title": "Task",
+    "text": "Tasks have been unlocked.\nYou can obtain rewards when you <color=#FF423F>dispatch phantom thieves</color> based on the conditions for the <color=#FF423F>task</color> given to you by Marthym.\nMeeting <color=#FF423F>bonus</color> conditions will grant additional rewards."
   },
   {
     "sn": "61202",
-    "title": "Types of Tasks",
-    "text": "<color=#FF423F>Limited</color>: Appears when certain conditions are met.\n<color=#FF423F>Weekly</color>/<color=#FF423F>Daily</color>: Refreshes only once within the period.\n<color=#FF423F>Regular</color>: Refreshes automatically upon completion."
+    "title": "Type",
+    "text": "<color=#FF423F>Regular</color>: These tasks are refreshed automatically upon completion.\n<color=#FF423F>Daily</color>, <color=#FF423F>Weekly</color>: These tasks can be refreshed once within their respective periods.\n<color=#FF423F>Limited</color>: These tasks only appear when certain conditions are met."
   },
   {
     "sn": "61203",
-    "title": "Refreshing Tasks",
-    "text": "You can refresh unaccepted <color=#FF423F>regular</color> tasks all at once.\nYour <color=#FF423F>first refresh each day will be free</color>, but each subsequent refresh requires a Task Refresh Ticket."
+    "title": "Refresh",
+    "text": "You can use Task Refresh Tickets to reroll your unclaimed, non-limited tasks.\n<color=#FF423F>The first reroll each day is free</color>.\n<color=#FF423F>Limited</color> tasks cannot be rerolled."
   },
   {
     "sn": "61204",
     "title": "Task Level",
-    "text": "You can complete tasks to accumulate task experience points.\nWhen your task level increases, the number of tasks you can <color=#FF423F>accept at the same time</color> will also increase, as will the number of regular tasks <color=#FF423F>that appear at one time</color>."
+    "text": "You can complete tasks to accumulate task experience points, allowing you to increase your Task Level.\nWhen your level increases, the number of tasks you can claim also increases, as well as the amount of regular tasks that appear at once."
   },
   {
     "sn": "61301",
@@ -1141,17 +1151,17 @@
   },
   {
     "sn": "27001",
-    "title": "Energy Transfer Device",
-    "text": "Many devices in the Palace require <color=#FF423F>energy</color> to operate.\nBy using the <color=#FF423F>Energy Transfer Device</color>, energy can be transferred between different locations."
+    "title": "Energy Transposers",
+    "text": "Many devices in the Palace require <color=#FF423F>energy</color> to operate.\nBy using an <color=#FF423F>energy transposer</color>, energy can be transferred between different locations."
   },
   {
     "sn": "27101",
-    "title": "Operating the Energy Transfer Device",
+    "title": "Operating the Energy Transposers",
     "text": "Aim the <color=#FF423F>sights</color> toward an object that can have energy absorbed, then press and hold the <color=#FF423F>Absorb</color> button to transfer."
   },
   {
     "sn": "27102",
-    "title": "Operating the Energy Transfer Device",
+    "title": "Operating the Energy Transposers",
     "text": "Similarly, you can move the <color=#FF423F>sights</color> to an object that can receive energy, then press and hold the <color=#FF423F>Emit</color> button to transfer energy into that object."
   },
   {
@@ -1161,27 +1171,27 @@
   },
   {
     "sn": "27301",
-    "title": "Thermal Energy and Energy Transmission",
+    "title": "Thermal Energy and Energy Transposers",
     "text": "The <color=#FF423F>thermal energy</color> constantly generated by the reservoir tank creates high-temperature steam that blocks the way ahead.\nTry <color=#FF423F>transferring</color> the thermal energy to a different tank."
   },
   {
     "sn": "27302",
-    "title": "Thermal Energy and Energy Transmission",
-    "text": "Using the new <color=#FF423F>Energy Transmission Device</color> allows you to <color=#FF423F>continuously</color> transmit energy from one object to another."
+    "title": "Thermal Energy and Energy Transposers",
+    "text": "You can use the new <color=#FF423F>energy transposer</color> to <color=#FF423F>continuously</color> transmit energy from one object to another."
   },
   {
     "sn": "27303",
-    "title": "Thermal Energy and Energy Transmission",
+    "title": "Thermal Energy and Energy Transposers",
     "text": "Using the sights on one side of the device, select an object to <color=#FF423F>drain energy</color> from."
   },
   {
     "sn": "27304",
-    "title": "Thermal Energy and Energy Transmission",
+    "title": "Thermal Energy and Energy Transposers",
     "text": "Using the sights on the opposite side of the device, select an object to <color=#FF423F>transmit energy</color> to."
   },
   {
     "sn": "27305",
-    "title": "Thermal Energy and Energy Transmission",
+    "title": "Thermal Energy and Energy Transposers",
     "text": "After you select an object that can <color=#FF423F>be drained of energy</color> and another that can <color=#FF423F>receive energy</color>, energy will be <color=#FF423F>continuously transmitted</color> between them.\nIf the aiming sights are moved away from one object, the transmission will be interrupted."
   },
   {
@@ -1191,7 +1201,7 @@
   },
   {
     "sn": "27501",
-    "title": "Energy Absorption 1",
+    "title": "Energy Absorbers 1",
     "text": "There are <color=#FF423F>energy-draining devices</color> throughout the Palace which control doors and other mechanisms.\nTo unlock them, you must bring a robot with the corresponding type of energy nearby to interact with the device."
   },
   {
@@ -1217,22 +1227,22 @@
   {
     "sn": "27801",
     "title": "Using Robots' Energy",
-    "text": "You can also absorb robots' energy with the\nEnergy Transfer Device and use it to power\ncorresponding devices."
+    "text": "You can also absorb robots' energy with the\nenergy transposer and use it to power\ncorresponding devices."
   },
   {
     "sn": "27901",
     "title": "Transferring Energy",
-    "text": "You can connect a robot carrying energy to an <color=#FF423F>Energy Transfer Device</color> by moving it near the device.\nSelect <color=#FF423F>Store Energy</color> to store the energy in the device."
+    "text": "You can connect a robot carrying energy to an <color=#FF423F>Energy Transposer</color> by moving it near the device.\nSelect <color=#FF423F>Store Energy</color> to store the energy in the device."
   },
   {
     "sn": "27902",
     "title": "Transferring Energy",
-    "text": "By transmitting energy through the <color=#FF423F>Energy Conduction Pole</color>, you can connect to another Energy Transfer Device."
+    "text": "By transmitting energy through the <color=#FF423F>energy conduction pole</color>, you can connect to another energy transposer."
   },
   {
     "sn": "27903",
     "title": "Transferring Energy",
-    "text": "You can connect a robot with no energy to an <color=#FF423F>Energy Transfer Device</color> to receive energy.\nIf both of them have energy, an <color=#FF423F>Energy Exchange</color> will occur."
+    "text": "You can connect a robot with no energy to an <color=#FF423F>Energy Transposer</color> to receive energy.\nIf both of them have energy, an <color=#FF423F>Energy Exchange</color> will occur."
   },
   {
     "sn": "28001",
@@ -1247,11 +1257,11 @@
   {
     "sn": "28102",
     "title": "Energy Conduction Pole",
-    "text": "An <color=#FF423F>error</color> will occur if the Energy Collection Device's <color=#FF423F>emission ends are facing each other</color>, or if <color=#FF423F>two energy lines are entered</color>.\nFix the rotation to correct it."
+    "text": "An <color=#FF423F>error</color> will occur if the Energy Collector's <color=#FF423F>emission ends are facing each other</color>, or if <color=#FF423F>two energy lines are entered</color>.\nFix the rotation to correct it."
   },
   {
     "sn": "28201",
-    "title": "Energy Absorption 2",
+    "title": "Energy Absorbers 2",
     "text": "Some doors in the Palace are operated with a different kind of <color=#FF423F>Energy Absorption Device</color>. You will need to provide the correct type of energy to open the door."
   },
   {
@@ -1302,7 +1312,7 @@
   {
     "sn": "28801",
     "title": "Mind Control",
-    "text": "Using the Mind Control Device, you can alter the thoughts of the Dam control center workers."
+    "text": "Using the Mind Controller, you can alter the thoughts of the Dam control center workers."
   },
   {
     "sn": "28802",
@@ -1316,7 +1326,7 @@
   },
   {
     "sn": "29001",
-    "title": "Mental Interference Device",
+    "title": "Mental Interferers",
     "text": "The lamp emits a psychic pulse affecting the minds of those within its radius."
   },
   {
@@ -1326,7 +1336,7 @@
   },
   {
     "sn": "29002",
-    "title": "Mental Interference Device",
+    "title": "Mental Interferers",
     "text": "When affected by Mental Interference, there may be strange effects on your vision. Be careful."
   },
   {

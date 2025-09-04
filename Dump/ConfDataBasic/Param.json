@@ -1,125 +1,5 @@
 [
   {
-    "sn": "CHAT_JOIN_WORLD_LEVEL",
-    "value": "1"
-  },
-  {
-    "sn": "CHAT_MSG_MAX",
-    "value": "50"
-  },
-  {
-    "sn": "CHAT_MSG_ITEM_MAX",
-    "value": "3"
-  },
-  {
-    "sn": "CHAT_ITEM_MSG_MAX",
-    "value": "1000"
-  },
-  {
-    "sn": "CHAT_ITEM_PATTERN",
-    "value": "#\\{[^#]+?{}[^\\}]*?\\}"
-  },
-  {
-    "sn": "CHAT_BLANK_CONDITION",
-    "value": "10"
-  },
-  {
-    "sn": "CHAT_BLANK_BYTE",
-    "value": "\u3000\u3000\u3000\u3000"
-  },
-  {
-    "sn": "CHAT_ICON_WORLD",
-    "value": "SNSpindao-shijie.png"
-  },
-  {
-    "sn": "CHAT_ICON_UNION",
-    "value": "SNSpindao-lianmeng.png"
-  },
-  {
-    "sn": "CHAT_HYPERLINK_1",
-    "value": "<btntype=itemClick&sn=<{}>grade=<{}>itemClick>"
-  },
-  {
-    "sn": "CHAT_HYPERLINK_2",
-    "value": "<btntype=roleClick&name=<{}>id=<{}>roleClick>"
-  },
-  {
-    "sn": "CHAT_VOICE_CONTENT_LEN",
-    "value": "200"
-  },
-  {
-    "sn": "CHAT_OFFLINE_MSG_CLEAR_DAY",
-    "value": "7"
-  },
-  {
-    "sn": "CHAT_ROOM_FULL_PARAM",
-    "value": "0.9"
-  },
-  {
-    "sn": "CHAT_ROOM_FULL_NUMBER",
-    "value": "500"
-  },
-  {
-    "sn": "CHAT_ROOM_NUM",
-    "value": "999"
-  },
-  {
-    "sn": "CHAT_ROOM_ACTIVE_TIME",
-    "value": "5"
-  },
-  {
-    "sn": "CHAT_INTERVAL_TIME",
-    "value": "30"
-  },
-  {
-    "sn": "CHAT_ORGANIZATION_CHANNEL_CACHE",
-    "value": "300"
-  },
-  {
-    "sn": "CHAT_PRIVATE_CHANNEL_CHCHE",
-    "value": "3000"
-  },
-  {
-    "sn": "CHAT_NO_MESSAGE",
-    "value": "暂无消息"
-  },
-  {
-    "sn": "CHAT_CHANNEL_NAME_WORLD",
-    "value": "世界"
-  },
-  {
-    "sn": "CHAT_CHANNEL_NAME_UNION",
-    "value": "联盟"
-  },
-  {
-    "sn": "CHAT_PREVIEW_MAX_CHARACTER_NUM",
-    "value": "17"
-  },
-  {
-    "sn": "CHAT_COOP_MAX_HISTORY_NUM",
-    "value": "20"
-  },
-  {
-    "sn": "CHAT_SNS_RECEIVE_SOUNDKEY",
-    "value": "UI0164"
-  },
-  {
-    "sn": "CHAT_HIDE_SNS_SHOW_MAIL",
-    "value": "601,602"
-  },
-  {
-    "sn": "CHAT_INFO_DELAY_TIME",
-    "value": "1"
-  },
-  {
-    "sn": "CHAT_SHOW_LEVEL_PLV",
-    "value": "50"
-  },
-  {
-    "sn": "CHAT_SIGN_GAMEPAD_SPEED",
-    "value": "8"
-  },
-  {
     "sn": "OPEN_WORLD_SCENE_TYPES",
     "value": "90,101,102,901,702,3,103"
   },
@@ -254,6 +134,806 @@
   {
     "sn": "MUSIC_PLAYER_SCENE_BLACK_LIST",
     "value": "12,21"
+  },
+  {
+    "sn": "CHAT_JOIN_WORLD_LEVEL",
+    "value": "1"
+  },
+  {
+    "sn": "CHAT_MSG_MAX",
+    "value": "50"
+  },
+  {
+    "sn": "CHAT_MSG_ITEM_MAX",
+    "value": "3"
+  },
+  {
+    "sn": "CHAT_ITEM_MSG_MAX",
+    "value": "1000"
+  },
+  {
+    "sn": "CHAT_ITEM_PATTERN",
+    "value": "#\\{[^#]+?{}[^\\}]*?\\}"
+  },
+  {
+    "sn": "CHAT_BLANK_CONDITION",
+    "value": "10"
+  },
+  {
+    "sn": "CHAT_BLANK_BYTE",
+    "value": "\u3000\u3000\u3000\u3000"
+  },
+  {
+    "sn": "CHAT_ICON_WORLD",
+    "value": "SNSpindao-shijie.png"
+  },
+  {
+    "sn": "CHAT_ICON_UNION",
+    "value": "SNSpindao-lianmeng.png"
+  },
+  {
+    "sn": "CHAT_HYPERLINK_1",
+    "value": "<btntype=itemClick&sn=<{}>grade=<{}>itemClick>"
+  },
+  {
+    "sn": "CHAT_HYPERLINK_2",
+    "value": "<btntype=roleClick&name=<{}>id=<{}>roleClick>"
+  },
+  {
+    "sn": "CHAT_VOICE_CONTENT_LEN",
+    "value": "200"
+  },
+  {
+    "sn": "CHAT_OFFLINE_MSG_CLEAR_DAY",
+    "value": "7"
+  },
+  {
+    "sn": "CHAT_ROOM_FULL_PARAM",
+    "value": "0.9"
+  },
+  {
+    "sn": "CHAT_ROOM_FULL_NUMBER",
+    "value": "500"
+  },
+  {
+    "sn": "CHAT_ROOM_NUM",
+    "value": "999"
+  },
+  {
+    "sn": "CHAT_ROOM_ACTIVE_TIME",
+    "value": "5"
+  },
+  {
+    "sn": "CHAT_INTERVAL_TIME",
+    "value": "30"
+  },
+  {
+    "sn": "CHAT_ORGANIZATION_CHANNEL_CACHE",
+    "value": "300"
+  },
+  {
+    "sn": "CHAT_PRIVATE_CHANNEL_CHCHE",
+    "value": "3000"
+  },
+  {
+    "sn": "CHAT_NO_MESSAGE",
+    "value": "暂无消息"
+  },
+  {
+    "sn": "CHAT_CHANNEL_NAME_WORLD",
+    "value": "世界"
+  },
+  {
+    "sn": "CHAT_CHANNEL_NAME_UNION",
+    "value": "联盟"
+  },
+  {
+    "sn": "CHAT_PREVIEW_MAX_CHARACTER_NUM",
+    "value": "17"
+  },
+  {
+    "sn": "CHAT_COOP_MAX_HISTORY_NUM",
+    "value": "20"
+  },
+  {
+    "sn": "CHAT_SNS_RECEIVE_SOUNDKEY",
+    "value": "UI0164"
+  },
+  {
+    "sn": "CHAT_HIDE_SNS_SHOW_MAIL",
+    "value": "601,602"
+  },
+  {
+    "sn": "CHAT_INFO_DELAY_TIME",
+    "value": "1"
+  },
+  {
+    "sn": "CHAT_SHOW_LEVEL_PLV",
+    "value": "50"
+  },
+  {
+    "sn": "CHAT_SIGN_GAMEPAD_SPEED",
+    "value": "8"
+  },
+  {
+    "sn": "MAP_DEFAULT_SCALE",
+    "value": "1"
+  },
+  {
+    "sn": "MAP_OUTER_SIZE_RATIO_CITY",
+    "value": "1.1"
+  },
+  {
+    "sn": "MAP_OUTER_SIZE_RATIO",
+    "value": "1.3"
+  },
+  {
+    "sn": "MAP_FEET_DISTANCE",
+    "value": "6"
+  },
+  {
+    "sn": "MAP_FEET_HIDE_TIME",
+    "value": "2"
+  },
+  {
+    "sn": "MAP_TASK_ICON_RES",
+    "value": "renwu-ditu-tanhao.png"
+  },
+  {
+    "sn": "MAP_PALACE_AREA_TRANSPOINT_CHANGETIME",
+    "value": "0.2"
+  },
+  {
+    "sn": "MAP_PALACE_AREA_CHOOSE_RATE",
+    "value": "0.33"
+  },
+  {
+    "sn": "MAP_PALACE_WORLD_CHANGETIME",
+    "value": "0.2"
+  },
+  {
+    "sn": "MAP_PALACE_WORLD_POS",
+    "value": "1,0.9,0.8,0.7,0.6,0.6,0.4,0.2"
+  },
+  {
+    "sn": "MAP_PALACE_WORLD_SCALE_FREEZE",
+    "value": "TRUE"
+  },
+  {
+    "sn": "MAP_PALACE_WORLD_WHEEL_SCALE_TIME",
+    "value": "0.2"
+  },
+  {
+    "sn": "MAP_PALACE_WORLD_SPECIALITEM_ICON",
+    "value": "yishijie-icon-xingxing-new.png"
+  },
+  {
+    "sn": "MAP_PALACE_WORLD_SHOW_OBJECTICON_DISTANCE",
+    "value": "100"
+  },
+  {
+    "sn": "MAP_IMPRESSION_ROLL_PIECE_ICON",
+    "value": "renwu-qipaodi-tanhao.png"
+  },
+  {
+    "sn": "MAP_IMPRESSION_GATE_ICON_PARAM",
+    "value": "0.2,0.2"
+  },
+  {
+    "sn": "MAP_BOARD_PIC",
+    "value": "ditu-new-lubiao.png"
+  },
+  {
+    "sn": "PALACE_OBJECT_SHOW_DISTANCE",
+    "value": "80"
+  },
+  {
+    "sn": "PALACE_OBJECT_SHOW_DISTANCE_10",
+    "value": "-1"
+  },
+  {
+    "sn": "PALACE_OBJECT_SHOW_DISTANCE_11",
+    "value": "-1"
+  },
+  {
+    "sn": "PALACE_OBJECT_SHOW_DISTANCE_12",
+    "value": "-1"
+  },
+  {
+    "sn": "PALACE_WORLD_OBJECT_SHOW_DISTANCE",
+    "value": "150"
+  },
+  {
+    "sn": "PALACE_WORLD_OBJECT_SHOW_DISTANCE_1",
+    "value": "-1"
+  },
+  {
+    "sn": "PALACE_WORLD_OBJECT_SHOW_DISTANCE_2",
+    "value": "-1"
+  },
+  {
+    "sn": "PALACE_WORLD_OBJECT_SHOW_DISTANCE_4",
+    "value": "150"
+  },
+  {
+    "sn": "PALACE_WORLD_OBJECT_SHOW_DISTANCE_6",
+    "value": "-1"
+  },
+  {
+    "sn": "PALACE_WORLD_OBJECT_SHOW_DISTANCE_10",
+    "value": "-1"
+  },
+  {
+    "sn": "PALACE_WORLD_OBJECT_SHOW_DISTANCE_11",
+    "value": "-1"
+  },
+  {
+    "sn": "PALACE_WORLD_OBJECT_SHOW_DISTANCE_12",
+    "value": "-1"
+  },
+  {
+    "sn": "PALACE_WORLD_NPC_SHOW_DISTANCE",
+    "value": "69"
+  },
+  {
+    "sn": "PALACE_WORLD_CORE_ITEMSN",
+    "value": "30"
+  },
+  {
+    "sn": "PALACE_WORLD_MAP_LOCK_FIXICON_COLOR",
+    "value": "#484848"
+  },
+  {
+    "sn": "PALACE_WORLD_MAP_LOCK_FOG_COLOR",
+    "value": "#670002"
+  },
+  {
+    "sn": "PALACE_WORLD_MAP_BLOCK_TRANSPARENT_GRAY_COLOR",
+    "value": "#48484848"
+  },
+  {
+    "sn": "PALACE_MAP_MESSAGE_DALYCHALLENGE_COST_ICON",
+    "value": "item-huobi-7.png"
+  },
+  {
+    "sn": "OWDAILYACTION_MAP_ZOOM_RATE",
+    "value": "0.7"
+  },
+  {
+    "sn": "OWDAILYACTION_MAP_ZOOM_RANGE",
+    "value": "0.4,1"
+  },
+  {
+    "sn": "OWDAILYACTION_MAP_OUTER_SIZE_RATIO",
+    "value": "1.1"
+  },
+  {
+    "sn": "OWDAILYACTION_MAP_UNLOCKANIMATION_RATE_INIT",
+    "value": "0.6"
+  },
+  {
+    "sn": "OWDAILYACTION_MAP_UNLOCKANIMATION_RATE",
+    "value": "1"
+  },
+  {
+    "sn": "OWDAILYACTION_MAP_UNLOCKANIMATION_CHANGE_SPEED",
+    "value": "0.6"
+  },
+  {
+    "sn": "OWDAILYACTION_MAP_UNLOCKANIMATION_LINE_WAIT",
+    "value": "0.5"
+  },
+  {
+    "sn": "OWDAILYACTION_MAP_UNLOCKANIMATION_ANIM_WAIT",
+    "value": "0.5"
+  },
+  {
+    "sn": "OWDAILYACTION_MAP_AREA_RATE",
+    "value": "1"
+  },
+  {
+    "sn": "OWDAILYACTION_MAP_CHOOSE_RATE",
+    "value": "1"
+  },
+  {
+    "sn": "OWDAILYACTION_MAP_ICON_RATE",
+    "value": "1"
+  },
+  {
+    "sn": "OWDAILYACTION_MAP_AREA_TRANSPOINT_CHANGETIME",
+    "value": "0.2"
+  },
+  {
+    "sn": "OWDAILYACTION_MAP_ICON_ALPHA",
+    "value": "1"
+  },
+  {
+    "sn": "OWDAILYACTION_MAP_ICON_DEFAULT_COLOR",
+    "value": "FFE80B"
+  },
+  {
+    "sn": "PWMAP_LIST_DEFAULT_HEIGHT_DAILY",
+    "value": "230"
+  },
+  {
+    "sn": "PWMAP_LIST_DEFAULT_HEIGHT_PALACE",
+    "value": "70"
+  },
+  {
+    "sn": "PWMAP_LIST_DEFAULT_HEIGHT_SAFEROOM",
+    "value": "70"
+  },
+  {
+    "sn": "PWMAP_LIST_DEFAULT_HEIGHT_VT",
+    "value": "70"
+  },
+  {
+    "sn": "QUEST_ONMAP_SCALE",
+    "value": "0.55"
+  },
+  {
+    "sn": "PALACE_WORLD_DEAD_MARK_ICON",
+    "value": "yishijie-icon-siwang-new.png"
+  },
+  {
+    "sn": "PALACE_WORLD_DEAD_MARK_DISAPPEAR_DISTANCE",
+    "value": "10"
+  },
+  {
+    "sn": "MAP_AREA_PIC_STANDARD",
+    "value": "95"
+  },
+  {
+    "sn": "UNLOAD_ROLLMAP_PIECE_TIME",
+    "value": "3,2.5,2"
+  },
+  {
+    "sn": "MONOPOLY_FIRST_CARD_SN",
+    "value": "303"
+  },
+  {
+    "sn": "MONOPOLY_SPADE_3_CARD_SN",
+    "value": "103"
+  },
+  {
+    "sn": "MONOPOLY_TEST_MATCH_TIME",
+    "value": "15"
+  },
+  {
+    "sn": "MONOPOLY_JOKER_VALUE",
+    "value": "16"
+  },
+  {
+    "sn": "MONOPOLY_WONDER_VALUE",
+    "value": "17"
+  },
+  {
+    "sn": "MONOPOLY_8_STOP_VALUE",
+    "value": "8"
+  },
+  {
+    "sn": "MONOPOLY_START_TIME",
+    "value": "3.5"
+  },
+  {
+    "sn": "MONOPOLY_RESULT_TIME",
+    "value": "8"
+  },
+  {
+    "sn": "MONOPOLY_MATCH_WAIT_MAX_TIME",
+    "value": "30"
+  },
+  {
+    "sn": "MONOPOLY_WARN_CARD_NUM",
+    "value": "3"
+  },
+  {
+    "sn": "MONOPOLY_FLY_CARD_INTERVAL",
+    "value": "0.03"
+  },
+  {
+    "sn": "MONOPOLY_RESULT_TIME_1",
+    "value": "2"
+  },
+  {
+    "sn": "MONOPOLY_RESULT_TIME_2",
+    "value": "1.5"
+  },
+  {
+    "sn": "MONOPOLY_RESULT_TIME_3",
+    "value": "0.2"
+  },
+  {
+    "sn": "MONOPOLY_RESULT_TIME_4",
+    "value": "1"
+  },
+  {
+    "sn": "MONOPOLY_RESULT_TIME_5",
+    "value": "0.05"
+  },
+  {
+    "sn": "MONOPOLY_AUTO_MODE_JUDGE_NUM",
+    "value": "2"
+  },
+  {
+    "sn": "MONOPOLY_SCORE_P1",
+    "value": "10"
+  },
+  {
+    "sn": "MONOPOLY_SCORE_P2",
+    "value": "5"
+  },
+  {
+    "sn": "MONOPOLY_SCORE_P3",
+    "value": "2"
+  },
+  {
+    "sn": "MONOPOLY_SCORE_RESHUFFLE_MAX",
+    "value": "20"
+  },
+  {
+    "sn": "MONOPOLY_SCORE_CARD_SHAPE_TOTAL_MIN",
+    "value": "6"
+  },
+  {
+    "sn": "MONOPOLY_SCORE_TOTAL_DIFF_MAX",
+    "value": "2.5"
+  },
+  {
+    "sn": "MONOPOLY_EYE_TIME_MIN",
+    "value": "10"
+  },
+  {
+    "sn": "MONOPOLY_EYE_TIME_MAX",
+    "value": "15"
+  },
+  {
+    "sn": "MONOPOLY_DEFAULT_THIEF",
+    "value": "1"
+  },
+  {
+    "sn": "MONOPOLY_CARD_RECORDER_COLOR",
+    "value": "#f0cfb7,#d17e3d,#d57937,#d77733,#dd181d"
+  },
+  {
+    "sn": "MONOPOLY_ABILITY_1",
+    "value": "16,1"
+  },
+  {
+    "sn": "MONOPOLY_ABILITY_2",
+    "value": "16,13"
+  },
+  {
+    "sn": "MONOPOLY_RANK_LIST_SIZE",
+    "value": "1000"
+  },
+  {
+    "sn": "MONOPOLY_RANK_LIST_PAGE_SIZE",
+    "value": "100"
+  },
+  {
+    "sn": "MONOPOLY_POINT_WEEK_MAX",
+    "value": "1000"
+  },
+  {
+    "sn": "MONOPOLY_READY_TIMEOUT",
+    "value": "30"
+  },
+  {
+    "sn": "MONOPOLY_LOADING_ICON_1",
+    "value": "CardGame-loading-bg1.png,CardGame-loading-bg2.png,CardGame-loading-bg3.png,CardGame-loading-bg4.png,CardGame-loading-bg5.png,CardGame-loading-bg6.png,CardGame-loading-bg7.png,CardGame-loading-bg8.png"
+  },
+  {
+    "sn": "MONOPOLY_SEASON_SHOW_NUM",
+    "value": "9"
+  },
+  {
+    "sn": "MONOPOLY_SPEED_UP",
+    "value": "2"
+  },
+  {
+    "sn": "MONOPOLY_RANK_LEGEND_STAR_MAX",
+    "value": "100000"
+  },
+  {
+    "sn": "MONOPOLY_RANK_LEGEND_STAR_MIN",
+    "value": "-200"
+  },
+  {
+    "sn": "MONOPOLY_ACTIVITY_TYPE",
+    "value": "62"
+  },
+  {
+    "sn": "MONOPOLY_GUIDES",
+    "value": "901,902,903,904,905,906,907,908,909,910,911"
+  },
+  {
+    "sn": "MONOPOLY_LEGEND_RANK",
+    "value": "15"
+  },
+  {
+    "sn": "MONOPOLY_MY_AUTO_AI",
+    "value": "104"
+  },
+  {
+    "sn": "MONOPOLY_PVE_DELAY_TIME",
+    "value": "0.2"
+  },
+  {
+    "sn": "MONOPOLY_WELFARE_TIME_1",
+    "value": "1"
+  },
+  {
+    "sn": "MONOPOLY_WELFARE_TIME_2",
+    "value": "3"
+  },
+  {
+    "sn": "MONOPOLY_RANK_LIST_GRADES",
+    "value": "CardGame-rank1-i18n.png,CardGame-rank2-i18n.png,CardGame-rank3-i18n.png"
+  },
+  {
+    "sn": "MONOPOLY_RULE_VIDEO",
+    "value": "Activity_richman.usm"
+  },
+  {
+    "sn": "MONOPOLY_READY_NAME_1",
+    "value": "0,1"
+  },
+  {
+    "sn": "MONOPOLY_READY_NAME_2",
+    "value": "0,1"
+  },
+  {
+    "sn": "MONOPOLY_READY_NAME_3",
+    "value": "20,1"
+  },
+  {
+    "sn": "MONOPOLY_READY_NAME_4",
+    "value": "0,0.8"
+  },
+  {
+    "sn": "MONOPOLY_CHAT_BUBBLE_CD",
+    "value": "2.1"
+  },
+  {
+    "sn": "MONOPOLY_BUBBLE_SHOW_TIME",
+    "value": "2"
+  },
+  {
+    "sn": "FIRST_QUEST",
+    "value": "10000"
+  },
+  {
+    "sn": "QUEST_FOR_CHANGENAME",
+    "value": "10002"
+  },
+  {
+    "sn": "FIND_TARGET_ANGLE_HORIZONTAL",
+    "value": "360"
+  },
+  {
+    "sn": "QUEST_ACCEPT_ICON",
+    "value": "common-renwu-wenhao.png"
+  },
+  {
+    "sn": "QUEST_NAVIGATE_ICON",
+    "value": "common-renwu-tanhao.png"
+  },
+  {
+    "sn": "QUEST_FINISH_ICON",
+    "value": "common-renwu-tanhao.png"
+  },
+  {
+    "sn": "QUEST_ACCEPT_ICON_PALACE",
+    "value": "common-renwu-wenhaobai.png"
+  },
+  {
+    "sn": "QUEST_NAVIGATE_ICON_PALACE",
+    "value": "common-renwu-tanhao-bai.png"
+  },
+  {
+    "sn": "QUEST_FINISH_ICON_PALACE",
+    "value": "common-renwu-tanhao-bai.png"
+  },
+  {
+    "sn": "QUEST_ONMAP_SHOWDISTANCE",
+    "value": "30"
+  },
+  {
+    "sn": "QUEST_HOVERING_TIME",
+    "value": "5"
+  },
+  {
+    "sn": "TASK_NEW_ICON_SHOW_TIME",
+    "value": "3"
+  },
+  {
+    "sn": "QUEST_ACCEPT_TIP_TIME",
+    "value": "3"
+  },
+  {
+    "sn": "FIND_TARGET_ANGLE",
+    "value": "30"
+  },
+  {
+    "sn": "FIND_TARGET_INDICATION_RANGE",
+    "value": "400,400"
+  },
+  {
+    "sn": "FIND_PALACE_TARGET_INDICATION_RANGE",
+    "value": "0.4,0.95"
+  },
+  {
+    "sn": "FIND_TARGET_HEIGHT",
+    "value": "0.45"
+  },
+  {
+    "sn": "FIND_TARGET_DISTANCE",
+    "value": "3"
+  },
+  {
+    "sn": "GUIDE_PAUSE_LONGEST_TIME",
+    "value": "600"
+  },
+  {
+    "sn": "FIND_TARGET_DISTANCE_ARROW",
+    "value": "10,45;5,60;2,360"
+  },
+  {
+    "sn": "FIND_TARGET_HIDE",
+    "value": "2"
+  },
+  {
+    "sn": "FIND_TARGET_NPC_HEIGHT",
+    "value": "0.01"
+  },
+  {
+    "sn": "FIND_TARGET_DISTANCE_HIDE",
+    "value": "1.5"
+  },
+  {
+    "sn": "FIND_TARGET_DISTANCE_DISPLAY",
+    "value": "3"
+  },
+  {
+    "sn": "FIND_TARGET_DISTANCE_HIDE_CAR",
+    "value": "5"
+  },
+  {
+    "sn": "FIND_TARGET_DISTANCE_DISPLAY_CAR",
+    "value": "9"
+  },
+  {
+    "sn": "FIND_TARGET_DISTANCE_HIDE_ROBOT",
+    "value": "6"
+  },
+  {
+    "sn": "FIND_TARGET_DISTANCE_DISPLAY_ROBOT",
+    "value": "10"
+  },
+  {
+    "sn": "FIND_TARGET_DISTANCE_HIDE_ARROW",
+    "value": "6,180;3,180;2,360"
+  },
+  {
+    "sn": "QUEST_TAP_ALL",
+    "value": "1,2,3,4,5,10"
+  },
+  {
+    "sn": "QUEST_SHOW_ON_TOP",
+    "value": "1,2,3,4,5,10"
+  },
+  {
+    "sn": "QUEST_TRACK_ALL",
+    "value": "1,2,3,4,5,10,1000"
+  },
+  {
+    "sn": "REALTIME_TRACE_QUEST_GOAL_PALACE",
+    "value": "104,202"
+  },
+  {
+    "sn": "REALTIME_TRACE_QUEST_GOAL_CITY",
+    "value": "104"
+  },
+  {
+    "sn": "QUEST_SCENE_ICON_SCALE",
+    "value": "0.65"
+  },
+  {
+    "sn": "STRESS_TAP_END_QUEST",
+    "value": "10430"
+  },
+  {
+    "sn": "STRESS_TAP_QUEST_NO_CHANGE_TIMEOUT",
+    "value": "60"
+  },
+  {
+    "sn": "STRESS_TAP_NOT_IN_SCENE_TIMEOUT",
+    "value": "60"
+  },
+  {
+    "sn": "QUEST_LOG_TASK_TYPE",
+    "value": "102,1"
+  },
+  {
+    "sn": "QUEST_LOG_STYLE_1_DIALOG_PARAM",
+    "value": "1,4,8,9,12,19"
+  },
+  {
+    "sn": "QUEST_LOG_STYLE_2_DIALOG_PARAM",
+    "value": "2"
+  },
+  {
+    "sn": "QUEST_LOG_STYLE_3_DIALOG_PARAM",
+    "value": "3,10,11"
+  },
+  {
+    "sn": "QUEST_TYPE_TRACK_TO_ACTIVE",
+    "value": "2,4,5,10"
+  },
+  {
+    "sn": "TRACK_TYPE_SHOW_ON_MAP",
+    "value": "200,299"
+  },
+  {
+    "sn": "QUEST_TYPE_ONLY_OTHER_SYSTEM_TRIGGER",
+    "value": "3"
+  },
+  {
+    "sn": "QUEST_LVUP_SHOW",
+    "value": "11147,10713,10784,11081,11464,12442,12331"
+  },
+  {
+    "sn": "QUEST_FIRST_SCENE_AREA_QUESTS",
+    "value": "10001,10002,10003,10004"
+  },
+  {
+    "sn": "QUEST_FIRST_SCENE_AREA_TIMEOUT",
+    "value": "5"
+  },
+  {
+    "sn": "QUEST_COMMON_RAID_SCENE_TYPE",
+    "value": "1100,1700"
+  },
+  {
+    "sn": "QUEST_TARGET_TPYES_IN_OPEN_WORLD",
+    "value": "100,101,301"
+  },
+  {
+    "sn": "DIRECT_VICTORY_QUEST_BATTLES",
+    "value": "20004"
+  },
+  {
+    "sn": "QUEST_WEAR_FASHION_PARAM",
+    "value": "101,100,101,10075,10092|101,100,101,10095,10095|101,100,101,10120,10131"
+  },
+  {
+    "sn": "QUEST_TYPE_SPECIAL",
+    "value": "1000,1001,2001,2002,2004,2005,2010"
+  },
+  {
+    "sn": "QUEST_LEAVE_SCHOOL_TELEPORT",
+    "value": "999971"
+  },
+  {
+    "sn": "QUEST_RESET_CLIENT_LOGIN_EXCEPT_QUESTS",
+    "value": "11054,12445,12302,10116,10146,10083,11903"
+  },
+  {
+    "sn": "QUEST_RESET_AFTER_SERVER_STOP_PROCESSING_QUESTS",
+    "value": "10031,10032,10035,10036,10037,10040,10063,10071,10090,10110,10111,10122,10131,10132,10150,10161,10170,10260,10262,10270,10271,10281,10283,10285,10286,10288,10291,10293,10294,10683,10687,10688,10689,10257,10255,10256,10171,10008,10030,10056,10120,10121,10130,10151,10173,10290,11175,10267,10160"
+  },
+  {
+    "sn": "QUEST_LOGIN_SCENE_QUEST_TELEPORT",
+    "value": "4001,10071,999886"
+  },
+  {
+    "sn": "QUEST_LOGIN_IGNORED_NEW_LINE",
+    "value": "AAAAAA=="
+  },
+  {
+    "sn": "QUEST_AUTOMATIC_TRACKING",
+    "value": "50001,22040"
   },
   {
     "sn": "GAMES_BASEBALL_FREECOUPON",
@@ -826,1470 +1506,6 @@
   {
     "sn": "JOYSTICK_INPUT_THRESHOLD",
     "value": "0.2"
-  },
-  {
-    "sn": "RUSH_MOVE_SPEED_101",
-    "value": "10.4"
-  },
-  {
-    "sn": "RUSH_MOVE_SPEED_301",
-    "value": "8"
-  },
-  {
-    "sn": "RUSH_MOVE_SPEED_4",
-    "value": "8"
-  },
-  {
-    "sn": "RUSH_MOVE_SPEED_401",
-    "value": "8"
-  },
-  {
-    "sn": "RUSH_MOVE_SPEED_102",
-    "value": "1.8"
-  },
-  {
-    "sn": "RUSH_MOVE_SPEED_901",
-    "value": "1.8"
-  },
-  {
-    "sn": "RUSH_MOVE_SPEED_7",
-    "value": "8"
-  },
-  {
-    "sn": "RUSH_MOVE_SPEED_501",
-    "value": "16"
-  },
-  {
-    "sn": "RUSH_MOVE_SPEED_HOLE",
-    "value": "2.5"
-  },
-  {
-    "sn": "RUN_MOVE_SPEED_SQUAT",
-    "value": "3"
-  },
-  {
-    "sn": "RUSH_MOVE_SPEED_601",
-    "value": "18"
-  },
-  {
-    "sn": "RUSH_MOVE_SPEED_602",
-    "value": "8"
-  },
-  {
-    "sn": "RUSH_MOVE_SPEED_302",
-    "value": "10.4"
-  },
-  {
-    "sn": "RUSH_MOVE_SPEED_SN265",
-    "value": "7.3"
-  },
-  {
-    "sn": "RUN_ACCELERATION_UNIFORM",
-    "value": "18"
-  },
-  {
-    "sn": "RUN_ACCELERATION_THIEF",
-    "value": "18"
-  },
-  {
-    "sn": "RUN_ACCELERATION_CAR",
-    "value": "30"
-  },
-  {
-    "sn": "RUN_ACCELERATION_THIEF_FIRST_PERSON",
-    "value": "30"
-  },
-  {
-    "sn": "RUN_1_SPEED",
-    "value": "2.34"
-  },
-  {
-    "sn": "RUN_2_SPEED",
-    "value": "2.34"
-  },
-  {
-    "sn": "RUN_3_SPEED",
-    "value": "2.34"
-  },
-  {
-    "sn": "RUN_4_SPEED",
-    "value": "2.34"
-  },
-  {
-    "sn": "RUN_5_SPEED",
-    "value": "2.34"
-  },
-  {
-    "sn": "RUN_6_SPEED",
-    "value": "7.3"
-  },
-  {
-    "sn": "RUN_7_SPEED",
-    "value": "7.3"
-  },
-  {
-    "sn": "RUN_8_SPEED",
-    "value": "7.3"
-  },
-  {
-    "sn": "RUN_9_SPEED",
-    "value": "7.3"
-  },
-  {
-    "sn": "RUN_10_SPEED",
-    "value": "7.3"
-  },
-  {
-    "sn": "RUN_1_SPEED_101",
-    "value": "2.34"
-  },
-  {
-    "sn": "RUN_2_SPEED_101",
-    "value": "2.34"
-  },
-  {
-    "sn": "RUN_3_SPEED_101",
-    "value": "2.34"
-  },
-  {
-    "sn": "RUN_4_SPEED_101",
-    "value": "2.34"
-  },
-  {
-    "sn": "RUN_5_SPEED_101",
-    "value": "2.34"
-  },
-  {
-    "sn": "RUN_6_SPEED_101",
-    "value": "2.34"
-  },
-  {
-    "sn": "RUN_7_SPEED_101",
-    "value": "2.34"
-  },
-  {
-    "sn": "RUN_8_SPEED_101",
-    "value": "2.34"
-  },
-  {
-    "sn": "RUN_9_SPEED_101",
-    "value": "7.3"
-  },
-  {
-    "sn": "RUN_10_SPEED_101",
-    "value": "7.3"
-  },
-  {
-    "sn": "RUN_1_SPEED_301",
-    "value": "3"
-  },
-  {
-    "sn": "RUN_2_SPEED_301",
-    "value": "3"
-  },
-  {
-    "sn": "RUN_3_SPEED_301",
-    "value": "3"
-  },
-  {
-    "sn": "RUN_4_SPEED_301",
-    "value": "3"
-  },
-  {
-    "sn": "RUN_5_SPEED_301",
-    "value": "3"
-  },
-  {
-    "sn": "RUN_6_SPEED_301",
-    "value": "3"
-  },
-  {
-    "sn": "RUN_7_SPEED_301",
-    "value": "3"
-  },
-  {
-    "sn": "RUN_8_SPEED_301",
-    "value": "3"
-  },
-  {
-    "sn": "RUN_9_SPEED_301",
-    "value": "5.4"
-  },
-  {
-    "sn": "RUN_10_SPEED_301",
-    "value": "5.4"
-  },
-  {
-    "sn": "RUN_1_SPEED_4",
-    "value": "3"
-  },
-  {
-    "sn": "RUN_2_SPEED_4",
-    "value": "3"
-  },
-  {
-    "sn": "RUN_3_SPEED_4",
-    "value": "3"
-  },
-  {
-    "sn": "RUN_4_SPEED_4",
-    "value": "3"
-  },
-  {
-    "sn": "RUN_5_SPEED_4",
-    "value": "3"
-  },
-  {
-    "sn": "RUN_6_SPEED_4",
-    "value": "3"
-  },
-  {
-    "sn": "RUN_7_SPEED_4",
-    "value": "3"
-  },
-  {
-    "sn": "RUN_8_SPEED_4",
-    "value": "3"
-  },
-  {
-    "sn": "RUN_9_SPEED_4",
-    "value": "5.4"
-  },
-  {
-    "sn": "RUN_10_SPEED_4",
-    "value": "5.4"
-  },
-  {
-    "sn": "RUN_1_SPEED_401",
-    "value": "3"
-  },
-  {
-    "sn": "RUN_2_SPEED_401",
-    "value": "3"
-  },
-  {
-    "sn": "RUN_3_SPEED_401",
-    "value": "3"
-  },
-  {
-    "sn": "RUN_4_SPEED_401",
-    "value": "3"
-  },
-  {
-    "sn": "RUN_5_SPEED_401",
-    "value": "3"
-  },
-  {
-    "sn": "RUN_6_SPEED_401",
-    "value": "3.9"
-  },
-  {
-    "sn": "RUN_7_SPEED_401",
-    "value": "3.9"
-  },
-  {
-    "sn": "RUN_8_SPEED_401",
-    "value": "3.9"
-  },
-  {
-    "sn": "RUN_9_SPEED_401",
-    "value": "5.4"
-  },
-  {
-    "sn": "RUN_10_SPEED_401",
-    "value": "5.4"
-  },
-  {
-    "sn": "RUN_1_SPEED_102",
-    "value": "2"
-  },
-  {
-    "sn": "RUN_2_SPEED_102",
-    "value": "2"
-  },
-  {
-    "sn": "RUN_3_SPEED_102",
-    "value": "2"
-  },
-  {
-    "sn": "RUN_4_SPEED_102",
-    "value": "2"
-  },
-  {
-    "sn": "RUN_5_SPEED_102",
-    "value": "2"
-  },
-  {
-    "sn": "RUN_6_SPEED_102",
-    "value": "2"
-  },
-  {
-    "sn": "RUN_7_SPEED_102",
-    "value": "2"
-  },
-  {
-    "sn": "RUN_8_SPEED_102",
-    "value": "2"
-  },
-  {
-    "sn": "RUN_9_SPEED_102",
-    "value": "2"
-  },
-  {
-    "sn": "RUN_10_SPEED_102",
-    "value": "2"
-  },
-  {
-    "sn": "RUN_1_SPEED_901",
-    "value": "2"
-  },
-  {
-    "sn": "RUN_2_SPEED_901",
-    "value": "2"
-  },
-  {
-    "sn": "RUN_3_SPEED_901",
-    "value": "2"
-  },
-  {
-    "sn": "RUN_4_SPEED_901",
-    "value": "2"
-  },
-  {
-    "sn": "RUN_5_SPEED_901",
-    "value": "2"
-  },
-  {
-    "sn": "RUN_6_SPEED_901",
-    "value": "2"
-  },
-  {
-    "sn": "RUN_7_SPEED_901",
-    "value": "2"
-  },
-  {
-    "sn": "RUN_8_SPEED_901",
-    "value": "2"
-  },
-  {
-    "sn": "RUN_9_SPEED_901",
-    "value": "2"
-  },
-  {
-    "sn": "RUN_10_SPEED_901",
-    "value": "2"
-  },
-  {
-    "sn": "RUN_1_SPEED_7",
-    "value": "3"
-  },
-  {
-    "sn": "RUN_2_SPEED_7",
-    "value": "3"
-  },
-  {
-    "sn": "RUN_3_SPEED_7",
-    "value": "3"
-  },
-  {
-    "sn": "RUN_4_SPEED_7",
-    "value": "3"
-  },
-  {
-    "sn": "RUN_5_SPEED_7",
-    "value": "3"
-  },
-  {
-    "sn": "RUN_6_SPEED_7",
-    "value": "3"
-  },
-  {
-    "sn": "RUN_7_SPEED_7",
-    "value": "3"
-  },
-  {
-    "sn": "RUN_8_SPEED_7",
-    "value": "3"
-  },
-  {
-    "sn": "RUN_9_SPEED_7",
-    "value": "5.4"
-  },
-  {
-    "sn": "RUN_10_SPEED_7",
-    "value": "5.4"
-  },
-  {
-    "sn": "RUN_1_SPEED_501",
-    "value": "8"
-  },
-  {
-    "sn": "RUN_2_SPEED_501",
-    "value": "8"
-  },
-  {
-    "sn": "RUN_3_SPEED_501",
-    "value": "8"
-  },
-  {
-    "sn": "RUN_4_SPEED_501",
-    "value": "12"
-  },
-  {
-    "sn": "RUN_5_SPEED_501",
-    "value": "12"
-  },
-  {
-    "sn": "RUN_6_SPEED_501",
-    "value": "12"
-  },
-  {
-    "sn": "RUN_7_SPEED_501",
-    "value": "12"
-  },
-  {
-    "sn": "RUN_8_SPEED_501",
-    "value": "12"
-  },
-  {
-    "sn": "RUN_9_SPEED_501",
-    "value": "12"
-  },
-  {
-    "sn": "RUN_10_SPEED_501",
-    "value": "12"
-  },
-  {
-    "sn": "RUN_MAXSPEED_501",
-    "value": "20"
-  },
-  {
-    "sn": "RUN_1_SPEED_HOLE",
-    "value": "3"
-  },
-  {
-    "sn": "RUN_2_SPEED_HOLE",
-    "value": "3"
-  },
-  {
-    "sn": "RUN_3_SPEED_HOLE",
-    "value": "3"
-  },
-  {
-    "sn": "RUN_4_SPEED_HOLE",
-    "value": "3"
-  },
-  {
-    "sn": "RUN_5_SPEED_HOLE",
-    "value": "3"
-  },
-  {
-    "sn": "RUN_6_SPEED_HOLE",
-    "value": "3"
-  },
-  {
-    "sn": "RUN_7_SPEED_HOLE",
-    "value": "3"
-  },
-  {
-    "sn": "RUN_8_SPEED_HOLE",
-    "value": "3"
-  },
-  {
-    "sn": "RUN_9_SPEED_HOLE",
-    "value": "3"
-  },
-  {
-    "sn": "RUN_10_SPEED_HOLE",
-    "value": "3"
-  },
-  {
-    "sn": "RUN_1_SPEED_SQUAT",
-    "value": "2.5"
-  },
-  {
-    "sn": "RUN_2_SPEED_SQUAT",
-    "value": "2.5"
-  },
-  {
-    "sn": "RUN_3_SPEED_SQUAT",
-    "value": "2.5"
-  },
-  {
-    "sn": "RUN_4_SPEED_SQUAT",
-    "value": "2.5"
-  },
-  {
-    "sn": "RUN_5_SPEED_SQUAT",
-    "value": "2.5"
-  },
-  {
-    "sn": "RUN_6_SPEED_SQUAT",
-    "value": "2.5"
-  },
-  {
-    "sn": "RUN_7_SPEED_SQUAT",
-    "value": "2.5"
-  },
-  {
-    "sn": "RUN_8_SPEED_SQUAT",
-    "value": "2.5"
-  },
-  {
-    "sn": "RUN_9_SPEED_SQUAT",
-    "value": "2.5"
-  },
-  {
-    "sn": "RUN_10_SPEED_SQUAT",
-    "value": "2.5"
-  },
-  {
-    "sn": "RUN_1_SPEED_601",
-    "value": "2"
-  },
-  {
-    "sn": "RUN_2_SPEED_601",
-    "value": "2"
-  },
-  {
-    "sn": "RUN_3_SPEED_601",
-    "value": "4"
-  },
-  {
-    "sn": "RUN_4_SPEED_601",
-    "value": "4"
-  },
-  {
-    "sn": "RUN_5_SPEED_601",
-    "value": "6"
-  },
-  {
-    "sn": "RUN_6_SPEED_601",
-    "value": "6"
-  },
-  {
-    "sn": "RUN_7_SPEED_601",
-    "value": "8"
-  },
-  {
-    "sn": "RUN_8_SPEED_601",
-    "value": "8"
-  },
-  {
-    "sn": "RUN_9_SPEED_601",
-    "value": "12"
-  },
-  {
-    "sn": "RUN_10_SPEED_601",
-    "value": "12"
-  },
-  {
-    "sn": "RUN_MAXSPEED_601",
-    "value": "20"
-  },
-  {
-    "sn": "RUN_1_SPEED_602",
-    "value": "3"
-  },
-  {
-    "sn": "RUN_2_SPEED_602",
-    "value": "3"
-  },
-  {
-    "sn": "RUN_3_SPEED_602",
-    "value": "3"
-  },
-  {
-    "sn": "RUN_4_SPEED_602",
-    "value": "3"
-  },
-  {
-    "sn": "RUN_5_SPEED_602",
-    "value": "3"
-  },
-  {
-    "sn": "RUN_6_SPEED_602",
-    "value": "3.9"
-  },
-  {
-    "sn": "RUN_7_SPEED_602",
-    "value": "3.9"
-  },
-  {
-    "sn": "RUN_8_SPEED_602",
-    "value": "3.9"
-  },
-  {
-    "sn": "RUN_9_SPEED_602",
-    "value": "5.4"
-  },
-  {
-    "sn": "RUN_10_SPEED_602",
-    "value": "5.4"
-  },
-  {
-    "sn": "RUN_1_SPEED_1700",
-    "value": "3"
-  },
-  {
-    "sn": "RUN_2_SPEED_1700",
-    "value": "3"
-  },
-  {
-    "sn": "RUN_3_SPEED_1700",
-    "value": "3"
-  },
-  {
-    "sn": "RUN_4_SPEED_1700",
-    "value": "3"
-  },
-  {
-    "sn": "RUN_5_SPEED_1700",
-    "value": "3"
-  },
-  {
-    "sn": "RUN_6_SPEED_1700",
-    "value": "3.9"
-  },
-  {
-    "sn": "RUN_7_SPEED_1700",
-    "value": "3.9"
-  },
-  {
-    "sn": "RUN_8_SPEED_1700",
-    "value": "3.9"
-  },
-  {
-    "sn": "RUN_9_SPEED_1700",
-    "value": "5.4"
-  },
-  {
-    "sn": "RUN_10_SPEED_1700",
-    "value": "5.4"
-  },
-  {
-    "sn": "RUSH_MOVE_SPEED_1700",
-    "value": "8"
-  },
-  {
-    "sn": "RUN_1_SPEED_302",
-    "value": "2.34"
-  },
-  {
-    "sn": "RUN_2_SPEED_302",
-    "value": "2.34"
-  },
-  {
-    "sn": "RUN_3_SPEED_302",
-    "value": "2.34"
-  },
-  {
-    "sn": "RUN_4_SPEED_302",
-    "value": "2.34"
-  },
-  {
-    "sn": "RUN_5_SPEED_302",
-    "value": "2.34"
-  },
-  {
-    "sn": "RUN_6_SPEED_302",
-    "value": "2.34"
-  },
-  {
-    "sn": "RUN_7_SPEED_302",
-    "value": "2.34"
-  },
-  {
-    "sn": "RUN_8_SPEED_302",
-    "value": "2.34"
-  },
-  {
-    "sn": "RUN_9_SPEED_302",
-    "value": "7.3"
-  },
-  {
-    "sn": "RUN_10_SPEED_302",
-    "value": "7.3"
-  },
-  {
-    "sn": "RUN_1_SPEED_SN265",
-    "value": "1.8"
-  },
-  {
-    "sn": "RUN_2_SPEED_SN265",
-    "value": "1.8"
-  },
-  {
-    "sn": "RUN_3_SPEED_SN265",
-    "value": "1.8"
-  },
-  {
-    "sn": "RUN_4_SPEED_SN265",
-    "value": "7.3"
-  },
-  {
-    "sn": "RUN_5_SPEED_SN265",
-    "value": "7.3"
-  },
-  {
-    "sn": "RUN_6_SPEED_SN265",
-    "value": "7.3"
-  },
-  {
-    "sn": "RUN_7_SPEED_SN265",
-    "value": "7.3"
-  },
-  {
-    "sn": "RUN_8_SPEED_SN265",
-    "value": "7.3"
-  },
-  {
-    "sn": "RUN_9_SPEED_SN265",
-    "value": "7.3"
-  },
-  {
-    "sn": "RUN_10_SPEED_SN265",
-    "value": "7.3"
-  },
-  {
-    "sn": "RUSH_MOVE_SPEED",
-    "value": "10.4"
-  },
-  {
-    "sn": "RUN_1_SPEED_SN5509",
-    "value": "3"
-  },
-  {
-    "sn": "RUN_2_SPEED_SN5509",
-    "value": "3"
-  },
-  {
-    "sn": "RUN_3_SPEED_SN5509",
-    "value": "3"
-  },
-  {
-    "sn": "RUN_4_SPEED_SN5509",
-    "value": "3"
-  },
-  {
-    "sn": "RUN_5_SPEED_SN5509",
-    "value": "3"
-  },
-  {
-    "sn": "RUN_6_SPEED_SN5509",
-    "value": "3"
-  },
-  {
-    "sn": "RUN_7_SPEED_SN5509",
-    "value": "3"
-  },
-  {
-    "sn": "RUN_8_SPEED_SN5509",
-    "value": "3"
-  },
-  {
-    "sn": "RUN_9_SPEED_SN5509",
-    "value": "5.4"
-  },
-  {
-    "sn": "RUN_10_SPEED_SN5509",
-    "value": "5.4"
-  },
-  {
-    "sn": "RUSH_MOVE_SPEED_SN5509",
-    "value": "8"
-  },
-  {
-    "sn": "RUN_1_SPEED_SN5519",
-    "value": "3"
-  },
-  {
-    "sn": "RUN_2_SPEED_SN5519",
-    "value": "3"
-  },
-  {
-    "sn": "RUN_3_SPEED_SN5519",
-    "value": "3"
-  },
-  {
-    "sn": "RUN_4_SPEED_SN5519",
-    "value": "3"
-  },
-  {
-    "sn": "RUN_5_SPEED_SN5519",
-    "value": "3"
-  },
-  {
-    "sn": "RUN_6_SPEED_SN5519",
-    "value": "3"
-  },
-  {
-    "sn": "RUN_7_SPEED_SN5519",
-    "value": "3"
-  },
-  {
-    "sn": "RUN_8_SPEED_SN5519",
-    "value": "3"
-  },
-  {
-    "sn": "RUN_9_SPEED_SN5519",
-    "value": "5.4"
-  },
-  {
-    "sn": "RUN_10_SPEED_SN5519",
-    "value": "5.4"
-  },
-  {
-    "sn": "RUSH_MOVE_SPEED_SN5519",
-    "value": "8"
-  },
-  {
-    "sn": "RUN_1_SPEED_1100",
-    "value": "3"
-  },
-  {
-    "sn": "RUN_2_SPEED_1100",
-    "value": "3"
-  },
-  {
-    "sn": "RUN_3_SPEED_1100",
-    "value": "3"
-  },
-  {
-    "sn": "RUN_4_SPEED_1100",
-    "value": "3"
-  },
-  {
-    "sn": "RUN_5_SPEED_1100",
-    "value": "3"
-  },
-  {
-    "sn": "RUN_6_SPEED_1100",
-    "value": "3.9"
-  },
-  {
-    "sn": "RUN_7_SPEED_1100",
-    "value": "3.9"
-  },
-  {
-    "sn": "RUN_8_SPEED_1100",
-    "value": "3.9"
-  },
-  {
-    "sn": "RUN_9_SPEED_1100",
-    "value": "5.4"
-  },
-  {
-    "sn": "RUN_10_SPEED_1100",
-    "value": "5.4"
-  },
-  {
-    "sn": "RUSH_MOVE_SPEED_1100",
-    "value": "8"
-  },
-  {
-    "sn": "RUN_1_SPEED_1200",
-    "value": "3"
-  },
-  {
-    "sn": "RUN_2_SPEED_1200",
-    "value": "3"
-  },
-  {
-    "sn": "RUN_3_SPEED_1200",
-    "value": "3"
-  },
-  {
-    "sn": "RUN_4_SPEED_1200",
-    "value": "3"
-  },
-  {
-    "sn": "RUN_5_SPEED_1200",
-    "value": "3"
-  },
-  {
-    "sn": "RUN_6_SPEED_1200",
-    "value": "3.9"
-  },
-  {
-    "sn": "RUN_7_SPEED_1200",
-    "value": "3.9"
-  },
-  {
-    "sn": "RUN_8_SPEED_1200",
-    "value": "3.9"
-  },
-  {
-    "sn": "RUN_9_SPEED_1200",
-    "value": "5.4"
-  },
-  {
-    "sn": "RUN_10_SPEED_1200",
-    "value": "5.4"
-  },
-  {
-    "sn": "RUSH_MOVE_SPEED_1200",
-    "value": "8"
-  },
-  {
-    "sn": "RUN_1_SPEED_SN20001",
-    "value": "3"
-  },
-  {
-    "sn": "RUN_2_SPEED_SN20001",
-    "value": "3"
-  },
-  {
-    "sn": "RUN_3_SPEED_SN20001",
-    "value": "3"
-  },
-  {
-    "sn": "RUN_4_SPEED_SN20001",
-    "value": "3"
-  },
-  {
-    "sn": "RUN_5_SPEED_SN20001",
-    "value": "3"
-  },
-  {
-    "sn": "RUN_6_SPEED_SN20001",
-    "value": "3"
-  },
-  {
-    "sn": "RUN_7_SPEED_SN20001",
-    "value": "3"
-  },
-  {
-    "sn": "RUN_8_SPEED_SN20001",
-    "value": "3"
-  },
-  {
-    "sn": "RUN_9_SPEED_SN20001",
-    "value": "5.4"
-  },
-  {
-    "sn": "RUN_10_SPEED_SN20001",
-    "value": "5.4"
-  },
-  {
-    "sn": "RUSH_MOVE_SPEED_SN20001",
-    "value": "8"
-  },
-  {
-    "sn": "RUN_1_SPEED_SN20002",
-    "value": "3"
-  },
-  {
-    "sn": "RUN_2_SPEED_SN20002",
-    "value": "3"
-  },
-  {
-    "sn": "RUN_3_SPEED_SN20002",
-    "value": "3"
-  },
-  {
-    "sn": "RUN_4_SPEED_SN20002",
-    "value": "3"
-  },
-  {
-    "sn": "RUN_5_SPEED_SN20002",
-    "value": "3"
-  },
-  {
-    "sn": "RUN_6_SPEED_SN20002",
-    "value": "3"
-  },
-  {
-    "sn": "RUN_7_SPEED_SN20002",
-    "value": "3"
-  },
-  {
-    "sn": "RUN_8_SPEED_SN20002",
-    "value": "3"
-  },
-  {
-    "sn": "RUN_9_SPEED_SN20002",
-    "value": "5.4"
-  },
-  {
-    "sn": "RUN_10_SPEED_SN20002",
-    "value": "5.4"
-  },
-  {
-    "sn": "RUSH_MOVE_SPEED_SN20002",
-    "value": "8"
-  },
-  {
-    "sn": "RUN_1_SPEED_SN20003",
-    "value": "3"
-  },
-  {
-    "sn": "RUN_2_SPEED_SN20003",
-    "value": "3"
-  },
-  {
-    "sn": "RUN_3_SPEED_SN20003",
-    "value": "3"
-  },
-  {
-    "sn": "RUN_4_SPEED_SN20003",
-    "value": "3"
-  },
-  {
-    "sn": "RUN_5_SPEED_SN20003",
-    "value": "3"
-  },
-  {
-    "sn": "RUN_6_SPEED_SN20003",
-    "value": "3"
-  },
-  {
-    "sn": "RUN_7_SPEED_SN20003",
-    "value": "3"
-  },
-  {
-    "sn": "RUN_8_SPEED_SN20003",
-    "value": "3"
-  },
-  {
-    "sn": "RUN_9_SPEED_SN20003",
-    "value": "5.4"
-  },
-  {
-    "sn": "RUN_10_SPEED_SN20003",
-    "value": "5.4"
-  },
-  {
-    "sn": "RUSH_MOVE_SPEED_SN20003",
-    "value": "8"
-  },
-  {
-    "sn": "RUN_1_SPEED_SN20011",
-    "value": "3"
-  },
-  {
-    "sn": "RUN_2_SPEED_SN20011",
-    "value": "3"
-  },
-  {
-    "sn": "RUN_3_SPEED_SN20011",
-    "value": "3"
-  },
-  {
-    "sn": "RUN_4_SPEED_SN20011",
-    "value": "3"
-  },
-  {
-    "sn": "RUN_5_SPEED_SN20011",
-    "value": "3"
-  },
-  {
-    "sn": "RUN_6_SPEED_SN20011",
-    "value": "3"
-  },
-  {
-    "sn": "RUN_7_SPEED_SN20011",
-    "value": "3"
-  },
-  {
-    "sn": "RUN_8_SPEED_SN20011",
-    "value": "3"
-  },
-  {
-    "sn": "RUN_9_SPEED_SN20011",
-    "value": "5.4"
-  },
-  {
-    "sn": "RUN_10_SPEED_SN20011",
-    "value": "5.4"
-  },
-  {
-    "sn": "RUSH_MOVE_SPEED_SN20011",
-    "value": "8"
-  },
-  {
-    "sn": "RUN_1_SPEED_SN20012",
-    "value": "3"
-  },
-  {
-    "sn": "RUN_2_SPEED_SN20012",
-    "value": "3"
-  },
-  {
-    "sn": "RUN_3_SPEED_SN20012",
-    "value": "3"
-  },
-  {
-    "sn": "RUN_4_SPEED_SN20012",
-    "value": "3"
-  },
-  {
-    "sn": "RUN_5_SPEED_SN20012",
-    "value": "3"
-  },
-  {
-    "sn": "RUN_6_SPEED_SN20012",
-    "value": "3"
-  },
-  {
-    "sn": "RUN_7_SPEED_SN20012",
-    "value": "3"
-  },
-  {
-    "sn": "RUN_8_SPEED_SN20012",
-    "value": "3"
-  },
-  {
-    "sn": "RUN_9_SPEED_SN20012",
-    "value": "5.4"
-  },
-  {
-    "sn": "RUN_10_SPEED_SN20012",
-    "value": "5.4"
-  },
-  {
-    "sn": "RUSH_MOVE_SPEED_SN20012",
-    "value": "8"
-  },
-  {
-    "sn": "RUN_1_SPEED_SN20013",
-    "value": "3"
-  },
-  {
-    "sn": "RUN_2_SPEED_SN20013",
-    "value": "3"
-  },
-  {
-    "sn": "RUN_3_SPEED_SN20013",
-    "value": "3"
-  },
-  {
-    "sn": "RUN_4_SPEED_SN20013",
-    "value": "3"
-  },
-  {
-    "sn": "RUN_5_SPEED_SN20013",
-    "value": "3"
-  },
-  {
-    "sn": "RUN_6_SPEED_SN20013",
-    "value": "3"
-  },
-  {
-    "sn": "RUN_7_SPEED_SN20013",
-    "value": "3"
-  },
-  {
-    "sn": "RUN_8_SPEED_SN20013",
-    "value": "3"
-  },
-  {
-    "sn": "RUN_9_SPEED_SN20013",
-    "value": "5.4"
-  },
-  {
-    "sn": "RUN_10_SPEED_SN20013",
-    "value": "5.4"
-  },
-  {
-    "sn": "RUSH_MOVE_SPEED_SN20013",
-    "value": "8"
-  },
-  {
-    "sn": "RUN_1_SPEED_SN20021",
-    "value": "3"
-  },
-  {
-    "sn": "RUN_2_SPEED_SN20021",
-    "value": "3"
-  },
-  {
-    "sn": "RUN_3_SPEED_SN20021",
-    "value": "3"
-  },
-  {
-    "sn": "RUN_4_SPEED_SN20021",
-    "value": "3"
-  },
-  {
-    "sn": "RUN_5_SPEED_SN20021",
-    "value": "3"
-  },
-  {
-    "sn": "RUN_6_SPEED_SN20021",
-    "value": "3"
-  },
-  {
-    "sn": "RUN_7_SPEED_SN20021",
-    "value": "3"
-  },
-  {
-    "sn": "RUN_8_SPEED_SN20021",
-    "value": "3"
-  },
-  {
-    "sn": "RUN_9_SPEED_SN20021",
-    "value": "5.4"
-  },
-  {
-    "sn": "RUN_10_SPEED_SN20021",
-    "value": "5.4"
-  },
-  {
-    "sn": "RUSH_MOVE_SPEED_SN20021",
-    "value": "8"
-  },
-  {
-    "sn": "RUN_1_SPEED_SN20022",
-    "value": "3"
-  },
-  {
-    "sn": "RUN_2_SPEED_SN20022",
-    "value": "3"
-  },
-  {
-    "sn": "RUN_3_SPEED_SN20022",
-    "value": "3"
-  },
-  {
-    "sn": "RUN_4_SPEED_SN20022",
-    "value": "3"
-  },
-  {
-    "sn": "RUN_5_SPEED_SN20022",
-    "value": "3"
-  },
-  {
-    "sn": "RUN_6_SPEED_SN20022",
-    "value": "3"
-  },
-  {
-    "sn": "RUN_7_SPEED_SN20022",
-    "value": "3"
-  },
-  {
-    "sn": "RUN_8_SPEED_SN20022",
-    "value": "3"
-  },
-  {
-    "sn": "RUN_9_SPEED_SN20022",
-    "value": "5.4"
-  },
-  {
-    "sn": "RUN_10_SPEED_SN20022",
-    "value": "5.4"
-  },
-  {
-    "sn": "RUSH_MOVE_SPEED_SN20022",
-    "value": "8"
-  },
-  {
-    "sn": "RUN_1_SPEED_SN20023",
-    "value": "3"
-  },
-  {
-    "sn": "RUN_2_SPEED_SN20023",
-    "value": "3"
-  },
-  {
-    "sn": "RUN_3_SPEED_SN20023",
-    "value": "3"
-  },
-  {
-    "sn": "RUN_4_SPEED_SN20023",
-    "value": "3"
-  },
-  {
-    "sn": "RUN_5_SPEED_SN20023",
-    "value": "3"
-  },
-  {
-    "sn": "RUN_6_SPEED_SN20023",
-    "value": "3"
-  },
-  {
-    "sn": "RUN_7_SPEED_SN20023",
-    "value": "3"
-  },
-  {
-    "sn": "RUN_8_SPEED_SN20023",
-    "value": "3"
-  },
-  {
-    "sn": "RUN_9_SPEED_SN20023",
-    "value": "5.4"
-  },
-  {
-    "sn": "RUN_10_SPEED_SN20023",
-    "value": "5.4"
-  },
-  {
-    "sn": "RUSH_MOVE_SPEED_SN20023",
-    "value": "8"
-  },
-  {
-    "sn": "RUN_1_SPEED_1400",
-    "value": "3"
-  },
-  {
-    "sn": "RUN_2_SPEED_1400",
-    "value": "3"
-  },
-  {
-    "sn": "RUN_3_SPEED_1400",
-    "value": "3"
-  },
-  {
-    "sn": "RUN_4_SPEED_1400",
-    "value": "3"
-  },
-  {
-    "sn": "RUN_5_SPEED_1400",
-    "value": "3"
-  },
-  {
-    "sn": "RUN_6_SPEED_1400",
-    "value": "3"
-  },
-  {
-    "sn": "RUN_7_SPEED_1400",
-    "value": "3"
-  },
-  {
-    "sn": "RUN_8_SPEED_1400",
-    "value": "3"
-  },
-  {
-    "sn": "RUN_9_SPEED_1400",
-    "value": "6"
-  },
-  {
-    "sn": "RUN_10_SPEED_1400",
-    "value": "6"
-  },
-  {
-    "sn": "RUN_1_SPEED_1500",
-    "value": "1.8"
-  },
-  {
-    "sn": "RUN_2_SPEED_1500",
-    "value": "1.8"
-  },
-  {
-    "sn": "RUN_3_SPEED_1500",
-    "value": "1.8"
-  },
-  {
-    "sn": "RUN_4_SPEED_1500",
-    "value": "1.8"
-  },
-  {
-    "sn": "RUN_5_SPEED_1500",
-    "value": "1.8"
-  },
-  {
-    "sn": "RUN_6_SPEED_1500",
-    "value": "1.8"
-  },
-  {
-    "sn": "RUN_7_SPEED_1500",
-    "value": "1.8"
-  },
-  {
-    "sn": "RUN_8_SPEED_1500",
-    "value": "1.8"
-  },
-  {
-    "sn": "RUN_9_SPEED_1500",
-    "value": "3"
-  },
-  {
-    "sn": "RUN_10_SPEED_1500",
-    "value": "3"
-  },
-  {
-    "sn": "RUSH_MOVE_SPEED_1500",
-    "value": "3"
-  },
-  {
-    "sn": "RUN_1_SPEED_AREA",
-    "value": "3"
-  },
-  {
-    "sn": "RUN_2_SPEED_AREA",
-    "value": "3"
-  },
-  {
-    "sn": "RUN_3_SPEED_AREA",
-    "value": "3"
-  },
-  {
-    "sn": "RUN_4_SPEED_AREA",
-    "value": "3"
-  },
-  {
-    "sn": "RUN_5_SPEED_AREA",
-    "value": "3"
-  },
-  {
-    "sn": "RUN_6_SPEED_AREA",
-    "value": "3"
-  },
-  {
-    "sn": "RUN_7_SPEED_AREA",
-    "value": "3"
-  },
-  {
-    "sn": "RUN_8_SPEED_AREA",
-    "value": "3"
-  },
-  {
-    "sn": "RUN_9_SPEED_AREA",
-    "value": "3"
-  },
-  {
-    "sn": "RUN_10_SPEED_AREA",
-    "value": "3"
-  },
-  {
-    "sn": "RUN_1_SPEED_AREA_8336",
-    "value": "1.8"
-  },
-  {
-    "sn": "RUN_2_SPEED_AREA_8336",
-    "value": "1.8"
-  },
-  {
-    "sn": "RUN_3_SPEED_AREA_8336",
-    "value": "1.8"
-  },
-  {
-    "sn": "RUN_4_SPEED_AREA_8336",
-    "value": "1.8"
-  },
-  {
-    "sn": "RUN_5_SPEED_AREA_8336",
-    "value": "1.8"
-  },
-  {
-    "sn": "RUN_6_SPEED_AREA_8336",
-    "value": "1.8"
-  },
-  {
-    "sn": "RUN_7_SPEED_AREA_8336",
-    "value": "1.8"
-  },
-  {
-    "sn": "RUN_8_SPEED_AREA_8336",
-    "value": "1.8"
-  },
-  {
-    "sn": "RUN_9_SPEED_AREA_8336",
-    "value": "3"
-  },
-  {
-    "sn": "RUN_10_SPEED_AREA_8336",
-    "value": "3"
   },
   {
     "sn": "LOGIN_TIME_FULL",
@@ -3257,11 +2473,11 @@
   },
   {
     "sn": "CLINET_RES_VERSION",
-    "value": "2025082111"
+    "value": "2025090411"
   },
   {
     "sn": "CLINET_GAME_VERSION",
-    "value": "1.4.0"
+    "value": "2.0.0"
   },
   {
     "sn": "SEND_ANNOUNCE_CNT",
@@ -6033,7 +5249,7 @@
   },
   {
     "sn": "DISPATCH_TASK_NUM",
-    "value": "11"
+    "value": "12"
   },
   {
     "sn": "ACTIVITY_CHATAI_GET_ITEM_PROTECT_TIME",
@@ -6077,7 +5293,7 @@
   },
   {
     "sn": "IOS_SCORE_CONDITION_GACHA_NUM",
-    "value": "2"
+    "value": "11"
   },
   {
     "sn": "IOS_SCORE_CONDITION_MAIL_ITEM",
@@ -6085,11 +5301,11 @@
   },
   {
     "sn": "IOS_SCORE_CONDITION_MAIL_NUM",
-    "value": "10,10,10,1000,1000"
+    "value": "1000,1000,1000,100000,100000"
   },
   {
     "sn": "IOS_SCORE_CD_TIME",
-    "value": "60"
+    "value": "365"
   },
   {
     "sn": "MUSIC_PLAYER_MAX_NUM",
@@ -6409,687 +5625,43 @@
   },
   {
     "sn": "ACTIVITY_TYPE_NOSHOW",
-    "value": "1,39,63,4,54,24,25,26,38,35"
+    "value": "1,39,63,4,54,24,25,26,38,35,42"
   },
   {
-    "sn": "MONOPOLY_FIRST_CARD_SN",
-    "value": "303"
+    "sn": "P5X_OFFICAL_WED_JP",
+    "value": "https://p5x.jp/?barStyle=2&cutOutAdapt=1"
   },
   {
-    "sn": "MONOPOLY_SPADE_3_CARD_SN",
-    "value": "103"
+    "sn": "P5X_OFFICAL_WED_EN",
+    "value": "https://persona5x.com/?barStyle=2&cutOutAdapt=1"
   },
   {
-    "sn": "MONOPOLY_TEST_MATCH_TIME",
-    "value": "15"
+    "sn": "PALACE_CHESS_PULL_ACTION",
+    "value": "wonder_thief@point_screen"
   },
   {
-    "sn": "MONOPOLY_JOKER_VALUE",
-    "value": "16"
+    "sn": "CHESS_MOVE_TIME",
+    "value": "0.8"
   },
   {
-    "sn": "MONOPOLY_WONDER_VALUE",
-    "value": "17"
+    "sn": "CHESS_SUCCESS_EFFECT",
+    "value": "TL_chess_finish.prefab"
   },
   {
-    "sn": "MONOPOLY_8_STOP_VALUE",
-    "value": "8"
-  },
-  {
-    "sn": "MONOPOLY_START_TIME",
-    "value": "3.5"
-  },
-  {
-    "sn": "MONOPOLY_RESULT_TIME",
-    "value": "8"
-  },
-  {
-    "sn": "MONOPOLY_MATCH_WAIT_MAX_TIME",
-    "value": "30"
-  },
-  {
-    "sn": "MONOPOLY_WARN_CARD_NUM",
-    "value": "3"
-  },
-  {
-    "sn": "MONOPOLY_FLY_CARD_INTERVAL",
-    "value": "0.03"
-  },
-  {
-    "sn": "MONOPOLY_RESULT_TIME_1",
-    "value": "2"
-  },
-  {
-    "sn": "MONOPOLY_RESULT_TIME_2",
-    "value": "1.5"
-  },
-  {
-    "sn": "MONOPOLY_RESULT_TIME_3",
-    "value": "0.2"
-  },
-  {
-    "sn": "MONOPOLY_RESULT_TIME_4",
-    "value": "1"
-  },
-  {
-    "sn": "MONOPOLY_RESULT_TIME_5",
-    "value": "0.05"
-  },
-  {
-    "sn": "MONOPOLY_AUTO_MODE_JUDGE_NUM",
-    "value": "2"
-  },
-  {
-    "sn": "MONOPOLY_SCORE_P1",
-    "value": "10"
-  },
-  {
-    "sn": "MONOPOLY_SCORE_P2",
-    "value": "5"
-  },
-  {
-    "sn": "MONOPOLY_SCORE_P3",
-    "value": "2"
-  },
-  {
-    "sn": "MONOPOLY_SCORE_RESHUFFLE_MAX",
-    "value": "20"
-  },
-  {
-    "sn": "MONOPOLY_SCORE_CARD_SHAPE_TOTAL_MIN",
-    "value": "6"
-  },
-  {
-    "sn": "MONOPOLY_SCORE_TOTAL_DIFF_MAX",
-    "value": "2.5"
-  },
-  {
-    "sn": "MONOPOLY_EYE_TIME_MIN",
-    "value": "10"
-  },
-  {
-    "sn": "MONOPOLY_EYE_TIME_MAX",
-    "value": "15"
-  },
-  {
-    "sn": "MONOPOLY_DEFAULT_THIEF",
-    "value": "1"
-  },
-  {
-    "sn": "MONOPOLY_CARD_RECORDER_COLOR",
-    "value": "#f0cfb7,#d17e3d,#d57937,#d77733,#dd181d"
-  },
-  {
-    "sn": "MONOPOLY_ABILITY_1",
-    "value": "16,1"
-  },
-  {
-    "sn": "MONOPOLY_ABILITY_2",
-    "value": "16,13"
-  },
-  {
-    "sn": "MONOPOLY_RANK_LIST_SIZE",
-    "value": "1000"
-  },
-  {
-    "sn": "MONOPOLY_RANK_LIST_PAGE_SIZE",
-    "value": "100"
-  },
-  {
-    "sn": "MONOPOLY_POINT_WEEK_MAX",
-    "value": "1000"
-  },
-  {
-    "sn": "MONOPOLY_READY_TIMEOUT",
-    "value": "30"
-  },
-  {
-    "sn": "MONOPOLY_LOADING_ICON_1",
-    "value": "CardGame-loading-bg1.png,CardGame-loading-bg2.png,CardGame-loading-bg3.png,CardGame-loading-bg4.png,CardGame-loading-bg5.png,CardGame-loading-bg6.png,CardGame-loading-bg7.png,CardGame-loading-bg8.png"
-  },
-  {
-    "sn": "MONOPOLY_SEASON_SHOW_NUM",
-    "value": "9"
-  },
-  {
-    "sn": "MONOPOLY_SPEED_UP",
-    "value": "2"
-  },
-  {
-    "sn": "MONOPOLY_RANK_LEGEND_STAR_MAX",
-    "value": "100000"
-  },
-  {
-    "sn": "MONOPOLY_RANK_LEGEND_STAR_MIN",
-    "value": "-200"
-  },
-  {
-    "sn": "MONOPOLY_ACTIVITY_TYPE",
-    "value": "62"
-  },
-  {
-    "sn": "MONOPOLY_GUIDES",
-    "value": "901,902,903,904,905,906,907,908,909,910,911"
-  },
-  {
-    "sn": "MONOPOLY_LEGEND_RANK",
-    "value": "15"
-  },
-  {
-    "sn": "MONOPOLY_MY_AUTO_AI",
-    "value": "104"
-  },
-  {
-    "sn": "MONOPOLY_PVE_DELAY_TIME",
-    "value": "0.2"
-  },
-  {
-    "sn": "MONOPOLY_WELFARE_TIME_1",
-    "value": "1"
-  },
-  {
-    "sn": "MONOPOLY_WELFARE_TIME_2",
-    "value": "3"
-  },
-  {
-    "sn": "MONOPOLY_RANK_LIST_GRADES",
-    "value": "CardGame-rank1-i18n.png,CardGame-rank2-i18n.png,CardGame-rank3-i18n.png"
-  },
-  {
-    "sn": "MONOPOLY_RULE_VIDEO",
-    "value": "Activity_richman.usm"
-  },
-  {
-    "sn": "MONOPOLY_READY_NAME_1",
-    "value": "0,1"
-  },
-  {
-    "sn": "MONOPOLY_READY_NAME_2",
-    "value": "0,1"
-  },
-  {
-    "sn": "MONOPOLY_READY_NAME_3",
-    "value": "20,1"
-  },
-  {
-    "sn": "MONOPOLY_READY_NAME_4",
-    "value": "0,0.8"
-  },
-  {
-    "sn": "MONOPOLY_CHAT_BUBBLE_CD",
-    "value": "2.1"
-  },
-  {
-    "sn": "MONOPOLY_BUBBLE_SHOW_TIME",
-    "value": "2"
-  },
-  {
-    "sn": "MAP_DEFAULT_SCALE",
-    "value": "1"
-  },
-  {
-    "sn": "MAP_OUTER_SIZE_RATIO_CITY",
-    "value": "1.1"
-  },
-  {
-    "sn": "MAP_OUTER_SIZE_RATIO",
-    "value": "1.3"
-  },
-  {
-    "sn": "MAP_FEET_DISTANCE",
-    "value": "6"
-  },
-  {
-    "sn": "MAP_FEET_HIDE_TIME",
-    "value": "2"
-  },
-  {
-    "sn": "MAP_TASK_ICON_RES",
-    "value": "renwu-ditu-tanhao.png"
-  },
-  {
-    "sn": "MAP_PALACE_AREA_TRANSPOINT_CHANGETIME",
-    "value": "0.2"
-  },
-  {
-    "sn": "MAP_PALACE_AREA_CHOOSE_RATE",
-    "value": "0.33"
-  },
-  {
-    "sn": "MAP_PALACE_WORLD_CHANGETIME",
-    "value": "0.2"
-  },
-  {
-    "sn": "MAP_PALACE_WORLD_POS",
-    "value": "1,0.9,0.8,0.7,0.6,0.6,0.4,0.2"
-  },
-  {
-    "sn": "MAP_PALACE_WORLD_SCALE_FREEZE",
-    "value": "TRUE"
-  },
-  {
-    "sn": "MAP_PALACE_WORLD_WHEEL_SCALE_TIME",
-    "value": "0.2"
-  },
-  {
-    "sn": "MAP_PALACE_WORLD_SPECIALITEM_ICON",
-    "value": "yishijie-icon-xingxing-new.png"
-  },
-  {
-    "sn": "MAP_PALACE_WORLD_SHOW_OBJECTICON_DISTANCE",
-    "value": "100"
-  },
-  {
-    "sn": "MAP_IMPRESSION_ROLL_PIECE_ICON",
-    "value": "renwu-qipaodi-tanhao.png"
-  },
-  {
-    "sn": "MAP_IMPRESSION_GATE_ICON_PARAM",
-    "value": "0.2,0.2"
-  },
-  {
-    "sn": "MAP_BOARD_PIC",
-    "value": "ditu-new-lubiao.png"
-  },
-  {
-    "sn": "PALACE_OBJECT_SHOW_DISTANCE",
-    "value": "80"
-  },
-  {
-    "sn": "PALACE_OBJECT_SHOW_DISTANCE_10",
-    "value": "-1"
-  },
-  {
-    "sn": "PALACE_OBJECT_SHOW_DISTANCE_11",
-    "value": "-1"
-  },
-  {
-    "sn": "PALACE_OBJECT_SHOW_DISTANCE_12",
-    "value": "-1"
-  },
-  {
-    "sn": "PALACE_WORLD_OBJECT_SHOW_DISTANCE",
-    "value": "150"
-  },
-  {
-    "sn": "PALACE_WORLD_OBJECT_SHOW_DISTANCE_1",
-    "value": "-1"
-  },
-  {
-    "sn": "PALACE_WORLD_OBJECT_SHOW_DISTANCE_2",
-    "value": "-1"
-  },
-  {
-    "sn": "PALACE_WORLD_OBJECT_SHOW_DISTANCE_4",
-    "value": "150"
-  },
-  {
-    "sn": "PALACE_WORLD_OBJECT_SHOW_DISTANCE_6",
-    "value": "-1"
-  },
-  {
-    "sn": "PALACE_WORLD_OBJECT_SHOW_DISTANCE_10",
-    "value": "-1"
-  },
-  {
-    "sn": "PALACE_WORLD_OBJECT_SHOW_DISTANCE_11",
-    "value": "-1"
-  },
-  {
-    "sn": "PALACE_WORLD_OBJECT_SHOW_DISTANCE_12",
-    "value": "-1"
-  },
-  {
-    "sn": "PALACE_WORLD_NPC_SHOW_DISTANCE",
-    "value": "69"
-  },
-  {
-    "sn": "PALACE_WORLD_CORE_ITEMSN",
-    "value": "30"
-  },
-  {
-    "sn": "PALACE_WORLD_MAP_LOCK_FIXICON_COLOR",
-    "value": "#484848"
-  },
-  {
-    "sn": "PALACE_WORLD_MAP_LOCK_FOG_COLOR",
-    "value": "#670002"
-  },
-  {
-    "sn": "PALACE_WORLD_MAP_BLOCK_TRANSPARENT_GRAY_COLOR",
-    "value": "#48484848"
-  },
-  {
-    "sn": "PALACE_MAP_MESSAGE_DALYCHALLENGE_COST_ICON",
-    "value": "item-huobi-7.png"
-  },
-  {
-    "sn": "OWDAILYACTION_MAP_ZOOM_RATE",
-    "value": "0.7"
-  },
-  {
-    "sn": "OWDAILYACTION_MAP_ZOOM_RANGE",
-    "value": "0.4,1"
-  },
-  {
-    "sn": "OWDAILYACTION_MAP_OUTER_SIZE_RATIO",
-    "value": "1.1"
-  },
-  {
-    "sn": "OWDAILYACTION_MAP_UNLOCKANIMATION_RATE_INIT",
-    "value": "0.6"
-  },
-  {
-    "sn": "OWDAILYACTION_MAP_UNLOCKANIMATION_RATE",
-    "value": "1"
-  },
-  {
-    "sn": "OWDAILYACTION_MAP_UNLOCKANIMATION_CHANGE_SPEED",
-    "value": "0.6"
-  },
-  {
-    "sn": "OWDAILYACTION_MAP_UNLOCKANIMATION_LINE_WAIT",
-    "value": "0.5"
-  },
-  {
-    "sn": "OWDAILYACTION_MAP_UNLOCKANIMATION_ANIM_WAIT",
-    "value": "0.5"
-  },
-  {
-    "sn": "OWDAILYACTION_MAP_AREA_RATE",
-    "value": "1"
-  },
-  {
-    "sn": "OWDAILYACTION_MAP_CHOOSE_RATE",
-    "value": "1"
-  },
-  {
-    "sn": "OWDAILYACTION_MAP_ICON_RATE",
-    "value": "1"
-  },
-  {
-    "sn": "OWDAILYACTION_MAP_AREA_TRANSPOINT_CHANGETIME",
-    "value": "0.2"
-  },
-  {
-    "sn": "OWDAILYACTION_MAP_ICON_ALPHA",
-    "value": "1"
-  },
-  {
-    "sn": "OWDAILYACTION_MAP_ICON_DEFAULT_COLOR",
-    "value": "FFE80B"
-  },
-  {
-    "sn": "PWMAP_LIST_DEFAULT_HEIGHT_DAILY",
-    "value": "230"
-  },
-  {
-    "sn": "PWMAP_LIST_DEFAULT_HEIGHT_PALACE",
-    "value": "70"
-  },
-  {
-    "sn": "PWMAP_LIST_DEFAULT_HEIGHT_SAFEROOM",
-    "value": "70"
-  },
-  {
-    "sn": "PWMAP_LIST_DEFAULT_HEIGHT_VT",
-    "value": "70"
-  },
-  {
-    "sn": "QUEST_ONMAP_SCALE",
-    "value": "0.55"
-  },
-  {
-    "sn": "PALACE_WORLD_DEAD_MARK_ICON",
-    "value": "yishijie-icon-siwang-new.png"
-  },
-  {
-    "sn": "PALACE_WORLD_DEAD_MARK_DISAPPEAR_DISTANCE",
-    "value": "10"
-  },
-  {
-    "sn": "MAP_AREA_PIC_STANDARD",
-    "value": "95"
-  },
-  {
-    "sn": "UNLOAD_ROLLMAP_PIECE_TIME",
-    "value": "3,2.5,2"
-  },
-  {
-    "sn": "FIRST_QUEST",
-    "value": "10000"
-  },
-  {
-    "sn": "QUEST_FOR_CHANGENAME",
-    "value": "10002"
-  },
-  {
-    "sn": "FIND_TARGET_ANGLE_HORIZONTAL",
-    "value": "360"
-  },
-  {
-    "sn": "QUEST_ACCEPT_ICON",
-    "value": "common-renwu-wenhao.png"
-  },
-  {
-    "sn": "QUEST_NAVIGATE_ICON",
-    "value": "common-renwu-tanhao.png"
-  },
-  {
-    "sn": "QUEST_FINISH_ICON",
-    "value": "common-renwu-tanhao.png"
-  },
-  {
-    "sn": "QUEST_ACCEPT_ICON_PALACE",
-    "value": "common-renwu-wenhaobai.png"
-  },
-  {
-    "sn": "QUEST_NAVIGATE_ICON_PALACE",
-    "value": "common-renwu-tanhao-bai.png"
-  },
-  {
-    "sn": "QUEST_FINISH_ICON_PALACE",
-    "value": "common-renwu-tanhao-bai.png"
-  },
-  {
-    "sn": "QUEST_ONMAP_SHOWDISTANCE",
-    "value": "30"
-  },
-  {
-    "sn": "QUEST_HOVERING_TIME",
-    "value": "5"
-  },
-  {
-    "sn": "TASK_NEW_ICON_SHOW_TIME",
-    "value": "3"
-  },
-  {
-    "sn": "QUEST_ACCEPT_TIP_TIME",
-    "value": "3"
-  },
-  {
-    "sn": "FIND_TARGET_ANGLE",
-    "value": "30"
-  },
-  {
-    "sn": "FIND_TARGET_INDICATION_RANGE",
-    "value": "400,400"
-  },
-  {
-    "sn": "FIND_PALACE_TARGET_INDICATION_RANGE",
-    "value": "0.4,0.95"
-  },
-  {
-    "sn": "FIND_TARGET_HEIGHT",
-    "value": "0.45"
-  },
-  {
-    "sn": "FIND_TARGET_DISTANCE",
-    "value": "3"
-  },
-  {
-    "sn": "GUIDE_PAUSE_LONGEST_TIME",
-    "value": "600"
-  },
-  {
-    "sn": "FIND_TARGET_DISTANCE_ARROW",
-    "value": "10,45;5,60;2,360"
-  },
-  {
-    "sn": "FIND_TARGET_HIDE",
-    "value": "2"
-  },
-  {
-    "sn": "FIND_TARGET_NPC_HEIGHT",
-    "value": "0.01"
-  },
-  {
-    "sn": "FIND_TARGET_DISTANCE_HIDE",
-    "value": "1.5"
-  },
-  {
-    "sn": "FIND_TARGET_DISTANCE_DISPLAY",
-    "value": "3"
-  },
-  {
-    "sn": "FIND_TARGET_DISTANCE_HIDE_CAR",
-    "value": "5"
-  },
-  {
-    "sn": "FIND_TARGET_DISTANCE_DISPLAY_CAR",
-    "value": "9"
-  },
-  {
-    "sn": "FIND_TARGET_DISTANCE_HIDE_ROBOT",
-    "value": "6"
-  },
-  {
-    "sn": "FIND_TARGET_DISTANCE_DISPLAY_ROBOT",
-    "value": "10"
-  },
-  {
-    "sn": "FIND_TARGET_DISTANCE_HIDE_ARROW",
-    "value": "6,180;3,180;2,360"
-  },
-  {
-    "sn": "QUEST_TAP_ALL",
-    "value": "1,2,3,4,5,10"
-  },
-  {
-    "sn": "QUEST_SHOW_ON_TOP",
-    "value": "1,2,3,4,5,10"
-  },
-  {
-    "sn": "QUEST_TRACK_ALL",
-    "value": "1,2,3,4,5,10,1000"
-  },
-  {
-    "sn": "REALTIME_TRACE_QUEST_GOAL_PALACE",
-    "value": "104,202"
-  },
-  {
-    "sn": "REALTIME_TRACE_QUEST_GOAL_CITY",
-    "value": "104"
-  },
-  {
-    "sn": "QUEST_SCENE_ICON_SCALE",
-    "value": "0.65"
-  },
-  {
-    "sn": "STRESS_TAP_END_QUEST",
-    "value": "10430"
-  },
-  {
-    "sn": "STRESS_TAP_QUEST_NO_CHANGE_TIMEOUT",
-    "value": "60"
-  },
-  {
-    "sn": "STRESS_TAP_NOT_IN_SCENE_TIMEOUT",
-    "value": "60"
-  },
-  {
-    "sn": "QUEST_LOG_TASK_TYPE",
-    "value": "102,1"
-  },
-  {
-    "sn": "QUEST_LOG_STYLE_1_DIALOG_PARAM",
-    "value": "1,4,8,9,12,19"
-  },
-  {
-    "sn": "QUEST_LOG_STYLE_2_DIALOG_PARAM",
-    "value": "2"
-  },
-  {
-    "sn": "QUEST_LOG_STYLE_3_DIALOG_PARAM",
-    "value": "3,10,11"
-  },
-  {
-    "sn": "QUEST_TYPE_TRACK_TO_ACTIVE",
-    "value": "2,4,5,10"
-  },
-  {
-    "sn": "TRACK_TYPE_SHOW_ON_MAP",
-    "value": "200,299"
-  },
-  {
-    "sn": "QUEST_TYPE_ONLY_OTHER_SYSTEM_TRIGGER",
-    "value": "3"
-  },
-  {
-    "sn": "QUEST_LVUP_SHOW",
-    "value": "11147,10713,10784,11081,11464,12442,12331"
-  },
-  {
-    "sn": "QUEST_FIRST_SCENE_AREA_QUESTS",
-    "value": "10001,10002,10003,10004"
-  },
-  {
-    "sn": "QUEST_FIRST_SCENE_AREA_TIMEOUT",
-    "value": "5"
-  },
-  {
-    "sn": "QUEST_COMMON_RAID_SCENE_TYPE",
-    "value": "1100,1700"
-  },
-  {
-    "sn": "QUEST_TARGET_TPYES_IN_OPEN_WORLD",
-    "value": "100,101,301"
-  },
-  {
-    "sn": "DIRECT_VICTORY_QUEST_BATTLES",
-    "value": "20004"
-  },
-  {
-    "sn": "QUEST_WEAR_FASHION_PARAM",
-    "value": "101,100,101,10075,10092|101,100,101,10095,10095|101,100,101,10120,10131"
-  },
-  {
-    "sn": "QUEST_TYPE_SPECIAL",
-    "value": "1000,1001,2001,2002,2004,2005,2010"
-  },
-  {
-    "sn": "QUEST_LEAVE_SCHOOL_TELEPORT",
-    "value": "999971"
-  },
-  {
-    "sn": "QUEST_RESET_CLIENT_LOGIN_EXCEPT_QUESTS",
-    "value": "11054,12445,12302,10116,10146,10083,11903"
-  },
-  {
-    "sn": "QUEST_RESET_AFTER_SERVER_STOP_PROCESSING_QUESTS",
-    "value": "10031,10032,10035,10036,10037,10040,10063,10071,10090,10110,10111,10122,10131,10132,10150,10161,10170,10260,10262,10270,10271,10281,10283,10285,10286,10288,10291,10293,10294,10683,10687,10688,10689,10257,10255,10256,10171,10008,10030,10056,10120,10121,10130,10151,10173,10290,11175,10267,10160"
-  },
-  {
-    "sn": "QUEST_LOGIN_SCENE_QUEST_TELEPORT",
-    "value": "4001,10071,999886"
-  },
-  {
-    "sn": "QUEST_LOGIN_IGNORED_NEW_LINE",
+    "sn": "CHESS_GOLD_TRIGGER_EFFECT",
     "value": "AAAAAA=="
   },
   {
-    "sn": "QUEST_AUTOMATIC_TRACKING",
-    "value": "50001,22040"
+    "sn": "PALACE_CHESS_ENEMY_ATTACK_RANGE_EFFECT",
+    "value": "fx_chess_attackRange"
+  },
+  {
+    "sn": "PALACE_CHESS_ENEMY_ROUTINE_STRIGHT_EFFECT",
+    "value": "fx_chess_routine_line"
+  },
+  {
+    "sn": "PALACE_CHESS_ENEMY_ROUTINE_CORNER_EFFECT",
+    "value": "fx_chess_routine_corner"
   },
   {
     "sn": "COOP_MOOD_PROP1",
@@ -7396,32 +5968,1468 @@
     "value": "tianerong-xinzhihai-duanwei02-new.png"
   },
   {
-    "sn": "PALACE_CHESS_PULL_ACTION",
-    "value": "wonder_thief@point_screen"
+    "sn": "RUSH_MOVE_SPEED_101",
+    "value": "10.4"
   },
   {
-    "sn": "CHESS_MOVE_TIME",
-    "value": "0.8"
+    "sn": "RUSH_MOVE_SPEED_301",
+    "value": "8"
   },
   {
-    "sn": "CHESS_SUCCESS_EFFECT",
-    "value": "TL_chess_finish.prefab"
+    "sn": "RUSH_MOVE_SPEED_4",
+    "value": "8"
   },
   {
-    "sn": "CHESS_GOLD_TRIGGER_EFFECT",
-    "value": "AAAAAA=="
+    "sn": "RUSH_MOVE_SPEED_401",
+    "value": "8"
   },
   {
-    "sn": "PALACE_CHESS_ENEMY_ATTACK_RANGE_EFFECT",
-    "value": "fx_chess_attackRange"
+    "sn": "RUSH_MOVE_SPEED_102",
+    "value": "1.8"
   },
   {
-    "sn": "PALACE_CHESS_ENEMY_ROUTINE_STRIGHT_EFFECT",
-    "value": "fx_chess_routine_line"
+    "sn": "RUSH_MOVE_SPEED_901",
+    "value": "1.8"
   },
   {
-    "sn": "PALACE_CHESS_ENEMY_ROUTINE_CORNER_EFFECT",
-    "value": "fx_chess_routine_corner"
+    "sn": "RUSH_MOVE_SPEED_7",
+    "value": "8"
+  },
+  {
+    "sn": "RUSH_MOVE_SPEED_501",
+    "value": "16"
+  },
+  {
+    "sn": "RUSH_MOVE_SPEED_HOLE",
+    "value": "2.5"
+  },
+  {
+    "sn": "RUN_MOVE_SPEED_SQUAT",
+    "value": "3"
+  },
+  {
+    "sn": "RUSH_MOVE_SPEED_601",
+    "value": "18"
+  },
+  {
+    "sn": "RUSH_MOVE_SPEED_602",
+    "value": "8"
+  },
+  {
+    "sn": "RUSH_MOVE_SPEED_302",
+    "value": "10.4"
+  },
+  {
+    "sn": "RUSH_MOVE_SPEED_SN265",
+    "value": "7.3"
+  },
+  {
+    "sn": "RUN_ACCELERATION_UNIFORM",
+    "value": "18"
+  },
+  {
+    "sn": "RUN_ACCELERATION_THIEF",
+    "value": "18"
+  },
+  {
+    "sn": "RUN_ACCELERATION_CAR",
+    "value": "30"
+  },
+  {
+    "sn": "RUN_ACCELERATION_THIEF_FIRST_PERSON",
+    "value": "30"
+  },
+  {
+    "sn": "RUN_1_SPEED",
+    "value": "2.6"
+  },
+  {
+    "sn": "RUN_2_SPEED",
+    "value": "2.6"
+  },
+  {
+    "sn": "RUN_3_SPEED",
+    "value": "2.6"
+  },
+  {
+    "sn": "RUN_4_SPEED",
+    "value": "2.6"
+  },
+  {
+    "sn": "RUN_5_SPEED",
+    "value": "2.6"
+  },
+  {
+    "sn": "RUN_6_SPEED",
+    "value": "7.3"
+  },
+  {
+    "sn": "RUN_7_SPEED",
+    "value": "7.3"
+  },
+  {
+    "sn": "RUN_8_SPEED",
+    "value": "7.3"
+  },
+  {
+    "sn": "RUN_9_SPEED",
+    "value": "7.3"
+  },
+  {
+    "sn": "RUN_10_SPEED",
+    "value": "7.3"
+  },
+  {
+    "sn": "RUN_1_SPEED_101",
+    "value": "2.6"
+  },
+  {
+    "sn": "RUN_2_SPEED_101",
+    "value": "2.6"
+  },
+  {
+    "sn": "RUN_3_SPEED_101",
+    "value": "2.6"
+  },
+  {
+    "sn": "RUN_4_SPEED_101",
+    "value": "2.6"
+  },
+  {
+    "sn": "RUN_5_SPEED_101",
+    "value": "2.6"
+  },
+  {
+    "sn": "RUN_6_SPEED_101",
+    "value": "2.6"
+  },
+  {
+    "sn": "RUN_7_SPEED_101",
+    "value": "2.6"
+  },
+  {
+    "sn": "RUN_8_SPEED_101",
+    "value": "2.6"
+  },
+  {
+    "sn": "RUN_9_SPEED_101",
+    "value": "7.3"
+  },
+  {
+    "sn": "RUN_10_SPEED_101",
+    "value": "7.3"
+  },
+  {
+    "sn": "RUN_1_SPEED_301",
+    "value": "3"
+  },
+  {
+    "sn": "RUN_2_SPEED_301",
+    "value": "3"
+  },
+  {
+    "sn": "RUN_3_SPEED_301",
+    "value": "3"
+  },
+  {
+    "sn": "RUN_4_SPEED_301",
+    "value": "3"
+  },
+  {
+    "sn": "RUN_5_SPEED_301",
+    "value": "3"
+  },
+  {
+    "sn": "RUN_6_SPEED_301",
+    "value": "3"
+  },
+  {
+    "sn": "RUN_7_SPEED_301",
+    "value": "3"
+  },
+  {
+    "sn": "RUN_8_SPEED_301",
+    "value": "3"
+  },
+  {
+    "sn": "RUN_9_SPEED_301",
+    "value": "5.4"
+  },
+  {
+    "sn": "RUN_10_SPEED_301",
+    "value": "5.4"
+  },
+  {
+    "sn": "RUN_1_SPEED_4",
+    "value": "3"
+  },
+  {
+    "sn": "RUN_2_SPEED_4",
+    "value": "3"
+  },
+  {
+    "sn": "RUN_3_SPEED_4",
+    "value": "3"
+  },
+  {
+    "sn": "RUN_4_SPEED_4",
+    "value": "3"
+  },
+  {
+    "sn": "RUN_5_SPEED_4",
+    "value": "3"
+  },
+  {
+    "sn": "RUN_6_SPEED_4",
+    "value": "3"
+  },
+  {
+    "sn": "RUN_7_SPEED_4",
+    "value": "3"
+  },
+  {
+    "sn": "RUN_8_SPEED_4",
+    "value": "3"
+  },
+  {
+    "sn": "RUN_9_SPEED_4",
+    "value": "5.4"
+  },
+  {
+    "sn": "RUN_10_SPEED_4",
+    "value": "5.4"
+  },
+  {
+    "sn": "RUN_1_SPEED_401",
+    "value": "3"
+  },
+  {
+    "sn": "RUN_2_SPEED_401",
+    "value": "3"
+  },
+  {
+    "sn": "RUN_3_SPEED_401",
+    "value": "3"
+  },
+  {
+    "sn": "RUN_4_SPEED_401",
+    "value": "3"
+  },
+  {
+    "sn": "RUN_5_SPEED_401",
+    "value": "3"
+  },
+  {
+    "sn": "RUN_6_SPEED_401",
+    "value": "3.9"
+  },
+  {
+    "sn": "RUN_7_SPEED_401",
+    "value": "3.9"
+  },
+  {
+    "sn": "RUN_8_SPEED_401",
+    "value": "3.9"
+  },
+  {
+    "sn": "RUN_9_SPEED_401",
+    "value": "5.4"
+  },
+  {
+    "sn": "RUN_10_SPEED_401",
+    "value": "5.4"
+  },
+  {
+    "sn": "RUN_1_SPEED_102",
+    "value": "2.6"
+  },
+  {
+    "sn": "RUN_2_SPEED_102",
+    "value": "2.6"
+  },
+  {
+    "sn": "RUN_3_SPEED_102",
+    "value": "2.6"
+  },
+  {
+    "sn": "RUN_4_SPEED_102",
+    "value": "2.6"
+  },
+  {
+    "sn": "RUN_5_SPEED_102",
+    "value": "2.6"
+  },
+  {
+    "sn": "RUN_6_SPEED_102",
+    "value": "2.6"
+  },
+  {
+    "sn": "RUN_7_SPEED_102",
+    "value": "2.6"
+  },
+  {
+    "sn": "RUN_8_SPEED_102",
+    "value": "2.6"
+  },
+  {
+    "sn": "RUN_9_SPEED_102",
+    "value": "2.6"
+  },
+  {
+    "sn": "RUN_10_SPEED_102",
+    "value": "2.6"
+  },
+  {
+    "sn": "RUN_1_SPEED_901",
+    "value": "2.6"
+  },
+  {
+    "sn": "RUN_2_SPEED_901",
+    "value": "2.6"
+  },
+  {
+    "sn": "RUN_3_SPEED_901",
+    "value": "2.6"
+  },
+  {
+    "sn": "RUN_4_SPEED_901",
+    "value": "2.6"
+  },
+  {
+    "sn": "RUN_5_SPEED_901",
+    "value": "2.6"
+  },
+  {
+    "sn": "RUN_6_SPEED_901",
+    "value": "2.6"
+  },
+  {
+    "sn": "RUN_7_SPEED_901",
+    "value": "2.6"
+  },
+  {
+    "sn": "RUN_8_SPEED_901",
+    "value": "2.6"
+  },
+  {
+    "sn": "RUN_9_SPEED_901",
+    "value": "2.6"
+  },
+  {
+    "sn": "RUN_10_SPEED_901",
+    "value": "2.6"
+  },
+  {
+    "sn": "RUN_1_SPEED_7",
+    "value": "3"
+  },
+  {
+    "sn": "RUN_2_SPEED_7",
+    "value": "3"
+  },
+  {
+    "sn": "RUN_3_SPEED_7",
+    "value": "3"
+  },
+  {
+    "sn": "RUN_4_SPEED_7",
+    "value": "3"
+  },
+  {
+    "sn": "RUN_5_SPEED_7",
+    "value": "3"
+  },
+  {
+    "sn": "RUN_6_SPEED_7",
+    "value": "3"
+  },
+  {
+    "sn": "RUN_7_SPEED_7",
+    "value": "3"
+  },
+  {
+    "sn": "RUN_8_SPEED_7",
+    "value": "3"
+  },
+  {
+    "sn": "RUN_9_SPEED_7",
+    "value": "5.4"
+  },
+  {
+    "sn": "RUN_10_SPEED_7",
+    "value": "5.4"
+  },
+  {
+    "sn": "RUN_1_SPEED_501",
+    "value": "8"
+  },
+  {
+    "sn": "RUN_2_SPEED_501",
+    "value": "8"
+  },
+  {
+    "sn": "RUN_3_SPEED_501",
+    "value": "8"
+  },
+  {
+    "sn": "RUN_4_SPEED_501",
+    "value": "12"
+  },
+  {
+    "sn": "RUN_5_SPEED_501",
+    "value": "12"
+  },
+  {
+    "sn": "RUN_6_SPEED_501",
+    "value": "12"
+  },
+  {
+    "sn": "RUN_7_SPEED_501",
+    "value": "12"
+  },
+  {
+    "sn": "RUN_8_SPEED_501",
+    "value": "12"
+  },
+  {
+    "sn": "RUN_9_SPEED_501",
+    "value": "12"
+  },
+  {
+    "sn": "RUN_10_SPEED_501",
+    "value": "12"
+  },
+  {
+    "sn": "RUN_MAXSPEED_501",
+    "value": "20"
+  },
+  {
+    "sn": "RUN_1_SPEED_HOLE",
+    "value": "3"
+  },
+  {
+    "sn": "RUN_2_SPEED_HOLE",
+    "value": "3"
+  },
+  {
+    "sn": "RUN_3_SPEED_HOLE",
+    "value": "3"
+  },
+  {
+    "sn": "RUN_4_SPEED_HOLE",
+    "value": "3"
+  },
+  {
+    "sn": "RUN_5_SPEED_HOLE",
+    "value": "3"
+  },
+  {
+    "sn": "RUN_6_SPEED_HOLE",
+    "value": "3"
+  },
+  {
+    "sn": "RUN_7_SPEED_HOLE",
+    "value": "3"
+  },
+  {
+    "sn": "RUN_8_SPEED_HOLE",
+    "value": "3"
+  },
+  {
+    "sn": "RUN_9_SPEED_HOLE",
+    "value": "3"
+  },
+  {
+    "sn": "RUN_10_SPEED_HOLE",
+    "value": "3"
+  },
+  {
+    "sn": "RUN_1_SPEED_SQUAT",
+    "value": "2.5"
+  },
+  {
+    "sn": "RUN_2_SPEED_SQUAT",
+    "value": "2.5"
+  },
+  {
+    "sn": "RUN_3_SPEED_SQUAT",
+    "value": "2.5"
+  },
+  {
+    "sn": "RUN_4_SPEED_SQUAT",
+    "value": "2.5"
+  },
+  {
+    "sn": "RUN_5_SPEED_SQUAT",
+    "value": "2.5"
+  },
+  {
+    "sn": "RUN_6_SPEED_SQUAT",
+    "value": "2.5"
+  },
+  {
+    "sn": "RUN_7_SPEED_SQUAT",
+    "value": "2.5"
+  },
+  {
+    "sn": "RUN_8_SPEED_SQUAT",
+    "value": "2.5"
+  },
+  {
+    "sn": "RUN_9_SPEED_SQUAT",
+    "value": "2.5"
+  },
+  {
+    "sn": "RUN_10_SPEED_SQUAT",
+    "value": "2.5"
+  },
+  {
+    "sn": "RUN_1_SPEED_601",
+    "value": "2"
+  },
+  {
+    "sn": "RUN_2_SPEED_601",
+    "value": "2"
+  },
+  {
+    "sn": "RUN_3_SPEED_601",
+    "value": "4"
+  },
+  {
+    "sn": "RUN_4_SPEED_601",
+    "value": "4"
+  },
+  {
+    "sn": "RUN_5_SPEED_601",
+    "value": "6"
+  },
+  {
+    "sn": "RUN_6_SPEED_601",
+    "value": "6"
+  },
+  {
+    "sn": "RUN_7_SPEED_601",
+    "value": "8"
+  },
+  {
+    "sn": "RUN_8_SPEED_601",
+    "value": "8"
+  },
+  {
+    "sn": "RUN_9_SPEED_601",
+    "value": "12"
+  },
+  {
+    "sn": "RUN_10_SPEED_601",
+    "value": "12"
+  },
+  {
+    "sn": "RUN_MAXSPEED_601",
+    "value": "20"
+  },
+  {
+    "sn": "RUN_1_SPEED_602",
+    "value": "3"
+  },
+  {
+    "sn": "RUN_2_SPEED_602",
+    "value": "3"
+  },
+  {
+    "sn": "RUN_3_SPEED_602",
+    "value": "3"
+  },
+  {
+    "sn": "RUN_4_SPEED_602",
+    "value": "3"
+  },
+  {
+    "sn": "RUN_5_SPEED_602",
+    "value": "3"
+  },
+  {
+    "sn": "RUN_6_SPEED_602",
+    "value": "3.9"
+  },
+  {
+    "sn": "RUN_7_SPEED_602",
+    "value": "3.9"
+  },
+  {
+    "sn": "RUN_8_SPEED_602",
+    "value": "3.9"
+  },
+  {
+    "sn": "RUN_9_SPEED_602",
+    "value": "5.4"
+  },
+  {
+    "sn": "RUN_10_SPEED_602",
+    "value": "5.4"
+  },
+  {
+    "sn": "RUN_1_SPEED_1700",
+    "value": "3"
+  },
+  {
+    "sn": "RUN_2_SPEED_1700",
+    "value": "3"
+  },
+  {
+    "sn": "RUN_3_SPEED_1700",
+    "value": "3"
+  },
+  {
+    "sn": "RUN_4_SPEED_1700",
+    "value": "3"
+  },
+  {
+    "sn": "RUN_5_SPEED_1700",
+    "value": "3"
+  },
+  {
+    "sn": "RUN_6_SPEED_1700",
+    "value": "3.9"
+  },
+  {
+    "sn": "RUN_7_SPEED_1700",
+    "value": "3.9"
+  },
+  {
+    "sn": "RUN_8_SPEED_1700",
+    "value": "3.9"
+  },
+  {
+    "sn": "RUN_9_SPEED_1700",
+    "value": "5.4"
+  },
+  {
+    "sn": "RUN_10_SPEED_1700",
+    "value": "5.4"
+  },
+  {
+    "sn": "RUSH_MOVE_SPEED_1700",
+    "value": "8"
+  },
+  {
+    "sn": "RUN_1_SPEED_302",
+    "value": "2.6"
+  },
+  {
+    "sn": "RUN_2_SPEED_302",
+    "value": "2.6"
+  },
+  {
+    "sn": "RUN_3_SPEED_302",
+    "value": "2.6"
+  },
+  {
+    "sn": "RUN_4_SPEED_302",
+    "value": "2.6"
+  },
+  {
+    "sn": "RUN_5_SPEED_302",
+    "value": "2.6"
+  },
+  {
+    "sn": "RUN_6_SPEED_302",
+    "value": "2.6"
+  },
+  {
+    "sn": "RUN_7_SPEED_302",
+    "value": "2.6"
+  },
+  {
+    "sn": "RUN_8_SPEED_302",
+    "value": "2.6"
+  },
+  {
+    "sn": "RUN_9_SPEED_302",
+    "value": "7.3"
+  },
+  {
+    "sn": "RUN_10_SPEED_302",
+    "value": "7.3"
+  },
+  {
+    "sn": "RUN_1_SPEED_SN265",
+    "value": "1.8"
+  },
+  {
+    "sn": "RUN_2_SPEED_SN265",
+    "value": "1.8"
+  },
+  {
+    "sn": "RUN_3_SPEED_SN265",
+    "value": "1.8"
+  },
+  {
+    "sn": "RUN_4_SPEED_SN265",
+    "value": "7.3"
+  },
+  {
+    "sn": "RUN_5_SPEED_SN265",
+    "value": "7.3"
+  },
+  {
+    "sn": "RUN_6_SPEED_SN265",
+    "value": "7.3"
+  },
+  {
+    "sn": "RUN_7_SPEED_SN265",
+    "value": "7.3"
+  },
+  {
+    "sn": "RUN_8_SPEED_SN265",
+    "value": "7.3"
+  },
+  {
+    "sn": "RUN_9_SPEED_SN265",
+    "value": "7.3"
+  },
+  {
+    "sn": "RUN_10_SPEED_SN265",
+    "value": "7.3"
+  },
+  {
+    "sn": "RUSH_MOVE_SPEED",
+    "value": "10.4"
+  },
+  {
+    "sn": "RUN_1_SPEED_SN5509",
+    "value": "3"
+  },
+  {
+    "sn": "RUN_2_SPEED_SN5509",
+    "value": "3"
+  },
+  {
+    "sn": "RUN_3_SPEED_SN5509",
+    "value": "3"
+  },
+  {
+    "sn": "RUN_4_SPEED_SN5509",
+    "value": "3"
+  },
+  {
+    "sn": "RUN_5_SPEED_SN5509",
+    "value": "3"
+  },
+  {
+    "sn": "RUN_6_SPEED_SN5509",
+    "value": "3"
+  },
+  {
+    "sn": "RUN_7_SPEED_SN5509",
+    "value": "3"
+  },
+  {
+    "sn": "RUN_8_SPEED_SN5509",
+    "value": "3"
+  },
+  {
+    "sn": "RUN_9_SPEED_SN5509",
+    "value": "5.4"
+  },
+  {
+    "sn": "RUN_10_SPEED_SN5509",
+    "value": "5.4"
+  },
+  {
+    "sn": "RUSH_MOVE_SPEED_SN5509",
+    "value": "8"
+  },
+  {
+    "sn": "RUN_1_SPEED_SN5519",
+    "value": "3"
+  },
+  {
+    "sn": "RUN_2_SPEED_SN5519",
+    "value": "3"
+  },
+  {
+    "sn": "RUN_3_SPEED_SN5519",
+    "value": "3"
+  },
+  {
+    "sn": "RUN_4_SPEED_SN5519",
+    "value": "3"
+  },
+  {
+    "sn": "RUN_5_SPEED_SN5519",
+    "value": "3"
+  },
+  {
+    "sn": "RUN_6_SPEED_SN5519",
+    "value": "3"
+  },
+  {
+    "sn": "RUN_7_SPEED_SN5519",
+    "value": "3"
+  },
+  {
+    "sn": "RUN_8_SPEED_SN5519",
+    "value": "3"
+  },
+  {
+    "sn": "RUN_9_SPEED_SN5519",
+    "value": "5.4"
+  },
+  {
+    "sn": "RUN_10_SPEED_SN5519",
+    "value": "5.4"
+  },
+  {
+    "sn": "RUSH_MOVE_SPEED_SN5519",
+    "value": "8"
+  },
+  {
+    "sn": "RUN_1_SPEED_1100",
+    "value": "3"
+  },
+  {
+    "sn": "RUN_2_SPEED_1100",
+    "value": "3"
+  },
+  {
+    "sn": "RUN_3_SPEED_1100",
+    "value": "3"
+  },
+  {
+    "sn": "RUN_4_SPEED_1100",
+    "value": "3"
+  },
+  {
+    "sn": "RUN_5_SPEED_1100",
+    "value": "3"
+  },
+  {
+    "sn": "RUN_6_SPEED_1100",
+    "value": "3.9"
+  },
+  {
+    "sn": "RUN_7_SPEED_1100",
+    "value": "3.9"
+  },
+  {
+    "sn": "RUN_8_SPEED_1100",
+    "value": "3.9"
+  },
+  {
+    "sn": "RUN_9_SPEED_1100",
+    "value": "5.4"
+  },
+  {
+    "sn": "RUN_10_SPEED_1100",
+    "value": "5.4"
+  },
+  {
+    "sn": "RUSH_MOVE_SPEED_1100",
+    "value": "8"
+  },
+  {
+    "sn": "RUN_1_SPEED_1200",
+    "value": "3"
+  },
+  {
+    "sn": "RUN_2_SPEED_1200",
+    "value": "3"
+  },
+  {
+    "sn": "RUN_3_SPEED_1200",
+    "value": "3"
+  },
+  {
+    "sn": "RUN_4_SPEED_1200",
+    "value": "3"
+  },
+  {
+    "sn": "RUN_5_SPEED_1200",
+    "value": "3"
+  },
+  {
+    "sn": "RUN_6_SPEED_1200",
+    "value": "3.9"
+  },
+  {
+    "sn": "RUN_7_SPEED_1200",
+    "value": "3.9"
+  },
+  {
+    "sn": "RUN_8_SPEED_1200",
+    "value": "3.9"
+  },
+  {
+    "sn": "RUN_9_SPEED_1200",
+    "value": "5.4"
+  },
+  {
+    "sn": "RUN_10_SPEED_1200",
+    "value": "5.4"
+  },
+  {
+    "sn": "RUSH_MOVE_SPEED_1200",
+    "value": "8"
+  },
+  {
+    "sn": "RUN_1_SPEED_SN20001",
+    "value": "3"
+  },
+  {
+    "sn": "RUN_2_SPEED_SN20001",
+    "value": "3"
+  },
+  {
+    "sn": "RUN_3_SPEED_SN20001",
+    "value": "3"
+  },
+  {
+    "sn": "RUN_4_SPEED_SN20001",
+    "value": "3"
+  },
+  {
+    "sn": "RUN_5_SPEED_SN20001",
+    "value": "3"
+  },
+  {
+    "sn": "RUN_6_SPEED_SN20001",
+    "value": "3"
+  },
+  {
+    "sn": "RUN_7_SPEED_SN20001",
+    "value": "3"
+  },
+  {
+    "sn": "RUN_8_SPEED_SN20001",
+    "value": "3"
+  },
+  {
+    "sn": "RUN_9_SPEED_SN20001",
+    "value": "5.4"
+  },
+  {
+    "sn": "RUN_10_SPEED_SN20001",
+    "value": "5.4"
+  },
+  {
+    "sn": "RUSH_MOVE_SPEED_SN20001",
+    "value": "8"
+  },
+  {
+    "sn": "RUN_1_SPEED_SN20002",
+    "value": "3"
+  },
+  {
+    "sn": "RUN_2_SPEED_SN20002",
+    "value": "3"
+  },
+  {
+    "sn": "RUN_3_SPEED_SN20002",
+    "value": "3"
+  },
+  {
+    "sn": "RUN_4_SPEED_SN20002",
+    "value": "3"
+  },
+  {
+    "sn": "RUN_5_SPEED_SN20002",
+    "value": "3"
+  },
+  {
+    "sn": "RUN_6_SPEED_SN20002",
+    "value": "3"
+  },
+  {
+    "sn": "RUN_7_SPEED_SN20002",
+    "value": "3"
+  },
+  {
+    "sn": "RUN_8_SPEED_SN20002",
+    "value": "3"
+  },
+  {
+    "sn": "RUN_9_SPEED_SN20002",
+    "value": "5.4"
+  },
+  {
+    "sn": "RUN_10_SPEED_SN20002",
+    "value": "5.4"
+  },
+  {
+    "sn": "RUSH_MOVE_SPEED_SN20002",
+    "value": "8"
+  },
+  {
+    "sn": "RUN_1_SPEED_SN20003",
+    "value": "3"
+  },
+  {
+    "sn": "RUN_2_SPEED_SN20003",
+    "value": "3"
+  },
+  {
+    "sn": "RUN_3_SPEED_SN20003",
+    "value": "3"
+  },
+  {
+    "sn": "RUN_4_SPEED_SN20003",
+    "value": "3"
+  },
+  {
+    "sn": "RUN_5_SPEED_SN20003",
+    "value": "3"
+  },
+  {
+    "sn": "RUN_6_SPEED_SN20003",
+    "value": "3"
+  },
+  {
+    "sn": "RUN_7_SPEED_SN20003",
+    "value": "3"
+  },
+  {
+    "sn": "RUN_8_SPEED_SN20003",
+    "value": "3"
+  },
+  {
+    "sn": "RUN_9_SPEED_SN20003",
+    "value": "5.4"
+  },
+  {
+    "sn": "RUN_10_SPEED_SN20003",
+    "value": "5.4"
+  },
+  {
+    "sn": "RUSH_MOVE_SPEED_SN20003",
+    "value": "8"
+  },
+  {
+    "sn": "RUN_1_SPEED_SN20011",
+    "value": "3"
+  },
+  {
+    "sn": "RUN_2_SPEED_SN20011",
+    "value": "3"
+  },
+  {
+    "sn": "RUN_3_SPEED_SN20011",
+    "value": "3"
+  },
+  {
+    "sn": "RUN_4_SPEED_SN20011",
+    "value": "3"
+  },
+  {
+    "sn": "RUN_5_SPEED_SN20011",
+    "value": "3"
+  },
+  {
+    "sn": "RUN_6_SPEED_SN20011",
+    "value": "3"
+  },
+  {
+    "sn": "RUN_7_SPEED_SN20011",
+    "value": "3"
+  },
+  {
+    "sn": "RUN_8_SPEED_SN20011",
+    "value": "3"
+  },
+  {
+    "sn": "RUN_9_SPEED_SN20011",
+    "value": "5.4"
+  },
+  {
+    "sn": "RUN_10_SPEED_SN20011",
+    "value": "5.4"
+  },
+  {
+    "sn": "RUSH_MOVE_SPEED_SN20011",
+    "value": "8"
+  },
+  {
+    "sn": "RUN_1_SPEED_SN20012",
+    "value": "3"
+  },
+  {
+    "sn": "RUN_2_SPEED_SN20012",
+    "value": "3"
+  },
+  {
+    "sn": "RUN_3_SPEED_SN20012",
+    "value": "3"
+  },
+  {
+    "sn": "RUN_4_SPEED_SN20012",
+    "value": "3"
+  },
+  {
+    "sn": "RUN_5_SPEED_SN20012",
+    "value": "3"
+  },
+  {
+    "sn": "RUN_6_SPEED_SN20012",
+    "value": "3"
+  },
+  {
+    "sn": "RUN_7_SPEED_SN20012",
+    "value": "3"
+  },
+  {
+    "sn": "RUN_8_SPEED_SN20012",
+    "value": "3"
+  },
+  {
+    "sn": "RUN_9_SPEED_SN20012",
+    "value": "5.4"
+  },
+  {
+    "sn": "RUN_10_SPEED_SN20012",
+    "value": "5.4"
+  },
+  {
+    "sn": "RUSH_MOVE_SPEED_SN20012",
+    "value": "8"
+  },
+  {
+    "sn": "RUN_1_SPEED_SN20013",
+    "value": "3"
+  },
+  {
+    "sn": "RUN_2_SPEED_SN20013",
+    "value": "3"
+  },
+  {
+    "sn": "RUN_3_SPEED_SN20013",
+    "value": "3"
+  },
+  {
+    "sn": "RUN_4_SPEED_SN20013",
+    "value": "3"
+  },
+  {
+    "sn": "RUN_5_SPEED_SN20013",
+    "value": "3"
+  },
+  {
+    "sn": "RUN_6_SPEED_SN20013",
+    "value": "3"
+  },
+  {
+    "sn": "RUN_7_SPEED_SN20013",
+    "value": "3"
+  },
+  {
+    "sn": "RUN_8_SPEED_SN20013",
+    "value": "3"
+  },
+  {
+    "sn": "RUN_9_SPEED_SN20013",
+    "value": "5.4"
+  },
+  {
+    "sn": "RUN_10_SPEED_SN20013",
+    "value": "5.4"
+  },
+  {
+    "sn": "RUSH_MOVE_SPEED_SN20013",
+    "value": "8"
+  },
+  {
+    "sn": "RUN_1_SPEED_SN20021",
+    "value": "3"
+  },
+  {
+    "sn": "RUN_2_SPEED_SN20021",
+    "value": "3"
+  },
+  {
+    "sn": "RUN_3_SPEED_SN20021",
+    "value": "3"
+  },
+  {
+    "sn": "RUN_4_SPEED_SN20021",
+    "value": "3"
+  },
+  {
+    "sn": "RUN_5_SPEED_SN20021",
+    "value": "3"
+  },
+  {
+    "sn": "RUN_6_SPEED_SN20021",
+    "value": "3"
+  },
+  {
+    "sn": "RUN_7_SPEED_SN20021",
+    "value": "3"
+  },
+  {
+    "sn": "RUN_8_SPEED_SN20021",
+    "value": "3"
+  },
+  {
+    "sn": "RUN_9_SPEED_SN20021",
+    "value": "5.4"
+  },
+  {
+    "sn": "RUN_10_SPEED_SN20021",
+    "value": "5.4"
+  },
+  {
+    "sn": "RUSH_MOVE_SPEED_SN20021",
+    "value": "8"
+  },
+  {
+    "sn": "RUN_1_SPEED_SN20022",
+    "value": "3"
+  },
+  {
+    "sn": "RUN_2_SPEED_SN20022",
+    "value": "3"
+  },
+  {
+    "sn": "RUN_3_SPEED_SN20022",
+    "value": "3"
+  },
+  {
+    "sn": "RUN_4_SPEED_SN20022",
+    "value": "3"
+  },
+  {
+    "sn": "RUN_5_SPEED_SN20022",
+    "value": "3"
+  },
+  {
+    "sn": "RUN_6_SPEED_SN20022",
+    "value": "3"
+  },
+  {
+    "sn": "RUN_7_SPEED_SN20022",
+    "value": "3"
+  },
+  {
+    "sn": "RUN_8_SPEED_SN20022",
+    "value": "3"
+  },
+  {
+    "sn": "RUN_9_SPEED_SN20022",
+    "value": "5.4"
+  },
+  {
+    "sn": "RUN_10_SPEED_SN20022",
+    "value": "5.4"
+  },
+  {
+    "sn": "RUSH_MOVE_SPEED_SN20022",
+    "value": "8"
+  },
+  {
+    "sn": "RUN_1_SPEED_SN20023",
+    "value": "3"
+  },
+  {
+    "sn": "RUN_2_SPEED_SN20023",
+    "value": "3"
+  },
+  {
+    "sn": "RUN_3_SPEED_SN20023",
+    "value": "3"
+  },
+  {
+    "sn": "RUN_4_SPEED_SN20023",
+    "value": "3"
+  },
+  {
+    "sn": "RUN_5_SPEED_SN20023",
+    "value": "3"
+  },
+  {
+    "sn": "RUN_6_SPEED_SN20023",
+    "value": "3"
+  },
+  {
+    "sn": "RUN_7_SPEED_SN20023",
+    "value": "3"
+  },
+  {
+    "sn": "RUN_8_SPEED_SN20023",
+    "value": "3"
+  },
+  {
+    "sn": "RUN_9_SPEED_SN20023",
+    "value": "5.4"
+  },
+  {
+    "sn": "RUN_10_SPEED_SN20023",
+    "value": "5.4"
+  },
+  {
+    "sn": "RUSH_MOVE_SPEED_SN20023",
+    "value": "8"
+  },
+  {
+    "sn": "RUN_1_SPEED_1400",
+    "value": "3"
+  },
+  {
+    "sn": "RUN_2_SPEED_1400",
+    "value": "3"
+  },
+  {
+    "sn": "RUN_3_SPEED_1400",
+    "value": "3"
+  },
+  {
+    "sn": "RUN_4_SPEED_1400",
+    "value": "3"
+  },
+  {
+    "sn": "RUN_5_SPEED_1400",
+    "value": "3"
+  },
+  {
+    "sn": "RUN_6_SPEED_1400",
+    "value": "3"
+  },
+  {
+    "sn": "RUN_7_SPEED_1400",
+    "value": "3"
+  },
+  {
+    "sn": "RUN_8_SPEED_1400",
+    "value": "3"
+  },
+  {
+    "sn": "RUN_9_SPEED_1400",
+    "value": "6"
+  },
+  {
+    "sn": "RUN_10_SPEED_1400",
+    "value": "6"
+  },
+  {
+    "sn": "RUN_1_SPEED_1500",
+    "value": "1.8"
+  },
+  {
+    "sn": "RUN_2_SPEED_1500",
+    "value": "1.8"
+  },
+  {
+    "sn": "RUN_3_SPEED_1500",
+    "value": "1.8"
+  },
+  {
+    "sn": "RUN_4_SPEED_1500",
+    "value": "1.8"
+  },
+  {
+    "sn": "RUN_5_SPEED_1500",
+    "value": "1.8"
+  },
+  {
+    "sn": "RUN_6_SPEED_1500",
+    "value": "1.8"
+  },
+  {
+    "sn": "RUN_7_SPEED_1500",
+    "value": "1.8"
+  },
+  {
+    "sn": "RUN_8_SPEED_1500",
+    "value": "1.8"
+  },
+  {
+    "sn": "RUN_9_SPEED_1500",
+    "value": "3"
+  },
+  {
+    "sn": "RUN_10_SPEED_1500",
+    "value": "3"
+  },
+  {
+    "sn": "RUSH_MOVE_SPEED_1500",
+    "value": "3"
+  },
+  {
+    "sn": "RUN_1_SPEED_AREA",
+    "value": "3"
+  },
+  {
+    "sn": "RUN_2_SPEED_AREA",
+    "value": "3"
+  },
+  {
+    "sn": "RUN_3_SPEED_AREA",
+    "value": "3"
+  },
+  {
+    "sn": "RUN_4_SPEED_AREA",
+    "value": "3"
+  },
+  {
+    "sn": "RUN_5_SPEED_AREA",
+    "value": "3"
+  },
+  {
+    "sn": "RUN_6_SPEED_AREA",
+    "value": "3"
+  },
+  {
+    "sn": "RUN_7_SPEED_AREA",
+    "value": "3"
+  },
+  {
+    "sn": "RUN_8_SPEED_AREA",
+    "value": "3"
+  },
+  {
+    "sn": "RUN_9_SPEED_AREA",
+    "value": "3"
+  },
+  {
+    "sn": "RUN_10_SPEED_AREA",
+    "value": "3"
+  },
+  {
+    "sn": "RUN_1_SPEED_AREA_8336",
+    "value": "1.8"
+  },
+  {
+    "sn": "RUN_2_SPEED_AREA_8336",
+    "value": "1.8"
+  },
+  {
+    "sn": "RUN_3_SPEED_AREA_8336",
+    "value": "1.8"
+  },
+  {
+    "sn": "RUN_4_SPEED_AREA_8336",
+    "value": "1.8"
+  },
+  {
+    "sn": "RUN_5_SPEED_AREA_8336",
+    "value": "1.8"
+  },
+  {
+    "sn": "RUN_6_SPEED_AREA_8336",
+    "value": "1.8"
+  },
+  {
+    "sn": "RUN_7_SPEED_AREA_8336",
+    "value": "1.8"
+  },
+  {
+    "sn": "RUN_8_SPEED_AREA_8336",
+    "value": "1.8"
+  },
+  {
+    "sn": "RUN_9_SPEED_AREA_8336",
+    "value": "3"
+  },
+  {
+    "sn": "RUN_10_SPEED_AREA_8336",
+    "value": "3"
   },
   {
     "sn": "ROGUE_TEAM_THIEF_MAX",
@@ -7534,326 +7542,6 @@
   {
     "sn": "ROGUE_MONSTER_KILLED_LEVEL",
     "value": "0"
-  },
-  {
-    "sn": "GAME_BASE_TIME",
-    "value": "2025/06/26 00:00:00"
-  },
-  {
-    "sn": "FULL_DOWNLOAD_TIPS_TIME",
-    "value": "2025-04-26 09:00:00"
-  },
-  {
-    "sn": "OB_SERVER_OPEN_TIME",
-    "value": "2025/06/26 12:00:00"
-  },
-  {
-    "sn": "NAME_CHARACTER_WHITELIST",
-    "value": ",，。 .々ヶ¤"
-  },
-  {
-    "sn": "NAME_LANGUAGE_WHITELIST",
-    "value": "1,2,4,6"
-  },
-  {
-    "sn": "ACTIVITY_COMEBACK_WEBSITE",
-    "value": "AAAAAA=="
-  },
-  {
-    "sn": "MONTHLY_CARD_REBATE_TIME",
-    "value": "2024/05/23 05:00:00"
-  },
-  {
-    "sn": "ADVANCE_PAYMENT_ITEM_SN",
-    "value": "2,300002,300001,300004"
-  },
-  {
-    "sn": "ADVANCE_PAYMENT_ITEM_PARAM",
-    "value": "1,150,150,100"
-  },
-  {
-    "sn": "ADVANCE_PAYMENT_NOT_SHOW_ITEM_SN",
-    "value": "AAAAAA=="
-  },
-  {
-    "sn": "ADVANCE_PAYMENT_NOT_SHOW_ITEM_PARAM",
-    "value": "AAAAAA=="
-  },
-  {
-    "sn": "PAYMENT_AGE_LIMIT",
-    "value": "12,5000|19,20000"
-  },
-  {
-    "sn": "FIRST_LOGIN_SDK",
-    "value": "1"
-  },
-  {
-    "sn": "ACTIVITY_CALLBACK_DEFAULT_RES",
-    "value": "Image-QRcode-P5X.png"
-  },
-  {
-    "sn": "ACTIVITY_CALLBACK_DEFAULT_TEXT",
-    "value": "官服"
-  },
-  {
-    "sn": "MODE_TGS",
-    "value": "0"
-  },
-  {
-    "sn": "MODE_TGS_STORY_ENDQUEST",
-    "value": "10056"
-  },
-  {
-    "sn": "NAME_MAX",
-    "value": "17"
-  },
-  {
-    "sn": "PLAYER_DEFAULT_NAME",
-    "value": "游戏测试账号"
-  },
-  {
-    "sn": "ACTIVITY_COMEBACK_CHANGE_TIME",
-    "value": "2024/11/21 05:00:00"
-  },
-  {
-    "sn": "VELVET_TRIAL_PERIOD_START_TIME",
-    "value": "2025/08/21 05:00:00"
-  },
-  {
-    "sn": "SUB_PACKAGE_WIFI_AUTO_DOWNLOAD",
-    "value": "0"
-  },
-  {
-    "sn": "SUB_PACKAGE_WIFI_BACKGROUND_DOWNLOAD",
-    "value": "1"
-  },
-  {
-    "sn": "MOTTO_LEN_LIMIT",
-    "value": "100"
-  },
-  {
-    "sn": "ATTING_INFO_NAME_LEN",
-    "value": "17"
-  },
-  {
-    "sn": "ARRAY_NAMELIMIT",
-    "value": "17"
-  },
-  {
-    "sn": "FASHION_PRESETS_NAMENUM",
-    "value": "17"
-  },
-  {
-    "sn": "UNION_MIN_NAME_LENGTH",
-    "value": "2"
-  },
-  {
-    "sn": "UNION_MAX_NAME_LENGTH",
-    "value": "20"
-  },
-  {
-    "sn": "UNION_MAX_ANNOUNCEMENT_LENGTH",
-    "value": "100"
-  },
-  {
-    "sn": "UNION_MAX_DECLARATION_LENGTH",
-    "value": "100"
-  },
-  {
-    "sn": "ACTIVITY_VERSION_TIME_CHECK_1",
-    "value": "2099/07/20 05:00:00"
-  },
-  {
-    "sn": "ACTIVITY_VERSION_TIME_CHECK_2",
-    "value": "2099/01/01 00:00:00"
-  },
-  {
-    "sn": "UNION_QUESTION_FIRST_REWARD",
-    "value": "10"
-  },
-  {
-    "sn": "UNION_QUESTION_SECOND_REWARD",
-    "value": "100"
-  },
-  {
-    "sn": "UNION_TONGJI_FIGHT_MEMBER_NUM",
-    "value": "2"
-  },
-  {
-    "sn": "UNION_TONGJI_HELP_REWARD_NUM",
-    "value": "3"
-  },
-  {
-    "sn": "UNION_TONGJI_HELP_REWARD",
-    "value": "3051"
-  },
-  {
-    "sn": "UNION_QUESTION_DAY_NUM",
-    "value": "7"
-  },
-  {
-    "sn": "UNION_QUESTION_OVER_TIME_HINT",
-    "value": "20"
-  },
-  {
-    "sn": "UNION_VOICE_QUESTION_DAY_NUM",
-    "value": "7"
-  },
-  {
-    "sn": "UNION_CREAT_LEVEL",
-    "value": "18"
-  },
-  {
-    "sn": "UNION_MAX_MEMBER",
-    "value": "30"
-  },
-  {
-    "sn": "UNION_UNIT_ANNOUNCEMENT",
-    "value": "会长很懒，什么都没写"
-  },
-  {
-    "sn": "UNION_CREAT_COST",
-    "value": "1,20000"
-  },
-  {
-    "sn": "UNION_CHANGE_NAME_COST",
-    "value": "1,10000"
-  },
-  {
-    "sn": "UNION_CHANGE_TAG_COST",
-    "value": "1,10000"
-  },
-  {
-    "sn": "UNION_MAX_APPLY_DAY",
-    "value": "7"
-  },
-  {
-    "sn": "UNION_MAX_OFFICER_COUNT",
-    "value": "2"
-  },
-  {
-    "sn": "UNION_CD_CHANGE_NAME",
-    "value": "24"
-  },
-  {
-    "sn": "UNION_CD_JOIN",
-    "value": "24"
-  },
-  {
-    "sn": "UNION_IMPEACH_CONDITION",
-    "value": "7"
-  },
-  {
-    "sn": "UNION_MAX_DYNAMIC",
-    "value": "50"
-  },
-  {
-    "sn": "UNION_EXP_MAX",
-    "value": "70000"
-  },
-  {
-    "sn": "UNION_EXP_MAX_PER1_DAY",
-    "value": "500"
-  },
-  {
-    "sn": "UNION_EXP_MAX_PER2_WEEK",
-    "value": "300"
-  },
-  {
-    "sn": "UNION_EXP_MAX_PER3_WEEK",
-    "value": "200"
-  },
-  {
-    "sn": "UNION_RECOMMEND_MIN",
-    "value": "20"
-  },
-  {
-    "sn": "UNION_RECOMMEND_MAX",
-    "value": "20"
-  },
-  {
-    "sn": "UNION_SHOP_SN",
-    "value": "3"
-  },
-  {
-    "sn": "UNION_ACTIVE",
-    "value": "7"
-  },
-  {
-    "sn": "UNION_ACTIVE_NUMBER",
-    "value": "10"
-  },
-  {
-    "sn": "UNION_RECOMMAND_MAX_LEVEL_DIFF",
-    "value": "30,50,60"
-  },
-  {
-    "sn": "UNION_RECOMMAND_POPULARITY",
-    "value": "0"
-  },
-  {
-    "sn": "UNION_RECOMMAND_TOTAL_NUM",
-    "value": "10"
-  },
-  {
-    "sn": "UNION_RECOMMAND_ONE_PAGE_NUM",
-    "value": "20"
-  },
-  {
-    "sn": "UNION_WAIT_APPROVE_MAX_TIME",
-    "value": "7"
-  },
-  {
-    "sn": "UNICON_WAIT_APPROVE_MAX_NUM",
-    "value": "100"
-  },
-  {
-    "sn": "UNION_LEVELUP_PARAMS",
-    "value": "1,10,0.5"
-  },
-  {
-    "sn": "UNION_SIGNIN_AWARDSN",
-    "value": "205002"
-  },
-  {
-    "sn": "UNIONBOSS_OPEN_LIFECYCLE",
-    "value": "1|05:01:00"
-  },
-  {
-    "sn": "UNIONBOSS_RANDOM_WEIGHT",
-    "value": "1|300,2|200,1|100"
-  },
-  {
-    "sn": "UNIONBOSS_RANK_COUNT",
-    "value": "200"
-  },
-  {
-    "sn": "UNION_MAIN_SCENE",
-    "value": "98"
-  },
-  {
-    "sn": "UNION_BASE_ACTION_1",
-    "value": "union-base-icon1.png"
-  },
-  {
-    "sn": "UNION_BASE_ACTION_2",
-    "value": "union-base-icon2.png"
-  },
-  {
-    "sn": "UNION_BASE_MAX_COUNT",
-    "value": "30"
-  },
-  {
-    "sn": "UNION_BASE_TRANSFORM_CHOOSE",
-    "value": "123.466003,100.662003,81.1760025|323.399994,93.9001007,0.00001|0.14,0.14,0.14"
-  },
-  {
-    "sn": "UNION_BASE_CHAT_TIME",
-    "value": "2.9"
-  },
-  {
-    "sn": "UNION_BASE_FRIEND_DISTANCE",
-    "value": "0.8"
   },
   {
     "sn": "THIEF_PLAYER_DISPLAY_NUM",
@@ -8148,104 +7836,192 @@
     "value": "20"
   },
   {
-    "sn": "ENERGY_ TRANSFER_PILE_CONNECT_GROUP_1",
-    "value": "9002,9003,9004,9005,9006,9007,9008,9013"
+    "sn": "UNION_QUESTION_FIRST_REWARD",
+    "value": "10"
   },
   {
-    "sn": "ENERGY_ TRANSFER_PILE_CONNECT_GROUP_2",
-    "value": "9033,9034,9035,9036,9037,9038,9039,9040"
+    "sn": "UNION_QUESTION_SECOND_REWARD",
+    "value": "100"
   },
   {
-    "sn": "ENERGY_ TRANSFER_PILE_CONNECT_GROUP_3",
-    "value": "8522289,8522290,8522291,8522292,8522293"
+    "sn": "UNION_TONGJI_FIGHT_MEMBER_NUM",
+    "value": "2"
   },
   {
-    "sn": "ENERGY_ TRANSFER_PILE_CONNECT_GROUP_4",
-    "value": "85211422,85211423,85211424,85211425,85211428"
+    "sn": "UNION_TONGJI_HELP_REWARD_NUM",
+    "value": "3"
   },
   {
-    "sn": "ENERGY_ TRANSFER_PILE_CONNECT_GROUP_5",
-    "value": "8521981,8521982,8521983,8521984,8521987,8521991"
+    "sn": "UNION_TONGJI_HELP_REWARD",
+    "value": "3051"
   },
   {
-    "sn": "ENERGY_ TRANSFER_PILE_CONNECT_GROUP_6",
-    "value": "8522342,8522343,8522344,8522345,8522346,8522347,8522348"
+    "sn": "UNION_QUESTION_DAY_NUM",
+    "value": "7"
   },
   {
-    "sn": "ENERGY_ TRANSFER_PILE_CONNECT_GROUP_7",
-    "value": "8522351,8522352,8522353,8522354"
+    "sn": "UNION_QUESTION_OVER_TIME_HINT",
+    "value": "20"
   },
   {
-    "sn": "ENERGY_ TRANSFER_PILE_CONNECT_GROUP_8",
-    "value": "8522524,8522525,8522526,8522527"
+    "sn": "UNION_VOICE_QUESTION_DAY_NUM",
+    "value": "7"
   },
   {
-    "sn": "ENERGY_ TRANSFER_PILE_CONNECT_GROUP_9",
-    "value": "8522587,8522588,8522589,8522590,8522598"
+    "sn": "UNION_CREAT_LEVEL",
+    "value": "18"
   },
   {
-    "sn": "ENERGY_ TRANSFER_PILE_CONNECT_GROUP_10",
-    "value": "8522592,8522593,8522594,8522595"
+    "sn": "UNION_MAX_MEMBER",
+    "value": "30"
   },
   {
-    "sn": "ENERGY_ TRANSFER_PILE_CONNECT_GROUP_11",
-    "value": "85221024,85221025,85221026,85221027,85221028,85221029,85221030"
+    "sn": "UNION_UNIT_ANNOUNCEMENT",
+    "value": "会长很懒，什么都没写"
   },
   {
-    "sn": "ENERGY_ TRANSFER_PILE_CONNECT_GROUP_12",
-    "value": "85221113,85221114,85221115,85221116,85221117,85221118,85221119"
+    "sn": "UNION_CREAT_COST",
+    "value": "1,20000"
   },
   {
-    "sn": "ENERGY_ TRANSFER_PILE_CONNECT_GROUP_13",
-    "value": "85221276,85221277,85221279,85221280,85221281,85221282,85221283"
+    "sn": "UNION_CHANGE_NAME_COST",
+    "value": "1,10000"
   },
   {
-    "sn": "ENERGY_ TRANSFER_PILE_CONNECT_GROUP_14",
-    "value": "85221374,85221376,85221377,85221378,85221379,85221380,85221381"
+    "sn": "UNION_CHANGE_TAG_COST",
+    "value": "1,10000"
   },
   {
-    "sn": "ENERGY_ TRANSFER_PILE_CONNECT_GROUP_15",
-    "value": "8523211,8523212,8523213,8523214,8523215,8523216"
+    "sn": "UNION_MAX_APPLY_DAY",
+    "value": "7"
   },
   {
-    "sn": "ENERGY_ TRANSFER_PILE_CONNECT_GROUP_16",
-    "value": "8523269,8523270,8523271,8523272,8523273,8523274"
+    "sn": "UNION_MAX_OFFICER_COUNT",
+    "value": "2"
   },
   {
-    "sn": "ENERGY_ TRANSFER_PILE_CONNECT_GROUP_17",
-    "value": "8522555"
+    "sn": "UNION_CD_CHANGE_NAME",
+    "value": "24"
   },
   {
-    "sn": "ENERGY_ TRANSFER_PILE_CONNECT_GROUP_18",
-    "value": "8523539,8523540,8523541,8523542,8523543,8523544"
+    "sn": "UNION_CD_JOIN",
+    "value": "24"
   },
   {
-    "sn": "ENERGY_ TRANSFER_PILE_CONNECT_GROUP_19",
-    "value": "8523633"
+    "sn": "UNION_IMPEACH_CONDITION",
+    "value": "7"
   },
   {
-    "sn": "ENERGY_ TRANSFER_PILE_CONNECT_GROUP_20",
-    "value": "85231149,85231150,85231151,85231152,85231153,85231154"
+    "sn": "UNION_MAX_DYNAMIC",
+    "value": "50"
   },
   {
-    "sn": "ENERGY_ TRANSFER_PILE_CONNECT_GROUP_21",
-    "value": "85231215,85231216,85231217,85231218,85231219"
+    "sn": "UNION_EXP_MAX",
+    "value": "70000"
   },
   {
-    "sn": "ENERGY_ TRANSFER_PILE_CONNECT_GROUP_22",
-    "value": "85231220"
+    "sn": "UNION_EXP_MAX_PER1_DAY",
+    "value": "500"
   },
   {
-    "sn": "ENERGY_ TRANSFER_PILE_CONNECT_GROUP_23",
-    "value": "8521976"
+    "sn": "UNION_EXP_MAX_PER2_WEEK",
+    "value": "300"
   },
   {
-    "sn": "ENERGY_ TRANSFER_PILE_CONNECT_GROUP_24",
-    "value": "85211033"
+    "sn": "UNION_EXP_MAX_PER3_WEEK",
+    "value": "200"
   },
   {
-    "sn": "ENERGY_ TRANSFER_PILE_CONNECT_GROUP_25",
-    "value": "85211462"
+    "sn": "UNION_RECOMMEND_MIN",
+    "value": "20"
+  },
+  {
+    "sn": "UNION_RECOMMEND_MAX",
+    "value": "20"
+  },
+  {
+    "sn": "UNION_SHOP_SN",
+    "value": "3"
+  },
+  {
+    "sn": "UNION_ACTIVE",
+    "value": "7"
+  },
+  {
+    "sn": "UNION_ACTIVE_NUMBER",
+    "value": "10"
+  },
+  {
+    "sn": "UNION_RECOMMAND_MAX_LEVEL_DIFF",
+    "value": "30,50,60"
+  },
+  {
+    "sn": "UNION_RECOMMAND_POPULARITY",
+    "value": "0"
+  },
+  {
+    "sn": "UNION_RECOMMAND_TOTAL_NUM",
+    "value": "10"
+  },
+  {
+    "sn": "UNION_RECOMMAND_ONE_PAGE_NUM",
+    "value": "20"
+  },
+  {
+    "sn": "UNION_WAIT_APPROVE_MAX_TIME",
+    "value": "7"
+  },
+  {
+    "sn": "UNICON_WAIT_APPROVE_MAX_NUM",
+    "value": "100"
+  },
+  {
+    "sn": "UNION_LEVELUP_PARAMS",
+    "value": "1,10,0.5"
+  },
+  {
+    "sn": "UNION_SIGNIN_AWARDSN",
+    "value": "205002"
+  },
+  {
+    "sn": "UNIONBOSS_OPEN_LIFECYCLE",
+    "value": "1|05:01:00"
+  },
+  {
+    "sn": "UNIONBOSS_RANDOM_WEIGHT",
+    "value": "1|300,2|200,1|100"
+  },
+  {
+    "sn": "UNIONBOSS_RANK_COUNT",
+    "value": "200"
+  },
+  {
+    "sn": "UNION_MAIN_SCENE",
+    "value": "98"
+  },
+  {
+    "sn": "UNION_BASE_ACTION_1",
+    "value": "union-base-icon1.png"
+  },
+  {
+    "sn": "UNION_BASE_ACTION_2",
+    "value": "union-base-icon2.png"
+  },
+  {
+    "sn": "UNION_BASE_MAX_COUNT",
+    "value": "30"
+  },
+  {
+    "sn": "UNION_BASE_TRANSFORM_CHOOSE",
+    "value": "123.466003,100.662003,81.1760025|323.399994,93.9001007,0.00001|0.14,0.14,0.14"
+  },
+  {
+    "sn": "UNION_BASE_CHAT_TIME",
+    "value": "2.9"
+  },
+  {
+    "sn": "UNION_BASE_FRIEND_DISTANCE",
+    "value": "0.8"
   },
   {
     "sn": "DRAWCARD_RECORD",
@@ -8406,6 +8182,250 @@
   {
     "sn": "GACHA_SUPPLEAWARD_NUM",
     "value": "165"
+  },
+  {
+    "sn": "GAME_BASE_TIME",
+    "value": "2025/06/26 00:00:00"
+  },
+  {
+    "sn": "FULL_DOWNLOAD_TIPS_TIME",
+    "value": "2025-04-26 09:00:00"
+  },
+  {
+    "sn": "OB_SERVER_OPEN_TIME",
+    "value": "2025/06/26 12:00:00"
+  },
+  {
+    "sn": "NAME_CHARACTER_WHITELIST",
+    "value": ",，。 .々ヶ¤"
+  },
+  {
+    "sn": "NAME_LANGUAGE_WHITELIST",
+    "value": "1,2,4,6"
+  },
+  {
+    "sn": "ACTIVITY_COMEBACK_WEBSITE",
+    "value": "AAAAAA=="
+  },
+  {
+    "sn": "MONTHLY_CARD_REBATE_TIME",
+    "value": "2024/05/23 05:00:00"
+  },
+  {
+    "sn": "ADVANCE_PAYMENT_ITEM_SN",
+    "value": "2,300002,300001,300004"
+  },
+  {
+    "sn": "ADVANCE_PAYMENT_ITEM_PARAM",
+    "value": "1,150,150,100"
+  },
+  {
+    "sn": "ADVANCE_PAYMENT_NOT_SHOW_ITEM_SN",
+    "value": "AAAAAA=="
+  },
+  {
+    "sn": "ADVANCE_PAYMENT_NOT_SHOW_ITEM_PARAM",
+    "value": "AAAAAA=="
+  },
+  {
+    "sn": "PAYMENT_AGE_LIMIT",
+    "value": "12,5000|19,20000"
+  },
+  {
+    "sn": "FIRST_LOGIN_SDK",
+    "value": "1"
+  },
+  {
+    "sn": "ACTIVITY_CALLBACK_DEFAULT_RES",
+    "value": "Image-QRcode-P5X.png"
+  },
+  {
+    "sn": "ACTIVITY_CALLBACK_DEFAULT_TEXT",
+    "value": "官服"
+  },
+  {
+    "sn": "MODE_TGS",
+    "value": "0"
+  },
+  {
+    "sn": "MODE_TGS_STORY_ENDQUEST",
+    "value": "10056"
+  },
+  {
+    "sn": "NAME_MAX",
+    "value": "17"
+  },
+  {
+    "sn": "PLAYER_DEFAULT_NAME",
+    "value": "游戏测试账号"
+  },
+  {
+    "sn": "ACTIVITY_COMEBACK_CHANGE_TIME",
+    "value": "2024/11/21 05:00:00"
+  },
+  {
+    "sn": "VELVET_TRIAL_PERIOD_START_TIME",
+    "value": "2025/08/21 05:00:00"
+  },
+  {
+    "sn": "SUB_PACKAGE_WIFI_AUTO_DOWNLOAD",
+    "value": "0"
+  },
+  {
+    "sn": "SUB_PACKAGE_WIFI_BACKGROUND_DOWNLOAD",
+    "value": "1"
+  },
+  {
+    "sn": "MOTTO_LEN_LIMIT",
+    "value": "100"
+  },
+  {
+    "sn": "ATTING_INFO_NAME_LEN",
+    "value": "17"
+  },
+  {
+    "sn": "ARRAY_NAMELIMIT",
+    "value": "17"
+  },
+  {
+    "sn": "FASHION_PRESETS_NAMENUM",
+    "value": "17"
+  },
+  {
+    "sn": "UNION_MIN_NAME_LENGTH",
+    "value": "2"
+  },
+  {
+    "sn": "UNION_MAX_NAME_LENGTH",
+    "value": "20"
+  },
+  {
+    "sn": "UNION_MAX_ANNOUNCEMENT_LENGTH",
+    "value": "100"
+  },
+  {
+    "sn": "UNION_MAX_DECLARATION_LENGTH",
+    "value": "100"
+  },
+  {
+    "sn": "ACTIVITY_VERSION_TIME_CHECK_1",
+    "value": "2099/07/20 05:00:00"
+  },
+  {
+    "sn": "ACTIVITY_VERSION_TIME_CHECK_2",
+    "value": "2099/01/01 00:00:00"
+  },
+  {
+    "sn": "IOS_SCORE_RESET_TIME",
+    "value": "2025-08-06 05:00:00"
+  },
+  {
+    "sn": "IOS_SCORE_JP_HTTPS",
+    "value": "https://support-p5x.sega.com/hc/requests/new?ticket_form_id=47495901058585&barStyle=2"
+  },
+  {
+    "sn": "IOS_SCORE_GACHA_TYPE",
+    "value": "2,7"
+  },
+  {
+    "sn": "ENERGY_ TRANSFER_PILE_CONNECT_GROUP_1",
+    "value": "9002,9003,9004,9005,9006,9007,9008,9013"
+  },
+  {
+    "sn": "ENERGY_ TRANSFER_PILE_CONNECT_GROUP_2",
+    "value": "9033,9034,9035,9036,9037,9038,9039,9040"
+  },
+  {
+    "sn": "ENERGY_ TRANSFER_PILE_CONNECT_GROUP_3",
+    "value": "8522289,8522290,8522291,8522292,8522293"
+  },
+  {
+    "sn": "ENERGY_ TRANSFER_PILE_CONNECT_GROUP_4",
+    "value": "85211422,85211423,85211424,85211425,85211428"
+  },
+  {
+    "sn": "ENERGY_ TRANSFER_PILE_CONNECT_GROUP_5",
+    "value": "8521981,8521982,8521983,8521984,8521987,8521991"
+  },
+  {
+    "sn": "ENERGY_ TRANSFER_PILE_CONNECT_GROUP_6",
+    "value": "8522342,8522343,8522344,8522345,8522346,8522347,8522348"
+  },
+  {
+    "sn": "ENERGY_ TRANSFER_PILE_CONNECT_GROUP_7",
+    "value": "8522351,8522352,8522353,8522354"
+  },
+  {
+    "sn": "ENERGY_ TRANSFER_PILE_CONNECT_GROUP_8",
+    "value": "8522524,8522525,8522526,8522527"
+  },
+  {
+    "sn": "ENERGY_ TRANSFER_PILE_CONNECT_GROUP_9",
+    "value": "8522587,8522588,8522589,8522590,8522598"
+  },
+  {
+    "sn": "ENERGY_ TRANSFER_PILE_CONNECT_GROUP_10",
+    "value": "8522592,8522593,8522594,8522595"
+  },
+  {
+    "sn": "ENERGY_ TRANSFER_PILE_CONNECT_GROUP_11",
+    "value": "85221024,85221025,85221026,85221027,85221028,85221029,85221030"
+  },
+  {
+    "sn": "ENERGY_ TRANSFER_PILE_CONNECT_GROUP_12",
+    "value": "85221113,85221114,85221115,85221116,85221117,85221118,85221119"
+  },
+  {
+    "sn": "ENERGY_ TRANSFER_PILE_CONNECT_GROUP_13",
+    "value": "85221276,85221277,85221279,85221280,85221281,85221282,85221283"
+  },
+  {
+    "sn": "ENERGY_ TRANSFER_PILE_CONNECT_GROUP_14",
+    "value": "85221374,85221376,85221377,85221378,85221379,85221380,85221381"
+  },
+  {
+    "sn": "ENERGY_ TRANSFER_PILE_CONNECT_GROUP_15",
+    "value": "8523211,8523212,8523213,8523214,8523215,8523216"
+  },
+  {
+    "sn": "ENERGY_ TRANSFER_PILE_CONNECT_GROUP_16",
+    "value": "8523269,8523270,8523271,8523272,8523273,8523274"
+  },
+  {
+    "sn": "ENERGY_ TRANSFER_PILE_CONNECT_GROUP_17",
+    "value": "8522555"
+  },
+  {
+    "sn": "ENERGY_ TRANSFER_PILE_CONNECT_GROUP_18",
+    "value": "8523539,8523540,8523541,8523542,8523543,8523544"
+  },
+  {
+    "sn": "ENERGY_ TRANSFER_PILE_CONNECT_GROUP_19",
+    "value": "8523633"
+  },
+  {
+    "sn": "ENERGY_ TRANSFER_PILE_CONNECT_GROUP_20",
+    "value": "85231149,85231150,85231151,85231152,85231153,85231154"
+  },
+  {
+    "sn": "ENERGY_ TRANSFER_PILE_CONNECT_GROUP_21",
+    "value": "85231215,85231216,85231217,85231218,85231219"
+  },
+  {
+    "sn": "ENERGY_ TRANSFER_PILE_CONNECT_GROUP_22",
+    "value": "85231220"
+  },
+  {
+    "sn": "ENERGY_ TRANSFER_PILE_CONNECT_GROUP_23",
+    "value": "8521976"
+  },
+  {
+    "sn": "ENERGY_ TRANSFER_PILE_CONNECT_GROUP_24",
+    "value": "85211033"
+  },
+  {
+    "sn": "ENERGY_ TRANSFER_PILE_CONNECT_GROUP_25",
+    "value": "85211462"
   },
   {
     "sn": "PALACE_SCENE_BGM_SHOWTIME",

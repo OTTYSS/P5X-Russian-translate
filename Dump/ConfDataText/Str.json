@@ -20636,6 +20636,17 @@
     "option2": "AAAAAA=="
   },
   {
+    "sn": 1045420,
+    "channelType": 0,
+    "strContent": "我们已经收集到3个<color=#FF0000>备件链条</color>了，\n要交给他吗？",
+    "typeView": 8,
+    "tipsForNpc": 0,
+    "showName": "路<#000000,菲,#FFFFFF>尔",
+    "heads": "lufeier-guaidao-renzhen,2",
+    "option1": "交付",
+    "option2": "暂不交付"
+  },
+  {
     "sn": 1046001,
     "channelType": 64,
     "strContent": "购买成功。",
@@ -35455,7 +35466,7 @@
   {
     "sn": 1130901,
     "channelType": 0,
-    "strContent": "我准备好了。\n随时可以出发。",
+    "strContent": "准备OK哦。",
     "typeView": 3,
     "tipsForNpc": 0,
     "showName": "琴音·蒙塔涅",
@@ -38139,7 +38150,7 @@
   {
     "sn": 1132105,
     "channelType": 0,
-    "strContent": "感觉心怦怦直跳呢……海夕，要上了！",
+    "strContent": "感觉心怦怦直跳呢……我，要上了！",
     "typeView": 3,
     "tipsForNpc": 0,
     "showName": "佐原海夕",
@@ -48774,6 +48785,17 @@
     "option2": "AAAAAA=="
   },
   {
+    "sn": 1206059,
+    "channelType": 0,
+    "strContent": "都市日程<color=#ffc000>在渡来轩打工</color>已解锁，\n每日有一定概率出现。",
+    "typeView": 14,
+    "tipsForNpc": 0,
+    "showName": "AAAAAA==",
+    "heads": "AAAAAA==",
+    "option1": "AAAAAA==",
+    "option2": "AAAAAA=="
+  },
+  {
     "sn": 1207000,
     "channelType": 0,
     "strContent": "当前章节暂未解锁，敬请期待",
@@ -51159,5 +51181,49 @@
     "heads": "AAAAAA==",
     "option1": "AAAAAA==",
     "option2": "AAAAAA=="
+  },
+  {
+    "sn": 1310001,
+    "channelType": 0,
+    "strContent": "相机权限未开启，\n为了方便您使用扫码，请允许我们访问您的相机权限。",
+    "typeView": 16,
+    "tipsForNpc": 0,
+    "showName": "AAAAAA==",
+    "heads": "AAAAAA==",
+    "option1": "确定",
+    "option2": "取消"
+  },
+  {
+    "sn": 1310002,
+    "channelType": 0,
+    "strContent": "存储权限未开启。\n为方便您使用保存图片等功能，请允许我们访问您的存储权限。",
+    "typeView": 16,
+    "tipsForNpc": 0,
+    "showName": "AAAAAA==",
+    "heads": "AAAAAA==",
+    "option1": "确定",
+    "option2": "取消"
+  },
+  {
+    "sn": 1310003,
+    "channelType": 0,
+    "strContent": "剪切板权限未开启。\n为方便您使用复制口令、编号等功能，请允许我们访问剪切板权限。剪切板内容不会被传输到服务器。",
+    "typeView": 16,
+    "tipsForNpc": 0,
+    "showName": "AAAAAA==",
+    "heads": "AAAAAA==",
+    "option1": "确定",
+    "option2": "取消"
+  },
+  {
+    "sn": 1310004,
+    "channelType": 0,
+    "strContent": "通知权限未开启。\n为向您提供提醒、声音、图标标记等推送消息功能，请允许我们访问您的通知权限。",
+    "typeView": 16,
+    "tipsForNpc": 0,
+    "showName": "AAAAAA==",
+    "heads": "AAAAAA==",
+    "option1": "确定",
+    "option2": "取消"
   }
 ]

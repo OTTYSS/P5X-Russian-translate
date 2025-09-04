@@ -13777,7 +13777,7 @@
   },
   {
     "sn": "f1321123",
-    "formula": "1000f*(0.6f+0.04f*skillSnLv+f92)",
+    "formula": "1250f*(0.6f+0.04f*skillSnLv+f92)",
     "param": "132112",
     "decimalPlaces": 0,
     "dataType": 0
@@ -13875,14 +13875,14 @@
   },
   {
     "sn": "f1321129",
-    "formula": "0.33f*unitBuffSnNumb*f1321128",
+    "formula": "unitBuffSnNumb*f1321128/3f",
     "param": "532524",
     "decimalPlaces": 0,
     "dataType": 0
   },
   {
     "sn": "f1321130",
-    "formula": "33f*f1321128",
+    "formula": "100f/3f*f1321128",
     "param": "AAAAAA==",
     "decimalPlaces": 1,
     "dataType": 1
@@ -13980,8 +13980,8 @@
   },
   {
     "sn": "f1321133",
-    "formula": "Math.min(2f,0f+unitBuffSnNuma)",
-    "param": "1321133",
+    "formula": "1",
+    "param": "AAAAAA==",
     "decimalPlaces": 0,
     "dataType": 0
   },
@@ -28271,6 +28271,13 @@
     "param": "AAAAAA==",
     "decimalPlaces": 0,
     "dataType": 0
+  },
+  {
+    "sn": "f252115",
+    "formula": "20f*(0.7f+skillLv*0.05)",
+    "param": "AAAAAA==",
+    "decimalPlaces": 1,
+    "dataType": 1
   },
   {
     "sn": "f152511",

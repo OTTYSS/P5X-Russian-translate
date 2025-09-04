@@ -342,7 +342,7 @@
   {
     "sn": "501101",
     "title": "Special Effect",
-    "text": "1. Cerberus will summon minions during the battle.\nWhen a minion is defeated, Cerberus takes Almighty damage.\n2. When Cerberus has taken a certain amount of damage, it moves to the next phase, and all Phantom Thieves restore SP."
+    "text": "1. Cerberus will summon servants during the battle.\nWhen a servant is defeated, Cerberus takes Almighty damage.\n2. When Cerberus has taken a certain amount of damage, it moves to the next phase, and all Phantom Thieves' SP is restored."
   },
   {
     "sn": "501111",
@@ -442,7 +442,7 @@
   {
     "sn": "522101",
     "title": "Special Effects",
-    "text": "1. At the start of battle, Lilith summons 4 minions.\nLilith and all minions are in the <color=#ff3b37>Soul Link</color> state.\nSoul Link: Distributes all damage received between all Shadows who share this condition, based on the percentage of their current HP.\n2. Each turn, Lilith grants 1 Cover of Night stack to all Shadows.\nCover of Night: Decrease final damage taken by 15% for each stack. Stacks up to 2 times.\n3. When a Shadow with Cover of Night is inflicted with an elemental ailment, remove 1 Cover of Night stack."
+    "text": "1. At the start of battle, Lilith summons 4 servants.\nLilith and all servants are in the <color=#ff3b37>Soul Link</color> state.\nSoul Link: Distributes all damage received between all Shadows who share this condition, based on the percentage of their current HP.\n2. Each turn, Lilith grants 1 Cover of Night stack to all Shadows.\nCover of Night: Decrease final damage taken by 15% for each stack. Stacks up to 2 times.\n3. When a Shadow with Cover of Night is inflicted with an elemental ailment, remove 1 Cover of Night stack."
   },
   {
     "sn": "701011",
@@ -927,7 +927,7 @@
   {
     "sn": "218191",
     "title": "Unique Shadow Abilities",
-    "text": "Each turn, Kikuri-Hime will use a random Arbiter's Power on the Phantom Thieves, preventing them from taking certain actions.\nIf a Phantom Thief defies the arbitration, they gain 1 Seal of Mortality. If a Phantom Thief gains 2 Seal of Mortality stacks, they are KO'd.\nArbitration - Survival: Medic and Guardian skills cannot be used.\nArbitration - Attack: Assassin and Sweeper skills cannot be used.\nArbitration - Support: Strategist and Saboteur skills cannot be used.\nIf all Phantom Thieves obey the arbitration, Kikuri-Hime will grant all Phantom Thieves a damage-boosting effect."
+    "text": "Each turn, Kikuri-Hime will use a random Arbiter's Power on the Phantom Thieves, forbidding them from taking certain actions.\nIf a Phantom Thief defies the arbitration, they gain 1 Seal of Mortality. If a Phantom Thief gains 2 Seal of Mortality stacks, they are KO'd.\nArbitration - Survival: Healing and Defense skills must not be used.\nArbitration - Attack: Attack skills must not be used.\nArbitration - Support: Buff and Debuff skills must not be used.\nIf all Phantom Thieves obey the arbitration, Kikuri-Hime will grant all Phantom Thieves a damage-boosting effect."
   },
   {
     "sn": "218201",
@@ -1137,32 +1137,32 @@
   {
     "sn": "228011",
     "title": "Unique Shadow Abilities",
-    "text": "1. When Angel takes damage, Anubis gains 1 <color=#FF423F>Judgment of Evil</color>.\n2. When Succubus takes damage, Anubis gains 1 <color=#FF423F>Judgment of Good</color>.\n3.Judgment of Good and Judgment of Evil <color=#FF423F>negate</color> each other.\n4. When either Judgment of Good or Judgment of Evil reach 5 stacks, Anubis will use <color=#FF423F>Advent of Judgment</color>, dealing heavy damage to all Phantom Thieves.\n5. If Angel does not take any damage for 1 turn, it will use <color=#FF423F>Angel Healing</color> to restore HP to all Shadows.\n6. If Succubus does not take any damage for 1 turn, it will use <color=#FF423F>Succubus Lullaby</color>, which has a 75% chance to put 2 random Phantom Thieves to Sleep."
+    "text": "Anubis has no weaknesses or resistances. Angel and Succubus have different weaknesses and resistances than normal.\n1. When Angel takes damage, Anubis gains 1 <color=#FF423F>Judgment of Evil</color>.\n2. When Succubus takes damage, Anubis gains 1 <color=#FF423F>Judgment of Good</color>.\n3.Judgment of Good and Judgment of Evil <color=#FF423F>negate</color> each other.\n4. When either Judgment of Good or Judgment of Evil reach 5 stacks, Anubis will use <color=#FF423F>Advent of Judgment</color>, dealing heavy damage to all Phantom Thieves.\n5. If Angel does not take any damage for 1 turn, it will use <color=#FF423F>Angel Healing</color> to restore HP to all Shadows.\n6. If Succubus does not take any damage for 1 turn, it will use <color=#FF423F>Succubus Lullaby</color>, which has a 75% chance to put 2 random Phantom Thieves to Sleep."
   },
   {
     "sn": "228021",
     "title": "Unique Shadow Abilities",
-    "text": "1. When Anubis receives a debuff, it gains 1 <color=#FF423F>Judgment of Evil</color>.\n2. When Anubis receives a buff, it gains 1 <color=#FF423F>Judgment of Good</color>.\n3.Judgment of Good and Judgment of Evil <color=#FF423F>negate</color> each other.\n4. When either Judgment of Good or Judgment of Evil reach 5 stacks, Anubis will use <color=#FF423F>Advent of Judgment</color>, dealing heavy damage to all Phantom Thieves.\n5. At the start of each turn, Anubis will summon 1 Saki Mitama."
+    "text": "Anubis has no weaknesses or resistances.\n1. When the Phantom Thieves use a debuff skill or attack skill, Anubis gains 1 <color=#FF423F>Judgment of Evil</color>.\n2. When the Phantom Thieves use a buff skill or a healing skill, Anubis gains 1 <color=#FF423F>Judgment of Good</color>.\n3.Judgment of Good and Judgment of Evil <color=#FF423F>cancel</color> each other out.\n4. When either Judgment of Good or Judgment of Evil reach 5 stacks, Anubis will use <color=#FF423F>Advent of Judgment</color>, dealing heavy damage to all Phantom Thieves.\n5. At the start of every turn, 1 Saki Mitama will be summoned."
   },
   {
     "sn": "228031",
     "title": "Unique Shadow Abilities",
-    "text": "1. When Phantom Thieves use debuffs or attack skills, Anubis gains <color=#FF423F>Judgment of Evil</color>.\n2. When Phantom Thieves use buffs or recovery skills, Anubis gains <color=#FF423F>Judgment of Good</color>.\n3. Judgment of Good and Judgment of Evil <color=#FF423F>negate</color> each other.\n4. When either Judgment of Good or Judgment of Evil reach 5 stacks, Anubis activates <color=#FF423F>Advent of Judgment</color>, dealing heavy damage to all Phantom Thieves."
+    "text": "Anubis has no weaknesses or resistances.\n1. When Phantom Thieves use debuffs or attack skills, Anubis gains <color=#FF423F>Judgment of Evil</color>.\n2. When Phantom Thieves use buffs or recovery skills, Anubis gains <color=#FF423F>Judgment of Good</color>.\n3. Judgment of Good and Judgment of Evil <color=#FF423F>negate</color> each other.\n4. When either Judgment of Good or Judgment of Evil reach 5 stacks, Anubis activates <color=#FF423F>Advent of Judgment</color>, dealing heavy damage to all Phantom Thieves."
   },
   {
     "sn": "228041",
     "title": "Unique Shadow Abilities",
-    "text": "1. Hariti has extremely high damage reduction, making it difficult to deal damage with direct attacks.\n2. When Hariti's turn ends, it spends its own HP to fully heal all other Shadows, losing HP equal to the amount healed.\n3. At the start of Hariti's turn, it summons 1 Agathion.\nHariti's damage increases by 30% for each Agathion on the field."
+    "text": "Hariti has no weaknesses or resistances.\n1. Hariti has extremely high damage reduction, making it difficult to deal damage with direct attacks.\n2. When Hariti's turn ends, it spends its own HP to fully heal all other Shadows, losing HP equal to the amount healed.\n3. At the start of Hariti's turn, it summons 1 Agathion.\nHariti's damage increases by 30% for each Agathion on the field."
   },
   {
     "sn": "228051",
     "title": "Unique Shadow Abilities",
-    "text": "1. Hariti has extremely high damage reduction, making it difficult to deal damage with direct attacks.\n2. When Hariti's turn ends, it spends its own HP to fully heal all other Shadows, losing HP equal to the amount healed.\n3. When Jack-o'-Lantern is defeated, Hariti immediately deals heavy damage to all Phantom Thieves.\n4. At the start of Hariti's turn, it summons up to 4 Jack-o'-Lanterns."
+    "text": "Hariti has no weaknesses or resistances.\n1. Hariti has extremely high damage reduction, making it difficult to deal damage with direct attacks.\n2. When Hariti's turn ends, it spends its own HP to fully heal all other Shadows, losing HP equal to the amount healed.\n3. When Jack-o'-Lantern is defeated, Hariti immediately deals heavy damage to all Phantom Thieves.\n4. At the start of Hariti's turn, it summons up to 4 Jack-o'-Lanterns."
   },
   {
     "sn": "228061",
     "title": "Unique Shadow Abilities",
-    "text": "1. Hariti has extremely high damage reduction, making it difficult to deal damage with direct attacks.\n2. When Hariti's turn ends, it spends its own HP to fully heal all other Shadows, losing HP equal to the amount healed.\n3. Each turn, Hariti summons 1 Jack Frost, and grants <color=#FF423F>Mother's Love</color> to a random Jack Frost.\n4. A Jack Frost with Mother's Love will grow into Black Frost after 2 turns, and will become unable to receive healing effects."
+    "text": "Hariti, Jack Frost, and Black Frost have no weaknesses or resistances.\n1. Hariti has extremely high damage reduction, making it difficult to deal damage with direct attacks.\n2. When Hariti's turn ends, it spends its own HP to fully heal all other Shadows, losing HP equal to the amount healed.\n3. Each turn, Hariti summons 1 Jack Frost, and grants <color=#FF423F>Mother's Love</color> to a random Jack Frost.\n4. A Jack Frost with Mother's Love will transform into Black Frost after 2 turns, and will become unable to receive healing effects."
   },
   {
     "sn": "829011",
@@ -1177,7 +1177,7 @@
   {
     "sn": "829031",
     "title": "Unique Shadow Abilities",
-    "text": "1. At the start of battle, Unicorn gains 5 stacks of Purity.\n2. When Unicorn receives a buff or healing, it gains 1 extra stack of Purity.\nPurity: Increases Attack and Defense. When Purity reaches 10 stacks, Unicorn activates <color=#FF423F>Holy Power</color>.\nHoly Power deals heavy damage to all Phantom Thieves and fully restores all Shadows' HP.\n3. Every turn, Unicorn randomly summons Nigi Mitama, Saki Mitama, Kushi Mitama, or Ara Mitama, which each grant Unicorn various buffs.\n4. When Unicorn takes most <color=#FF423F>debuffs</color>, it loses 2 stacks of Purity."
+    "text": "1. At the start of battle, Unicorn gains 5 stacks of Purity.\n2. When Unicorn receives a buff or healing, it gains 1 extra stack of Purity.\nPurity: Increases Attack and Defense. When Purity reaches 10 stacks, Unicorn activates <color=#FF423F>Holy Power</color>.\nHoly Power deals heavy damage to all Phantom Thieves and fully restores all Shadows' HP.\n3. Every turn, Unicorn randomly summons Nigi Mitama, Saki Mitama, Kushi Mitama, or Ara Mitama, which each grant Unicorn various buffs.\n4. When Unicorn takes <color=#FF423F>debuffs</color>, it loses 2 stacks of Purity."
   },
   {
     "sn": "829041",
@@ -1307,12 +1307,17 @@
   {
     "sn": "920411",
     "title": "Makoto Nijima's Skills",
-    "text": "1. Makoto specializes in <color=#FF423F>single-target attacks</color>.\nShe can deal extra damage to foes with <color=#FF423F>elemental ailments</color>.\n2. When certain conditions are met during battle, she can enter the <color=#FF423F>Crash Out</color> state. Her <color=#FF423F>skills will be enhanced, greatly increasing her Attack and survivability.\n3. She is able to <color=#FF423F>heal allies</color> while strengthening herself, allowing her to turn the tide of combat."
+    "text": "1. Makoto specializes in <color=#FF423F>single-target attacks</color>.\nShe can deal extra damage to foes with <color=#FF423F>elemental ailments</color>.\n2. When certain conditions are met during battle, she can enter the <color=#FF423F>Crash Out</color> state. Her skills will be enhanced, greatly increasing her Attack and survivability.\n3. She is able to <color=#FF423F>heal allies</color> while strengthening herself, allowing her to turn the tide of combat."
   },
   {
     "sn": "920511",
     "title": "Yumi Shiina's Skills",
     "text": "1. Yumi specializes in <color=#FF423F>providing buffs to all allies</color>.\nShe can increase the team's <color=#FF423F>Attack</color> and <color=#FF423F>damage of specific attributes</color>.\n2. When allies deal damage, Yumi can create <color=#FF423F>Mixers</color> of the same attribute, and mix them together into a <color=#FF423F>Cocktail</color> that strengthens allies' skills.\nWhen the team has multiple Phantom Thieves of the <color=#FF423F>same attribute</color>, the effect is stronger."
+  },
+  {
+    "sn": "920611",
+    "title": "Ayaka Sakai's Skills",
+    "text": "1. Ayaka specializes in <color=#FFFC40>single-target buffs</color>, and can grant increased Attack and damage to an ally.\n2. She can directly activate an ally's <color=#FFFC40>Highlight</color> and greatly increase its damage.\n3. Ayaka can also replenish the <color=#FFFC40>Highlight</color> gauge, allowing Highlights to be activated more frequently."
   },
   {
     "sn": "920711",
@@ -1462,7 +1467,7 @@
   {
     "sn": "921411",
     "title": "Haru's Skills",
-    "text": "AAAAAA=="
+    "text": "1. Noir specializes in <color=#FF423F>multi-target attacks</color>.\nBy using certain skills, she gains <color=#FF423F>Reform</color>, allowing her to deal powerful Psychokinesis damage with long-range attacks.\n2. Each skill Noir activates will give different types of Reform.\nEach one will <color=#FF423F>enhance her long-range attacks</color> in various ways.\n3. By increasing Noir's ailment accuracy, she can not only gain increased Attack and critical damage, she can also improve the accuracy of her <color=#FF423F>Marked</color> effect."
   },
   {
     "sn": "915501",
@@ -1518,10 +1523,5 @@
     "sn": "238081",
     "title": "Unique Shadow Abilities",
     "text": "1. Byakko alternates between <color=#FF423F>Byakko's Claw</color> and <color=#FF423F>Byakko's Fang</color>.\n2. Byakko's Claw: Deals damage to 1 target and inflicts <color=#FF423F>Deep Wounds</color>.\nThis effect deals damage over time, and can be removed by inflicting an elemental or spiritual ailment.\n3. Byakko's Fang: Deals damage to all targets and inflicts <color=#FF423F>Bite Marks</color>.\nThis effect increases damage taken and can be removed by activating a Highlight or Resonance.\n4. At the start of each turn, if both Deep Wounds and Bite Marks have been inflicted, Byakko will activate <color=#FF423F>Prey</color>, dealing heavy damage and inflicting Despair</color> on the target.\n5. Every 2 turns, Byakko summons 1 Byakko's Afterimage.\nByakko's Afterimage has the same skills, but very low HP and ailment resistance."
-  },
-  {
-    "sn": "920611",
-    "title": "AAAAAA==",
-    "text": "Placeholder"
   }
 ]
