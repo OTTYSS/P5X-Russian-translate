@@ -1854,21 +1854,324 @@ Experience Set=Набор опыта
 VA: Koki Uchiyama=Озвучивание: Коки Утияма
 Weekly Cap: =<size=23>Недельный лимит:</size>
 Get <color=#FF423F>Log in Tomorrow</color> Supply Sets when you complete this week's Daily goals!=Получите наборы <color=#FF423F>Заходи завтра</color>, когда выполните ежедневные задания этой недели!
-
-Increase Physical and Electric damage by <color=#2899ff>12%</color>. If there is only 1 foe on the field, increase by <color=#2899ff>24%</color> more.=Увеличивает физический и электрический урон на <color=#2899ff>12%</color>. Если на поле только 1 враг, дополнительно увеличивает ещё на <color=#2899ff>24%</color>.
-After dealing a critical hit, increase user's healing effect by <color=#2899ff>28%</color> for 2 turns.=После критического удара увеличивает эффект исцеления пользователя на <color=#2899ff>28%</color> на 2 хода.
-When activating Resonance, increase critical damage by <color=#2899ff>50%</color>.=При активации Резонанса увеличивает критический урон на <color=#2899ff>50%</color>.
-Increase damage dealt to foes with elemental ailments by <color=#2899ff>12%</color>. Stacks up to 2 times.=Увеличивает урон по врагам с элементальными статусами на <color=#2899ff>12%</color>. Эффект складывается до 2 раз.
-Increase party's Fire damage by <color=#2899ff>6%</color>. When a foe is Burning, increase party's Fire damage by <color=#2899ff>6%</color> more for 2 turns.=Увеличивает урон Огнём отряда на <color=#2899ff>6%</color>. Если враг горит, дополнительно увеличивает урон Огнём ещё на <color=#2899ff>6%</color> на 2 хода.
-Whenever dealing damage to a foe with a debuff, increase user's Attack by <color=#2899ff>9%</color> for 1 turn. Stacks up to 3 times.=Каждый раз, когда пользователь наносит урон врагу с дебаффом, его атака повышается на <color=#2899ff>9%</color> на 1 ход. Эффект складывается до 3 раз.
-When equipped by an Elucidator Phantom Thief: At the start of battle, for each ally with a matching main attribute, increase party's max HP, Attack, and Defense by <color=#2899ff>2%</color> more.=Когда экипирован Призрачным вором-Просветителем: в начале боя за каждого союзника с тем же атрибутом повышает макс. HP, атаку и защиту отряда на <color=#2899ff>2%</color>.
-During battle, increase damage by 80% of user's healing effect (max <color=#2899ff>30%</color> increase).=Во время боя урон увеличивается на 80% от эффекта исцеления пользователя (макс. увеличение <color=#2899ff>30%</color>).
-After using a Highlight, increase Attack by <color=#2899ff>30%</color> and damage by <color=#2899ff>25%</color>.=После использования Изюминки увеличивает атаку на <color=#2899ff>30%</color> и урон на <color=#2899ff>25%</color>.
-During battle, increase damage by 50% of user's ailment accuracy (max <color=#2899ff>30%</color> increase).=Во время боя урон увеличивается на 50% от точности наложения статусов пользователя (макс. увеличение <color=#2899ff>30%</color>).
-When Malice reaches 5 or more stacks, increase Physical damage and ailment accuracy by <color=#2899ff>20%</color>.=Когда количество Злого умысла достигает 5 и более, увеличивает физический урон и точность наложения статусов на <color=#2899ff>20%</color>.
-When equipped by an Elucidator Phantom Thief: After using a skill to inflict a debuff on a foe, decrease target's Defense by <color=#2899ff>10%</color> for 2 turns.=Когда экипирован Призрачным вором-Просветителем: после использования навыка, накладывающего дебафф на врага, снижает его защиту на <color=#2899ff>10%</color> на 2 хода.
-During battle, when user's HP reaches 6000/9000/12000, increase damage by <color=#2899ff>10%/20%/30%</color>.=Во время боя, когда HP пользователя достигает 6000/9000/12000, урон увеличивается на <color=#2899ff>10%/20%/30%</color>.
-
-
 Home  Bedroom=Дом  Спальня
 Home  Living Room=Дом  Гостиная
+
+
+Increase Physical and Electric damage by <color\=#2899ff>12%</color>. If there is only 1 foe on the field, increase by <color\=#2899ff>24%</color> more.=Увеличивает физический и электрический урон на <color\=#2899ff>12%</color>. Если на поле только 1 враг, дополнительно увеличивает ещё на <color\=#2899ff>24%</color>.
+Increase damage dealt to foes with elemental ailments by <color\=#2899ff>12%</color>. Stacks up to 2 times.=Увеличивает урон по врагам с элементальными статусами на <color\=#2899ff>12%</color>. Эффект складывается до 2 раз.
+Increase party's Fire damage by <color\=#2899ff>6%</color>. When a foe is Burning, increase party's Fire damage by <color\=#2899ff>6%</color> more for 2 turns.=Увеличивает урон Огнём отряда на <color\=#2899ff>6%</color>. Если враг горит, дополнительно увеличивает урон Огнём ещё на <color\=#2899ff>6%</color> на 2 хода.
+Whenever dealing damage to a foe with a debuff, increase user's Attack by <color\=#2899ff>9%</color> for 1 turn. Stacks up to 3 times.=При нанесении урона врагу с дебаффом атака пользователя увеличивается на <color\=#2899ff>9%</color> на 1 ход. Эффект складывается до 3 раз.
+Increase critical damage of Resonance by <color\=#2899ff>50%</color>.=Увеличивает критический урон Резонанса на <color\=#2899ff>50%</color>.
+Increase maximum number of Attack buff stacks to <color\=#2899ff>5</color>.=Увеличивает максимальное количество стаков усиления атаки до <color\=#2899ff>5</color>.
+When activating Resonance, increase own Ice damage by <color\=#2899ff>10%</color> for 2 turns. Stacks up to 3 times.=При активации Резонанса увеличивает собственный урон Льдом на <color\=#2899ff>10%</color> на 2 хода. Эффект складывается до 3 раз.
+At the start of battle, increase other allies' Attack by <color\=#2899ff>10%</color>. This effect won't activate if stacked.=В начале боя увеличивает атаку союзников на <color\=#2899ff>10%</color>. Эффект не срабатывает при наложении.
+When 3 Electric damage buffs are stacked, increase party's Electric damage by <color\=#2899ff>12%</color>. This effect won't activate if stacked.=Когда накоплено 3 усиления урона Электричеством, урон отряда Электричеством увеличивается на <color\=#2899ff>12%</color>. Эффект не срабатывает при наложении.
+After using a skill on an ally, increase party's damage by <color\=#2899ff>8%</color> for 2 turns.=После использования навыка на союзнике увеличивает урон отряда на <color\=#2899ff>8%</color> на 2 хода.
+After defeating a foe, increase user's Attack by <color\=#2899ff>30%</color> for 3 turns.=После победы над врагом атака пользователя увеличивается на <color\=#2899ff>30%</color> на 3 хода.
+After attacking a foe, increase party's damage by <color\=#2899ff>8%</color> for 1 turn.=После атаки врага урон отряда увеличивается на <color\=#2899ff>8%</color> на 1 ход.
+When attacking with a skill, decrease main target's Defense by <color\=#2899ff>23%</color> for 2 turns.=При атаке навыком защита основной цели снижается на <color\=#2899ff>23%</color> на 2 хода.
+For every <color\=#2899ff>800</color> HP, increase user's healing effect by <color\=#2899ff>1%</color>. Maximum of <color\=#2899ff>20%</color>.=За каждые <color\=#2899ff>800</color> HP увеличивает эффект исцеления пользователя на <color\=#2899ff>1%</color>. Максимум <color\=#2899ff>20%</color>.
+Each time a shield is granted, increase target's Defense by <color\=#2899ff>7%</color> for 2 turns. Stacks up to 3 times.=Каждый раз, когда накладывается щит, защита цели увеличивается на <color\=#2899ff>7%</color> на 2 хода. Эффект складывается до 3 раз.
+After using a healing skill, increase user's Attack by <color\=#2899ff>25%</color>.=После использования навыка исцеления атака пользователя увеличивается на <color\=#2899ff>25%</color>.
+After taking damage, increase Defense by <color\=#2899ff>40%</color> for 2 turns.=После получения урона защита увеличивается на <color\=#2899ff>40%</color> на 2 хода.
+Increase damage of allies with the same main attribute by <color\=#2899ff>10%</color>. This effect won't activate if stacked.=Увеличивает урон союзников с тем же основным атрибутом на <color\=#2899ff>10%</color>. Эффект не срабатывает при наложении.
+For each elemental ailment inflicted, increase party's Nuclear damage by <color\=#2899ff>5%</color> for 2 turns.=За каждое наложенное элементальное состояние увеличивает урон отряда Ядерной стихией на <color\=#2899ff>5%</color> на 2 хода.
+When activating a Revelation set effect's bonus damage, increase target's damage taken by <color\=#2899ff>12%</color> for 2 turns.=При активации дополнительного урона эффекта Revelation увеличивает получаемый целью урон на <color\=#2899ff>12%</color> на 2 хода.
+When equipped by an Elucidator Phantom Thief: After using a skill to inflict a debuff on a foe, decrease target's Defense by <color\=#2899ff>10%</color> for 2 turns.=Когда экипирован Призрачным вором-Просветителем: после использования навыка, накладывающего дебафф на врага, защита цели снижается на <color\=#2899ff>10%</color> на 2 хода.
+During battle, when user's HP reaches 6000/9000/12000, increase damage by <color\=#2899ff>10%/20%/30%</color>.=Во время боя, когда HP пользователя достигает 6000/9000/12000, урон увеличивается на <color\=#2899ff>10%/20%/30%</color>.
+During battle, increase damage by 50% of user's ailment accuracy (max <color\=#2899ff>30%</color> increase).=Во время боя урон увеличивается на 50% от точности наложения статусов пользователя (макс. увеличение <color\=#2899ff>30%</color>).
+When Malice reaches 5 or more stacks, increase Physical damage and ailment accuracy by <color\=#2899ff>20%</color>.=Когда количество Злого умысла достигает 5 или более, увеличивает физический урон и точность наложения статусов на <color\=#2899ff>20%</color>.
+After using a Highlight, increase Attack by <color\=#2899ff>30%</color> and damage by <color\=#2899ff>25%</color>.=После использования Изюминки увеличивает атаку на <color\=#2899ff>30%</color> и урон на <color\=#2899ff>25%</color>.
+When equipped by an Elucidator Phantom Thief: At the start of battle, for each ally with a matching main attribute, increase party's max HP, Attack, and Defense by <color\=#2899ff>2%</color> more.=Когда экипирован Призрачным вором-Просветителем: в начале боя за каждого союзника с тем же основным атрибутом увеличивает макс. HP, атаку и защиту отряда на <color\=#2899ff>2%</color>.
+During battle, increase damage by 80% of user's healing effect (max <color\=#2899ff>30%</color> increase).=Во время боя урон увеличивается на 80% от эффекта исцеления пользователя (макс. увеличение <color\=#2899ff>30%</color>).
+After dealing a critical hit, increase user's healing effect by <color\=#2899ff>28%</color> for 2 turns.=После нанесения критического удара эффект исцеления пользователя увеличивается на <color\=#2899ff>28%</color> на 2 хода.
+When activating Resonance, increase critical damage by <color\=#2899ff>50%</color>.=При активации Резонанса критический урон увеличивается на <color\=#2899ff>50%</color>.
+
+
+
+Restores 16% of max HP to party. (When used.)=Восстанавливает 16% от максимального HP отряда. (При использовании)
+For 20 battles, restores party's HP by 1.6% at the start of each turn. (When used.)=В течение 20 сражений в начале каждого хода восстанавливает HP отряда на 1,6%. (При использовании)
+For 20 battles, increases party's HP by 8%. (When used.)=В течение 20 сражений повышает HP отряда на 8%. (При использовании)
+For 20 battles, increases party's Attack by 8%. (When used.)=В течение 20 сражений повышает атаку отряда на 8%. (При использовании)
+For 15 battles, increases party's Attack by 12%. (When used.)=В течение 15 сражений повышает атаку отряда на 12%. (При использовании)
+For 15 battles, increases party's Defense by 12%. (When used.)=В течение 15 сражений повышает защиту отряда на 12%. (При использовании)
+For 15 battles, increases party's critical damage by 14.4%. (When used.)=В течение 15 сражений повышает критический урон отряда на 14,4%. (При использовании)
+For 20 battles, increases party's ailment resistance by 9.6%. (When used.)=В течение 20 сражений повышает сопротивление отряда состояниям на 9,6%. (При использовании)
+For 15 battles, increases party's ailment resistance by 14.4%. (When used.)=В течение 15 сражений повышает сопротивление отряда состояниям на 14,4%. (При использовании)
+Restores 24% of max HP to party. (When used.)=Восстанавливает 24% от максимального HP отряда. (При использовании)
+Restores 32% of max HP to party. (When used.)=Восстанавливает 32% от максимального HP отряда. (При использовании)
+For 15 battles, restores party's HP by 2.4% at the start of each turn. (When used.)=В течение 15 сражений в начале каждого хода восстанавливает HP отряда на 2,4%. (При использовании)
+For 10 battles, restores party's HP by 3.2% at the start of each turn. (When used.)=В течение 10 сражений в начале каждого хода восстанавливает HP отряда на 3,2%. (При использовании)
+For 15 battles, restores party's SP by 2.4% at the start of each turn. (When used.)=В течение 15 сражений в начале каждого хода восстанавливает SP отряда на 2,4%. (При использовании)
+For 20 battles, restores party's SP by 1.6% at the start of each turn. (When used.)=В течение 20 сражений в начале каждого хода восстанавливает SP отряда на 1,6%. (При использовании)
+For 10 battles, restores party's SP by 3.2% at the start of each turn. (When used.)=В течение 10 сражений в начале каждого хода восстанавливает SP отряда на 3,2%. (При использовании)
+For 20 battles, restores party's HP/SP by 1.6% at the start of each turn. (When used.)=В течение 20 сражений в начале каждого хода восстанавливает HP/SP отряда на 1,6%. (При использовании)
+For 10 battles, restores party's HP/SP by 3.2% at the start of each turn. (When used.)=В течение 10 сражений в начале каждого хода восстанавливает HP/SP отряда на 3,2%. (При использовании)
+For 15 battles, restores party's HP/SP by 2.4% at the start of each turn. (When used.)=В течение 15 сражений в начале каждого хода восстанавливает HP/SP отряда на 2,4%. (При использовании)
+For 15 battles, fills the Highlight Gauge by 12% at the start of each battle.\n*Amount increased may vary based on how many battles have occurred. (When used.)=В течение 15 сражений в начале каждого боя заполняет шкалу Highlight на 12%.\n*Величина может меняться в зависимости от количества проведённых сражений. (При использовании)
+For 20 battles, fills the Highlight Gauge by 8% at the start of each battle.\n*Amount increased may vary based on how many battles have occurred. (When used.)=В течение 20 сражений в начале каждого боя заполняет шкалу Highlight на 8%.\n*Величина может меняться в зависимости от количества проведённых сражений. (При использовании)
+For 10 battles, fills the Highlight Gauge by 16% at the start of each battle.\n*Amount increased may vary based on how many battles have occurred. (When used.)=В течение 10 сражений в начале каждого боя заполняет шкалу Highlight на 16%.\n*Величина может меняться в зависимости от количества проведённых сражений. (При использовании)
+For 10 battles, increases party's HP by 16%. (When used.)=В течение 10 сражений повышает HP отряда на 16%. (При использовании)
+For 15 battles, increases party's HP by 12%. (When used.)=В течение 15 сражений повышает HP отряда на 12%. (При использовании)
+For 20 battles, increases party's Defense by 8%. (When used.)=В течение 20 сражений повышает защиту отряда на 8%. (При использовании)
+For 10 battles, increases party's Attack by 16%. (When used.)=В течение 10 сражений повышает атаку отряда на 16%. (При использовании)
+For 10 battles, increases party's Defense by 16%. (When used.)=В течение 10 сражений повышает защиту отряда на 16%. (При использовании)
+For 15 battles, increases party's critical rate by 7.2%. (When used.)=В течение 15 сражений повышает шанс критического удара у отряда на 7,2%. (При использовании)
+For 20 battles, increases party's critical rate by 4.8%. (When used.)=В течение 20 сражений повышает шанс критического удара у отряда на 4,8%. (При использовании)
+For 10 battles, increases party's critical rate by 9.6%. (When used.)=В течение 10 сражений повышает шанс критического удара у отряда на 9,6%. (При использовании)
+For 20 battles, increases party's critical damage by 9.6%. (When used.)=В течение 20 сражений повышает критический урон отряда на 9,6%. (При использовании)
+For 10 battles, increases party's critical damage by 19.2%. (When used.)=В течение 10 сражений повышает критический урон отряда на 19,2%. (При использовании)
+For 20 battles, increases party's ailment accuracy by 9.6%. (When used.)=В течение 20 сражений повышает точность наложения состояний у отряда на 9,6%. (При использовании)
+For 15 battles, increases party's ailment accuracy by 14.4%. (When used.)=В течение 15 сражений повышает точность наложения состояний у отряда на 14,4%. (При использовании)
+For 10 battles, increases party's ailment accuracy by 19.2%. (When used.)=В течение 10 сражений повышает точность наложения состояний у отряда на 19,2%. (При использовании)
+*[Item_contentBG_304234]*=*[Item_contentBG_304234]*
+*[Item_contentBG_304235]*=*[Item_contentBG_304235]*
+For 10 battles, increases party's ailment resistance by 19.2%. (When used.)=В течение 10 сражений повышает сопротивление отряда состояниям на 19,2%. (При использовании)
+For 10 battles, increases party's Defense by 12%. (When used.)=В течение 10 сражений повышает защиту отряда на 12%. (При использовании)
+*[Item_contentBG_304236]*=*[Item_contentBG_304236]*
+*[Item_contentBG_304238]*=*[Item_contentBG_304238]*
+For 10 battles, increases party's Attack by 12%. (When used.)=В течение 10 сражений повышает атаку отряда на 12%. (При использовании)
+*[Item_contentBG_304239]*=*[Item_contentBG_304239]*
+For 15 battles, increases party's damage by 9.6%. (When used.)=В течение 15 сражений повышает урон отряда на 9,6%. (При использовании)
+*[Item_contentBG_304240]*=*[Item_contentBG_304240]*
+For 10 battles, increases party's damage by 12.8%. (When used.)=В течение 10 сражений повышает урон отряда на 12,8%. (При использовании)
+*[Item_contentBG_304241]*=*[Item_contentBG_304241]*
+For 15 battles, decreases party's damage taken by 9.6%. (When used.)=В течение 15 сражений снижает получаемый отрядом урон на 9,6%. (При использовании)
+*[Item_contentBG_304243]*=*[Item_contentBG_304243]*
+*[Item_contentBG_304242]*=*[Item_contentBG_304242]*
+For 10 battles, decreases party's damage taken by 12.8%. (When used.)=В течение 10 сражений снижает получаемый отрядом урон на 12,8%. (При использовании)
+
+
+
+
+<color=#FFC000>Rank 15</color>: Unlock even more recipes.=<color=#FFC000>Ранг 15</color>: Откройте ещё больше рецептов.
+<color=#FFC000>Rank 5</color>: Some ingredients may be returned after cooking.=<color=#FFC000>Ранг 5</color>: Некоторые ингредиенты могут вернуться после приготовления.
+Gain Synergy with <color=#FFC000>Shun Kano</color>: Unlock more recipes.=Получите синергию с <color=#FFC000>Сюн Кано</color>: откройте больше рецептов.
+<color=#FFC000>Rank 9</color>: Your chance of cooking superb dishes increases.=<color=#FFC000>Ранг 9</color>: Шанс приготовить превосходные блюда повышается.
+<color=#FFC000>Rank 12</color>: You may produce an extra serving after cooking.=<color=#FFC000>Ранг 12</color>: После приготовления можно получить дополнительную порцию.
+
+It seems that Yaoling has something they want to talk about.=Похоже, Яолин хочет о чём-то поговорить.
+
+
+Increases all allies' HP by 8 (effective in battle).=Увеличивает HP всех союзников на 8 (действует в бою).
+Get 400 extra Konpaku Gems when you play Pursuit of Treasure.=Получайте дополнительно 400 самоцветов Конпаку в режиме «Охота за сокровищами».
+Thieves Den EXP Credit increased by 1050=Кредит опыта Логова Воров увеличен на 1050
+Restore 4 stamina after the first login of each day.=Восстанавливает 4 ед. выносливости при первом входе за день
+Increases Electric and Bless damage by 0.8% (effective in battle).=Увеличивает урон Электричеством и Благословлением на 0,8% (действует в бою).
+Increases Ice and Nuclear damage by 0.8% (effective in battle).=Увеличивает урон Льдом и Ядерным на 0,8% (действует в бою).
+Increases ally damage dealt in the Realm of Repression by 0.8% (effective in battle).=Увеличивает урон союзников в Сфере Подавления на 0,8% (действует в бою).
+Increases Fire and Psychokinesis damage by 0.8% (effective in battle).=Увеличивает урон Огнём и Психокинезом на 0,8% (действует в бою).
+Increases Physical and Gun damage by 0.8% (effective in battle).=Увеличивает Физический и Пулевой урон на 0,8% (действует в бою).
+Increases all allies' ailment accuracy by 0.4% (effective in battle).=Увеличивает вероятность наложения недугов у всех союзников на 0,4% (действует в бою).
+Increases all allies' Attack by 6 (effective in battle).=Увеличивает Атаку всех союзников на 6 (действует в бою).
+Increases Persona damage by 0.8% (effective in battle).=Увеличивает урон Персоны на 0,8% (действует в бою).
+Increases all allies' HP recovery by 0.4% (effective in battle).=Увеличивает восстановление HP у всех союзников на 0,4% (действует в бою).
+Increases Wind and Curse damage by 0.8% (effective in battle).=Увеличивает урон Ветром и Проклятием на 0,8% (действует в бою).
+Increases all allies' Speed by 0.3 (effective in battle).=Увеличивает Скорость всех союзников на 0,3 (действует в бою).
+Increases damage in Gates of the Nightmare Catcher by 0.6% (effective in battle).=Увеличивает урон во «Вратах Ловца Кошмаров» на 0,6% (действует в бою).
+Increases all allies' Defense by 6 (effective in battle).=Увеличивает Защиту всех союзников на 6 (действует в бою).
+Increases the protagonist's damage dealt by 0.6% (effective in battle).=Увеличивает наносимый протагонистом урон на 0,6% (действует в бою).
+Increases damage in Trials from the Sea of Souls by 0.6% (effective in battle).=Увеличивает урон в испытаниях «Моря душ» на 0,6% (действует в бою).
+Increases all allies' HP by 24 (effective in battle).=Увеличивает HP всех союзников на 24 (действует в бою).
+Qualia {{A}} 500 Increases all allies' Attack by 2 (effective in battle).=Квалиа {{A}} 500 увеличивает Атаку всех союзников на 2 (действует в бою).
+Qualia {{A}} 72 Increases Wind and Curse damage by 0.2% (effective in battle).=Квалиа {{A}} 72 увеличивает урон Ветром и Проклятием на 0,2% (действует в бою).
+Qualia {{A}} 71 Increases all allies' HP recovery by 0.1% (effective in battle).=Квалиа {{A}} 71 увеличивает восстановление HP у всех союзников на 0,1% (действует в бою).
+Qualia {{A}} 70 Increases Persona damage by 0.2% (effective in battle).=Квалиа {{A}} 70 увеличивает урон Персоны на 0,2% (действует в бою).
+Qualia {{A}} 69 Increases Electric and Bless damage by 0.2% (effective in battle).=Квалиа {{A}} 69 увеличивает урон Электричеством и Благословлением на 0,2% (действует в бою).
+Qualia {{A}} 68 Restore 1 stamina after the first login of each day.=Квалиа {{A}} 68 восстанавливает 1 ед. выносливости при первом входе за день.
+Qualia {{A}} 67 Increases Ice and Nuclear damage by 0.2% (effective in battle).=Квалиа {{A}} 67 увеличивает урон Льдом и Ядерным на 0,2% (действует в бою).
+Qualia {{A}} 77 Increases all allies' Defense by 2 (effective in battle).=Квалиа {{A}} 77 увеличивает Защиту всех союзников на 2 (действует в бою).
+Qualia {{A}} 76 Thieves Den EXP Credit increased by 150=Квалиа {{A}} 76: кредит опыта Логова Воров увеличен на 150
+Qualia {{A}} 75 Increases the protagonist's damage dealt by 0.2% (effective in battle).=Квалиа {{A}} 75 увеличивает наносимый протагонистом урон на 0,2% (действует в бою).
+Qualia {{A}} 73 Increases all allies' HP by 8 (effective in battle).=Квалиа {{A}} 73 увеличивает HP всех союзников на 8 (действует в бою).
+Qualia {{A}} 74 Increases damage in Trials from the Sea of Souls by 0.2% (effective in battle).=Квалиа {{A}} 74 увеличивает урон в испытаниях «Моря душ» на 0,2% (действует в бою).
+Qualia {{A}} 1 Increases all allies' ailment accuracy by 0.1% (effective in battle).=Квалиа {{A}} 1 увеличивает вероятность наложения недугов у всех союзников на 0,1% (действует в бою).
+Qualia {{A}} 7 Increases Ice and Nuclear damage by 0.2% (effective in battle).=Квалиа {{A}} 7 увеличивает урон Льдом и Ядерным на 0,2% (действует в бою).
+Qualia {{A}} 2 Increases Physical and Gun damage by 0.2% (effective in battle).=Квалиа {{A}} 2 увеличивает Физический и Пулевой урон на 0,2% (действует в бою).
+Qualia {{A}} 3 Get 100 extra Konpaku Gems when you play Pursuit of Treasure.=Квалиа {{A}} 3: дополнительно 100 самоцветов Конпаку в режиме «Охота за сокровищами».
+Qualia {{A}} 4 Increases Fire and Psychokinesis damage by 0.2% (effective in battle).=Квалиа {{A}} 4 увеличивает урон Огнём и Психокинезом на 0,2% (действует в бою).
+Qualia {{A}} 6 Thieves Den EXP Credit increased by 150=Квалиа {{A}} 6: кредит опыта Логова Воров увеличен на 150
+Qualia {{A}} 15 Increases the protagonist's damage dealt by 0.2% (effective in battle).=Квалиа {{A}} 15 увеличивает наносимый протагонистом урон на 0,2% (действует в бою).
+Qualia {{A}} 8 Restore 1 stamina after the first login of each day.=Квалиа {{A}} 8 восстанавливает 1 ед. выносливости при первом входе за день.
+Qualia {{A}} 5 Increases ally damage dealt in the Realm of Repression by 0.2% (effective in battle).=Квалиа {{A}} 5 увеличивает урон союзников в Сфере Подавления на 0,2% (действует в бою).
+Qualia {{A}} 9 Increases Electric and Bless damage by 0.2% (effective in battle).=Квалиа {{A}} 9 увеличивает урон Электричеством и Благословлением на 0,2% (действует в бою).
+Qualia {{A}} 10 Increases Persona damage by 0.2% (effective in battle).=Квалиа {{A}} 10 увеличивает урон Персоны на 0,2% (действует в бою).
+Qualia {{A}} 14 Increases damage in Trials from the Sea of Souls by 0.2% (effective in battle).=Квалиа {{A}} 14 увеличивает урон в испытаниях «Моря душ» на 0,2% (действует в бою).
+Qualia {{A}} 13 Increases all allies' HP by 8 (effective in battle).=Квалиа {{A}} 13 увеличивает HP всех союзников на 8 (действует в бою).
+Qualia {{A}} 12 Increases Wind and Curse damage by 0.2% (effective in battle).=Квалиа {{A}} 12 увеличивает урон Ветром и Проклятием на 0,2% (действует в бою).
+Qualia {{A}} 11 Increases all allies' HP recovery by 0.1% (effective in battle).=Квалиа {{A}} 11 увеличивает восстановление HP у всех союзников на 0,1% (действует в бою).
+Qualia {{A}} 16 Thieves Den EXP Credit increased by 150=Квалиа {{A}} 16: кредит опыта Логова Воров увеличен на 150
+Qualia {{A}} 17 Increases all allies' Defense by 2 (effective in battle).=Квалиа {{A}} 17 увеличивает Защиту всех союзников на 2 (действует в бою).
+Qualia {{A}} 21 Increases all allies' ailment accuracy by 0.1% (effective in battle).=Квалиа {{A}} 21 увеличивает вероятность наложения недугов у всех союзников на 0,1% (действует в бою).
+Qualia {{A}} 20 Increases all allies' Attack by 2 (effective in battle).=Квалиа {{A}} 20 увеличивает Атаку всех союзников на 2 (действует в бою).
+Qualia {{A}} 19 Increases all allies' Speed by 0.1 (effective in battle).=Квалиа {{A}} 19 увеличивает Скорость всех союзников на 0,1 (действует в бою).
+Qualia {{A}} 18 Increases damage in Gates of the Nightmare Catcher by 0.2% (effective in battle).=Квалиа {{A}} 18 увеличивает урон во «Вратах Ловца Кошмаров» на 0,2% (действует в бою).
+Qualia {{A}} 22 Increases Physical and Gun damage by 0.2% (effective in battle).=Квалиа {{A}} 22 увеличивает Физический и Пулевой урон на 0,2% (действует в бою).
+Qualia {{A}} 26 Thieves Den EXP Credit increased by 150=Квалиа {{A}} 26: кредит опыта Логова Воров увеличен на 150
+Qualia {{A}} 25 Increases ally damage dealt in the Realm of Repression by 0.2% (effective in battle).=Квалиа {{A}} 25 увеличивает урон союзников в Сфере Подавления на 0,2% (действует в бою).
+Qualia {{A}} 24 Increases Fire and Psychokinesis damage by 0.2% (effective in battle).=Квалиа {{A}} 24 увеличивает урон Огнём и Психокинезом на 0,2% (действует в бою).
+Qualia {{A}} 23 Get 100 extra Konpaku Gems when you play Pursuit of Treasure.=Квалиа {{A}} 23: дополнительно 100 самоцветов Конпаку в режиме «Охота за сокровищами».
+Qualia {{A}} 29 Increases Electric and Bless damage by 0.2% (effective in battle).=Квалиа {{A}} 29 увеличивает урон Электричеством и Благословлением на 0,2% (действует в бою).
+Qualia {{A}} 28 Restore 1 stamina after the first login of each day.=Квалиа {{A}} 28 восстанавливает 1 ед. выносливости при первом входе за день.
+Qualia {{A}} 27 Increases Ice and Nuclear damage by 0.2% (effective in battle).=Квалиа {{A}} 27 увеличивает урон Льдом и Ядерным на 0,2% (действует в бою).
+Qualia {{A}} 32 Increases Wind and Curse damage by 0.2% (effective in battle).=Квалиа {{A}} 32 увеличивает урон Ветром и Проклятием на 0,2% (действует в бою).
+Qualia {{A}} 31 Increases all allies' HP recovery by 0.1% (effective in battle).=Квалиа {{A}} 31 увеличивает восстановление HP у всех союзников на 0,1% (действует в бою).
+Qualia {{A}} 30 Increases Persona damage by 0.2% (effective in battle).=Квалиа {{A}} 30 увеличивает урон Персоны на 0,2% (действует в бою).
+Qualia {{A}} 34 Increases damage in Trials from the Sea of Souls by 0.2% (effective in battle).=Квалиа {{A}} 34 увеличивает урон в испытаниях «Моря душ» на 0,2% (действует в бою).
+Qualia {{A}} 33 Increases all allies' HP by 8 (effective in battle).=Квалиа {{A}} 33 увеличивает HP всех союзников на 8 (действует в бою).
+Qualia {{A}} 37 Increases all allies' Defense by 2 (effective in battle).=Квалиа {{A}} 37 увеличивает Защиту всех союзников на 2 (действует в бою).
+Qualia {{A}} 36 Thieves Den EXP Credit increased by 150=Квалиа {{A}} 36: кредит опыта Логова Воров увеличен на 150
+Qualia {{A}} 35 Increases the protagonist's damage dealt by 0.2% (effective in battle).=Квалиа {{A}} 35 увеличивает наносимый протагонистом урон на 0,2% (действует в бою).
+Qualia {{A}} 38 Increases damage in Gates of the Nightmare Catcher by 0.2% (effective in battle).=Квалиа {{A}} 38 увеличивает урон во «Вратах Ловца Кошмаров» на 0,2% (действует в бою).
+Qualia {{A}} 42 Increases Physical and Gun damage by 0.2% (effective in battle).=Квалиа {{A}} 42 увеличивает Физический и Пулевой урон на 0,2% (действует в бою).
+Qualia {{A}} 41 Increases all allies' ailment accuracy by 0.1% (effective in battle).=Квалиа {{A}} 41 увеличивает вероятность наложения недугов у всех союзников на 0,1% (действует в бою).
+Qualia {{A}} 40 Increases all allies' Attack by 2 (effective in battle).=Квалиа {{A}} 40 увеличивает Атаку всех союзников на 2 (действует в бою).
+Qualia {{A}} 39 Increases all allies' Speed by 0.1 (effective in battle).=Квалиа {{A}} 39 увеличивает Скорость всех союзников на 0,1 (действует в бою).
+Qualia {{A}} 43 Get 100 extra Konpaku Gems when you play Pursuit of Treasure.=Квалиа {{A}} 43: дополнительно 100 самоцветов Конпаку в режиме «Охота за сокровищами».
+Qualia {{A}} 47 Increases Ice and Nuclear damage by 0.2% (effective in battle).=Квалиа {{A}} 47 увеличивает урон Льдом и Ядерным на 0,2% (действует в бою).
+Qualia {{A}} 46 Thieves Den EXP Credit increased by 150=Квалиа {{A}} 46: кредит опыта Логова Воров увеличен на 150
+Qualia {{A}} 45 Increases ally damage dealt in the Realm of Repression by 0.2% (effective in battle).=Квалиа {{A}} 45 увеличивает урон союзников в Сфере Подавления на 0,2% (действует в бою).
+Qualia {{A}} 44 Increases Fire and Psychokinesis damage by 0.2% (effective in battle).=Квалиа {{A}} 44 увеличивает урон Огнём и Психокинезом на 0,2% (действует в бою).
+Qualia {{A}} 48 Restore 1 stamina after the first login of each day.=Квалиа {{A}} 48 восстанавливает 1 ед. выносливости при первом входе за день.
+Qualia {{A}} 55 Increases the protagonist's damage dealt by 0.2% (effective in battle).=Квалиа {{A}} 55 увеличивает наносимый протагонистом урон на 0,2% (действует в бою).
+Qualia {{A}} 54 Increases damage in Trials from the Sea of Souls by 0.2% (effective in battle).=Квалиа {{A}} 54 увеличивает урон в испытаниях «Моря душ» на 0,2% (действует в бою).
+Qualia {{A}} 53 Increases all allies' HP by 8 (effective in battle).=Квалиа {{A}} 53 увеличивает HP всех союзников на 8 (действует в бою).
+Qualia {{A}} 52 Increases Wind and Curse damage by 0.2% (effective in battle).=Квалиа {{A}} 52 увеличивает урон Ветром и Проклятием на 0,2% (действует в бою).
+Qualia {{A}} 51 Increases all allies' HP recovery by 0.1% (effective in battle).=Квалиа {{A}} 51 увеличивает восстановление HP у всех союзников на 0,1% (действует в бою).
+Qualia {{A}} 50 Increases Persona damage by 0.2% (effective in battle).=Квалиа {{A}} 50 увеличивает урон Персоны на 0,2% (действует в бою).
+Qualia {{A}} 49 Increases Electric and Bless damage by 0.2% (effective in battle).=Квалиа {{A}} 49 увеличивает урон Электричеством и Благословлением на 0,2% (действует в бою).
+Qualia {{A}} 56 Thieves Den EXP Credit increased by 150=Квалиа {{A}} 56: кредит опыта Логова Воров увеличен на 150
+Qualia {{A}} 64 Increases Fire and Psychokinesis damage by 0.2% (effective in battle).=Квалиа {{A}} 64 увеличивает урон Огнём и Психокинезом на 0,2% (действует в бою).
+Qualia {{A}} 63 Get 100 extra Konpaku Gems when you play Pursuit of Treasure.=Квалиа {{A}} 63: дополнительно 100 самоцветов Конпаку в режиме «Охота за сокровищами».
+Qualia {{A}} 62 Increases Physical and Gun damage by 0.2% (effective in battle).=Квалиа {{A}} 62 увеличивает Физический и Пулевой урон на 0,2% (действует в бою).
+Qualia {{A}} 61 Increases all allies' ailment accuracy by 0.1% (effective in battle).=Квалиа {{A}} 61 увеличивает вероятность наложения недугов у всех союзников на 0,1% (действует в бою).
+Qualia {{A}} 60 Increases all allies' Attack by 2 (effective in battle).=Квалиа {{A}} 60 увеличивает Атаку всех союзников на 2 (действует в бою).
+Qualia {{A}} 59 Increases all allies' Speed by 0.1 (effective in battle).=Квалиа {{A}} 59 увеличивает Скорость всех союзников на 0,1 (действует в бою).
+Qualia {{A}} 58 Increases damage in Gates of the Nightmare Catcher by 0.2% (effective in battle).=Квалиа {{A}} 58 увеличивает урон во «Вратах Ловца Кошмаров» на 0,2% (действует в бою).
+Qualia {{A}} 57 Increases all allies' Defense by 2 (effective in battle).=Квалиа {{A}} 57 увеличивает Защиту всех союзников на 2 (действует в бою).
+Qualia {{A}} 65 Increases ally damage dealt in the Realm of Repression by 0.2% (effective in battle).=Квалиа {{A}} 65 увеличивает урон союзников в Сфере Подавления на 0,2% (действует в бою).
+Qualia {{A}} 66 Thieves Den EXP Credit increased by 150=Квалиа {{A}} 66: кредит опыта Логова Воров увеличен на 150
+Qualia {{A}} 78 Increases damage in Gates of the Nightmare Catcher by 0.2% (effective in battle).=Квалиа {{A}} 78 увеличивает урон во «Вратах Ловца Кошмаров» на 0,2% (действует в бою).
+Qualia {{A}} 82 Increases Physical and Gun damage by 0.2% (effective in battle).=Квалиа {{A}} 82 увеличивает Физический и Пулевой урон на 0,2% (действует в бою).
+Qualia {{A}} 81 Increases all allies' ailment accuracy by 0.1% (effective in battle).=Квалиа {{A}} 81 увеличивает вероятность наложения недугов у всех союзников на 0,1% (действует в бою).
+Qualia {{A}} 80 Increases all allies' Attack by 2 (effective in battle).=Квалиа {{A}} 80 увеличивает Атаку всех союзников на 2 (действует в бою).
+Qualia {{A}} 79 Increases all allies' Speed by 0.1 (effective in battle).=Квалиа {{A}} 79 увеличивает Скорость всех союзников на 0,1 (действует в бою).
+Qualia {{A}} 83 Get 100 extra Konpaku Gems when you play Pursuit of Treasure.=Квалиа {{A}} 83: дополнительно 100 самоцветов Конпаку в режиме «Охота за сокровищами».
+Qualia {{A}} 88 Restore 1 stamina after the first login of each day.=Квалиа {{A}} 88 восстанавливает 1 ед. выносливости при первом входе за день.
+Qualia {{A}} 87 Increases Ice and Nuclear damage by 0.2% (effective in battle).=Квалиа {{A}} 87 увеличивает урон Льдом и Ядерным на 0,2% (действует в бою).
+Qualia {{A}} 86 Thieves Den EXP Credit increased by 150=Квалиа {{A}} 86: кредит опыта Логова Воров увеличен на 150
+Qualia {{A}} 85 Increases ally damage dealt in the Realm of Repression by 0.2% (effective in battle).=Квалиа {{A}} 85 увеличивает урон союзников в Сфере Подавления на 0,2% (действует в бою).
+Qualia {{A}} 84 Increases Fire and Psychokinesis damage by 0.2% (effective in battle).=Квалиа {{A}} 84 увеличивает урон Огнём и Психокинезом на 0,2% (действует в бою).
+Qualia {{A}} 91 Increases all allies' HP recovery by 0.1% (effective in battle).=Квалиа {{A}} 91 увеличивает восстановление HP у всех союзников на 0,1% (действует в бою).
+Qualia {{A}} 90 Increases Persona damage by 0.2% (effective in battle).=Квалиа {{A}} 90 увеличивает урон Персоны на 0,2% (действует в бою).
+Qualia {{A}} 89 Increases Electric and Bless damage by 0.2% (effective in battle).=Квалиа {{A}} 89 увеличивает урон Электричеством и Благословлением на 0,2% (действует в бою).
+Qualia {{A}} 92 Increases Wind and Curse damage by 0.2% (effective in battle).=Квалиа {{A}} 92 увеличивает урон Ветром и Проклятием на 0,2% (действует в бою).
+Qualia {{A}} 93 Increases all allies' HP by 8 (effective in battle).=Квалиа {{A}} 93 увеличивает HP всех союзников на 8 (действует в бою).
+Qualia {{A}} 96 Thieves Den EXP Credit increased by 150=Квалиа {{A}} 96: кредит опыта Логова Воров увеличен на 150
+Qualia {{A}} 95 Increases the protagonist's damage dealt by 0.2% (effective in battle).=Квалиа {{A}} 95 увеличивает наносимый протагонистом урон на 0,2% (действует в бою).
+Qualia {{A}} 94 Increases damage in Trials from the Sea of Souls by 0.2% (effective in battle).=Квалиа {{A}} 94 увеличивает урон в испытаниях «Моря душ» на 0,2% (действует в бою).
+Qualia {{A}} 97 Increases all allies' Defense by 2 (effective in battle).=Квалиа {{A}} 97 увеличивает Защиту всех союзников на 2 (действует в бою).
+Qualia {{A}} 99 Increases all allies' Speed by 0.1 (effective in battle).=Квалиа {{A}} 99 увеличивает Скорость всех союзников на 0,1 (действует в бою).
+Qualia {{A}} 98 Increases damage in Gates of the Nightmare Catcher by 0.2% (effective in battle).=Квалиа {{A}} 98 увеличивает урон во «Вратах Ловца Кошмаров» на 0,2% (действует в бою).
+Qualia {{A}} 100 Increases all allies' Attack by 2 (effective in battle).=Квалиа {{A}} 100 увеличивает Атаку всех союзников на 2 (действует в бою).
+Qualia {{A}} 104 Increases Fire and Psychokinesis damage by 0.2% (effective in battle).=Квалиа {{A}} 104 увеличивает урон Огнём и Психокинезом на 0,2% (действует в бою).
+Qualia {{A}} 103 Get 100 extra Konpaku Gems when you play Pursuit of Treasure.=Квалиа {{A}} 103: дополнительно 100 самоцветов Конпаку в режиме «Охота за сокровищами».
+Qualia {{A}} 102 Increases Physical and Gun damage by 0.2% (effective in battle).=Квалиа {{A}} 102 увеличивает Физический и Пулевой урон на 0,2% (действует в бою).
+Qualia {{A}} 101 Increases all allies' ailment accuracy by 0.1% (effective in battle).=Квалиа {{A}} 101 увеличивает вероятность наложения недугов у всех союзников на 0,1% (действует в бою).
+Qualia {{A}} 105 Increases ally damage dealt in the Realm of Repression by 0.2% (effective in battle).=Квалиа {{A}} 105 увеличивает урон союзников в Сфере Подавления на 0,2% (действует в бою).
+Qualia {{A}} 108 Restore 1 stamina after the first login of each day.=Квалиа {{A}} 108 восстанавливает 1 ед. выносливости при первом входе за день.
+Qualia {{A}} 107 Increases Ice and Nuclear damage by 0.2% (effective in battle).=Квалиа {{A}} 107 увеличивает урон Льдом и Ядерным на 0,2% (действует в бою).
+Qualia {{A}} 106 Thieves Den EXP Credit increased by 150=Квалиа {{A}} 106: кредит опыта Логова Воров увеличен на 150
+Qualia {{A}} 112 Increases Wind and Curse damage by 0.2% (effective in battle).=Квалиа {{A}} 112 увеличивает урон Ветром и Проклятием на 0,2% (действует в бою).
+Qualia {{A}} 111 Increases all allies' HP recovery by 0.1% (effective in battle).=Квалиа {{A}} 111 увеличивает восстановление HP у всех союзников на 0,1% (действует в бою).
+Qualia {{A}} 110 Increases Persona damage by 0.2% (effective in battle).=Квалиа {{A}} 110 увеличивает урон Персоны на 0,2% (действует в бою).
+Qualia {{A}} 109 Increases Electric and Bless damage by 0.2% (effective in battle).=Квалиа {{A}} 109 увеличивает урон Электричеством и Благословлением на 0,2% (действует в бою).
+Qualia {{A}} 114 Increases damage in Trials from the Sea of Souls by 0.2% (effective in battle).=Квалиа {{A}} 114 увеличивает урон в испытаниях «Моря душ» на 0,2% (действует в бою).
+Qualia {{A}} 113 Increases all allies' HP by 8 (effective in battle).=Квалиа {{A}} 113 увеличивает HP всех союзников на 8 (действует в бою).
+Qualia {{A}} 119 Increases all allies' Speed by 0.1 (effective in battle).=Квалиа {{A}} 119 увеличивает Скорость всех союзников на 0,1 (действует в бою).
+Qualia {{A}} 118 Increases damage in Gates of the Nightmare Catcher by 0.2% (effective in battle).=Квалиа {{A}} 118 увеличивает урон во «Вратах Ловца Кошмаров» на 0,2% (действует в бою).
+Qualia {{A}} 117 Increases all allies' Defense by 2 (effective in battle).=Квалиа {{A}} 117 увеличивает Защиту всех союзников на 2 (действует в бою).
+Qualia {{A}} 116 Thieves Den EXP Credit increased by 150=Квалиа {{A}} 116: кредит опыта Логова Воров увеличен на 150
+Qualia {{A}} 115 Increases the protagonist's damage dealt by 0.2% (effective in battle).=Квалиа {{A}} 115 увеличивает наносимый протагонистом урон на 0,2% (действует в бою).
+Qualia {{A}} 120 Increases all allies' Attack by 2 (effective in battle).=Квалиа {{A}} 120 увеличивает Атаку всех союзников на 2 (действует в бою).
+Qualia {{A}} 125 Increases ally damage dealt in the Realm of Repression by 0.2% (effective in battle).=Квалиа {{A}} 125 увеличивает урон союзников в Сфере Подавления на 0,2% (действует в бою).
+Qualia {{A}} 124 Increases Fire and Psychokinesis damage by 0.2% (effective in battle).=Квалиа {{A}} 124 увеличивает урон Огнём и Психокинезом на 0,2% (действует в бою).
+Qualia {{A}} 123 Get 100 extra Konpaku Gems when you play Pursuit of Treasure.=Квалиа {{A}} 123: дополнительно 100 самоцветов Конпаку в режиме «Охота за сокровищами».
+Qualia {{A}} 122 Increases Physical and Gun damage by 0.2% (effective in battle).=Квалиа {{A}} 122 увеличивает Физический и Пулевой урон на 0,2% (действует в бою).
+Qualia {{A}} 121 Increases all allies' ailment accuracy by 0.1% (effective in battle).=Квалиа {{A}} 121 увеличивает вероятность наложения недугов у всех союзников на 0,1% (действует в бою).
+Qualia {{A}} 126 Thieves Den EXP Credit increased by 150=Квалиа {{A}} 126: кредит опыта Логова Воров увеличен на 150
+Qualia {{A}} 133 Increases all allies' HP by 8 (effective in battle).=Квалиа {{A}} 133 увеличивает HP всех союзников на 8 (действует в бою).
+Qualia {{A}} 132 Increases Wind and Curse damage by 0.2% (effective in battle).=Квалиа {{A}} 132 увеличивает урон Ветром и Проклятием на 0,2% (действует в бою).
+Qualia {{A}} 131 Increases all allies' HP recovery by 0.1% (effective in battle).=Квалиа {{A}} 131 увеличивает восстановление HP у всех союзников на 0,1% (действует в бою).
+Qualia {{A}} 130 Increases Persona damage by 0.2% (effective in battle).=Квалиа {{A}} 130 увеличивает урон Персоны на 0,2% (действует в бою).
+Qualia {{A}} 129 Increases Electric and Bless damage by 0.2% (effective in battle).=Квалиа {{A}} 129 увеличивает урон Электричеством и Благословлением на 0,2% (действует в бою).
+Qualia {{A}} 128 Restore 1 stamina after the first login of each day.=Квалиа {{A}} 128 восстанавливает 1 ед. выносливости при первом входе за день.
+Qualia {{A}} 127 Increases Ice and Nuclear damage by 0.2% (effective in battle).=Квалиа {{A}} 127 увеличивает урон Льдом и Ядерным на 0,2% (действует в бою).
+Qualia {{A}} 134 Increases damage in Trials from the Sea of Souls by 0.2% (effective in battle).=Квалиа {{A}} 134 увеличивает урон в испытаниях «Моря душ» на 0,2% (действует в бою).
+Qualia {{A}} 138 Increases damage in Gates of the Nightmare Catcher by 0.2% (effective in battle).=Квалиа {{A}} 138 увеличивает урон во «Вратах Ловца Кошмаров» на 0,2% (действует в бою).
+Qualia {{A}} 137 Increases all allies' Defense by 2 (effective in battle).=Квалиа {{A}} 137 увеличивает Защиту всех союзников на 2 (действует в бою).
+Qualia {{A}} 136 Thieves Den EXP Credit increased by 150=Квалиа {{A}} 136: кредит опыта Логова Воров увеличен на 150
+Qualia {{A}} 135 Increases the protagonist's damage dealt by 0.2% (effective in battle).=Квалиа {{A}} 135 увеличивает наносимый протагонистом урон на 0,2% (действует в бою).
+Qualia {{A}} 140 Increases all allies' Attack by 2 (effective in battle).=Квалиа {{A}} 140 увеличивает Атаку всех союзников на 2 (действует в бою).
+Qualia {{A}} 139 Increases all allies' Speed by 0.1 (effective in battle).=Квалиа {{A}} 139 увеличивает Скорость всех союзников на 0,1 (действует в бою).
+Qualia {{A}} 146 Thieves Den EXP Credit increased by 150=Квалиа {{A}} 146: кредит опыта Логова Воров увеличен на 150
+Qualia {{A}} 145 Increases ally damage dealt in the Realm of Repression by 0.2% (effective in battle).=Квалиа {{A}} 145 увеличивает урон союзников в Сфере Подавления на 0,2% (действует в бою).
+Qualia {{A}} 144 Increases Fire and Psychokinesis damage by 0.2% (effective in battle).=Квалиа {{A}} 144 увеличивает урон Огнём и Психокинезом на 0,2% (действует в бою).
+Qualia {{A}} 143 Get 100 extra Konpaku Gems when you play Pursuit of Treasure.=Квалиа {{A}} 143: дополнительно 100 самоцветов Конпаку в режиме «Охота за сокровищами».
+Qualia {{A}} 142 Increases Physical and Gun damage by 0.2% (effective in battle).=Квалиа {{A}} 142 увеличивает Физический и Пулевой урон на 0,2% (действует в бою).
+Qualia {{A}} 141 Increases all allies' ailment accuracy by 0.1% (effective in battle).=Квалиа {{A}} 141 увеличивает вероятность наложения недугов у всех союзников на 0,1% (действует в бою).
+Qualia {{A}} 149 Increases Electric and Bless damage by 0.2% (effective in battle).=Квалиа {{A}} 149 увеличивает урон Электричеством и Благословлением на 0,2% (действует в бою).
+Qualia {{A}} 148 Restore 1 stamina after the first login of each day.=Квалиа {{A}} 148 восстанавливает 1 ед. выносливости при первом входе за день.
+Qualia {{A}} 147 Increases Ice and Nuclear damage by 0.2% (effective in battle).=Квалиа {{A}} 147 увеличивает урон Льдом и Ядерным на 0,2% (действует в бою).
+Qualia {{A}} 154 Increases damage in Trials from the Sea of Souls by 0.2% (effective in battle).=Квалиа {{A}} 154 увеличивает урон в испытаниях «Моря душ» на 0,2% (действует в бою).
+Qualia {{A}} 153 Increases all allies' HP by 8 (effective in battle).=Квалиа {{A}} 153 увеличивает HP всех союзников на 8 (действует в бою).
+Qualia {{A}} 152 Increases Wind and Curse damage by 0.2% (effective in battle).=Квалиа {{A}} 152 увеличивает урон Ветром и Проклятием на 0,2% (действует в бою).
+Qualia {{A}} 151 Increases all allies' HP recovery by 0.1% (effective in battle).=Квалиа {{A}} 151 увеличивает восстановление HP у всех союзников на 0,1% (действует в бою).
+Qualia {{A}} 150 Increases Persona damage by 0.2% (effective in battle).=Квалиа {{A}} 150 увеличивает урон Персоны на 0,2% (действует в бою).
+Qualia {{A}} 155 Increases the protagonist's damage dealt by 0.2% (effective in battle).=Квалиа {{A}} 155 увеличивает наносимый протагонистом урон на 0,2% (действует в бою).
+Qualia {{A}} 163 Get 100 extra Konpaku Gems when you play Pursuit of Treasure.=Квалиа {{A}} 163: дополнительно 100 самоцветов Конпаку в режиме «Охота за сокровищами».
+Qualia {{A}} 162 Increases Physical and Gun damage by 0.2% (effective in battle).=Квалиа {{A}} 162 увеличивает Физический и Пулевой урон на 0,2% (действует в бою).
+Qualia {{A}} 161 Increases all allies' ailment accuracy by 0.1% (effective in battle).=Квалиа {{A}} 161 увеличивает вероятность наложения недугов у всех союзников на 0,1% (действует в бою).
+Qualia {{A}} 160 Increases all allies' Attack by 2 (effective in battle).=Квалиа {{A}} 160 увеличивает Атаку всех союзников на 2 (действует в бою).
+Qualia {{A}} 159 Increases all allies' Speed by 0.1 (effective in battle).=Квалиа {{A}} 159 увеличивает Скорость всех союзников на 0,1 (действует в бою).
+Qualia {{A}} 158 Increases damage in Gates of the Nightmare Catcher by 0.2% (effective in battle).=Квалиа {{A}} 158 увеличивает урон во «Вратах Ловца Кошмаров» на 0,2% (действует в бою).
+Qualia {{A}} 157 Increases all allies' Defense by 2 (effective in battle).=Квалиа {{A}} 157 увеличивает Защиту всех союзников на 2 (действует в бою).
+Qualia {{A}} 156 Thieves Den EXP Credit increased by 150=Квалиа {{A}} 156: кредит опыта Логова Воров увеличен на 150
+Qualia {{A}} 164 Increases Fire and Psychokinesis damage by 0.2% (effective in battle).=Квалиа {{A}} 164 увеличивает урон Огнём и Психокинезом на 0,2% (действует в бою).
+Qualia {{A}} 172 Increases Wind and Curse damage by 0.2% (effective in battle).=Квалиа {{A}} 172 увеличивает урон Ветром и Проклятием на 0,2% (действует в бою).
+Qualia {{A}} 171 Increases all allies' HP recovery by 0.1% (effective in battle).=Квалиа {{A}} 171 увеличивает восстановление HP у всех союзников на 0,1% (действует в бою).
+Qualia {{A}} 170 Increases Persona damage by 0.2% (effective in battle).=Квалиа {{A}} 170 увеличивает урон Персоны на 0,2% (действует в бою).
+Qualia {{A}} 169 Increases Electric and Bless damage by 0.2% (effective in battle).=Квалиа {{A}} 169 увеличивает урон Электричеством и Благословлением на 0,2% (действует в бою).
+Qualia {{A}} 168 Restore 1 stamina after the first login of each day.=Квалиа {{A}} 168 восстанавливает 1 ед. выносливости при первом входе за день.
+Qualia {{A}} 167 Increases Ice and Nuclear damage by 0.2% (effective in battle).=Квалиа {{A}} 167 увеличивает урон Льдом и Ядерным на 0,2% (действует в бою).
+Qualia {{A}} 166 Thieves Den EXP Credit increased by 150=Квалиа {{A}} 166: кредит опыта Логова Воров увеличен на 150
+Qualia {{A}} 165 Increases ally damage dealt in the Realm of Repression by 0.2% (effective in battle).=Квалиа {{A}} 165 увеличивает урон союзников в Сфере Подавления на 0,2% (действует в бою).
+Qualia {{A}} 473 Increases all allies' HP by 8 (effective in battle).=Квалиа {{A}} 473 увеличивает HP всех союзников на 8 (действует в бою).
+Qualia {{A}} 479 Increases all allies' Speed by 0.1 (effective in battle).=Квалиа {{A}} 479 увеличивает Скорость всех союзников на 0,1 (действует в бою).
+Qualia {{A}} 474 Increases damage in Trials from the Sea of Souls by 0.2% (effective in battle).=Квалиа {{A}} 474 увеличивает урон в испытаниях «Моря душ» на 0,2% (действует в бою).
+Qualia {{A}} 475 Increases the protagonist's damage dealt by 0.2% (effective in battle).=Qualia {{A}} 475 увеличивает наносимый протагонистом урон на 0,2% (действует в бою).
+Qualia {{A}} 476 Thieves Den EXP Credit increased by 150=Количество кредита опыта в Логове Воров при Квалиа {{A}} 476 увеличено на 150
+Qualia {{A}} 472 Increases Wind and Curse damage by 0.2% (effective in battle).=Квалиа {{A}} 472 увеличивает урон Ветром и Проклятием на 0,2% (действует в бою).
+Qualia {{A}} 478 Increases damage in Gates of the Nightmare Catcher by 0.2% (effective in battle).=Квалиа {{A}} 478 увеличивает урон во «Вратах Ловца Кошмаров» на 0,2% (действует в бою).
+Qualia {{A}} 477 Increases all allies' Defense by 2 (effective in battle).=Квалиа {{A}} 477 увеличивает Защиту всех союзников на 2 (действует в бою).
+Qualia {{A}} 471 Increases all allies' HP recovery by 0.1% (effective in battle).=Квалиа {{A}} 471 увеличивает восстановление HP у всех союзников на 0,1% (действует в бою).
+Qualia {{A}} 470 Increases Persona damage by 0.2% (effective in battle).=Квалиа {{A}} 470 увеличивает урон Персоны на 0,2% (действует в бою).
+
+
+
+· Increases part-time earnings by 3%.\n· Increases part-time earnings by 5%.\n=· Увеличивает доход от подработки на 3%.\n· Увеличивает доход от подработки на 5%.\n
+Yui、Yumi Shiina might like this present.\nBase Synergy +2, with an extra +2 for preferred gifts, with an extra +4 for first-time preferred gifts.=Возможно, этот подарок понравится Yui、Yumi Shiina.\nБазовая синергия +2, дополнительно +2 за предпочитаемые подарки и ещё +4 за первый предпочитаемый подарок.
+Motoha Arai might like this present.\nBase Synergy +4, with an extra +4 for preferred gifts, with an extra +8 for first-time preferred gifts.=Возможно, этот подарок понравится Motoha Arai.\nБазовая синергия +4, дополнительно +4 за предпочитаемые подарки и ещё +8 за первый предпочитаемый подарок.
+Merope might like this present.\nBase Synergy +5, with an extra +5 for preferred gifts, with an extra +10 for first-time preferred gifts.=Возможно, этот подарок понравится Merope.\nБазовая синергия +5, дополнительно +5 за предпочитаемые подарки и ещё +10 за первый предпочитаемый подарок.
+Merope might like this present.\nBase Synergy +6, with an extra +6 for preferred gifts, with an extra +12 for first-time preferred gifts.=Возможно, этот подарок понравится Merope.\nБазовая синергия +6, дополнительно +6 за предпочитаемые подарки и ещё +12 за первый предпочитаемый подарок.
+Base Synergy +9, with an extra +9 for preferred gifts, with an extra +18 for first-time preferred gifts.=Базовая синергия +9, дополнительно +9 за предпочитаемые подарки и ещё +18 за первый предпочитаемый подарок.
+Kiyoshi Kurotani、Yaoling Li might like this present.\nBase Synergy +9, with an extra +9 for preferred gifts, with an extra +18 for first-time preferred gifts.=Возможно, этот подарок понравится Kiyoshi Kurotani、Yaoling Li.\nБазовая синергия +9, дополнительно +9 за предпочитаемые подарки и ещё +18 за первый предпочитаемый подарок.
+Base Synergy +12, with an extra +12 for preferred gifts, with an extra +24 for first-time preferred gifts.=Базовая синергия +12, дополнительно +12 за предпочитаемые подарки и ещё +24 за первый предпочитаемый подарок.
+Yui might like this present.\nBase Synergy +12, with an extra +12 for preferred gifts, with an extra +24 for first-time preferred gifts.=Возможно, этот подарок понравится Yui.\nБазовая синергия +12, дополнительно +12 за предпочитаемые подарки и ещё +24 за первый предпочитаемый подарок.
+Tomoko Noge might like this present.\nBase Synergy +18, with an extra +18 for preferred gifts, with an extra +36 for first-time preferred gifts.=Возможно, этот подарок понравится Tomoko Noge.\nБазовая синергия +18, дополнительно +18 за предпочитаемые подарки и ещё +36 за первый предпочитаемый подарок.
+Base Synergy +14, with an extra +14 for preferred gifts, with an extra +28 for first-time preferred gifts.=Базовая синергия +14, дополнительно +14 за предпочитаемые подарки и ещё +28 за первый предпочитаемый подарок.
+Shun Kano might like this present.\nBase Synergy +24, with an extra +24 for preferred gifts, with an extra +48 for first-time preferred gifts.=Возможно, этот подарок понравится Shun Kano.\nБазовая синергия +24, дополнительно +24 за предпочитаемые подарки и ещё +48 за первый предпочитаемый подарок.
+Base Synergy +40, with an extra +40 for preferred gifts, with an extra +80 for first-time preferred gifts.=Базовая синергия +40, дополнительно +40 за предпочитаемые подарки и ещё +80 за первый предпочитаемый подарок.
+Kiyoshi Kurotani、Yaoling Li might like this present.\nBase Synergy +55, with an extra +55 for preferred gifts, with an extra +110 for first-time preferred gifts.=Возможно, этот подарок понравится Kiyoshi Kurotani、Yaoling Li.\nБазовая синергия +55, дополнительно +55 за предпочитаемые подарки и ещё +110 за первый предпочитаемый подарок.
+Merope、Ayaka Sakai might like this present.\nBase Synergy +38, with an extra +38 for preferred gifts, with an extra +76 for first-time preferred gifts.=Возможно, этот подарок понравится Merope、Ayaka Sakai.\nБазовая синергия +38, дополнительно +38 за предпочитаемые подарки и ещё +76 за первый предпочитаемый подарок.
