@@ -1989,6 +1989,7 @@ Hey, since we came all the way here... Wanna\nget some ice cream before we go?=�
 Hehe, good answer. But...=Хе-хе, хороший ответ. Но...
 I wanna stay like this just a little longer.\nIs that okay?=Хочу ещё немного побыть вот так. Можно?
 Thanks...=Спасибо...
+r:"^Hey, (.+?)! You free now\?$"="Эй, $1! Ты сейчас свободен?"
 r:"^Hey,\ (.+?)!\ You\ free\ now?\$"="Эй, $1! Ты сейчас свободен?"
 I was hoping you could help me out with\nsomething.=Надеялась, ты поможешь с одним делом.
 Great! All right, let's get going.=Отлично! Тогда вперёд.
