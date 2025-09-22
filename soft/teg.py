@@ -26,5 +26,5 @@ def transform_tags_in_file(input_file_path, output_file_path):
 
 
 input_file_path = 'translated_output.txt'  # путь к исходному файлу
-output_file_path = 'ver2.0_RU1.txt'  # путь для преобразованного файла
+output_file_path = 'ver2.1_RU1.txt'  # путь для преобразованного файла
 transform_tags_in_file(input_file_path, output_file_path)
