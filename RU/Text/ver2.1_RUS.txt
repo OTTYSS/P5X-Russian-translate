@@ -3368,3 +3368,80 @@ When a foe takes damage from a skill, activate all <link\="s|167"><u>Agony</u></
 When an ally uses a Highlight, increase target's Attack by <color\=#FFFC40>^(.*)^</color> for 1 turn.\nWhen the target has <link\="s|190"><u>Costar</u></link>, increase effect by 1.5 times.=Когда союзник использует Хайлайт, увеличьте атаку цели на <color\=#FFFC40>$1</color> на 1 ход. Когда цель имеет <link\="s|190"><u>Костар</u></link>, увеличьте эффект в 1.5 раза.
 When gaining <link\="s|202"><u>Garden of Promises</u></link>, gain Poise.\nPoise: Increase party's critical rate by 15%.=При получении <link\="s|202"><u>Сада Обещаний</u></link> получите Устойчивость. Устойчивость: Увеличивает критический шанс группы на 15%.
 When receiving healing, increase damage by 25% for 2 turns. After receiving healing a total of 5 times, gain Tropical Heart (healing received from <link\="s|111"><u>Blessing</u></link> counts once per turn).\nWhen using Surf 'n' Shine while Tropical Heart is active, spend Tropical Heart to remove the cooldown time from Surf 'n' Shine. Afterwards, there is a 1-turn cooldown until Tropical Heart can be gained again.\nWhen Tropical Motoha spends HP to use a skill, she will not be KO'd.=При получении исцеления увеличьте урон на 25% на 2 хода. После получения исцеления всего 5 раз получите Тропическое Сердце (исцеление от <link\="s|111"><u>Благословления</u></link> считается один раз за ход). Когда вы используете Серф и Сияние, пока Тропическое Сердце активно, потратьте Тропическое Сердце, чтобы убрать время перезарядки Серфа и Сияния. После этого будет 1 ход перезарядки, пока Тропическое Сердце не сможет быть снова получено. Когда Тропическая Мотоа тратит HP для использования навыка, она не будет KO'd.
+
+
+
+
+r:"^\.\.\.Are\ you\ a\ wizard,\\n(.+?)\-san\?$"="...Вы ведь волшебник, $1-сан?"
+After <color=#EADE10>{0}/{1}</color> contracts, you can get a <color=#EADE10>5\u2605 Phantom Thief Chance 01 x1</color>. Use it to randomly get one of these Thieves:=После <color=#EADE10>{0}/{1}</color> контрактов, вы можете получить <color=#EADE10>5\u2605 Шанс Фантомного Вора 01 x1</color>. Используйте его, чтобы случайным образом получить одного из этих Воров:
+r:"^Ahhh!\?\ \\n(.+?)\-kun!\?$"="Ахhh!? $1-кун!?"
+Clearing <color=#FF423F>{0}</color> will unlock Shaved Ice Shuffle. Do you want to track this now?=Очистка <color=#FF423F>{0}</color> разблокирует Шаверму Льда. Хотите отслеживать это сейчас?
+Clearing <color=#FF423F>{0}</color> will unlock Shooting Challenge. Do you want to track this now?=Очистка <color=#FF423F>{0}</color> разблокирует Стрельбу на Время. Хотите отслеживать это сейчас?
+Clearing <color=#FF423F>{0}</color> will unlock Strange Changes on the Beach. Do you want to track this now?=Очистка <color=#FF423F>{0}</color> разблокирует Странные Изменения на Пляже. Хотите отслеживать это сейчас?
+r:"^Do\ you\ know\ a\ lot\ about\\nKichijoji,\ (.+?)\-san\?$"="Вы много знаете о Кидзидзёдзи, $1-сан?"
+Do you want to customize a Revelation Card with the mark <color=#f1b500>{0}</color>, set <color=#f1b500>{1}</color>, and main attribute <color=#f1b500>{2}</color>?=Хотите настроить Карточку Откровения с меткой <color=#f1b500>{0}</color>, набором <color=#f1b500>{1}</color> и основной характеристикой <color=#f1b500>{2}</color>?
+Do you want to spend <color=#FFDE00>{0} x{1}</color> to change to <color=#FFDE00>{2}</color>?=Хотите потратить <color=#FFDE00>{0} x{1}</color>, чтобы изменить на <color=#FFDE00>{2}</color>?
+Do you want to spend <color=#FFDE00>{0} x{1}</color> to reset all unlocked sub-attributes and refresh effects?=Хотите потратить <color=#FFDE00>{0} x{1}</color>, чтобы сбросить все разблокированные побочные характеристики и обновить эффекты?
+Do you want to spend <color=#FFDE00>{0} x{1}</color> to select <color=#FFDE00>{2}</color>?=Хотите потратить <color=#FFDE00>{0} x{1}</color>, чтобы выбрать <color=#FFDE00>{2}</color>?
+Do you want to spend <color=#FFDE00>{0} x{1}</color> to select the <color=#FFDE00>{2}</color> main attribute?=Хотите потратить <color=#FFDE00>{0} x{1}</color>, чтобы выбрать основную характеристику <color=#FFDE00>{2}</color>?
+Do you want to spend <color=#FFDE00>{0} x{1}</color> to select the <color=#FFDE00>{2}</color> mark?=Хотите потратить <color=#FFDE00>{0} x{1}</color>, чтобы выбрать метку <color=#FFDE00>{2}</color>?
+r:"^Don't\ worry\ about\ it,\ I'll\ be\ riiight\ back\.\\nKeep\ an\ eye\ on\ Tomoko\ for\ me,\ (.+?)\-kun,\\nwould\ ya\?$"="Не переживай, я скоро вернусь. Следи за Томоко для меня, $1-кун, не так ли?"
+Earn a {1} rating for stage {0}=Заработайте рейтинг {1} за этап {0}
+Grants {0} extra Konpaku Gems when you play Pursuit of Treasure.=Приносит {0} дополнительных Камней Конпаку, когда вы играете в Сложение Сокровищ.
+r:"^Hey,\ it's\ Ashiya\.\ This\ is\\n(.+?)\-kun's\\nphone,\ right\?$"="Эй, это Асия. Это\nтелефон $1-кун, правильно?"
+r:"^Hey,\ (.+?)\-kun!\ The\ manager\ from\ my\ last\\npart\-time\ job\ gave\ me\ some\ handheld\\nfireworks\.$"="Эй, $1-кун! Менеджер с моей последней\nподработки дал мне немного\nпиротехники."
+r:"^Hey,\ (.+?)!\ Wanna\ go\ exploring\ together\?$"="Эй, $1! Хочешь вместе поизучать?"
+r:"^Honestly\ though\.\.\.\ This\ is\\nkind\ of\ just\ an\ excuse\ to\\nmeet\ you,\ (.+?)\-san\.$"="Честно говоря... Это\nвроде как просто предлог, чтобы\nвстретиться с тобой, $1-сан."
+r:"^I\ was\ thinking\.\.\.\ it'd\ be\ nice\\nto\ do\ something\ nice\ for\\nyou\ too,\ (.+?)\-san\.$"="Я думал... было бы приятно\nсделать что-то хорошее для\nтебя тоже, $1-сан."
+r:"^I'm\ really\ glad\ I\ signed\ up\ to\ do\ summer\\nschool\ here\.\ Plus,\ I\ get\ to\ spend\ time\ with\\nyou,\ (.+?)\-kun\.\.\.$"="Я действительно рад, что записался на\nлетние занятия здесь. Плюс, я могу проводить время с\nтобой, $1-кун..."
+Increase all allies' ailment accuracy by {0}%% (takes effect in battle).=Увеличивает точность всех союзников по статусам на {0}%% (вступает в силу в бою).
+Increases all allies' Attack by {0} (takes effect in battle).=Увеличивает Атаку всех союзников на {0} (вступает в силу в бою).
+Increases all allies' Defense by {0} (takes effect in battle).=Увеличивает Защиту всех союзников на {0} (вступает в силу в бою).
+Increases all allies' HP by {0} (takes effect in battle).=Увеличивает HP всех союзников на {0} (вступает в силу в бою).
+Increases all allies' HP recovery by {0}%% (takes effect in battle).=Увеличивает восстановление HP всех союзников на {0}%% (вступает в силу в бою).
+Increases all allies' Speed by {0} (takes effect in battle).=Увеличивает Скорость всех союзников на {0} (вступает в силу в бою).
+Increases ally damage dealt in the Realm of Repression by {0}%% (takes effect in battle).=Увеличивает урон, наносимый союзником в Царстве Подавления, на {0}%% (вступает в силу в бою).
+Increases damage in Gates of the Nightmare Catcher by {0}%% (takes effect in battle).=Увеличивает урон в Воротах Ловца Ночных Кошмаров на {0}%% (вступает в силу в бою).
+Increases damage in Trials from the Sea of Souls by {0}%% (takes effect in battle).=Увеличивает урон в Испытаниях с Моря Душ на {0}%% (вступает в силу в бою).
+Increases Electric and Bless damage by {0}%% (takes effect in battle).=Увеличивает урон от Электричества и Благословления на {0}%% (вступает в силу в бою).
+Increases Fire and Psychokinesis damage by {0}%% (takes effect in battle).=Увеличивает урон от Огня и Психокинетики на {0}%% (вступает в силу в бою).
+Increases Ice and Nuclear damage by {0}%% (takes effect in battle).=Увеличивает урон от Льда и Ядерных атак на {0}%% (вступает в силу в бою).
+Increases Persona damage by {0}%% (takes effect in battle).=Увеличивает урон от Персон на {0}%% (вступает в силу в бою).
+Increases Physical and Gun damage by {0}%% (takes effect in battle).=Увеличивает урон от Физических атак и Огнестрельного оружия на {0}%% (вступает в силу в бою).
+Increases the protagonist's damage by {0}%% (takes effect in battle).=Увеличивает урон главного героя на {0}%% (вступает в силу в бою).
+Increases Wind and Curse damage by {0}%% (takes effect in battle).=Увеличивает урон от Ветра и Проклятий на {0}%% (вступает в силу в бою).
+r:"^Is\ this\ (.+?)\-kun's\\nnumber\?$"="Это номер $1-кун?"
+r:"^It\ was\ on\ (.+?)\-kun's\ phone\ too\.\ This\\nweird\ app\ that\ keeps\ reappearing\ no\ matter\\nhow\ many\ times\ I\ delete\ it\.\.\.$"="Он был также на телефоне $1-кун. Этот\nстранный апп, который продолжает появляться снова и снова,\nнесмотря на то, сколько раз я его удаляю..."
+r:"^Kotone,\ make\ sure\ to\ bring\ (.+?)\-kun\\nto\ all\ of\ your\ practices\ from\ now\ on\.$"="Котоне, обязательно приводи $1-кун\nна все свои репетиции с этого момента."
+r:"^Now\ then\.\.\.\ (.+?),\ could\ you\ activate\ the\\nMetaverse\ Navigator\?$"="Итак... $1, можешь активировать\nНавигатор Метавселенной?"
+r:"^O\-oh,\ (.+?)\-kun!\?\ Umm\.\.\.$"="О-о, $1-кун!? Эм..."
+r:"^Oh,\ (.+?)\-kun!\ Glad\ to\ see\ you\ came!$"="О, $1-кун! Рада видеть, что ты пришёл!"
+Please select {0} and {1}.=Пожалуйста, выберите {0} и {1}.
+Restores {0} stamina after the first login of each day.=Восстанавливает {0} выносливости после первого входа в день.
+r:"^So\ why\ does\ (.+?)\-kun\ have\ the\ exact\ same\\napp\ on\ his\ phone\?$"="Так почему у $1-куна точно такая же\nпрограмма на его телефоне?"
+r:"^Sorry!\ I\ didn't\ mean\ to\ start\ talking\ about\\nsomething\ so\ heavy\.\ Really,\ sorry,\\n(.+?)\-kun\.$"="Извини! Я не хотел начать говорить о\nчём-то таком серьёзном. Правда, извини,\n$1-кун."
+r:"^Thank\ you,\ (.+?)\-san\.$"="Спасибо, $1-сан."
+r:"^Thanks\ again\ for\ finding\ it\ for\ me,\\n(.+?)\-kun\.$"="Спасибо снова за то, что нашёл это для меня,\n$1-кун."
+r:"^There\ are\ so\ many\ choices\.\.\.\ Is\ there\ any\\nparticular\ movie\ you'd\ like\ to\ watch\ today,\\n(.+?)\-kun\?$"="Так много выборов... Есть какой-то\nособенный фильм, который ты хотел бы посмотреть сегодня,\n$1-кун?"
+This costume is for {0}, but you haven't obtained them yet. Do you still want to purchase this outfit?=Этот костюм для {0}, но ты еще не получил его. Все еще хочешь купить этот наряд?
+r:"^Welcome!\ Oh,\ (.+?)\-kun\.\ Want\ something\\nto\ eat\?$"="Добро пожаловать! О, $1-кун. Хочешь что-то\nпоесть?"
+r:"^Yaaay!\ Okay,\ together\ this\ time,\ (.+?)!\\nHere\.\.\.\ we\.\.\.\ go\.\.\.\ Beach\ tiiiiiime!!!$"="Ура! Хорошо, вместе в этот раз, $1!\nВот... мы... идем... Время пляжа!!!"
+r:"^Yo\.\ (.+?)\.$"="Эй. $1."
+r:"^You\ know,\ (.+?)\-san,\ I\\nget\ the\ feeling\ you're\ pretty\\nreliable\.$"="Знаешь, $1-сан, у меня\nтакое чувство, что ты довольно\nнадежен."
+r:"^you\ live\ alone,\ right,\\n(.+?)\-san\?$"="Ты живешь один, верно,\n$1-сан?"
+r:"^You\ shouldn't\ be\ stingy\ among\ comrades,\\n(.+?)\.\ On\ that\ note,\ I\ won't\ hesitate\\nto\ help\ myself\ to\ some\ of\ that\ meat\.$"="Ты не должен быть скупым среди товарищей,\n$1. Кстати, я не буду колебаться\nпомочь себе с этим мясом."
+r:"^You're\ a\ genius,\\n(.+?)\-san!\ Thanks\ for\\nhelping\ me\ remember!$"="Ты гений,\n$1-сан! Спасибо за\nпомощь в том, чтобы вспомнить!"
+{0} will order after closing={0} закажет после закрытия
+{1} Left {0}:={1} Осталось {0}:
+r:"^(.+?)\-kun,\ are\ you\ okay\?\ You\ just\ spaced\\nout\.$"="$1-кун, ты в порядке? Ты только что задумался\nна мгновение."
+r:"^(.+?),\ I'll\ leave\ the\ finishing\ blow\ to\\nyou\.$"="$1, я оставлю завершающий удар за\nтобой."
+r:"^(.+?)\-kun\?\ Have\ you\ ever\ said\ \"I\ love\ you\"\\nto\ anyone\?$"="$1-кун? Ты когда-нибудь говорил \"Я тебя люблю\"\nкому-нибудь?"
+r:"^(.+?)\-san!\ What\ kind\ of\\nmagic\ did\ you\ pull!\?$"="$1-сан! Какое\nволшебство ты сотворил!?"
+r:"^(.+?)\-san,\ do\ you\\nremember\ my\ landlord\?$"="$1-сан, ты\nпомнишь моего арендодателя?"
+r:"^(.+?)\-san,\ you\ said\\nearlier\ that\ you\ had\ an\ idea\\nto\ help\ with\ my\ parents\.\.\.$"="$1-сан, ты сказал,\nранее, что у тебя была идея,\nчтобы помочь с моими родителями..."
+r:"^(.+?)\?\ Did\ you\ really\ just\ fall\ asleep\\nat\ the\ table\?$"="$1? Ты действительно только что заснул\nза столом?"
+r:"^(.+?),\ huh\?\ Okay,\ got\ it\.$"="$1, ага? Понял."
+r:"^Call\ me\ (.+?)\.$"="Зови меня $1."
+r:"^I'm\ (.+?)\.\.\.$"="Я $1..."
+r:"^It's\ (.+?)\.$"="Это $1."
+r:"^I'm\ (.+?)\.$"="Я $1."
