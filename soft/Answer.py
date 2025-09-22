@@ -47,7 +47,7 @@ def process_files(input_files):
             print("Совпадений нет")
 
     if extracted_lines:
-        output_file = "extracted_tags.txt"
+        output_file = "answer_tags.txt"
         try:
             with open(output_file, 'w', encoding='utf-8') as f:
                 f.writelines(extracted_lines)
