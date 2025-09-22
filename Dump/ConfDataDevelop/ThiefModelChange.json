@@ -13,7 +13,7 @@
     "teamPic": "zhenrong-lihui-wonder-new.png",
     "thiefPic": "Tongyong-touxiang-A-11.png",
     "effectClose": "AAAAAA==",
-    "light": "Sceneinit_wonder",
+    "light": "AAAAAA==",
     "CharacterPic": "AAAAAA==",
     "CharacterPicPosition": "AAAAAA==",
     "CharacterPicScale": 0,
@@ -28,7 +28,8 @@
     "flashCardEffectTeamHead": "AAAAAA==",
     "CharacterCardPic": "AAAAAA==",
     "thiefBigPicPos": "AAAAAA==",
-    "thiefBigPicScal": 0
+    "thiefBigPicScal": 0,
+    "teamPersonaPic": "AAAAAA=="
   },
   {
     "sn": 2,
@@ -44,7 +45,7 @@
     "teamPic": "zhenrong-lihui-wonderS-new.png",
     "thiefPic": "Tongyong-touxiang-A-32.png",
     "effectClose": "maskeffect",
-    "light": "Sceneinit_wonder_swim",
+    "light": "AAAAAA==",
     "CharacterPic": "AAAAAA==",
     "CharacterPicPosition": "AAAAAA==",
     "CharacterPicScale": 0,
@@ -59,7 +60,8 @@
     "flashCardEffectTeamHead": "AAAAAA==",
     "CharacterCardPic": "AAAAAA==",
     "thiefBigPicPos": "AAAAAA==",
-    "thiefBigPicScal": 0
+    "thiefBigPicScal": 0,
+    "teamPersonaPic": "AAAAAA=="
   },
   {
     "sn": 101,
@@ -90,7 +92,8 @@
     "flashCardEffectTeamHead": "p5_ui_zhenrong_common.prefab",
     "CharacterCardPic": "guaidao-kapai-joker-new.png",
     "thiefBigPicPos": "-254,-472,0",
-    "thiefBigPicScal": 0.8
+    "thiefBigPicScal": 0.8,
+    "teamPersonaPic": "zhenrong-lihui-joker-p-new.png"
   },
   {
     "sn": 102,
@@ -121,7 +124,8 @@
     "flashCardEffectTeamHead": "p5_ui_zhenrong_common.prefab",
     "CharacterCardPic": "guaidao-kapai-joker-new-skin01.png",
     "thiefBigPicPos": "166,-472,0",
-    "thiefBigPicScal": 0.8
+    "thiefBigPicScal": 0.8,
+    "teamPersonaPic": "zhenrong-lihui-joker-p-new.png"
   },
   {
     "sn": 301,
@@ -152,7 +156,8 @@
     "flashCardEffectTeamHead": "p5_ui_zhenrong_common.prefab",
     "CharacterCardPic": "guaidao-kapai-fox-new.png",
     "thiefBigPicPos": "98,-312,0",
-    "thiefBigPicScal": 0.69
+    "thiefBigPicScal": 0.69,
+    "teamPersonaPic": "zhenrong-lihui-fox-p-new.png"
   },
   {
     "sn": 302,
@@ -183,6 +188,71 @@
     "flashCardEffectTeamHead": "p5_ui_zhenrong_common.prefab",
     "CharacterCardPic": "guaidao-kapai-fox-new-skin01.png",
     "thiefBigPicPos": "98,-312,0",
-    "thiefBigPicScal": 0.69
+    "thiefBigPicScal": 0.69,
+    "teamPersonaPic": "zhenrong-lihui-fox-p-new.png"
+  },
+  {
+    "sn": 601,
+    "modelSn": "queen",
+    "itemSn": 309514,
+    "isShow": 1,
+    "channel": "AAAAAA==",
+    "order": 1000,
+    "thiefSn": 1201,
+    "label": "AAAAAA==",
+    "bgPic": "Skin-queen-bg02.png",
+    "color": "AAAAAA==",
+    "teamPic": "zhenrong-lihui-queen-new.png",
+    "thiefPic": "Tongyong-touxiang-A-9.png",
+    "effectClose": "AAAAAA==",
+    "light": "sceneInit",
+    "CharacterPic": "lihui-guaidao-queen.png",
+    "CharacterPicPosition": "-172,-324",
+    "CharacterPicScale": 0.74,
+    "actionTrack": "AAAAAA==",
+    "showSound": "VO_Sys_Thief_Queen_01",
+    "thiefback_sound": "VO_Btl_Queen_BattleStart_01",
+    "thiefbattle_sound": "VO_Btl_Queen_BattleStart_01",
+    "defaultFashion": 1,
+    "previewTimeline": "TL_UI_Fashion-Show-Thief_Queen",
+    "teamPicS": "touxiang-guaidaofu-queen.png",
+    "flashCardEffectTeamCard": "p5_6mingUI_common.prefab",
+    "flashCardEffectTeamHead": "p5_ui_zhenrong_common.prefab",
+    "CharacterCardPic": "guaidao-kapai-queen-new.png",
+    "thiefBigPicPos": "-172,-324,0",
+    "thiefBigPicScal": 0.74,
+    "teamPersonaPic": "zhenrong-lihui-queen-p-new.png"
+  },
+  {
+    "sn": 602,
+    "modelSn": "queen_swimsuit_thief",
+    "itemSn": 309515,
+    "isShow": 1,
+    "channel": "AAAAAA==",
+    "order": 1000,
+    "thiefSn": 1201,
+    "label": "AAAAAA==",
+    "bgPic": "Skin-queen-bg01.png",
+    "color": "AAAAAA==",
+    "teamPic": "zhenrong-lihui-queen-skin01-new.png",
+    "thiefPic": "Tongyong-touxiang-A-9-skin01.png",
+    "effectClose": "vfx",
+    "light": "sceneInit_swim",
+    "CharacterPic": "lihui-guaidao-queen-skin01.png",
+    "CharacterPicPosition": "-172,-324",
+    "CharacterPicScale": 0.74,
+    "actionTrack": "AAAAAA==",
+    "showSound": "VO_Sys_Thief_Queen_01",
+    "thiefback_sound": "VO_Btl_Queen_BattleStart_01",
+    "thiefbattle_sound": "VO_Btl_Queen_BattleStart_01",
+    "defaultFashion": 0,
+    "previewTimeline": "TL_UI_Fashion-Show-Thief_Queen",
+    "teamPicS": "touxiang-guaidaofu-queen-skin01.png",
+    "flashCardEffectTeamCard": "p5_6mingUI_common.prefab",
+    "flashCardEffectTeamHead": "p5_ui_zhenrong_common.prefab",
+    "CharacterCardPic": "guaidao-kapai-queen-skin01-new.png",
+    "thiefBigPicPos": "-172,-324,0",
+    "thiefBigPicScal": 0.74,
+    "teamPersonaPic": "zhenrong-lihui-queen-skin01-p-new.png"
   }
 ]

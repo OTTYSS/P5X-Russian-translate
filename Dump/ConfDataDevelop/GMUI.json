@@ -330,6 +330,16 @@
     "example": "quickFuncOpen 1"
   },
   {
+    "sn": "pullGacha",
+    "type": 0,
+    "group": "便捷",
+    "orderGroup": "1041",
+    "name": "抽卡测试",
+    "desc": "单次最大支持10W次抽测，根据自启服表现可在2分钟内完成",
+    "format": "pullGacha gachaSn times",
+    "example": "pullGacha 8 100000"
+  },
+  {
     "sn": "exeGMGroup7",
     "type": 0,
     "group": "超便利",

@@ -1863,7 +1863,7 @@
   },
   {
     "sn": "12200",
-    "strContent": "Currently equipped to %s.\nDo you want to swap Revelation Cards?",
+    "strContent": "This is currently equipped to %s.\nDo you want to change that?",
     "option1": "Continue",
     "showName": "L<#000000,u,#FFFFFF>fel",
     "option2": "Not now"
@@ -5818,7 +5818,7 @@
   },
   {
     "sn": "1000434",
-    "strContent": "%s is currently equipped. Do you want to change your equipment?",
+    "strContent": "This is currently equipped to %s. Do you want to change that?",
     "option1": "Continue",
     "showName": "L<#000000,u,#FFFFFF>fel",
     "option2": "Rethink"
@@ -5846,14 +5846,14 @@
   },
   {
     "sn": "1000438",
-    "strContent": "Unlocks after previous Revelation Card customization is completed.",
+    "strContent": "Unlocks after previous Revelation Card has been customized.",
     "option1": "AAAAAA==",
     "showName": "AAAAAA==",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1000439",
-    "strContent": "Do you want to spend <color=#FFDE00>{0} x{1}</color> to refresh the unlocked sub-attributes once?",
+    "strContent": "Do you want to spend <color=#FFDE00>{0} x{1}</color> to reset all unlocked sub-attributes and refresh effects?",
     "option1": "Cancel",
     "showName": "AAAAAA==",
     "option2": "Never mind."
@@ -5874,42 +5874,42 @@
   },
   {
     "sn": "1000442",
-    "strContent": "Do you want to spend <color=#FFDE00>{0} x{1}</color> to select the <color=#FFDE00>{2}</color> set?",
+    "strContent": "Do you want to spend <color=#FFDE00>{0} x{1}</color> to select <color=#FFDE00>{2}</color>?",
     "option1": "Cancel",
     "showName": "AAAAAA==",
     "option2": "Never mind."
   },
   {
     "sn": "1000443",
-    "strContent": "Do you want to spend <color=#FFDE00>{0} x{1}</color> to change to the <color=#FFDE00>{2}</color> set?",
+    "strContent": "Do you want to spend <color=#FFDE00>{0} x{1}</color> to change to <color=#FFDE00>{2}</color>?",
     "option1": "Cancel",
     "showName": "AAAAAA==",
     "option2": "Never mind."
   },
   {
     "sn": "1000444",
-    "strContent": "Do you want to spend <color=#FFDE00>{0} x{1}</color> to select the mark <color=#FFDE00>{2}</color>?",
+    "strContent": "Do you want to spend <color=#FFDE00>{0} x{1}</color> to select the <color=#FFDE00>{2}</color> mark?",
     "option1": "Cancel",
     "showName": "AAAAAA==",
     "option2": "Never mind."
   },
   {
     "sn": "1000445",
-    "strContent": "Changing the mark will reset the current main attribute and clear the current sub-attribute. Do you want change it now?",
+    "strContent": "Changing the mark will reset the current main and sub-attributes.\nDo you want change it now?",
     "option1": "Cancel",
     "showName": "AAAAAA==",
     "option2": "Never mind."
   },
   {
     "sn": "1000446",
-    "strContent": "Do you want to spend <color=#FFDE00>{0} x{1}</color> to select the main attribute <color=#FFDE00>{2}</color>?",
+    "strContent": "Do you want to spend <color=#FFDE00>{0} x{1}</color> to select the <color=#FFDE00>{2}</color> main attribute?",
     "option1": "Cancel",
     "showName": "AAAAAA==",
     "option2": "Never mind."
   },
   {
     "sn": "1000447",
-    "strContent": "Changing the main attribute will clear the current sub-attribute and refresh it. Do you want to change it now?",
+    "strContent": "Changing the main attribute will reset the current sub-attributes, changing the effects.\nDo you want change it now?",
     "option1": "Cancel",
     "showName": "AAAAAA==",
     "option2": "Never mind."
@@ -6105,7 +6105,7 @@
   },
   {
     "sn": "1000431",
-    "strContent": "Do you want to customize a Revelation Card with the <color=#f1b500>{0}</color> mark, <color=#f1b500>{1}</color> set, and Main Attribute <color=#f1b500>{2}</color>?",
+    "strContent": "Do you want to customize a Revelation Card with the mark <color=#f1b500>{0}</color>, set <color=#f1b500>{1}</color>, and main attribute <color=#f1b500>{2}</color>?",
     "option1": "Cancel",
     "showName": "AAAAAA==",
     "option2": "Never mind."
@@ -6280,7 +6280,7 @@
   },
   {
     "sn": "1000458",
-    "strContent": "Only unlocked sub-attributes will be updated.",
+    "strContent": "Only unlocked sub-attributes will be reset.",
     "option1": "AAAAAA==",
     "showName": "AAAAAA==",
     "option2": "AAAAAA=="
@@ -7421,35 +7421,35 @@
   },
   {
     "sn": "1010827",
-    "strContent": "Now, it's time to cast your rod. Ready?",
+    "strContent": "Now, it's time to cast your\nrod. Ready?",
     "option1": "AAAAAA==",
     "showName": "AAAAAA==",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1010828",
-    "strContent": "You're not going to lure any fish if you just sit there.",
+    "strContent": "You're not going to lure any\nfish if you just sit there.",
     "option1": "AAAAAA==",
     "showName": "AAAAAA==",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1010829",
-    "strContent": "There's a fish...! Wait just a bit longer...",
+    "strContent": "There's a fish...! Wait just a\nbit longer...",
     "option1": "AAAAAA==",
     "showName": "AAAAAA==",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1010830",
-    "strContent": "Hmm... We could try changing spots.",
+    "strContent": "Hmm... We could try changing\nspots.",
     "option1": "AAAAAA==",
     "showName": "AAAAAA==",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1010831",
-    "strContent": "If you wait a little more, you might catch one.",
+    "strContent": "If you wait a little more, you\nmight catch one.",
     "option1": "AAAAAA==",
     "showName": "AAAAAA==",
     "option2": "AAAAAA=="
@@ -7470,14 +7470,14 @@
   },
   {
     "sn": "1010834",
-    "strContent": "You're reeling it in. Our prospects are looking good!",
+    "strContent": "You're reeling it in. Our\nprospects are looking good!",
     "option1": "AAAAAA==",
     "showName": "AAAAAA==",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1010835",
-    "strContent": "Only a little more...! But you mustn't rush while bringing in a catch.",
+    "strContent": "Only a little more...! But you\nmustn't rush while bringing\nin a catch.",
     "option1": "AAAAAA==",
     "showName": "AAAAAA==",
     "option2": "AAAAAA=="
@@ -7498,28 +7498,28 @@
   },
   {
     "sn": "1010838",
-    "strContent": "You caught a %s! %s",
+    "strContent": "You caught a %s! \n%s",
     "option1": "AAAAAA==",
     "showName": "L<#000000,u,#FFFFFF>fel",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1010839",
-    "strContent": "The %s entry ticket costs %d yen.\nDo you want to buy a ticket?",
+    "strContent": "Entry to the %s costs <color=#FF423F>%d</color> yen. Do you want to buy a ticket?",
     "option1": "Buy",
-    "showName": "F<#000000,i,#FFFFFF>shing Pond Attendant",
+    "showName": "P<#000000,o,#FFFFFF>nd Attendant",
     "option2": "Quit"
   },
   {
     "sn": "1010840",
-    "strContent": "5 Small Boilies. Can be used to catch small fish.",
+    "strContent": "Here's five small boilies. You should be able\nto catch some small fish with these.",
     "option1": "AAAAAA==",
     "showName": "F<#000000,i,#FFFFFF>shing Pond Attendant",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1010841",
-    "strContent": "Are you sure you want to leave? If you want to enter the fishing pond again, you'll need to buy another entry ticket.",
+    "strContent": "Are you sure you want to leave?\nIt costs money to re-enter the fishing pond.",
     "option1": "Cancel",
     "showName": "L<#000000,u,#FFFFFF>fel",
     "option2": "Never mind."
@@ -7547,9 +7547,9 @@
   },
   {
     "sn": "1010845",
-    "strContent": "You're about to enter %s. A discounted ticket will cost %d yen. Proceed?",
+    "strContent": "Entry to the fishing pond %s costs <color=#FF423F>%d</color> yen. Do you want to buy a ticket?",
     "option1": "Buy",
-    "showName": "F<#000000,i,#FFFFFF>shing Pond Attendant",
+    "showName": "P<#000000,o,#FFFFFF>nd Attendant",
     "option2": "Quit"
   },
   {
@@ -7568,14 +7568,14 @@
   },
   {
     "sn": "1010848",
-    "strContent": "Once proficiency reaches %s,\nyou will unlock %s.",
+    "strContent": "Once your fishing proficiency reaches level %s,\nyou will unlock the %s.",
     "option1": "AAAAAA==",
     "showName": "L<#000000,u,#FFFFFF>fel",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1010849",
-    "strContent": "5 Medium Boilies.\nCan be used to catch small and medium-sized fish.",
+    "strContent": "Here are five medium boilies. With them,\nyou should be able to catch the small and\nmedium fish.",
     "option1": "AAAAAA==",
     "showName": "F<#000000,i,#FFFFFF>shing Pond Attendant",
     "option2": "AAAAAA=="
@@ -7589,14 +7589,14 @@
   },
   {
     "sn": "1010851",
-    "strContent": "5 Large Boilies.\nCan be used to catch large and medium-sized fish.",
+    "strContent": "Here are five large boilies. With them, you\ncan catch even those big 'uns.",
     "option1": "AAAAAA==",
     "showName": "F<#000000,i,#FFFFFF>shing Pond Attendant",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1010852",
-    "strContent": "Do you want to try a different fishing rod?\nHoomph, let's see how it goes, then.",
+    "strContent": "Do you want to try a different fishing rod?\nHoom, let's see how it goes, then.",
     "option1": "AAAAAA==",
     "showName": "L<#000000,u,#FFFFFF>fel",
     "option2": "AAAAAA=="
@@ -8695,14 +8695,14 @@
   },
   {
     "sn": "1000210",
-    "strContent": "This \"flavor\" really is good. Thanks to you, my energy has been restored.",
+    "strContent": "Mwahaha...\nI told you I've grasped your \"flavor\"!",
     "option1": "AAAAAA==",
-    "showName": "M<#000000,e,#FFFFFF>chanical Shadow",
+    "showName": "M<#000000,e,#FFFFFF>chsuit Sh<#000000,a,#FFFFFF>dow",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1029039",
-    "strContent": "Playable once the content has been unlocked.",
+    "strContent": "This is playable once the content has been unlocked.",
     "option1": "AAAAAA==",
     "showName": "AAAAAA==",
     "option2": "AAAAAA=="
@@ -9598,7 +9598,7 @@
   },
   {
     "sn": "1015030",
-    "strContent": "Recommended conditions have not been met. Do you want to use this party anyway?",
+    "strContent": "You haven't met the recommended party conditions. Do you want to use this party anyway?",
     "option1": "Confirm",
     "showName": "Lu<#000000,f,#FFFFFF>el",
     "option2": "Not now"
@@ -10018,10 +10018,10 @@
   },
   {
     "sn": "1019069",
-    "strContent": "Explore with Haruna?",
-    "option1": "Explore with Haruna",
+    "strContent": "Would you like to spend time with Haruna?",
+    "option1": "Spend time with Haruna",
     "showName": "L<#000000,u,#FFFFFF>fel",
-    "option2": "Maybe another time."
+    "option2": "Maybe next time"
   },
   {
     "sn": "1019101",
@@ -10189,7 +10189,7 @@
     "strContent": "Should I spend time with Kurotani?",
     "option1": "Spend time with Kurotani",
     "showName": "L<#000000,u,#FFFFFF>fel",
-    "option2": "I have other plans..."
+    "option2": "Come back another time"
   },
   {
     "sn": "1019152",
@@ -10431,10 +10431,10 @@
   },
   {
     "sn": "1019213",
-    "strContent": "Should I spend time with Kira?",
-    "option1": "All right.",
+    "strContent": "Would you like to spend time with Kira?",
+    "option1": "Spend time with Kira",
     "showName": "L<#000000,u,#FFFFFF>fel",
-    "option2": "I have other plans."
+    "option2": "Come back another time"
   },
   {
     "sn": "1019221",
@@ -10641,7 +10641,7 @@
   },
   {
     "sn": "1020132",
-    "strContent": "You haven't obtained {0}. You do not have the Phantom Thief who can wear this outfit, but do you still want to purchase it?",
+    "strContent": "This costume is for {0}, but you haven't obtained them yet. Do you still want to purchase this outfit?",
     "option1": "Yes",
     "showName": "AAAAAA==",
     "option2": "No"
@@ -10928,7 +10928,7 @@
   },
   {
     "sn": "1023001",
-    "strContent": "Path of Chemdah is not yet unlocked. Do you want to unlock it now and continue?",
+    "strContent": "Path of Chemdah is still locked. Do you want to unlock it now and continue?",
     "option1": "Confirm",
     "showName": "L<#000000,u,#FFFFFF>fel",
     "option2": "Not now"
@@ -13364,9 +13364,9 @@
   },
   {
     "sn": "1045420",
-    "strContent": "We've got three chain links now. Should we\nhand them over?",
+    "strContent": "Looks like we've collected three spare chain links.\nDo you want to hand them over?",
     "option1": "Hand over the chain links",
-    "showName": "Moto<#000000,h,#FFFFFF>a Arai",
+    "showName": "L<#000000,u,#FFFFFF>fel",
     "option2": "Come back later"
   },
   {
@@ -14351,35 +14351,35 @@
   },
   {
     "sn": "1052080",
-    "strContent": "Stage is not yet available.",
+    "strContent": "This stage is still locked.",
     "option1": "AAAAAA==",
     "showName": "AAAAAA==",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1052081",
-    "strContent": "{0} and {1} are required materials.",
+    "strContent": "Please select {0} and {1}.",
     "option1": "AAAAAA==",
     "showName": "AAAAAA==",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1052082",
-    "strContent": "There's no way to fit any more shaved ice on the table.",
+    "strContent": "Cannot make any more shaved ice.",
     "option1": "AAAAAA==",
     "showName": "AAAAAA==",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1052083",
-    "strContent": "If you quit the stage, your current sales progress will be saved. Do you want to quit now?",
+    "strContent": "Are you finished making shaved ice?\nThe current sale will be saved as the highest sale.",
     "option1": "Confirm",
     "showName": "L<#000000,u,#FFFFFF>fel",
     "option2": "Never mind."
   },
   {
     "sn": "1052084",
-    "strContent": "Retreating will reset the stage. Do you want to retreat?",
+    "strContent": "Do you want to restart the current stage?\nThe current sales will be reset.",
     "option1": "Confirm",
     "showName": "L<#000000,u,#FFFFFF>fel",
     "option2": "Never mind."
@@ -14876,28 +14876,28 @@
   },
   {
     "sn": "1052085",
-    "strContent": "Clearing <color=#FF423F>{0}</color> will unlock Water Gun Fight. Do you want to  track this now?",
+    "strContent": "Clearing <color=#FF423F>{0}</color> will unlock Shooting Challenge. Do you want to track this now?",
     "option1": "Confirm",
     "showName": "L<#000000,u,#FFFFFF>fel",
     "option2": "Never mind."
   },
   {
     "sn": "1052086",
-    "strContent": "Clearing <color=#FF423F>{0}</color> will unlock Shaved Ice Shuffle. Do you want to  track this now?",
+    "strContent": "Clearing <color=#FF423F>{0}</color> will unlock Shaved Ice Shuffle. Do you want to track this now?",
     "option1": "Confirm",
     "showName": "L<#000000,u,#FFFFFF>fel",
     "option2": "Never mind."
   },
   {
     "sn": "1052087",
-    "strContent": "Clearing <color=#FF423F>{0}</color> will unlock Strange Changes on the Beach. Do you want to  track this now?",
+    "strContent": "Clearing <color=#FF423F>{0}</color> will unlock Strange Changes on the Beach. Do you want to track this now?",
     "option1": "Confirm",
     "showName": "L<#000000,u,#FFFFFF>fel",
     "option2": "Never mind."
   },
   {
     "sn": "1052088",
-    "strContent": "This event mission will be unlocked after clearing the main mission objective <color=#FF423F>Traces of Dreams: Go back to your room and sleep</color>. Please progress further in the main missions.",
+    "strContent": "Unlocked by completing the main mission <color=#FF423F>Traces of Dreams: Go back to your room and sleep</color>.",
     "option1": "AAAAAA==",
     "showName": "AAAAAA==",
     "option2": "AAAAAA=="
@@ -14911,14 +14911,14 @@
   },
   {
     "sn": "1052091",
-    "strContent": "This can't be selected as the syrup selection part is locked.",
+    "strContent": "This topping can't be selected.",
     "option1": "AAAAAA==",
     "showName": "AAAAAA==",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1052092",
-    "strContent": "This can't be selected as the décor selection part is locked.",
+    "strContent": "Decorations can't be selected yet.",
     "option1": "AAAAAA==",
     "showName": "AAAAAA==",
     "option2": "AAAAAA=="
@@ -15261,84 +15261,84 @@
   },
   {
     "sn": "1052601",
-    "strContent": "We didn't raise our score this time... that's\nokay, next time we'll take our revenge!",
+    "strContent": "Didn't quite get a new high\nscore there... Don't worry,\nwe'll do it next time!",
     "option1": "AAAAAA==",
     "showName": "AAAAAA==",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1052602",
-    "strContent": "Whoa, a new record! That's our Captain!",
+    "strContent": "Amazing, a new high score!\nThat's our leader for you!",
     "option1": "AAAAAA==",
     "showName": "AAAAAA==",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1052603",
-    "strContent": "Looks like you've hit a plateau for now...\nDon't worry, I'm sure you can get an even\nhigher score next time!",
+    "strContent": "We're not exactly racking up\nthe points... But next time\nwill be different!",
     "option1": "AAAAAA==",
     "showName": "AAAAAA==",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1052604",
-    "strContent": "Wow, you set a new record! Amazing...\nYou truly are amazing!",
+    "strContent": "Whoa, a new high score! You\nreally are amazing at this!",
     "option1": "AAAAAA==",
     "showName": "AAAAAA==",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1052605",
-    "strContent": "I'm afraid you haven't set a new record...\nLet's rethink our strategy.",
+    "strContent": "We couldn't improve our score.\nMaybe we should rethink our\nstrategy.",
     "option1": "AAAAAA==",
     "showName": "AAAAAA==",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1052606",
-    "strContent": "You... You broke a new record!\nCongratulations! This is a tremendous\naccomplishment!",
+    "strContent": "A new high score! Congrats,\nyour efforts paid off\nfabulously.",
     "option1": "AAAAAA==",
     "showName": "AAAAAA==",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1052607",
-    "strContent": "Unfortunate... but it's all right. I'll break the record next time!",
+    "strContent": "Ah, and so close too... We'll break\nthat high score next time!",
     "option1": "AAAAAA==",
     "showName": "AAAAAA==",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1052608",
-    "strContent": "Oho, a new record! Next time we return,\nramen's on me!",
+    "strContent": "Yes, a new high score! Ramen's\non me tonight!",
     "option1": "AAAAAA==",
     "showName": "AAAAAA==",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1052609",
-    "strContent": "It would seem that you require more training.\nPlease take on the challenge again once your\ndesire has further grown.",
+    "strContent": "You seem to be having some\ndifficulty. Let us try once\nmore with renewed ambition.",
     "option1": "AAAAAA==",
     "showName": "AAAAAA==",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1052610",
-    "strContent": "You've broken a new record...! As your\nreceptionist, I feel truly proud!",
+    "strContent": "A new high score! As your\nconcierge, I am proud of you.",
     "option1": "AAAAAA==",
     "showName": "AAAAAA==",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1052611",
-    "strContent": "Hmm, well, I guess we did okay, but let's try\nharder next time.",
+    "strContent": "Hoomph, a meager score. Let's see\nif you can reach new heights\nnext time.",
     "option1": "AAAAAA==",
     "showName": "AAAAAA==",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1052612",
-    "strContent": "Hoo hoo! A new high score, pretty good!",
+    "strContent": "Hoohoo! A new high score! Not bad!",
     "option1": "AAAAAA==",
     "showName": "AAAAAA==",
     "option2": "AAAAAA=="
@@ -15771,6 +15771,13 @@
     "option2": "AAAAAA=="
   },
   {
+    "sn": "1052099",
+    "strContent": "Cannot change the weather to rain in the current scene.",
+    "option1": "AAAAAA==",
+    "showName": "AAAAAA==",
+    "option2": "AAAAAA=="
+  },
+  {
     "sn": "1057017",
     "strContent": "Mmm...\nHey, how about we take a little break?",
     "option1": "AAAAAA==",
@@ -15779,7 +15786,7 @@
   },
   {
     "sn": "1057101",
-    "strContent": "AAAAAA==",
+    "strContent": "I can't keep going...",
     "option1": "AAAAAA==",
     "showName": "Motoha Arai",
     "option2": "AAAAAA=="
@@ -15800,7 +15807,7 @@
   },
   {
     "sn": "1057104",
-    "strContent": "Hey, found a good spot!",
+    "strContent": "Ooh, I found an oasis!",
     "option1": "AAAAAA==",
     "showName": "Motoha Arai",
     "option2": "AAAAAA=="
@@ -15814,7 +15821,7 @@
   },
   {
     "sn": "1057106",
-    "strContent": "You kids are a bunch of bats... what was it again?",
+    "strContent": "Into the fire, right?",
     "option1": "AAAAAA==",
     "showName": "Motoha Arai",
     "option2": "AAAAAA=="
@@ -15835,7 +15842,7 @@
   },
   {
     "sn": "1057109",
-    "strContent": "I think I just saw a treasure chest around here...",
+    "strContent": "Is there some treasure here?",
     "option1": "AAAAAA==",
     "showName": "Motoha Arai",
     "option2": "AAAAAA=="
@@ -15849,14 +15856,14 @@
   },
   {
     "sn": "1057111",
-    "strContent": "Hey, doesn't it feel like there'd be a secret passage around here?",
+    "strContent": "Is there some kind of\nhidden path?",
     "option1": "AAAAAA==",
     "showName": "Motoha Arai",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1057112",
-    "strContent": "We're here! We're here!",
+    "strContent": "We made it!",
     "option1": "AAAAAA==",
     "showName": "Motoha Arai",
     "option2": "AAAAAA=="
@@ -17151,7 +17158,7 @@
   },
   {
     "sn": "1064111",
-    "strContent": "You can now quick travel to the\n<color=#FF423F>Lower Water Treatment Plant: Rest Area</color>.",
+    "strContent": "You can now quick travel to the\n<color=#FF423F>Lower Water Treatment Plant: Safe Room</color>.",
     "option1": "AAAAAA==",
     "showName": "AAAAAA==",
     "option2": "AAAAAA=="
@@ -17200,49 +17207,49 @@
   },
   {
     "sn": "1064121",
-    "strContent": "You can now quick travel to the\n<color=#FF423F>Central Water Treatment Plant: West Corridor</color>.",
+    "strContent": "You can now quick travel to the\n<color=#FF423F>Mid Water Treatment Plant: West Corridor</color>.",
     "option1": "AAAAAA==",
     "showName": "AAAAAA==",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1064122",
-    "strContent": "You can now quick travel to the\n<color=#FF423F>Central Water Treatment Plant: North Corridor</color>.",
+    "strContent": "You can now quick travel to the\n<color=#FF423F>Mid Water Treatment Plant: North Corridor</color>.",
     "option1": "AAAAAA==",
     "showName": "AAAAAA==",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1064123",
-    "strContent": "You can now quick travel to the\n<color=#FF423F>Central Water Treatment Plant: North Side</color>.",
+    "strContent": "You can now quick travel to the\n<color=#FF423F>Mid Water Treatment Plant: North Side</color>.",
     "option1": "AAAAAA==",
     "showName": "AAAAAA==",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1064124",
-    "strContent": "You can now quick travel to the\n<color=#FF423F>Central Water Treatment Plant: Cooling Facility</color>.",
+    "strContent": "You can now quick travel to the\n<color=#FF423F>Mid Water Treatment Plant: Cooling Facility</color>.",
     "option1": "AAAAAA==",
     "showName": "AAAAAA==",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1064125",
-    "strContent": "You can now quick travel to the\n<color=#FF423F>Central Water Treatment Plant: East Facility</color>.",
+    "strContent": "You can now quick travel to the\n<color=#FF423F>Mid Water Treatment Plant: East Facility</color>.",
     "option1": "AAAAAA==",
     "showName": "AAAAAA==",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1064126",
-    "strContent": "You can now quick travel to the\n<color=#FF423F>Central Water Treatment Plant: South Side</color>.",
+    "strContent": "You can now quick travel to the\n<color=#FF423F>Mid Water Treatment Plant: South Side</color>.",
     "option1": "AAAAAA==",
     "showName": "AAAAAA==",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1064131",
-    "strContent": "You can now quick travel to the\n<color=#FF423F>Upper Water Treatment Plant: West Interior</color>.",
+    "strContent": "You can now quick travel to the\n<color=#FF423F>Mid Upper Water Treatment Plant: West Interior</color>.",
     "option1": "AAAAAA==",
     "showName": "AAAAAA==",
     "option2": "AAAAAA=="
@@ -17284,14 +17291,14 @@
   },
   {
     "sn": "1064141",
-    "strContent": "You can now quick travel to the\n<color=#FF423F>Water Treatment Plant: South Tunnel Sector</color>.",
+    "strContent": "You can now quick travel to the\n<color=#FF423F>Water Treatment Plant: Tunnel South Sector</color>.",
     "option1": "AAAAAA==",
     "showName": "AAAAAA==",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1064142",
-    "strContent": "You can now quick travel to the\n<color=#FF423F>Water Treatment Plant: North Tunnel Sector</color>.",
+    "strContent": "You can now quick travel to the\n<color=#FF423F>Water Treatment Plant: Tunnel North Sector</color>.",
     "option1": "AAAAAA==",
     "showName": "AAAAAA==",
     "option2": "AAAAAA=="
@@ -18663,14 +18670,14 @@
   },
   {
     "sn": "1076104",
-    "strContent": "There's an Oasis! Just kidding.",
+    "strContent": "Look, an Oasis! Heh,\njust kidding.",
     "option1": "AAAAAA==",
     "showName": "Tomoko Noge",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1076105",
-    "strContent": "Phew. Wouldn't mind cooling off in a safe room.",
+    "strContent": "Phew, wouldn't mind cooling\noff for a bit.",
     "option1": "AAAAAA==",
     "showName": "Tomoko Noge",
     "option2": "AAAAAA=="
@@ -18698,7 +18705,7 @@
   },
   {
     "sn": "1076109",
-    "strContent": "I wanna know what's inside.",
+    "strContent": "I wonder what's inside?",
     "option1": "AAAAAA==",
     "showName": "Tomoko Noge",
     "option2": "AAAAAA=="
@@ -19573,7 +19580,7 @@
   },
   {
     "sn": "1089002",
-    "strContent": "Here we gooo! This is so exciting!",
+    "strContent": "Here we go! This is so exciting!",
     "option1": "AAAAAA==",
     "showName": "Haruna Nishimori",
     "option2": "AAAAAA=="
@@ -21176,7 +21183,7 @@
   },
   {
     "sn": "1082003",
-    "strContent": "You can't claim anymore tasks right now.",
+    "strContent": "Maximum number of Thieves assigned.",
     "option1": "AAAAAA==",
     "showName": "AAAAAA==",
     "option2": "AAAAAA=="
@@ -21211,14 +21218,14 @@
   },
   {
     "sn": "1082007",
-    "strContent": "Do you want to update the tasks?\n<color=#FF423F>(Limited and claimed tasks won't be updated.)</color>\nCost: %s",
+    "strContent": "Refresh all available tasks?\n<color=#FF423F>(Limited tasks and in-progress tasks won't be updated.)</color>\nCost: %s",
     "option1": "Confirm",
     "showName": "L<#000000,u,#FFFFFF>fel",
     "option2": "Never mind."
   },
   {
     "sn": "1082008",
-    "strContent": "You cannot refresh because you do not have enough uses left.",
+    "strContent": "You don't have enough items to refresh.",
     "option1": "AAAAAA==",
     "showName": "AAAAAA==",
     "option2": "AAAAAA=="
@@ -21267,7 +21274,7 @@
   },
   {
     "sn": "1082010",
-    "strContent": "Do you want to use your free refresh to update the tasks?\n<color=#FF423F>(Limited and claimed tasks won't be updated.)</color>",
+    "strContent": "Refresh all available tasks using your free refresh?\n<color=#FF423F>(Limited tasks and in-progress tasks won't be updated.)</color>",
     "option1": "Confirm",
     "showName": "L<#000000,u,#FFFFFF>fel",
     "option2": "Never mind."
@@ -21645,7 +21652,7 @@
   },
   {
     "sn": "1084007",
-    "strContent": "Synergy Rank %s with Ayaka",
+    "strContent": "Unlocks at Synergy Rank %s with Ayaka Sakai.",
     "option1": "AAAAAA==",
     "showName": "AAAAAA==",
     "option2": "AAAAAA=="
@@ -26587,7 +26594,7 @@
   },
   {
     "sn": "1209406",
-    "strContent": "Hmmm... maybe you should\nswitch to better bait?",
+    "strContent": "Hmmm... maybe you should\nswitch to better bait.",
     "option1": "AAAAAA==",
     "showName": "AAAAAA==",
     "option2": "AAAAAA=="
@@ -27154,7 +27161,7 @@
   },
   {
     "sn": "1211011",
-    "strContent": "A surprise attack!?\nLet's get back in formation!",
+    "strContent": "A surprise attack!? Let's get\nback in formation!",
     "option1": "AAAAAA==",
     "showName": "AAAAAA==",
     "option2": "AAAAAA=="
@@ -27217,7 +27224,7 @@
   },
   {
     "sn": "1231002",
-    "strContent": "You've already played this story. Do you want to play it again?",
+    "strContent": "You've already played this story.\nDo you want to play it again?",
     "option1": "Confirm",
     "showName": "L<#000000,u,#FFFFFF>fel",
     "option2": "Never mind."
@@ -27420,7 +27427,7 @@
   },
   {
     "sn": "1211241",
-    "strContent": "Spiritual afflictions... Stay focused.",
+    "strContent": "You're acting strange.\nGet ahold of yourself.",
     "option1": "AAAAAA==",
     "showName": "AAAAAA==",
     "option2": "AAAAAA=="
@@ -27497,7 +27504,7 @@
   },
   {
     "sn": "1211302",
-    "strContent": "Time to go wild.",
+    "strContent": "No holding back.",
     "option1": "AAAAAA==",
     "showName": "AAAAAA==",
     "option2": "AAAAAA=="
@@ -27518,14 +27525,14 @@
   },
   {
     "sn": "1211312",
-    "strContent": "Looks like you're okay. Welcome home.",
+    "strContent": "Looks like you're okay. Welcome back.",
     "option1": "AAAAAA==",
     "showName": "AAAAAA==",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1211313",
-    "strContent": "Decided to come back? Good call.",
+    "strContent": "You've returned. I'd expect nothing less.",
     "option1": "AAAAAA==",
     "showName": "AAAAAA==",
     "option2": "AAAAAA=="
@@ -27546,42 +27553,42 @@
   },
   {
     "sn": "1212002",
-    "strContent": "You can unlock this shape by completing the festival schedule. Do you want to jump there now?",
+    "strContent": "Unlocked by completing event goals and earning rewards. View event objectives?",
     "option1": "Confirm",
     "showName": "L<#000000,u,#FFFFFF>fel",
     "option2": "Never mind."
   },
   {
     "sn": "1212003",
-    "strContent": "After completing a character's story in the Summer Memories event, you will unlock them as an invitee.",
+    "strContent": "After completing a character's story in Summer Memories, you will unlock them as an invitee.",
     "option1": "AAAAAA==",
     "showName": "AAAAAA==",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1212004",
-    "strContent": "Are you sure you want to reset the current launch plan?",
+    "strContent": "Do you want to reset the selected fireworks?",
     "option1": "Confirm",
     "showName": "L<#000000,u,#FFFFFF>fel",
     "option2": "Never mind."
   },
   {
     "sn": "1212005",
-    "strContent": "You have not invited anybody to watch the fireworks with you. Are you sure want to go by yourself?",
+    "strContent": "You have not invited anybody to watch the fireworks with you.\nAre you sure want to go by yourself?",
     "option1": "Confirm",
     "showName": "L<#000000,u,#FFFFFF>fel",
     "option2": "Never mind."
   },
   {
     "sn": "1212006",
-    "strContent": "Not enough shakudama shells.",
+    "strContent": "You don't have enough shells.",
     "option1": "AAAAAA==",
     "showName": "AAAAAA==",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1212007",
-    "strContent": "Your current firework plan is full.",
+    "strContent": "You cannot set any more fireworks.",
     "option1": "AAAAAA==",
     "showName": "AAAAAA==",
     "option2": "AAAAAA=="
@@ -27595,7 +27602,7 @@
   },
   {
     "sn": "1212009",
-    "strContent": "Please choose a firework from the list on the left.",
+    "strContent": "Select the fireworks to launch from the left.",
     "option1": "AAAAAA==",
     "showName": "AAAAAA==",
     "option2": "AAAAAA=="
@@ -27714,14 +27721,14 @@
   },
   {
     "sn": "1130112",
-    "strContent": "All right, I'll head back.",
+    "strContent": "Understood. Let's head\nback for now.",
     "option1": "AAAAAA==",
     "showName": "L<#000000,u,#FFFFFF>fel",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1130113",
-    "strContent": "What a pity... and with only one step away.",
+    "strContent": "So close... It was nearly ours.",
     "option1": "AAAAAA==",
     "showName": "L<#000000,u,#FFFFFF>fel",
     "option2": "AAAAAA=="
@@ -27742,21 +27749,21 @@
   },
   {
     "sn": "1212010",
-    "strContent": "Please complete the mission Summer Days - Head to Shirosato Beach to unlock Shirosato Beach.",
+    "strContent": "Progress in the event Summer! Swimsuits! Sea Time! to unlock Shirosato Beach.",
     "option1": "AAAAAA==",
     "showName": "AAAAAA==",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1130116",
-    "strContent": "Not bad.",
+    "strContent": "Hoom, not bad.",
     "option1": "AAAAAA==",
     "showName": "L<#000000,u,#FFFFFF>fel",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1130117",
-    "strContent": "I've returned. What's the next mission?",
+    "strContent": "All finished. What's next?",
     "option1": "AAAAAA==",
     "showName": "L<#000000,u,#FFFFFF>fel",
     "option2": "AAAAAA=="
@@ -27770,7 +27777,7 @@
   },
   {
     "sn": "1130119",
-    "strContent": "Finished!",
+    "strContent": "Hoom, impressive.",
     "option1": "AAAAAA==",
     "showName": "L<#000000,u,#FFFFFF>fel",
     "option2": "AAAAAA=="
@@ -27784,14 +27791,14 @@
   },
   {
     "sn": "1130120",
-    "strContent": "The harvest and the sense of accomplishment... Those are the real fruits of labor.",
+    "strContent": "There is nothing like finding\nthat our efforts have borne\nfruit as a phantom thief.",
     "option1": "AAAAAA==",
     "showName": "L<#000000,u,#FFFFFF>fel",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1130201",
-    "strContent": "All right! I've been counted on!",
+    "strContent": "You can count on me!",
     "option1": "AAAAAA==",
     "showName": "Motoha Arai",
     "option2": "AAAAAA=="
@@ -27812,7 +27819,7 @@
   },
   {
     "sn": "1130203",
-    "strContent": "Leave it to me!",
+    "strContent": "I got this!",
     "option1": "AAAAAA==",
     "showName": "Motoha Arai",
     "option2": "AAAAAA=="
@@ -27847,21 +27854,21 @@
   },
   {
     "sn": "1130207",
-    "strContent": "Let's gooo!",
+    "strContent": "Let's go!",
     "option1": "AAAAAA==",
     "showName": "Motoha Arai",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1130208",
-    "strContent": "Let's get ready.",
+    "strContent": "Time to finish this!",
     "option1": "AAAAAA==",
     "showName": "Motoha Arai",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1130209",
-    "strContent": "Okay! Off I go!",
+    "strContent": "Okay, I'll take care of it.",
     "option1": "AAAAAA==",
     "showName": "Motoha Arai",
     "option2": "AAAAAA=="
@@ -27882,63 +27889,63 @@
   },
   {
     "sn": "1130212",
-    "strContent": "I'm sweating...",
+    "strContent": "I really worked up a sweat!",
     "option1": "AAAAAA==",
     "showName": "Motoha Arai",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1130213",
-    "strContent": "Heading back now? Hm... Okay then.",
+    "strContent": "We're leaving already? Got it!",
     "option1": "AAAAAA==",
     "showName": "Motoha Arai",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1130214",
-    "strContent": "Are you going to end it halfway through?",
+    "strContent": "Is it about time to head back?",
     "option1": "AAAAAA==",
     "showName": "Motoha Arai",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1130215",
-    "strContent": "Giving up halfway is so frustrating...",
+    "strContent": "Sometimes you need to know\nwhen to call it.",
     "option1": "AAAAAA==",
     "showName": "Motoha Arai",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1130216",
-    "strContent": "It's settled!",
+    "strContent": "Aw yeah, home run!",
     "option1": "AAAAAA==",
     "showName": "Motoha Arai",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1130217",
-    "strContent": "Game set!",
+    "strContent": "And that's the game!",
     "option1": "AAAAAA==",
     "showName": "Motoha Arai",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1130218",
-    "strContent": "Big catch!",
+    "strContent": "Sweet find!",
     "option1": "AAAAAA==",
     "showName": "Motoha Arai",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1130219",
-    "strContent": "Use adjustment next time.",
+    "strContent": "We're on a roll!\nLet's keep it up.",
     "option1": "AAAAAA==",
     "showName": "Motoha Arai",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1130220",
-    "strContent": "I did the thing!",
+    "strContent": "All done!",
     "option1": "AAAAAA==",
     "showName": "Motoha Arai",
     "option2": "AAAAAA=="
@@ -27947,140 +27954,140 @@
     "sn": "1130301",
     "strContent": "I've got this!",
     "option1": "AAAAAA==",
-    "showName": "Summer Motoha Arai",
+    "showName": "Tropical Motoha",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1130302",
     "strContent": "Closer, ready to go!",
     "option1": "AAAAAA==",
-    "showName": "Summer Motoha Arai",
+    "showName": "Tropical Motoha",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1130303",
     "strContent": "You talking about beach volleyball?\n...Is that a no?",
     "option1": "AAAAAA==",
-    "showName": "Summer Motoha Arai",
+    "showName": "Tropical Motoha",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1130304",
     "strContent": "All right, just leave this to me!",
     "option1": "AAAAAA==",
-    "showName": "Summer Motoha Arai",
+    "showName": "Tropical Motoha",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1130305",
     "strContent": "Let's make this the best summer ever!",
     "option1": "AAAAAA==",
-    "showName": "Summer Motoha Arai",
+    "showName": "Tropical Motoha",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1130306",
     "strContent": "Ready! Here I go!",
     "option1": "AAAAAA==",
-    "showName": "Summer Motoha Arai",
+    "showName": "Tropical Motoha",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1130307",
     "strContent": "Let's go!",
     "option1": "AAAAAA==",
-    "showName": "Summer Motoha Arai",
+    "showName": "Tropical Motoha",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1130308",
-    "strContent": "All right! I got this!",
+    "strContent": "I'm ready for the plunge!",
     "option1": "AAAAAA==",
-    "showName": "Summer Motoha Arai",
+    "showName": "Tropical Motoha",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1130309",
     "strContent": "Let's have ourselves a blast!",
     "option1": "AAAAAA==",
-    "showName": "Summer Motoha Arai",
+    "showName": "Tropical Motoha",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1130310",
-    "strContent": "AAAAAA==",
+    "strContent": "I'm going all out!",
     "option1": "AAAAAA==",
-    "showName": "Summer Motoha Arai",
+    "showName": "Tropical Motoha",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1130311",
-    "strContent": "Aww, but I was having fun...!",
+    "strContent": "The fun's just getting started.",
     "option1": "AAAAAA==",
-    "showName": "Summer Motoha Arai",
+    "showName": "Tropical Motoha",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1130312",
     "strContent": "Let's run that one again!",
     "option1": "AAAAAA==",
-    "showName": "Summer Motoha Arai",
+    "showName": "Tropical Motoha",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1130313",
-    "strContent": "Time to take a breather!",
+    "strContent": "Time for a quick breather!",
     "option1": "AAAAAA==",
-    "showName": "Summer Motoha Arai",
+    "showName": "Tropical Motoha",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1130314",
-    "strContent": "Got it. I'll be right back!",
+    "strContent": "Let's head back for now!",
     "option1": "AAAAAA==",
-    "showName": "Summer Motoha Arai",
+    "showName": "Tropical Motoha",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1130315",
-    "strContent": "Huh? Are you returning already?",
+    "strContent": "Okay! Let's take a break!",
     "option1": "AAAAAA==",
-    "showName": "Summer Motoha Arai",
+    "showName": "Tropical Motoha",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1130316",
     "strContent": "Yeah, perfect!",
     "option1": "AAAAAA==",
-    "showName": "Summer Motoha Arai",
+    "showName": "Tropical Motoha",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1130317",
     "strContent": "Good to see you!",
     "option1": "AAAAAA==",
-    "showName": "Summer Motoha Arai",
+    "showName": "Tropical Motoha",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1130318",
-    "strContent": "That was a breeze!",
+    "strContent": "That might've been too easy!",
     "option1": "AAAAAA==",
-    "showName": "Summer Motoha Arai",
+    "showName": "Tropical Motoha",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1130319",
     "strContent": "Nice! Found a treasure!",
     "option1": "AAAAAA==",
-    "showName": "Summer Motoha Arai",
+    "showName": "Tropical Motoha",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1130320",
     "strContent": "That was a bit of a hard fight!",
     "option1": "AAAAAA==",
-    "showName": "Summer Motoha Arai",
+    "showName": "Tropical Motoha",
     "option2": "AAAAAA=="
   },
   {
@@ -28092,7 +28099,7 @@
   },
   {
     "sn": "1130402",
-    "strContent": "Got it. I'll take care of it.",
+    "strContent": "Got it. I'll handle it.",
     "option1": "AAAAAA==",
     "showName": "Shun Kano",
     "option2": "AAAAAA=="
@@ -28113,14 +28120,14 @@
   },
   {
     "sn": "1130405",
-    "strContent": "Now? All right, I can jump in.",
+    "strContent": "Right now? You got it.",
     "option1": "AAAAAA==",
     "showName": "Shun Kano",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1130406",
-    "strContent": "Got it.",
+    "strContent": "On it.",
     "option1": "AAAAAA==",
     "showName": "Shun Kano",
     "option2": "AAAAAA=="
@@ -28134,49 +28141,49 @@
   },
   {
     "sn": "1130408",
-    "strContent": "Okay, let's go.",
+    "strContent": "All right, let's go!",
     "option1": "AAAAAA==",
     "showName": "Shun Kano",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1130409",
-    "strContent": "All right, let's give it our all.",
+    "strContent": "Guess there's no holdin' back!",
     "option1": "AAAAAA==",
     "showName": "Shun Kano",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1130410",
-    "strContent": "Sure am hungry...",
+    "strContent": "There's gotta be somethin' good.",
     "option1": "AAAAAA==",
     "showName": "Shun Kano",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1130411",
-    "strContent": "Damn! That's embarrassing!",
+    "strContent": "Let's take a break.",
     "option1": "AAAAAA==",
     "showName": "Shun Kano",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1130412",
-    "strContent": "*gasp*... I'm exhausted...",
+    "strContent": "Did you forget somethin'?",
     "option1": "AAAAAA==",
     "showName": "Shun Kano",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1130413",
-    "strContent": "I did a little prep... but it's still not enough.",
+    "strContent": "Don't let your guard down.",
     "option1": "AAAAAA==",
     "showName": "Shun Kano",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1130414",
-    "strContent": "Pushin' yourself too hard is no good, you know?",
+    "strContent": "Pushin' yourself too hard is\nno good, you know?",
     "option1": "AAAAAA==",
     "showName": "Shun Kano",
     "option2": "AAAAAA=="
@@ -28197,14 +28204,14 @@
   },
   {
     "sn": "1130417",
-    "strContent": "How's it going?",
+    "strContent": "Not too shabby, eh?",
     "option1": "AAAAAA==",
     "showName": "Shun Kano",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1130418",
-    "strContent": "Haha!",
+    "strContent": "This ain't bad!",
     "option1": "AAAAAA==",
     "showName": "Shun Kano",
     "option2": "AAAAAA=="
@@ -28218,7 +28225,7 @@
   },
   {
     "sn": "1130420",
-    "strContent": "Man... that was pretty rough, huh?",
+    "strContent": "Now I'm totally beat!",
     "option1": "AAAAAA==",
     "showName": "Shun Kano",
     "option2": "AAAAAA=="
@@ -28232,7 +28239,7 @@
   },
   {
     "sn": "1130502",
-    "strContent": "Ready when you are!",
+    "strContent": "Allow me to come along.",
     "option1": "AAAAAA==",
     "showName": "Riko Tanemura",
     "option2": "AAAAAA=="
@@ -28267,7 +28274,7 @@
   },
   {
     "sn": "1130507",
-    "strContent": "Wind, out.",
+    "strContent": "Wind, at your service.",
     "option1": "AAAAAA==",
     "showName": "Riko Tanemura",
     "option2": "AAAAAA=="
@@ -28302,14 +28309,14 @@
   },
   {
     "sn": "1130512",
-    "strContent": "It's not over yet...\nAre you sure?",
+    "strContent": "Shall we stop for a break?",
     "option1": "AAAAAA==",
     "showName": "Riko Tanemura",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1130513",
-    "strContent": "I see... I'll return immediately.",
+    "strContent": "Call on me when you'd\nlike to continue.",
     "option1": "AAAAAA==",
     "showName": "Riko Tanemura",
     "option2": "AAAAAA=="
@@ -28323,7 +28330,7 @@
   },
   {
     "sn": "1130515",
-    "strContent": "To end so prematurely... that's regrettable.",
+    "strContent": "Rest also plays an important role.",
     "option1": "AAAAAA==",
     "showName": "Riko Tanemura",
     "option2": "AAAAAA=="
@@ -28358,63 +28365,63 @@
   },
   {
     "sn": "1130520",
-    "strContent": "My role is complete. I will leave the rest to you.",
+    "strContent": "We did well. Let's keep up\nthe good work.",
     "option1": "AAAAAA==",
     "showName": "Riko Tanemura",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1130601",
-    "strContent": "It's been left to me!",
+    "strContent": "I won't let you down.",
     "option1": "AAAAAA==",
     "showName": "Tomoko Noge",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1130602",
-    "strContent": "Is there anything I can do?",
+    "strContent": "How can I help?",
     "option1": "AAAAAA==",
     "showName": "Tomoko Noge",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1130603",
-    "strContent": "I'm with you.",
+    "strContent": "I guess I'm good at support...?",
     "option1": "AAAAAA==",
     "showName": "Tomoko Noge",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1130604",
-    "strContent": "I-I'll do my best!",
+    "strContent": "Looking forward to it.",
     "option1": "AAAAAA==",
     "showName": "Tomoko Noge",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1130605",
-    "strContent": "What should we do next?",
+    "strContent": "What do you need me to do?",
     "option1": "AAAAAA==",
     "showName": "Tomoko Noge",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1130606",
-    "strContent": "Let's stay focused.",
+    "strContent": "I'll be back later.",
     "option1": "AAAAAA==",
     "showName": "Tomoko Noge",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1130607",
-    "strContent": "Okay.",
+    "strContent": "Okay. I'm on it.",
     "option1": "AAAAAA==",
     "showName": "Tomoko Noge",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1130608",
-    "strContent": "I'll do my best to keep up.",
+    "strContent": "Off I go then.",
     "option1": "AAAAAA==",
     "showName": "Tomoko Noge",
     "option2": "AAAAAA=="
@@ -28428,56 +28435,56 @@
   },
   {
     "sn": "1130610",
-    "strContent": "Look forward to it.",
+    "strContent": "I'm kind of nervous...\nOff I go then.",
     "option1": "AAAAAA==",
     "showName": "Tomoko Noge",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1130611",
-    "strContent": "That's it for today. Good job, everyone.",
+    "strContent": "Nothing to worry about.",
     "option1": "AAAAAA==",
     "showName": "Tomoko Noge",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1130612",
-    "strContent": "OK, got it. I'll be right back.",
+    "strContent": "Maybe today wasn't the day...\nOh well.",
     "option1": "AAAAAA==",
     "showName": "Tomoko Noge",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1130613",
-    "strContent": "You mean... there are other things to do?",
+    "strContent": "That's too bad but, okay!",
     "option1": "AAAAAA==",
     "showName": "Tomoko Noge",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1130614",
-    "strContent": "Do you want to quit here?",
+    "strContent": "I see... Got it. Back in a jiffy!",
     "option1": "AAAAAA==",
     "showName": "Tomoko Noge",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1130615",
-    "strContent": "Got it! I trust your judgment.",
+    "strContent": "Sorry I wasn't finished yet...\nI'll head back for now.",
     "option1": "AAAAAA==",
     "showName": "Tomoko Noge",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1130616",
-    "strContent": "We did it.",
+    "strContent": "Yay!",
     "option1": "AAAAAA==",
     "showName": "Tomoko Noge",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1130617",
-    "strContent": "Looks like a good harvest.",
+    "strContent": "It looks like we got something?",
     "option1": "AAAAAA==",
     "showName": "Tomoko Noge",
     "option2": "AAAAAA=="
@@ -28491,7 +28498,7 @@
   },
   {
     "sn": "1130619",
-    "strContent": "Phew... Mission accomplished.",
+    "strContent": "All done! Good work today!",
     "option1": "AAAAAA==",
     "showName": "Tomoko Noge",
     "option2": "AAAAAA=="
@@ -28505,154 +28512,154 @@
   },
   {
     "sn": "1130701",
-    "strContent": "Do you... ever think about me?",
+    "strContent": "Mmhm! Just leave it to me!",
     "option1": "AAAAAA==",
-    "showName": "Summer Tomoko Noge",
+    "showName": "Seaside Tomoko",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1130702",
-    "strContent": "I trust you.",
+    "strContent": "Ready whenever you are.",
     "option1": "AAAAAA==",
-    "showName": "Summer Tomoko Noge",
+    "showName": "Seaside Tomoko",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1130703",
     "strContent": "Shift confirmed!",
     "option1": "AAAAAA==",
-    "showName": "Summer Tomoko Noge",
+    "showName": "Seaside Tomoko",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1130704",
     "strContent": "I'll serve up a full course!",
     "option1": "AAAAAA==",
-    "showName": "Summer Tomoko Noge",
+    "showName": "Seaside Tomoko",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1130705",
-    "strContent": "Let's make this a summer to remember!",
+    "strContent": "Summer really kicks me\ninto gear!",
     "option1": "AAAAAA==",
-    "showName": "Summer Tomoko Noge",
+    "showName": "Seaside Tomoko",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1130706",
-    "strContent": "Let's get going!",
+    "strContent": "Time for work! Off I go!",
     "option1": "AAAAAA==",
-    "showName": "Summer Tomoko Noge",
+    "showName": "Seaside Tomoko",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1130707",
-    "strContent": "I'll go!",
+    "strContent": "Off I go!",
     "option1": "AAAAAA==",
-    "showName": "Summer Tomoko Noge",
+    "showName": "Seaside Tomoko",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1130708",
-    "strContent": "Here I come!",
+    "strContent": "Time to make a splash!",
     "option1": "AAAAAA==",
-    "showName": "Summer Tomoko Noge",
+    "showName": "Seaside Tomoko",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1130709",
-    "strContent": "It's hot, but let's keep trying our best!",
+    "strContent": "Don't forget to drink water!",
     "option1": "AAAAAA==",
-    "showName": "Summer Tomoko Noge",
+    "showName": "Seaside Tomoko",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1130710",
-    "strContent": "It's been a while since I've had a summer break this fun.",
+    "strContent": "Got it. It'll be fun!",
     "option1": "AAAAAA==",
-    "showName": "Summer Tomoko Noge",
+    "showName": "Seaside Tomoko",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1130711",
-    "strContent": "I'm okay. I'll return soon.",
+    "strContent": "I shouldn't push too\nhard in this heat...",
     "option1": "AAAAAA==",
-    "showName": "Summer Tomoko Noge",
+    "showName": "Seaside Tomoko",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1130712",
-    "strContent": "All right, if you say so.",
+    "strContent": "All right, if you say so.\nI'll come back now.",
     "option1": "AAAAAA==",
-    "showName": "Summer Tomoko Noge",
+    "showName": "Seaside Tomoko",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1130713",
-    "strContent": "I wanted to keep going until the end...",
+    "strContent": "Better be careful not to\nget heat stroke...",
     "option1": "AAAAAA==",
-    "showName": "Summer Tomoko Noge",
+    "showName": "Seaside Tomoko",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1130714",
-    "strContent": "What? It's not over yet though...",
+    "strContent": "Mmm... I feel like I wasn't\ndone yet...",
     "option1": "AAAAAA==",
-    "showName": "Summer Tomoko Noge",
+    "showName": "Seaside Tomoko",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1130715",
-    "strContent": "You're saying... it's okay to end it right here?",
+    "strContent": "Summer's just getting started!\nI'm ready for more!",
     "option1": "AAAAAA==",
-    "showName": "Summer Tomoko Noge",
+    "showName": "Seaside Tomoko",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1130716",
-    "strContent": "Got it done!",
+    "strContent": "Looks like we got something!",
     "option1": "AAAAAA==",
-    "showName": "Summer Tomoko Noge",
+    "showName": "Seaside Tomoko",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1130717",
-    "strContent": "That was pretty fun! See you next time!",
+    "strContent": "That was a doozy, but I still\nhad fun!",
     "option1": "AAAAAA==",
-    "showName": "Summer Tomoko Noge",
+    "showName": "Seaside Tomoko",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1130718",
-    "strContent": "That was an easy win!",
+    "strContent": "I can't wait for my next shift!",
     "option1": "AAAAAA==",
-    "showName": "Summer Tomoko Noge",
+    "showName": "Seaside Tomoko",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1130719",
-    "strContent": "I'm really tired!",
+    "strContent": "All in a good day's work!\nTime to cool off!",
     "option1": "AAAAAA==",
-    "showName": "Summer Tomoko Noge",
+    "showName": "Seaside Tomoko",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1130720",
-    "strContent": "*giggle* We accomplished a lot today.",
+    "strContent": "I'd love to help out again.",
     "option1": "AAAAAA==",
-    "showName": "Summer Tomoko Noge",
+    "showName": "Seaside Tomoko",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1130801",
-    "strContent": "There is no need to fear.",
+    "strContent": "There's nothing to be\nafraid of.",
     "option1": "AAAAAA==",
     "showName": "Seiji Shiratori",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1130802",
-    "strContent": "I won't betray your expectations!",
+    "strContent": "I won't let you down.",
     "option1": "AAAAAA==",
     "showName": "Seiji Shiratori",
     "option2": "AAAAAA=="
@@ -28680,105 +28687,105 @@
   },
   {
     "sn": "1130806",
-    "strContent": "Got to get refocused...",
+    "strContent": "Let's give it our all.",
     "option1": "AAAAAA==",
     "showName": "Seiji Shiratori",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1130807",
-    "strContent": "I'll give it my best shot.",
+    "strContent": "I won't hold back.",
     "option1": "AAAAAA==",
     "showName": "Seiji Shiratori",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1130808",
-    "strContent": "Leave it to me!",
+    "strContent": "Let me handle this.",
     "option1": "AAAAAA==",
     "showName": "Seiji Shiratori",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1130809",
-    "strContent": "Understood. I'll give it my all.",
+    "strContent": "I'll make sure to see\nthings through.",
     "option1": "AAAAAA==",
     "showName": "Seiji Shiratori",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1130810",
-    "strContent": "Leave it to me.",
+    "strContent": "I hope you'll be pleasantly\nsurprised.",
     "option1": "AAAAAA==",
     "showName": "Seiji Shiratori",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1130811",
-    "strContent": "I'm getting a bit tired. Let's take a break.",
+    "strContent": "Should we rest for a bit?",
     "option1": "AAAAAA==",
     "showName": "Seiji Shiratori",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1130812",
-    "strContent": "What a shame.",
+    "strContent": "It's best not to overdo it.",
     "option1": "AAAAAA==",
     "showName": "Seiji Shiratori",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1130813",
-    "strContent": "So it goes... Understood.",
+    "strContent": "Let's come back after we've\ngotten some rest.",
     "option1": "AAAAAA==",
     "showName": "Seiji Shiratori",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1130814",
-    "strContent": "...So you're saying that I should give up halfway through?",
+    "strContent": "Looking for me?",
     "option1": "AAAAAA==",
     "showName": "Seiji Shiratori",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1130815",
-    "strContent": "Understood. I am on the way.",
+    "strContent": "We should take some time to\nanalyze the situation.",
     "option1": "AAAAAA==",
     "showName": "Seiji Shiratori",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1130816",
-    "strContent": "I'm glad we were able to finish things smoothly.",
+    "strContent": "I'm just glad we got the\njob done.",
     "option1": "AAAAAA==",
     "showName": "Seiji Shiratori",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1130817",
-    "strContent": "So, we made it back in one\npiece. The next mission will\nbe a breeze.",
+    "strContent": "We made it back safe and sound.",
     "option1": "AAAAAA==",
     "showName": "Seiji Shiratori",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1130818",
-    "strContent": "A fair reward for the work.",
+    "strContent": "Hm... Not bad at all.",
     "option1": "AAAAAA==",
     "showName": "Seiji Shiratori",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1130819",
-    "strContent": "This is the result of everyone's hard work!",
+    "strContent": "It was nice working with\nothers for a change.",
     "option1": "AAAAAA==",
     "showName": "Seiji Shiratori",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1130820",
-    "strContent": "Stay humble in the face of victory.",
+    "strContent": "There's always room for\nimprovement.",
     "option1": "AAAAAA==",
     "showName": "Seiji Shiratori",
     "option2": "AAAAAA=="
@@ -28792,7 +28799,7 @@
   },
   {
     "sn": "1130902",
-    "strContent": "My turn.",
+    "strContent": "Shall I?",
     "option1": "AAAAAA==",
     "showName": "Kotone Montagne",
     "option2": "AAAAAA=="
@@ -28806,42 +28813,42 @@
   },
   {
     "sn": "1130904",
-    "strContent": "Looks like this is where I come in.",
+    "strContent": "It's time for me to make\nmy entrance.",
     "option1": "AAAAAA==",
     "showName": "Kotone Montagne",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1130905",
-    "strContent": "Everything's ready to go.",
+    "strContent": "Just say the word.",
     "option1": "AAAAAA==",
     "showName": "Kotone Montagne",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1130906",
-    "strContent": "Let's all give it our best.",
+    "strContent": "Let's do our best.",
     "option1": "AAAAAA==",
     "showName": "Kotone Montagne",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1130907",
-    "strContent": "Is everyone ready? Let's go.",
+    "strContent": "Are we ready? Let us be\non our way.",
     "option1": "AAAAAA==",
     "showName": "Kotone Montagne",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1130908",
-    "strContent": "Peak Condition!",
+    "strContent": "Let's get going.",
     "option1": "AAAAAA==",
     "showName": "Kotone Montagne",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1130909",
-    "strContent": "I think I can do it.",
+    "strContent": "I'll be sure not to disappoint.",
     "option1": "AAAAAA==",
     "showName": "Kotone Montagne",
     "option2": "AAAAAA=="
@@ -28855,42 +28862,42 @@
   },
   {
     "sn": "1130911",
-    "strContent": "But I'm still not done yet...",
+    "strContent": "Understood. I'll stop here.",
     "option1": "AAAAAA==",
     "showName": "Kotone Montagne",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1130912",
-    "strContent": "No way... we're going back now?",
+    "strContent": "A retreat is a good call.",
     "option1": "AAAAAA==",
     "showName": "Kotone Montagne",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1130913",
-    "strContent": "Now that it's come to this... I feel a bit regretful.",
+    "strContent": "I agree. It's about time we get back.",
     "option1": "AAAAAA==",
     "showName": "Kotone Montagne",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1130914",
-    "strContent": "Next time, I'll keep going until the end.",
+    "strContent": "I'll leave it up to you.",
     "option1": "AAAAAA==",
     "showName": "Kotone Montagne",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1130915",
-    "strContent": "Very well. I will return immediately.",
+    "strContent": "All right. I'll be back soon.",
     "option1": "AAAAAA==",
     "showName": "Kotone Montagne",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1130916",
-    "strContent": "Mission complete!",
+    "strContent": "Mission complete.",
     "option1": "AAAAAA==",
     "showName": "Kotone Montagne",
     "option2": "AAAAAA=="
@@ -28904,7 +28911,7 @@
   },
   {
     "sn": "1130918",
-    "strContent": "Here are your results.",
+    "strContent": "Our efforts have paid off.",
     "option1": "AAAAAA==",
     "showName": "Kotone Montagne",
     "option2": "AAAAAA=="
@@ -28918,21 +28925,21 @@
   },
   {
     "sn": "1130920",
-    "strContent": "I sealed the deal, huh?",
+    "strContent": "Simply brilliant.",
     "option1": "AAAAAA==",
     "showName": "Kotone Montagne",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1131001",
-    "strContent": "Did someone call for a hero?",
+    "strContent": "This looks like a job for\na hero!",
     "option1": "AAAAAA==",
     "showName": "Leo Kamiyama",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1131002",
-    "strContent": "Leave it to me.",
+    "strContent": "You can count on me!",
     "option1": "AAAAAA==",
     "showName": "Leo Kamiyama",
     "option2": "AAAAAA=="
@@ -28960,70 +28967,70 @@
   },
   {
     "sn": "1131006",
-    "strContent": "Let's go, people!",
+    "strContent": "It's our time to shine!",
     "option1": "AAAAAA==",
     "showName": "Leo Kamiyama",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1131007",
-    "strContent": "Heroes assemble! Let's move out!",
+    "strContent": "Heroes, assemble!",
     "option1": "AAAAAA==",
     "showName": "Leo Kamiyama",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1131008",
-    "strContent": "I'm getting excited! Let's go!",
+    "strContent": "I'm getting all fired up!",
     "option1": "AAAAAA==",
     "showName": "Leo Kamiyama",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1131009",
-    "strContent": "I've got your back!",
+    "strContent": "Stand with me! Let's go!",
     "option1": "AAAAAA==",
     "showName": "Leo Kamiyama",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1131010",
-    "strContent": "I was getting restless.",
+    "strContent": "There's no way I'll let\nyou down!",
     "option1": "AAAAAA==",
     "showName": "Leo Kamiyama",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1131011",
-    "strContent": "Let's stop to recharge.\nThen we'll continue\nour fight against evil.",
+    "strContent": "Let's stop to recharge.\nThen we'll continue our\nfight against evil.",
     "option1": "AAAAAA==",
     "showName": "Leo Kamiyama",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1131012",
-    "strContent": "Heroes don't give up that easily!",
+    "strContent": "Sometimes you need rest to\nfight another day!",
     "option1": "AAAAAA==",
     "showName": "Leo Kamiyama",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1131013",
-    "strContent": "Hmmm, that's unfortunate... However, I do understand.",
+    "strContent": "Good idea! Time to strategize!",
     "option1": "AAAAAA==",
     "showName": "Leo Kamiyama",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1131014",
-    "strContent": "Understood. But, please explain your reasons later.",
+    "strContent": "Understood! Just let me know when you need me!",
     "option1": "AAAAAA==",
     "showName": "Leo Kamiyama",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1131015",
-    "strContent": "Understood. But, please explain your reasons later.",
+    "strContent": "Hero... Breaaaaaaak!",
     "option1": "AAAAAA==",
     "showName": "Leo Kamiyama",
     "option2": "AAAAAA=="
@@ -29037,133 +29044,133 @@
   },
   {
     "sn": "1131017",
-    "strContent": "Nice! We did it!",
+    "strContent": "Mm, a glorious triumph, indeed!",
     "option1": "AAAAAA==",
     "showName": "Leo Kamiyama",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1131018",
-    "strContent": "Now, let's take stock of our spoils!",
+    "strContent": "Get a load of this bounty...! We did it!",
     "option1": "AAAAAA==",
     "showName": "Leo Kamiyama",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1131019",
-    "strContent": "Big haul today. Let's keep it up!",
+    "strContent": "Admirable work! Until next time!",
     "option1": "AAAAAA==",
     "showName": "Leo Kamiyama",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1131020",
-    "strContent": "Justice will prevail!",
+    "strContent": "All in a day's work for a hero!",
     "option1": "AAAAAA==",
     "showName": "Leo Kamiyama",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1131101",
-    "strContent": "Leave it to me.",
+    "strContent": "You can count on me.",
     "option1": "AAAAAA==",
     "showName": "Yukimi Fujikawa",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1131102",
-    "strContent": "Preparations are in order. Ready to go whenever!",
+    "strContent": "I'm all set. Just say the word!",
     "option1": "AAAAAA==",
     "showName": "Yukimi Fujikawa",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1131103",
-    "strContent": "You made the right choice.",
+    "strContent": "You did well to choose me.",
     "option1": "AAAAAA==",
     "showName": "Yukimi Fujikawa",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1131104",
-    "strContent": "You've got quite the discerning eye.",
+    "strContent": "I knew you had good judgement.",
     "option1": "AAAAAA==",
     "showName": "Yukimi Fujikawa",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1131105",
-    "strContent": "I'll help you out.",
+    "strContent": "I'll work as hard as I can!",
     "option1": "AAAAAA==",
     "showName": "Yukimi Fujikawa",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1131106",
-    "strContent": "Understood. Proceeding as planned.",
+    "strContent": "Okay. I'll get right on it.",
     "option1": "AAAAAA==",
     "showName": "Yukimi Fujikawa",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1131107",
-    "strContent": "My turn!",
+    "strContent": "Guess it's my turn.",
     "option1": "AAAAAA==",
     "showName": "Yukimi Fujikawa",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1131108",
-    "strContent": "Understood. I shall proceed with caution.",
+    "strContent": "Understood. I'll proceed with caution.",
     "option1": "AAAAAA==",
     "showName": "Yukimi Fujikawa",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1131109",
-    "strContent": "This job should be pretty easy.",
+    "strContent": "I should be able to handle this without any trouble.",
     "option1": "AAAAAA==",
     "showName": "Yukimi Fujikawa",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1131110",
-    "strContent": "I have no objections. I shall do as instructed.",
+    "strContent": "I don't anticipate any issues. Proceeding as planned.",
     "option1": "AAAAAA==",
     "showName": "Yukimi Fujikawa",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1131111",
-    "strContent": "We need to change our strategy.",
+    "strContent": "I see... Has there been a change of plan?",
     "option1": "AAAAAA==",
     "showName": "Yukimi Fujikawa",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1131112",
-    "strContent": "Abandoning mission. I'll await your next orders.",
+    "strContent": "Abandoning mission, and awaiting further orders.",
     "option1": "AAAAAA==",
     "showName": "Yukimi Fujikawa",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1131113",
-    "strContent": "We should rethink our strategy.",
+    "strContent": "You wish to regroup? Understood.",
     "option1": "AAAAAA==",
     "showName": "Yukimi Fujikawa",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1131114",
-    "strContent": "Is it really okay to stop here?",
+    "strContent": "Right, we can't risk taking any chances.",
     "option1": "AAAAAA==",
     "showName": "Yukimi Fujikawa",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1131115",
-    "strContent": "...Did I really make the right choice?",
+    "strContent": "Got it. I'll head back at once.",
     "option1": "AAAAAA==",
     "showName": "Yukimi Fujikawa",
     "option2": "AAAAAA=="
@@ -29184,28 +29191,28 @@
   },
   {
     "sn": "1131118",
-    "strContent": "We really outdid ourselves.",
+    "strContent": "A fine result.",
     "option1": "AAAAAA==",
     "showName": "Yukimi Fujikawa",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1131119",
-    "strContent": "Mission complete. Let's call it a day.",
+    "strContent": "Completed the task without a hitch.",
     "option1": "AAAAAA==",
     "showName": "Yukimi Fujikawa",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1131120",
-    "strContent": "Well done.",
+    "strContent": "Mission complete.",
     "option1": "AAAAAA==",
     "showName": "Yukimi Fujikawa",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1131201",
-    "strContent": "Ready to roll!",
+    "strContent": "I'm ready when you are!",
     "option1": "AAAAAA==",
     "showName": "Kayo Tomiyama",
     "option2": "AAAAAA=="
@@ -29247,14 +29254,14 @@
   },
   {
     "sn": "1131202",
-    "strContent": "A Gal's grand debut!",
+    "strContent": "Ta-daaa! Behold, my grand entrance!",
     "option1": "AAAAAA==",
     "showName": "Kayo Tomiyama",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1131203",
-    "strContent": "Leave the support to me!",
+    "strContent": "I got this!",
     "option1": "AAAAAA==",
     "showName": "Kayo Tomiyama",
     "option2": "AAAAAA=="
@@ -29282,28 +29289,28 @@
   },
   {
     "sn": "1131207",
-    "strContent": "Let's get this party started!",
+    "strContent": "Okay, let's get this show on the road!",
     "option1": "AAAAAA==",
     "showName": "Kayo Tomiyama",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1131208",
-    "strContent": "Go, go, go!",
+    "strContent": "Let's go, go, GO!",
     "option1": "AAAAAA==",
     "showName": "Kayo Tomiyama",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1131209",
-    "strContent": "Showtime!",
+    "strContent": "At last, it's my time to shine!",
     "option1": "AAAAAA==",
     "showName": "Kayo Tomiyama",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1131210",
-    "strContent": "Woohoo, it's time to\nparty all night!",
+    "strContent": "Woohoo, it's time to party!",
     "option1": "AAAAAA==",
     "showName": "Kayo Tomiyama",
     "option2": "AAAAAA=="
@@ -29317,28 +29324,28 @@
   },
   {
     "sn": "1131212",
-    "strContent": "No way... We screwed up...\nSeriously?",
+    "strContent": "Aaaall righty. Back in a jiffy!",
     "option1": "AAAAAA==",
     "showName": "Kayo Tomiyama",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1131213",
-    "strContent": "Uh... isn't this, like, super bad?",
+    "strContent": "Ummmm... Guess I'll head back!",
     "option1": "AAAAAA==",
     "showName": "Kayo Tomiyama",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1131214",
-    "strContent": "Shouldn't we head back now? Like, seriously?",
+    "strContent": "Mm, maybe that's for the best.",
     "option1": "AAAAAA==",
     "showName": "Kayo Tomiyama",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1131215",
-    "strContent": "What? This is such a bummer.",
+    "strContent": "Ahh... Guess we oughta pace ourselves. Got it!",
     "option1": "AAAAAA==",
     "showName": "Kayo Tomiyama",
     "option2": "AAAAAA=="
@@ -29352,308 +29359,308 @@
   },
   {
     "sn": "1131217",
-    "strContent": "Booyah! That's what I'm talkin' about!",
+    "strContent": "Woohoo! That's what I'm talkin' about!",
     "option1": "AAAAAA==",
     "showName": "Kayo Tomiyama",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1131218",
-    "strContent": "Haha! That's so totally crazy!",
+    "strContent": "Haha! That's, like, so totally crazy!",
     "option1": "AAAAAA==",
     "showName": "Kayo Tomiyama",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1131219",
-    "strContent": "Nice one, guys! Mad props.",
+    "strContent": "Easy peasy! We nailed it.",
     "option1": "AAAAAA==",
     "showName": "Kayo Tomiyama",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1131220",
-    "strContent": "Most excellent!",
+    "strContent": "Hot damn!",
     "option1": "AAAAAA==",
     "showName": "Kayo Tomiyama",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1131301",
-    "strContent": "Nice choice.",
+    "strContent": "Good choice... Or perhaps it was inevitable for the chosen one...",
     "option1": "AAAAAA==",
     "showName": "Kiyoshi Kurotani",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1131302",
-    "strContent": "Me... Yeah, looks like its on me.",
+    "strContent": "I knew you'd pick me... I could sense it.",
     "option1": "AAAAAA==",
     "showName": "Kiyoshi Kurotani",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1131303",
-    "strContent": "Here I go.",
+    "strContent": "Understood.",
     "option1": "AAAAAA==",
     "showName": "Kiyoshi Kurotani",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1131304",
-    "strContent": "Am I up? Works for me.",
+    "strContent": "My turn, is it? Just leave it to me.",
     "option1": "AAAAAA==",
     "showName": "Kiyoshi Kurotani",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1131305",
-    "strContent": "Key... Ready to go!",
+    "strContent": "This, too, is the fate of a chosen one, isn't it...?",
     "option1": "AAAAAA==",
     "showName": "Kiyoshi Kurotani",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1131306",
-    "strContent": "I'm here! It'll all be okay!",
+    "strContent": "Rest assured, I shall fulfill your expectations...",
     "option1": "AAAAAA==",
     "showName": "Kiyoshi Kurotani",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1131307",
-    "strContent": "The chosen one... attacks!",
+    "strContent": "You think I have what it takes? No... I'll prove that I do!",
     "option1": "AAAAAA==",
     "showName": "Kiyoshi Kurotani",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1131308",
-    "strContent": "Key... here we gooo!",
+    "strContent": "Consider it done. After all... I have a good feeling about this one!",
     "option1": "AAAAAA==",
     "showName": "Kiyoshi Kurotani",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1131309",
-    "strContent": "Hope this can cure my boredom.",
+    "strContent": "Heheh, seems like a good way to kill some time.",
     "option1": "AAAAAA==",
     "showName": "Kiyoshi Kurotani",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1131310",
-    "strContent": "I can see it now... Victory is in sight!",
+    "strContent": "You've forseen the outcome, haven't you? Then just wait for my return.",
     "option1": "AAAAAA==",
     "showName": "Kiyoshi Kurotani",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1131311",
-    "strContent": "You can't neglect your rest.",
+    "strContent": "H-Huh? Retreat...?",
     "option1": "AAAAAA==",
     "showName": "Kiyoshi Kurotani",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1131312",
-    "strContent": "As for this next mission... uhh, no comment.",
+    "strContent": "But I'm not done yet... V-Very well!",
     "option1": "AAAAAA==",
     "showName": "Kiyoshi Kurotani",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1131313",
-    "strContent": "This is a tactical retreat... I think...",
+    "strContent": "A tactical evacuation, I see...!",
     "option1": "AAAAAA==",
     "showName": "Kiyoshi Kurotani",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1131314",
-    "strContent": "Even if you tell me to come back all of the sudden...!",
+    "strContent": "O-Oh... I predicted this outcome...!",
     "option1": "AAAAAA==",
     "showName": "Kiyoshi Kurotani",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1131315",
-    "strContent": "This, too, is the fate\nof a chosen one, isn't it...",
+    "strContent": "Huh, are you sure? Well, if you say so.",
     "option1": "AAAAAA==",
     "showName": "Kiyoshi Kurotani",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1131316",
-    "strContent": "I knew it had to be this way",
+    "strContent": "Heheh, a foregone conclusion.",
     "option1": "AAAAAA==",
     "showName": "Kiyoshi Kurotani",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1131317",
-    "strContent": "The chosen one will surely make the most of it.",
+    "strContent": "The outcome was inevitable.",
     "option1": "AAAAAA==",
     "showName": "Kiyoshi Kurotani",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1131318",
-    "strContent": "I haven't even gotten\nstarted yet.",
+    "strContent": "Well, I... haven't even gotten started yet.",
     "option1": "AAAAAA==",
     "showName": "Kiyoshi Kurotani",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1131319",
-    "strContent": "If ever you need my power,\ncall upon me again.",
+    "strContent": "Mission complete. You can count on me for the next one...",
     "option1": "AAAAAA==",
     "showName": "Kiyoshi Kurotani",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1131320",
-    "strContent": "It seems I truly am the chosen one, after all!",
+    "strContent": "Well then... I shall prepare myself for next time.",
     "option1": "AAAAAA==",
     "showName": "Kiyoshi Kurotani",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1131401",
-    "strContent": "Guess it's my turn.",
+    "strContent": "Right, guess I should make myself useful.",
     "option1": "AAAAAA==",
     "showName": "Toshiya Sumi",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1131402",
-    "strContent": "Perhaps I should show you my mature side once in a while.",
+    "strContent": "You've put your trust in me, so I can't let you down.",
     "option1": "AAAAAA==",
     "showName": "Toshiya Sumi",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1131403",
-    "strContent": "The pen is mightier than the sword, you know.",
+    "strContent": "Heheh, thanks for picking me.",
     "option1": "AAAAAA==",
     "showName": "Toshiya Sumi",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1131404",
-    "strContent": "I'll keep doing my best.",
+    "strContent": "I'll give it everything I've got.",
     "option1": "AAAAAA==",
     "showName": "Toshiya Sumi",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1131405",
-    "strContent": "It seems I was able to live up to everyone's expectations...",
+    "strContent": "My turn, huh?",
     "option1": "AAAAAA==",
     "showName": "Toshiya Sumi",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1131406",
-    "strContent": "It's a bit of a hassle... but I guess there's no other option.",
+    "strContent": "I'll be sure to bring back something good.",
     "option1": "AAAAAA==",
     "showName": "Toshiya Sumi",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1131407",
-    "strContent": "Let's do our best without pushing ourselves too hard.",
+    "strContent": "Well then, let's get going.",
     "option1": "AAAAAA==",
     "showName": "Toshiya Sumi",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1131408",
-    "strContent": "Ahh, what a beautiful day. It's the perfect weather for fishing.",
+    "strContent": "Be back in a bit.",
     "option1": "AAAAAA==",
     "showName": "Toshiya Sumi",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1131409",
-    "strContent": "I'll treat it like a research trip.",
+    "strContent": "All right. Off I go.",
     "option1": "AAAAAA==",
     "showName": "Toshiya Sumi",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1131410",
-    "strContent": "Maybe I should show my motivated side now and again.",
+    "strContent": "Honestly... I'm pretty pumped for this.",
     "option1": "AAAAAA==",
     "showName": "Toshiya Sumi",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1131411",
-    "strContent": "No matter the situation, always keep a clear mind.",
+    "strContent": "Okay, I'll head back.",
     "option1": "AAAAAA==",
     "showName": "Toshiya Sumi",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1131412",
-    "strContent": "I did the best I could, I suppose.",
+    "strContent": "Yeah, might be best to fall back.",
     "option1": "AAAAAA==",
     "showName": "Toshiya Sumi",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1131413",
-    "strContent": "Let's rest before we get too tired.",
+    "strContent": "Got it. I'll head back at once.",
     "option1": "AAAAAA==",
     "showName": "Toshiya Sumi",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1131414",
-    "strContent": "Canceled. Well, I guess that's how it goes sometimes.",
+    "strContent": "Okay. I'm on my way.",
     "option1": "AAAAAA==",
     "showName": "Toshiya Sumi",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1131415",
-    "strContent": "I think it'd go well, but... Okay, I'll go back and rest.",
+    "strContent": "Yep, probably best to turn back.",
     "option1": "AAAAAA==",
     "showName": "Toshiya Sumi",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1131416",
-    "strContent": "All thanks to everyone.",
+    "strContent": "It's all thanks to everyone.",
     "option1": "AAAAAA==",
     "showName": "Toshiya Sumi",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1131417",
-    "strContent": "We all deserve a nice long vacation.",
+    "strContent": "It's kinda nice to go on a trip every once in a while.",
     "option1": "AAAAAA==",
     "showName": "Toshiya Sumi",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1131418",
-    "strContent": "I'm a bit tired,\nbut it was an interesting\nexperience.",
+    "strContent": "Huh... Guess I didn't do too badly.",
     "option1": "AAAAAA==",
     "showName": "Toshiya Sumi",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1131419",
-    "strContent": "This is very nice.",
+    "strContent": "Aren't you gonna praise me for my hard work? Heh, just kidding.",
     "option1": "AAAAAA==",
     "showName": "Toshiya Sumi",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1131420",
-    "strContent": "I wonder if this means I won't have to work for a while.",
+    "strContent": "Okay, guess I can just take it easy for a bit.",
     "option1": "AAAAAA==",
     "showName": "Toshiya Sumi",
     "option2": "AAAAAA=="
@@ -29667,14 +29674,14 @@
   },
   {
     "sn": "1131502",
-    "strContent": "Now it's my turn!",
+    "strContent": "Oh, it's my turn?",
     "option1": "AAAAAA==",
     "showName": "Yaoling Li",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1131503",
-    "strContent": "It's my time to shine!",
+    "strContent": "This is my chance!",
     "option1": "AAAAAA==",
     "showName": "Yaoling Li",
     "option2": "AAAAAA=="
@@ -29702,63 +29709,63 @@
   },
   {
     "sn": "1131507",
-    "strContent": "I'm not some paper tiger, okay?",
+    "strContent": "I feel like I could run a thousand miles!",
     "option1": "AAAAAA==",
     "showName": "Yaoling Li",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1131508",
-    "strContent": "Well then, let's start.",
+    "strContent": "No time like the present!",
     "option1": "AAAAAA==",
     "showName": "Yaoling Li",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1131509",
-    "strContent": "Okay! Let's go!",
+    "strContent": "Okey dokey! Let's go!",
     "option1": "AAAAAA==",
     "showName": "Yaoling Li",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1131510",
-    "strContent": "Heheh! I handled that easily!",
+    "strContent": "Heheh! Easy as pie!",
     "option1": "AAAAAA==",
     "showName": "Yaoling Li",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1131511",
-    "strContent": "What? But we're still on the way...",
+    "strContent": "All righty. I'll head straight back!",
     "option1": "AAAAAA==",
     "showName": "Yaoling Li",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1131512",
-    "strContent": "Huh? We're going back right now!?",
+    "strContent": "Okay. Let's take a breather.",
     "option1": "AAAAAA==",
     "showName": "Yaoling Li",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1131513",
-    "strContent": "I wanna keep going till the end next time!",
+    "strContent": "Yeah, now's probably a good time.",
     "option1": "AAAAAA==",
     "showName": "Yaoling Li",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1131514",
-    "strContent": "These... don't seem to be fully burned...",
+    "strContent": "Can't let our guards down, right?",
     "option1": "AAAAAA==",
     "showName": "Yaoling Li",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1131515",
-    "strContent": "What? That's...",
+    "strContent": "Gotcha. We have to put our safety first!",
     "option1": "AAAAAA==",
     "showName": "Yaoling Li",
     "option2": "AAAAAA=="
@@ -29772,7 +29779,7 @@
   },
   {
     "sn": "1131517",
-    "strContent": "Whoa, this is quite the bounty!",
+    "strContent": "Whoooa, this is quite the bounty!",
     "option1": "AAAAAA==",
     "showName": "Yaoling Li",
     "option2": "AAAAAA=="
@@ -29786,7 +29793,7 @@
   },
   {
     "sn": "1131519",
-    "strContent": "All done!",
+    "strContent": "The mission is complete!",
     "option1": "AAAAAA==",
     "showName": "Yaoling Li",
     "option2": "AAAAAA=="
@@ -29800,147 +29807,147 @@
   },
   {
     "sn": "1131601",
-    "strContent": "It's the best choice!",
+    "strContent": "Leave it aaaall to me!",
     "option1": "AAAAAA==",
     "showName": "Yui",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1131602",
-    "strContent": "Just leave it to me♪",
+    "strContent": "Heheh, I've been dying to put my skill to good use!",
     "option1": "AAAAAA==",
     "showName": "Yui",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1131603",
-    "strContent": "My batteries are fully charged!",
+    "strContent": "Ready at a moment's notice!",
     "option1": "AAAAAA==",
     "showName": "Yui",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1131604",
-    "strContent": "It would be preposterous\nto leave me behind!",
+    "strContent": "I won't let you down!",
     "option1": "AAAAAA==",
     "showName": "Yui",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1131605",
-    "strContent": "Leave it to Bui!",
+    "strContent": "My time has come!",
     "option1": "AAAAAA==",
     "showName": "Yui",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1131606",
-    "strContent": "I'm taking you down!",
+    "strContent": "I'm on it!",
     "option1": "AAAAAA==",
     "showName": "Yui",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1131607",
-    "strContent": "Now then, let us give it our all!",
+    "strContent": "Okay, I'll give it my all!",
     "option1": "AAAAAA==",
     "showName": "Yui",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1131608",
-    "strContent": "My excitement is growing!",
+    "strContent": "You just wait for my grand return!",
     "option1": "AAAAAA==",
     "showName": "Yui",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1131609",
-    "strContent": "Would you like to change your preferences?",
+    "strContent": "I'll keep my eyes peeled for treasure!",
     "option1": "AAAAAA==",
     "showName": "Yui",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1131610",
-    "strContent": "I'll live up to your expectations!",
+    "strContent": "I can't contain my excitement!",
     "option1": "AAAAAA==",
     "showName": "Yui",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1131611",
-    "strContent": "We made it back! Should we take a break?",
+    "strContent": "Time for Bui to take a Yui-Turn!",
     "option1": "AAAAAA==",
     "showName": "Yui",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1131612",
-    "strContent": "Is it okay to leave it unfinished?",
+    "strContent": "It's important to know when to call it quits.",
     "option1": "AAAAAA==",
     "showName": "Yui",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1131613",
-    "strContent": "Canceled!? What's going on here!?",
+    "strContent": "Right! Time to head back!",
     "option1": "AAAAAA==",
     "showName": "Yui",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1131614",
-    "strContent": "I request an explanation...",
+    "strContent": "All right! I'm homeward bound!",
     "option1": "AAAAAA==",
     "showName": "Yui",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1131615",
-    "strContent": "We haven't even finished sowing the seeds...",
+    "strContent": "The cows are coming home, so I should, too!",
     "option1": "AAAAAA==",
     "showName": "Yui",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1131616",
-    "strContent": "Easy-peasy.",
+    "strContent": "Nothing to it!",
     "option1": "AAAAAA==",
     "showName": "Yui",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1131617",
-    "strContent": "A natural result... An insult is in order!",
+    "strContent": "Well then, let's see how we did.",
     "option1": "AAAAAA==",
     "showName": "Yui",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1131618",
-    "strContent": "Ah! It's just what I wanted!",
+    "strContent": "I hope you'll praise me accordingly!",
     "option1": "AAAAAA==",
     "showName": "Yui",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1131619",
-    "strContent": "Wonderful!",
+    "strContent": "Hard work equals bountiful harvest!",
     "option1": "AAAAAA==",
     "showName": "Yui",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1131620",
-    "strContent": "Let's call it a day!",
+    "strContent": "A job well done!",
     "option1": "AAAAAA==",
     "showName": "Yui",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1131701",
-    "strContent": "Leave it to me.",
+    "strContent": "Yaaay! It's my turn!",
     "option1": "AAAAAA==",
     "showName": "Haruna Nishimori",
     "option2": "AAAAAA=="
@@ -29954,126 +29961,126 @@
   },
   {
     "sn": "1131703",
-    "strContent": "I'll do my best!",
+    "strContent": "Okay, I'll do my best!",
     "option1": "AAAAAA==",
     "showName": "Haruna Nishimori",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1131704",
-    "strContent": "Should I be getting this hyped!?",
+    "strContent": "I wonder what excitement awaits!",
     "option1": "AAAAAA==",
     "showName": "Haruna Nishimori",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1131705",
-    "strContent": "Exploration team, go!",
+    "strContent": "Exploration Team, assemble!",
     "option1": "AAAAAA==",
     "showName": "Haruna Nishimori",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1131706",
-    "strContent": "Ready?",
+    "strContent": "Be back soooon!",
     "option1": "AAAAAA==",
     "showName": "Haruna Nishimori",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1131707",
-    "strContent": "I'll give it my all!",
+    "strContent": "Exploration Team, go!",
     "option1": "AAAAAA==",
     "showName": "Haruna Nishimori",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1131708",
-    "strContent": "Here we gooo! This is so exciting!",
+    "strContent": "A mission, huh? Off I gooo!",
     "option1": "AAAAAA==",
     "showName": "Haruna Nishimori",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1131709",
-    "strContent": "Now what's happening!?",
+    "strContent": "I wonder if there's any surprises in store...!",
     "option1": "AAAAAA==",
     "showName": "Haruna Nishimori",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1131710",
-    "strContent": "I'm so pumped!",
+    "strContent": "Let's... goooo!",
     "option1": "AAAAAA==",
     "showName": "Haruna Nishimori",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1131711",
-    "strContent": "All right, I'll take it easy for a bit then!",
+    "strContent": "Huh, really? Okay, then!",
     "option1": "AAAAAA==",
     "showName": "Haruna Nishimori",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1131712",
-    "strContent": "Can we go back?",
+    "strContent": "Aww... What a shame.",
     "option1": "AAAAAA==",
     "showName": "Haruna Nishimori",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1131713",
-    "strContent": "Over already? Why?",
+    "strContent": "Gotcha... Well, I'll do my best next time!",
     "option1": "AAAAAA==",
     "showName": "Haruna Nishimori",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1131714",
-    "strContent": "I want to come back and play again!",
+    "strContent": "Whaaat!? But why, but why!?",
     "option1": "AAAAAA==",
     "showName": "Haruna Nishimori",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1131715",
-    "strContent": "Aww, I wanted to play more...",
+    "strContent": "Aww, but I was having fun...",
     "option1": "AAAAAA==",
     "showName": "Haruna Nishimori",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1131716",
-    "strContent": "That was too easy!",
+    "strContent": "I'm baaaack!",
     "option1": "AAAAAA==",
     "showName": "Haruna Nishimori",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1131717",
-    "strContent": "That went well!",
+    "strContent": "Today's expedition is complete!",
     "option1": "AAAAAA==",
     "showName": "Haruna Nishimori",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1131718",
-    "strContent": "Exploring was fun!",
+    "strContent": "That was so much fun!",
     "option1": "AAAAAA==",
     "showName": "Haruna Nishimori",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1131719",
-    "strContent": "Did I do a good job?",
+    "strContent": "I finished that task, Big Brooo!",
     "option1": "AAAAAA==",
     "showName": "Haruna Nishimori",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1131720",
-    "strContent": "Wow, amazing!",
+    "strContent": "If you need my help again, just let me know! I'm ready whenever!",
     "option1": "AAAAAA==",
     "showName": "Haruna Nishimori",
     "option2": "AAAAAA=="
@@ -30087,140 +30094,140 @@
   },
   {
     "sn": "1131802",
-    "strContent": "All ready!",
+    "strContent": "I'm ready to go at any time.",
     "option1": "AAAAAA==",
     "showName": "Minami Miyashita",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1131803",
-    "strContent": "Marian, ready to go!",
+    "strContent": "Sure. I'll head out right away.",
     "option1": "AAAAAA==",
     "showName": "Minami Miyashita",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1131804",
-    "strContent": "Leave the healing to me!",
+    "strContent": "Is there anything I can help with?",
     "option1": "AAAAAA==",
     "showName": "Minami Miyashita",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1131805",
-    "strContent": "I'll do my best, you just watch!",
+    "strContent": "Got it. I'll do my best.",
     "option1": "AAAAAA==",
     "showName": "Minami Miyashita",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1131806",
-    "strContent": "Hope it's something good!",
+    "strContent": "Okay! See you when I get back!",
     "option1": "AAAAAA==",
     "showName": "Minami Miyashita",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1131807",
-    "strContent": "Let me heal you!",
+    "strContent": "Keep an eye on things while I'm gone.",
     "option1": "AAAAAA==",
     "showName": "Minami Miyashita",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1131808",
-    "strContent": "I will protect everyone...!",
+    "strContent": "If anything comes up, just let me know, and I'll be back in a flash.",
     "option1": "AAAAAA==",
     "showName": "Minami Miyashita",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1131809",
-    "strContent": "I can fight too.",
+    "strContent": "All right! I'll be off, then!",
     "option1": "AAAAAA==",
     "showName": "Minami Miyashita",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1131810",
-    "strContent": "I'll go above and beyond!",
+    "strContent": "I'll be sure to bring back something good, okay?",
     "option1": "AAAAAA==",
     "showName": "Minami Miyashita",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1131811",
-    "strContent": "I'm sorry... If only I could've done a little better...",
+    "strContent": "Oh... Okay, I'll be right back.",
     "option1": "AAAAAA==",
     "showName": "Minami Miyashita",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1131812",
-    "strContent": "Okay! I'll go back now then.",
+    "strContent": "At least it ended without incident. Well done handling everything.",
     "option1": "AAAAAA==",
     "showName": "Minami Miyashita",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1131813",
-    "strContent": "What!?",
+    "strContent": "Got it. It's earlier than planned, but I'll head on back.",
     "option1": "AAAAAA==",
     "showName": "Minami Miyashita",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1131814",
-    "strContent": "I think I'm a bit tired...",
+    "strContent": "Got it. Heading back now.",
     "option1": "AAAAAA==",
     "showName": "Minami Miyashita",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1131815",
-    "strContent": "Huh? We're only halfway but... Is it okay?",
+    "strContent": "Aww... What a shame. I was\nlooking forward to this.",
     "option1": "AAAAAA==",
     "showName": "Minami Miyashita",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1131816",
-    "strContent": "All finished!",
+    "strContent": "I'm back! Sorry for the wait!",
     "option1": "AAAAAA==",
     "showName": "Minami Miyashita",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1131817",
-    "strContent": "Yep, this is pretty good!\nThis should help everyone out.",
+    "strContent": "I'm back. Went off without\na hitch.",
     "option1": "AAAAAA==",
     "showName": "Minami Miyashita",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1131818",
-    "strContent": "Great job, everyone!\nNo one twisted their ankle,\nright?",
+    "strContent": "I'm back. Did anyone get hurt\nwhile I was gone?",
     "option1": "AAAAAA==",
     "showName": "Minami Miyashita",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1131819",
-    "strContent": "I'm glad we made it\nback safely! Everyone did\na great job.",
+    "strContent": "That went well. Can't wait\nfor the next one.",
     "option1": "AAAAAA==",
     "showName": "Minami Miyashita",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1131820",
-    "strContent": "Hehehe! That went well!",
+    "strContent": "That went great, hehe!",
     "option1": "AAAAAA==",
     "showName": "Minami Miyashita",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1131901",
-    "strContent": "I heard your call!",
+    "strContent": "Need some help from this\ngranny, do you?",
     "option1": "AAAAAA==",
     "showName": "Chizuko Nagao",
     "option2": "AAAAAA=="
@@ -30234,7 +30241,7 @@
   },
   {
     "sn": "1131903",
-    "strContent": "You'd do well to listen to your elders, eh?",
+    "strContent": "I think my intuition will be\nuseful here.",
     "option1": "AAAAAA==",
     "showName": "Chizuko Nagao",
     "option2": "AAAAAA=="
@@ -30262,70 +30269,70 @@
   },
   {
     "sn": "1131907",
-    "strContent": "Let me show you what this granny can do!",
+    "strContent": "I'll show you what this\ngranny can do!",
     "option1": "AAAAAA==",
     "showName": "Chizuko Nagao",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1131908",
-    "strContent": "Well done indeed! Very nice work.",
+    "strContent": "Hey now, let's do\nour damndest!",
     "option1": "AAAAAA==",
     "showName": "Chizuko Nagao",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1131909",
-    "strContent": "Leave it to granny!",
+    "strContent": "I'm not gonna lose to\nyou youngsters!",
     "option1": "AAAAAA==",
     "showName": "Chizuko Nagao",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1131910",
-    "strContent": "It's that easy!",
+    "strContent": "I'll wrap this up in a flash.",
     "option1": "AAAAAA==",
     "showName": "Chizuko Nagao",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1131911",
-    "strContent": "It seems this is as far as we can go for now.",
+    "strContent": "Showing some concern for your\nelders, huh? My thanks.",
     "option1": "AAAAAA==",
     "showName": "Chizuko Nagao",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1131912",
-    "strContent": "Phew. This is too much at my age.",
+    "strContent": "Let's relax for a bit.",
     "option1": "AAAAAA==",
     "showName": "Chizuko Nagao",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1131913",
-    "strContent": "Guess I'm getting older...",
+    "strContent": "Should I play a song or two\nwhile we rest?",
     "option1": "AAAAAA==",
     "showName": "Chizuko Nagao",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1131914",
-    "strContent": "How disappointing.",
+    "strContent": "Taking time to analyze our\nintel is important, too.",
     "option1": "AAAAAA==",
     "showName": "Chizuko Nagao",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1131915",
-    "strContent": "I wanted to see it through till the end...",
+    "strContent": "If we rest a bit, we can give\nit our all until the very end.",
     "option1": "AAAAAA==",
     "showName": "Chizuko Nagao",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1131916",
-    "strContent": "Wonder if something good's in there...",
+    "strContent": "Ooh, looking pretty good!",
     "option1": "AAAAAA==",
     "showName": "Chizuko Nagao",
     "option2": "AAAAAA=="
@@ -30339,7 +30346,7 @@
   },
   {
     "sn": "1131918",
-    "strContent": "Well done, everybody. We fought well.",
+    "strContent": "Well done, everyone.\nI had a blast.",
     "option1": "AAAAAA==",
     "showName": "Chizuko Nagao",
     "option2": "AAAAAA=="
@@ -30353,42 +30360,42 @@
   },
   {
     "sn": "1131920",
-    "strContent": "A piece of cake, even for a granny like me!",
+    "strContent": "Give me another ring\nsometime, kid!",
     "option1": "AAAAAA==",
     "showName": "Chizuko Nagao",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1132001",
-    "strContent": "You can leave this to me.",
+    "strContent": "Just leave it to me, okay?",
     "option1": "AAAAAA==",
     "showName": "Yumi Shiina",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1132002",
-    "strContent": "Looking forward to it! Let's do this!",
+    "strContent": "Look forward to my\nvictory, okay?",
     "option1": "AAAAAA==",
     "showName": "Yumi Shiina",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1132003",
-    "strContent": "Okay. I'll be counting on you.",
+    "strContent": "Okay, ready to go!",
     "option1": "AAAAAA==",
     "showName": "Yumi Shiina",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1132004",
-    "strContent": "Let's give it our all.",
+    "strContent": "Alright, let's do this thing!",
     "option1": "AAAAAA==",
     "showName": "Yumi Shiina",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1132005",
-    "strContent": "I look forward to working with you all!",
+    "strContent": "Let me know if anyone\ngets thirsty!",
     "option1": "AAAAAA==",
     "showName": "Yumi Shiina",
     "option2": "AAAAAA=="
@@ -30402,7 +30409,7 @@
   },
   {
     "sn": "1132007",
-    "strContent": "I'll make it the best show ever.",
+    "strContent": "Time to start the show!",
     "option1": "AAAAAA==",
     "showName": "Yumi Shiina",
     "option2": "AAAAAA=="
@@ -30416,7 +30423,7 @@
   },
   {
     "sn": "1132009",
-    "strContent": "What a thrill, huh?",
+    "strContent": "My heart's pounding!",
     "option1": "AAAAAA==",
     "showName": "Yumi Shiina",
     "option2": "AAAAAA=="
@@ -30430,49 +30437,49 @@
   },
   {
     "sn": "1132011",
-    "strContent": "I think that's enough\nfor today. All in moderation,\nright?",
+    "strContent": "Break time? Sounds like\na plan!",
     "option1": "AAAAAA==",
     "showName": "Yumi Shiina",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1132012",
-    "strContent": "Eh? Come back...? What's up?",
+    "strContent": "Oh, did you call for me?\nWhat is it, what is it?",
     "option1": "AAAAAA==",
     "showName": "Yumi Shiina",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1132013",
-    "strContent": "Stopping here? But that's...",
+    "strContent": "Let's take a breather!\nI've got drinks handy!",
     "option1": "AAAAAA==",
     "showName": "Yumi Shiina",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1132014",
-    "strContent": "I don't want to up and give up right in the middle, but... I guess there's no other way.",
+    "strContent": "That was perfect! My feet\nwere killing me!",
     "option1": "AAAAAA==",
     "showName": "Yumi Shiina",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1132015",
-    "strContent": "Sorry...",
+    "strContent": "Strategy meeting time?",
     "option1": "AAAAAA==",
     "showName": "Yumi Shiina",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1132016",
-    "strContent": "A toast to our victory!\nCheers!",
+    "strContent": "Good work! Cheers!",
     "option1": "AAAAAA==",
     "showName": "Yumi Shiina",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1132017",
-    "strContent": "Wasn't that the best show ever? Hehe.",
+    "strContent": "How'd you like the show?",
     "option1": "AAAAAA==",
     "showName": "Yumi Shiina",
     "option2": "AAAAAA=="
@@ -30493,280 +30500,280 @@
   },
   {
     "sn": "1132018",
-    "strContent": "Yaaay!",
+    "strContent": "Not too shabby!",
     "option1": "AAAAAA==",
     "showName": "Yumi Shiina",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1132019",
-    "strContent": "With this, our mission is complete!",
+    "strContent": "Done already? I could go on\nand on, you know!",
     "option1": "AAAAAA==",
     "showName": "Yumi Shiina",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1132020",
-    "strContent": "Aren't you glad you relied on me?",
+    "strContent": "Aren't you glad you\nrelied on me?",
     "option1": "AAAAAA==",
     "showName": "Yumi Shiina",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1132101",
-    "strContent": "Leave it all to me!",
+    "strContent": "I'm here, Big bro!",
     "option1": "AAAAAA==",
     "showName": "Miyu Sahara",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1132102",
-    "strContent": "Hey there! What can I do for you?",
+    "strContent": "Puppet, ready for action!",
     "option1": "AAAAAA==",
     "showName": "Miyu Sahara",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1132103",
-    "strContent": "Okay! Let's do this!",
+    "strContent": "Something I can help with?",
     "option1": "AAAAAA==",
     "showName": "Miyu Sahara",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1132104",
-    "strContent": "I'll do my best to support you!",
+    "strContent": "Ready do go whenever.",
     "option1": "AAAAAA==",
     "showName": "Miyu Sahara",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1132105",
-    "strContent": "I'm kind of nervous all of a sudden... No, I've got this!",
+    "strContent": "I've gotten used to this kind\nof work. You can count on me.",
     "option1": "AAAAAA==",
     "showName": "Miyu Sahara",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1132106",
-    "strContent": "Ladies and gentlemen, let the show begin!",
+    "strContent": "All right. I'll be off.",
     "option1": "AAAAAA==",
     "showName": "Miyu Sahara",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1132107",
-    "strContent": "Let's go!",
+    "strContent": "Just you wait, Big bro. It's\ngonna be great!",
     "option1": "AAAAAA==",
     "showName": "Miyu Sahara",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1132108",
-    "strContent": "Let's get serious!",
+    "strContent": "Roger! Puppet, heading out!",
     "option1": "AAAAAA==",
     "showName": "Miyu Sahara",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1132109",
-    "strContent": "Leave it to me!",
+    "strContent": "I've got this!",
     "option1": "AAAAAA==",
     "showName": "Miyu Sahara",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1132110",
-    "strContent": "And that should do it. Mission accomplished.",
+    "strContent": "Mission intel, locked\nand loaded!",
     "option1": "AAAAAA==",
     "showName": "Miyu Sahara",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1132111",
-    "strContent": "I'm sorry... I wasn't strong enough...",
+    "strContent": "Sorry I couldn't be of any\nhelp, Big bro...",
     "option1": "AAAAAA==",
     "showName": "Miyu Sahara",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1132112",
-    "strContent": "Uh, th-that's all!\nEveryone tried really hard!",
+    "strContent": "I guess that's how it\ngoes sometimes...",
     "option1": "AAAAAA==",
     "showName": "Miyu Sahara",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1132113",
-    "strContent": "If only I had finished up a little faster...",
+    "strContent": "I see... that's regrettable.\nI'll head back now.",
     "option1": "AAAAAA==",
     "showName": "Miyu Sahara",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1132114",
-    "strContent": "Big bro, I'm sorry. I'll be back...",
+    "strContent": "I see... Understood. Heading back now!",
     "option1": "AAAAAA==",
     "showName": "Miyu Sahara",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1132115",
-    "strContent": "Next time, we'll finish this...",
+    "strContent": "Got it. When I get back, let's\nfigure out our next strategy!",
     "option1": "AAAAAA==",
     "showName": "Miyu Sahara",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1132116",
-    "strContent": "Let's do it!",
+    "strContent": "Big bro! I'm baaack!",
     "option1": "AAAAAA==",
     "showName": "Miyu Sahara",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1132117",
-    "strContent": "Great job today!\nLet's work hard together next time too!",
+    "strContent": "Big bro! I found some\ngood stuff!",
     "option1": "AAAAAA==",
     "showName": "Miyu Sahara",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1132118",
-    "strContent": "Hehehe.",
+    "strContent": "I did my best!",
     "option1": "AAAAAA==",
     "showName": "Miyu Sahara",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1132119",
-    "strContent": "I did my best! What did you think, big bro?",
+    "strContent": "I'm not ready to call it\nquits yet!",
     "option1": "AAAAAA==",
     "showName": "Miyu Sahara",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1132120",
-    "strContent": "Yay! This is fun!",
+    "strContent": "I'm so happy Big bro relies\non me. Hehe!",
     "option1": "AAAAAA==",
     "showName": "Miyu Sahara",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1132201",
-    "strContent": "I'm all set!",
+    "strContent": "I can do this.",
     "option1": "AAAAAA==",
     "showName": "Ayaka Sakai",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1132202",
-    "strContent": "Here I come!",
+    "strContent": "My turn.",
     "option1": "AAAAAA==",
     "showName": "Ayaka Sakai",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1132203",
-    "strContent": "Um... I look forward to working with you today...",
+    "strContent": "Um... Look forward to\nworking with you...",
     "option1": "AAAAAA==",
     "showName": "Ayaka Sakai",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1132204",
-    "strContent": "Let's put on a good performance.",
+    "strContent": "This one might be too tough...\nNo, we'll still pull through.",
     "option1": "AAAAAA==",
     "showName": "Ayaka Sakai",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1132205",
-    "strContent": "I'm up... Please don't get nervous...",
+    "strContent": "I'm kind of nervous.",
     "option1": "AAAAAA==",
     "showName": "Ayaka Sakai",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1132206",
-    "strContent": "From now on, leave it all to me!",
+    "strContent": "Sure. Leave it to me.",
     "option1": "AAAAAA==",
     "showName": "Ayaka Sakai",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1132207",
-    "strContent": "I wonder what'll happen today. I can't wait!",
+    "strContent": "I'm gonna have fun with\nthis one.",
     "option1": "AAAAAA==",
     "showName": "Ayaka Sakai",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1132208",
-    "strContent": "All right, I'm off.",
+    "strContent": "I'll be back.",
     "option1": "AAAAAA==",
     "showName": "Ayaka Sakai",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1132209",
-    "strContent": "Time to start the show.",
+    "strContent": "Hope I can get something\ngood from this.",
     "option1": "AAAAAA==",
     "showName": "Ayaka Sakai",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1132210",
-    "strContent": "Stay tuned. Just you wait.",
+    "strContent": "My heart's racing... Here we go.",
     "option1": "AAAAAA==",
     "showName": "Ayaka Sakai",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1132211",
-    "strContent": "Well, I guess that's it for today.",
+    "strContent": "Got it. We'll return for now.",
     "option1": "AAAAAA==",
     "showName": "Ayaka Sakai",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1132212",
-    "strContent": "I-I'm sorry!",
+    "strContent": "Huh? But we're not finished...\nI see, understood.",
     "option1": "AAAAAA==",
     "showName": "Ayaka Sakai",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1132213",
-    "strContent": "But... it's not even over yet...",
+    "strContent": "We'll succeed next time\nfor sure.",
     "option1": "AAAAAA==",
     "showName": "Ayaka Sakai",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1132214",
-    "strContent": "Huh? You want to retreat?",
+    "strContent": "I see... Understood.\nReturning now.",
     "option1": "AAAAAA==",
     "showName": "Ayaka Sakai",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1132215",
-    "strContent": "How the...?",
+    "strContent": "Unfortunate, but we'll do\nbetter next time.",
     "option1": "AAAAAA==",
     "showName": "Ayaka Sakai",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1132216",
-    "strContent": "A good experience. Nicely done.",
+    "strContent": "It was a good experience. Thanks...!",
     "option1": "AAAAAA==",
     "showName": "Ayaka Sakai",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1132217",
-    "strContent": "Mission complete! Good work.",
+    "strContent": "Mission complete. Great work!",
     "option1": "AAAAAA==",
     "showName": "Ayaka Sakai",
     "option2": "AAAAAA=="
@@ -30787,21 +30794,21 @@
   },
   {
     "sn": "1132218",
-    "strContent": "What an adventure, huh?",
+    "strContent": "Nice job. I'd be happy if you\ncalled on me again.",
     "option1": "AAAAAA==",
     "showName": "Ayaka Sakai",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1132219",
-    "strContent": "Wow... This seems pretty good.",
+    "strContent": "We acquired some good\nsupplies.",
     "option1": "AAAAAA==",
     "showName": "Ayaka Sakai",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1132220",
-    "strContent": "Good show, huh?",
+    "strContent": "Thanks for relying on me.\nUntil next time.",
     "option1": "AAAAAA==",
     "showName": "Ayaka Sakai",
     "option2": "AAAAAA=="
@@ -30829,28 +30836,28 @@
   },
   {
     "sn": "1132304",
-    "strContent": "Understood.",
+    "strContent": "I'll leave the decision\nto you.",
     "option1": "AAAAAA==",
     "showName": "Ren Amamiya",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1132305",
-    "strContent": "Here goes...",
+    "strContent": "Finally. I've been waiting.",
     "option1": "AAAAAA==",
     "showName": "Ren Amamiya",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1132306",
-    "strContent": "Brace yourselves.",
+    "strContent": "Let's start the mission.",
     "option1": "AAAAAA==",
     "showName": "Ren Amamiya",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1132307",
-    "strContent": "It's Showtime.",
+    "strContent": "Here goes...",
     "option1": "AAAAAA==",
     "showName": "Ren Amamiya",
     "option2": "AAAAAA=="
@@ -30864,42 +30871,42 @@
   },
   {
     "sn": "1132309",
-    "strContent": "Let's do this!",
+    "strContent": "Let's do this.",
     "option1": "AAAAAA==",
     "showName": "Ren Amamiya",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1132310",
-    "strContent": "Let's do this...",
+    "strContent": "Let's go!",
     "option1": "AAAAAA==",
     "showName": "Ren Amamiya",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1132311",
-    "strContent": "Ngh...",
+    "strContent": "That's how it goes sometimes.",
     "option1": "AAAAAA==",
     "showName": "Ren Amamiya",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1132312",
-    "strContent": "Impossible!",
+    "strContent": "I see. All right.",
     "option1": "AAAAAA==",
     "showName": "Ren Amamiya",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1132313",
-    "strContent": "Tch...",
+    "strContent": "What's next?",
     "option1": "AAAAAA==",
     "showName": "Ren Amamiya",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1132314",
-    "strContent": "I'm not giving in...!",
+    "strContent": "Nice.",
     "option1": "AAAAAA==",
     "showName": "Ren Amamiya",
     "option2": "AAAAAA=="
@@ -30913,56 +30920,56 @@
   },
   {
     "sn": "1132316",
-    "strContent": "Thanks.",
+    "strContent": "Here's today's results.",
     "option1": "AAAAAA==",
     "showName": "Ren Amamiya",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1132317",
-    "strContent": "Mission... complete.",
+    "strContent": "Mission complete...",
     "option1": "AAAAAA==",
     "showName": "Ren Amamiya",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1132318",
-    "strContent": "End of the line.",
+    "strContent": "Let's keep up the pace.",
     "option1": "AAAAAA==",
     "showName": "Ren Amamiya",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1132319",
-    "strContent": "It's all ours.",
+    "strContent": "Well?",
     "option1": "AAAAAA==",
     "showName": "Ren Amamiya",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1132320",
-    "strContent": "Good find.",
+    "strContent": "Just as expected.",
     "option1": "AAAAAA==",
     "showName": "Ren Amamiya",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1132401",
-    "strContent": "Mewhehehee!",
+    "strContent": "Teamwork's important to\na Phantom Thief.",
     "option1": "AAAAAA==",
     "showName": "Morgana",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1132402",
-    "strContent": "Cower before the Phantom Thieves!",
+    "strContent": "Your gracious savior\nhas arrived!",
     "option1": "AAAAAA==",
     "showName": "Morgana",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1132403",
-    "strContent": "I've got this.",
+    "strContent": "Now then, what do we do now?",
     "option1": "AAAAAA==",
     "showName": "Morgana",
     "option2": "AAAAAA=="
@@ -30976,77 +30983,77 @@
   },
   {
     "sn": "1132405",
-    "strContent": "Looks like this is where I come in!",
+    "strContent": "Excellent choice!",
     "option1": "AAAAAA==",
     "showName": "Morgana",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1132406",
-    "strContent": "Behold my fur-someness!",
+    "strContent": "I've got this.",
     "option1": "AAAAAA==",
     "showName": "Morgana",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1132407",
-    "strContent": "All right, let's do this!",
+    "strContent": "Leave it to me!",
     "option1": "AAAAAA==",
     "showName": "Morgana",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1132408",
-    "strContent": "I'll be the ground to your feet!",
+    "strContent": "I see, not bad.",
     "option1": "AAAAAA==",
     "showName": "Morgana",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1132409",
-    "strContent": "Come on, let's teach them a lesson!",
+    "strContent": "I'm ready to go!",
     "option1": "AAAAAA==",
     "showName": "Morgana",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1132410",
-    "strContent": "All right, let's start today's job!",
+    "strContent": "All right! Today's mission\nbegins now!",
     "option1": "AAAAAA==",
     "showName": "Morgana",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1132411",
-    "strContent": "I messed up!",
+    "strContent": "Okay! Let's take a break!",
     "option1": "AAAAAA==",
     "showName": "Morgana",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1132412",
-    "strContent": "No—!",
+    "strContent": "It's important to know when\nto pull the plug.",
     "option1": "AAAAAA==",
     "showName": "Morgana",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1132413",
-    "strContent": "Damn! They're tough!",
+    "strContent": "Let's prep more carefully\nfor the next one.",
     "option1": "AAAAAA==",
     "showName": "Morgana",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1132414",
-    "strContent": "AAAAAA==",
+    "strContent": "There's always next time!",
     "option1": "AAAAAA==",
     "showName": "Morgana",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1132415",
-    "strContent": "Mrow!?",
+    "strContent": "Got it. Heading back.",
     "option1": "AAAAAA==",
     "showName": "Morgana",
     "option2": "AAAAAA=="
@@ -31081,7 +31088,7 @@
   },
   {
     "sn": "1132420",
-    "strContent": "That's a nice bonus!",
+    "strContent": "Mewhehehee...",
     "option1": "AAAAAA==",
     "showName": "Morgana",
     "option2": "AAAAAA=="
@@ -31109,7 +31116,7 @@
   },
   {
     "sn": "1132504",
-    "strContent": "Now we're talking!",
+    "strContent": "Need to borrow my power?",
     "option1": "AAAAAA==",
     "showName": "Ryuji Sakamoto",
     "option2": "AAAAAA=="
@@ -31158,42 +31165,42 @@
   },
   {
     "sn": "1132511",
-    "strContent": "That one's on me...",
+    "strContent": "Look forward to the next one.",
     "option1": "AAAAAA==",
     "showName": "Ryuji Sakamoto",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1132512",
-    "strContent": "For real!?",
+    "strContent": "Okay. In that case, I'll head\nback now!",
     "option1": "AAAAAA==",
     "showName": "Ryuji Sakamoto",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1132513",
-    "strContent": "Aaagh!",
+    "strContent": "Abort mission? Understood.",
     "option1": "AAAAAA==",
     "showName": "Ryuji Sakamoto",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1132514",
-    "strContent": "Damn... We're done for...",
+    "strContent": "They say experience comes\nin all forms",
     "option1": "AAAAAA==",
     "showName": "Ryuji Sakamoto",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1132515",
-    "strContent": "I'm sorry...",
+    "strContent": "Orders received! Heading\nback now!",
     "option1": "AAAAAA==",
     "showName": "Ryuji Sakamoto",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1132516",
-    "strContent": "It's over!",
+    "strContent": "All finished!",
     "option1": "AAAAAA==",
     "showName": "Ryuji Sakamoto",
     "option2": "AAAAAA=="
@@ -31214,21 +31221,21 @@
   },
   {
     "sn": "1132519",
-    "strContent": "BANG!",
+    "strContent": "Things are heating up!",
     "option1": "AAAAAA==",
     "showName": "Ryuji Sakamoto",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1132520",
-    "strContent": "Woo-hoo!",
+    "strContent": "Now we're talking!",
     "option1": "AAAAAA==",
     "showName": "Ryuji Sakamoto",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1132601",
-    "strContent": "Got it! I'll take this guy down!",
+    "strContent": "Not bad, right?",
     "option1": "AAAAAA==",
     "showName": "Ann Takamaki",
     "option2": "AAAAAA=="
@@ -31263,21 +31270,28 @@
   },
   {
     "sn": "1132606",
-    "strContent": "I won't hold back!",
+    "strContent": "You got it, I'm on it!",
+    "option1": "AAAAAA==",
+    "showName": "Ann Takamaki",
+    "option2": "AAAAAA=="
+  },
+  {
+    "sn": "1132607",
+    "strContent": "Get ready!",
     "option1": "AAAAAA==",
     "showName": "Ann Takamaki",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1132608",
-    "strContent": "Go all in!",
+    "strContent": "I'm going all out!",
     "option1": "AAAAAA==",
     "showName": "Ann Takamaki",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1132609",
-    "strContent": "I need to let loose!",
+    "strContent": "With style and grace!",
     "option1": "AAAAAA==",
     "showName": "Ann Takamaki",
     "option2": "AAAAAA=="
@@ -31291,42 +31305,42 @@
   },
   {
     "sn": "1132611",
-    "strContent": "No!",
+    "strContent": "Got it. Heading back.",
     "option1": "AAAAAA==",
     "showName": "Ann Takamaki",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1132612",
-    "strContent": "No way!",
+    "strContent": "Let's plan out the next job.",
     "option1": "AAAAAA==",
     "showName": "Ann Takamaki",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1132613",
-    "strContent": "What the hell...? I can't believe this...",
+    "strContent": "Too bad. Wanna eat something\nsweet when I get back?",
     "option1": "AAAAAA==",
     "showName": "Ann Takamaki",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1132614",
-    "strContent": "You're kidding, right!?",
+    "strContent": "Loud and clear. Heading\nback now.",
     "option1": "AAAAAA==",
     "showName": "Ann Takamaki",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1132615",
-    "strContent": "How could this happen?",
+    "strContent": "I wonder what to expect next!",
     "option1": "AAAAAA==",
     "showName": "Ann Takamaki",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1132616",
-    "strContent": "We knocked it out of the park, huh?",
+    "strContent": "We knocked it out of the\npark, huh?",
     "option1": "AAAAAA==",
     "showName": "Ann Takamaki",
     "option2": "AAAAAA=="
@@ -31354,28 +31368,28 @@
   },
   {
     "sn": "1132620",
-    "strContent": "Heheh, that was easy!",
+    "strContent": "How ya like THEM apples? Heheh!",
     "option1": "AAAAAA==",
     "showName": "Ann Takamaki",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1132701",
-    "strContent": "I got this!",
+    "strContent": "Hmm... This really puts your aesthetic eye to the test.",
     "option1": "AAAAAA==",
     "showName": "Yusuke Kitagawa",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1132702",
-    "strContent": "Got it!",
+    "strContent": "All set.",
     "option1": "AAAAAA==",
     "showName": "Yusuke Kitagawa",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1132703",
-    "strContent": "I won't let you down.",
+    "strContent": "I will try and live up to those expectations.",
     "option1": "AAAAAA==",
     "showName": "Yusuke Kitagawa",
     "option2": "AAAAAA=="
@@ -31389,21 +31403,21 @@
   },
   {
     "sn": "1132705",
-    "strContent": "This could make for some good inspiration.",
+    "strContent": "This could be inspring.",
     "option1": "AAAAAA==",
     "showName": "Yusuke Kitagawa",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1132706",
-    "strContent": "Preparations complete.",
+    "strContent": "I've been waiting for this!",
     "option1": "AAAAAA==",
     "showName": "Yusuke Kitagawa",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1132707",
-    "strContent": "Let the battle begin!",
+    "strContent": "Leave it to me.",
     "option1": "AAAAAA==",
     "showName": "Yusuke Kitagawa",
     "option2": "AAAAAA=="
@@ -31417,7 +31431,7 @@
   },
   {
     "sn": "1132709",
-    "strContent": "You got it.",
+    "strContent": "Time for work. First steps are important, so stay focused.",
     "option1": "AAAAAA==",
     "showName": "Yusuke Kitagawa",
     "option2": "AAAAAA=="
@@ -31431,28 +31445,28 @@
   },
   {
     "sn": "1132711",
-    "strContent": "What!?",
+    "strContent": "Some things are unavoidable... Very well.",
     "option1": "AAAAAA==",
     "showName": "Yusuke Kitagawa",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1132712",
-    "strContent": "I was careless.",
+    "strContent": "Hmph, I see... In that case, I let us return...",
     "option1": "AAAAAA==",
     "showName": "Yusuke Kitagawa",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1132713",
-    "strContent": "A shame.",
+    "strContent": "A tactical retreat. Understood.",
     "option1": "AAAAAA==",
     "showName": "Yusuke Kitagawa",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1132714",
-    "strContent": "Until next time.",
+    "strContent": "This is the best decision for now.",
     "option1": "AAAAAA==",
     "showName": "Yusuke Kitagawa",
     "option2": "AAAAAA=="
@@ -31466,28 +31480,28 @@
   },
   {
     "sn": "1132716",
-    "strContent": "Another step closer to achieving my dreams.",
+    "strContent": "One step closer to perfection.",
     "option1": "AAAAAA==",
     "showName": "Yusuke Kitagawa",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1132717",
-    "strContent": "Simply breathtaking.",
+    "strContent": "I've just realized—that's quite valuable!",
     "option1": "AAAAAA==",
     "showName": "Yusuke Kitagawa",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1132718",
-    "strContent": "Job done and beautifully executed, too.",
+    "strContent": "The job is done.\nFlawlessly executed.",
     "option1": "AAAAAA==",
     "showName": "Yusuke Kitagawa",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1132719",
-    "strContent": "Yes, pitch perfect.",
+    "strContent": "Ah, perfection.",
     "option1": "AAAAAA==",
     "showName": "Yusuke Kitagawa",
     "option2": "AAAAAA=="
@@ -31501,28 +31515,28 @@
   },
   {
     "sn": "1132801",
-    "strContent": "How stupendous!",
+    "strContent": "Queen, ready for action.",
     "option1": "AAAAAA==",
     "showName": "Makoto Niijima",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1132802",
-    "strContent": "Here I go!",
+    "strContent": "I need to live up to your expectations.",
     "option1": "AAAAAA==",
     "showName": "Makoto Niijima",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1132803",
-    "strContent": "Take on the challenge.",
+    "strContent": "Duty calls!",
     "option1": "AAAAAA==",
     "showName": "Makoto Niijima",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1132804",
-    "strContent": "You need my power.",
+    "strContent": "Need a hand?",
     "option1": "AAAAAA==",
     "showName": "Makoto Niijima",
     "option2": "AAAAAA=="
@@ -31543,63 +31557,63 @@
   },
   {
     "sn": "1132807",
-    "strContent": "Queen is good as golden.",
+    "strContent": "Let's attack swiftly!",
     "option1": "AAAAAA==",
     "showName": "Makoto Niijima",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1132808",
-    "strContent": "This one's got my name on it.",
+    "strContent": "Let's handle this with force.",
     "option1": "AAAAAA==",
     "showName": "Makoto Niijima",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1132809",
-    "strContent": "Let's finish them in one fell swoop!",
+    "strContent": "I think you'd make a suitable advisor as well.",
     "option1": "AAAAAA==",
     "showName": "Makoto Niijima",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1132810",
-    "strContent": "My fists are dying to punch something!",
+    "strContent": "Here I go!",
     "option1": "AAAAAA==",
     "showName": "Makoto Niijima",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1132811",
-    "strContent": "Seriously...?",
+    "strContent": "Understood. Let's head back.",
     "option1": "AAAAAA==",
     "showName": "Makoto Niijima",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1132812",
-    "strContent": "Ngh...",
+    "strContent": "That's too bad... But we'll head back now.",
     "option1": "AAAAAA==",
     "showName": "Makoto Niijima",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1132813",
-    "strContent": "Every lesson makes me stronger.",
+    "strContent": "Every lesson makes us stronger.",
     "option1": "AAAAAA==",
     "showName": "Makoto Niijima",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1132814",
-    "strContent": "This might get tricky.",
+    "strContent": "Pause? Okay.",
     "option1": "AAAAAA==",
     "showName": "Makoto Niijima",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1132815",
-    "strContent": "I'm down for the count!",
+    "strContent": "Understood, we'll head back.",
     "option1": "AAAAAA==",
     "showName": "Makoto Niijima",
     "option2": "AAAAAA=="
@@ -31669,7 +31683,7 @@
   },
   {
     "sn": "1132817",
-    "strContent": "Let's keep up the good work.",
+    "strContent": "Brilliant! This is sure to come in handy.",
     "option1": "AAAAAA==",
     "showName": "Makoto Niijima",
     "option2": "AAAAAA=="
@@ -31683,14 +31697,14 @@
   },
   {
     "sn": "1132819",
-    "strContent": "Phew... Our work is done.",
+    "strContent": "We should stock up on these.",
     "option1": "AAAAAA==",
     "showName": "Makoto Niijima",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1132820",
-    "strContent": "Feeling good.",
+    "strContent": "Alright, all done!",
     "option1": "AAAAAA==",
     "showName": "Makoto Niijima",
     "option2": "AAAAAA=="
@@ -31718,21 +31732,21 @@
   },
   {
     "sn": "1132901",
-    "strContent": "It's hacking time!",
+    "strContent": "Oho! My turn, eh?",
     "option1": "AAAAAA==",
     "showName": "Futaba Sakura",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1132902",
-    "strContent": "Don't miss it!",
+    "strContent": "I've always got your back.",
     "option1": "AAAAAA==",
     "showName": "Futaba Sakura",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1132903",
-    "strContent": "Oho! My turn, eh?",
+    "strContent": "Ugh, what took you so long?",
     "option1": "AAAAAA==",
     "showName": "Futaba Sakura",
     "option2": "AAAAAA=="
@@ -31767,7 +31781,7 @@
   },
   {
     "sn": "1132905",
-    "strContent": "Uploading code...\nAll systems go!",
+    "strContent": "Let's handle this as optimally as possible.",
     "option1": "AAAAAA==",
     "showName": "Futaba Sakura",
     "option2": "AAAAAA=="
@@ -31781,7 +31795,7 @@
   },
   {
     "sn": "1132907",
-    "strContent": "All right, let's go!",
+    "strContent": "It's hacking time!",
     "option1": "AAAAAA==",
     "showName": "Futaba Sakura",
     "option2": "AAAAAA=="
@@ -31802,77 +31816,77 @@
   },
   {
     "sn": "1132910",
-    "strContent": "C'mon, let's give this job everything we've got!",
+    "strContent": "Hehehe, I got this.",
     "option1": "AAAAAA==",
     "showName": "Futaba Sakura",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1132911",
-    "strContent": "Ooh... You'll pay for that!",
+    "strContent": "I mean, I get it, but seriously?",
     "option1": "AAAAAA==",
     "showName": "Futaba Sakura",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1132912",
-    "strContent": "Now! Run for it!",
+    "strContent": "Are you sure? We're only halfway.\nLet's head back then.",
     "option1": "AAAAAA==",
     "showName": "Futaba Sakura",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1132913",
-    "strContent": "Ah...",
+    "strContent": "All right, all right. But we haven't finished yet.",
     "option1": "AAAAAA==",
     "showName": "Futaba Sakura",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1132914",
-    "strContent": "Oh, that's lame.",
+    "strContent": "I should at least get praised for going out.",
     "option1": "AAAAAA==",
     "showName": "Futaba Sakura",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1132915",
-    "strContent": "It's no use... There's nowhere to run...",
+    "strContent": "Hmm, all right. That's too bad.",
     "option1": "AAAAAA==",
     "showName": "Futaba Sakura",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1132916",
-    "strContent": "Good work, everyone!",
+    "strContent": "Game over!",
     "option1": "AAAAAA==",
     "showName": "Futaba Sakura",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1132917",
-    "strContent": "GG.",
+    "strContent": "Oooh, nice job. That's one task accomplished.",
     "option1": "AAAAAA==",
     "showName": "Futaba Sakura",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1132918",
-    "strContent": "Finished? Finished. Finally!",
+    "strContent": "Heh, piece of cake!",
     "option1": "AAAAAA==",
     "showName": "Futaba Sakura",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1132919",
-    "strContent": "Good work. Let's keep it up!",
+    "strContent": "C'mon now, that was too easy!",
     "option1": "AAAAAA==",
     "showName": "Futaba Sakura",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1132920",
-    "strContent": "That was easy, huh? Your face says it all.",
+    "strContent": "Good work, everyone!",
     "option1": "AAAAAA==",
     "showName": "Futaba Sakura",
     "option2": "AAAAAA=="
@@ -31893,420 +31907,420 @@
   },
   {
     "sn": "1133001",
-    "strContent": "AAAAAA==",
+    "strContent": "Oh, so you've chosen me.",
     "option1": "AAAAAA==",
     "showName": "Kira Kitazato",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1133002",
-    "strContent": "AAAAAA==",
+    "strContent": "I'll do my best since you've picked me.",
     "option1": "AAAAAA==",
     "showName": "Kira Kitazato",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1133003",
-    "strContent": "AAAAAA==",
+    "strContent": "Understood. Leave it to me.",
     "option1": "AAAAAA==",
     "showName": "Kira Kitazato",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1133004",
-    "strContent": "AAAAAA==",
+    "strContent": "Of course, I intend to produce results.",
     "option1": "AAAAAA==",
     "showName": "Kira Kitazato",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1133005",
-    "strContent": "There's no use trying\nto stop you... Let's just\nget this over with.",
+    "strContent": "Heheh, I'll go wherever you need.",
     "option1": "AAAAAA==",
     "showName": "Kira Kitazato",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1133006",
-    "strContent": "AAAAAA==",
+    "strContent": "Let the experiment begin.",
     "option1": "AAAAAA==",
     "showName": "Kira Kitazato",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1133007",
-    "strContent": "AAAAAA==",
+    "strContent": "I expect good results.",
     "option1": "AAAAAA==",
     "showName": "Kira Kitazato",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1133008",
-    "strContent": "AAAAAA==",
+    "strContent": "Time to head off.",
     "option1": "AAAAAA==",
     "showName": "Kira Kitazato",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1133009",
-    "strContent": "AAAAAA==",
+    "strContent": "Counting on you to keep watch.",
     "option1": "AAAAAA==",
     "showName": "Kira Kitazato",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1133010",
-    "strContent": "AAAAAA==",
+    "strContent": "I'll be back.",
     "option1": "AAAAAA==",
     "showName": "Kira Kitazato",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1133011",
-    "strContent": "AAAAAA==",
+    "strContent": "This is also part of the experiment.",
     "option1": "AAAAAA==",
     "showName": "Kira Kitazato",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1133012",
-    "strContent": "AAAAAA==",
+    "strContent": "Task complete.",
     "option1": "AAAAAA==",
     "showName": "Kira Kitazato",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1133013",
-    "strContent": "AAAAAA==",
+    "strContent": "Stop where we're at? Understood.",
     "option1": "AAAAAA==",
     "showName": "Kira Kitazato",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1133014",
-    "strContent": "AAAAAA==",
+    "strContent": "Did some kind of problem occur?",
     "option1": "AAAAAA==",
     "showName": "Kira Kitazato",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1133015",
-    "strContent": "AAAAAA==",
+    "strContent": "Head back...? Are you joking?",
     "option1": "AAAAAA==",
     "showName": "Kira Kitazato",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1133016",
-    "strContent": "AAAAAA==",
+    "strContent": "Hahahaha! All done here!",
     "option1": "AAAAAA==",
     "showName": "Kira Kitazato",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1133017",
-    "strContent": "AAAAAA==",
+    "strContent": "Experiment complete. Time to check the results.",
     "option1": "AAAAAA==",
     "showName": "Kira Kitazato",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1133018",
-    "strContent": "AAAAAA==",
+    "strContent": "All according to plan.",
     "option1": "AAAAAA==",
     "showName": "Kira Kitazato",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1133019",
-    "strContent": "AAAAAA==",
+    "strContent": "Completed without any issues.",
     "option1": "AAAAAA==",
     "showName": "Kira Kitazato",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1133020",
-    "strContent": "AAAAAA==",
+    "strContent": "I'd say that was a success.",
     "option1": "AAAAAA==",
     "showName": "Kira Kitazato",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1133101",
-    "strContent": "AAAAAA==",
+    "strContent": "Ready to go when you are.",
     "option1": "AAAAAA==",
     "showName": "Masaki Ashiya",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1133102",
-    "strContent": "AAAAAA==",
+    "strContent": "All right! You selected me, so I'll do my best!",
     "option1": "AAAAAA==",
     "showName": "Masaki Ashiya",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1133103",
-    "strContent": "AAAAAA==",
+    "strContent": "I won't let you down!",
     "option1": "AAAAAA==",
     "showName": "Masaki Ashiya",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1133104",
-    "strContent": "AAAAAA==",
+    "strContent": "I hope my strenghts will be of use!",
     "option1": "AAAAAA==",
     "showName": "Masaki Ashiya",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1133301",
-    "strContent": "Leave it to me.",
+    "strContent": "I got this!",
     "option1": "AAAAAA==",
     "showName": "5★ Kotone",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1133302",
-    "strContent": "AAAAAA==",
+    "strContent": "All set!",
     "option1": "AAAAAA==",
     "showName": "5★ Kotone",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1133303",
-    "strContent": "AAAAAA==",
+    "strContent": "I'll give it my best shot!",
     "option1": "AAAAAA==",
     "showName": "5★ Kotone",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1133304",
-    "strContent": "My turn.",
+    "strContent": "Is it my turn?",
     "option1": "AAAAAA==",
     "showName": "5★ Kotone",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1133305",
-    "strContent": "AAAAAA==",
+    "strContent": "I'll show you I can meet your expectations.",
     "option1": "AAAAAA==",
     "showName": "5★ Kotone",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1133306",
-    "strContent": "AAAAAA==",
+    "strContent": "Shall we begin?",
     "option1": "AAAAAA==",
     "showName": "5★ Kotone",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1133307",
-    "strContent": "AAAAAA==",
+    "strContent": "I'm ready to go.",
     "option1": "AAAAAA==",
     "showName": "5★ Kotone",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1133308",
-    "strContent": "AAAAAA==",
+    "strContent": "I'll show you I can meet your expectations.",
     "option1": "AAAAAA==",
     "showName": "5★ Kotone",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1133309",
-    "strContent": "AAAAAA==",
+    "strContent": "I'm itching to get moving.",
     "option1": "AAAAAA==",
     "showName": "5★ Kotone",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1133310",
-    "strContent": "AAAAAA==",
+    "strContent": "All right, let's be off!",
     "option1": "AAAAAA==",
     "showName": "5★ Kotone",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1133311",
-    "strContent": "What!?",
+    "strContent": "Heheh, I could've kept going for a while yet.",
     "option1": "AAAAAA==",
     "showName": "5★ Kotone",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1133312",
-    "strContent": "AAAAAA==",
+    "strContent": "Good work out there! Don't forget to stretch.",
     "option1": "AAAAAA==",
     "showName": "5★ Kotone",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1133313",
-    "strContent": "AAAAAA==",
+    "strContent": "Let's call it a day before we're totally wiped.",
     "option1": "AAAAAA==",
     "showName": "5★ Kotone",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1133314",
-    "strContent": "AAAAAA==",
+    "strContent": "Whew, good decision. Thank you.",
     "option1": "AAAAAA==",
     "showName": "5★ Kotone",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1133315",
-    "strContent": "AAAAAA==",
+    "strContent": "I was just thinking it was about time.",
     "option1": "AAAAAA==",
     "showName": "5★ Kotone",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1133316",
-    "strContent": "Merci!",
+    "strContent": "Merci.",
     "option1": "AAAAAA==",
     "showName": "5★ Kotone",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1133317",
-    "strContent": "Not a bad start.",
+    "strContent": "How did we do? I have a feeling things went well.",
     "option1": "AAAAAA==",
     "showName": "5★ Kotone",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1133318",
-    "strContent": "AAAAAA==",
+    "strContent": "Task complete.",
     "option1": "AAAAAA==",
     "showName": "5★ Kotone",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1133319",
-    "strContent": "AAAAAA==",
+    "strContent": "Heheh, looks like we got some pretty useful loot.",
     "option1": "AAAAAA==",
     "showName": "5★ Kotone",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1133320",
-    "strContent": "AAAAAA==",
+    "strContent": "Here are the results.",
     "option1": "AAAAAA==",
     "showName": "5★ Kotone",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1133105",
-    "strContent": "AAAAAA==",
+    "strContent": "You can count on me.",
     "option1": "AAAAAA==",
     "showName": "Masaki Ashiya",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1133106",
-    "strContent": "AAAAAA==",
+    "strContent": "I wonder if there will be any blooming flowers. Probably not...",
     "option1": "AAAAAA==",
     "showName": "Masaki Ashiya",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1133107",
-    "strContent": "AAAAAA==",
+    "strContent": "Okay, here we go.",
     "option1": "AAAAAA==",
     "showName": "Masaki Ashiya",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1133108",
-    "strContent": "AAAAAA==",
+    "strContent": "All right. Be back soon.",
     "option1": "AAAAAA==",
     "showName": "Masaki Ashiya",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1133109",
-    "strContent": "I got this!",
+    "strContent": "I'm kind of nervous.",
     "option1": "AAAAAA==",
     "showName": "Masaki Ashiya",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1133110",
-    "strContent": "AAAAAA==",
+    "strContent": "Just you wait.",
     "option1": "AAAAAA==",
     "showName": "Masaki Ashiya",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1133111",
-    "strContent": "I believe in you.",
+    "strContent": "Whew, I guess this means we're done for now?",
     "option1": "AAAAAA==",
     "showName": "Masaki Ashiya",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1133112",
-    "strContent": "AAAAAA==",
+    "strContent": "Thanks, I was getting a bit tired.",
     "option1": "AAAAAA==",
     "showName": "Masaki Ashiya",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1133113",
-    "strContent": "AAAAAA==",
+    "strContent": "Got it. We'll head back now then.",
     "option1": "AAAAAA==",
     "showName": "Masaki Ashiya",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1133114",
-    "strContent": "AAAAAA==",
+    "strContent": "Okay, we'll stop here.",
     "option1": "AAAAAA==",
     "showName": "Masaki Ashiya",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1133115",
-    "strContent": "AAAAAA==",
+    "strContent": "Is this what they'd call a tactical retreat?",
     "option1": "AAAAAA==",
     "showName": "Masaki Ashiya",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1133116",
-    "strContent": "AAAAAA==",
+    "strContent": "Back now! Hope I didn't keep you waiting too long.",
     "option1": "AAAAAA==",
     "showName": "Masaki Ashiya",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1133117",
-    "strContent": "AAAAAA==",
+    "strContent": "Looks like we managed all right then.",
     "option1": "AAAAAA==",
     "showName": "Masaki Ashiya",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1133118",
-    "strContent": "AAAAAA==",
+    "strContent": "That was a fun task. I kinda wanna go again.",
     "option1": "AAAAAA==",
     "showName": "Masaki Ashiya",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1133119",
-    "strContent": "AAAAAA==",
+    "strContent": "Thanks! I'll rest up a bunch today then.",
     "option1": "AAAAAA==",
     "showName": "Masaki Ashiya",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1133120",
-    "strContent": "AAAAAA==",
+    "strContent": "It's fun getting sent on these tasks.",
     "option1": "AAAAAA==",
     "showName": "Masaki Ashiya",
     "option2": "AAAAAA=="
@@ -32320,42 +32334,42 @@
   },
   {
     "sn": "1133202",
-    "strContent": "AAAAAA==",
+    "strContent": "Beauty Thief stepping in!",
     "option1": "AAAAAA==",
     "showName": "Haru Okumura",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1133203",
-    "strContent": "AAAAAA==",
+    "strContent": "Okay, I'm ready to go anytime!",
     "option1": "AAAAAA==",
     "showName": "Haru Okumura",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1133204",
-    "strContent": "AAAAAA==",
+    "strContent": "Noir out!",
     "option1": "AAAAAA==",
     "showName": "Haru Okumura",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1133205",
-    "strContent": "AAAAAA==",
+    "strContent": "I'll give this task my best shot!",
     "option1": "AAAAAA==",
     "showName": "Haru Okumura",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1133206",
-    "strContent": "AAAAAA==",
+    "strContent": "We'll try our hardest!",
     "option1": "AAAAAA==",
     "showName": "Haru Okumura",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1133207",
-    "strContent": "AAAAAA==",
+    "strContent": "Everyone, let's try really hard, okay?",
     "option1": "AAAAAA==",
     "showName": "Haru Okumura",
     "option2": "AAAAAA=="
@@ -32369,49 +32383,49 @@
   },
   {
     "sn": "1133209",
-    "strContent": "AAAAAA==",
+    "strContent": "If there's anything I can do to help, just let me know!",
     "option1": "AAAAAA==",
     "showName": "Haru Okumura",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1133210",
-    "strContent": "AAAAAA==",
+    "strContent": "Let's do our best together!",
     "option1": "AAAAAA==",
     "showName": "Haru Okumura",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1133211",
-    "strContent": "Everyone seems tired... How about some tea?",
+    "strContent": "If you think this time was good, wait till you see me next time!",
     "option1": "AAAAAA==",
     "showName": "Haru Okumura",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1133212",
-    "strContent": "I-I'm a bit tired...",
+    "strContent": "Oh, really...? That's unfortunate, but I understand.",
     "option1": "AAAAAA==",
     "showName": "Haru Okumura",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1133213",
-    "strContent": "Oh my! Wonderful!",
+    "strContent": "I guess I won't really have time to bring you something back.",
     "option1": "AAAAAA==",
     "showName": "Haru Okumura",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1133214",
-    "strContent": "Maybe we still have a ways to go...",
+    "strContent": "Understood. Still, good work, everyone.",
     "option1": "AAAAAA==",
     "showName": "Haru Okumura",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1133215",
-    "strContent": "I'm sorry...",
+    "strContent": "It feels a bit early, but we can call it quits for now.",
     "option1": "AAAAAA==",
     "showName": "Haru Okumura",
     "option2": "AAAAAA=="
@@ -32446,7 +32460,7 @@
   },
   {
     "sn": "1133220",
-    "strContent": "Well then, good day.",
+    "strContent": "I must get stronger... Mwahaha!",
     "option1": "AAAAAA==",
     "showName": "Haru Okumura",
     "option2": "AAAAAA=="
@@ -32508,6 +32522,13 @@
     "option2": "AAAAAA=="
   },
   {
+    "sn": "1212013",
+    "strContent": "Progress in the mission Beach! Metaverse!",
+    "option1": "AAAAAA==",
+    "showName": "AAAAAA==",
+    "option2": "AAAAAA=="
+  },
+  {
     "sn": "1016004",
     "strContent": "AAAAAA==",
     "option1": "AAAAAA==",
@@ -32526,13 +32547,6 @@
     "strContent": "AAAAAA==",
     "option1": "AAAAAA==",
     "showName": "Yumi Shiina",
-    "option2": "AAAAAA=="
-  },
-  {
-    "sn": "1132607",
-    "strContent": "AAAAAA==",
-    "option1": "AAAAAA==",
-    "showName": "Ann Takamaki",
     "option2": "AAAAAA=="
   }
 ]

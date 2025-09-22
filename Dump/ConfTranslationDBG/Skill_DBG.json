@@ -5492,8 +5492,8 @@
   {
     "sn": "103240",
     "name": "*[Skill_name_103240]*",
-    "desc": "*[Skill_desc_103240]*",
-    "descSimple": "*[Skill_descSimple_103240]*",
+    "desc": "*[skill_desc_103240]*|*[skill_desc_103240]*",
+    "descSimple": "*[skill_descsimple_103240]*|*[skill_descsimple_103240]*",
     "levelUpList": "AAAAAA==",
     "levelUpValue": "AAAAAA==",
     "contentBG": "AAAAAA==",
@@ -5502,7 +5502,7 @@
   {
     "sn": "103241",
     "name": "*[Skill_name_103241]*",
-    "desc": "<link=\"s|*[skill_desc_103241]*",
+    "desc": "<link=\"s|*[skill_desc_103241]*|*[skill_desc_103241]*",
     "descSimple": "AAAAAA==",
     "levelUpList": "AAAAAA==",
     "levelUpValue": "AAAAAA==",
@@ -5552,7 +5552,7 @@
   {
     "sn": "103246",
     "name": "*[Skill_name_103246]*",
-    "desc": "<link=\"s|*[skill_desc_103246]*",
+    "desc": "*[skill_desc_103246]*|*[skill_desc_103246]*",
     "descSimple": "AAAAAA==",
     "levelUpList": "AAAAAA==",
     "levelUpValue": "AAAAAA==",
