@@ -347,27 +347,27 @@
   {
     "sn": "201",
     "name": "Make Ready!",
-    "desc": "Party's ranged attack damage is increased by 10%."
+    "desc": "When party uses ranged attacks, damage increases by 10%."
   },
   {
     "sn": "202",
     "name": "Load!",
-    "desc": "When any ally runs out of ammo, fully reload after 2 turns."
+    "desc": "When party runs out of ammo, fully reload after 2 turns."
   },
   {
     "sn": "203",
     "name": "Aim!",
-    "desc": "When party makes ranged attacks, Gun damage increases by 10%."
+    "desc": "When party uses ranged attacks, Gun damage increases by 10%."
   },
   {
     "sn": "204",
     "name": "Fire at Will!",
-    "desc": "When party makes ranged attacks, Gun damage increases by an additional 10%."
+    "desc": "When party uses ranged attacks, Gun damage increases by an additional 10%."
   },
   {
     "sn": "205",
     "name": "Light 'em up!",
-    "desc": "When any ally runs out of ammo, fully reload after 1 turn."
+    "desc": "When party runs out of ammo, fully reload after 1 turn."
   },
   {
     "sn": "301",
@@ -1377,7 +1377,7 @@
   {
     "sn": "1010",
     "name": "Special Effect",
-    "desc": "When dealing damage with Resonance, healing allies with Resonance, or when health is used to activate a skill, all allies gain 1 Mental Link stack.\nMental Link: Attack increases by 10% for each stack. Lasts for 2 turns. Stacks up to 8 times."
+    "desc": "When healing an ally with a Resonance, grant all allies 2 Mental Link stacks. When receiving a max HP up effect, grant the target 4 Mental Link stacks.\nMental Link: Increase Attack by 10% for each stack. This effect lasts for 2 turns and can stack up to 8 times."
   },
   {
     "sn": "1011",
@@ -1447,7 +1447,7 @@
   {
     "sn": "2007",
     "name": "Special Effect",
-    "desc": "Whenever an ally takes damage, that ally's damage increases by 1%. Lasts for 3 turns. Stacks up to 80 times."
+    "desc": "Whenever an ally deals damage, that ally's damage is increased by 1%. Lasts for 3 turns. Stacks up to 80 times."
   },
   {
     "sn": "2008",
@@ -1467,7 +1467,7 @@
   {
     "sn": "2011",
     "name": "Special Effect",
-    "desc": "Whenever an ally takes damage, that ally's damage is increased by 4%. Lasts for 3 turns. Stacks up to 10 times."
+    "desc": "Whenever an ally deals damage, that ally's damage is increased by 4%. Lasts for 3 turns. Stacks up to 10 times."
   },
   {
     "sn": "2012",

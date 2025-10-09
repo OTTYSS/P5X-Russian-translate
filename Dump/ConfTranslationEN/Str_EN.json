@@ -3571,14 +3571,14 @@
   },
   {
     "sn": "13350",
-    "strContent": "AAAAAA==",
+    "strContent": "Persona does not meet requirements for this Skill Card.",
     "option1": "AAAAAA==",
     "showName": "AAAAAA==",
     "option2": "AAAAAA=="
   },
   {
     "sn": "13351",
-    "strContent": "AAAAAA==",
+    "strContent": "This training will use a high-value Skill Card. Do you still want to use it?",
     "option1": "Confirm",
     "showName": "L<#000000,u,#FFFFFF>fel",
     "option2": "Never mind."
@@ -3697,7 +3697,7 @@
   },
   {
     "sn": "13606",
-    "strContent": "It seems this area will be unlocked at\n%s Ticket Lv. %d. We should\nsubmit more tickets in the Fare Machine.",
+    "strContent": "It seems this area will be unlocked at %s Ticket Lv. %d. We should\nsubmit more tickets in the Fare Machine.",
     "option1": "AAAAAA==",
     "showName": "L<#000000,u,#FFFFFF>fel",
     "option2": "AAAAAA=="
@@ -5454,7 +5454,7 @@
   },
   {
     "sn": "1000429",
-    "strContent": "Weapons forged from crystals can't be scrapped.",
+    "strContent": "Event-exclusive weapons can't be scrapped.",
     "option1": "AAAAAA==",
     "showName": "AAAAAA==",
     "option2": "AAAAAA=="
@@ -7507,7 +7507,7 @@
     "sn": "1010839",
     "strContent": "Entry to the %s costs <color=#FF423F>%d</color> yen. Do you want to buy a ticket?",
     "option1": "Buy",
-    "showName": "P<#000000,o,#FFFFFF>nd Attendant",
+    "showName": "F<#000000,i,#FFFFFF>shing Pond Attendant",
     "option2": "Quit"
   },
   {
@@ -7547,9 +7547,9 @@
   },
   {
     "sn": "1010845",
-    "strContent": "Entry to the fishing pond %s costs <color=#FF423F>%d</color> yen. Do you want to buy a ticket?",
+    "strContent": "Entry to the %s costs <color=#FF423F>%d</color> yen. Do you want to buy a ticket?",
     "option1": "Buy",
-    "showName": "P<#000000,o,#FFFFFF>nd Attendant",
+    "showName": "F<#000000,i,#FFFFFF>shing Pond Attendant",
     "option2": "Quit"
   },
   {
@@ -10021,7 +10021,7 @@
     "strContent": "Would you like to spend time with Haruna?",
     "option1": "Spend time with Haruna",
     "showName": "L<#000000,u,#FFFFFF>fel",
-    "option2": "Maybe next time"
+    "option2": "Not right now."
   },
   {
     "sn": "1019101",
@@ -10496,7 +10496,7 @@
     "sn": "1019214",
     "strContent": "I should spend time\nwith Kira today...",
     "option1": "OK.",
-    "showName": "AAAAAA==",
+    "showName": "L<#000000,u,#FFFFFF>fel",
     "option2": "I don't have time today."
   },
   {
@@ -11124,7 +11124,7 @@
   },
   {
     "sn": "1023037",
-    "strContent": "Kira Kitazato's Synergy mission Special Treatment has been unlocked.",
+    "strContent": "Kira Kitazato's Synergy mission Peculiar Player has been unlocked.",
     "option1": "AAAAAA==",
     "showName": "L<#000000,u,#FFFFFF>fel",
     "option2": "AAAAAA=="
@@ -11557,6 +11557,34 @@
     "option2": "AAAAAA=="
   },
   {
+    "sn": "1024029",
+    "strContent": "Kira Kitazato's Synergy mission is currently locked. Do you want to unlock it now? (Unlocking it early may impact your experience of the story.)",
+    "option1": "Confirm",
+    "showName": "L<#000000,u,#FFFFFF>fel",
+    "option2": "Not now"
+  },
+  {
+    "sn": "1024030",
+    "strContent": "Kira Kitazato's Synergy mission has been unlocked.",
+    "option1": "AAAAAA==",
+    "showName": "AAAAAA==",
+    "option2": "AAAAAA=="
+  },
+  {
+    "sn": "1024031",
+    "strContent": "Masaki Ashiya's Synergy mission is currently locked. Do you want to unlock it now? (Unlocking it early may impact your experience of the story, so please choose carefully.)",
+    "option1": "Confirm",
+    "showName": "L<#000000,u,#FFFFFF>fel",
+    "option2": "Not now"
+  },
+  {
+    "sn": "1024032",
+    "strContent": "Masaki Ashiya's Synergy mission has been unlocked.",
+    "option1": "AAAAAA==",
+    "showName": "AAAAAA==",
+    "option2": "AAAAAA=="
+  },
+  {
     "sn": "1025224",
     "strContent": "We're bound to get a high score for sure.",
     "option1": "AAAAAA==",
@@ -11677,7 +11705,7 @@
   },
   {
     "sn": "1036024",
-    "strContent": "You don't have enough <color=#FFDE00>{0}</color> to reset this.",
+    "strContent": "You don't have a <color=#FFDE00>{0}</color> to reset this.",
     "option1": "AAAAAA==",
     "showName": "AAAAAA==",
     "option2": "AAAAAA=="
@@ -12279,14 +12307,14 @@
   },
   {
     "sn": "1036106",
-    "strContent": "Do you want to become close friends with <color=#FFFC40>Yumi Shiina</color>?\n*This choice will affect story progression and City Life activities.",
+    "strContent": "Would you like to become close friends with <color=#FFFC40>Yumi Shiina</color>?\n*Your choice will affect some aspects of the story and City Life.",
     "option1": "Confirm",
     "showName": "AAAAAA==",
     "option2": "Never mind."
   },
   {
     "sn": "1036107",
-    "strContent": "Do you want to become soulmates with <color=#FFFC40>Yumi Shiina</color>?\n*This choice will affect story progression and City Life activities.",
+    "strContent": "Would you like to become soulmates with <color=#FFFC40>Yumi Shiina</color>?\n*Your choice will affect some aspects of the story and City Life.",
     "option1": "Confirm",
     "showName": "AAAAAA==",
     "option2": "Never mind."
@@ -14372,14 +14400,14 @@
   },
   {
     "sn": "1052083",
-    "strContent": "Are you finished making shaved ice?\nThe current sale will be saved as the highest sale.",
+    "strContent": "Are you finished making shaved ice?\nThe current sale score will be saved if it is the highest score.",
     "option1": "Confirm",
     "showName": "L<#000000,u,#FFFFFF>fel",
     "option2": "Never mind."
   },
   {
     "sn": "1052084",
-    "strContent": "Do you want to restart the current stage?\nThe current sales will be reset.",
+    "strContent": "Do you want to restart the current stage?\nThe current score will be reset.",
     "option1": "Confirm",
     "showName": "L<#000000,u,#FFFFFF>fel",
     "option2": "Never mind."
@@ -14638,28 +14666,28 @@
   },
   {
     "sn": "1052046",
-    "strContent": "Unlock after clearing the side mission <color=#FFD145>Foreign Exchange</color>.\n<color=#FF423F><size=24> *If this mission is not available, please continue the main story.</size></color>",
+    "strContent": "Unlocks after clearing the side mission <color=#FFD145>Foreign Exchange</color>.\n<color=#FF423F><size=24>*If this mission is not available, please continue the main story.</size></color>",
     "option1": "AAAAAA==",
     "showName": "AAAAAA==",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1052047",
-    "strContent": "Unlock after clearing the side mission <color=#FFD145>The Will to Start Again</color>.\n<color=#FF423F><size=24> *If this mission is not available, please continue the main story.</size></color>",
+    "strContent": "Unlocks after clearing the side mission <color=#FFD145>The Day the Pearl Flies</color>.\n<color=#FF423F><size=24>*If this mission is not available, please continue the main story.</size></color>",
     "option1": "AAAAAA==",
     "showName": "AAAAAA==",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1052048",
-    "strContent": "Unlock after clearing the side mission <color=#FFD145>New Possibilities</color>.\n<color=#FF423F><size=24> *If this mission is not available, please continue the main story.</size></color>",
+    "strContent": "Unlocks after clearing the side mission <color=#FFD145>Part-Time Dreamer</color>.\n<color=#FF423F><size=24>*If this mission is not available, please continue the main story.</size></color>",
     "option1": "AAAAAA==",
     "showName": "AAAAAA==",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1052049",
-    "strContent": "Unlock after clearing the side mission <color=#FFD145>A Housewife's Worries</color>.\n<color=#FF423F><size=24> *If this mission is not available, please continue the main story.</size></color>",
+    "strContent": "Unlocks after clearing the side mission <color=#FFD145>Generations Apart</color>.\n<color=#FF423F><size=24>*If this mission is not available, please continue the main story.</size></color>",
     "option1": "AAAAAA==",
     "showName": "AAAAAA==",
     "option2": "AAAAAA=="
@@ -15778,6 +15806,13 @@
     "option2": "AAAAAA=="
   },
   {
+    "sn": "1052100",
+    "strContent": "There aren't many people at the beach now.\nIt's getting late, so do you want to rest until <color=#FF423F>tomorrow</color>?",
+    "option1": "Confirm",
+    "showName": "Lu<#000000,f,#FFFFFF>el",
+    "option2": "Never mind."
+  },
+  {
     "sn": "1057017",
     "strContent": "Mmm...\nHey, how about we take a little break?",
     "option1": "AAAAAA==",
@@ -15828,7 +15863,7 @@
   },
   {
     "sn": "1057107",
-    "strContent": "Huh, it's not opening?",
+    "strContent": "Huh? It's not opening?",
     "option1": "AAAAAA==",
     "showName": "Motoha Arai",
     "option2": "AAAAAA=="
@@ -15870,7 +15905,7 @@
   },
   {
     "sn": "1057113",
-    "strContent": "Looks like there's no other entrance...",
+    "strContent": "Must be another way in...",
     "option1": "AAAAAA==",
     "showName": "Motoha Arai",
     "option2": "AAAAAA=="
@@ -18663,7 +18698,7 @@
   },
   {
     "sn": "1076103",
-    "strContent": "We're here!",
+    "strContent": "We made it!",
     "option1": "AAAAAA==",
     "showName": "Tomoko Noge",
     "option2": "AAAAAA=="
@@ -18684,14 +18719,14 @@
   },
   {
     "sn": "1076106",
-    "strContent": "Enemy spotted. We should probably be careful.",
+    "strContent": "Enemy spotted. Let's be careful, okay?",
     "option1": "AAAAAA==",
     "showName": "Tomoko Noge",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1076107",
-    "strContent": "Is it locked?",
+    "strContent": "Maybe it's locked?",
     "option1": "AAAAAA==",
     "showName": "Tomoko Noge",
     "option2": "AAAAAA=="
@@ -18726,21 +18761,21 @@
   },
   {
     "sn": "1076112",
-    "strContent": "Whoa, we're already here!",
+    "strContent": "Whoa, we made it already!",
     "option1": "AAAAAA==",
     "showName": "Tomoko Noge",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1076113",
-    "strContent": "Hmmm, it won't open.",
+    "strContent": "Hmm, it won't open...",
     "option1": "AAAAAA==",
     "showName": "Tomoko Noge",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1076114",
-    "strContent": "What is it? Something good?",
+    "strContent": "What is it? What is it?",
     "option1": "AAAAAA==",
     "showName": "Tomoko Noge",
     "option2": "AAAAAA=="
@@ -18754,14 +18789,14 @@
   },
   {
     "sn": "1076116",
-    "strContent": "A Shadow... And it looks strong. We should proceed with caution.",
+    "strContent": "This enemy looks... strong. We should proceed with caution.",
     "option1": "AAAAAA==",
     "showName": "Tomoko Noge",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1076117",
-    "strContent": "I'm getting a bit thirsty.\nLet's go grab a drink!",
+    "strContent": "I think I'm getting a bit parched.\nWe should grab a drink!",
     "option1": "AAAAAA==",
     "showName": "Tomoko Noge",
     "option2": "AAAAAA=="
@@ -20715,7 +20750,7 @@
   {
     "sn": "1073013",
     "strContent": "Do you want to restore default controls? (This will reset all control settings.)",
-    "option1": "Confirm",
+    "option1": "OK",
     "showName": "Enter",
     "option2": "Never mind."
   },
@@ -25544,7 +25579,7 @@
   },
   {
     "sn": "1209424",
-    "strContent": "Do you want to remove {1} and set up {0}?",
+    "strContent": "Do you want to remove {1} and invite {0}?",
     "option1": "Confirm",
     "showName": "L<#000000,u,#FFFFFF>fel",
     "option2": "Never mind."
@@ -26349,7 +26384,7 @@
   },
   {
     "sn": "1206051",
-    "strContent": "Haruna Nishimori's episode will be added to City Life in a future update.",
+    "strContent": "City Life: <color=#ffc000>Explore with Haruna</color> has been unlocked.It occurs with a certain probability every day.",
     "option1": "AAAAAA==",
     "showName": "AAAAAA==",
     "option2": "AAAAAA=="
@@ -28631,7 +28666,7 @@
   },
   {
     "sn": "1130718",
-    "strContent": "I can't wait for my next shift!",
+    "strContent": "I can't wait\nfor my next shift!",
     "option1": "AAAAAA==",
     "showName": "Seaside Tomoko",
     "option2": "AAAAAA=="
@@ -29002,7 +29037,7 @@
   },
   {
     "sn": "1131011",
-    "strContent": "Let's stop to recharge.\nThen we'll continue our\nfight against evil.",
+    "strContent": "Let's stop to recharge.\nThen we'll continue our fight against evil.",
     "option1": "AAAAAA==",
     "showName": "Leo Kamiyama",
     "option2": "AAAAAA=="
@@ -29387,14 +29422,14 @@
   },
   {
     "sn": "1131301",
-    "strContent": "Good choice... Or perhaps it was inevitable for the chosen one...",
+    "strContent": "Good choice... Or perhaps it was\ninevitable for the chosen one...",
     "option1": "AAAAAA==",
     "showName": "Kiyoshi Kurotani",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1131302",
-    "strContent": "I knew you'd pick me... I could sense it.",
+    "strContent": "I knew you'd pick me...\nI could sense it.",
     "option1": "AAAAAA==",
     "showName": "Kiyoshi Kurotani",
     "option2": "AAAAAA=="
@@ -29478,7 +29513,7 @@
   },
   {
     "sn": "1131314",
-    "strContent": "O-Oh... I predicted this outcome...!",
+    "strContent": "O-Oh... I predicted \nthis outcome...!",
     "option1": "AAAAAA==",
     "showName": "Kiyoshi Kurotani",
     "option2": "AAAAAA=="
@@ -29506,21 +29541,21 @@
   },
   {
     "sn": "1131318",
-    "strContent": "Well, I... haven't even gotten started yet.",
+    "strContent": "Well, I... haven't even\ngotten started yet.",
     "option1": "AAAAAA==",
     "showName": "Kiyoshi Kurotani",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1131319",
-    "strContent": "Mission complete. You can count on me for the next one...",
+    "strContent": "Mission complete. You can count\non me for the next one...",
     "option1": "AAAAAA==",
     "showName": "Kiyoshi Kurotani",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1131320",
-    "strContent": "Well then... I shall prepare myself for next time.",
+    "strContent": "Well then... I shall prepare\nmyself for next time.",
     "option1": "AAAAAA==",
     "showName": "Kiyoshi Kurotani",
     "option2": "AAAAAA=="
@@ -29653,14 +29688,14 @@
   },
   {
     "sn": "1131419",
-    "strContent": "Aren't you gonna praise me for my hard work? Heh, just kidding.",
+    "strContent": "Aren't you gonna praise me\nfor my hard work? Heh, just kidding.",
     "option1": "AAAAAA==",
     "showName": "Toshiya Sumi",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1131420",
-    "strContent": "Okay, guess I can just take it easy for a bit.",
+    "strContent": "Okay, guess I can just\ntake it easy for a bit.",
     "option1": "AAAAAA==",
     "showName": "Toshiya Sumi",
     "option2": "AAAAAA=="
@@ -29877,7 +29912,7 @@
   },
   {
     "sn": "1131611",
-    "strContent": "Time for Bui to take a Yui-Turn!",
+    "strContent": "Time for Bui to take a Yui-turn!",
     "option1": "AAAAAA==",
     "showName": "Yui",
     "option2": "AAAAAA=="
@@ -30563,7 +30598,7 @@
   },
   {
     "sn": "1132107",
-    "strContent": "Just you wait, Big bro. It's\ngonna be great!",
+    "strContent": "Just you wait, Big Bro. It's\ngonna be great!",
     "option1": "AAAAAA==",
     "showName": "Miyu Sahara",
     "option2": "AAAAAA=="
@@ -30591,7 +30626,7 @@
   },
   {
     "sn": "1132111",
-    "strContent": "Sorry I couldn't be of any\nhelp, Big bro...",
+    "strContent": "Sorry I couldn't be of any\nhelp, Big Bro...",
     "option1": "AAAAAA==",
     "showName": "Miyu Sahara",
     "option2": "AAAAAA=="
@@ -30654,7 +30689,7 @@
   },
   {
     "sn": "1132120",
-    "strContent": "I'm so happy Big bro relies\non me. Hehe!",
+    "strContent": "I'm so happy Big Bro relies\non me. Hehe!",
     "option1": "AAAAAA==",
     "showName": "Miyu Sahara",
     "option2": "AAAAAA=="
@@ -31431,7 +31466,7 @@
   },
   {
     "sn": "1132709",
-    "strContent": "Time for work. First steps are important, so stay focused.",
+    "strContent": "Time for work. First steps are\nimportant, so stay focused.",
     "option1": "AAAAAA==",
     "showName": "Yusuke Kitagawa",
     "option2": "AAAAAA=="
@@ -31606,7 +31641,7 @@
   },
   {
     "sn": "1132814",
-    "strContent": "Pause? Okay.",
+    "strContent": "Time out? Okay.",
     "option1": "AAAAAA==",
     "showName": "Makoto Niijima",
     "option2": "AAAAAA=="
@@ -32068,7 +32103,7 @@
   },
   {
     "sn": "1133104",
-    "strContent": "I hope my strenghts will be of use!",
+    "strContent": "I hope my strengths will be of use!",
     "option1": "AAAAAA==",
     "showName": "Masaki Ashiya",
     "option2": "AAAAAA=="
@@ -32470,7 +32505,7 @@
     "strContent": "You will <color=#FF423F>lose</color> your progress for <color=#FF423F>all Monitoring Points</color>, and all of your used <color=#ffc000>Spiritual Endurance</color> and <color=#ffc000>Attempts</color> will be <color=#ffc000>returned</color>. Once you have <color=#FF423F>reclaimed</color> all Monitoring Points, you will be able to resume the challenge. Proceed?",
     "option1": "Confirm",
     "showName": "L<#000000,u,#FFFFFF>fel",
-    "option2": "Never mind."
+    "option2": "Cancel"
   },
   {
     "sn": "1301010",

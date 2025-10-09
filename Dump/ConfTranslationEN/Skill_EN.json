@@ -1702,8 +1702,8 @@
   {
     "sn": "116112",
     "name": "Bone-Chilling Cold",
-    "desc": "Deal Ice damage to foes equal to <color=#FFFC40>^%s^</color> of Yusuke's Defense (5 hits). When Yusuke has a shield, increase damage by 30%. From the second hit, prioritize new targets and decrease damage by 60% for each hit on the same target (max decrease to 20%).",
-    "descSimple": "Ice dmg to foes (%s Def, 5 hits). When Yusuke has shield, increase dmg 30%.\nRepeated hits on same foe deal 60% decreased dmg per hit (min 20% of Def).",
+    "desc": "Deal Ice damage to foes equal to <color=#FFFC40>^%s^</color> of Yusuke's Defense (5 hits). When Yusuke has a shield, increase damage by 30%. From the second hit, prioritize new targets and decrease damage by 60% for each hit on the same target (max decrease to 20% of Defense).",
+    "descSimple": "Ice dmg to foes (%s Def, 5 hits). When Yusuke has shield, increase dmg 30%.\nDecrease dmg by 60% for each hit on same foe (max decrease to 20% of Def).",
     "levelUpList": "Skill Multiplier",
     "levelUpValue": "AAAAAA==",
     "contentBG": "A razor-sharp cold slices through foes, dealing Ice damage.",
@@ -3373,7 +3373,7 @@
     "sn": "129111",
     "name": "Moonlit Scalpel/Midnight Surgery",
     "desc": "<link=\"s|198\"><u>Doctor</u></link> mode: Deal Physical damage to 1 foe equal to <color=#FFFC40>^%s^</color> of Attack (4 hits) and inflict 1 <link=\"s|196\"><u>Bleed</u></link> stack.  <link=\"s|199\"><u>Ripper</u></link> mode: Deal Physical damage to 1 foe equal to <color=#FFFC40>^%s^</color> of Attack, then remove 2 Bleed stacks from the target (can activate <link=\"s|197\"><u>Rending</u></link> effects).",
-    "descSimple": "Phys dmg to 1 foe (%s Atk, 4 hits). Inflict 1 Bleed.",
+    "descSimple": "tdxct-[Skill_descSimple_129111]",
     "levelUpList": "Doctor Multiplier,Ripper Multiplier",
     "levelUpValue": "AAAAAA==",
     "contentBG": "The razor flashes with peerless precision, dealing damage to the enemy.",
@@ -3383,7 +3383,7 @@
     "sn": "129112",
     "name": "Crimson Operation/Pathology",
     "desc": "<link=\"s|198\"><u>Doctor</u></link> mode: Deal Physical damage to 1 foe equal to <color=#FFFC40>^%s^</color> of Attack (2 hits). At the same time, activate <link=\"s|196\"><u>Bleed</u></link> damage and reset the turn duration of the target's Bleed stacks.\n<link=\"s|199\"><u>Ripper</u></link> mode: Deal Physical damage to 1 foe equal to <color=#FFFC40>^%s^</color> of Attack. For each Bleed stack on the target, increase the damage of this skill's <link=\"s|197\"><u>Rending</u></link> by 2%, then remove all Bleed stacks from the target (can activate Rending effects).",
-    "descSimple": "Phys dmg to 1 foe (%s Atk, 2 hits). Activate Bleed dmg 1 time and reset target's Bleed turn duration.",
+    "descSimple": "tdxct-[Skill_descSimple_129112]",
     "levelUpList": "Doctor Multiplier,Ripper Multiplier",
     "levelUpValue": "AAAAAA==",
     "contentBG": "A merciless slash swings down with mortal intent, dealing damage to the enemy.",
@@ -3393,7 +3393,7 @@
     "sn": "129113",
     "name": "Nightfall",
     "desc": "Change to <link=\"s|199\"><u>Ripper</u></link> mode, and change Kitazato's skills (can be activated when any foe has 7 or more <link=\"s|196\"><u>Bleed</u></link> stacks).\nWhen using skills in this mode, for every 3 <link=\"s|196\"><u>Bleed</u></link> stacks on a foe, inflict 1 <link=\"s|197\"><u>Deep Wounds</u></link> stack (Physical damage equal to <color=#FFFC40>^%s^</color> of Attack).\nAfter using this skill, Kitazato can use other skills and changes to <link=\"s|198\"><u>Doctor</u></link> mode at the end of the turn.",
-    "descSimple": "Change Kitazato to Ripper mode and change how other skills work (can be activated when any foe has 7+ Bleed). When using skills in this mode, inflict 1 more Rending for every 3 Bleed stacks on target. Rending: Deal Phys dmg (%s Atk).",
+    "descSimple": "Change Kitazato to Ripper mode and change other skills (can be activated when any foe has 7+ Bleed). When using skills in this mode, inflict 1 more Rending for every 3 Bleed on target. Rending: Deal Phys dmg (%s Atk).",
     "levelUpList": "Rending Multiplier",
     "levelUpValue": "AAAAAA==",
     "contentBG": "Two blades move as one, entering a more violent attacking stance.",
@@ -3433,7 +3433,7 @@
     "sn": "129117",
     "name": "Moonlit Scalpel",
     "desc": "tnxotb-[Skill_desc_129117]",
-    "descSimple": "tdxct-[Skill_descSimple_129117]",
+    "descSimple": "Phys dmg to 1 foe (%s Atk, 4 hits). Inflict 1 Bleed.",
     "levelUpList": "Doctor Multiplier",
     "levelUpValue": "AAAAAA==",
     "contentBG": "tnxotb-[Skill_contentBG_129117]",
@@ -3443,7 +3443,7 @@
     "sn": "129118",
     "name": "Crimson Operation",
     "desc": "tnxotb-[Skill_desc_129118]",
-    "descSimple": "tdxct-[Skill_descSimple_129118]",
+    "descSimple": "Phys dmg to 1 foe (%s Atk, 2 hits). Also activate Bleed dmg 1 time and reset target's Bleed turn duration.",
     "levelUpList": "Doctor Multiplier",
     "levelUpValue": "AAAAAA==",
     "contentBG": "tnxotb-[Skill_contentBG_129118]",
@@ -3452,7 +3452,7 @@
   {
     "sn": "129131",
     "name": "Hideous Mask",
-    "desc": "In Doctor mode, increase ailment accuracy by <color=#FFFC40>^%s^</color>.\nIn Ripper mode, increase pierce rate by <color=#FFFC40>^%s^</color>.",
+    "desc": "For every 30% of Kitazato's ailment accuracy, increase Physical damage from <link=\"s|196\"><u>Bleed</u></link> by 4% of Attack (up to <color=#FFFC40>^%s^</color> of ailment accuracy).",
     "descSimple": "AAAAAA==",
     "levelUpList": "Ailment Accuracy Increase",
     "levelUpValue": "AAAAAA==",
@@ -3462,7 +3462,7 @@
   {
     "sn": "129132",
     "name": "Drawn Blade",
-    "desc": "For every 30% of Kitazato's ailment accuracy, increase Physical damage from <link=\"s|196\"><u>Bleed</u></link> by 4% of Attack (up to <color=#FFFC40>^%s^</color> of ailment accuracy).",
+    "desc": "When in <link=\"s|198\"><u>Doctor</u></link> mode, increase ailment accuracy by <color=#FFFC40>^%s^</color>.\nWhen in <link=\"s|199\"><u>Ripper</u></link> mode, increase pierce rate by <color=#FFFC40>^%s^</color>.",
     "descSimple": "AAAAAA==",
     "levelUpList": "Ailment Accuracy Increase,Pierce Rate Increase",
     "levelUpValue": "AAAAAA==",
@@ -3592,8 +3592,8 @@
   {
     "sn": "103112",
     "name": "Wrathful Thunder",
-    "desc": "Deal Electric damage to foes equal to <color=#FFFC40>^%s^</color> of Attack (4 hits). From the second hit, prioritize new targets and decrease damage by 10% for hits on the same target.\nAttack on main target is guaranteed. Inflict <link=\"s|104\"><u>Shock</u></link> on the main target for 2 turns.",
-    "descSimple": "Elec dmg to foes (%s Atk, 4 hits).\nFrom second hit, prioritize targeting different foes and decrease dmg 10% for hits on same target.\nInflict Shock on main target.",
+    "desc": "Deal Electric damage to foes equal to <color=#FFFC40>^%s^</color> of Attack (4 hits). From the second hit, prioritize new targets and decrease damage to 10% for hits on the same target.\nAttack on main target is guaranteed. Inflict <link=\"s|104\"><u>Shock</u></link> on the main target for 2 turns.",
+    "descSimple": "Elec dmg to foes (%s Atk, 4 hits).\nFrom second hit, prioritize targeting different foes and decrease dmg to 10% for hits on same target.\nInflict Shock on main target.",
     "levelUpList": "Skill Multiplier",
     "levelUpValue": "AAAAAA==",
     "contentBG": "Furious thunderbolts crash down from the heavens, dealing Electric damage to enemies.",
@@ -3642,7 +3642,7 @@
   {
     "sn": "103141",
     "name": "Shocking Double Play",
-    "desc": "Wrathful Thunder deals 1 more hit. Repeated hits on same foe deal 15% decreased damage.",
+    "desc": "Wrathful Thunder deals 1 more hit. Decrease damage to 15% for hits on the same foe.",
     "descSimple": "AAAAAA==",
     "levelUpList": "AAAAAA==",
     "levelUpValue": "AAAAAA==",
@@ -4813,7 +4813,7 @@
     "sn": "131112",
     "name": "Enchanting Stir",
     "desc": "Increase 1 ally's damage by 1% for every 230 of Yumi's Attack (up to <color=#FFFC40>^%s^</color> of Attack) and their max HP by <color=#FFFC40>^%s^</color> for 2 turns. When the target deals damage to a foe, restore the target's HP by 2% of damage dealt for 1 turn.\nWhen activating a skill, spend 1 <link=\"s|184\"><u>Basic</u></link> or <link=\"s|183\"><u>Standard</u></link> <link=\"s|180\"><u>Cocktail</u></link> to gain 1 <link=\"s|182\"><u>Tailor-Made</u></link> Cocktail.\nCooldown Time: 4 ally actions.",
-    "descSimple": "Increase 1 ally's Atk 1% per 230 of Yumi's Atk, up to %s of Atk, and their max HP %s (2 turns).\nWhen target deals dmg to foe, restore target's HP (2% of dmg dealt, 1 turn).\nWhen activating skill, spend 1 Basic or Standard Cocktail to gain 1 Tailor-Made Cocktail.",
+    "descSimple": "Increase 1 ally's damage 1% per 230 of Yumi's Atk, up to %s of Atk, and their max HP %s (2 turns).\nWhen target deals dmg to foe, restore target's HP (2% of dmg dealt, 1 turn).\nWhen activating skill, spend 1 Basic or Standard Cocktail to gain 1 Tailor-Made Cocktail.",
     "levelUpList": "Atk Increase Cap,HP Increase Cap",
     "levelUpValue": "AAAAAA==",
     "contentBG": "Stirs up a fragrant cocktail, powering up an ally.",
@@ -4862,7 +4862,7 @@
   {
     "sn": "131141",
     "name": "Mojito",
-    "desc": "When gaining a <link=\"s|180\"><u>Cocktail</u></link>, randomly gain 1 <link=\"s|181\"><u>Mixer</u></link> stack of the attributes spent.\nWhen activating Tempting Build or Invigorating Blend, and spending 1 <link=\"s|184\"><u>Basic</u></link> or <link=\"s|183\"><u>Standard</u></link> Cocktail, gain 1 Standard or <link=\"s|182\"><u>Tailor-Made</u></link> Cocktail.",
+    "desc": "When gaining a <link=\"s|180\"><u>Cocktail</u></link>, randomly gain 1 <link=\"s|181\"><u>Mixer</u></link> stack of the attributes spent.\nWhen activating Tempting Build or Invigorating Blend, spend 1 <link=\"s|184\"><u>Basic</u></link> or <link=\"s|183\"><u>Standard</u></link> Cocktail to gain 1 Standard or <link=\"s|182\"><u>Tailor-Made</u></link> Cocktail.",
     "descSimple": "AAAAAA==",
     "levelUpList": "AAAAAA==",
     "levelUpValue": "AAAAAA==",
@@ -4872,7 +4872,7 @@
   {
     "sn": "131142",
     "name": "Screwdriver",
-    "desc": "Increase party's damage by 16% when spending a <link=\"s|180\"><u>Cocktail</u></link>. Lasts for 2 turns.",
+    "desc": "When gaining a <link=\"s|180\"><u>Cocktail</u></link>, increase the party's damage by 16% for 2 turns.",
     "descSimple": "AAAAAA==",
     "levelUpList": "AAAAAA==",
     "levelUpValue": "AAAAAA==",
@@ -4922,7 +4922,7 @@
   {
     "sn": "131151",
     "name": "Stat Buff",
-    "desc": "Increase party's stats by 20% of Shiina's stats.",
+    "desc": "Increase party's stats by 20% of Yumi's stats.",
     "descSimple": "AAAAAA==",
     "levelUpList": "AAAAAA==",
     "levelUpValue": "AAAAAA==",
@@ -5442,7 +5442,7 @@
   {
     "sn": "103211",
     "name": "Blue Sunrise",
-    "desc": "Deal Bless damage to all foes equal to <color=#FFFC40>^%s^</color> of Attack. If <link=\"s|192\"><u>Summer Hype</u></link> is active, spend 10% of Motoha's max HP to deal bonus Bless damage to all foes equal to <color=#FFFC40>^%s^</color> of Attack.",
+    "desc": "Deal Bless damage to all foes equal to <color=#FFFC40>^%s^</color> of Attack. If <link=\"s|192\"><u>Summer Hype</u></link> is active, spend 10% of Tropical Motoha's max HP to deal bonus Bless damage to all foes equal to <color=#FFFC40>^%s^</color> of Attack.",
     "descSimple": "Bless dmg to all foes (%s Atk). If Summer Hype is active, spend 10% of Motoha's max HP to deal bonus Bless dmg to all foes (%s Atk).",
     "levelUpList": "Skill Multiplier,Skill Multiplier",
     "levelUpValue": "AAAAAA==",
@@ -5452,7 +5452,7 @@
   {
     "sn": "103212",
     "name": "Summer 'Splosion",
-    "desc": "Deal Bless damage to 1 foe equal to <color=#FFFC40>^%s^</color> of Attack, and restore 20% of Motoha's max HP. If <link=\"s|192\"><u>Summer Hype</u></link> is active, deal bonus Bless damage to 1 foe equal to <color=#FFFC40>^%s^</color> of Attack.",
+    "desc": "Deal Bless damage to 1 foe equal to <color=#FFFC40>^%s^</color> of Attack, and restore 20% of Tropical Motoha's max HP. If <link=\"s|192\"><u>Summer Hype</u></link> is active, deal bonus Bless damage to 1 foe equal to <color=#FFFC40>^%s^</color> of Attack.",
     "descSimple": "Bless dmg to 1 foe (%s Atk), and restore 20% of max HP. If Summer Hype is active, deal bonus Bless dmg to 1 foe (%s Atk).",
     "levelUpList": "Skill Multiplier,Skill Multiplier",
     "levelUpValue": "AAAAAA==",
@@ -5472,7 +5472,7 @@
   {
     "sn": "103231",
     "name": "Outshine the Sun!",
-    "desc": "During battle, increase Motoha's Attack by 24 points for every 100 points of max HP above 8000, up to <color=#FFFC40>^%s^</color>.",
+    "desc": "During battle, increase Tropical Motoha's Attack by 24 points for every 100 points of max HP above 8000, up to <color=#FFFC40>^%s^</color>.",
     "descSimple": "AAAAAA==",
     "levelUpList": "AAAAAA==",
     "levelUpValue": "AAAAAA==",
@@ -5552,7 +5552,7 @@
   {
     "sn": "103246",
     "name": "Everlasting Summer!",
-    "desc": "Tropical Heart will not be spent after using Surf 'n' Shine.\n<link=\"s|192\"><u>Summer Hype</u></link> is enhanced to Summer Blowout. When Summer Blowout is active, the bonus damage of Blue Sunrise activates 3 times. Summer 'Splosion recovers 20% more of Motoha's max HP. Increase the skill multiplier of Surf 'n' Shine by 50%.",
+    "desc": "Tropical Heart will not be spent after using Surf 'n' Shine.\n<link=\"s|192\"><u>Summer Hype</u></link> is enhanced to Summer Blowout. When Summer Blowout is active, the bonus damage of Blue Sunrise activates 3 times. Summer 'Splosion recovers 20% more of Tropical Motoha's max HP. Increase the skill multiplier of Surf 'n' Shine by 50%.",
     "descSimple": "AAAAAA==",
     "levelUpList": "AAAAAA==",
     "levelUpValue": "AAAAAA==",
@@ -5572,7 +5572,7 @@
   {
     "sn": "103252",
     "name": "Highlight",
-    "desc": "Deal Bless damage to all foes equal to <color=#FFFC40>^%s^</color> of Attack, and restore 20% of Motoha's max HP.\nIf her HP is above 50%, increase Highlight damage by 25%.",
+    "desc": "Deal Bless damage to all foes equal to <color=#FFFC40>^%s^</color> of Attack, and restore 20% of Tropical Motoha's max HP.\nIf her HP is above 50%, increase Highlight damage by 25%.",
     "descSimple": "Bless dmg (%s Atk) to all foes and heal 20% of Motoha's max HP. If at 50% HP or higher, increase Highlight dmg 25%.",
     "levelUpList": "Highlight Skill Multiplier",
     "levelUpValue": "AAAAAA==",
@@ -5691,7 +5691,7 @@
   },
   {
     "sn": "110233",
-    "name": "Error: tnxotb-[Skill_name_110233]",
+    "name": "Summer Reminiscence",
     "desc": "AAAAAA==",
     "descSimple": "AAAAAA==",
     "levelUpList": "AAAAAA==",
@@ -5701,7 +5701,7 @@
   },
   {
     "sn": "110236",
-    "name": "Error: tnxotb-[Skill_name_110236]",
+    "name": "Summer Reminiscence",
     "desc": "AAAAAA==",
     "descSimple": "AAAAAA==",
     "levelUpList": "AAAAAA==",
@@ -5712,9 +5712,9 @@
   {
     "sn": "110211",
     "name": "Have a Cold Drink",
-    "desc": "Deal Psy damage to foes equal to <color=#FFFC40>^%s^</color> of Attack (4 hits). From the second hit, prioritize new targets and inflict 1 <link=\"s|193\"><u>Sparks</u></link> stack per hit. Decrease damage by 30% for hits on the same target.\nPassive: Increase <link=\"s|194\"><u>Summer Reminiscence</u></link>skill damage multiplier and healing by <color=#FFFC40>^%s^</color>.",
-    "descSimple": "Psy dmg to foes (%s Atk, 4 hits). Prioritize foes not hit by skill and inflict 1 Sparks per dmg dealt. Decrease dmg 30% for repeated hits on same target.\nPassive: Increase Summer Reminiscence skill dmg multiplier and healing %s.",
-    "levelUpList": "Skill Multiplier,Summer Reminiscence Rate Increase",
+    "desc": "Deal Psy damage to foes equal to <color=#FFFC40>^%s^</color> of Attack (4 hits). From the second hit, prioritize new targets and inflict 1 <link=\"s|193\"><u>Sparks</u></link> stack per hit. Deal 30% damage for hits on the same target.\nPassive: Increase <link=\"s|194\"><u>Summer Reminiscence</u></link>skill damage multiplier and healing by <color=#FFFC40>^%s^</color>.",
+    "descSimple": "Psy dmg to foes (%s Atk, 4 hits). Prioritize foes not hit by skill and inflict 1 Sparks per dmg dealt. Repeated hits on same target deal 30% dmg.\nPassive: Increase Summer Reminiscence skill dmg multiplier and healing %s.",
+    "levelUpList": "Skill Multiplier,Summer Reminiscence Mult. Increase",
     "levelUpValue": "AAAAAA==",
     "contentBG": "A freezing cold drink that jolts the drinker wide awake, dealing Psychokinesis damage to foes.",
     "skillTag": "Multi-Target"
@@ -5722,9 +5722,9 @@
   {
     "sn": "110212",
     "name": "Hale Summer Days",
-    "desc": "Restore 1 ally's HP by <color=#FFFC40>^%s^</color> of Seaside Tomoko's Attack + <color=#FFFC40>^%s^</color>. Increase target's Attack by <color=#FFFC40>^%s^</color>, ailment accuracy by <color=#FFFC40>^%s^</color>, and damage by 30%. Inflict 1 <link=\"s|193\"><u>Sparks</u></link> stack on each foe the target deals skill damage to. Lasts for 2 turns. Sparks from this effect can stack up to 5 times.",
-    "descSimple": "Restore 1 ally's HP (%s of Tomoko's Atk + %s). Increase target's Atk %s, ailment accuracy %s, and dmg 30%. Inflict 1 Sparks on each foe target deals skill dmg to (max 5 stacks, 2 turns).",
-    "levelUpList": "Healing Multiplier,Base Healing,Target Atk Increase,Target Status Ailment Accuracy Increase",
+    "desc": "Restore 1 ally's HP by <color=#FFFC40>^%s^</color> of Seaside Tomoko's Attack + <color=#FFFC40>^%s^</color>. For 2 turns, increase the target's Attack by <color=#FFFC40>^%s^</color>, ailment accuracy by <color=#FFFC40>^%s^</color>, and damage by <color=#FFFC40>30%</color>; also, increase Attack (up to 22.5%) by 25% of the target's ailment accuracy (up to 90%). Inflict 1 <link=\"s|193\"><u>Sparks</u></link> stack for each time skill damage is dealt to a foe. Sparks from this effect can stack up to 5 times.",
+    "descSimple": "Restore 1 ally's HP (%s of Seaside Tomoko's Atk + %s). For 2 turns, increase target's Atk %s, ailment accuracy %s, and dmg 30%; also, increase Atk (up to 22.5%) by 25% of the target's ailment accuracy (up to 90%). Inflict 1 Sparks for each time skill damage is dealt to a foe (max 5 stacks).",
+    "levelUpList": "Healing Multiplier,Base Healing,Target Atk Increase,Target Ailment Accuracy Increase",
     "levelUpValue": "AAAAAA==",
     "contentBG": "Gentle care and consideration ensures a fun-filled summer, healing all allies.",
     "skillTag": "Single-Heal"
@@ -5732,7 +5732,7 @@
   {
     "sn": "110213",
     "name": "Sparkling Memories",
-    "desc": "Deal Psy damage to all foes equal to <color=#FFFC40>^%s^</color> of Attack. For 2 turns, increase foes' damage taken by <color=#FFFC40>^%s^</color> and inflict 1 <link=\"s|193\"><u>Sparks</u></link> stack when foes take skill damage. At the start of Tomoko's turn, decrease this effect's duration by 1. Sparks stacks up to 5 times and isn't inflicted by damage from this skill.",
+    "desc": "Deal Psy damage to all foes equal to <color=#FFFC40>^%s^</color> of Attack. For 2 turns, increase foes' damage taken by <color=#FFFC40>^%s^</color> and inflict 1 <link=\"s|193\"><u>Sparks</u></link> stack when foes take skill damage. At the start of Seaside Tomoko's turn, decrease this effect's duration by 1. Sparks stacks up to 5 times and isn't inflicted by damage from this skill.",
     "descSimple": "Psy dmg to all foes (%s Atk). Increase foes' dmg taken %s and inflict 1 Sparks per following skill dmg (2 turns, max 5). At start of Tomoko's turn, decrease duration. (This skill does not inflict Sparks.)",
     "levelUpList": "Skill Multiplier,Target Dmg Taken Increase",
     "levelUpValue": "AAAAAA==",
@@ -5742,7 +5742,7 @@
   {
     "sn": "110231",
     "name": "Power of Memories",
-    "desc": "During battle, increase Tomoko's damage and max HP based on her HP recovery. When HP recovery is at up to <color=#FFFC40>^%s^</color>, increase Psy damage by <color=#FFFC40>^%s^</color> and max HP by <color=#FFFC40>^%s^</color>.",
+    "desc": "During battle, increase Seaside Tomoko's damage and max HP based on her HP recovery. When HP recovery is at up to <color=#FFFC40>^%s^</color>, increase Psy damage by <color=#FFFC40>^%s^</color> and max HP by <color=#FFFC40>^%s^</color>.",
     "descSimple": "AAAAAA==",
     "levelUpList": "AAAAAA==",
     "levelUpValue": "AAAAAA==",
@@ -5762,7 +5762,7 @@
   {
     "sn": "110240",
     "name": "Summer Reminiscence",
-    "desc": "<nobr>Tomoko can inflict Sparks on foes.\nAfter an ally acts, if a foe has 3 Sparks stacks, activate Resonance: For every 3 Sparks stacks on all foes, deal Psy damage to all foes equal to 19% of Attack, and decrease the target's damage by 30% for 1 turn. Restore party's HP by 9% of Tomoko's Attack + 300/600/900, (effect increases at level 1/50/70). This can activate up to 5 damage and healing effects, based on how many Sparks stacks are spent within the same Resonance (this Resonance damage does not inflict more Sparks effects).\nChange Resonance damage based on the number of foes present, equal to 150%/120%/100% of the original damage if there are 1/2/3+ foes present. Damage from this Resonance cannot deal Down Point damage. When a foe is defeated, pass its Sparks stacks onto other random foes.",
+    "desc": "Seaside Tomoko can inflict <link=\"s|193\"><u>Sparks</u></link> on foes.\nAfter an ally acts, if foes have 3 Sparks stacks, activate Seaside Tomoko's <link=\"s|100\"><u>Resonance</u></link>: For every 3 Sparks stacks on all foes, deal Psy damage to all foes equal to 19% of Attack, and decrease the target's damage by 30% for 1 turn. Restore the party's HP by 9% of Seaside Tomoko's Attack + 300/600/900 (based on if she is at Lv. 1/50/70+, respectively). This can activate up to 5 damage and healing effects, based on how many Sparks stacks are spent within the same Resonance (this Resonance damage does not inflict more Sparks effects).\nChange Resonance damage based on the number of foes present, equal to 150%/120%/100% of the original damage if there are 1/2/3+ foes present, respectively. Damage from this Resonance cannot deal Down Point damage. When a foe is defeated, pass its Sparks stacks onto other random foes.",
     "descSimple": "tnxotb-[Skill_descSimple_110240]",
     "levelUpList": "AAAAAA==",
     "levelUpValue": "AAAAAA==",
@@ -5782,7 +5782,7 @@
   {
     "sn": "110242",
     "name": "Gentle Sunbeams",
-    "desc": "Every 2 times a <link=\"s|194\"><u>Summer Reminiscence</u></link> effect is activated, inflict 1 <link=\"s|193\"><u>Sparks</u></link> stack on 1 random foe.",
+    "desc": "Every 2 times a <link=\"s|194\"><u>Summer Reminiscence</u></link> effect is activated, inflict 1 <link=\"s|193\"><u>Sparks</u></link> stack on 1 random foe.\nEach time Sparks is inflicted on a foe, permanently increase party's Attack by 2%. Stacks up to 15 times.",
     "descSimple": "AAAAAA==",
     "levelUpList": "AAAAAA==",
     "levelUpValue": "AAAAAA==",
@@ -5822,7 +5822,7 @@
   {
     "sn": "110246",
     "name": "Heartfelt Days",
-    "desc": "Evolve <link=\"s|194\"><u>Summer Reminiscence</u></link> to Neverending Summer. Neverending Summer can activate effects related to Summer Reminiscence with all skills.\nWhen dealing damage with Neverending Summer, increase critical rate by 35%. Each time a foe takes a Neverending Summer effect, permanently increase damage taken by 5%. This effect can stack up to 3 times. At the maximum stack, increase critical taken effect by 20% more.",
+    "desc": "<link=\"s|194\"><u>Summer Reminiscence</u></link> gains the following effects.\nWhen dealing damage with Summer Reminiscence, increase critical rate by 35%. Each time a foe takes a Summer Reminiscence effect, permanently increase damage taken by 5%. This effect stacks up to 3 times. At the maximum stack, increase critical damage taken by 20% more.",
     "descSimple": "AAAAAA==",
     "levelUpList": "AAAAAA==",
     "levelUpValue": "AAAAAA==",
@@ -6042,8 +6042,8 @@
   {
     "sn": "110252",
     "name": "Highlight",
-    "desc": "Deal Psy damage to random foes equal to <color=#FFFC40>^%s^</color> of Attack (3 hits). Prioritize attacking foes that have not been hit by this skill and inflict 1 <link=\"s|193\"><u>Sparks</u></link> stack per damage dealt. Decrease damage by 30% for repeated hits on the same target.",
-    "descSimple": "Psy dmg to random foes (%s Atk, 3 hits). Prioritize attacking foes not hit by skill and inflict 1 Sparks per dmg dealt. Decrease dmg 30% for repeated hits on same target.",
+    "desc": "Deal Psy damage to random foes equal to <color=#FFFC40>^%s^</color> of Attack (3 hits). Prioritize attacking foes that have not been hit by this skill and inflict 1 <link=\"s|193\"><u>Sparks</u></link> stack per damage dealt. Repeated hits on the same target deal 30% damage.",
+    "descSimple": "Psy dmg to random foes (%s Atk, 3 hits). Prioritize attacking foes not hit by skill and inflict 1 Sparks per dmg dealt. Repeated hits on same target deal 30% dmg.",
     "levelUpList": "Highlight Skill Multiplier",
     "levelUpValue": "AAAAAA==",
     "contentBG": "AAAAAA==",
@@ -32682,7 +32682,7 @@
   {
     "sn": "3406",
     "name": "Revenge Stance",
-    "desc": "After taking damage in Counterattack Stance, counterattack. Also, increase Attack. Lasts for 2 turns. Stacks up to 8 times.",
+    "desc": "After taking damage in Counterattack Stance, counterattack. Also, increase Attack for 2 turns. Stacks up to 8 times.",
     "descSimple": "AAAAAA==",
     "levelUpList": "AAAAAA==",
     "levelUpValue": "AAAAAA==",
@@ -35401,7 +35401,7 @@
   },
   {
     "sn": "5728",
-    "name": "Integrity & Responsibility",
+    "name": "Integrity & Labor",
     "desc": "When equipped by an Elucidator Phantom Thief: At the start of battle, for each ally with a matching main attribute, increase party's max HP, Attack, and Defense by <color=%s>2%</color> more.",
     "descSimple": "AAAAAA==",
     "levelUpList": "AAAAAA==",
@@ -37324,7 +37324,7 @@
     "name": "Highlight",
     "desc": "Restore HP to party equal to <color=#fffc40>^%s^</color> Attack + <color=#fffc40>^%s^</color>.",
     "descSimple": "Restore party's HP (%s Atk + %s).",
-    "levelUpList": "Highlight Healing Rate,Highlight Base Healing",
+    "levelUpList": "Highlight Healing Multiplier,Highlight Base Healing",
     "levelUpValue": "AAAAAA==",
     "contentBG": "AAAAAA==",
     "skillTag": "AAAAAA=="
@@ -37761,7 +37761,7 @@
   },
   {
     "sn": "51731",
-    "name": "Backdoor Installation",
+    "name": "Backdoor Install",
     "desc": "When an ally deals weakness damage, increase Attack by <color=#2899FF>^%s^</color>. Stacks up to 2 times.",
     "descSimple": "AAAAAA==",
     "levelUpList": "AAAAAA==",
@@ -38992,7 +38992,7 @@
   {
     "sn": "50335",
     "name": "Cleansing Ripples",
-    "desc": "When attacking a foe, if user is above 50% HP, increase Bless damage by <color=#2899FF>^%s^</color>.",
+    "desc": "When attacking a foe, if Motoha is above 50% HP, increase Bless damage by <color=#2899FF>^%s^</color>.",
     "descSimple": "AAAAAA==",
     "levelUpList": "AAAAAA==",
     "levelUpValue": "AAAAAA==",
@@ -39041,8 +39041,8 @@
   },
   {
     "sn": "51045",
-    "name": "Twilight Gala",
-    "desc": "Increase Attack by <color=#2899FF>^%s^</color>. When activating <link=\"s|194\"><u>Summer Reminiscence</u></link>, increase the user's healing by <color=#2899FF>^%s^</color> for 2 turns.",
+    "name": "Sparkling Flowers",
+    "desc": "Increase Attack by <color=#2899FF>^%s^</color>. When activating <link=\"s|194\"><u>Summer Reminiscence</u></link>, increase Tomoko's healing by <color=#2899FF>^%s^</color> for 2 turns.",
     "descSimple": "AAAAAA==",
     "levelUpList": "AAAAAA==",
     "levelUpValue": "AAAAAA==",
@@ -39052,7 +39052,7 @@
   {
     "sn": "51055",
     "name": "Miracle of the Night Sky",
-    "desc": "Increase healing by <color=#2899FF>^%s^</color>. Increase multiplier for skill damage from <link=\"s|194\"><u>Summer Reminiscence</u></link> and healing by <color=#2899FF>^%s^</color>. When activating Summer Reminiscence, increase the target's damage taken by <color=#2899FF>^%s^</color> for 3 turns. Stacks up to 2 times.",
+    "desc": "Increase healing by <color=#2899FF>^%s^</color>. Increase multiplier for skill damage from <link=\"s|194\"><u>Summer Reminiscence</u></link> and its healing by <color=#2899FF>^%s^</color>. When activating Summer Reminiscence, increase the target's damage taken by <color=#2899FF>^%s^</color> for 3 turns. This effect can stack up to 2 times.\nAlso decrease the target's Defense and ailment resistance by 12% for 3 turns.",
     "descSimple": "AAAAAA==",
     "levelUpList": "AAAAAA==",
     "levelUpValue": "AAAAAA==",
@@ -39062,7 +39062,7 @@
   {
     "sn": "51056",
     "name": "tnxotb-[Skill_name_51056]",
-    "desc": "tnxotb-[Skill_desc_51056]",
+    "desc": "Increase healing.",
     "descSimple": "AAAAAA==",
     "levelUpList": "AAAAAA==",
     "levelUpValue": "AAAAAA==",
@@ -39072,7 +39072,7 @@
   {
     "sn": "51057",
     "name": "tnxotb-[Skill_name_51057]",
-    "desc": "tnxotb-[Skill_desc_51057]",
+    "desc": "Add Weapon Stats",
     "descSimple": "AAAAAA==",
     "levelUpList": "AAAAAA==",
     "levelUpValue": "AAAAAA==",
@@ -39082,7 +39082,7 @@
   {
     "sn": "53321",
     "name": "tdxct-[Skill_name_53321]",
-    "desc": "tdxct-[Skill_desc_53321]",
+    "desc": "Increase Defense by <color=#2899FF>^%s^</color>. ",
     "descSimple": "AAAAAA==",
     "levelUpList": "AAAAAA==",
     "levelUpValue": "AAAAAA==",
@@ -40022,7 +40022,7 @@
   {
     "sn": "2087",
     "name": "AAAAAA==",
-    "desc": "When dealing damage, 30% chance of dealing bonus damage equal to 61% of Attack.",
+    "desc": "30% chance of dealing bonus damage equal to 61% of Attack for each time dealing damage.",
     "descSimple": "AAAAAA==",
     "levelUpList": "AAAAAA==",
     "levelUpValue": "AAAAAA==",

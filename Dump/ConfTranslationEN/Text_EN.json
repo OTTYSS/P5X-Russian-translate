@@ -1253,11 +1253,11 @@
   },
   {
     "sn": "1020100",
-    "textContent": "It seems you've reached Fishing Level %d %s."
+    "textContent": "It seems you've reached Fishing Lv. %d .\n%s"
   },
   {
     "sn": "1020101",
-    "textContent": ", \n<color=#f1b500>%s</color> unlocked"
+    "textContent": "<color=#f1b500>%s</color> was also unlocked!"
   },
   {
     "sn": "1020102",
@@ -1681,7 +1681,7 @@
   },
   {
     "sn": "1022065",
-    "textContent": "After <color=#EADE10>{0}/{1}</color> contracts, you can get a <color=#EADE10>5★ Phantom Thief Chance 01 x1</color>. Use it to randomly get one of these Thieves:"
+    "textContent": "After <color=#EADE10>{0}/{1}</color> contracts, you can get a <color=#EADE10>%s x1</color>. Use it to randomly get one of these Thieves:"
   },
   {
     "sn": "1022066",
@@ -1689,7 +1689,7 @@
   },
   {
     "sn": "1022067",
-    "textContent": "Next time, you can obtain a<color=#EADE10>5★ Phantom Thief Chance 01 x1</color>. Use it to randomly get one of these Thieves:"
+    "textContent": "Next time, you can get a <color=#EADE10>%s x1</color>. Use it to randomly get one of these Thieves:"
   },
   {
     "sn": "1022068",
@@ -1941,31 +1941,31 @@
   },
   {
     "sn": "1027005",
-    "textContent": "AAAAAA=="
+    "textContent": "For players age 18 and up"
   },
   {
     "sn": "1027006",
-    "textContent": "AAAAAA=="
+    "textContent": "*Content will be updated when official information is received from Sega."
   },
   {
     "sn": "1027007",
-    "textContent": "AAAAAA=="
+    "textContent": "For players age 18 and up"
   },
   {
     "sn": "1027008",
-    "textContent": "AAAAAA=="
+    "textContent": "*Content will be updated when official information is received from Sega."
   },
   {
     "sn": "1027010",
-    "textContent": "AAAAAA=="
+    "textContent": "*Content will be updated when official information is received from Sega."
   },
   {
     "sn": "1027011",
-    "textContent": "AAAAAA=="
+    "textContent": "About tracking"
   },
   {
     "sn": "1027012",
-    "textContent": "AAAAAA=="
+    "textContent": "*Content will be displayed when official information is received from Sega."
   },
   {
     "sn": "1027013",
@@ -3309,7 +3309,7 @@
   },
   {
     "sn": "1040017",
-    "textContent": "%s Ally Attack Score"
+    "textContent": "Ally %s Attack Score"
   },
   {
     "sn": "1040018",
@@ -3753,7 +3753,7 @@
   },
   {
     "sn": "1043089",
-    "textContent": "Unlocks after reaching {0}★ in the previous stage"
+    "textContent": "Unlocks after getting\n{0} stars in prev. stage"
   },
   {
     "sn": "1043090",
@@ -3769,7 +3769,7 @@
   },
   {
     "sn": "1043093",
-    "textContent": "Garnish"
+    "textContent": "Decorations"
   },
   {
     "sn": "1043069",
@@ -3841,15 +3841,15 @@
   },
   {
     "sn": "1043094",
-    "textContent": "Sell at least {0}"
+    "textContent": "Score {0} pts"
   },
   {
     "sn": "1043095",
-    "textContent": "Have fewer than {0} customers leave"
+    "textContent": "{0} orders failed"
   },
   {
     "sn": "1043096",
-    "textContent": "{0}/{1} (Stage ends if {2} customers leave)"
+    "textContent": "{0}/{1} (Stage ends after failing {2} orders)"
   },
   {
     "sn": "1043098",
@@ -3857,23 +3857,23 @@
   },
   {
     "sn": "1043099",
-    "textContent": "Sales"
+    "textContent": "Rank"
   },
   {
     "sn": "1043100",
-    "textContent": "Drag shaved ice here to throw it away"
+    "textContent": "<color=#DF712D>Throw away shaved ice here"
   },
   {
     "sn": "1043101",
-    "textContent": "Most Sales: {0}"
+    "textContent": "High Score: {0}"
   },
   {
     "sn": "1043102",
-    "textContent": "In Endless Mode, sell as many as you can until you fail."
+    "textContent": "In Endless Mode, sell as many shaved ice as you can until you fail."
   },
   {
     "sn": "1043103",
-    "textContent": "Reach {0} customer satisfaction"
+    "textContent": "{0}%% customer satisfaction"
   },
   {
     "sn": "1044001",
@@ -4437,7 +4437,7 @@
   },
   {
     "sn": "1051003",
-    "textContent": "Please enter your name.\n(Your name can be changed later.)"
+    "textContent": "Please enter your name.\n(This can be changed later.)"
   },
   {
     "sn": "1052001",
@@ -5481,7 +5481,7 @@
   },
   {
     "sn": "1081020",
-    "textContent": "Please choose."
+    "textContent": "Please select"
   },
   {
     "sn": "1081007",
@@ -11313,7 +11313,7 @@
   },
   {
     "sn": "2002276",
-    "textContent": "Earn a {1} rating for stage {0}"
+    "textContent": "Earn a {1} rating for {0}"
   },
   {
     "sn": "2002292",
@@ -11525,7 +11525,7 @@
   },
   {
     "sn": "2002320",
-    "textContent": "Bond"
+    "textContent": "Memory"
   },
   {
     "sn": "2002327",
@@ -11573,7 +11573,7 @@
   },
   {
     "sn": "2002341",
-    "textContent": "Unlocks after spending <size=50><sprite=32></size><color=#0F69CA> X1</color>"
+    "textContent": "Unlocks with <size=50><sprite=32></size><color=#0F69CA> X1</color>"
   },
   {
     "sn": "2002342",
@@ -11605,15 +11605,15 @@
   },
   {
     "sn": "2002324",
-    "textContent": "High Score"
+    "textContent": "Sales Made"
   },
   {
     "sn": "2002325",
-    "textContent": "Customer Satisfaction Rating"
+    "textContent": "Customer Satisfaction"
   },
   {
     "sn": "2002326",
-    "textContent": "Customers Lost"
+    "textContent": "Orders Failed"
   },
   {
     "sn": "2002351",
@@ -11633,7 +11633,7 @@
   },
   {
     "sn": "2002355",
-    "textContent": "Unlocked by completing missions"
+    "textContent": "Unlocked by completing mission"
   },
   {
     "sn": "2002356",
@@ -11825,7 +11825,7 @@
   },
   {
     "sn": "2002410",
-    "textContent": "Unlocks in: %s"
+    "textContent": "Unlocks in %s"
   },
   {
     "sn": "2002411",
@@ -12557,7 +12557,7 @@
   },
   {
     "sn": "2002617",
-    "textContent": "The methods to obtain {1} tools including {0} have been unlocked."
+    "textContent": "{1} items including {0} can now be unlocked."
   },
   {
     "sn": "2002618",
@@ -12565,7 +12565,7 @@
   },
   {
     "sn": "2002619",
-    "textContent": "The methods to obtain {1} illustrations including {0} have been unlocked."
+    "textContent": "{1} illustrations including {0} can now be unlocked."
   },
   {
     "sn": "2002620",
@@ -12573,7 +12573,7 @@
   },
   {
     "sn": "2002621",
-    "textContent": "The methods to obtain {1} music tracks including {0} have been unlocked."
+    "textContent": "{1} music tracks including {0} can now be unlocked."
   },
   {
     "sn": "2002622",
@@ -12589,7 +12589,7 @@
   },
   {
     "sn": "2002623",
-    "textContent": "The methods to obtain {1} exteriors including {0} have been unlocked."
+    "textContent": "{1} appearances including {0} can now be unlocked."
   },
   {
     "sn": "2002624",
@@ -13117,7 +13117,7 @@
   },
   {
     "sn": "2303207",
-    "textContent": "Ren's Butler Suit Set\n<color=#FFFC40>Limited-Time Sale at the Shop</color>"
+    "textContent": "Ren's Butler Suit Set\n<color=#FFFC40>On sale for a limited time in the Shop!</color>"
   },
   {
     "sn": "2303208",
@@ -13133,7 +13133,7 @@
   },
   {
     "sn": "2303216",
-    "textContent": "Yusuke's Butler Suit Set\n<color=#FFFC40>Limited-Time Sale at the Shop</color>"
+    "textContent": "Yusuke's Butler Suit Set\n<color=#FFFC40>On sale for a limited time in the Shop!</color>"
   },
   {
     "sn": "2303217",
@@ -13190,5 +13190,25 @@
   {
     "sn": "2303281",
     "textContent": "tdxct-[Text_textContent_2303281]"
+  },
+  {
+    "sn": "2303388",
+    "textContent": "Beachwear Set\n<color=#FFFC40>On sale for a limited time</color> in the Shop!"
+  },
+  {
+    "sn": "2303389",
+    "textContent": "Wonder-only Outfit: "
+  },
+  {
+    "sn": "2303390",
+    "textContent": "New All-Out Attack"
+  },
+  {
+    "sn": "2303391",
+    "textContent": "New Highlight"
+  },
+  {
+    "sn": "2303416",
+    "textContent": "Preview"
   }
 ]

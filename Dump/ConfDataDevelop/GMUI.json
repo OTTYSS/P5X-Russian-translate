@@ -6268,5 +6268,15 @@
     "desc": "ストーリーを再生する際に自動的に最初のオプションを選択する。",
     "format": "autoClickDialogChioce true/false",
     "example": "autoClickDialogChioce true/false"
+  },
+  {
+    "sn": "SetShowFishModel",
+    "type": 1,
+    "group": "都市",
+    "orderGroup": "14033",
+    "name": "展示指定鱼类",
+    "desc": "钓鱼前使用，钓上鱼后展示指定鱼类模型",
+    "format": "SetShowFishModel [fishSn]",
+    "example": "SetShowFishModel 1"
   }
 ]

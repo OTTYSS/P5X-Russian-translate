@@ -3036,7 +3036,7 @@
     "sn": "1301521",
     "title": "Nuke Damage Taken Up",
     "desc": "Increase Nuke dmg taken by %s.",
-    "BuffDesc": "D<color=#000000>i</color>ving Ray",
+    "BuffDesc": "N<color=#000000>u</color>ke Damage Taken Up",
     "addText": "AAAAAA==",
     "removeText": "AAAAAA==",
     "calText": "AAAAAA=="
@@ -3710,7 +3710,7 @@
   {
     "sn": "1032141",
     "title": "Times Healed",
-    "desc": "Gain Tropical Heart after receiving 5 times.",
+    "desc": "Gain Tropical Heart after 5 times.",
     "BuffDesc": "AAAAAA==",
     "addText": "AAAAAA==",
     "removeText": "AAAAAA==",
@@ -3809,7 +3809,7 @@
   {
     "sn": "1032072",
     "title": "The Fun Never Ends!",
-    "desc": "Increase Surf 'n' Sunshine dmg by %s",
+    "desc": "Increase Surf 'n' Shine dmg by %s",
     "BuffDesc": "T<color=#000000>h</color>e Fun Never Ends!",
     "addText": "AAAAAA==",
     "removeText": "AAAAAA==",
@@ -3852,6 +3852,24 @@
     "calText": "AAAAAA=="
   },
   {
+    "sn": "1102037",
+    "title": "Miracle of the Night Sky",
+    "desc": "Decrease Def by %s.",
+    "BuffDesc": "AAAAAA==",
+    "addText": "AAAAAA==",
+    "removeText": "AAAAAA==",
+    "calText": "AAAAAA=="
+  },
+  {
+    "sn": "1102038",
+    "title": "Miracle of the Night Sky",
+    "desc": "Decrease ailment resistance by %s.",
+    "BuffDesc": "AAAAAA==",
+    "addText": "AAAAAA==",
+    "removeText": "AAAAAA==",
+    "calText": "AAAAAA=="
+  },
+  {
     "sn": "1102028",
     "title": "Heartfelt Days",
     "desc": "Increase dmg taken by %s.",
@@ -3883,6 +3901,15 @@
     "title": "Sparks",
     "desc": "Activate Seaside Tomoko's Resonance at 3 Sparks stacks.",
     "BuffDesc": "S<color=#000000>p</color>arks",
+    "addText": "AAAAAA==",
+    "removeText": "AAAAAA==",
+    "calText": "AAAAAA=="
+  },
+  {
+    "sn": "1102059",
+    "title": "Gentle Sunbeams",
+    "desc": "Increase Atk by %s.",
+    "BuffDesc": "AAAAAA==",
     "addText": "AAAAAA==",
     "removeText": "AAAAAA==",
     "calText": "AAAAAA=="
@@ -14034,7 +14061,7 @@
     "sn": "21325",
     "title": "Poison",
     "desc": "Lose 5% of max HP each turn.",
-    "BuffDesc": "P<color=#000000>o</color>ison",
+    "BuffDesc": "Poison",
     "addText": "AAAAAA==",
     "removeText": "AAAAAA==",
     "calText": "AAAAAA=="
@@ -15393,7 +15420,7 @@
     "sn": "22981",
     "title": "Poison",
     "desc": "Lose 33% of max HP each turn.",
-    "BuffDesc": "P<color=#000000>o</color>ison",
+    "BuffDesc": "Poison",
     "addText": "AAAAAA==",
     "removeText": "AAAAAA==",
     "calText": "AAAAAA=="
@@ -16869,7 +16896,7 @@
     "sn": "24503",
     "title": "Poison",
     "desc": "At end of turn, lose HP and increase Atk by 10% (max 3 stacks).",
-    "BuffDesc": "P<color=#000000>o</color>ison",
+    "BuffDesc": "Poison",
     "addText": "AAAAAA==",
     "removeText": "AAAAAA==",
     "calText": "AAAAAA=="
@@ -23131,7 +23158,7 @@
   },
   {
     "sn": "529312",
-    "title": "Astral Fragment",
+    "title": "Starforged Conspiracy",
     "desc": "Increase Physical dmg by %s.",
     "BuffDesc": "P<color=#000000>h</color>ys Damage Up",
     "addText": "AAAAAA==",
@@ -23140,7 +23167,7 @@
   },
   {
     "sn": "529432",
-    "title": "Yin and Yang",
+    "title": "Ashes, Ashes",
     "desc": "Increase Atk by %s.",
     "BuffDesc": "A<color=#000000>t</color>tack Up",
     "addText": "AAAAAA==",
@@ -23967,6 +23994,15 @@
     "calText": "AAAAAA=="
   },
   {
+    "sn": "5031015",
+    "title": "Angel's Bindings",
+    "desc": "Decrease final dmg by 30%.",
+    "BuffDesc": "A<color=#000000>n</color>gel's Bindings",
+    "addText": "Received Angel's Bindings, and final damage decreased...",
+    "removeText": "AAAAAA==",
+    "calText": "AAAAAA=="
+  },
+  {
     "sn": "5041012",
     "title": "Death Stare",
     "desc": "Targeted by Four Heavenly Kings.",
@@ -24021,6 +24057,24 @@
     "calText": "AAAAAA=="
   },
   {
+    "sn": "5101011",
+    "title": "Vajra Armor",
+    "desc": "Decrease dmg taken by %s for each stack.",
+    "BuffDesc": "V<color=#000000>a</color>jra Armor",
+    "addText": "Gained 1 Vajra Armor stack!",
+    "removeText": "AAAAAA==",
+    "calText": "AAAAAA=="
+  },
+  {
+    "sn": "5101012",
+    "title": "Demon Subjugation",
+    "desc": "Increase dmg by %s.",
+    "BuffDesc": "D<color=#000000>e</color>mon Subjugation",
+    "addText": "AAAAAA==",
+    "removeText": "AAAAAA==",
+    "calText": "AAAAAA=="
+  },
+  {
     "sn": "5101112",
     "title": "Vajra Shield",
     "desc": "Decrease dmg taken by 5% for each stack. When taking damage from a skill or Resonance, lose 1 stack.",
@@ -24051,8 +24105,8 @@
     "sn": "5121013",
     "title": "Fairy Curse",
     "desc": "Decrease final dmg by %s.",
-    "BuffDesc": "F<color=#000000>a</color>iry Curse",
-    "addText": "Damage decreased!",
+    "BuffDesc": "AAAAAA==",
+    "addText": "Gained Fairy Curse, and final damage taken decreased!",
     "removeText": "AAAAAA==",
     "calText": "AAAAAA=="
   },
@@ -24373,9 +24427,9 @@
   },
   {
     "sn": "510471",
-    "title": "Twilight Gala",
+    "title": "Sparkling Flowers",
     "desc": "Increase healing by %s.",
-    "BuffDesc": "T<color=#000000>w</color>ilight Gala",
+    "BuffDesc": "S<color=#000000>p</color>arkling Flowers",
     "addText": "AAAAAA==",
     "removeText": "AAAAAA==",
     "calText": "AAAAAA=="

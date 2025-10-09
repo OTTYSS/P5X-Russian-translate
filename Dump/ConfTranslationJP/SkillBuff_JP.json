@@ -57,7 +57,7 @@
     "sn": "1171111",
     "title": "セキュリティサラダバー！",
     "desc": "tdxct-[SkillBuff_desc_1171111]防御力%s低下",
-    "BuffDesc": "セ<color=#000000>キ</color>ュリティカサラダバー！",
+    "BuffDesc": "セ<color=#000000>キ</color>ュリティサラダバー！",
     "addText": "AAAAAA==",
     "removeText": "AAAAAA==",
     "calText": "AAAAAA=="
@@ -3036,7 +3036,7 @@
     "sn": "1301521",
     "title": "被核熱属性ダメージ上昇",
     "desc": "被核熱属性ダメージ%s上昇",
-    "BuffDesc": "ダ<color=#000000>イ</color>ビングレイ",
+    "BuffDesc": "被<color=#000000>核</color>熱属性ダメージ上昇",
     "addText": "AAAAAA==",
     "removeText": "AAAAAA==",
     "calText": "AAAAAA=="
@@ -3852,6 +3852,24 @@
     "calText": "AAAAAA=="
   },
   {
+    "sn": "1102037",
+    "title": "夜空の魔法",
+    "desc": "防御力%s低下",
+    "BuffDesc": "AAAAAA==",
+    "addText": "AAAAAA==",
+    "removeText": "AAAAAA==",
+    "calText": "AAAAAA=="
+  },
+  {
+    "sn": "1102038",
+    "title": "夜空の魔法",
+    "desc": "状態異常抵抗%s低下",
+    "BuffDesc": "AAAAAA==",
+    "addText": "AAAAAA==",
+    "removeText": "AAAAAA==",
+    "calText": "AAAAAA=="
+  },
+  {
     "sn": "1102028",
     "title": "胸に刻まれた日々",
     "desc": "被ダメージ%s上昇",
@@ -3883,6 +3901,15 @@
     "title": "残光",
     "desc": "敵の『残光』の総数が３つに達していると、朋子・ピーチサマーの意識奏功が発動する。",
     "BuffDesc": "残<color=#000000>光</color>",
+    "addText": "AAAAAA==",
+    "removeText": "AAAAAA==",
+    "calText": "AAAAAA=="
+  },
+  {
+    "sn": "1102059",
+    "title": "追憶の日差し",
+    "desc": "攻撃力%s上昇",
+    "BuffDesc": "AAAAAA==",
     "addText": "AAAAAA==",
     "removeText": "AAAAAA==",
     "calText": "AAAAAA=="
@@ -23967,6 +23994,15 @@
     "calText": "AAAAAA=="
   },
   {
+    "sn": "5031015",
+    "title": "天使の束縛",
+    "desc": "与える最終ダメージが３０%低下する。",
+    "BuffDesc": "天<color=#000000>使</color>の束縛",
+    "addText": "天使の束縛を受け、与える最終ダメージが減少した……",
+    "removeText": "AAAAAA==",
+    "calText": "AAAAAA=="
+  },
+  {
     "sn": "5041012",
     "title": "死の凝視",
     "desc": "四天王に狙われている。",
@@ -24021,6 +24057,24 @@
     "calText": "AAAAAA=="
   },
   {
+    "sn": "5101011",
+    "title": "伏魔金剛甲",
+    "desc": "１つにつき自身の被ダメージが%s低下する。",
+    "BuffDesc": "伏<color=#000000>魔</color>金剛甲",
+    "addText": "伏魔金剛甲を１つ獲得した！",
+    "removeText": "AAAAAA==",
+    "calText": "AAAAAA=="
+  },
+  {
+    "sn": "5101012",
+    "title": "伏魔の力",
+    "desc": "与ダメージが%s上昇する。",
+    "BuffDesc": "伏<color=#000000>魔</color>の力",
+    "addText": "AAAAAA==",
+    "removeText": "AAAAAA==",
+    "calText": "AAAAAA=="
+  },
+  {
     "sn": "5101112",
     "title": "金剛護体",
     "desc": "１つにつき自身の被ダメージが５%低下する。スキルや意識奏功からのダメージを受けると１つ失う。",
@@ -24051,8 +24105,8 @@
     "sn": "5121013",
     "title": "妖精の呪い",
     "desc": "与える最終ダメージが%s低下する。",
-    "BuffDesc": "妖<color=#000000>精</color>の呪い",
-    "addText": "与ダメージが下がった！",
+    "BuffDesc": "AAAAAA==",
+    "addText": "妖精の呪いを獲得し、受ける最終ダメージが下がった！",
     "removeText": "AAAAAA==",
     "calText": "AAAAAA=="
   },
@@ -24373,9 +24427,9 @@
   },
   {
     "sn": "510471",
-    "title": "光と影の饗宴",
+    "title": "光と影の花",
     "desc": "回復量が%s上昇する。",
-    "BuffDesc": "光<color=#000000>と</color>影の饗宴",
+    "BuffDesc": "光<color=#000000>と</color>影の花",
     "addText": "AAAAAA==",
     "removeText": "AAAAAA==",
     "calText": "AAAAAA=="

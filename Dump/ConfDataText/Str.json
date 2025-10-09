@@ -15754,13 +15754,13 @@
   {
     "sn": 1019069,
     "channelType": 0,
-    "strContent": "要陪西森阳菜探险吗(<color=#ff0000>消耗1点行动力</color>)？",
+    "strContent": "要和阳菜一起度过吗？\n(<color=#ff0000>消耗1点行动力</color>)",
     "typeView": 8,
     "tipsForNpc": 0,
     "showName": "路<#000000,菲,#FFFFFF>尔",
     "heads": "lufeier-owl-tongchang,1|touxiang-lufeier01,2",
-    "option1": "确定",
-    "option2": "稍后再说"
+    "option1": "和阳菜一起度过",
+    "option2": "下次吧"
   },
   {
     "sn": 1019070,
@@ -16293,13 +16293,13 @@
   {
     "sn": 1019214,
     "channelType": 0,
-    "strContent": "今天要和基良一起度过吗……",
-    "typeView": 18,
+    "strContent": "要和基良一起度过吗？",
+    "typeView": 8,
     "tipsForNpc": 0,
-    "showName": "AAAAAA==",
-    "heads": "AAAAAA==",
-    "option1": "OK",
-    "option2": "今天没空"
+    "showName": "路<#000000,菲,#FFFFFF>尔",
+    "heads": "lufeier-owl-tongchang,1|touxiang-lufeier01,2",
+    "option1": "和基良度过",
+    "option2": "有其他安排……"
   },
   {
     "sn": 1019215,
@@ -16315,7 +16315,7 @@
   {
     "sn": 1019216,
     "channelType": 0,
-    "strContent": "要和基良去哪里玩呢？",
+    "strContent": "要怎么回答呢？",
     "typeView": 18,
     "tipsForNpc": 0,
     "showName": "AAAAAA==",
@@ -17911,6 +17911,50 @@
     "sn": 1024024,
     "channelType": 0,
     "strContent": "「坂井绫香」协同任务已解锁",
+    "typeView": 14,
+    "tipsForNpc": 0,
+    "showName": "AAAAAA==",
+    "heads": "AAAAAA==",
+    "option1": "AAAAAA==",
+    "option2": "AAAAAA=="
+  },
+  {
+    "sn": 1024029,
+    "channelType": 0,
+    "strContent": "「北里基良」协同任务当前尚未解锁，是否立即解锁以快速体验？（提前解锁可能会影响剧情体验的连贯性，请谨慎选择）",
+    "typeView": 16,
+    "tipsForNpc": 0,
+    "showName": "路<#000000,菲,#FFFFFF>尔",
+    "heads": "lufeier-owl-str-tongchang,1|touxiang-lufeier01,2",
+    "option1": "确定",
+    "option2": "再想想"
+  },
+  {
+    "sn": 1024030,
+    "channelType": 0,
+    "strContent": "「北里基良」协同任务已解锁",
+    "typeView": 14,
+    "tipsForNpc": 0,
+    "showName": "AAAAAA==",
+    "heads": "AAAAAA==",
+    "option1": "AAAAAA==",
+    "option2": "AAAAAA=="
+  },
+  {
+    "sn": 1024031,
+    "channelType": 0,
+    "strContent": "「芦谷真咲」协同任务当前尚未解锁，是否立即解锁以快速体验？（提前解锁可能会影响剧情体验的连贯性，请谨慎选择）",
+    "typeView": 16,
+    "tipsForNpc": 0,
+    "showName": "路<#000000,菲,#FFFFFF>尔",
+    "heads": "lufeier-owl-str-tongchang,1|touxiang-lufeier01,2",
+    "option1": "确定",
+    "option2": "再想想"
+  },
+  {
+    "sn": 1024032,
+    "channelType": 0,
+    "strContent": "「芦谷真咲」协同任务已解锁",
     "typeView": 14,
     "tipsForNpc": 0,
     "showName": "AAAAAA==",
@@ -23593,6 +23637,17 @@
     "heads": "AAAAAA==",
     "option1": "AAAAAA==",
     "option2": "AAAAAA=="
+  },
+  {
+    "sn": 1052100,
+    "channelType": 0,
+    "strContent": "太晚了，海滩上没什么人。\n休息到<color=#ffc000>明天</color>再开始吧。\n是否立即切换时间进行游戏呢？",
+    "typeView": 16,
+    "tipsForNpc": 0,
+    "showName": "路<#000000,菲,#FFFFFF>尔",
+    "heads": "lufeier-owl-str-tongchang,1|touxiang-lufeier01,2",
+    "option1": "确定",
+    "option2": "取消"
   },
   {
     "sn": 1052101,
@@ -48787,7 +48842,7 @@
   {
     "sn": 1206051,
     "channelType": 0,
-    "strContent": "都市日程<color=#ffc000>阳菜的星空探险</color>已解锁，\n每日有一定概率出现。",
+    "strContent": "都市日程<color=#ffc000>西森阳菜探险队</color>已解锁，\n每日有一定概率出现。",
     "typeView": 14,
     "tipsForNpc": 0,
     "showName": "AAAAAA==",

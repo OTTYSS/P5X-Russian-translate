@@ -29776,7 +29776,7 @@
   },
   {
     "sn": 1543,
-    "castRes": "TL_skill_curse01_conjure.prefab",
+    "castRes": "TL_buff_defdec01_hit.prefab",
     "hitPlayType": 0,
     "intervalPlayTime": 0,
     "camTargetsType": 2,
@@ -29790,12 +29790,12 @@
     "MoveEnd": "AAAAAA==",
     "Priority": 0,
     "noCounter": 0,
-    "fastTurn": 0,
+    "fastTurn": 1,
     "showWeapon": 0,
     "skillScene": "AAAAAA==",
     "skillSceneInit": "AAAAAA==",
     "isTargetAllySkillPos": 0,
-    "noTurn": 1,
+    "noTurn": 2,
     "isSpecialSkill": 0,
     "banSimplify": 0
   }
