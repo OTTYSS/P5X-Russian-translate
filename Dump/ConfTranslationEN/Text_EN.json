@@ -441,7 +441,7 @@
   },
   {
     "sn": "1000124",
-    "textContent": "What's that, pumpkin? You wanna swap these out?"
+    "textContent": "What's that pumpkin? You wanna swap somethin'?"
   },
   {
     "sn": "1000125",
@@ -1245,7 +1245,7 @@
   },
   {
     "sn": "1020098",
-    "textContent": "%s (%s) - You caught a <color=#f1b500>%s</color>.\n(Weather: %s, Time: %s)"
+    "textContent": "<color=#f1b500>%s</color>\n caught at %s with %s. (Weather: %s Time: %s)"
   },
   {
     "sn": "1020099",
@@ -1253,11 +1253,11 @@
   },
   {
     "sn": "1020100",
-    "textContent": "It seems you've reached Fishing Lv. %d .\n%s"
+    "textContent": "It seems you've reached Fishing Level %d %s."
   },
   {
     "sn": "1020101",
-    "textContent": "<color=#f1b500>%s</color> was also unlocked!"
+    "textContent": ", \n<color=#f1b500>%s</color> unlocked"
   },
   {
     "sn": "1020102",
@@ -1309,7 +1309,7 @@
   },
   {
     "sn": "1020205",
-    "textContent": "Another time"
+    "textContent": "Another time."
   },
   {
     "sn": "1020206",
@@ -1565,7 +1565,7 @@
   },
   {
     "sn": "1022023",
-    "textContent": ", %s is the next guaranteed 5★!"
+    "textContent": ", %s more until the next guaranteed 5★!"
   },
   {
     "sn": "1022024",
@@ -1681,7 +1681,7 @@
   },
   {
     "sn": "1022065",
-    "textContent": "After <color=#EADE10>{0}/{1}</color> contracts, you can get a <color=#EADE10>%s x1</color>. Use it to randomly get one of these Thieves:"
+    "textContent": "After <color=#EADE10>{0}/{1}</color> contracts, you can obtain a <color=#EADE10>5★ Phantom Idol Contract x1</color>. Use this to obtain one of the Phantom Thieves below at random."
   },
   {
     "sn": "1022066",
@@ -1689,7 +1689,7 @@
   },
   {
     "sn": "1022067",
-    "textContent": "Next time, you can get a <color=#EADE10>%s x1</color>. Use it to randomly get one of these Thieves:"
+    "textContent": "Next time, obtain a <color=#EADE10>5★ Phantom Idol Contract x1</color>. Use this to obtain one of the Phantom Thieves below at random."
   },
   {
     "sn": "1022068",
@@ -1941,31 +1941,31 @@
   },
   {
     "sn": "1027005",
-    "textContent": "For players age 18 and up"
+    "textContent": "AAAAAA=="
   },
   {
     "sn": "1027006",
-    "textContent": "*Content will be updated when official information is received from Sega."
+    "textContent": "AAAAAA=="
   },
   {
     "sn": "1027007",
-    "textContent": "For players age 18 and up"
+    "textContent": "AAAAAA=="
   },
   {
     "sn": "1027008",
-    "textContent": "*Content will be updated when official information is received from Sega."
+    "textContent": "AAAAAA=="
   },
   {
     "sn": "1027010",
-    "textContent": "*Content will be updated when official information is received from Sega."
+    "textContent": "AAAAAA=="
   },
   {
     "sn": "1027011",
-    "textContent": "About tracking"
+    "textContent": "AAAAAA=="
   },
   {
     "sn": "1027012",
-    "textContent": "*Content will be displayed when official information is received from Sega."
+    "textContent": "AAAAAA=="
   },
   {
     "sn": "1027013",
@@ -3052,10 +3052,6 @@
     "textContent": "This skill has already been learned."
   },
   {
-    "sn": "1034126",
-    "textContent": "%s can learn all skills."
-  },
-  {
     "sn": "1035001",
     "textContent": "Unlock when Wonder reaches level %d"
   },
@@ -3309,7 +3305,7 @@
   },
   {
     "sn": "1040017",
-    "textContent": "Ally %s Attack Score"
+    "textContent": "%s Attack Score"
   },
   {
     "sn": "1040018",
@@ -3605,7 +3601,7 @@
   },
   {
     "sn": "1043021",
-    "textContent": "{1} Left {0}:"
+    "textContent": "%s %s Left:"
   },
   {
     "sn": "1043022",
@@ -3613,15 +3609,15 @@
   },
   {
     "sn": "1043023",
-    "textContent": "This Week"
+    "textContent": "This week"
   },
   {
     "sn": "1043024",
-    "textContent": "This Month"
+    "textContent": "This month"
   },
   {
     "sn": "1043025",
-    "textContent": "This Event"
+    "textContent": "Event Duration"
   },
   {
     "sn": "1043026",
@@ -3753,11 +3749,11 @@
   },
   {
     "sn": "1043089",
-    "textContent": "Unlocks after getting\n{0} stars in prev. stage"
+    "textContent": "Unlocks after reaching {0}★ in the previous stage"
   },
   {
     "sn": "1043090",
-    "textContent": "Cup"
+    "textContent": "Box "
   },
   {
     "sn": "1043091",
@@ -3765,11 +3761,11 @@
   },
   {
     "sn": "1043092",
-    "textContent": "Topping"
+    "textContent": "Syrup"
   },
   {
     "sn": "1043093",
-    "textContent": "Decorations"
+    "textContent": "Décor"
   },
   {
     "sn": "1043069",
@@ -3777,7 +3773,7 @@
   },
   {
     "sn": "1043071",
-    "textContent": "Boosted Rewards"
+    "textContent": "Rewards Up"
   },
   {
     "sn": "1043084",
@@ -3793,7 +3789,7 @@
   },
   {
     "sn": "1043072",
-    "textContent": "Bonuses"
+    "textContent": "Bonus"
   },
   {
     "sn": "1043073",
@@ -3841,39 +3837,39 @@
   },
   {
     "sn": "1043094",
-    "textContent": "Score {0} pts"
+    "textContent": "Sell at least {0}"
   },
   {
     "sn": "1043095",
-    "textContent": "{0} orders failed"
+    "textContent": "Have fewer than {0} customers leave"
   },
   {
     "sn": "1043096",
-    "textContent": "{0}/{1} (Stage ends after failing {2} orders)"
+    "textContent": "{0}/{1} (Stage ends if {2} customers leave)"
   },
   {
     "sn": "1043098",
-    "textContent": "{0} will order after closing"
+    "textContent": "Trigger {0} orders after closing"
   },
   {
     "sn": "1043099",
-    "textContent": "Rank"
+    "textContent": "Sales"
   },
   {
     "sn": "1043100",
-    "textContent": "<color=#DF712D>Throw away shaved ice here"
+    "textContent": "Drag shaved ice here to throw it away"
   },
   {
     "sn": "1043101",
-    "textContent": "High Score: {0}"
+    "textContent": "Most Sales: {0}"
   },
   {
     "sn": "1043102",
-    "textContent": "In Endless Mode, sell as many shaved ice as you can until you fail."
+    "textContent": "In Endless Mode, sell as many as you can until you fail."
   },
   {
     "sn": "1043103",
-    "textContent": "{0}%% customer satisfaction"
+    "textContent": "Reach {0} customer satisfaction"
   },
   {
     "sn": "1044001",
@@ -4437,7 +4433,7 @@
   },
   {
     "sn": "1051003",
-    "textContent": "Please enter your name.\n(This can be changed later.)"
+    "textContent": "Please enter your name.\n(Your name can be changed later.)"
   },
   {
     "sn": "1052001",
@@ -5481,7 +5477,7 @@
   },
   {
     "sn": "1081020",
-    "textContent": "Please select"
+    "textContent": "Please choose."
   },
   {
     "sn": "1081007",
@@ -5937,7 +5933,7 @@
   },
   {
     "sn": "1084028",
-    "textContent": "Ayaka Sakai Synergy Rank %s"
+    "textContent": "Unlocks at Synergy Rank %s with Ayaka Sakai."
   },
   {
     "sn": "1083075",
@@ -6629,7 +6625,7 @@
   },
   {
     "sn": "2001036",
-    "textContent": "Paused"
+    "textContent": "Close Hint"
   },
   {
     "sn": "2001037",
@@ -7017,7 +7013,7 @@
   },
   {
     "sn": "2001133",
-    "textContent": "Sub-Attribute"
+    "textContent": "Set Details"
   },
   {
     "sn": "2001134",
@@ -7141,7 +7137,7 @@
   },
   {
     "sn": "2001164",
-    "textContent": "Bait"
+    "textContent": "Bait Conditions"
   },
   {
     "sn": "2001165",
@@ -7161,7 +7157,7 @@
   },
   {
     "sn": "2001169",
-    "textContent": " Points"
+    "textContent": " Pieces"
   },
   {
     "sn": "2001170",
@@ -7901,7 +7897,7 @@
   },
   {
     "sn": "2001354",
-    "textContent": "Rewards are distributed after season results are tallied. Obtain them by playing at least once."
+    "textContent": "Rewards will be distributed after season results are tallied. You can obtain them by playing at least once."
   },
   {
     "sn": "2001355",
@@ -10401,7 +10397,7 @@
   },
   {
     "sn": "2002098",
-    "textContent": "Missions update at 8 PM UTC"
+    "textContent": "Tasks update daily at 8 PM UTC"
   },
   {
     "sn": "2002041",
@@ -10425,7 +10421,7 @@
   },
   {
     "sn": "2002045",
-    "textContent": "Unconditional Love"
+    "textContent": "Rulebreaker"
   },
   {
     "sn": "2002046",
@@ -10525,7 +10521,7 @@
   },
   {
     "sn": "2002070",
-    "textContent": "Missions reset at 8 PM UTC"
+    "textContent": "Tasks reset daily at 8 PM UTC"
   },
   {
     "sn": "2002072",
@@ -10681,7 +10677,7 @@
   },
   {
     "sn": "2002109",
-    "textContent": "Missions update at 8 PM UTC"
+    "textContent": "Tasks update daily at 8 PM UTC"
   },
   {
     "sn": "2002132",
@@ -10805,7 +10801,7 @@
   },
   {
     "sn": "2002255",
-    "textContent": "Do you want to spend these items to reroll tasks?"
+    "textContent": "Do you want to use the following items?"
   },
   {
     "sn": "2002256",
@@ -11005,7 +11001,7 @@
   },
   {
     "sn": "2002189",
-    "textContent": "Fixed main attributes cannot be customized."
+    "textContent": "Main attributes cannot be customized."
   },
   {
     "sn": "2002190",
@@ -11129,11 +11125,11 @@
   },
   {
     "sn": "2002231",
-    "textContent": "Choose Topping"
+    "textContent": "Select Syrup"
   },
   {
     "sn": "2002232",
-    "textContent": "Choose Decoration"
+    "textContent": "Select Décor"
   },
   {
     "sn": "2002207",
@@ -11249,7 +11245,7 @@
   },
   {
     "sn": "2002238",
-    "textContent": "During Limited-Time Stages, bringing along a designated Phantom Thief will grant bonus rewards. Bring along more designated Phantom Thieves to earn even more bonus rewards. Bonus clear rewards will be converted into lower-rarity items based on item conversion."
+    "textContent": "During Limited-Time Stages, bringing along a designated Phantom Thieves member will grant an additional set reward bonus. Clearing with multiple designated members will compoud bonus rewards."
   },
   {
     "sn": "2002239",
@@ -11313,7 +11309,7 @@
   },
   {
     "sn": "2002276",
-    "textContent": "Earn a {1} rating for {0}"
+    "textContent": "Reach %s%s Rating."
   },
   {
     "sn": "2002292",
@@ -11385,7 +11381,7 @@
   },
   {
     "sn": "2002322",
-    "textContent": "Claim\nRewards"
+    "textContent": "<size=48>Claim Rewards</size>"
   },
   {
     "sn": "2002323",
@@ -11393,7 +11389,7 @@
   },
   {
     "sn": "2002269",
-    "textContent": "Memories\n%s/%s"
+    "textContent": "Promises\n%s/%s"
   },
   {
     "sn": "2002270",
@@ -11405,7 +11401,7 @@
   },
   {
     "sn": "2002272",
-    "textContent": "Story unlocks after completing previous stage."
+    "textContent": "Completion of previous stage unlocks story."
   },
   {
     "sn": "2002277",
@@ -11425,7 +11421,7 @@
   },
   {
     "sn": "2002281",
-    "textContent": "Targets Destroyed: %s"
+    "textContent": "Enemies defeated: %s"
   },
   {
     "sn": "2002282",
@@ -11433,7 +11429,7 @@
   },
   {
     "sn": "2002284",
-    "textContent": "Clear the previous"
+    "textContent": "Complete the Introduction Story"
   },
   {
     "sn": "2002296",
@@ -11445,11 +11441,11 @@
   },
   {
     "sn": "2002298",
-    "textContent": "Targets"
+    "textContent": "Target Details"
   },
   {
     "sn": "2002300",
-    "textContent": "Kokatsu Academy summer classes: Rediscover your seaside desires!"
+    "textContent": "Kokatsu Academy seaside classes: Rediscover your seaside desires"
   },
   {
     "sn": "2002301",
@@ -11461,15 +11457,15 @@
   },
   {
     "sn": "2002303",
-    "textContent": "Points: %s"
+    "textContent": "Takedown Score: %s"
   },
   {
     "sn": "2002305",
-    "textContent": "Challenge"
+    "textContent": "Chal<size=60>lenge"
   },
   {
     "sn": "2002306",
-    "textContent": "<size=60>Limited Time"
+    "textContent": "Time<size=60>limit"
   },
   {
     "sn": "2002307",
@@ -11485,23 +11481,23 @@
   },
   {
     "sn": "2002310",
-    "textContent": "Daily Amount: "
+    "textContent": "Daily Limited-Time Quests: "
   },
   {
     "sn": "2002311",
-    "textContent": "Left Today: "
+    "textContent": "Limited-Time Quests Left Today: "
   },
   {
     "sn": "2002312",
-    "textContent": "Weekly Amount: "
+    "textContent": "Weekly Limited-Time Quests: "
   },
   {
     "sn": "2002313",
-    "textContent": "Left This Week: "
+    "textContent": "Limited-Time Quests Left This Week: "
   },
   {
     "sn": "2002315",
-    "textContent": "Teammates not selected"
+    "textContent": "Teammates have not yet been selected"
   },
   {
     "sn": "2002316",
@@ -11525,7 +11521,7 @@
   },
   {
     "sn": "2002320",
-    "textContent": "Memory"
+    "textContent": "Promise"
   },
   {
     "sn": "2002327",
@@ -11533,11 +11529,11 @@
   },
   {
     "sn": "2002328",
-    "textContent": "No fireworks set."
+    "textContent": "There are no fireworks in your backpack. Let's go and make some!"
   },
   {
     "sn": "2002329",
-    "textContent": "Use Secret Key to unlock Secret Chapter"
+    "textContent": "Use the Trial Key to unlock the Secret Chapter."
   },
   {
     "sn": "2002330",
@@ -11561,7 +11557,7 @@
   },
   {
     "sn": "2002337",
-    "textContent": "Watch alone"
+    "textContent": "Watch the fireworks alone"
   },
   {
     "sn": "2002338",
@@ -11573,27 +11569,27 @@
   },
   {
     "sn": "2002341",
-    "textContent": "Unlocks with <size=50><sprite=32></size><color=#0F69CA> X1</color>"
+    "textContent": "Unlocks after spending <size=50><sprite=32></size><color=#0F69CA> X1</color>"
   },
   {
     "sn": "2002342",
-    "textContent": "Seaside classes will be held at Shirosato Beach. Make the most of your summer vacation gaining valuable experience at the beach and making unforgettable memories with friends. Participation is optional (and free of charge). Uniforms not required."
+    "textContent": "An occurrence on a certain summer's day...\nDuring the Kokatsu Academy off-campus excursion, the students took a trip to Shirosato Beach to attend seaside classes.\nThere, the Phantom Thieves unexpectedly experienced \"Strange Changes on the Beach...\""
   },
   {
     "sn": "2002343",
-    "textContent": "This will begin a new timeline different from the current main story. Would you like to continue?"
+    "textContent": "This will begin a new timeline different form the current main story. Would you like to continue?"
   },
   {
     "sn": "2002346",
-    "textContent": "Select the fireworks to launch."
+    "textContent": "You can select fireworks from the backpack and customize an exclusive launch plan."
   },
   {
     "sn": "2002347",
-    "textContent": "story to unlock"
+    "textContent": "Unlock Memories"
   },
   {
     "sn": "2002348",
-    "textContent": "Tropical Motoha"
+    "textContent": "Summer Motoha Arai"
   },
   {
     "sn": "2002349",
@@ -11605,15 +11601,15 @@
   },
   {
     "sn": "2002324",
-    "textContent": "Sales Made"
+    "textContent": "High Score"
   },
   {
     "sn": "2002325",
-    "textContent": "Customer Satisfaction"
+    "textContent": "Customer Satisfaction Rating"
   },
   {
     "sn": "2002326",
-    "textContent": "Orders Failed"
+    "textContent": "Customers Lost"
   },
   {
     "sn": "2002351",
@@ -11629,15 +11625,15 @@
   },
   {
     "sn": "2002354",
-    "textContent": "Ends in: "
+    "textContent": "Limted-Time Challenge Countdown: "
   },
   {
     "sn": "2002355",
-    "textContent": "Unlocked by completing mission"
+    "textContent": "Mission completion is required"
   },
   {
     "sn": "2002356",
-    "textContent": "Shaved Ice to Beat the Heat: Start Making Shaved Ice"
+    "textContent": "Shaved Ice to Beat the Heat / Start Making Shaved Ice"
   },
   {
     "sn": "2002357",
@@ -11669,7 +11665,7 @@
   },
   {
     "sn": "2002370",
-    "textContent": "Shells"
+    "textContent": "Weight"
   },
   {
     "sn": "2002371",
@@ -11709,7 +11705,7 @@
   },
   {
     "sn": "2002374",
-    "textContent": "Seaside Tomoko Noge"
+    "textContent": "Summer Tomoko Noge"
   },
   {
     "sn": "2002375",
@@ -11825,7 +11821,7 @@
   },
   {
     "sn": "2002410",
-    "textContent": "Unlocks in %s"
+    "textContent": "Unlocks in: %s"
   },
   {
     "sn": "2002411",
@@ -12073,7 +12069,7 @@
   },
   {
     "sn": "2002432",
-    "textContent": "Revelation Creation"
+    "textContent": "Revelation Reprinting"
   },
   {
     "sn": "2002490",
@@ -12081,7 +12077,7 @@
   },
   {
     "sn": "2002433",
-    "textContent": "Sub-Attributes"
+    "textContent": "Sub-Attribute Plan"
   },
   {
     "sn": "2002434",
@@ -12097,7 +12093,7 @@
   },
   {
     "sn": "2002437",
-    "textContent": "Select your customizations."
+    "textContent": "No sub-attribute information. Please customize a set first."
   },
   {
     "sn": "2002483",
@@ -12169,7 +12165,7 @@
   },
   {
     "sn": "2002449",
-    "textContent": "Creation Complete"
+    "textContent": "Revelation Reprinting complete."
   },
   {
     "sn": "2002450",
@@ -12201,7 +12197,7 @@
   },
   {
     "sn": "2002514",
-    "textContent": "Updates daily at 8 PM UTC"
+    "textContent": "Tasks update daily at 8 PM UTC"
   },
   {
     "sn": "2002515",
@@ -12557,7 +12553,7 @@
   },
   {
     "sn": "2002617",
-    "textContent": "{1} items including {0} can now be unlocked."
+    "textContent": "The methods to obtain {1} tools including {0} have been unlocked."
   },
   {
     "sn": "2002618",
@@ -12565,7 +12561,7 @@
   },
   {
     "sn": "2002619",
-    "textContent": "{1} illustrations including {0} can now be unlocked."
+    "textContent": "The methods to obtain {1} illustrations including {0} have been unlocked."
   },
   {
     "sn": "2002620",
@@ -12573,7 +12569,7 @@
   },
   {
     "sn": "2002621",
-    "textContent": "{1} music tracks including {0} can now be unlocked."
+    "textContent": "The methods to obtain {1} music tracks including {0} have been unlocked."
   },
   {
     "sn": "2002622",
@@ -12589,7 +12585,7 @@
   },
   {
     "sn": "2002623",
-    "textContent": "{1} appearances including {0} can now be unlocked."
+    "textContent": "The methods to obtain {1} exteriors including {0} have been unlocked."
   },
   {
     "sn": "2002624",
@@ -13117,7 +13113,7 @@
   },
   {
     "sn": "2303207",
-    "textContent": "Ren's Butler Suit Set\n<color=#FFFC40>On sale for a limited time in the Shop!</color>"
+    "textContent": "Ren's Butler Suit Set\n<color=#FFFC40>Limited-Time Sale at the Shop</color>"
   },
   {
     "sn": "2303208",
@@ -13129,11 +13125,11 @@
   },
   {
     "sn": "2303210",
-    "textContent": "Sale Ends: %s"
+    "textContent": "Sale period: %s"
   },
   {
     "sn": "2303216",
-    "textContent": "Yusuke's Butler Suit Set\n<color=#FFFC40>On sale for a limited time in the Shop!</color>"
+    "textContent": "Yusuke's Butler Suit Set\n<color=#FFFC40>Limited-Time Sale at the Shop</color>"
   },
   {
     "sn": "2303217",
@@ -13153,7 +13149,7 @@
   },
   {
     "sn": "2303335",
-    "textContent": "Thank you for playing\nPersona5: The Phantom X.\nWe'd appreciate it if you\ncould leave us a review!"
+    "textContent": "Thank you for playing Persona5: The Phantom X.\nIf you'd like, please leave us a review!"
   },
   {
     "sn": "2303336",
@@ -13169,7 +13165,7 @@
   },
   {
     "sn": "2303339",
-    "textContent": "We'd appreciate it if you\ncould let us know how to\nimprove your experience\nwith the game."
+    "textContent": "If you'd like, please let us know how we can improve your experience with the game."
   },
   {
     "sn": "2303340",
@@ -13178,37 +13174,5 @@
   {
     "sn": "2303341",
     "textContent": "No"
-  },
-  {
-    "sn": "2303358",
-    "textContent": "Summer Makoto Set\n<color=#FFFC40>On sale for a limited time</color> in the Shop!"
-  },
-  {
-    "sn": "2303359",
-    "textContent": "Makoto-only Outfit:"
-  },
-  {
-    "sn": "2303281",
-    "textContent": "tdxct-[Text_textContent_2303281]"
-  },
-  {
-    "sn": "2303388",
-    "textContent": "Beachwear Set\n<color=#FFFC40>On sale for a limited time</color> in the Shop!"
-  },
-  {
-    "sn": "2303389",
-    "textContent": "Wonder-only Outfit: "
-  },
-  {
-    "sn": "2303390",
-    "textContent": "New All-Out Attack"
-  },
-  {
-    "sn": "2303391",
-    "textContent": "New Highlight"
-  },
-  {
-    "sn": "2303416",
-    "textContent": "Preview"
   }
 ]

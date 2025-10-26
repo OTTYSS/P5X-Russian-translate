@@ -50,7 +50,7 @@
   {
     "sn": "1032",
     "testThiefInfo1": "<color=#FFFC40>全体攻撃</color>が得意。『<color=#FFFC40>真夏のテンション</color>』状態になると<color=#FFFC40>ダメージ上昇</color>と<color=#FFFC40>クリティカル率上昇</color>を獲得し、スキルを強化できる。",
-    "testThiefInfo2": "<color=#FFFC40>回復</color>を受けると、自身の発揮する能力が大幅に向上する。",
+    "testThiefInfo2": "<color=#FFFC40>回復</color>を受けると、スキルの<color=#FFFC40>クールタイム</color>が短縮され、自身の発揮する能力が大幅に向上する。",
     "testThiefInfo3": "ＨＰの上昇と同時に攻撃力も上昇できる。生存能力を高めながら、自身の攻撃力も強化できる。"
   },
   {
@@ -73,15 +73,15 @@
   },
   {
     "sn": "1171",
-    "testThiefInfo1": "<color=#FFFC40>敵全体を弱体化</color>することが得意。敵全体に『<color=#FFFC40>ウイルス</color>』を付与し<color=#FFFC40>属性相性</color>を変化させる。",
+    "testThiefInfo1": "tdxct-[ActivityTestThief_testThiefInfo1_1171]<color=#FFFC40>敵全体を弱体化</color>することが得意。敵全体に『<color=#FFFC40>撹乱ウイルス</color>』を付与することで<color=#FFFC40>属性相性</color>を操作できる。",
     "testThiefInfo2": "tdxct-[ActivityTestThief_testThiefInfo2_1171]敵に<color=#FFFC40>防御力低下</color>や<color=#FFFC40>被ダメージ上昇</color>の弱体状態を付与できる。また敵に<color=#FFFC40>弱点ダメージ</color>を与えた時は、追加の弱体効果を付与する。",
-    "testThiefInfo3": "戦闘中、双葉は『解析進捗』を蓄積し、『データ掌握』を発動することで、味方全員の<color=#FFFC40>与ダメージを増加</color>し、さらに<color=#FFFC40>シールドを付与</color>する。"
+    "testThiefInfo3": "tdxct-[ActivityTestThief_testThiefInfo3_1171]戦闘中に『手がかり』を収集して『決着の完成』を発動すると、味方全体の<color=#FFFC40>与ダメージが上昇</color>し、<color=#FFFC40>シールド</color>を付与することができる。"
   },
   {
     "sn": "1331",
-    "testThiefInfo1": "<color=#FFFC40>味方の防御力を強化</color>することが得意。味方に<color=#FFFC40>シールド</color>と<color=#FFFC40>防御力上昇</color>を付与し、味方の生存能力を高めることができる。",
-    "testThiefInfo2": "戦闘中に『正直の聖印』を使って味方の<color=#FFFC40>ダメージを防ぐ</color>ことで『英勇』を集め、『公正の宣言』を発動できる。",
-    "testThiefInfo3": "『公正宣言』を発動すると、<color=#FFFC40>スキルが強化</color>され、味方の<color=#FFFC40>攻撃力、生存能力</color>を強化することができる。"
+    "testThiefInfo1": "tdxct-[ActivityTestThief_testThiefInfo1_1331]<color=#FFFC40>味方の防御力を向上</color>することが得意。味方に<color=#FFFC40>シールド</color>と<color=#FFFC40>防御力上昇</color>を付与し、味方の生存能力を向上できる。",
+    "testThiefInfo2": "tdxct-[ActivityTestThief_testThiefInfo2_1331]戦闘中に『正直の聖印』を使って味方の<color=#FFFC40>ダメージを防ぐ</color>ことで『英勇』を集め、『公正の宣言』を発動できる。",
+    "testThiefInfo3": "tdxct-[ActivityTestThief_testThiefInfo3_1331]『公正宣言』を発動すると、<color=#FFFC40>スキルを強化</color>し、味方の<color=#FFFC40>攻撃力または生存能力</color>がさらに向上する。"
   },
   {
     "sn": "1251",

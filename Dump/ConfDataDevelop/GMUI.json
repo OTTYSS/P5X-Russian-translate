@@ -330,16 +330,6 @@
     "example": "quickFuncOpen 1"
   },
   {
-    "sn": "pullGacha",
-    "type": 0,
-    "group": "便捷",
-    "orderGroup": "1041",
-    "name": "抽卡测试",
-    "desc": "单次最大支持10W次抽测，根据自启服表现可在2分钟内完成",
-    "format": "pullGacha gachaSn times",
-    "example": "pullGacha 8 100000"
-  },
-  {
     "sn": "exeGMGroup7",
     "type": 0,
     "group": "超便利",
@@ -6268,15 +6258,5 @@
     "desc": "ストーリーを再生する際に自動的に最初のオプションを選択する。",
     "format": "autoClickDialogChioce true/false",
     "example": "autoClickDialogChioce true/false"
-  },
-  {
-    "sn": "SetShowFishModel",
-    "type": 1,
-    "group": "都市",
-    "orderGroup": "14033",
-    "name": "展示指定鱼类",
-    "desc": "钓鱼前使用，钓上鱼后展示指定鱼类模型",
-    "format": "SetShowFishModel [fishSn]",
-    "example": "SetShowFishModel 1"
   }
 ]

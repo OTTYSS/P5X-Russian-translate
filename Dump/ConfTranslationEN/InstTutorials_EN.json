@@ -397,17 +397,12 @@
   {
     "sn": "509101",
     "title": "Special Effect",
-    "text": "1. Baphomet will summon minions during the battle.\n2.When a minion loses a Down Point, all Phantom Thieves' damage is increased by 15%. Lasts for 1 turn."
+    "text": "1. Baphomet will summon minions during the battle.\nWhen a minion is defeated, Baphomet takes Almighty damage based on the minion's max HP.\n2. Baphomet will restore all Phantom Thieves' SP each turn, but also inflicts Devilish Hex on the Phantom Thief with the highest Attack, greatly decreasing their damage.\n3. When a minion is knocked down, all Phantom Thieves' damage is increased by 15%. Lasts for 1 turn."
   },
   {
     "sn": "510101",
     "title": "Special Effect",
     "text": "1. At the start of battle, Asura gains 2 stacks of Vajra Armor and restores 1 stack each turn.\nEach stack reduces damage taken by 15%.\n2. When Asura takes damage from its weakness, it loses 1 stack of Vajra Armor.\n3. When Asura loses all stacks of Vajra Armor, all Phantom Thieves gain Demon Subjugation, increasing their damage."
-  },
-  {
-    "sn": "510111",
-    "title": "Special Effect",
-    "text": "1. Power will repeatedly summon servants to fight.\n2. Power restores all Phantom Thieves' SP each turn, but also uses <color=#FF423F>Angel's Bindings</color> on the Phantom Thief with the highest Attack, greatly decreasing their damage."
   },
   {
     "sn": "511101",
@@ -441,7 +436,7 @@
   },
   {
     "sn": "517101",
-    "title": "Special Effects",
+    "title": "Special Effect",
     "text": "1. Melchizedek gains 6 stacks of Divine Protection each turn, and each stack of Divine Protection decreases damage taken by 5%.\n2. Melchizedek loses 1 Divine Protection each time it takes damage from a skill or Resonance.\n3. When Melchizedek has lost all Divine Protection, all Phantom Thieves receive Divine Protection, and their damage is increased."
   },
   {
@@ -1057,7 +1052,7 @@
   {
     "sn": "730111",
     "title": "Unique Shadow Abilities",
-    "text": "Dominion, Power, Principality, and Archangel are in the <color=#FF423F>Soul Link state.\nSoul Link: When a Shadow with Soul Link takes damage, split the damage between all Shadows with Soul Link, based on its current HP.\nDominion will summon continuous waves of Angels. When an Angel is defeated, SP is restored.\nDominion will summon continuous waves of Angels. When an Angel is defeated, SP is restored.\nWhen Dominion is Weakened, damage dealt to Angels is added to your score."
+    "text": "Dominion, Power, Principality, and Archangel are in the <color=#ff3b37>Soul Link</color> state.\nSoul Link: When a Shadow with Soul Link takes damage, split the damage between all Shadows with Soul Link, based on its current HP.\nDominion will summon continuous waves of Angels. When an Angel is defeated, SP is restored.\nDominion will summon continuous waves of Angels. When an Angel is defeated, SP is restored.\nDamage dealt to Angels is added to your score."
   },
   {
     "sn": "730611",
@@ -1097,17 +1092,17 @@
   {
     "sn": "735111",
     "title": "Unique Shadow Abilities",
-    "text": "Atavaka has different weaknesses and resistances than normal.\nWhen Atavaka takes damage from a skill, it gains a Mark based on that skill's <color=#FF423F>attribute</color>.\nThe maximum number of Marks is 7.\nWhen it has collected 3 Marks of the same attribute, Atavaka spends all Marks to summon a Rakshasa.\nWhen Rakshasa is defeated, the corresponding attribute damage of all Phantom Thieves is increased.\nAtavaka can summon Rakshasa up to 2 times."
+    "text": "When Atavaka takes damage from a skill, it gains a Mark based on that skill's <color=#FF423F>attribute</color>.\nThe maximum number of Marks is 7.\nWhen it has collected 3 Marks of the same attribute, Atavaka spends all Marks to summon a Rakshasa.\nWhen Rakshasa is defeated, the corresponding attribute damage of all Phantom Thieves is increased.\nAtavaka can summon Rakshasa up to 2 times."
   },
   {
     "sn": "736111",
     "title": "Unique Shadow Abilities",
-    "text": "1. Yatsufusa will activate <color=#FF423F>Eight Beads of Virtue</color>.\nEight Beads of Virtue: All affinities change to Resist, damage dealt increases, and damage taken decreases.\nIt also summons 4 Shadows.\nWhen a Shadow is defeated, Yatsufusa is inflicted with the corresponding elemental ailment for 2 turns.\nSummoned Shadows have different weaknesses and resistances than normal.\n2. When Yatsufusa is in the Eight Beads of Virtue state and is inflicted with all 4 types of elemental ailments, the Eight Beads of Virtue state is canceled and its Defense decreases.\n3. When Yatsufusa is Weakened, all Shadows vanish, and the Eight Beads of Virtue state is canceled."
+    "text": "1. Yatsufusa will activate <color=#FF423F>Eight Beads of Virtue</color>.\nEight Beads of Virtue: All affinities change to Resist, damage dealt increases, and damage taken decreases.\nIt also summons 4 Elemental Souls.\nWhen an Elemental Soul is defeated, Yatsufusa is inflicted with the corresponding elemental ailment.\nLasts for 2 turns.\n2. When Yatsufusa is in the Eight Beads of Virtue state and is inflicted with all 4 types of elemental ailments, the Eight Beads of Virtue state is canceled and its Defense decreases.\n3. When Yatsufusa is Weakened, all Elemental Souls vanish, and the Eight Beads of Virtue state is canceled."
   },
   {
     "sn": "736611",
     "title": "Unique Shadow Abilities",
-    "text": "1. Yatsufusa will activate <color=#FF423F>Eight Beads of Virtue</color>.\nEight Beads of Virtue: All affinities change to Resist, damage dealt increases, and damage taken decreases.\nIt also summons 4 Shadows.\nWhen a Shadow is defeated, Yatsufusa is inflicted with the corresponding elemental ailment for 2 turns.\nSummoned Shadows have different weaknesses and resistances than normal.\n2. When Yatsufusa is in the Eight Beads of Virtue state and is inflicted with all 4 types of elemental ailments, the Eight Beads of Virtue state is canceled and its Defense decreases.\n3. When Yatsufusa is Weakened, all Shadows vanish, and the Eight Beads of Virtue state is canceled."
+    "text": "1. Yatsufusa will activate <color=#FF423F>Eight Beads of Virtue</color>: All affinities change to Resist, damage dealt increases, and damage taken decreases.\nIt also summons 4 Elemental Souls.\nWhen an Elemental Soul is defeated, Yatsufusa is inflicted with the corresponding elemental ailment.\nLasts for 2 turns.\n2. When Yatsufusa is in the Eight Beads of Virtue state and is inflicted with all 4 types of elemental ailments, the Eight Beads of Virtue state is canceled and its Defense decreases."
   },
   {
     "sn": "737111",
@@ -1117,12 +1112,12 @@
   {
     "sn": "738111",
     "title": "Unique Shadow Abilities",
-    "text": "Nidhoggr and Yurlungur have different weaknesses and resistances than normal.\n1. Nidhoggr and all other Shadows are in the <color=#FF423F>Soul Link</color> state.\nSoul Link: Distributes all damage received between all Shadows who share this condition, based on the percentage of their current HP.\n2. When Nidhoggr and other Shadows use skills, all skill targets are inflicted with 1 stack of <color=#FF423F>Poison</color>.\nPoison: At the end of a Phantom Thief's action, lose a certain amount of HP for each stack, but also increase Attack by 10%.\nPoison cannot be dispelled and can stack up to 3 times.\n3. When Weakened, damage dealt to foes is added to your score."
+    "text": "1. Nidhoggr and the Vipers are in the <color=#FF423F>Soul Link</color> state.\nSoul Link: Distributes all damage received between all Shadows who share this condition, based on the percentage of their current HP.\n2. When Nidhoggr and Vipers use skills, all skill targets are inflicted with 1 stack of <color=#FF423F>Poison</color>.\nPoison: At the end of a Phantom Thief's action, lose a certain about of HP for each stack, but also increase Attack by 10%.\nPoison cannot be dispelled and can stack up to 3 times.\n3. When Weakened, damage dealt to Vipers is added to your score."
   },
   {
     "sn": "738611",
     "title": "Unique Shadow Abilities",
-    "text": "Nidhoggr and Yurlungur have different weaknesses and resistances than normal.\n1. Nidhoggr and all other Shadows are in the <color=#FF423F>Soul Link</color> state.\nSoul Link: Distributes all damage received between all Shadows who share this condition, based on the percentage of their current HP.\n2. When Nidhoggr and other Shadows use skills, all skill targets are inflicted with 1 stack of <color=#FF423F>Poison.\nPoison: At the end of a turn, Phantom thieves lose a certain amount of HP for each stack, but also increase their Attack by 10%.\nPoison cannot be dispelled and can stack up to 3 times."
+    "text": "1. Nidhoggr and the Vipers are in the <color=#FF423F>Soul Link</color> state.\nSoul Link: Distributes all damage received between all Shadows who share this condition, based on the percentage of their current HP.\n2. When Nidhoggr and Vipers use skills, all skill targets are inflicted with 1 stack of <color=#FF423F>Poison.\nPoison: At the end of a turn, Phantom thieves lose a certain about of HP for each stack, but also increase their Attack by 10%.\nPoison cannot be dispelled and can stack up to 3 times."
   },
   {
     "sn": "739111",
@@ -1147,7 +1142,7 @@
   {
     "sn": "228021",
     "title": "Unique Shadow Abilities",
-    "text": "1. When Anubis receives a debuff, it gains 1 <color=#FF423F>Judgment of Evil</color>.\n2. When Anubis receives a buff, it gains 1 <color=#FF423F>Judgment of Good</color>.\n3.Judgment of Good and Judgment of Evil <color=#FF423F>negate</color> each other.\n4. When either Judgment of Good or Judgment of Evil reach 5 stacks, Anubis will use <color=#FF423F>Advent of Judgment</color>, dealing heavy damage to all Phantom Thieves.\n5. At the start of each turn, Anubis will summon 1 Saki Mitama."
+    "text": "Anubis has no weaknesses or resistances.\n1. When the Phantom Thieves use a debuff skill or attack skill, Anubis gains 1 <color=#FF423F>Judgment of Evil</color>.\n2. When the Phantom Thieves use a buff skill or a healing skill, Anubis gains 1 <color=#FF423F>Judgment of Good</color>.\n3.Judgment of Good and Judgment of Evil <color=#FF423F>cancel</color> each other out.\n4. When either Judgment of Good or Judgment of Evil reach 5 stacks, Anubis will use <color=#FF423F>Advent of Judgment</color>, dealing heavy damage to all Phantom Thieves.\n5. At the start of every turn, 1 Saki Mitama will be summoned."
   },
   {
     "sn": "228031",
@@ -1157,7 +1152,7 @@
   {
     "sn": "228041",
     "title": "Unique Shadow Abilities",
-    "text": "Hariti has no weaknesses or resistances.\n1. Hariti has extremely high damage reduction, making it difficult to deal damage with direct attacks.\n2. When Hariti's turn ends, it spends its own HP to fully heal all other Shadows, losing HP equal to the amount healed.\n3. At the start of Hariti's turn, it summons 1 Agathion.\nHariti's damage increases by 15% for each Agathion on the field."
+    "text": "Hariti has no weaknesses or resistances.\n1. Hariti has extremely high damage reduction, making it difficult to deal damage with direct attacks.\n2. When Hariti's turn ends, it spends its own HP to fully heal all other Shadows, losing HP equal to the amount healed.\n3. At the start of Hariti's turn, it summons 1 Agathion.\nHariti's damage increases by 30% for each Agathion on the field."
   },
   {
     "sn": "228051",
@@ -1237,27 +1232,27 @@
   {
     "sn": "930211",
     "title": "Unique Shadow Abilities",
-    "text": "Shadows have different weaknesses and resistances than normal.\n1. From Genbu's second turn onwards, it will alternate between using two skills: <color=#FF423F>High Tide</color> and <color=#FF423F>Ebb Tide</color>.\n2. Ebb Tide: Inflict 2 <color=#FF423F>Submerged</color> stacks on all Phantom Thieves.\nPurge all other Shadows and summon 2 Decarabias and 2 Yurlungurs.\n3. High Tide: Deal damage to all Phantom Thieves and inflict 1 Submerged stack.\n4. Submerged: At the end of turns, deal damage equal to 10% of max HP.\nThis effect lasts 4 turns and can stack.\n5. When Decarabia is defeated, remove 1 Submerged stack.\nDuring Ebb Tide, inflict 1 Submerged stack on all Phantom Thieves.\n6. When Yurlungur is defeated, restore all Phantom Thieves' HP by 20% and grant 1 Defense debuff to all Shadows.\nThis effect lasts for 2 turns.\nDuring Ebb Tide, restore all Shadows' HP by 20% for each Yurlungur present."
+    "text": "1. Genbu alternates between using two skills: <color=#FF423F>High Tide</color> and <color=#FF423F>Ebb Tide</color>.\n2. Ebb Tide: Inflict 2 <color=#FF423F>Submerged</color> stacks on all Phantom Thieves.\nPurge all other Shadows and summon 2 Decarabias and 2 Yurlungurs.\n3. High Tide: Deal damage to all Phantom Thieves and inflict 1 Submerged stack.\n4. Submerged: At the end of turns, deal damage equal to 10% of max HP.\nThis effect lasts 4 turns and can stack.\n5. When Decarabia is defeated, remove 1 Submerged stack.\nDuring Ebb Tide, inflict 1 Submerged stack on all Phantom Thieves.\n6. When Yurlungur is defeated, restore all Phantom Thieves' HP by 20% and grant 1 Defense debuff to all Shadows.\nThis effect lasts for 2 turns.\nDuring Ebb Tide, restore all Shadows' HP by 20% for each Yurlungur present."
   },
   {
     "sn": "930241",
     "title": "Unique Shadow Abilities",
-    "text": "Shadows have different weaknesses and resistances than normal.\n1. From Genbu's second turn onwards, it will alternate between using two skills: <color=#FF423F>High Tide</color> and <color=#FF423F>Ebb Tide</color>.\n2. Ebb Tide: Inflict 2 <color=#FF423F>Submerged</color> stacks on all Phantom Thieves.\nPurge all other Shadows and summon 2 Decarabias and 2 Yurlungurs.\n3. High Tide: Deal damage to all Phantom Thieves and inflict 1 Submerged stack.\n4. Submerged: At the end of turns, deal damage equal to 12.5% of max HP.\nThis effect lasts 4 turns and can stack.\n5. When Decarabia is defeated, remove 1 Submerged stack.\nDuring Ebb Tide, inflict 2 Submerged stacks on all Phantom Thieves.\n6. When Yurlungur is defeated, restore all Phantom Thieves' HP by 20% and grant 1 Defense debuff to all Shadows.\nThis effect lasts for 2 turns.\nDuring Ebb Tide, restore all Shadows' HP by 40% for each Yurlungur present."
+    "text": "1. Genbu alternates between two skills, <color=#FF423F>High Tide</color> and <color=#FF423F>Ebb Tide</color>.\n2. Ebb Tide: Inflicts the <color=#FF423F>Submerged</color> status on 2 Phantom Thieves.\nClears all Shadows from the battle and summons 2 Decarabias and 2 Yurlungurs.\n1. High Tide: Deals damage to all Phantom Thieves, and inflicts the Submerged status on 1 Phantom Thief.\n4. Submerged: Deals damage equal to 12.5% of max HP at the end of each turn.\nLasts 4 turns and can stack.\n5. When Decarabia is defeated, 2 stack of Submerged will be removed.\nDuring Ebb Tide, each Decarabia will inflict 2 stacks of Submerged on all Phantom Thieves.\n6. When Yurlungur is defeated, all Phantom Thieves will heal 20% of their max HP, and all Shadows will have their defense decreased for 2 turns.\nDuring Ebb Tide, each Yurlungur will heal all Shadows for 40% of their max HP."
   },
   {
     "sn": "930251",
     "title": "Unique Shadow Abilities",
-    "text": "Shadows have different weaknesses and resistances than normal.\n1. From Genbu's second turn onwards, it will alternate between using two skills: <color=#FF423F>High Tide</color> and <color=#FF423F>Ebb Tide</color>.\n2. Ebb Tide: Inflict 2 <color=#FF423F>Submerged</color> stacks on all Phantom Thieves.\nPurge all other Shadows and summon 2 Decarabias and 2 Yurlungurs.\n3. High Tide: Deal damage to all Phantom Thieves and inflict 1 Submerged stack.\n4. Submerged: At the end of turns, deal damage equal to 17.5% of max HP.\nThis effect lasts 4 turns and can stack.\n5. When Decarabia is defeated, remove 1 Submerged stack.\nDuring Ebb Tide, inflict 3 Submerged stacks on all Phantom Thieves.\n6. When Yurlungur is defeated, restore all Phantom Thieves' HP by 20% and grant 1 Defense debuff to all Shadows.\nThis effect lasts for 2 turns.\nDuring Ebb Tide, restore all Shadows' HP by 60% for each Yurlungur present."
+    "text": "1. Genbu alternates between two skills, <color=#FF423F>High Tide</color> and <color=#FF423F>Ebb Tide</color>.\n2. Ebb Tide: Inflicts the <color=#FF423F>Submerged</color> status on 2 Phantom Thieves.\nClears all Shadows from the battle and summons 2 Decarabias and 2 Yurlungurs.\n3. High Tide: Deals damage to all Phantom Thieves, and inflicts the Submerged status on 1 Phantom Thief.\n4. Submerged: Deals damage equal to 17.5% of max HP at the end of each turn.\nLasts 4 turns and can stack.\n5. When Decarabia is defeated, 1 stack of Submerged will be removed.\nDuring Ebb Tide, each Decarabia will inflict 3 stacks of Submerged on all Phantom Thieves.\n6. When Yurlungur is defeated, all Phantom Thieves will heal 20% of their max HP, and all Shadows will have their defense decreased for 2 turns.\nDuring Ebb Tide, each Yurlungur will heal all Shadows for 60% of their max HP."
   },
   {
     "sn": "931211",
     "title": "Unique Shadow Abilities",
-    "text": "Shadows have different weaknesses and resistances than normal.\nRaja Naga alternates between <color=#FF423F>Royal Decree</color> and <color=#FF423F>Royal Punishment</color>.\n1. Royal Decree: Grants 3 stacks of <color=#FF423F>Royal Shield</color> to all Shadows.\nRoyal Shield: Damage taken decreases by 15%. Stacks up to 5 times.\nLose 1 stack when damaged by a skill, Resonance, or Highlight.\n2. Royal Punishment: Locks on to a Phantom Thief, and deals severe damage on the next turn.\nIf Raja Naga takes damage a total of 15 times from skills, Resonances, or Highlights, the lock on will be lost.\n3. Other Nagas cannot be defeated while Raja Naga is present."
+    "text": "Raja Naga alternates between <color=#FF423F>Royal Decree</color> and <color=#FF423F>Royal Punishment</color>.\n1. Royal Decree: Grants 3 stacks of <color=#FF423F>Royal Shield</color> to all Shadows.\nRoyal Shield: Damage taken decreases by 15%. Stacks up to 5 times.\nLose 1 stack when damaged by a skill, Resonance, or Highlight.\n2. Royal Punishment: Locks on to a Phantom Thief, and deals severe damage on the next turn.\nIf Raja Naga takes damage a total of 15 times from skills, Resonances, or Highlights, the lock on will be lost.\n3. Other Nagas cannot be defeated while Raja Naga is present."
   },
   {
     "sn": "931241",
     "title": "Unique Shadow Abilities",
-    "text": "Shadows have different weaknesses and resistances than normal.\nRaja Naga will use the following skills.\n1. Royal Decree: Grants 3 <color=#FF423F>Royal Shield</color> stacks to all Shadows.\nRoyal Shield: Damage taken decreases by 15%. Stacks up to 5 times.\nLose 1 stacks when damaged by a skill, Resonance, or Highlight.\n1. Royal Punishment: Locks on to a Phantom Thief, and deals severe damage on the next turn.\nIf Raja Naga takes damage a total of 20 times from skills, Resonances, or Highlights, the lock on will be lost.\n3. <color=#FF423F>Royal Blessing</color>: When any Naga has more than 25% HP remaining, its own damage is greatly increased.\nAfterwards, all other Nagas heal 50% of their HP.\n4. At the start of each turn, Raja Naga automatically gains 1 Royal Shield stack.\n5. Other Nagas cannot be defeated while Raja Naga is present."
+    "text": "Raja Naga alternates between <color=#FF423F>Royal Decree</color> and <color=#FF423F>Royal Punishment</color>.\n1. Royal Decree: Grants 3 stacks of <color=#FF423F>Royal Shield</color> to all Shadows.\nRoyal Shield: Damage taken decreases by 15%. Stacks up to 5 times.\nLose 1 stack when damaged by a skill, Resonance, or Highlight.\n1. Royal Punishment: Locks on to a Phantom Thief, and deals severe damage on the next turn.\nIf Raja Naga takes damage a total of 20 times from skills, Resonances, or Highlights, the lock on will be lost.\n3. <color=#FF423F>Royal Blessing</color>: When any Naga has more than 25% HP remaining, its own damage is greatly increased.\nAfterwards, all other Nagas heal 50% of their HP.\n4. At the start of each turn, Raja Naga automatically gains 1 stack of Royal Shield.\n5. Other Nagas cannot be defeated while Raja Naga is present."
   },
   {
     "sn": "901312",
@@ -1272,7 +1267,7 @@
   {
     "sn": "931251",
     "title": "Unique Shadow Abilities",
-    "text": "Shadows have different weaknesses and resistances than normal.\nRaja Naga will use the following skills.\n1. Royal Decree: Grants 3 <color=#FF423F>Royal Shield</color> stacks to all Shadows.\nRoyal Shield: Damage taken decreases by 15%. Stacks up to 5 times.\nLose 2 stacks when damaged by a skill, Resonance, or Highlight.\n1. Royal Punishment: Locks on to a Phantom Thief, and deals severe damage on the next turn.\nIf Raja Naga takes damage a total of 25 times from skills, Resonances, or Highlights, the lock on will be lost.\n3. <color=#FF423F>Royal Blessing</color>: When any Naga has more than 25% HP remaining, its own damage is greatly increased.\nAfterwards, all other Nagas heal 50% of their HP.\n4. At the start of each turn, Raja Naga automatically gains 2 Royal Shield stacks.\n5. Other Nagas cannot be defeated while Raja Naga is present."
+    "text": "Raja Naga alternates between <color=#FF423F>Royal Decree</color> and <color=#FF423F>Royal Punishment</color>.\n1. Royal Decree: Grants 3 <color=#FF423F>Royal Shield</color> stacks to all Shadows.\nRoyal Shield: Damage taken decreases by 15%. Stacks up to 5 times.\nLose 1 stack when damaged by a skill, Resonance, or Highlight.\n2. Royal Punishment: Locks on to a Phantom Thief, and deals severe damage on the next turn.\nIf Raja Naga takes damage a total of 25 times from skills, Resonances, or Highlights, the lock on will be lost.\n3. <color=#FF423F>Royal Blessing</color>: When any Naga has more than 25% HP remaining, its own damage is greatly increased.\nAfterwards, all other Nagas heal 50% of their HP.\n4. At the start of each turn, Raja Naga automatically gains 2 Royal Shield stacks.\n5. Other Nagas cannot be defeated while Raja Naga is present."
   },
   {
     "sn": "901412",
@@ -1322,7 +1317,7 @@
   {
     "sn": "920611",
     "title": "Ayaka Sakai's Skills",
-    "text": "1. Ayaka specializes in <color=#FF423F>single-target buffs</color>, and can grant increased Attack and damage to an ally.\n2. She can directly activate an ally's <color=#FF423F>Highlight</color> and greatly increase its damage.\n3. Ayaka can also replenish the <color=#FF423F>Highlight</color> gauge, allowing Highlights to be activated more frequently."
+    "text": "1. Ayaka specializes in <color=#FFFC40>single-target buffs</color>, and can grant increased Attack and damage to an ally.\n2. She can directly activate an ally's <color=#FFFC40>Highlight</color> and greatly increase its damage.\n3. Ayaka can also replenish the <color=#FFFC40>Highlight</color> gauge, allowing Highlights to be activated more frequently."
   },
   {
     "sn": "920711",
@@ -1332,12 +1327,12 @@
   {
     "sn": "920811",
     "title": "Tropical Motoha's Skills",
-    "text": "1. Tropical Motoha specializes in <color=#FF423F>multi-target attacks</color>.\nWhen she is in the <color=#FF423F>Summer Hype</color> state, she gains <color=#FF423F>increased damage</color> and <color=#FF423F>increased critical rate</color>, making her skills more powerful.\n2. After receiving <color=#FF423F>healing</color>, her abilities are greatly improved.\n3. When her HP increases, she gains increased Attack. This allows her to improve her survivability, while also strengthening her offensive capability."
+    "text": "1. Summer Motoha specializes in <color=#FF423F>multi-target attacks</color>.\nWhen Motoha is in the <color=#FF423F>Summer Hype</color> state, she receives a <color=#FF423F>damage increase</color> and <color=#FF423F>critical rate increase</color>, making her skills more powerful.\n2. After receiving <color=#FF423F>healing</color>, her skill <color=#FF423F>cooldown</color> is reduced, and her abilities are improved.\n3. Increases HP and Attack.\nWhile increasing her survivability, she also strengthens her attack power."
   },
   {
     "sn": "920911",
-    "title": "Seaside Tomoko's Skills",
-    "text": "1. Seaside Tomoko has excellent <color=#FF423F>healing and attack</color> capabilities.\nAfter inflicting a certain number of <color=#FF423F>Sparks</color> on foes, she activates <color=#FF423F>Summer Reminiscence</color>, dealing damage to enemies while also healing allies.\nTeam up with allies who use <color=#FF423F>multi-target</color> or <color=#FF423F>multi-hit</color> attacks to build up Sparks quickly.\n2. She can increase her allies' <color=#FF423F>Attack</color> and <color=#FF423F>survivability</color>.\nShe can also reduce the damage dealt by enemies and increase their damage taken, giving her <color=#FF423F>excellent support capability</color>."
+    "title": "Summer Tomoko's Skills",
+    "text": "1. Summer Tomoko has excellent <color=#FF423F>healing and attack</color> capabilities.\nAfter inflicting a certain number of <color=#FF423F>Sparks</color> on foes, she activates <color=#FF423F>Dazzling Fireworks</color>, dealing damage to enemies while also healing allies.\nTeam up with allies who use <color=#FF423F>multi-target</color> or <color=#FF423F>multi-hit</color> attacks to build up Sparks quickly.\n2. She can increase her allies' <color=#FF423F>Attack</color> and <color=#FF423F>survivability</color>.\nShe can also reduce the damage dealt by enemies and increase their damage taken, giving her <color=#FF423F>excellent support capability</color>."
   },
   {
     "sn": "921011",
@@ -1357,12 +1352,12 @@
   {
     "sn": "228071",
     "title": "Unique Shadow Abilities",
-    "text": "1. Every turn, Kumbhanda will attack Phantom Thieves who have a <color=#FF423F>Grudge</color> stack.\nIf no Phantom Thieves have a Grudge, it will attack all Phantom Thieves.\n2. Whenever Kumbhanda attacks, it decreases the target's max HP by 20%, and increases the max HP of the Agathion with the lowest HP by 20%.\n3. When Agathion is hit by an attack, the attacker is inflicted with 1 Grudge stack for 1 turn.\n4. If an Agathion's HP is less than 40% at the start of its turn, it transforms into Kumbhanda.\nIf it is defeated, it restores the HP of all Shadows by 40%."
+    "text": "1. Every turn, Kumbhanda will attack a Phantom Thief who has a <color=#FF423F>Grudge</color>.\nIf no Phantom Thieves have a Grudge, it will attack all Phantom Thieves.\n2. Whenever Kumbhanda attacks, it decreases the target's max HP by 20%, and increases the max HP of the Agathion with the lowest HP by 20%.\n3. When Agathion is hit by an attack, the attacker is inflicted with 1 Grudge stack for 1 turn.\n4. If an Agathion's HP is less than 40% at the start of its turn, it transforms into Kumbhanda.\nIf it is defeated, it restores the HP of all Shadows by 40%."
   },
   {
     "sn": "228081",
     "title": "Unique Shadow Abilities",
-    "text": "1. Every turn, Kumbhanda will attack Phantom Thieves who have a <color=#FF423F>Grudge</color> stack.\nIf no Phantom Thieves have a Grudge, it will attack all Phantom Thieves.\n2. Whenever Kumbhanda attacks, it reduces the target's SP by 20%, and restores 10 SP to 1 random Agathion.\n3. When Agathion is hit by an attack, the attacker is inflicted with 1 Grudge stack for 1 turn.\n4. If an Agathion's SP is less than 40% at the start of its turn, it transforms into Kumbhanda.\nIf it is defeated, it restores the SP of all Shadows by 40%."
+    "text": "1. Every turn, Kumbhanda will attack a Phantom Thief who has a <color=#FF423F>Grudge</color>.\nIf no Phantom Thieves have a Grudge, it will attack all Phantom Thieves.\n2. Whenever Kumbhanda attacks, it reduces the target's SP by 20%, and restores 10 SP to 1 random Agathion.\n3. When Agathion is hit by an attack, the attacker is inflicted with 1 Grudge stack for 1 turn.\n4. If an Agathion's SP is less than 40% at the start of its turn, it transforms into Kumbhanda.\nIf it is defeated, it restores the SP of all Shadows by 40%."
   },
   {
     "sn": "228091",

@@ -199,7 +199,7 @@
     "sn": "29",
     "name": "Fishing Points",
     "typeName": "Currency",
-    "tips": "Obtainable by fishing at the Fishing Pond. Can be exchanged for rewards at the Fishing Shop.",
+    "tips": "Obtainable by fishing at the Fishing Pond. Can be exchanged for rewards at the Catch 'n' Trade.",
     "contentBG": "<color=#ffffff>  </color>"
   },
   {
@@ -512,14 +512,14 @@
   },
   {
     "sn": "1010",
-    "name": "Rare Seashell",
+    "name": "Rare Shell",
     "typeName": "Event Currency",
     "tips": "Obtainable from the Summer! Swimsuits! Sea Time! event. Can be exchanged for event rewards in the Beach House.",
     "contentBG": "<color=#ffffff>  </color>"
   },
   {
     "sn": "1011",
-    "name": "Rare Seashell",
+    "name": "Rare Shell",
     "typeName": "Commemorative Item",
     "tips": "Can be exchanged for 10 Konpaku Gems.",
     "contentBG": "<color=#ffffff>  </color>"
@@ -554,14 +554,14 @@
   },
   {
     "sn": "1016",
-    "name": "Secret Ticket",
+    "name": "Trial Ticket",
     "typeName": "Event Currency",
-    "tips": "A ticket for Thieves' Secrets. Can be exchanged for rewards in the Secret Shop during the event. Can't be used after the event ends.",
+    "tips": "A ticket for the Thief Tryouts. Can be exchanged for rewards in the Shop during the event. Can't be used after the event ends.",
     "contentBG": "<color=#ffffff>  </color>"
   },
   {
     "sn": "1017",
-    "name": "Secret Ticket",
+    "name": "Trial Ticket",
     "typeName": "Commemorative Item",
     "tips": "Can be exchanged for 100 Konpaku Gems.",
     "contentBG": "<color=#ffffff>  </color>"
@@ -1200,35 +1200,28 @@
     "sn": "100401",
     "name": "5★ Phantom Idol Contract 1",
     "typeName": "Gift Set",
-    "tips": "Can be used to draw and obtain one Phantom Thief from certain Phantom Thieves.",
+    "tips": "Can be used to select one of these characters: Morgana, Ryuji Sakamoto, Ann Takamaki, Yaoling Li, or Haruna Nishimori.",
     "contentBG": "AAAAAA=="
   },
   {
     "sn": "100402",
     "name": "5★ Phantom Idol Contract 2",
     "typeName": "Gift Set",
-    "tips": "Can be used to draw and obtain one Phantom Thief from certain Phantom Thieves.",
+    "tips": "Can be used to randomly select one of these characters: Morgana, Ryuji Sakamoto, Ann Takamaki, Yaoling Li, Haruna Nishimori, Minami Miyashita, Yumi Shiina, or Masaki Ashiya.",
     "contentBG": "AAAAAA=="
   },
   {
     "sn": "100403",
     "name": "5★ Phantom Idol Contract 3",
     "typeName": "Gift Set",
-    "tips": "Can be used to draw and obtain one Phantom Thief from certain Phantom Thieves.",
+    "tips": "Can be used to randomly select one of these characters: Morgana, Ryuji Sakamoto, Ann Takamaki, Yaoling Li, Haruna Nishimori, Minami Miyashita, Yumi Shiina, or Masaki Ashiya.",
     "contentBG": "AAAAAA=="
   },
   {
     "sn": "100404",
     "name": "5★ Phantom Idol Contract 4",
     "typeName": "Gift Set",
-    "tips": "Can be used to draw and obtain one Phantom Thief from certain Phantom Thieves.",
-    "contentBG": "AAAAAA=="
-  },
-  {
-    "sn": "100601",
-    "name": "5★ Phantom Thief Chance 01",
-    "typeName": "Gift Set",
-    "tips": "Can be used to draw and obtain one Phantom Thief from certain Phantom Thieves.",
+    "tips": "Can be used to randomly select one of these characters: Morgana, Ryuji Sakamoto, Ann Takamaki, Yaoling Li, Haruna Nishimori, Minami Miyashita, Yumi Shiina, or Masaki Ashiya.",
     "contentBG": "AAAAAA=="
   },
   {
@@ -1282,9 +1275,9 @@
   },
   {
     "sn": "102001",
-    "name": "Secret Key",
+    "name": "Trial Key",
     "typeName": "Unlock Item",
-    "tips": "Allows you to unlock and play Thieves' Secrets at a certain time. Up to three of these can be held at once.",
+    "tips": "Allows you to unlock and play Thief Tryouts at a certain time. Up to three of these can be held at once.",
     "contentBG": "AAAAAA=="
   },
   {
@@ -1351,13 +1344,6 @@
     "contentBG": "<color=#ffffff>  </color>"
   },
   {
-    "sn": "180006",
-    "name": "Summer Makoto Set",
-    "typeName": "Gift Set",
-    "tips": "Can be set as your profile avatar.",
-    "contentBG": "<color=#ffffff>  </color>"
-  },
-  {
     "sn": "190016",
     "name": "Support Gift I",
     "typeName": "Gift Set",
@@ -1368,28 +1354,28 @@
     "sn": "190019",
     "name": "5★ Weapon Case",
     "typeName": "Gift Set",
-    "tips": "Can be used to select and obtain one weapon from certain weapons.",
+    "tips": "Can be used to select and obtain one 5★ weapon for Morgana, Ryuji Sakamoto, Ann Takamaki, Yaoling Li, Haruna Nishimori, Lufel, Motoha Arai, Shun Kano, Leo Kamiyama, Kayo Tomiyama, Tomoko Noge, Kiyoshi Kurotani, Yukimi Fujikawa, Seiji Shiratori, Toshiya Sumi, Kotone Montagne, Miyu Sahara, Chizuko Nagao, or Riko Tanemura.",
     "contentBG": "<color=#ffffff>  </color>"
   },
   {
     "sn": "190020",
     "name": "5★ Phantom Idol Select Ticket",
     "typeName": "Gift Set",
-    "tips": "Can be used to select and obtain one character from certain available Phantom Thieves.",
+    "tips": "Can be used to select one of these characters: Morgana, Ryuji Sakamoto, Ann Takamaki, Yaoling Li, or Haruna Nishimori.",
     "contentBG": "<color=#ffffff>  </color>"
   },
   {
     "sn": "190021",
     "name": "4★ Weapon Case",
     "typeName": "Gift Set",
-    "tips": "Can be used to select and obtain one weapon from certain weapons.",
+    "tips": "Can be used to select and obtain one 5★ weapon for Morgana, Ryuji Sakamoto, Ann Takamaki, Yaoling Li, Haruna Nishimori, Lufel, Motoha Arai, Shun Kano, Leo Kamiyama, Kayo Tomiyama, Tomoko Noge, Kiyoshi Kurotani, Yukimi Fujikawa, Seiji Shiratori, Toshiya Sumi, Kotone Montagne, Miyu Sahara, Chizuko Nagao, or Riko Tanemura.",
     "contentBG": "<color=#ffffff>  </color>"
   },
   {
     "sn": "190022",
     "name": "4★ Phantom Idol Select Ticket",
     "typeName": "Gift Set",
-    "tips": "Can be used to select and obtain one character from certain available Phantom Thieves.",
+    "tips": "Can be used to select one of these characters: Lufel, Motoha Arai, Shun Kano, Leo Kamiyama, Kayo Tomiyama, Tomoko Noge, Kiyoshi Kurotani, Yukimi Fujikawa, Seiji Shiratori, Toshiya Sumi, Kotone Montagne, Miyu Sahara, Chizuko Nagao, or Riko Tanemura.",
     "contentBG": "<color=#ffffff>  </color>"
   },
   {
@@ -1487,7 +1473,7 @@
     "sn": "190036",
     "name": "3★ Weapon Case",
     "typeName": "Gift Set",
-    "tips": "Can be used to select and obtain one weapon from certain weapons.",
+    "tips": "Can be used to select and obtain one 3★ weapon for Morgana, Ryuji Sakamoto, Ann Takamaki, Yaoling Li, Haruna Nishimori, Lufel, Motoha Arai, Shun Kano, Leo Kamiyama, Kayo Tomiyama, Tomoko Noge, Kiyoshi Kurotani, Yukimi Fujikawa, Seiji Shiratori, Toshiya Sumi, Kotone Montagne, Miyu Sahara, Chizuko Nagao, or Riko Tanemura.",
     "contentBG": "<color=#ffffff>  </color>"
   },
   {
@@ -1501,42 +1487,42 @@
     "sn": "190039",
     "name": "Limited 4★ Weapon Case",
     "typeName": "Gift Set",
-    "tips": "Can be used to select and obtain one weapon from certain weapons.",
+    "tips": "Can be used to select and obtain one 4★ weapon for Ren Amamiya, Minami Miyashita, Yui, Yusuke Kitagawa, Morgana, Ryuji Sakamoto, Ann Takamaki, Haruna Nishimori, Yaoling Li, Kayo Tomiyama, Miyu Sahara, Lufel, Motoha Arai, Shun Kano, Tomoko Noge, Toshiya Sumi, Yukimi Fujikawa, Seiji Shiratori, Leo Kamiyama, Kotone Montagne, or Kiyoshi Kurotani.",
     "contentBG": "<color=#ffffff>  </color>"
   },
   {
     "sn": "190040",
     "name": "Limited 4★ Weapon Case",
     "typeName": "Gift Set",
-    "tips": "Can be used to select and obtain one weapon from certain weapons.",
+    "tips": "Can be used to select and obtain one 4★ weapon for Yusuke Kitagawa, Makoto Niijima, Morgana, Ryuji Sakamoto, Ann Takamaki, Haruna Nishimori, Kayo Tomiyama, Miyu Sahara, Lufel, Motoha Arai, Shun Kano, Tomoko Noge, Toshiya Sumi, Yukimi Fujikawa, Seiji Shiratori, Leo Kamiyama, Kotone Montagne, Kiyoshi Kurotani, Chizuko Nagao, or any Mystery Phantom Thief.",
     "contentBG": "<color=#ffffff>  </color>"
   },
   {
     "sn": "190041",
     "name": "Lucky Persona Box",
     "typeName": "Gift Set",
-    "tips": "Can be used to select and obtain one Persona from certain available Personas.",
+    "tips": "Can be used to select one of these Personas: Lamia, Ame-no-Uzume, or Setanta.",
     "contentBG": "<color=#ffffff>  </color>"
   },
   {
     "sn": "190042",
     "name": "Joyous Persona Box",
     "typeName": "Gift Set",
-    "tips": "Can be used to select and obtain one Persona from certain available Personas.",
+    "tips": "Can be used to select one of these Personas: Lamia, Ame-no-Uzume, or Setanta.",
     "contentBG": "<color=#ffffff>  </color>"
   },
   {
     "sn": "190043",
     "name": "Novice 5★ Thief of Your Choice",
     "typeName": "Gift Set",
-    "tips": "Can be used to select and obtain one character from certain available Phantom Thieves.",
+    "tips": "Can be used to select one of these characters: Morgana, Ryuji Sakamoto, or Ann Takamaki.",
     "contentBG": "<color=#ffffff>  </color>"
   },
   {
     "sn": "190044",
     "name": "Novice 5★ Weapon of Your Choice",
     "typeName": "Gift Set",
-    "tips": "Can be used to select and obtain one weapon from certain weapons.",
+    "tips": "Can be used to select one 5★ weapon for Morgana, Ryuji Sakamoto, or Ann Takamaki.",
     "contentBG": "<color=#ffffff>  </color>"
   },
   {
@@ -1564,7 +1550,7 @@
     "sn": "190048",
     "name": "5★ Cognitite Case",
     "typeName": "Gift Set",
-    "tips": "Can be used to select and obtain one Cognitite for certain Phantom Thieves.",
+    "tips": "Can be used to select one Cognitite for Ryuji Sakamoto, Ann Takamaki, Morgana, Yaoling Li, or Haruna Nishimori.",
     "contentBG": "<color=#ffffff>  </color>"
   },
   {
@@ -1583,9 +1569,9 @@
   },
   {
     "sn": "190051",
-    "name": "Limited 4★ Weapon Case",
+    "name": "4★ Weapon Case",
     "typeName": "Gift Set",
-    "tips": "Can be used to select and obtain one weapon from certain weapons.",
+    "tips": "Can be used to select and obtain one 4★ weapon for Yumi Shiina, Ayaka Sakai, Summer Motoha Arai, Morgana, Ryuji Sakamoto, Ann Takamaki, Haruna Nishimori, Kayo Tomiyama, Miyu Sahara, Lufel, Motoha Arai, Shun Kano, Tomoko Noge, Toshiya Sumi, Yukimi Fujikawa, Seiji Shiratori, Leo Kamiyama, Kotone Montagne, Kiyoshi Kurotani, Chizuko Nagao, or Riko Tanemura.",
     "contentBG": "<color=#ffffff>  </color>"
   },
   {
@@ -1599,14 +1585,14 @@
     "sn": "190053",
     "name": "Mysterious Weapon Kit",
     "typeName": "Weapon",
-    "tips": "Can be used to obtain the Seaside Tomoko-only weapon Ocean's Tidings.",
-    "contentBG": "AAAAAA=="
+    "tips": "Mystery Phantom Thief-only melee weapon.",
+    "contentBG": "<color=#ffffff>  </color>"
   },
   {
     "sn": "190054",
     "name": "Weapon Gift Box",
     "typeName": "Gift Set",
-    "tips": "Can be used to select and obtain one weapon from certain weapons.",
+    "tips": "Can be used to select and obtain one 5★ weapon. Selectable weapons: Revenge Axe, Golden Legacy, Rosethorn, Infinite Moment, Sweet Pickaxe, Quasar, Fallen Angel Wing, Permafrost, Final Buster, Retro Disco Style, Dream and Nightmare, Baptism by Fire, Karmic Cycle, Venus Sunrise, Babel's Verdict, Queen of Winter, and Ephemerality.",
     "contentBG": "<color=#ffffff>  </color>"
   },
   {
@@ -1620,14 +1606,14 @@
     "sn": "190056",
     "name": "Cognitite Box 2",
     "typeName": "Gift Set",
-    "tips": "Can be used to select and obtain one Cognitite for certain Phantom Thieves.",
+    "tips": "Can be used to select one Cognitite for Ryuji Sakamoto, Ann Takamaki, Morgana, Yaoling Li, Haruna Nishimori, Minami Miyashita, or Yumi Shiina.",
     "contentBG": "<color=#ffffff>  </color>"
   },
   {
     "sn": "190057",
     "name": "4★ Weapon Case",
     "typeName": "Gift Set",
-    "tips": "Can be used to select and obtain one weapon from certain weapons.",
+    "tips": "Can be used to select and obtain one 4★ weapon for Summer Tomoko Noge, Minami Miyashita, Kira Kitazato, Morgana, Ryuji Sakamoto, Ann Takamaki, Haruna Nishimori, Kayo Tomiyama, Miyu Sahara, Lufel, Motoha Arai, Shun Kano, Tomoko Noge, Toshiya Sumi, Yukimi Fujikawa, Seiji Shiratori, Leo Kamiyama, Kotone Montagne, Kiyoshi Kurotani, Chizuko Nagao, or Riko Tanemura.",
     "contentBG": "<color=#ffffff>  </color>"
   },
   {
@@ -1635,13 +1621,13 @@
     "name": "Mysterious Weapon Kit",
     "typeName": "Weapon",
     "tips": "Mystery Phantom Thief-only melee weapon.",
-    "contentBG": "AAAAAA=="
+    "contentBG": "<color=#ffffff>  </color>"
   },
   {
     "sn": "190059",
     "name": "4★ Weapon Case",
     "typeName": "Gift Set",
-    "tips": "Can be used to select and obtain one weapon from certain weapons.",
+    "tips": "Can be used to obtain one 4★ weapon for Futaba Sakura, Masaki Ashiya, Haru Okumura, Morgana, Ryuji Sakamoto, Ann Takamaki, Haruna Nishimori, Kayo Tomiyama, Miyu Sahara, Lufel, Motoha Arai, Shun Kano, Tomoko Noge, Toshiya Sumi, Yukimi Fujikawa, Seiji Shiratori, Leo Kamiyama, Kotone Montagne, Kiyoshi Kurotani, Chizuko Nagao, or Riko Tanemura.",
     "contentBG": "<color=#ffffff>  </color>"
   },
   {
@@ -1662,42 +1648,42 @@
     "sn": "190062",
     "name": "5★ Cognitite Chance 1",
     "typeName": "Gift Set",
-    "tips": "Can be used to draw and obtain one Phantom Thief from certain Phantom Thieves.",
+    "tips": "Can be used to randomly select one of these characters: Minami Miyashita or Yumi Shiina.",
     "contentBG": "<color=#ffffff>  </color>"
   },
   {
     "sn": "190063",
     "name": "5★ Weapon Case",
     "typeName": "Gift Set",
-    "tips": "Can be used to select and obtain one weapon from certain weapons.",
+    "tips": "Can be used to select and obtain one 5★ weapon for Morgana, Ryuji Sakamoto, Ann Takamaki, Yaoling Li, Haruna Nishimori, Minami Miyashita, Yumi Shiina, Lufel, Motoha Arai, Shun Kano, Leo Kamiyama, Kayo Tomiyama, Tomoko Noge, Kiyoshi Kurotani, Yukimi Fujikawa, Seiji Shiratori, Toshiya Sumi, Kotone Montagne, Miyu Sahara, Chizuko Nagao, or Riko Tanemura.",
     "contentBG": "<color=#ffffff>  </color>"
   },
   {
     "sn": "190064",
     "name": "Cognitite Box 3",
     "typeName": "Gift Set",
-    "tips": "Can be used to draw and obtain one Cognitite for certain Phantom Thieves.",
+    "tips": "Can be used to randomly select Cognitite for one of these charactes: Minami Miyashita or Yumi Shiina.",
     "contentBG": "AAAAAA=="
   },
   {
     "sn": "190065",
     "name": "5★ Weapon Case",
     "typeName": "Gift Set",
-    "tips": "Can be used to select and obtain one weapon from certain weapons.",
+    "tips": "Can be used to select and obtain one 5★ weapon for Ren Amamiya, Yui, Yusuke Kitagawa, Makoto Niijima, or Ayaka Sakai.",
     "contentBG": "<color=#ffffff>  </color>"
   },
   {
     "sn": "190066",
     "name": "5★ Phantom Idol Ticket 3",
     "typeName": "Gift Set",
-    "tips": "Can be used to select and obtain one character from certain available Phantom Thieves.",
+    "tips": "Can be used to select and obtain one of these characters: Ren Amamiya, Yui, Yusuke Kitagawa, Makoto Niijima, or Ayaka Sakai.",
     "contentBG": "AAAAAA=="
   },
   {
     "sn": "190067",
     "name": "4★ Weapon Case",
     "typeName": "Gift Set",
-    "tips": "Can be used to select and obtain one weapon from certain weapons.",
+    "tips": "Can be used to select and obtain one 4★ weapon for Minami Miyashita, Yumi Shiina, Kotone Montagne, Morgana, Ryuji Sakamoto, Ann Takamaki, Haruna Nishimori, Kayo Tomiyama, Miyu Sahara, Lufel, Motoha Arai, Shun Kano, Tomoko Noge, Toshiya Sumi, Yukimi Fujikawa, Seiji Shiratori, Leo Kamiyama, Kotone Montagne, Kiyoshi Kurotani, Chizuko Nagao, or Riko Tanemura.",
     "contentBG": "<color=#ffffff>  </color>"
   },
   {
@@ -1718,28 +1704,28 @@
     "sn": "190070",
     "name": "5★ Cognitite Chance 2",
     "typeName": "Gift Set",
-    "tips": "Can be used to draw and obtain one Phantom Thief from certain Phantom Thieves.",
+    "tips": "Can be used to randomly select one of these characters: Minami Miyashita, Yumi Shiina, or Masaki Ashiya.",
     "contentBG": "<color=#ffffff>  </color>"
   },
   {
     "sn": "190091",
     "name": "5★ Welcome Idol Chance",
     "typeName": "Gift Set",
-    "tips": "Can be used to draw and obtain one Phantom Thief from certain Phantom Thieves.",
+    "tips": "Can be used to randomly obtain one of these characters: Morgana, Ryuji Sakamoto, Ann Takamaki, Yaoling Li, or Haruna Nishimori.",
     "contentBG": "<color=#ffffff>  </color>"
   },
   {
     "sn": "190092",
     "name": "4★ Welcome Arms Case",
     "typeName": "Gift Set",
-    "tips": "Can be used to select and obtain one weapon from certain weapons.",
+    "tips": "Can be used to select and obtain one 4★ weapon for Morgana, Ryuji Sakamoto, Ann Takamaki, Yaoling Li, or Haruna Nishimori.",
     "contentBG": "<color=#ffffff>  </color>"
   },
   {
     "sn": "190142",
     "name": "Limited 4★ Weapon Case",
     "typeName": "Gift Set",
-    "tips": "Can be used to select and obtain one weapon from certain weapons.",
+    "tips": "Can be used to select and obtain one 4★ weapon for Ren Amamiya, Yusuke Kitagawa, Makoto Niijima, Morgana, Ryuji Sakamoto, Ann Takamaki, Haruna Nishimori, Yaoling Li, Yui, Minami Miyashita, Yumi Shiina, Kayo Tomiyama, Miyu Sahara, Lufel, Motoha Arai, Shun Kano, Tomoko Noge, Toshiya Sumi, Yukimi Fujikawa, Seiji Shiratori, Leo Kamiyama, Kotone Montagne, Kiyoshi Kurotani, Chizuko Nagao, or Mystery Phantom Thieves.",
     "contentBG": "<color=#ffffff>  </color>"
   },
   {
@@ -1755,20 +1741,6 @@
     "typeName": "Weapon",
     "tips": "Mystery Phantom Thief-only melee weapon.",
     "contentBG": "AAAAAA=="
-  },
-  {
-    "sn": "190146",
-    "name": "Swimsuit",
-    "typeName": "Outfit",
-    "tips": "Changes Makoto's appearance to her swimsuit.\nCan be obtained by purchasing the Summer Makoto Set in the Shop.",
-    "contentBG": "AAAAAA=="
-  },
-  {
-    "sn": "190148",
-    "name": "Special 5★ Weapon Case",
-    "typeName": "Gift Set",
-    "tips": "Can be used to select and obtain one weapon from certain weapons.",
-    "contentBG": "<color=#ffffff>  </color>"
   },
   {
     "sn": "200101",
@@ -1942,28 +1914,28 @@
     "sn": "210311",
     "name": "Beach Ball",
     "typeName": "Swinging Hammer",
-    "tips": "Tropical Motoha-only melee weapon.",
+    "tips": "Motoha-only melee weapon.",
     "contentBG": "<color=#ffffff>  </color>"
   },
   {
     "sn": "210312",
     "name": "Flower Ball",
     "typeName": "Swinging Hammer",
-    "tips": "Tropical Motoha-only melee weapon.",
+    "tips": "Motoha-only melee weapon.",
     "contentBG": "<color=#ffffff>  </color>"
   },
   {
     "sn": "210313",
-    "name": "Bubble Puff Star",
+    "name": "Puff Puff Star",
     "typeName": "Swinging Hammer",
-    "tips": "Tropical Motoha-only melee weapon.",
+    "tips": "Motoha-only melee weapon.",
     "contentBG": "<color=#ffffff>  </color>"
   },
   {
     "sn": "210314",
     "name": "Colorful Coast",
     "typeName": "Swinging Hammer",
-    "tips": "Tropical Motoha-only melee weapon.",
+    "tips": "Motoha-only melee weapon.",
     "contentBG": "<color=#ffffff>  </color>"
   },
   {
@@ -2201,28 +2173,28 @@
     "sn": "211011",
     "name": "Sparklers",
     "typeName": "Dual Blades",
-    "tips": "Seaside Tomoko-only melee weapon.",
+    "tips": "Tomoko-only melee weapon.",
     "contentBG": "<color=#ffffff>  </color>"
   },
   {
     "sn": "211012",
     "name": "Twinkling Sparklers",
     "typeName": "Dual Blades",
-    "tips": "Seaside Tomoko-only melee weapon.",
+    "tips": "Tomoko-only melee weapon.",
     "contentBG": "<color=#ffffff>  </color>"
   },
   {
     "sn": "211013",
     "name": "Ocean's Tidings",
     "typeName": "Dual Blades",
-    "tips": "Seaside Tomoko-only melee weapon.",
+    "tips": "Tomoko-only melee weapon.",
     "contentBG": "<color=#ffffff>  </color>"
   },
   {
     "sn": "211014",
     "name": "Bubble Babies",
     "typeName": "Dual Blades",
-    "tips": "Seaside Tomoko-only melee weapon.",
+    "tips": "Tomoko-only melee weapon.",
     "contentBG": "<color=#ffffff>  </color>"
   },
   {
@@ -2402,21 +2374,21 @@
   },
   {
     "sn": "211702",
-    "name": "High Spec Laptop",
+    "name": "Intrusion Detection Rig",
     "typeName": "Computer",
     "tips": "Futaba-only melee weapon.",
     "contentBG": "<color=#ffffff>  </color>"
   },
   {
     "sn": "211703",
-    "name": "Hacker's Cyberdeck",
+    "name": "Ghost Machine C",
     "typeName": "Computer",
     "tips": "Futaba-only melee weapon.",
     "contentBG": "<color=#ffffff>  </color>"
   },
   {
     "sn": "211704",
-    "name": "Technomancer Ultra FS",
+    "name": "Cyberdeck.HACK()",
     "typeName": "Computer",
     "tips": "Futaba-only melee weapon.",
     "contentBG": "<color=#ffffff>  </color>"
@@ -2710,21 +2682,21 @@
   },
   {
     "sn": "212902",
-    "name": "Twisted Corvus",
+    "name": "AAAAAA==",
     "typeName": "Twinblade",
     "tips": "Kitazato-only melee weapon.",
     "contentBG": "<color=#ffffff>  </color>"
   },
   {
     "sn": "212903",
-    "name": "Endless Ashes",
+    "name": "AAAAAA==",
     "typeName": "Twinblade",
     "tips": "Kitazato-only melee weapon.",
     "contentBG": "<color=#ffffff>  </color>"
   },
   {
     "sn": "212904",
-    "name": "Bloodletter",
+    "name": "AAAAAA==",
     "typeName": "Twinblade",
     "tips": "Kitazato-only melee weapon.",
     "contentBG": "<color=#ffffff>  </color>"
@@ -3713,112 +3685,112 @@
     "sn": "220821",
     "name": "Strife: Sun",
     "typeName": "Revelation",
-    "tips": "A revelation card symbolizing strife. Equipping it grants various effects.",
+    "tips": "A revelation card symbolizing valor. Equipping it grants various effects.",
     "contentBG": "<color=#ffffff>  </color>"
   },
   {
     "sn": "220822",
     "name": "Strife: Moon",
     "typeName": "Revelation",
-    "tips": "A revelation card symbolizing strife. Equipping it grants various effects.",
+    "tips": "A revelation card symbolizing valor. Equipping it grants various effects.",
     "contentBG": "<color=#ffffff>  </color>"
   },
   {
     "sn": "220823",
     "name": "Strife: Star",
     "typeName": "Revelation",
-    "tips": "A revelation card symbolizing strife. Equipping it grants various effects.",
+    "tips": "A revelation card symbolizing valor. Equipping it grants various effects.",
     "contentBG": "<color=#ffffff>  </color>"
   },
   {
     "sn": "220824",
     "name": "Strife: Sky",
     "typeName": "Revelation",
-    "tips": "A revelation card symbolizing strife. Equipping it grants various effects.",
+    "tips": "A revelation card symbolizing valor. Equipping it grants various effects.",
     "contentBG": "<color=#ffffff>  </color>"
   },
   {
     "sn": "220831",
     "name": "Strife: Sun",
     "typeName": "Revelation",
-    "tips": "A revelation card symbolizing strife. Equipping it grants various effects.",
+    "tips": "A revelation card symbolizing valor. Equipping it grants various effects.",
     "contentBG": "<color=#ffffff>  </color>"
   },
   {
     "sn": "220832",
     "name": "Strife: Moon",
     "typeName": "Revelation",
-    "tips": "A revelation card symbolizing strife. Equipping it grants various effects.",
+    "tips": "A revelation card symbolizing valor. Equipping it grants various effects.",
     "contentBG": "<color=#ffffff>  </color>"
   },
   {
     "sn": "220833",
     "name": "Strife: Star",
     "typeName": "Revelation",
-    "tips": "A revelation card symbolizing strife. Equipping it grants various effects.",
+    "tips": "A revelation card symbolizing valor. Equipping it grants various effects.",
     "contentBG": "<color=#ffffff>  </color>"
   },
   {
     "sn": "220834",
     "name": "Strife: Sky",
     "typeName": "Revelation",
-    "tips": "A revelation card symbolizing strife. Equipping it grants various effects.",
+    "tips": "A revelation card symbolizing valor. Equipping it grants various effects.",
     "contentBG": "<color=#ffffff>  </color>"
   },
   {
     "sn": "220841",
     "name": "Strife: Sun",
     "typeName": "Revelation",
-    "tips": "A revelation card symbolizing strife. Equipping it grants various effects.",
+    "tips": "A revelation card symbolizing valor. Equipping it grants various effects.",
     "contentBG": "<color=#ffffff>  </color>"
   },
   {
     "sn": "220842",
     "name": "Strife: Moon",
     "typeName": "Revelation",
-    "tips": "A revelation card symbolizing strife. Equipping it grants various effects.",
+    "tips": "A revelation card symbolizing valor. Equipping it grants various effects.",
     "contentBG": "<color=#ffffff>  </color>"
   },
   {
     "sn": "220843",
     "name": "Strife: Star",
     "typeName": "Revelation",
-    "tips": "A revelation card symbolizing strife. Equipping it grants various effects.",
+    "tips": "A revelation card symbolizing valor. Equipping it grants various effects.",
     "contentBG": "<color=#ffffff>  </color>"
   },
   {
     "sn": "220844",
     "name": "Strife: Sky",
     "typeName": "Revelation",
-    "tips": "A revelation card symbolizing strife. Equipping it grants various effects.",
+    "tips": "A revelation card symbolizing valor. Equipping it grants various effects.",
     "contentBG": "<color=#ffffff>  </color>"
   },
   {
     "sn": "220851",
     "name": "Strife: Sun",
     "typeName": "Revelation",
-    "tips": "A revelation card symbolizing strife. Equipping it grants various effects.",
+    "tips": "A revelation card symbolizing valor. Equipping it grants various effects.",
     "contentBG": "<color=#ffffff>  </color>"
   },
   {
     "sn": "220852",
     "name": "Strife: Moon",
     "typeName": "Revelation",
-    "tips": "A revelation card symbolizing strife. Equipping it grants various effects.",
+    "tips": "A revelation card symbolizing valor. Equipping it grants various effects.",
     "contentBG": "<color=#ffffff>  </color>"
   },
   {
     "sn": "220853",
     "name": "Strife: Star",
     "typeName": "Revelation",
-    "tips": "A revelation card symbolizing strife. Equipping it grants various effects.",
+    "tips": "A revelation card symbolizing valor. Equipping it grants various effects.",
     "contentBG": "<color=#ffffff>  </color>"
   },
   {
     "sn": "220854",
     "name": "Strife: Sky",
     "typeName": "Revelation",
-    "tips": "A revelation card symbolizing strife. Equipping it grants various effects.",
+    "tips": "A revelation card symbolizing valor. Equipping it grants various effects.",
     "contentBG": "<color=#ffffff>  </color>"
   },
   {
@@ -6280,9 +6252,9 @@
   },
   {
     "sn": "241008",
-    "name": "Strife Revelation - Orange",
+    "name": "Valor Revelation - Orange",
     "typeName": "Revelation",
-    "tips": "Use to receive an Orange-rarity Strife Revelation Card.",
+    "tips": "Use to receive an Orange-rarity Valor Revelation Card.",
     "contentBG": "<color=#ffffff>  </color>"
   },
   {
@@ -6560,9 +6532,9 @@
   },
   {
     "sn": "241108",
-    "name": "Strife Revelation - Purple",
+    "name": "Valor Revelation - Purple",
     "typeName": "Revelation",
-    "tips": "Use to receive a Purple-rarity Strife Revelation Card.",
+    "tips": "Use to receive a Purple-rarity Valor Revelation Card.",
     "contentBG": "<color=#ffffff>  </color>"
   },
   {
@@ -6840,9 +6812,9 @@
   },
   {
     "sn": "241148",
-    "name": "Strife Revelation - Blue",
+    "name": "Valor Revelation - Blue",
     "typeName": "Revelation",
-    "tips": "Use to receive a Blue-rarity Strife Revelation Card.",
+    "tips": "Use to receive a Blue-rarity Valor Revelation Card.",
     "contentBG": "<color=#ffffff>  </color>"
   },
   {
@@ -7857,112 +7829,112 @@
     "sn": "250821",
     "name": "Strife: Sun",
     "typeName": "Revelation",
-    "tips": "A revelation card symbolizing strife. Equipping it grants various effects.",
+    "tips": "A revelation card symbolizing valor. Equipping it grants various effects.",
     "contentBG": "<color=#ffffff>  </color>"
   },
   {
     "sn": "250822",
     "name": "Strife: Moon",
     "typeName": "Revelation",
-    "tips": "A revelation card symbolizing strife. Equipping it grants various effects.",
+    "tips": "A revelation card symbolizing valor. Equipping it grants various effects.",
     "contentBG": "<color=#ffffff>  </color>"
   },
   {
     "sn": "250823",
     "name": "Strife: Star",
     "typeName": "Revelation",
-    "tips": "A revelation card symbolizing strife. Equipping it grants various effects.",
+    "tips": "A revelation card symbolizing valor. Equipping it grants various effects.",
     "contentBG": "<color=#ffffff>  </color>"
   },
   {
     "sn": "250824",
     "name": "Strife: Sky",
     "typeName": "Revelation",
-    "tips": "A revelation card symbolizing strife. Equipping it grants various effects.",
+    "tips": "A revelation card symbolizing valor. Equipping it grants various effects.",
     "contentBG": "<color=#ffffff>  </color>"
   },
   {
     "sn": "250831",
     "name": "Strife: Sun",
     "typeName": "Revelation",
-    "tips": "A revelation card symbolizing strife. Equipping it grants various effects.",
+    "tips": "A revelation card symbolizing valor. Equipping it grants various effects.",
     "contentBG": "<color=#ffffff>  </color>"
   },
   {
     "sn": "250832",
     "name": "Strife: Moon",
     "typeName": "Revelation",
-    "tips": "A revelation card symbolizing strife. Equipping it grants various effects.",
+    "tips": "A revelation card symbolizing valor. Equipping it grants various effects.",
     "contentBG": "<color=#ffffff>  </color>"
   },
   {
     "sn": "250833",
     "name": "Strife: Star",
     "typeName": "Revelation",
-    "tips": "A revelation card symbolizing strife. Equipping it grants various effects.",
+    "tips": "A revelation card symbolizing valor. Equipping it grants various effects.",
     "contentBG": "<color=#ffffff>  </color>"
   },
   {
     "sn": "250834",
     "name": "Strife: Sky",
     "typeName": "Revelation",
-    "tips": "A revelation card symbolizing strife. Equipping it grants various effects.",
+    "tips": "A revelation card symbolizing valor. Equipping it grants various effects.",
     "contentBG": "<color=#ffffff>  </color>"
   },
   {
     "sn": "250841",
     "name": "Strife: Sun",
     "typeName": "Revelation",
-    "tips": "A revelation card symbolizing strife. Equipping it grants various effects.",
+    "tips": "A revelation card symbolizing valor. Equipping it grants various effects.",
     "contentBG": "<color=#ffffff>  </color>"
   },
   {
     "sn": "250842",
     "name": "Strife: Moon",
     "typeName": "Revelation",
-    "tips": "A revelation card symbolizing strife. Equipping it grants various effects.",
+    "tips": "A revelation card symbolizing valor. Equipping it grants various effects.",
     "contentBG": "<color=#ffffff>  </color>"
   },
   {
     "sn": "250843",
     "name": "Strife: Star",
     "typeName": "Revelation",
-    "tips": "A revelation card symbolizing strife. Equipping it grants various effects.",
+    "tips": "A revelation card symbolizing valor. Equipping it grants various effects.",
     "contentBG": "<color=#ffffff>  </color>"
   },
   {
     "sn": "250844",
     "name": "Strife: Sky",
     "typeName": "Revelation",
-    "tips": "A revelation card symbolizing strife. Equipping it grants various effects.",
+    "tips": "A revelation card symbolizing valor. Equipping it grants various effects.",
     "contentBG": "<color=#ffffff>  </color>"
   },
   {
     "sn": "250851",
     "name": "Strife: Sun",
     "typeName": "Revelation",
-    "tips": "A revelation card symbolizing strife. Equipping it grants various effects.",
+    "tips": "A revelation card symbolizing valor. Equipping it grants various effects.",
     "contentBG": "<color=#ffffff>  </color>"
   },
   {
     "sn": "250852",
     "name": "Strife: Moon",
     "typeName": "Revelation",
-    "tips": "A revelation card symbolizing strife. Equipping it grants various effects.",
+    "tips": "A revelation card symbolizing valor. Equipping it grants various effects.",
     "contentBG": "<color=#ffffff>  </color>"
   },
   {
     "sn": "250853",
     "name": "Strife: Star",
     "typeName": "Revelation",
-    "tips": "A revelation card symbolizing strife. Equipping it grants various effects.",
+    "tips": "A revelation card symbolizing valor. Equipping it grants various effects.",
     "contentBG": "<color=#ffffff>  </color>"
   },
   {
     "sn": "250854",
     "name": "Strife: Sky",
     "typeName": "Revelation",
-    "tips": "A revelation card symbolizing strife. Equipping it grants various effects.",
+    "tips": "A revelation card symbolizing valor. Equipping it grants various effects.",
     "contentBG": "<color=#ffffff>  </color>"
   },
   {
@@ -10279,7 +10251,7 @@
     "sn": "301032",
     "name": "Motoha's Cognitite 2",
     "typeName": "Lingering Thoughts",
-    "tips": "Can be used in certain areas to raise Tropical Motoha's Awareness Level.",
+    "tips": "Can be used in certain areas to raise Summer Motoha's Awareness Level.",
     "contentBG": "<color=#ffffff>  </color>"
   },
   {
@@ -10342,7 +10314,7 @@
     "sn": "301102",
     "name": "Tomoko's Cognitite 2",
     "typeName": "Lingering Thoughts",
-    "tips": "Can be used in certain areas to raise Seaside Tomoko's Awareness Level.",
+    "tips": "Can be used in certain areas to raise Summer Tomoko's Awareness Level.",
     "contentBG": "<color=#ffffff>  </color>"
   },
   {
@@ -10412,7 +10384,7 @@
     "sn": "301201",
     "name": "Makoto's Cognitite",
     "typeName": "Lingering Thoughts",
-    "tips": "Can be used in certain areas to raise Makoto's Awareness Level.",
+    "tips": "Can be used in certain areas to raise Ann's Awareness Level.",
     "contentBG": "<color=#ffffff>  </color>"
   },
   {
@@ -10762,7 +10734,7 @@
     "sn": "302310",
     "name": "Vicissitude Ink",
     "typeName": "Material",
-    "tips": "Can customize Moon, Star, or Sky Revelation Cards.",
+    "tips": "Can customize Moon, Star, or Heaven Revelation Cards.",
     "contentBG": "<color=#ffffff>  </color>"
   },
   {
@@ -11733,9 +11705,9 @@
   },
   {
     "sn": "303105",
-    "name": "Mysterious Boilie",
+    "name": "Suspicious Boilie",
     "typeName": "Bait",
-    "tips": "Fishing bait that lures small or unique fish.",
+    "tips": "Fishing bait that lures all fish.",
     "contentBG": "<color=#ffffff>  </color>"
   },
   {
@@ -12454,42 +12426,42 @@
   },
   {
     "sn": "303301",
-    "name": "Basic Prawn",
+    "name": "Common Freshwater Prawn",
     "typeName": "Material",
     "tips": "Can be exchanged for 19 points at the Catch 'n' Trade.",
     "contentBG": "A shrimp with a large head and two claws. Delicious, tender, and juicy."
   },
   {
     "sn": "303302",
-    "name": "Good Prawn",
+    "name": "Good Freshwater Prawn",
     "typeName": "Material",
     "tips": "Can be exchanged for 25 points at the Catch 'n' Trade.",
     "contentBG": "A freshwater prawn that can only be caught in a certain season. It tastes better than regular shrimp."
   },
   {
     "sn": "303303",
-    "name": "Great Prawn",
+    "name": "Great Freshwater Prawn",
     "typeName": "Material",
     "tips": "Can be exchanged for 28 points at the Catch 'n' Trade.",
     "contentBG": "A giant prawn as big as your arm. It's a premium item at seafood restaurants."
   },
   {
     "sn": "303304",
-    "name": "Prime Prawn",
+    "name": "Prime Freshwater Prawn",
     "typeName": "Material",
     "tips": "Can be exchanged for 30 points at the Catch 'n' Trade.",
     "contentBG": "For some reason, this freshwater prawn has a tag on it. It seems the fish market has taken an interest in it."
   },
   {
     "sn": "303305",
-    "name": "Best Prawn",
+    "name": "Best Freshwater Prawn",
     "typeName": "Material",
     "tips": "Can be exchanged for 36 points at the Catch 'n' Trade.",
     "contentBG": "For some reason, this freshwater prawn has a tag on it. It seems the fish market has taken an interest in it."
   },
   {
     "sn": "303306",
-    "name": "Basic Salmon",
+    "name": "Common Salmon",
     "typeName": "Material",
     "tips": "Can be exchanged for 33 points at the Catch 'n' Trade.",
     "contentBG": "A type of trout with delicious and plump meat. It's popular either fried or as sashimi."
@@ -12524,7 +12496,7 @@
   },
   {
     "sn": "303311",
-    "name": "Basic Star Snapper",
+    "name": "Common Star Snapper",
     "typeName": "Material",
     "tips": "Can be exchanged for 22 points at the Catch 'n' Trade.",
     "contentBG": "A popular edible fish. It has bright red scales."
@@ -12559,7 +12531,7 @@
   },
   {
     "sn": "303316",
-    "name": "Basic Crucian Carp",
+    "name": "Common Crucian Carp",
     "typeName": "Material",
     "tips": "Can be exchanged for 28 points at the Catch 'n' Trade.",
     "contentBG": "A common fish. It's nutritious but has a lot of bones, so you need to be careful when eating it."
@@ -12594,42 +12566,42 @@
   },
   {
     "sn": "303321",
-    "name": "Basic Black Carp",
+    "name": "Common Koi",
     "typeName": "Material",
     "tips": "Can be exchanged for 22 points at the Catch 'n' Trade.",
     "contentBG": "One of the most common varieties of fish in the world. In some countries, they are even becoming a nuisance due to overpopulation."
   },
   {
     "sn": "303322",
-    "name": "Good Black Carp",
+    "name": "Good Koi",
     "typeName": "Material",
     "tips": "Can be exchanged for 28 points at the Catch 'n' Trade.",
     "contentBG": "It has a less muddy taste compared to regular carp, and you can taste a subtle sweetness."
   },
   {
     "sn": "303323",
-    "name": "Great Black Carp",
+    "name": "Great Koi",
     "typeName": "Material",
     "tips": "Can be exchanged for 32 points at the Catch 'n' Trade.",
     "contentBG": "A carp scooped from a frozen lake in winter. Its flesh is firm and elastic, with a good amount of fat."
   },
   {
     "sn": "303324",
-    "name": "Prime Black Carp",
+    "name": "Prime Koi",
     "typeName": "Material",
     "tips": "Can be exchanged for 35 points at the Catch 'n' Trade.",
     "contentBG": "For some reason, this carp has a tag on it. It seems the fish market has taken an interest in it."
   },
   {
     "sn": "303325",
-    "name": "Great Black Carp",
+    "name": "Best Koi",
     "typeName": "Material",
     "tips": "Can be exchanged for 41 points at the Catch 'n' Trade.",
     "contentBG": "For some reason, this carp has a tag on it. It seems the fish market has taken an interest in it."
   },
   {
     "sn": "303326",
-    "name": "Basic Barbel Steed",
+    "name": "Common Barbel Steed",
     "typeName": "Material",
     "tips": "Can be exchanged for 39 points at the Catch 'n' Trade.",
     "contentBG": "Known as Ayu in Japan, this fish is a special summer delicacy. It's usually prepared using a unique cooking method."
@@ -12664,42 +12636,42 @@
   },
   {
     "sn": "303331",
-    "name": "Basic Japanese Carp",
+    "name": "Common White Crucian Carp",
     "typeName": "Material",
     "tips": "Can be exchanged for 30 points at the Catch 'n' Trade.",
-    "contentBG": "A medium fish. Grilled, boiled, or fried, it's perfect for all kinds of cooking."
+    "contentBG": "A medium-sized fish. Grilled, boiled, or fried, it's perfect for all kinds of cooking."
   },
   {
     "sn": "303332",
-    "name": "Good Japanese Carp",
+    "name": "Good White Crucian Carp",
     "typeName": "Material",
     "tips": "Can be exchanged for 39 points at the Catch 'n' Trade.",
-    "contentBG": "A more fatty Japanese carp. It's more suitable for raw consumption than common varieties."
+    "contentBG": "A more fatty white crucian carp. It's more suitable for raw consumption than common varieties."
   },
   {
     "sn": "303333",
-    "name": "Great Japanese Carp",
+    "name": "Great White Crucian Carp",
     "typeName": "Material",
     "tips": "Can be exchanged for 44 points at the Catch 'n' Trade.",
     "contentBG": "A fish that has been specially cultivated to have no fishy smell. It is extremely expensive."
   },
   {
     "sn": "303334",
-    "name": "Prime Japanese Carp",
+    "name": "Prime White Crucian Carp",
     "typeName": "Material",
     "tips": "Can be exchanged for 48 points at the Catch 'n' Trade.",
-    "contentBG": "For some reason, this Japanese carp has a tag on it. It seems the fish market has taken an interest in it."
+    "contentBG": "For some reason, this white crucian carp has a tag on it. It seems the fish market has taken an interest in it."
   },
   {
     "sn": "303335",
-    "name": "Best Japanese Carp",
+    "name": "Best White Crucian Carp",
     "typeName": "Material",
     "tips": "Can be exchanged for 57 points at the Catch 'n' Trade.",
-    "contentBG": "For some reason, this Japanese carp has a tag on it. It seems the fish market has taken an interest in it."
+    "contentBG": "For some reason, this white crucian carp has a tag on it. It seems the fish market has taken an interest in it."
   },
   {
     "sn": "303336",
-    "name": "Basic Mackerel",
+    "name": "Common Mackerel",
     "typeName": "Material",
     "tips": "Can be exchanged for 37 points at the Catch 'n' Trade.",
     "contentBG": "Fish that are commonly farmed. They can be canned, grilled with salt, or smoked."
@@ -12734,7 +12706,7 @@
   },
   {
     "sn": "303341",
-    "name": "Basic Eel",
+    "name": "Common Eel",
     "typeName": "Material",
     "tips": "Can be exchanged for 46 points at the Catch 'n' Trade.",
     "contentBG": "A fish sometimes used in medicine. It is popular for its tender texture and rich aroma."
@@ -12769,7 +12741,7 @@
   },
   {
     "sn": "303346",
-    "name": "Basic Greasy Grouper",
+    "name": "Common Greasy Grouper",
     "typeName": "Material",
     "tips": "Can be exchanged for 210 points at the Catch 'n' Trade.",
     "contentBG": "A large cultivated fish. Delicious, with skin rich in gelatin."
@@ -12804,7 +12776,7 @@
   },
   {
     "sn": "303351",
-    "name": "Basic Red Snapper",
+    "name": "Common Red Snapper",
     "typeName": "Material",
     "tips": "Can be exchanged for 140 points at the Catch 'n' Trade.",
     "contentBG": "A fish widely distributed along coastal areas. Naturally cautious and cunning, it requires great skill to catch."
@@ -12839,7 +12811,7 @@
   },
   {
     "sn": "303356",
-    "name": "Basic Dace",
+    "name": "Common Dace",
     "typeName": "Material",
     "tips": "Can be exchanged for 122 points at the Catch 'n' Trade.",
     "contentBG": "An economical fish that is easy to raise and breeds quickly. Commonly seen in fishing ponds."
@@ -12874,7 +12846,7 @@
   },
   {
     "sn": "303361",
-    "name": "Basic Barracuda",
+    "name": "Common Barracuda",
     "typeName": "Material",
     "tips": "Can be exchanged for 175 points at the Catch 'n' Trade.",
     "contentBG": "Fish that always swim in schools. They attack prey at high speed, making them difficult to catch."
@@ -12909,42 +12881,42 @@
   },
   {
     "sn": "303366",
-    "name": "Basic Pale Chub",
+    "name": "Common Minnow",
     "typeName": "Material",
     "tips": "Can be exchanged for 140 points at the Catch 'n' Trade.",
     "contentBG": "Small, aggressive fish that swim in numbers. If mixed in a fishing pond, they will prey on other fish."
   },
   {
     "sn": "303367",
-    "name": "Good Pale Chub",
+    "name": "Good Minnow",
     "typeName": "Material",
     "tips": "Can be exchanged for 180 points at the Catch 'n' Trade.",
-    "contentBG": "A pale chub that has eaten a lot of shrimp. It has stored a lot of nutrients in its body, giving it a fresh, delicious flavor."
+    "contentBG": "A minnow that has eaten a lot of shrimp. It has stored a lot of nutrients in its body, giving it a fresh, delicious flavor."
   },
   {
     "sn": "303368",
-    "name": "Great Pale Chub",
+    "name": "Great Minnow",
     "typeName": "Material",
     "tips": "Can be exchanged for 200 points at the Catch 'n' Trade.",
     "contentBG": "A rare wild pale bleak. Rich in amino acids and difficult to catch."
   },
   {
     "sn": "303369",
-    "name": "Prime Pale Chub",
+    "name": "Prime Minnow",
     "typeName": "Material",
     "tips": "Can be exchanged for 220 points at the Catch 'n' Trade.",
-    "contentBG": "For some reason, this pale chub has a tag on it. It seems the fish market has taken an interest in it."
+    "contentBG": "For some reason, this minnow has a tag on it. It seems the fish market has taken an interest in it."
   },
   {
     "sn": "303370",
-    "name": "Best Pale Chub",
+    "name": "Best Minnow",
     "typeName": "Material",
     "tips": "Can be exchanged for 260 points at the Catch 'n' Trade.",
-    "contentBG": "For some reason, this pale chub has a tag on it. It seems the fish market has taken an interest in it."
+    "contentBG": "For some reason, this minnow has a tag on it. It seems the fish market has taken an interest in it."
   },
   {
     "sn": "303371",
-    "name": "Basic Herring",
+    "name": "Common Herring",
     "typeName": "Material",
     "tips": "Can be exchanged for 157 points at the Catch 'n' Trade.",
     "contentBG": "Known as one of the four famous fish. Its delicious flavor is even celebrated in poetry."
@@ -12979,7 +12951,7 @@
   },
   {
     "sn": "303376",
-    "name": "Basic Masu Salmon",
+    "name": "Common Masu Salmon",
     "typeName": "Material",
     "tips": "Can be exchanged for 192 points at the Catch 'n' Trade.",
     "contentBG": "One of the most common types of trout in Japan. It is often released into fishing ponds as a popular catch."
@@ -12989,7 +12961,7 @@
     "name": "Good Masu Salmon",
     "typeName": "Material",
     "tips": "Can be exchanged for 247 points at the Catch 'n' Trade.",
-    "contentBG": "A masu salmon with uniquely colored scales. It prefers artificial bait and is highly valued for both ornamental viewing and fishing."
+    "contentBG": "A yamame with uniquely colored scales. It prefers artificial bait and is highly valued for both ornamental viewing and fishing."
   },
   {
     "sn": "303378",
@@ -13003,18 +12975,18 @@
     "name": "Prime Masu Salmon",
     "typeName": "Material",
     "tips": "Can be exchanged for 302 points at the Catch 'n' Trade.",
-    "contentBG": "For some reason, this masu salmon has a tag on it. It seems the fish market has taken an interest in it."
+    "contentBG": "For some reason, this yamame has a tag on it. It seems the fish market has taken an interest in it."
   },
   {
     "sn": "303380",
     "name": "Best Masu Salmon",
     "typeName": "Material",
     "tips": "Can be exchanged for 357 points at the Catch 'n' Trade.",
-    "contentBG": "For some reason, this masu salmon has a tag on it. It seems the fish market has taken an interest in it."
+    "contentBG": "For some reason, this yamame has a tag on it. It seems the fish market has taken an interest in it."
   },
   {
     "sn": "303381",
-    "name": "Basic Rockfish",
+    "name": "Common Rockfish",
     "typeName": "Material",
     "tips": "Can be exchanged for 210 points at the Catch 'n' Trade.",
     "contentBG": "A widely distributed freshwater fish, also known as Chinese perch. It has few bones and is easy to eat."
@@ -13049,7 +13021,7 @@
   },
   {
     "sn": "303386",
-    "name": "Basic Sturgeon",
+    "name": "Common Sturgeon",
     "typeName": "Material",
     "tips": "Can be exchanged for 227 points at the Catch 'n' Trade.",
     "contentBG": "Migratory fish. Also known as living fossils of the water. They have only cartilage in their bodies and are delicious."
@@ -13084,7 +13056,7 @@
   },
   {
     "sn": "303391",
-    "name": "Basic Bonito",
+    "name": "Common Bonito",
     "typeName": "Material",
     "tips": "Can be exchanged for 175 points at the Catch 'n' Trade.",
     "contentBG": "A species of tuna said to be the foundation of the flavor of Japanese cuisine. Often preserved in dried blocks, which are harder than metal."
@@ -13119,7 +13091,7 @@
   },
   {
     "sn": "303396",
-    "name": "Basic Jack Mackerel",
+    "name": "Common Jack Mackerel",
     "typeName": "Material",
     "tips": "Can be exchanged for 504 points at the Catch 'n' Trade.",
     "contentBG": "A popular edible fish in Japan. Delicious whether boiled or fried."
@@ -13129,32 +13101,32 @@
     "name": "Good Jack Mackerel",
     "typeName": "Material",
     "tips": "Can be exchanged for 648 points at the Catch 'n' Trade.",
-    "contentBG": "A meaty jack mackerel. It has more fat and is larger than a regular jack mackerel."
+    "contentBG": "A meaty horse mackerel. It has more fat and is larger than a regular horse mackerel."
   },
   {
     "sn": "303398",
     "name": "Great Jack Mackerel",
     "typeName": "Material",
     "tips": "Can be exchanged for 720 points at the Catch 'n' Trade.",
-    "contentBG": "Jack mackerel often caught in Saganoseki Town. Known for its high quality, it is often used as a premium sashimi ingredient."
+    "contentBG": "Horse mackerel that can be caught in Saganoseki Town. Known for its high quality, it is often used as a premium sashimi ingredient."
   },
   {
     "sn": "303399",
     "name": "Prime Jack Mackerel",
     "typeName": "Material",
     "tips": "Can be exchanged for 792 points at the Catch 'n' Trade.",
-    "contentBG": "For some reason, this jack mackerel has a tag on it. It seems the fish market has taken an interest in it."
+    "contentBG": "For some reason, this horse mackerel has a tag on it. It seems the fish market has taken an interest in it."
   },
   {
     "sn": "303400",
     "name": "Best Jack Mackerel",
     "typeName": "Material",
     "tips": "Can be exchanged for 936 points at the Catch 'n' Trade.",
-    "contentBG": "For some reason, this jack mackerel has a tag on it. It seems the fish market has taken an interest in it."
+    "contentBG": "For some reason, this horse mackerel has a tag on it. It seems the fish market has taken an interest in it."
   },
   {
     "sn": "303401",
-    "name": "Basic Sea Bass",
+    "name": "Common Sea Bass",
     "typeName": "Material",
     "tips": "Can be exchanged for 448 points at the Catch 'n' Trade.",
     "contentBG": "A carnivorous fish that feeds on shrimp, crabs, and small fish. Its white flesh is extremely firm and elastic."
@@ -13189,7 +13161,7 @@
   },
   {
     "sn": "303406",
-    "name": "Basic Sole",
+    "name": "Common Sole",
     "typeName": "Material",
     "tips": "Can be exchanged for 560 points at the Catch 'n' Trade.",
     "contentBG": "A Chinese tongue sole, scientifically named \"cynoglossus semilaevis.\" It inhabits the deeper parts of aquaculture ponds and is known for its strong vitality."
@@ -13224,7 +13196,7 @@
   },
   {
     "sn": "303411",
-    "name": "Basic Turbot",
+    "name": "Common Turbot",
     "typeName": "Material",
     "tips": "Can be exchanged for 672 points at the Catch 'n' Trade.",
     "contentBG": "The turbot is one of the largest fish in the sea. Usually only juveniles are released into fishing ponds."
@@ -13259,42 +13231,42 @@
   },
   {
     "sn": "303416",
-    "name": "Basic Chromis",
+    "name": "Common Pearl-Spot Chromis",
     "typeName": "Material",
     "tips": "Can be exchanged for 448 points at the Catch 'n' Trade.",
     "contentBG": "An invasive fish species that can adapt to many kinds of waters. It has become a problem even in fishing ponds due to overbreeding."
   },
   {
     "sn": "303417",
-    "name": "Good Chromis",
+    "name": "Good Pearl-Spot Chromis",
     "typeName": "Material",
     "tips": "Can be exchanged for 576 points at the Catch 'n' Trade.",
     "contentBG": "A large pearl-spot chromis. It has a lot of meat and few bones, and can be sold at a high price."
   },
   {
     "sn": "303418",
-    "name": "Great Chromis",
+    "name": "Great Pearl-Spot Chromis",
     "typeName": "Material",
     "tips": "Can be exchanged for 640 points at the Catch 'n' Trade.",
     "contentBG": "A rarely seen pearl-spot chromis. Even the most common ones can be sold at a high price."
   },
   {
     "sn": "303419",
-    "name": "Prime Chromis",
+    "name": "Prime Pearl-Spot Chromis",
     "typeName": "Material",
     "tips": "Can be exchanged for 704 points at the Catch 'n' Trade.",
     "contentBG": "For some reason, this pearl-spot chromis has a tag on it. It seems the fish market has taken an interest in it."
   },
   {
     "sn": "303420",
-    "name": "Best Chromis",
+    "name": "Best Pearl-Spot Chromis",
     "typeName": "Material",
     "tips": "Can be exchanged for 832 points at the Catch 'n' Trade.",
     "contentBG": "For some reason, this pearl-spot chromis has a tag on it. It seems the fish market has taken an interest in it."
   },
   {
     "sn": "303421",
-    "name": "Basic Malabar Grouper",
+    "name": "Common Malabar Grouper",
     "typeName": "Material",
     "tips": "Can be exchanged for 784 points at the Catch 'n' Trade.",
     "contentBG": "A slow-swimming fish. Due to its unique body structure, it is suitable for longline and handline fishing."
@@ -13329,7 +13301,7 @@
   },
   {
     "sn": "303426",
-    "name": "Basic Catfish",
+    "name": "Common Catfish",
     "typeName": "Material",
     "tips": "Can be exchanged for 560 points at the Catch 'n' Trade.",
     "contentBG": "Edible catfish that can be found anywhere. The taste is nothing special, but it's a popular catch."
@@ -13364,7 +13336,7 @@
   },
   {
     "sn": "303431",
-    "name": "Basic Mullet",
+    "name": "Common Flathead Mullet",
     "typeName": "Material",
     "tips": "Can be exchanged for 504 points at the Catch 'n' Trade.",
     "contentBG": "A very active and intelligent fish, which often swims in a zigzag pattern. It makes for an interesting fishing target."
@@ -13392,7 +13364,7 @@
   },
   {
     "sn": "303435",
-    "name": "Best Mullet",
+    "name": "Best Flathead Mullet",
     "typeName": "Material",
     "tips": "Can be exchanged for 936 points at the Catch 'n' Trade.",
     "contentBG": "For some reason, this mullet has a tag on it. It seems the fish market has taken an interest in it."
@@ -13434,423 +13406,423 @@
   },
   {
     "sn": "303556",
-    "name": "Basic Bluegill",
-    "typeName": "Material",
-    "tips": "Can be exchanged for 25 points at the Catch 'n' Trade.",
-    "contentBG": "<color=#ffffff>  </color>"
+    "name": "AAAAAA==",
+    "typeName": "AAAAAA==",
+    "tips": "AAAAAA==",
+    "contentBG": "AAAAAA=="
   },
   {
     "sn": "303557",
-    "name": "Good Bluegill",
-    "typeName": "Material",
-    "tips": "Can be exchanged for 32 points at the Catch 'n' Trade.",
-    "contentBG": "<color=#ffffff>  </color>"
+    "name": "AAAAAA==",
+    "typeName": "AAAAAA==",
+    "tips": "AAAAAA==",
+    "contentBG": "AAAAAA=="
   },
   {
     "sn": "303558",
-    "name": "Great Bluegill",
-    "typeName": "Material",
-    "tips": "Can be exchanged for 36 points at the Catch 'n' Trade.",
-    "contentBG": "<color=#ffffff>  </color>"
+    "name": "AAAAAA==",
+    "typeName": "AAAAAA==",
+    "tips": "AAAAAA==",
+    "contentBG": "AAAAAA=="
   },
   {
     "sn": "303559",
-    "name": "Prime Bluegill",
-    "typeName": "Material",
-    "tips": "Can be exchanged for 39 points at the Catch 'n' Trade.",
-    "contentBG": "<color=#ffffff>  </color>"
+    "name": "AAAAAA==",
+    "typeName": "AAAAAA==",
+    "tips": "AAAAAA==",
+    "contentBG": "AAAAAA=="
   },
   {
     "sn": "303560",
-    "name": "Best Bluegill",
-    "typeName": "Material",
-    "tips": "Can be exchanged for 46 points at the Catch 'n' Trade.",
-    "contentBG": "<color=#ffffff>  </color>"
+    "name": "AAAAAA==",
+    "typeName": "AAAAAA==",
+    "tips": "AAAAAA==",
+    "contentBG": "AAAAAA=="
   },
   {
     "sn": "303561",
-    "name": "Basic Ginbuna",
-    "typeName": "Material",
-    "tips": "Can be exchanged for 30 points at the Catch 'n' Trade.",
-    "contentBG": "<color=#ffffff>  </color>"
+    "name": "AAAAAA==",
+    "typeName": "AAAAAA==",
+    "tips": "AAAAAA==",
+    "contentBG": "AAAAAA=="
   },
   {
     "sn": "303562",
-    "name": "Good Ginbuna",
-    "typeName": "Material",
-    "tips": "Can be exchanged for 39 points at the Catch 'n' Trade.",
-    "contentBG": "<color=#ffffff>  </color>"
+    "name": "AAAAAA==",
+    "typeName": "AAAAAA==",
+    "tips": "AAAAAA==",
+    "contentBG": "AAAAAA=="
   },
   {
     "sn": "303563",
-    "name": "Great Ginbuna",
-    "typeName": "Material",
-    "tips": "Can be exchanged for 44 points at the Catch 'n' Trade.",
-    "contentBG": "<color=#ffffff>  </color>"
+    "name": "AAAAAA==",
+    "typeName": "AAAAAA==",
+    "tips": "AAAAAA==",
+    "contentBG": "AAAAAA=="
   },
   {
     "sn": "303564",
-    "name": "Prime Ginbuna",
-    "typeName": "Material",
-    "tips": "Can be exchanged for 48 points at the Catch 'n' Trade.",
-    "contentBG": "<color=#ffffff>  </color>"
+    "name": "AAAAAA==",
+    "typeName": "AAAAAA==",
+    "tips": "AAAAAA==",
+    "contentBG": "AAAAAA=="
   },
   {
     "sn": "303565",
-    "name": "Best Ginbuna",
-    "typeName": "Material",
-    "tips": "Can be exchanged for 57 points at the Catch 'n' Trade.",
-    "contentBG": "<color=#ffffff>  </color>"
+    "name": "AAAAAA==",
+    "typeName": "AAAAAA==",
+    "tips": "AAAAAA==",
+    "contentBG": "AAAAAA=="
   },
   {
     "sn": "303566",
-    "name": "Basic Dark Chub",
-    "typeName": "Material",
-    "tips": "Can be exchanged for 54 points at the Catch 'n' Trade.",
-    "contentBG": "<color=#ffffff>  </color>"
+    "name": "AAAAAA==",
+    "typeName": "AAAAAA==",
+    "tips": "AAAAAA==",
+    "contentBG": "AAAAAA=="
   },
   {
     "sn": "303567",
-    "name": "Good Dark Chub",
-    "typeName": "Material",
-    "tips": "Can be exchanged for 70 points at the Catch 'n' Trade.",
-    "contentBG": "<color=#ffffff>  </color>"
+    "name": "AAAAAA==",
+    "typeName": "AAAAAA==",
+    "tips": "AAAAAA==",
+    "contentBG": "AAAAAA=="
   },
   {
     "sn": "303568",
-    "name": "Great Dark Chub",
-    "typeName": "Material",
-    "tips": "Can be exchanged for 78 points at the Catch 'n' Trade.",
-    "contentBG": "<color=#ffffff>  </color>"
+    "name": "AAAAAA==",
+    "typeName": "AAAAAA==",
+    "tips": "AAAAAA==",
+    "contentBG": "AAAAAA=="
   },
   {
     "sn": "303569",
-    "name": "Prime Dark Chub",
-    "typeName": "Material",
-    "tips": "Can be exchanged for 85 points at the Catch 'n' Trade.",
-    "contentBG": "<color=#ffffff>  </color>"
+    "name": "AAAAAA==",
+    "typeName": "AAAAAA==",
+    "tips": "AAAAAA==",
+    "contentBG": "AAAAAA=="
   },
   {
     "sn": "303570",
-    "name": "Best Dark Chub",
-    "typeName": "Material",
-    "tips": "Can be exchanged for 101 points at the Catch 'n' Trade.",
-    "contentBG": "<color=#ffffff>  </color>"
+    "name": "AAAAAA==",
+    "typeName": "AAAAAA==",
+    "tips": "AAAAAA==",
+    "contentBG": "AAAAAA=="
   },
   {
     "sn": "303571",
-    "name": "Basic Crane Prawn",
-    "typeName": "Material",
-    "tips": "Can be exchanged for 157 points at the Catch 'n' Trade.",
-    "contentBG": "<color=#ffffff>  </color>"
+    "name": "AAAAAA==",
+    "typeName": "AAAAAA==",
+    "tips": "AAAAAA==",
+    "contentBG": "AAAAAA=="
   },
   {
     "sn": "303572",
-    "name": "Good Crane Prawn",
-    "typeName": "Material",
-    "tips": "Can be exchanged for 202 points at the Catch 'n' Trade.",
-    "contentBG": "<color=#ffffff>  </color>"
+    "name": "AAAAAA==",
+    "typeName": "AAAAAA==",
+    "tips": "AAAAAA==",
+    "contentBG": "AAAAAA=="
   },
   {
     "sn": "303573",
-    "name": "Great Crane Prawn",
-    "typeName": "Material",
-    "tips": "Can be exchanged for 225 points at the Catch 'n' Trade.",
-    "contentBG": "<color=#ffffff>  </color>"
+    "name": "AAAAAA==",
+    "typeName": "AAAAAA==",
+    "tips": "AAAAAA==",
+    "contentBG": "AAAAAA=="
   },
   {
     "sn": "303574",
-    "name": "Prime Crane Prawn",
-    "typeName": "Material",
-    "tips": "Can be exchanged for 247 points at the Catch 'n' Trade.",
-    "contentBG": "<color=#ffffff>  </color>"
+    "name": "AAAAAA==",
+    "typeName": "AAAAAA==",
+    "tips": "AAAAAA==",
+    "contentBG": "AAAAAA=="
   },
   {
     "sn": "303575",
-    "name": "Best Crane Prawn",
-    "typeName": "Material",
-    "tips": "Can be exchanged for 292 points at the Catch 'n' Trade.",
-    "contentBG": "<color=#ffffff>  </color>"
+    "name": "AAAAAA==",
+    "typeName": "AAAAAA==",
+    "tips": "AAAAAA==",
+    "contentBG": "AAAAAA=="
   },
   {
     "sn": "303576",
-    "name": "Basic Amago",
-    "typeName": "Material",
-    "tips": "Can be exchanged for 192 points at the Catch 'n' Trade.",
-    "contentBG": "<color=#ffffff>  </color>"
+    "name": "AAAAAA==",
+    "typeName": "AAAAAA==",
+    "tips": "AAAAAA==",
+    "contentBG": "AAAAAA=="
   },
   {
     "sn": "303577",
-    "name": "Good Amago",
-    "typeName": "Material",
-    "tips": "Can be exchanged for 247 points at the Catch 'n' Trade.",
-    "contentBG": "<color=#ffffff>  </color>"
+    "name": "AAAAAA==",
+    "typeName": "AAAAAA==",
+    "tips": "AAAAAA==",
+    "contentBG": "AAAAAA=="
   },
   {
     "sn": "303578",
-    "name": "Great Amago",
-    "typeName": "Material",
-    "tips": "Can be exchanged for 275 points at the Catch 'n' Trade.",
-    "contentBG": "<color=#ffffff>  </color>"
+    "name": "AAAAAA==",
+    "typeName": "AAAAAA==",
+    "tips": "AAAAAA==",
+    "contentBG": "AAAAAA=="
   },
   {
     "sn": "303579",
-    "name": "Prime Amago",
-    "typeName": "Material",
-    "tips": "Can be exchanged for 302 points at the Catch 'n' Trade.",
-    "contentBG": "<color=#ffffff>  </color>"
+    "name": "AAAAAA==",
+    "typeName": "AAAAAA==",
+    "tips": "AAAAAA==",
+    "contentBG": "AAAAAA=="
   },
   {
     "sn": "303580",
-    "name": "Best Amago",
-    "typeName": "Material",
-    "tips": "Can be exchanged for 357 points at the Catch 'n' Trade.",
-    "contentBG": "<color=#ffffff>  </color>"
+    "name": "AAAAAA==",
+    "typeName": "AAAAAA==",
+    "tips": "AAAAAA==",
+    "contentBG": "AAAAAA=="
   },
   {
     "sn": "303581",
-    "name": "Basic Char",
-    "typeName": "Material",
-    "tips": "Can be exchanged for 175 points at the Catch 'n' Trade.",
-    "contentBG": "<color=#ffffff>  </color>"
+    "name": "AAAAAA==",
+    "typeName": "AAAAAA==",
+    "tips": "AAAAAA==",
+    "contentBG": "AAAAAA=="
   },
   {
     "sn": "303582",
-    "name": "Good Char",
-    "typeName": "Material",
-    "tips": "Can be exchanged for 225 points at the Catch 'n' Trade.",
-    "contentBG": "<color=#ffffff>  </color>"
+    "name": "AAAAAA==",
+    "typeName": "AAAAAA==",
+    "tips": "AAAAAA==",
+    "contentBG": "AAAAAA=="
   },
   {
     "sn": "303583",
-    "name": "Great Char",
-    "typeName": "Material",
-    "tips": "Can be exchanged for 250 points at the Catch 'n' Trade.",
-    "contentBG": "<color=#ffffff>  </color>"
+    "name": "AAAAAA==",
+    "typeName": "AAAAAA==",
+    "tips": "AAAAAA==",
+    "contentBG": "AAAAAA=="
   },
   {
     "sn": "303584",
-    "name": "Prime Char",
-    "typeName": "Material",
-    "tips": "Can be exchanged for 275 points at the Catch 'n' Trade.",
-    "contentBG": "<color=#ffffff>  </color>"
+    "name": "AAAAAA==",
+    "typeName": "AAAAAA==",
+    "tips": "AAAAAA==",
+    "contentBG": "AAAAAA=="
   },
   {
     "sn": "303585",
-    "name": "Best Char",
-    "typeName": "Material",
-    "tips": "Can be exchanged for 325 points at the Catch 'n' Trade.",
-    "contentBG": "<color=#ffffff>  </color>"
+    "name": "AAAAAA==",
+    "typeName": "AAAAAA==",
+    "tips": "AAAAAA==",
+    "contentBG": "AAAAAA=="
   },
   {
     "sn": "303586",
-    "name": "Basic Big Carp",
-    "typeName": "Material",
-    "tips": "Can be exchanged for 392 points at the Catch 'n' Trade.",
-    "contentBG": "<color=#ffffff>  </color>"
+    "name": "AAAAAA==",
+    "typeName": "AAAAAA==",
+    "tips": "AAAAAA==",
+    "contentBG": "AAAAAA=="
   },
   {
     "sn": "303587",
-    "name": "Good Big Carp",
-    "typeName": "Material",
-    "tips": "Can be exchanged for 504 points at the Catch 'n' Trade.",
-    "contentBG": "<color=#ffffff>  </color>"
+    "name": "AAAAAA==",
+    "typeName": "AAAAAA==",
+    "tips": "AAAAAA==",
+    "contentBG": "AAAAAA=="
   },
   {
     "sn": "303588",
-    "name": "Great Big Carp",
-    "typeName": "Material",
-    "tips": "Can be exchanged for 560 points at the Catch 'n' Trade.",
-    "contentBG": "<color=#ffffff>  </color>"
+    "name": "AAAAAA==",
+    "typeName": "AAAAAA==",
+    "tips": "AAAAAA==",
+    "contentBG": "AAAAAA=="
   },
   {
     "sn": "303589",
-    "name": "Prime Big Carp",
-    "typeName": "Material",
-    "tips": "Can be exchanged for 616 points at the Catch 'n' Trade.",
-    "contentBG": "<color=#ffffff>  </color>"
+    "name": "AAAAAA==",
+    "typeName": "AAAAAA==",
+    "tips": "AAAAAA==",
+    "contentBG": "AAAAAA=="
   },
   {
     "sn": "303590",
-    "name": "Best Big Carp",
-    "typeName": "Material",
-    "tips": "Can be exchanged for 728 points at the Catch 'n' Trade.",
-    "contentBG": "<color=#ffffff>  </color>"
+    "name": "AAAAAA==",
+    "typeName": "AAAAAA==",
+    "tips": "AAAAAA==",
+    "contentBG": "AAAAAA=="
   },
   {
     "sn": "303591",
-    "name": "Basic Black Bass",
-    "typeName": "Material",
-    "tips": "Can be exchanged for 448 points at the Catch 'n' Trade.",
-    "contentBG": "<color=#ffffff>  </color>"
+    "name": "AAAAAA==",
+    "typeName": "AAAAAA==",
+    "tips": "AAAAAA==",
+    "contentBG": "AAAAAA=="
   },
   {
     "sn": "303592",
-    "name": "Good Black Bass",
-    "typeName": "Material",
-    "tips": "Can be exchanged for 576 points at the Catch 'n' Trade.",
-    "contentBG": "<color=#ffffff>  </color>"
+    "name": "AAAAAA==",
+    "typeName": "AAAAAA==",
+    "tips": "AAAAAA==",
+    "contentBG": "AAAAAA=="
   },
   {
     "sn": "303593",
-    "name": "Great Black Bass",
-    "typeName": "Material",
-    "tips": "Can be exchanged for 640 points at the Catch 'n' Trade.",
-    "contentBG": "<color=#ffffff>  </color>"
+    "name": "AAAAAA==",
+    "typeName": "AAAAAA==",
+    "tips": "AAAAAA==",
+    "contentBG": "AAAAAA=="
   },
   {
     "sn": "303594",
-    "name": "Prime Black Bass",
-    "typeName": "Material",
-    "tips": "Can be exchanged for 704 points at the Catch 'n' Trade.",
-    "contentBG": "<color=#ffffff>  </color>"
+    "name": "AAAAAA==",
+    "typeName": "AAAAAA==",
+    "tips": "AAAAAA==",
+    "contentBG": "AAAAAA=="
   },
   {
     "sn": "303595",
-    "name": "Best Black Bass",
-    "typeName": "Material",
-    "tips": "Can be exchanged for 832 points at the Catch 'n' Trade.",
-    "contentBG": "<color=#ffffff>  </color>"
+    "name": "AAAAAA==",
+    "typeName": "AAAAAA==",
+    "tips": "AAAAAA==",
+    "contentBG": "AAAAAA=="
   },
   {
     "sn": "303596",
-    "name": "Basic Golden Trout",
-    "typeName": "Material",
-    "tips": "Can be exchanged for 560 points at the Catch 'n' Trade.",
-    "contentBG": "<color=#ffffff>  </color>"
+    "name": "AAAAAA==",
+    "typeName": "AAAAAA==",
+    "tips": "AAAAAA==",
+    "contentBG": "AAAAAA=="
   },
   {
     "sn": "303597",
-    "name": "Good Golden Trout",
-    "typeName": "Material",
-    "tips": "Can be exchanged for 720 points at the Catch 'n' Trade.",
-    "contentBG": "<color=#ffffff>  </color>"
+    "name": "AAAAAA==",
+    "typeName": "AAAAAA==",
+    "tips": "AAAAAA==",
+    "contentBG": "AAAAAA=="
   },
   {
     "sn": "303598",
-    "name": "Great Golden Trout",
-    "typeName": "Material",
-    "tips": "Can be exchanged for 800 points at the Catch 'n' Trade.",
-    "contentBG": "<color=#ffffff>  </color>"
+    "name": "AAAAAA==",
+    "typeName": "AAAAAA==",
+    "tips": "AAAAAA==",
+    "contentBG": "AAAAAA=="
   },
   {
     "sn": "303599",
-    "name": "Prime Golden Trout",
-    "typeName": "Material",
-    "tips": "Can be exchanged for 880 points at the Catch 'n' Trade.",
-    "contentBG": "<color=#ffffff>  </color>"
+    "name": "AAAAAA==",
+    "typeName": "AAAAAA==",
+    "tips": "AAAAAA==",
+    "contentBG": "AAAAAA=="
   },
   {
     "sn": "303600",
-    "name": "Best Golden Trout",
-    "typeName": "Material",
-    "tips": "Can be exchanged for 1040 points at the Catch 'n' Trade.",
-    "contentBG": "<color=#ffffff>  </color>"
+    "name": "AAAAAA==",
+    "typeName": "AAAAAA==",
+    "tips": "AAAAAA==",
+    "contentBG": "AAAAAA=="
   },
   {
     "sn": "303601",
-    "name": "Basic Rainbow Trout",
-    "typeName": "Material",
-    "tips": "Can be exchanged for 616 points at the Catch 'n' Trade.",
-    "contentBG": "<color=#ffffff>  </color>"
+    "name": "AAAAAA==",
+    "typeName": "AAAAAA==",
+    "tips": "AAAAAA==",
+    "contentBG": "AAAAAA=="
   },
   {
     "sn": "303602",
-    "name": "Good Rainbow Trout",
-    "typeName": "Material",
-    "tips": "Can be exchanged for 792 points at the Catch 'n' Trade.",
-    "contentBG": "<color=#ffffff>  </color>"
+    "name": "AAAAAA==",
+    "typeName": "AAAAAA==",
+    "tips": "AAAAAA==",
+    "contentBG": "AAAAAA=="
   },
   {
     "sn": "303603",
-    "name": "Great Rainbow Trout",
-    "typeName": "Material",
-    "tips": "Can be exchanged for 880 points at the Catch 'n' Trade.",
-    "contentBG": "<color=#ffffff>  </color>"
+    "name": "AAAAAA==",
+    "typeName": "AAAAAA==",
+    "tips": "AAAAAA==",
+    "contentBG": "AAAAAA=="
   },
   {
     "sn": "303604",
-    "name": "Prime Rainbow Trout",
-    "typeName": "Material",
-    "tips": "Can be exchanged for 968 points at the Catch 'n' Trade.",
-    "contentBG": "<color=#ffffff>  </color>"
+    "name": "AAAAAA==",
+    "typeName": "AAAAAA==",
+    "tips": "AAAAAA==",
+    "contentBG": "AAAAAA=="
   },
   {
     "sn": "303605",
-    "name": "Best Rainbow Trout",
-    "typeName": "Material",
-    "tips": "Can be exchanged for 1144 points at the Catch 'n' Trade.",
-    "contentBG": "<color=#ffffff>  </color>"
+    "name": "AAAAAA==",
+    "typeName": "AAAAAA==",
+    "tips": "AAAAAA==",
+    "contentBG": "AAAAAA=="
   },
   {
     "sn": "303606",
-    "name": "Basic Sockeye",
-    "typeName": "Material",
-    "tips": "Can be exchanged for 616 points at the Catch 'n' Trade.",
-    "contentBG": "<color=#ffffff>  </color>"
+    "name": "AAAAAA==",
+    "typeName": "AAAAAA==",
+    "tips": "AAAAAA==",
+    "contentBG": "AAAAAA=="
   },
   {
     "sn": "303607",
-    "name": "Good Sockeye",
-    "typeName": "Material",
-    "tips": "Can be exchanged for 792 points at the Catch 'n' Trade.",
-    "contentBG": "<color=#ffffff>  </color>"
+    "name": "AAAAAA==",
+    "typeName": "AAAAAA==",
+    "tips": "AAAAAA==",
+    "contentBG": "AAAAAA=="
   },
   {
     "sn": "303608",
-    "name": "Great Sockeye",
-    "typeName": "Material",
-    "tips": "Can be exchanged for 880 points at the Catch 'n' Trade.",
-    "contentBG": "<color=#ffffff>  </color>"
+    "name": "AAAAAA==",
+    "typeName": "AAAAAA==",
+    "tips": "AAAAAA==",
+    "contentBG": "AAAAAA=="
   },
   {
     "sn": "303609",
-    "name": "Prime Sockeye",
-    "typeName": "Material",
-    "tips": "Can be exchanged for 968 points at the Catch 'n' Trade.",
-    "contentBG": "<color=#ffffff>  </color>"
+    "name": "AAAAAA==",
+    "typeName": "AAAAAA==",
+    "tips": "AAAAAA==",
+    "contentBG": "AAAAAA=="
   },
   {
     "sn": "303610",
-    "name": "Best Sockeye",
-    "typeName": "Material",
-    "tips": "Can be exchanged for 1144 points at the Catch 'n' Trade.",
-    "contentBG": "<color=#ffffff>  </color>"
+    "name": "AAAAAA==",
+    "typeName": "AAAAAA==",
+    "tips": "AAAAAA==",
+    "contentBG": "AAAAAA=="
   },
   {
     "sn": "303611",
-    "name": "Basic Giant Prawn",
-    "typeName": "Material",
-    "tips": "Can be exchanged for 728 points at the Catch 'n' Trade.",
-    "contentBG": "<color=#ffffff>  </color>"
+    "name": "AAAAAA==",
+    "typeName": "AAAAAA==",
+    "tips": "AAAAAA==",
+    "contentBG": "AAAAAA=="
   },
   {
     "sn": "303612",
-    "name": "Good Giant Prawn",
-    "typeName": "Material",
-    "tips": "Can be exchanged for 936 points at the Catch 'n' Trade.",
-    "contentBG": "<color=#ffffff>  </color>"
+    "name": "AAAAAA==",
+    "typeName": "AAAAAA==",
+    "tips": "AAAAAA==",
+    "contentBG": "AAAAAA=="
   },
   {
     "sn": "303613",
-    "name": "Great Giant Prawn",
-    "typeName": "Material",
-    "tips": "Can be exchanged for 1040 points at the Catch 'n' Trade.",
-    "contentBG": "<color=#ffffff>  </color>"
+    "name": "AAAAAA==",
+    "typeName": "AAAAAA==",
+    "tips": "AAAAAA==",
+    "contentBG": "AAAAAA=="
   },
   {
     "sn": "303614",
-    "name": "Prime Giant Prawn",
-    "typeName": "Material",
-    "tips": "Can be exchanged for 1144 points at the Catch 'n' Trade.",
-    "contentBG": "<color=#ffffff>  </color>"
+    "name": "AAAAAA==",
+    "typeName": "AAAAAA==",
+    "tips": "AAAAAA==",
+    "contentBG": "AAAAAA=="
   },
   {
     "sn": "303615",
-    "name": "Best Giant Prawn",
-    "typeName": "Material",
-    "tips": "Can be exchanged for 1352 points at the Catch 'n' Trade.",
-    "contentBG": "<color=#ffffff>  </color>"
+    "name": "AAAAAA==",
+    "typeName": "AAAAAA==",
+    "tips": "AAAAAA==",
+    "contentBG": "AAAAAA=="
   },
   {
     "sn": "304000",
@@ -14130,616 +14102,616 @@
     "name": "Tonkatsu",
     "typeName": "Food",
     "tips": "A dish made with flour, eggs, and pork.",
-    "contentBG": "A dish featuring juicy pork covered with crispy batter. Pour some sauce over it and add as much rice as you want for the perfect bite."
+    "contentBG": "<color=#ffffff>  </color>"
   },
   {
     "sn": "304201",
     "name": "Miso Ramen",
     "typeName": "Food",
     "tips": "A dish made with flour, eggs, and miso.",
-    "contentBG": "The rich miso soup pairs excellently with the springy egg noodles, creating an exquisite dish."
+    "contentBG": "<color=#ffffff>  </color>"
   },
   {
     "sn": "304202",
     "name": "Salmon Sashimi",
     "typeName": "Food",
     "tips": "A dish made with salmon, soy sauce, and wasabi.",
-    "contentBG": "High-quality salmon sashimi, rich in sweet fat, and served with a simple pairing of wasabi and soy sauce."
+    "contentBG": "<color=#ffffff>  </color>"
   },
   {
     "sn": "304203",
     "name": "Manju",
     "typeName": "Food",
     "tips": "A dish made with glutinous rice, azuki beans, and sugar.",
-    "contentBG": "A Japanese sweet made with rice flour and red bean paste. Using a flower-shaped wooden mold gives it a professional-level presentation."
+    "contentBG": "<color=#ffffff>  </color>"
   },
   {
     "sn": "304204",
     "name": "Curry with Rice",
     "typeName": "Food",
     "tips": "A dish made with rice, chicken, potatoes, onions, and curry roux.",
-    "contentBG": "Classic curry and rice made by slowly simmering chunky ingredients."
+    "contentBG": "<color=#ffffff>  </color>"
   },
   {
     "sn": "304205",
     "name": "Sukiyaki",
     "typeName": "Food",
     "tips": "A dish made with beef, napa cabbage, tofu, shiitake mushrooms, and carrots.",
-    "contentBG": "A flavorful hot pot with beef, vegetables, tofu, and mushrooms in a sweet and spicy sauce."
+    "contentBG": "<color=#ffffff>  </color>"
   },
   {
     "sn": "304206",
     "name": "Matcha Ice Cream",
     "typeName": "Food",
     "tips": "A dish made with matcha, milk, and sugar.",
-    "contentBG": "Matcha-flavored ice cream that's easy to make at home. It has a simple yet rich flavor."
+    "contentBG": "<color=#ffffff>  </color>"
   },
   {
     "sn": "304207",
     "name": "Croquette",
     "typeName": "Food",
     "tips": "A dish made with flour, potatoes, and pork.",
-    "contentBG": "Croquettes full of meaty umami flavor. The fluffy potatoes and crispy batter create a perfect combination."
+    "contentBG": "<color=#ffffff>  </color>"
   },
   {
     "sn": "304208",
     "name": "Eel Rice Bowl",
     "typeName": "Food",
     "tips": "A dish made with rice and eel.",
-    "contentBG": "Thick, plump grilled eel served in a rich sauce over white rice. Almost too luxurious to eat at home."
+    "contentBG": "<color=#ffffff>  </color>"
   },
   {
     "sn": "304209",
     "name": "Tricolored Dango",
     "typeName": "Food",
     "tips": "A dish made with glutinous rice, milk, and sugar.",
-    "contentBG": "Sweet and chewy rice dumplings in three appealing pastel colors."
+    "contentBG": "<color=#ffffff>  </color>"
   },
   {
     "sn": "304210",
     "name": "Tempura",
     "typeName": "Food",
     "tips": "A dish made with flour, eggs, shrimp, and soy sauce.",
-    "contentBG": "Large shrimp tempura. The secret to frying them is to mix the batter with cold water and egg yolk."
+    "contentBG": "<color=#ffffff>  </color>"
   },
   {
     "sn": "304211",
     "name": "Almond Jelly",
     "typeName": "Food",
     "tips": "A dish made with almonds, milk, and sugar.",
-    "contentBG": "With the right ingredients, authentic almond tofu is surprisingly easy to make."
+    "contentBG": "<color=#ffffff>  </color>"
   },
   {
     "sn": "304212",
     "name": "Caramel Flan",
     "typeName": "Food",
     "tips": "A dish made with milk, eggs, and sugar.",
-    "contentBG": "A rich, traditional pudding that's simple yet surprisingly time-consuming to prepare. Perfect with a caramel sauce."
+    "contentBG": "<color=#ffffff>  </color>"
   },
   {
     "sn": "304213",
     "name": "Omelette Rice",
     "typeName": "Food",
     "tips": "A dish made with rice, eggs, and tomatoes.",
-    "contentBG": "Classic omelette rice made with ketchup and rice wrapped with egg."
+    "contentBG": "<color=#ffffff>  </color>"
   },
   {
     "sn": "304214",
     "name": "Seafood Salad",
     "typeName": "Food",
     "tips": "A dish made with caviar, eggs, and cabbage.",
-    "contentBG": "Fresh salad tossed with caviar and topped with a homemade egg dressing. Mom's own recipe."
+    "contentBG": "<color=#ffffff>  </color>"
   },
   {
     "sn": "304215",
     "name": "Winter Melon Tea",
     "typeName": "Food",
     "tips": "A dish made with winter melon and sugar.",
-    "contentBG": "A simple blend of mashed winter melon and sugar, boiled down and mixed into water. It's said to be good for your health."
+    "contentBG": "<color=#ffffff>  </color>"
   },
   {
     "sn": "304216",
     "name": "Mouthwatering Chicken",
     "typeName": "Food",
     "tips": "A dish made with chicken, leek, garlic, and vinegar.",
-    "contentBG": "A delicious Chinese dish made with tender steamed chicken in a spicy and sour sauce. Best served with rice."
+    "contentBG": "<color=#ffffff>  </color>"
   },
   {
     "sn": "304217",
     "name": "Chinese Stir-Fry",
     "typeName": "Food",
     "tips": "A dish made with sea cucumber, leek, and soy sauce.",
-    "contentBG": "An authentic Chinese recipe that will test your culinary skills. Best of luck."
+    "contentBG": "<color=#ffffff>  </color>"
   },
   {
     "sn": "304218",
     "name": "Sweet Kinako Mochi",
     "typeName": "Food",
     "tips": "A dish made with glutinous rice and sugar.",
-    "contentBG": "A Japanese sweet made with smooth, soft mochi drizzled with brown sugar syrup. It goes without saying that it's delicious."
+    "contentBG": "<color=#ffffff>  </color>"
   },
   {
     "sn": "304219",
     "name": "Sweet and Sour Fish",
     "typeName": "Food",
     "tips": "A dish made with sea bass, soy sauce, sugar, vinegar, and Shaoxing wine.",
-    "contentBG": "Deep-fried white fish with a sweet and sour sauce. The secret ingredient is Shaoxing wine, adding a touch of authenticity."
+    "contentBG": "<color=#ffffff>  </color>"
   },
   {
     "sn": "304220",
     "name": "Spicy Boiled Fish",
     "typeName": "Food",
     "tips": "A dish made with sea bass, soy sauce, green onion, and chili pepper.",
-    "contentBG": "Sichuan cuisine known for its intense spiciness. If you can take the heat, there's a definite umami note underneath it all."
+    "contentBG": "<color=#ffffff>  </color>"
   },
   {
     "sn": "304221",
     "name": "Milk Pudding",
     "typeName": "Food",
     "tips": "A dish made with milk, eggs, and sugar.",
-    "contentBG": "A smooth and delicious milk pudding."
+    "contentBG": "<color=#ffffff>  </color>"
   },
   {
     "sn": "304222",
     "name": "Gyoza",
     "typeName": "Food",
     "tips": "A dish made with flour, shrimp, and pork.",
-    "contentBG": "Handmade gyoza dumplings filled with shrimp. The juices overflow when you bite into the springy, fluffy wrapping."
+    "contentBG": "<color=#ffffff>  </color>"
   },
   {
     "sn": "304223",
     "name": "Lychee Shrimp Balls",
     "typeName": "Food",
     "tips": "A dish made with shrimp, lychees, and sugar.",
-    "contentBG": "A regional stir-fry made with shrimp dumplings and lychee. It has a unique and fragrant aroma."
+    "contentBG": "<color=#ffffff>  </color>"
   },
   {
     "sn": "304224",
     "name": "Sticky Rice Balls",
     "typeName": "Food",
     "tips": "A dish made with glutinous rice, azuki beans, and sugar.",
-    "contentBG": "Smooth and chewy rice balls filled with red bean paste. Try not to eat too many."
+    "contentBG": "<color=#ffffff>  </color>"
   },
   {
     "sn": "304225",
     "name": "Cantonese Char Siu",
     "typeName": "Food",
     "tips": "A dish made with pork, soy sauce, garlic, and sugar.",
-    "contentBG": "Perfectly seasoned pork, slow-roasted in the oven for an easy and authentic char siu dish."
+    "contentBG": "<color=#ffffff>  </color>"
   },
   {
     "sn": "304226",
     "name": "Beef Stew",
     "typeName": "Food",
     "tips": "A dish made with beef, soy sauce, and chili pepper.",
-    "contentBG": "A Chinese-style stew with tender beef and chili peppers. Even though it's spicy, you won't be able to stop eating it."
+    "contentBG": "<color=#ffffff>  </color>"
   },
   {
     "sn": "304227",
     "name": "Spring Rolls",
     "typeName": "Food",
     "tips": "A dish made with flour, pork, and cabbage.",
-    "contentBG": "Handmade spring rolls, made with crispy batter and filled with rich flavors. Great when fresh, but you can also enjoy them cold."
+    "contentBG": "<color=#ffffff>  </color>"
   },
   {
     "sn": "304228",
     "name": "Youlinji",
     "typeName": "Food",
     "tips": "A dish made with chicken, leek, soy sauce, and sugar.",
-    "contentBG": "Crispy fried chicken and chopped green onions in a sour sauce. Goes well with rice."
+    "contentBG": "<color=#ffffff>  </color>"
   },
   {
     "sn": "304229",
     "name": "Mapo Tofu",
     "typeName": "Food",
     "tips": "A dish made with tofu, beef, chili pepper, and soy sauce.",
-    "contentBG": "A staple of Chinese cuisine. As long as you have the ingredients, it's surprisingly easy to make from scratch."
+    "contentBG": "<color=#ffffff>  </color>"
   },
   {
     "sn": "304230",
     "name": "Shiruko",
     "typeName": "Food",
     "tips": "A dish made with azuki beans and sugar.",
-    "contentBG": "Eating this on a cold day will warm you right up. The gentle sweetness of the red beans gives it a nostalgic flavor."
+    "contentBG": "<color=#ffffff>  </color>"
   },
   {
     "sn": "304231",
     "name": "Chinese Medicinal Soup",
     "typeName": "Food",
     "tips": "A dish made with crucian carp, tofu, and leek.",
-    "contentBG": "A creamy medicinal soup made with fried crucian carp. No strong odors, and nutrition you can taste. Classic Shanghai cuisine."
+    "contentBG": "<color=#ffffff>  </color>"
   },
   {
     "sn": "304232",
     "name": "Shrimp Stir-Fry",
     "typeName": "Food",
     "tips": "A dish made with shrimp, luxury Chinese tea, and eggs.",
-    "contentBG": "A delicious and high-class dish made with shrimp and tea leaves. Iconic Hangzhou cuisine."
+    "contentBG": "<color=#ffffff>  </color>"
   },
   {
     "sn": "304233",
     "name": "Mung Bean Milk",
     "typeName": "Food",
     "tips": "A dish made with mung beans.",
-    "contentBG": "Soy milk made with mung beans, rich in flavor."
+    "contentBG": "<color=#ffffff>  </color>"
   },
   {
     "sn": "304234",
     "name": "Vinegar Tofu",
     "typeName": "Food",
     "tips": "A dish made with tofu, garlic, and leek.",
-    "contentBG": "A simple dish made by stir-frying thickly sliced deep-fried tofu with black vinegar. Quick to whip up, yet very delicious."
+    "contentBG": "<color=#ffffff>  </color>"
   },
   {
     "sn": "304235",
     "name": "Grilled Rockfish",
     "typeName": "Food",
     "tips": "A dish made with rockfish, pork, and soy sauce.",
-    "contentBG": "A slightly elaborate dish of rockfish fried in lard. I wonder if it tastes better than grilled rockfish..."
+    "contentBG": "<color=#ffffff>  </color>"
   },
   {
     "sn": "304236",
     "name": "Stewed Chicken",
     "typeName": "Food",
     "tips": "A dish made with chicken, soy sauce, leek, and garlic.",
-    "contentBG": "Tender and juicy stewed chicken. The skin and tender meat practically melt in your mouth, making this one addictive delight."
+    "contentBG": "<color=#ffffff>  </color>"
   },
   {
     "sn": "304237",
     "name": "Seared Beef",
     "typeName": "Food",
     "tips": "A dish made with beef, soy sauce, and green onions.",
-    "contentBG": "A delicacy of thinly sliced seared beef. Best enjoyed with a soy sauce-based dipping sauce."
+    "contentBG": "<color=#ffffff>  </color>"
   },
   {
     "sn": "304238",
     "name": "Meat Pie",
     "typeName": "Food",
     "tips": "A dish made with beef, pork, soy sauce, and garlic.",
-    "contentBG": "A crispy and juicy dish made by baking pie dough stuffed with minced meat."
+    "contentBG": "<color=#ffffff>  </color>"
   },
   {
     "sn": "304239",
     "name": "Refreshing Tonic",
     "typeName": "Food",
     "tips": "A drink made with tonic water and mung beans.",
-    "contentBG": "An espresso tonic suitable anyone can make with ease. The addition of soy milk to the recipe was apparently Shiina's idea."
+    "contentBG": "<color=#ffffff>  </color>"
   },
   {
     "sn": "304240",
     "name": "Mellow Float",
     "typeName": "Food",
     "tips": "A drink made with cream and luxury Chinese tea.",
-    "contentBG": "A mocktail made with oolong and green tea, and topped with cream. Apparently, it was created by Shiina, and inspired by a cocktail called \"Shoyojurin.\""
+    "contentBG": "<color=#ffffff>  </color>"
   },
   {
     "sn": "304241",
     "name": "Matcha Soda",
     "typeName": "Food",
     "tips": "A drink made with soda water and matcha.",
-    "contentBG": "A refreshing and simple drink made from matcha and soda water. There's a secret trick to making the matcha syrup."
+    "contentBG": "<color=#ffffff>  </color>"
   },
   {
     "sn": "304242",
     "name": "Cream Soda",
     "typeName": "Food",
     "tips": "A drink made with tonic water and spice bundles.",
-    "contentBG": "A two-ingredient soda made by steeping a spice pack in tonic water. Simple and refreshing."
+    "contentBG": "<color=#ffffff>  </color>"
   },
   {
     "sn": "304243",
     "name": "Milk Tea",
     "typeName": "Food",
     "tips": "A drink made with assam tea and milk. Immediately restores 2 Action Points when used.",
-    "contentBG": "A gourmet milk tea recipe from Shiina. One sip of this, and you'll never be satisfied with regular milk tea ever again."
+    "contentBG": "<color=#ffffff>  </color>"
   },
   {
     "sn": "304600",
     "name": "Superb Tonkatsu",
     "typeName": "Food",
     "tips": "A dish made with flour, eggs, and pork.",
-    "contentBG": "A dish featuring juicy pork covered with crispy batter. Pour some sauce over it and add as much rice as you want for the perfect bite."
+    "contentBG": "<color=#ffffff>  </color>"
   },
   {
     "sn": "304601",
     "name": "Superb Miso Ramen",
     "typeName": "Food",
     "tips": "A dish made with flour, eggs, and miso.",
-    "contentBG": "The rich miso soup pairs excellently with the springy egg noodles, creating an exquisite dish."
+    "contentBG": "<color=#ffffff>  </color>"
   },
   {
     "sn": "304602",
     "name": "Superb Salmon Sashimi",
     "typeName": "Food",
     "tips": "A dish made with salmon, soy sauce, and wasabi.",
-    "contentBG": "High-quality salmon sashimi, rich in sweet fat, and served with a simple pairing of wasabi and soy sauce."
+    "contentBG": "<color=#ffffff>  </color>"
   },
   {
     "sn": "304603",
     "name": "Superb Manju",
     "typeName": "Food",
     "tips": "A dish made with glutinous rice, azuki beans, and sugar.",
-    "contentBG": "A Japanese sweet made with rice flour and red bean paste. Using a flower-shaped wooden mold gives it a professional-level presentation."
+    "contentBG": "<color=#ffffff>  </color>"
   },
   {
     "sn": "304604",
     "name": "Superb Curry with Rice",
     "typeName": "Food",
     "tips": "A dish made with rice, chicken, potatoes, onions, and curry roux.",
-    "contentBG": "Classic curry and rice made by slowly simmering chunky ingredients."
+    "contentBG": "<color=#ffffff>  </color>"
   },
   {
     "sn": "304605",
     "name": "Superb Sukiyaki",
     "typeName": "Food",
     "tips": "A dish made with beef, napa cabbage, tofu, shiitake mushrooms, and carrots.",
-    "contentBG": "A flavorful hot pot with beef, vegetables, tofu, and mushrooms in a sweet and spicy sauce."
+    "contentBG": "<color=#ffffff>  </color>"
   },
   {
     "sn": "304606",
     "name": "Superb Matcha Ice Cream",
     "typeName": "Food",
     "tips": "A dish made with matcha, milk, and sugar.",
-    "contentBG": "Matcha-flavored ice cream that's easy to make at home. It has a simple yet rich flavor."
+    "contentBG": "<color=#ffffff>  </color>"
   },
   {
     "sn": "304607",
     "name": "Superb Croquette",
     "typeName": "Food",
     "tips": "A dish made with flour, potatoes, and pork.",
-    "contentBG": "Croquettes full of meaty umami flavor. The fluffy potatoes and crispy batter create a perfect combination."
+    "contentBG": "<color=#ffffff>  </color>"
   },
   {
     "sn": "304608",
     "name": "Superb Eel Rice Bowl",
     "typeName": "Food",
     "tips": "A dish made with rice and eel.",
-    "contentBG": "Thick, plump grilled eel served in a rich sauce over white rice. Almost too luxurious to eat at home."
+    "contentBG": "<color=#ffffff>  </color>"
   },
   {
     "sn": "304609",
     "name": "Superb Tricolored Dango",
     "typeName": "Food",
     "tips": "A dish made with glutinous rice, milk, and sugar.",
-    "contentBG": "Sweet and chewy rice dumplings in three appealing pastel colors."
+    "contentBG": "<color=#ffffff>  </color>"
   },
   {
     "sn": "304610",
     "name": "Superb Tempura",
     "typeName": "Food",
     "tips": "A dish made with flour, eggs, shrimp, and soy sauce.",
-    "contentBG": "Large shrimp tempura. The secret to frying them is to mix the batter with cold water and egg yolk."
+    "contentBG": "<color=#ffffff>  </color>"
   },
   {
     "sn": "304611",
     "name": "Superb Almond Jelly",
     "typeName": "Food",
     "tips": "A dish made with almonds, milk, and sugar.",
-    "contentBG": "With the right ingredients, authentic almond tofu is surprisingly easy to make."
+    "contentBG": "<color=#ffffff>  </color>"
   },
   {
     "sn": "304612",
     "name": "Superb Flan",
     "typeName": "Food",
     "tips": "A dish made with milk, eggs, and sugar.",
-    "contentBG": "A rich, traditional pudding that's simple yet surprisingly time-consuming to prepare. Perfect with a caramel sauce."
+    "contentBG": "<color=#ffffff>  </color>"
   },
   {
     "sn": "304613",
     "name": "Superb Omelette Rice",
     "typeName": "Food",
     "tips": "A dish made with rice, eggs, and tomatoes.",
-    "contentBG": "Classic omelette rice made with ketchup and rice wrapped with egg."
+    "contentBG": "<color=#ffffff>  </color>"
   },
   {
     "sn": "304614",
     "name": "Superb Seafood Salad",
     "typeName": "Food",
     "tips": "A dish made with caviar, eggs, and cabbage.",
-    "contentBG": "Fresh salad tossed with caviar and topped with a homemade egg dressing. Mom's own recipe."
+    "contentBG": "<color=#ffffff>  </color>"
   },
   {
     "sn": "304615",
     "name": "Superb Winter Melon Tea",
     "typeName": "Food",
     "tips": "A dish made with winter melon and sugar.",
-    "contentBG": "A simple blend of mashed winter melon and sugar, boiled down and mixed into water. It's said to be good for your health."
+    "contentBG": "<color=#ffffff>  </color>"
   },
   {
     "sn": "304616",
     "name": "Superb Mouthwatering Chicken",
     "typeName": "Food",
     "tips": "A dish made with chicken, leek, garlic, and vinegar.",
-    "contentBG": "A delicious Chinese dish made with tender steamed chicken in a spicy and sour sauce. Best served with rice."
+    "contentBG": "<color=#ffffff>  </color>"
   },
   {
     "sn": "304617",
     "name": "Superb Chinese Stir-Fry",
     "typeName": "Food",
     "tips": "A dish made with sea cucumber, leek, and soy sauce.",
-    "contentBG": "An authentic Chinese recipe that will test your culinary skills. Best of luck."
+    "contentBG": "<color=#ffffff>  </color>"
   },
   {
     "sn": "304618",
     "name": "Superb Sweet Kinako Mochi",
     "typeName": "Food",
     "tips": "A dish made with glutinous rice and sugar.",
-    "contentBG": "A Japanese sweet made with smooth, soft mochi drizzled with brown sugar syrup. It goes without saying that it's delicious."
+    "contentBG": "<color=#ffffff>  </color>"
   },
   {
     "sn": "304619",
     "name": "Superb Sweet and Sour Fish",
     "typeName": "Food",
     "tips": "A dish made with sea bass, soy sauce, sugar, vinegar, and Shaoxing wine.",
-    "contentBG": "Deep-fried white fish with a sweet and sour sauce. The secret ingredient is Shaoxing wine, adding a touch of authenticity."
+    "contentBG": "<color=#ffffff>  </color>"
   },
   {
     "sn": "304620",
     "name": "Superb Spicy Boiled Fish",
     "typeName": "Food",
     "tips": "A dish made with sea bass, soy sauce, green onion, and chili pepper.",
-    "contentBG": "Sichuan cuisine known for its intense spiciness. If you can take the heat, there's a definite umami note underneath it all."
+    "contentBG": "<color=#ffffff>  </color>"
   },
   {
     "sn": "304621",
     "name": "Superb Milk Pudding",
     "typeName": "Food",
     "tips": "A dish made with milk, eggs, and sugar.",
-    "contentBG": "A smooth and delicious milk pudding."
+    "contentBG": "<color=#ffffff>  </color>"
   },
   {
     "sn": "304622",
     "name": "Superb Gyoza",
     "typeName": "Food",
     "tips": "A dish made with flour, shrimp, and pork.",
-    "contentBG": "Handmade gyoza dumplings filled with shrimp. The juices overflow when you bite into the springy, fluffy wrapping."
+    "contentBG": "<color=#ffffff>  </color>"
   },
   {
     "sn": "304623",
     "name": "Superb Shrimp Balls",
     "typeName": "Food",
     "tips": "A dish made with shrimp, lychees, and sugar.",
-    "contentBG": "A regional stir-fry made with shrimp dumplings and lychee. It has a unique and fragrant aroma."
+    "contentBG": "<color=#ffffff>  </color>"
   },
   {
     "sn": "304624",
     "name": "Superb Sticky Rice Balls",
     "typeName": "Food",
     "tips": "A dish made with glutinous rice, azuki beans, and sugar.",
-    "contentBG": "Smooth and chewy rice balls filled with red bean paste. Try not to eat too many."
+    "contentBG": "<color=#ffffff>  </color>"
   },
   {
     "sn": "304625",
     "name": "Superb Char Siu",
     "typeName": "Food",
     "tips": "A dish made with pork, soy sauce, garlic, and sugar.",
-    "contentBG": "Perfectly seasoned pork, slow-roasted in the oven for an easy and authentic char siu dish."
+    "contentBG": "<color=#ffffff>  </color>"
   },
   {
     "sn": "304626",
     "name": "Superb Beef Stew",
     "typeName": "Food",
     "tips": "A dish made with beef, soy sauce, and chili pepper.",
-    "contentBG": "A Chinese-style stew with tender beef and chili peppers. Even though it's spicy, you won't be able to stop eating it."
+    "contentBG": "<color=#ffffff>  </color>"
   },
   {
     "sn": "304627",
     "name": "Superb Spring Rolls",
     "typeName": "Food",
     "tips": "A dish made with flour, pork, and cabbage.",
-    "contentBG": "Handmade spring rolls, made with crispy batter and filled with rich flavors. Great when fresh, but you can also enjoy them cold."
+    "contentBG": "<color=#ffffff>  </color>"
   },
   {
     "sn": "304628",
     "name": "Superb Youlinji",
     "typeName": "Food",
     "tips": "A dish made with chicken, leek, soy sauce, and sugar.",
-    "contentBG": "Crispy fried chicken and chopped green onions in a sour sauce. Goes well with rice."
+    "contentBG": "<color=#ffffff>  </color>"
   },
   {
     "sn": "304629",
     "name": "Superb Mapo Tofu",
     "typeName": "Food",
     "tips": "A dish made with tofu, beef, chili pepper, and soy sauce.",
-    "contentBG": "A staple of Chinese cuisine. As long as you have the ingredients, it's surprisingly easy to make from scratch."
+    "contentBG": "<color=#ffffff>  </color>"
   },
   {
     "sn": "304630",
     "name": "Superb Shiruko",
     "typeName": "Food",
     "tips": "A dish made with azuki beans and sugar.",
-    "contentBG": "Eating this on a cold day will warm you right up. The gentle sweetness of the red beans gives it a nostalgic flavor."
+    "contentBG": "<color=#ffffff>  </color>"
   },
   {
     "sn": "304631",
     "name": "Superb Chinese Medicinal Soup",
     "typeName": "Food",
     "tips": "A dish made with crucian carp, tofu, and leek.",
-    "contentBG": "A creamy medicinal soup made with fried crucian carp. No strong odors, and nutrition you can taste. Classic Shanghai cuisine."
+    "contentBG": "<color=#ffffff>  </color>"
   },
   {
     "sn": "304632",
     "name": "Superb Shrimp Stir-Fry",
     "typeName": "Food",
     "tips": "A dish made with shrimp, luxury Chinese tea, and eggs.",
-    "contentBG": "A delicious and high-class dish made with shrimp and tea leaves. Iconic Hangzhou cuisine."
+    "contentBG": "<color=#ffffff>  </color>"
   },
   {
     "sn": "304633",
     "name": "Superb Mung Bean Milk",
     "typeName": "Food",
     "tips": "A dish made with mung beans.",
-    "contentBG": "Soy milk made with mung beans, rich in flavor."
+    "contentBG": "<color=#ffffff>  </color>"
   },
   {
     "sn": "304634",
     "name": "Superb Vinegar Tofu",
     "typeName": "Food",
     "tips": "A dish made with tofu, garlic, and leek.",
-    "contentBG": "A simple dish made by stir-frying thickly sliced deep-fried tofu with black vinegar. Quick to whip up, yet very delicious."
+    "contentBG": "<color=#ffffff>  </color>"
   },
   {
     "sn": "304635",
     "name": "Superb Grilled Rockfish",
     "typeName": "Food",
     "tips": "A dish made with rockfish, pork, and soy sauce.",
-    "contentBG": "A slightly elaborate dish of rockfish fried in lard. I wonder if it tastes better than grilled rockfish..."
+    "contentBG": "<color=#ffffff>  </color>"
   },
   {
     "sn": "304636",
     "name": "Superb Stewed Chicken",
     "typeName": "Food",
     "tips": "A dish made with chicken, soy sauce, leek, and garlic.",
-    "contentBG": "Tender and juicy stewed chicken. The skin and tender meat practically melt in your mouth, making this one addictive delight."
+    "contentBG": "<color=#ffffff>  </color>"
   },
   {
     "sn": "304637",
     "name": "Superb Seared Beef",
     "typeName": "Food",
     "tips": "A dish made with beef, soy sauce, and green onions.",
-    "contentBG": "A delicacy of thinly sliced seared beef. Best enjoyed with a soy sauce-based dipping sauce."
+    "contentBG": "<color=#ffffff>  </color>"
   },
   {
     "sn": "304638",
     "name": "Superb Meat Pie",
     "typeName": "Food",
     "tips": "A dish made with beef, pork, soy sauce, and garlic.",
-    "contentBG": "A crispy and juicy dish made by baking pie dough stuffed with minced meat."
+    "contentBG": "<color=#ffffff>  </color>"
   },
   {
     "sn": "304639",
     "name": "Special Refreshing Tonic",
     "typeName": "Food",
     "tips": "A drink made with tonic water and mung beans.",
-    "contentBG": "An espresso tonic suitable anyone can make with ease. The addition of soy milk to the recipe was apparently Shiina's idea."
+    "contentBG": "<color=#ffffff>  </color>"
   },
   {
     "sn": "304640",
     "name": "Special Mellow Float",
     "typeName": "Food",
     "tips": "A drink made with cream and luxury Chinese tea.",
-    "contentBG": "A mocktail made with oolong and green tea, and topped with cream. Apparently, it was created by Shiina, and inspired by a cocktail called \"shoyojurin.\""
+    "contentBG": "<color=#ffffff>  </color>"
   },
   {
     "sn": "304641",
     "name": "Special Matcha Soda",
     "typeName": "Food",
     "tips": "A drink made with soda water and matcha.",
-    "contentBG": "A refreshing and simple drink made from matcha and soda water. There's a secret trick to making the matcha syrup."
+    "contentBG": "<color=#ffffff>  </color>"
   },
   {
     "sn": "304642",
     "name": "Special Cream Soda",
     "typeName": "Food",
     "tips": "A drink made with tonic water and spice bundles.",
-    "contentBG": "A two-ingredient soda made by steeping a spice pack in tonic water. Simple and refreshing."
+    "contentBG": "<color=#ffffff>  </color>"
   },
   {
     "sn": "304643",
     "name": "Special Milk Tea",
     "typeName": "Food",
     "tips": "A drink made with assam tea and milk. Immediately restores 3 Action Points when used.",
-    "contentBG": "A gourmet milk tea recipe from Shiina. One sip of this, and you'll never be satisfied with regular milk tea ever again."
+    "contentBG": "<color=#ffffff>  </color>"
   },
   {
     "sn": "305100",
@@ -15660,7 +15632,7 @@
   },
   {
     "sn": "305927",
-    "name": "Gunpowder",
+    "name": "Metal Powder",
     "typeName": "Material",
     "tips": "Used to craft Hypno Mist, Elemental Firecrackers, Blaze Charms, and Storm Charms at the workbench.",
     "contentBG": "<color=#ffffff>  </color>"
@@ -16521,7 +16493,7 @@
   },
   {
     "sn": "306423",
-    "name": "All About Skytree",
+    "name": "All about Skytree",
     "typeName": "Book",
     "tips": "Increases your Guts and unlocks Asakusa Skytree on the map when read.",
     "contentBG": "A book that introduces the untold stories of the construction of the Skytree and other architectural tidbits.\nWith this one book, you'll never have to worry about running out of topics on a date!"
@@ -17319,7 +17291,7 @@
   },
   {
     "sn": "306760",
-    "name": "Friend Kurotani Avatar",
+    "name": "Partner Kurotani Avatar",
     "typeName": "Avatar",
     "tips": "Earned for building an unbreakable bond of friendship with Kurotani.",
     "contentBG": "AAAAAA=="
@@ -17403,7 +17375,7 @@
   },
   {
     "sn": "306770",
-    "name": "Friend Shun Avatar",
+    "name": "Partner Shun Avatar",
     "typeName": "Avatar",
     "tips": "Earned for building an unbreakable bond of friendship with Shun.",
     "contentBG": "AAAAAA=="
@@ -17522,16 +17494,16 @@
   },
   {
     "sn": "306787",
-    "name": "Tropical Avatar",
+    "name": "Summer Motoha Icon",
     "typeName": "Avatar",
-    "tips": "Can be set as your profile avatar.",
+    "tips": "Avatar.\nAt Kokatsu Academy's summer trip, Motoha makes quite an impression in her swimsuit.",
     "contentBG": "AAAAAA=="
   },
   {
     "sn": "306788",
-    "name": "Tropical Avatar 2",
+    "name": "Summer Closer Icon",
     "typeName": "Avatar",
-    "tips": "Can be set as your profile avatar.",
+    "tips": "Avatar.\nInfluenced by the perception that \"you've got to wear a swimsuit at the beach,\" Motoha's new Phantom Thief attire carries a powerful force of desire.",
     "contentBG": "AAAAAA=="
   },
   {
@@ -17564,16 +17536,16 @@
   },
   {
     "sn": "306793",
-    "name": "Summer Avatar",
+    "name": "Summer Tomoko Icon",
     "typeName": "Avatar",
-    "tips": "Can be set as your profile avatar.",
+    "tips": "Avatar.\nTomoko at her job at the beach house. Apparently the swimsuit was recommended by the couple who owns the shop.",
     "contentBG": "AAAAAA=="
   },
   {
     "sn": "306794",
-    "name": "Summer Avatar 2",
+    "name": "Summer Moko Icon",
     "typeName": "Avatar",
-    "tips": "Can be set as your profile avatar.",
+    "tips": "Avatar.\nA Phantom Idol created by Merope. A new style she is trying in the field of cognition.",
     "contentBG": "AAAAAA=="
   },
   {
@@ -17634,7 +17606,7 @@
   },
   {
     "sn": "306805",
-    "name": "Fish Fear Me",
+    "name": "Fisherman's Pride",
     "typeName": "Frame",
     "tips": "Can be set as your profile frame.",
     "contentBG": "AAAAAA=="
@@ -18453,7 +18425,7 @@
   },
   {
     "sn": "306929",
-    "name": "Rabbit Run-In",
+    "name": "White Rabbit Encounter",
     "typeName": "Profile Design",
     "tips": "Can be set as your profile card.",
     "contentBG": "AAAAAA=="
@@ -18923,7 +18895,7 @@
   {
     "sn": "306977",
     "name": "Intersecting Fates",
-    "typeName": "Profile Design",
+    "typeName": "Profile Card",
     "tips": "A special profile card design for pre-registering.",
     "contentBG": "AAAAAA=="
   },
@@ -19834,14 +19806,14 @@
     "sn": "314141",
     "name": "An Icy Wind Encountered",
     "typeName": "Badge",
-    "tips": "Awarded for clearing the Beginner Stage of Mont's Special Mission in Thieves' Secrets.",
+    "tips": "Awarded for clearing the Beginner Stage of Mont's Special Mission in Thief Tryout.",
     "contentBG": "AAAAAA=="
   },
   {
     "sn": "314142",
     "name": "An Icy Wind Understood",
     "typeName": "Badge",
-    "tips": "Awarded for clearing the Intermediate Stage of Mont's Special Mission in Thieves' Secrets.",
+    "tips": "Awarded for clearing the Intermediate Stage of Mont's Special Mission in Thief Tryout.",
     "contentBG": "AAAAAA=="
   },
   {
@@ -19869,7 +19841,7 @@
     "sn": "314143",
     "name": "An Icy Wind Bonded",
     "typeName": "Badge",
-    "tips": "Awarded for clearing the Advanced Stage of Mont's Special Mission in Thieves' Secrets.",
+    "tips": "Awarded for clearing the Advanced Stage of Mont's Special Mission in Thief Tryout.",
     "contentBG": "AAAAAA=="
   },
   {
@@ -20093,21 +20065,21 @@
     "sn": "314122",
     "name": "An Asklepian Encountered",
     "typeName": "Badge",
-    "tips": "Awarded for clearing the Beginner Stage of Messa's Special Mission in Thieves' Secrets.",
+    "tips": "Awarded for clearing the Beginner Stage of Messa's Special Mission in Thief Tryout.",
     "contentBG": "AAAAAA=="
   },
   {
     "sn": "314123",
     "name": "An Asklepian Understood",
     "typeName": "Badge",
-    "tips": "Awarded for clearing the Intermediate Stage of Messa's Special Mission in Thieves' Secrets.",
+    "tips": "Awarded for clearing the Intermediate Stage of Messa's Special Mission in Thief Tryout.",
     "contentBG": "AAAAAA=="
   },
   {
     "sn": "314124",
     "name": "An Asklepian Bonded",
     "typeName": "Badge",
-    "tips": "Awarded for clearing the Advanced Stage of Messa's Special Mission in Thieves' Secrets.",
+    "tips": "Awarded for clearing the Advanced Stage of Messa's Special Mission in Thief Tryout.",
     "contentBG": "AAAAAA=="
   },
   {
@@ -20156,21 +20128,21 @@
     "sn": "314131",
     "name": "A Rose Encountered",
     "typeName": "Badge",
-    "tips": "Awarded for clearing the Beginner Stage of Cherish's Special Mission in Thieves' Secrets.",
+    "tips": "Awarded for clearing the Beginner Stage of Cherish's Special Mission in Thief Tryout.",
     "contentBG": "AAAAAA=="
   },
   {
     "sn": "314132",
     "name": "A Rose Understood",
     "typeName": "Badge",
-    "tips": "Awarded for clearing the Intermediate Stage of Cherish's Special Mission in Thieves' Secrets.",
+    "tips": "Awarded for clearing the Intermediate Stage of Cherish's Special Mission in Thief Tryout.",
     "contentBG": "AAAAAA=="
   },
   {
     "sn": "314133",
     "name": "A Rose Bonded",
     "typeName": "Badge",
-    "tips": "Awarded for clearing the Advanced Stage of Cherish's Special Mission in Thieves' Secrets.",
+    "tips": "Awarded for clearing the Advanced Stage of Cherish's Special Mission in Thief Tryout.",
     "contentBG": "AAAAAA=="
   },
   {
@@ -21658,22 +21630,8 @@
     "contentBG": "AAAAAA=="
   },
   {
-    "sn": "306999",
-    "name": "Summertime Chaperone",
-    "typeName": "Profile Design",
-    "tips": "Can be set as your profile card.",
-    "contentBG": "AAAAAA=="
-  },
-  {
     "sn": "311061",
     "name": "Butler Yusuke Avatar",
-    "typeName": "Avatar",
-    "tips": "Can be set as your profile avatar.",
-    "contentBG": "AAAAAA=="
-  },
-  {
-    "sn": "311068",
-    "name": "Summer Makoto Avatar",
     "typeName": "Avatar",
     "tips": "Can be set as your profile avatar.",
     "contentBG": "AAAAAA=="
@@ -23087,7 +23045,7 @@
   },
   {
     "sn": "309057",
-    "name": "Purple Silk Outfit",
+    "name": "Purple Shell Outfit",
     "typeName": "Casual",
     "tips": "A coordinated outfit that can be put on at the closet in your bedroom.",
     "contentBG": "<color=#ffffff>  </color>"
@@ -23130,13 +23088,6 @@
   {
     "sn": "312048",
     "name": "Fragrant Tea",
-    "typeName": "Frame",
-    "tips": "Can be set as your profile frame.",
-    "contentBG": "AAAAAA=="
-  },
-  {
-    "sn": "312056",
-    "name": "Dazzling Summer Skies",
     "typeName": "Frame",
     "tips": "Can be set as your profile frame.",
     "contentBG": "AAAAAA=="
@@ -23185,16 +23136,16 @@
   },
   {
     "sn": "309501",
-    "name": "Phantom Thief Attire",
-    "typeName": "Outfit",
-    "tips": "Changes the protagonist's appearance to his Phantom Thief attire.",
+    "name": "Wonder's Thief Attire",
+    "typeName": "Thief Outfit",
+    "tips": "Can be selected from the profile menu. This outfit cannot be mixed and matched.",
     "contentBG": "<color=#ffffff>  </color>"
   },
   {
     "sn": "309502",
     "name": "Beachwear",
-    "typeName": "Outfit",
-    "tips": "Changes the protagonist's appearance to his beachwear.\nCan be obtained by purchasing Wonder's Beachwear from the Shop.",
+    "typeName": "Thief Outfit",
+    "tips": "Can be selected from the profile menu. This outfit cannot be mixed and matched.",
     "contentBG": "<color=#ffffff>  </color>"
   },
   {
@@ -23297,7 +23248,7 @@
   },
   {
     "sn": "310123",
-    "name": "Capy B. with Durian",
+    "name": "Caby B. with Durian",
     "typeName": "Capsule Toy",
     "tips": "Obtained from a Shinjuku-exclusive capsule machine. Can be displayed in your display case at home.",
     "contentBG": "<color=#ffffff>  </color>"
@@ -23572,7 +23523,7 @@
     "sn": "310168",
     "name": "Alevin Abode",
     "typeName": "Capsule Toy",
-    "tips": "A super rare capsule obtained from a Kichijoji-exclusive capsule machine. Can be displayed in your display case at home.",
+    "tips": "Obtained from a Kichijoji-exclusive capsule machine. Can be displayed in your display case at home.",
     "contentBG": "<color=#ffffff>  </color>"
   },
   {
@@ -23614,7 +23565,7 @@
     "sn": "310176",
     "name": "Gray Office Exec",
     "typeName": "Capsule Toy",
-    "tips": "A super rare capsule obtained from a capsule machine in the city. Can be displayed in your display case at home.",
+    "tips": "Obtained from a capsule machine in the city. Can be displayed in your display case at home.",
     "contentBG": "<color=#ffffff>  </color>"
   },
   {
@@ -23978,7 +23929,7 @@
     "sn": "351000",
     "name": "Thief's Cognitite Shard",
     "typeName": "Cognitite Shard Set",
-    "tips": "Collect 60 to obtain one Cognitite.\n*Cannot be used to obtain Phantom Thieves.",
+    "tips": "Collect 60 to obtain one Cognitite.",
     "contentBG": "<color=#ffffff>  </color>"
   },
   {
@@ -23999,7 +23950,7 @@
     "sn": "351032",
     "name": "Motoha's Cognitite Shard II",
     "typeName": "Cognitite Shard",
-    "tips": "Collect 60 to obtain one Tropical Motoha's Cognitite.",
+    "tips": "Collect 60 to obtain one Summer Motoha's Cognitite.",
     "contentBG": "<color=#ffffff>  </color>"
   },
   {
@@ -24013,7 +23964,7 @@
     "sn": "351102",
     "name": "Tomoko's Cognitite Shard II",
     "typeName": "Cognitite Shard",
-    "tips": "Collect 60 to obtain one Seaside Tomoko's Cognitite.",
+    "tips": "Collect 60 to obtain one Summer Tomoko's Cognitite.",
     "contentBG": "<color=#ffffff>  </color>"
   },
   {
@@ -24454,7 +24405,7 @@
     "sn": "400020",
     "name": "Puzzle Piece",
     "typeName": "Item",
-    "tips": "Can be obtained to add another piece to the puzzle.",
+    "tips": "Can be used in the puzzle minigame.",
     "contentBG": "<color=#ffffff>  </color>"
   },
   {
@@ -24515,21 +24466,21 @@
   },
   {
     "sn": "400029",
-    "name": "Gold Powder",
+    "name": "Gold Metal Powder",
     "typeName": "Firework Color",
     "tips": "Gives the fireworks of the festival a glimmering gold shine.",
     "contentBG": "AAAAAA=="
   },
   {
     "sn": "400030",
-    "name": "Red Powder",
+    "name": "Rainbow Metal Powder",
     "typeName": "Firework Color",
     "tips": "Gives the fireworks of the festival a ruby red shine.",
     "contentBG": "AAAAAA=="
   },
   {
     "sn": "400031",
-    "name": "Violet Powder",
+    "name": "Purple Metal Powder",
     "typeName": "Firework Color",
     "tips": "Gives the fireworks of the festival a vibrant violet shine.",
     "contentBG": "AAAAAA=="
@@ -24858,10 +24809,10 @@
   },
   {
     "sn": "400052",
-    "name": "Puzzle Piece",
-    "typeName": "Event Item",
-    "tips": "Can be obtained to add another piece to the puzzle.",
-    "contentBG": "<color=#ffffff>  </color>"
+    "name": "AAAAAA==",
+    "typeName": "AAAAAA==",
+    "tips": "AAAAAA==",
+    "contentBG": "AAAAAA=="
   },
   {
     "sn": "410516",
@@ -25166,37 +25117,37 @@
   },
   {
     "sn": "410578",
-    "name": "Helmet of Klesha",
+    "name": "Winged Helmet",
     "typeName": "Stage",
     "tips": "A Core from the Palace in Crossroads of Fate: Pyramid Arc.",
     "contentBG": "<color=#ffffff>  </color>"
   },
   {
     "sn": "410579",
-    "name": "Model of Ignorance",
+    "name": "[DC][IT][579]",
     "typeName": "Stage",
     "tips": "A Core from the Palace in Crossroads of Fate: Spaceport Arc.",
     "contentBG": "<color=#ffffff>  </color>"
   },
   {
     "sn": "410580",
-    "name": "Standard Employee ID",
+    "name": "AAAAAA==",
     "typeName": "Stage",
-    "tips": "A white employee ID. Used to activate a card reader.",
+    "tips": "[DC][IT][580]",
     "contentBG": "<color=#ffffff>  </color>"
   },
   {
     "sn": "410581",
-    "name": "Manager's Employee ID",
+    "name": "AAAAAA==",
     "typeName": "Stage",
-    "tips": "A blue employee ID. Used to activate a card reader.",
+    "tips": "[DC][IT][581]",
     "contentBG": "<color=#ffffff>  </color>"
   },
   {
     "sn": "410582",
-    "name": "Executive's Employee ID",
+    "name": "AAAAAA==",
     "typeName": "Stage",
-    "tips": "A purple employee ID. Used to activate a card reader.",
+    "tips": "[DC][IT][582]",
     "contentBG": "<color=#ffffff>  </color>"
   },
   {
@@ -25306,43 +25257,43 @@
   },
   {
     "sn": "500094",
-    "name": "Premium+ Special 5",
-    "typeName": "Showcase",
+    "name": "Premium + Special 5",
+    "typeName": "Revelation",
     "tips": "Premium+ Pass Phase 6 Special Goods\n• Exclusive Outfit: <link=\"fashion|309069\"><u>Beige Knit Outfit <color=#0F69CA>Preview</color></u></link>\n• Exclusive Profile Card: <link=\"display|306949\"><u>Fairy Tale <color=#0F69CA>Preview</color></u></link>\n• Exclusive Frame: <link=\"display|306878\"><u>Consideration <color=#0F69CA>Preview</color></u></link>\n\n• Plus, Spray-On Dye x1 as a bonus.\nNew outfit colors will also unlock after you obtain your exclusive outfit and go to the in-game closet on the second floor of your home.\nThese colors include: <link=\"fashion|309070\"><u><color=#00fcff>Light Blue Knit Outfit</color></u></link>, <link=\"fashion|309071\"><u><color=#ff9c00>Green Knit Outfit</color></u></link>, and <link=\"fashion|309072\"><u><color=#00ff9f>Aqua Knit Outfit</color></u></link>.",
     "contentBG": "<color=#ffffff>  </color>"
   },
   {
     "sn": "500095",
-    "name": "Premium+ Special 4",
-    "typeName": "Showcase",
+    "name": "Premium + Special 4",
+    "typeName": "Revelation",
     "tips": "Premium+ Pass Phase +5 Special Goods\n• Exclusive Outfit: <link=\"fashion|309063\"><u>Light Blue Artsy Outfit <color=#0F69CA>Preview</color></u></link>\n• Exclusive Profile Card: <link=\"display|306941\"><u>Graffiti Days <color=#0F69CA>Preview</color></u></link>\n• Exclusive Frame: <link=\"display|306869\"><u>Melting Pot <color=#0F69CA>Preview</color></u></link>\n\n• Plus, Spray-On Dye x1 as a bonus.\nNew outfit colors will also unlock after you obtain your exclusive outfit and go to the in-game closet on the second floor of your home.\nThese colors include: <link=\"fashion|309064\"><u><color=#00fcff>Blue Artsy Outfit</color></u></link>, <link=\"fashion|309065\"><u><color=#ff9c00>Red Artsy Outfit</color></u></link>, and <link=\"fashion|309066\"><u><color=#00ff9f>Purple Artsy Outfit</color></u></link>.",
     "contentBG": "<color=#ffffff>  </color>"
   },
   {
     "sn": "500096",
-    "name": "Premium+ Special 3",
-    "typeName": "Showcase",
+    "name": "Premium + Special 3",
+    "typeName": "Revelation",
     "tips": "Premium+ Pass Phase +4 Special Goods\n• Exclusive Outfit: <link=\"fashion|309053\"><u>Pink Shell Outfit <color=#29b6ff>Preview</color></u></link>\n• Exclusive Profile Card: <link=\"display|306940\"><u>Forerunner <color=#29b6ff>Preview</color></u></link>\n• Exclusive Frame: <link=\"display|306868\"><u>Seasonal Lifestyle <color=#29b6ff>Preview</color></u></link>\n\n• Plus, Spray-On Dye x1 as a bonus.\nNew outfit colors will also unlock after you obtain your exclusive outfit and go to the in-game closet on the second floor of your home.\nThese colors include: <link=\"fashion|309054\"><u><color=#00fcff>Green Shell Outfit</color></u></link>, <link=\"fashion|309055\"><u><color=#ff9c00>Blue Shell Outfit</color></u></link>, and <link=\"fashion|309056\"><u><color=#00ff9f>Brown Shell Outfit</color></u></link>.",
     "contentBG": "<color=#ffffff>  </color>"
   },
   {
     "sn": "500097",
-    "name": "Premium+ Special",
-    "typeName": "Preview",
-    "tips": "Purchase the Premium+ Phantom Pass to obtain the following items.\n• Exclusive Outfit: <link=\"fashion|309057\"><u>Purple Silk Outfit <color=#29b6ff></color></u></link>\n• Exclusive Profile Card: <link=\"display|306929\"><u>Rabbit Run-In <color=#29b6ff></color></u></link>\n• Exclusive Avatar Frame: <link=\"display|306855\"><u>Tea O'Clock <color=#29b6ff></color></u></link>",
+    "name": "Premium + Special 2",
+    "typeName": "Revelation",
+    "tips": "Premium+ Pass Phase 3 Special Goods\n• Exclusive Outfit: <link=\"fashion|309057\"><u>Purple Silk Outfit <color=#29b6ff>Preview</color></u></link>\n• Exclusive Profile Card: <link=\"display|306929\"><u>White Rabbit Encounter <color=#29b6ff>Preview</color></u></link>\n• Exclusive Avatar Frame: <link=\"display|306855\"><u>3 O'Clock Tea Time <color=#29b6ff>Preview</color></u></link>\nThese can be obtained after purchasing your Premium+ Pass.",
     "contentBG": "<color=#ffffff>  </color>"
   },
   {
     "sn": "500098",
-    "name": "Premium+ Special 1",
-    "typeName": "Showcase",
+    "name": "Premium + Special 1",
+    "typeName": "Revelation",
     "tips": "Phantom Pass Phase 2 Exclusive Items\n• Exclusive Outfit: Black Street Outfit\n• Exclusive Profile Card: Interlaced Desires\n• Exclusive Frame: Winged Rebel\nThese can be obtained after purchasing your Premium+ Pass.",
     "contentBG": "<color=#ffffff>  </color>"
   },
   {
     "sn": "500099",
     "name": "Phantom Thief Gift",
-    "typeName": "Showcase",
+    "typeName": "Revelation",
     "tips": "Phantom Pass items up for grabs:\n1 Salamander Coin\n5 Gold Tickets\n2 Everlasting Incense\n6 Coffee Aids\nas well as training materials and Konpaku Gems.\n\nPremium Pass items up for grabs:\n4 Salamander Coins\n2 Limited 4★ Weapon Cases\n3 Platinum Tickets\n3 Platinum Milicoins\n1 Orange Fortune Revelation\n3 Everlasting Incense\n6 Coffee Aids\nas well as training materials and Konpaku Gems.",
     "contentBG": "<color=#ffffff>  </color>"
   },
@@ -25600,7 +25551,7 @@
   },
   {
     "sn": "501102",
-    "name": "Seaside Tomoko",
+    "name": "Summer Tomoko",
     "typeName": "Phantom Thief",
     "tips": "<color=#eade10>★★★★</color>\nMain Attribute/Role: Psychokinesis, Strategist\nPersona Duo: Prosymna\n\nA second-year high school student with an easy-going personality. This summer, she's working at a beach house to help revive its business.\nHer code name is Moko.",
     "contentBG": "AAAAAA=="
@@ -27419,20 +27370,6 @@
     "contentBG": "<color=#ffffff>  </color>"
   },
   {
-    "sn": "309514",
-    "name": "Phantom Thief Attire",
-    "typeName": "Outfit",
-    "tips": "Changes Makoto's appearance to her swimsuit.",
-    "contentBG": "<color=#ffffff>  </color>"
-  },
-  {
-    "sn": "309515",
-    "name": "Swimsuit",
-    "typeName": "Outfit",
-    "tips": "Changes Makoto's appearance to her swimsuit.\nCan be obtained by purchasing the Summer Makoto Set in the Shop.",
-    "contentBG": "<color=#ffffff>  </color>"
-  },
-  {
     "sn": "520191",
     "name": "Cerberus's Seal",
     "typeName": "Persona",
@@ -28624,28 +28561,28 @@
   },
   {
     "sn": "530131",
-    "name": "Focused Emote",
+    "name": "I've Got This! Emote",
     "typeName": "Emote",
     "tips": "Used in chat.",
     "contentBG": "AAAAAA=="
   },
   {
     "sn": "530132",
-    "name": "Dismay Emote",
+    "name": "What!? Emote",
     "typeName": "Emote",
     "tips": "Used in chat.",
     "contentBG": "AAAAAA=="
   },
   {
     "sn": "530133",
-    "name": "Flowering Emote",
+    "name": "Time to Bloom Emote",
     "typeName": "Emote",
     "tips": "Used in chat.",
     "contentBG": "AAAAAA=="
   },
   {
     "sn": "530135",
-    "name": "Big Bucks Emote",
+    "name": "I've Got Money Emote",
     "typeName": "Emote",
     "tips": "Used in chat.",
     "contentBG": "AAAAAA=="
@@ -28659,21 +28596,21 @@
   },
   {
     "sn": "530137",
-    "name": "Trapped Emote",
+    "name": "Eep! Emote",
     "typeName": "Emote",
     "tips": "Used in chat.",
     "contentBG": "AAAAAA=="
   },
   {
     "sn": "530138",
-    "name": "Petrified Emote",
+    "name": "Huh!? Emote",
     "typeName": "Emote",
     "tips": "Used in chat.",
     "contentBG": "AAAAAA=="
   },
   {
     "sn": "530140",
-    "name": "Chosen Emote",
+    "name": "Heheh Emote",
     "typeName": "Emote",
     "tips": "Used in chat.",
     "contentBG": "AAAAAA=="
@@ -28766,7 +28703,7 @@
     "sn": "530154",
     "name": "I'm So Happy! Emote",
     "typeName": "Emote",
-    "tips": "Earned for forming a romantic relationship with Ayaka Sakai .\nFor use in chat.",
+    "tips": "An Ayaka Sakai-exclusive emote set.\nCan be obtained by becoming soulmates with her.",
     "contentBG": "AAAAAA=="
   },
   {
@@ -29205,56 +29142,56 @@
   },
   {
     "sn": "530156",
-    "name": "That's Enough! Emote",
+    "name": "\"That's Enough!\"",
     "typeName": "Emote",
     "tips": "Used in chat.",
     "contentBG": "AAAAAA=="
   },
   {
     "sn": "530157",
-    "name": "No Way! Emote",
+    "name": "\"No Way!\"",
     "typeName": "Emote",
     "tips": "Used in chat.",
     "contentBG": "AAAAAA=="
   },
   {
     "sn": "530158",
-    "name": "Expectant Gaze Emote",
+    "name": "Expectant Gaze...",
     "typeName": "Emote",
     "tips": "Earned for building a strong bond of friendship with Miyu Sahara.\nFor use in chat.",
     "contentBG": "AAAAAA=="
   },
   {
     "sn": "530159",
-    "name": "Look at Me! Emote",
+    "name": "\"Look at Me!\"",
     "typeName": "Emote",
     "tips": "Earned for forming a romantic relationship with Miyu Sahara.\nFor use in chat.",
     "contentBG": "AAAAAA=="
   },
   {
     "sn": "530160",
-    "name": "I'm a Mermaid! Emote",
+    "name": "I'm a Mermaid!",
     "typeName": "Emote",
     "tips": "Used in chat.",
     "contentBG": "AAAAAA=="
   },
   {
     "sn": "530161",
-    "name": "Bwahaha Emote",
+    "name": "\"Bwahahaha!\"",
     "typeName": "Emote",
     "tips": "Used in chat.",
     "contentBG": "AAAAAA=="
   },
   {
     "sn": "530162",
-    "name": "How Dare You!? Emote",
+    "name": "Hrmph!",
     "typeName": "Emote",
     "tips": "Used in chat.",
     "contentBG": "AAAAAA=="
   },
   {
     "sn": "530163",
-    "name": "You're in My Sights Emote",
+    "name": "Targeted!",
     "typeName": "Emote",
     "tips": "Used in chat.",
     "contentBG": "AAAAAA=="
@@ -29268,14 +29205,14 @@
   },
   {
     "sn": "530171",
-    "name": "Don't Laugh... Emote",
+    "name": "\"Don't Laugh...\"",
     "typeName": "Emote",
     "tips": "Used in chat.",
     "contentBG": "AAAAAA=="
   },
   {
     "sn": "530172",
-    "name": "You Don't Know? Emote",
+    "name": "\"You Don't Know?\"",
     "typeName": "Emote",
     "tips": "Used in chat.",
     "contentBG": "AAAAAA=="
@@ -29296,7 +29233,7 @@
   },
   {
     "sn": "530175",
-    "name": "My Turn! Emote",
+    "name": "\"My Turn!\"",
     "typeName": "Emote",
     "tips": "Used in chat.",
     "contentBG": "AAAAAA=="
@@ -29450,21 +29387,21 @@
   },
   {
     "sn": "530167",
-    "name": "Smells Nice! Emote",
+    "name": "\"Smells Nice!\"",
     "typeName": "Emote",
     "tips": "Used in chat.",
     "contentBG": "AAAAAA=="
   },
   {
     "sn": "530168",
-    "name": "My Treat! Emote",
+    "name": "\"My Treat!\"",
     "typeName": "Emote",
     "tips": "Used in chat.",
     "contentBG": "AAAAAA=="
   },
   {
     "sn": "530170",
-    "name": "You'll Catch a Cold Emote",
+    "name": "\"You'll Catch a Cold\"",
     "typeName": "Emote",
     "tips": "Used in chat.",
     "contentBG": "AAAAAA=="
@@ -29520,28 +29457,28 @@
   },
   {
     "sn": "540013",
-    "name": "Strife",
+    "name": "Valor",
     "typeName": "Revelation Set",
     "tips": "AAAAAA==",
     "contentBG": "<color=#ffffff>  </color>"
   },
   {
     "sn": "540014",
-    "name": "Strife",
+    "name": "Valor",
     "typeName": "Revelation Set",
     "tips": "AAAAAA==",
     "contentBG": "<color=#ffffff>  </color>"
   },
   {
     "sn": "540015",
-    "name": "Strife",
+    "name": "Valor",
     "typeName": "Revelation Set",
     "tips": "AAAAAA==",
     "contentBG": "<color=#ffffff>  </color>"
   },
   {
     "sn": "540016",
-    "name": "Strife",
+    "name": "Valor",
     "typeName": "Revelation Set",
     "tips": "AAAAAA==",
     "contentBG": "<color=#ffffff>  </color>"
@@ -30651,12 +30588,5 @@
     "typeName": "Thieves Den Statue",
     "tips": "A statue of a Shadow born from the Sea of Souls.",
     "contentBG": "AAAAAA=="
-  },
-  {
-    "sn": "400228",
-    "name": "Cattlepower",
-    "typeName": "Event Item",
-    "tips": "A point item gained from Send 'Em Flying.",
-    "contentBG": "<color=#ffffff>  </color>"
   }
 ]
