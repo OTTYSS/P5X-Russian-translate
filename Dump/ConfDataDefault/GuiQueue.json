@@ -1,0 +1,37 @@
+[
+  {
+    "sn": "UI_GetItemTipView",
+    "queueType": 0,
+    "overlap": 1
+  },
+  {
+    "sn": "UI_GetItemAutoTipView",
+    "queueType": 0,
+    "overlap": 1
+  },
+  {
+    "sn": "UI_MissionAccept",
+    "queueType": 0,
+    "overlap": 0
+  },
+  {
+    "sn": "UI_MissionSubmit",
+    "queueType": 0,
+    "overlap": 0
+  },
+  {
+    "sn": "UI_HeroLevelUp",
+    "queueType": 0,
+    "overlap": 1
+  },
+  {
+    "sn": "UI_AchievementTip",
+    "queueType": 0,
+    "overlap": 0
+  },
+  {
+    "sn": "UI_TutorialsEnter",
+    "queueType": 0,
+    "overlap": 0
+  }
+]

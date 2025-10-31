@@ -2360,37 +2360,37 @@
   },
   {
     "sn": "12509",
-    "strContent": "ロボットを近づける必要があります",
+    "strContent": "ロボットを近づける必要があります。",
     "option1": "AAAAAA==",
-    "showName": "ル<#000000,フ,#FFFFFF>ェル",
+    "showName": "AAAAAA==",
     "option2": "AAAAAA=="
   },
   {
     "sn": "12510",
-    "strContent": "ロボットはこれ以上前には進めません",
+    "strContent": "ロボットはこれ以上前には進めません。",
     "option1": "AAAAAA==",
-    "showName": "ル<#000000,フ,#FFFFFF>ェル",
+    "showName": "AAAAAA==",
     "option2": "AAAAAA=="
   },
   {
     "sn": "12511",
     "strContent": "操作可能なロボットがありません。",
     "option1": "AAAAAA==",
-    "showName": "ル<#000000,フ,#FFFFFF>ェル",
+    "showName": "AAAAAA==",
     "option2": "AAAAAA=="
   },
   {
     "sn": "12512",
     "strContent": "飛行ロボットに発見され、制御を失いました。",
     "option1": "AAAAAA==",
-    "showName": "ル<#000000,フ,#FFFFFF>ェル",
+    "showName": "AAAAAA==",
     "option2": "AAAAAA=="
   },
   {
     "sn": "12513",
     "strContent": "エネルギーが不足しており、作用できません。",
     "option1": "AAAAAA==",
-    "showName": "ル<#000000,フ,#FFFFFF>ェル",
+    "showName": "AAAAAA==",
     "option2": "AAAAAA=="
   },
   {
@@ -2409,7 +2409,7 @@
   },
   {
     "sn": "12516",
-    "strContent": "ロボットに近すぎて、追従を停止できません",
+    "strContent": "ロボットに近すぎて、追従を停止できません。",
     "option1": "AAAAAA==",
     "showName": "AAAAAA==",
     "option2": "AAAAAA=="
@@ -3571,14 +3571,14 @@
   },
   {
     "sn": "13350",
-    "strContent": "AAAAAA==",
+    "strContent": "このスキルカードは、ペルソナの条件を満たしていないため使用できません。",
     "option1": "AAAAAA==",
     "showName": "AAAAAA==",
     "option2": "AAAAAA=="
   },
   {
     "sn": "13351",
-    "strContent": "AAAAAA==",
+    "strContent": "今回の育成では、高品質なスキルカードを使用します。よろしいですか？",
     "option1": "確認",
     "showName": "ル<#000000,フ,#FFFFFF>ェル",
     "option2": "やめておく"
@@ -3697,7 +3697,7 @@
   },
   {
     "sn": "13606",
-    "strContent": "%sのチケットレベル%dで\n開放しそうだ。\n乗車券を集め、精算機に入れるとしよう。",
+    "strContent": "%sのチケットレベル%dで開放しそうだ。\n乗車券を集め、精算機に入れるとしよう。",
     "option1": "AAAAAA==",
     "showName": "ル<#000000,フ,#FFFFFF>ェル",
     "option2": "AAAAAA=="
@@ -5454,7 +5454,7 @@
   },
   {
     "sn": "1000429",
-    "strContent": "クリスタルで改造した武器は分解できません。",
+    "strContent": "イベント限定武器は分解できません。",
     "option1": "AAAAAA==",
     "showName": "AAAAAA==",
     "option2": "AAAAAA=="
@@ -5853,7 +5853,7 @@
   },
   {
     "sn": "1000439",
-    "strContent": "<color=#FFDE00>『{0}』×{1}</color>を消費して、ロックされていない副属性を一度更新しますか？",
+    "strContent": "<color=#FFDE00>『{0}』×{1}</color>を消費して、ロックされていない副属性をリセットして、新しい効果に更新しますか？",
     "option1": "確認",
     "showName": "AAAAAA==",
     "option2": "やめておく"
@@ -5874,42 +5874,42 @@
   },
   {
     "sn": "1000442",
-    "strContent": "<color=#FFDE00>{0}×{1}</color>を消費して、セット<color=#FFDE00>{2}</color>を選択しますか？",
+    "strContent": "<color=#FFDE00>{0}×{1}</color>を消費して、『<color=#FFDE00>{2}</color>』を選択しますか？",
     "option1": "確認",
     "showName": "AAAAAA==",
     "option2": "やめておく"
   },
   {
     "sn": "1000443",
-    "strContent": "<color=#FFDE00>{0}×{1}</color>を消費して、セットを<color=#FFDE00>{2}</color>に変更しますか？",
+    "strContent": "<color=#FFDE00>{0}×{1}</color>を消費して、『<color=#FFDE00>{2}</color>』に変更しますか？",
     "option1": "確認",
     "showName": "AAAAAA==",
     "option2": "やめておく"
   },
   {
     "sn": "1000444",
-    "strContent": "<color=#FFDE00>{0}×{1}</color>を消費して、位置<color=#FFDE00>{2}</color>を選択しますか？",
+    "strContent": "<color=#FFDE00>{0}×{1}</color>を消費して、『<color=#FFDE00>{2}</color>』のマークを選択しますか？",
     "option1": "確認",
     "showName": "AAAAAA==",
     "option2": "やめておく"
   },
   {
     "sn": "1000445",
-    "strContent": "位置を変更すると現在の主属性がリセットされ、現在の副属性選択がクリアされます。変更しますか？",
+    "strContent": "マークを変更すると現在の主属性と副属性がリセットされます。\n変更しますか？",
     "option1": "確認",
     "showName": "AAAAAA==",
     "option2": "やめておく"
   },
   {
     "sn": "1000446",
-    "strContent": "<color=#FFDE00>{0}×{1}</color>を消費して、主属性<color=#FFDE00>{2}</color>を選択しますか？",
+    "strContent": "<color=#FFDE00>{0}×{1}</color>を消費して、『<color=#FFDE00>{2}</color>』の主属性を選択しますか？",
     "option1": "確認",
     "showName": "AAAAAA==",
     "option2": "やめておく"
   },
   {
     "sn": "1000447",
-    "strContent": "主属性を変更すると現在の副属性選択がクリアされ、再度更新されます。変更を確認しますか？",
+    "strContent": "主属性を変更すると現在の副属性がリセットされ、新しい効果に更新されます。\n変更しますか？",
     "option1": "確認",
     "showName": "AAAAAA==",
     "option2": "やめておく"
@@ -6105,7 +6105,7 @@
   },
   {
     "sn": "1000431",
-    "strContent": "<color=#f1b500>{0}</color>の位置に、<color=#f1b500>{1}</color>のセットで、主属性が<color=#f1b500>{2}</color>の啓示カードをカスタマイズすることを確認しますか？",
+    "strContent": "位置：<color=#f1b500>{0}</color>、セット：<color=#f1b500>{1}</color>、主属性：<color=#f1b500>{2}</color>で啓示カードのカスタマイズを実行しますか？",
     "option1": "確認",
     "showName": "AAAAAA==",
     "option2": "やめておく"
@@ -6280,7 +6280,7 @@
   },
   {
     "sn": "1000458",
-    "strContent": "更新時には、ロックされていない副属性のみが更新されます。",
+    "strContent": "リセット時には、ロックされていない副属性のみが更新されます。",
     "option1": "AAAAAA==",
     "showName": "AAAAAA==",
     "option2": "AAAAAA=="
@@ -7435,7 +7435,7 @@
   },
   {
     "sn": "1010829",
-    "strContent": "魚の気配…！もう少し待ってみるんだ。",
+    "strContent": "魚の気配...！\u3000もう少し待ってみるんだ。",
     "option1": "AAAAAA==",
     "showName": "AAAAAA==",
     "option2": "AAAAAA=="
@@ -7477,7 +7477,7 @@
   },
   {
     "sn": "1010835",
-    "strContent": "あと少し…！駆け引きに焦りは禁物だぞ。",
+    "strContent": "あと少し…！\u3000駆け引きに焦りは禁物だぞ。",
     "option1": "AAAAAA==",
     "showName": "AAAAAA==",
     "option2": "AAAAAA=="
@@ -7498,14 +7498,14 @@
   },
   {
     "sn": "1010838",
-    "strContent": "%sが釣れたぞ！%s",
+    "strContent": "%sが釣れたぞ！\n%s",
     "option1": "AAAAAA==",
     "showName": "ル<#000000,フ,#FFFFFF>ェル",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1010839",
-    "strContent": "%sに入るには%d円かかるよ。\nチケットを購入するかい？",
+    "strContent": "%sに入るには『<color=#FF423F>%d円</color>』かかるよ。\nチケットを購入するかい？",
     "option1": "購入",
     "showName": "釣<#000000,り,#FFFFFF>堀の店員",
     "option2": "やめよう"
@@ -7519,7 +7519,7 @@
   },
   {
     "sn": "1010841",
-    "strContent": "再び釣り掘に入るには入場券が必要です。戻りますか？",
+    "strContent": "再び釣り掘に入るには料金を\n支払う必要があります。戻りますか？",
     "option1": "確認",
     "showName": "ル<#000000,フ,#FFFFFF>ェル",
     "option2": "やめておく"
@@ -7547,7 +7547,7 @@
   },
   {
     "sn": "1010845",
-    "strContent": "%sに入場しますか？割引後のチケットは%d円です。よろしいですか？",
+    "strContent": "%sに入るには『<color=#FF423F>%d円</color>』かかるよ。チケットを購入するかい？",
     "option1": "購入",
     "showName": "釣<#000000,り,#FFFFFF>堀の店員",
     "option2": "やめよう"
@@ -8695,9 +8695,9 @@
   },
   {
     "sn": "1000210",
-    "strContent": "この『味』、本当にいいね。\n君のおかげでエネルギーが回復したよ。",
+    "strContent": "ンンフフフフ…\n『味』は理解したと言ったはずですよ…！",
     "option1": "AAAAAA==",
-    "showName": "機械<#000000,の,#FFFFFF>シャドウ",
+    "showName": "機械<#000000,を,#FFFFFF>まとったシ<#000000,ャ,#FFFFFF>ドウ",
     "option2": "AAAAAA=="
   },
   {
@@ -9458,7 +9458,7 @@
   },
   {
     "sn": "1014330",
-    "strContent": "マイナーだけど評判の良いビーチで、暑い夏を過ごすのに最適な場所の一つ。",
+    "strContent": "マイナーだけど評判の良いビーチで、\n暑い夏を過ごすのに最適な場所の一つ。",
     "option1": "AAAAAA==",
     "showName": "AAAAAA==",
     "option2": "AAAAAA=="
@@ -9598,7 +9598,7 @@
   },
   {
     "sn": "1015030",
-    "strContent": "おすすめ編成の条件を満たしていませんが、 \nこの編成で挑戦しますか？",
+    "strContent": "おすすめ編成の条件を満たしていませんが、\nこの編成で挑戦しますか？",
     "option1": "決定",
     "showName": "ル<#000000,フ,#FFFFFF>ェル",
     "option2": "やめておく"
@@ -10018,10 +10018,10 @@
   },
   {
     "sn": "1019069",
-    "strContent": "陽菜と探検するのか？",
-    "option1": "陽菜と探検する",
+    "strContent": "陽菜と過ごすのか？",
+    "option1": "陽菜と過ごす",
     "showName": "ル<#000000,フ,#FFFFFF>ェル",
-    "option2": "また後にしよう"
+    "option2": "やめておく"
   },
   {
     "sn": "1019101",
@@ -10389,15 +10389,15 @@
   },
   {
     "sn": "1019218",
-    "strContent": "芦谷と一緒に過ごしますか？",
+    "strContent": "コイツと過ごすのか？",
     "option1": "特に何もない",
     "showName": "ル<#000000,フ,#FFFFFF>ェル",
     "option2": "今は少し忙しい"
   },
   {
     "sn": "1019219",
-    "strContent": "芦谷と一緒に過ごしますか？",
-    "option1": "そうです",
+    "strContent": "コイツと過ごすのか？",
+    "option1": "そのつもりだ",
     "showName": "ル<#000000,フ,#FFFFFF>ェル",
     "option2": "他にやることがある"
   },
@@ -10424,17 +10424,17 @@
   },
   {
     "sn": "1019216",
-    "strContent": "基良とどこに遊びに行きますか？",
-    "option1": "うちに来ませんか？",
+    "strContent": "どう答えればいいんだろう？",
+    "option1": "なら、家に来る？",
     "showName": "AAAAAA==",
     "option2": "基良の家に行きたい"
   },
   {
     "sn": "1019213",
-    "strContent": "基良と一緒に過ごしますか？",
-    "option1": "分かった",
+    "strContent": "基良と過ごすのか？",
+    "option1": "基良と過ごす",
     "showName": "ル<#000000,フ,#FFFFFF>ェル",
-    "option2": "他の予定がある"
+    "option2": "他の予定が…"
   },
   {
     "sn": "1019221",
@@ -10494,10 +10494,10 @@
   },
   {
     "sn": "1019214",
-    "strContent": "今日は基良と一緒に過ごそう…",
-    "option1": "OK",
-    "showName": "AAAAAA==",
-    "option2": "今日は暇がない"
+    "strContent": "基良と過ごすのか？",
+    "option1": "基良と過ごす",
+    "showName": "ル<#000000,フ,#FFFFFF>ェル",
+    "option2": "他の予定が…"
   },
   {
     "sn": "1019215",
@@ -10928,7 +10928,7 @@
   },
   {
     "sn": "1023001",
-    "strContent": "『節制奪われし路』は未解放です。すぐに解放してプレイを進めますか？",
+    "strContent": "『節制奪われし路』は未解放です。\nすぐに解放してプレイを進めますか？",
     "option1": "決定",
     "showName": "ル<#000000,フ,#FFFFFF>ェル",
     "option2": "考え直す"
@@ -11012,7 +11012,7 @@
   },
   {
     "sn": "1023021",
-    "strContent": "メインストーリーを進めて、『<color=#FF423F>無償の愛</color>』の関連ミッションをクリアしてください。（クイックプレイはできません）",
+    "strContent": "メインストーリーを進めて、『<color=#FF423F>無償の愛</color>』の関連ミッションをクリアしてください。（クイックアンロックはできません）",
     "option1": "AAAAAA==",
     "showName": "AAAAAA==",
     "option2": "AAAAAA=="
@@ -11103,7 +11103,7 @@
   },
   {
     "sn": "1023034",
-    "strContent": "高橋寧子の都市任務『黄金の環』が解除されました。",
+    "strContent": "高橋寧子の都市任務『ネコ様の言う通り』が解除されました。",
     "option1": "AAAAAA==",
     "showName": "ル<#000000,フ,#FFFFFF>ェル",
     "option2": "AAAAAA=="
@@ -11124,7 +11124,7 @@
   },
   {
     "sn": "1023037",
-    "strContent": "北里基良の協同任務『特別療法』が解除されました。",
+    "strContent": "北里基良のシナジーミッション『風変わりなガンナー』が解除されました。",
     "option1": "AAAAAA==",
     "showName": "ル<#000000,フ,#FFFFFF>ェル",
     "option2": "AAAAAA=="
@@ -11552,6 +11552,34 @@
   {
     "sn": "1024024",
     "strContent": "『坂井綾香』のシナジーミッションが解放されました",
+    "option1": "AAAAAA==",
+    "showName": "AAAAAA==",
+    "option2": "AAAAAA=="
+  },
+  {
+    "sn": "1024029",
+    "strContent": "『北里基良』のシナジーミッションは現在未解放です。すぐに解放しますか？（早期解放はストーリー体験の連続性に影響を与える可能性があります）",
+    "option1": "決定",
+    "showName": "ル<#000000,フ,#FFFFFF>ェル",
+    "option2": "考え直す"
+  },
+  {
+    "sn": "1024030",
+    "strContent": "『北里基良』のシナジーミッションが解放されました",
+    "option1": "AAAAAA==",
+    "showName": "AAAAAA==",
+    "option2": "AAAAAA=="
+  },
+  {
+    "sn": "1024031",
+    "strContent": "『芦谷真咲』のシナジーミッションは現在未解放です。すぐに解放しますか？（早期解放はストーリー体験の連続性に影響を与える可能性があるため、慎重に選択してください）",
+    "option1": "決定",
+    "showName": "ル<#000000,フ,#FFFFFF>ェル",
+    "option2": "考え直す"
+  },
+  {
+    "sn": "1024032",
+    "strContent": "『芦谷真咲』のシナジーミッションが解放されました",
     "option1": "AAAAAA==",
     "showName": "AAAAAA==",
     "option2": "AAAAAA=="
@@ -12279,14 +12307,14 @@
   },
   {
     "sn": "1036106",
-    "strContent": "<color=#FFFC40>椎名悠美</color>と『親友』関係になることを確定しますか？\n※この選択はストーリーの展開や都市の日程などに影響を与えます。",
+    "strContent": "<color=#FFFC40>椎名悠美</color>と『親友』になりますか？\n※選択結果によって、ストーリーや都市生活などで一部演出が異なります。",
     "option1": "決定",
     "showName": "AAAAAA==",
     "option2": "やめておく"
   },
   {
     "sn": "1036107",
-    "strContent": "<color=#FFFC40>椎名悠美</color>と『恋人』関係になることを確定しますか？\n※この選択はストーリーの展開や都市スケジュールなどの機能に影響を与えます。",
+    "strContent": "<color=#FFFC40>椎名悠美</color>と『恋人』になりますか？\n※選択結果によって、ストーリーや都市生活などで一部演出が異なります。",
     "option1": "決定",
     "showName": "AAAAAA==",
     "option2": "やめておく"
@@ -13364,9 +13392,9 @@
   },
   {
     "sn": "1045420",
-    "strContent": "チェーンのスペア部品、３本集まってるけど…\n渡しちゃう？",
+    "strContent": "チェーンのスペア部品は\n３本集まっているな。渡すか？",
     "option1": "渡す",
-    "showName": "新<#000000,井,#FFFFFF> 素羽",
+    "showName": "ル<#000000,フ,#FFFFFF>ェル",
     "option2": "また後で"
   },
   {
@@ -14028,6 +14056,13 @@
     "option2": "やめておく"
   },
   {
+    "sn": "1047248",
+    "strContent": "現在この場所にいるため、移動はできません。",
+    "option1": "AAAAAA==",
+    "showName": "AAAAAA==",
+    "option2": "AAAAAA=="
+  },
+  {
     "sn": "1050541",
     "strContent": "現在のパーティにロックされている<color=#FFC000>怪盗</color>がいるため、交代できません。",
     "option1": "AAAAAA==",
@@ -14351,35 +14386,35 @@
   },
   {
     "sn": "1052080",
-    "strContent": "このステージはまだ開放されていない。",
+    "strContent": "このステージはまだ開放されていません。",
     "option1": "AAAAAA==",
     "showName": "AAAAAA==",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1052081",
-    "strContent": "{0}と{1}は必須材料だ。",
+    "strContent": "{0}と{1}を選択してください。",
     "option1": "AAAAAA==",
     "showName": "AAAAAA==",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1052082",
-    "strContent": "テーブルにはこれ以上かき氷を置けない。",
+    "strContent": "これ以上かき氷を作り置きしておくことはできません。",
     "option1": "AAAAAA==",
     "showName": "AAAAAA==",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1052083",
-    "strContent": "ステージを退出すると現在の売上達成進捗が保存されます。今すぐ退出しますか？",
+    "strContent": "かき氷づくりを終了しますか？\n現在の売上が最高売上を超えた場合登録されます。",
     "option1": "決定",
     "showName": "ル<#000000,フ,#FFFFFF>ェル",
     "option2": "やめておく"
   },
   {
     "sn": "1052084",
-    "strContent": "ステージを再スタートすると現在の売上進捗はリセットされます。再スタートしますか？",
+    "strContent": "現在のステージをリスタートしますか？\n現在の売上はリセットされます。",
     "option1": "決定",
     "showName": "ル<#000000,フ,#FFFFFF>ェル",
     "option2": "やめておく"
@@ -14638,28 +14673,28 @@
   },
   {
     "sn": "1052046",
-    "strContent": "サイドミッション『<color=#FFD145>茶葉と礼儀の交わり</color>』をクリアすると解放されます。\n<color=#FF423F><size=24>※このミッションがない場合はメインストーリーを進めてください</size></color>",
+    "strContent": "サイドミッション『<color=#FFD145>異文化交流のススメ。</color>』をクリアすると解放されます。\n<color=#FF423F><size=24>※このミッションがない場合はメインストーリーを進めてください</size></color>",
     "option1": "AAAAAA==",
     "showName": "AAAAAA==",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1052047",
-    "strContent": "サイドミッション『<color=#FFD145>再始動の意志</color>』をクリアすると解放されます。\n<color=#FF423F><size=24>※このミッションがない場合はメインストーリーを進めてください</size></color>",
+    "strContent": "サイドミッション『<color=#FFD145>白球が弧を描く日</color>』をクリアすると解放されます。\n<color=#FF423F><size=24>※このミッションがない場合はメインストーリーを進めてください</size></color>",
     "option1": "AAAAAA==",
     "showName": "AAAAAA==",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1052048",
-    "strContent": "サイドミッション『<color=#FFD145>新たなる可能性</color>』をクリアすると解放されます。\n<color=#FF423F><size=24>※このミッションがない場合はメインストーリーを進めてください</size></color>",
+    "strContent": "サイドミッション『<color=#FFD145>アルバイトドリーマー</color>』をクリアすると解放されます。\n<color=#FF423F><size=24>※このミッションがない場合はメインストーリーを進めてください</size></color>",
     "option1": "AAAAAA==",
     "showName": "AAAAAA==",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1052049",
-    "strContent": "サイドミッション『<color=#FFD145>主婦の悩み</color>』をクリアすると解放されます。\n<color=#FF423F><size=24>※このミッションがない場合はメインストーリーを進めてください</size></color>",
+    "strContent": "サイドミッション『<color=#FFD145>曖昧ジェネレーション</color>』をクリアすると解放されます。\n<color=#FF423F><size=24>※このミッションがない場合はメインストーリーを進めてください</size></color>",
     "option1": "AAAAAA==",
     "showName": "AAAAAA==",
     "option2": "AAAAAA=="
@@ -14876,14 +14911,14 @@
   },
   {
     "sn": "1052085",
-    "strContent": "『<color=#FF423F>イベント：{0}</color>』を完了すると『ウォーターガンバトル』がアンロックされます。今すぐ追跡しますか？",
+    "strContent": "『<color=#FF423F>イベント：{0}</color>』を完了すると『射的チャレンジ』がアンロックされます。今すぐ追跡しますか？",
     "option1": "決定",
     "showName": "ル<#000000,フ,#FFFFFF>ェル",
     "option2": "やめておく"
   },
   {
     "sn": "1052086",
-    "strContent": "『<color=#FF423F>イベント：{0}</color>』を完了すると『かき氷タワー』がアンロックされます。今すぐ追跡しますか？",
+    "strContent": "『<color=#FF423F>イベント：{0}</color>』を完了すると『かき氷づくり』がアンロックされます。今すぐ追跡しますか？",
     "option1": "決定",
     "showName": "ル<#000000,フ,#FFFFFF>ェル",
     "option2": "やめておく"
@@ -14897,7 +14932,7 @@
   },
   {
     "sn": "1052088",
-    "strContent": "メインミッション『<color=#FF423F>夢の跡 寝室に戻って寝る</color>』を完了後、このイベントミッションが開始されます。メインミッションを進めてください。",
+    "strContent": "メインミッション『<color=#FF423F>夢の跡 寝室に戻って寝ろ</color>』をクリア後に解放されます。",
     "option1": "AAAAAA==",
     "showName": "AAAAAA==",
     "option2": "AAAAAA=="
@@ -14911,14 +14946,14 @@
   },
   {
     "sn": "1052091",
-    "strContent": "ジャムの選択部分が未解放のため、選択できません。",
+    "strContent": "トッピングはまだ選択できません。",
     "option1": "AAAAAA==",
     "showName": "AAAAAA==",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1052092",
-    "strContent": "デコレーション選択部分が未解放のため、選択できません。",
+    "strContent": "デコレーションはまだ選択できません。",
     "option1": "AAAAAA==",
     "showName": "AAAAAA==",
     "option2": "AAAAAA=="
@@ -15261,84 +15296,84 @@
   },
   {
     "sn": "1052601",
-    "strContent": "スコアはあまり上がらなかったね…\nでも大丈夫、次回またリベンジしよう！",
+    "strContent": "あんまり記録伸びなかったね…\nでも大丈夫、次の打席で巻き返そう！",
     "option1": "AAAAAA==",
     "showName": "AAAAAA==",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1052602",
-    "strContent": "すごい、新記録だ！\nさすが我らのキャプテン！",
+    "strContent": "凄い、新記録だって！\nさっすがあたしたちのリーダーだねっ！",
     "option1": "AAAAAA==",
     "showName": "AAAAAA==",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1052603",
-    "strContent": "ちょっと停滞しているみたいだね…\nでも、次はもっと高いスコアを取れるはず！",
+    "strContent": "ちょっと伸び悩んでるかな…\nでも、次はきっと高得点を狙えるよ！",
     "option1": "AAAAAA==",
     "showName": "AAAAAA==",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1052604",
-    "strContent": "わあ、新記録を更新した！\nすごい、やっぱり君はすごいね！",
+    "strContent": "わぁっ、記録更新だって！\n凄い凄い、やっぱり君って凄いよっ！",
     "option1": "AAAAAA==",
     "showName": "AAAAAA==",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1052605",
-    "strContent": "記録が伸びてないな……作戦を立て直そう。",
+    "strContent": "記録が伸びなかったわね…\n作戦を練り直しましょう。",
     "option1": "AAAAAA==",
     "showName": "AAAAAA==",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1052606",
-    "strContent": "記録が…破られた！\nおめでとう、これは素晴らしい成果だ。",
+    "strContent": "新記録を達成したのね…！\nおめでとう、素晴らしい戦果だわ。",
     "option1": "AAAAAA==",
     "showName": "AAAAAA==",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1052607",
-    "strContent": "残念…でも大丈夫、\n次は記録更新を目指そう！",
+    "strContent": "惜しかったみてぇだな…\nけど次は新記録、狙ってこうぜ！",
     "option1": "AAAAAA==",
     "showName": "AAAAAA==",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1052608",
-    "strContent": "おお、新記録だ！\n次に帰るとき、ラーメンをご馳走するよ！",
+    "strContent": "おっしゃあ、新記録だ！\n今日の帰りに俺がラーメン、奢ってやるよ！",
     "option1": "AAAAAA==",
     "showName": "AAAAAA==",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1052609",
-    "strContent": "まだ成長が必要なようですね。\n欲望を磨いた後、ぜひ再挑戦してください。",
+    "strContent": "まだ伸び悩んでいるご様子。\n欲望の鍛錬後、ぜひ再挑戦していただきたい。",
     "option1": "AAAAAA==",
     "showName": "AAAAAA==",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1052610",
-    "strContent": "記録を破りました…！あなたの受付係\nとして、とても誇りに思います。",
+    "strContent": "新記録とは…！\u3000私めもコンシェルジュとして\n鼻が高い、と申し上げておく。",
     "option1": "AAAAAA==",
     "showName": "AAAAAA==",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1052611",
-    "strContent": "ふん、まあまあの出来だな。\n次はもっと頑張れよ。",
+    "strContent": "ふむ、まあまあのスコアといったところだ。\n次は更に上を目指すとしよう。",
     "option1": "AAAAAA==",
     "showName": "AAAAAA==",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1052612",
-    "strContent": "おお！記録更新のハイスコア、\nすごいじゃないか！",
+    "strContent": "ホホーッ！\n新記録の高得点だ、やるじゃないか！",
     "option1": "AAAAAA==",
     "showName": "AAAAAA==",
     "option2": "AAAAAA=="
@@ -15662,476 +15697,490 @@
     "sn": "1057001",
     "strContent": "ああ…しんど…",
     "option1": "AAAAAA==",
-    "showName": "新井素羽",
+    "showName": "新井 素羽",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1057002",
     "strContent": "気ぃ引き締めていこう。",
     "option1": "AAAAAA==",
-    "showName": "新井素羽",
+    "showName": "新井 素羽",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1057003",
     "strContent": "着いた？",
     "option1": "AAAAAA==",
-    "showName": "新井素羽",
+    "showName": "新井 素羽",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1057004",
     "strContent": "ちょっと休んでかない？",
     "option1": "AAAAAA==",
-    "showName": "新井素羽",
+    "showName": "新井 素羽",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1057005",
     "strContent": "ふぅ～一息つけるね…",
     "option1": "AAAAAA==",
-    "showName": "新井素羽",
+    "showName": "新井 素羽",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1057006",
     "strContent": "シャドウきてる…",
     "option1": "AAAAAA==",
-    "showName": "新井素羽",
+    "showName": "新井 素羽",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1057007",
     "strContent": "開かないね…",
     "option1": "AAAAAA==",
-    "showName": "新井素羽",
+    "showName": "新井 素羽",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1057008",
     "strContent": "できた！",
     "option1": "AAAAAA==",
-    "showName": "新井素羽",
+    "showName": "新井 素羽",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1057009",
     "strContent": "よさげな感じしない？",
     "option1": "AAAAAA==",
-    "showName": "新井素羽",
+    "showName": "新井 素羽",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1057010",
     "strContent": "もらっておこう？",
     "option1": "AAAAAA==",
-    "showName": "新井素羽",
+    "showName": "新井 素羽",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1057011",
     "strContent": "どこか、行けそうなところない？",
     "option1": "AAAAAA==",
-    "showName": "新井素羽",
+    "showName": "新井 素羽",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1057012",
     "strContent": "ここは…？",
     "option1": "AAAAAA==",
-    "showName": "新井素羽",
+    "showName": "新井 素羽",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1057013",
     "strContent": "他、行ってみる？",
     "option1": "AAAAAA==",
-    "showName": "新井素羽",
+    "showName": "新井 素羽",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1057014",
     "strContent": "中身なに？",
     "option1": "AAAAAA==",
-    "showName": "新井素羽",
+    "showName": "新井 素羽",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1057015",
     "strContent": "一旦、帰ろうか。",
     "option1": "AAAAAA==",
-    "showName": "新井素羽",
+    "showName": "新井 素羽",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1057016",
     "strContent": "アレ…もしかして、強敵？気を付けてこ！",
     "option1": "AAAAAA==",
-    "showName": "新井素羽",
+    "showName": "新井 素羽",
     "option2": "AAAAAA=="
+  },
+  {
+    "sn": "1052099",
+    "strContent": "現在の場面は、天候を雨にすることはできません。",
+    "option1": "AAAAAA==",
+    "showName": "AAAAAA==",
+    "option2": "AAAAAA=="
+  },
+  {
+    "sn": "1052100",
+    "strContent": "もう浜辺にはほとんど人がいないな。\n夜も遅いし<color=#FF423F>明日</color>まで休むか？",
+    "option1": "決定",
+    "showName": "ル<#000000,フ,#FFFFFF>ェル",
+    "option2": "やめておく"
   },
   {
     "sn": "1057017",
     "strContent": "ンン～ッ…\nねぇ、ちょっと休憩しない？",
     "option1": "AAAAAA==",
-    "showName": "新井素羽",
+    "showName": "新井 素羽",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1057101",
-    "strContent": "AAAAAA==",
+    "strContent": "力出ないよ～",
     "option1": "AAAAAA==",
-    "showName": "新井素羽",
+    "showName": "新井 素羽",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1057102",
     "strContent": "出発進行！",
     "option1": "AAAAAA==",
-    "showName": "新井素羽",
+    "showName": "新井 素羽",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1057103",
-    "strContent": "着いたみたいだ！",
+    "strContent": "着いたっぽい！",
     "option1": "AAAAAA==",
-    "showName": "新井素羽",
+    "showName": "新井 素羽",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1057104",
-    "strContent": "おっ、いい場所を見つけたぞー！",
+    "strContent": "おっ、オアシスめーっけ！",
     "option1": "AAAAAA==",
-    "showName": "新井素羽",
+    "showName": "新井 素羽",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1057105",
     "strContent": "やっと一息！",
     "option1": "AAAAAA==",
-    "showName": "新井素羽",
+    "showName": "新井 素羽",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1057106",
-    "strContent": "お前たちは蛾……なんだっけ？",
+    "strContent": "飛んで火にいる、だっけ？",
     "option1": "AAAAAA==",
-    "showName": "新井素羽",
+    "showName": "新井 素羽",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1057107",
-    "strContent": "え、開かないのか？",
+    "strContent": "って、開かないの？",
     "option1": "AAAAAA==",
-    "showName": "新井素羽",
+    "showName": "新井 素羽",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1057108",
     "strContent": "うーん、完璧っ！",
     "option1": "AAAAAA==",
-    "showName": "新井素羽",
+    "showName": "新井 素羽",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1057109",
-    "strContent": "宝箱があるような気がするけど？",
+    "strContent": "宝箱ありそうじゃない？",
     "option1": "AAAAAA==",
-    "showName": "新井素羽",
+    "showName": "新井 素羽",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1057110",
     "strContent": "やった～、オタカラ発見！",
     "option1": "AAAAAA==",
-    "showName": "新井素羽",
+    "showName": "新井 素羽",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1057111",
-    "strContent": "隠し通路があるみたいだな？",
+    "strContent": "隠し通路ありそうじゃない？",
     "option1": "AAAAAA==",
-    "showName": "新井素羽",
+    "showName": "新井 素羽",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1057112",
-    "strContent": "着いた、着いた~",
+    "strContent": "到着、到着～",
     "option1": "AAAAAA==",
-    "showName": "新井素羽",
+    "showName": "新井 素羽",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1057113",
-    "strContent": "他の入口はないかな〜…",
+    "strContent": "他に入口ないかな～…",
     "option1": "AAAAAA==",
-    "showName": "新井素羽",
+    "showName": "新井 素羽",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1057114",
     "strContent": "見せて見せて！",
     "option1": "AAAAAA==",
-    "showName": "新井素羽",
+    "showName": "新井 素羽",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1057115",
     "strContent": "仕切り直そ！",
     "option1": "AAAAAA==",
-    "showName": "新井素羽",
+    "showName": "新井 素羽",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1057116",
     "strContent": "もっと真剣にやらなきゃ…！",
     "option1": "AAAAAA==",
-    "showName": "新井素羽",
+    "showName": "新井 素羽",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1057117",
     "strContent": "熱中症に気をつけてね！\n何か飲み物を飲んで！",
     "option1": "AAAAAA==",
-    "showName": "新井素羽",
+    "showName": "新井 素羽",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1058001",
     "strContent": "す、少し疲れちゃって…",
     "option1": "AAAAAA==",
-    "showName": "奥村春",
+    "showName": "奥村 春",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1058002",
     "strContent": "さぁ、行きましょう！\n今日も頑張ろうね。",
     "option1": "AAAAAA==",
-    "showName": "奥村春",
+    "showName": "奥村 春",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1058003",
     "strContent": "目指していた場所はここね。",
     "option1": "AAAAAA==",
-    "showName": "奥村春",
+    "showName": "奥村 春",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1058004",
     "strContent": "こんな所にセーフルームがあるなんて…",
     "option1": "AAAAAA==",
-    "showName": "奥村春",
+    "showName": "奥村 春",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1058005",
     "strContent": "ちょっと休憩ね。",
     "option1": "AAAAAA==",
-    "showName": "奥村春",
+    "showName": "奥村 春",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1058006",
     "strContent": "シャドウがいるよ、気をつけて！",
     "option1": "AAAAAA==",
-    "showName": "奥村春",
+    "showName": "奥村 春",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1058007",
     "strContent": "この扉、鍵が掛けられてるね。\n仕方ないから、迂回しよう？",
     "option1": "AAAAAA==",
-    "showName": "奥村春",
+    "showName": "奥村 春",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1058008",
     "strContent": "成敗っ！\u3000ふふっ…おシゴト完了ね！",
     "option1": "AAAAAA==",
-    "showName": "奥村春",
+    "showName": "奥村 春",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1058009",
     "strContent": "何か気になるモノがあるね。",
     "option1": "AAAAAA==",
-    "showName": "奥村春",
+    "showName": "奥村 春",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1058010",
     "strContent": "まぁ！\u3000なんてこと！",
     "option1": "AAAAAA==",
-    "showName": "奥村春",
+    "showName": "奥村 春",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1058011",
     "strContent": "ここ、抜け道とかありそうね。",
     "option1": "AAAAAA==",
-    "showName": "奥村春",
+    "showName": "奥村 春",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1058012",
     "strContent": "着きました。ここからどうしましょうか？",
     "option1": "AAAAAA==",
-    "showName": "奥村春",
+    "showName": "奥村 春",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1058013",
     "strContent": "開かないね…ここはダメみたい。",
     "option1": "AAAAAA==",
-    "showName": "奥村春",
+    "showName": "奥村 春",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1058014",
     "strContent": "ふふ…ドキドキしちゃうね？",
     "option1": "AAAAAA==",
-    "showName": "奥村春",
+    "showName": "奥村 春",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1058015",
     "strContent": "では、ごきげんよう。",
     "option1": "AAAAAA==",
-    "showName": "奥村春",
+    "showName": "奥村 春",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1058016",
     "strContent": "とっても強そう…\n準備は万全にね。",
     "option1": "AAAAAA==",
-    "showName": "奥村春",
+    "showName": "奥村 春",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1058017",
     "strContent": "みんな疲れてるみたい…\n少しお茶にしない？",
     "option1": "AAAAAA==",
-    "showName": "奥村春",
+    "showName": "奥村 春",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1059001",
     "strContent": "はぁ、疲れちゃった…",
     "option1": "AAAAAA==",
-    "showName": "高巻杏",
+    "showName": "高巻 杏",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1059002",
     "strContent": "フフッ、腕が鳴るね。それじゃ、行こっか！",
     "option1": "AAAAAA==",
-    "showName": "高巻杏",
+    "showName": "高巻 杏",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1059003",
     "strContent": "着いたー。ここが目的地だよね？",
     "option1": "AAAAAA==",
-    "showName": "高巻杏",
+    "showName": "高巻 杏",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1059004",
     "strContent": "いい所にセーフルームがあるじゃん！",
     "option1": "AAAAAA==",
-    "showName": "高巻杏",
+    "showName": "高巻 杏",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1059005",
     "strContent": "ねぇ、ちょっと休んでいこうよ。",
     "option1": "AAAAAA==",
-    "showName": "高巻杏",
+    "showName": "高巻 杏",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1059006",
     "strContent": "シャドウがいる、気を付けて！",
     "option1": "AAAAAA==",
-    "showName": "高巻杏",
+    "showName": "高巻 杏",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1059007",
     "strContent": "鍵が掛かってるみたい。\nここは後回しにしよっか。",
     "option1": "AAAAAA==",
-    "showName": "高巻杏",
+    "showName": "高巻 杏",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1059008",
     "strContent": "ふぅ、シゴト完了だね。",
     "option1": "AAAAAA==",
-    "showName": "高巻杏",
+    "showName": "高巻 杏",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1059009",
     "strContent": "何アレ？",
     "option1": "AAAAAA==",
-    "showName": "高巻杏",
+    "showName": "高巻 杏",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1059010",
     "strContent": "イイじゃないイイじゃなーい！",
     "option1": "AAAAAA==",
-    "showName": "高巻杏",
+    "showName": "高巻 杏",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1059011",
     "strContent": "あれ？\u3000風が吹いてない？",
     "option1": "AAAAAA==",
-    "showName": "高巻杏",
+    "showName": "高巻 杏",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1059012",
     "strContent": "着いたね。ここからどうするの？",
     "option1": "AAAAAA==",
-    "showName": "高巻杏",
+    "showName": "高巻 杏",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1059013",
     "strContent": "この扉は開かないみたい。",
     "option1": "AAAAAA==",
-    "showName": "高巻杏",
+    "showName": "高巻 杏",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1059014",
     "strContent": "フフッ、何が出るかなー？",
     "option1": "AAAAAA==",
-    "showName": "高巻杏",
+    "showName": "高巻 杏",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1059015",
     "strContent": "お疲れー。",
     "option1": "AAAAAA==",
-    "showName": "高巻杏",
+    "showName": "高巻 杏",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1059016",
     "strContent": "あいつ、なんかヤバそうじゃない？",
     "option1": "AAAAAA==",
-    "showName": "高巻杏",
+    "showName": "高巻 杏",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1059017",
     "strContent": "ねえ、そろそろ休憩しない？\n足がむくんじゃう～。",
     "option1": "AAAAAA==",
-    "showName": "高巻杏",
+    "showName": "高巻 杏",
     "option2": "AAAAAA=="
   },
   {
@@ -16376,119 +16425,119 @@
     "sn": "1062001",
     "strContent": "ちょっと厳しいかも…",
     "option1": "AAAAAA==",
-    "showName": "新島真",
+    "showName": "新島 真",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1062002",
     "strContent": "準備はいい？\nシゴトの時間よ、行きましょう。",
     "option1": "AAAAAA==",
-    "showName": "新島真",
+    "showName": "新島 真",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1062003",
     "strContent": "目的地到着ね。",
     "option1": "AAAAAA==",
-    "showName": "新島真",
+    "showName": "新島 真",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1062004",
     "strContent": "あら？\u3000ここは安全そうね。\nセーフルームとして確保しましょう。",
     "option1": "AAAAAA==",
-    "showName": "新島真",
+    "showName": "新島 真",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1062005",
-    "strContent": "ふぅ。\u3000ひと休みできるわね。",
+    "strContent": "ふぅ。ひと休みできるわね。",
     "option1": "AAAAAA==",
-    "showName": "新島真",
+    "showName": "新島 真",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1062006",
     "strContent": "前方にシャドウよ、注意して。",
     "option1": "AAAAAA==",
-    "showName": "新島真",
+    "showName": "新島 真",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1062007",
     "strContent": "あれ？\u3000この扉は鍵が掛かってるみたいね。",
     "option1": "AAAAAA==",
-    "showName": "新島真",
+    "showName": "新島 真",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1062008",
     "strContent": "シゴト完了ね。みんな、無事よね？",
     "option1": "AAAAAA==",
-    "showName": "新島真",
+    "showName": "新島 真",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1062009",
     "strContent": "重要なモノがありそうね。\n調べてみない？",
     "option1": "AAAAAA==",
-    "showName": "新島真",
+    "showName": "新島 真",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1062010",
     "strContent": "うん！\u3000良い物が手に入ったわね！",
     "option1": "AAAAAA==",
-    "showName": "新島真",
+    "showName": "新島 真",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1062011",
     "strContent": "空気が流れてるわね。\nどこかに隙間でもありそうね。",
     "option1": "AAAAAA==",
-    "showName": "新島真",
+    "showName": "新島 真",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1062012",
     "strContent": "到着ね。行きましょう。",
     "option1": "AAAAAA==",
-    "showName": "新島真",
+    "showName": "新島 真",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1062013",
     "strContent": "開かないみたいね。他を探しましょう。",
     "option1": "AAAAAA==",
-    "showName": "新島真",
+    "showName": "新島 真",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1062014",
     "strContent": "あら？\u3000これは…",
     "option1": "AAAAAA==",
-    "showName": "新島真",
+    "showName": "新島 真",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1062015",
     "strContent": "それじゃ、気をつけてね。",
     "option1": "AAAAAA==",
-    "showName": "新島真",
+    "showName": "新島 真",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1062016",
     "strContent": "気を付けて。\n油断ならない相手よ。",
     "option1": "AAAAAA==",
-    "showName": "新島真",
+    "showName": "新島 真",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1062017",
     "strContent": "大丈夫？\u3000少し休憩したほうが\nいいんじゃない？",
     "option1": "AAAAAA==",
-    "showName": "新島真",
+    "showName": "新島 真",
     "option2": "AAAAAA=="
   },
   {
@@ -17151,196 +17200,196 @@
   },
   {
     "sn": "1064111",
-    "strContent": "以下が開放されました。\n『<color=#FF423F>水処理場下層・セーフルーム</color>』のショートカット。",
+    "strContent": "以下が開放されました。\n『<color=#FF423F>水処理場下層・セーフルーム</color>』\nのショートカット。",
     "option1": "AAAAAA==",
     "showName": "AAAAAA==",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1064112",
-    "strContent": "以下が開放されました。\n『<color=#FF423F>水処理場下層・東側入口</color>』のショートカット。",
+    "strContent": "以下が開放されました。\n『<color=#FF423F>水処理場下層・東側入口</color>』\nのショートカット。",
     "option1": "AAAAAA==",
     "showName": "AAAAAA==",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1064113",
-    "strContent": "以下が開放されました。\n『<color=#FF423F>水処理場下層・東側奥</color>』のショートカット。",
+    "strContent": "以下が開放されました。\n『<color=#FF423F>水処理場下層・東側奥</color>』\nのショートカット。",
     "option1": "AAAAAA==",
     "showName": "AAAAAA==",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1064114",
-    "strContent": "以下が開放されました。\n『<color=#FF423F>水処理場下層・北側</color>』のショートカット。",
+    "strContent": "以下が開放されました。\n『<color=#FF423F>水処理場下層・北側</color>』\nのショートカット。",
     "option1": "AAAAAA==",
     "showName": "AAAAAA==",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1064115",
-    "strContent": "以下が開放されました。\n『<color=#FF423F>水処理場下層・西側入口</color>』のショートカット。",
+    "strContent": "以下が開放されました。\n『<color=#FF423F>水処理場下層・西側入口</color>』\nのショートカット。",
     "option1": "AAAAAA==",
     "showName": "AAAAAA==",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1064116",
-    "strContent": "以下が開放されました。\n『<color=#FF423F>水処理場下層・西側奥</color>』のショートカット。",
+    "strContent": "以下が開放されました。\n『<color=#FF423F>水処理場下層・西側奥</color>』\nのショートカット。",
     "option1": "AAAAAA==",
     "showName": "AAAAAA==",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1064117",
-    "strContent": "以下が開放されました。\n『<color=#FF423F>水処理場下層・南側</color>』のショートカット。",
+    "strContent": "以下が開放されました。\n『<color=#FF423F>水処理場下層・南側</color>』\nのショートカット。",
     "option1": "AAAAAA==",
     "showName": "AAAAAA==",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1064121",
-    "strContent": "以下が開放されました。\n『<color=#FF423F>水処理場中層・西側通路</color>』のショートカット。",
+    "strContent": "以下が開放されました。\n『<color=#FF423F>水処理場中層・西側通路</color>』\nのショートカット。",
     "option1": "AAAAAA==",
     "showName": "AAAAAA==",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1064122",
-    "strContent": "以下が開放されました。\n『<color=#FF423F>水処理場中層・北側通路</color>』のショートカット。",
+    "strContent": "以下が開放されました。\n『<color=#FF423F>水処理場中層・北側通路</color>』\nのショートカット。",
     "option1": "AAAAAA==",
     "showName": "AAAAAA==",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1064123",
-    "strContent": "以下が開放されました。\n『<color=#FF423F>水処理場中層・北側</color>』のショートカット。",
+    "strContent": "以下が開放されました。\n『<color=#FF423F>水処理場中層・北側</color>』\nのショートカット。",
     "option1": "AAAAAA==",
     "showName": "AAAAAA==",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1064124",
-    "strContent": "以下が開放されました。\n『<color=#FF423F>水処理場中層・冷却施設</color>』のショートカット。",
+    "strContent": "以下が開放されました。\n『<color=#FF423F>水処理場中層・冷却施設</color>』\nのショートカット。",
     "option1": "AAAAAA==",
     "showName": "AAAAAA==",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1064125",
-    "strContent": "以下が開放されました。\n『<color=#FF423F>水処理場中層・東側通路</color>』のショートカット。",
+    "strContent": "以下が開放されました。\n『<color=#FF423F>水処理場中層・東側通路</color>』\nのショートカット。",
     "option1": "AAAAAA==",
     "showName": "AAAAAA==",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1064126",
-    "strContent": "以下が開放されました。\n『<color=#FF423F>水処理場中層・南側</color>』のショートカット。",
+    "strContent": "以下が開放されました。\n『<color=#FF423F>水処理場中層・南側</color>』\nのショートカット。",
     "option1": "AAAAAA==",
     "showName": "AAAAAA==",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1064131",
-    "strContent": "以下が開放されました。\n『<color=#FF423F>水処理場上層・西側奥</color>』のショートカット。",
+    "strContent": "以下が開放されました。\n『<color=#FF423F>水処理場上層・西側奥</color>』\nのショートカット。",
     "option1": "AAAAAA==",
     "showName": "AAAAAA==",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1064132",
-    "strContent": "以下が開放されました。\n『<color=#FF423F>水処理場上層・北側入口</color>』のショートカット。",
+    "strContent": "以下が開放されました。\n『<color=#FF423F>水処理場上層・北側入口</color>』\nのショートカット。",
     "option1": "AAAAAA==",
     "showName": "AAAAAA==",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1064133",
-    "strContent": "以下が開放されました。\n『<color=#FF423F>水処理場上層・西側入口</color>』のショートカット。",
+    "strContent": "以下が開放されました。\n『<color=#FF423F>水処理場上層・西側入口</color>』\nのショートカット。",
     "option1": "AAAAAA==",
     "showName": "AAAAAA==",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1064134",
-    "strContent": "以下が開放されました。\n『<color=#FF423F>水処理場上層・エレベーター前</color>』のショートカット。",
+    "strContent": "以下が開放されました。\n『<color=#FF423F>水処理場上層・エレベーター前</color>』\nのショートカット。",
     "option1": "AAAAAA==",
     "showName": "AAAAAA==",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1064135",
-    "strContent": "以下が開放されました。\n『<color=#FF423F>水処理場上層・東側</color>』のショートカット。",
+    "strContent": "以下が開放されました。\n『<color=#FF423F>水処理場上層・東側</color>』\nのショートカット。",
     "option1": "AAAAAA==",
     "showName": "AAAAAA==",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1064136",
-    "strContent": "以下が開放されました。\n『<color=#FF423F>水処理場上層・北側奥</color>』のショートカット。",
+    "strContent": "以下が開放されました。\n『<color=#FF423F>水処理場上層・北側奥</color>』\nのショートカット。",
     "option1": "AAAAAA==",
     "showName": "AAAAAA==",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1064141",
-    "strContent": "以下が開放されました。\n『<color=#FF423F>水処理場・トンネル南部</color>』のショートカット。",
+    "strContent": "以下が開放されました。\n『<color=#FF423F>水処理場・トンネル南部</color>』\nのショートカット。",
     "option1": "AAAAAA==",
     "showName": "AAAAAA==",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1064142",
-    "strContent": "以下が開放されました。\n『<color=#FF423F>水処理場・トンネル北部</color>』のショートカット。",
+    "strContent": "以下が開放されました。\n『<color=#FF423F>水処理場・トンネル北部</color>』\nのショートカット。",
     "option1": "AAAAAA==",
     "showName": "AAAAAA==",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1064143",
-    "strContent": "以下が開放されました。\n『<color=#FF423F>天守閣内・南側</color>』のショートカット。",
+    "strContent": "以下が開放されました。\n『<color=#FF423F>発電所１階・垂直シャフト南側</color>』\nのショートカット。",
     "option1": "AAAAAA==",
     "showName": "AAAAAA==",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1064144",
-    "strContent": "以下が開放されました。\n『<color=#FF423F>天守閣内・南側</color>』のショートカット。",
+    "strContent": "以下が開放されました。\n『<color=#FF423F>発電所１階・垂直シャフト北側</color>』\nのショートカット。",
     "option1": "AAAAAA==",
     "showName": "AAAAAA==",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1064145",
-    "strContent": "以下が開放されました。\n『<color=#FF423F>天守閣内・南側</color>』のショートカット。",
+    "strContent": "以下が開放されました。\n『<color=#FF423F>発電所１階・研究室出口</color>』\nのショートカット。",
     "option1": "AAAAAA==",
     "showName": "AAAAAA==",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1064146",
-    "strContent": "以下が開放されました。\n『<color=#FF423F>天守閣内・南側</color>』のショートカット。",
+    "strContent": "以下が開放されました。\n『<color=#FF423F>発電所１階・北側通路</color>』\nのショートカット。",
     "option1": "AAAAAA==",
     "showName": "AAAAAA==",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1064147",
-    "strContent": "以下が開放されました。\n『<color=#FF423F>天守閣内・南側</color>』のショートカット。",
+    "strContent": "以下が開放されました。\n『<color=#FF423F>発電所１階・西南通路</color>』\nのショートカット。",
     "option1": "AAAAAA==",
     "showName": "AAAAAA==",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1064148",
-    "strContent": "以下が開放されました。\n『<color=#FF423F>天守閣内・南側</color>』のショートカット。",
+    "strContent": "以下が開放されました。\n『<color=#FF423F>発電所１階・西北通路</color>』\nのショートカット。",
     "option1": "AAAAAA==",
     "showName": "AAAAAA==",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1064149",
-    "strContent": "以下が開放されました。\n『<color=#FF423F>天守閣内・南側</color>』のショートカット。",
+    "strContent": "以下が開放されました。\n『<color=#FF423F>発電所１階・東側通路</color>』\nのショートカット。",
     "option1": "AAAAAA==",
     "showName": "AAAAAA==",
     "option2": "AAAAAA=="
@@ -17354,105 +17403,105 @@
   },
   {
     "sn": "1064151",
-    "strContent": "以下が開放されました。\n『<color=#FF423F>天守閣内・南側</color>』のショートカット。",
+    "strContent": "以下が開放されました。\n『<color=#FF423F>発電所２階・監視室入り口</color>』\nのショートカット。",
     "option1": "AAAAAA==",
     "showName": "AAAAAA==",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1064152",
-    "strContent": "以下が開放されました。\n『<color=#FF423F>天守閣内・南側</color>』のショートカット。",
+    "strContent": "以下が開放されました。\n『<color=#FF423F>発電所２階・発電室入口</color>』\nのショートカット。",
     "option1": "AAAAAA==",
     "showName": "AAAAAA==",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1064153",
-    "strContent": "以下が開放されました。\n『<color=#FF423F>天守閣内・南側</color>のショートカット。",
+    "strContent": "以下が開放されました。\n『<color=#FF423F>発電所２階・南側通路</color>』\nのショートカット。",
     "option1": "AAAAAA==",
     "showName": "AAAAAA==",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1064154",
-    "strContent": "以下が開放されました。\n『<color=#FF423F>天守閣内・南側</color>』のショートカット。",
+    "strContent": "以下が開放されました。\n『<color=#FF423F>発電所２階・制御室入口</color>』\nのショートカット。",
     "option1": "AAAAAA==",
     "showName": "AAAAAA==",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1064155",
-    "strContent": "以下が開放されました。\n『<color=#FF423F>天守閣内・南側</color>』のショートカット。",
+    "strContent": "以下が開放されました。\n『<color=#FF423F>発電所２階・北東発電室</color>』\nのショートカット。",
     "option1": "AAAAAA==",
     "showName": "AAAAAA==",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1064156",
-    "strContent": "以下が開放されました。\n『<color=#FF423F>天守閣内・南側</color>』のショートカット。",
+    "strContent": "以下が開放されました。\n『<color=#FF423F>発電所２階・北東通路</color>』\nのショートカット。",
     "option1": "AAAAAA==",
     "showName": "AAAAAA==",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1064157",
-    "strContent": "以下が開放されました。\n『<color=#FF423F>天守閣内・南側</color>』のショートカット。",
+    "strContent": "以下が開放されました。\n『<color=#FF423F>発電所２階・南東通路</color>』\nのショートカット。",
     "option1": "AAAAAA==",
     "showName": "AAAAAA==",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1064158",
-    "strContent": "以下が開放されました。\n『<color=#FF423F>天守閣内・南側</color>』のショートカット。",
+    "strContent": "以下が開放されました。\n『<color=#FF423F>発電所２階・西側通路</color>』\nのショートカット。",
     "option1": "AAAAAA==",
     "showName": "AAAAAA==",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1064159",
-    "strContent": "以下が開放されました。\n『<color=#FF423F>天守閣内・南側</color>』のショートカット。",
+    "strContent": "以下が開放されました。\n『<color=#FF423F>発電所３階・資材保管室入口</color>』\nのショートカット。",
     "option1": "AAAAAA==",
     "showName": "AAAAAA==",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1064160",
-    "strContent": "以下が開放されました。\n『<color=#FF423F>天守閣内・南側</color>』のショートカット。",
+    "strContent": "以下が開放されました。\n『<color=#FF423F>発電所３階・西側通路</color>』\nのショートカット。",
     "option1": "AAAAAA==",
     "showName": "AAAAAA==",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1064161",
-    "strContent": "以下が開放されました。\n『<color=#FF423F>天守閣内・南側</color>』のショートカット。",
+    "strContent": "以下が開放されました。\n『<color=#FF423F>発電所３階・西側資材保管室</color>』\nのショートカット。",
     "option1": "AAAAAA==",
     "showName": "AAAAAA==",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1064162",
-    "strContent": "以下が開放されました。\n『<color=#FF423F>天守閣内・南側</color>』のショートカット。",
+    "strContent": "以下が開放されました。\n『<color=#FF423F>発電所３階・長廊下</color>』\nのショートカット。",
     "option1": "AAAAAA==",
     "showName": "AAAAAA==",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1064163",
-    "strContent": "以下が開放されました。\n『<color=#FF423F>天守閣内・南側</color>』のショートカット。",
+    "strContent": "以下が開放されました。\n『<color=#FF423F>発電所３階・西側奥部</color>』\nのショートカット。",
     "option1": "AAAAAA==",
     "showName": "AAAAAA==",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1064164",
-    "strContent": "以下が開放されました。\n『<color=#FF423F>天守閣内・南側</color>』のショートカット。",
+    "strContent": "以下が開放されました。\n『<color=#FF423F>発電所３階・雑貨室</color>』\nのショートカット。",
     "option1": "AAAAAA==",
     "showName": "AAAAAA==",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1064165",
-    "strContent": "以下が開放されました。\n『<color=#FF423F>天守閣内・南側</color>』のショートカット。",
+    "strContent": "以下が開放されました。\n『<color=#FF423F>発電所３階・東側変電室</color>』\nのショートカット。",
     "option1": "AAAAAA==",
     "showName": "AAAAAA==",
     "option2": "AAAAAA=="
@@ -17466,119 +17515,119 @@
   },
   {
     "sn": "1064181",
-    "strContent": "AAAAAA==",
+    "strContent": "以下が開放されました。\n『<color=#FF423F>制御センター下層・前ホール</color>』のショートカット。",
     "option1": "AAAAAA==",
     "showName": "AAAAAA==",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1064182",
-    "strContent": "AAAAAA==",
+    "strContent": "以下が開放されました。\n『<color=#FF423F>制御センター下層・相談室廊下</color>』のショートカット。",
     "option1": "AAAAAA==",
     "showName": "AAAAAA==",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1064183",
-    "strContent": "AAAAAA==",
+    "strContent": "以下が開放されました。\n『<color=#FF423F>制御センター下層・階段室</color>』のショートカット。",
     "option1": "AAAAAA==",
     "showName": "AAAAAA==",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1064184",
-    "strContent": "AAAAAA==",
+    "strContent": "以下が開放されました。\n『<color=#FF423F>制御センター下層・相談室廊下</color>』のショートカット。",
     "option1": "AAAAAA==",
     "showName": "AAAAAA==",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1064185",
-    "strContent": "AAAAAA==",
+    "strContent": "以下が開放されました。\n『<color=#FF423F>制御センター下層・制御室</color>』のショートカット。",
     "option1": "AAAAAA==",
     "showName": "AAAAAA==",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1064186",
-    "strContent": "AAAAAA==",
+    "strContent": "以下が開放されました。\n『<color=#FF423F>制御センター下層・食堂</color>』のショートカット。",
     "option1": "AAAAAA==",
     "showName": "AAAAAA==",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1064201",
-    "strContent": "AAAAAA==",
+    "strContent": "以下が開放されました。\n『<color=#FF423F>制御センター下層・中庭広場</color>』のショートカット。",
     "option1": "AAAAAA==",
     "showName": "AAAAAA==",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1064187",
-    "strContent": "AAAAAA==",
+    "strContent": "以下が開放されました。\n『<color=#FF423F>制御センター下層・中央廊下</color>』のショートカット。",
     "option1": "AAAAAA==",
     "showName": "AAAAAA==",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1064188",
-    "strContent": "AAAAAA==",
+    "strContent": "以下が開放されました。\n『<color=#FF423F>制御センター下層・東側廊下</color>』のショートカット。",
     "option1": "AAAAAA==",
     "showName": "AAAAAA==",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1064189",
-    "strContent": "AAAAAA==",
+    "strContent": "以下が開放されました。\n『<color=#FF423F>制御センター下層・南東食堂</color>』のショートカット。",
     "option1": "AAAAAA==",
     "showName": "AAAAAA==",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1064190",
-    "strContent": "AAAAAA==",
+    "strContent": "以下が開放されました。\n『<color=#FF423F>制御センター下層・南東廊下</color>』のショートカット。",
     "option1": "AAAAAA==",
     "showName": "AAAAAA==",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1064202",
-    "strContent": "AAAAAA==",
+    "strContent": "以下が開放されました。\n『<color=#FF423F>水処理場中層・北側通路</color>』のショートカット。",
     "option1": "AAAAAA==",
     "showName": "AAAAAA==",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1064166",
-    "strContent": "AAAAAA==",
+    "strContent": "以下が開放されました。\n『<color=#FF423F>発電所３階・中央発電機</color>』のショートカット。",
     "option1": "AAAAAA==",
     "showName": "AAAAAA==",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1064203",
-    "strContent": "AAAAAA==",
+    "strContent": "以下が開放されました。\n『<color=#FF423F>制御センター上層・東側食堂</color>』のショートカット。",
     "option1": "AAAAAA==",
     "showName": "AAAAAA==",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1064204",
-    "strContent": "AAAAAA==",
+    "strContent": "以下が開放されました。\n『<color=#FF423F>制御センター上層・北西食堂</color>』のショートカット。",
     "option1": "AAAAAA==",
     "showName": "AAAAAA==",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1064205",
-    "strContent": "AAAAAA==",
+    "strContent": "以下が開放されました。\n『<color=#FF423F>制御センター上層・南西食堂</color>』のショートカット。",
     "option1": "AAAAAA==",
     "showName": "AAAAAA==",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1064206",
-    "strContent": "AAAAAA==",
+    "strContent": "以下が開放されました。\n『<color=#FF423F>制御センター上層・西側制御室</color>』のショートカット。",
     "option1": "AAAAAA==",
     "showName": "AAAAAA==",
     "option2": "AAAAAA=="
@@ -18446,7 +18495,7 @@
   },
   {
     "sn": "1075007",
-    "strContent": "開かねぇ…鍵でもいるのか？これ。",
+    "strContent": "開かねぇ…鍵でもいるのか？\u3000これ。",
     "option1": "AAAAAA==",
     "showName": "加納駿",
     "option2": "AAAAAA=="
@@ -18642,7 +18691,7 @@
   },
   {
     "sn": "1076101",
-    "strContent": "ちょっと具合が悪いかも…",
+    "strContent": "ちょっと気分悪いかも…",
     "option1": "AAAAAA==",
     "showName": "野毛朋子",
     "option2": "AAAAAA=="
@@ -18656,35 +18705,35 @@
   },
   {
     "sn": "1076103",
-    "strContent": "着いたね！",
+    "strContent": "到着だね！",
     "option1": "AAAAAA==",
     "showName": "野毛朋子",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1076104",
-    "strContent": "オアシスを発見！\u3000冗談だよ〜。",
+    "strContent": "オアシス発見！\u3000なーんてね。",
     "option1": "AAAAAA==",
     "showName": "野毛朋子",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1076105",
-    "strContent": "ふぅ、安全屋で涼むのも悪くないね～。",
+    "strContent": "ふぅ、涼しくていいよね～。",
     "option1": "AAAAAA==",
     "showName": "野毛朋子",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1076106",
-    "strContent": "敵を発見。慎重に行動しようか？",
+    "strContent": "敵発見。慎重に行こう？",
     "option1": "AAAAAA==",
     "showName": "野毛朋子",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1076107",
-    "strContent": "ロックされているのか？",
+    "strContent": "鍵がかかってるのかな？",
     "option1": "AAAAAA==",
     "showName": "野毛朋子",
     "option2": "AAAAAA=="
@@ -18698,42 +18747,42 @@
   },
   {
     "sn": "1076109",
-    "strContent": "中身が何か知りたいなぁ。",
+    "strContent": "何が入ってるかな？",
     "option1": "AAAAAA==",
     "showName": "野毛朋子",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1076110",
-    "strContent": "わあ、すごいすごい！",
+    "strContent": "わあっ、すごいすごい！",
     "option1": "AAAAAA==",
     "showName": "野毛朋子",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1076111",
-    "strContent": "風が吹いてきた…道があるのか？",
+    "strContent": "風が来てる…道があるのかな？",
     "option1": "AAAAAA==",
     "showName": "野毛朋子",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1076112",
-    "strContent": "わあ、もう着いた！",
+    "strContent": "わわ、もう着いちゃった！",
     "option1": "AAAAAA==",
     "showName": "野毛朋子",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1076113",
-    "strContent": "うーん、開かないのか。",
+    "strContent": "うーん、開かないかぁ。",
     "option1": "AAAAAA==",
     "showName": "野毛朋子",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1076114",
-    "strContent": "どうだ？\u3000いいものか？",
+    "strContent": "どうかな？\u3000どうかな？",
     "option1": "AAAAAA==",
     "showName": "野毛朋子",
     "option2": "AAAAAA=="
@@ -18747,14 +18796,14 @@
   },
   {
     "sn": "1076116",
-    "strContent": "敵…強そうだ。慎重に行動しよう。",
+    "strContent": "敵…強そう。気を付けて行こう。",
     "option1": "AAAAAA==",
     "showName": "野毛朋子",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1076117",
-    "strContent": "ちょっと喉が渇いたな。\n一緒に何か飲みに行こう！",
+    "strContent": "喉乾いてきちゃったかも。\n一緒に何か飲みに行こ！",
     "option1": "AAAAAA==",
     "showName": "野毛朋子",
     "option2": "AAAAAA=="
@@ -18817,7 +18866,7 @@
   },
   {
     "sn": "1077009",
-    "strContent": "…ん？レアなブツの気配です…？",
+    "strContent": "…ん？\u3000レアなブツの気配です…？",
     "option1": "AAAAAA==",
     "showName": "黒谷清",
     "option2": "AAAAAA=="
@@ -19160,7 +19209,7 @@
   },
   {
     "sn": "1086003",
-    "strContent": "さて…",
+    "strContent": "さて…っと。",
     "option1": "AAAAAA==",
     "showName": "須見俊也",
     "option2": "AAAAAA=="
@@ -19573,7 +19622,7 @@
   },
   {
     "sn": "1089002",
-    "strContent": "しゅっぱーつ！ワクワクするねっ！",
+    "strContent": "しゅっぱーつ！\u3000ワクワクするねっ！",
     "option1": "AAAAAA==",
     "showName": "西森陽菜",
     "option2": "AAAAAA=="
@@ -19601,7 +19650,7 @@
   },
   {
     "sn": "1089006",
-    "strContent": "しーっ！見つかっちゃう！",
+    "strContent": "しーっ！\u3000見つかっちゃう！",
     "option1": "AAAAAA==",
     "showName": "西森陽菜",
     "option2": "AAAAAA=="
@@ -19776,7 +19825,7 @@
   },
   {
     "sn": "1090013",
-    "strContent": "開かないわね。他の道にいたしましょう？",
+    "strContent": "開かないですわね。他の道にしましょう？",
     "option1": "AAAAAA==",
     "showName": "ＹＵＩ",
     "option2": "AAAAAA=="
@@ -19853,7 +19902,7 @@
   },
   {
     "sn": "1100006",
-    "strContent": "敵が.....気を付けてね。",
+    "strContent": "敵が…気を付けてね。",
     "option1": "AAAAAA==",
     "showName": "宮下美波",
     "option2": "AAAAAA=="
@@ -20196,140 +20245,140 @@
   },
   {
     "sn": "1140001",
-    "strContent": "AAAAAA==",
+    "strContent": "探索を始めるぞ。",
     "option1": "AAAAAA==",
     "showName": "北里基良",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1140002",
-    "strContent": "AAAAAA==",
+    "strContent": "着いたな。さて、どうする？",
     "option1": "AAAAAA==",
     "showName": "北里基良",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1140003",
-    "strContent": "AAAAAA==",
+    "strContent": "ここが目的地だ。",
     "option1": "AAAAAA==",
     "showName": "北里基良",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1140004",
-    "strContent": "AAAAAA==",
+    "strContent": "この辺りに何かありそうだな。",
     "option1": "AAAAAA==",
     "showName": "北里基良",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1140005",
-    "strContent": "AAAAAA==",
+    "strContent": "鍵がかかっているな。",
     "option1": "AAAAAA==",
     "showName": "北里基良",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1140006",
-    "strContent": "AAAAAA==",
+    "strContent": "開かないようだ。",
     "option1": "AAAAAA==",
     "showName": "北里基良",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1140007",
-    "strContent": "AAAAAA==",
+    "strContent": "無事に終わったな。",
     "option1": "AAAAAA==",
     "showName": "北里基良",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1140008",
-    "strContent": "AAAAAA==",
+    "strContent": "あれは何だ…？",
     "option1": "AAAAAA==",
     "showName": "北里基良",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1140009",
-    "strContent": "AAAAAA==",
+    "strContent": "バイタルが低下しているな…",
     "option1": "AAAAAA==",
     "showName": "北里基良",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1140010",
-    "strContent": "AAAAAA==",
+    "strContent": "中身は爆弾かもしれんぞ？",
     "option1": "AAAAAA==",
     "showName": "北里基良",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1140011",
-    "strContent": "AAAAAA==",
+    "strContent": "冗談だ。本気にするな。",
     "option1": "AAAAAA==",
     "showName": "北里基良",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1140012",
-    "strContent": "AAAAAA==",
+    "strContent": "実験体…もといシャドウがいるな。",
     "option1": "AAAAAA==",
     "showName": "北里基良",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1140013",
-    "strContent": "AAAAAA==",
+    "strContent": "セーフルームか…休息するか？",
     "option1": "AAAAAA==",
     "showName": "北里基良",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1140014",
-    "strContent": "AAAAAA==",
+    "strContent": "治療が必要な者はいるか？",
     "option1": "AAAAAA==",
     "showName": "北里基良",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1140015",
-    "strContent": "AAAAAA==",
+    "strContent": "悪くない成果だな。",
     "option1": "AAAAAA==",
     "showName": "北里基良",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1140016",
-    "strContent": "AAAAAA==",
+    "strContent": "業務終了だ。",
     "option1": "AAAAAA==",
     "showName": "北里基良",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1140017",
-    "strContent": "AAAAAA==",
+    "strContent": "強敵の気配がするな…血が騒ぐ。",
     "option1": "AAAAAA==",
     "showName": "北里基良",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1140018",
-    "strContent": "AAAAAA==",
+    "strContent": "そろそろ休め。医者としての忠告だ。",
     "option1": "AAAAAA==",
     "showName": "北里基良",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1150001",
-    "strContent": "AAAAAA==",
+    "strContent": "じゃあ、行ってくるね。",
     "option1": "AAAAAA==",
     "showName": "芦谷真咲",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1150002",
-    "strContent": "AAAAAA==",
+    "strContent": "よし、行こうか。",
     "option1": "AAAAAA==",
     "showName": "芦谷真咲",
     "option2": "AAAAAA=="
@@ -20364,7 +20413,7 @@
   },
   {
     "sn": "1150007",
-    "strContent": "AAAAAA==",
+    "strContent": "ただいま。お待たせしちゃったかな？",
     "option1": "AAAAAA==",
     "showName": "芦谷真咲",
     "option2": "AAAAAA=="
@@ -20392,7 +20441,7 @@
   },
   {
     "sn": "1150011",
-    "strContent": "AAAAAA==",
+    "strContent": "なんとか達成できたみたい。",
     "option1": "AAAAAA==",
     "showName": "芦谷真咲",
     "option2": "AAAAAA=="
@@ -20420,14 +20469,14 @@
   },
   {
     "sn": "1150015",
-    "strContent": "AAAAAA==",
+    "strContent": "楽しい依頼だったね。次も行きたいな。",
     "option1": "AAAAAA==",
     "showName": "芦谷真咲",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1150016",
-    "strContent": "AAAAAA==",
+    "strContent": "お疲れ様！\u3000今日は休ませてもらおうかな。",
     "option1": "AAAAAA==",
     "showName": "芦谷真咲",
     "option2": "AAAAAA=="
@@ -20455,7 +20504,7 @@
   },
   {
     "sn": "1151002",
-    "strContent": "AAAAAA==",
+    "strContent": "準備はできたわ。",
     "option1": "AAAAAA==",
     "showName": "琴音・モンターニュ\u3000ダンス",
     "option2": "AAAAAA=="
@@ -20497,7 +20546,7 @@
   },
   {
     "sn": "1151008",
-    "strContent": "AAAAAA==",
+    "strContent": "依頼完了ね。",
     "option1": "AAAAAA==",
     "showName": "琴音・モンターニュ\u3000ダンス",
     "option2": "AAAAAA=="
@@ -20546,7 +20595,7 @@
   },
   {
     "sn": "1151015",
-    "strContent": "AAAAAA==",
+    "strContent": "お疲れ様。ストレッチを忘れずに。",
     "option1": "AAAAAA==",
     "showName": "琴音・モンターニュ\u3000ダンス",
     "option2": "AAAAAA=="
@@ -20708,7 +20757,7 @@
   {
     "sn": "1073013",
     "strContent": "全ての操作をデフォルトに戻しますか？（全ての操作設定がリセットされます）",
-    "option1": "決定",
+    "option1": "わかった",
     "showName": "入力",
     "option2": "やめておく"
   },
@@ -20812,7 +20861,7 @@
   },
   {
     "sn": "1120015",
-    "strContent": "ひらけー、ゴマっ！\u3000……ダメかぁ",
+    "strContent": "ひらけー、ゴマっ！\u3000……ダメかぁ。",
     "option1": "AAAAAA==",
     "showName": "椎名悠美",
     "option2": "AAAAAA=="
@@ -21218,7 +21267,7 @@
   },
   {
     "sn": "1082008",
-    "strContent": "消耗が足りないため、更新できません。",
+    "strContent": "アイテムが不足しているため、更新できません。",
     "option1": "AAAAAA==",
     "showName": "AAAAAA==",
     "option2": "AAAAAA=="
@@ -21645,7 +21694,7 @@
   },
   {
     "sn": "1084007",
-    "strContent": "綾香のシナジーランク%sで解放",
+    "strContent": "坂井綾香のシナジーランク%sで解放",
     "option1": "AAAAAA==",
     "showName": "AAAAAA==",
     "option2": "AAAAAA=="
@@ -23584,7 +23633,7 @@
   },
   {
     "sn": "1157282",
-    "strContent": "ん？誰だ？",
+    "strContent": "ん？\u3000誰だ？",
     "option1": "AAAAAA==",
     "showName": "AAAAAA==",
     "option2": "AAAAAA=="
@@ -23605,28 +23654,28 @@
   },
   {
     "sn": "1157285",
-    "strContent": "部外者め！出ていけ！",
+    "strContent": "部外者め！\u3000出ていけ！",
     "option1": "AAAAAA==",
     "showName": "AAAAAA==",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1157286",
-    "strContent": "警告！警告！侵入者発見！",
+    "strContent": "警告！\u3000警告！\u3000侵入者発見！",
     "option1": "AAAAAA==",
     "showName": "AAAAAA==",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1157287",
-    "strContent": "止まれ！薄汚いネズミめ！",
+    "strContent": "止まれ！\u3000薄汚いネズミめ！",
     "option1": "AAAAAA==",
     "showName": "AAAAAA==",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1157288",
-    "strContent": "仕事の邪魔しやがって！！",
+    "strContent": "仕事の邪魔しやがって！",
     "option1": "AAAAAA==",
     "showName": "AAAAAA==",
     "option2": "AAAAAA=="
@@ -23647,7 +23696,7 @@
   },
   {
     "sn": "1157291",
-    "strContent": "逃がしてしまうとは…まずいぞ…",
+    "strContent": "逃がしてしまうとは…\nまずいぞ…",
     "option1": "AAAAAA==",
     "showName": "AAAAAA==",
     "option2": "AAAAAA=="
@@ -25537,7 +25586,7 @@
   },
   {
     "sn": "1209424",
-    "strContent": "『{1}』を削除して『{0}』を入居させることを確認しますか？",
+    "strContent": "『{1}』を退去して『{0}』を入居させることを確認しますか？",
     "option1": "決定",
     "showName": "ル<#000000,フ,#FFFFFF>ェル",
     "option2": "やめておく"
@@ -25789,7 +25838,7 @@
   },
   {
     "sn": "1204011",
-    "strContent": "やばっ、不意打ち！？みんな気を付けて！",
+    "strContent": "やばっ、不意打ち！？\u3000みんな気を付けて！",
     "option1": "AAAAAA==",
     "showName": "AAAAAA==",
     "option2": "AAAAAA=="
@@ -26342,7 +26391,7 @@
   },
   {
     "sn": "1206051",
-    "strContent": "西森陽菜とのエピソードは今後の更新で、都市生活に追加予定です。",
+    "strContent": "都市生活『<color=#ffc000>陽菜と探検する</color>』\nが解放されました。\n毎日一定の確率で発生します。",
     "option1": "AAAAAA==",
     "showName": "AAAAAA==",
     "option2": "AAAAAA=="
@@ -26587,7 +26636,7 @@
   },
   {
     "sn": "1209406",
-    "strContent": "うーん…もっと高級な餌に\n変えた方がいいかも？",
+    "strContent": "うーん…もっと高級な餌に\n変えた方がいいかもしれんな。",
     "option1": "AAAAAA==",
     "showName": "AAAAAA==",
     "option2": "AAAAAA=="
@@ -27217,7 +27266,7 @@
   },
   {
     "sn": "1231002",
-    "strContent": "このストーリーを既に体験しました。再度体験しますか？",
+    "strContent": "このストーリーは既に体験しました。\n再度体験しますか？",
     "option1": "決定",
     "showName": "ル<#000000,フ,#FFFFFF>ェル",
     "option2": "やめておく"
@@ -27420,7 +27469,7 @@
   },
   {
     "sn": "1211241",
-    "strContent": "精神に支障が…しっかりなさい。",
+    "strContent": "様子がおかしいわね…しっかりなさい。",
     "option1": "AAAAAA==",
     "showName": "AAAAAA==",
     "option2": "AAAAAA=="
@@ -27497,7 +27546,7 @@
   },
   {
     "sn": "1211302",
-    "strContent": "派手に暴れて頂戴",
+    "strContent": "派手に暴れて頂戴。",
     "option1": "AAAAAA==",
     "showName": "AAAAAA==",
     "option2": "AAAAAA=="
@@ -27546,42 +27595,42 @@
   },
   {
     "sn": "1212002",
-    "strContent": "大会の日程を完了してこの形状をアンロックしますか？確認しに行きますか？",
+    "strContent": "イベント目標を達成し、報酬を取得することでアンロックされます。イベント目標を確認しますか？",
     "option1": "決定",
     "showName": "ル<#000000,フ,#FFFFFF>ェル",
     "option2": "やめておく"
   },
   {
     "sn": "1212003",
-    "strContent": "夏の思い出イベントでキャラクターのストーリーを完了すると、招待対象が解放されます。",
+    "strContent": "『夏の思い出』でキャラクターのストーリーを完了すると、招待対象が解放されます。",
     "option1": "AAAAAA==",
     "showName": "AAAAAA==",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1212004",
-    "strContent": "現在の打ち上げプランをリセットしてもよろしいですか？",
+    "strContent": "選択している花火をリセットしますか？",
     "option1": "決定",
     "showName": "ル<#000000,フ,#FFFFFF>ェル",
     "option2": "やめておく"
   },
   {
     "sn": "1212005",
-    "strContent": "まだ仲間を誘っていませんが、１人で花火を見に行きますか？",
+    "strContent": "仲間を誘っていませんが、\nひとりで花火を見に行きますか？",
     "option1": "決定",
     "showName": "ル<#000000,フ,#FFFFFF>ェル",
     "option2": "やめておく"
   },
   {
     "sn": "1212006",
-    "strContent": "尺玉弾が不足している。",
+    "strContent": "尺玉が不足しています。",
     "option1": "AAAAAA==",
     "showName": "AAAAAA==",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1212007",
-    "strContent": "現在の花火プランは満杯です。",
+    "strContent": "これ以上、花火を設定できません。",
     "option1": "AAAAAA==",
     "showName": "AAAAAA==",
     "option2": "AAAAAA=="
@@ -27595,7 +27644,7 @@
   },
   {
     "sn": "1212009",
-    "strContent": "左側のリストから花火パック内の花火を選んでください。",
+    "strContent": "左から打ち上げる花火を選んでください。",
     "option1": "AAAAAA==",
     "showName": "AAAAAA==",
     "option2": "AAAAAA=="
@@ -27637,7 +27686,7 @@
   },
   {
     "sn": "1130101",
-    "strContent": "期待には応えてやる",
+    "strContent": "期待には応えてやる。",
     "option1": "AAAAAA==",
     "showName": "ル<#000000,フ,#FFFFFF>ェル",
     "option2": "AAAAAA=="
@@ -27679,7 +27728,7 @@
   },
   {
     "sn": "1130107",
-    "strContent": "警戒を怠るな",
+    "strContent": "警戒を怠るな。",
     "option1": "AAAAAA==",
     "showName": "ル<#000000,フ,#FFFFFF>ェル",
     "option2": "AAAAAA=="
@@ -27707,21 +27756,21 @@
   },
   {
     "sn": "1130111",
-    "strContent": "退くのも戦略…それでいい",
+    "strContent": "退くのも戦略…それでいい。",
     "option1": "AAAAAA==",
     "showName": "ル<#000000,フ,#FFFFFF>ェル",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1130112",
-    "strContent": "わかった、帰還するとしよう",
+    "strContent": "わかった、帰還するとしよう。",
     "option1": "AAAAAA==",
     "showName": "ル<#000000,フ,#FFFFFF>ェル",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1130113",
-    "strContent": "惜しかったな…あと１歩だったのだが",
+    "strContent": "惜しかったな…あと１歩だったのだが…",
     "option1": "AAAAAA==",
     "showName": "ル<#000000,フ,#FFFFFF>ェル",
     "option2": "AAAAAA=="
@@ -27742,35 +27791,35 @@
   },
   {
     "sn": "1212010",
-    "strContent": "まずはミッション『夏の青春物語・代里海岸へ』をクリアして、代里海岸を解放してください。",
+    "strContent": "イベント『夏だ！水着だ！ＳＥＡ\u3000ＴＩＭＥ！』を進めて代里海岸を解放してください。",
     "option1": "AAAAAA==",
     "showName": "AAAAAA==",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1130116",
-    "strContent": "悪くない",
+    "strContent": "ふむ。悪くない。",
     "option1": "AAAAAA==",
     "showName": "ル<#000000,フ,#FFFFFF>ェル",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1130117",
-    "strContent": "戻ったぞ。次の任務はなんだ？",
+    "strContent": "完了だな。さて次はどうする？",
     "option1": "AAAAAA==",
     "showName": "ル<#000000,フ,#FFFFFF>ェル",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1130118",
-    "strContent": "当然の結果だ",
+    "strContent": "当然の結果だ。",
     "option1": "AAAAAA==",
     "showName": "ル<#000000,フ,#FFFFFF>ェル",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1130119",
-    "strContent": "できた！",
+    "strContent": "ふむ、上々だ。",
     "option1": "AAAAAA==",
     "showName": "ル<#000000,フ,#FFFFFF>ェル",
     "option2": "AAAAAA=="
@@ -27784,14 +27833,14 @@
   },
   {
     "sn": "1130120",
-    "strContent": "収穫と達成感…それがシゴトの醍醐味",
+    "strContent": "成果を確認する瞬間…怪盗の醍醐味だな。",
     "option1": "AAAAAA==",
     "showName": "ル<#000000,フ,#FFFFFF>ェル",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1130201",
-    "strContent": "よし、頼まれた！",
+    "strContent": "よーし、頼まれた！",
     "option1": "AAAAAA==",
     "showName": "新井素羽",
     "option2": "AAAAAA=="
@@ -27812,14 +27861,14 @@
   },
   {
     "sn": "1130203",
-    "strContent": "まかせて！",
+    "strContent": "任せて！",
     "option1": "AAAAAA==",
     "showName": "新井素羽",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1130204",
-    "strContent": "役に立ってみせるから！",
+    "strContent": "役に立ってみせるよ！",
     "option1": "AAAAAA==",
     "showName": "新井素羽",
     "option2": "AAAAAA=="
@@ -27847,21 +27896,21 @@
   },
   {
     "sn": "1130207",
-    "strContent": "ファイ…トぉおッ！",
+    "strContent": "ファイ・オー！",
     "option1": "AAAAAA==",
     "showName": "新井素羽",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1130208",
-    "strContent": "気ぃ引き締めていこう",
+    "strContent": "しまっていこう！",
     "option1": "AAAAAA==",
     "showName": "新井素羽",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1130209",
-    "strContent": "わかった！\u3000行ってくる！",
+    "strContent": "了解！\u3000行ってくるね！",
     "option1": "AAAAAA==",
     "showName": "新井素羽",
     "option2": "AAAAAA=="
@@ -27875,70 +27924,70 @@
   },
   {
     "sn": "1130211",
-    "strContent": "一旦、帰ろうか",
+    "strContent": "一旦、帰ろうか？",
     "option1": "AAAAAA==",
     "showName": "新井素羽",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1130212",
-    "strContent": "いい汗かいたぁ",
+    "strContent": "いい汗かいたー！",
     "option1": "AAAAAA==",
     "showName": "新井素羽",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1130213",
-    "strContent": "すぐに戻るの？\u3000うーん…わかった。",
+    "strContent": "もう戻るの？\u3000了解！",
     "option1": "AAAAAA==",
     "showName": "新井素羽",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1130214",
-    "strContent": "途中で終わらせちゃうの？",
+    "strContent": "そろそろ戻る感じ？",
     "option1": "AAAAAA==",
     "showName": "新井素羽",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1130215",
-    "strContent": "中途半端でモヤモヤする～。",
+    "strContent": "引き際も大事だもんね！",
     "option1": "AAAAAA==",
     "showName": "新井素羽",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1130216",
-    "strContent": "これで決まりっ！",
+    "strContent": "これで決まり！",
     "option1": "AAAAAA==",
     "showName": "新井素羽",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1130217",
-    "strContent": "ゲームセッ（ト）！",
+    "strContent": "ゲームセット！",
     "option1": "AAAAAA==",
     "showName": "新井素羽",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1130218",
-    "strContent": "大漁ぉっ！",
+    "strContent": "おっ、大漁じゃん！",
     "option1": "AAAAAA==",
     "showName": "新井素羽",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1130219",
-    "strContent": "次もこの調整で",
+    "strContent": "次もこの感じで行こ！",
     "option1": "AAAAAA==",
     "showName": "新井素羽",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1130220",
-    "strContent": "できた！",
+    "strContent": "よし、完了！",
     "option1": "AAAAAA==",
     "showName": "新井素羽",
     "option2": "AAAAAA=="
@@ -27947,152 +27996,152 @@
     "sn": "1130301",
     "strContent": "あたしに任せて！",
     "option1": "AAAAAA==",
-    "showName": "新井素羽・水着",
+    "showName": "素羽・トロピカル",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1130302",
     "strContent": "クローザー、やれるよ！",
     "option1": "AAAAAA==",
-    "showName": "新井素羽・水着",
+    "showName": "素羽・トロピカル",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1130303",
     "strContent": "ビーチバレーのチームの話？\u3000あ、違うか。",
     "option1": "AAAAAA==",
-    "showName": "新井素羽・水着",
+    "showName": "素羽・トロピカル",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1130304",
     "strContent": "よぉーし、まっかせといてー！",
     "option1": "AAAAAA==",
-    "showName": "新井素羽・水着",
+    "showName": "素羽・トロピカル",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1130305",
     "strContent": "一緒に夏、満喫しよ！",
     "option1": "AAAAAA==",
-    "showName": "新井素羽・水着",
+    "showName": "素羽・トロピカル",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1130306",
     "strContent": "準備完了！\u3000行くよー！",
     "option1": "AAAAAA==",
-    "showName": "新井素羽・水着",
+    "showName": "素羽・トロピカル",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1130307",
     "strContent": "出発進行！",
     "option1": "AAAAAA==",
-    "showName": "新井素羽・水着",
+    "showName": "素羽・トロピカル",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1130308",
-    "strContent": "っよし！任せといて！",
+    "strContent": "よーし、任せといて！",
     "option1": "AAAAAA==",
-    "showName": "新井素羽・水着",
+    "showName": "素羽・トロピカル",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1130309",
     "strContent": "一緒に楽しも！",
     "option1": "AAAAAA==",
-    "showName": "新井素羽・水着",
+    "showName": "素羽・トロピカル",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1130310",
-    "strContent": "AAAAAA==",
+    "strContent": "やる気全開で行くよ〜！",
     "option1": "AAAAAA==",
-    "showName": "新井素羽・水着",
+    "showName": "素羽・トロピカル",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1130311",
-    "strContent": "まだまだ遊び足りないし…！",
+    "strContent": "ちょっと遊び足りないかも？",
     "option1": "AAAAAA==",
-    "showName": "新井素羽・水着",
+    "showName": "素羽・トロピカル",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1130312",
     "strContent": "仕切り直そ！",
     "option1": "AAAAAA==",
-    "showName": "新井素羽・水着",
+    "showName": "素羽・トロピカル",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1130313",
-    "strContent": "やっと一息！",
+    "strContent": "一息つこっか。",
     "option1": "AAAAAA==",
-    "showName": "新井素羽・水着",
+    "showName": "素羽・トロピカル",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1130314",
-    "strContent": "わかった。すぐ戻るね！",
+    "strContent": "一旦戻るね！",
     "option1": "AAAAAA==",
-    "showName": "新井素羽・水着",
+    "showName": "素羽・トロピカル",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1130315",
-    "strContent": "えっ？もう戻るの？",
+    "strContent": "オッケー、ちょっと休憩！",
     "option1": "AAAAAA==",
-    "showName": "新井素羽・水着",
+    "showName": "素羽・トロピカル",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1130316",
     "strContent": "うーん、完璧っ！",
     "option1": "AAAAAA==",
-    "showName": "新井素羽・水着",
+    "showName": "素羽・トロピカル",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1130317",
     "strContent": "お疲れ様～っ！",
     "option1": "AAAAAA==",
-    "showName": "新井素羽・水着",
+    "showName": "素羽・トロピカル",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1130318",
-    "strContent": "楽勝、楽勝！",
+    "strContent": "楽勝だったかも！",
     "option1": "AAAAAA==",
-    "showName": "新井素羽・水着",
+    "showName": "素羽・トロピカル",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1130319",
     "strContent": "やった～、オタカラ発見！",
     "option1": "AAAAAA==",
-    "showName": "新井素羽・水着",
+    "showName": "素羽・トロピカル",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1130320",
     "strContent": "ちょっと苦戦しちゃったね…！",
     "option1": "AAAAAA==",
-    "showName": "新井素羽・水着",
+    "showName": "素羽・トロピカル",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1130401",
-    "strContent": "任せとけ",
+    "strContent": "任せとけ。",
     "option1": "AAAAAA==",
     "showName": "加納駿",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1130402",
-    "strContent": "わかった、やっておく",
+    "strContent": "わかった、やっておく。",
     "option1": "AAAAAA==",
     "showName": "加納駿",
     "option2": "AAAAAA=="
@@ -28113,14 +28162,14 @@
   },
   {
     "sn": "1130405",
-    "strContent": "今？おぅ、出れるよ",
+    "strContent": "今？\u3000おぅ、出れるよ。",
     "option1": "AAAAAA==",
     "showName": "加納駿",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1130406",
-    "strContent": "やってやるよ",
+    "strContent": "やってやるよ。",
     "option1": "AAAAAA==",
     "showName": "加納駿",
     "option2": "AAAAAA=="
@@ -28134,49 +28183,49 @@
   },
   {
     "sn": "1130408",
-    "strContent": "よし、いくか",
+    "strContent": "よし、行こうぜ！",
     "option1": "AAAAAA==",
     "showName": "加納駿",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1130409",
-    "strContent": "んじゃ気張ってみるか",
+    "strContent": "んじゃ、気張ってみるか。",
     "option1": "AAAAAA==",
     "showName": "加納駿",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1130410",
-    "strContent": "腹ぁくくりな",
+    "strContent": "いい物見付けて来ようぜ。",
     "option1": "AAAAAA==",
     "showName": "加納駿",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1130411",
-    "strContent": "くそ、恥かかせやがってっ！",
+    "strContent": "お、一旦休憩か？",
     "option1": "AAAAAA==",
     "showName": "加納駿",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1130412",
-    "strContent": "いやぁ…しんど…",
+    "strContent": "ん、何か忘れ物か？",
     "option1": "AAAAAA==",
     "showName": "加納駿",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1130413",
-    "strContent": "ちょいと仕込みして…まただな",
+    "strContent": "無理は禁物だぜ。",
     "option1": "AAAAAA==",
     "showName": "加納駿",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1130414",
-    "strContent": "根の詰め過ぎは、体に毒だぜ？",
+    "strContent": "根詰め過ぎんのは、体に毒だもんな。",
     "option1": "AAAAAA==",
     "showName": "加納駿",
     "option2": "AAAAAA=="
@@ -28197,14 +28246,14 @@
   },
   {
     "sn": "1130417",
-    "strContent": "あがりはどんなもんよ？",
+    "strContent": "結構いい感じだったんじゃねぇか？",
     "option1": "AAAAAA==",
     "showName": "加納駿",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1130418",
-    "strContent": "ハハ！",
+    "strContent": "よし、悪くねぇな！",
     "option1": "AAAAAA==",
     "showName": "加納駿",
     "option2": "AAAAAA=="
@@ -28218,7 +28267,7 @@
   },
   {
     "sn": "1130420",
-    "strContent": "ったくよ…結構苦労したんだぜ？",
+    "strContent": "ふぅ…流石に疲れたな…！",
     "option1": "AAAAAA==",
     "showName": "加納駿",
     "option2": "AAAAAA=="
@@ -28232,7 +28281,7 @@
   },
   {
     "sn": "1130502",
-    "strContent": "みんなの支援、いつでも行けるわ。",
+    "strContent": "私も同行させてもらうわね。",
     "option1": "AAAAAA==",
     "showName": "多祢村理子",
     "option2": "AAAAAA=="
@@ -28267,7 +28316,7 @@
   },
   {
     "sn": "1130507",
-    "strContent": "ウィンド、出ます。",
+    "strContent": "ウィンド、出るわよ。",
     "option1": "AAAAAA==",
     "showName": "多祢村理子",
     "option2": "AAAAAA=="
@@ -28302,14 +28351,14 @@
   },
   {
     "sn": "1130512",
-    "strContent": "まだ終わっていないけれど…\n本当にいいのね？",
+    "strContent": "休憩を挟みましょうか。",
     "option1": "AAAAAA==",
     "showName": "多祢村理子",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1130513",
-    "strContent": "そう…すぐに戻るわ。",
+    "strContent": "再開するときは呼んで頂戴。",
     "option1": "AAAAAA==",
     "showName": "多祢村理子",
     "option2": "AAAAAA=="
@@ -28323,7 +28372,7 @@
   },
   {
     "sn": "1130515",
-    "strContent": "途中で終わらせるなんて…少し残念ね。",
+    "strContent": "休むのも仕事のうちだものね。",
     "option1": "AAAAAA==",
     "showName": "多祢村理子",
     "option2": "AAAAAA=="
@@ -28358,63 +28407,63 @@
   },
   {
     "sn": "1130520",
-    "strContent": "仕事は終わったわ。後のことは任せるわね。",
+    "strContent": "いい成果だったわね。\n次もこの調子で頑張りましょう。",
     "option1": "AAAAAA==",
     "showName": "多祢村理子",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1130601",
-    "strContent": "任された！",
+    "strContent": "頑張るね。",
     "option1": "AAAAAA==",
     "showName": "野毛朋子",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1130602",
-    "strContent": "私にできることは？",
+    "strContent": "私にできることはある？",
     "option1": "AAAAAA==",
     "showName": "野毛朋子",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1130603",
-    "strContent": "サポートするよ。",
+    "strContent": "サポートは得意…かな。",
     "option1": "AAAAAA==",
     "showName": "野毛朋子",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1130604",
-    "strContent": "よ、よろしくお願いします！",
+    "strContent": "よろしくね。",
     "option1": "AAAAAA==",
     "showName": "野毛朋子",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1130605",
-    "strContent": "これからどうするの？",
+    "strContent": "何をすればいいかな？",
     "option1": "AAAAAA==",
     "showName": "野毛朋子",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1130606",
-    "strContent": "引き締めていこ。",
+    "strContent": "行ってくるよ。",
     "option1": "AAAAAA==",
     "showName": "野毛朋子",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1130607",
-    "strContent": "わかった。",
+    "strContent": "わかった。任せて。",
     "option1": "AAAAAA==",
     "showName": "野毛朋子",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1130608",
-    "strContent": "がんばってついていくよ。",
+    "strContent": "行ってきます。",
     "option1": "AAAAAA==",
     "showName": "野毛朋子",
     "option2": "AAAAAA=="
@@ -28428,56 +28477,56 @@
   },
   {
     "sn": "1130610",
-    "strContent": "期待しててね。",
+    "strContent": "ちょっとドキドキするね…\n行ってきます。",
     "option1": "AAAAAA==",
     "showName": "野毛朋子",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1130611",
-    "strContent": "今日はここまで。みんなおつかれ。",
+    "strContent": "ドンマイドンマイ。",
     "option1": "AAAAAA==",
     "showName": "野毛朋子",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1130612",
-    "strContent": "ん、わかった。すぐ戻るね。",
+    "strContent": "タイミングが悪かったかな…\nまあ、仕方ないよね。",
     "option1": "AAAAAA==",
     "showName": "野毛朋子",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1130613",
-    "strContent": "他にやることがある…ってことだよね？",
+    "strContent": "残念だけど、了解！",
     "option1": "AAAAAA==",
     "showName": "野毛朋子",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1130614",
-    "strContent": "ここでやめちゃうの？",
+    "strContent": "そっかぁ…わかった。すぐ戻るね！",
     "option1": "AAAAAA==",
     "showName": "野毛朋子",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1130615",
-    "strContent": "了解、君の判断を信じるよ。",
+    "strContent": "ごめん、まだ途中なんだけど…\nとりあえず戻るよ。",
     "option1": "AAAAAA==",
     "showName": "野毛朋子",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1130616",
-    "strContent": "やったね。",
+    "strContent": "やったね！",
     "option1": "AAAAAA==",
     "showName": "野毛朋子",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1130617",
-    "strContent": "収穫があったね。",
+    "strContent": "収穫アリ、かな。",
     "option1": "AAAAAA==",
     "showName": "野毛朋子",
     "option2": "AAAAAA=="
@@ -28491,7 +28540,7 @@
   },
   {
     "sn": "1130619",
-    "strContent": "ふぅ…任務完了。",
+    "strContent": "任務完了！\u3000お疲れ様！",
     "option1": "AAAAAA==",
     "showName": "野毛朋子",
     "option2": "AAAAAA=="
@@ -28505,154 +28554,154 @@
   },
   {
     "sn": "1130701",
-    "strContent": "私のこと…考えてくれてたりする？",
+    "strContent": "うん！\u3000任せて！",
     "option1": "AAAAAA==",
-    "showName": "野毛朋子・水着",
+    "showName": "朋子・ピーチサマー",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1130702",
-    "strContent": "君のこと、信じてるよ。",
+    "strContent": "了解。待機してるね。",
     "option1": "AAAAAA==",
-    "showName": "野毛朋子・水着",
+    "showName": "朋子・ピーチサマー",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1130703",
     "strContent": "シフト了解でーす！",
     "option1": "AAAAAA==",
-    "showName": "野毛朋子・水着",
+    "showName": "朋子・ピーチサマー",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1130704",
-    "strContent": "ホールからキッチンまで、任せて！",
+    "strContent": "ホールからキッチンまで、何でも来いだよ！",
     "option1": "AAAAAA==",
-    "showName": "野毛朋子・水着",
+    "showName": "朋子・ピーチサマー",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1130705",
-    "strContent": "一緒に夏、楽しもうね！",
+    "strContent": "夏ってテンション上がるよね…！",
     "option1": "AAAAAA==",
-    "showName": "野毛朋子・水着",
+    "showName": "朋子・ピーチサマー",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1130706",
-    "strContent": "探索開始、だねっ。",
+    "strContent": "お仕事開始！\u3000行ってくる！",
     "option1": "AAAAAA==",
-    "showName": "野毛朋子・水着",
+    "showName": "朋子・ピーチサマー",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1130707",
-    "strContent": "私が行くね！",
+    "strContent": "行ってくるね！",
     "option1": "AAAAAA==",
-    "showName": "野毛朋子・水着",
+    "showName": "朋子・ピーチサマー",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1130708",
-    "strContent": "出番だね！",
+    "strContent": "出番だね。行ってきます！",
     "option1": "AAAAAA==",
-    "showName": "野毛朋子・水着",
+    "showName": "朋子・ピーチサマー",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1130709",
-    "strContent": "暑いけど、みんなで頑張ろう！",
+    "strContent": "水分補給は忘れずに。",
     "option1": "AAAAAA==",
-    "showName": "野毛朋子・水着",
+    "showName": "朋子・ピーチサマー",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1130710",
-    "strContent": "こんなに楽しい夏休み、久しぶりだよー。",
+    "strContent": "了解。楽しんでくるね。",
     "option1": "AAAAAA==",
-    "showName": "野毛朋子・水着",
+    "showName": "朋子・ピーチサマー",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1130711",
-    "strContent": "大丈夫。すぐに戻れるよ。",
+    "strContent": "こうも暑いと、無理はできないよね…",
     "option1": "AAAAAA==",
-    "showName": "野毛朋子・水着",
+    "showName": "朋子・ピーチサマー",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1130712",
-    "strContent": "君がそう言うなら…わかった。",
+    "strContent": "キミがそう言うなら、わかった。\n戻るね。",
     "option1": "AAAAAA==",
-    "showName": "野毛朋子・水着",
+    "showName": "朋子・ピーチサマー",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1130713",
-    "strContent": "最後までやりたかったな…",
+    "strContent": "熱中症には気を付けないとねー…",
     "option1": "AAAAAA==",
-    "showName": "野毛朋子・水着",
+    "showName": "朋子・ピーチサマー",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1130714",
-    "strContent": "えっ？\u3000まだ終わってないけど…",
+    "strContent": "うーん…ちょっとやり残した感…",
     "option1": "AAAAAA==",
-    "showName": "野毛朋子・水着",
+    "showName": "朋子・ピーチサマー",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1130715",
-    "strContent": "途中でやめてもいい…ってこと？",
+    "strContent": "夏はこれからだもんね、次、次！",
     "option1": "AAAAAA==",
-    "showName": "野毛朋子・水着",
+    "showName": "朋子・ピーチサマー",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1130716",
-    "strContent": "無事達成、だね！",
+    "strContent": "収穫アリ、だね！",
     "option1": "AAAAAA==",
-    "showName": "野毛朋子・水着",
+    "showName": "朋子・ピーチサマー",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1130717",
-    "strContent": "なんだか楽しかったかも。また今度ね！",
+    "strContent": "疲れたけど、楽しかったよ！",
     "option1": "AAAAAA==",
-    "showName": "野毛朋子・水着",
+    "showName": "朋子・ピーチサマー",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1130718",
-    "strContent": "完勝、だねっ！",
+    "strContent": "次のシフトはいつかな？\n楽しみにしてるね。",
     "option1": "AAAAAA==",
-    "showName": "野毛朋子・水着",
+    "showName": "朋子・ピーチサマー",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1130719",
-    "strContent": "さ、流石に疲れちゃった…！",
+    "strContent": "夏の任務、無事完了！\u3000お疲れ様！",
     "option1": "AAAAAA==",
-    "showName": "野毛朋子・水着",
+    "showName": "朋子・ピーチサマー",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1130720",
-    "strContent": "ふふ、今日も充実してたね。",
+    "strContent": "次も頼ってくれたら、嬉しいな。",
     "option1": "AAAAAA==",
-    "showName": "野毛朋子・水着",
+    "showName": "朋子・ピーチサマー",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1130801",
-    "strContent": "恐れる必要はありません。",
+    "strContent": "恐れる必要はない。",
     "option1": "AAAAAA==",
     "showName": "白鳥誠司",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1130802",
-    "strContent": "期待は裏切りません！",
+    "strContent": "期待には応えてみせよう。",
     "option1": "AAAAAA==",
     "showName": "白鳥誠司",
     "option2": "AAAAAA=="
@@ -28666,7 +28715,7 @@
   },
   {
     "sn": "1130804",
-    "strContent": "がんばるよ。",
+    "strContent": "頑張るよ。",
     "option1": "AAAAAA==",
     "showName": "白鳥誠司",
     "option2": "AAAAAA=="
@@ -28680,105 +28729,105 @@
   },
   {
     "sn": "1130806",
-    "strContent": "気合を入れ直さないと…",
+    "strContent": "気合いを入れて行こう。",
     "option1": "AAAAAA==",
     "showName": "白鳥誠司",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1130807",
-    "strContent": "全力を尽くしました。",
+    "strContent": "全力でやるまでだ。",
     "option1": "AAAAAA==",
     "showName": "白鳥誠司",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1130808",
-    "strContent": "任せてください。",
+    "strContent": "ここは任せて。",
     "option1": "AAAAAA==",
     "showName": "白鳥誠司",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1130809",
-    "strContent": "了解です。全力を尽くします。",
+    "strContent": "全力を尽くさせてもらう。",
     "option1": "AAAAAA==",
     "showName": "白鳥誠司",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1130810",
-    "strContent": "私に任せてください。",
+    "strContent": "成果には期待してもらいたいな。",
     "option1": "AAAAAA==",
     "showName": "白鳥誠司",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1130811",
-    "strContent": "ちょっと疲れましたね。一休みしましょう。",
+    "strContent": "一休みしていこうか。",
     "option1": "AAAAAA==",
     "showName": "白鳥誠司",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1130812",
-    "strContent": "残念ですね。",
+    "strContent": "根を詰めすぎるのも良くないか。",
     "option1": "AAAAAA==",
     "showName": "白鳥誠司",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1130813",
-    "strContent": "仕方ありませんね…了解です。",
+    "strContent": "ゆっくり休んでから再開しよう。",
     "option1": "AAAAAA==",
     "showName": "白鳥誠司",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1130814",
-    "strContent": "途中で諦めろと…？",
+    "strContent": "呼んだか？",
     "option1": "AAAAAA==",
     "showName": "白鳥誠司",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1130815",
-    "strContent": "…わかりました。戻ります",
+    "strContent": "一旦、情報を整理する時間を取ろう。",
     "option1": "AAAAAA==",
     "showName": "白鳥誠司",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1130816",
-    "strContent": "きちんと終えられて何よりです。",
+    "strContent": "きちんと終わって何よりだ。",
     "option1": "AAAAAA==",
     "showName": "白鳥誠司",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1130817",
-    "strContent": "無事に戻ってこれましたね。\n次も頑張りましょう！",
+    "strContent": "無事帰還できたよ。",
     "option1": "AAAAAA==",
     "showName": "白鳥誠司",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1130818",
-    "strContent": "働いた分に見合う報酬でしたね。",
+    "strContent": "これは…うん、悪くない成果だ。",
     "option1": "AAAAAA==",
     "showName": "白鳥誠司",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1130819",
-    "strContent": "力を合わせた結果です！",
+    "strContent": "力を合わせるというのも、悪くないかもな。",
     "option1": "AAAAAA==",
     "showName": "白鳥誠司",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1130820",
-    "strContent": "勝利に慢心せずいきましょう。",
+    "strContent": "慢心せず、次も精進しないと。",
     "option1": "AAAAAA==",
     "showName": "白鳥誠司",
     "option2": "AAAAAA=="
@@ -28792,7 +28841,7 @@
   },
   {
     "sn": "1130902",
-    "strContent": "私の番ね",
+    "strContent": "私の番ね。",
     "option1": "AAAAAA==",
     "showName": "琴音・モンターニュ",
     "option2": "AAAAAA=="
@@ -28806,42 +28855,42 @@
   },
   {
     "sn": "1130904",
-    "strContent": "そろそろ私の出番かしら",
+    "strContent": "そろそろ私の出番みたいね。",
     "option1": "AAAAAA==",
     "showName": "琴音・モンターニュ",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1130905",
-    "strContent": "準備ならできてるわ",
+    "strContent": "いつでもいけるわ。",
     "option1": "AAAAAA==",
     "showName": "琴音・モンターニュ",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1130906",
-    "strContent": "みんな、ベストを尽くしましょう",
+    "strContent": "ベストを尽くしましょう。",
     "option1": "AAAAAA==",
     "showName": "琴音・モンターニュ",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1130907",
-    "strContent": "みんな準備はいい？行くわよ。",
+    "strContent": "準備はいい？\u3000行くわよ。",
     "option1": "AAAAAA==",
     "showName": "琴音・モンターニュ",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1130908",
-    "strContent": "絶好調ね！",
+    "strContent": "出発しましょう。",
     "option1": "AAAAAA==",
     "showName": "琴音・モンターニュ",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1130909",
-    "strContent": "うまくやれそうね。",
+    "strContent": "うまくやってみせる。",
     "option1": "AAAAAA==",
     "showName": "琴音・モンターニュ",
     "option2": "AAAAAA=="
@@ -28855,42 +28904,42 @@
   },
   {
     "sn": "1130911",
-    "strContent": "まだ終わっていないのに…",
+    "strContent": "了解。早めに切り上げるのね。",
     "option1": "AAAAAA==",
     "showName": "琴音・モンターニュ",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1130912",
-    "strContent": "うそ…途中で戻るの？",
+    "strContent": "さすがね。引き際の判断も早いわ。",
     "option1": "AAAAAA==",
     "showName": "琴音・モンターニュ",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1130913",
-    "strContent": "ここまでなんて…なんだか残念ね。",
+    "strContent": "そうね、そろそろ戻るべきだと思う。",
     "option1": "AAAAAA==",
     "showName": "琴音・モンターニュ",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1130914",
-    "strContent": "次は最後までやり遂げるわ。",
+    "strContent": "貴方の判断に任せるわ。",
     "option1": "AAAAAA==",
     "showName": "琴音・モンターニュ",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1130915",
-    "strContent": "仕方ないわね。すぐに戻るわ",
+    "strContent": "わかったわ。すぐに戻りましょう。",
     "option1": "AAAAAA==",
     "showName": "琴音・モンターニュ",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1130916",
-    "strContent": "ミッションコンプリートよ！",
+    "strContent": "ミッション達成ね。",
     "option1": "AAAAAA==",
     "showName": "琴音・モンターニュ",
     "option2": "AAAAAA=="
@@ -28904,7 +28953,7 @@
   },
   {
     "sn": "1130918",
-    "strContent": "今回の成果よ",
+    "strContent": "今回の成果よ。",
     "option1": "AAAAAA==",
     "showName": "琴音・モンターニュ",
     "option2": "AAAAAA=="
@@ -28918,21 +28967,21 @@
   },
   {
     "sn": "1130920",
-    "strContent": "華麗に決まったわね",
+    "strContent": "ふふ、華麗に決まったわね。",
     "option1": "AAAAAA==",
     "showName": "琴音・モンターニュ",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1131001",
-    "strContent": "ヒーローの出番だな",
+    "strContent": "ヒーローの出番、だな！",
     "option1": "AAAAAA==",
     "showName": "神山嶺央",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1131002",
-    "strContent": "お任せを。",
+    "strContent": "任せてくれ！",
     "option1": "AAAAAA==",
     "showName": "神山嶺央",
     "option2": "AAAAAA=="
@@ -28960,35 +29009,35 @@
   },
   {
     "sn": "1131006",
-    "strContent": "行くぞみんな！",
+    "strContent": "行くぞ、みんな！",
     "option1": "AAAAAA==",
     "showName": "神山嶺央",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1131007",
-    "strContent": "揃ったかヒーローたちよ、いざ出動だ！",
+    "strContent": "ヒーローが揃ったな。いざ出動だ！",
     "option1": "AAAAAA==",
     "showName": "神山嶺央",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1131008",
-    "strContent": "ワクワクしてきた！\u3000行くぜ！",
+    "strContent": "ワクワクしてきた…！\u3000行こう！",
     "option1": "AAAAAA==",
     "showName": "神山嶺央",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1131009",
-    "strContent": "俺がお前を守ってやる！",
+    "strContent": "オレと一緒に、レッツゴー！",
     "option1": "AAAAAA==",
     "showName": "神山嶺央",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1131010",
-    "strContent": "待ちくたびれたぞ！",
+    "strContent": "君の期待に応えてみせよう！",
     "option1": "AAAAAA==",
     "showName": "神山嶺央",
     "option2": "AAAAAA=="
@@ -29002,112 +29051,112 @@
   },
   {
     "sn": "1131012",
-    "strContent": "ヒーローはすぐには止まれないんだぞ！",
+    "strContent": "適度な休憩なくては、\n戦い続けることはできないからな！",
     "option1": "AAAAAA==",
     "showName": "神山嶺央",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1131013",
-    "strContent": "うーん…残念だが、仕方ないな",
+    "strContent": "いいぞ、作戦会議だな！？",
     "option1": "AAAAAA==",
     "showName": "神山嶺央",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1131014",
-    "strContent": "了解した。だが、後で理由を説明してくれ。",
+    "strContent": "了解だ！\u3000また声をかけてくれ！",
     "option1": "AAAAAA==",
     "showName": "神山嶺央",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1131015",
-    "strContent": "了解した。だが、後で理由を説明してくれ。",
+    "strContent": "ヒーロー…ブレ～～イクッ！！",
     "option1": "AAAAAA==",
     "showName": "神山嶺央",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1131016",
-    "strContent": "正義はーー勝ァーつ！",
+    "strContent": "正義は…勝ァーつ！",
     "option1": "AAAAAA==",
     "showName": "神山嶺央",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1131017",
-    "strContent": "ナイス！\u3000やったぞ！",
+    "strContent": "うん、見事勝利をおさめられたな！",
     "option1": "AAAAAA==",
     "showName": "神山嶺央",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1131018",
-    "strContent": "さぁ、戦利品を整理するぞ！",
+    "strContent": "いい物がいっぱいだ…！\u3000やったな！",
     "option1": "AAAAAA==",
     "showName": "神山嶺央",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1131019",
-    "strContent": "今回も大漁だ。また頼むぞ！",
+    "strContent": "お疲れ様！\u3000またよろしく頼むぜ！",
     "option1": "AAAAAA==",
     "showName": "神山嶺央",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1131020",
-    "strContent": "正義は必ず勝つ！",
+    "strContent": "ヒーローたる者、これくらい朝飯前だ！",
     "option1": "AAAAAA==",
     "showName": "神山嶺央",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1131101",
-    "strContent": "お任せを。",
+    "strContent": "任せてください。",
     "option1": "AAAAAA==",
     "showName": "藤川雪実",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1131102",
-    "strContent": "準備が整いました。いつでも行けます！",
+    "strContent": "準備ＯＫです。いつでも行けます！",
     "option1": "AAAAAA==",
     "showName": "藤川雪実",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1131103",
-    "strContent": "正しい選択です。",
+    "strContent": "私を選んで正解だと思います。",
     "option1": "AAAAAA==",
     "showName": "藤川雪実",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1131104",
-    "strContent": "見る目がありますね。",
+    "strContent": "さすが、見る目がありますね。",
     "option1": "AAAAAA==",
     "showName": "藤川雪実",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1131105",
-    "strContent": "力になろう。",
+    "strContent": "精一杯やります！",
     "option1": "AAAAAA==",
     "showName": "藤川雪実",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1131106",
-    "strContent": "任務了解。では、手筈通りに。",
+    "strContent": "了解です。では、早速。",
     "option1": "AAAAAA==",
     "showName": "藤川雪実",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1131107",
-    "strContent": "出番ですね！",
+    "strContent": "私の出番ですね。",
     "option1": "AAAAAA==",
     "showName": "藤川雪実",
     "option2": "AAAAAA=="
@@ -29121,49 +29170,49 @@
   },
   {
     "sn": "1131109",
-    "strContent": "この任務なら問題なさそうです。",
+    "strContent": "この任務なら問題ないと思います。",
     "option1": "AAAAAA==",
     "showName": "藤川雪実",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1131110",
-    "strContent": "異議はありません。指示通りに動きます。",
+    "strContent": "とくに問題ありません。計画通りで。",
     "option1": "AAAAAA==",
     "showName": "藤川雪実",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1131111",
-    "strContent": "作戦を変更しなければなりませんね。",
+    "strContent": "なるほど…作戦変更ですか。",
     "option1": "AAAAAA==",
     "showName": "藤川雪実",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1131112",
-    "strContent": "任務中断。次の指示まで休息をとります。",
+    "strContent": "任務を中断し、次の指示まで待機します。",
     "option1": "AAAAAA==",
     "showName": "藤川雪実",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1131113",
-    "strContent": "作戦の再検討と仕切り直しをお勧めします。",
+    "strContent": "仕切り直しですね。了解です。",
     "option1": "AAAAAA==",
     "showName": "藤川雪実",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1131114",
-    "strContent": "ここで止めてしまっていいのですか？",
+    "strContent": "無理は禁物ということですね。",
     "option1": "AAAAAA==",
     "showName": "藤川雪実",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1131115",
-    "strContent": "この選択でよかったのでしょうか…？",
+    "strContent": "了解。直ちに帰還します。",
     "option1": "AAAAAA==",
     "showName": "藤川雪実",
     "option2": "AAAAAA=="
@@ -29177,35 +29226,35 @@
   },
   {
     "sn": "1131117",
-    "strContent": "悪くない結果ですね。",
+    "strContent": "悪くない結果だと思います。",
     "option1": "AAAAAA==",
     "showName": "藤川雪実",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1131118",
-    "strContent": "なかなかの成果でしたね",
+    "strContent": "なかなかの成果でしたね。",
     "option1": "AAAAAA==",
     "showName": "藤川雪実",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1131119",
-    "strContent": "作戦終了ですね。解散しましょう。",
+    "strContent": "無事に作戦終了ですね。",
     "option1": "AAAAAA==",
     "showName": "藤川雪実",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1131120",
-    "strContent": "やり遂げました",
+    "strContent": "任務を完遂しました。",
     "option1": "AAAAAA==",
     "showName": "藤川雪実",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1131201",
-    "strContent": "準備できたんよ！",
+    "strContent": "いつでも行けるって！",
     "option1": "AAAAAA==",
     "showName": "富山佳代",
     "option2": "AAAAAA=="
@@ -29247,14 +29296,14 @@
   },
   {
     "sn": "1131202",
-    "strContent": "ギャル登場！",
+    "strContent": "じゃじゃーん。アタシ降臨！",
     "option1": "AAAAAA==",
     "showName": "富山佳代",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1131203",
-    "strContent": "支援ならまかせてちょ！",
+    "strContent": "まかせてちょ！",
     "option1": "AAAAAA==",
     "showName": "富山佳代",
     "option2": "AAAAAA=="
@@ -29282,28 +29331,28 @@
   },
   {
     "sn": "1131207",
-    "strContent": "んじゃ、とりま潜ろっか！",
+    "strContent": "んじゃ、とりま行こっか！",
     "option1": "AAAAAA==",
     "showName": "富山佳代",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1131208",
-    "strContent": "イケイケGOGO！",
+    "strContent": "イケイケＧＯＧＯ！",
     "option1": "AAAAAA==",
     "showName": "富山佳代",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1131209",
-    "strContent": "ショータイム！",
+    "strContent": "お待ちかね、アタシが出るよ～！",
     "option1": "AAAAAA==",
     "showName": "富山佳代",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1131210",
-    "strContent": "はいはいオールで盛り上がっていこう！",
+    "strContent": "はいはい、盛り上がっていこー！",
     "option1": "AAAAAA==",
     "showName": "富山佳代",
     "option2": "AAAAAA=="
@@ -29317,28 +29366,28 @@
   },
   {
     "sn": "1131212",
-    "strContent": "うそ…しくじったって…マジ？",
+    "strContent": "りょうか～い、すぐ戻るねー！",
     "option1": "AAAAAA==",
     "showName": "富山佳代",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1131213",
-    "strContent": "えぇ～っとぉ…チョベリバ？",
+    "strContent": "えぇ～っとぉ…とりあえず戻ります！",
     "option1": "AAAAAA==",
     "showName": "富山佳代",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1131214",
-    "strContent": "戻っちゃっていいの？\u3000ホントにぃ？",
+    "strContent": "うんうん、それがいいかもね～。",
     "option1": "AAAAAA==",
     "showName": "富山佳代",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1131215",
-    "strContent": "ええ～？\u3000超サゲぽよ～。",
+    "strContent": "あー…そういう頃合いだよね～。了解！",
     "option1": "AAAAAA==",
     "showName": "富山佳代",
     "option2": "AAAAAA=="
@@ -29352,21 +29401,21 @@
   },
   {
     "sn": "1131217",
-    "strContent": "やった、お目当て集まったじゃ～ん。",
+    "strContent": "やった、超イイじゃ～ん！",
     "option1": "AAAAAA==",
     "showName": "富山佳代",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1131218",
-    "strContent": "キャッハ！ガチでマジやばなんだけど！",
+    "strContent": "キャッハ！\u3000ガチでマジやばなんだけど！",
     "option1": "AAAAAA==",
     "showName": "富山佳代",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1131219",
-    "strContent": "余裕余裕～みんなおっつー。",
+    "strContent": "余裕余裕～おつかれっしたー。",
     "option1": "AAAAAA==",
     "showName": "富山佳代",
     "option2": "AAAAAA=="
@@ -29380,245 +29429,245 @@
   },
   {
     "sn": "1131301",
-    "strContent": "いい判断ですよ",
+    "strContent": "さすが…いえ、選ばれし者なら\n『当然』ですね…",
     "option1": "AAAAAA==",
     "showName": "黒谷清",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1131302",
-    "strContent": "オレって…やっぱり、オレなんですよ",
+    "strContent": "やはりオレですか…\nそんな気がしてましたよ。",
     "option1": "AAAAAA==",
     "showName": "黒谷清",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1131303",
-    "strContent": "オレがいきますよ",
+    "strContent": "了解です。",
     "option1": "AAAAAA==",
     "showName": "黒谷清",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1131304",
-    "strContent": "出番ですか？いいですよ",
+    "strContent": "出番ですね。任せて下さい。",
     "option1": "AAAAAA==",
     "showName": "黒谷清",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1131305",
-    "strContent": "キー…いきますっ！",
+    "strContent": "これも選ばれし者の運命でしょうか…",
     "option1": "AAAAAA==",
     "showName": "黒谷清",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1131306",
-    "strContent": "オレがいます！大丈夫ですからっ！",
+    "strContent": "期待には必ず応えますよ。ええ、必ずね…",
     "option1": "AAAAAA==",
     "showName": "黒谷清",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1131307",
-    "strContent": "選ばれし…アタック！",
+    "strContent": "オレにやれるか…いえ、やってみせます…！",
     "option1": "AAAAAA==",
     "showName": "黒谷清",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1131308",
-    "strContent": "キー…いきまぁぁすっ！",
+    "strContent": "任せてください。\nなんかこう…良い感じにやってきますから！",
     "option1": "AAAAAA==",
     "showName": "黒谷清",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1131309",
-    "strContent": "退屈しのぎになるといいですけどね。",
+    "strContent": "フフ、良い退屈しのぎにはなりそうですよ。",
     "option1": "AAAAAA==",
     "showName": "黒谷清",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1131310",
-    "strContent": "見えますよ…オレたちの勝利がです",
+    "strContent": "結果はもう『視えてる』んでしょう？\nなら、ただ待っててくださいよ。",
     "option1": "AAAAAA==",
     "showName": "黒谷清",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1131311",
-    "strContent": "休息をおろそかにしちゃあいけません。",
+    "strContent": "えっ、あ。中止ですか…？",
     "option1": "AAAAAA==",
     "showName": "黒谷清",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1131312",
-    "strContent": "今回の任務については…ノーコメントで。",
+    "strContent": "まだ途中ですけど…りょ、了解です！",
     "option1": "AAAAAA==",
     "showName": "黒谷清",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1131313",
-    "strContent": "これは戦略的撤退ですよ…多分…",
+    "strContent": "戦略的撤退ってことですね…！",
     "option1": "AAAAAA==",
     "showName": "黒谷清",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1131314",
-    "strContent": "きゅ、急に戻って来いと言われても…！",
+    "strContent": "ま、まあ…この結果も\n予想はできていましたよ…",
     "option1": "AAAAAA==",
     "showName": "黒谷清",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1131315",
-    "strContent": "これも選ばれし者の運命（さだめ）、\nですかね…",
+    "strContent": "あれ、いいんですか？\nとりあえず、了解しました。",
     "option1": "AAAAAA==",
     "showName": "黒谷清",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1131316",
-    "strContent": "…やる前から、わかっていたことですから",
+    "strContent": "フフ、当然の結果ですね。",
     "option1": "AAAAAA==",
     "showName": "黒谷清",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1131317",
-    "strContent": "選ばれし者が有効に使いますよ。",
+    "strContent": "この結果は必然です。",
     "option1": "AAAAAA==",
     "showName": "黒谷清",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1131318",
-    "strContent": "今回、オレはまだ本気だして\nないですからね？",
+    "strContent": "今回…オレはまだ本気を\n出してないですからね。",
     "option1": "AAAAAA==",
     "showName": "黒谷清",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1131319",
-    "strContent": "オレの力が必要になったら、\nまた呼んでください。",
+    "strContent": "任務完了です。\n次も期待しててください…",
     "option1": "AAAAAA==",
     "showName": "黒谷清",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1131320",
-    "strContent": "やっぱりオレって選ばれてしまうんですよね",
+    "strContent": "さて…オレは『次』に\n備えておくとしますよ。",
     "option1": "AAAAAA==",
     "showName": "黒谷清",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1131401",
-    "strContent": "俺の番だね。",
+    "strContent": "うん。たまには働かないとね。",
     "option1": "AAAAAA==",
     "showName": "須見俊也",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1131402",
-    "strContent": "たまには大人らしいところを見せようかな。",
+    "strContent": "選んでくれた君のご期待に応えなきゃ。",
     "option1": "AAAAAA==",
     "showName": "須見俊也",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1131403",
-    "strContent": "腕力には期待しないでね。",
+    "strContent": "ふふ、俺を選んでくれてありがとう。",
     "option1": "AAAAAA==",
     "showName": "須見俊也",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1131404",
-    "strContent": "がんばれるだけ、がんばるよ。",
+    "strContent": "俺にできる限りはがんばるね。",
     "option1": "AAAAAA==",
     "showName": "須見俊也",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1131405",
-    "strContent": "キミの期待に応えられたらいいけど。",
+    "strContent": "俺の出番かな。",
     "option1": "AAAAAA==",
     "showName": "須見俊也",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1131406",
-    "strContent": "ちょっと面倒くさいけど…仕方ないね。",
+    "strContent": "お土産、期待しててね。",
     "option1": "AAAAAA==",
     "showName": "須見俊也",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1131407",
-    "strContent": "無理のない範囲でがんばろう。",
+    "strContent": "さて、行こうか。",
     "option1": "AAAAAA==",
     "showName": "須見俊也",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1131408",
-    "strContent": "んんー、いい天気。釣り日和だね。",
+    "strContent": "ぶらっと行ってくるよ。",
     "option1": "AAAAAA==",
     "showName": "須見俊也",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1131409",
-    "strContent": "取材旅行くらいの気持ちで行くよ。",
+    "strContent": "じゃ、行ってきます。",
     "option1": "AAAAAA==",
     "showName": "須見俊也",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1131410",
-    "strContent": "たまにはやる気、見せちゃおうかな。",
+    "strContent": "実は…結構やる気があるんだよね。",
     "option1": "AAAAAA==",
     "showName": "須見俊也",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1131411",
-    "strContent": "どんな状況でも、平常心だよ。",
+    "strContent": "うん。帰ろうか。",
     "option1": "AAAAAA==",
     "showName": "須見俊也",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1131412",
-    "strContent": "俺にしてはがんばったほう、かな？",
+    "strContent": "そろそろ戻った方がいいかもね。",
     "option1": "AAAAAA==",
     "showName": "須見俊也",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1131413",
-    "strContent": "疲れる前に休んでおこう。",
+    "strContent": "了解。速やかに帰還するよ。",
     "option1": "AAAAAA==",
     "showName": "須見俊也",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1131414",
-    "strContent": "中止か。ま、そういうこともあるよね。",
+    "strContent": "ＯＫ。すぐに帰るね。",
     "option1": "AAAAAA==",
     "showName": "須見俊也",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1131415",
-    "strContent": "うまくいきそうだったけど…戻って休むよ。",
+    "strContent": "そうだね、戻った方が良さそうだ。",
     "option1": "AAAAAA==",
     "showName": "須見俊也",
     "option2": "AAAAAA=="
@@ -29639,21 +29688,21 @@
   },
   {
     "sn": "1131418",
-    "strContent": "ちょっと疲れちゃったけど、\n面白い体験だったね。",
+    "strContent": "ん～…俺にしては頑張ったかも？",
     "option1": "AAAAAA==",
     "showName": "須見俊也",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1131419",
-    "strContent": "これは、なかなか。",
+    "strContent": "『頑張った』って褒めてくれる？\nふふ、冗談だよ。",
     "option1": "AAAAAA==",
     "showName": "須見俊也",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1131420",
-    "strContent": "これでしばらく働かなくてすむかなぁ。",
+    "strContent": "さて、これでしばらくは\nサボっても大丈夫かな？",
     "option1": "AAAAAA==",
     "showName": "須見俊也",
     "option2": "AAAAAA=="
@@ -29667,7 +29716,7 @@
   },
   {
     "sn": "1131502",
-    "strContent": "ワタシの出番！",
+    "strContent": "ここはワタシが。",
     "option1": "AAAAAA==",
     "showName": "李瑤鈴",
     "option2": "AAAAAA=="
@@ -29695,21 +29744,21 @@
   },
   {
     "sn": "1131506",
-    "strContent": "さぁって、行きまショカ！",
+    "strContent": "さあて、行きまショウ！",
     "option1": "AAAAAA==",
     "showName": "李瑤鈴",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1131507",
-    "strContent": "張り子のトラなんかじゃないデスヨ？",
+    "strContent": "千里を走る気分デス！",
     "option1": "AAAAAA==",
     "showName": "李瑤鈴",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1131508",
-    "strContent": "じゃあ早速",
+    "strContent": "今すぐ行きマショウ！",
     "option1": "AAAAAA==",
     "showName": "李瑤鈴",
     "option2": "AAAAAA=="
@@ -29730,49 +29779,49 @@
   },
   {
     "sn": "1131511",
-    "strContent": "そんなぁ？まだ途中なのに…",
+    "strContent": "わかりマシた。すぐ戻りマス！",
     "option1": "AAAAAA==",
     "showName": "李瑤鈴",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1131512",
-    "strContent": "え？\u3000今から戻るんデスカ！？",
+    "strContent": "了解デス。一息入れマショウ。",
     "option1": "AAAAAA==",
     "showName": "李瑤鈴",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1131513",
-    "strContent": "次こそは最後までやりたいデス！",
+    "strContent": "そろそろ潮時ってコトですネ。",
     "option1": "AAAAAA==",
     "showName": "李瑤鈴",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1131514",
-    "strContent": "はぁ…なんだか不完全燃焼デス…",
+    "strContent": "無理は禁物、デスヨネ。",
     "option1": "AAAAAA==",
     "showName": "李瑤鈴",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1131515",
-    "strContent": "え？\u3000ソレは…",
+    "strContent": "ナルホド。体力の回復を優先しマスネ。",
     "option1": "AAAAAA==",
     "showName": "李瑤鈴",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1131516",
-    "strContent": "発財発財～",
+    "strContent": "発財発財～。",
     "option1": "AAAAAA==",
     "showName": "李瑤鈴",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1131517",
-    "strContent": "ワァーオ、大収穫でしたネ！",
+    "strContent": "オオオ、大収穫でしたネ！",
     "option1": "AAAAAA==",
     "showName": "李瑤鈴",
     "option2": "AAAAAA=="
@@ -29786,56 +29835,56 @@
   },
   {
     "sn": "1131519",
-    "strContent": "完了ですネ！",
+    "strContent": "任務完了デスネ！",
     "option1": "AAAAAA==",
     "showName": "李瑤鈴",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1131520",
-    "strContent": "わお！\u3000いい感じデス！",
+    "strContent": "オオ！\u3000イイ感じデス！",
     "option1": "AAAAAA==",
     "showName": "李瑤鈴",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1131601",
-    "strContent": "ベストチョイスですわ！",
+    "strContent": "お・ま・か・せ！\u3000ですわ～！",
     "option1": "AAAAAA==",
     "showName": "ＹＵＩ",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1131602",
-    "strContent": "ブイにお任せあれ♪",
+    "strContent": "ふふふ～腕が鳴りますわね！",
     "option1": "AAAAAA==",
     "showName": "ＹＵＩ",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1131603",
-    "strContent": "ブイ、バッテリー満タンですわ！",
+    "strContent": "すぐにでも出られますわよ！",
     "option1": "AAAAAA==",
     "showName": "ＹＵＩ",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1131604",
-    "strContent": "わたくしが干されるなんて、\n言語道断ですわ！",
+    "strContent": "ご期待に沿ってみせますわっ！",
     "option1": "AAAAAA==",
     "showName": "ＹＵＩ",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1131605",
-    "strContent": "このブイにお任せを！",
+    "strContent": "わたくしの出番ですわね！",
     "option1": "AAAAAA==",
     "showName": "ＹＵＩ",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1131606",
-    "strContent": "ぶちかましますわよ！",
+    "strContent": "やってやりますわ～！",
     "option1": "AAAAAA==",
     "showName": "ＹＵＩ",
     "option2": "AAAAAA=="
@@ -29849,77 +29898,77 @@
   },
   {
     "sn": "1131608",
-    "strContent": "期待が膨らみますわ！",
+    "strContent": "ドーンと構えてお待ちくださいませ！",
     "option1": "AAAAAA==",
     "showName": "ＹＵＩ",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1131609",
-    "strContent": "趣向をかえてみます？",
+    "strContent": "お宝ザクザクを狙いますわよ！",
     "option1": "AAAAAA==",
     "showName": "ＹＵＩ",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1131610",
-    "strContent": "期待に応えてみせましょう！",
+    "strContent": "ワクワクドキドキしますわ！",
     "option1": "AAAAAA==",
     "showName": "ＹＵＩ",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1131611",
-    "strContent": "戻りましたわ。一息つきましょうか。",
+    "strContent": "ブイ、Ｕターン！",
     "option1": "AAAAAA==",
     "showName": "ＹＵＩ",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1131612",
-    "strContent": "終わらせなくていいんですの？",
+    "strContent": "引き際も肝心ですものね。",
     "option1": "AAAAAA==",
     "showName": "ＹＵＩ",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1131613",
-    "strContent": "中止！？\u3000どういうことですの！？",
+    "strContent": "さ！\u3000戻りますわよ！",
     "option1": "AAAAAA==",
     "showName": "ＹＵＩ",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1131614",
-    "strContent": "説明を要求しますわ～…",
+    "strContent": "エイヤッ！\u3000帰還しますわ！",
     "option1": "AAAAAA==",
     "showName": "ＹＵＩ",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1131615",
-    "strContent": "まだ種まきの段階でしたのに～…",
+    "strContent": "カエルが鳴くから帰りますわ～！",
     "option1": "AAAAAA==",
     "showName": "ＹＵＩ",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1131616",
-    "strContent": "余裕ですわね。",
+    "strContent": "余裕でしたわね！",
     "option1": "AAAAAA==",
     "showName": "ＹＵＩ",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1131617",
-    "strContent": "当然の結果…と罵らせて頂きますわ！",
+    "strContent": "さてさて、成果はどうなのかしら？",
     "option1": "AAAAAA==",
     "showName": "ＹＵＩ",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1131618",
-    "strContent": "アハッ、これが欲しかったんですの！",
+    "strContent": "褒めていただいてもよろしくてよ！",
     "option1": "AAAAAA==",
     "showName": "ＹＵＩ",
     "option2": "AAAAAA=="
@@ -29933,14 +29982,14 @@
   },
   {
     "sn": "1131620",
-    "strContent": "解散といたしましょう！",
+    "strContent": "おつかれさまでしたわ～！",
     "option1": "AAAAAA==",
     "showName": "ＹＵＩ",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1131701",
-    "strContent": "お任せを。",
+    "strContent": "やったぁ！\u3000出番だーっ！",
     "option1": "AAAAAA==",
     "showName": "西森陽菜",
     "option2": "AAAAAA=="
@@ -29954,126 +30003,126 @@
   },
   {
     "sn": "1131703",
-    "strContent": "がんばるねっ！",
+    "strContent": "うんっ！\u3000頑張る！",
     "option1": "AAAAAA==",
     "showName": "西森陽菜",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1131704",
-    "strContent": "ワクワクすることあるかな！？",
+    "strContent": "どんなワクワクが待ってるのかなー？",
     "option1": "AAAAAA==",
     "showName": "西森陽菜",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1131705",
-    "strContent": "探検に、しゅっぱーつ！",
+    "strContent": "探検隊、集合ー！",
     "option1": "AAAAAA==",
     "showName": "西森陽菜",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1131706",
-    "strContent": "せーのっ！",
+    "strContent": "行ってきまぁーすっ！",
     "option1": "AAAAAA==",
     "showName": "西森陽菜",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1131707",
-    "strContent": "がんばるね！",
+    "strContent": "探検隊、しゅっぱーつ！",
     "option1": "AAAAAA==",
     "showName": "西森陽菜",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1131708",
-    "strContent": "しゅっぱーつ！ワクワクするねっ！",
+    "strContent": "おつかいだね！\u3000行ってきまーす！",
     "option1": "AAAAAA==",
     "showName": "西森陽菜",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1131709",
-    "strContent": "何が起きるのかな！？",
+    "strContent": "何か面白いこと起きるかな…！？",
     "option1": "AAAAAA==",
     "showName": "西森陽菜",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1131710",
-    "strContent": "ワクワクするね！",
+    "strContent": "レッツ、ゴぉーっ！",
     "option1": "AAAAAA==",
     "showName": "西森陽菜",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1131711",
-    "strContent": "はーい。じゃあ、ちょっと休むね！",
+    "strContent": "え、そうなの？\u3000わかった！",
     "option1": "AAAAAA==",
     "showName": "西森陽菜",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1131712",
-    "strContent": "戻っちゃっていいの？",
+    "strContent": "うーん…残念。",
     "option1": "AAAAAA==",
     "showName": "西森陽菜",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1131713",
-    "strContent": "ここで終わり？\u3000どうして？",
+    "strContent": "そっかぁ…じゃあ、次は頑張るね！",
     "option1": "AAAAAA==",
     "showName": "西森陽菜",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1131714",
-    "strContent": "また遊びにきたいなー。",
+    "strContent": "えー！？\u3000なんでなんでなんでー！？",
     "option1": "AAAAAA==",
     "showName": "西森陽菜",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1131715",
-    "strContent": "もっと遊びたかったのに…",
+    "strContent": "もっと遊びたかったなぁー…",
     "option1": "AAAAAA==",
     "showName": "西森陽菜",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1131716",
-    "strContent": "楽勝だったね！",
+    "strContent": "ただいまぁー！",
     "option1": "AAAAAA==",
     "showName": "西森陽菜",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1131717",
-    "strContent": "うまくいったね！",
+    "strContent": "今日の探検、終了ーっ！",
     "option1": "AAAAAA==",
     "showName": "西森陽菜",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1131718",
-    "strContent": "探検、楽しかったね！",
+    "strContent": "楽しかったぁーっ！",
     "option1": "AAAAAA==",
     "showName": "西森陽菜",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1131719",
-    "strContent": "褒めてくれていいんだよ？",
+    "strContent": "お兄ちゃーん！\u3000おつかい、終わったよー！",
     "option1": "AAAAAA==",
     "showName": "西森陽菜",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1131720",
-    "strContent": "すごいすごーい！",
+    "strContent": "また呼んでね！\u3000いつでも行くから！",
     "option1": "AAAAAA==",
     "showName": "西森陽菜",
     "option2": "AAAAAA=="
@@ -30087,140 +30136,140 @@
   },
   {
     "sn": "1131802",
-    "strContent": "準備できたよ！",
+    "strContent": "準備なら、いつでもできてるよ。",
     "option1": "AAAAAA==",
     "showName": "宮下美波",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1131803",
-    "strContent": "マリアン、呼ばれました！",
+    "strContent": "うん。今行くね。",
     "option1": "AAAAAA==",
     "showName": "宮下美波",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1131804",
-    "strContent": "治療は任せて！",
+    "strContent": "何かできることはある？",
     "option1": "AAAAAA==",
     "showName": "宮下美波",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1131805",
-    "strContent": "頑張るから、見ててね。",
+    "strContent": "了解。頑張るね。",
     "option1": "AAAAAA==",
     "showName": "宮下美波",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1131806",
-    "strContent": "いいもの、見つけたいよね！",
+    "strContent": "はーい、行ってきまーす。",
     "option1": "AAAAAA==",
     "showName": "宮下美波",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1131807",
-    "strContent": "回復は私に任せてね！",
+    "strContent": "じゃあ、留守番よろしくね。",
     "option1": "AAAAAA==",
     "showName": "宮下美波",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1131808",
-    "strContent": "みんなを守れるように…！",
+    "strContent": "何かあったら連絡してね。すぐに戻るから。",
     "option1": "AAAAAA==",
     "showName": "宮下美波",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1131809",
-    "strContent": "私だって、戦える。",
+    "strContent": "よしっ！\u3000行ってくるよ！",
     "option1": "AAAAAA==",
     "showName": "宮下美波",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1131810",
-    "strContent": "期待に応えるから！",
+    "strContent": "お土産、期待しててね？",
     "option1": "AAAAAA==",
     "showName": "宮下美波",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1131811",
-    "strContent": "もうちょっとうまくできてたら…ごめんね。",
+    "strContent": "そっかぁ…じゃあ、すぐ帰るね。",
     "option1": "AAAAAA==",
     "showName": "宮下美波",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1131812",
-    "strContent": "うん！\u3000それじゃ、今から戻るね。",
+    "strContent": "何事も無いのが一番だよ。\nとりあえず、お疲れ様。",
     "option1": "AAAAAA==",
     "showName": "宮下美波",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1131813",
-    "strContent": "そんなぁ…！",
+    "strContent": "わかった。ちょっと早いけど、戻るね。",
     "option1": "AAAAAA==",
     "showName": "宮下美波",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1131814",
-    "strContent": "少し疲れちゃったかも…",
+    "strContent": "うん、わかった。戻るね。",
     "option1": "AAAAAA==",
     "showName": "宮下美波",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1131815",
-    "strContent": "えっ？\u3000まだ途中だけど…いいの？",
+    "strContent": "うーん…残念。次に期待だね。",
     "option1": "AAAAAA==",
     "showName": "宮下美波",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1131816",
-    "strContent": "無事完了、だね！",
+    "strContent": "ただいまー！\u3000待たせてごめんねー！",
     "option1": "AAAAAA==",
     "showName": "宮下美波",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1131817",
-    "strContent": "うん、これ良さそう！\nみんなの助けになりそうだね。",
+    "strContent": "ただいまー。無事完了したよ。",
     "option1": "AAAAAA==",
     "showName": "宮下美波",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1131818",
-    "strContent": "みんなお疲れ！\n足くじいたりしてないかな？",
+    "strContent": "ただいま。留守の間、ケガとかしなかった？",
     "option1": "AAAAAA==",
     "showName": "宮下美波",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1131819",
-    "strContent": "無事戻ってこられて良かった！\nみんな頑張ったね。",
+    "strContent": "うまくいったよ。次も期待しててね。",
     "option1": "AAAAAA==",
     "showName": "宮下美波",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1131820",
-    "strContent": "ふふふっ！\u3000うまくいったね。",
+    "strContent": "うまくいって良かった。ふふっ！",
     "option1": "AAAAAA==",
     "showName": "宮下美波",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1131901",
-    "strContent": "確かに受け取ったよ！",
+    "strContent": "ババアの手も借りたいのかい？",
     "option1": "AAAAAA==",
     "showName": "長尾チヅ子",
     "option2": "AAAAAA=="
@@ -30234,7 +30283,7 @@
   },
   {
     "sn": "1131903",
-    "strContent": "年寄りの言うことも案外役に立つよ？",
+    "strContent": "私の勘、案外役に立つかもねぇ。",
     "option1": "AAAAAA==",
     "showName": "長尾チヅ子",
     "option2": "AAAAAA=="
@@ -30262,70 +30311,70 @@
   },
   {
     "sn": "1131907",
-    "strContent": "ババアの力、見せてあげようかねぇ！",
+    "strContent": "ババアの力、見せてやるよ！",
     "option1": "AAAAAA==",
     "showName": "長尾チヅ子",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1131908",
-    "strContent": "上出来上出来！\u3000よくやったねぇ！",
+    "strContent": "ほら、一緒に頑張ろうや！",
     "option1": "AAAAAA==",
     "showName": "長尾チヅ子",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1131909",
-    "strContent": "ババアに全部任せときな！",
+    "strContent": "若いモンに負けてられないからねぇ！",
     "option1": "AAAAAA==",
     "showName": "長尾チヅ子",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1131910",
-    "strContent": "こんくらい簡単さ！",
+    "strContent": "これくらいササッとやっちまうよ。",
     "option1": "AAAAAA==",
     "showName": "長尾チヅ子",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1131911",
-    "strContent": "どうやら、今回はここまでかね。",
+    "strContent": "老体を気遣ってくれんのかい。\nありがとうねぇ。",
     "option1": "AAAAAA==",
     "showName": "長尾チヅ子",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1131912",
-    "strContent": "ふー、年寄りに無理は禁物だねぇ。",
+    "strContent": "少し休んで行こうかねぇ。",
     "option1": "AAAAAA==",
     "showName": "長尾チヅ子",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1131913",
-    "strContent": "歳かねぇ…",
+    "strContent": "休憩中、少し演奏してやろうか？",
     "option1": "AAAAAA==",
     "showName": "長尾チヅ子",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1131914",
-    "strContent": "がっかりだよ。",
+    "strContent": "集めた情報を整理する時間も\n必要だからねぇ。",
     "option1": "AAAAAA==",
     "showName": "長尾チヅ子",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1131915",
-    "strContent": "最後までやらせて欲しかったねえ…",
+    "strContent": "一休みしたら、最後まで頑張るさね。",
     "option1": "AAAAAA==",
     "showName": "長尾チヅ子",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1131916",
-    "strContent": "いいモンが入ってるといいねぇ…",
+    "strContent": "おっ、いい感じじゃあないか！",
     "option1": "AAAAAA==",
     "showName": "長尾チヅ子",
     "option2": "AAAAAA=="
@@ -30339,7 +30388,7 @@
   },
   {
     "sn": "1131918",
-    "strContent": "みんなお疲れ様。いい戦い方だったよ。",
+    "strContent": "みんなお疲れ様。楽しかったよ。",
     "option1": "AAAAAA==",
     "showName": "長尾チヅ子",
     "option2": "AAAAAA=="
@@ -30353,42 +30402,42 @@
   },
   {
     "sn": "1131920",
-    "strContent": "こんくらい、ババアでも余裕だよ！",
+    "strContent": "じゃあ坊主、また呼んどくれよ！",
     "option1": "AAAAAA==",
     "showName": "長尾チヅ子",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1132001",
-    "strContent": "お姉さんに任せていいよ。",
+    "strContent": "お姉さんにお・ま・か・せ！",
     "option1": "AAAAAA==",
     "showName": "椎名悠美",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1132002",
-    "strContent": "期待してるよ、やっちゃおう！",
+    "strContent": "わたしの活躍、期待してもらいたいな～？",
     "option1": "AAAAAA==",
     "showName": "椎名悠美",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1132003",
-    "strContent": "ＯＫ、よろしくね。",
+    "strContent": "うん、よろしくね！",
     "option1": "AAAAAA==",
     "showName": "椎名悠美",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1132004",
-    "strContent": "一緒に頑張ろうね。",
+    "strContent": "一緒に頑張ろ～う！",
     "option1": "AAAAAA==",
     "showName": "椎名悠美",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1132005",
-    "strContent": "みんな、今日はよろしく！",
+    "strContent": "みんな、喉が渇いたら言ってね！",
     "option1": "AAAAAA==",
     "showName": "椎名悠美",
     "option2": "AAAAAA=="
@@ -30402,7 +30451,7 @@
   },
   {
     "sn": "1132007",
-    "strContent": "最高のショーにしてあげる",
+    "strContent": "最高のショーを始めるよ。",
     "option1": "AAAAAA==",
     "showName": "椎名悠美",
     "option2": "AAAAAA=="
@@ -30416,7 +30465,7 @@
   },
   {
     "sn": "1132009",
-    "strContent": "心が躍るね～",
+    "strContent": "心が躍っちゃう！",
     "option1": "AAAAAA==",
     "showName": "椎名悠美",
     "option2": "AAAAAA=="
@@ -30430,49 +30479,49 @@
   },
   {
     "sn": "1132011",
-    "strContent": "今日はこの辺にしておこっか。\n何事もほどほどに、ね？",
+    "strContent": "休憩タイム？\u3000うんうん、いいと思う！",
     "option1": "AAAAAA==",
     "showName": "椎名悠美",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1132012",
-    "strContent": "えっ？\u3000戻って来いって…どうしたの？",
+    "strContent": "あれ、お姉さんを呼んだかな？\nなになに～？",
     "option1": "AAAAAA==",
     "showName": "椎名悠美",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1132013",
-    "strContent": "ここで中止？\u3000そんなぁ…",
+    "strContent": "一息つこっか！\u3000飲み物、用意してるよ～。",
     "option1": "AAAAAA==",
     "showName": "椎名悠美",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1132014",
-    "strContent": "途中で投げ出したくないけど…仕方ないね。",
+    "strContent": "お休み助かるっ！\nちょうど足がパンパンだったの！",
     "option1": "AAAAAA==",
     "showName": "椎名悠美",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1132015",
-    "strContent": "ごめんね…",
+    "strContent": "作戦会議かな？",
     "option1": "AAAAAA==",
     "showName": "椎名悠美",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1132016",
-    "strContent": "勝利の美酒で、カンパ～イ！",
+    "strContent": "お疲れ様！\u3000カンパ～イ！",
     "option1": "AAAAAA==",
     "showName": "椎名悠美",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1132017",
-    "strContent": "最高のショーだったでしょ？\u3000うふふっ。",
+    "strContent": "最高のショー、味わってくれたかな？",
     "option1": "AAAAAA==",
     "showName": "椎名悠美",
     "option2": "AAAAAA=="
@@ -30493,280 +30542,280 @@
   },
   {
     "sn": "1132018",
-    "strContent": "やったぁ！",
+    "strContent": "うんうん、いい結果だよ～！",
     "option1": "AAAAAA==",
     "showName": "椎名悠美",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1132019",
-    "strContent": "これで任務完了だね！",
+    "strContent": "これでおしまい？\nまだまだ行けちゃうんだけどな～。",
     "option1": "AAAAAA==",
     "showName": "椎名悠美",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1132020",
-    "strContent": "お姉さんに任せてよかったでしょ？",
+    "strContent": "お姉さんに任せて良かったでしょ？",
     "option1": "AAAAAA==",
     "showName": "椎名悠美",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1132101",
-    "strContent": "私にお任せ～",
+    "strContent": "お兄様っ。来ました！",
     "option1": "AAAAAA==",
     "showName": "佐原海夕",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1132102",
-    "strContent": "はーい！\u3000ご用ですかぁ？",
+    "strContent": "はーい！\u3000パペット、来ましたー！",
     "option1": "AAAAAA==",
     "showName": "佐原海夕",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1132103",
-    "strContent": "はい！\u3000よろしくお願いします！",
+    "strContent": "私にもできること、ありそうですか？",
     "option1": "AAAAAA==",
     "showName": "佐原海夕",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1132104",
-    "strContent": "サポート、頑張りますね！",
+    "strContent": "いつでもいけますよ。",
     "option1": "AAAAAA==",
     "showName": "佐原海夕",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1132105",
-    "strContent": "なんかドキドキしてきた…私、いきます！",
+    "strContent": "巡業とかで慣れてますから。\n任せてください。",
     "option1": "AAAAAA==",
     "showName": "佐原海夕",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1132106",
-    "strContent": "楽しいショーの始まり始まり～",
+    "strContent": "それじゃあ、行ってきますね。",
     "option1": "AAAAAA==",
     "showName": "佐原海夕",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1132107",
-    "strContent": "出発進行ー！",
+    "strContent": "期待して待っててくださいね。お兄様！",
     "option1": "AAAAAA==",
     "showName": "佐原海夕",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1132108",
-    "strContent": "本気でやっちゃいますよ～？",
+    "strContent": "はいっ！\u3000パペット、いきまーす！",
     "option1": "AAAAAA==",
     "showName": "佐原海夕",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1132109",
-    "strContent": "任せてください。",
+    "strContent": "任せてください！",
     "option1": "AAAAAA==",
     "showName": "佐原海夕",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1132110",
-    "strContent": "はい。任務了解しました～。",
+    "strContent": "任務了解です！",
     "option1": "AAAAAA==",
     "showName": "佐原海夕",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1132111",
-    "strContent": "ごめんなさい…力になれなくて…",
+    "strContent": "お兄様の力になれなくて、\nちょっと残念です…",
     "option1": "AAAAAA==",
     "showName": "佐原海夕",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1132112",
-    "strContent": "て、撤収しまーす！\nお疲れ様でしたぁ～…！",
+    "strContent": "こういうこともありますよね…",
     "option1": "AAAAAA==",
     "showName": "佐原海夕",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1132113",
-    "strContent": "もう少し早く終わらせていれば…",
+    "strContent": "そっかぁ、残念です…\nとりあえず戻ります。",
     "option1": "AAAAAA==",
     "showName": "佐原海夕",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1132114",
-    "strContent": "お兄様、ごめんなさい。戻ります…",
+    "strContent": "そうですか…了解です。\nすぐに戻りますね！",
     "option1": "AAAAAA==",
     "showName": "佐原海夕",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1132115",
-    "strContent": "次こそはきっと最後まで…",
+    "strContent": "わかりました。\n戻ったら、次の作戦を考えましょう！",
     "option1": "AAAAAA==",
     "showName": "佐原海夕",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1132116",
-    "strContent": "やっるぅー！",
+    "strContent": "お兄様ぁ～！\u3000ただいま戻りましたぁ～！",
     "option1": "AAAAAA==",
     "showName": "佐原海夕",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1132117",
-    "strContent": "今日もお疲れ様でしたぁ～！\n次も一緒に、頑張りましょうねっ！",
+    "strContent": "お兄様っ！\u3000良いものゲットできましたよ！",
     "option1": "AAAAAA==",
     "showName": "佐原海夕",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1132118",
-    "strContent": "えへへ",
+    "strContent": "パペット、頑張りました！",
     "option1": "AAAAAA==",
     "showName": "佐原海夕",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1132119",
-    "strContent": "頑張りましたよ！\u3000どうですか、お兄様？",
+    "strContent": "私、まだまだいけますよ。お兄様！",
     "option1": "AAAAAA==",
     "showName": "佐原海夕",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1132120",
-    "strContent": "いえーい！\u3000たーのしー！",
+    "strContent": "お兄様に頼られるの、すごく嬉しいです。\nふふっ！",
     "option1": "AAAAAA==",
     "showName": "佐原海夕",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1132201",
-    "strContent": "準備、出来てるよ",
+    "strContent": "私なら大丈夫。",
     "option1": "AAAAAA==",
     "showName": "坂井綾香",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1132202",
-    "strContent": "私の出番だね！",
+    "strContent": "私の出番だね。",
     "option1": "AAAAAA==",
     "showName": "坂井綾香",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1132203",
-    "strContent": "えっと。今日はよろしくお願いします…",
+    "strContent": "えっと。今日はよろしく…",
     "option1": "AAAAAA==",
     "showName": "坂井綾香",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1132204",
-    "strContent": "いいライブにしようね。",
+    "strContent": "うまくできるかな…ううん、きっと大丈夫。",
     "option1": "AAAAAA==",
     "showName": "坂井綾香",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1132205",
-    "strContent": "私の出番…緊張するなぁ…",
+    "strContent": "ちょっと緊張するね…",
     "option1": "AAAAAA==",
     "showName": "坂井綾香",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1132206",
-    "strContent": "ここから先は任せて！",
+    "strContent": "うん。任せて。",
     "option1": "AAAAAA==",
     "showName": "坂井綾香",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1132207",
-    "strContent": "今日は何が起こるかな。楽しみだね。",
+    "strContent": "精一杯、楽しんでくるよ。",
     "option1": "AAAAAA==",
     "showName": "坂井綾香",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1132208",
-    "strContent": "じゃ、行ってくるね。",
+    "strContent": "行ってくるね。",
     "option1": "AAAAAA==",
     "showName": "坂井綾香",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1132209",
-    "strContent": "ライブ、始めるよ。",
+    "strContent": "何か収穫があるといいな。",
     "option1": "AAAAAA==",
     "showName": "坂井綾香",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1132210",
-    "strContent": "期待して待ってて。",
+    "strContent": "ドキドキするね…行ってきます。",
     "option1": "AAAAAA==",
     "showName": "坂井綾香",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1132211",
-    "strContent": "じゃ、今日はこの辺で。",
+    "strContent": "了解…一旦そっちに戻るよ。",
     "option1": "AAAAAA==",
     "showName": "坂井綾香",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1132212",
-    "strContent": "ご、ごめんなさい！",
+    "strContent": "え、まだ途中だけど…ううん、わかった。",
     "option1": "AAAAAA==",
     "showName": "坂井綾香",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1132213",
-    "strContent": "でも…まだ終わってないのに…",
+    "strContent": "次こそは、成功させるから。",
     "option1": "AAAAAA==",
     "showName": "坂井綾香",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1132214",
-    "strContent": "ええっ？\u3000急に戻って来いって…",
+    "strContent": "そっか…わかった。とりあえず、戻るね。",
     "option1": "AAAAAA==",
     "showName": "坂井綾香",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1132215",
-    "strContent": "そんなぁ…",
+    "strContent": "残念だけど、次こそは頑張るから。",
     "option1": "AAAAAA==",
     "showName": "坂井綾香",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1132216",
-    "strContent": "いい経験になったと思う。お疲れ。",
+    "strContent": "良い経験になったよ。ありがとう…！",
     "option1": "AAAAAA==",
     "showName": "坂井綾香",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1132217",
-    "strContent": "任務完了！\u3000お疲れ様。",
+    "strContent": "任務完了っ。お疲れ様！",
     "option1": "AAAAAA==",
     "showName": "坂井綾香",
     "option2": "AAAAAA=="
@@ -30787,182 +30836,182 @@
   },
   {
     "sn": "1132218",
-    "strContent": "冒険した、って感じだね。",
+    "strContent": "お疲れ様。また呼んでくれると嬉しいな。",
     "option1": "AAAAAA==",
     "showName": "坂井綾香",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1132219",
-    "strContent": "わぁ…いいものが手に入ったね。",
+    "strContent": "良いものが手に入ったね。",
     "option1": "AAAAAA==",
     "showName": "坂井綾香",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1132220",
-    "strContent": "ライブ成功、だね。",
+    "strContent": "私に任せてくれてありがとう。\n次も頑張るね。",
     "option1": "AAAAAA==",
     "showName": "坂井綾香",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1132301",
-    "strContent": "興味深い",
+    "strContent": "興味深い。",
     "option1": "AAAAAA==",
     "showName": "雨宮蓮",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1132302",
-    "strContent": "問題ない",
+    "strContent": "問題ない。",
     "option1": "AAAAAA==",
     "showName": "雨宮蓮",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1132303",
-    "strContent": "良い選択だ",
+    "strContent": "良い選択だ。",
     "option1": "AAAAAA==",
     "showName": "雨宮蓮",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1132304",
-    "strContent": "承知した。",
+    "strContent": "判断は任せよう。",
     "option1": "AAAAAA==",
     "showName": "雨宮蓮",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1132305",
-    "strContent": "良し…",
+    "strContent": "待ちくたびれたぞ。",
     "option1": "AAAAAA==",
     "showName": "雨宮蓮",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1132306",
-    "strContent": "作戦開始だ",
+    "strContent": "作戦開始だ。",
     "option1": "AAAAAA==",
     "showName": "雨宮蓮",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1132307",
-    "strContent": "ショータイムの始まりだ。",
+    "strContent": "良し…",
     "option1": "AAAAAA==",
     "showName": "雨宮蓮",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1132308",
-    "strContent": "やってやる",
+    "strContent": "やってやる。",
     "option1": "AAAAAA==",
     "showName": "雨宮蓮",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1132309",
-    "strContent": "一気にいくぞ",
+    "strContent": "一気にいくぞ。",
     "option1": "AAAAAA==",
     "showName": "雨宮蓮",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1132310",
-    "strContent": "行くぞ……",
+    "strContent": "行くぞ！",
     "option1": "AAAAAA==",
     "showName": "雨宮蓮",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1132311",
-    "strContent": "くっ…",
+    "strContent": "そういうこともある。",
     "option1": "AAAAAA==",
     "showName": "雨宮蓮",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1132312",
-    "strContent": "馬鹿な",
+    "strContent": "そうか。わかった。",
     "option1": "AAAAAA==",
     "showName": "雨宮蓮",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1132313",
-    "strContent": "チィッ…",
+    "strContent": "次はどうする？",
     "option1": "AAAAAA==",
     "showName": "雨宮蓮",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1132314",
-    "strContent": "まだやれる…！",
+    "strContent": "いいだろう。",
     "option1": "AAAAAA==",
     "showName": "雨宮蓮",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1132315",
-    "strContent": "落ち着いていこう",
+    "strContent": "落ち着いていこう。",
     "option1": "AAAAAA==",
     "showName": "雨宮蓮",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1132316",
-    "strContent": "ありがとう。",
+    "strContent": "今回の成果だ。",
     "option1": "AAAAAA==",
     "showName": "雨宮蓮",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1132317",
-    "strContent": "ミッション…完了だ",
+    "strContent": "ミッション…完了だ。",
     "option1": "AAAAAA==",
     "showName": "雨宮蓮",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1132318",
-    "strContent": "これで終わりだ",
+    "strContent": "この調子でいこう。",
     "option1": "AAAAAA==",
     "showName": "雨宮蓮",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1132319",
-    "strContent": "頂いたぞ",
+    "strContent": "どうだ？",
     "option1": "AAAAAA==",
     "showName": "雨宮蓮",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1132320",
-    "strContent": "いい装備だ",
+    "strContent": "当然の結果だ。",
     "option1": "AAAAAA==",
     "showName": "雨宮蓮",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1132401",
-    "strContent": "ニャフフ～",
+    "strContent": "怪盗ってのはチームワークも重要だ。",
     "option1": "AAAAAA==",
     "showName": "モルガナ",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1132402",
-    "strContent": "我らの恐ろしさを味わえ！",
+    "strContent": "ワガハイ、華麗に参上！",
     "option1": "AAAAAA==",
     "showName": "モルガナ",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1132403",
-    "strContent": "任せるがいい。",
+    "strContent": "さて、こっからどうするんだ？",
     "option1": "AAAAAA==",
     "showName": "モルガナ",
     "option2": "AAAAAA=="
@@ -30976,77 +31025,77 @@
   },
   {
     "sn": "1132405",
-    "strContent": "我輩の出番だな！",
+    "strContent": "見事な判断だぞ！",
     "option1": "AAAAAA==",
     "showName": "モルガナ",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1132406",
-    "strContent": "ワガハイ、華麗に参上！",
+    "strContent": "任せるがいい。",
     "option1": "AAAAAA==",
     "showName": "モルガナ",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1132407",
-    "strContent": "よし、行くぞ！",
+    "strContent": "うむ、任せろ！",
     "option1": "AAAAAA==",
     "showName": "モルガナ",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1132408",
-    "strContent": "ワガハイがオマエらを支えてやる！",
+    "strContent": "ふんふん、悪くないと思うぜ。",
     "option1": "AAAAAA==",
     "showName": "モルガナ",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1132409",
-    "strContent": "行くぞ、目に物見せてやれ！",
+    "strContent": "よーし、任せとけ！",
     "option1": "AAAAAA==",
     "showName": "モルガナ",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1132410",
-    "strContent": "よし、行くぜ。本日のシゴト開始だ！",
+    "strContent": "よし、行くぜ。\n本日のシゴト開始だ！",
     "option1": "AAAAAA==",
     "showName": "モルガナ",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1132411",
-    "strContent": "うっかりしてた！",
+    "strContent": "そうか…なら、ちょっと休憩入れようぜ！",
     "option1": "AAAAAA==",
     "showName": "モルガナ",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1132412",
-    "strContent": "そんなっ！",
+    "strContent": "引き際をわきまえるのも大事だな。",
     "option1": "AAAAAA==",
     "showName": "モルガナ",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1132413",
-    "strContent": "くそっ、やるな！",
+    "strContent": "次の準備は念入りにしとこうな。",
     "option1": "AAAAAA==",
     "showName": "モルガナ",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1132414",
-    "strContent": "AAAAAA==",
+    "strContent": "ま、次もある！",
     "option1": "AAAAAA==",
     "showName": "モルガナ",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1132415",
-    "strContent": "ニャッ！？",
+    "strContent": "了解だ。戻ろうぜ。",
     "option1": "AAAAAA==",
     "showName": "モルガナ",
     "option2": "AAAAAA=="
@@ -31081,7 +31130,7 @@
   },
   {
     "sn": "1132420",
-    "strContent": "オマケだ！",
+    "strContent": "ニャフフ～。",
     "option1": "AAAAAA==",
     "showName": "モルガナ",
     "option2": "AAAAAA=="
@@ -31109,14 +31158,14 @@
   },
   {
     "sn": "1132504",
-    "strContent": "きたきたー！",
+    "strContent": "俺の力が借りたいって？",
     "option1": "AAAAAA==",
     "showName": "坂本竜司",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1132505",
-    "strContent": "ウォームアップ、済ませといたぜ",
+    "strContent": "ウォームアップ、済ませといたぜ。",
     "option1": "AAAAAA==",
     "showName": "坂本竜司",
     "option2": "AAAAAA=="
@@ -31158,42 +31207,42 @@
   },
   {
     "sn": "1132511",
-    "strContent": "ドジったぜ…",
+    "strContent": "次こそは期待しててくれよな。",
     "option1": "AAAAAA==",
     "showName": "坂本竜司",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1132512",
-    "strContent": "マジか！？",
+    "strContent": "そっか。なら、すぐ戻らねーとな！",
     "option1": "AAAAAA==",
     "showName": "坂本竜司",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1132513",
-    "strContent": "ぎゃあっ！",
+    "strContent": "お、中断か？\u3000了解。",
     "option1": "AAAAAA==",
     "showName": "坂本竜司",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1132514",
-    "strContent": "やべえ…やっちまった…",
+    "strContent": "何事も経験ってゆーしな。",
     "option1": "AAAAAA==",
     "showName": "坂本竜司",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1132515",
-    "strContent": "ごめん…",
+    "strContent": "おっと…中断了解！\u3000戻るわ！",
     "option1": "AAAAAA==",
     "showName": "坂本竜司",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1132516",
-    "strContent": "これで終いだ！！",
+    "strContent": "これで終いだ！",
     "option1": "AAAAAA==",
     "showName": "坂本竜司",
     "option2": "AAAAAA=="
@@ -31214,21 +31263,21 @@
   },
   {
     "sn": "1132519",
-    "strContent": "BANG！！",
+    "strContent": "激熱じゃねーか！",
     "option1": "AAAAAA==",
     "showName": "坂本竜司",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1132520",
-    "strContent": "ハッハー！",
+    "strContent": "きたきたー！",
     "option1": "AAAAAA==",
     "showName": "坂本竜司",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1132601",
-    "strContent": "了解、俺が奴を倒す！",
+    "strContent": "いい感じにしてね？",
     "option1": "AAAAAA==",
     "showName": "高巻杏",
     "option2": "AAAAAA=="
@@ -31263,70 +31312,77 @@
   },
   {
     "sn": "1132606",
-    "strContent": "容赦しないかんね！！",
+    "strContent": "了解、やっちゃうから！",
+    "option1": "AAAAAA==",
+    "showName": "高巻杏",
+    "option2": "AAAAAA=="
+  },
+  {
+    "sn": "1132607",
+    "strContent": "Ｇｅｔ\u3000ｒｅａｄｙ！",
     "option1": "AAAAAA==",
     "showName": "高巻杏",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1132608",
-    "strContent": "ガチで行くよ！！",
+    "strContent": "ガチで行くよ！",
     "option1": "AAAAAA==",
     "showName": "高巻杏",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1132609",
-    "strContent": "そろそろ暴れたい気分かも！",
+    "strContent": "華麗に決めたげる！",
     "option1": "AAAAAA==",
     "showName": "高巻杏",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1132610",
-    "strContent": "待ちくたびれちゃった",
+    "strContent": "待ちくたびれちゃった。",
     "option1": "AAAAAA==",
     "showName": "高巻杏",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1132611",
-    "strContent": "しまった！",
+    "strContent": "わかった。戻るね。",
     "option1": "AAAAAA==",
     "showName": "高巻杏",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1132612",
-    "strContent": "ウソでしょ～！？",
+    "strContent": "次のシゴト、考えておかなくちゃ。",
     "option1": "AAAAAA==",
     "showName": "高巻杏",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1132613",
-    "strContent": "何だよ……こんなことって……",
+    "strContent": "残念…戻ったら、一緒に甘い物でも食べよ？",
     "option1": "AAAAAA==",
     "showName": "高巻杏",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1132614",
-    "strContent": "これでダメなの！？",
+    "strContent": "了解。すぐ戻るから。",
     "option1": "AAAAAA==",
     "showName": "高巻杏",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1132615",
-    "strContent": "なんでよ…こんなの…",
+    "strContent": "じゃあ、次に期待ってことで！",
     "option1": "AAAAAA==",
     "showName": "高巻杏",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1132616",
-    "strContent": "ウチら最強じゃない～？",
+    "strContent": "ウチら最強じゃないー？",
     "option1": "AAAAAA==",
     "showName": "高巻杏",
     "option2": "AAAAAA=="
@@ -31354,56 +31410,56 @@
   },
   {
     "sn": "1132620",
-    "strContent": "ふんふん、楽勝だぜ！",
+    "strContent": "どんなもんよ～フフッ！",
     "option1": "AAAAAA==",
     "showName": "高巻杏",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1132701",
-    "strContent": "俺がやる！",
+    "strContent": "ふむ…審美眼が問われるな。",
     "option1": "AAAAAA==",
     "showName": "喜多川祐介",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1132702",
-    "strContent": "承知した！",
+    "strContent": "準備は万端だ。",
     "option1": "AAAAAA==",
     "showName": "喜多川祐介",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1132703",
-    "strContent": "期待には応えてみせる",
+    "strContent": "期待には応えてみせる。",
     "option1": "AAAAAA==",
     "showName": "喜多川祐介",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1132704",
-    "strContent": "ほぅ…興味深い",
+    "strContent": "ほぅ…興味深い。",
     "option1": "AAAAAA==",
     "showName": "喜多川祐介",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1132705",
-    "strContent": "良い着想が得られそうだ",
+    "strContent": "良い着想が得られそうだ。",
     "option1": "AAAAAA==",
     "showName": "喜多川祐介",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1132706",
-    "strContent": "準備は万端だ",
+    "strContent": "この時を待っていた！",
     "option1": "AAAAAA==",
     "showName": "喜多川祐介",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1132707",
-    "strContent": "バトル開始！",
+    "strContent": "任せてくれ。",
     "option1": "AAAAAA==",
     "showName": "喜多川祐介",
     "option2": "AAAAAA=="
@@ -31417,7 +31473,7 @@
   },
   {
     "sn": "1132709",
-    "strContent": "これだな",
+    "strContent": "シゴトの時間だな。\n最初が肝心だ、引き締めよう。",
     "option1": "AAAAAA==",
     "showName": "喜多川祐介",
     "option2": "AAAAAA=="
@@ -31431,28 +31487,28 @@
   },
   {
     "sn": "1132711",
-    "strContent": "なんだと！？",
+    "strContent": "やむを得ないこともあるだろう…了解だ。",
     "option1": "AAAAAA==",
     "showName": "喜多川祐介",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1132712",
-    "strContent": "油断、した…",
+    "strContent": "む、そうか…では戻るとしよう。",
     "option1": "AAAAAA==",
     "showName": "喜多川祐介",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1132713",
-    "strContent": "残念だったな",
+    "strContent": "戦略的撤退だな。承知した。",
     "option1": "AAAAAA==",
     "showName": "喜多川祐介",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1132714",
-    "strContent": "では、また。",
+    "strContent": "今はこれが最善の判断だ。",
     "option1": "AAAAAA==",
     "showName": "喜多川祐介",
     "option2": "AAAAAA=="
@@ -31466,140 +31522,140 @@
   },
   {
     "sn": "1132716",
-    "strContent": "理想に一歩近づいたな",
+    "strContent": "理想に一歩近づいたな。",
     "option1": "AAAAAA==",
     "showName": "喜多川祐介",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1132717",
-    "strContent": "絶景かな",
+    "strContent": "ピピッと来た、アレは貴重な物だぞ！",
     "option1": "AAAAAA==",
     "showName": "喜多川祐介",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1132718",
-    "strContent": "シゴト達成だ。美しい働きだったな。",
+    "strContent": "シゴト達成だ。\n美しい働きだったな。",
     "option1": "AAAAAA==",
     "showName": "喜多川祐介",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1132719",
-    "strContent": "うむ、いい調子だ",
+    "strContent": "うむ、いい調子だ。",
     "option1": "AAAAAA==",
     "showName": "喜多川祐介",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1132720",
-    "strContent": "イイぞ、実にイイ！！",
+    "strContent": "イイぞ、実にイイ！",
     "option1": "AAAAAA==",
     "showName": "喜多川祐介",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1132801",
-    "strContent": "イイぞ、実にイイ！！",
+    "strContent": "クイーン、準備は万全よ。",
     "option1": "AAAAAA==",
     "showName": "新島真",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1132802",
-    "strContent": "やってみる！",
+    "strContent": "期待には応えないとね。",
     "option1": "AAAAAA==",
     "showName": "新島真",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1132803",
-    "strContent": "挑戦してみよう。",
+    "strContent": "私がやるべきみたいね。",
     "option1": "AAAAAA==",
     "showName": "新島真",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1132804",
-    "strContent": "私の力が必要かしら",
+    "strContent": "私の力が必要かしら。",
     "option1": "AAAAAA==",
     "showName": "新島真",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1132805",
-    "strContent": "いつでもいけるわ",
+    "strContent": "いつでもいけるわ。",
     "option1": "AAAAAA==",
     "showName": "新島真",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1132806",
-    "strContent": "任せてちょうだい",
+    "strContent": "任せてちょうだい。",
     "option1": "AAAAAA==",
     "showName": "新島真",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1132807",
-    "strContent": "クイーン、準備は万全よ",
+    "strContent": "速攻でやりましょ！",
     "option1": "AAAAAA==",
     "showName": "新島真",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1132808",
-    "strContent": "私がやるべきみたいね",
+    "strContent": "力づくでやるわ。",
     "option1": "AAAAAA==",
     "showName": "新島真",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1132809",
-    "strContent": "敵を一掃しましょう！",
+    "strContent": "貴方も参謀、向いてると思うわ。",
     "option1": "AAAAAA==",
     "showName": "新島真",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1132810",
-    "strContent": "俺の拳がうずいているぜ！",
+    "strContent": "やってみる！",
     "option1": "AAAAAA==",
     "showName": "新島真",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1132811",
-    "strContent": "マジかよ……",
+    "strContent": "わかった。戻るわね。",
     "option1": "AAAAAA==",
     "showName": "新島真",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1132812",
-    "strContent": "くっ",
+    "strContent": "残念ね…すぐ戻るわ。",
     "option1": "AAAAAA==",
     "showName": "新島真",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1132813",
-    "strContent": "勉強になったってのは強がりかな",
+    "strContent": "勉強になったってのは強がりかな。",
     "option1": "AAAAAA==",
     "showName": "新島真",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1132814",
-    "strContent": "ちょっと厳しいかも…",
+    "strContent": "中断？\u3000わかったわ。",
     "option1": "AAAAAA==",
     "showName": "新島真",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1132815",
-    "strContent": "私、ここで…",
+    "strContent": "了解。帰還するわ。",
     "option1": "AAAAAA==",
     "showName": "新島真",
     "option2": "AAAAAA=="
@@ -31669,7 +31725,7 @@
   },
   {
     "sn": "1132817",
-    "strContent": "この調子で頑張ろう。",
+    "strContent": "いいわね！\u3000かなりの収入だわ！",
     "option1": "AAAAAA==",
     "showName": "新島真",
     "option2": "AAAAAA=="
@@ -31683,14 +31739,14 @@
   },
   {
     "sn": "1132819",
-    "strContent": "ふう……仕事が終わったね。",
+    "strContent": "こういうのは積み重ねよね。",
     "option1": "AAAAAA==",
     "showName": "新島真",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1132820",
-    "strContent": "いい感じだね。",
+    "strContent": "はい、終わりッ！",
     "option1": "AAAAAA==",
     "showName": "新島真",
     "option2": "AAAAAA=="
@@ -31718,21 +31774,21 @@
   },
   {
     "sn": "1132901",
-    "strContent": "ハッキングタ～イム！",
+    "strContent": "にっしっし、わたしの出番だな？",
     "option1": "AAAAAA==",
     "showName": "佐倉双葉",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1132902",
-    "strContent": "お楽しみに",
+    "strContent": "期待してくれていいぞ。",
     "option1": "AAAAAA==",
     "showName": "佐倉双葉",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1132903",
-    "strContent": "にっしっし、わたしの出番だな？",
+    "strContent": "ったくもー、待ってたぞ！",
     "option1": "AAAAAA==",
     "showName": "佐倉双葉",
     "option2": "AAAAAA=="
@@ -31767,7 +31823,7 @@
   },
   {
     "sn": "1132905",
-    "strContent": "コードアップロード中…スタンバイ完了！",
+    "strContent": "最適解で頼むぞ。",
     "option1": "AAAAAA==",
     "showName": "佐倉双葉",
     "option2": "AAAAAA=="
@@ -31781,14 +31837,14 @@
   },
   {
     "sn": "1132907",
-    "strContent": "よし、行こう！",
+    "strContent": "ハッキングタ～イム！",
     "option1": "AAAAAA==",
     "showName": "佐倉双葉",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1132908",
-    "strContent": "情報戦ならお手のモンだ",
+    "strContent": "情報戦ならお手のモンだ。",
     "option1": "AAAAAA==",
     "showName": "佐倉双葉",
     "option2": "AAAAAA=="
@@ -31802,77 +31858,77 @@
   },
   {
     "sn": "1132910",
-    "strContent": "行こう。今日も頑張って働こう。",
+    "strContent": "ふっふっふ、任しとけ。",
     "option1": "AAAAAA==",
     "showName": "佐倉双葉",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1132911",
-    "strContent": "お、おお、覚えてろよ～！",
+    "strContent": "マジかー…ま、りょーかいだ。",
     "option1": "AAAAAA==",
     "showName": "佐倉双葉",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1132912",
-    "strContent": "今だ！早く逃げろ—！",
+    "strContent": "まだ途中だけどいいのか？\nんじゃ戻るなー。",
     "option1": "AAAAAA==",
     "showName": "佐倉双葉",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1132913",
-    "strContent": "ああ……",
+    "strContent": "中断かぁ…ん、了解了解。",
     "option1": "AAAAAA==",
     "showName": "佐倉双葉",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1132914",
-    "strContent": "うーん、残念。",
+    "strContent": "外に出たことだけは、褒めてもらおう！",
     "option1": "AAAAAA==",
     "showName": "佐倉双葉",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1132915",
-    "strContent": "だ、だめだ……どこにも逃げ道がない……",
+    "strContent": "んー、そっか。残念。",
     "option1": "AAAAAA==",
     "showName": "佐倉双葉",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1132916",
-    "strContent": "みんな、お疲れ様！",
+    "strContent": "ゲーム、オーバー！",
     "option1": "AAAAAA==",
     "showName": "佐倉双葉",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1132917",
-    "strContent": "満足、満足。",
+    "strContent": "おー、おつかれ。ひとシゴトしたなー。",
     "option1": "AAAAAA==",
     "showName": "佐倉双葉",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1132918",
-    "strContent": "終わったのか？終わったんだな。\nよくやった！",
+    "strContent": "このくらい余裕余裕。",
     "option1": "AAAAAA==",
     "showName": "佐倉双葉",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1132919",
-    "strContent": "お疲れ様。この調子で進んでいこう！",
+    "strContent": "なんだ、楽勝だったな！",
     "option1": "AAAAAA==",
     "showName": "佐倉双葉",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1132920",
-    "strContent": "簡単だな。お前の考えは顔に全部出てるぞ。",
+    "strContent": "みんなおつかれサンだ！",
     "option1": "AAAAAA==",
     "showName": "佐倉双葉",
     "option2": "AAAAAA=="
@@ -31893,420 +31949,420 @@
   },
   {
     "sn": "1133001",
-    "strContent": "AAAAAA==",
+    "strContent": "なるほど、俺を選ぶのか。",
     "option1": "AAAAAA==",
     "showName": "北里基良",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1133002",
-    "strContent": "AAAAAA==",
+    "strContent": "選ばれたからには、本気で取り組もう。",
     "option1": "AAAAAA==",
     "showName": "北里基良",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1133003",
-    "strContent": "AAAAAA==",
+    "strContent": "了解した。任せろ。",
     "option1": "AAAAAA==",
     "showName": "北里基良",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1133004",
-    "strContent": "AAAAAA==",
+    "strContent": "もちろん、結果は出すつもりだ。",
     "option1": "AAAAAA==",
     "showName": "北里基良",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1133005",
-    "strContent": "止めても無駄だろう…\nさっさと済ませるがいい。",
+    "strContent": "ふふ、どこでも行ってやろう。",
     "option1": "AAAAAA==",
     "showName": "北里基良",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1133006",
-    "strContent": "AAAAAA==",
+    "strContent": "実験開始。",
     "option1": "AAAAAA==",
     "showName": "北里基良",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1133007",
-    "strContent": "AAAAAA==",
+    "strContent": "成果を期待していろ。",
     "option1": "AAAAAA==",
     "showName": "北里基良",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1133008",
-    "strContent": "AAAAAA==",
+    "strContent": "出発の時間だな。",
     "option1": "AAAAAA==",
     "showName": "北里基良",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1133009",
-    "strContent": "AAAAAA==",
+    "strContent": "留守は頼んだぞ。",
     "option1": "AAAAAA==",
     "showName": "北里基良",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1133010",
-    "strContent": "AAAAAA==",
+    "strContent": "行ってくる。",
     "option1": "AAAAAA==",
     "showName": "北里基良",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1133011",
-    "strContent": "AAAAAA==",
+    "strContent": "これも実験の一部だ。",
     "option1": "AAAAAA==",
     "showName": "北里基良",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1133012",
-    "strContent": "AAAAAA==",
+    "strContent": "作業完了。",
     "option1": "AAAAAA==",
     "showName": "北里基良",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1133013",
-    "strContent": "AAAAAA==",
+    "strContent": "ここまでだな。了解した。",
     "option1": "AAAAAA==",
     "showName": "北里基良",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1133014",
-    "strContent": "AAAAAA==",
+    "strContent": "何か問題が発生したのか？",
     "option1": "AAAAAA==",
     "showName": "北里基良",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1133015",
-    "strContent": "AAAAAA==",
+    "strContent": "戻る…？\u3000何かの冗談か？",
     "option1": "AAAAAA==",
     "showName": "北里基良",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1133016",
-    "strContent": "AAAAAA==",
+    "strContent": "ハハハハハ！\u3000完了だ！",
     "option1": "AAAAAA==",
     "showName": "北里基良",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1133017",
-    "strContent": "AAAAAA==",
+    "strContent": "実験終了だな。結果を確認しろ。",
     "option1": "AAAAAA==",
     "showName": "北里基良",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1133018",
-    "strContent": "AAAAAA==",
+    "strContent": "全ては想定通りだ。",
     "option1": "AAAAAA==",
     "showName": "北里基良",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1133019",
-    "strContent": "AAAAAA==",
+    "strContent": "問題なく終了だ。",
     "option1": "AAAAAA==",
     "showName": "北里基良",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1133020",
-    "strContent": "AAAAAA==",
+    "strContent": "良い成果だった。",
     "option1": "AAAAAA==",
     "showName": "北里基良",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1133101",
-    "strContent": "AAAAAA==",
+    "strContent": "いつでも行けるよ。",
     "option1": "AAAAAA==",
     "showName": "芦谷真咲",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1133102",
-    "strContent": "AAAAAA==",
+    "strContent": "うん、キミが決めてくれたなら！",
     "option1": "AAAAAA==",
     "showName": "芦谷真咲",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1133103",
-    "strContent": "AAAAAA==",
+    "strContent": "信じてくれるキミのために…！",
     "option1": "AAAAAA==",
     "showName": "芦谷真咲",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1133104",
-    "strContent": "AAAAAA==",
+    "strContent": "この力が生かせるのなら。",
     "option1": "AAAAAA==",
     "showName": "芦谷真咲",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1133301",
-    "strContent": "お任せを。",
+    "strContent": "任せて。",
     "option1": "AAAAAA==",
     "showName": "★５の琴音",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1133302",
-    "strContent": "AAAAAA==",
+    "strContent": "準備完了よ。",
     "option1": "AAAAAA==",
     "showName": "★５の琴音",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1133303",
-    "strContent": "AAAAAA==",
+    "strContent": "全力を尽くすわね。",
     "option1": "AAAAAA==",
     "showName": "★５の琴音",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1133304",
-    "strContent": "私の出番ね。",
+    "strContent": "私の出番かしら。",
     "option1": "AAAAAA==",
     "showName": "★５の琴音",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1133305",
-    "strContent": "AAAAAA==",
+    "strContent": "貴方の期待に応えてみせる。",
     "option1": "AAAAAA==",
     "showName": "★５の琴音",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1133306",
-    "strContent": "AAAAAA==",
+    "strContent": "始めましょうか。",
     "option1": "AAAAAA==",
     "showName": "★５の琴音",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1133307",
-    "strContent": "AAAAAA==",
+    "strContent": "準備はできたわ。",
     "option1": "AAAAAA==",
     "showName": "★５の琴音",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1133308",
-    "strContent": "AAAAAA==",
+    "strContent": "貴方の期待に応えてみせる。",
     "option1": "AAAAAA==",
     "showName": "★５の琴音",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1133309",
-    "strContent": "AAAAAA==",
+    "strContent": "体を動かしたくて、うずうずしてたの。",
     "option1": "AAAAAA==",
     "showName": "★５の琴音",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1133310",
-    "strContent": "AAAAAA==",
+    "strContent": "さあ、いきましょう。",
     "option1": "AAAAAA==",
     "showName": "★５の琴音",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1133311",
-    "strContent": "そんなぁ…！",
+    "strContent": "ふふ、まだ私には余裕があるわよ。",
     "option1": "AAAAAA==",
     "showName": "★５の琴音",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1133312",
-    "strContent": "AAAAAA==",
+    "strContent": "お疲れ様。ストレッチを忘れずに。",
     "option1": "AAAAAA==",
     "showName": "★５の琴音",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1133313",
-    "strContent": "AAAAAA==",
+    "strContent": "余裕を持って終わらせましょうか。",
     "option1": "AAAAAA==",
     "showName": "★５の琴音",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1133314",
-    "strContent": "AAAAAA==",
+    "strContent": "ふう…適切な判断、ありがとう。",
     "option1": "AAAAAA==",
     "showName": "★５の琴音",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1133315",
-    "strContent": "AAAAAA==",
+    "strContent": "そろそろかなって思っていたの。",
     "option1": "AAAAAA==",
     "showName": "★５の琴音",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1133316",
-    "strContent": "メルシー！",
+    "strContent": "メルシー。",
     "option1": "AAAAAA==",
     "showName": "★５の琴音",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1133317",
-    "strContent": "まずまずの滑りだったと思うわ。",
+    "strContent": "良い成果だったんじゃないかしら？",
     "option1": "AAAAAA==",
     "showName": "★５の琴音",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1133318",
-    "strContent": "AAAAAA==",
+    "strContent": "依頼完了ね。",
     "option1": "AAAAAA==",
     "showName": "★５の琴音",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1133319",
-    "strContent": "AAAAAA==",
+    "strContent": "ふふ、いいものを手に入れたわ。",
     "option1": "AAAAAA==",
     "showName": "★５の琴音",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1133320",
-    "strContent": "AAAAAA==",
+    "strContent": "これが今回の成果ね。",
     "option1": "AAAAAA==",
     "showName": "★５の琴音",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1133105",
-    "strContent": "AAAAAA==",
+    "strContent": "ボクに任せて。",
     "option1": "AAAAAA==",
     "showName": "芦谷真咲",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1133106",
-    "strContent": "AAAAAA==",
+    "strContent": "どこかにお花が咲いてたり…しないかぁ。",
     "option1": "AAAAAA==",
     "showName": "芦谷真咲",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1133107",
-    "strContent": "AAAAAA==",
+    "strContent": "よし、行こうか。",
     "option1": "AAAAAA==",
     "showName": "芦谷真咲",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1133108",
-    "strContent": "AAAAAA==",
+    "strContent": "じゃあ、行ってくるね。",
     "option1": "AAAAAA==",
     "showName": "芦谷真咲",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1133109",
-    "strContent": "任せて。",
+    "strContent": "ちょっと緊張するなぁ。",
     "option1": "AAAAAA==",
     "showName": "芦谷真咲",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1133110",
-    "strContent": "AAAAAA==",
+    "strContent": "期待して待っててね。",
     "option1": "AAAAAA==",
     "showName": "芦谷真咲",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1133111",
-    "strContent": "キミを信じるよ。",
+    "strContent": "ふう、この辺で終わりかな。",
     "option1": "AAAAAA==",
     "showName": "芦谷真咲",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1133112",
-    "strContent": "AAAAAA==",
+    "strContent": "疲れてきてたから、助かるよ。",
     "option1": "AAAAAA==",
     "showName": "芦谷真咲",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1133113",
-    "strContent": "AAAAAA==",
+    "strContent": "了解。すぐに戻るね。",
     "option1": "AAAAAA==",
     "showName": "芦谷真咲",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1133114",
-    "strContent": "AAAAAA==",
+    "strContent": "わかった。ここまでだね。",
     "option1": "AAAAAA==",
     "showName": "芦谷真咲",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1133115",
-    "strContent": "AAAAAA==",
+    "strContent": "戦略的撤退…ってやつかな？",
     "option1": "AAAAAA==",
     "showName": "芦谷真咲",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1133116",
-    "strContent": "AAAAAA==",
+    "strContent": "ただいま。お待たせしちゃったかな？",
     "option1": "AAAAAA==",
     "showName": "芦谷真咲",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1133117",
-    "strContent": "AAAAAA==",
+    "strContent": "なんとか達成できたみたい。",
     "option1": "AAAAAA==",
     "showName": "芦谷真咲",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1133118",
-    "strContent": "AAAAAA==",
+    "strContent": "楽しい依頼だったね。次も行きたいな。",
     "option1": "AAAAAA==",
     "showName": "芦谷真咲",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1133119",
-    "strContent": "AAAAAA==",
+    "strContent": "お疲れ様！\u3000今日は休ませてもらおうかな。",
     "option1": "AAAAAA==",
     "showName": "芦谷真咲",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1133120",
-    "strContent": "AAAAAA==",
+    "strContent": "遠出するのも楽しいね。",
     "option1": "AAAAAA==",
     "showName": "芦谷真咲",
     "option2": "AAAAAA=="
@@ -32320,98 +32376,98 @@
   },
   {
     "sn": "1133202",
-    "strContent": "AAAAAA==",
+    "strContent": "美少女怪盗、推参いたします！",
     "option1": "AAAAAA==",
     "showName": "奥村春",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1133203",
-    "strContent": "AAAAAA==",
+    "strContent": "うん、いつでもいけるよ。",
     "option1": "AAAAAA==",
     "showName": "奥村春",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1133204",
-    "strContent": "AAAAAA==",
+    "strContent": "ノワール、出ます！",
     "option1": "AAAAAA==",
     "showName": "奥村春",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1133205",
-    "strContent": "AAAAAA==",
+    "strContent": "全力でいきます！",
     "option1": "AAAAAA==",
     "showName": "奥村春",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1133206",
-    "strContent": "AAAAAA==",
+    "strContent": "全力で行こう！",
     "option1": "AAAAAA==",
     "showName": "奥村春",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1133207",
-    "strContent": "AAAAAA==",
+    "strContent": "みんな、頑張ろう！",
     "option1": "AAAAAA==",
     "showName": "奥村春",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1133208",
-    "strContent": "さぁ、行きましょう！今日も頑張ろうね。",
+    "strContent": "さぁ、行きましょう！\u3000今日も頑張ろうね。",
     "option1": "AAAAAA==",
     "showName": "奥村春",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1133209",
-    "strContent": "AAAAAA==",
+    "strContent": "気になることがあったら、何でも言ってね！",
     "option1": "AAAAAA==",
     "showName": "奥村春",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1133210",
-    "strContent": "AAAAAA==",
+    "strContent": "一緒に頑張りましょう！",
     "option1": "AAAAAA==",
     "showName": "奥村春",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1133211",
-    "strContent": "みんな疲れてるみたい…少しお茶にしない？",
+    "strContent": "次こそは期待しててね。",
     "option1": "AAAAAA==",
     "showName": "奥村春",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1133212",
-    "strContent": "す、少し疲れちゃって…",
+    "strContent": "そっか…残念だけど仕方ないね。",
     "option1": "AAAAAA==",
     "showName": "奥村春",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1133213",
-    "strContent": "まぁ！\u3000なんてこと！",
+    "strContent": "お土産を買う時間は…なさそうかな。",
     "option1": "AAAAAA==",
     "showName": "奥村春",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1133214",
-    "strContent": "私たちも、まだまだなのかな…",
+    "strContent": "了解です。とりあえず、お疲れ様。",
     "option1": "AAAAAA==",
     "showName": "奥村春",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1133215",
-    "strContent": "ごめん…",
+    "strContent": "少し早いけど、戻るね。",
     "option1": "AAAAAA==",
     "showName": "奥村春",
     "option2": "AAAAAA=="
@@ -32446,7 +32502,7 @@
   },
   {
     "sn": "1133220",
-    "strContent": "では、ごきげんよう。",
+    "strContent": "もっともっと力強く…ふふふっ。",
     "option1": "AAAAAA==",
     "showName": "奥村春",
     "option2": "AAAAAA=="
@@ -32508,6 +32564,13 @@
     "option2": "AAAAAA=="
   },
   {
+    "sn": "1212013",
+    "strContent": "ミッション『ビーチｄｅイセカイ！』を進めてください。",
+    "option1": "AAAAAA==",
+    "showName": "AAAAAA==",
+    "option2": "AAAAAA=="
+  },
+  {
     "sn": "1016004",
     "strContent": "AAAAAA==",
     "option1": "AAAAAA==",
@@ -32526,13 +32589,6 @@
     "strContent": "AAAAAA==",
     "option1": "AAAAAA==",
     "showName": "椎名悠美",
-    "option2": "AAAAAA=="
-  },
-  {
-    "sn": "1132607",
-    "strContent": "AAAAAA==",
-    "option1": "AAAAAA==",
-    "showName": "高巻杏",
     "option2": "AAAAAA=="
   }
 ]

@@ -50,7 +50,7 @@
   {
     "sn": "1032",
     "testThiefInfo1": "<color=#FFFC40>全体攻撃</color>が得意。『<color=#FFFC40>真夏のテンション</color>』状態になると<color=#FFFC40>ダメージ上昇</color>と<color=#FFFC40>クリティカル率上昇</color>を獲得し、スキルを強化できる。",
-    "testThiefInfo2": "<color=#FFFC40>回復</color>を受けると、スキルの<color=#FFFC40>クールタイム</color>が短縮され、自身の発揮する能力が大幅に向上する。",
+    "testThiefInfo2": "<color=#FFFC40>回復</color>を受けると、自身の発揮する能力が大幅に向上する。",
     "testThiefInfo3": "ＨＰの上昇と同時に攻撃力も上昇できる。生存能力を高めながら、自身の攻撃力も強化できる。"
   },
   {
@@ -62,7 +62,7 @@
   {
     "sn": "1111",
     "testThiefInfo1": "<color=#FFFC40>単体攻撃</color>が得意。味方の攻撃スキル発動に併せて、<color=#FFFC40>追撃スキル</color>で攻撃することができる。",
-    "testThiefInfo2": "味方１名を選んで『<color=#FFFC40>お友達</color>』にすることができる。ＹＵＩがハイライトを発動するか、『お友達』を選択すると、より強力な追撃を繰り出すことができる。",
+    "testThiefInfo2": "ＹＵＩがサプライズプレゼントを発動すると、味方１名を選んで『<color=#FFFC40>お友達</color>』にすることができる。『お友達』状態の味方がスキルでダメージを与えた時、より強力な追撃を繰り出すことができる。",
     "testThiefInfo3": "<color=#FFFC40>感電</color>状態にある敵に対しては追撃のダメージが上昇する。"
   },
   {
@@ -73,21 +73,21 @@
   },
   {
     "sn": "1171",
-    "testThiefInfo1": "tdxct-[ActivityTestThief_testThiefInfo1_1171]<color=#FFFC40>敵全体を弱体化</color>することが得意。敵全体に『<color=#FFFC40>撹乱ウイルス</color>』を付与することで<color=#FFFC40>属性相性</color>を操作できる。",
+    "testThiefInfo1": "<color=#FFFC40>敵全体を弱体化</color>することが得意。敵全体に『<color=#FFFC40>ウイルス</color>』を付与し<color=#FFFC40>属性相性</color>を変化させる。",
     "testThiefInfo2": "tdxct-[ActivityTestThief_testThiefInfo2_1171]敵に<color=#FFFC40>防御力低下</color>や<color=#FFFC40>被ダメージ上昇</color>の弱体状態を付与できる。また敵に<color=#FFFC40>弱点ダメージ</color>を与えた時は、追加の弱体効果を付与する。",
-    "testThiefInfo3": "tdxct-[ActivityTestThief_testThiefInfo3_1171]戦闘中に『手がかり』を収集して『決着の完成』を発動すると、味方全体の<color=#FFFC40>与ダメージが上昇</color>し、<color=#FFFC40>シールド</color>を付与することができる。"
+    "testThiefInfo3": "戦闘中、双葉は『解析進捗』を蓄積し、『データ掌握』を発動することで、味方全員の<color=#FFFC40>与ダメージを増加</color>し、さらに<color=#FFFC40>シールドを付与</color>する。"
   },
   {
     "sn": "1331",
-    "testThiefInfo1": "tdxct-[ActivityTestThief_testThiefInfo1_1331]<color=#FFFC40>味方の防御力を向上</color>することが得意。味方に<color=#FFFC40>シールド</color>と<color=#FFFC40>防御力上昇</color>を付与し、味方の生存能力を向上できる。",
-    "testThiefInfo2": "tdxct-[ActivityTestThief_testThiefInfo2_1331]戦闘中に『正直の聖印』を使って味方の<color=#FFFC40>ダメージを防ぐ</color>ことで『英勇』を集め、『公正の宣言』を発動できる。",
-    "testThiefInfo3": "tdxct-[ActivityTestThief_testThiefInfo3_1331]『公正宣言』を発動すると、<color=#FFFC40>スキルを強化</color>し、味方の<color=#FFFC40>攻撃力または生存能力</color>がさらに向上する。"
+    "testThiefInfo1": "<color=#FFFC40>味方の防御力を強化</color>することが得意。味方に<color=#FFFC40>シールド</color>と<color=#FFFC40>防御力上昇</color>を付与し、味方の生存能力を高めることができる。",
+    "testThiefInfo2": "戦闘中に『正直の聖印』を使って味方の<color=#FFFC40>ダメージを防ぐ</color>ことで『英勇』を集め、『公正の宣言』を発動できる。",
+    "testThiefInfo3": "『公正宣言』を発動すると、<color=#FFFC40>スキルが強化</color>され、味方の<color=#FFFC40>攻撃力、生存能力</color>を強化することができる。"
   },
   {
     "sn": "1251",
-    "testThiefInfo1": "tdxct-[ActivityTestThief_testThiefInfo1_1251]<color=#FFFC40>全体攻撃</color>が得意。特定のスキルを発動して一定数の『改装』を獲得し、遠隔攻撃を通じて<color=#FFFC40>強力な念動属性</color>のダメージを与えることができる。",
-    "testThiefInfo2": "tdxct-[ActivityTestThief_testThiefInfo2_1251]発動したスキルごとに異なる効果の『改装』を獲得する。『改装』はそれぞれの方法で<color=#FFFC40>遠隔攻撃を強化</color>する。",
-    "testThiefInfo3": "tdxct-[ActivityTestThief_testThiefInfo3_1251]状態異常命中が上昇することで、<color=#FFFC40>攻撃力</color>や<color=#FFFC40>クリティカルダメージ</color>を上昇できるだけでなく、自身の『照準』効果の<color=#FFFC40>命中率</color>も上昇できる。"
+    "testThiefInfo1": "<color=#FFFC40>全体攻撃</color>が得意。特定のスキルを使用して『想いの弾丸』を獲得し、遠隔攻撃を通じて<color=#FFFC40>強力な念動属性ダメージ</color>を与えることができる。",
+    "testThiefInfo2": "特定のスキルを使用すると、対応する『想いの弾丸』を獲得する。各『想いの弾丸』は遠隔攻撃に<color=#FFFC40>固有の追加効果を付与</color>する。",
+    "testThiefInfo3": "状態異常命中が上昇することで、<color=#FFFC40>攻撃力</color>や<color=#FFFC40>クリティカルダメージ</color>を上昇できるだけでなく、自身の『照準』効果の<color=#FFFC40>命中率</color>も上昇できる。"
   },
   {
     "sn": "1212",

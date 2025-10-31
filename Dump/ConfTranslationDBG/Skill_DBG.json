@@ -3482,7 +3482,7 @@
   {
     "sn": "129141",
     "name": "*[Skill_name_129141]*",
-    "desc": "*[skill_desc_129141]*|*[skill_desc_129141]*|*[skill_desc_129141]*|*[skill_desc_129141]*",
+    "desc": "*[skill_desc_129141]*|*[skill_desc_129141]*|*[skill_desc_129141]*|*[skill_desc_129141]*|*[skill_desc_129141]*",
     "descSimple": "AAAAAA==",
     "levelUpList": "AAAAAA==",
     "levelUpValue": "AAAAAA==",
@@ -5492,8 +5492,8 @@
   {
     "sn": "103240",
     "name": "*[Skill_name_103240]*",
-    "desc": "*[Skill_desc_103240]*",
-    "descSimple": "*[Skill_descSimple_103240]*",
+    "desc": "*[skill_desc_103240]*|*[skill_desc_103240]*",
+    "descSimple": "*[skill_descsimple_103240]*|*[skill_descsimple_103240]*",
     "levelUpList": "AAAAAA==",
     "levelUpValue": "AAAAAA==",
     "contentBG": "AAAAAA==",
@@ -5502,7 +5502,7 @@
   {
     "sn": "103241",
     "name": "*[Skill_name_103241]*",
-    "desc": "<link=\"s|*[skill_desc_103241]*",
+    "desc": "<link=\"s|*[skill_desc_103241]*|*[skill_desc_103241]*",
     "descSimple": "AAAAAA==",
     "levelUpList": "AAAAAA==",
     "levelUpValue": "AAAAAA==",
@@ -5552,7 +5552,7 @@
   {
     "sn": "103246",
     "name": "*[Skill_name_103246]*",
-    "desc": "<link=\"s|*[skill_desc_103246]*",
+    "desc": "*[skill_desc_103246]*|*[skill_desc_103246]*",
     "descSimple": "AAAAAA==",
     "levelUpList": "AAAAAA==",
     "levelUpValue": "AAAAAA==",
@@ -5782,7 +5782,7 @@
   {
     "sn": "110242",
     "name": "*[Skill_name_110242]*",
-    "desc": "*[skill_desc_110242]*|*[skill_desc_110242]*|*[skill_desc_110242]*",
+    "desc": "*[skill_desc_110242]*|*[skill_desc_110242]*|*[skill_desc_110242]*|*[skill_desc_110242]*",
     "descSimple": "AAAAAA==",
     "levelUpList": "AAAAAA==",
     "levelUpValue": "AAAAAA==",
@@ -32008,6 +32008,26 @@
     "levelUpValue": "AAAAAA==",
     "contentBG": "AAAAAA==",
     "skillTag": "AAAAAA=="
+  },
+  {
+    "sn": "2848",
+    "name": "*[Skill_name_2848]*",
+    "desc": "*[skill_desc_2848]*|*[skill_desc_2848]*",
+    "descSimple": "*[Skill_descSimple_2848]*",
+    "levelUpList": "*[skill_leveluplist_2848]*",
+    "levelUpValue": "AAAAAA==",
+    "contentBG": "AAAAAA==",
+    "skillTag": "*[skill_skilltag_2848]*,*[skill_skilltag_2848]*"
+  },
+  {
+    "sn": "2849",
+    "name": "*[Skill_name_2849]*",
+    "desc": "AAAAAA==",
+    "descSimple": "AAAAAA==",
+    "levelUpList": "AAAAAA==",
+    "levelUpValue": "AAAAAA==",
+    "contentBG": "AAAAAA==",
+    "skillTag": "*[skill_skilltag_2849]*,*[skill_skilltag_2849]*"
   },
   {
     "sn": "3002",
