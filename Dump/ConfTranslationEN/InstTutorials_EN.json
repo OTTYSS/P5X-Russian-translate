@@ -357,7 +357,7 @@
   {
     "sn": "502111",
     "title": "Special Effect",
-    "text": "1. At the start of battle, Oberon and Titania each gain 5 Fairy Power, decreasing damage taken by 4% per stack.\n2. Each time Oberon or Titania is defeated, the other will spend 1 Fairy Power to summon them again.\n3. When their Fairy Power is depleted, Oberon and Titania will be weakened, greatly increasing their damage taken.\nLasts for 2 turns, after which they regain 5 Fairy Power."
+    "text": "1. At the start of battle, Oberon and Titania each gain 5 Fairy Power stacks, decreasing damage taken by 4% per stack.\n2. Each time Oberon or Titania is defeated, the other will spend 1 Fairy Power stack to summon them again.\n3. When their Fairy Power is depleted, Oberon and Titania will be weakened, greatly increasing their damage taken.\nLasts for 2 turns, after which they regain 5 Fairy Power stacks."
   },
   {
     "sn": "503101",
@@ -372,7 +372,7 @@
   {
     "sn": "504011",
     "title": "Special Effect",
-    "text": "Each turn, the Four Heavenly Kings will focus their Death Stare on 1 Phantom Thief.\nThey will prioritize attacking the Phantom Thief under the Death Stare.\nBy using Taunt skills, a Phantom Thief can transfer the Death Stare to themselves."
+    "text": "Shadows have different weaknesses and resistances than normal.\nEach turn, Shadows will focus their Death Stare on 1 Phantom Thief.\nThey will prioritize attacking the Phantom Thief under the Death Stare.\nBy using Taunt skills, a Phantom Thief can transfer the Death Stare to themselves."
   },
   {
     "sn": "504111",
@@ -417,7 +417,7 @@
   {
     "sn": "512101",
     "title": "Special Effect",
-    "text": "Titania's weaknesses and resistances are different than normal.\n1. Each turn, Titania gains 2 Fairy Power.\n2. Titania loses 1 Fairy Power each time she takes a Physical attack.\n3. Before the start of her turn, Titania spends all of its' Fairy Power to activate Fairy Curse, decreasing all Phantom Thieves' final damage dealt equal to the number of Fairy Power stacks spent x 15%."
+    "text": "Titania's weaknesses and resistances are different than normal.\n1. At the end of each turn, Titania gains 2 Fairy Power stacks.\n2. Titania loses 1 Fairy Power stack each time it takes a Physical attack.\n3. Before the start of Titania's turn, it spends all of its Fairy Power stacks to activate Fairy Curse, decreasing all Phantom Thieves' final damage by the number of Fairy Power stacks spent × 15%."
   },
   {
     "sn": "512111",
@@ -432,7 +432,7 @@
   {
     "sn": "514101",
     "title": "Special Effect",
-    "text": "Each turn the Four Heavenly Kings will focus their Death Stare on 1 random Phantom Thief.\nThey will prioritize attacking the Phantom Thief under the Death Stare."
+    "text": "Each turn, Shadows will focus their Death Stare on 1 random Phantom Thief.\nThey will prioritize attacking the Phantom Thief under the Death Stare."
   },
   {
     "sn": "515101",
@@ -1107,7 +1107,7 @@
   {
     "sn": "736611",
     "title": "Unique Shadow Abilities",
-    "text": "1. Yatsufusa will activate <color=#FF423F>Eight Beads of Virtue</color>.\nEight Beads of Virtue: All affinities change to Resist, damage dealt increases, and damage taken decreases.\nIt also summons 4 Shadows.\nWhen a Shadow is defeated, Yatsufusa is inflicted with the corresponding elemental ailment for 2 turns.\nSummoned Shadows have different weaknesses and resistances than normal.\n2. When Yatsufusa is in the Eight Beads of Virtue state and is inflicted with all 4 types of elemental ailments, the Eight Beads of Virtue state is canceled and its Defense decreases.\n3. When Yatsufusa is Weakened, all Shadows vanish, and the Eight Beads of Virtue state is canceled."
+    "text": "1. Yatsufusa will activate <color=#FF423F>Eight Beads of Virtue</color>.\nEight Beads of Virtue: All affinities change to Resist, damage dealt increases, and damage taken decreases.\nIt also summons 4 Shadows.\nWhen a Shadow is defeated, Yatsufusa is inflicted with the corresponding elemental ailment for 2 turns.\nSummoned Shadows have different weaknesses and resistances than normal.\n2. When Yatsufusa is in the Eight Beads of Virtue state and is inflicted with all 4 types of elemental ailments, the Eight Beads of Virtue state is canceled and its Defense decreases."
   },
   {
     "sn": "737111",
@@ -1177,7 +1177,7 @@
   {
     "sn": "829021",
     "title": "Unique Shadow Abilities",
-    "text": "1. At the end of each turn, Hell Biker will inflict <color=#FF423F>Hellscorched</color> on a random Phantom Thief.\nHellscorched: Lose a large amount of HP at the end of each turn.\nCan be removed after taking <color=#FF423F>Ice</color> damage.\nStacks up to 3 times.\n2. Jack Frost will not attack unprovoked and cannot be defeated.\nWhen damaged, he will immediately use <color=#FF423F>Bufu</color> on the attacker, dealing a small amount of <color=#FF423F>Ice</color> damage."
+    "text": "1. At the end of each turn, Hell Biker will inflict <color=#FF423F>Hellscorched</color> on a random Phantom Thief.\n<color=#FF423F>Hellscorched</color>: Lose a large amount of HP at the end of each turn.\nCan be removed after taking Ice damage.\nStacks up to 3 times.\n2. Jack Frost will not attack unprovoked, but when defeated, he will immediately deal a small amount of Ice damage to all Phantom Thieves."
   },
   {
     "sn": "829031",
@@ -1227,7 +1227,7 @@
   {
     "sn": "901311",
     "title": "Wraith of Envy",
-    "text": "The Wraith of Envy and its eyes share a <color=#FF423F>Soul Link</color>.\nSoul Link: Distributes all damage received between all Shadows who share this condition, based on the percentage of their current HP.\nEach turn, the Wraith of Envy will lock on to 1 Phantom Thief, and deal heavy damage to that Phantom Thief on the next turn."
+    "text": "The Wraith of Envy and its eyes are in the <color=#FF423F>Soul Link</color> state.\nSoul Link: Distributes all damage received between all Shadows who share this condition, based on the percentage of their current HP.\nEach turn, the Wraith of Envy will lock on to 1 Phantom Thief, and deal heavy damage to that Phantom Thief on the next turn."
   },
   {
     "sn": "901411",
@@ -1311,7 +1311,7 @@
   },
   {
     "sn": "920411",
-    "title": "Makoto Nijima's Skills",
+    "title": "Makoto Niijima's Skills",
     "text": "1. Makoto specializes in <color=#FF423F>single-target attacks</color>.\nShe can deal extra damage to foes with <color=#FF423F>elemental ailments</color>.\n2. When certain conditions are met during battle, she can enter the <color=#FF423F>Crash Out</color> state. Her skills will be enhanced, greatly increasing her Attack and survivability.\n3. She is able to <color=#FF423F>heal allies</color> while strengthening herself, allowing her to turn the tide of combat."
   },
   {
@@ -1407,7 +1407,7 @@
   {
     "sn": "829071",
     "title": "Unique Shadow Abilities",
-    "text": "Shadows have different weaknesses and resistances than normal.\n1. Pazuzu's skills can inflict <color=#FF423F>Plague Curse</color>.\nPlague Curse: Deals damage equal to 5% of HP at the end of the turn.\n2. Pazuzu uses <color=#FF423F>Spreading Sickness</color> every other turn.\nSpreading Sickness: Inflicts 2 Plague Curse stacks on all Phantom Thieves, with a high chance of inflicting spiritual ailments.\n3. Pazuzu uses <color=#FF423F>Eternal Binding</color> every other turn.\nEternal Binding: Inflicts 2 Plague Curse stacks on all Phantom Thieves and Plague Curse is activated.\n4. When Pale Rider attacks, it inflicts 1 Plague Curse stack on Shadows.\nWhile Pale Rider is present, Pazuzu's final damage taken is reduced by 30%.\n5. When Sudama is defeated, all Phantom Thieves' ailment resistance is increased.\nThis effect lasts for 2 turns."
+    "text": "1. Pazuzu's skills can inflict <color=#FF423F>Plague Curse</color>.\nPlague Curse: Deals damage equal to 5% of HP at the end of the turn.\n2. Pazuzu uses <color=#FF423F>Spreading Sickness</color> every other turn.\nSpreading Sickness: Inflicts 2 Plague Curse stacks on all Phantom Thieves, with a high chance of inflicting spiritual ailments.\n3. Pazuzu uses <color=#FF423F>Eternal Binding</color> every other turn.\nEternal Binding: Inflicts 2 Plague Curse stacks on all Phantom Thieves and Plague Curse is immediately activated.\n4. When Pale Rider attacks, it inflicts 1 Plague Curse stack on foes.\nWhile Pale Rider is present, Pazuzu's final damage taken is reduced by 30%.\n5. When Sudama is defeated, all Phantom Thieves' ailment resistance is increased.\nLasts for 2 turns."
   },
   {
     "sn": "829081",
@@ -1452,12 +1452,12 @@
   {
     "sn": "914501",
     "title": "Moha",
-    "text": "1. After acting each turn, if Moha has taken damage during that turn, its <color=#FF423F>Wrath</color> increases by 4.\nIf it has not taken damage during the turn, its Wrath decreases by 1.\n2. If Moha's Wrath reaches 12 by the end of the turn, it will spend all Wrath to use <color=#FF423F>Rapid Ascent</color>, and on the next turn, uses <color=#FF423F>Sphinx Dive</color> to deal heavy Physical damage to all Phantom Thieves.\n3. When Moha is on the field, the Phantom Thieves gain a small amount of Ballista Energy at the end of each turn.\n4. When the Phantom Thieves deal weakness damage to Moha, they gain a large amount of <color=#FF423F>Ballista Energy</color>. This can be done only once per turn.\n5. When the Phantom Thieves have 100 Ballista Energy at the start of the turn, they will spend 100 Ballista Energy to attack Moha with a <color=#FF423F>Ballista Shot</color>, putting it in a Weakened state and causing it to lose all Wrath."
+    "text": "1. When Moha's HP reaches 0 and it becomes Wrathful Moha, it gains 8 <color=#FF423F>Wrath</color> stacks.\n2. After acting each turn, if Wrathful Moha has taken damage during that turn, its Wrath increases by 4.\nIf it has not taken damage during the turn, its Wrath decreases by 1.\n3. If Wrathful Moha has 12 Wrath stacks at the end of its turn, it will spend all Wrath to activate <color=#FF423F>Rapid Ascent</color>, and on the next turn, use <color=#FF423F>Sphinxian Dive</color> to deal heavy Physical damage to all Phantom Thieves.\n4. When Wrathful Moha is in battle, the Phantom Thieves gain a small amount of <color=#FF423F>Ballista Energy</color> at the end of each turn.\n5. When the Phantom Thieves deal weakness damage to Wrathful Moha, they gain a large amount of Ballista Energy.\nThis can only be activated once per turn.\n6. When the Phantom Thieves have 100 Ballista Energy at the start of their turn, they will spend 100 Ballista Energy to attack Wrathful Moha with a <color=#FF423F>Ballista Shot</color>, putting it in a Weakened state and causing it to lose all Wrath."
   },
   {
     "sn": "921211",
     "title": "Futaba's Skills",
-    "text": "1. Futaba specializes in <color=#FFFC40>multi-target debuff skills</color>.\nShe can inflict <color=#FFFC40>Virus</color> on all foes to manipulate their affinities.\n2. She can inflict debuffs that decrease foes' Defense and increase their damage taken.\nShe can also inflict additional debuffs when dealing weakness damage to foes.\n3. During battle, she can collect <color=#FFFC40>Clues</color> to activate <color=#FFFC40>Analysis Progress</color>, increasing damage for all her allies and granting them a <color=#FFFC40>shield</color>."
+    "text": "1. Futaba specializes in <color=#FF423F>multi-target debuff skills</color>.\nShe can inflict <color=#FF423F>Virus</color> on all foes to manipulate their affinities.\n2. She can inflict debuffs that decrease foes' Defense and increase their damage taken.\nShe can also inflict additional debuffs when dealing weakness damage to foes.\n3. During battle, Futaba gains <color=#FF423F>Analysis Progress</color> and can activate <color=#FF423F>Data Storm</color>, increasing damage for all her allies and granting them a <color=#FF423F>shield</color>."
   },
   {
     "sn": "921311",

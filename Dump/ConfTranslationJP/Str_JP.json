@@ -1463,6 +1463,13 @@
     "option2": "やめておく"
   },
   {
+    "sn": "11642",
+    "strContent": "敵が遠くて攻撃できません。",
+    "option1": "AAAAAA==",
+    "showName": "AAAAAA==",
+    "option2": "AAAAAA=="
+  },
+  {
     "sn": "11800",
     "strContent": "本日の購入上限に達しました。",
     "option1": "AAAAAA==",
@@ -5286,7 +5293,7 @@
   },
   {
     "sn": "1000138",
-    "strContent": "<color=#FF423F>強化で超過した経験値は武器強化素材に変換されます。</color>\n強化しますか？",
+    "strContent": "<color=#FF423F>強化で超過した経験値は強化素材に変換されます。</color>\n強化しますか？",
     "option1": "確認",
     "showName": "AAAAAA==",
     "option2": "やめておく"
@@ -5615,7 +5622,7 @@
   },
   {
     "sn": "1000321",
-    "strContent": "『{0}』×{1}を消費して、日常服{2}を購入しますか？",
+    "strContent": "『{0}』×{1}を消費して、普段着{2}を購入しますか？",
     "option1": "確認",
     "showName": "AAAAAA==",
     "option2": "やめておく"
@@ -5629,7 +5636,7 @@
   },
   {
     "sn": "1000323",
-    "strContent": "日常服{0}がアンロックされました。",
+    "strContent": "普段着{0}がアンロックされました。",
     "option1": "AAAAAA==",
     "showName": "AAAAAA==",
     "option2": "AAAAAA=="
@@ -8653,7 +8660,7 @@
   },
   {
     "sn": "1000211",
-    "strContent": "ああ、攻撃目標を失った。\nみんな、敵の動きを注意して！",
+    "strContent": "あの高さじゃ攻撃は届かない…\nここは守りを固めるぞ！",
     "option1": "AAAAAA==",
     "showName": "佐<#000000,倉,#FFFFFF> 双葉",
     "option2": "AAAAAA=="
@@ -9990,8 +9997,8 @@
   },
   {
     "sn": "1019065",
-    "strContent": "アンダーソンとトレーニングをするのか？",
-    "option1": "トレーニングする",
+    "strContent": "アンダーソンと一緒に過ごすのか？",
+    "option1": "アンダーソンと過ごす",
     "showName": "ル<#000000,フ,#FFFFFF>ェル",
     "option2": "また後にしよう"
   },
@@ -10257,9 +10264,9 @@
   {
     "sn": "1019217",
     "strContent": "芦谷と一緒に過ごすのか？",
-    "option1": "分かった",
-    "showName": "AAAAAA==",
-    "option2": "時間の都合がよくない…"
+    "option1": "芦谷と過ごす",
+    "showName": "ル<#000000,フ,#FFFFFF>ェル",
+    "option2": "他の予定が…"
   },
   {
     "sn": "1020101",
@@ -10361,7 +10368,7 @@
   },
   {
     "sn": "1019212",
-    "strContent": "今日は海夕と一緒にいよう…",
+    "strContent": "今日は海夕と過ごそうか…",
     "option1": "じゃあ一緒に行くよ",
     "showName": "AAAAAA==",
     "option2": "今は少し難しい…"
@@ -10389,17 +10396,17 @@
   },
   {
     "sn": "1019218",
-    "strContent": "コイツと過ごすのか？",
-    "option1": "特に何もない",
+    "strContent": "芦谷と過ごすのか？",
+    "option1": "芦谷と過ごす",
     "showName": "ル<#000000,フ,#FFFFFF>ェル",
-    "option2": "今は少し忙しい"
+    "option2": "他の予定が…"
   },
   {
     "sn": "1019219",
-    "strContent": "コイツと過ごすのか？",
-    "option1": "そのつもりだ",
+    "strContent": "芦谷と過ごすのか？",
+    "option1": "芦谷と過ごす",
     "showName": "ル<#000000,フ,#FFFFFF>ェル",
-    "option2": "他にやることがある"
+    "option2": "他の予定が…"
   },
   {
     "sn": "1019182",
@@ -14126,6 +14133,13 @@
     "option2": "AAAAAA=="
   },
   {
+    "sn": "1047249",
+    "strContent": "ストーリー体験に影響を与えるため、ピラミッド編４－１０をクリアした後に挑戦することを推奨しますが、すぐに開始しますか？",
+    "option1": "決定",
+    "showName": "ル<#000000,フ,#FFFFFF>ェル",
+    "option2": "やめておく"
+  },
+  {
     "sn": "1051001",
     "strContent": "直接移動できません。",
     "option1": "AAAAAA==",
@@ -14282,7 +14296,7 @@
   {
     "sn": "1051023",
     "strContent": "今の時間はできません。\n<color=#FFC000>%s</color>の<color=#FFC000>%s</color>の<color=#FFC000>%s</color>まで待って進めますか？",
-    "option1": "決定",
+    "option1": "わかった",
     "showName": "ル<#000000,フ,#FFFFFF>ェル",
     "option2": "やめておく"
   },
@@ -14310,7 +14324,7 @@
   {
     "sn": "1051027",
     "strContent": "現在雨が降っています。<color=#ffc000>晴れ</color>になるまで待ちましょう。",
-    "option1": "わかった",
+    "option1": "決定",
     "showName": "AAAAAA==",
     "option2": "やめておく"
   },
@@ -19635,6 +19649,13 @@
     "option2": "AAAAAA=="
   },
   {
+    "sn": "1064150",
+    "strContent": "以下が開放されました。\n『<color=#FF423F>１階 東南通路</color>』のショートカット。",
+    "option1": "AAAAAA==",
+    "showName": "AAAAAA==",
+    "option2": "AAAAAA=="
+  },
+  {
     "sn": "1089004",
     "strContent": "あそこで休憩できるよ！",
     "option1": "AAAAAA==",
@@ -23661,7 +23682,7 @@
   },
   {
     "sn": "1157286",
-    "strContent": "警告！\u3000警告！\u3000侵入者発見！",
+    "strContent": "警告！\u3000警告！\n侵入者発見！",
     "option1": "AAAAAA==",
     "showName": "AAAAAA==",
     "option2": "AAAAAA=="
@@ -24067,7 +24088,7 @@
   },
   {
     "sn": "1157344",
-    "strContent": "てんばつ…\u3000てきめん…",
+    "strContent": "侵入者に災いあれ！",
     "option1": "AAAAAA==",
     "showName": "AAAAAA==",
     "option2": "AAAAAA=="
@@ -25047,7 +25068,7 @@
   },
   {
     "sn": "1202041",
-    "strContent": "こいつはレア！？\n逃がすなよ？",
+    "strContent": "こいつレア！？\n逃がすなよ？",
     "option1": "AAAAAA==",
     "showName": "AAAAAA==",
     "option2": "AAAAAA=="
@@ -25229,7 +25250,7 @@
   },
   {
     "sn": "1202231",
-    "strContent": "AAAAAA==",
+    "strContent": "ったくもー、待ってたぞ！",
     "option1": "AAAAAA==",
     "showName": "AAAAAA==",
     "option2": "AAAAAA=="
@@ -25376,56 +25397,56 @@
   },
   {
     "sn": "1202232",
-    "strContent": "AAAAAA==",
+    "strContent": "戦線に復帰！\n仕返しの時間だぞー！",
     "option1": "AAAAAA==",
     "showName": "AAAAAA==",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1202233",
-    "strContent": "AAAAAA==",
+    "strContent": "コンティニュー成功？\nにひひひ、やっちゃお～う！",
     "option1": "AAAAAA==",
     "showName": "AAAAAA==",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1202174",
-    "strContent": "AAAAAA==",
+    "strContent": "ゲーム、オーバー！",
     "option1": "AAAAAA==",
     "showName": "AAAAAA==",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1202175",
-    "strContent": "AAAAAA==",
+    "strContent": "なんだ、楽勝だったな！",
     "option1": "AAAAAA==",
     "showName": "AAAAAA==",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1202312",
-    "strContent": "AAAAAA==",
+    "strContent": "ワンダー！\u3000無事で良かった！",
     "option1": "AAAAAA==",
     "showName": "AAAAAA==",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1202313",
-    "strContent": "AAAAAA==",
+    "strContent": "ワンダー、しっかりしろ！",
     "option1": "AAAAAA==",
     "showName": "AAAAAA==",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1202314",
-    "strContent": "AAAAAA==",
+    "strContent": "しまった、ワンダーがダウンしてる！\nサポート急いで！",
     "option1": "AAAAAA==",
     "showName": "AAAAAA==",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1202315",
-    "strContent": "AAAAAA==",
+    "strContent": "ワンダー！？\nヤバいぞ、みんなで何とかしないと！",
     "option1": "AAAAAA==",
     "showName": "AAAAAA==",
     "option2": "AAAAAA=="
@@ -26391,7 +26412,7 @@
   },
   {
     "sn": "1206051",
-    "strContent": "都市生活『<color=#ffc000>陽菜と探検する</color>』\nが解放されました。\n毎日一定の確率で発生します。",
+    "strContent": "都市生活『<color=#ffc000>西森陽菜探検隊</color>』\nが解放されました。\n毎日一定の確率で発生します。",
     "option1": "AAAAAA==",
     "showName": "AAAAAA==",
     "option2": "AAAAAA=="

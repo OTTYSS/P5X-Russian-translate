@@ -2,7 +2,7 @@
   {
     "sn": "1171029",
     "title": "解析進捗",
-    "desc": "tdxct-[SkillBuff_desc_1171029]現在の解析進捗は%s",
+    "desc": "現在の解析進捗は%s",
     "BuffDesc": "AAAAAA==",
     "addText": "AAAAAA==",
     "removeText": "AAAAAA==",
@@ -11,7 +11,7 @@
   {
     "sn": "1171112",
     "title": "セキュリティバイバイ",
-    "desc": "tdxct-[SkillBuff_desc_1171112]弱点ダメージを受けると防御力が低下",
+    "desc": "弱点ダメージを受ける時、防御力低下効果が増加",
     "BuffDesc": "セ<color=#000000>キ</color>ュリティバイバイ",
     "addText": "AAAAAA==",
     "removeText": "AAAAAA==",
@@ -20,7 +20,7 @@
   {
     "sn": "1171085",
     "title": "ウィザード級ハッカー",
-    "desc": "tdxct-[SkillBuff_desc_1171085]弱点ダメージ%s上昇",
+    "desc": "弱点ダメージ%s上昇",
     "BuffDesc": "ウ<color=#000000>ィ</color>ザード級ハッカー",
     "addText": "AAAAAA==",
     "removeText": "AAAAAA==",
@@ -28,8 +28,8 @@
   },
   {
     "sn": "1171031",
-    "title": "データ掌握",
-    "desc": "tdxct-[SkillBuff_desc_1171031]クリティカル率%s上昇",
+    "title": "ペイロード実行",
+    "desc": "クリティカル率%s上昇",
     "BuffDesc": "AAAAAA==",
     "addText": "AAAAAA==",
     "removeText": "AAAAAA==",
@@ -38,7 +38,7 @@
   {
     "sn": "1171123",
     "title": "ウイルス",
-    "desc": "tdxct-[SkillBuff_desc_1171123]弱点被ダメージ%s上昇",
+    "desc": "弱点被ダメージ%s上昇",
     "BuffDesc": "ウ<color=#000000>イ</color>ルス",
     "addText": "AAAAAA==",
     "removeText": "AAAAAA==",
@@ -47,7 +47,7 @@
   {
     "sn": "1171091",
     "title": "データ掌握",
-    "desc": "tdxct-[SkillBuff_desc_1171091]与ダメージ%s上昇",
+    "desc": "与ダメージが%s上昇し、弱点ダメージを与えた場合、このダメージ上昇効果は倍になる。",
     "BuffDesc": "デ<color=#000000>ー</color>タ掌握",
     "addText": "AAAAAA==",
     "removeText": "AAAAAA==",
@@ -56,7 +56,7 @@
   {
     "sn": "1171111",
     "title": "セキュリティバイバイ",
-    "desc": "tdxct-[SkillBuff_desc_1171111]防御力%s低下",
+    "desc": "防御力%s低下",
     "BuffDesc": "セ<color=#000000>キ</color>ュリティバイバイ",
     "addText": "AAAAAA==",
     "removeText": "AAAAAA==",
@@ -65,7 +65,7 @@
   {
     "sn": "1171121",
     "title": "ウイルス",
-    "desc": "tdxct-[SkillBuff_desc_1171121]耐性が変化した",
+    "desc": "耐性が変化",
     "BuffDesc": "ウ<color=#000000>イ</color>ルス",
     "addText": "AAAAAA==",
     "removeText": "AAAAAA==",
@@ -74,8 +74,8 @@
   {
     "sn": "1171053",
     "title": "パーフェクトバックアップ",
-    "desc": "tdxct-[SkillBuff_desc_1171053]シールド値：%s",
-    "BuffDesc": "エ<color=#000000>レ</color>ガントプログラム",
+    "desc": "シールド値：%s",
+    "BuffDesc": "パ<color=#000000>ー</color>フェクトバックアップ",
     "addText": "AAAAAA==",
     "removeText": "AAAAAA==",
     "calText": "AAAAAA=="
@@ -83,7 +83,7 @@
   {
     "sn": "1171075",
     "title": "セキュリティホール",
-    "desc": "tdxct-[SkillBuff_desc_1171075]『静かな襲撃』または『データハッキング』を使用した時、スキル効果が向上する。",
+    "desc": "『セキュリティバイバイ』または『脆弱性みーっけ！』を使用した時、スキル効果が向上",
     "BuffDesc": "セ<color=#000000>キ</color>ュリティホール",
     "addText": "AAAAAA==",
     "removeText": "AAAAAA==",
@@ -92,7 +92,7 @@
   {
     "sn": "1171122",
     "title": "データリンク開始！",
-    "desc": "tdxct-[SkillBuff_desc_1171122]攻撃力%s上昇",
+    "desc": "攻撃力%s上昇",
     "BuffDesc": "デ<color=#000000>ー</color>タリンク開始！",
     "addText": "AAAAAA==",
     "removeText": "AAAAAA==",
@@ -101,7 +101,7 @@
   {
     "sn": "1171131",
     "title": "脆弱性みーっけ！",
-    "desc": "tdxct-[SkillBuff_desc_1171131]被ダメージが%s上昇し、ダメージを受けた後、ナビは１５%の解析進捗を獲得する。",
+    "desc": "被ダメージが%s上昇し、ダメージを受けた後、双葉は２０%の解析進捗を獲得する。",
     "BuffDesc": "脆<color=#000000>弱</color>性みーっけ！",
     "addText": "AAAAAA==",
     "removeText": "AAAAAA==",
@@ -110,7 +110,7 @@
   {
     "sn": "1171321",
     "title": "ルートキット",
-    "desc": "tdxct-[SkillBuff_desc_1171321]シールド値：%s",
+    "desc": "シールド値：%s",
     "BuffDesc": "ル<color=#000000>ー</color>トキット",
     "addText": "AAAAAA==",
     "removeText": "AAAAAA==",
@@ -4114,7 +4114,7 @@
   },
   {
     "sn": "1331051",
-    "title": "AAAAAA==",
+    "title": "ガーベラの花言葉",
     "desc": "防御力%s上昇",
     "BuffDesc": "悪<color=#000000>を</color>遠ざく氷心の騎士",
     "addText": "AAAAAA==",
@@ -4267,7 +4267,7 @@
   },
   {
     "sn": "1212001",
-    "title": "tdxct-[SkillBuff_title_1212001]朝露の結晶",
+    "title": "旋風の線刻",
     "desc": "tdxct-[SkillBuff_desc_1212001]『仲春の結界』解除時の追加効果のダメージを上昇させる。",
     "BuffDesc": "tdxct-[SkillBuff_BuffDesc_1212001]朝<color=#000000>露</color>の結晶",
     "addText": "AAAAAA==",
@@ -4276,7 +4276,7 @@
   },
   {
     "sn": "1212003",
-    "title": "tdxct-[SkillBuff_title_1212003]朝露の結晶",
+    "title": "旋風の線刻",
     "desc": "tdxct-[SkillBuff_desc_1212003]『仲春の結界』解除時の追加効果のダメージを上昇させる。",
     "BuffDesc": "tdxct-[SkillBuff_BuffDesc_1212003]朝<color=#000000>露</color>の結晶",
     "addText": "AAAAAA==",
@@ -4285,7 +4285,7 @@
   },
   {
     "sn": "1212006",
-    "title": "tdxct-[SkillBuff_title_1212006]寒霜の結晶",
+    "title": "旋風の線刻",
     "desc": "tdxct-[SkillBuff_desc_1212006]『冬夜の結界』解除時の追加効果のダメージを上昇させる。",
     "BuffDesc": "tdxct-[SkillBuff_BuffDesc_1212006]寒<color=#000000>霜</color>の結晶",
     "addText": "AAAAAA==",
@@ -4294,7 +4294,7 @@
   },
   {
     "sn": "1212111",
-    "title": "tdxct-[SkillBuff_title_1212111]風襲",
+    "title": "風襲",
     "desc": "tdxct-[SkillBuff_desc_1212111]防御力１２%低下",
     "BuffDesc": "tdxct-[SkillBuff_BuffDesc_1212111]風<color=#000000>襲</color>",
     "addText": "AAAAAA==",
@@ -4303,7 +4303,7 @@
   },
   {
     "sn": "1212112",
-    "title": "tdxct-[SkillBuff_title_1212112]風傷",
+    "title": "アタックシークェンス",
     "desc": "tdxct-[SkillBuff_desc_1212112]モントがこのユニットを攻撃すると、クリティカルダメージが上昇する。",
     "BuffDesc": "tdxct-[SkillBuff_BuffDesc_1212112]風<color=#000000>傷</color>",
     "addText": "AAAAAA==",
@@ -4312,7 +4312,7 @@
   },
   {
     "sn": "1212131",
-    "title": "tdxct-[SkillBuff_title_1212131]仲春の結界",
+    "title": "旋風結界",
     "desc": "tdxct-[SkillBuff_desc_1212131]結界が終了した時、対象に疾風属性のダメージを与える。",
     "BuffDesc": "AAAAAA==",
     "addText": "AAAAAA==",
@@ -4321,7 +4321,7 @@
   },
   {
     "sn": "1212008",
-    "title": "tdxct-[SkillBuff_title_1212008]寒霜の結晶",
+    "title": "銀盤の線刻",
     "desc": "tdxct-[SkillBuff_desc_1212008]『冬夜の結界』解除時の追加効果のダメージを上昇させる。",
     "BuffDesc": "tdxct-[SkillBuff_BuffDesc_1212008]寒<color=#000000>霜</color>の結晶",
     "addText": "AAAAAA==",
@@ -4330,7 +4330,7 @@
   },
   {
     "sn": "1212171",
-    "title": "tdxct-[SkillBuff_title_1212171]冬夜の結界",
+    "title": "銀盤結界",
     "desc": "tdxct-[SkillBuff_desc_1212171]結界が終了した時、対象に氷結属性のダメージを与える。",
     "BuffDesc": "AAAAAA==",
     "addText": "AAAAAA==",
@@ -4339,7 +4339,7 @@
   },
   {
     "sn": "1212041",
-    "title": "tdxct-[SkillBuff_title_1212041]時の詩と風の嘆き",
+    "title": "まなざし浚う鵬翼",
     "desc": "tdxct-[SkillBuff_desc_1212041]防御力%s低下",
     "BuffDesc": "AAAAAA==",
     "addText": "AAAAAA==",
@@ -4348,7 +4348,7 @@
   },
   {
     "sn": "1212541",
-    "title": "tdxct-[SkillBuff_title_1212541]凍結",
+    "title": "氷漬け",
     "desc": "tdxct-[SkillBuff_desc_1212541]行動不能",
     "BuffDesc": "tdxct-[SkillBuff_BuffDesc_1212541]凍<color=#000000>結</color>",
     "addText": "凍結状態になった！",
@@ -4357,7 +4357,7 @@
   },
   {
     "sn": "1212042",
-    "title": "tdxct-[SkillBuff_title_1212042]時の詩と風の嘆き",
+    "title": "まなざし浚う鵬翼",
     "desc": "tdxct-[SkillBuff_desc_1212042]氷結属性ダメージ%s上昇",
     "BuffDesc": "AAAAAA==",
     "addText": "AAAAAA==",
@@ -4366,7 +4366,7 @@
   },
   {
     "sn": "1212043",
-    "title": "tdxct-[SkillBuff_title_1212043]時の詩と風の嘆き",
+    "title": "まなざし浚う鵬翼",
     "desc": "tdxct-[SkillBuff_desc_1212043]ＳＰコスト%s低下",
     "BuffDesc": "AAAAAA==",
     "addText": "AAAAAA==",
@@ -4393,7 +4393,7 @@
   },
   {
     "sn": "1212151",
-    "title": "tdxct-[SkillBuff_title_1212151]凍結",
+    "title": "凍結",
     "desc": "tdxct-[SkillBuff_desc_1212151]攻撃力１２%低下",
     "BuffDesc": "tdxct-[SkillBuff_BuffDesc_1212151]凍<color=#000000>結</color>",
     "addText": "AAAAAA==",
@@ -4402,7 +4402,7 @@
   },
   {
     "sn": "1212161",
-    "title": "tdxct-[SkillBuff_title_1212161]凍結",
+    "title": "凍結",
     "desc": "tdxct-[SkillBuff_desc_1212161]攻撃力１２%低下",
     "BuffDesc": "tdxct-[SkillBuff_BuffDesc_1212161]凍<color=#000000>結</color>",
     "addText": "AAAAAA==",
@@ -4411,7 +4411,7 @@
   },
   {
     "sn": "1212162",
-    "title": "tdxct-[SkillBuff_title_1212162]凍結",
+    "title": "オンアイス",
     "desc": "tdxct-[SkillBuff_desc_1212162]被氷結属性ダメージ%s上昇",
     "BuffDesc": "tdxct-[SkillBuff_BuffDesc_1212162]凍<color=#000000>結</color>",
     "addText": "AAAAAA==",
@@ -4438,7 +4438,7 @@
   },
   {
     "sn": "1212311",
-    "title": "tdxct-[SkillBuff_title_1212311]深い愛情",
+    "title": "プログラム・コンポーネンツ",
     "desc": "tdxct-[SkillBuff_desc_1212311]疾風属性ダメージ%s上昇",
     "BuffDesc": "AAAAAA==",
     "addText": "AAAAAA==",
@@ -4447,7 +4447,7 @@
   },
   {
     "sn": "1212312",
-    "title": "tdxct-[SkillBuff_title_1212312]深い愛情",
+    "title": "プログラム・コンポーネンツ",
     "desc": "tdxct-[SkillBuff_desc_1212312]氷結属性ダメージ%s上昇",
     "BuffDesc": "AAAAAA==",
     "addText": "AAAAAA==",
@@ -4456,7 +4456,7 @@
   },
   {
     "sn": "1212323",
-    "title": "tdxct-[SkillBuff_title_1212323]思い",
+    "title": "テクニカル・エレメンツ",
     "desc": "tdxct-[SkillBuff_desc_1212323]攻撃力%s上昇",
     "BuffDesc": "tdxct-[SkillBuff_BuffDesc_1212323]思<color=#000000>い</color>",
     "addText": "AAAAAA==",
@@ -4465,7 +4465,7 @@
   },
   {
     "sn": "1212324",
-    "title": "tdxct-[SkillBuff_title_1212324]思い",
+    "title": "テクニカル・エレメンツ",
     "desc": "tdxct-[SkillBuff_desc_1212324]防御力%s上昇",
     "BuffDesc": "tdxct-[SkillBuff_BuffDesc_1212324]思<color=#000000>い</color>",
     "addText": "AAAAAA==",
@@ -4474,7 +4474,7 @@
   },
   {
     "sn": "1212175",
-    "title": "tdxct-[SkillBuff_title_1212175]氷結の盾",
+    "title": "グレイシャル・ハート",
     "desc": "tdxct-[SkillBuff_desc_1212175]シールド値：%s",
     "BuffDesc": "tdxct-[SkillBuff_BuffDesc_1212175]氷<color=#000000>結</color>の盾",
     "addText": "AAAAAA==",
@@ -4483,7 +4483,7 @@
   },
   {
     "sn": "1331523",
-    "title": "AAAAAA==",
+    "title": "カモミールの花言葉",
     "desc": "付与されるシールドが%s上昇",
     "BuffDesc": "リ<color=#000000>ン</color>ドウの花言葉",
     "addText": "AAAAAA==",
@@ -17562,7 +17562,7 @@
     "sn": "27176",
     "title": "ステータス上昇",
     "desc": "受ける最終ダメージが%s低下する。",
-    "BuffDesc": "tdxct-[SkillBuff_BuffDesc_27176]<color=#000000>ス</color>テータス上昇",
+    "BuffDesc": "ス<color=#000000>テ</color>ータス上昇",
     "addText": "AAAAAA==",
     "removeText": "AAAAAA==",
     "calText": "AAAAAA=="
@@ -17614,7 +17614,7 @@
   },
   {
     "sn": "27224",
-    "title": "ステータス低下",
+    "title": "虚弱",
     "desc": "被ダメージが上昇する。",
     "BuffDesc": "ス<color=#000000>テ</color>ータス低下",
     "addText": "AAAAAA==",
@@ -18624,7 +18624,7 @@
     "sn": "26711",
     "title": "怒り",
     "desc": "与ダメージが%s上昇する。",
-    "BuffDesc": "激<color=#000000>昂</color>",
+    "BuffDesc": "怒り",
     "addText": "AAAAAA==",
     "removeText": "AAAAAA==",
     "calText": "AAAAAA=="
@@ -18642,7 +18642,7 @@
     "sn": "26761",
     "title": "積怒の防壁",
     "desc": "与ダメージが%s上昇する。シールドが破壊されるとこの効果を失う。",
-    "BuffDesc": "庇<color=#000000>護</color>",
+    "BuffDesc": "積怒の防壁",
     "addText": "AAAAAA==",
     "removeText": "庇護効果が切れた！",
     "calText": "AAAAAA=="
@@ -18651,7 +18651,7 @@
     "sn": "26762",
     "title": "積怒の防壁",
     "desc": "残りのシールド値：%s",
-    "BuffDesc": "庇<color=#000000>護</color>",
+    "BuffDesc": "積怒の防壁",
     "addText": "シールドを獲得した！",
     "removeText": "AAAAAA==",
     "calText": "AAAAAA=="
@@ -18667,6 +18667,15 @@
   },
   {
     "sn": "26831",
+    "title": "『憤怒』パレスの主",
+    "desc": "怒り度が高いほど、与ダメージが上昇し、発動するスキルが強力になる。（現在の上昇値は%s）",
+    "BuffDesc": "AAAAAA==",
+    "addText": "AAAAAA==",
+    "removeText": "AAAAAA==",
+    "calText": "AAAAAA=="
+  },
+  {
+    "sn": "26835",
     "title": "『憤怒』パレスの主",
     "desc": "怒り度が高いほど、与ダメージが上昇し、発動するスキルが強力になる。（現在の上昇値は%s）",
     "BuffDesc": "AAAAAA==",
@@ -19064,7 +19073,7 @@
   {
     "sn": "28923",
     "title": "状態異常抵抗上昇",
-    "desc": "状態異常抵抗%s上昇",
+    "desc": "状態異常抵抗が大幅に上昇する。",
     "BuffDesc": "状<color=#000000>態</color>異常抵抗上昇",
     "addText": "AAAAAA==",
     "removeText": "AAAAAA==",
@@ -23392,7 +23401,7 @@
   },
   {
     "sn": "517312",
-    "title": "高性能",
+    "title": "バックドア設置",
     "desc": "攻撃力が%s上昇する。",
     "BuffDesc": "高<color=#000000>性</color>能",
     "addText": "AAAAAA==",
@@ -23401,7 +23410,7 @@
   },
   {
     "sn": "517411",
-    "title": "tdxct-[Weapon_skillName_212703]",
+    "title": "マルウェア改良",
     "desc": "被ダメージが%s上昇する。",
     "BuffDesc": "被<color=#000000>ダ</color>メージ上昇",
     "addText": "AAAAAA==",
@@ -23410,7 +23419,7 @@
   },
   {
     "sn": "517512",
-    "title": "tdxct-[Weapon_skillName_212704]",
+    "title": "チョットデキルＣＰＵ",
     "desc": "攻撃力が%s上昇する。",
     "BuffDesc": "攻<color=#000000>撃</color>力上昇",
     "addText": "AAAAAA==",
@@ -23419,7 +23428,7 @@
   },
   {
     "sn": "517521",
-    "title": "tdxct-[Weapon_skillName_212704]",
+    "title": "チョットデキルＣＰＵ",
     "desc": "クリティカルダメージが%s上昇する。",
     "BuffDesc": "被<color=#000000>ク</color>リティカルダメージ上昇",
     "addText": "AAAAAA==",
@@ -23997,8 +24006,8 @@
     "sn": "5021111",
     "title": "妖精の力",
     "desc": "１つにつき被ダメージが４%低下する。随伴者が撃破されると１つ失い、再召喚する。",
-    "BuffDesc": "妖<color=#000000>精</color>の力",
-    "addText": "妖精の力を５つ獲得した！",
+    "BuffDesc": "AAAAAA==",
+    "addText": "妖精の力を獲得し、受ける最終ダメージが下がった！",
     "removeText": "AAAAAA==",
     "calText": "AAAAAA=="
   },
@@ -24015,7 +24024,7 @@
     "sn": "5031014",
     "title": "金剛伏魔呪",
     "desc": "与ダメージが５０%低下する。",
-    "BuffDesc": "金<color=#000000>剛</color>伏魔呪",
+    "BuffDesc": "AAAAAA==",
     "addText": "与ダメージが下がった！",
     "removeText": "AAAAAA==",
     "calText": "AAAAAA=="
@@ -24032,7 +24041,7 @@
   {
     "sn": "5041012",
     "title": "死の凝視",
-    "desc": "四天王に狙われている。",
+    "desc": "シャドウに狙われている。",
     "BuffDesc": "死<color=#000000>の</color>凝視",
     "addText": "%sが死の凝視を受けた…",
     "removeText": "AAAAAA==",

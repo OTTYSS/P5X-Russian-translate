@@ -2,7 +2,7 @@
   {
     "sn": "1171029",
     "title": "Analysis Progress",
-    "desc": "tdxct-[SkillBuff_desc_1171029]",
+    "desc": "Current Analysis Progress: %s",
     "BuffDesc": "AAAAAA==",
     "addText": "AAAAAA==",
     "removeText": "AAAAAA==",
@@ -11,7 +11,7 @@
   {
     "sn": "1171112",
     "title": "Pentest Complete!",
-    "desc": "tdxct-[SkillBuff_desc_1171112]",
+    "desc": "Increase Defense decreases when taking weakness dmg.",
     "BuffDesc": "P<color=#000000>e</color>ntest Complete!",
     "addText": "AAAAAA==",
     "removeText": "AAAAAA==",
@@ -20,7 +20,7 @@
   {
     "sn": "1171085",
     "title": "Wizard-Level Hacker",
-    "desc": "tdxct-[SkillBuff_desc_1171085]",
+    "desc": "Increase weakness dmg by %s.",
     "BuffDesc": "W<color=#000000>i</color>zard-Level Hacker",
     "addText": "AAAAAA==",
     "removeText": "AAAAAA==",
@@ -28,8 +28,8 @@
   },
   {
     "sn": "1171031",
-    "title": "Data Storm",
-    "desc": "tdxct-[SkillBuff_desc_1171031]",
+    "title": "Payload Optimization",
+    "desc": "Increase critical rate by %s.",
     "BuffDesc": "AAAAAA==",
     "addText": "AAAAAA==",
     "removeText": "AAAAAA==",
@@ -38,7 +38,7 @@
   {
     "sn": "1171123",
     "title": "Virus",
-    "desc": "tdxct-[SkillBuff_desc_1171123]",
+    "desc": "Increase weakness dmg taken by %s.",
     "BuffDesc": "V<color=#000000>i</color>rus",
     "addText": "AAAAAA==",
     "removeText": "AAAAAA==",
@@ -47,7 +47,7 @@
   {
     "sn": "1171091",
     "title": "Data Storm",
-    "desc": "tdxct-[SkillBuff_desc_1171091]",
+    "desc": "Increase dmg by %s. If dealing weakness dmg, double this dmg increase.",
     "BuffDesc": "D<color=#000000>a</color>ta Storm",
     "addText": "AAAAAA==",
     "removeText": "AAAAAA==",
@@ -56,7 +56,7 @@
   {
     "sn": "1171111",
     "title": "Pentest Complete!",
-    "desc": "tdxct-[SkillBuff_desc_1171111]",
+    "desc": "Decrease Def by %s.",
     "BuffDesc": "P<color=#000000>e</color>ntest Complete!",
     "addText": "AAAAAA==",
     "removeText": "AAAAAA==",
@@ -65,7 +65,7 @@
   {
     "sn": "1171121",
     "title": "Virus",
-    "desc": "tdxct-[SkillBuff_desc_1171121]",
+    "desc": "Resistances changed.",
     "BuffDesc": "V<color=#000000>i</color>rus",
     "addText": "AAAAAA==",
     "removeText": "AAAAAA==",
@@ -74,8 +74,8 @@
   {
     "sn": "1171053",
     "title": "Storage Redundancy",
-    "desc": "tdxct-[SkillBuff_desc_1171053]",
-    "BuffDesc": "E<color=#000000>l</color>egant Code",
+    "desc": "Shield: %s",
+    "BuffDesc": "S<color=#000000>t</color>orage Redundancy",
     "addText": "AAAAAA==",
     "removeText": "AAAAAA==",
     "calText": "AAAAAA=="
@@ -83,7 +83,7 @@
   {
     "sn": "1171075",
     "title": "Security Flaw",
-    "desc": "tdxct-[SkillBuff_desc_1171075]",
+    "desc": "When using Pentest Complete! or Vulnerability Found!, increase skill effects.",
     "BuffDesc": "S<color=#000000>e</color>curity Flaw",
     "addText": "AAAAAA==",
     "removeText": "AAAAAA==",
@@ -92,7 +92,7 @@
   {
     "sn": "1171122",
     "title": "Data Link Established!",
-    "desc": "tdxct-[SkillBuff_desc_1171122]",
+    "desc": "Increase Atk by %s.",
     "BuffDesc": "D<color=#000000>a</color>ta Link Established!",
     "addText": "AAAAAA==",
     "removeText": "AAAAAA==",
@@ -101,7 +101,7 @@
   {
     "sn": "1171131",
     "title": "Vulnerability Found!",
-    "desc": "tdxct-[SkillBuff_desc_1171131]",
+    "desc": "Increase dmg taken by %s. After taking dmg, grant Futaba 15% Analysis Progress.",
     "BuffDesc": "V<color=#000000>u</color>lnerability Found!",
     "addText": "AAAAAA==",
     "removeText": "AAAAAA==",
@@ -110,7 +110,7 @@
   {
     "sn": "1171321",
     "title": "Rootkit",
-    "desc": "tdxct-[SkillBuff_desc_1171321]",
+    "desc": "Shield: %s",
     "BuffDesc": "R<color=#000000>o</color>otkit",
     "addText": "AAAAAA==",
     "removeText": "AAAAAA==",
@@ -1685,7 +1685,7 @@
   {
     "sn": "1251113",
     "title": "Focused Shot",
-    "desc": "Increase skill damage by %s when ranged attacking and granted with Target Audience.",
+    "desc": "Increase skill damage by %s when using ranged attack with Target Audience.",
     "BuffDesc": "F<color=#000000>o</color>cused Shot",
     "addText": "AAAAAA==",
     "removeText": "AAAAAA==",
@@ -4114,7 +4114,7 @@
   },
   {
     "sn": "1331051",
-    "title": "Fight for the Women and Children",
+    "title": "Floriography: Gerbera",
     "desc": "Increase Def by %s.",
     "BuffDesc": "B<color=#000000>e</color>nevolent Iceheart Knight",
     "addText": "AAAAAA==",
@@ -4267,7 +4267,7 @@
   },
   {
     "sn": "1212001",
-    "title": "tdxct-[SkillBuff_title_1212001]",
+    "title": "Spring's Vestige",
     "desc": "tdxct-[SkillBuff_desc_1212001]",
     "BuffDesc": "tdxct-[SkillBuff_BuffDesc_1212001]",
     "addText": "AAAAAA==",
@@ -4276,7 +4276,7 @@
   },
   {
     "sn": "1212003",
-    "title": "tdxct-[SkillBuff_title_1212003]",
+    "title": "Spring's Vestige",
     "desc": "tdxct-[SkillBuff_desc_1212003]",
     "BuffDesc": "tdxct-[SkillBuff_BuffDesc_1212003]",
     "addText": "AAAAAA==",
@@ -4285,7 +4285,7 @@
   },
   {
     "sn": "1212006",
-    "title": "tdxct-[SkillBuff_title_1212006]",
+    "title": "Spring's Vestige",
     "desc": "tdxct-[SkillBuff_desc_1212006]",
     "BuffDesc": "tdxct-[SkillBuff_BuffDesc_1212006]",
     "addText": "AAAAAA==",
@@ -4294,7 +4294,7 @@
   },
   {
     "sn": "1212111",
-    "title": "tdxct-[SkillBuff_title_1212111]",
+    "title": "Windswept",
     "desc": "tdxct-[SkillBuff_desc_1212111]",
     "BuffDesc": "tdxct-[SkillBuff_BuffDesc_1212111]",
     "addText": "AAAAAA==",
@@ -4303,7 +4303,7 @@
   },
   {
     "sn": "1212112",
-    "title": "tdxct-[SkillBuff_title_1212112]",
+    "title": "Attack Sequence",
     "desc": "tdxct-[SkillBuff_desc_1212112]",
     "BuffDesc": "tdxct-[SkillBuff_BuffDesc_1212112]",
     "addText": "AAAAAA==",
@@ -4312,7 +4312,7 @@
   },
   {
     "sn": "1212131",
-    "title": "tdxct-[SkillBuff_title_1212131]",
+    "title": "Spring's Edge",
     "desc": "tdxct-[SkillBuff_desc_1212131]",
     "BuffDesc": "AAAAAA==",
     "addText": "AAAAAA==",
@@ -4321,7 +4321,7 @@
   },
   {
     "sn": "1212008",
-    "title": "tdxct-[SkillBuff_title_1212008]",
+    "title": "Winter's Vestige",
     "desc": "tdxct-[SkillBuff_desc_1212008]",
     "BuffDesc": "tdxct-[SkillBuff_BuffDesc_1212008]",
     "addText": "AAAAAA==",
@@ -4330,7 +4330,7 @@
   },
   {
     "sn": "1212171",
-    "title": "tdxct-[SkillBuff_title_1212171]",
+    "title": "Winter's Edge",
     "desc": "tdxct-[SkillBuff_desc_1212171]",
     "BuffDesc": "AAAAAA==",
     "addText": "AAAAAA==",
@@ -4339,7 +4339,7 @@
   },
   {
     "sn": "1212041",
-    "title": "tdxct-[SkillBuff_title_1212041]",
+    "title": "Glaring Phoenix",
     "desc": "tdxct-[SkillBuff_desc_1212041]",
     "BuffDesc": "AAAAAA==",
     "addText": "AAAAAA==",
@@ -4348,7 +4348,7 @@
   },
   {
     "sn": "1212541",
-    "title": "tdxct-[SkillBuff_title_1212541]",
+    "title": "Icebound",
     "desc": "tdxct-[SkillBuff_desc_1212541]",
     "BuffDesc": "tdxct-[SkillBuff_BuffDesc_1212541]",
     "addText": "Inflicted with freeze!",
@@ -4357,7 +4357,7 @@
   },
   {
     "sn": "1212042",
-    "title": "tdxct-[SkillBuff_title_1212042]",
+    "title": "Glaring Phoenix",
     "desc": "tdxct-[SkillBuff_desc_1212042]",
     "BuffDesc": "AAAAAA==",
     "addText": "AAAAAA==",
@@ -4366,7 +4366,7 @@
   },
   {
     "sn": "1212043",
-    "title": "tdxct-[SkillBuff_title_1212043]",
+    "title": "Glaring Phoenix",
     "desc": "tdxct-[SkillBuff_desc_1212043]",
     "BuffDesc": "AAAAAA==",
     "addText": "AAAAAA==",
@@ -4393,7 +4393,7 @@
   },
   {
     "sn": "1212151",
-    "title": "tdxct-[SkillBuff_title_1212151]",
+    "title": "Freeze",
     "desc": "tdxct-[SkillBuff_desc_1212151]",
     "BuffDesc": "tdxct-[SkillBuff_BuffDesc_1212151]",
     "addText": "AAAAAA==",
@@ -4402,7 +4402,7 @@
   },
   {
     "sn": "1212161",
-    "title": "tdxct-[SkillBuff_title_1212161]",
+    "title": "Freeze",
     "desc": "tdxct-[SkillBuff_desc_1212161]",
     "BuffDesc": "tdxct-[SkillBuff_BuffDesc_1212161]",
     "addText": "AAAAAA==",
@@ -4411,7 +4411,7 @@
   },
   {
     "sn": "1212162",
-    "title": "tdxct-[SkillBuff_title_1212162]",
+    "title": "On Ice",
     "desc": "tdxct-[SkillBuff_desc_1212162]",
     "BuffDesc": "tdxct-[SkillBuff_BuffDesc_1212162]",
     "addText": "AAAAAA==",
@@ -4438,7 +4438,7 @@
   },
   {
     "sn": "1212311",
-    "title": "tdxct-[SkillBuff_title_1212311]",
+    "title": "Program Components",
     "desc": "tdxct-[SkillBuff_desc_1212311]",
     "BuffDesc": "AAAAAA==",
     "addText": "AAAAAA==",
@@ -4447,7 +4447,7 @@
   },
   {
     "sn": "1212312",
-    "title": "tdxct-[SkillBuff_title_1212312]",
+    "title": "Program Components",
     "desc": "tdxct-[SkillBuff_desc_1212312]",
     "BuffDesc": "AAAAAA==",
     "addText": "AAAAAA==",
@@ -4456,7 +4456,7 @@
   },
   {
     "sn": "1212323",
-    "title": "tdxct-[SkillBuff_title_1212323]",
+    "title": "Technical Element",
     "desc": "tdxct-[SkillBuff_desc_1212323]",
     "BuffDesc": "tdxct-[SkillBuff_BuffDesc_1212323]",
     "addText": "AAAAAA==",
@@ -4465,7 +4465,7 @@
   },
   {
     "sn": "1212324",
-    "title": "tdxct-[SkillBuff_title_1212324]",
+    "title": "Technical Element",
     "desc": "tdxct-[SkillBuff_desc_1212324]",
     "BuffDesc": "tdxct-[SkillBuff_BuffDesc_1212324]",
     "addText": "AAAAAA==",
@@ -4474,7 +4474,7 @@
   },
   {
     "sn": "1212175",
-    "title": "tdxct-[SkillBuff_title_1212175]",
+    "title": "Glacial Heart",
     "desc": "tdxct-[SkillBuff_desc_1212175]",
     "BuffDesc": "tdxct-[SkillBuff_BuffDesc_1212175]",
     "addText": "AAAAAA==",
@@ -4483,7 +4483,7 @@
   },
   {
     "sn": "1331523",
-    "title": "tdxct-[SkillBuff_title_1331523]",
+    "title": "Floriography: Chamomile",
     "desc": "Increase shield gained by %s.",
     "BuffDesc": "F<color=#000000>l</color>oriography: Gentian",
     "addText": "AAAAAA==",
@@ -17562,7 +17562,7 @@
     "sn": "27176",
     "title": "Stat Buff",
     "desc": "Decrease final dmg taken by %s.",
-    "BuffDesc": "tdxct-[SkillBuff_BuffDesc_27176]",
+    "BuffDesc": "S<color=#000000>t</color>at Buff",
     "addText": "AAAAAA==",
     "removeText": "AAAAAA==",
     "calText": "AAAAAA=="
@@ -17614,7 +17614,7 @@
   },
   {
     "sn": "27224",
-    "title": "Stat Debuff",
+    "title": "Weakened",
     "desc": "Increase dmg taken.",
     "BuffDesc": "S<color=#000000>t</color>at Debuff",
     "addText": "AAAAAA==",
@@ -18624,7 +18624,7 @@
     "sn": "26711",
     "title": "Tantrum",
     "desc": "Increase dmg by %s.",
-    "BuffDesc": "E<color=#000000>x</color>asperation",
+    "BuffDesc": "Tantrum",
     "addText": "AAAAAA==",
     "removeText": "AAAAAA==",
     "calText": "AAAAAA=="
@@ -18642,7 +18642,7 @@
     "sn": "26761",
     "title": "Ire Barrier",
     "desc": "Increase dmg by %s. Effect is lost if shield breaks.",
-    "BuffDesc": "S<color=#000000>a</color>nctuary",
+    "BuffDesc": "Ire Barrier",
     "addText": "AAAAAA==",
     "removeText": "Sanctuary lost!",
     "calText": "AAAAAA=="
@@ -18651,7 +18651,7 @@
     "sn": "26762",
     "title": "Ire Barrier",
     "desc": "Remaining shield: %s",
-    "BuffDesc": "S<color=#000000>a</color>nctuary",
+    "BuffDesc": "Ire Barrier",
     "addText": "Shielded!",
     "removeText": "AAAAAA==",
     "calText": "AAAAAA=="
@@ -18667,6 +18667,15 @@
   },
   {
     "sn": "26831",
+    "title": "Wrath Palace Ruler",
+    "desc": "Increase damage and strengthen skills activated, based on Wrath. (Current Increase: %s.)",
+    "BuffDesc": "AAAAAA==",
+    "addText": "AAAAAA==",
+    "removeText": "AAAAAA==",
+    "calText": "AAAAAA=="
+  },
+  {
+    "sn": "26835",
     "title": "Wrath Palace Ruler",
     "desc": "Increase damage and strengthen skills activated, based on Wrath. (Current Increase: %s.)",
     "BuffDesc": "AAAAAA==",
@@ -19064,7 +19073,7 @@
   {
     "sn": "28923",
     "title": "Ailment Resist Up",
-    "desc": "Increase ailment resistance by %s.",
+    "desc": "Greatly increase ailment resistance.",
     "BuffDesc": "A<color=#000000>i</color>lment Resist Up",
     "addText": "AAAAAA==",
     "removeText": "AAAAAA==",
@@ -23392,7 +23401,7 @@
   },
   {
     "sn": "517312",
-    "title": "High Performance",
+    "title": "Backdoor Install",
     "desc": "Increase Atk by %s.",
     "BuffDesc": "H<color=#000000>i</color>gh Performance",
     "addText": "AAAAAA==",
@@ -23401,7 +23410,7 @@
   },
   {
     "sn": "517411",
-    "title": "tdxct-[Weapon_skillName_212703]",
+    "title": "Polymorphic Malware",
     "desc": "Increase dmg taken by %s.",
     "BuffDesc": "D<color=#000000>a</color>mage Taken Up",
     "addText": "AAAAAA==",
@@ -23410,7 +23419,7 @@
   },
   {
     "sn": "517512",
-    "title": "tdxct-[Weapon_skillName_212704]",
+    "title": "A Modest CPU",
     "desc": "Increase Atk by %s.",
     "BuffDesc": "A<color=#000000>t</color>tack Up",
     "addText": "AAAAAA==",
@@ -23419,7 +23428,7 @@
   },
   {
     "sn": "517521",
-    "title": "tdxct-[Weapon_skillName_212704]",
+    "title": "A Modest CPU",
     "desc": "Increase critical dmg by %s.",
     "BuffDesc": "C<color=#000000>r</color>itical Damage Taken Up",
     "addText": "AAAAAA==",
@@ -23997,8 +24006,8 @@
     "sn": "5021111",
     "title": "Fairy Power",
     "desc": "Decrease dmg taken by 4% for each stack. When attendant is defeated, lose 1 stack and resummon them.",
-    "BuffDesc": "F<color=#000000>a</color>iry Power",
-    "addText": "Gained 5 Fairy Power!",
+    "BuffDesc": "AAAAAA==",
+    "addText": "Inflicted with Fairy Curse, and final damage taken decreased!",
     "removeText": "AAAAAA==",
     "calText": "AAAAAA=="
   },
@@ -24015,7 +24024,7 @@
     "sn": "5031014",
     "title": "Vajra Curse",
     "desc": "Decrease dmg by 50%.",
-    "BuffDesc": "V<color=#000000>a</color>jra Curse",
+    "BuffDesc": "AAAAAA==",
     "addText": "Damage decreased!",
     "removeText": "AAAAAA==",
     "calText": "AAAAAA=="
@@ -24032,7 +24041,7 @@
   {
     "sn": "5041012",
     "title": "Death Stare",
-    "desc": "Targeted by Four Heavenly Kings.",
+    "desc": "Targeted by Shadows.",
     "BuffDesc": "D<color=#000000>e</color>ath Stare",
     "addText": "%s is under a Death Stare...",
     "removeText": "AAAAAA==",
@@ -24133,7 +24142,7 @@
     "title": "Fairy Curse",
     "desc": "Decrease final dmg by %s.",
     "BuffDesc": "AAAAAA==",
-    "addText": "Gained Fairy Curse, and final damage taken decreased!",
+    "addText": "Inflicted with Fairy Curse, and final damage taken decreased!",
     "removeText": "AAAAAA==",
     "calText": "AAAAAA=="
   },

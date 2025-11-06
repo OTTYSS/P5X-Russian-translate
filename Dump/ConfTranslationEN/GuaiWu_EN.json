@@ -225,7 +225,7 @@
     "sn": "514111",
     "name": "Titania",
     "desc": "The queen of the fairies and Oberon's wife. She is derived from the Roman goddess Diana. She was later immortalized in Shakespeare's play \"A Midsummer Night's Dream.\"",
-    "strategy": "1. Each turn, Titania gains 2 Fairy Power.\n2. Titania loses 1 Fairy Power each time she takes a Physical attack.\n3. Before the start of her turn, Titania spends all Fairy Power to activate Fairy Curse, decreasing all Phantom Thieves' damage by 15% for each Fairy Power spent."
+    "strategy": "1. At the end of each turn, Titania gains 2 Fairy Power stacks.\n2. Titania loses 1 Fairy Power stack each time it takes a Physical attack.\n3. Before the start of Titania's turn, it spends all of its Fairy Power stacks to activate Fairy Curse, decreasing all Phantom Thieves' final damage by the number of Fairy Power stacks spent × 15%."
   },
   {
     "sn": "515011",
@@ -459,7 +459,7 @@
     "sn": "515111",
     "name": "Titania",
     "desc": "The queen of the fairies and Oberon's wife. She is derived from the Roman goddess Diana. She was later immortalized in Shakespeare's play \"A Midsummer Night's Dream.\"",
-    "strategy": "1. Each turn, Titania gains 2 Fairy Power.\n2. Titania loses 1 Fairy Power each time she takes a Physical attack.\n3. Before the start of her turn, Titania spends all Fairy Power to activate Fairy Curse, decreasing all Phantom Thieves' damage by 15% for each Fairy Power spent."
+    "strategy": "1. At the end of each turn, Titania gains 2 Fairy Power stacks.\n2. Titania loses 1 Fairy Power stack each time it takes a Physical attack.\n3. Before the start of Titania's turn, it spends all of its Fairy Power stacks to activate Fairy Curse, decreasing all Phantom Thieves' final damage by the number of Fairy Power stacks spent × 15%."
   },
   {
     "sn": "516011",
@@ -3033,7 +3033,7 @@
     "sn": "645011",
     "name": "Atavaka",
     "desc": "One of the eight Yashaou. His domain is war and protection. Once a child-eating demon, he became one of the greatest of the Wisdom Kings after the Buddha converted him to good.",
-    "strategy": "When Atavaka takes damage from a skill, he gains a Mark based on that skill's <color=#FF423F>attribute</color>, up to 7 stacks.\nWhen he has collected 3 Marks of the same attribute, Atavaka spends all Marks to summon a Rakshasa.\nWhen Rakshasa is defeated, it increases all Phantom Thieves' damage for that attribute. Atavaka can summon Rakshasa up to 2 times."
+    "strategy": "When Atavaka takes damage from a skill, it gains a Mark based on that skill's <color=#FF423F>attribute</color>, up to 7 stacks.\nWhen it has collected 3 Marks of the same attribute, Atavaka spends all Marks to summon a Rakshasa.\nWhen Rakshasa is defeated, it increases all Phantom Thieves' damage for that attribute. Atavaka can summon Rakshasa up to 2 times."
   },
   {
     "sn": "645015",
@@ -20925,13 +20925,13 @@
     "sn": "228142",
     "name": "Sandman",
     "desc": "A fairy in German folklore who carries a bag of magical sand, which puts humans to sleep when thrown into their eyes. If the victim resists, the Sandman will sit on their eyelids.",
-    "strategy": "Each turn, Sandman will put 1 random Phantom Thief to Sleep for 2 turns."
+    "strategy": "Each turn, Sandman has a chance to put 1 random Phantom Thief to Sleep for 2 turns."
   },
   {
     "sn": "228143",
     "name": "Sandman",
     "desc": "A fairy in German folklore who carries a bag of magical sand, which puts humans to sleep when thrown into their eyes. If the victim resists, the Sandman will sit on their eyelids.",
-    "strategy": "Each turn, Sandman will put 1 random Phantom Thief to Sleep for 2 turns."
+    "strategy": "Each turn, Sandman has a chance to put 1 random Phantom Thief to Sleep for 2 turns."
   },
   {
     "sn": "228144",
@@ -24741,25 +24741,25 @@
     "sn": "504101",
     "name": "Bishamonten",
     "desc": "Also known as Tamonten and Vaishravana in Buddhist lore, he is the strongest of the Heavenly Kings. He protects the North and is the god of war.",
-    "strategy": "Each turn, the Four Heavenly Kings will focus their Death Stare on 1 random Phantom Thief. They will prioritize attacking the Phantom Thief under the Death Stare. By using Taunt skills, a Phantom Thief can transter the Death Stare to themselves."
+    "strategy": "Each turn, Shadows will fire off a Death Stare at a random Phantom Thief. They will prioritize attacking the Phantom Thief under the Death Stare. By using Taunt skills or skills that increase their own attack taken rate, a Phantom Thief can transfer the Death Stare to themself."
   },
   {
     "sn": "504102",
     "name": "Koumokuten",
     "desc": "Also known as Virupaksha, he is the protector of the West, and is one of the four Heavenly Kings of Buddhist origin. He keeps a close watch on the world with his sharp gaze.",
-    "strategy": "Each turn, the Four Heavenly Kings will focus their Death Stare on 1 random Phantom Thief. They will prioritize attacking the Phantom Thief under the Death Stare. By using Taunt skills, a Phantom Thief can transter the Death Stare to themselves."
+    "strategy": "Each turn, Shadows will fire off a Death Stare at a random Phantom Thief. They will prioritize attacking the Phantom Thief under the Death Stare. By using Taunt skills or skills that increase their own attack taken rate, a Phantom Thief can transfer the Death Stare to themself."
   },
   {
     "sn": "504103",
     "name": "Zouchouten",
     "desc": "Also known as Virudhaka, he is the protector of the South, and is one of the four Heavenly Kings of Buddhist origin. He is the god of the five grains, and was once the chief of the gods.",
-    "strategy": "Each turn, the Four Heavenly Kings will focus their Death Stare on 1 random Phantom Thief. They will prioritize attacking the Phantom Thief under the Death Stare. By using Taunt skills, a Phantom Thief can transter the Death Stare to themselves."
+    "strategy": "Each turn, Shadows will fire off a Death Stare at a random Phantom Thief. They will prioritize attacking the Phantom Thief under the Death Stare. By using Taunt skills or skills that increase their own attack taken rate, a Phantom Thief can transfer the Death Stare to themself."
   },
   {
     "sn": "504104",
     "name": "Jikokuten",
     "desc": "Also known as Dhritarashtra, he is the protector of the East, and is one of the four Heavenly Kings of Buddhist origin. He helps maintain the security of the nation.",
-    "strategy": "Each turn, the Four Heavenly Kings will focus their Death Stare on 1 random Phantom Thief. They will prioritize attacking the Phantom Thief under the Death Stare. By using Taunt skills, a Phantom Thief can transter the Death Stare to themselves."
+    "strategy": "Each turn, Shadows will fire off a Death Stare at a random Phantom Thief. They will prioritize attacking the Phantom Thief under the Death Stare. By using Taunt skills or skills that increase their own attack taken rate, a Phantom Thief can transfer the Death Stare to themself."
   },
   {
     "sn": "504111",
@@ -24999,25 +24999,25 @@
     "sn": "505111",
     "name": "Bishamonten",
     "desc": "Also known as Tamonten and Vaishravana in Buddhist lore, he is the strongest of the Heavenly Kings. He protects the North and is the god of war.",
-    "strategy": "Each turn, the Four Heavenly Kings will focus their Death Stare on 1 random Phantom Thief. They will prioritize attacking the Phantom Thief under the Death Stare. By using Taunt skills, a Phantom Thief can transter the Death Stare to themselves."
+    "strategy": "Each turn, Shadows will fire off a Death Stare at a random Phantom Thief. They will prioritize attacking the Phantom Thief under the Death Stare. By using Taunt skills or skills that increase their own attack taken rate, a Phantom Thief can transfer the Death Stare to themself."
   },
   {
     "sn": "505112",
     "name": "Koumokuten",
     "desc": "Also known as Virupaksha, he is the protector of the West, and is one of the four Heavenly Kings of Buddhist origin. He keeps a close watch on the world with his sharp gaze.",
-    "strategy": "Each turn, the Four Heavenly Kings will focus their Death Stare on 1 random Phantom Thief. They will prioritize attacking the Phantom Thief under the Death Stare. By using Taunt skills, a Phantom Thief can transter the Death Stare to themselves."
+    "strategy": "Each turn, Shadows will fire off a Death Stare at a random Phantom Thief. They will prioritize attacking the Phantom Thief under the Death Stare. By using Taunt skills or skills that increase their own attack taken rate, a Phantom Thief can transfer the Death Stare to themself."
   },
   {
     "sn": "505113",
     "name": "Zouchouten",
     "desc": "Also known as Virudhaka, he is the protector of the South, and is one of the four Heavenly Kings of Buddhist origin. He is the god of the five grains, and was once the chief of the gods.",
-    "strategy": "Each turn, the Four Heavenly Kings will focus their Death Stare on 1 random Phantom Thief. They will prioritize attacking the Phantom Thief under the Death Stare. By using Taunt skills, a Phantom Thief can transter the Death Stare to themselves."
+    "strategy": "Each turn, Shadows will fire off a Death Stare at a random Phantom Thief. They will prioritize attacking the Phantom Thief under the Death Stare. By using Taunt skills or skills that increase their own attack taken rate, a Phantom Thief can transfer the Death Stare to themself."
   },
   {
     "sn": "505114",
     "name": "Jikokuten",
     "desc": "Also known as Dhritarashtra, he is the protector of the East, and is one of the four Heavenly Kings of Buddhist origin. He helps maintain the security of the nation.",
-    "strategy": "Each turn, the Four Heavenly Kings will focus their Death Stare on 1 random Phantom Thief. They will prioritize attacking the Phantom Thief under the Death Stare. By using Taunt skills, a Phantom Thief can transter the Death Stare to themselves."
+    "strategy": "Each turn, Shadows will fire off a Death Stare at a random Phantom Thief. They will prioritize attacking the Phantom Thief under the Death Stare. By using Taunt skills or skills that increase their own attack taken rate, a Phantom Thief can transfer the Death Stare to themself."
   },
   {
     "sn": "506011",
@@ -25227,25 +25227,25 @@
     "sn": "506111",
     "name": "Bishamonten",
     "desc": "Also known as Tamonten and Vaishravana in Buddhist lore, he is the strongest of the Heavenly Kings. He protects the North and is the god of war.",
-    "strategy": "Each turn, the Four Heavenly Kings will focus their Death Stare on 1 random Phantom Thief. They will prioritize attacking the Phantom Thief under the Death Stare. By using Taunt skills, a Phantom Thief can transter the Death Stare to themselves."
+    "strategy": "Each turn, Shadows will fire off a Death Stare at a random Phantom Thief. They will prioritize attacking the Phantom Thief under the Death Stare. By using Taunt skills or skills that increase their own attack taken rate, a Phantom Thief can transfer the Death Stare to themself."
   },
   {
     "sn": "506112",
     "name": "Koumokuten",
     "desc": "Also known as Virupaksha, he is the protector of the West, and is one of the four Heavenly Kings of Buddhist origin. He keeps a close watch on the world with his sharp gaze.",
-    "strategy": "Each turn, the Four Heavenly Kings will focus their Death Stare on 1 random Phantom Thief. They will prioritize attacking the Phantom Thief under the Death Stare. By using Taunt skills, a Phantom Thief can transter the Death Stare to themselves."
+    "strategy": "Each turn, Shadows will fire off a Death Stare at a random Phantom Thief. They will prioritize attacking the Phantom Thief under the Death Stare. By using Taunt skills or skills that increase their own attack taken rate, a Phantom Thief can transfer the Death Stare to themself."
   },
   {
     "sn": "506113",
     "name": "Zouchouten",
     "desc": "Also known as Virudhaka, he is the protector of the South, and is one of the four Heavenly Kings of Buddhist origin. He is the god of the five grains, and was once the chief of the gods.",
-    "strategy": "Each turn, the Four Heavenly Kings will focus their Death Stare on 1 random Phantom Thief. They will prioritize attacking the Phantom Thief under the Death Stare. By using Taunt skills, a Phantom Thief can transter the Death Stare to themselves."
+    "strategy": "Each turn, Shadows will fire off a Death Stare at a random Phantom Thief. They will prioritize attacking the Phantom Thief under the Death Stare. By using Taunt skills or skills that increase their own attack taken rate, a Phantom Thief can transfer the Death Stare to themself."
   },
   {
     "sn": "506114",
     "name": "Jikokuten",
     "desc": "Also known as Dhritarashtra, he is the protector of the East, and is one of the four Heavenly Kings of Buddhist origin. He helps maintain the security of the nation.",
-    "strategy": "Each turn, the Four Heavenly Kings will focus their Death Stare on 1 random Phantom Thief. They will prioritize attacking the Phantom Thief under the Death Stare. By using Taunt skills, a Phantom Thief can transter the Death Stare to themselves."
+    "strategy": "Each turn, Shadows will fire off a Death Stare at a random Phantom Thief. They will prioritize attacking the Phantom Thief under the Death Stare. By using Taunt skills or skills that increase their own attack taken rate, a Phantom Thief can transfer the Death Stare to themself."
   },
   {
     "sn": "507011",
@@ -26553,7 +26553,7 @@
     "sn": "512101",
     "name": "Titania",
     "desc": "The queen of the fairies and Oberon's wife. She is derived from the Roman goddess Diana. She was later immortalized in Shakespeare's play \"A Midsummer Night's Dream.\"",
-    "strategy": "Titania's weaknesses and resistances are different than normal.\n1. At the end of each turn, Titania gains 2 Fairy Power stacks.\n2. Titania loses 1 Fairy Power stack each time it takes a Physical attack.\n3. Before the start of Titania's turn, it spends all of its Fairy Power stacks to activate Fairy Curse, decreasing all Phantom Thieves' damage the number of Fairy Curse stacks spent × 15%."
+    "strategy": "Titania's weaknesses and resistances are different than normal.\n1. At the end of each turn, Titania gains 2 Fairy Power stacks.\n2. Titania loses 1 Fairy Power stack each time it takes a Physical attack.\n3. Before the start of Titania's turn, it spends all of its Fairy Power stacks to activate Fairy Curse, decreasing all Phantom Thieves' final damage by the number of Fairy Power stacks spent × 15%."
   },
   {
     "sn": "512111",
@@ -26761,33 +26761,33 @@
   },
   {
     "sn": "513101",
-    "name": "Raphael",
-    "desc": "One of the four major archangels, his name means \"healer.\" He recites the history of the fallen angels and the creation of Adam and Eve.",
-    "strategy": "1. At the start of battle, all four angels are affected by Demonic Curse, changing all affinities to Weak. Lasts for 1 turn.\n2. Raphael will restore all Phantom Thieves' SP every turn, but also inflicts Angelic Binding on the Phantom Thief with the highest Attack, greatly decreasing their damage."
-  },
-  {
-    "sn": "513102",
-    "name": "Uriel",
-    "desc": "One of the four major archangels. His name means \"Flame of God,\" and he knows all the celestial phenomena. He is the first angel Satan met on earth.",
-    "strategy": "AAAAAA=="
-  },
-  {
-    "sn": "513103",
-    "name": "Michael",
-    "desc": "One of the four major archangels, he is at the top of the angelic hierarchy. He carries a long spear that can cut through anything, and his name means \"one who is like God.\"",
-    "strategy": "AAAAAA=="
-  },
-  {
-    "sn": "513104",
-    "name": "Gabriel",
-    "desc": "One of the four major archangels. She is also the only female angel at this rank. Her name comes from the Sumerian word for \"governor.\" She is the angel who told Mary of her pregnancy.",
-    "strategy": "AAAAAA=="
+    "name": "Titania",
+    "desc": "The queen of the fairies and Oberon's wife. She is derived from the Roman goddess Diana. She was later immortalized in Shakespeare's play \"A Midsummer Night's Dream.\"",
+    "strategy": "1. At the end of each turn, Titania gains 2 Fairy Power stacks.\n2. Titania loses 1 Fairy Power stack each time it takes a Physical attack.\n3. Before the start of Titania's turn, it spends all of its Fairy Power stacks to activate Fairy Curse, decreasing all Phantom Thieves' final damage by the number of Fairy Power stacks spent × 15%."
   },
   {
     "sn": "513111",
-    "name": "Titania",
-    "desc": "The queen of the fairies and Oberon's wife. She is derived from the Roman goddess Diana. She was later immortalized in Shakespeare's play \"A Midsummer Night's Dream.\"",
-    "strategy": "1. Each turn, Titania gains 2 Fairy Power stacks.\n2. Titania loses 1 Fairy Power stack each time she takes a Physical attack.\n3. Before the start of her turn, Titania spends all Fairy Power stacks to activate Fairy Curse, decreasing all Phantom Thieves' damage by 15% for each stack spent."
+    "name": "Bishamonten",
+    "desc": "Also known as Tamonten and Vaishravana in Buddhist lore, he is the strongest of the Heavenly Kings. He protects the North and is the god of war.",
+    "strategy": "Each turn, Shadows will fire off a Death Stare at a random Phantom Thief. They will prioritize attacking the Phantom Thief under the Death Stare. By using Taunt skills or skills that increase their own attack taken rate, a Phantom Thief can transfer the Death Stare to themself."
+  },
+  {
+    "sn": "513112",
+    "name": "Koumokuten",
+    "desc": "Also known as Virupaksha, he is the protector of the West, and is one of the four Heavenly Kings of Buddhist origin. He keeps a close watch on the world with his sharp gaze.",
+    "strategy": "Each turn, Shadows will fire off a Death Stare at a random Phantom Thief. They will prioritize attacking the Phantom Thief under the Death Stare. By using Taunt skills or skills that increase their own attack taken rate, a Phantom Thief can transfer the Death Stare to themself."
+  },
+  {
+    "sn": "513113",
+    "name": "Zouchouten",
+    "desc": "Also known as Virudhaka, he is the protector of the South, and is one of the four Heavenly Kings of Buddhist origin. He is the god of the five grains, and was once the chief of the gods.",
+    "strategy": "Weaknesses and resisistances are different than normal.\nEach turn, Shadows will fire off a Death Stare at a random Phantom Thief. They will prioritize attacking the Phantom Thief under the Death Stare. By using Taunt skills or skills that increase their own attack taken rate, a Phantom Thief can transfer the Death Stare to themself."
+  },
+  {
+    "sn": "513114",
+    "name": "Jikokuten",
+    "desc": "Also known as Dhritarashtra, he is the protector of the East, and is one of the four Heavenly Kings of Buddhist origin. He helps maintain the security of the nation.",
+    "strategy": "Weaknesses and resisistances are different than normal.\nEach turn, Shadows will fire off a Death Stare at a random Phantom Thief. They will prioritize attacking the Phantom Thief under the Death Stare. By using Taunt skills or skills that increase their own attack taken rate, a Phantom Thief can transfer the Death Stare to themself."
   },
   {
     "sn": "600011",
@@ -32217,13 +32217,13 @@
     "sn": "735111",
     "name": "Atavaka",
     "desc": "One of the eight Yashaou. His domain is war and protection. Once a child-eating demon, he became one of the greatest of the Wisdom Kings after the Buddha converted him to good.",
-    "strategy": "Atavaka has different weaknesses and resistances than normal.\nWhen Atavaka takes damage from a skill, he gains a Mark based on that skill's <color=#FF423F>attribute</color>. The maximum number of Marks is 7.\nWhen he has collected 3 Marks of the same attribute, Atavaka spends all Marks to summon a Rakshasa. When Rakshasa is defeated, the corresponding attribute damage of all Phantom Thieves is increased. Atavaka can summon Rakshasa up to 2 times."
+    "strategy": "Atavaka has different weaknesses and resistances than normal.\nWhen Atavaka takes damage from a skill, it gains a Mark based on that skill's <color=#FF423F>attribute</color>. The maximum number of Marks is 7.\nWhen it has collected 3 Marks of the same attribute, Atavaka spends all Marks to summon a Rakshasa. When Rakshasa is defeated, the corresponding attribute damage of all Phantom Thieves is increased. Atavaka can summon Rakshasa up to 2 times."
   },
   {
     "sn": "735112",
     "name": "Atavaka",
     "desc": "One of the eight Yashaou. His domain is war and protection. Once a child-eating demon, he became one of the greatest of the Wisdom Kings after the Buddha converted him to good.",
-    "strategy": "Atavaka has different weaknesses and resistances than normal.\nWhen Atavaka takes damage from a skill, he gains a Mark based on that skill's <color=#FF423F>attribute</color>. The maximum number of Marks is 7.\nWhen he has collected 3 Marks of the same attribute, Atavaka spends all Marks to summon a Rakshasa. When Rakshasa is defeated, the corresponding attribute damage of all Phantom Thieves is increased. Atavaka can summon Rakshasa up to 2 times."
+    "strategy": "Atavaka has different weaknesses and resistances than normal.\nWhen Atavaka takes damage from a skill, it gains a Mark based on that skill's <color=#FF423F>attribute</color>. The maximum number of Marks is 7.\nWhen it has collected 3 Marks of the same attribute, Atavaka spends all Marks to summon a Rakshasa. When Rakshasa is defeated, the corresponding attribute damage of all Phantom Thieves is increased. Atavaka can summon Rakshasa up to 2 times."
   },
   {
     "sn": "735121",
@@ -32295,7 +32295,7 @@
     "sn": "735611",
     "name": "Atavaka",
     "desc": "One of the eight Yashaou. His domain is war and protection. Once a child-eating demon, he became one of the greatest of the Wisdom Kings after the Buddha converted him to good.",
-    "strategy": "Atavaka has different weaknesses and resistances than normal.\nWhen Atavaka takes damage from a skill, he gains a Mark based on that skill's <color=#FF423F>attribute</color>. The maximum number of Marks is 7.\nWhen he has collected 3 Marks of the same attribute, Atavaka spends all Marks to summon a Rakshasa. When Rakshasa is defeated, the corresponding attribute damage of all Phantom Thieves is increased. Atavaka can summon Rakshasa up to 2 times."
+    "strategy": "Atavaka has different weaknesses and resistances than normal.\nWhen Atavaka takes damage from a skill, it gains a Mark based on that skill's <color=#FF423F>attribute</color>. The maximum number of Marks is 7.\nWhen it has collected 3 Marks of the same attribute, Atavaka spends all Marks to summon a Rakshasa. When Rakshasa is defeated, the corresponding attribute damage of all Phantom Thieves is increased. Atavaka can summon Rakshasa up to 2 times."
   },
   {
     "sn": "735621",
@@ -32403,7 +32403,7 @@
     "sn": "736611",
     "name": "Yatsufusa",
     "desc": "Seven days after its birth, a wolf killed its mother. Yoshizane Satomi later promised his daughter's hand if it could defeat the enemy, but after Yatsufusa's success, Yoshizane's retainer shot it dead.",
-    "strategy": "1. Yatsufusa will activate Eight Beads of Virtue. Eight Beads of Virtue: All affinities change to Resist, damage dealt increases, and damage taken decreases. It also summons 4 Shadows. When a Shadow is defeated, Yatsufusa is inflicted with the corresponding elemental ailment for 2 turns. Summoned Shadows have different weaknesses and resistances than normal.\n2. When Yatsufusa is in the Eight Beads of Virtue state and is inflicted with all 4 types of elemental ailments, the Eight Beads of Virtue state is canceled and its Defense decreases.\n3. When Yatsufusa is Weakened, all Shadows vanish, and the Eight Beads of Virtue state is canceled."
+    "strategy": "1. Yatsufusa will activate Eight Beads of Virtue. Eight Beads of Virtue: All affinities change to Resist, damage dealt increases, and damage taken decreases. It also summons 4 Shadows. When a Shadow is defeated, Yatsufusa is inflicted with the corresponding elemental ailment for 2 turns. Summoned Shadows have different weaknesses and resistances than normal.\n2. When Yatsufusa is in the Eight Beads of Virtue state and is inflicted with all 4 types of elemental ailments, the Eight Beads of Virtue state is canceled and its Defense decreases."
   },
   {
     "sn": "736621",
@@ -38715,7 +38715,7 @@
     "sn": "829071",
     "name": "Pazuzu",
     "desc": "The Babylonian lord of wind and scorching sands. He has the body of a man, a lion's head, the claws and wings of an eagle, and has a deadly poison. The diseases he spreads can only be cured with magic.",
-    "strategy": "Weaknesses and resistances are different than normal.\n1. Pazuzu's skills can inflict Plague Curse. Plague Curse: Deals damage equal to 5% of max HP at the end of the turn.\n2. Pazuzu uses Spreading Sickness every other turn. Spreading Sickness: Inflicts 2 Plague Curse stacks on all Phantom Thieves, with a high chance of inflicting spiritual ailments.\n3. Pazuzu uses Eternal Binding every turn. Eternal Binding: Inflicts 2 Plague Curse stacks on all Phantom Thieves, and immediately activates Plague Curse 1 time."
+    "strategy": "1. Pazuzu's skills can inflict Plague Curse. Plague Curse: Deals damage equal to 5% of max HP at the end of the turn.\n2. Pazuzu uses Spreading Sickness every other turn. Spreading Sickness: Inflicts 2 Plague Curse stacks on all Phantom Thieves, with a high chance of inflicting spiritual ailments.\n3. Pazuzu uses Eternal Binding every turn. Eternal Binding: Inflicts 2 Plague Curse stacks on all Phantom Thieves, and immediately activates Plague Curse 1 time."
   },
   {
     "sn": "829072",
@@ -38805,7 +38805,7 @@
     "sn": "829101",
     "name": "Horus",
     "desc": "An ancient god of Egypt whose eyes are the sun and moon. Revered by some as the chief god, he is often depicted as a hawk or a falcon.",
-    "strategy": "Weaknesses and resistances are different than normal.\n1. Horus is blessed by the Sun God, and at the end of each turn it gains 1 Power of the Sun stack.\nPower of the Sun: Damage taken decreased by 20%.\n2. If Horus has Power of the Sun at the beginning of its turn, it deals heavy Almighty damage to all Phantom Thieves. Damage increases based on the number of Power of the Sun stacks.\n3. Kushi Mitama has the power of the Moon God, and removes 1 Power of the Sun stack from Horus every turn. In exchange, it loses 34% of its max HP."
+    "strategy": "1. Horus is blessed by the Sun God, and at the end of each turn it gains 1 Power of the Sun stack.\nPower of the Sun: Damage taken decreased by 20%.\n2. If Horus has Power of the Sun at the beginning of its turn, it deals heavy Almighty damage to all Phantom Thieves. Damage increases based on the number of Power of the Sun stacks.\n3. Kushi Mitama has the power of the Moon God, and removes 1 Power of the Sun stack from Horus every turn. In exchange, it loses 34% of its max HP."
   },
   {
     "sn": "829102",
@@ -38823,7 +38823,7 @@
     "sn": "829111",
     "name": "Horus",
     "desc": "An ancient god of Egypt whose eyes are the sun and moon. Revered by some as the chief god, he is often depicted as a hawk or a falcon.",
-    "strategy": "Weaknesses and resistances are different than normal.\n1. Horus is blessed by the Sun God, and at the end of each turn it gains 1 Power of the Sun stack.\nPower of the Sun: Damage taken decreased by 20%.\n2. If Horus has Power of the Sun at the beginning of its turn, it deals heavy Almighty damage to all Phantom Thieves. Damage increases based on the number of Power of the Sun stacks.\n3. Kushi Mitama has the power of the Moon God, and removes 1 Power of the Sun stack from Horus every turn. In exchange, it loses 34% of its max HP.\n4. Ara Mitama has the power of the Sun God, and when it is defeated, Horus gains 3 Power of the Sun stacks."
+    "strategy": "1. Horus is blessed by the Sun God, and at the end of each turn it gains 1 Power of the Sun stack.\nPower of the Sun: Damage taken decreased by 20%.\n2. If Horus has Power of the Sun at the beginning of its turn, it deals heavy Almighty damage to all Phantom Thieves. Damage increases based on the number of Power of the Sun stacks.\n3. Kushi Mitama has the power of the Moon God, and removes 1 Power of the Sun stack from Horus every turn. In exchange, it loses 34% of its max HP.\n4. Ara Mitama has the power of the Sun God, and when it is defeated, Horus gains 3 Power of the Sun stacks."
   },
   {
     "sn": "829112",
@@ -38841,7 +38841,7 @@
     "sn": "829121",
     "name": "Horus",
     "desc": "An ancient god of Egypt whose eyes are the sun and moon. Revered by some as the chief god, he is often depicted as a hawk or a falcon.",
-    "strategy": "Weaknesses and resistances are different than normal.\n1. Horus is blessed by the Sun God, and at the end of each turn it gains 1 Power of the Sun stack.\nPower of the Sun: Final damage taken decreased by 20%.\n2. If Horus has Power of the Sun at the beginning of its turn, it deals heavy Almighty damage to all Phantom Thieves. Damage increases based on the number of Power of the Sun stacks.\n3. Kushi Mitama has the power of the Moon God, and removes 1 Power of the Sun stack from Horus every turn. In exchange, it loses 34% of its max HP.\n4. Saki Mitama has the power of the Sun God, and each turn grants 1 Power of the Sun stack to Horus. If it is defeated, Horus loses all Power of the Sun stacks.\n5. Saki Mitama removes all continuous damage effects on itself at the start of its turn. For each effect removed, it takes 3% of its max HP as damage (this is affected by its final damage reduction).\n6. Saki Mitama has Protection of Horus, which decreases damage taken outside of its own turn by 60%, but increases damage taken during its own turn by 300%.\n7. If only Kushi Mitama remains on the field, it transforms into Seth and takes control of the field."
+    "strategy": "1. Horus is blessed by the Sun God, and at the end of each turn it gains 1 Power of the Sun stack.\nPower of the Sun: Final damage taken decreased by 20%.\n2. If Horus has Power of the Sun at the beginning of its turn, it deals heavy Almighty damage to all Phantom Thieves. Damage increases based on the number of Power of the Sun stacks.\n3. Kushi Mitama has the power of the Moon God, and removes 1 Power of the Sun stack from Horus every turn. In exchange, it loses 34% of its max HP.\n4. Saki Mitama has the power of the Sun God, and each turn grants 1 Power of the Sun stack to Horus. If it is defeated, Horus loses all Power of the Sun stacks.\n5. Saki Mitama removes all continuous damage effects on itself at the start of its turn. For each effect removed, it takes 3% of its max HP as damage (this is affected by its final damage reduction).\n6. Saki Mitama has Protection of Horus, which decreases damage taken outside of its own turn by 60%, but increases damage taken during its own turn by 300%.\n7. If only Kushi Mitama remains on the field, it transforms into Seth and takes control of the field."
   },
   {
     "sn": "829122",
@@ -45224,14 +45224,14 @@
   {
     "sn": "914501",
     "name": "Moha",
-    "desc": "-",
-    "strategy": "AAAAAA=="
+    "desc": "An unknown person's Shadow. It gazes down on the ignorant with contempt.",
+    "strategy": "1. When Moha's HP reaches 0 and it becomes Wrathful Moha, it gains 8 Wrath stacks.\n2. After acting each turn, if Wrathful Moha has taken damage during that turn, its Wrath increases by 4. If it has not taken damage during the turn, its Wrath decreases by 1.\n3. If Wrathful Moha has 12 Wrath stacks at the end of its turn, it will spend all Wrath to activate Rapid Ascent, and on the next turn, use Sphinxian Dive to deal heavy Physical damage to all Phantom Thieves.\n4. When Wrathful Moha is in battle, the Phantom Thieves gain a small amount of Ballista Energy at the end of each turn.\n5. When the Phantom Thieves deal weakness damage to Wrathful Moha, they gain a large amount of Ballista Energy. This can only be activated once per turn.\n6. When the Phantom Thieves have 100 Ballista Energy at the start of their turn, they will spend 100 Ballista Energy to attack Wrathful Moha with a Ballista Shot, putting it in a Weakened state and causing it to lose all Wrath."
   },
   {
     "sn": "914502",
-    "name": "Moha",
-    "desc": "-",
-    "strategy": "1. After acting each turn, if Moha has taken damage during that turn, its Wrath increases by 4. If it has not taken damage during the turn, its Wrath decreases by 1.\n2. If Moha's Wrath reaches 12 by the end of the turn, it will spend all Wrath to use Rapid Ascent, and on the next turn, uses Sphinx Dive to deal heavy Physical damage to all Phantom Thieves.\n3. When Moha is on the field, the Phantom Thieves gain a small amount of Ballista Energy at the end of each turn.\n4. When the Phantom Thieves deal weak point damage to Moha, they gain a large amount of Ballista Energy. This can be done only once per turn.\n5. When the Phantom Thieves have 100 Ballista Energy at the start of the turn, they will spend 100 Ballista Energy to attack Moha with a Ballista Shot, putting it in a Weakened state and causing it to lose all Wrath."
+    "name": "Wrathful Moha",
+    "desc": "An unknown person's Shadow. It gazes down on the ignorant with contempt.",
+    "strategy": "1. When Moha's HP reaches 0 and it becomes Wrathful Moha, it gains 8 Wrath stacks.\n2. After acting each turn, if Wrathful Moha has taken damage during that turn, its Wrath increases by 4. If it has not taken damage during the turn, its Wrath decreases by 1.\n3. If Wrathful Moha has 12 Wrath stacks at the end of its turn, it will spend all Wrath to activate Rapid Ascent, and on the next turn, use Sphinxian Dive to deal heavy Physical damage to all Phantom Thieves.\n4. When Wrathful Moha is in battle, the Phantom Thieves gain a small amount of Ballista Energy at the end of each turn.\n5. When the Phantom Thieves deal weakness damage to Wrathful Moha, they gain a large amount of Ballista Energy. This can only be activated once per turn.\n6. When the Phantom Thieves have 100 Ballista Energy at the start of their turn, they will spend 100 Ballista Energy to attack Wrathful Moha with a Ballista Shot, putting it in a Weakened state and causing it to lose all Wrath."
   },
   {
     "sn": "914311",
@@ -45716,74 +45716,74 @@
   {
     "sn": "914911",
     "name": "Moha",
-    "desc": "-",
-    "strategy": "1. After acting each turn, if Moha has taken damage during that turn, its Wrath increases by 4. If it has not taken damage during the turn, its Wrath decreases by 1.\n2. If Moha's Wrath reaches 12 by the end of the turn, it will spend all Wrath to use Rapid Ascent, and on the next turn, uses Sphinx Dive to deal heavy Physical damage to all Phantom Thieves.\n3. When Moha is on the field, the Phantom Thieves gain a small amount of Ballista Energy at the end of each turn.\n4. When the Phantom Thieves deal weak point damage to Moha, they gain a large amount of Ballista Energy. This can be done only once per turn.\n5. When the Phantom Thieves have 100 Ballista Energy at the start of the turn, they will spend 100 Ballista Energy to attack Moha with a Ballista Shot, putting it in a Weakened state and causing it to lose all Wrath."
+    "desc": "An unknown person's Shadow. It gazes down on the ignorant with contempt.",
+    "strategy": "1. When Moha's HP reaches 0 and it becomes Wrathful Moha, it gains 8 Wrath stacks.\n2. After acting each turn, if Wrathful Moha has taken damage during that turn, its Wrath increases by 4. If it has not taken damage during the turn, its Wrath decreases by 1.\n3. If Wrathful Moha has 12 Wrath stacks at the end of its turn, it will spend all Wrath to activate Rapid Ascent, and on the next turn, use Sphinxian Dive to deal heavy Physical damage to all Phantom Thieves.\n4. When Wrathful Moha is in battle, the Phantom Thieves gain a small amount of Ballista Energy at the end of each turn.\n5. When the Phantom Thieves deal weakness damage to Wrathful Moha, they gain a large amount of Ballista Energy. This can only be activated once per turn.\n6. When the Phantom Thieves have 100 Ballista Energy at the start of their turn, they will spend 100 Ballista Energy to attack Wrathful Moha with a Ballista Shot, putting it in a Weakened state and causing it to lose all Wrath."
   },
   {
     "sn": "914912",
-    "name": "Moha",
-    "desc": "-",
-    "strategy": "AAAAAA=="
+    "name": "Wrathful Moha",
+    "desc": "An unknown person's Shadow. It gazes down on the ignorant with contempt.",
+    "strategy": "1. When Moha's HP reaches 0 and it becomes Wrathful Moha, it gains 8 Wrath stacks.\n2. After acting each turn, if Wrathful Moha has taken damage during that turn, its Wrath increases by 4. If it has not taken damage during the turn, its Wrath decreases by 1.\n3. If Wrathful Moha has 12 Wrath stacks at the end of its turn, it will spend all Wrath to activate Rapid Ascent, and on the next turn, use Sphinxian Dive to deal heavy Physical damage to all Phantom Thieves.\n4. When Wrathful Moha is in battle, the Phantom Thieves gain a small amount of Ballista Energy at the end of each turn.\n5. When the Phantom Thieves deal weakness damage to Wrathful Moha, they gain a large amount of Ballista Energy. This can only be activated once per turn.\n6. When the Phantom Thieves have 100 Ballista Energy at the start of their turn, they will spend 100 Ballista Energy to attack Wrathful Moha with a Ballista Shot, putting it in a Weakened state and causing it to lose all Wrath."
   },
   {
     "sn": "914921",
     "name": "Moha",
-    "desc": "-",
-    "strategy": "1. After acting each turn, if Moha has taken damage during that turn, its Wrath increases by 4. If it has not taken damage during the turn, its Wrath decreases by 1.\n2. If Moha's Wrath reaches 12 by the end of the turn, it will spend all Wrath to use Rapid Ascent, and on the next turn, uses Sphinx Dive to deal heavy Physical damage to all Phantom Thieves.\n3. When Moha is on the field, the Phantom Thieves gain a small amount of Ballista Energy at the end of each turn.\n4. When the Phantom Thieves deal weak point damage to Moha, they gain a large amount of Ballista Energy. This can be done only once per turn.\n5. When the Phantom Thieves have 100 Ballista Energy at the start of the turn, they will spend 100 Ballista Energy to attack Moha with a Ballista Shot, putting it in a Weakened state and causing it to lose all Wrath."
+    "desc": "An unknown person's Shadow. It gazes down on the ignorant with contempt.",
+    "strategy": "1. When Moha's HP reaches 0 and it becomes Wrathful Moha, it gains 8 Wrath stacks.\n2. After acting each turn, if Wrathful Moha has taken damage during that turn, its Wrath increases by 4. If it has not taken damage during the turn, its Wrath decreases by 1.\n3. If Wrathful Moha has 12 Wrath stacks at the end of its turn, it will spend all Wrath to activate Rapid Ascent, and on the next turn, use Sphinxian Dive to deal heavy Physical damage to all Phantom Thieves.\n4. When Wrathful Moha is in battle, the Phantom Thieves gain a small amount of Ballista Energy at the end of each turn.\n5. When the Phantom Thieves deal weakness damage to Wrathful Moha, they gain a large amount of Ballista Energy. This can only be activated once per turn.\n6. When the Phantom Thieves have 100 Ballista Energy at the start of their turn, they will spend 100 Ballista Energy to attack Wrathful Moha with a Ballista Shot, putting it in a Weakened state and causing it to lose all Wrath."
   },
   {
     "sn": "914922",
-    "name": "Moha",
-    "desc": "-",
-    "strategy": "AAAAAA=="
+    "name": "Wrathful Moha",
+    "desc": "An unknown person's Shadow. It gazes down on the ignorant with contempt.",
+    "strategy": "1. When Moha's HP reaches 0 and it becomes Wrathful Moha, it gains 8 Wrath stacks.\n2. After acting each turn, if Wrathful Moha has taken damage during that turn, its Wrath increases by 4. If it has not taken damage during the turn, its Wrath decreases by 1.\n3. If Wrathful Moha has 12 Wrath stacks at the end of its turn, it will spend all Wrath to activate Rapid Ascent, and on the next turn, use Sphinxian Dive to deal heavy Physical damage to all Phantom Thieves.\n4. When Wrathful Moha is in battle, the Phantom Thieves gain a small amount of Ballista Energy at the end of each turn.\n5. When the Phantom Thieves deal weakness damage to Wrathful Moha, they gain a large amount of Ballista Energy. This can only be activated once per turn.\n6. When the Phantom Thieves have 100 Ballista Energy at the start of their turn, they will spend 100 Ballista Energy to attack Wrathful Moha with a Ballista Shot, putting it in a Weakened state and causing it to lose all Wrath."
   },
   {
     "sn": "914931",
     "name": "Moha",
-    "desc": "-",
-    "strategy": "1. After acting each turn, if Moha has taken damage during that turn, its Wrath increases by 4. If it has not taken damage during the turn, its Wrath decreases by 1.\n2. If Moha's Wrath reaches 12 by the end of the turn, it will spend all Wrath to use Rapid Ascent, and on the next turn, uses Sphinx Dive to deal heavy Physical damage to all Phantom Thieves.\n3. When Moha is on the field, the Phantom Thieves gain a small amount of Ballista Energy at the end of each turn.\n4. When the Phantom Thieves deal weak point damage to Moha, they gain a large amount of Ballista Energy. This can be done only once per turn.\n5. When the Phantom Thieves have 100 Ballista Energy at the start of the turn, they will spend 100 Ballista Energy to attack Moha with a Ballista Shot, putting it in a Weakened state and causing it to lose all Wrath."
+    "desc": "An unknown person's Shadow. It gazes down on the ignorant with contempt.",
+    "strategy": "1. When Moha's HP reaches 0 and it becomes Wrathful Moha, it gains 8 Wrath stacks.\n2. After acting each turn, if Wrathful Moha has taken damage during that turn, its Wrath increases by 4. If it has not taken damage during the turn, its Wrath decreases by 1.\n3. If Wrathful Moha has 12 Wrath stacks at the end of its turn, it will spend all Wrath to activate Rapid Ascent, and on the next turn, use Sphinxian Dive to deal heavy Physical damage to all Phantom Thieves.\n4. When Wrathful Moha is in battle, the Phantom Thieves gain a small amount of Ballista Energy at the end of each turn.\n5. When the Phantom Thieves deal weakness damage to Wrathful Moha, they gain a large amount of Ballista Energy. This can only be activated once per turn.\n6. When the Phantom Thieves have 100 Ballista Energy at the start of their turn, they will spend 100 Ballista Energy to attack Wrathful Moha with a Ballista Shot, putting it in a Weakened state and causing it to lose all Wrath."
   },
   {
     "sn": "914932",
-    "name": "Moha",
-    "desc": "-",
-    "strategy": "AAAAAA=="
+    "name": "Wrathful Moha",
+    "desc": "An unknown person's Shadow. It gazes down on the ignorant with contempt.",
+    "strategy": "1. When Moha's HP reaches 0 and it becomes Wrathful Moha, it gains 8 Wrath stacks.\n2. After acting each turn, if Wrathful Moha has taken damage during that turn, its Wrath increases by 4. If it has not taken damage during the turn, its Wrath decreases by 1.\n3. If Wrathful Moha has 12 Wrath stacks at the end of its turn, it will spend all Wrath to activate Rapid Ascent, and on the next turn, use Sphinxian Dive to deal heavy Physical damage to all Phantom Thieves.\n4. When Wrathful Moha is in battle, the Phantom Thieves gain a small amount of Ballista Energy at the end of each turn.\n5. When the Phantom Thieves deal weakness damage to Wrathful Moha, they gain a large amount of Ballista Energy. This can only be activated once per turn.\n6. When the Phantom Thieves have 100 Ballista Energy at the start of their turn, they will spend 100 Ballista Energy to attack Wrathful Moha with a Ballista Shot, putting it in a Weakened state and causing it to lose all Wrath."
   },
   {
     "sn": "914941",
     "name": "Moha",
-    "desc": "-",
-    "strategy": "1. After acting each turn, if Moha has taken damage during that turn, its Wrath increases by 4. If it has not taken damage during the turn, its Wrath decreases by 1.\n2. If Moha's Wrath reaches 12 by the end of the turn, it will spend all Wrath to use Rapid Ascent, and on the next turn, uses Sphinx Dive to deal heavy Physical damage to all Phantom Thieves.\n3. When Moha is on the field, the Phantom Thieves gain a small amount of Ballista Energy at the end of each turn.\n4. When the Phantom Thieves deal weak point damage to Moha, they gain a large amount of Ballista Energy. This can be done only once per turn.\n5. When the Phantom Thieves have 100 Ballista Energy at the start of the turn, they will spend 100 Ballista Energy to attack Moha with a Ballista Shot, putting it in a Weakened state and causing it to lose all Wrath."
+    "desc": "An unknown person's Shadow. It gazes down on the ignorant with contempt.",
+    "strategy": "1. When Moha's HP reaches 0 and it becomes Wrathful Moha, it gains 8 Wrath stacks.\n2. After acting each turn, if Wrathful Moha has taken damage during that turn, its Wrath increases by 4. If it has not taken damage during the turn, its Wrath decreases by 1.\n3. If Wrathful Moha has 12 Wrath stacks at the end of its turn, it will spend all Wrath to activate Rapid Ascent, and on the next turn, use Sphinxian Dive to deal heavy Physical damage to all Phantom Thieves.\n4. When Wrathful Moha is in battle, the Phantom Thieves gain a small amount of Ballista Energy at the end of each turn.\n5. When the Phantom Thieves deal weakness damage to Wrathful Moha, they gain a large amount of Ballista Energy. This can only be activated once per turn.\n6. When the Phantom Thieves have 100 Ballista Energy at the start of their turn, they will spend 100 Ballista Energy to attack Wrathful Moha with a Ballista Shot, putting it in a Weakened state and causing it to lose all Wrath."
   },
   {
     "sn": "914942",
-    "name": "Moha",
-    "desc": "-",
-    "strategy": "AAAAAA=="
+    "name": "Wrathful Moha",
+    "desc": "An unknown person's Shadow. It gazes down on the ignorant with contempt.",
+    "strategy": "1. When Moha's HP reaches 0 and it becomes Wrathful Moha, it gains 8 Wrath stacks.\n2. After acting each turn, if Wrathful Moha has taken damage during that turn, its Wrath increases by 4. If it has not taken damage during the turn, its Wrath decreases by 1.\n3. If Wrathful Moha has 12 Wrath stacks at the end of its turn, it will spend all Wrath to activate Rapid Ascent, and on the next turn, use Sphinxian Dive to deal heavy Physical damage to all Phantom Thieves.\n4. When Wrathful Moha is in battle, the Phantom Thieves gain a small amount of Ballista Energy at the end of each turn.\n5. When the Phantom Thieves deal weakness damage to Wrathful Moha, they gain a large amount of Ballista Energy. This can only be activated once per turn.\n6. When the Phantom Thieves have 100 Ballista Energy at the start of their turn, they will spend 100 Ballista Energy to attack Wrathful Moha with a Ballista Shot, putting it in a Weakened state and causing it to lose all Wrath."
   },
   {
     "sn": "914951",
     "name": "Moha",
-    "desc": "-",
-    "strategy": "1. After acting each turn, if Moha has taken damage during that turn, its Wrath increases by 4. If it has not taken damage during the turn, its Wrath decreases by 1.\n2. If Moha's Wrath reaches 12 by the end of the turn, it will spend all Wrath to use Rapid Ascent, and on the next turn, uses Sphinx Dive to deal heavy Physical damage to all Phantom Thieves.\n3. When Moha is on the field, the Phantom Thieves gain a small amount of Ballista Energy at the end of each turn.\n4. When the Phantom Thieves deal weak point damage to Moha, they gain a large amount of Ballista Energy. This can be done only once per turn.\n5. When the Phantom Thieves have 100 Ballista Energy at the start of the turn, they will spend 100 Ballista Energy to attack Moha with a Ballista Shot, putting it in a Weakened state and causing it to lose all Wrath."
+    "desc": "An unknown person's Shadow. It gazes down on the ignorant with contempt.",
+    "strategy": "1. When Moha's HP reaches 0 and it becomes Wrathful Moha, it gains 8 Wrath stacks.\n2. After acting each turn, if Wrathful Moha has taken damage during that turn, its Wrath increases by 4. If it has not taken damage during the turn, its Wrath decreases by 1.\n3. If Wrathful Moha has 12 Wrath stacks at the end of its turn, it will spend all Wrath to activate Rapid Ascent, and on the next turn, use Sphinxian Dive to deal heavy Physical damage to all Phantom Thieves.\n4. When Wrathful Moha is in battle, the Phantom Thieves gain a small amount of Ballista Energy at the end of each turn.\n5. When the Phantom Thieves deal weakness damage to Wrathful Moha, they gain a large amount of Ballista Energy. This can only be activated once per turn.\n6. When the Phantom Thieves have 100 Ballista Energy at the start of their turn, they will spend 100 Ballista Energy to attack Wrathful Moha with a Ballista Shot, putting it in a Weakened state and causing it to lose all Wrath."
   },
   {
     "sn": "914952",
-    "name": "Moha",
-    "desc": "-",
-    "strategy": "AAAAAA=="
+    "name": "Wrathful Moha",
+    "desc": "An unknown person's Shadow. It gazes down on the ignorant with contempt.",
+    "strategy": "1. When Moha's HP reaches 0 and it becomes Wrathful Moha, it gains 8 Wrath stacks.\n2. After acting each turn, if Wrathful Moha has taken damage during that turn, its Wrath increases by 4. If it has not taken damage during the turn, its Wrath decreases by 1.\n3. If Wrathful Moha has 12 Wrath stacks at the end of its turn, it will spend all Wrath to activate Rapid Ascent, and on the next turn, use Sphinxian Dive to deal heavy Physical damage to all Phantom Thieves.\n4. When Wrathful Moha is in battle, the Phantom Thieves gain a small amount of Ballista Energy at the end of each turn.\n5. When the Phantom Thieves deal weakness damage to Wrathful Moha, they gain a large amount of Ballista Energy. This can only be activated once per turn.\n6. When the Phantom Thieves have 100 Ballista Energy at the start of their turn, they will spend 100 Ballista Energy to attack Wrathful Moha with a Ballista Shot, putting it in a Weakened state and causing it to lose all Wrath."
   },
   {
     "sn": "914961",
     "name": "Moha",
-    "desc": "-",
-    "strategy": "1. After acting each turn, if Moha has taken damage during that turn, its Wrath increases by 4. If it has not taken damage during the turn, its Wrath decreases by 1.\n2. If Moha's Wrath reaches 12 by the end of the turn, it will spend all Wrath to use Rapid Ascent, and on the next turn, uses Sphinx Dive to deal heavy Physical damage to all Phantom Thieves.\n3. When Moha is on the field, the Phantom Thieves gain a small amount of Ballista Energy at the end of each turn.\n4. When the Phantom Thieves deal weak point damage to Moha, they gain a large amount of Ballista Energy. This can be done only once per turn.\n5. When the Phantom Thieves have 100 Ballista Energy at the start of the turn, they will spend 100 Ballista Energy to attack Moha with a Ballista Shot, putting it in a Weakened state and causing it to lose all Wrath."
+    "desc": "An unknown person's Shadow. It gazes down on the ignorant with contempt.",
+    "strategy": "1. When Moha's HP reaches 0 and it becomes Wrathful Moha, it gains 8 Wrath stacks.\n2. After acting each turn, if Wrathful Moha has taken damage during that turn, its Wrath increases by 4. If it has not taken damage during the turn, its Wrath decreases by 1.\n3. If Wrathful Moha has 12 Wrath stacks at the end of its turn, it will spend all Wrath to activate Rapid Ascent, and on the next turn, use Sphinxian Dive to deal heavy Physical damage to all Phantom Thieves.\n4. When Wrathful Moha is in battle, the Phantom Thieves gain a small amount of Ballista Energy at the end of each turn.\n5. When the Phantom Thieves deal weakness damage to Wrathful Moha, they gain a large amount of Ballista Energy. This can only be activated once per turn.\n6. When the Phantom Thieves have 100 Ballista Energy at the start of their turn, they will spend 100 Ballista Energy to attack Wrathful Moha with a Ballista Shot, putting it in a Weakened state and causing it to lose all Wrath."
   },
   {
     "sn": "914962",
-    "name": "Moha",
-    "desc": "-",
-    "strategy": "AAAAAA=="
+    "name": "Wrathful Moha",
+    "desc": "An unknown person's Shadow. It gazes down on the ignorant with contempt.",
+    "strategy": "1. When Moha's HP reaches 0 and it becomes Wrathful Moha, it gains 8 Wrath stacks.\n2. After acting each turn, if Wrathful Moha has taken damage during that turn, its Wrath increases by 4. If it has not taken damage during the turn, its Wrath decreases by 1.\n3. If Wrathful Moha has 12 Wrath stacks at the end of its turn, it will spend all Wrath to activate Rapid Ascent, and on the next turn, use Sphinxian Dive to deal heavy Physical damage to all Phantom Thieves.\n4. When Wrathful Moha is in battle, the Phantom Thieves gain a small amount of Ballista Energy at the end of each turn.\n5. When the Phantom Thieves deal weakness damage to Wrathful Moha, they gain a large amount of Ballista Energy. This can only be activated once per turn.\n6. When the Phantom Thieves have 100 Ballista Energy at the start of their turn, they will spend 100 Ballista Energy to attack Wrathful Moha with a Ballista Shot, putting it in a Weakened state and causing it to lose all Wrath."
   },
   {
     "sn": "915501",

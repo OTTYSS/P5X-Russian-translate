@@ -1072,14 +1072,14 @@
   },
   {
     "sn": "11312",
-    "strContent": "You have followed the Phantom Thief.",
+    "strContent": "You have favorited this Phantom Thief.",
     "option1": "AAAAAA==",
     "showName": "AAAAAA==",
     "option2": "AAAAAA=="
   },
   {
     "sn": "11313",
-    "strContent": "Unfollowed.",
+    "strContent": "Unfavorited.",
     "option1": "AAAAAA==",
     "showName": "AAAAAA==",
     "option2": "AAAAAA=="
@@ -1461,6 +1461,13 @@
     "option1": "Confirm",
     "showName": "Adjust Difficulty",
     "option2": "Never mind."
+  },
+  {
+    "sn": "11642",
+    "strContent": "Foe is too far away to attack.",
+    "option1": "AAAAAA==",
+    "showName": "AAAAAA==",
+    "option2": "AAAAAA=="
   },
   {
     "sn": "11800",
@@ -5615,21 +5622,21 @@
   },
   {
     "sn": "1000321",
-    "strContent": "Do you want to use {1} x{0} to buy everyday clothing {2}?",
+    "strContent": "Do you want to use {0} x{1} to obtain the casualwear {2}?",
     "option1": "Cancel",
     "showName": "AAAAAA==",
     "option2": "Never mind."
   },
   {
     "sn": "1000322",
-    "strContent": "You don't have enough {0} to purchase this.",
+    "strContent": "You don't have enough {0} to obtain this.",
     "option1": "AAAAAA==",
     "showName": "AAAAAA==",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1000323",
-    "strContent": "Everyday clothing {0} has been unlocked.",
+    "strContent": "Casualwear {0} has been unlocked.",
     "option1": "AAAAAA==",
     "showName": "AAAAAA==",
     "option2": "AAAAAA=="
@@ -8618,7 +8625,7 @@
   },
   {
     "sn": "1000207",
-    "strContent": "Somethin' smells. Must be your dirty rotten\nlies!",
+    "strContent": "Somethin' smells. Must be your\ndirty rotten lies!",
     "option1": "AAAAAA==",
     "showName": "S<#000000,h,#FFFFFF>un Kano",
     "option2": "AAAAAA=="
@@ -8653,7 +8660,7 @@
   },
   {
     "sn": "1000211",
-    "strContent": "Ah, we lost our target.\nEveryone, watch for the enemy's movements!",
+    "strContent": "Our attacks won't reach it at that height...\nLet's hold our ground here!",
     "option1": "AAAAAA==",
     "showName": "F<#000000,u,#FFFFFF>taba Sakura",
     "option2": "AAAAAA=="
@@ -9990,8 +9997,8 @@
   },
   {
     "sn": "1019065",
-    "strContent": "Do you want to do some training with Anderson?",
-    "option1": "Train",
+    "strContent": "Would you like to spend time with Anderson?",
+    "option1": "Sure.",
     "showName": "L<#000000,u,#FFFFFF>fel",
     "option2": "Maybe another time."
   },
@@ -10257,9 +10264,9 @@
   {
     "sn": "1019217",
     "strContent": "Would you like to spend time with Masaki?",
-    "option1": "All right.",
-    "showName": "AAAAAA==",
-    "option2": "Availability isn't looking great..."
+    "option1": "Sure.",
+    "showName": "L<#000000,u,#FFFFFF>fel",
+    "option2": "I have plans today..."
   },
   {
     "sn": "1020101",
@@ -10361,7 +10368,7 @@
   },
   {
     "sn": "1019212",
-    "strContent": "I should spend time\nwith Miyu today...",
+    "strContent": "Should I spend time with Miyu today...?",
     "option1": "All right, let's go together!",
     "showName": "AAAAAA==",
     "option2": "Now's not a good time..."
@@ -10389,17 +10396,17 @@
   },
   {
     "sn": "1019218",
-    "strContent": "Would you like to spend time with this person?",
-    "option1": "Nothing in particular.",
+    "strContent": "Would you like to spend time with Ashiya?",
+    "option1": "Spend time with Ashiya",
     "showName": "L<#000000,u,#FFFFFF>fel",
-    "option2": "I'm kinda busy right now."
+    "option2": "Come back another time"
   },
   {
     "sn": "1019219",
-    "strContent": "Would you like to spend time with this person?",
-    "option1": "Sounds like a plan.",
+    "strContent": "Would you like to spend time with Ashiya?",
+    "option1": "Spend time with Ashiya",
     "showName": "L<#000000,u,#FFFFFF>fel",
-    "option2": "I have other things to do."
+    "option2": "Come back another time"
   },
   {
     "sn": "1019182",
@@ -14126,6 +14133,13 @@
     "option2": "AAAAAA=="
   },
   {
+    "sn": "1047249",
+    "strContent": "You have not yet cleared Episode 4-10 of the Pyramid Arc. This mode may impact your experience of the story. Do you still wish to continue?",
+    "option1": "Confirm",
+    "showName": "L<#000000,u,#FFFFFF>fel",
+    "option2": "Never mind."
+  },
+  {
     "sn": "1051001",
     "strContent": "Cannot move here directly.",
     "option1": "AAAAAA==",
@@ -14282,7 +14296,7 @@
   {
     "sn": "1051023",
     "strContent": "You can't do that at this time.\nDo you want to wait until it's <color=#FFC000>%s</color>, <color=#FFC000>%s</color>, and <color=#FFC000>%s</color>?",
-    "option1": "Confirm",
+    "option1": "OK",
     "showName": "L<#000000,u,#FFFFFF>fel",
     "option2": "Never mind."
   },
@@ -14310,7 +14324,7 @@
   {
     "sn": "1051027",
     "strContent": "It's currently raining. Please wait until the weather is <color=#ffc000>clear</color>.",
-    "option1": "OK",
+    "option1": "Confirm",
     "showName": "AAAAAA==",
     "option2": "Never mind."
   },
@@ -19635,6 +19649,13 @@
     "option2": "AAAAAA=="
   },
   {
+    "sn": "1064150",
+    "strContent": "You can now quick travel to the \n<color=#FF423F>1F Southeast Corridor</color>.",
+    "option1": "AAAAAA==",
+    "showName": "AAAAAA==",
+    "option2": "AAAAAA=="
+  },
+  {
     "sn": "1089004",
     "strContent": "We can rest over there!",
     "option1": "AAAAAA==",
@@ -24067,7 +24088,7 @@
   },
   {
     "sn": "1157344",
-    "strContent": "Swift is heaven's\nvengeance...",
+    "strContent": "A curse upon\nall intruders!",
     "option1": "AAAAAA==",
     "showName": "AAAAAA==",
     "option2": "AAAAAA=="
@@ -25229,7 +25250,7 @@
   },
   {
     "sn": "1202231",
-    "strContent": "AAAAAA==",
+    "strContent": "Took you long enough!",
     "option1": "AAAAAA==",
     "showName": "AAAAAA==",
     "option2": "AAAAAA=="
@@ -25376,56 +25397,56 @@
   },
   {
     "sn": "1202232",
-    "strContent": "AAAAAA==",
+    "strContent": "We're back in the game, baby!\nTime for some payback!",
     "option1": "AAAAAA==",
     "showName": "AAAAAA==",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1202233",
-    "strContent": "AAAAAA==",
+    "strContent": "A successful continue?\nHeheheh, we're so back.",
     "option1": "AAAAAA==",
     "showName": "AAAAAA==",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1202174",
-    "strContent": "AAAAAA==",
+    "strContent": "Game over!",
     "option1": "AAAAAA==",
     "showName": "AAAAAA==",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1202175",
-    "strContent": "AAAAAA==",
+    "strContent": "The heck? That was too easy!",
     "option1": "AAAAAA==",
     "showName": "AAAAAA==",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1202312",
-    "strContent": "AAAAAA==",
+    "strContent": "Glad you're all right, Wonder!",
     "option1": "AAAAAA==",
     "showName": "AAAAAA==",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1202313",
-    "strContent": "AAAAAA==",
+    "strContent": "Lock in, Wonder!",
     "option1": "AAAAAA==",
     "showName": "AAAAAA==",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1202314",
-    "strContent": "AAAAAA==",
+    "strContent": "Dang, Wonder's down!\nQuit slacking with the support!",
     "option1": "AAAAAA==",
     "showName": "AAAAAA==",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1202315",
-    "strContent": "AAAAAA==",
+    "strContent": "Wonder!?\nThis looks bad... We've gotta help him!",
     "option1": "AAAAAA==",
     "showName": "AAAAAA==",
     "option2": "AAAAAA=="
@@ -26391,7 +26412,7 @@
   },
   {
     "sn": "1206051",
-    "strContent": "City Life: <color=#ffc000>Explore with Haruna</color> has been unlocked.\nIt occurs with a certain probability every day.",
+    "strContent": "You unlocked the City Life activity\n<color=#ffc000>Exploring with Haruna</color>.\nThere is a chance for it to appear each day.",
     "option1": "AAAAAA==",
     "showName": "AAAAAA==",
     "option2": "AAAAAA=="
@@ -26524,7 +26545,7 @@
   },
   {
     "sn": "1209100",
-    "strContent": "Okay, so we go straight for a while this way...\nthen turn left... it should be around there? Follow me!",
+    "strContent": "Okay, so we go straight down here...\nthen take a left... and it should be\naround there. Follow me!",
     "option1": "AAAAAA==",
     "showName": "AAAAAA==",
     "option2": "AAAAAA=="

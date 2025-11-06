@@ -617,30 +617,30 @@
   },
   {
     "sn": "1030",
-    "name": "運命のバッジ・王墓",
+    "name": "『反逆』のコイン・墓",
     "typeName": "イベント通貨",
     "tips": "『運命が交錯する時・ピラミッド編』への参加で獲得可能。報酬と交換できる。",
     "contentBG": "<color=#ffffff>  </color>"
   },
   {
     "sn": "1031",
-    "name": "運命のバッジ・宇宙",
+    "name": "『反逆』のコイン・宙",
     "typeName": "イベント通貨",
     "tips": "『運命が交錯する時・宇宙基地編』への参加で獲得可能。報酬と交換できる。",
     "contentBG": "<color=#ffffff>  </color>"
   },
   {
     "sn": "1032",
-    "name": "運命のバッジ・王墓",
+    "name": "『反逆』のコイン・墓",
     "typeName": "記念アイテム",
-    "tips": "『運命が交錯する時・ピラミッド編』で入手したバッジは、１０個の魂魄玉に交換可能。",
+    "tips": "『運命が交錯する時・ピラミッド編』で入手したコインは、１０個の魂魄玉に交換可能。",
     "contentBG": "<color=#ffffff>  </color>"
   },
   {
     "sn": "1033",
-    "name": "運命のバッジ・宇宙",
+    "name": "『反逆』のコイン・宙",
     "typeName": "記念アイテム",
-    "tips": "『運命が交錯する時・宇宙基地編』で入手したバッジは、１０個の魂魄玉に交換可能。",
+    "tips": "『運命が交錯する時・宇宙基地編』で入手したコインは、１０個の魂魄玉に交換可能。",
     "contentBG": "<color=#ffffff>  </color>"
   },
   {
@@ -1197,6 +1197,20 @@
     "contentBG": "AAAAAA=="
   },
   {
+    "sn": "100311",
+    "name": "霊香選択箱０１",
+    "typeName": "ギフトセット",
+    "tips": "使用すると、特定の霊香から４個を選択し、獲得する。",
+    "contentBG": "AAAAAA=="
+  },
+  {
+    "sn": "100312",
+    "name": "霊香選択箱０２",
+    "typeName": "ギフトセット",
+    "tips": "使用すると、特定の霊香から５個を選択し、獲得する。",
+    "contentBG": "AAAAAA=="
+  },
+  {
     "sn": "100401",
     "name": "★５怪ドル契約０１",
     "typeName": "ギフトセット",
@@ -1634,7 +1648,7 @@
     "sn": "190058",
     "name": "謎の武器キット",
     "typeName": "武器",
-    "tips": "謎の怪盗専用の近接武器。",
+    "tips": "北里専用の近接武器。",
     "contentBG": "AAAAAA=="
   },
   {
@@ -2395,28 +2409,28 @@
   },
   {
     "sn": "211701",
-    "name": "ノートパソコン",
+    "name": "ノートＰＣ",
     "typeName": "パソコン",
     "tips": "双葉専用の武器。",
     "contentBG": "<color=#ffffff>  </color>"
   },
   {
     "sn": "211702",
-    "name": "ＩＤＳモニターパソコン",
+    "name": "ハイスペックノート",
     "typeName": "パソコン",
     "tips": "双葉専用の武器。",
     "contentBG": "<color=#ffffff>  </color>"
   },
   {
     "sn": "211703",
-    "name": "Ｃ型ポータブル",
+    "name": "ＰＲＯスペックノート",
     "typeName": "パソコン",
     "tips": "双葉専用の武器。",
     "contentBG": "<color=#ffffff>  </color>"
   },
   {
     "sn": "211704",
-    "name": "ＨＡＣＫ専用制式",
+    "name": "魔改造ノート双葉ＳＰ",
     "typeName": "パソコン",
     "tips": "双葉専用の武器。",
     "contentBG": "<color=#ffffff>  </color>"
@@ -2591,14 +2605,14 @@
   },
   {
     "sn": "212501",
-    "name": "アクス",
+    "name": "アマゾネスアクス",
     "typeName": "アクス",
     "tips": "春専用の近接武器。",
     "contentBG": "<color=#ffffff>  </color>"
   },
   {
     "sn": "212502",
-    "name": "バルディッシュ",
+    "name": "クレセントアクス",
     "typeName": "アクス",
     "tips": "春専用の近接武器。",
     "contentBG": "<color=#ffffff>  </color>"
@@ -2612,7 +2626,7 @@
   },
   {
     "sn": "212504",
-    "name": "神聖戦歌",
+    "name": "ラストクォーター",
     "typeName": "アクス",
     "tips": "春専用の近接武器。",
     "contentBG": "<color=#ffffff>  </color>"
@@ -10466,9 +10480,9 @@
   },
   {
     "sn": "301291",
-    "name": "北里の認知結晶",
+    "name": "基良の認知結晶",
     "typeName": "残留意識",
-    "tips": "特定の場所で使うことで、北里の意識レベルを進化させる。",
+    "tips": "特定の場所で使うことで、基良の意識レベルを進化させる。",
     "contentBG": "<color=#ffffff>  </color>"
   },
   {
@@ -12405,7 +12419,7 @@
   },
   {
     "sn": "303291",
-    "name": "サボテン３Dパズル",
+    "name": "サボテン３Ｄパズル",
     "typeName": "日常アイテム",
     "tips": "シナジー対象者の好感度を上げることができる。",
     "contentBG": "<color=#ffffff>  </color>"
@@ -15326,7 +15340,7 @@
     "sn": "305623",
     "name": "残宝センサー・憤怒",
     "typeName": "潜入道具",
-    "tips": "異世界で使用するとレアなお宝の発見率が上がる。作業台で『憤怒のチップ』『レトロゲーム機』『パールパウダー』を使って作成できる。",
+    "tips": "異世界で使用するとエリア内の破壊可能なオブジェクトがマップに表示される。作業台で『憤怒のチップ』『レトロゲーム機』『パールパウダー』を使って作成できる。",
     "contentBG": "<color=#ffffff>  </color>"
   },
   {
@@ -19575,14 +19589,14 @@
     "sn": "311016",
     "name": "検討中",
     "typeName": "アイコン",
-    "tips": "AAAAAA==",
+    "tips": "プロフィールのアイコンに設定できる。",
     "contentBG": "AAAAAA=="
   },
   {
     "sn": "311017",
     "name": "検討中",
     "typeName": "アイコン",
-    "tips": "AAAAAA==",
+    "tips": "プロフィールのアイコンに設定できる。",
     "contentBG": "AAAAAA=="
   },
   {
@@ -20121,28 +20135,28 @@
     "sn": "314126",
     "name": "能く憤怒を制す者",
     "typeName": "バッジ",
-    "tips": "『運命が交錯する時・ピラミッド編』で『憤怒の像』難易度１０をクリアすると獲得する。",
+    "tips": "『運命が交錯する時・ピラミッド編』で『ボスバトル』難易度１０をクリアすると獲得する。",
     "contentBG": "AAAAAA=="
   },
   {
     "sn": "314127",
     "name": "固く憤怒を制す者",
     "typeName": "バッジ",
-    "tips": "『運命が交錯する時・ピラミッド編』で『憤怒の像』難易度２０をクリアすると獲得する。",
+    "tips": "『運命が交錯する時・ピラミッド編』で『ボスバトル』難易度２０をクリアすると獲得する。",
     "contentBG": "AAAAAA=="
   },
   {
     "sn": "314128",
     "name": "数多の憤怒を制す者",
     "typeName": "バッジ",
-    "tips": "『運命が交錯する時・ピラミッド編』で『憤怒の像』難易度２５をクリアすると獲得する。",
+    "tips": "『運命が交錯する時・ピラミッド編』で『ボスバトル』難易度２５をクリアすると獲得する。",
     "contentBG": "AAAAAA=="
   },
   {
     "sn": "314129",
     "name": "一切の憤怒を制す者",
     "typeName": "バッジ",
-    "tips": "『運命が交錯する時・ピラミッド編』で『憤怒の像』難易度３０をクリアすると獲得する。",
+    "tips": "『運命が交錯する時・ピラミッド編』で『ボスバトル』難易度３０をクリアすると獲得する。",
     "contentBG": "AAAAAA=="
   },
   {
@@ -21192,7 +21206,7 @@
     "sn": "307500",
     "name": "染色スプレー",
     "typeName": "ファッション",
-    "tips": "自宅２階の『クローゼット』で新たなカラーの服が解放される。<color=#FF423F>『ファントムパス・プレミアム＋』特典の服にのみ有効。</color> ",
+    "tips": "『<color=#FF423F>ファントムパス・プレミアム＋</color>』で入手する特定の服を所持していると、自宅２階の『クローゼット』で新たなカラーを解放できる。",
     "contentBG": "<color=#ffffff>  </color>"
   },
   {
@@ -21665,6 +21679,13 @@
     "contentBG": "AAAAAA=="
   },
   {
+    "sn": "307000",
+    "name": "メイドさんだぞ！",
+    "typeName": "名刺デザイン",
+    "tips": "プロフィールの名刺に設定できる。",
+    "contentBG": "AAAAAA=="
+  },
+  {
     "sn": "311061",
     "name": "執事服・祐介の心象",
     "typeName": "アイコン",
@@ -21674,6 +21695,13 @@
   {
     "sn": "311068",
     "name": "水着・真の心象",
+    "typeName": "アイコン",
+    "tips": "プロフィールのアイコンに設定できる。",
+    "contentBG": "AAAAAA=="
+  },
+  {
+    "sn": "311072",
+    "name": "メイド服・双葉の心象",
     "typeName": "アイコン",
     "tips": "プロフィールのアイコンに設定できる。",
     "contentBG": "AAAAAA=="
@@ -23137,6 +23165,13 @@
   {
     "sn": "312056",
     "name": "眩しい白雲",
+    "typeName": "フレーム",
+    "tips": "プロフィールのフレームに設定できる。",
+    "contentBG": "AAAAAA=="
+  },
+  {
+    "sn": "312057",
+    "name": "不慣れな給仕",
     "typeName": "フレーム",
     "tips": "プロフィールのフレームに設定できる。",
     "contentBG": "AAAAAA=="
@@ -24964,7 +24999,7 @@
   {
     "sn": "410530",
     "name": "ミシュロン３つ星証書",
-    "typeName": "ステージ",
+    "typeName": "貴重品",
     "tips": "『運命が交錯する時・美術館編』のパレスのコア。",
     "contentBG": "<color=#ffffff>  </color>"
   },
@@ -24999,7 +25034,7 @@
   {
     "sn": "410535",
     "name": "黄金のどんぶり",
-    "typeName": "ステージ",
+    "typeName": "貴重品",
     "tips": "『運命が交錯する時・銀行編』のパレスのコア。",
     "contentBG": "<color=#ffffff>  </color>"
   },
@@ -25041,28 +25076,28 @@
   {
     "sn": "410560",
     "name": "チェーンのスペア部品",
-    "typeName": "ステージ",
+    "typeName": "貴重品",
     "tips": "パレスで使用する。",
     "contentBG": "<color=#ffffff>  </color>"
   },
   {
     "sn": "410561",
     "name": "変形したチェーン",
-    "typeName": "ステージ",
+    "typeName": "貴重品",
     "tips": "パレスで使用する。",
     "contentBG": "<color=#ffffff>  </color>"
   },
   {
     "sn": "410562",
     "name": "変形したチェーン",
-    "typeName": "ステージ",
+    "typeName": "貴重品",
     "tips": "パレスで使用する。",
     "contentBG": "<color=#ffffff>  </color>"
   },
   {
     "sn": "410563",
     "name": "変形したチェーン",
-    "typeName": "ステージ",
+    "typeName": "貴重品",
     "tips": "パレスで使用する。",
     "contentBG": "<color=#ffffff>  </color>"
   },
@@ -25083,7 +25118,7 @@
   {
     "sn": "410566",
     "name": "操作マニュアル",
-    "typeName": "ステージ",
+    "typeName": "貴重品",
     "tips": "パレスで使用する。",
     "contentBG": "<color=#ffffff>  </color>"
   },
@@ -25097,14 +25132,14 @@
   {
     "sn": "410568",
     "name": "発電模型の２号パーツ",
-    "typeName": "ステージ",
+    "typeName": "貴重品",
     "tips": "パレスで使用する。",
     "contentBG": "<color=#ffffff>  </color>"
   },
   {
     "sn": "410569",
     "name": "発電模型の３号パーツ",
-    "typeName": "ステージ",
+    "typeName": "貴重品",
     "tips": "パレスで使用する。",
     "contentBG": "<color=#ffffff>  </color>"
   },
@@ -25125,7 +25160,7 @@
   {
     "sn": "410572",
     "name": "完全な発電用モーター",
-    "typeName": "ステージ",
+    "typeName": "貴重品",
     "tips": "パレスで使用する。",
     "contentBG": "<color=#ffffff>  </color>"
   },
@@ -25167,7 +25202,7 @@
   {
     "sn": "410578",
     "name": "煩悩のヘルメット",
-    "typeName": "ステージ",
+    "typeName": "貴重品",
     "tips": "『運命が交錯する時・ピラミッド編』のパレスのコア。",
     "contentBG": "<color=#ffffff>  </color>"
   },
@@ -25258,7 +25293,7 @@
   {
     "sn": "430001",
     "name": "奇抜な王冠",
-    "typeName": "ステージ",
+    "typeName": "貴重品",
     "tips": "『運命が交錯する時・城編』のパレスのコア。",
     "contentBG": "<color=#ffffff>  </color>"
   },
@@ -27433,6 +27468,20 @@
     "contentBG": "<color=#ffffff>  </color>"
   },
   {
+    "sn": "309516",
+    "name": "怪盗服",
+    "typeName": "コスチューム",
+    "tips": "双葉の見た目を怪盗服に変更する。",
+    "contentBG": "<color=#ffffff>  </color>"
+  },
+  {
+    "sn": "309517",
+    "name": "メイド服",
+    "typeName": "コスチューム",
+    "tips": "双葉の見た目をメイド服に変更する。\nショップで『メイド服・双葉セット』を購入すると獲得できる。",
+    "contentBG": "<color=#ffffff>  </color>"
+  },
+  {
     "sn": "520191",
     "name": "ケルベロス印章",
     "typeName": "ペルソナ",
@@ -29443,14 +29492,14 @@
   },
   {
     "sn": "530166",
-    "name": "『どうぞ…』",
+    "name": "『友情！』",
     "typeName": "スタンプ",
     "tips": "チャットに使用する。",
     "contentBG": "AAAAAA=="
   },
   {
     "sn": "530167",
-    "name": "『良い香り！』",
+    "name": "『良い香り～！』",
     "typeName": "スタンプ",
     "tips": "チャットに使用する。",
     "contentBG": "AAAAAA=="
@@ -30277,112 +30326,112 @@
   {
     "sn": "560001",
     "name": "アギ",
-    "typeName": "AAAAAA==",
+    "typeName": "スキルカード",
     "tips": "AAAAAA==",
     "contentBG": "<color=#ffffff>  </color>"
   },
   {
     "sn": "560002",
     "name": "アギラオ",
-    "typeName": "AAAAAA==",
+    "typeName": "スキルカード",
     "tips": "AAAAAA==",
     "contentBG": "<color=#ffffff>  </color>"
   },
   {
     "sn": "560003",
     "name": "アギダイン",
-    "typeName": "AAAAAA==",
+    "typeName": "スキルカード",
     "tips": "AAAAAA==",
     "contentBG": "<color=#ffffff>  </color>"
   },
   {
     "sn": "560004",
     "name": "インフェルノ",
-    "typeName": "AAAAAA==",
+    "typeName": "スキルカード",
     "tips": "AAAAAA==",
     "contentBG": "<color=#ffffff>  </color>"
   },
   {
     "sn": "560005",
     "name": "マハラギ",
-    "typeName": "AAAAAA==",
+    "typeName": "スキルカード",
     "tips": "AAAAAA==",
     "contentBG": "<color=#ffffff>  </color>"
   },
   {
     "sn": "560006",
     "name": "マハラギオン",
-    "typeName": "AAAAAA==",
+    "typeName": "スキルカード",
     "tips": "AAAAAA==",
     "contentBG": "<color=#ffffff>  </color>"
   },
   {
     "sn": "560007",
     "name": "マハラギダイン",
-    "typeName": "AAAAAA==",
+    "typeName": "スキルカード",
     "tips": "AAAAAA==",
     "contentBG": "<color=#ffffff>  </color>"
   },
   {
     "sn": "560008",
     "name": "大炎上",
-    "typeName": "AAAAAA==",
+    "typeName": "スキルカード",
     "tips": "AAAAAA==",
     "contentBG": "<color=#ffffff>  </color>"
   },
   {
     "sn": "560009",
     "name": "ブフ",
-    "typeName": "AAAAAA==",
+    "typeName": "スキルカード",
     "tips": "AAAAAA==",
     "contentBG": "<color=#ffffff>  </color>"
   },
   {
     "sn": "560010",
     "name": "ブフーラ",
-    "typeName": "AAAAAA==",
+    "typeName": "スキルカード",
     "tips": "AAAAAA==",
     "contentBG": "<color=#ffffff>  </color>"
   },
   {
     "sn": "560011",
     "name": "ブフダイン",
-    "typeName": "AAAAAA==",
+    "typeName": "スキルカード",
     "tips": "AAAAAA==",
     "contentBG": "<color=#ffffff>  </color>"
   },
   {
     "sn": "560012",
     "name": "ダイアモンドダスト",
-    "typeName": "AAAAAA==",
+    "typeName": "スキルカード",
     "tips": "AAAAAA==",
     "contentBG": "<color=#ffffff>  </color>"
   },
   {
     "sn": "560013",
     "name": "マハブフ",
-    "typeName": "AAAAAA==",
+    "typeName": "スキルカード",
     "tips": "AAAAAA==",
     "contentBG": "<color=#ffffff>  </color>"
   },
   {
     "sn": "560014",
     "name": "マハブフーラ",
-    "typeName": "AAAAAA==",
+    "typeName": "スキルカード",
     "tips": "AAAAAA==",
     "contentBG": "<color=#ffffff>  </color>"
   },
   {
     "sn": "560015",
     "name": "マハブフダイン",
-    "typeName": "AAAAAA==",
+    "typeName": "スキルカード",
     "tips": "AAAAAA==",
     "contentBG": "<color=#ffffff>  </color>"
   },
   {
     "sn": "560016",
     "name": "大氷河期",
-    "typeName": "AAAAAA==",
+    "typeName": "スキルカード",
     "tips": "AAAAAA==",
     "contentBG": "<color=#ffffff>  </color>"
   },

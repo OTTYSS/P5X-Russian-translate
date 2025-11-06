@@ -13461,6 +13461,13 @@
     "dataType": 0
   },
   {
+    "sn": "f26835",
+    "formula": "AIDuiXiangAttr*0.03f",
+    "param": "66,980",
+    "decimalPlaces": 0,
+    "dataType": 0
+  },
+  {
     "sn": "f26841",
     "formula": "Math.min(80f-f26843,f26842)",
     "param": "66,980",
@@ -21918,7 +21925,7 @@
   },
   {
     "sn": "f1171134",
-    "formula": "6f+Math.min((skillLv+f91*10)*460,GJa)*17.7f/4600f",
+    "formula": "6f+Math.min((skillLv+f91*10)*460,GJa)*26.5f/4600f",
     "param": "AAAAAA==",
     "decimalPlaces": 0,
     "dataType": 0
