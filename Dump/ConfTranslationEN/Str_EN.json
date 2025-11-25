@@ -4614,7 +4614,7 @@
   },
   {
     "sn": "18001",
-    "strContent": "Current card type is incorrect.",
+    "strContent": "Your card selection is not a valid move.",
     "option1": "AAAAAA==",
     "showName": "AAAAAA==",
     "option2": "AAAAAA=="
@@ -4635,14 +4635,14 @@
   },
   {
     "sn": "18004",
-    "strContent": "If you escape, the robots will take over. Continue?\n<color=#FFC000>You will not be able to begin a new game until this game is finished.</color>",
+    "strContent": "Do you want to quit this battle?\n<color=#FFC000>You won't be able to start a new battle until this battle has finished.</color>",
     "option1": "Confirm",
     "showName": "L<#000000,u,#FFFFFF>fel",
     "option2": "Never mind."
   },
   {
     "sn": "18005",
-    "strContent": "You joined an uncompleted game.",
+    "strContent": "You joined a game in progress.",
     "option1": "AAAAAA==",
     "showName": "AAAAAA==",
     "option2": "AAAAAA=="
@@ -4656,7 +4656,7 @@
   },
   {
     "sn": "18007",
-    "strContent": "If you retreat, you will leave the current game and won't earn rewards. Continue?",
+    "strContent": "If you retreat, you will leave the current game and won't earn rewards. Do you still want to retreat?",
     "option1": "Confirm",
     "showName": "L<#000000,u,#FFFFFF>fel",
     "option2": "Never mind."
@@ -4712,14 +4712,14 @@
   },
   {
     "sn": "18015",
-    "strContent": "Switched %s card to classic version.",
+    "strContent": "%s card sleeve has been changed.",
     "option1": "AAAAAA==",
     "showName": "AAAAAA==",
     "option2": "AAAAAA=="
   },
   {
     "sn": "18016",
-    "strContent": "Switched %s card to custom version.",
+    "strContent": "%s card sleeve has been changed.",
     "option1": "AAAAAA==",
     "showName": "AAAAAA==",
     "option2": "AAAAAA=="
@@ -4747,14 +4747,14 @@
   },
   {
     "sn": "18020",
-    "strContent": "This mode is not yet available. Stay tuned!",
+    "strContent": "A new mode will be unlocked in a future update.",
     "option1": "AAAAAA==",
     "showName": "AAAAAA==",
     "option2": "AAAAAA=="
   },
   {
     "sn": "18021",
-    "strContent": "The customized version of this card is not yet available. Stay tuned!",
+    "strContent": "These cards don't have card sleeves.",
     "option1": "AAAAAA==",
     "showName": "AAAAAA==",
     "option2": "AAAAAA=="
@@ -4783,6 +4783,62 @@
   {
     "sn": "18025",
     "strContent": "Player's stamp sending has been <color=#FFC000>unblocked</color>.",
+    "option1": "AAAAAA==",
+    "showName": "AAAAAA==",
+    "option2": "AAAAAA=="
+  },
+  {
+    "sn": "18026",
+    "strContent": "You don't have enough Extra Cards. You can get them at the exchange shop or from missions.",
+    "option1": "AAAAAA==",
+    "showName": "AAAAAA==",
+    "option2": "AAAAAA=="
+  },
+  {
+    "sn": "18027",
+    "strContent": "You don't have enough Extra Coins. Cannot start matchmaking.",
+    "option1": "AAAAAA==",
+    "showName": "AAAAAA==",
+    "option2": "AAAAAA=="
+  },
+  {
+    "sn": "18028",
+    "strContent": "You don't have enough Extra Coins to participate. Cannot start matchmaking.",
+    "option1": "AAAAAA==",
+    "showName": "AAAAAA==",
+    "option2": "AAAAAA=="
+  },
+  {
+    "sn": "18029",
+    "strContent": "You have reached the limit of Support Supplies for today. Please come back tomorrow.",
+    "option1": "AAAAAA==",
+    "showName": "AAAAAA==",
+    "option2": "AAAAAA=="
+  },
+  {
+    "sn": "18030",
+    "strContent": "The stage cannot be changed because matchmaking is in progress.",
+    "option1": "AAAAAA==",
+    "showName": "AAAAAA==",
+    "option2": "AAAAAA=="
+  },
+  {
+    "sn": "18031",
+    "strContent": "You have reached the maximum amount of Extra Coins and cannot claim any more.",
+    "option1": "AAAAAA==",
+    "showName": "AAAAAA==",
+    "option2": "AAAAAA=="
+  },
+  {
+    "sn": "18032",
+    "strContent": "You have exceeded the maximum limit.",
+    "option1": "AAAAAA==",
+    "showName": "AAAAAA==",
+    "option2": "AAAAAA=="
+  },
+  {
+    "sn": "18033",
+    "strContent": "Please select at least one character.",
     "option1": "AAAAAA==",
     "showName": "AAAAAA==",
     "option2": "AAAAAA=="
@@ -5937,7 +5993,7 @@
   },
   {
     "sn": "1000451",
-    "strContent": "The currently selected smelting set is in the {0} position, and cannot be changed.",
+    "strContent": "The currently selected Revelation Card is set to {0}, and cannot be changed.",
     "option1": "AAAAAA==",
     "showName": "AAAAAA==",
     "option2": "AAAAAA=="
@@ -5965,7 +6021,7 @@
   },
   {
     "sn": "1000455",
-    "strContent": "Smelting limit increased.",
+    "strContent": "The quick select limit has been reached.",
     "option1": "AAAAAA==",
     "showName": "AAAAAA==",
     "option2": "AAAAAA=="
@@ -9451,7 +9507,7 @@
   },
   {
     "sn": "1014327",
-    "strContent": "Zoshigaya. It's a neighborhood\nin Toshima Ward, where I live.",
+    "strContent": "Zoshigaya.\nIt's a neighborhood in Toshima Ward,\nwhere I live.",
     "option1": "AAAAAA==",
     "showName": "AAAAAA==",
     "option2": "AAAAAA=="
@@ -9913,14 +9969,14 @@
   },
   {
     "sn": "1019053",
-    "strContent": "Talk to Tsuda?",
+    "strContent": "Do you want to talk to Tsuda?",
     "option1": "Confirm",
     "showName": "L<#000000,u,#FFFFFF>fel",
     "option2": "Maybe another time."
   },
   {
     "sn": "1019054",
-    "strContent": "Talk to Sato?",
+    "strContent": "Do you want to talk to Sato?",
     "option1": "Confirm",
     "showName": "L<#000000,u,#FFFFFF>fel",
     "option2": "Maybe another time."
@@ -9934,10 +9990,10 @@
   },
   {
     "sn": "1019056",
-    "strContent": "Talk to Shishida?",
-    "option1": "Confirm",
+    "strContent": "Would you like to spend time with Shishida?",
+    "option1": "Sure.",
     "showName": "L<#000000,u,#FFFFFF>fel",
-    "option2": "Maybe another time."
+    "option2": "Never mind."
   },
   {
     "sn": "1019057",
@@ -10011,7 +10067,7 @@
   },
   {
     "sn": "1019067",
-    "strContent": "Talk to Namie?",
+    "strContent": "Do you want to talk to Namie?",
     "option1": "Talk to Namie",
     "showName": "L<#000000,u,#FFFFFF>fel",
     "option2": "Maybe another time."
@@ -10341,7 +10397,7 @@
   {
     "sn": "1019211",
     "strContent": "Would you like to spend time with Miyu?",
-    "option1": "All right.",
+    "option1": "Spend time with Miyu",
     "showName": "L<#000000,u,#FFFFFF>fel",
     "option2": "I have other plans..."
   },
@@ -10368,10 +10424,10 @@
   },
   {
     "sn": "1019212",
-    "strContent": "Should I spend time with Miyu today...?",
-    "option1": "All right, let's go together!",
-    "showName": "AAAAAA==",
-    "option2": "Now's not a good time..."
+    "strContent": "Would you like to spend time with Miyu?",
+    "option1": "Spend time with Miyu",
+    "showName": "L<#000000,u,#FFFFFF>fel",
+    "option2": "I have other plans..."
   },
   {
     "sn": "1019192",
@@ -10389,10 +10445,10 @@
   },
   {
     "sn": "1019220",
-    "strContent": "Should I invite Ashiya over to my place today?",
-    "option1": "Like",
+    "strContent": "How should I answer...?",
+    "option1": "Sure.",
     "showName": "AAAAAA==",
-    "option2": "Today doesn't really work for me."
+    "option2": "I'm kinda busy today..."
   },
   {
     "sn": "1019218",
@@ -10446,9 +10502,9 @@
   {
     "sn": "1019221",
     "strContent": "Should I go with Kotone?",
-    "option1": "I'll join you.",
+    "option1": "Spend time with Kotone",
     "showName": "AAAAAA==",
-    "option2": "Now's not great for me..."
+    "option2": "I have plans today..."
   },
   {
     "sn": "1019184",
@@ -10473,7 +10529,7 @@
   },
   {
     "sn": "1019222",
-    "strContent": "Should I spend time with Kotone?",
+    "strContent": "Would you like to spend time with Kotone?",
     "option1": "Spend time with her.",
     "showName": "L<#000000,u,#FFFFFF>fel",
     "option2": "I made other plans..."
@@ -10536,7 +10592,7 @@
   },
   {
     "sn": "1019226",
-    "strContent": "This Synergy mission's story takes place after Tomoko Noge's Synergy story mission. It's recommended that you finish the previous mission first in order to get the full experience.",
+    "strContent": "For the best gameplay experience, this event is recommended for players who have completed Tomoko Noge's Synergy story content.",
     "option1": "AAAAAA==",
     "showName": "AAAAAA==",
     "option2": "AAAAAA=="
@@ -11110,7 +11166,7 @@
   },
   {
     "sn": "1023034",
-    "strContent": "Neko Takahashi's city mission Cat Calls has been unlocked.",
+    "strContent": "Neko Takahashi's City Life activity Cat Calls has been unlocked.",
     "option1": "AAAAAA==",
     "showName": "L<#000000,u,#FFFFFF>fel",
     "option2": "AAAAAA=="
@@ -12258,7 +12314,7 @@
   },
   {
     "sn": "1036028",
-    "strContent": "Unlock after completing {0} Task {1}. <color=#FFDE00>Completing Tomoko Noge's Confidant story will provide a better experience.</color>",
+    "strContent": "Unlocks after completing {0} Task {1}. <color=#FFDE00>Progressing in Tomoko Noge's Synergy story will provide a better experience.</color>",
     "option1": "AAAAAA==",
     "showName": "AAAAAA==",
     "option2": "AAAAAA=="
@@ -13525,7 +13581,7 @@
   },
   {
     "sn": "1049005",
-    "strContent": "Leave the Thieves Den?\nYou will move to Shibuya Station Square.",
+    "strContent": "Do you want to leave the Thieves Den?\nYou will move to Shibuya Station Square.",
     "option1": "Confirm",
     "showName": "AAAAAA==",
     "option2": "Never mind."
@@ -17473,7 +17529,7 @@
   },
   {
     "sn": "1064159",
-    "strContent": "You can now quick travel to the \n<color=#FF423F>Power Plant 3F: Material Storage</color>.",
+    "strContent": "You can now quick travel to the \n<color=#FF423F>Power Plant 3F: Material Storage Entrance</color>.",
     "option1": "AAAAAA==",
     "showName": "AAAAAA==",
     "option2": "AAAAAA=="
@@ -17487,7 +17543,7 @@
   },
   {
     "sn": "1064161",
-    "strContent": "You can now quick travel to the \n<color=#FF423F>Power Plant 3F: West Material Storage</color>.",
+    "strContent": "You can now quick travel to the \n<color=#FF423F>Power Plant 3F: West Material Storage Entrance</color>.",
     "option1": "AAAAAA==",
     "showName": "AAAAAA==",
     "option2": "AAAAAA=="
@@ -20392,63 +20448,63 @@
   },
   {
     "sn": "1150001",
-    "strContent": "All right, be back soon.",
+    "strContent": "How far should we go today?",
     "option1": "AAAAAA==",
     "showName": "Masaki Ashiya",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1150002",
-    "strContent": "Okay. Ready to go?",
+    "strContent": "How about we take a look around?",
     "option1": "AAAAAA==",
     "showName": "Masaki Ashiya",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1150003",
-    "strContent": "AAAAAA==",
+    "strContent": "We've arrived at our destination.",
     "option1": "AAAAAA==",
     "showName": "Masaki Ashiya",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1150004",
-    "strContent": "AAAAAA==",
+    "strContent": "Oh? I think there's a passageway nearby.",
     "option1": "AAAAAA==",
     "showName": "Masaki Ashiya",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1150005",
-    "strContent": "AAAAAA==",
+    "strContent": "I don't think it'll open.",
     "option1": "AAAAAA==",
     "showName": "Masaki Ashiya",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1150006",
-    "strContent": "AAAAAA==",
+    "strContent": "Is the door broken?",
     "option1": "AAAAAA==",
     "showName": "Masaki Ashiya",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1150007",
-    "strContent": "I'm back. Hope I didn't keep you waiting.",
+    "strContent": "We did it! Nice work.",
     "option1": "AAAAAA==",
     "showName": "Masaki Ashiya",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1150008",
-    "strContent": "AAAAAA==",
+    "strContent": "Looks like a chest is over there.",
     "option1": "AAAAAA==",
     "showName": "Masaki Ashiya",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1150009",
-    "strContent": "AAAAAA==",
+    "strContent": "I'm feeling just... a little tired...",
     "option1": "AAAAAA==",
     "showName": "Masaki Ashiya",
     "option2": "AAAAAA=="
@@ -20462,91 +20518,91 @@
   },
   {
     "sn": "1150011",
-    "strContent": "Looks like we managed things somehow.",
+    "strContent": "Haha, great.",
     "option1": "AAAAAA==",
     "showName": "Masaki Ashiya",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1150012",
-    "strContent": "AAAAAA==",
+    "strContent": "Shadows are nearby, but don't worry. I'm with you.",
     "option1": "AAAAAA==",
     "showName": "Masaki Ashiya",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1150013",
-    "strContent": "AAAAAA==",
+    "strContent": "We found a safe room.",
     "option1": "AAAAAA==",
     "showName": "Masaki Ashiya",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1150014",
-    "strContent": "AAAAAA==",
+    "strContent": "We should rest for a while.",
     "option1": "AAAAAA==",
     "showName": "Masaki Ashiya",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1150015",
-    "strContent": "That was a fun task. I want to go again.",
+    "strContent": "This was fun. Invite me again anytime.",
     "option1": "AAAAAA==",
     "showName": "Masaki Ashiya",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1150016",
-    "strContent": "Thanks! Looks like I get to take it easy today.",
+    "strContent": "Great work. Make sure to get\nplenty of rest tonight.",
     "option1": "AAAAAA==",
     "showName": "Masaki Ashiya",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1150017",
-    "strContent": "AAAAAA==",
+    "strContent": "Something doesn't feel\nright... Get behind me.",
     "option1": "AAAAAA==",
     "showName": "Masaki Ashiya",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1150018",
-    "strContent": "AAAAAA==",
+    "strContent": "You look pretty weary.\nLet's take a break.",
     "option1": "AAAAAA==",
     "showName": "Masaki Ashiya",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1151001",
-    "strContent": "AAAAAA==",
+    "strContent": "I can still keep going...\nbut this is pretty rough.",
     "option1": "AAAAAA==",
     "showName": "Kotone Montagne",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1151002",
-    "strContent": "All set?",
+    "strContent": "You all set? Then let's get\ngoing!",
     "option1": "AAAAAA==",
     "showName": "Kotone Montagne",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1151003",
-    "strContent": "We're at our destination.",
+    "strContent": "Made it.",
     "option1": "AAAAAA==",
     "showName": "Kotone Montagne",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1151004",
-    "strContent": "A safe room. Let's rest for a bit.",
+    "strContent": "A safe room. Let's rest for\na bit.",
     "option1": "AAAAAA==",
     "showName": "Kotone Montagne",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1151005",
-    "strContent": "AAAAAA==",
+    "strContent": "What's our next move?",
     "option1": "AAAAAA==",
     "showName": "Kotone Montagne",
     "option2": "AAAAAA=="
@@ -20567,7 +20623,7 @@
   },
   {
     "sn": "1151008",
-    "strContent": "Task complete.",
+    "strContent": "Mission complete.",
     "option1": "AAAAAA==",
     "showName": "Kotone Montagne",
     "option2": "AAAAAA=="
@@ -20588,7 +20644,7 @@
   },
   {
     "sn": "1151011",
-    "strContent": "AAAAAA==",
+    "strContent": "I hear the sound of wind...\nI bet there's a hidden passage\nnearby.",
     "option1": "AAAAAA==",
     "showName": "Kotone Montagne",
     "option2": "AAAAAA=="
@@ -20602,35 +20658,35 @@
   },
   {
     "sn": "1151013",
-    "strContent": "AAAAAA==",
+    "strContent": "Doesn't seem like we can go\nthrough here.",
     "option1": "AAAAAA==",
     "showName": "Kotone Montagne",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1151014",
-    "strContent": "AAAAAA==",
+    "strContent": "Find anything good?",
     "option1": "AAAAAA==",
     "showName": "Kotone Montagne",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1151015",
-    "strContent": "Good work. Don't forget your cool-down stretches.",
+    "strContent": "Good work. Don't forget to\ncool down, okay?",
     "option1": "AAAAAA==",
     "showName": "Kotone Montagne",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1151016",
-    "strContent": "AAAAAA==",
+    "strContent": "A strong enemy... Think we can\nhandle it?",
     "option1": "AAAAAA==",
     "showName": "Kotone Montagne",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1151017",
-    "strContent": "AAAAAA==",
+    "strContent": "We should rest. Be careful\nnot to put too much strain\non your body.",
     "option1": "AAAAAA==",
     "showName": "Kotone Montagne",
     "option2": "AAAAAA=="
@@ -26356,7 +26412,7 @@
   },
   {
     "sn": "1206009",
-    "strContent": "You unlocked the City Life activity\n<color=#ffc000>Talk to Shishida</color>.\nThere is a chance for it to appear each day.",
+    "strContent": "You unlocked the City Life activity Talk with Shishida.\nThere is a chance for it to appear each day.",
     "option1": "AAAAAA==",
     "showName": "AAAAAA==",
     "option2": "AAAAAA=="
@@ -27476,7 +27532,7 @@
   },
   {
     "sn": "1211221",
-    "strContent": "You're not doing so hot... don't overdo it.",
+    "strContent": "You're not looking too good... Don't overdo it.",
     "option1": "AAAAAA==",
     "showName": "AAAAAA==",
     "option2": "AAAAAA=="
@@ -27672,14 +27728,14 @@
   },
   {
     "sn": "1213001",
-    "strContent": "Not enough small volleys.",
+    "strContent": "You don't have enough Celebratory Poppers.",
     "option1": "AAAAAA==",
     "showName": "AAAAAA==",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1213002",
-    "strContent": "You have already acquired all player Enthusiasm Rewards.",
+    "strContent": "You have already acquired all individual Popper rewards.",
     "option1": "AAAAAA==",
     "showName": "AAAAAA==",
     "option2": "AAAAAA=="
@@ -27813,6 +27869,13 @@
   {
     "sn": "1212010",
     "strContent": "Progress in the event Summer! Swimsuits! Sea Time! to unlock Shirosato Beach.",
+    "option1": "AAAAAA==",
+    "showName": "AAAAAA==",
+    "option2": "AAAAAA=="
+  },
+  {
+    "sn": "1216005",
+    "strContent": "After finishing the current play, you can join the event.",
     "option1": "AAAAAA==",
     "showName": "AAAAAA==",
     "option2": "AAAAAA=="
@@ -30556,7 +30619,7 @@
   },
   {
     "sn": "1209458",
-    "strContent": "You've obtained the grand prize, but can still win other items. Do you want to spin this raffle?",
+    "strContent": "There are still some unclaimed prizes left. Do you want to spin this raffle?",
     "option1": "AAAAAA==",
     "showName": "AAAAAA==",
     "option2": "AAAAAA=="
@@ -30843,14 +30906,14 @@
   },
   {
     "sn": "1300001",
-    "strContent": "You don't have any custom cards. You can unlock them at Paradise Mall's Tycoon Counter.",
+    "strContent": "You can get this custom card at the Companio Shop.",
     "option1": "AAAAAA==",
     "showName": "AAAAAA==",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1300101",
-    "strContent": "You don't currently have this character. You can unlock them at Paradise Mall's Tycoon Counter.",
+    "strContent": "You can unlock this character by getting their Invite at the Companio Shop.",
     "option1": "AAAAAA==",
     "showName": "AAAAAA==",
     "option2": "AAAAAA=="
@@ -31956,14 +32019,14 @@
   },
   {
     "sn": "1300002",
-    "strContent": "You do not own the customized version of this card. Unlockable from Masaki Ashiya's synergy story.",
+    "strContent": "You can get this custom card by raising your Synergy with Masaki Ashiya.",
     "option1": "AAAAAA==",
     "showName": "AAAAAA==",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1300102",
-    "strContent": "You do not own this character. Unlockable from Masaki Ashiya's synergy story.",
+    "strContent": "You can unlock this character by raising your Synergy with Masaki Ashiya.",
     "option1": "AAAAAA==",
     "showName": "AAAAAA==",
     "option2": "AAAAAA=="
@@ -32131,7 +32194,7 @@
   },
   {
     "sn": "1133104",
-    "strContent": "I hope my strengths will be of use!",
+    "strContent": "Sure, if it means I get to put\nmy skills into action.",
     "option1": "AAAAAA==",
     "showName": "Masaki Ashiya",
     "option2": "AAAAAA=="
@@ -32578,11 +32641,32 @@
     "option2": "Cancel"
   },
   {
+    "sn": "1303005",
+    "strContent": "{1} unlocks when the protagonist reaches Lv. {0}.",
+    "option1": "AAAAAA==",
+    "showName": "AAAAAA==",
+    "option2": "AAAAAA=="
+  },
+  {
     "sn": "1303004",
     "strContent": "%s has not been unlocked.",
     "option1": "AAAAAA==",
     "showName": "AAAAAA==",
     "option2": "AAAAAA=="
+  },
+  {
+    "sn": "1209464",
+    "strContent": "Thieves' Secrets limited-time event has ended.",
+    "option1": "AAAAAA==",
+    "showName": "AAAAAA==",
+    "option2": "AAAAAA=="
+  },
+  {
+    "sn": "1209469",
+    "strContent": "You currently own enough Secret Keys to unlock all Thieves' Secrets chapters. Do you still want to purchase this?",
+    "option1": "Confirm",
+    "showName": "L<#000000,u,#FFFFFF>fel",
+    "option2": "Cancel"
   },
   {
     "sn": "1212013",

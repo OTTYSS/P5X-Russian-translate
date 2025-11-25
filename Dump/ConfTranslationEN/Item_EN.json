@@ -381,7 +381,7 @@
     "sn": "55",
     "name": "TV Show Point",
     "typeName": "Currency",
-    "tips": "Can be exchanged for rewards from the 24-hour TV program \"Robotic Challenge.\" Obtainable by participating on the program.",
+    "tips": "Can be exchanged for rewards from the 24-hour TV program \"Robo Challenge.\" Obtainable by participating on the program.",
     "contentBG": "<color=#ffffff>  </color>"
   },
   {
@@ -438,6 +438,20 @@
     "name": "Repression Medal I",
     "typeName": "Currency",
     "tips": "Obtainable from Persona dungeons on levels I, II, and III in the Realm of Repression. Can be exchanged for rewards in the Repression Medal shops.",
+    "contentBG": "<color=#ffffff>  </color>"
+  },
+  {
+    "sn": "67",
+    "name": "Extra Coin",
+    "typeName": "Currency",
+    "tips": "Currency required to play Extra Mode in Tycoon.",
+    "contentBG": "<color=#ffffff>  </color>"
+  },
+  {
+    "sn": "68",
+    "name": "Extra Point",
+    "typeName": "Currency",
+    "tips": "Obtained by playing Extra Mode. Can be traded at the exchange shop for rewards.",
     "contentBG": "<color=#ffffff>  </color>"
   },
   {
@@ -1295,10 +1309,17 @@
     "contentBG": "AAAAAA=="
   },
   {
+    "sn": "101008",
+    "name": "Extra Card",
+    "typeName": "Gift Set",
+    "tips": "AAAAAA==",
+    "contentBG": "AAAAAA=="
+  },
+  {
     "sn": "102001",
     "name": "Secret Key",
     "typeName": "Unlock Item",
-    "tips": "Allows you to unlock and play Thieves' Secrets at a certain time. Up to three of these can be held at once.",
+    "tips": "Allows you to unlock and play certain Thieves' Secrets. Can be obtained in the Exchange Shop.",
     "contentBG": "AAAAAA=="
   },
   {
@@ -1613,7 +1634,7 @@
     "sn": "190053",
     "name": "Mysterious Weapon Kit",
     "typeName": "Weapon",
-    "tips": "Can be used to obtain the Seaside Tomoko-only weapon Ocean's Tidings.",
+    "tips": "Mystery Phantom Thief-only melee weapon.",
     "contentBG": "AAAAAA=="
   },
   {
@@ -1648,7 +1669,7 @@
     "sn": "190058",
     "name": "Mysterious Weapon Kit",
     "typeName": "Weapon",
-    "tips": "Kitazato-only melee weapon.",
+    "tips": "Mystery Phantom Thief-only melee weapon.",
     "contentBG": "AAAAAA=="
   },
   {
@@ -1709,7 +1730,7 @@
   },
   {
     "sn": "190067",
-    "name": "4★ Weapon Case",
+    "name": "Limited 4★ Weapon Case",
     "typeName": "Gift Set",
     "tips": "Can be used to select and obtain one weapon from certain weapons.",
     "contentBG": "<color=#ffffff>  </color>"
@@ -2626,7 +2647,7 @@
   },
   {
     "sn": "212504",
-    "name": "Lunar Executioner",
+    "name": "Last Quarter",
     "typeName": "Axe",
     "tips": "Haru-only melee weapon.",
     "contentBG": "<color=#ffffff>  </color>"
@@ -2829,29 +2850,29 @@
   },
   {
     "sn": "213301",
-    "name": "tdxct-[Weapon_name_213301]",
-    "typeName": "tdxct-[Weapon_name_213301]",
+    "name": "Spina Animi",
+    "typeName": "Spina Animi",
     "tips": "Ashiya-only melee weapon.",
     "contentBG": "<color=#ffffff>  </color>"
   },
   {
     "sn": "213302",
-    "name": "tdxct-[Weapon_name_213302]",
-    "typeName": "tdxct-[Weapon_name_213301]",
+    "name": "Spina Glacialis",
+    "typeName": "Spina Animi",
     "tips": "Ashiya-only melee weapon.",
     "contentBG": "<color=#ffffff>  </color>"
   },
   {
     "sn": "213303",
-    "name": "tdxct-[Weapon_name_213303]",
-    "typeName": "tdxct-[Weapon_name_213301]",
+    "name": "Spina Caritatis",
+    "typeName": "Spina Animi",
     "tips": "Ashiya-only melee weapon.",
     "contentBG": "<color=#ffffff>  </color>"
   },
   {
     "sn": "213304",
-    "name": "tdxct-[Weapon_name_213304]",
-    "typeName": "tdxct-[Weapon_name_213301]",
+    "name": "Spina Sacramenti",
+    "typeName": "Spina Animi",
     "tips": "Ashiya-only melee weapon.",
     "contentBG": "<color=#ffffff>  </color>"
   },
@@ -10251,7 +10272,7 @@
     "sn": "300088",
     "name": "Kagura Bell",
     "typeName": "Prayer Item",
-    "tips": "Can be used to draw prayers in the shop and obtain various items.",
+    "tips": "Can be used to draw prayers in the shop and obtain various items.\n*This item will become usable in a future update.",
     "contentBG": "<color=#ffffff>  </color>"
   },
   {
@@ -10508,7 +10529,7 @@
   },
   {
     "sn": "301331",
-    "name": "Masaki's Cognitite",
+    "name": "Ashiya's Cognitite",
     "typeName": "Lingering Thoughts",
     "tips": "Can be used in certain areas to raise Ashiya's Awareness Level.",
     "contentBG": "<color=#ffffff>  </color>"
@@ -12307,7 +12328,7 @@
   },
   {
     "sn": "303275",
-    "name": "New UFO Drone",
+    "name": "Deluxe Camera Drone",
     "typeName": "Daily Life Item",
     "tips": "Can increase Synergy levels with an accomplice.",
     "contentBG": "<color=#ffffff>  </color>"
@@ -20170,21 +20191,21 @@
     "sn": "314131",
     "name": "A Rose Encountered",
     "typeName": "Badge",
-    "tips": "Awarded for clearing the Beginner Stage of Cherish's Special Mission in Thieves' Secrets.",
+    "tips": "Awarded for clearing Challenge Stage 1 for Cherish's Special Missions in Thieves' Secrets.",
     "contentBG": "AAAAAA=="
   },
   {
     "sn": "314132",
     "name": "A Rose Understood",
     "typeName": "Badge",
-    "tips": "Awarded for clearing the Intermediate Stage of Cherish's Special Mission in Thieves' Secrets.",
+    "tips": "Awarded for clearing Challenge Stage 4 for Cherish's Special Missions in Thieves' Secrets.",
     "contentBG": "AAAAAA=="
   },
   {
     "sn": "314133",
     "name": "A Rose Bonded",
     "typeName": "Badge",
-    "tips": "Awarded for clearing the Advanced Stage of Cherish's Special Mission in Thieves' Secrets.",
+    "tips": "Awarded for clearing Challenge Stage 5 for Cherish's Special Missions in Thieves' Secrets.",
     "contentBG": "AAAAAA=="
   },
   {
@@ -20196,7 +20217,7 @@
   },
   {
     "sn": "314135",
-    "name": "Apt Commander of Lust",
+    "name": "Apt Commander of Greed",
     "typeName": "Badge",
     "tips": "Awarded for clearing Sinner of Greed on difficulty 10 in Crossroads of Fate: Spaceport Arc.",
     "contentBG": "AAAAAA=="
@@ -20210,23 +20231,30 @@
   },
   {
     "sn": "314136",
-    "name": "Firm Commander of Lust",
+    "name": "Firm Commander of Greed",
     "typeName": "Badge",
     "tips": "Awarded for clearing Sinner of Greed on difficulty 20 in Crossroads of Fate: Spaceport Arc.",
     "contentBG": "AAAAAA=="
   },
   {
     "sn": "314137",
-    "name": "Prolific Commander of Lust",
+    "name": "Prolific Commander of Greed",
     "typeName": "Badge",
     "tips": "Awarded for clearing Sinner of Greed on difficulty 25 in Crossroads of Fate: Spaceport Arc.",
     "contentBG": "AAAAAA=="
   },
   {
     "sn": "314138",
-    "name": "Total Commander of Lust",
+    "name": "Total Commander of Greed",
     "typeName": "Badge",
     "tips": "Awarded for clearing Sinner of Greed on difficulty 30 in Crossroads of Fate: Spaceport Arc.",
+    "contentBG": "AAAAAA=="
+  },
+  {
+    "sn": "314195",
+    "name": "Wealthy Status",
+    "typeName": "Badge",
+    "tips": "Awarded for playing Super Tycoon.",
     "contentBG": "AAAAAA=="
   },
   {
@@ -20549,6 +20577,41 @@
     "name": "8★ C5",
     "typeName": "Badge",
     "tips": "Awarded for holding 8★ Class 5 when the Trials from the Sea of Souls ends.",
+    "contentBG": "<color=#ffffff>  </color>"
+  },
+  {
+    "sn": "314259",
+    "name": "Trial of Thorns Badge",
+    "typeName": "Badge",
+    "tips": "Can be set as your profile avatar.",
+    "contentBG": "AAAAAA=="
+  },
+  {
+    "sn": "314260",
+    "name": "Crown of Thorns: Rookie",
+    "typeName": "Badge",
+    "tips": "Can be set as your profile avatar.",
+    "contentBG": "<color=#ffffff>  </color>"
+  },
+  {
+    "sn": "314261",
+    "name": "Crown of Thorns: Veteran",
+    "typeName": "Badge",
+    "tips": "Can be set as your profile avatar.",
+    "contentBG": "<color=#ffffff>  </color>"
+  },
+  {
+    "sn": "314262",
+    "name": "Crown of Thorns: Elite",
+    "typeName": "Badge",
+    "tips": "Can be set as your profile avatar.",
+    "contentBG": "<color=#ffffff>  </color>"
+  },
+  {
+    "sn": "314263",
+    "name": "Crown of Thorns: Legend",
+    "typeName": "Badge",
+    "tips": "Can be set as your profile avatar.",
     "contentBG": "<color=#ffffff>  </color>"
   },
   {
@@ -24276,6 +24339,13 @@
     "contentBG": "<color=#ffffff>  </color>"
   },
   {
+    "sn": "360100",
+    "name": "Tycoon Lucky Bag",
+    "typeName": "Gift Set",
+    "tips": "Can be used to unlock a random custom card that you do not own (excluding Masaki Ashiya's).\nIf you already own all of them, it will be exchanged for Tycoon Points.",
+    "contentBG": "AAAAAA=="
+  },
+  {
     "sn": "360101",
     "name": "Ashiya ♦6",
     "typeName": "Card Sleeve",
@@ -24284,9 +24354,9 @@
   },
   {
     "sn": "360102",
-    "name": "Ryuji ♣K",
+    "name": "Ryuji ♠K",
     "typeName": "Card Sleeve",
-    "tips": "Changes the king of clubs in Tycoon to a custom design.",
+    "tips": "Changes the king of spades in Tycoon to a custom design.",
     "contentBG": "<color=#ffffff>  </color>"
   },
   {
@@ -24398,7 +24468,7 @@
     "sn": "400005",
     "name": "Palace of Laughter",
     "typeName": "Item",
-    "tips": "An ancient book on Rakugo. Purchased at Taiheido Bookstore while on an errand for Tetsunojo Shishida.",
+    "tips": "An old book on Rakugo. Purchased at Taiheido Bookstore while on an errand for Tetsunojo Shishida.",
     "contentBG": "<color=#ffffff>  </color>"
   },
   {
@@ -24601,7 +24671,7 @@
     "sn": "400035",
     "name": "Tycoon Medal",
     "typeName": "Event Item",
-    "tips": "Awarded for winning in the Tycoon event. For every 100 that you earn, you will receive a reward.",
+    "tips": "Awarded for playing Tycoon.",
     "contentBG": "AAAAAA=="
   },
   {
@@ -24888,7 +24958,7 @@
     "sn": "400038",
     "name": "Tycoon Medal",
     "typeName": "Event Item",
-    "tips": "Awarded for winning in the Tycoon event. For every 100 that you earn, you will receive a reward.",
+    "tips": "Awarded for playing Tycoon.",
     "contentBG": "AAAAAA=="
   },
   {
@@ -24897,6 +24967,13 @@
     "typeName": "Event Item",
     "tips": "Can be obtained to add another piece to the puzzle.",
     "contentBG": "<color=#ffffff>  </color>"
+  },
+  {
+    "sn": "400056",
+    "name": "Tycoon Status",
+    "typeName": "Event Item",
+    "tips": "Allows you to participate in the Super Tycoon event.",
+    "contentBG": "AAAAAA=="
   },
   {
     "sn": "410516",
@@ -25223,7 +25300,7 @@
   {
     "sn": "410581",
     "name": "Manager's Employee ID",
-    "typeName": "Stage",
+    "typeName": "Key Item",
     "tips": "A blue employee ID. Used to activate a card reader.",
     "contentBG": "<color=#ffffff>  </color>"
   },
@@ -25237,14 +25314,14 @@
   {
     "sn": "421001",
     "name": "Qimranut Ticket",
-    "typeName": "Key Item",
+    "typeName": "Stage",
     "tips": "Can be collected to raise your route unlock rank and unlock the Path of Qimranut.",
     "contentBG": "<color=#ffffff>  </color>"
   },
   {
     "sn": "421002",
     "name": "Aiyatsbus Ticket",
-    "typeName": "Stage",
+    "typeName": "Key Item",
     "tips": "Can be collected to raise your route unlock rank and unlock the Path of Aiyatsbus.",
     "contentBG": "<color=#ffffff>  </color>"
   },
@@ -25279,14 +25356,14 @@
   {
     "sn": "421007",
     "name": "Sheriruth Ticket",
-    "typeName": "Key Item",
+    "typeName": "Stage",
     "tips": "Can be collected to raise your route unlock rank and unlock the Path of Sheriruth.",
     "contentBG": "<color=#ffffff>  </color>"
   },
   {
     "sn": "421008",
     "name": "Iweleth Ticket",
-    "typeName": "Stage",
+    "typeName": "Key Item",
     "tips": "Can be collected to raise your route unlock rank and unlock the Path Of Iweleth.",
     "contentBG": "<color=#ffffff>  </color>"
   },

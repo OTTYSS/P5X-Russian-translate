@@ -101,7 +101,7 @@
   {
     "sn": "1171131",
     "title": "Vulnerability Found!",
-    "desc": "Increase dmg taken by %s. After taking dmg, grant Futaba 15% Analysis Progress.",
+    "desc": "Increase dmg taken by %s. After taking dmg, grant Futaba 20% Analysis Progress.",
     "BuffDesc": "V<color=#000000>u</color>lnerability Found!",
     "addText": "AAAAAA==",
     "removeText": "AAAAAA==",
@@ -1684,27 +1684,27 @@
   },
   {
     "sn": "1251113",
-    "title": "Focused Shot",
+    "title": "Focused Round",
     "desc": "Increase skill damage by %s when using ranged attack with Target Audience.",
-    "BuffDesc": "F<color=#000000>o</color>cused Shot",
+    "BuffDesc": "F<color=#000000>o</color>cused Round",
     "addText": "AAAAAA==",
     "removeText": "AAAAAA==",
     "calText": "AAAAAA=="
   },
   {
     "sn": "1251121",
-    "title": "Painpoint Shot",
-    "desc": "When using ranged attack, also deal Psy dmg to main target (can gain skill dmg increases from Focused Shot).",
-    "BuffDesc": "P<color=#000000>a</color>inpoint Shot",
+    "title": "Painpoint Round",
+    "desc": "When using ranged attack, also deal Psy dmg to main target (can gain skill dmg increases from Focused Round).",
+    "BuffDesc": "P<color=#000000>a</color>inpoint Round",
     "addText": "AAAAAA==",
     "removeText": "AAAAAA==",
     "calText": "AAAAAA=="
   },
   {
     "sn": "1251131",
-    "title": "Spillover Shot",
-    "desc": "When using ranged attack, deal Psy dmg to all foes (can gain skill dmg increases from Focused Shot).",
-    "BuffDesc": "S<color=#000000>p</color>illover Shot",
+    "title": "Spillover Round",
+    "desc": "When using ranged attack, deal Psy dmg to all foes (can gain skill dmg increases from Focused Round).",
+    "BuffDesc": "S<color=#000000>p</color>illover Round",
     "addText": "AAAAAA==",
     "removeText": "AAAAAA==",
     "calText": "AAAAAA=="
@@ -1729,9 +1729,9 @@
   },
   {
     "sn": "1251521",
-    "title": "Overload Shot",
+    "title": "Overload Round",
     "desc": "Increase critical rate of ranged attacks by %s.",
-    "BuffDesc": "O<color=#000000>v</color>erload Shot",
+    "BuffDesc": "O<color=#000000>v</color>erload Round",
     "addText": "AAAAAA==",
     "removeText": "AAAAAA==",
     "calText": "AAAAAA=="
@@ -4034,7 +4034,7 @@
   {
     "sn": "1331010",
     "title": "Heroism",
-    "desc": "At start of user's action, activate Garden of Promises if certain number has been reached.",
+    "desc": "At start of Ashiya's action, activate Garden of Promises if certain number has been reached.",
     "BuffDesc": "H<color=#000000>e</color>roism",
     "addText": "AAAAAA==",
     "removeText": "AAAAAA==",
@@ -4052,7 +4052,7 @@
   {
     "sn": "1331012",
     "title": "Heroism",
-    "desc": "At start of user's action, activate Garden of Promises if certain number has been reached.",
+    "desc": "At start of Ashiya's action, activate Garden of Promises if certain number has been reached.",
     "BuffDesc": "H<color=#000000>e</color>roism",
     "addText": "AAAAAA==",
     "removeText": "AAAAAA==",
@@ -4061,7 +4061,7 @@
   {
     "sn": "1331013",
     "title": "Heroism",
-    "desc": "At start of user's action, activate Garden of Promises if certain number has been reached.",
+    "desc": "At start of Ashiya's action, activate Garden of Promises if certain number has been reached.",
     "BuffDesc": "H<color=#000000>e</color>roism",
     "addText": "AAAAAA==",
     "removeText": "AAAAAA==",
@@ -4070,7 +4070,7 @@
   {
     "sn": "1331091",
     "title": "Garden of Promises",
-    "desc": "Apply additional effect to next Frost Vine or Hoarfrost Vow.",
+    "desc": "Apply additional effect to next Frost Vines or Hoarfrost Vow.",
     "BuffDesc": "G<color=#000000>a</color>rden of Promises",
     "addText": "AAAAAA==",
     "removeText": "AAAAAA==",
@@ -4080,15 +4080,6 @@
     "sn": "1331101",
     "title": "Poise",
     "desc": "While active, increase party's critical rate by 15%.",
-    "BuffDesc": "P<color=#000000>o</color>ise",
-    "addText": "AAAAAA==",
-    "removeText": "AAAAAA==",
-    "calText": "AAAAAA=="
-  },
-  {
-    "sn": "1331102",
-    "title": "Poise",
-    "desc": "Increase critical rate by %s.",
     "BuffDesc": "P<color=#000000>o</color>ise",
     "addText": "AAAAAA==",
     "removeText": "AAAAAA==",
@@ -4116,7 +4107,7 @@
     "sn": "1331051",
     "title": "Floriography: Gerbera",
     "desc": "Increase Def by %s.",
-    "BuffDesc": "B<color=#000000>e</color>nevolent Iceheart Knight",
+    "BuffDesc": "F<color=#000000>l</color>oriography: Gerbera",
     "addText": "AAAAAA==",
     "removeText": "AAAAAA==",
     "calText": "AAAAAA=="
@@ -4142,7 +4133,7 @@
   {
     "sn": "1331103",
     "title": "Garden of Promises",
-    "desc": "Apply additional effect to next Frost Vine or Hoarfrost Vow.",
+    "desc": "Apply additional effect to next Frost Vines or Hoarfrost Vow.",
     "BuffDesc": "G<color=#000000>a</color>rden of Promises",
     "addText": "AAAAAA==",
     "removeText": "AAAAAA==",
@@ -4158,6 +4149,24 @@
     "calText": "AAAAAA=="
   },
   {
+    "sn": "1331052",
+    "title": "Floriography: Gerbera",
+    "desc": "Increase dmg by %s.",
+    "BuffDesc": "AAAAAA==",
+    "addText": "AAAAAA==",
+    "removeText": "AAAAAA==",
+    "calText": "AAAAAA=="
+  },
+  {
+    "sn": "1331053",
+    "title": "Floriography: Gerbera",
+    "desc": "Increase critical dmg by %s.",
+    "BuffDesc": "AAAAAA==",
+    "addText": "AAAAAA==",
+    "removeText": "AAAAAA==",
+    "calText": "AAAAAA=="
+  },
+  {
     "sn": "1331111",
     "title": "Freeze",
     "desc": "Decrease Atk by 12%.",
@@ -4168,8 +4177,8 @@
   },
   {
     "sn": "1331125",
-    "title": "tdxct-[SkillBuff_title_1331125]",
-    "desc": "While active, increase shield gained from Knight's Protection.",
+    "title": "Hoarfrost Vow",
+    "desc": "While active, increase shield granted from Knight's Protection.",
     "BuffDesc": "AAAAAA==",
     "addText": "AAAAAA==",
     "removeText": "AAAAAA==",
@@ -4177,9 +4186,9 @@
   },
   {
     "sn": "1331113",
-    "title": "Frost Vine",
+    "title": "Frost Vines",
     "desc": "Increase dmg taken by %s.",
-    "BuffDesc": "F<color=#000000>r</color>ost Vine",
+    "BuffDesc": "F<color=#000000>r</color>ost Vines",
     "addText": "AAAAAA==",
     "removeText": "AAAAAA==",
     "calText": "AAAAAA=="
@@ -4268,8 +4277,8 @@
   {
     "sn": "1212001",
     "title": "Spring's Vestige",
-    "desc": "tdxct-[SkillBuff_desc_1212001]",
-    "BuffDesc": "tdxct-[SkillBuff_BuffDesc_1212001]",
+    "desc": "Increase dmg of Resonance activated when Spring's Edge ends.",
+    "BuffDesc": "S<color=#000000>p</color>ring's Vestige",
     "addText": "AAAAAA==",
     "removeText": "AAAAAA==",
     "calText": "AAAAAA=="
@@ -4277,8 +4286,8 @@
   {
     "sn": "1212003",
     "title": "Spring's Vestige",
-    "desc": "tdxct-[SkillBuff_desc_1212003]",
-    "BuffDesc": "tdxct-[SkillBuff_BuffDesc_1212003]",
+    "desc": "Increase dmg of Resonance activated when Spring's Edge ends.",
+    "BuffDesc": "S<color=#000000>p</color>ring's Vestige",
     "addText": "AAAAAA==",
     "removeText": "AAAAAA==",
     "calText": "AAAAAA=="
@@ -4286,8 +4295,8 @@
   {
     "sn": "1212006",
     "title": "Spring's Vestige",
-    "desc": "tdxct-[SkillBuff_desc_1212006]",
-    "BuffDesc": "tdxct-[SkillBuff_BuffDesc_1212006]",
+    "desc": "Increase dmg of Resonance activated when Spring's Edge ends.",
+    "BuffDesc": "S<color=#000000>p</color>ring's Vestige",
     "addText": "AAAAAA==",
     "removeText": "AAAAAA==",
     "calText": "AAAAAA=="
@@ -4295,8 +4304,8 @@
   {
     "sn": "1212111",
     "title": "Windswept",
-    "desc": "tdxct-[SkillBuff_desc_1212111]",
-    "BuffDesc": "tdxct-[SkillBuff_BuffDesc_1212111]",
+    "desc": "Decrease Def by 12%.",
+    "BuffDesc": "Wind<color=#000000>s</color>wept",
     "addText": "AAAAAA==",
     "removeText": "AAAAAA==",
     "calText": "AAAAAA=="
@@ -4304,8 +4313,8 @@
   {
     "sn": "1212112",
     "title": "Attack Sequence",
-    "desc": "tdxct-[SkillBuff_desc_1212112]",
-    "BuffDesc": "tdxct-[SkillBuff_BuffDesc_1212112]",
+    "desc": "When Ice Storm Kotone attacks this foe, increase crit dmg.",
+    "BuffDesc": "A<color=#000000>t</color>tack Sequence",
     "addText": "AAAAAA==",
     "removeText": "AAAAAA==",
     "calText": "AAAAAA=="
@@ -4313,7 +4322,7 @@
   {
     "sn": "1212131",
     "title": "Spring's Edge",
-    "desc": "tdxct-[SkillBuff_desc_1212131]",
+    "desc": "When Spring's Edge ends, deal Wind dmg to target.",
     "BuffDesc": "AAAAAA==",
     "addText": "AAAAAA==",
     "removeText": "AAAAAA==",
@@ -4322,8 +4331,8 @@
   {
     "sn": "1212008",
     "title": "Winter's Vestige",
-    "desc": "tdxct-[SkillBuff_desc_1212008]",
-    "BuffDesc": "tdxct-[SkillBuff_BuffDesc_1212008]",
+    "desc": "Increase dmg of Resonance activated when Winter's Edge ends.",
+    "BuffDesc": "W<color=#000000>i</color>nter's Vestige",
     "addText": "AAAAAA==",
     "removeText": "AAAAAA==",
     "calText": "AAAAAA=="
@@ -4331,7 +4340,7 @@
   {
     "sn": "1212171",
     "title": "Winter's Edge",
-    "desc": "tdxct-[SkillBuff_desc_1212171]",
+    "desc": "When Winter's Edge ends, deal Ice dmg to target.",
     "BuffDesc": "AAAAAA==",
     "addText": "AAAAAA==",
     "removeText": "AAAAAA==",
@@ -4340,7 +4349,7 @@
   {
     "sn": "1212041",
     "title": "Glaring Phoenix",
-    "desc": "tdxct-[SkillBuff_desc_1212041]",
+    "desc": "Decrease Def by %s.",
     "BuffDesc": "AAAAAA==",
     "addText": "AAAAAA==",
     "removeText": "AAAAAA==",
@@ -4349,16 +4358,16 @@
   {
     "sn": "1212541",
     "title": "Icebound",
-    "desc": "tdxct-[SkillBuff_desc_1212541]",
-    "BuffDesc": "tdxct-[SkillBuff_BuffDesc_1212541]",
-    "addText": "Inflicted with freeze!",
-    "removeText": "Recovered from freeze...",
+    "desc": "Unable to act.",
+    "BuffDesc": "I<color=#000000>c</color>ebound",
+    "addText": "Inflicted with Icebound!",
+    "removeText": "Recovered from Icebound...",
     "calText": "AAAAAA=="
   },
   {
     "sn": "1212042",
     "title": "Glaring Phoenix",
-    "desc": "tdxct-[SkillBuff_desc_1212042]",
+    "desc": "Increase Ice dmg by %s.",
     "BuffDesc": "AAAAAA==",
     "addText": "AAAAAA==",
     "removeText": "AAAAAA==",
@@ -4367,7 +4376,7 @@
   {
     "sn": "1212043",
     "title": "Glaring Phoenix",
-    "desc": "tdxct-[SkillBuff_desc_1212043]",
+    "desc": "Decrease SP costs by %s.",
     "BuffDesc": "AAAAAA==",
     "addText": "AAAAAA==",
     "removeText": "AAAAAA==",
@@ -4383,8 +4392,8 @@
     "calText": "AAAAAA=="
   },
   {
-    "sn": "1331321",
-    "title": "Flower Knight's Devotion",
+    "sn": "1331312",
+    "title": "Flower Knight's Shield",
     "desc": "Increase ailment resistance by %s.",
     "BuffDesc": "AAAAAA==",
     "addText": "AAAAAA==",
@@ -4392,10 +4401,28 @@
     "calText": "AAAAAA=="
   },
   {
+    "sn": "1331323",
+    "title": "Flower Knight's Devotion",
+    "desc": "Increase dmg by %s.",
+    "BuffDesc": "F<color=#000000>l</color>ower Knight's Devotion",
+    "addText": "AAAAAA==",
+    "removeText": "AAAAAA==",
+    "calText": "AAAAAA=="
+  },
+  {
+    "sn": "1331324",
+    "title": "Flower Knight's Devotion",
+    "desc": "Increase critical dmg by %s.",
+    "BuffDesc": "F<color=#000000>l</color>ower Knight's Devotion",
+    "addText": "AAAAAA==",
+    "removeText": "AAAAAA==",
+    "calText": "AAAAAA=="
+  },
+  {
     "sn": "1212151",
     "title": "Freeze",
-    "desc": "tdxct-[SkillBuff_desc_1212151]",
-    "BuffDesc": "tdxct-[SkillBuff_BuffDesc_1212151]",
+    "desc": "Decrease Atk by 12%.",
+    "BuffDesc": "F<color=#000000>r</color>eeze",
     "addText": "AAAAAA==",
     "removeText": "AAAAAA==",
     "calText": "AAAAAA=="
@@ -4403,8 +4430,8 @@
   {
     "sn": "1212161",
     "title": "Freeze",
-    "desc": "tdxct-[SkillBuff_desc_1212161]",
-    "BuffDesc": "tdxct-[SkillBuff_BuffDesc_1212161]",
+    "desc": "Decrease Atk by 12%.",
+    "BuffDesc": "F<color=#000000>r</color>eeze",
     "addText": "AAAAAA==",
     "removeText": "AAAAAA==",
     "calText": "AAAAAA=="
@@ -4412,8 +4439,8 @@
   {
     "sn": "1212162",
     "title": "On Ice",
-    "desc": "tdxct-[SkillBuff_desc_1212162]",
-    "BuffDesc": "tdxct-[SkillBuff_BuffDesc_1212162]",
+    "desc": "Increase Ice dmg taken by %s.",
+    "BuffDesc": "O<color=#000000>n</color> Ice",
     "addText": "AAAAAA==",
     "removeText": "AAAAAA==",
     "calText": "AAAAAA=="
@@ -4438,8 +4465,8 @@
   },
   {
     "sn": "1212311",
-    "title": "Program Components",
-    "desc": "tdxct-[SkillBuff_desc_1212311]",
+    "title": "Performance Scoring",
+    "desc": "Increase Wind dmg by %s.",
     "BuffDesc": "AAAAAA==",
     "addText": "AAAAAA==",
     "removeText": "AAAAAA==",
@@ -4447,8 +4474,8 @@
   },
   {
     "sn": "1212312",
-    "title": "Program Components",
-    "desc": "tdxct-[SkillBuff_desc_1212312]",
+    "title": "Performance Scoring",
+    "desc": "Increase Ice dmg by %s.",
     "BuffDesc": "AAAAAA==",
     "addText": "AAAAAA==",
     "removeText": "AAAAAA==",
@@ -4456,18 +4483,18 @@
   },
   {
     "sn": "1212323",
-    "title": "Technical Element",
-    "desc": "tdxct-[SkillBuff_desc_1212323]",
-    "BuffDesc": "tdxct-[SkillBuff_BuffDesc_1212323]",
+    "title": "Technical Score",
+    "desc": "Increase Atk by %s.",
+    "BuffDesc": "T<color=#000000>e</color>chnical Score",
     "addText": "AAAAAA==",
     "removeText": "AAAAAA==",
     "calText": "AAAAAA=="
   },
   {
     "sn": "1212324",
-    "title": "Technical Element",
-    "desc": "tdxct-[SkillBuff_desc_1212324]",
-    "BuffDesc": "tdxct-[SkillBuff_BuffDesc_1212324]",
+    "title": "Technical Score",
+    "desc": "Increase Def by %s.",
+    "BuffDesc": "T<color=#000000>e</color>chnical Score",
     "addText": "AAAAAA==",
     "removeText": "AAAAAA==",
     "calText": "AAAAAA=="
@@ -4475,8 +4502,8 @@
   {
     "sn": "1212175",
     "title": "Glacial Heart",
-    "desc": "tdxct-[SkillBuff_desc_1212175]",
-    "BuffDesc": "tdxct-[SkillBuff_BuffDesc_1212175]",
+    "desc": "Shield: %s",
+    "BuffDesc": "G<color=#000000>l</color>acial Heart",
     "addText": "AAAAAA==",
     "removeText": "AAAAAA==",
     "calText": "AAAAAA=="
@@ -4485,7 +4512,7 @@
     "sn": "1331523",
     "title": "Floriography: Chamomile",
     "desc": "Increase shield gained by %s.",
-    "BuffDesc": "F<color=#000000>l</color>oriography: Gentian",
+    "BuffDesc": "F<color=#000000>l</color>oriography: Chamomile",
     "addText": "AAAAAA==",
     "removeText": "AAAAAA==",
     "calText": "AAAAAA=="
@@ -8067,7 +8094,7 @@
     "sn": "126131",
     "title": "Drain Attack",
     "desc": "Increase Atk by %s.",
-    "BuffDesc": "A<color=#000000>t</color>tack Up",
+    "BuffDesc": "D<color=#000000>r</color>ain Attack",
     "addText": "AAAAAA==",
     "removeText": "AAAAAA==",
     "calText": "AAAAAA=="
@@ -10359,6 +10386,24 @@
     "calText": "AAAAAA=="
   },
   {
+    "sn": "135122",
+    "title": "Damage Dealt Up",
+    "desc": "Increase dmg by %s.",
+    "BuffDesc": "D<color=#000000>a</color>mage Dealt Up",
+    "addText": "AAAAAA==",
+    "removeText": "AAAAAA==",
+    "calText": "AAAAAA=="
+  },
+  {
+    "sn": "135133",
+    "title": "Damage Dealt Up",
+    "desc": "Increase dmg by %s.",
+    "BuffDesc": "D<color=#000000>a</color>mage Dealt Up",
+    "addText": "AAAAAA==",
+    "removeText": "AAAAAA==",
+    "calText": "AAAAAA=="
+  },
+  {
     "sn": "137111",
     "title": "Curse Damage Taken Up",
     "desc": "Increase Curse dmg taken by %s.",
@@ -11974,6 +12019,240 @@
     "title": "Attack Position",
     "desc": "Increase damage by %s",
     "BuffDesc": "A<color=#000000>t</color>tack Position",
+    "addText": "AAAAAA==",
+    "removeText": "AAAAAA==",
+    "calText": "AAAAAA=="
+  },
+  {
+    "sn": "63111",
+    "title": "Dazzling Daylight",
+    "desc": "AAAAAA==",
+    "BuffDesc": "D<color=#000000>a</color>zzling Daylight",
+    "addText": "Changed to Dazzling Daylight...",
+    "removeText": "AAAAAA==",
+    "calText": "AAAAAA=="
+  },
+  {
+    "sn": "63112",
+    "title": "Obscuring Darkness",
+    "desc": "AAAAAA==",
+    "BuffDesc": "O<color=#000000>b</color>scuring Darkness",
+    "addText": "Changed to Obscuring Darkness...",
+    "removeText": "AAAAAA==",
+    "calText": "AAAAAA=="
+  },
+  {
+    "sn": "63121",
+    "title": "Damage Up",
+    "desc": "Increase final dmg by %s.",
+    "BuffDesc": "D<color=#000000>a</color>mage Dealt Up",
+    "addText": "AAAAAA==",
+    "removeText": "AAAAAA==",
+    "calText": "AAAAAA=="
+  },
+  {
+    "sn": "63122",
+    "title": "Damage Taken Down",
+    "desc": "Decrease final dmg taken by %s.",
+    "BuffDesc": "D<color=#000000>a</color>mage Taken Down",
+    "addText": "AAAAAA==",
+    "removeText": "AAAAAA==",
+    "calText": "AAAAAA=="
+  },
+  {
+    "sn": "63123",
+    "title": "Damage Dealt Down",
+    "desc": "Decrease final dmg by %s.",
+    "BuffDesc": "D<color=#000000>a</color>mage Dealt Down",
+    "addText": "AAAAAA==",
+    "removeText": "AAAAAA==",
+    "calText": "AAAAAA=="
+  },
+  {
+    "sn": "63124",
+    "title": "Damage Taken Up",
+    "desc": "Increase final dmg taken by %s.",
+    "BuffDesc": "D<color=#000000>a</color>mage Taken Up",
+    "addText": "AAAAAA==",
+    "removeText": "AAAAAA==",
+    "calText": "AAAAAA=="
+  },
+  {
+    "sn": "63141",
+    "title": "Amulet of Rebirth",
+    "desc": "Exchange for Power of Rebirth at a certain number of stacks.",
+    "BuffDesc": "A<color=#000000>m</color>ulet of Rebirth",
+    "addText": "Gained Amulet of Rebirth!",
+    "removeText": "AAAAAA==",
+    "calText": "AAAAAA=="
+  },
+  {
+    "sn": "63151",
+    "title": "Power of Rebirth",
+    "desc": "Spend 1 when at verge of death to restore 25% of max HP.",
+    "BuffDesc": "P<color=#000000>o</color>wer of Rebirth",
+    "addText": "Gained Power of Rebirth!",
+    "removeText": "AAAAAA==",
+    "calText": "AAAAAA=="
+  },
+  {
+    "sn": "63161",
+    "title": "Sun God's Blessing",
+    "desc": "Exchange for Sun God's Power at a certain number of stacks.",
+    "BuffDesc": "S<color=#000000>u</color>n God's Blessing",
+    "addText": "Gained Sun God's Blessing!",
+    "removeText": "AAAAAA==",
+    "calText": "AAAAAA=="
+  },
+  {
+    "sn": "63171",
+    "title": "Sun God's Power",
+    "desc": "Increase final dmg by %s.",
+    "BuffDesc": "S<color=#000000>u</color>n God's Power",
+    "addText": "Gained Sun God's Power!",
+    "removeText": "AAAAAA==",
+    "calText": "AAAAAA=="
+  },
+  {
+    "sn": "63181",
+    "title": "Wisdom Theurgy",
+    "desc": "Change all affinities to Resist.",
+    "BuffDesc": "W<color=#000000>i</color>sdom Theurgy",
+    "addText": "AAAAAA==",
+    "removeText": "AAAAAA==",
+    "calText": "AAAAAA=="
+  },
+  {
+    "sn": "63191",
+    "title": "Shield Theurgy",
+    "desc": "Shield: %s",
+    "BuffDesc": "S<color=#000000>h</color>ield Theurgy",
+    "addText": "AAAAAA==",
+    "removeText": "AAAAAA==",
+    "calText": "AAAAAA=="
+  },
+  {
+    "sn": "63361",
+    "title": "Wisdom Theurgy",
+    "desc": "Change all affinities to Null.",
+    "BuffDesc": "W<color=#000000>i</color>sdom Theurgy",
+    "addText": "AAAAAA==",
+    "removeText": "AAAAAA==",
+    "calText": "AAAAAA=="
+  },
+  {
+    "sn": "63371",
+    "title": "Wisdom Theurgy",
+    "desc": "Change all affinities to Absorb.",
+    "BuffDesc": "W<color=#000000>i</color>sdom Theurgy",
+    "addText": "AAAAAA==",
+    "removeText": "AAAAAA==",
+    "calText": "AAAAAA=="
+  },
+  {
+    "sn": "63382",
+    "title": "Defense Up",
+    "desc": "Increase Def by %s.",
+    "BuffDesc": "D<color=#000000>e</color>fense Up",
+    "addText": "AAAAAA==",
+    "removeText": "AAAAAA==",
+    "calText": "AAAAAA=="
+  },
+  {
+    "sn": "63392",
+    "title": "Defense Up",
+    "desc": "Increase Def by %s.",
+    "BuffDesc": "D<color=#000000>e</color>fense Up",
+    "addText": "AAAAAA==",
+    "removeText": "AAAAAA==",
+    "calText": "AAAAAA=="
+  },
+  {
+    "sn": "63402",
+    "title": "Defense Up",
+    "desc": "Increase Def by %s.",
+    "BuffDesc": "D<color=#000000>e</color>fense Up",
+    "addText": "AAAAAA==",
+    "removeText": "AAAAAA==",
+    "calText": "AAAAAA=="
+  },
+  {
+    "sn": "63201",
+    "title": "Curse of Annihilation",
+    "desc": "Insta-kill at a certain number of stacks.",
+    "BuffDesc": "C<color=#000000>u</color>rse of Annihilation",
+    "addText": "Gained Curse of Annihilation!",
+    "removeText": "AAAAAA==",
+    "calText": "AAAAAA=="
+  },
+  {
+    "sn": "63125",
+    "title": "Damage Up",
+    "desc": "Increase final dmg by %s.",
+    "BuffDesc": "D<color=#000000>a</color>mage Dealt Up",
+    "addText": "AAAAAA==",
+    "removeText": "AAAAAA==",
+    "calText": "AAAAAA=="
+  },
+  {
+    "sn": "63126",
+    "title": "Damage Taken Down",
+    "desc": "Decrease final dmg taken by %s.",
+    "BuffDesc": "D<color=#000000>a</color>mage Taken Down",
+    "addText": "AAAAAA==",
+    "removeText": "AAAAAA==",
+    "calText": "AAAAAA=="
+  },
+  {
+    "sn": "63127",
+    "title": "Damage Dealt Down",
+    "desc": "Decrease final dmg by %s.",
+    "BuffDesc": "D<color=#000000>a</color>mage Dealt Down",
+    "addText": "AAAAAA==",
+    "removeText": "AAAAAA==",
+    "calText": "AAAAAA=="
+  },
+  {
+    "sn": "63128",
+    "title": "Damage Taken Up",
+    "desc": "Increase final dmg taken by %s.",
+    "BuffDesc": "D<color=#000000>a</color>mage Taken Up",
+    "addText": "AAAAAA==",
+    "removeText": "AAAAAA==",
+    "calText": "AAAAAA=="
+  },
+  {
+    "sn": "63131",
+    "title": "Damage Up",
+    "desc": "Increase final dmg by %s.",
+    "BuffDesc": "D<color=#000000>a</color>mage Dealt Up",
+    "addText": "AAAAAA==",
+    "removeText": "AAAAAA==",
+    "calText": "AAAAAA=="
+  },
+  {
+    "sn": "63132",
+    "title": "Damage Taken Down",
+    "desc": "Decrease final dmg taken by %s.",
+    "BuffDesc": "D<color=#000000>a</color>mage Taken Down",
+    "addText": "AAAAAA==",
+    "removeText": "AAAAAA==",
+    "calText": "AAAAAA=="
+  },
+  {
+    "sn": "63133",
+    "title": "Damage Up",
+    "desc": "Increase final dmg by %s.",
+    "BuffDesc": "D<color=#000000>a</color>mage Dealt Up",
+    "addText": "AAAAAA==",
+    "removeText": "AAAAAA==",
+    "calText": "AAAAAA=="
+  },
+  {
+    "sn": "63134",
+    "title": "Damage Taken Down",
+    "desc": "Decrease final dmg taken by %s.",
+    "BuffDesc": "D<color=#000000>a</color>mage Taken Down",
     "addText": "AAAAAA==",
     "removeText": "AAAAAA==",
     "calText": "AAAAAA=="
@@ -13664,7 +13943,7 @@
   {
     "sn": "21031",
     "title": "Live and Die as One",
-    "desc": "Stop attacking when HP is low. Revive after 3 turns.",
+    "desc": "Stop attacking when at verge of death. Revive after 3 turns.",
     "BuffDesc": "L<color=#000000>i</color>ve and Die as One",
     "addText": "AAAAAA==",
     "removeText": "AAAAAA==",
@@ -15257,7 +15536,7 @@
   {
     "sn": "22831",
     "title": "Live and Die as One",
-    "desc": "Stop attacking when HP is low. Revive after 2 turns.",
+    "desc": "Stop attacking when at verge of death. Revive after 2 turns.",
     "BuffDesc": "L<color=#000000>i</color>ve and Die as One",
     "addText": "AAAAAA==",
     "removeText": "AAAAAA==",
@@ -17616,7 +17895,7 @@
     "sn": "27224",
     "title": "Weakened",
     "desc": "Increase dmg taken.",
-    "BuffDesc": "S<color=#000000>t</color>at Debuff",
+    "BuffDesc": "W<color=#000000>e</color>aken",
     "addText": "AAAAAA==",
     "removeText": "AAAAAA==",
     "calText": "AAAAAA=="
@@ -19615,7 +19894,7 @@
     "title": "Unable to Select",
     "desc": "Cannot be targeted by enemy skills.",
     "BuffDesc": "U<color=#000000>n</color>able to Select",
-    "addText": "Hecatoncheires cannot be targeted!\nDestroy 20 Arms to remove condition...",
+    "addText": "Hecatoncheires cannot be targeted!\nDestroy 10 Arms to remove condition...",
     "removeText": "Hecatoncheires can now be targeted!",
     "calText": "AAAAAA=="
   },
@@ -21853,7 +22132,7 @@
   },
   {
     "sn": "57281",
-    "title": "Integrity & Responsibility",
+    "title": "Integrity & Labor",
     "desc": "Increase HP, Atk, and Def based on allies with same attributes.",
     "BuffDesc": "AAAAAA==",
     "addText": "AAAAAA==",
@@ -21862,7 +22141,7 @@
   },
   {
     "sn": "57291",
-    "title": "Determination & Duty",
+    "title": "Resolve & Labor",
     "desc": "Decrease Def by 10%.",
     "BuffDesc": "D<color=#000000>e</color>fense Down",
     "addText": "AAAAAA==",
@@ -21880,7 +22159,7 @@
   },
   {
     "sn": "57331",
-    "title": "Creation & Melancholy",
+    "title": "Creation & Worry",
     "desc": "Increase critical dmg by %s.",
     "BuffDesc": "AAAAAA==",
     "addText": "AAAAAA==",
@@ -23113,7 +23392,7 @@
   },
   {
     "sn": "525531",
-    "title": "Stat Buff",
+    "title": "Final Judgment",
     "desc": "Increase Atk by %s.",
     "BuffDesc": "S<color=#000000>t</color>at Buff",
     "addText": "AAAAAA==",
@@ -24499,7 +24778,7 @@
   },
   {
     "sn": "533311",
-    "title": "tdxct-[Weapon_skillName_213302]",
+    "title": "Frostbriar",
     "desc": "Increase shield by %s.",
     "BuffDesc": "S<color=#000000>h</color>ield Effect Up",
     "addText": "AAAAAA==",
@@ -24508,7 +24787,7 @@
   },
   {
     "sn": "533531",
-    "title": "tdxct-[Weapon_skillName_213304]",
+    "title": "Oathbriar",
     "desc": "Increase dmg by %s.",
     "BuffDesc": "D<color=#000000>a</color>mage Up",
     "addText": "AAAAAA==",
@@ -24562,7 +24841,7 @@
   },
   {
     "sn": "521351",
-    "title": "tdxct-[Weapon_skillName_212112]",
+    "title": "Winter's Prelude",
     "desc": "Increase Wind dmg by %s.",
     "BuffDesc": "AAAAAA==",
     "addText": "AAAAAA==",
@@ -24571,7 +24850,7 @@
   },
   {
     "sn": "521352",
-    "title": "tdxct-[Weapon_skillName_212112]",
+    "title": "Winter's Prelude",
     "desc": "Increase Ice dmg by %s.",
     "BuffDesc": "AAAAAA==",
     "addText": "AAAAAA==",
@@ -24580,7 +24859,7 @@
   },
   {
     "sn": "521461",
-    "title": "tdxct-[Weapon_skillName_212113]",
+    "title": "Frostblade",
     "desc": "Increase Atk by %s.",
     "BuffDesc": "AAAAAA==",
     "addText": "AAAAAA==",
@@ -24589,7 +24868,7 @@
   },
   {
     "sn": "521561",
-    "title": "tdxct-[Weapon_skillName_212114]",
+    "title": "Flight of the Swan",
     "desc": "Increase critical rate by %s.",
     "BuffDesc": "AAAAAA==",
     "addText": "AAAAAA==",
@@ -24598,7 +24877,7 @@
   },
   {
     "sn": "521571",
-    "title": "tdxct-[Weapon_skillName_212114]",
+    "title": "Flight of the Swan",
     "desc": "Increase Wind dmg by %s.",
     "BuffDesc": "AAAAAA==",
     "addText": "AAAAAA==",
@@ -24607,7 +24886,7 @@
   },
   {
     "sn": "521581",
-    "title": "tdxct-[Weapon_skillName_212114]",
+    "title": "Flight of the Swan",
     "desc": "Increase Ice dmg by %s.",
     "BuffDesc": "AAAAAA==",
     "addText": "AAAAAA==",

@@ -826,13 +826,13 @@
   },
   {
     "sn": "50801",
-    "title": "Revelation Card Forging",
-    "text": "By spending multiple <color=#FF423F>orange Revelation Cards</color>, you can refine them into a new Revelation Card with random parameters.\nThe Sun, Moon, Star, or Sky mark and set of the new Revelation Card will be <color=#FF423F>random</color>."
+    "title": "Revelation Card Inscription",
+    "text": "By spending multiple <color=#FF423F>orange Revelation Cards</color>, you can inscribe them into a new Revelation Card with random parameters.\nThe Sun, Moon, Star, or Sky mark and set of the new Revelation Card will be <color=#FF423F>random</color>."
   },
   {
     "sn": "50802",
-    "title": "Revelation Card Forging",
-    "text": "Space Revelation Cards can be forged using <color=#FF423F>3 cards</color> to create a new card. Sun, Moon, Star, and Sky cards can be forged using <color=#FF423F>5 cards</color>."
+    "title": "Revelation Card Inscription",
+    "text": "Space Revelation Cards can be inscribed using <color=#FF423F>3 cards</color> to create a new card. Sun, Moon, Star, and Sky cards can be inscribed using <color=#FF423F>5 cards</color>."
   },
   {
     "sn": "50901",
@@ -1347,97 +1347,107 @@
   {
     "sn": "90001",
     "title": "Tycoon",
-    "text": "The first person to play all the cards in their hand is the winner.\nIn <color=#FF423F>Classic</color> mode, play a match against the CPU.\nIn <color=#FF423F>Ranked Match</color>, play 3 fixed rounds against a matched opponent."
+    "text": "Tycoon is a card game where the goal is to be the first person to play all the cards in your hand.\nIn <color=#FF423F>Solo Mode</color>, play games against CPU opponents.\nIn <color=#FF423F>Ranked Match</color>, play a set of 3 rounds against online opponents."
   },
   {
     "sn": "90101",
     "title": "Basic Rules",
-    "text": "Tycoon is a 4-player card game.\nYou can choose to play 1 or 3 rounds.\nAt the start of the game, each player is dealt 14 cards."
+    "text": "Rank is determined by the order in which players have played all the cards in their hand.\nAt the end of a set of rounds, points are totaled to determine each player's final rank. Players with higher ranks can earn greater rewards."
   },
   {
     "sn": "90102",
-    "title": "Victory Conditions",
-    "text": "The object of the game is to play all of the cards in your hand before the other players."
+    "title": "Basic Rules",
+    "text": "The starting player can play any card and the next player follows with a stronger card matching the number of cards played.\nWhen all players are unable to play their cards, the next turn will begin with the last person to play their card.\nRank is determined by the order in which players have played all the cards in their hand. The round ends when only one person is left with cards in their hand."
   },
   {
     "sn": "90201",
-    "title": "Score Ranking",
-    "text": "Points will be awarded based on the order in which players have played all their cards.\n#1: Tycoon (30 points), #2: Rich (20 points), #3: Poor (10 points), #4: Beggar (0 points)."
+    "title": "Rank",
+    "text": "Players will awarded points based on the rank attained at the end of each round.\n#1: Tycoon (30 points)\n#2: Rich (20 points)\n#3: Poor (10 points)\n#4: Beggar (0 points)"
   },
   {
     "sn": "90202",
-    "title": "Total Score Ranking",
-    "text": "Based on the scores from either the 1 game or 3 game modes, the total scores will be calculated, an overall ranking will be determined, and each player will receive Tycoon Points accordingly."
+    "title": "Rank",
+    "text": "When all rounds are finished, a final rank will be determined based on the total points awarded.\nIf several players have the same number of total points, their rank will be determined based on their rank from the last round."
   },
   {
     "sn": "90203",
-    "title": "Ties",
-    "text": "If two players have the same score, they will receive the same place in the overall rankings."
+    "title": "Rewards",
+    "text": "<color=#FF423F>Tycoon Points</color> are awarded based on your final rank. Players with higher ranks can earn greater rewards."
   },
   {
     "sn": "90301",
-    "title": "Card Strength",
-    "text": "In Tycoon, a card's number will decide its strength.\nThe <color=#FF423F>weakest card is 3</color>, continuing upwards to 4, 5 and so on. The <color=#FF423F>strongest card is 2</color>."
+    "title": "Gameplay",
+    "text": "The player that holds the <color=#FF423F>3 of diamonds</color> starts the first round. In following rounds, the <color=#FF423F>Beggar</color> will be the starting player.\nStarting players can play any card.\nYou can also play several cards of the same number."
   },
   {
     "sn": "90302",
-    "title": "Playing Cards",
-    "text": "The active player can play cards, and there are a number of ways to do so:\nOne card, a pair, three of a kind, or four of a kind."
+    "title": "Gameplay",
+    "text": "Going clockwise, the next player must play a <color=#FF423F>stronger card</color> and match the <color=#FF423F>number of cards</color> previously played.\nWhen you are unable to play or do not want to play any cards, you can <color=#FF423F>pass</color> to skip over to the next player."
   },
   {
     "sn": "90303",
-    "title": "Playing Cards",
-    "text": "The turn order proceeds clockwise.\nWhen you play cards, they must be <color=#FF423F>the same number of cards</color> and a <color=#FF423F>higher rank</color> than the previous player.\nIf you can't play any cards, or choose not to, you can <color=#FF423F>Pass</color> and skip your turn."
+    "title": "Gameplay",
+    "text": "When all players pass, previously played cards will be cleared off and a new turn will start.\nThe last player to play a card will start the new turn.\nThis will continue until only one player has cards in their hand."
   },
   {
     "sn": "90304",
-    "title": "First Turn",
-    "text": "The player holding the <color=#FF423F>3 of diamonds</color> will go first. From there, the Beggar begins the round."
+    "title": "Card Strength",
+    "text": "There are 56 cards in total, including two Joker cards and two Wonder cards.\n<color=#FF423F>3</color> is the weakest, while <color=#FF423F>2</color> is the strongest.\n<color=#FF423F>Joker</color> is stronger than 2.\n<color=#FF423F>Wonder</color> can be used to instantly end a turn.\nCertain number cards can also be used to turn the game in your favor."
   },
   {
     "sn": "90401",
-    "title": "Pass",
-    "text": "At the start of the second round, players may <color=#FF423F>exchange cards</color>."
+    "title": "Exchanging Cards",
+    "text": "From the second round onward, players <color=#FF423F>exchange cards</color> at the start of the round.\nThe Tycoon and the Beggar exchange two cards.\nThe Rich and the Poor exchange one card."
   },
   {
     "sn": "90402",
-    "title": "Pass",
-    "text": "The Tycoon and Beggar exchange 2 cards each, and the Rich and Poor exchange 1 card each.\nThe Poor and Beggar must choose the strongest cards in their hand (excluding the Wonder card)."
+    "title": "Exchanging Cards",
+    "text": "When exchanging cards, the Poor and the Beggar must select their strongest cards to hand over.\nOn the other hand, the Rich and the Tycoon can select any card to hand over.\nWonder cards cannot be exchanged."
   },
   {
     "sn": "90501",
     "title": "3-Spade Reversal",
-    "text": "Playing a 3 of Spades after a single Joker card will trigger a <color=#FF423F>3-Spade Reversal</color> and end the round."
+    "text": "When a 3 of spades is played after a single Joker card, a <color=#FF423F>3-Spade Reversal</color> is triggered and starts a new turn."
   },
   {
     "sn": "90601",
     "title": "Revolution",
-    "text": "Playing 4 of the same rank triggers a <color=#FF423F>Revolution</color>, reversing the strength of all cards."
+    "text": "Playing four cards of the same number triggers a <color=#FF423F>Revolution</color>.\nDuring a Revolution, card strengths are flipped until the round ends. <color=#FF423F>3</color> becomes the strongest and <color=#FF423F>2</color> becomes the weakest.\nThe strength of Joker and Wonder remain the same."
   },
   {
     "sn": "90602",
     "title": "Counter Revolution",
-    "text": "If you play another 4 of a kind when a Revolution is active, it triggers a <color=#FF423F>Counter Revolution</color>, returning all cards' strength to normal."
+    "text": "Playing another set of four cards of the same number during a Revolution triggers a <color=#FF423F>Counter Revolution</color>, returning cards to their original strengths."
+  },
+  {
+    "sn": "90701",
+    "title": "Pass",
+    "text": "Pass allows you to skip your turn to play cards.\nUse it when you are unable to play or do not want to play any cards."
+  },
+  {
+    "sn": "90702",
+    "title": "Pass",
+    "text": "When all players pass, previously played cards are cleared off and a new turn starts."
   },
   {
     "sn": "90801",
     "title": "8 Stop",
-    "text": "Playing an 8 will cause an 8 Stop, which forces the round to end. The player who played the 8 card will get to start the next round."
+    "text": "Playing an 8 card, either single or multiple, will trigger an <color=#FF423F>8 Stop</color>.\nDuring an 8 Stop, previously played cards will be cleared off and a new turn will begin starting with the player that played the 8."
   },
   {
     "sn": "90901",
     "title": "Joker",
-    "text": "The Joker is stronger than a 2, or stronger than a 3 during a Revolution. It can also be played as a wild card in place of other numbers.\nIf you play it as pictured here, it will become a <color=#FF423F>Revolution</color>."
+    "text": "The Joker card is stronger than 2, and also stronger than 3 during a Revolution.\nJokers can also be used to replace other number cards.\nAs shown in the image, Joker is played as an additional 7 and triggers a Revolution."
   },
   {
     "sn": "91001",
     "title": "Wonder",
-    "text": "When you play <color=#FF423F>Wonder</color>, you can activate an <color=#FF423F>X Stop</color>, instantly ending the round regardless of the other cards played."
+    "text": "The <color=#FF423F>Wonder</color> card can immediately stop the active turn. Wonder can be played after a Joker or multiple cards.\nAfter playing a Wonder card, previously played cards will be cleared off and the turn will reset starting with the player that played Wonder."
   },
   {
     "sn": "91101",
     "title": "Bankrupt",
-    "text": "If the Tycoon is not able to maintain their status during the next round, that player will lose the round and <color=#FF423F>become the Beggar</color>."
+    "text": "When the Tycoon does not rank #1 in the following round, they will go <color=#FF423F>Bankrupt</color> and automatically become the Beggar.\nOnce another player has gotten #1, the Tycoon will become Bankrupt and will not be able to play for the rest of the game."
   },
   {
     "sn": "100101",
@@ -1468,15 +1478,5 @@
     "sn": "100132",
     "title": "Collectibles",
     "text": "Once you have met the conditions for collecting or unlocking an item, it can be claimed or purchased here."
-  },
-  {
-    "sn": "90701",
-    "title": "AAAAAA==",
-    "text": "If you don't want to play any cards on your turn, you can choose to pass to the next player."
-  },
-  {
-    "sn": "90702",
-    "title": "AAAAAA==",
-    "text": "You'll have to pass if you do not have any cards you can play.\nIf all players pass, the round will end."
   }
 ]

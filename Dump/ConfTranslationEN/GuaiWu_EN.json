@@ -201,31 +201,31 @@
     "sn": "514101",
     "name": "Bishamonten",
     "desc": "Also known as Tamonten and Vaishravana in Buddhist lore, he is the strongest of the Heavenly Kings. He protects the North and is the god of war.",
-    "strategy": "Each turn the Four Heavenly Kings will focus their Death Stare on 1 random Phantom Thief. They will prioritize attacking the Phantom Thief under the Death Stare."
+    "strategy": "Every 2 turns, Shadows will focus their Death Stare on 1 random Phantom Thief. They will prioritize attacking the Phantom Thief under the Death Stare."
   },
   {
     "sn": "514102",
     "name": "Koumokuten",
     "desc": "Also known as Virupaksha, he is the protector of the West, and is one of the four Heavenly Kings of Buddhist origin. He keeps a close watch on the world with his sharp gaze.",
-    "strategy": "AAAAAA=="
+    "strategy": "Every 2 turns, Shadows will focus their Death Stare on 1 random Phantom Thief. They will prioritize attacking the Phantom Thief under the Death Stare."
   },
   {
     "sn": "514103",
     "name": "Zouchouten",
     "desc": "Also known as Virudhaka, he is the protector of the South, and is one of the four Heavenly Kings of Buddhist origin. He is the god of the five grains, and was once the chief of the gods.",
-    "strategy": "AAAAAA=="
+    "strategy": "Every 2 turns, Shadows will focus their Death Stare on 1 random Phantom Thief. They will prioritize attacking the Phantom Thief under the Death Stare."
   },
   {
     "sn": "514104",
     "name": "Jikokuten",
     "desc": "Also known as Dhritarashtra, he is the protector of the East, and is one of the four Heavenly Kings of Buddhist origin. He helps maintain the security of the nation.",
-    "strategy": "AAAAAA=="
+    "strategy": "Every 2 turns, Shadows will focus their Death Stare on 1 random Phantom Thief. They will prioritize attacking the Phantom Thief under the Death Stare."
   },
   {
     "sn": "514111",
-    "name": "Titania",
-    "desc": "The queen of the fairies and Oberon's wife. She is derived from the Roman goddess Diana. She was later immortalized in Shakespeare's play \"A Midsummer Night's Dream.\"",
-    "strategy": "1. At the end of each turn, Titania gains 2 Fairy Power stacks.\n2. Titania loses 1 Fairy Power stack each time it takes a Physical attack.\n3. Before the start of Titania's turn, it spends all of its Fairy Power stacks to activate Fairy Curse, decreasing all Phantom Thieves' final damage by the number of Fairy Power stacks spent × 15%."
+    "name": "Seiryu",
+    "desc": "The noblest of the Ssu-Ling creatures of Chinese myth. It represents the direction east, the season of spring, and the element of wood. It dwells in a palace at the bottom of the ocean.",
+    "strategy": "1. At the start of battle, Seiryu gains 2 Azure Scales stacks, and gains 1 more stack every turn. Each stack decreases damage taken by 15%.\n2. When Seiryu takes weakness damage, it loses 1 Azure Scales stack.\n3. When Seiryu loses all Azure Scales stacks, all Phantom Thieves gain Seiryu's Might, increasing their damage."
   },
   {
     "sn": "515011",
@@ -429,7 +429,7 @@
     "sn": "515101",
     "name": "Quetzalcoatl",
     "desc": "An Aztec deity known as the Feathered Serpent. He created humans with his own blood and taught them how to sustain themselves.",
-    "strategy": "Quetzalcoatl forms a Soul Link with all Yurlungurs.\nSoul Link: Distributes all damage received between all Shadows who share this condition, based on the percentage of their current HP."
+    "strategy": "Quetzalcoatl shares a Soul Link with all Yurlungurs.\nSoul Link: Distributes all damage received between all Shadows who share this condition, based on the percentage of their current HP."
   },
   {
     "sn": "515102",
@@ -687,7 +687,7 @@
     "sn": "516111",
     "name": "Quetzalcoatl",
     "desc": "An Aztec deity known as the Feathered Serpent. He created humans with his own blood and taught them how to sustain themselves.",
-    "strategy": "Quetzalcoatl forms a Soul Link with all Yurlungurs.\nSoul Link: Distributes all damage received between all Shadows who share this condition, based on the percentage of their current HP."
+    "strategy": "Quetzalcoatl shares a Soul Link with all Yurlungurs.\nSoul Link: Distributes all damage received between all Shadows who share this condition, based on the percentage of their current HP."
   },
   {
     "sn": "516112",
@@ -2169,7 +2169,7 @@
     "sn": "933211",
     "name": "Hell Biker",
     "desc": "A motorcyclist whose violent nature turned him into a demon. His anger with himself and the world causes him to lash out, that everyone else would suffer as well.",
-    "strategy": "Hell Biker alternates between using Hellfire and Cleansing Flame.\n1. Hellfire: Deal heavy Fire damage to all Phantom Thieves. Inflict Hellscorched if the target's HP is decreased. Hellscorched: Take damage equal to 35% of max HP each turn.\n2. Cleansing Flame: Deal heavy Fire damage to the Phantom Thief with the highest Attack. Permanently decrease the target's Attack by 50%. Increase Hell Biker's Attack by 30%."
+    "strategy": "Hell Biker alternates between using Hellfire and Cleansing Flame.\n1. Hellfire: Deal heavy Fire damage to all Phantom Thieves. Inflict Hellscorched if the target's HP is decreased by this attack. Hellscorched: Take damage equal to 35% of max HP each turn.\n2. Cleansing Flame: Deal heavy Fire damage to the Phantom Thief with the highest Attack. Permanently decrease the target's Attack by 50%. Increase Hell Biker's Attack by 30%."
   },
   {
     "sn": "933212",
@@ -2187,7 +2187,7 @@
     "sn": "933221",
     "name": "Hell Biker",
     "desc": "A motorcyclist whose violent nature turned him into a demon. His anger with himself and the world causes him to lash out, that everyone else would suffer as well.",
-    "strategy": "Hell Biker alternates between using Hellfire and Cleansing Flame.\n1. Hellfire: Deal heavy Fire damage to all Phantom Thieves. Inflict Hellscorched if the target's HP is decreased. Hellscorched: Take damage equal to 35% of max HP each turn.\n2. Cleansing Flame: Deal heavy Fire damage to the Phantom Thief with the highest Attack. Permanently decrease the target's Attack by 50%. Increase Hell Biker's Attack by 30%."
+    "strategy": "Hell Biker alternates between using Hellfire and Cleansing Flame.\n1. Hellfire: Deal heavy Fire damage to all Phantom Thieves. Inflict Hellscorched if the target's HP is decreased by this attack. Hellscorched: Take damage equal to 35% of max HP each turn.\n2. Cleansing Flame: Deal heavy Fire damage to the Phantom Thief with the highest Attack. Permanently decrease the target's Attack by 50%. Increase Hell Biker's Attack by 30%."
   },
   {
     "sn": "933222",
@@ -2205,7 +2205,7 @@
     "sn": "933231",
     "name": "Hell Biker",
     "desc": "A motorcyclist whose violent nature turned him into a demon. His anger with himself and the world causes him to lash out, that everyone else would suffer as well.",
-    "strategy": "Hell Biker alternates between using Hellfire and Cleansing Flame.\n1. Hellfire: Deal heavy Fire damage to all Phantom Thieves. Inflict Hellscorched if the target's HP is decreased. Hellscorched: Take damage equal to 35% of max HP each turn.\n2. Cleansing Flame: Deal heavy Fire damage to the Phantom Thief with the highest Attack. Permanently decrease the target's Attack by 50%. Increase Hell Biker's Attack by 30%."
+    "strategy": "Hell Biker alternates between using Hellfire and Cleansing Flame.\n1. Hellfire: Deal heavy Fire damage to all Phantom Thieves. Inflict Hellscorched if the target's HP is decreased by this attack. Hellscorched: Take damage equal to 35% of max HP each turn.\n2. Cleansing Flame: Deal heavy Fire damage to the Phantom Thief with the highest Attack. Permanently decrease the target's Attack by 50%. Increase Hell Biker's Attack by 30%."
   },
   {
     "sn": "933232",
@@ -2223,7 +2223,7 @@
     "sn": "933241",
     "name": "Hell Biker",
     "desc": "A motorcyclist whose violent nature turned him into a demon. His anger with himself and the world causes him to lash out, that everyone else would suffer as well.",
-    "strategy": "Hell Biker alternates between using Hellfire and Cleansing Flame.\n1. Hellfire: Deal heavy Fire damage to all Phantom Thieves. Inflict Hellscorched if the target's HP is decreased. Hellscorched: Take damage equal to 35% of max HP each turn.\n2. Cleansing Flame: Deal heavy Fire damage to the Phantom Thief with the highest Attack. Permanently decrease the target's Attack by 50%. Increase Hell Biker's Attack by 30%."
+    "strategy": "Hell Biker alternates between using Hellfire and Cleansing Flame.\n1. Hellfire: Deal heavy Fire damage to all Phantom Thieves. Inflict Hellscorched if the target's HP is decreased by this attack. Hellscorched: Take damage equal to 35% of max HP each turn.\n2. Cleansing Flame: Deal heavy Fire damage to the Phantom Thief with the highest Attack. Permanently decrease the target's Attack by 50%. Increase Hell Biker's Attack by 30%."
   },
   {
     "sn": "933242",
@@ -2241,7 +2241,7 @@
     "sn": "933251",
     "name": "Hell Biker",
     "desc": "A motorcyclist whose violent nature turned him into a demon. His anger with himself and the world causes him to lash out, that everyone else would suffer as well.",
-    "strategy": "Hell Biker alternates between using Hellfire and Cleansing Flame.\n1. Hellfire: Deal heavy Fire damage to all Phantom Thieves. Inflict Hellscorched if the target's HP is decreased. Hellscorched: Take damage equal to 35% of max HP each turn.\n2. Cleansing Flame: Deal heavy Fire damage to the Phantom Thief with the highest Attack. Permanently decrease the target's Attack by 50%. Increase Hell Biker's Attack by 30%."
+    "strategy": "Hell Biker alternates between using Hellfire and Cleansing Flame.\n1. Hellfire: Deal heavy Fire damage to all Phantom Thieves. Inflict Hellscorched if the target's HP is decreased by this attack. Hellscorched: Take damage equal to 35% of max HP each turn.\n2. Cleansing Flame: Deal heavy Fire damage to the Phantom Thief with the highest Attack. Permanently decrease the target's Attack by 50%. Increase Hell Biker's Attack by 30%."
   },
   {
     "sn": "933252",
@@ -3542,37 +3542,37 @@
   {
     "sn": "2023",
     "name": "Corporobo MDL-WKR",
-    "desc": "-",
+    "desc": "A corporobo that protects Avidya. It will never defy the orders of MDL-CH.",
     "strategy": "AAAAAA=="
   },
   {
     "sn": "2024",
     "name": "Corporobo MDL-CH",
-    "desc": "-",
+    "desc": "A corporobo that protects Avidya. It will never defy the orders of MDL-AM.",
     "strategy": "AAAAAA=="
   },
   {
     "sn": "2025",
     "name": "Corporobo MDL-AM",
-    "desc": "-",
+    "desc": "A corporobo that protects Avidya. It will never defy the orders of MDL-DM.",
     "strategy": "AAAAAA=="
   },
   {
     "sn": "2026",
     "name": "Corporobo MDL-DM",
-    "desc": "-",
+    "desc": "A corporobo that protects Avidya. It will never defy the orders of MDL-GM.",
     "strategy": "AAAAAA=="
   },
   {
     "sn": "2027",
     "name": "Corporobo MDL-GM",
-    "desc": "-",
+    "desc": "A corporobo that protects Avidya. It will never defy the orders of MDL-ED.",
     "strategy": "AAAAAA=="
   },
   {
     "sn": "2028",
     "name": "Corporobo MDL-ED",
-    "desc": "-",
+    "desc": "A corporobo that protects Avidya. It will never defy the orders of Avidya.",
     "strategy": "AAAAAA=="
   },
   {
@@ -26769,25 +26769,25 @@
     "sn": "513111",
     "name": "Bishamonten",
     "desc": "Also known as Tamonten and Vaishravana in Buddhist lore, he is the strongest of the Heavenly Kings. He protects the North and is the god of war.",
-    "strategy": "Each turn, Shadows will fire off a Death Stare at a random Phantom Thief. They will prioritize attacking the Phantom Thief under the Death Stare. By using Taunt skills or skills that increase their own attack taken rate, a Phantom Thief can transfer the Death Stare to themself."
+    "strategy": "Every 2 turns, Shadows will fire off a Death Stare at a random Phantom Thief. They will prioritize attacking the Phantom Thief under the Death Stare. By using Taunt skills or skills that increase their own attack taken rate, a Phantom Thief can transfer the Death Stare to themself."
   },
   {
     "sn": "513112",
     "name": "Koumokuten",
     "desc": "Also known as Virupaksha, he is the protector of the West, and is one of the four Heavenly Kings of Buddhist origin. He keeps a close watch on the world with his sharp gaze.",
-    "strategy": "Each turn, Shadows will fire off a Death Stare at a random Phantom Thief. They will prioritize attacking the Phantom Thief under the Death Stare. By using Taunt skills or skills that increase their own attack taken rate, a Phantom Thief can transfer the Death Stare to themself."
+    "strategy": "Every 2 turns, Shadows will fire off a Death Stare at a random Phantom Thief. They will prioritize attacking the Phantom Thief under the Death Stare. By using Taunt skills or skills that increase their own attack taken rate, a Phantom Thief can transfer the Death Stare to themself."
   },
   {
     "sn": "513113",
     "name": "Zouchouten",
     "desc": "Also known as Virudhaka, he is the protector of the South, and is one of the four Heavenly Kings of Buddhist origin. He is the god of the five grains, and was once the chief of the gods.",
-    "strategy": "Weaknesses and resisistances are different than normal.\nEach turn, Shadows will fire off a Death Stare at a random Phantom Thief. They will prioritize attacking the Phantom Thief under the Death Stare. By using Taunt skills or skills that increase their own attack taken rate, a Phantom Thief can transfer the Death Stare to themself."
+    "strategy": "Weaknesses and resisistances are different than normal.\nEvery 2 turns, Shadows will fire off a Death Stare at a random Phantom Thief. They will prioritize attacking the Phantom Thief under the Death Stare. By using Taunt skills or skills that increase their own attack taken rate, a Phantom Thief can transfer the Death Stare to themself."
   },
   {
     "sn": "513114",
     "name": "Jikokuten",
     "desc": "Also known as Dhritarashtra, he is the protector of the East, and is one of the four Heavenly Kings of Buddhist origin. He helps maintain the security of the nation.",
-    "strategy": "Weaknesses and resisistances are different than normal.\nEach turn, Shadows will fire off a Death Stare at a random Phantom Thief. They will prioritize attacking the Phantom Thief under the Death Stare. By using Taunt skills or skills that increase their own attack taken rate, a Phantom Thief can transfer the Death Stare to themself."
+    "strategy": "Weaknesses and resisistances are different than normal.\nEvery 2 turns, Shadows will fire off a Death Stare at a random Phantom Thief. They will prioritize attacking the Phantom Thief under the Death Stare. By using Taunt skills or skills that increase their own attack taken rate, a Phantom Thief can transfer the Death Stare to themself."
   },
   {
     "sn": "600011",
@@ -28597,13 +28597,13 @@
   },
   {
     "sn": "703132",
-    "name": "Avatar of Arms",
+    "name": "Slime",
     "desc": "-",
     "strategy": "AAAAAA=="
   },
   {
     "sn": "703133",
-    "name": "Avatar of Gathering",
+    "name": "Black Ooze",
     "desc": "-",
     "strategy": "AAAAAA=="
   },
@@ -30025,8 +30025,8 @@
   },
   {
     "sn": "712352",
-    "name": "Emperor's Amulet",
-    "desc": "Also known as Charlemagne's talisman, it is said to make its owner an emperor. In between the two gems is a piece of Jesus' cross and a hair of the Virgin Mary.",
+    "name": "Decarabia",
+    "desc": "One of the 72 demons of the Goetia, this demon appears as a pentacle. Keeper of jewels and herbal lore, Decarabia is said to have the ability to shape-shift at will.",
     "strategy": "AAAAAA=="
   },
   {
@@ -30037,8 +30037,8 @@
   },
   {
     "sn": "712354",
-    "name": "Crystal Skull",
-    "desc": "An ancient Out-Of-Place-Artifact found in Central and South America. It is said that if you collect 13 of them in one spot, the truth of the universe will be revealed.",
+    "name": "Hope Diamond",
+    "desc": "Unlike its name suggests, the Hope Diamond is a cursed jewel that brings ruin from one owner to the next. A few supposed victims include King Louis XVI and his wife, Marie Antoinette.",
     "strategy": "AAAAAA=="
   },
   {
@@ -30067,8 +30067,8 @@
   },
   {
     "sn": "712381",
-    "name": "Asura",
-    "desc": "The Hindu king of Asuras is named Maha Vairocana, or \"One Who Shines On All.\" In Buddhism, he is known as Dainichi Nyorai.",
+    "name": "Bishamonten",
+    "desc": "Also known as Tamonten and Vaishravana in Buddhist lore, he is the strongest of the Heavenly Kings. He protects the North and is the god of war.",
     "strategy": "AAAAAA=="
   },
   {
@@ -32595,13 +32595,13 @@
     "sn": "740111",
     "name": "Kartikeya",
     "desc": "A Hindu god of war, known as Skanda or Murugan. He rides atop a peacock called Paravani,with bow and arrow drawn. He commands the army of the gods and defeated the forces of Asura.",
-    "strategy": "1. Kartikeya leads its army of birds to attack all at once.\n2. When Garuda and Jatayu take damage from a Phantom Thief, that Thief's damage increases by 4% for 3 turns. Stacks up to 5 times. When Horus and Yatagarasu take damage from a Phantom Thief, that Thief's pierce rate increases by 2% for 3 turns. Stacks up to 5 times."
+    "strategy": "1. Kartikeya leads its army of birds in a coordinated strike.\n2. When Garuda and Jatayu take damage from a Phantom Thief, that Thief's damage increases by 4% for 3 turns. Stacks up to 5 times. When Horus and Yatagarasu take damage from a Phantom Thief, that Thief's pierce rate increases by 2% for 3 turns. Stacks up to 5 times."
   },
   {
     "sn": "740112",
     "name": "Kartikeya",
     "desc": "A Hindu god of war, known as Skanda or Murugan. He rides atop a peacock called Paravani,with bow and arrow drawn. He commands the army of the gods and defeated the forces of Asura.",
-    "strategy": "1. Kartikeya leads its army of birds to attack all at once.\n2. When Garuda and Jatayu take damage from a Phantom Thief, that Thief's damage increases by 4% for 3 turns. Stacks up to 5 times. When Horus and Yatagarasu take damage from a Phantom Thief, that Thief's pierce rate increases by 2% for 3 turns. Stacks up to 5 times."
+    "strategy": "1. Kartikeya leads its army of birds in a coordinated strike.\n2. When Garuda and Jatayu take damage from a Phantom Thief, that Thief's damage increases by 4% for 3 turns. Stacks up to 5 times. When Horus and Yatagarasu take damage from a Phantom Thief, that Thief's pierce rate increases by 2% for 3 turns. Stacks up to 5 times."
   },
   {
     "sn": "740121",
@@ -32619,13 +32619,13 @@
     "sn": "740123",
     "name": "Horus",
     "desc": "An ancient god of Egypt whose eyes are the sun and moon. Revered by some as the chief god, he is often depicted as a hawk or a falcon.",
-    "strategy": "When Horus and Yatagarasu take damage from a Phantom Thief, that Thief's pierce rate increases by 2% for 3 turns. This can stack up to 5 times."
+    "strategy": "When Horus and Yatagarasu take damage from a Phantom Thief, that Thief's pierce rate increases by 2% for 3 turns. Stacks up to 5 times."
   },
   {
     "sn": "740124",
     "name": "Yatagarasu",
     "desc": "A divine creature in Japanese lore. They are three-legged birds sent by Amaterasu to help humans. They are said to have helped Emperor Jinmu claim victory.",
-    "strategy": "When Horus and Yatagarasu take damage from a Phantom Thief, that Thief's pierce rate increases by 2% for 3 turns. This can stack up to 5 times."
+    "strategy": "When Horus and Yatagarasu take damage from a Phantom Thief, that Thief's pierce rate increases by 2% for 3 turns. Stacks up to 5 times."
   },
   {
     "sn": "740131",
@@ -32643,19 +32643,19 @@
     "sn": "740133",
     "name": "Horus",
     "desc": "An ancient god of Egypt whose eyes are the sun and moon. Revered by some as the chief god, he is often depicted as a hawk or a falcon.",
-    "strategy": "When Horus and Yatagarasu take damage from a Phantom Thief, that Thief's pierce rate increases by 2% for 3 turns. This can stack up to 5 times."
+    "strategy": "When Horus and Yatagarasu take damage from a Phantom Thief, that Thief's pierce rate increases by 2% for 3 turns. Stacks up to 5 times."
   },
   {
     "sn": "740134",
     "name": "Yatagarasu",
     "desc": "A divine creature in Japanese lore. They are three-legged birds sent by Amaterasu to help humans. They are said to have helped Emperor Jinmu claim victory.",
-    "strategy": "When Horus and Yatagarasu take damage from a Phantom Thief, that Thief's pierce rate increases by 2% for 3 turns. This can stack up to 5 times."
+    "strategy": "When Horus and Yatagarasu take damage from a Phantom Thief, that Thief's pierce rate increases by 2% for 3 turns. Stacks up to 5 times."
   },
   {
     "sn": "740611",
     "name": "Kartikeya",
     "desc": "A Hindu god of war, known as Skanda or Murugan. He rides atop a peacock called Paravani,with bow and arrow drawn. He commands the army of the gods and defeated the forces of Asura.",
-    "strategy": "1. Kartikeya leads its army of birds to attack all at once.\n2. When Garuda and Jatayu take damage from a Phantom Thief, that Thief's damage increases by 4% for 3 turns. Stacks up to 5 times. When Horus and Yatagarasu take damage from a Phantom Thief, that Thief's pierce rate increases by 2% for 3 turns. Stacks up to 5 times."
+    "strategy": "1. Kartikeya leads its army of birds in a coordinated strike.\n2. When Garuda and Jatayu take damage from a Phantom Thief, that Thief's damage increases by 4% for 3 turns. Stacks up to 5 times. When Horus and Yatagarasu take damage from a Phantom Thief, that Thief's pierce rate increases by 2% for 3 turns. Stacks up to 5 times."
   },
   {
     "sn": "740621",
@@ -32673,13 +32673,13 @@
     "sn": "740623",
     "name": "Horus",
     "desc": "An ancient god of Egypt whose eyes are the sun and moon. Revered by some as the chief god, he is often depicted as a hawk or a falcon.",
-    "strategy": "When Horus and Yatagarasu take damage from a Phantom Thief, that Thief's pierce rate increases by 2% for 3 turns. This can stack up to 5 times."
+    "strategy": "When Horus and Yatagarasu take damage from a Phantom Thief, that Thief's pierce rate increases by 2% for 3 turns. Stacks up to 5 times."
   },
   {
     "sn": "740624",
     "name": "Yatagarasu",
     "desc": "A divine creature in Japanese lore. They are three-legged birds sent by Amaterasu to help humans. They are said to have helped Emperor Jinmu claim victory.",
-    "strategy": "When Horus and Yatagarasu take damage from a Phantom Thief, that Thief's pierce rate increases by 2% for 3 turns. This can stack up to 5 times."
+    "strategy": "When Horus and Yatagarasu take damage from a Phantom Thief, that Thief's pierce rate increases by 2% for 3 turns. Stacks to 5 times."
   },
   {
     "sn": "741111",
@@ -38595,7 +38595,7 @@
     "sn": "829021",
     "name": "Hell Biker",
     "desc": "A motorcyclist whose violent nature turned him into a demon. His anger with himself and the world causes him to lash out, that everyone else would suffer as well.",
-    "strategy": "At the end of each turn, Hell Biker will inflict Hellscorched on all targets.\nHellscorched: Lose a large amount of HP at the end of each turn. Stacks up to 3 times. Can be removed after taking <color=#FF423F>Ice</color> damage."
+    "strategy": "At the end of each turn, Hell Biker will inflict Hellscorched on all Phantom Thieves.\nHellscorched: Lose a large amount of HP at the end of each turn. Stacks up to 3 times. Can be removed after taking <color=#FF423F>Ice</color> damage."
   },
   {
     "sn": "829022",
@@ -38775,7 +38775,7 @@
     "sn": "829091",
     "name": "Pazuzu",
     "desc": "The Babylonian lord of wind and scorching sands. He has the body of a man, a lion's head, the claws and wings of an eagle, and has a deadly poison. The diseases he spreads can only be cured with magic.",
-    "strategy": "Weaknesses and resistances are different than normal.\n1. Pazuzu's skills can inflict Plague Curse. Plague Curse: Deals damage equal to 5% of HP at the end of the turn.\n2. Pazuzu uses Spreading Sickness every other turn. Spreading Sickness: Inflicts Plague Origin on 1 Black Ooze. Lasts for 2 turns.\n3. After a Shadow with Plague Origin attacks, all Phantom Thieves are inflicted with 2 Plague Curse stacks. After being defeated, Pazuzu is inflicted with 2 Plague Curse stacks.\n4. Pazuzu uses Eternal Binding every other turn. Eternal Binding: Inflicts 2 Plague Curse stacks on all Phantom Thieves, and removes 1 Plague Curse stack from the target."
+    "strategy": "Weaknesses and resistances are different than normal.\n1. Pazuzu's skills can inflict Plague Curse. Plague Curse: Deals damage equal to 5% of max HP at the end of the turn.\n2. Pazuzu uses Spreading Sickness every other turn. Spreading Sickness: Inflicts Plague Origin on 1 Black Ooze. Lasts for 2 turns.\n3. After a Shadow with Plague Origin attacks, all Phantom Thieves are inflicted with 2 Plague Curse stacks. After that Shadow is defeated, Pazuzu is inflicted with 2 Plague Curse stacks.\n4. Pazuzu uses Eternal Binding every other turn. Eternal Binding: Inflicts 2 Plague Curse stacks on all Phantom Thieves, and removes 1 Plague Curse stack from the target."
   },
   {
     "sn": "829092",
@@ -40460,25 +40460,25 @@
   {
     "sn": "753123",
     "name": "Shade of Genbu",
-    "desc": "-",
+    "desc": "One of the Ssu-Ling, celestial creatures in Chinese myth. It represents the direction north, the season of winter, and the element of water. Known to be a great warrior, it supports the Earth from below.",
     "strategy": "AAAAAA=="
   },
   {
     "sn": "753124",
     "name": "Shade of Suzaku",
-    "desc": "-",
+    "desc": "One of the Ssu-Ling, celestial creatures in Chinese myth. It is a giant bird that is said to chirp in five beautiful voices. It represents the direction south, the season of summer, and the element of fire.",
     "strategy": "AAAAAA=="
   },
   {
     "sn": "753125",
     "name": "Shade of Byakko",
-    "desc": "-",
+    "desc": "One of the Ssu-Ling, celestial creatures in Chinese myth. It represents the direction west, the season of autumn, and the element of metal. He is believed to be the king of all beasts.",
     "strategy": "AAAAAA=="
   },
   {
     "sn": "753126",
     "name": "Shade of Seiryu",
-    "desc": "-",
+    "desc": "The noblest of the Ssu-Ling creatures of Chinese myth. It represents the direction east, the season of spring, and the element of wood. It dwells in a palace at the bottom of the ocean.",
     "strategy": "AAAAAA=="
   },
   {
@@ -40533,19 +40533,19 @@
     "sn": "753141",
     "name": "Hecatoncheires",
     "desc": "Giants born from Uranus and Gaia. The name means \"those with a hundred arms.\" During the war of the Titans, Zeus freed them from the Underworld to help him obtain victory.",
-    "strategy": "1. At the start of the battle, Hecatoncheires has 100 <color=#72C5FF>Arms of Protection</color> stacks, and takes less damage depending on the number of stacks. When it has Arms of Protection, it also has <color=#72C5FF>Arms of Defense</color>, reducing final damage by 70%.\n2. Hecatoncheires will summon the Avatar of Arms and the Avatar of Gathering. When the Avatar of Arms is defeated, it loses 1 <color=#72C5FF>Arms of Protection</color> stack. When the Avatar of Gathering is defeated, it loses 10 <color=#72C5FF>Arms of Protection</color> stacks. For each <color=#72C5FF>Arms of Protection</color> stack removed, all Phantom Thieves gain <color=#72C5FF>Arms of Strength</color>. Arms of Strength: Damage increased based on number of stacks.\n3. When Hecatoncheires has 80 or more <color=#72C5FF>Arms of Protection</color> stacks, it becomes invincible and will not attack. It keeps 4 Avatars of Arms on the field, and gains 1 <color=#72C5FF>Arms of Might</color> stack every turn. Arms of Might: Damage increased based on number of stacks.\n4. When Hecatoncheires has less than 80 <color=#72C5FF>Arms of Protection</color> stacks, it loses its invincibility and begins to attack. Every turn it summons 2 Avatars of Gathering. When it takes damage, 1 <color=#72C5FF>Arms of Protection</color> stack is removed.\n5. When <color=#72C5FF>Arms of Protection</color> reaches 0, Hecatoncheires enters the Last Stand state. Last Stand: Damage is significantly increased, and attack pattern changes."
+    "strategy": "1. At the start of the battle, Hecatoncheires has 100 <color=#72C5FF>Arms of Protection</color> stacks, and takes less damage depending on the number of stacks. When it has Arms of Protection, it also has <color=#72C5FF>Arms of Defense</color>, reducing final damage by 70%.\n2. Hecatoncheires will summon Slime and Black Ooze. When Slime is defeated, it loses 1 <color=#72C5FF>Arms of Protection</color> stack. When Black Ooze is defeated, it loses 10 <color=#72C5FF>Arms of Protection</color> stacks. For each <color=#72C5FF>Arms of Protection</color> stack removed, all Phantom Thieves gain <color=#72C5FF>Arms of Strength</color>. Arms of Strength: Damage increased based on number of stacks.\n3. When Hecatoncheires has 80 or more <color=#72C5FF>Arms of Protection</color> stacks, it becomes invincible and will not attack. It keeps 4 Slimes on the field, and gains 1 <color=#72C5FF>Arms of Might</color> stack every turn. Arms of Might: Damage increased based on number of stacks.\n4. When Hecatoncheires has less than 80 <color=#72C5FF>Arms of Protection</color> stacks, it loses its invincibility and begins to attack. Every turn it summons 2 Black Oozes. When it takes damage, 1 <color=#72C5FF>Arms of Protection</color> stack is removed.\n5. When <color=#72C5FF>Arms of Protection</color> reaches 0, Hecatoncheires enters the Last Stand state. Last Stand: Damage is significantly increased, and attack pattern changes."
   },
   {
     "sn": "753142",
-    "name": "Avatar of Arms",
-    "desc": "-",
-    "strategy": "An Avatar of Arms."
+    "name": "Slime",
+    "desc": "A primitive monster with a viscous body. There are various theories as to its origin, but it is still under debate. Said to compulsively collect shiny objects.",
+    "strategy": "-"
   },
   {
     "sn": "753143",
-    "name": "Avatar of Gathering",
-    "desc": "-",
-    "strategy": "An Avatar of many Arms."
+    "name": "Black Ooze",
+    "desc": "A mass of malevolent intent and emotion that failed to become a true demon. All it does is eat, prey, and grow.",
+    "strategy": "-"
   },
   {
     "sn": "753011",
@@ -41703,17 +41703,17 @@
     "sn": "901510",
     "name": "Trumpeter",
     "desc": "Angels that sound the trumpets at the time of the apocalypse. As each trumpet sounds, the more plagues and disasters will occur, turning the earth into a land of death and suffering.",
-    "strategy": "Trumpeter has no weaknesses or resistances.\n1. At the start of battle, Trumpeter summons 4 Shadows, and becomes invincible. The Shadows share a <color=#72C5FF>Soul Link</color>, and if they are all defeated, Trumpeter will enter a Mania state.\nSoul Link: Distributes all damage received between all Shadows who share this condition, based on the percentage of their current HP.\n2. Trumpeter and the Shadows will sound their horns once every 3 turns. They cannot sound their horns if they are affected by a spiritual ailment.\n3. White Rider: On Trumpeter's command, it will sound the <color=#72C5FF>Horn of Pestilence</color>, decreasing the max HP of 1 random Phantom Thief.\n4. Red Rider: On Trumpeter's command, it will sound the <color=#72C5FF>Horn of War</color>, granting itself the <color=#72C5FF>Horn of War</color> status. When this status is active, it will counterattack when attacked. Lasts for 1 turn.\n5. Black Rider: On Trumpeter's command, it will sound the <color=#72C5FF>Horn of Famine</color>, increasing the SP cost of skills for 1 random Phantom Thief.\n6. Pale Rider: On Trumpeter's command, it will sound the <color=#72C5FF>Horn of Death</color>, decreasing the healing effect of all Phantom Thieves' skills, and increasing all Shadows' damage. Lasts for 2 turns.\n7. Trumpeter: Each time the Shadows sound a horn, Trumpeter gains 1 <color=#72C5FF>Power of Ruin</color> stack. After all Shadows have been commanded, Trumpeter will prepare for 1 turn before sounding the <color=#72C5FF>Horn of Ruin</color>.This will spend all <color=#72C5FF>Power of Ruin</color> stacks to deal Almighty damage to all Phantom Thieves (deals higher damage based on the Attack of the Shadows). Additional effects are based on the number of <color=#72C5FF>Power of Ruin</color> stacks.\n1 stack: Final attack power increases by 25%.\n2 stacks: Damage increases by 15%.\n3 stacks: All Shadows heal 10% of their HP.\n4 stacks: This attack is guaranteed to be a critical hit.\n8. After all Shadows have been defeated once, Trumpeter will enter a Mania state, sacrifice 50% of its own HP to revive the Shadows, and become invincible again. The Shadows share a <color=#72C5FF>Soul Link</color>, and if they are all defeated, Trumpeter will lose its invincibility.\n9. When in the Mania state, Trumpeter does not spend <color=#72C5FF>Power of Ruin</color> when it sounds the <color=#72C5FF>Horn of Ruin</color>, but still gains additional effects based on the number of stacks. The number of stacks of <color=#72C5FF>Power of Ruin</color> will increase the damage of all Shadows."
+    "strategy": "These Shadows have no weaknesses or resistances.\n1. At the start of battle, Trumpeter summons 4 Shadows, and becomes invincible. These Shadows share a <color=#72C5FF>Soul Link</color>, and if all four are defeated, Trumpeter will enter its Dire state.\nSoul Link: Distributes all damage received between all Shadows who share this condition, based on the percentage of their current HP.\n2. Trumpeter and the Shadows will sound their horns once every 3 turns. They cannot sound their horns if they are affected by a spiritual ailment.\n3. White Rider: On Trumpeter's command, it will sound the <color=#72C5FF>Horn of Pestilence</color>, decreasing the max HP of 1 random Phantom Thief.\n4. Red Rider: On Trumpeter's command, it will sound the <color=#72C5FF>Horn of War</color>, granting itself the <color=#72C5FF>Horn of War</color> status. When this status is active, it will counterattack when attacked. Lasts for 1 turn.\n5. Black Rider: On Trumpeter's command, it will sound the <color=#72C5FF>Horn of Famine</color>, increasing the SP cost of skills for 1 random Phantom Thief.\n6. Pale Rider: On Trumpeter's command, it will sound the <color=#72C5FF>Horn of Death</color>, decreasing the healing effect of all Phantom Thieves' skills, and increasing all Shadows' damage. Lasts for 2 turns.\n7. Trumpeter: Each time a Shadow sounds a horn, Trumpeter gains 1 <color=#72C5FF>Power of Ruin</color> stack. After all the Shadows have been commanded, Trumpeter will prepare for 1 turn before sounding the <color=#72C5FF>Horn of Ruin</color>. This will spend all <color=#72C5FF>Power of Ruin</color> stacks to deal Almighty damage to all Phantom Thieves (deals higher damage based on the Attack of all Shadows). Additional effects are based on the number of <color=#72C5FF>Power of Ruin</color> stacks.\n1 stack: Final attack power increases by 25%.\n2 stacks: Damage increases by 15%.\n3 stacks: All Shadows heal 10% of their HP.\n4 stacks: This attack is guaranteed to be a critical hit.\n8. After all Shadows have been defeated once, Trumpeter will enter its Dire state, sacrificing 50% of its own HP to revive the Shadows, and becoming invincible again. The Shadows share a <color=#72C5FF>Soul Link</color>, and once they are defeated, Trumpeter will lose its invincibility.\n9. When in its Dire state, Trumpeter does not spend <color=#72C5FF>Power of Ruin</color> when it sounds the <color=#72C5FF>Horn of Ruin</color>, but still gains additional effects based on the number of <color=#72C5FF>Power of Ruin</color> stacks. The number of stacks of <color=#72C5FF>Power of Ruin</color> will increase the damage of all Shadows by a set amount."
   },
   {
     "sn": "901511",
     "name": "Trumpeter",
     "desc": "Angels that sound the trumpets at the time of the apocalypse. As each trumpet sounds, the more plagues and disasters will occur, turning the earth into a land of death and suffering.",
-    "strategy": "Trumpeter has no weaknesses or resistances.\n1. At the start of battle, Trumpeter summons 4 Shadows, and becomes invincible.These Shadows share a <color=#72C5FF>Soul Link</color>, and if all four are defeated, Trumpeter will enter a Mania state.\nSoul Link: Distributes all damage received between all Shadows who share this condition, based on the percentage of their current HP.\n2. Trumpeter and the Shadows will sound their horns once every 3 turns. They cannot sound their horns if they are affected by a spiritual ailment.\n3. White Rider: On Trumpeter's command, it will sound the <color=#72C5FF>Horn of Pestilence</color>, decreasing the max HP of 1 random Phantom Thief.\n4. Red Rider: On Trumpeter's command, it will sound the <color=#72C5FF>Horn of War</color>, granting itself the Horn of War status.\nWhen this status is active, it will counterattack when attacked. Lasts for 1 turn.\n5. Black Rider: On Trumpeter's command, it will sound the <color=#72C5FF>Horn of Famine</color>, increasing the SP cost of skills for 1 random Phantom Thief.\n6. Pale Rider: On Trumpeter's command, it will sound the <color=#72C5FF>Horn of Death</color>, decreasing the healing effect of all Phantom Thieves' skills, and increasing all Shadows' damage. Lasts for 2 turns.\n7. Trumpeter: Each time a Shadow sounds a horn, Trumpeter gains 1 <color=#72C5FF>Power of Ruin</color> stack.\nAfter all the Shadows have been commanded, Trumpeter will prepare for 1 turn before sounding the Horn of Ruin. This will spend all Power of Ruin stacks to deal Almighty damage to all Phantom Thieves (deals higher damage based on the Attack of all Shadows).\nAdditional effects are based on the number of Power of Ruin stacks.\n1 stack: Final Attack increases by 25%.\n2 stacks: Damage increases by 15%.\n3 stacks: All Shadows heal 10% of their HP.\n4 stacks: This attack is guaranteed to be a critical hit.\n8. After all Shadows have been defeated once, Trumpeter will enter a Mania state, sacrifice 50% of its own HP to revive the Shadows, and become invincible again. The Shadows share a <color=#72C5FF>Soul Link</color>, and if they are all defeated, Trumpeter will lose its invincibility.\n9. When in the Mania state, Trumpeter does not spend <color=#72C5FF>Power of Ruin</color> when it sounds the <color=#72C5FF>Horn of Ruin</color>, but still gains additional effects based on the number of stacks. The number of stacks of <color=#72C5FF>Power of Ruin</color> will increase the damage of all Shadows."
+    "strategy": "These Shadows have no weaknesses or resistances.\n1. At the start of battle, Trumpeter summons 4 Shadows, and becomes invincible. These Shadows share a <color=#72C5FF>Soul Link</color>, and if all four are defeated, Trumpeter will enter its Dire state.\nSoul Link: Distributes all damage received between all Shadows who share this condition, based on the percentage of their current HP.\n2. Trumpeter and the Shadows will sound their horns once every 3 turns. They cannot sound their horns if they are affected by a spiritual ailment.\n3. White Rider: On Trumpeter's command, it will sound the <color=#72C5FF>Horn of Pestilence</color>, decreasing the max HP of 1 random Phantom Thief.\n4. Red Rider: On Trumpeter's command, it will sound the <color=#72C5FF>Horn of War</color>, granting itself the Horn of War status. When this status is active, it will counterattack when attacked. Lasts for 1 turn.\n5. Black Rider: On Trumpeter's command, it will sound the <color=#72C5FF>Horn of Famine</color>, increasing the SP cost of skills for 1 random Phantom Thief.\n6. Pale Rider: On Trumpeter's command, it will sound the <color=#72C5FF>Horn of Death</color>, decreasing the healing effect of all Phantom Thieves' skills, and increasing all Shadows' damage. Lasts for 2 turns.\n7. Trumpeter: Each time a Shadow sounds a horn, Trumpeter gains 1 <color=#72C5FF>Power of Ruin</color> stack. After all the Shadows have been commanded, Trumpeter will prepare for 1 turn before sounding the Horn of Ruin. This will spend all <color=#72C5FF>Power of Ruin</color> stacks to deal Almighty damage to all Phantom Thieves (deals higher damage based on the Attack of all Shadows). Additional effects are based on the number of <color=#72C5FF>Power of Ruin</color> stacks.\n1 stack: Final attack power increases by 25%.\n2 stacks: Damage increases by 15%.\n3 stacks: All Shadows heal 10% of their HP.\n4 stacks: This attack is guaranteed to be a critical hit.\n8. After all Shadows have been defeated once, Trumpeter will enter its Dire state, sacrificing 50% of its own HP to revive the Shadows, and becoming invincible again. The Shadows share a <color=#FF423F>Soul Link</color>, and once they are defeated, Trumpeter will lose its invincibility.\n9. When in its Dire state, Trumpeter does not spend <color=#72C5FF>Power of Ruin</color> when it sounds the <color=#72C5FF>Horn of Ruin</color>, but still gains additional effects based on the number of <color=#72C5FF>Power of Ruin</color> stacks. The number of stacks of <color=#72C5FF>Power of Ruin</color> will increase the damage of all Shadows by a set amount."
   },
   {
     "sn": "901512",
-    "name": "Trumpeter",
+    "name": "Dire Trumpeter",
     "desc": "Angels that sound the trumpets at the time of the apocalypse. As each trumpet sounds, the more plagues and disasters will occur, turning the earth into a land of death and suffering.",
     "strategy": "AAAAAA=="
   },
@@ -41938,6 +41938,66 @@
     "name": "Incubus",
     "desc": "A male demon of European lore in medieval times. They visit sleeping women and have sexual intercourse with them. The resulting children become witches or wizards.",
     "strategy": "AAAAAA=="
+  },
+  {
+    "sn": "902011",
+    "name": "Seth",
+    "desc": "The Egyptian god of the desert, chaos, and evil. He murdered his brother, Osiris, and tried to become chief god, but he was castrated by Osiris's son, Horus.",
+    "strategy": "Shadows have different weaknesses and resistances than normal.\n1. Seth controls day and night, and switches the status of Dazzling Daylight and Obscuring Darkness each turn.\n2. When at the verge of death, Seth will defeat all Shadows present and change to Dire Seth. When it does, if Horus is present, it will change to always Dazzling Daylight state and summon Isis and Horus. If Horus is not present, it will change to always Obscuring Darkness state and summon Thoth and Anubis."
+  },
+  {
+    "sn": "902012",
+    "name": "Isis",
+    "desc": "Osiris's wife as well as his younger sister. Upon the death of her husband, she revived him with her incredible magic power. Isis is seen at many gravesites as the guardian goddess of the dead.",
+    "strategy": "Shadows have different weaknesses and resistances than normal.\n1. While Dazzling Daylight is active, the final damage Isis deals is increased by 25%, and its final damage taken is decreased by 25%. While Obscuring Darkness is active, final damage dealt is decreased by 25%, and final damage taken is increased by 25%.\n2. While Dazzling Daylight is active, Isis uses Diarama, healing the Shadow with the lowest HP percentage. Each turn, Amulet of Rebirth is granted to Seth. At 4 Amulet of Rebirth stacks, they are exchanged for 1 Power of Rebirth stack. When a Shadow with Power of Rebirth is at low HP, it spends 1 Power of Rebirth to restore 25% of its max HP."
+  },
+  {
+    "sn": "902013",
+    "name": "Horus",
+    "desc": "An ancient god of Egypt whose eyes are the sun and moon. Revered by some as the chief god, he is often depicted as a hawk or a falcon.",
+    "strategy": "Shadows have different weaknesses and resistances than normal.\n1. While Dazzling Daylight is active, the final damage Horus deals is increased by 25%, and its final damage taken is decreased by 25%. While Obscuring Darkness is active, final damage dealt is decreased by 25%, and final damage taken is increased by 25%.\n2. While Dazzling Daylight is active, Horus grants Sun God's Blessing to Seth every turn. At 4 Sun God's Blessing stacks, they are exchanged for 1 Sun God's Power stack. When a Shadow has Sun God's Power, its final damage dealt is increased by 20%."
+  },
+  {
+    "sn": "902014",
+    "name": "Thoth",
+    "desc": "Egyptian moon god that takes the form of a baboon, he is the one who measures time. He gave Isis the power to resurrect Osiris after he was killed by the evil god Seth.",
+    "strategy": "Shadows have different weaknesses and resistances than normal.\n1. While Dazzling Daylight is active, the final damage that Thoth deals is decreased by 25%, and its final damage taken is increased by 25%. While Obscuring Darkness is active, final damage dealt is increased by 25%, and final damage taken is decreased by 25%. \n2. While Obscuring Darkness is active, Thoth alternates between using Wisdom Theurgy and Shield Theurgy.\nWisdom Theurgy: Select the Shadow with the lowest HP and change all of that target's affinities to Resist for 2 turns.\nShield Theurgy: Grant a shield to all allies for 2 turns."
+  },
+  {
+    "sn": "902015",
+    "name": "Anubis",
+    "desc": "The jackal-headed god of the dead and embalming from Egyptian myth. He weighs the hearts of the dead to determine their final destination.",
+    "strategy": "Shadows have different weaknesses and resistances than normal.\n1. While Dazzling Daylight is active, the final damage that Anubis deals is decreased by 25%, and its final damage taken is increased by 25%. While Obscuring Darkness is active, final damage dealt is increased by 25%, and final damage taken is decreased by 25%.\n2. While Obscuring Darkness is active, Anubis inflicts Curse of Annihilation on 1 random Phantom Thief each turn, after which it inflicts it on the Phantom Thief with the most Curse of Annihilation stacks.\n3. Curse of Annihilation insta-kills when it reaches 4 stacks and can be prioritized for removal. When Anubis is defeated, it deals Curse damage to all Phantom Thieves."
+  },
+  {
+    "sn": "902021",
+    "name": "Dire Seth",
+    "desc": "The Egyptian god of the desert, chaos, and evil. He murdered his brother, Osiris, and tried to become chief god, but he was castrated by Osiris's son, Horus.",
+    "strategy": "Shadows have different weaknesses and resistances than normal.\n1. Seth controls day and night, and switches the status of Dazzling Daylight and Obscuring Darkness each turn.\n2. When at the verge of death, Seth will defeat all Shadows present and change to Dire Seth. When it does, if Horus is present, it will change to always Dazzling Daylight state and summon Isis and Horus. If Horus is not present, it will change to always Obscuring Darkness state and summon Thoth and Anubis."
+  },
+  {
+    "sn": "902022",
+    "name": "Isis",
+    "desc": "Osiris's wife as well as his younger sister. Upon the death of her husband, she revived him with her incredible magic power. Isis is seen at many gravesites as the guardian goddess of the dead.",
+    "strategy": "Shadows have different weaknesses and resistances than normal.\n1. While Dazzling Daylight is active, the final damage Isis deals is increased by 25%, and its final damage taken is decreased by 25%. While Obscuring Darkness is active, final damage dealt is decreased by 25%, and final damage taken is increased by 25%.\n2. While Dazzling Daylight is active, Isis uses Diarama, healing the Shadow with the lowest HP percentage. Each turn, Amulet of Rebirth is granted to Seth. At 4 Amulet of Rebirth stacks, they are exchanged for 1 Power of Rebirth stack. When a Shadow with Power of Rebirth is at low HP, it spends 1 Power of Rebirth to restore 25% of its max HP."
+  },
+  {
+    "sn": "902023",
+    "name": "Horus",
+    "desc": "An ancient god of Egypt whose eyes are the sun and moon. Revered by some as the chief god, he is often depicted as a hawk or a falcon.",
+    "strategy": "Shadows have different weaknesses and resistances than normal.\n1. While Dazzling Daylight is active, the final damage Horus deals is increased by 25%, and its final damage taken is decreased by 25%. While Obscuring Darkness is active, final damage dealt is decreased by 25%, and final damage taken is increased by 25%.\n2. While Dazzling Daylight is active, Horus grants Sun God's Blessing to Seth every turn. At 4 Sun God's Blessing stacks, they are exchanged for 1 Sun God's Power stack. When a Shadow has Sun God's Power, its final damage dealt is increased by 20%."
+  },
+  {
+    "sn": "902024",
+    "name": "Thoth",
+    "desc": "Egyptian moon god that takes the form of a baboon, he is the one who measures time. He gave Isis the power to resurrect Osiris after he was killed by the evil god Seth.",
+    "strategy": "Shadows have different weaknesses and resistances than normal.\n1. While Dazzling Daylight is active, the final damage that Thoth deals is decreased by 25%, and its final damage taken is increased by 25%. While Obscuring Darkness is active, final damage dealt is increased by 25%, and final damage taken is decreased by 25%. \n2. While Obscuring Darkness is active, Thoth alternates between using Wisdom Theurgy and Shield Theurgy.\nWisdom Theurgy: Select the Shadow with the lowest HP and change all of that target's affinities to Resist for 2 turns.\nShield Theurgy: Grant a shield to all allies for 2 turns."
+  },
+  {
+    "sn": "902025",
+    "name": "Anubis",
+    "desc": "The jackal-headed god of the dead and embalming from Egyptian myth. He weighs the hearts of the dead to determine their final destination.",
+    "strategy": "Shadows have different weaknesses and resistances than normal.\n1. While Dazzling Daylight is active, the final damage that Anubis deals is decreased by 25%, and its final damage taken is increased by 25%. While Obscuring Darkness is active, final damage dealt is increased by 25%, and final damage taken is decreased by 25%.\n2. While Obscuring Darkness is active, Anubis inflicts Curse of Annihilation on 1 random Phantom Thief each turn, after which it inflicts it on the Phantom Thief with the most Curse of Annihilation stacks.\n3. Curse of Annihilation insta-kills when it reaches 4 stacks and can be prioritized for removal. When Anubis is defeated, it deals Curse damage to all Phantom Thieves."
   },
   {
     "sn": "911253",
@@ -45788,379 +45848,379 @@
   {
     "sn": "915501",
     "name": "Avidya",
-    "desc": "-",
+    "desc": "An unknown person's Shadow. It despises the ignorant and the indifferent, possessing a twisted fixation on offering salvation.",
     "strategy": "1. Avidya cannot be targeted in the first phase of battle, and will continuously summon Corporobos to fight. After a certain number of Corporobos have been defeated, Avidya will move to the second phase.\n2. Avidya cannot be targeted in the second phase of battle, and will summon a team of powerful Corporobos to fight. When all of the Corporobos have been defeated, Avidya will move to the third phase, where he can be targeted and will not use any skills.\n3. During the battle, Avidya will use Selfless Devotion on randomly selected Corporobos, who will self-destruct after 2 turns, dealing heavy damage to the Phantom Thieves."
   },
   {
     "sn": "915502",
     "name": "Avidya",
-    "desc": "-",
+    "desc": "An unknown person's Shadow. It despises the ignorant and the indifferent, possessing a twisted fixation on offering salvation.",
     "strategy": "1. Avidya cannot be targeted in the first phase of battle, and will continuously summon Corporobos to fight. After a certain number of Corporobos have been defeated, Avidya will move to the second phase.\n2. Avidya cannot be targeted in the second phase of battle, and will summon a team of powerful Corporobos to fight. When all of the Corporobos have been defeated, Avidya will move to the third phase, where he can be targeted and will not use any skills.\n3. During the battle, Avidya will use Selfless Devotion on randomly selected Corporobos, who will self-destruct after 2 turns, dealing heavy damage to the Phantom Thieves."
   },
   {
     "sn": "915503",
     "name": "Corporobo MDL-WKR",
-    "desc": "-",
+    "desc": "A corporobo that protects Avidya. It will never defy the orders of MDL-CH.",
     "strategy": "AAAAAA=="
   },
   {
     "sn": "915504",
     "name": "Corporobo MDL-CH",
-    "desc": "-",
+    "desc": "A corporobo that protects Avidya. It will never defy the orders of MDL-AM.",
     "strategy": "Corporobo MDL-CH will use Overtime Order on the Shadow with the highest Attack, granting it an extra turn."
   },
   {
     "sn": "915505",
     "name": "Corporobo MDL-AM",
-    "desc": "-",
+    "desc": "A corporobo that protects Avidya. It will never defy the orders of MDL-DM.",
     "strategy": "AAAAAA=="
   },
   {
     "sn": "915506",
     "name": "Corporobo MDL-DM",
-    "desc": "-",
+    "desc": "A corporobo that protects Avidya. It will never defy the orders of MDL-GM.",
     "strategy": "Corporobo MDL-DM will use Performance Evaluation on the Shadow with the lowest Attack, increasing its Attack, and promoting it to a Corporobo MDL-AM after 2 turns."
   },
   {
     "sn": "915507",
     "name": "Corporobo MDL-GM",
-    "desc": "-",
+    "desc": "A corporobo that protects Avidya. It will never defy the orders of MDL-ED.",
     "strategy": "Corporobo MDL-GM uses skills to buff and heal Shadows."
   },
   {
     "sn": "915508",
     "name": "Corporobo MDL-ED",
-    "desc": "-",
+    "desc": "A corporobo that protects Avidya. It will never defy the orders of Avidya.",
     "strategy": "Corporobo MDL-ED will use Team-Building Exercise to drain all other Shadows' HP to strengthen itself."
   },
   {
     "sn": "915509",
     "name": "Avidya",
-    "desc": "-",
+    "desc": "An unknown person's Shadow. It despises the ignorant and the indifferent, possessing a twisted fixation on offering salvation.",
     "strategy": "1. Avidya cannot be targeted in the first phase of battle, and will continuously summon Corporobos to fight. After a certain number of Corporobos have been defeated, Avidya will move to the second phase.\n2. Avidya cannot be targeted in the second phase of battle, and will summon a team of powerful Corporobos to fight. When all of the Corporobos have been defeated, Avidya will move to the third phase, where he can be targeted and will not use any skills.\n3. During the battle, Avidya will use Selfless Devotion on randomly selected Corporobos, who will self-destruct after 2 turns, dealing heavy damage to the Phantom Thieves."
   },
   {
     "sn": "915911",
     "name": "Avidya",
-    "desc": "-",
+    "desc": "An unknown person's Shadow. It despises the ignorant and the indifferent, possessing a twisted fixation on offering salvation.",
     "strategy": "1. Avidya cannot be targeted in the first phase of battle, and will continuously summon Corporobos to fight. After a certain number of Corporobos have been defeated, Avidya will move to the second phase.\n2. Avidya cannot be targeted in the second phase of battle, and will summon a team of powerful Corporobos to fight. When all of the Corporobos have been defeated, Avidya will move to the third phase, where he can be targeted and will not use any skills.\n3. During the battle, Avidya will use Selfless Devotion on randomly selected Corporobos, who will self-destruct after 2 turns, dealing heavy damage to the Phantom Thieves."
   },
   {
     "sn": "915912",
     "name": "Avidya",
-    "desc": "-",
+    "desc": "An unknown person's Shadow. It despises the ignorant and the indifferent, possessing a twisted fixation on offering salvation.",
     "strategy": "1. Avidya cannot be targeted in the first phase of battle, and will continuously summon Corporobos to fight. After a certain number of Corporobos have been defeated, Avidya will move to the second phase.\n2. Avidya cannot be targeted in the second phase of battle, and will summon a team of powerful Corporobos to fight. When all of the Corporobos have been defeated, Avidya will move to the third phase, where he can be targeted and will not use any skills.\n3. During the battle, Avidya will use Selfless Devotion on randomly selected Corporobos, who will self-destruct after 2 turns, dealing heavy damage to the Phantom Thieves."
   },
   {
     "sn": "915913",
     "name": "Corporobo MDL-WKR",
-    "desc": "-",
+    "desc": "A corporobo that protects Avidya. It will never defy the orders of MDL-CH.",
     "strategy": "AAAAAA=="
   },
   {
     "sn": "915914",
     "name": "Corporobo MDL-CH",
-    "desc": "-",
+    "desc": "A corporobo that protects Avidya. It will never defy the orders of MDL-AM.",
     "strategy": "Corporobo MDL-CH will use Overtime Order on the Shadow with the highest Attack, granting it an extra turn."
   },
   {
     "sn": "915915",
     "name": "Corporobo MDL-AM",
-    "desc": "-",
+    "desc": "A corporobo that protects Avidya. It will never defy the orders of MDL-DM.",
     "strategy": "AAAAAA=="
   },
   {
     "sn": "915916",
     "name": "Corporobo MDL-DM",
-    "desc": "-",
+    "desc": "A corporobo that protects Avidya. It will never defy the orders of MDL-GM.",
     "strategy": "Corporobo MDL-DM will use Performance Evaluation on the Shadow with the lowest Attack, increasing its Attack, and promoting it to a Corporobo MDL-AM after 2 turns."
   },
   {
     "sn": "915917",
     "name": "Corporobo MDL-GM",
-    "desc": "-",
+    "desc": "A corporobo that protects Avidya. It will never defy the orders of MDL-ED.",
     "strategy": "Corporobo MDL-GM uses skills to buff and heal Shadows."
   },
   {
     "sn": "915918",
     "name": "Corporobo MDL-ED",
-    "desc": "-",
+    "desc": "A corporobo that protects Avidya. It will never defy the orders of Avidya.",
     "strategy": "Corporobo MDL-ED will use Team-Building Exercise to drain all other Shadows' HP to strengthen itself."
   },
   {
     "sn": "915919",
     "name": "Avidya",
-    "desc": "-",
+    "desc": "An unknown person's Shadow. It despises the ignorant and the indifferent, possessing a twisted fixation on offering salvation.",
     "strategy": "1. Avidya cannot be targeted in the first phase of battle, and will continuously summon Corporobos to fight. After a certain number of Corporobos have been defeated, Avidya will move to the second phase.\n2. Avidya cannot be targeted in the second phase of battle, and will summon a team of powerful Corporobos to fight. When all of the Corporobos have been defeated, Avidya will move to the third phase, where he can be targeted and will not use any skills.\n3. During the battle, Avidya will use Selfless Devotion on randomly selected Corporobos, who will self-destruct after 2 turns, dealing heavy damage to the Phantom Thieves."
   },
   {
     "sn": "915921",
     "name": "Avidya",
-    "desc": "-",
+    "desc": "An unknown person's Shadow. It despises the ignorant and the indifferent, possessing a twisted fixation on offering salvation.",
     "strategy": "1. Avidya cannot be targeted in the first phase of battle, and will continuously summon Corporobos to fight. After a certain number of Corporobos have been defeated, Avidya will move to the second phase.\n2. Avidya cannot be targeted in the second phase of battle, and will summon a team of powerful Corporobos to fight. When all of the Corporobos have been defeated, Avidya will move to the third phase, where he can be targeted and will not use any skills.\n3. During the battle, Avidya will use Selfless Devotion on randomly selected Corporobos, who will self-destruct after 2 turns, dealing heavy damage to the Phantom Thieves."
   },
   {
     "sn": "915922",
     "name": "Avidya",
-    "desc": "-",
+    "desc": "An unknown person's Shadow. It despises the ignorant and the indifferent, possessing a twisted fixation on offering salvation.",
     "strategy": "1. Avidya cannot be targeted in the first phase of battle, and will continuously summon Corporobos to fight. After a certain number of Corporobos have been defeated, Avidya will move to the second phase.\n2. Avidya cannot be targeted in the second phase of battle, and will summon a team of powerful Corporobos to fight. When all of the Corporobos have been defeated, Avidya will move to the third phase, where he can be targeted and will not use any skills.\n3. During the battle, Avidya will use Selfless Devotion on randomly selected Corporobos, who will self-destruct after 2 turns, dealing heavy damage to the Phantom Thieves."
   },
   {
     "sn": "915923",
     "name": "Corporobo MDL-WKR",
-    "desc": "-",
+    "desc": "A corporobo that protects Avidya. It will never defy the orders of MDL-CH.",
     "strategy": "AAAAAA=="
   },
   {
     "sn": "915924",
     "name": "Corporobo MDL-CH",
-    "desc": "-",
+    "desc": "A corporobo that protects Avidya. It will never defy the orders of MDL-AM.",
     "strategy": "Corporobo MDL-CH will use Overtime Order on the Shadow with the highest Attack, granting it an extra turn."
   },
   {
     "sn": "915925",
     "name": "Corporobo MDL-AM",
-    "desc": "-",
+    "desc": "A corporobo that protects Avidya. It will never defy the orders of MDL-DM.",
     "strategy": "AAAAAA=="
   },
   {
     "sn": "915926",
     "name": "Corporobo MDL-DM",
-    "desc": "-",
+    "desc": "A corporobo that protects Avidya. It will never defy the orders of MDL-GM.",
     "strategy": "Corporobo MDL-DM will use Performance Evaluation on the Shadow with the lowest Attack, increasing its Attack, and promoting it to a Corporobo MDL-AM after 2 turns."
   },
   {
     "sn": "915927",
     "name": "Corporobo MDL-GM",
-    "desc": "-",
+    "desc": "A corporobo that protects Avidya. It will never defy the orders of MDL-ED.",
     "strategy": "Corporobo MDL-GM uses skills to buff and heal Shadows."
   },
   {
     "sn": "915928",
     "name": "Corporobo MDL-ED",
-    "desc": "-",
+    "desc": "A corporobo that protects Avidya. It will never defy the orders of Avidya.",
     "strategy": "Corporobo MDL-ED will use Team-Building Exercise to drain all other Shadows' HP to strengthen itself."
   },
   {
     "sn": "915929",
     "name": "Avidya",
-    "desc": "-",
+    "desc": "An unknown person's Shadow. It despises the ignorant and the indifferent, possessing a twisted fixation on offering salvation.",
     "strategy": "1. Avidya cannot be targeted in the first phase of battle, and will continuously summon Corporobos to fight. After a certain number of Corporobos have been defeated, Avidya will move to the second phase.\n2. Avidya cannot be targeted in the second phase of battle, and will summon a team of powerful Corporobos to fight. When all of the Corporobos have been defeated, Avidya will move to the third phase, where he can be targeted and will not use any skills.\n3. During the battle, Avidya will use Selfless Devotion on randomly selected Corporobos, who will self-destruct after 2 turns, dealing heavy damage to the Phantom Thieves."
   },
   {
     "sn": "915931",
     "name": "Avidya",
-    "desc": "-",
+    "desc": "An unknown person's Shadow. It despises the ignorant and the indifferent, possessing a twisted fixation on offering salvation.",
     "strategy": "1. Avidya cannot be targeted in the first phase of battle, and will continuously summon Corporobos to fight. After a certain number of Corporobos have been defeated, Avidya will move to the second phase.\n2. Avidya cannot be targeted in the second phase of battle, and will summon a team of powerful Corporobos to fight. When all of the Corporobos have been defeated, Avidya will move to the third phase, where he can be targeted and will not use any skills.\n3. During the battle, Avidya will use Selfless Devotion on randomly selected Corporobos, who will self-destruct after 2 turns, dealing heavy damage to the Phantom Thieves."
   },
   {
     "sn": "915932",
     "name": "Avidya",
-    "desc": "-",
+    "desc": "An unknown person's Shadow. It despises the ignorant and the indifferent, possessing a twisted fixation on offering salvation.",
     "strategy": "1. Avidya cannot be targeted in the first phase of battle, and will continuously summon Corporobos to fight. After a certain number of Corporobos have been defeated, Avidya will move to the second phase.\n2. Avidya cannot be targeted in the second phase of battle, and will summon a team of powerful Corporobos to fight. When all of the Corporobos have been defeated, Avidya will move to the third phase, where he can be targeted and will not use any skills.\n3. During the battle, Avidya will use Selfless Devotion on randomly selected Corporobos, who will self-destruct after 2 turns, dealing heavy damage to the Phantom Thieves."
   },
   {
     "sn": "915933",
     "name": "Corporobo MDL-WKR",
-    "desc": "-",
+    "desc": "A corporobo that protects Avidya. It will never defy the orders of MDL-CH.",
     "strategy": "AAAAAA=="
   },
   {
     "sn": "915934",
     "name": "Corporobo MDL-CH",
-    "desc": "-",
+    "desc": "A corporobo that protects Avidya. It will never defy the orders of MDL-AM.",
     "strategy": "Corporobo MDL-CH will use Overtime Order on the Shadow with the highest Attack, granting it an extra turn."
   },
   {
     "sn": "915935",
     "name": "Corporobo MDL-AM",
-    "desc": "-",
+    "desc": "A corporobo that protects Avidya. It will never defy the orders of MDL-DM.",
     "strategy": "AAAAAA=="
   },
   {
     "sn": "915936",
     "name": "Corporobo MDL-DM",
-    "desc": "-",
+    "desc": "A corporobo that protects Avidya. It will never defy the orders of MDL-GM.",
     "strategy": "Corporobo MDL-DM will use Performance Evaluation on the Shadow with the lowest Attack, increasing its Attack, and promoting it to a Corporobo MDL-AM after 2 turns."
   },
   {
     "sn": "915937",
     "name": "Corporobo MDL-GM",
-    "desc": "-",
+    "desc": "A corporobo that protects Avidya. It will never defy the orders of MDL-ED.",
     "strategy": "Corporobo MDL-GM uses skills to buff and heal Shadows."
   },
   {
     "sn": "915938",
     "name": "Corporobo MDL-ED",
-    "desc": "-",
+    "desc": "A corporobo that protects Avidya. It will never defy the orders of Avidya.",
     "strategy": "Corporobo MDL-ED will use Team-Building Exercise to drain all other Shadows' HP to strengthen itself."
   },
   {
     "sn": "915939",
     "name": "Avidya",
-    "desc": "-",
+    "desc": "An unknown person's Shadow. It despises the ignorant and the indifferent, possessing a twisted fixation on offering salvation.",
     "strategy": "1. Avidya cannot be targeted in the first phase of battle, and will continuously summon Corporobos to fight. After a certain number of Corporobos have been defeated, Avidya will move to the second phase.\n2. Avidya cannot be targeted in the second phase of battle, and will summon a team of powerful Corporobos to fight. When all of the Corporobos have been defeated, Avidya will move to the third phase, where he can be targeted and will not use any skills.\n3. During the battle, Avidya will use Selfless Devotion on randomly selected Corporobos, who will self-destruct after 2 turns, dealing heavy damage to the Phantom Thieves."
   },
   {
     "sn": "915941",
     "name": "Avidya",
-    "desc": "-",
+    "desc": "An unknown person's Shadow. It despises the ignorant and the indifferent, possessing a twisted fixation on offering salvation.",
     "strategy": "1. Avidya cannot be targeted in the first phase of battle, and will continuously summon Corporobos to fight. After a certain number of Corporobos have been defeated, Avidya will move to the second phase.\n2. Avidya cannot be targeted in the second phase of battle, and will summon a team of powerful Corporobos to fight. When all of the Corporobos have been defeated, Avidya will move to the third phase, where he can be targeted and will not use any skills.\n3. During the battle, Avidya will use Selfless Devotion on randomly selected Corporobos, who will self-destruct after 2 turns, dealing heavy damage to the Phantom Thieves."
   },
   {
     "sn": "915942",
     "name": "Avidya",
-    "desc": "-",
+    "desc": "An unknown person's Shadow. It despises the ignorant and the indifferent, possessing a twisted fixation on offering salvation.",
     "strategy": "1. Avidya cannot be targeted in the first phase of battle, and will continuously summon Corporobos to fight. After a certain number of Corporobos have been defeated, Avidya will move to the second phase.\n2. Avidya cannot be targeted in the second phase of battle, and will summon a team of powerful Corporobos to fight. When all of the Corporobos have been defeated, Avidya will move to the third phase, where he can be targeted and will not use any skills.\n3. During the battle, Avidya will use Selfless Devotion on randomly selected Corporobos, who will self-destruct after 2 turns, dealing heavy damage to the Phantom Thieves."
   },
   {
     "sn": "915943",
     "name": "Corporobo MDL-WKR",
-    "desc": "-",
+    "desc": "A corporobo that protects Avidya. It will never defy the orders of MDL-CH.",
     "strategy": "AAAAAA=="
   },
   {
     "sn": "915944",
     "name": "Corporobo MDL-CH",
-    "desc": "-",
+    "desc": "A corporobo that protects Avidya. It will never defy the orders of MDL-AM.",
     "strategy": "Corporobo MDL-CH will use Overtime Order on the Shadow with the highest Attack, granting it an extra turn."
   },
   {
     "sn": "915945",
     "name": "Corporobo MDL-AM",
-    "desc": "-",
+    "desc": "A corporobo that protects Avidya. It will never defy the orders of MDL-DM.",
     "strategy": "AAAAAA=="
   },
   {
     "sn": "915946",
     "name": "Corporobo MDL-DM",
-    "desc": "-",
+    "desc": "A corporobo that protects Avidya. It will never defy the orders of MDL-GM.",
     "strategy": "Corporobo MDL-DM will use Performance Evaluation on the Shadow with the lowest Attack, increasing its Attack, and promoting it to a Corporobo MDL-AM after 2 turns."
   },
   {
     "sn": "915947",
     "name": "Corporobo MDL-GM",
-    "desc": "-",
+    "desc": "A corporobo that protects Avidya. It will never defy the orders of MDL-ED.",
     "strategy": "Corporobo MDL-GM uses skills to buff and heal Shadows."
   },
   {
     "sn": "915948",
     "name": "Corporobo MDL-ED",
-    "desc": "-",
+    "desc": "A corporobo that protects Avidya. It will never defy the orders of Avidya.",
     "strategy": "Corporobo MDL-ED will use Team-Building Exercise to drain all other Shadows' HP to strengthen itself."
   },
   {
     "sn": "915949",
     "name": "Avidya",
-    "desc": "-",
+    "desc": "An unknown person's Shadow. It despises the ignorant and the indifferent, possessing a twisted fixation on offering salvation.",
     "strategy": "1. Avidya cannot be targeted in the first phase of battle, and will continuously summon Corporobos to fight. After a certain number of Corporobos have been defeated, Avidya will move to the second phase.\n2. Avidya cannot be targeted in the second phase of battle, and will summon a team of powerful Corporobos to fight. When all of the Corporobos have been defeated, Avidya will move to the third phase, where he can be targeted and will not use any skills.\n3. During the battle, Avidya will use Selfless Devotion on randomly selected Corporobos, who will self-destruct after 2 turns, dealing heavy damage to the Phantom Thieves."
   },
   {
     "sn": "915951",
     "name": "Avidya",
-    "desc": "-",
+    "desc": "An unknown person's Shadow. It despises the ignorant and the indifferent, possessing a twisted fixation on offering salvation.",
     "strategy": "1. Avidya cannot be targeted in the first phase of battle, and will continuously summon Corporobos to fight. After a certain number of Corporobos have been defeated, Avidya will move to the second phase.\n2. Avidya cannot be targeted in the second phase of battle, and will summon a team of powerful Corporobos to fight. When all of the Corporobos have been defeated, Avidya will move to the third phase, where he can be targeted and will not use any skills.\n3. During the battle, Avidya will use Selfless Devotion on randomly selected Corporobos, who will self-destruct after 2 turns, dealing heavy damage to the Phantom Thieves."
   },
   {
     "sn": "915952",
     "name": "Avidya",
-    "desc": "-",
+    "desc": "An unknown person's Shadow. It despises the ignorant and the indifferent, possessing a twisted fixation on offering salvation.",
     "strategy": "1. Avidya cannot be targeted in the first phase of battle, and will continuously summon Corporobos to fight. After a certain number of Corporobos have been defeated, Avidya will move to the second phase.\n2. Avidya cannot be targeted in the second phase of battle, and will summon a team of powerful Corporobos to fight. When all of the Corporobos have been defeated, Avidya will move to the third phase, where he can be targeted and will not use any skills.\n3. During the battle, Avidya will use Selfless Devotion on randomly selected Corporobos, who will self-destruct after 2 turns, dealing heavy damage to the Phantom Thieves."
   },
   {
     "sn": "915953",
     "name": "Corporobo MDL-WKR",
-    "desc": "-",
+    "desc": "A corporobo that protects Avidya. It will never defy the orders of MDL-CH.",
     "strategy": "AAAAAA=="
   },
   {
     "sn": "915954",
     "name": "Corporobo MDL-CH",
-    "desc": "-",
+    "desc": "A corporobo that protects Avidya. It will never defy the orders of MDL-AM.",
     "strategy": "Corporobo MDL-CH will use Overtime Order on the Shadow with the highest Attack, granting it an extra turn."
   },
   {
     "sn": "915955",
     "name": "Corporobo MDL-AM",
-    "desc": "-",
+    "desc": "A corporobo that protects Avidya. It will never defy the orders of MDL-DM.",
     "strategy": "AAAAAA=="
   },
   {
     "sn": "915956",
     "name": "Corporobo MDL-DM",
-    "desc": "-",
+    "desc": "A corporobo that protects Avidya. It will never defy the orders of MDL-GM.",
     "strategy": "Corporobo MDL-DM will use Performance Evaluation on the Shadow with the lowest Attack, increasing its Attack, and promoting it to a Corporobo MDL-AM after 2 turns."
   },
   {
     "sn": "915957",
     "name": "Corporobo MDL-GM",
-    "desc": "-",
+    "desc": "A corporobo that protects Avidya. It will never defy the orders of MDL-ED.",
     "strategy": "Corporobo MDL-GM uses skills to buff and heal Shadows."
   },
   {
     "sn": "915958",
     "name": "Corporobo MDL-ED",
-    "desc": "-",
+    "desc": "A corporobo that protects Avidya. It will never defy the orders of Avidya.",
     "strategy": "Corporobo MDL-ED will use Team-Building Exercise to drain all other Shadows' HP to strengthen itself."
   },
   {
     "sn": "915959",
     "name": "Avidya",
-    "desc": "-",
+    "desc": "An unknown person's Shadow. It despises the ignorant and the indifferent, possessing a twisted fixation on offering salvation.",
     "strategy": "1. Avidya cannot be targeted in the first phase of battle, and will continuously summon Corporobos to fight. After a certain number of Corporobos have been defeated, Avidya will move to the second phase.\n2. Avidya cannot be targeted in the second phase of battle, and will summon a team of powerful Corporobos to fight. When all of the Corporobos have been defeated, Avidya will move to the third phase, where he can be targeted and will not use any skills.\n3. During the battle, Avidya will use Selfless Devotion on randomly selected Corporobos, who will self-destruct after 2 turns, dealing heavy damage to the Phantom Thieves."
   },
   {
     "sn": "915961",
     "name": "Avidya",
-    "desc": "-",
+    "desc": "An unknown person's Shadow. It despises the ignorant and the indifferent, possessing a twisted fixation on offering salvation.",
     "strategy": "1. Avidya cannot be targeted in the first phase of battle, and will continuously summon Corporobos to fight. After a certain number of Corporobos have been defeated, Avidya will move to the second phase.\n2. Avidya cannot be targeted in the second phase of battle, and will summon a team of powerful Corporobos to fight. When all of the Corporobos have been defeated, Avidya will move to the third phase, where he can be targeted and will not use any skills.\n3. During the battle, Avidya will use Selfless Devotion on randomly selected Corporobos, who will self-destruct after 2 turns, dealing heavy damage to the Phantom Thieves."
   },
   {
     "sn": "915962",
     "name": "Avidya",
-    "desc": "-",
+    "desc": "An unknown person's Shadow. It despises the ignorant and the indifferent, possessing a twisted fixation on offering salvation.",
     "strategy": "1. Avidya cannot be targeted in the first phase of battle, and will continuously summon Corporobos to fight. After a certain number of Corporobos have been defeated, Avidya will move to the second phase.\n2. Avidya cannot be targeted in the second phase of battle, and will summon a team of powerful Corporobos to fight. When all of the Corporobos have been defeated, Avidya will move to the third phase, where he can be targeted and will not use any skills.\n3. During the battle, Avidya will use Selfless Devotion on randomly selected Corporobos, who will self-destruct after 2 turns, dealing heavy damage to the Phantom Thieves."
   },
   {
     "sn": "915963",
     "name": "Corporobo MDL-WKR",
-    "desc": "-",
+    "desc": "A corporobo that protects Avidya. It will never defy the orders of MDL-CH.",
     "strategy": "AAAAAA=="
   },
   {
     "sn": "915964",
     "name": "Corporobo MDL-CH",
-    "desc": "-",
+    "desc": "A corporobo that protects Avidya. It will never defy the orders of MDL-AM.",
     "strategy": "Corporobo MDL-CH will use Overtime Order on the Shadow with the highest Attack, granting it an extra turn."
   },
   {
     "sn": "915965",
     "name": "Corporobo MDL-AM",
-    "desc": "-",
+    "desc": "A corporobo that protects Avidya. It will never defy the orders of MDL-AM.",
     "strategy": "AAAAAA=="
   },
   {
     "sn": "915966",
     "name": "Corporobo MDL-DM",
-    "desc": "-",
+    "desc": "A corporobo that protects Avidya. It will never defy the orders of MDL-GM.",
     "strategy": "Corporobo MDL-DM will use Performance Evaluation on the Shadow with the lowest Attack, increasing its Attack, and promoting it to a Corporobo MDL-AM after 2 turns."
   },
   {
     "sn": "915967",
     "name": "Corporobo MDL-GM",
-    "desc": "-",
+    "desc": "A corporobo that protects Avidya. It will never defy the orders of MDL-ED.",
     "strategy": "Corporobo MDL-GM uses skills to buff and heal Shadows."
   },
   {
     "sn": "915968",
     "name": "Corporobo MDL-ED",
-    "desc": "-",
+    "desc": "A corporobo that protects Avidya. It will never defy the orders of Avidya.",
     "strategy": "Corporobo MDL-ED will use Team-Building Exercise to drain all other Shadows' HP to strengthen itself."
   },
   {
     "sn": "915969",
     "name": "Avidya",
-    "desc": "-",
+    "desc": "An unknown person's Shadow. It despises the ignorant and the indifferent, possessing a twisted fixation on offering salvation.",
     "strategy": "1. Avidya cannot be targeted in the first phase of battle, and will continuously summon Corporobos to fight. After a certain number of Corporobos have been defeated, Avidya will move to the second phase.\n2. Avidya cannot be targeted in the second phase of battle, and will summon a team of powerful Corporobos to fight. When all of the Corporobos have been defeated, Avidya will move to the third phase, where he can be targeted and will not use any skills.\n3. During the battle, Avidya will use Selfless Devotion on randomly selected Corporobos, who will self-destruct after 2 turns, dealing heavy damage to the Phantom Thieves."
   },
   {
@@ -46208,67 +46268,67 @@
   {
     "sn": "915041",
     "name": "Corporobo MDL-WKR",
-    "desc": "-",
+    "desc": "A corporobo that protects Avidya. It will never defy the orders of MDL-CH.",
     "strategy": "AAAAAA=="
   },
   {
     "sn": "915042",
     "name": "Corporobo MDL-WKR",
-    "desc": "-",
+    "desc": "A corporobo that protects Avidya. It will never defy the orders of MDL-CH.",
     "strategy": "AAAAAA=="
   },
   {
     "sn": "915043",
     "name": "Corporobo MDL-WKR",
-    "desc": "-",
+    "desc": "A corporobo that protects Avidya. It will never defy the orders of MDL-CH.",
     "strategy": "AAAAAA=="
   },
   {
     "sn": "915044",
     "name": "Corporobo MDL-WKR",
-    "desc": "-",
+    "desc": "A corporobo that protects Avidya. It will never defy the orders of MDL-CH.",
     "strategy": "AAAAAA=="
   },
   {
     "sn": "915051",
     "name": "Corporobo MDL-AM",
-    "desc": "-",
+    "desc": "A corporobo that protects Avidya. It will never defy the orders of MDL-DM.",
     "strategy": "AAAAAA=="
   },
   {
     "sn": "915052",
     "name": "Corporobo MDL-DM",
-    "desc": "-",
+    "desc": "A corporobo that protects Avidya. It will never defy the orders of MDL-GM.",
     "strategy": "AAAAAA=="
   },
   {
     "sn": "915061",
     "name": "Corporobo MDL-GM",
-    "desc": "-",
+    "desc": "A corporobo that protects Avidya. It will never defy the orders of MDL-ED.",
     "strategy": "AAAAAA=="
   },
   {
     "sn": "915062",
     "name": "Corporobo MDL-WKR",
-    "desc": "-",
+    "desc": "A corporobo that protects Avidya. It will never defy the orders of MDL-CH.",
     "strategy": "AAAAAA=="
   },
   {
     "sn": "915063",
     "name": "Corporobo MDL-WKR",
-    "desc": "-",
+    "desc": "A corporobo that protects Avidya. It will never defy the orders of MDL-CH.",
     "strategy": "AAAAAA=="
   },
   {
     "sn": "915064",
     "name": "Corporobo MDL-WKR",
-    "desc": "-",
+    "desc": "A corporobo that protects Avidya. It will never defy the orders of MDL-CH.",
     "strategy": "AAAAAA=="
   },
   {
     "sn": "915065",
     "name": "Corporobo MDL-WKR",
-    "desc": "-",
+    "desc": "A corporobo that protects Avidya. It will never defy the orders of MDL-CH.",
     "strategy": "AAAAAA=="
   },
   {
@@ -46292,25 +46352,25 @@
   {
     "sn": "915071",
     "name": "Corporobo MDL-GM",
-    "desc": "-",
+    "desc": "A corporobo that protects Avidya. It will never defy the orders of MDL-ED.",
     "strategy": "AAAAAA=="
   },
   {
     "sn": "915072",
     "name": "Corporobo MDL-DM",
-    "desc": "-",
+    "desc": "A corporobo that protects Avidya. It will never defy the orders of MDL-GM.",
     "strategy": "AAAAAA=="
   },
   {
     "sn": "915073",
     "name": "Corporobo MDL-WKR",
-    "desc": "-",
+    "desc": "A corporobo that protects Avidya. It will never defy the orders of MDL-CH.",
     "strategy": "AAAAAA=="
   },
   {
     "sn": "915074",
     "name": "Corporobo MDL-WKR",
-    "desc": "-",
+    "desc": "A corporobo that protects Avidya. It will never defy the orders of MDL-CH.",
     "strategy": "AAAAAA=="
   },
   {
@@ -46328,25 +46388,25 @@
   {
     "sn": "915221",
     "name": "Corporobo MDL-WKR",
-    "desc": "-",
+    "desc": "A corporobo that protects Avidya. It will never defy the orders of MDL-CH.",
     "strategy": "AAAAAA=="
   },
   {
     "sn": "915231",
     "name": "Corporobo MDL-AM",
-    "desc": "-",
+    "desc": "A corporobo that protects Avidya. It will never defy the orders of MDL-DM.",
     "strategy": "AAAAAA=="
   },
   {
     "sn": "915232",
     "name": "Corporobo MDL-WKR",
-    "desc": "-",
+    "desc": "A corporobo that protects Avidya. It will never defy the orders of MDL-CH.",
     "strategy": "AAAAAA=="
   },
   {
     "sn": "915233",
     "name": "Corporobo MDL-WKR",
-    "desc": "-",
+    "desc": "A corporobo that protects Avidya. It will never defy the orders of MDL-CH.",
     "strategy": "AAAAAA=="
   },
   {
@@ -47036,19 +47096,19 @@
   {
     "sn": "2020",
     "name": "AAAAAA==",
-    "desc": "Error: tnxotb-[GuaiWu_desc_2020]",
+    "desc": "The chief Semitic god who governs over fertility. He is the god of Canaan and brother and consort to the goddess Anat, who saved him from Mot.",
     "strategy": "AAAAAA=="
   },
   {
     "sn": "2021",
     "name": "AAAAAA==",
-    "desc": "Error: tnxotb-[GuaiWu_desc_2021]",
+    "desc": "An unknown person's Shadow. It despises the ignorant and the indifferent, possessing a twisted fixation on offering salvation.",
     "strategy": "AAAAAA=="
   },
   {
     "sn": "2022",
     "name": "AAAAAA==",
-    "desc": "Error: tnxotb-[GuaiWu_desc_2022]",
+    "desc": "An unknown person's Shadow. It despises the ignorant and the indifferent, possessing a twisted fixation on offering salvation.",
     "strategy": "AAAAAA=="
   },
   {

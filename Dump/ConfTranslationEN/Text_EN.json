@@ -401,7 +401,7 @@
   },
   {
     "sn": "1000112",
-    "textContent": "Jackpot! You done snagged all the good ones.\nWhat's next, sugar?\nKeep at it or reset?"
+    "textContent": "Jackpot! You snagged up all the good items! What's next, sugar? You can keep drawing if you like, or if you want to reset, I can prep a new lineup for you. Wanna reset?"
   },
   {
     "sn": "1000113",
@@ -1589,11 +1589,11 @@
   },
   {
     "sn": "1022029",
-    "textContent": "<color=#FFFC40>{0}</color> is an exclusive weapon."
+    "textContent": "<color=#FFFC40>{0}</color> which is an exclusive weapon."
   },
   {
     "sn": "1022030",
-    "textContent": "<color=#FFFC40>{0}</color> is a non-exclusive weapon and will be included in the Choose Weapons lineup after the event ends."
+    "textContent": "<color=#FFFC40>{0}</color> which is a non-exclusive weapon and will be included in the Choose Weapons lineup after the event ends."
   },
   {
     "sn": "1022031",
@@ -1693,7 +1693,7 @@
   },
   {
     "sn": "1022068",
-    "textContent": "In these contracts, you can receive an extra <color=#EADE10>{0} x{1}</color> each time you draw a contract."
+    "textContent": "<color=#ffffff>  </color>"
   },
   {
     "sn": "1022069",
@@ -2277,7 +2277,7 @@
   },
   {
     "sn": "1030038",
-    "textContent": "%s-Stack"
+    "textContent": "%s"
   },
   {
     "sn": "1030039",
@@ -3517,11 +3517,11 @@
   },
   {
     "sn": "1042024",
-    "textContent": "Unlocks when %s is at Rank %s"
+    "textContent": "Purchasable at %s rank %s"
   },
   {
     "sn": "1042025",
-    "textContent": "Unlocks when you have the Phantom Thief %s"
+    "textContent": "You don't have %s"
   },
   {
     "sn": "1043001",
@@ -5545,7 +5545,7 @@
   },
   {
     "sn": "1081026",
-    "textContent": "For every <color=#FFDE00>{0}</color> <color=#FFDE00>{1}</color>-marked orange-rarity Revelation Cards used, you can inscribe a one-card set of a random <color=#FFDE00>{2}</color> Revelation Card."
+    "textContent": "For every <color=#FFDE00>{0}</color> orange-rarity <color=#FFDE00>{1}</color> Revelation Cards spent, you can inscribe a one-card set of a random <color=#FFDE00>{2}</color> Revelation Card."
   },
   {
     "sn": "1081027",
@@ -5565,7 +5565,7 @@
   },
   {
     "sn": "1081031",
-    "textContent": "Do you want to use <color=#FFDE00>{0}</color> Revelation Cards to inscribe a <color=#FFDE00>{1}</color>-card set of <color=#FFDE00>{2}</color> Revelation Cards?"
+    "textContent": "Do you want to spend <color=#FFDE00>{0}</color> Revelation Cards to change to <color=#FFDE00>{1}</color> cards of the <color=#FFDE00>{2}</color> set?"
   },
   {
     "sn": "1081032",
@@ -5577,7 +5577,7 @@
   },
   {
     "sn": "1081998",
-    "textContent": "For every <color=#FFDE00>{0}</color> <color=#FFDE00>{1}</color>-marked orange-rarity Revelation Cards used, you can inscribe one random <color=#FFDE00>{2}</color>-marked Revelation Card."
+    "textContent": "For every <color=#FFDE00>{0}</color> orange-rarity <color=#FFDE00>{1}</color> Revelation Cards spent, you can inscribe one random <color=#FFDE00>{2}</color> Revelation Card."
   },
   {
     "sn": "1081999",
@@ -6341,11 +6341,11 @@
   },
   {
     "sn": "1090004",
-    "textContent": "Moving to next game after %s seconds"
+    "textContent": "Moving to next game in %s seconds"
   },
   {
     "sn": "1090014",
-    "textContent": "Obtain from Today's Challenges"
+    "textContent": "Earned Rewards: "
   },
   {
     "sn": "1090015",
@@ -6353,11 +6353,11 @@
   },
   {
     "sn": "1090016",
-    "textContent": "1 Game Mode"
+    "textContent": "1 Round"
   },
   {
     "sn": "1090017",
-    "textContent": "3 Game Mode"
+    "textContent": "3 Rounds"
   },
   {
     "sn": "1090018",
@@ -6377,7 +6377,7 @@
   },
   {
     "sn": "1090022",
-    "textContent": "Customizable Card Face"
+    "textContent": "Show Customizable Cards"
   },
   {
     "sn": "1090023",
@@ -6405,7 +6405,7 @@
   },
   {
     "sn": "1090029",
-    "textContent": "Season Countdown: "
+    "textContent": "Event Ends in:"
   },
   {
     "sn": "1090030",
@@ -6413,11 +6413,11 @@
   },
   {
     "sn": "1090032",
-    "textContent": "#"
+    "textContent": "Round"
   },
   {
     "sn": "1090033",
-    "textContent": "Game"
+    "textContent": "<color=#ffffff>  </color>"
   },
   {
     "sn": "1090034",
@@ -6433,7 +6433,7 @@
   },
   {
     "sn": "1090100",
-    "textContent": "Card strength sorted in reverse order (3 is largest)"
+    "textContent": "Card strengths are flipped\n(3 is strongest)"
   },
   {
     "sn": "1090001",
@@ -6441,11 +6441,11 @@
   },
   {
     "sn": "1090002",
-    "textContent": "Trade %s's %s and <color=#FF423F>any %s card</color>"
+    "textContent": "I need to\ngive {2} card(s)\nto the {0}."
   },
   {
     "sn": "1090003",
-    "textContent": "Trade %s's %s and <color=#FF423F>the strongest %s card</color>"
+    "textContent": "I need to\ngive max. {2} card(s)\nto the {0}."
   },
   {
     "sn": "2001001",
@@ -6473,23 +6473,23 @@
   },
   {
     "sn": "1090005",
-    "textContent": "Since you cannot lose stars in the current rank, stars will not decrease this match."
+    "textContent": "Your stars won't decrease at your current rank."
   },
   {
     "sn": "1090006",
-    "textContent": "Since you be demoted from the current rank, stars will not decrease this match."
+    "textContent": "Your rank won't decrease at your current rank."
   },
   {
     "sn": "1090007",
-    "textContent": "Obtained %s rank from this match. %s stars."
+    "textContent": "%s Rank %s★"
   },
   {
     "sn": "1090008",
-    "textContent": "Matching complete! Please wait for all players (%s/4) to join the match..."
+    "textContent": "Matchmaking complete. Please wait until your opponents have arrived (%s/4)."
   },
   {
     "sn": "1090009",
-    "textContent": "Waiting for players to be ready. Game will begin in <color=#FF423F>%s</color> seconds..."
+    "textContent": "Setting up game... It will begin in <color=#FF423F>%s</color> s."
   },
   {
     "sn": "1090010",
@@ -6497,15 +6497,15 @@
   },
   {
     "sn": "1090011",
-    "textContent": "Rank rewards will be sent to your inbox at the end of the season."
+    "textContent": "Current rank rewards will be sent to your inbox after the season ends."
   },
   {
     "sn": "1090012",
-    "textContent": "Displaying season rankings for top 1000 players from Rank Battle mode."
+    "textContent": "Only the current top 1000 Ranked Match players are displayed."
   },
   {
     "sn": "1090013",
-    "textContent": "After reaching a rank for the first time, you can receive the corresponding rank reward (this reward does not reset each season and can only be claimed once)."
+    "textContent": "Obtainable the first time you reach a new rank."
   },
   {
     "sn": "2001007",
@@ -6588,6 +6588,134 @@
     "textContent": "Season calculation currently in progress."
   },
   {
+    "sn": "1090037",
+    "textContent": "Only the current top 1000 Extra Mode players are displayed."
+  },
+  {
+    "sn": "1090038",
+    "textContent": "Your Rank: "
+  },
+  {
+    "sn": "1090039",
+    "textContent": "Unranked"
+  },
+  {
+    "sn": "1090040",
+    "textContent": "Support Supplies"
+  },
+  {
+    "sn": "1090041",
+    "textContent": "%s/%s left today"
+  },
+  {
+    "sn": "1090042",
+    "textContent": "Have: "
+  },
+  {
+    "sn": "1090043",
+    "textContent": "Base Multiplier: "
+  },
+  {
+    "sn": "1090044",
+    "textContent": "Current Cost: "
+  },
+  {
+    "sn": "1090045",
+    "textContent": "Base Score: "
+  },
+  {
+    "sn": "1090046",
+    "textContent": "Cards Left: %s x %s = "
+  },
+  {
+    "sn": "1090047",
+    "textContent": "Cards Left: <color=#808080>-- x %s= </color>"
+  },
+  {
+    "sn": "1090048",
+    "textContent": "Base"
+  },
+  {
+    "sn": "1090049",
+    "textContent": "Revolution"
+  },
+  {
+    "sn": "1090050",
+    "textContent": "Bonus"
+  },
+  {
+    "sn": "1090051",
+    "textContent": "Super Bonus"
+  },
+  {
+    "sn": "1090052",
+    "textContent": "Maximum Score Formula: Base Points x Multiplier x Rank Bonus"
+  },
+  {
+    "sn": "1090054",
+    "textContent": "Limit"
+  },
+  {
+    "sn": "1090055",
+    "textContent": "Base Points"
+  },
+  {
+    "sn": "1090056",
+    "textContent": "Tycoon Bonus"
+  },
+  {
+    "sn": "1090057",
+    "textContent": "Rich Bonus"
+  },
+  {
+    "sn": "1090058",
+    "textContent": "Accepted: %s/%s"
+  },
+  {
+    "sn": "1090111",
+    "textContent": "<color=#FFC000><size=36>Coin Total Details</size></color>\n\nFinal round base points: %s  Multiplier: %s  Calculation result, This round's maximum gain/loss is %s coins.%s"
+  },
+  {
+    "sn": "1090112",
+    "textContent": "Since the limit has been exceeded, this round's maximum gain/loss has been changed to %s coins."
+  },
+  {
+    "sn": "1090121",
+    "textContent": "In 4th place, the Beggar must pay <color=#87CEEB>%s coins</color>. %s"
+  },
+  {
+    "sn": "1090122",
+    "textContent": "Because the amount owed is higher than your current coins, you will only pay <color=#87CEEB>%s coins</color>."
+  },
+  {
+    "sn": "1090131",
+    "textContent": "In 3rd place, the Poor must pay <color=#87CEEB>%s coins</color>. %s"
+  },
+  {
+    "sn": "1090132",
+    "textContent": "Because the amount owed is higher than your current coins, you will only pay <color=#87CEEB>%s coins</color>."
+  },
+  {
+    "sn": "1090141",
+    "textContent": "In 2nd place, the Rich gains (%s+%s) x 1/3 = <color=#87CEEB>%s coins</color>. %s"
+  },
+  {
+    "sn": "1090142",
+    "textContent": "Because the amount received is higher than the current coins, you will only receive <color=#87CEEB>%s coins</color>."
+  },
+  {
+    "sn": "1090151",
+    "textContent": "In 1st place, the Tycoon gains (%s+%s) x 2/3 = <color=#87CEEB>%s coins</color>. %s"
+  },
+  {
+    "sn": "1090152",
+    "textContent": "Because the amount received is higher than the current coins, you will only receive <color=#87CEEB>%s coins</color>."
+  },
+  {
+    "sn": "1090161",
+    "textContent": "Because there is a coin limit for the Rich and Tycoon, the amount paid by the Poor and Beggar is reduced. The Poor will pay <color=#87CEEB>%s coins</color>, and the Beggar will pay <color=#87CEEB>%s coins</color>."
+  },
+  {
     "sn": "2001026",
     "textContent": "Confirm"
   },
@@ -6629,7 +6757,7 @@
   },
   {
     "sn": "2001036",
-    "textContent": "Paused"
+    "textContent": "Card Explanation"
   },
   {
     "sn": "2001037",
@@ -7089,7 +7217,7 @@
   },
   {
     "sn": "2001151",
-    "textContent": "Purchase limit: "
+    "textContent": "Purchase Limit: "
   },
   {
     "sn": "2001152",
@@ -10521,7 +10649,7 @@
   },
   {
     "sn": "2002069",
-    "textContent": "For the best gameplay experience, this event is recommended for players who have witnessed the second Phantom Thief's awakening."
+    "textContent": "You have not yet cleared <color=#FF423F>Castle in the Void</color>. This story contains events and character appearances that may include spoilers. Do you still wish to continue?"
   },
   {
     "sn": "2002070",
@@ -12241,15 +12369,15 @@
   },
   {
     "sn": "2002545",
-    "textContent": "Point Limit: "
+    "textContent": "Tycoon Medal Cap: "
   },
   {
     "sn": "2002546",
-    "textContent": "On days 2 and 3 of the event, you can earn a max of 600 Tycoon Medals each."
+    "textContent": "On days 2 and 3 of the event, the daily Tycoon Medal Cap is raised by 600 each day."
   },
   {
     "sn": "2002547",
-    "textContent": "Season 2 <size=40>Begins</size>!"
+    "textContent": "Season 1 On Now!"
   },
   {
     "sn": "2002548",
@@ -12277,7 +12405,7 @@
   },
   {
     "sn": "2002523",
-    "textContent": "{0} Revelations Obtained"
+    "textContent": "Revelation Card x{0} Obtained"
   },
   {
     "sn": "2002524",
@@ -12525,7 +12653,7 @@
   },
   {
     "sn": "2002610",
-    "textContent": "Den Level {0}"
+    "textContent": "Den Lv. {0}"
   },
   {
     "sn": "2002611",
@@ -13226,5 +13354,25 @@
   {
     "sn": "2303440",
     "textContent": "Futaba-only Outfit:"
+  },
+  {
+    "sn": "2303516",
+    "textContent": "{0} left"
+  },
+  {
+    "sn": "2303517",
+    "textContent": "Event Ends in: {0}"
+  },
+  {
+    "sn": "2303539",
+    "textContent": "Ranking Rewards"
+  },
+  {
+    "sn": "2303540",
+    "textContent": "Ranking Info"
+  },
+  {
+    "sn": "2303541",
+    "textContent": "Rank Rewards"
   }
 ]

@@ -242,7 +242,7 @@
   {
     "sn": "102140",
     "name": "Morgana's Favor",
-    "desc": "When using a different skill than the previous skill, gain 1 Chivalry stack. Stacks up to 3 times.\nWhen an ally with less than 70% HP remaining attacks with a skill or Highlight, activate <link=\"s|100\"><u>Resonance</u></link>, spending 1 Chivalry stack to heal party by 10% of Morgana's Attack + 150/225/300 (effect increases at level 1/50/70).",
+    "desc": "When using a different skill than the previous skill, gain 1 Chivalry stack. This can stack up to 3 times.\nWhen an ally with less than 70% HP remaining attacks with a skill or Highlight, activate <link=\"s|100\"><u>Resonance</u></link>, spending 1 Chivalry stack to heal the party by 10% of Morgana's Attack + 150/225/300 (effect changes at Lv. 1/50/70, respectively).",
     "descSimple": "When using different skill from previous skill, gain 1 Chivalry (max 3 stacks). When ally below 70% HP attacks with skill, activate Resonance and spend 1 Chivalry to restore party's HP.",
     "levelUpList": "AAAAAA==",
     "levelUpValue": "AAAAAA==",
@@ -742,7 +742,7 @@
   {
     "sn": "107140",
     "name": "Hyper Hero Time!",
-    "desc": "Grant 1 <link=\"s|128\"><u>Power of Friendship</u></link> stack to allies when their HP falls below 75%. Stacks up to 2 times.\nWhen allies have Power of Friendship, increase Attack by 6% of Kamiyama's Attack (up to 120/180/240, at level 1/50/70) for 1 turn.",
+    "desc": "Grant 1 <link=\"s|128\"><u>Power of Friendship</u></link> stack to allies when their HP falls 75% or less. This can stack up to 2 times.\nWhen allies have Power of Friendship, increase Attack by 6% of Kamiyama's Attack (up to 120/180/240, increasing at Lv. 1/50/70) for 1 turn.",
     "descSimple": "If ally's HP is below 75%, grant 1 Power of Friendship (max 2) and increase Atk (1 turn).",
     "levelUpList": "AAAAAA==",
     "levelUpValue": "AAAAAA==",
@@ -1862,7 +1862,7 @@
   {
     "sn": "117112",
     "name": "Data Link Established!",
-    "desc": "Usable when allies have Data Storm. For 2 turns, increase 1 ally's Attack by <color=#FFFC40>^%s^</color>; increase Attack by 21.7 more for every 100 points of Futaba's Attack (up to <color=#FFFC40>^%s^</color> of Attack).\nInflict Virus on all foes for 1 turn, based on the targeted ally's attribute.\nVirus: Change affinities of the foe this is inflicted upon. (Null, Repel, and Drain become Resist, Resist becomes Normal, and Normal becomes Weak. Weak attributes take 25% more weakness damage.)",
+    "desc": "Usable when allies have Data Storm. For 2 turns, increase 1 ally's Attack by <color=#FFFC40>^%s^</color>; increase Attack by 21.7 more for every 100 points of Futaba's Attack (up to <color=#FFFC40>^%s^</color> of Attack).\nInflict Virus on all foes for 1 turn, based on the targeted ally's attribute.\nVirus: Change affinities of the foe this is inflicted upon. (Null, Repel, and Drain become Resist. Resist becomes Normal. Normal becomes Weak. Weak attributes take 25% more weakness damage.)",
     "descSimple": "Usable when allies have Data Storm. For 2 turns, increase 1 ally's Atk by %s; increase Atk 21.7 more per 100 points of Futaba's Atk (up to %s of Atk). Inflict Virus on all foes (1 turn), based on targeted ally's attribute.",
     "levelUpList": "Atk Increase Multiplier,Atk Increase Cap",
     "levelUpValue": "AAAAAA==",
@@ -1882,7 +1882,7 @@
   {
     "sn": "117114",
     "name": "Data Link Established!",
-    "desc": "Usable when allies have Data Storm. For 2 turns, increase all allies' Attack by <color=#FFFC40>^%s^</color>; increase Attack by 21.7 more for every 100 points of Futaba's Attack (up to <color=#FFFC40>^%s^</color> of Attack).\nInflict Virus on all foes for 1 turn, based on all allies' attributes.\nVirus: Change affinities of the foe this is inflicted upon. (Null, Reflect, and Drain become Resist, Resist becomes Normal, and Normal becomes Weak. Weak attributes take 25% more weakness damage.)",
+    "desc": "Usable when allies have Data Storm. For 2 turns, increase all allies' Attack by <color=#FFFC40>^%s^</color>; increase Attack by 21.7 more for every 100 points of Futaba's Attack (up to <color=#FFFC40>^%s^</color> of Attack).\nInflict Virus on all foes for 1 turn, based on all allies' attributes.\nVirus: Change affinities of the foe this is inflicted upon. (Null, Reflect, and Drain become Resist. Resist becomes Normal. Normal becomes Weak. Weak attributes take 25% more weakness damage.)",
     "descSimple": "Usable when allies have Data Storm. For 2 turns, increase 1 ally's Atk by %s; increase Atk 21.7 more per 100 points of Futaba's Atk (up to %s of Atk). Inflict Virus on all foes (1 turn), based on targeted ally's attribute.",
     "levelUpList": "Atk Increase Multiplier,Atk Increase Cap",
     "levelUpValue": "AAAAAA==",
@@ -1912,7 +1912,7 @@
   {
     "sn": "117140",
     "name": "Data Scan",
-    "desc": "After an ally uses a skill, Futaba gains 5% to her Analysis Progress. Also when an ally deals weakness damage with a skill, Resonance or Highlight, Futaba gains 20% more to her Analysis Progress.\nWhen Data Storm is active, increase the party's damage by 10%/15%/20% based on Futaba's level (effect increases at Lv. 1/50/70, respectively); if dealing weakness damage, double this damage increase.",
+    "desc": "After an ally uses a skill, Futaba gains 5% to her Analysis Progress. Also when an ally deals weakness damage with a skill, Resonance or Highlight, Futaba gains 20% more to her Analysis Progress.\nWhen Data Storm is active, increase the party's damage by 10%/15%/20% based on Futaba's level (effect changes at Lv. 1/50/70, respectively); if dealing weakness damage, double this damage increase.",
     "descSimple": "tdxct-[Skill_descSimple_117140]",
     "levelUpList": "AAAAAA==",
     "levelUpValue": "AAAAAA==",
@@ -2062,8 +2062,8 @@
   {
     "sn": "118140",
     "name": "Sonnet of Fate",
-    "desc": "Each time an ally deals damage, gain 1 <link=\"s|153\"><u>Verse</u></link> stack.\nAt 14+ Verse stacks, activate <link=\"s|100\"><u>Resonance</u></link> and spend 14 stacks of Verse to deal follow-up Curse damage to the last foe Sumi targeted, equal to 65%/98%/130% of Attack (effect increases at level 1/50/70).\n*Verse of Hate, Verse of Healing, and Verse of Passion all also count as Verse stacks.",
-    "descSimple": "When an ally deals dmg, gain 1 Verse. At 14 Verse, activate Resonance, and deal Curse dmg as follow-up attack to last foe Sumi targeted (65%/98%/130% of Atk, at Lv. 1/50/70).",
+    "desc": "Each time an ally deals damage, gain 1 <link=\"s|153\"><u>Verse</u></link> stack.\nAt 14+ Verse stacks, activate <link=\"s|100\"><u>Resonance</u></link> and spend 14 stacks of Verse to deal follow-up Curse damage to the last foe Sumi targeted, equal to 65%/98%/130% of Attack (effect changes at Lv. 1/50/70, respectively).\n*Verse of Hate, Verse of Healing, and Verse of Passion all also count as Verse stacks.",
+    "descSimple": "When an ally deals dmg, gain 1 Verse. At 14 Verse stacks, activate Resonance, and deal Curse dmg as follow-up attack to last foe Sumi targeted (65%/98%/130% of Atk, increasing at Lv. 1/50/70).",
     "levelUpList": "AAAAAA==",
     "levelUpValue": "AAAAAA==",
     "contentBG": "AAAAAA==",
@@ -2172,7 +2172,7 @@
   {
     "sn": "119111",
     "name": "Falling Sun",
-    "desc": "Deal Fire damage to all foes equal to <color=#FFFC40>^%s^</color> of Attack, with 30% chance to inflict <link=\"s|102\"><u>Burn</u></link>.\nWhen Ann has <link=\"s|113\"><u>La Vie en Rose</u></link>, deal 30% more damage.",
+    "desc": "Deal Fire damage to all foes equal to <color=#FFFC40>^%s^</color> of Attack, with 30% chance to inflict <link=\"s|102\"><u>Burn</u></link>.\nWhen Ann has <link=\"s|113\"><u>La Vie en Rose</u></link>, increase the damage dealt from skills by 30%.",
     "descSimple": "Fire dmg to all foes (%s Atk), 30% chance to inflict Burn.\nWhen Ann has La Vie en Rose, increase skill dmg 30%.",
     "levelUpList": "Skill Multiplier",
     "levelUpValue": "AAAAAA==",
@@ -2182,8 +2182,8 @@
   {
     "sn": "119112",
     "name": "Trifire",
-    "desc": "Deal Fire damage to 1 foe equal to <color=#FFFC40>^%s^</color> of Attack, with 75% chance to inflict <link=\"s|102\"><u>Burn</u></link>.\nWhen Ann has <link=\"s|113\"><u>La Vie en Rose</u></link>, and the foe's HP is below 50%, deal 30% bonus damage.",
-    "descSimple": "Fire dmg to 1 foe (%s Atk). 75% chance to inflict Burn.\nWhen Ann has La Vie en Rose and foe's HP is below 50%, deal bonus dmg (30% of skill dmg).",
+    "desc": "Deal Fire damage to 1 foe equal to <color=#FFFC40>^%s^</color> of Attack, with 75% chance to inflict <link=\"s|102\"><u>Burn</u></link>.\nWhen Ann has <link=\"s|113\"><u>La Vie en Rose</u></link>, and the foe's HP is below 50%, deal bonus damage equal to 30% of the damage dealt with this skill.",
+    "descSimple": "Fire dmg to 1 foe (%s Atk). 75% chance to inflict Burn.\nWhen Ann has La Vie en Rose, and foe's HP is below 50%, deal bonus dmg (30% of dmg from this skill).",
     "levelUpList": "Skill Multiplier",
     "levelUpValue": "AAAAAA==",
     "contentBG": "Four fireballs converge at the center and explode, dealing Fire damage to a single enemy.",
@@ -2202,7 +2202,7 @@
   {
     "sn": "119114",
     "name": "Falling Sun",
-    "desc": "Deal Fire damage to all foes equal to <color=#FFFC40>^%s^</color> of Attack, with 30% chance to inflict <link=\"s|102\"><u>Burn</u></link>.\nWhen Ann has <link=\"s|113\"><u>La Vie en Rose</u></link>, increase damage from skills by 30%.",
+    "desc": "Deal Fire damage to all foes equal to <color=#FFFC40>^%s^</color> of Attack, with 30% chance to inflict <link=\"s|102\"><u>Burn</u></link>.\nWhen Ann has <link=\"s|113\"><u>La Vie en Rose</u></link>, increase the damage dealt from skills by 30%.",
     "descSimple": "Fire dmg to all foes (%s Atk), 30% chance to inflict Burn.\nWhen Ann has La Vie en Rose, increase skill dmg 30%.",
     "levelUpList": "Skill Multiplier",
     "levelUpValue": "AAAAAA==",
@@ -2232,7 +2232,7 @@
   {
     "sn": "119140",
     "name": "Passion",
-    "desc": "When dealing Fire damage with skills, gain 1 Passion stack. Gain up to 4 stacks of Passion with 1 skill.\nWhen Passion reaches 4 stacks during Ann's action, gain La Vie en Rose for 1 turn.\nLa Vie en Rose: Increase Ann's Attack by 30%/40%/50% (effect increases at level 1/50/70).\nWhen La Vie en Rose ends, all stacks of Passion will be lost at the beginning of the next action.\n*Cannot gain La Vie en Rose consecutively on Ann's next action.",
+    "desc": "When dealing Fire damage to a foe with a skill, gain 1 Passion. Gain up to 4 stacks of Passion with 1 skill.\nIf Passion is at 4 or more stacks at the start of the user's turn, spend all Passion stacks to gain La Vie en Rose for 1 turn.\nLa Vie en Rose: Increase user's Attack by 30%/40%/50% (effect changes at level 1/50/70).\n*Cannot gain La Vie en Rose consecutively on the user's next action.",
     "descSimple": "When dealing Fire dmg to foes, gain 1 Passion.\nWhen Passion reaches 4, gain La Vie en Rose, and increase Atk (1 turn).",
     "levelUpList": "AAAAAA==",
     "levelUpValue": "AAAAAA==",
@@ -2242,7 +2242,7 @@
   {
     "sn": "119141",
     "name": "Seguidilla",
-    "desc": "When <link=\"s|113\"><u>La Vie en Rose</u></link> is active, increase party's Attack by 25% for 1 turn.",
+    "desc": "When <link=\"s|113\"><u>La Vie en Rose</u></link> is active, increase the party's Attack by 25% for 1 turn.",
     "descSimple": "AAAAAA==",
     "levelUpList": "AAAAAA==",
     "levelUpValue": "AAAAAA==",
@@ -2292,7 +2292,7 @@
   {
     "sn": "119146",
     "name": "Time for Punishment",
-    "desc": "When attacking foes with Fire skills, 60% chance to gain 1 Passion stack.\nWhen Ann has <link=\"s|113\"><u>La Vie en Rose</u></link>, increase Fire damage by 11% per Passion stack (up to 110%).",
+    "desc": "When attacking foes with Fire skills, 60% chance to gain 1 Passion stack.\nWhen <link=\"s|113\"><u>La Vie en Rose</u></link> is active, increase Fire damage by 11% per Passion stack spent (up to 110%).",
     "descSimple": "AAAAAA==",
     "levelUpList": "AAAAAA==",
     "levelUpValue": "AAAAAA==",
@@ -2881,7 +2881,7 @@
   },
   {
     "sn": "125109",
-    "name": "tnxotb-[Skill_name_125111]",
+    "name": "Extrasensory Aim",
     "desc": "tnxotb-[Skill_desc_125109]",
     "descSimple": "tnxotb-[Skill_descSimple_125109]",
     "levelUpList": "AAAAAA==",
@@ -2892,8 +2892,8 @@
   {
     "sn": "125111",
     "name": "Extrasensory Aim",
-    "desc": "Deal Psychokinesis damage to all foes equal to <color=#FFFC40>^%s^</color> of Attack (2 hits). <color=#FFFC40>^%s^</color> chance to inflict 1 <link=\"s|114\"><u>Target Audience</u></link> stack on the main target and <color=#FFFC40>^%s^</color> chance to inflict 1 Target Audience stack on other foes. Then, change Target Audience stacks on foes to Target Audience stacks on Haru and Target Audience's duration to 3 turns. Also grant Haru 1 Focused Shot stack.\nForce Shot: When using a ranged attack and granted Target Audience, increase skill damage by <color=#FFFC40>^%s^</color>; after the ranged attack, remove all Target Audience stacks granted to Haru.",
-    "descSimple": "Psy dmg to all foes (%s Atk, 2 hits). %s chance to inflict 1 Target Audience on main target. %s chance to also inflict 1 Target Audience on other foes. Then, change Target Audience stacks on foe to Target Audience stacks on Haru (3 turns) and gain 1 Focused Shot.\nFocused Shot: When using ranged attack and granted Target Audience, increase skill dmg by %s; after ranged attack, remove all Target Audience stacks granted to Haru.",
+    "desc": "Deal Psychokinesis damage to all foes equal to <color=#FFFC40>^%s^</color> of Attack (2 hits). <color=#FFFC40>^%s^</color> chance to inflict 1 <link=\"s|114\"><u>Target Audience</u></link> stack on the main target and <color=#FFFC40>^%s^</color> chance to inflict 1 Target Audience stack on other foes. Then, change Target Audience stacks on foes to Target Audience stacks on Haru and Target Audience's duration to 3 turns. Also gain 1 Focused Shot stack.\nFocused Round: When using a ranged attack with Target Audience, increase skill damage by <color=#FFFC40>^%s^</color>. After the ranged attack, remove all Target Audience stacks granted to Haru.",
+    "descSimple": "Psy dmg to all foes (%s Atk, 2 hits). %s chance to inflict 1 Target Audience on main target. %s chance to also inflict 1 Target Audience on other foes. Then, change Target Audience stacks on foe to Target Audience stacks on Haru (3 turns) and gain 1 Focused Round.\nFocused Round: When using ranged attack and granted Target Audience, increase skill dmg by %s; after ranged attack, remove all Target Audience stacks granted to Haru.",
     "levelUpList": "Skill Multiplier,Target Effect Accuracy,Non-Target Effect Accuracy,Skill Dmg Increase",
     "levelUpValue": "AAAAAA==",
     "contentBG": "Deals Psychokinesis damage to all foes, targeting them in your mind's eye. ",
@@ -2902,8 +2902,8 @@
   {
     "sn": "125112",
     "name": "Precise Volley",
-    "desc": "Deal Gun damage to 1 foe equal to <color=#FFFC40>^%s^</color> of Attack.  When Haru has <link=\"s|114\"><u>Target Audience</u></link>, increase this skill's pierce rate by <color=#FFFC40>^%s^</color> and gain 1 Painpoint Shot.\nPainpoint Shot: When using a ranged attack, also deal Psychokinesis damage to the main target equal to <color=#FFFC40>^%s^</color> of Attack (can gain skill damage increases from Focus Shot).",
-    "descSimple": "Gun dmg to 1 foe (%s Atk). When Haru has Target Audience, increase this skill's pierce rate by %s and gain 1 Painpoint Shot.\nPainpoint Shot: When using ranged attack, also deal Psy dmg to main target (%s Atk, can gain skill dmg increases from Focused Shot).",
+    "desc": "Deal Gun damage to 1 foe equal to <color=#FFFC40>^%s^</color> of Attack. When Haru has <link=\"s|114\"><u>Target Audience</u></link>, increase this skill's pierce rate by <color=#FFFC40>^%s^</color> and gain 1 Painpoint Round.\nPainpoint Round: When using a ranged attack, also deal Psychokinesis damage to the main target equal to <color=#FFFC40>^%s^</color> of Attack (can gain skill damage increases from Focused Round).",
+    "descSimple": "Gun dmg to 1 foe (%s Atk). When Haru has Target Audience, increase this skill's pierce rate by %s and gain 1 Painpoint Round.\nPainpoint Round: When using ranged attack, also deal Psy dmg to main target (%s Atk, can gain skill dmg increases from Focused Round).",
     "levelUpList": "Skill Multiplier,Pierce Rate Increase,Skill Multiplier",
     "levelUpValue": "AAAAAA==",
     "contentBG": "Fires a barrage of shots at a target in your sights, dealing Gun damage to a foe.",
@@ -2912,8 +2912,8 @@
   {
     "sn": "125113",
     "name": "Mindful Release",
-    "desc": "Deal Psychokinesis damage to all foes equal to <color=#FFFC40>^%s^</color> of Attack. When Haru has <link=\"s|114\"><u>Target Audience</u></link>, increase this skill's critical rate by <color=#FFFC40>^%s^</color> and gain 1 Spillover Shot stack.\nSpillover Shot: When using a ranged attack, also deal Psychokinesis damage to all foes equal to <color=#FFFC40>^%s^</color> of Attack (can gain skill damage increases from Focus Shot).",
-    "descSimple": "Psy dmg to all foes (%s Atk) When Haru has Target Audience, increase this skill's critical rate by %s and gain 1 Spillover Shot.\nSpillover Shot: When using ranged attack, also deal Psy dmg to all foes (%s Atk, can gain skill dmg increases from Focused Shot).",
+    "desc": "Deal Psychokinesis damage to all foes equal to <color=#FFFC40>^%s^</color> of Attack. When Haru has <link=\"s|114\"><u>Target Audience</u></link>, increase this skill's critical rate by <color=#FFFC40>^%s^</color> and gain 1 Spillover Round stack.\nSpillover Round: When using a ranged attack, also deal Psychokinesis damage to all foes equal to <color=#FFFC40>^%s^</color> of Attack (can gain skill damage increases from Focused Round).",
+    "descSimple": "Psy dmg to all foes (%s Atk) When Haru has Target Audience, increase this skill's critical rate by %s and gain 1 Spillover Round.\nSpillover Round: When using ranged attack, also deal Psy dmg to all foes (%s Atk, can gain skill dmg increases from Focused Round).",
     "levelUpList": "Skill Multiplier,Critical Increase,Skill Multiplier",
     "levelUpValue": "AAAAAA==",
     "contentBG": "Unleashes your thoughts at targets in your sights, dealing Psychokinesis damage to all foes.",
@@ -2922,7 +2922,7 @@
   {
     "sn": "125131",
     "name": "Heiress's Leadership",
-    "desc": "During battle, increase Attack by 1% for every 1.45% of ailment accuracy (increase up to <color=#FFFC40>^%s^</color> of Attack). Also increase critical damage by 20% for every 50% of ailment accuracy (stacks up to <color=#FFFC40>^%s^</color> times).",
+    "desc": "During battle, increase Attack by 1% for every 1.45% of ailment accuracy (up to <color=#FFFC40>^%s^</color> of Attack). Also increase critical damage by 20% for every 50% of ailment accuracy (stacks up to <color=#FFFC40>^%s^</color> times).",
     "descSimple": "AAAAAA==",
     "levelUpList": "AAAAAA==",
     "levelUpValue": "AAAAAA==",
@@ -2931,7 +2931,7 @@
   },
   {
     "sn": "125132",
-    "name": "Help Others",
+    "name": "Helping Others",
     "desc": "Permanently gain 1 Area to Improve stack for each Thoughtful Round stack gained. Gain the following effects based on the number of Area to Improve stacks:\n1. Increase ailment accuracy by <color=#FFFC40>^%s^</color> and ailment resistance by <color=#FFFC40>^%s^</color>.\n2. Increase Attack by <color=#FFFC40>^%s^</color> and Defense by <color=#FFFC40>^%s^</color>.\n3. Increase critical damage by <color=#FFFC40>^%s^</color>.",
     "descSimple": "AAAAAA==",
     "levelUpList": "AAAAAA==",
@@ -2942,7 +2942,7 @@
   {
     "sn": "125140",
     "name": "My Name Is Beauty Thief",
-    "desc": "For Haru's ranged attacks, deal Psychokinesis damage to all foes equal to 66% of Haru's Attack. When using certain skills, gain 1 corresponding Thoughtful Round stack and reload.\nFor each Thoughtful Round stack, grant unique effects to ranged attacks. When Haru uses a ranged attack, increase skill damage based on Thoughtful Round stacks (increase by 20%/40%/50% at 1/2/3 stacks, respectively). If at 2+ Thoughtful Round stacks, also increase Attack by 25%.\nAfter using a ranged attack, remove all Thoughtful Round stacks.",
+    "desc": "For Haru's ranged attacks, deal Psychokinesis damage to all foes equal to 66% of Haru's Attack. When using certain skills, gain 1 corresponding Thoughtful Round stack and reload. Up to 3 stacks of Thoughtful Round with different effects can be stacked at the same time.\nFor each Thoughtful Round stack, grant unique effects to ranged attacks. When Haru uses a ranged attack, increase skill damage based on Thoughtful Round stacks (increase by 20%/40%/50% at 1/2/3 stacks, respectively). If at 2+ Thoughtful Round stacks, also increase Attack by 25%.\nAfter using a ranged attack, remove all Thoughtful Round stacks.",
     "descSimple": "tnxotb-[Skill_descSimple_125140]",
     "levelUpList": "AAAAAA==",
     "levelUpValue": "AAAAAA==",
@@ -2952,7 +2952,7 @@
   {
     "sn": "125141",
     "name": "Expressing Emotions",
-    "desc": "After a new foe appears, activate Extrasensory Aim for that foe at the start of the next turn.\nBased on Haru's <link=\"s|114\"><u>Target Audience</u></link> stacks, increase Attack by 8% (up to 24%) and ranged attack critical rate by 6% (up to 18%).",
+    "desc": "After a new foe appears, activate Extrasensory Aim for that foe at the start of Haru's next turn.\nBased on Haru's <link=\"s|114\"><u>Target Audience</u></link> stacks, increase Attack by 8% (up to 24%) and ranged attack critical rate by 6% (up to 18%).",
     "descSimple": "AAAAAA==",
     "levelUpList": "AAAAAA==",
     "levelUpValue": "AAAAAA==",
@@ -2981,8 +2981,8 @@
   },
   {
     "sn": "125144",
-    "name": "Getting to the Point",
-    "desc": "Overload Shot Enhanced: When using a ranged attack, increase critical damage by 30%.",
+    "name": "Straight to the Point",
+    "desc": "Overload Round Enhanced: When using a ranged attack, increase critical damage by 30%.",
     "descSimple": "AAAAAA==",
     "levelUpList": "AAAAAA==",
     "levelUpValue": "AAAAAA==",
@@ -2991,7 +2991,7 @@
   },
   {
     "sn": "125145",
-    "name": "Put Some Love into It",
+    "name": "Giving It My Best Shot",
     "desc": "Increase the skill levels of Extrasensory Aim and Precise Volley by 3.",
     "descSimple": "AAAAAA==",
     "levelUpList": "AAAAAA==",
@@ -3002,7 +3002,7 @@
   {
     "sn": "125146",
     "name": "Heroine of Justice",
-    "desc": "When at 2+ Thoughtful Round stacks, evolve Haru's ranged attacks to Resonating Shots; also, deal a ranged attack that activates all Thoughtful Round effects once. When doing so, deal 50% of the original damage for all damage.\nActivate the following effects for Thoughtful Round gained from skills.\nFocused Shot: For ranged attacks, also decrease the foe's ailment resistance by 27% for 2 turns. \nPainpoint Shot: When using a ranged attack and Haru has <link=\"s|114\"><u>Target Audience</u></link>, increase pierce rate by 12%.\nSpillover Shot: When using a ranged attack and Haru has Target Audience, increase critical rate by 20% and critical damage by 20%.",
+    "desc": "When at 2+ Thoughtful Round stacks, evolve Haru's ranged attacks to Resonating Shots. Also, deal a ranged attack that activates all Thoughtful Round effects once. This additional attack's damage is 50% of the original attack.\nActivate the following effects for Thoughtful Round gained from skills.\nFocused Round: When using a ranged attack, also decrease the foe's ailment resistance by 27% for 2 turns.\nPainpoint Round: When using a ranged attack and Haru has <link=\"s|114\"><u>Target Audience</u></link>, increase pierce rate by 12%.\nSpillover Round: When using a ranged attack and Haru has Target Audience, increase critical rate by 20% and critical damage by 20%.",
     "descSimple": "AAAAAA==",
     "levelUpList": "AAAAAA==",
     "levelUpValue": "AAAAAA==",
@@ -3022,8 +3022,8 @@
   {
     "sn": "125152",
     "name": "Highlight",
-    "desc": "Deal Psychokinesis damage to all foes equal to <color=#FFFC40>^%s^</color> of Attack. Gain 1 Overload Shot if not granted Overload Shot and below maximum Thoughtful Round stacks.\nOverload Shot: When using a ranged attack, increase critical rate by <color=#FFFC40>^%s^</color>. If Haru hasn't gained any Overload Shot stacks, increase this skill damage by <color=#FFFC40>^%s^</color>.",
-    "descSimple": "Psy dmg to all foes (%s Atk). Gain 1 Overload Shot if not granted Overload Shot and below maximum Thoughtful Round stacks.\nOverload Shot: When using ranged attack, increase critical rate %s. If not granted Overload Shot, increase this skill dmg %s.",
+    "desc": "Deal Psychokinesis damage to all foes equal to <color=#FFFC40>^%s^</color> of Attack. Gain 1 Overload Round if Haru doesn't have any Overload Round stacks and is below maximum Thoughtful Round stacks.\nOverload Round: When using a ranged attack, increase critical rate by <color=#FFFC40>^%s^</color>.\nIf Haru hasn't gained any Overload Round stacks, increase this skill damage by <color=#FFFC40>^%s^</color>.",
+    "descSimple": "Psy dmg to all foes (%s Atk). Gain 1 Overload Round if there's no Overload Round stacks and below max Thoughtful Round stacks.\nOverload Round: When using ranged attack, increase crit rate %s.\nIf haven't gained Overload Round, increase this skill dmg %s.",
     "levelUpList": "Highlight Skill Multiplier,Critical Rate Increase,Skill Dmg Increase",
     "levelUpValue": "AAAAAA==",
     "contentBG": "AAAAAA==",
@@ -5841,19 +5841,19 @@
   },
   {
     "sn": "133111",
-    "name": "Frost Vine",
-    "desc": "Deal Ice damage to the main target equal to <color=#FFFC40>^%s^</color> of Ashiya's Defense, and deal Ice damage to other foes equal to <color=#FFFC40>^%s^</color> of Ashiya's Defense.\n<color=#FFFC40>^%s^</color> chance to inflict <link=\"s|103\"><u>Freeze</u></link> on the main target, and gain 2 Heroism stacks.\nIf <link=\"s|202\"><u>Garden of Promises</u></link> is active, increase the main target's damage taken by 1% for every 600 points of Ashiya's Defense (up to <color=#FFFC40>^%s^</color>), but gain only 1 Heroism stack.",
-    "descSimple": "Ice dmg to main target (%s Def), and Ice dmg to other foes (%s Def).\n%s chance to inflict Freeze on main target, and gain 2 Heroism.\nIf Garden of Promises is active, increase main target's dmg taken 1% per 600 of Ashiya's Def (max %s, 2 turns), and gain 1 Heroism.",
+    "name": "Frost Vines",
+    "desc": "Deal Ice damage to the main target equal to <color=#FFFC40>^%s^</color> of Ashiya's Defense, and deal Ice damage to other foes equal to <color=#FFFC40>^%s^</color> of Ashiya's Defense.\n<color=#FFFC40>^%s^</color> chance to inflict <link=\"s|103\"><u>Freeze</u></link> on the main target, and gain 2 Heroism stacks.\nIf <link=\"s|202\"><u>Garden of Promises</u></link> is active, increase the main target's damage taken by 2% for every 600 points of Ashiya's Defense (up to <color=#FFFC40>^%s^</color>), but gain only 1 Heroism stack.",
+    "descSimple": "Ice dmg to main target (%s Def), and Ice dmg to other foes (%s Def).\n%s chance to inflict Freeze on main target, and gain 2 Heroism.\nIf Garden of Promises is active, increase main target's dmg taken 2% per 600 of Ashiya's Def (max %s, 2 turns), but change to 1 Heroism.",
     "levelUpList": "Skill Multiplier,Skill Multiplier,Freeze Chance,Dmg Taken Increase Cap",
     "levelUpValue": "AAAAAA==",
     "contentBG": "Icy vines covered in frozen thorns deal Ice damage to enemies.",
-    "skillTag": "Single-Target"
+    "skillTag": "Multi-Target"
   },
   {
     "sn": "133112",
     "name": "Hoarfrost Vow",
-    "desc": "Grant 1 <link=\"s|201\"><u>Knight's Protection</u></link> shield to 1 ally equal to 〈color=#FFFC40〉^%s^〈/color〉＋〈color=#FFFC40〉^%s^〈/color〉 of Ashiya's Defense. Increase target's Defense by 20% of Ashiya's Defense for 2 turns (up to 〈color=#FFFC40〉^%s^〈/color〉). When the affected ally's HP is above 60%, increase their chance to be targeted by foe's attacks by 50%.\nAt the start of Ashiya's next action, grant 1 more Knight's Protection stack to the target. If <link=\"s|202\"><u>Garden of Promises</u></link> is active, increase shield from Knight's Protection by 25%.",
-    "descSimple": "Grant Knight's Protection shield to 1 ally (%s Def+ %s). Increase target's Def by 20% of Ashiya's Def (max %s, 2 turns). When this ally's HP is above 60%, increase chance of being targeted 50%.\nAt start of Ashiya's next action, grant 1 more Knight's Protection to target. If Garden of Promises is active, increase Knight's Protection shield 25% (2 turns).",
+    "desc": "Grant 1 <link=\"s|201\"><u>Knight's Protection</u></link> shield equal to <color=#FFFC40>^%s^</color> of Ashiya's Defense + <color=#FFFC40>^%s^</color> to 1 ally. Also increase the ally's Defense by 20% of Ashiya's Defense (up to <color=#FFFC40>^%s^</color>) for 2 turns. If the target granted this effect has more than 60% HP, increase rate to take attacks from foes by 50%.\nAt the start of Ashiya's next turn, grant 1 Knight's Protection again to the same target. If <link=\"s|202\"><u>Garden of Promises</u></link> is active, increase shield granted from Knight's Protection by 25% for 2 turns.",
+    "descSimple": "Grant Knight's Protection shield to 1 ally (%s Def+ %s). Increase target's Def by 20% of Ashiya's Def (max %s, 2 turns). When this ally's HP is above 60%, increase chance of being targeted 50%.\nAt start of Ashiya's next action, grant 1 more Knight's Protection to target. If Garden of Promises is active, increase granted Knight's Protection shield 25% (2 turns).",
     "levelUpList": "Shield Multiplier,Base Shield,Def Increase",
     "levelUpValue": "AAAAAA==",
     "contentBG": "The unwavering vow to protect one's friends is crystallized, granting a shield to an ally.",
@@ -5862,8 +5862,8 @@
   {
     "sn": "133113",
     "name": "Winter Fortress",
-    "desc": "Grant 1 <link=\"s|201\"><u>Knight's Protection</u></link> shield to all allies equal to 12% of Ashiya's Defense + 120/240/360 (effect increases at level 1/50/70) and grant 1 Knight's Resolve shield equal to <color=#FFFC40>^%s^</color> of Ashiya's Defense + <color=#FFFC40>^%s^</color>.\nGrant 1 Down Point to all allies, and increase damage dealt by 1% for every 300 points of Ashiya's Defense (up to <color=#FFFC40>^%s^</color>).",
-    "descSimple": "Grant 1 Knight's Protection shield to all allies (12% Def + 120/240/360, at Lv. 1/50/70), and 1 Knight's Resolve shield (%s Def + %s).\nGrant 1 Down Point to all allies, and increase dmg dealt by 1% per 300 of Ashiya's Def. (max %s, 2 turns.",
+    "desc": "Grant all allies 1 <link=\"s|201\"><u>Knight's Protection</u></link> shield equal to 12% of Ashiya's Defense + 120/240/360 (effect changes at Lv. 1/50/70, respectively) and <link=\"s|203\"><u>Knight's Resolve</u></link> shield equal to <color=#FFFC40>^%s^</color> of Ashiya's Defense + <color=#FFFC40>^%s^</color>.\nAlso increase all allies' Down Points by 1 and damage dealt by 2.9% for every 300 points of Ashiya's Defense (up to <color=#FFFC40>^%s^</color>) for 2 turns.",
+    "descSimple": "Grant all allies 1 Knight's Protection shield (12% Def + 120/240/360 when at Lv. 1/50/70+), and Knight's Resolve shield (%s Def + %s).\nAlso increase all allies' Down Points by 1 and dmg dealt by 2.9% per 300 of Ashiya's Def (max %s, 2 turns).",
     "levelUpList": "Shield Multiplier,Base Shield,Dmg Increase",
     "levelUpValue": "AAAAAA==",
     "contentBG": "The determination to defend one's allies becomes a mighty fortress wall, granting shields to all allies.",
@@ -5881,7 +5881,7 @@
   },
   {
     "sn": "133110",
-    "name": "tnxotb-[Skill_name_133110]",
+    "name": "Garden of Promises",
     "desc": "AAAAAA==",
     "descSimple": "AAAAAA==",
     "levelUpList": "AAAAAA==",
@@ -5892,7 +5892,7 @@
   {
     "sn": "133131",
     "name": "Flower Knight's Shield",
-    "desc": "When allies have a shield granted by Ashiya, increase Defense by <color=#FFFC40>^%s^</color>.",
+    "desc": "When allies have a shield granted by Ashiya, increase Defense by <color=#FFFC40>^%s^</color> and ailment resistance by <color=#FFFC40>^%s^</color>.",
     "descSimple": "AAAAAA==",
     "levelUpList": "AAAAAA==",
     "levelUpValue": "AAAAAA==",
@@ -5902,7 +5902,7 @@
   {
     "sn": "133132",
     "name": "Flower Knight's Devotion",
-    "desc": "When allies have a shield granted by Ashiya, increase ailment resistance by <color=#FFFC40>^%s^</color>.",
+    "desc": "While Ashiya is in battle, when an ally uses their ailment resistance to avoid a Curse, elemental ailment, or spiritual ailment, grant 1, 2, or 3 buff stacks, respectively.\nFor each buff stack, increase the targeted ally's damage dealt by <color=#FFFC40>^%s^</color> for 2 turns. This can stack up to 3 times. At 3 buff stacks, also increase critical damage by <color=#FFFC40>^%s^</color> for 2 turns.",
     "descSimple": "AAAAAA==",
     "levelUpList": "AAAAAA==",
     "levelUpValue": "AAAAAA==",
@@ -5912,7 +5912,7 @@
   {
     "sn": "133140",
     "name": "Noble Knight of Flowers",
-    "desc": "At the start of battle, grant all allies 1 <link=\"s|201\"><u>Knight's Protection</u></link> shield equal to 12% of Ashiya's Defense + 120/240/360 (effect increases at level 1/50/70).\nWhen an ally with Knight's Protection takes an attack, Ashiya gains 1 Heroism stack (up to 2 stacks in 1 turn).\nAt the start of the turn, if Heroism is at 4 or more stacks, spend 4 Heroism stacks to gain <link=\"s|202\"><u>Garden of Promises</u></link>, and grant all allies Knight's Protection again.",
+    "desc": "At the start of battle, grant all allies 1 <link=\"s|201\"><u>Knight's Protection</u></link> shield equal to 12% of Ashiya's Defense + 120/240/360 (effect changes at Lv. 1/50/70, respectively).\nWhen an ally with Knight's Protection takes an attack, grant Ashiya 1 Heroism stack (up to 2 stacks in 1 turn). Heroism can stack up to 4 times.\nAt the start of the turn, if Heroism is at 4 stacks, spend 4 Heroism stacks to gain <link=\"s|202\"><u>Garden of Promises</u></link> and grant Knight's Protection again to all allies.",
     "descSimple": "tdxct-[Skill_descSimple_133140]",
     "levelUpList": "AAAAAA==",
     "levelUpValue": "AAAAAA==",
@@ -5921,28 +5921,28 @@
   },
   {
     "sn": "133114",
-    "name": "tnxotb-[Skill_name_133114]",
-    "desc": "tdxct-[Skill_desc_133114]",
-    "descSimple": "tdxct-[Skill_descSimple_133114]",
+    "name": "Frost Vines",
+    "desc": "Deal Ice damage to the main target equal to <color=#FFFC40>^%s^</color> of Ashiya's Defense, and deal Ice damage to other foes equal to <color=#FFFC40>^%s^</color> of Ashiya's Defense.\n<color=#FFFC40>^%s^</color> chance to inflict <link=\"s|103\"><u>Freeze</u></link> on the main target, and gain 2 Heroism stacks.\nIf <link=\"s|202\"><u>Garden of Promises</u></link> is active, increase the main target's damage taken by 2% for every 600 points of Ashiya's Defense (up to <color=#FFFC40>^%s^</color>), but gain only 1 Heroism stack.",
+    "descSimple": "Ice dmg to main target (%s Def), and Ice dmg to other foes (%s Def).\n%s chance to inflict Freeze on main target, and gain 2 Heroism.\nIf Garden of Promises is active, increase main target's dmg taken 2% per 600 of Ashiya's Def (max %s, 2 turns), but change to 1 Heroism.",
     "levelUpList": "Skill Multiplier,Skill Multiplier,Freeze Chance,Dmg Taken Increase Cap",
     "levelUpValue": "AAAAAA==",
-    "contentBG": "tdxct-[Skill_contentBG_133114]",
-    "skillTag": "Single-Target"
+    "contentBG": "Icy vines covered in frozen thorns deal Ice damage to enemies.",
+    "skillTag": "Multi-Target"
   },
   {
     "sn": "133115",
-    "name": "tnxotb-[Skill_name_133115]",
-    "desc": "tdxct-[Skill_desc_133115]",
-    "descSimple": "tdxct-[Skill_descSimple_133115]",
+    "name": "Hoarfrost Vow",
+    "desc": "Grant 1 <link=\"s|201\"><u>Knight's Protection</u></link> shield equal to <color=#FFFC40>^%s^</color> of Ashiya's Defense + <color=#FFFC40>^%s^</color> to 1 ally. Also increase the ally's Defense by 20% of Ashiya's Defense (up to <color=#FFFC40>^%s^</color>) for 2 turns. If the target granted this effect has more than 60% HP, increase rate to take attacks from foes by 50%.\nAt the start of Ashiya's next turn, grant 1 Knight's Protection again to the same target. If <link=\"s|202\"><u>Garden of Promises</u></link> is active, increase shield granted from Knight's Protection by 25% for 2 turns.",
+    "descSimple": "Grant Knight's Protection shield to 1 ally (%s Def+ %s). Increase target's Def by 20% of Ashiya's Def (max %s, 2 turns). When this ally's HP is above 60%, increase chance of being targeted 50%.\nAt start of Ashiya's next action, grant 1 more Knight's Protection to target. If Garden of Promises is active, increase granted Knight's Protection shield 25% (2 turns).",
     "levelUpList": "Shield Multiplier,Base Shield,Def Increase Cap",
     "levelUpValue": "AAAAAA==",
-    "contentBG": "tdxct-[Skill_contentBG_133115]",
+    "contentBG": "The unwavering vow to protect one's friends is crystallized, granting a shield to an ally.",
     "skillTag": "Shield"
   },
   {
     "sn": "133141",
     "name": "Floriography: Freesia",
-    "desc": "At the start of battle, gain 3 Heroism stacks. <link=\"s|202\"><u>Garden of Promises</u></link> requires 3 Heroism stacks to activate.\nIncrease party's pierce rate by 15%.",
+    "desc": "At the start of battle, gain 3 Heroism stacks. <link=\"s|202\"><u>Garden of Promises</u></link> requires 3 Heroism stacks to activate.\nIncrease party's pierce rate by 20%.",
     "descSimple": "AAAAAA==",
     "levelUpList": "AAAAAA==",
     "levelUpValue": "AAAAAA==",
@@ -5952,7 +5952,7 @@
   {
     "sn": "133142",
     "name": "Floriography: Gerbera",
-    "desc": "Increase Defense by 15% for every <link=\"s|201\"><u>Knight's Protection</u></link> stack. Stacks up to 2 times.\nWhen the effect of Knight's Protection ends, restore targeted ally's HP by 20% of remaining shield.",
+    "desc": "Increase Defense by 15%, damage dealt by 15%, and critical damage by 10% for every <link=\"s|201\"><u>Knight's Protection</u></link> shield. This effect can stack up to 2 times.\nWhen the effect of Knight's Protection ends, restore the targeted ally's HP by 20% of remaining shield.",
     "descSimple": "AAAAAA==",
     "levelUpList": "AAAAAA==",
     "levelUpValue": "AAAAAA==",
@@ -5962,7 +5962,7 @@
   {
     "sn": "133143",
     "name": "Benevolent Iceheart Knight",
-    "desc": "Increase the skill levels of Frost Vine and Winter Fortress by 3.",
+    "desc": "Increase the skill levels of Frost Vines and Winter Fortress by 3.",
     "descSimple": "AAAAAA==",
     "levelUpList": "AAAAAA==",
     "levelUpValue": "AAAAAA==",
@@ -5992,7 +5992,7 @@
   {
     "sn": "133146",
     "name": "True-Hearted Friendship",
-    "desc": "When gaining <link=\"s|202\"><u>Garden of Promises</u></link>, gain Poise.\nPoise: Increase party's critical rate by 15%.",
+    "desc": "When gaining <link=\"s|202\"><u>Garden of Promises</u></link>, gain Poise for 3 turns.\nPoise: Increase the party's critical rate by 15%.",
     "descSimple": "AAAAAA==",
     "levelUpList": "AAAAAA==",
     "levelUpValue": "AAAAAA==",
@@ -6012,7 +6012,7 @@
   {
     "sn": "133152",
     "name": "Highlight",
-    "desc": "tdxct-[Skill_desc_133152]",
+    "desc": "Grant <link=\"s|203\"><u>Knight's Resolve</u></link> shield equal to <color=#FFFC40>^%s^</color> of Ashiya's Defense + <color=#FFFC40>^%s^</color> to all allies and decrease damage taken by <color=#FFFC40>^%s^</color> for 2 turns.",
     "descSimple": "Grant Knight's Resolve shield to all allies (%s Def + %s), and decrease dmg taken %s (2 turns).",
     "levelUpList": "Highlight: Shield Multiplier,Highlight: Base Shield,Highlight: Dmg Taken Decrease",
     "levelUpValue": "AAAAAA==",
@@ -6082,7 +6082,7 @@
   {
     "sn": "121213",
     "name": "Ailes au Vent / Frozen Wings",
-    "desc": "Spring: For 1 turn, activate Spring's Edge and deal Wind damage to 1 foe equal to <color=#FFFC40>^%s^</color> of Attack (3 hits). While Spring's Edge is active, when allies deal Wind damage with a skill, Highlight, or <link=\"s|100\"><u>Resonance</u></link>, deal Wind damage to the target equal to 20% of Ice Storm Kotone's Attack, and gain 1 <link=\"s|212\"><u>Spring's Vestige</u></link> stack. When Spring's Edge ends, spend all collected Spring's Vestige stacks, and deal Wind damage to the target selected that turn equal to (number of Spring's Vestige stacks + 2) x <color=#FFFC40>^%s^</color> of Attack. This damage is counted as a Resonance.\nWinter: For 1 turn, activate Winter's Edge and deal Ice damage to 1 foe equal to <color=#FFFC40>^%s^</color> of Attack for 1 turn. While Winter's Edge is active, when an ally takes an attack, grant Glacial Heart to all allies, protecting them from up to <color=#FFFC40>^%s^</color> damage. Also, when allies deal Ice damage with a skill, Highlight, or Resonance, gain 1 <link=\"s|213\"><u>Winter's Vestige</u></link> stack. When Winter's Edge ends, spend all Winter's Vestige stacks, and deal Ice damage to the target selected that turn equal to (number of Winter's Vestige stacks + 2) x <color=#FFFC40>^%s^</color> of Attack. This damage is counted as a Resonance.",
+    "desc": "Spring: For 1 turn, activate Spring's Edge, and deal Wind damage to 1 foe equal to <color=#FFFC40>^%s^</color> of Attack (3 hits). While Spring's Edge is active, when allies deal Wind damage with a skill, Highlight, or <link=\"s|100\"><u>Resonance</u></link>, deal Wind damage to the selected target equal to 20% of Ice Storm Kotone's Attack, and gain 1 <link=\"s|212\"><u>Spring's Vestige</u></link> stack. When Spring's Edge ends, spend all Spring's Vestige stacks, and deal Wind damage to the target selected that turn equal to (number of Spring's Vestige stacks + 2) x <color=#FFFC40>^%s^</color> of Attack. This damage is counted as a Resonance.\nWinter: For 1 turn, activate Winter's Edge, and deal Ice damage to 1 foe equal to <color=#FFFC40>^%s^</color> of Attack. While Winter's Edge is active, when an ally takes an attack, grant Glacial Heart to all allies, protecting them from up to <color=#FFFC40>^%s^</color> damage. This effect can be activated up to 2 times. Also, when allies deal Ice damage with a skill, Highlight, or Resonance, gain 1 <link=\"s|213\"><u>Winter's Vestige</u></link> stack. When Winter's Edge ends, spend all Winter's Vestige stacks, and deal Ice damage to the target selected that turn equal to (number of Winter's Vestige stacks + 2) x <color=#FFFC40>^%s^</color> of Attack. This damage is counted as a Resonance.",
     "descSimple": "AAAAAA==",
     "levelUpList": "Skill Multiplier,Resonance Multiplier,Skill Multiplier,Shield Rate,Resonance Multiplier",
     "levelUpValue": "AAAAAA==",
@@ -6122,8 +6122,8 @@
   {
     "sn": "121217",
     "name": "Frozen Wings",
-    "desc": "For 1 turn, activate Winter's Edge, and deal Ice damage to 1 foe equal to <color=#FFFC40>^%s^</color> of Attack. While Winter's Edge is active, when an ally takes an attack, grant Glacial Heart to all allies, protecting them from up to <color=#FFFC40>^%s^</color> damage. Also, when allies deal Ice damage with a skill, Highlight, or <link=\"s|100\"><u>Resonance</u></link>, gain 1 <link=\"s|213\"><u>Winter's Vestige</u></link> stack. When Winter's Edge ends, spend all Winter's Vestige stacks, and deal Ice damage to the target selected that turn equal to (number of Winter's Vestige stacks + 2) x <color=#FFFC40>^%s^</color> of Attack. This damage is counted as a Resonance.",
-    "descSimple": "For 1 turn, activate Winter's Edge, and Ice dmg to 1 foe (%s Atk). While Winter's Edge is active, when ally is attacked, grant Glacial Heart to all allies, protecting from up to %s dmg (max 2 times). When allies deal Ice dmg with skill, Highlight, or Resonance, gain 1 Winter's Vestige. When Winter's Edge ends, spend all Winter's Vestige, and deal Ice dmg to target selected that turn ((number of Rink Grooves + 2) x %s Atk). This damage is counted as a Resonance.",
+    "desc": "For 1 turn, activate Winter's Edge, and deal Ice damage to 1 foe equal to <color=#FFFC40>^%s^</color> of Attack. While Winter's Edge is active, when an ally takes an attack, grant Glacial Heart to all allies, protecting them from up to <color=#FFFC40>^%s^</color> damage. This effect can be activated up to 2 times. Also, when allies deal Ice damage with a skill, Highlight, or <link=\"s|100\"><u>Resonance</u></link>, gain 1 <link=\"s|213\"><u>Winter's Vestige</u></link> stack. When Winter's Edge ends, spend all Winter's Vestige stacks, and deal Ice damage to the target selected that turn equal to (number of Winter's Vestige stacks + 2) x <color=#FFFC40>^%s^</color> of Attack. This damage is counted as a Resonance.",
+    "descSimple": "For 1 turn, activate Winter's Edge, and Ice dmg to 1 foe (%s Atk). While Winter's Edge is active, when ally is attacked, grant Glacial Heart to all allies, protecting from up to %s dmg (max 2 times). When allies deal Ice dmg with skill, Highlight, or Resonance, gain 1 Winter's Vestige. When Winter's Edge ends, spend all Winter's Vestige, and deal Ice dmg to target selected that turn ((number of Winter's Vestige + 2) x %s Atk). This damage is counted as a Resonance.",
     "levelUpList": "Winter Multiplier,Winter Shield Rate,Winter Resonance Multiplier",
     "levelUpValue": "AAAAAA==",
     "contentBG": "AAAAAA==",
@@ -6181,7 +6181,7 @@
   },
   {
     "sn": "121232",
-    "name": "Technical Points",
+    "name": "Technical Score",
     "desc": "While in Spring mode, when an ally attacks with the Wind attribute, increase party's Attack by <color=#FFFC40>^%s^</color> for 2 turns. Stacks up to 5 times.\nWhile in Winter mode, when gaining a shield, increase party's Defense by <color=#FFFC40>^%s^</color> for 2 turns. Stacks up to 4 times.",
     "descSimple": "AAAAAA==",
     "levelUpList": "AAAAAA==",
@@ -6273,7 +6273,7 @@
     "sn": "121252",
     "name": "Highlight",
     "desc": "Spring: Deal Wind damage to 1 foe equal to <color=#FFFC40>^%s^</color> of Attack (3 hits). When Spring's Edge is active, gain 1 more <link=\"s|212\"><u>Spring's Vestige</u></link> stack (Can gain more stacks than the maximum limit). Otherwise, deal 1 more hit of Wind damage to selected target.\nWinter: Deal Ice damage to 1 foe equal to <color=#FFFC40>^%s^</color> of Attack, with a <color=#FFFC40>^%s^</color> chance to inflict <link=\"s|214\"><u>Icebound</u></link>. When Winter's Edge is active, increase chance to inflict Icebound by <color=#FFFC40>^%s^</color>. Otherwise, increase Highlight damage by 20%.",
-    "descSimple": "Wind dmg to 1 foe (%s Atk, 3 hits). When Spring's Edge is active, gain 1 more Spring's Vestige. Otherwise, deal Wind damage 1 more time to target.",
+    "descSimple": "Wind dmg to 1 foe (%s Atk, 3 hits). When Spring's Edge is active, gain 1 more Spring's Vestige. Otherwise, deal Wind dmg 1 more time to target.",
     "levelUpList": "Highlight: Skill Multiplier,Highlight: Skill Multiplier,Highlight: Icebound Chance,Highlight: Icebound Chance Increase",
     "levelUpValue": "AAAAAA==",
     "contentBG": "AAAAAA==",
@@ -20332,7 +20332,7 @@
   {
     "sn": "15142",
     "name": "Lotus Dance II",
-    "desc": "Increase healing by 20.9%. When healing with Lotus, increase max HP of allies healed by 16%. Increase Lotus' healing by 40%. Lasts for 2 turns.",
+    "desc": "Increase healing by 20.9%. For 2 turns, when healing with Lotus, increase healed allies' max HP by 16% and healing from Lotus by 40%.",
     "descSimple": "Increase healing 20.9%. After healing with Lotus, increase healed allies' max HP 16% (2 turns). Increase healing from Lotus 40%.",
     "levelUpList": "AAAAAA==",
     "levelUpValue": "AAAAAA==",
@@ -20342,7 +20342,7 @@
   {
     "sn": "15143",
     "name": "Lotus Dance III",
-    "desc": "Increase healing by 20.9%. When healing with Lotus, increase max HP of allies healed by 17.5%. Increase Lotus' healing by 45%. Lasts for 2 turns.",
+    "desc": "Increase healing by 20.9%. For 2 turns, when healing with Lotus, increase healed allies' max HP by 17.5% and healing from Lotus by 45%.",
     "descSimple": "Increase healing 20.9%. After healing with Lotus, increase healed allies' max HP 17.5% (2 turns). Increase healing from Lotus 45%.",
     "levelUpList": "AAAAAA==",
     "levelUpValue": "AAAAAA==",
@@ -20382,8 +20382,8 @@
   {
     "sn": "13543",
     "name": "Titan's Protection III",
-    "desc": "Increase Defense by 43.6%. When Sandalphon is present, increase shielded allies' Defense by 42%, and when not present, increase shielded allies' Defense by 25%. When using a unique skill, decrease HP cost by 15%.",
-    "descSimple": "Increase Def 43.6%. When Sandalphon is present, increase shielded allies' Def 42%, and when not present, increase shielded allies' Def 25%. When using unique skill, decrease HP cost 15%.",
+    "desc": "Increase Defense by 43.6%. When Sandalphon is present, increase shielded allies' Defense by 42%, and when not present, increase shielded allies' Defense by 25%. When using a unique skill, decrease HP cost to 15%.",
+    "descSimple": "Increase Def 43.6%. When Sandalphon is present, increase shielded allies' Def 42%, and when not present, increase shielded allies' Def 25%. When using unique skill, decrease HP cost to 15%.",
     "levelUpList": "AAAAAA==",
     "levelUpValue": "AAAAAA==",
     "contentBG": "AAAAAA==",
@@ -23892,8 +23892,8 @@
   {
     "sn": "16111",
     "name": "Wind of Nirvana",
-    "desc": "Deal Wind damage to 1 foe equal to <color=#fffc40>^%s^</color> of Attack. 75% chance to inflict <link=\"s|104\"><u>Windswept</u></link>.\nIf the target is already Windswept, extend duration and increase this skill's damage by <color=#fffc40>^%s^</color>. Increase foe's Wind damage taken by <color=#fffc40>^%s^</color> for 2 turns.",
-    "descSimple": "Wind dmg to 1 foe. Chance to inflict Windswept. If already Windswept, extend duration and increase Wind dmg and skill dmg taken (2 turns).",
+    "desc": "Deal Wind damage to 1 foe equal to <color=#fffc40>^%s^</color> of Attack with a 75% chance to inflict <link=\"s|105\"><u>Windswept</u></link>.\nIf the target already has Windswept, reset effect duration and increase this skill's damage by <color=#fffc40>^%s^</color>. Also, increase foes' Wind damage taken by <color=#fffc40>^%s^</color> for 2 turns.",
+    "descSimple": "Wind dmg to 1 foe. Chance to inflict Windswept. If already Windswept, reset duration and increase Wind dmg and skill dmg taken (2 turns).",
     "levelUpList": "Skill Multiplier,Dmg Increase,Dmg Taken Increase",
     "levelUpValue": "AAAAAA==",
     "contentBG": "AAAAAA==",
@@ -23902,7 +23902,7 @@
   {
     "sn": "16141",
     "name": "Goodwill to All",
-    "desc": "Increase critical rate by 17.5%. Increase <link=\"s|104\"><u>Windswept</u></link> accuracy by 13%. Increase damage to Windswept foes by 13%. When inflicting or extending Windswept, decrease target's Defense by 32% for 2 turns.",
+    "desc": "Increase critical rate by 17.5%. Increase <link=\"s|104\"><u>Windswept</u></link> accuracy by 13%. Increase damage to Windswept foes by 13%. When inflicting or resetting Windswept, decrease target's Defense by 32% for 2 turns.",
     "descSimple": "Increase critical rate 17.5%. Increase chance to inflict Windswept 13%. Windswept foes take 13% more dmg. When inflicting or extending Windswept, decrease target's Def 32% (2 turns).",
     "levelUpList": "AAAAAA==",
     "levelUpValue": "AAAAAA==",
@@ -23912,7 +23912,7 @@
   {
     "sn": "16142",
     "name": "Goodwill to All I",
-    "desc": "Increase critical rate by 17.5%. Increase <link=\"s|104\"><u>Windswept</u></link> accuracy by 20%. Increase damage to Windswept foes by 13%. When inflicting or extending Windswept, decrease target's Defense by 32% for 2 turns.",
+    "desc": "Increase critical rate by 17.5%. Increase <link=\"s|104\"><u>Windswept</u></link> accuracy by 20%. Increase damage to Windswept foes by 13%. When inflicting or resetting Windswept, decrease target's Defense by 32% for 2 turns.",
     "descSimple": "Increase critical rate 17.5%. Increase chance to inflict Windswept 20%. Windswept foes take 13% more dmg. When inflicting or extending Windswept, decrease target's Def 32% (2 turns).",
     "levelUpList": "AAAAAA==",
     "levelUpValue": "AAAAAA==",
@@ -23922,7 +23922,7 @@
   {
     "sn": "16143",
     "name": "Goodwill to All II",
-    "desc": "Increase critical rate by 17.5%. Increase <link=\"s|104\"><u>Windswept</u></link> accuracy by 20%. Increase damage to Windswept foes by 20%. When inflicting or extending Windswept, decrease target's Defense by 32% for 2 turns.",
+    "desc": "Increase critical rate by 17.5%. Increase <link=\"s|104\"><u>Windswept</u></link> accuracy by 20%. Increase damage to Windswept foes by 20%. When inflicting or resetting Windswept, decrease target's Defense by 32% for 2 turns.",
     "descSimple": "Increase critical rate 17.5%. Increase chance to inflict Windswept 20%. Windswept foes take 20% more dmg. When inflicting or extending Windswept, decrease target's Def 32% (2 turns).",
     "levelUpList": "AAAAAA==",
     "levelUpValue": "AAAAAA==",
@@ -23932,7 +23932,7 @@
   {
     "sn": "16144",
     "name": "Goodwill to All III",
-    "desc": "Increase critical rate by 17.5%. Increase <link=\"s|104\"><u>Windswept</u></link> accuracy by 20%. Increase damage to Windswept foes by 20%. When inflicting or extending Windswept, decrease target's Defense by 48% for 2 turns.",
+    "desc": "Increase critical rate by 17.5%. Increase <link=\"s|104\"><u>Windswept</u></link> accuracy by 20%. Increase damage to Windswept foes by 20%. When inflicting or resetting Windswept, decrease target's Defense by 48% for 2 turns.",
     "descSimple": "Increase critical rate 17.5%. Increase chance to inflict Windswept 20%. Windswept foes take 20% more dmg. When inflicting or extending Windswept, decrease target's Def 48% (2 turns).",
     "levelUpList": "AAAAAA==",
     "levelUpValue": "AAAAAA==",
@@ -25062,8 +25062,8 @@
   {
     "sn": "26011",
     "name": "Dance of Destruction",
-    "desc": "Deal Psychokinesis damage to all foes equal to <color=#FFFC40>^%s^</color> of Attack. Spend all Wisdom stacks to activate effects of Karmic Alteration.",
-    "descSimple": "Psy dmg to all foes (%s Atk). Spend Wisdom to activate effects of Karmic Alteration.",
+    "desc": "Deal Psychokinesis damage to all foes equal to <color=#fffc40>^%s^</color> of Attack. Spend all Wisdom stacks to activate Karmic Alteration effects.",
+    "descSimple": "Psy dmg to all foes (%s Atk). Spend Wisdom to activate Karmic Alteration effects.",
     "levelUpList": "Skill Multiplier",
     "levelUpValue": "AAAAAA==",
     "contentBG": "AAAAAA==",
@@ -25072,8 +25072,8 @@
   {
     "sn": "26041",
     "name": "Karmic Alteration",
-    "desc": "Increase Attack by 29.1%. At the start of each turn, gain Wisdom. Stacks up to 3 times. When a unique skill spends Wisdom, apply one of the following based on the number of stacks spent: 1: Increase this skill's Psychokinesis damage by 22%. 2: Decrease foe's Defense by 30% for 1 turn. 3. Increase target's Psychokinesis critical taken rate by 12% for 1 turn.",
-    "descSimple": "Increase Atk 29.1%. Gain Wisdom at start of each turn (max 3). Based on number of Wisdom spent, apply one of the following: 1: Increase this skill's Psy dmg 22%. 2: Decrease foe's Def 30% (1 turn). 3. Increase target's Psy crit taken rate 12% (1 turn).",
+    "desc": "Increase Attack by 29.1%. At the start of each turn, gain Wisdom. Activate even in reserve. Stacks up to 3 times. When a unique skill spends Wisdom, apply the following effects based on the number of stacks spent:\n1: Increase this skill's Psychokinesis damage by 22%.\n2: Decrease foe's Defense by 30% for 1 turn.\n3. Increase target's Psychokinesis critical taken rate by 12% for 1 turn.",
+    "descSimple": "Increase Atk 29.1%. Gain Wisdom at start of each turn (max 3). Activate even in reserve. Based on number of Wisdom spent, apply the following:\n1: Increase this skill's Psy dmg 22%.\n2: Decrease foe's Def 30% (1 turn).\n3. Increase target's Psy crit taken rate 12% (1 turn).",
     "levelUpList": "AAAAAA==",
     "levelUpValue": "AAAAAA==",
     "contentBG": "AAAAAA==",
@@ -25082,8 +25082,8 @@
   {
     "sn": "26042",
     "name": "Karmic Alteration I",
-    "desc": "Increase Attack by 29.1%. At the start of each turn, gain Wisdom. Stacks up to 3 times. When a unique skill spends Wisdom, apply one of the following based on the number of stacks spent: 1: Increase this skill's Psychokinesis damage by 33%. 2: Decrease foe's Defense by 30% for 1 turn. 3. Increase target's Psychokinesis critical taken rate by 12% for 1 turn.",
-    "descSimple": "Increase Atk 29.1%. Gain Wisdom at start of each turn (max 3). Based on number of Wisdom spent, apply one of the following: 1: Increase this skill's Psy dmg 33%. 2: Decrease foe's Def 30% (1 turn). 3. Increase target's Psy crit taken rate 12% (1 turn).",
+    "desc": "Increase Attack by 29.1%. At the start of each turn, gain Wisdom. Activate even in reserve. Stacks up to 3 times. When a unique skill spends Wisdom, apply the following effects based on the number of stacks spent:\n1: Increase this skill's Psychokinesis damage by 33%.\n2: Decrease foe's Defense by 30% for 1 turn.\n3. Increase target's Psychokinesis critical taken rate by 12% for 1 turn.",
+    "descSimple": "Increase Atk 29.1%. Gain Wisdom at start of each turn (max 3). Activate even in reserve. Based on number of Wisdom spent, apply the following:\n1: Increase this skill's Psy dmg 33%.\n2: Decrease foe's Def 30% (1 turn).\n3. Increase target's Psy crit taken rate 12% (1 turn).",
     "levelUpList": "AAAAAA==",
     "levelUpValue": "AAAAAA==",
     "contentBG": "AAAAAA==",
@@ -25092,8 +25092,8 @@
   {
     "sn": "26043",
     "name": "Karmic Alteration II",
-    "desc": "Increase Attack by 29.1%. At the start of each turn, gain Wisdom. Stacks up to 3 times. When a unique skill spends Wisdom, apply one of the following based on the number of stacks spent: 1: Increase this skill's Psychokinesis damage by 33%. 2: Decrease foe's Defense by 45% for 1 turn. 3. Increase target's Psychokinesis critical taken rate by 12% for 1 turn.",
-    "descSimple": "Increase Atk 29.1%. Gain Wisdom at start of each turn (max 3). Based on number of Wisdom spent, apply one of the following: 1: Increase this skill's Psy dmg 33%. 2: Decrease foe's Def 45% (1 turn). 3. Increase target's Psy crit taken rate 12% (1 turn).",
+    "desc": "Increase Attack by 29.1%. At the start of each turn, gain Wisdom. Activate even in reserve. Stacks up to 3 times. When a unique skill spends Wisdom, apply the following effects based on the number of stacks spent:\n1: Increase this skill's Psychokinesis damage by 33%.\n2: Decrease foe's Defense by 45% for 1 turn.\n3. Increase target's Psychokinesis critical taken rate by 12% for 1 turn.",
+    "descSimple": "Increase Atk 29.1%. Gain Wisdom at start of each turn (max 3). Activate even in reserve. Based on number of Wisdom spent, apply the following:\n1: Increase this skill's Psy dmg 33%.\n2: Decrease foe's Def 45% (1 turn).\n3. Increase target's Psy crit taken rate 12% (1 turn).",
     "levelUpList": "AAAAAA==",
     "levelUpValue": "AAAAAA==",
     "contentBG": "AAAAAA==",
@@ -25102,8 +25102,8 @@
   {
     "sn": "26044",
     "name": "Karmic Alteration III",
-    "desc": "Increase Attack by 29.1%. At the start of each turn, grant Wisdom. Stacks up to 3 times. When a unique skill spends Wisdom, apply one of the following based on the number of stacks spent: 1: Increase this skill's Psychokinesis damage by 33%. 2: Decrease foe's Defense by 45% for 1 turn. 3. Increase target's Psychokinesis critical taken rate by 18% for 1 turn.",
-    "descSimple": "Increase Atk 29.1%. Gain Wisdom at start of each turn (max 3). Based on number of Wisdom spent, apply one of the following: 1: Increase this skill's Psy dmg 33%. 2: Decrease foe's Def 45% (1 turn). 3. Increase target's Psy crit taken rate 18% (1 turn).",
+    "desc": "Increase Attack by 29.1%. At the start of each turn, gain Wisdom. Activate even in reserve. Stacks up to 3 times. When a unique skill spends Wisdom, apply the following effects based on the number of stacks spent:\n1: Increase this skill's Psychokinesis damage by 33%.\n2: Decrease foe's Defense by 45% for 1 turn.\n3. Increase target's Psychokinesis critical taken rate by 18% for 1 turn.",
+    "descSimple": "Increase Atk 29.1%. Gain Wisdom at start of each turn (max 3). Activate even in reserve. Based on number of Wisdom spent, apply the following:\n1: Increase this skill's Psy dmg 33%.\n2: Decrease foe's Def 45% (1 turn).\n3. Increase target's Psy crit taken rate 18% (1 turn).",
     "levelUpList": "AAAAAA==",
     "levelUpValue": "AAAAAA==",
     "contentBG": "AAAAAA==",
@@ -25991,8 +25991,8 @@
   },
   {
     "sn": "6201",
-    "name": "Hell's Inferno",
-    "desc": "Deal Fire damage to all foes and inflict Hellscorched if the target's HP is low. Hellscorched: Take damage equal to 35% of max HP each turn.",
+    "name": "Hellfire",
+    "desc": "Deal Fire damage to all foes and inflict Hellscorched if the target's HP is decreased by this attack. Hellscorched: Take damage equal to 35% of max HP each turn.",
     "descSimple": "AAAAAA==",
     "levelUpList": "AAAAAA==",
     "levelUpValue": "AAAAAA==",
@@ -26470,6 +26470,126 @@
     "skillTag": "Buff"
   },
   {
+    "sn": "6313",
+    "name": "Diarama",
+    "desc": "Restore HP to 1 ally.",
+    "descSimple": "AAAAAA==",
+    "levelUpList": "HP Recovery",
+    "levelUpValue": "AAAAAA==",
+    "contentBG": "AAAAAA==",
+    "skillTag": "Single-Heal"
+  },
+  {
+    "sn": "6318",
+    "name": "Wisdom Theurgy",
+    "desc": "Change all affinities to Resist for the ally with the lowest HP for 2 turns.",
+    "descSimple": "AAAAAA==",
+    "levelUpList": "HP Recovery",
+    "levelUpValue": "AAAAAA==",
+    "contentBG": "AAAAAA==",
+    "skillTag": "Buff"
+  },
+  {
+    "sn": "6319",
+    "name": "Shield Theurgy",
+    "desc": "Grant shield to the party for 2 turns.",
+    "descSimple": "AAAAAA==",
+    "levelUpList": "HP Recovery",
+    "levelUpValue": "AAAAAA==",
+    "contentBG": "AAAAAA==",
+    "skillTag": "Shield"
+  },
+  {
+    "sn": "6332",
+    "name": "Maeigaon",
+    "desc": "Deal Curse damage to all foes equal to <color=#fffc40>^%s^%</color> of Attack. Chance to inflict 1 <link=\"s|112\"><u>Curse</u></link> stack on foes.",
+    "descSimple": "Curse damage to all foes (%s% Atk). Chance to inflict Curse.",
+    "levelUpList": "Dmg Increase",
+    "levelUpValue": "AAAAAA==",
+    "contentBG": "AAAAAA==",
+    "skillTag": "Multi-Target"
+  },
+  {
+    "sn": "6333",
+    "name": "Maeigaon",
+    "desc": "Deal Curse damage to all foes equal to <color=#FFFC40>^%s^%</color> of Attack. Chance to inflict 1 <link=\"s|112\"><u>Curse</u></link> stack on foes.",
+    "descSimple": "Curse damage to all foes (%s% Atk). Chance to inflict Curse.",
+    "levelUpList": "Dmg Increase",
+    "levelUpValue": "AAAAAA==",
+    "contentBG": "AAAAAA==",
+    "skillTag": "Multi-Target"
+  },
+  {
+    "sn": "6334",
+    "name": "Maeigaon",
+    "desc": "Deal Curse damage to all foes equal to <color=#FFFC40>^%s^%</color> of Attack. Chance to inflict 1 <link=\"s|112\"><u>Curse</u></link> stack on foes.",
+    "descSimple": "Curse damage to all foes (%s% Atk). Chance to inflict Curse.",
+    "levelUpList": "Dmg Increase",
+    "levelUpValue": "AAAAAA==",
+    "contentBG": "AAAAAA==",
+    "skillTag": "Multi-Target"
+  },
+  {
+    "sn": "6335",
+    "name": "Maeigaon",
+    "desc": "Deal Curse damage to all foes equal to <color=#fffc40>^%s^%</color> of Attack. Chance to inflict 1 <link=\"s|112\"><u>Curse</u></link> stack on foes.",
+    "descSimple": "Curse damage to all foes (%s% Atk). Chance to inflict Curse.",
+    "levelUpList": "Dmg Increase",
+    "levelUpValue": "AAAAAA==",
+    "contentBG": "AAAAAA==",
+    "skillTag": "Multi-Target"
+  },
+  {
+    "sn": "6336",
+    "name": "Wisdom Theurgy",
+    "desc": "Change all affinities to Null for the ally with the lowest HP for 2 turns.",
+    "descSimple": "AAAAAA==",
+    "levelUpList": "HP Recovery",
+    "levelUpValue": "AAAAAA==",
+    "contentBG": "AAAAAA==",
+    "skillTag": "Buff"
+  },
+  {
+    "sn": "6337",
+    "name": "Wisdom Theurgy",
+    "desc": "Change all affinities to Drain for the ally with the lowest HP for 2 turns.",
+    "descSimple": "AAAAAA==",
+    "levelUpList": "HP Recovery",
+    "levelUpValue": "AAAAAA==",
+    "contentBG": "AAAAAA==",
+    "skillTag": "Buff"
+  },
+  {
+    "sn": "6338",
+    "name": "Shield Theurgy",
+    "desc": "Grant shield to all allies and increase Defense for 2 turns.",
+    "descSimple": "AAAAAA==",
+    "levelUpList": "HP Recovery",
+    "levelUpValue": "AAAAAA==",
+    "contentBG": "AAAAAA==",
+    "skillTag": "Shield"
+  },
+  {
+    "sn": "6339",
+    "name": "Shield Theurgy",
+    "desc": "Grant shield to all allies and increase Defense for 2 turns.",
+    "descSimple": "AAAAAA==",
+    "levelUpList": "HP Recovery",
+    "levelUpValue": "AAAAAA==",
+    "contentBG": "AAAAAA==",
+    "skillTag": "Shield"
+  },
+  {
+    "sn": "6340",
+    "name": "Shield Theurgy",
+    "desc": "Grant shield to all allies and increase Defense for 2 turns.",
+    "descSimple": "AAAAAA==",
+    "levelUpList": "HP Recovery",
+    "levelUpValue": "AAAAAA==",
+    "contentBG": "AAAAAA==",
+    "skillTag": "Shield"
+  },
+  {
     "sn": "8001",
     "name": "Horn of Pestilence",
     "desc": "Inflict Pestilence on 1 random foe.\nPestilence: Decrease max HP by 10% for 3 turns.",
@@ -26512,7 +26632,7 @@
   {
     "sn": "8005",
     "name": "Horn of Ruin",
-    "desc": "Spend Power of Ruin to blow the Horn of Ruin, dealing Almighty damage to all foes (based on the Attack of all Four Horsemen). Grant effects based on number of Power of Ruin stacks spent.\n1 stack: Increase Attack by 25%. 2 stacks: Increase damage by 15%. 3 stacks: Restore HP of all Four Horsemen by 10%. 4 stacks: Make Horn of Ruin a guaranteed critical hit.",
+    "desc": "Spend Power of Ruin to blow the Horn of Ruin, dealing Almighty damage to all foes (based on the Attack of all Four Horsemen). Grant effects based on number of Power of Ruin stacks spent.\n1 stack: Increase Attack by 25%. 2 stacks: Increase damage by 15%. 3 stacks: Restore HP of all Four Horsemen by 10%. 4 stacks: Make Horn of Ruin a guaranteed critical hit.\nWhen in its Dire state, Power of Ruin is not spent.",
     "descSimple": "AAAAAA==",
     "levelUpList": "AAAAAA==",
     "levelUpValue": "AAAAAA==",
@@ -27112,7 +27232,7 @@
   {
     "sn": "2097",
     "name": "Strike Back",
-    "desc": "Deal Physical damage to 1 foe equal to <color=#fffc40>^%s^</color> of Attack.",
+    "desc": "Deal Physical damage to 1 foe equal to <color=#fffc40>^%s^%</color> of Attack.",
     "descSimple": "Phys dmg to 1 foe.",
     "levelUpList": "Dmg Dealt",
     "levelUpValue": "AAAAAA==",
@@ -27562,7 +27682,7 @@
   {
     "sn": "2150",
     "name": "Nuclear Designation",
-    "desc": "Select 1 Andras. The chosen Andras' attacks inflict Nuclear Heat.",
+    "desc": "Select 1 Andras. When the chosen Andras attacks, inflict Nuclear Heat.",
     "descSimple": "AAAAAA==",
     "levelUpList": "AAAAAA==",
     "levelUpValue": "AAAAAA==",
@@ -31041,7 +31161,7 @@
   },
   {
     "sn": "2730",
-    "name": "Anubis' Skills",
+    "name": "Anubis's Skills",
     "desc": "AAAAAA==",
     "descSimple": "AAAAAA==",
     "levelUpList": "AAAAAA==",
@@ -31051,7 +31171,7 @@
   },
   {
     "sn": "2731",
-    "name": "Anubis' Skills",
+    "name": "Anubis's Skills",
     "desc": "AAAAAA==",
     "descSimple": "AAAAAA==",
     "levelUpList": "AAAAAA==",
@@ -31962,7 +32082,7 @@
   {
     "sn": "2897",
     "name": "Spreading Sickness",
-    "desc": "Inflict Plague Origin on 1 ally for 2 turns. Inflict allies of the target with Plague Origin with 2 Plague Curse stacks. When the target is defeated, inflict Pazuzu with 2 Plague Curse stacks.",
+    "desc": "Inflict Plague Origin on 1 ally for 2 turns. The target with Plague Origin inflicts 2 Plague Curse stacks on all foes. When the target is defeated, inflict Pazuzu with 2 Plague Curse stacks.",
     "descSimple": "AAAAAA==",
     "levelUpList": "AAAAAA==",
     "levelUpValue": "AAAAAA==",
@@ -32567,7 +32687,7 @@
     "levelUpList": "AAAAAA==",
     "levelUpValue": "AAAAAA==",
     "contentBG": "AAAAAA==",
-    "skillTag": "Passive,Single-Target"
+    "skillTag": "Passive,Multi-Target"
   },
   {
     "sn": "3305",
@@ -32597,7 +32717,7 @@
     "levelUpList": "AAAAAA==",
     "levelUpValue": "AAAAAA==",
     "contentBG": "AAAAAA==",
-    "skillTag": "Passive,Single-Target"
+    "skillTag": "Passive,Multi-Target"
   },
   {
     "sn": "3311",
@@ -35431,7 +35551,7 @@
   },
   {
     "sn": "5729",
-    "name": "Determination & Duty",
+    "name": "Resolve & Labor",
     "desc": "When equipped by an Elucidator Phantom Thief: After using a skill to inflict a debuff on a foe, decrease target's Defense by <color=%s>10%</color> for 2 turns.",
     "descSimple": "AAAAAA==",
     "levelUpList": "AAAAAA==",
@@ -37601,7 +37721,7 @@
   },
   {
     "sn": "52521",
-    "name": "tdxct-[Skill_name_52521]",
+    "name": "Severance",
     "desc": "Increase Attack by <color=#2899FF>^%s^</color>.",
     "descSimple": "AAAAAA==",
     "levelUpList": "AAAAAA==",
@@ -37611,7 +37731,7 @@
   },
   {
     "sn": "52531",
-    "name": "tdxct-[Skill_name_52531]",
+    "name": "Splitter",
     "desc": "Increase Psychokinesis damage to foes with debuffs by <color=#2899FF>^%s^</color>.",
     "descSimple": "AAAAAA==",
     "levelUpList": "AAAAAA==",
@@ -37621,8 +37741,8 @@
   },
   {
     "sn": "52541",
-    "name": "tdxct-[Skill_name_52541]",
-    "desc": "Increase Attack by <color=#2899FF>^%s^</color>.\nIncrease Attack and ailment accuracy by <color=#2899FF>^%s^</color> for each foe with a debuff (increase up to <color=#2899FF>^%s^</color>).",
+    "name": "Decisive Edge",
+    "desc": "Increase Attack by <color=#2899FF>^%s^</color>.\nIncrease Attack and ailment accuracy by <color=#2899FF>^%s^</color> for each foe with a debuff (up to <color=#2899FF>^%s^</color>).",
     "descSimple": "AAAAAA==",
     "levelUpList": "AAAAAA==",
     "levelUpValue": "AAAAAA==",
@@ -37631,8 +37751,8 @@
   },
   {
     "sn": "52551",
-    "name": "tdxct-[Skill_name_52551]",
-    "desc": "Increase ailment accuracy by <color=#2899FF>^%s^</color>.\nWhen the user has <link=\"s|114\"><u>Marked</u></link>, increase Psychokinesis damage by <color=#2899FF>^%s^</color>. Also, for each Reform stack gained, increase Attack by <color=#2899FF>^%s^</color> for 1 turn.",
+    "name": "Final Judgment",
+    "desc": "Increase ailment accuracy by <color=#2899FF>^%s^</color>.\nWhen Haru has <link=\"s|114\"><u>Target Audience</u></link>, increase Psychokinesis damage by <color=#2899FF>^%s^</color>. Also, for each Thoughtful Round gained, increase Attack by <color=#2899FF>^%s^</color> for 1 turn.",
     "descSimple": "AAAAAA==",
     "levelUpList": "AAAAAA==",
     "levelUpValue": "AAAAAA==",
@@ -38632,7 +38752,7 @@
   {
     "sn": "59011",
     "name": "Read the Stars",
-    "desc": "Increase Attack by <color=#2899FF>^%s^</color>.\nAura - Universal Astrolabe: Gain the following effects based on number of stacks of Guidance.\n5 stacks: Decrease all foes' Defense by <color=#2899FF>^%s^</color>.\n10 stacks: Increase party's ailment accuracy by <color=#2899FF>^%s^</color>.\n15 stacks: Increase party's Psychokinesis damage by <color=#2899FF>^%s^</color>.\nAt the start of battle, gain 10 Guidance stacks, and each time damage is dealt to a foe, gain 1 stack. At the end of user's turn, lose 5 Guidance stacks.",
+    "desc": "Increase Attack by <color=#2899FF>^%s^</color>.\nUniversal Astrolabe (Aura): Gain the following effects based on the number of Guidance stacks.\n5 stacks: Decrease all foes' Defense by <color=#2899FF>^%s^</color>.\n10 stacks: Increase all allies' ailment accuracy by <color=#2899FF>^%s^</color>.\n15 stacks: Increase all allies' Psychokinesis damage by <color=#2899FF>^%s^</color>.\nAt the start of battle, gain 10 stacks of Guidance, for a maximum of 20 stacks. Gain 1 stack of Guidance whenever an ally deals damage to a foe. At the end of the user's turn, lose 5 Guidance stacks.",
     "descSimple": "AAAAAA==",
     "levelUpList": "AAAAAA==",
     "levelUpValue": "AAAAAA==",
@@ -39101,8 +39221,8 @@
   },
   {
     "sn": "53321",
-    "name": "tdxct-[Skill_name_53321]",
-    "desc": "Increase Defense by <color=#2899FF>^%s^</color>. ",
+    "name": "Heartbriar",
+    "desc": "Increase Defense by <color=#2899FF>^%s^</color>.",
     "descSimple": "AAAAAA==",
     "levelUpList": "AAAAAA==",
     "levelUpValue": "AAAAAA==",
@@ -39111,8 +39231,8 @@
   },
   {
     "sn": "53331",
-    "name": "tdxct-[Skill_name_53331]",
-    "desc": "tdxct-[Skill_desc_50931]",
+    "name": "Frostbriar",
+    "desc": "At the start of battle, increase Ashiya's shield by <color=#2899FF>^%s^</color> for 3 turns.",
     "descSimple": "AAAAAA==",
     "levelUpList": "AAAAAA==",
     "levelUpValue": "AAAAAA==",
@@ -39121,8 +39241,8 @@
   },
   {
     "sn": "53341",
-    "name": "tdxct-[Skill_name_53341]",
-    "desc": "tdxct-[Skill_desc_53341]",
+    "name": "Ruthbriar",
+    "desc": "Increase shield by <color=#2899FF>^%s^</color>.\nAlso increase shield granted by Ashiya to allies with less than 60% HP by <color=#2899FF>^%s^</color>.",
     "descSimple": "AAAAAA==",
     "levelUpList": "AAAAAA==",
     "levelUpValue": "AAAAAA==",
@@ -39131,8 +39251,8 @@
   },
   {
     "sn": "53351",
-    "name": "tdxct-[Skill_name_53351]",
-    "desc": "tdxct-[Skill_desc_53351]",
+    "name": "Oathbriar",
+    "desc": "Increase Defense by <color=#2899FF>^%s^</color>.\nIncrease Knight's Protection shield by <color=#2899FF>^%s^</color>.\nAlso increase the target's damage dealt by <color=#2899FF>^%s^</color> for each Knight's Protection shield granted. This effect can stack up to 2 times.",
     "descSimple": "AAAAAA==",
     "levelUpList": "AAAAAA==",
     "levelUpValue": "AAAAAA==",
@@ -39141,7 +39261,7 @@
   },
   {
     "sn": "52125",
-    "name": "tdxct-[Skill_name_52125]",
+    "name": "Dance of the Snowstorm",
     "desc": "Increase Attack by <color=#2899FF>^%s^</color>.",
     "descSimple": "AAAAAA==",
     "levelUpList": "AAAAAA==",
@@ -39151,8 +39271,8 @@
   },
   {
     "sn": "52135",
-    "name": "tdxct-[Skill_name_52135]",
-    "desc": "At the start of battle, increase Wind or Ice damage by <color=#2899FF>^%s^</color> for 3 turns, based on status.",
+    "name": "Winter's Prelude",
+    "desc": "At the start of battle, increase Wind or Ice damage by <color=#2899FF>^%s^</color> for 3 turns, based on current mode.",
     "descSimple": "AAAAAA==",
     "levelUpList": "AAAAAA==",
     "levelUpValue": "AAAAAA==",
@@ -39161,7 +39281,7 @@
   },
   {
     "sn": "52145",
-    "name": "tdxct-[Skill_name_52145]",
+    "name": "Frostblade",
     "desc": "Increase Attack by <color=#2899FF>^%s^</color>. Each time Ice Storm Kotone gains a <link=\"s|212\"><u>Spring's Vestige</u></link> or <link=\"s|213\"><u>Winter's Vestige</u></link> stack, permanently increase Attack by <color=#2899FF>^%s^</color>. This effect can stack up to 10 times.",
     "descSimple": "AAAAAA==",
     "levelUpList": "AAAAAA==",
@@ -39171,7 +39291,7 @@
   },
   {
     "sn": "52146",
-    "name": "tdxct-[Skill_name_52146]",
+    "name": "Frostblade",
     "desc": "AAAAAA==",
     "descSimple": "AAAAAA==",
     "levelUpList": "AAAAAA==",
@@ -39181,8 +39301,8 @@
   },
   {
     "sn": "52155",
-    "name": "tdxct-[Skill_name_52155]",
-    "desc": "Increase Attack by <color=#2899FF>^%s^</color>. Each time Ice Storm Kotone gains a <link=\"s|212\"><u>Spring's Vestige</u></link> or <link=\"s|213\"><u>Winter's Vestige</u></link> stack, increase critical rate by <color=#2899FF>^%s^</color> for 2 turns. This effect can stack up to 3 turns. When activating Spring's Edge or Winter's Edge, increase Wind or Ice damage by <color=#2899FF>^%s^</color> for 2 turns.",
+    "name": "Flight of the Swan",
+    "desc": "Increase Attack by <color=#2899FF>^%s^</color>. Each time Ice Storm Kotone gains a <link=\"s|212\"><u>Spring's Vestige</u></link> or <link=\"s|213\"><u>Winter's Vestige</u></link> stack, increase critical rate by <color=#2899FF>^%s^</color> for 2 turns. This effect can stack up to 3 times. When activating Spring's Edge or Winter's Edge, increase Wind or Ice damage by <color=#2899FF>^%s^</color> for 2 turns.",
     "descSimple": "AAAAAA==",
     "levelUpList": "AAAAAA==",
     "levelUpValue": "AAAAAA==",
@@ -39191,7 +39311,7 @@
   },
   {
     "sn": "52156",
-    "name": "tdxct-[Skill_name_52156]",
+    "name": "Flight of the Swan",
     "desc": "AAAAAA==",
     "descSimple": "AAAAAA==",
     "levelUpList": "AAAAAA==",
@@ -39201,7 +39321,7 @@
   },
   {
     "sn": "52157",
-    "name": "tdxct-[Skill_name_52157]",
+    "name": "Flight of the Swan",
     "desc": "AAAAAA==",
     "descSimple": "AAAAAA==",
     "levelUpList": "AAAAAA==",
@@ -39211,7 +39331,7 @@
   },
   {
     "sn": "52158",
-    "name": "tdxct-[Skill_name_52158]",
+    "name": "Flight of the Swan",
     "desc": "AAAAAA==",
     "descSimple": "AAAAAA==",
     "levelUpList": "AAAAAA==",
