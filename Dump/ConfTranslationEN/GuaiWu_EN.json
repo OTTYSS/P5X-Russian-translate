@@ -429,7 +429,7 @@
     "sn": "515101",
     "name": "Quetzalcoatl",
     "desc": "An Aztec deity known as the Feathered Serpent. He created humans with his own blood and taught them how to sustain themselves.",
-    "strategy": "Quetzalcoatl shares a Soul Link with all Yurlungurs.\nSoul Link: Distributes all damage received between all Shadows who share this condition, based on the percentage of their current HP."
+    "strategy": "1. Quetzalcoatl and all Yurlungurs are in the Soul Link state.\nSoul Link: Distributes all damage received between all Shadows who share this condition, based on the percentage of their current HP.\n2. All Shadows take 20% increased damage from ranged attacks."
   },
   {
     "sn": "515102",
@@ -32023,25 +32023,25 @@
   },
   {
     "sn": "731121",
-    "name": "Shade of Genbu",
+    "name": "Genbu",
     "desc": "-",
     "strategy": "AAAAAA=="
   },
   {
     "sn": "731122",
-    "name": "Shade of Suzaku",
+    "name": "Suzaku",
     "desc": "-",
     "strategy": "AAAAAA=="
   },
   {
     "sn": "731123",
-    "name": "Shade of Byakko",
+    "name": "Byakko",
     "desc": "-",
     "strategy": "AAAAAA=="
   },
   {
     "sn": "731124",
-    "name": "Shade of Seiryu",
+    "name": "Seiryu",
     "desc": "-",
     "strategy": "AAAAAA=="
   },
@@ -40245,7 +40245,7 @@
     "sn": "752051",
     "name": "Black Rider",
     "desc": "One of the Four Horsemen of the Apocalypse, he rides a black horse and carries scales. He brings famine and has the right to end lives through suffering.",
-    "strategy": "1. When Black Rider or Pale Rider take fatal damage, they survive with 1 HP and enter a <color=#72C5FF>False Death</color> state. If both enter the False Death state at the same time, they are defeated.\n2. If either Black Rider or Pale Rider are in a <color=#72C5FF>False Death</color> state at the start of the turn, the other will use a skill to revive them. This will also increase their Attack and ｍax HP.\n3. Black Rider's ability, <color=#72C5FF>Black Dance</color>: Increase the damage dealt by both Riders and decrease their damage taken. Effect lasts until either Rider is defeated.\n<color=#72C5FF>Monochrome Rondeau: Black</color>: After reviving 2 or more times, the Riders will activate Monochrome Rondeau: Black, dealing heavy multi-target damage and inflicting Forget on the Phantom Thief with the lowest current HP."
+    "strategy": "1. When Black Rider or Pale Rider take fatal damage, they survive with 1 HP and enter a <color=#72C5FF>False Death</color> state. If both enter the False Death state at the same time, they are defeated.\n2. If either Black Rider or Pale Rider are in a <color=#72C5FF>False Death</color> state at the start of the turn, the other will use a skill to revive them. This will also increase their Attack and max HP.\n3. Black Rider's ability, <color=#72C5FF>Black Dance</color>: Increase the damage dealt by both Riders and decrease their damage taken. Effect lasts until either Rider is defeated.\n<color=#72C5FF>Monochrome Rondeau: Black</color>: After reviving 2 or more times, the Riders will activate Monochrome Rondeau: Black, dealing heavy multi-target damage and inflicting Forget on the Phantom Thief with the lowest current HP."
   },
   {
     "sn": "752052",
@@ -40455,29 +40455,29 @@
     "sn": "753121",
     "name": "Kohryu",
     "desc": "Known as the Gold Dragon, it reigns over the Ssu-Ling, celestial creatures of Chinese lore. It is located at the center of the four beasts.",
-    "strategy": "During battle, Kohryu will summon Shade of Seiryu, Shade of Byakko, Shade of Suzaku, and Shade of Genbu. When a Shadow is summoned, its corresponding Might is granted to all Shadows on the field. When a Shadow is defeated, the Shadows lose that Might and it is granted to all Phantom Thieves instead.\nSeiryu's Might: Grants a shield equal to 10% of max HP every turn.\nByakko's Might: Increases Attack by 20%.\nSuzaku's Might: Increases damage dealt by 20%.\nGenbu's Might: Increases Defense by 20%."
+    "strategy": "Weaknesses and resistances are different than normal.\nDuring battle, Kohryu will summon Seiryu, Byakko, Suzaku, and Genbu. When a Shadow is summoned, its corresponding Might is granted to all Shadows on the field. When a Shadow is defeated, the Shadows lose that Might and it is granted to all Phantom Thieves instead.\nSeiryu's Might: Grants a shield equal to 10% of max HP every turn.\nByakko's Might: Increases Attack by 20%.\nSuzaku's Might: Increases damage dealt by 20%.\nGenbu's Might: Increases Defense by 20%."
   },
   {
     "sn": "753123",
-    "name": "Shade of Genbu",
+    "name": "Genbu",
     "desc": "One of the Ssu-Ling, celestial creatures in Chinese myth. It represents the direction north, the season of winter, and the element of water. Known to be a great warrior, it supports the Earth from below.",
     "strategy": "AAAAAA=="
   },
   {
     "sn": "753124",
-    "name": "Shade of Suzaku",
+    "name": "Suzaku",
     "desc": "One of the Ssu-Ling, celestial creatures in Chinese myth. It is a giant bird that is said to chirp in five beautiful voices. It represents the direction south, the season of summer, and the element of fire.",
     "strategy": "AAAAAA=="
   },
   {
     "sn": "753125",
-    "name": "Shade of Byakko",
+    "name": "Byakko",
     "desc": "One of the Ssu-Ling, celestial creatures in Chinese myth. It represents the direction west, the season of autumn, and the element of metal. He is believed to be the king of all beasts.",
     "strategy": "AAAAAA=="
   },
   {
     "sn": "753126",
-    "name": "Shade of Seiryu",
+    "name": "Seiryu",
     "desc": "The noblest of the Ssu-Ling creatures of Chinese myth. It represents the direction east, the season of spring, and the element of wood. It dwells in a palace at the bottom of the ocean.",
     "strategy": "AAAAAA=="
   },
@@ -40533,7 +40533,7 @@
     "sn": "753141",
     "name": "Hecatoncheires",
     "desc": "Giants born from Uranus and Gaia. The name means \"those with a hundred arms.\" During the war of the Titans, Zeus freed them from the Underworld to help him obtain victory.",
-    "strategy": "1. At the start of the battle, Hecatoncheires has 100 <color=#72C5FF>Arms of Protection</color> stacks, and takes less damage depending on the number of stacks. When it has Arms of Protection, it also has <color=#72C5FF>Arms of Defense</color>, reducing final damage by 70%.\n2. Hecatoncheires will summon Slime and Black Ooze. When Slime is defeated, it loses 1 <color=#72C5FF>Arms of Protection</color> stack. When Black Ooze is defeated, it loses 10 <color=#72C5FF>Arms of Protection</color> stacks. For each <color=#72C5FF>Arms of Protection</color> stack removed, all Phantom Thieves gain <color=#72C5FF>Arms of Strength</color>. Arms of Strength: Damage increased based on number of stacks.\n3. When Hecatoncheires has 80 or more <color=#72C5FF>Arms of Protection</color> stacks, it becomes invincible and will not attack. It keeps 4 Slimes on the field, and gains 1 <color=#72C5FF>Arms of Might</color> stack every turn. Arms of Might: Damage increased based on number of stacks.\n4. When Hecatoncheires has less than 80 <color=#72C5FF>Arms of Protection</color> stacks, it loses its invincibility and begins to attack. Every turn it summons 2 Black Oozes. When it takes damage, 1 <color=#72C5FF>Arms of Protection</color> stack is removed.\n5. When <color=#72C5FF>Arms of Protection</color> reaches 0, Hecatoncheires enters the Last Stand state. Last Stand: Damage is significantly increased, and attack pattern changes."
+    "strategy": "Shadows have different weaknesses and resistances than normal.\n1. At the start of the battle, Hecatoncheires has 100 <color=#72C5FF>Arms of Protection</color> stacks and reduces its damage taken based on the number of stacks. While it has Arms of Protection, it also reduces its final damage taken by 70% through <color=#72C5FF>Arms of Defense</color>.\n2. Hecatoncheires will summon Slime and Black Ooze. When Slime is defeated, 2 <color=#72C5FF>Arms of Protection</color> stacks are removed. When Black Ooze is defeated, 10 <color=#72C5FF>Arms of Protection</color> stacks are removed. For each <color=#72C5FF>Arms of Protection</color> stack removed, all Phantom Thieves gain <color=#72C5FF>Arms of Strength</color>. Arms of Strength: Increases damage based on the number of stacks.\n3. When Hecatoncheires has 80 or more <color=#72C5FF>Arms of Protection</color> stacks, it becomes invincible and will not attack. It keeps 4 Slimes on the field, and gains 1 <color=#72C5FF>Arms of Might</color> stack every turn. Arms of Might: Increases damage based on the number of stacks.\n4. When Hecatoncheires has less than 80 <color=#72C5FF>Arms of Protection</color> stacks, it loses its invincibility, and begins to attack and summon 2 Black Oozes every turn. When it takes damage, 2 <color=#72C5FF>Arms of Protection</color> stacks are removed.\n5. When <color=#72C5FF>Arms of Protection</color> reaches 0 stacks, Hecatoncheires enters the Last Stand state. Last Stand: Greatly increases final damage and changes the attack pattern."
   },
   {
     "sn": "753142",
@@ -41709,7 +41709,7 @@
     "sn": "901511",
     "name": "Trumpeter",
     "desc": "Angels that sound the trumpets at the time of the apocalypse. As each trumpet sounds, the more plagues and disasters will occur, turning the earth into a land of death and suffering.",
-    "strategy": "These Shadows have no weaknesses or resistances.\n1. At the start of battle, Trumpeter summons 4 Shadows, and becomes invincible. These Shadows share a <color=#72C5FF>Soul Link</color>, and if all four are defeated, Trumpeter will enter its Dire state.\nSoul Link: Distributes all damage received between all Shadows who share this condition, based on the percentage of their current HP.\n2. Trumpeter and the Shadows will sound their horns once every 3 turns. They cannot sound their horns if they are affected by a spiritual ailment.\n3. White Rider: On Trumpeter's command, it will sound the <color=#72C5FF>Horn of Pestilence</color>, decreasing the max HP of 1 random Phantom Thief.\n4. Red Rider: On Trumpeter's command, it will sound the <color=#72C5FF>Horn of War</color>, granting itself the Horn of War status. When this status is active, it will counterattack when attacked. Lasts for 1 turn.\n5. Black Rider: On Trumpeter's command, it will sound the <color=#72C5FF>Horn of Famine</color>, increasing the SP cost of skills for 1 random Phantom Thief.\n6. Pale Rider: On Trumpeter's command, it will sound the <color=#72C5FF>Horn of Death</color>, decreasing the healing effect of all Phantom Thieves' skills, and increasing all Shadows' damage. Lasts for 2 turns.\n7. Trumpeter: Each time a Shadow sounds a horn, Trumpeter gains 1 <color=#72C5FF>Power of Ruin</color> stack. After all the Shadows have been commanded, Trumpeter will prepare for 1 turn before sounding the Horn of Ruin. This will spend all <color=#72C5FF>Power of Ruin</color> stacks to deal Almighty damage to all Phantom Thieves (deals higher damage based on the Attack of all Shadows). Additional effects are based on the number of <color=#72C5FF>Power of Ruin</color> stacks.\n1 stack: Final attack power increases by 25%.\n2 stacks: Damage increases by 15%.\n3 stacks: All Shadows heal 10% of their HP.\n4 stacks: This attack is guaranteed to be a critical hit.\n8. After all Shadows have been defeated once, Trumpeter will enter its Dire state, sacrificing 50% of its own HP to revive the Shadows, and becoming invincible again. The Shadows share a <color=#FF423F>Soul Link</color>, and once they are defeated, Trumpeter will lose its invincibility.\n9. When in its Dire state, Trumpeter does not spend <color=#72C5FF>Power of Ruin</color> when it sounds the <color=#72C5FF>Horn of Ruin</color>, but still gains additional effects based on the number of <color=#72C5FF>Power of Ruin</color> stacks. The number of stacks of <color=#72C5FF>Power of Ruin</color> will increase the damage of all Shadows by a set amount."
+    "strategy": "These Shadows have no weaknesses or resistances.\n1. At the start of battle, Trumpeter summons 4 Shadows, and becomes invincible. These Shadows share a <color=#72C5FF>Soul Link</color>, and if all four are defeated, Trumpeter will enter its Dire state.\nSoul Link: Distributes all damage received between all Shadows who share this condition, based on the percentage of their current HP.\n2. Trumpeter and the Shadows will sound their horns once every 3 turns. They cannot sound their horns if they are affected by a spiritual ailment.\n3. White Rider: On Trumpeter's command, it will sound the <color=#72C5FF>Horn of Pestilence</color>, decreasing the max HP of 1 random Phantom Thief.\n4. Red Rider: On Trumpeter's command, it will sound the <color=#72C5FF>Horn of War</color>, granting itself the Horn of War status. When this status is active, it will counterattack when attacked. Lasts for 1 turn.\n5. Black Rider: On Trumpeter's command, it will sound the <color=#72C5FF>Horn of Famine</color>, increasing the SP cost of skills for 1 random Phantom Thief.\n6. Pale Rider: On Trumpeter's command, it will sound the <color=#72C5FF>Horn of Death</color>, decreasing the healing effect of all Phantom Thieves' skills, and increasing all Shadows' damage. Lasts for 2 turns.\n7. Trumpeter: Each time a Shadow sounds a horn, Trumpeter gains 1 <color=#72C5FF>Power of Ruin</color> stack. After all the Shadows have been commanded, Trumpeter will prepare for 1 turn before sounding the Horn of Ruin. This will spend all <color=#72C5FF>Power of Ruin</color> stacks to deal Almighty damage to all Phantom Thieves (deals higher damage based on the Attack of all Shadows). Additional effects are based on the number of <color=#72C5FF>Power of Ruin</color> stacks.\n1 stack: Final attack power increases by 25%.\n2 stacks: Damage increases by 15%.\n3 stacks: All Shadows heal 10% of their HP.\n4 stacks: This attack is guaranteed to be a critical hit.\n8. After all Shadows have been defeated once, Trumpeter will enter its Dire state, sacrificing 50% of its own HP to revive the Shadows, and becoming invincible again. The Shadows share a <color=#72C5FF>Soul Link</color>, and once they are defeated, Trumpeter will lose its invincibility.\n9. When in its Dire state, Trumpeter does not spend <color=#72C5FF>Power of Ruin</color> when it sounds the <color=#72C5FF>Horn of Ruin</color>, but still gains additional effects based on the number of <color=#72C5FF>Power of Ruin</color> stacks. The number of stacks of <color=#72C5FF>Power of Ruin</color> will increase the damage of all Shadows by a set amount."
   },
   {
     "sn": "901512",
@@ -41967,7 +41967,7 @@
     "sn": "902015",
     "name": "Anubis",
     "desc": "The jackal-headed god of the dead and embalming from Egyptian myth. He weighs the hearts of the dead to determine their final destination.",
-    "strategy": "Shadows have different weaknesses and resistances than normal.\n1. While Dazzling Daylight is active, the final damage that Anubis deals is decreased by 25%, and its final damage taken is increased by 25%. While Obscuring Darkness is active, final damage dealt is increased by 25%, and final damage taken is decreased by 25%.\n2. While Obscuring Darkness is active, Anubis inflicts Curse of Annihilation on 1 random Phantom Thief each turn, after which it inflicts it on the Phantom Thief with the most Curse of Annihilation stacks.\n3. Curse of Annihilation insta-kills when it reaches 4 stacks and can be prioritized for removal. When Anubis is defeated, it deals Curse damage to all Phantom Thieves."
+    "strategy": "Shadows have different weaknesses and resistances than normal.\n1. While Dazzling Daylight is active, the final damage that Anubis deals is decreased by 25%, and its final damage taken is increased by 25%. While Obscuring Darkness is active, final damage dealt is increased by 25%, and final damage taken is decreased by 25%.\n2. While Obscuring Darkness is active, Anubis inflicts Curse of Annihilation on 1 random Phantom Thief each turn, after which it inflicts it on the Phantom Thief with the most Curse of Annihilation stacks. Curse of Annihilation insta-kills when it reaches 4 stacks and can be prioritized for removal.\n3. When Anubis is defeated, it deals Curse damage to all Phantom Thieves."
   },
   {
     "sn": "902021",
@@ -41997,7 +41997,7 @@
     "sn": "902025",
     "name": "Anubis",
     "desc": "The jackal-headed god of the dead and embalming from Egyptian myth. He weighs the hearts of the dead to determine their final destination.",
-    "strategy": "Shadows have different weaknesses and resistances than normal.\n1. While Dazzling Daylight is active, the final damage that Anubis deals is decreased by 25%, and its final damage taken is increased by 25%. While Obscuring Darkness is active, final damage dealt is increased by 25%, and final damage taken is decreased by 25%.\n2. While Obscuring Darkness is active, Anubis inflicts Curse of Annihilation on 1 random Phantom Thief each turn, after which it inflicts it on the Phantom Thief with the most Curse of Annihilation stacks.\n3. Curse of Annihilation insta-kills when it reaches 4 stacks and can be prioritized for removal. When Anubis is defeated, it deals Curse damage to all Phantom Thieves."
+    "strategy": "Shadows have different weaknesses and resistances than normal.\n1. While Dazzling Daylight is active, the final damage that Anubis deals is decreased by 25%, and its final damage taken is increased by 25%. While Obscuring Darkness is active, final damage dealt is increased by 25%, and final damage taken is decreased by 25%.\n2. While Obscuring Darkness is active, Anubis inflicts Curse of Annihilation on 1 random Phantom Thief each turn, after which it inflicts it on the Phantom Thief with the most Curse of Annihilation stacks. Curse of Annihilation insta-kills when it reaches 4 stacks and can be prioritized for removal.\n3. When Anubis is defeated, it deals Curse damage to all Phantom Thieves."
   },
   {
     "sn": "911253",
@@ -45849,13 +45849,13 @@
     "sn": "915501",
     "name": "Avidya",
     "desc": "An unknown person's Shadow. It despises the ignorant and the indifferent, possessing a twisted fixation on offering salvation.",
-    "strategy": "1. Avidya cannot be targeted in the first phase of battle, and will continuously summon Corporobos to fight. After a certain number of Corporobos have been defeated, Avidya will move to the second phase.\n2. Avidya cannot be targeted in the second phase of battle, and will summon a team of powerful Corporobos to fight. When all of the Corporobos have been defeated, Avidya will move to the third phase, where he can be targeted and will not use any skills.\n3. During the battle, Avidya will use Selfless Devotion on randomly selected Corporobos, who will self-destruct after 2 turns, dealing heavy damage to the Phantom Thieves."
+    "strategy": "1. Avidya cannot be targeted in the first phase of battle, and will continuously summon Corporobos to fight. After a certain number of Corporobos have been defeated, Avidya will move to the second phase.\n2. Avidya cannot be targeted in the second phase of battle, and will summon a team of powerful Corporobos to fight. When all of the Corporobos have been defeated, Avidya will move to the third phase, where he can be targeted and will not use any skills.\n3. During the battle, Avidya will use <color=#72C5FF>Sacrifice Order</color> on randomly selected Corporobos, who will self-destruct after 2 turns, dealing heavy damage to the Phantom Thieves."
   },
   {
     "sn": "915502",
     "name": "Avidya",
     "desc": "An unknown person's Shadow. It despises the ignorant and the indifferent, possessing a twisted fixation on offering salvation.",
-    "strategy": "1. Avidya cannot be targeted in the first phase of battle, and will continuously summon Corporobos to fight. After a certain number of Corporobos have been defeated, Avidya will move to the second phase.\n2. Avidya cannot be targeted in the second phase of battle, and will summon a team of powerful Corporobos to fight. When all of the Corporobos have been defeated, Avidya will move to the third phase, where he can be targeted and will not use any skills.\n3. During the battle, Avidya will use Selfless Devotion on randomly selected Corporobos, who will self-destruct after 2 turns, dealing heavy damage to the Phantom Thieves."
+    "strategy": "1. Avidya cannot be targeted in the first phase of battle, and will continuously summon Corporobos to fight. After a certain number of Corporobos have been defeated, Avidya will move to the second phase.\n2. Avidya cannot be targeted in the second phase of battle, and will summon a team of powerful Corporobos to fight. When all of the Corporobos have been defeated, Avidya will move to the third phase, where he can be targeted and will not use any skills.\n3. During the battle, Avidya will use <color=#72C5FF>Sacrifice Order</color> on randomly selected Corporobos, who will self-destruct after 2 turns, dealing heavy damage to the Phantom Thieves."
   },
   {
     "sn": "915503",
@@ -45897,19 +45897,19 @@
     "sn": "915509",
     "name": "Avidya",
     "desc": "An unknown person's Shadow. It despises the ignorant and the indifferent, possessing a twisted fixation on offering salvation.",
-    "strategy": "1. Avidya cannot be targeted in the first phase of battle, and will continuously summon Corporobos to fight. After a certain number of Corporobos have been defeated, Avidya will move to the second phase.\n2. Avidya cannot be targeted in the second phase of battle, and will summon a team of powerful Corporobos to fight. When all of the Corporobos have been defeated, Avidya will move to the third phase, where he can be targeted and will not use any skills.\n3. During the battle, Avidya will use Selfless Devotion on randomly selected Corporobos, who will self-destruct after 2 turns, dealing heavy damage to the Phantom Thieves."
+    "strategy": "1. Avidya cannot be targeted in the first phase of battle, and will continuously summon Corporobos to fight. After a certain number of Corporobos have been defeated, Avidya will move to the second phase.\n2. Avidya cannot be targeted in the second phase of battle, and will summon a team of powerful Corporobos to fight. When all of the Corporobos have been defeated, Avidya will move to the third phase, where he can be targeted and will not use any skills.\n3. During the battle, Avidya will use <color=#72C5FF>Sacrifice Order</color> on randomly selected Corporobos, who will self-destruct after 2 turns, dealing heavy damage to the Phantom Thieves."
   },
   {
     "sn": "915911",
     "name": "Avidya",
     "desc": "An unknown person's Shadow. It despises the ignorant and the indifferent, possessing a twisted fixation on offering salvation.",
-    "strategy": "1. Avidya cannot be targeted in the first phase of battle, and will continuously summon Corporobos to fight. After a certain number of Corporobos have been defeated, Avidya will move to the second phase.\n2. Avidya cannot be targeted in the second phase of battle, and will summon a team of powerful Corporobos to fight. When all of the Corporobos have been defeated, Avidya will move to the third phase, where he can be targeted and will not use any skills.\n3. During the battle, Avidya will use Selfless Devotion on randomly selected Corporobos, who will self-destruct after 2 turns, dealing heavy damage to the Phantom Thieves."
+    "strategy": "1. Avidya cannot be targeted in the first phase of battle, and will continuously summon Corporobos to fight. After a certain number of Corporobos have been defeated, Avidya will move to the second phase.\n2. Avidya cannot be targeted in the second phase of battle, and will summon a team of powerful Corporobos to fight. When all of the Corporobos have been defeated, Avidya will move to the third phase, where he can be targeted and will not use any skills.\n3. During the battle, Avidya will use <color=#72C5FF>Sacrifice Order</color> on randomly selected Corporobos, who will self-destruct after 2 turns, dealing heavy damage to the Phantom Thieves."
   },
   {
     "sn": "915912",
     "name": "Avidya",
     "desc": "An unknown person's Shadow. It despises the ignorant and the indifferent, possessing a twisted fixation on offering salvation.",
-    "strategy": "1. Avidya cannot be targeted in the first phase of battle, and will continuously summon Corporobos to fight. After a certain number of Corporobos have been defeated, Avidya will move to the second phase.\n2. Avidya cannot be targeted in the second phase of battle, and will summon a team of powerful Corporobos to fight. When all of the Corporobos have been defeated, Avidya will move to the third phase, where he can be targeted and will not use any skills.\n3. During the battle, Avidya will use Selfless Devotion on randomly selected Corporobos, who will self-destruct after 2 turns, dealing heavy damage to the Phantom Thieves."
+    "strategy": "1. Avidya cannot be targeted in the first phase of battle, and will continuously summon Corporobos to fight. After a certain number of Corporobos have been defeated, Avidya will move to the second phase.\n2. Avidya cannot be targeted in the second phase of battle, and will summon a team of powerful Corporobos to fight. When all of the Corporobos have been defeated, Avidya will move to the third phase, where he can be targeted and will not use any skills.\n3. During the battle, Avidya will use <color=#72C5FF>Sacrifice Order</color> on randomly selected Corporobos, who will self-destruct after 2 turns, dealing heavy damage to the Phantom Thieves."
   },
   {
     "sn": "915913",
@@ -45951,19 +45951,19 @@
     "sn": "915919",
     "name": "Avidya",
     "desc": "An unknown person's Shadow. It despises the ignorant and the indifferent, possessing a twisted fixation on offering salvation.",
-    "strategy": "1. Avidya cannot be targeted in the first phase of battle, and will continuously summon Corporobos to fight. After a certain number of Corporobos have been defeated, Avidya will move to the second phase.\n2. Avidya cannot be targeted in the second phase of battle, and will summon a team of powerful Corporobos to fight. When all of the Corporobos have been defeated, Avidya will move to the third phase, where he can be targeted and will not use any skills.\n3. During the battle, Avidya will use Selfless Devotion on randomly selected Corporobos, who will self-destruct after 2 turns, dealing heavy damage to the Phantom Thieves."
+    "strategy": "1. Avidya cannot be targeted in the first phase of battle, and will continuously summon Corporobos to fight. After a certain number of Corporobos have been defeated, Avidya will move to the second phase.\n2. Avidya cannot be targeted in the second phase of battle, and will summon a team of powerful Corporobos to fight. When all of the Corporobos have been defeated, Avidya will move to the third phase, where he can be targeted and will not use any skills.\n3. During the battle, Avidya will use <color=#72C5FF>Sacrifice Order</color> on randomly selected Corporobos, who will self-destruct after 2 turns, dealing heavy damage to the Phantom Thieves."
   },
   {
     "sn": "915921",
     "name": "Avidya",
     "desc": "An unknown person's Shadow. It despises the ignorant and the indifferent, possessing a twisted fixation on offering salvation.",
-    "strategy": "1. Avidya cannot be targeted in the first phase of battle, and will continuously summon Corporobos to fight. After a certain number of Corporobos have been defeated, Avidya will move to the second phase.\n2. Avidya cannot be targeted in the second phase of battle, and will summon a team of powerful Corporobos to fight. When all of the Corporobos have been defeated, Avidya will move to the third phase, where he can be targeted and will not use any skills.\n3. During the battle, Avidya will use Selfless Devotion on randomly selected Corporobos, who will self-destruct after 2 turns, dealing heavy damage to the Phantom Thieves."
+    "strategy": "1. Avidya cannot be targeted in the first phase of battle, and will continuously summon Corporobos to fight. After a certain number of Corporobos have been defeated, Avidya will move to the second phase.\n2. Avidya cannot be targeted in the second phase of battle, and will summon a team of powerful Corporobos to fight. When all of the Corporobos have been defeated, Avidya will move to the third phase, where he can be targeted and will not use any skills.\n3. During the battle, Avidya will use <color=#72C5FF>Sacrifice Order</color> on randomly selected Corporobos, who will self-destruct after 2 turns, dealing heavy damage to the Phantom Thieves."
   },
   {
     "sn": "915922",
     "name": "Avidya",
     "desc": "An unknown person's Shadow. It despises the ignorant and the indifferent, possessing a twisted fixation on offering salvation.",
-    "strategy": "1. Avidya cannot be targeted in the first phase of battle, and will continuously summon Corporobos to fight. After a certain number of Corporobos have been defeated, Avidya will move to the second phase.\n2. Avidya cannot be targeted in the second phase of battle, and will summon a team of powerful Corporobos to fight. When all of the Corporobos have been defeated, Avidya will move to the third phase, where he can be targeted and will not use any skills.\n3. During the battle, Avidya will use Selfless Devotion on randomly selected Corporobos, who will self-destruct after 2 turns, dealing heavy damage to the Phantom Thieves."
+    "strategy": "1. Avidya cannot be targeted in the first phase of battle, and will continuously summon Corporobos to fight. After a certain number of Corporobos have been defeated, Avidya will move to the second phase.\n2. Avidya cannot be targeted in the second phase of battle, and will summon a team of powerful Corporobos to fight. When all of the Corporobos have been defeated, Avidya will move to the third phase, where he can be targeted and will not use any skills.\n3. During the battle, Avidya will use <color=#72C5FF>Sacrifice Order</color> on randomly selected Corporobos, who will self-destruct after 2 turns, dealing heavy damage to the Phantom Thieves."
   },
   {
     "sn": "915923",
@@ -46005,19 +46005,19 @@
     "sn": "915929",
     "name": "Avidya",
     "desc": "An unknown person's Shadow. It despises the ignorant and the indifferent, possessing a twisted fixation on offering salvation.",
-    "strategy": "1. Avidya cannot be targeted in the first phase of battle, and will continuously summon Corporobos to fight. After a certain number of Corporobos have been defeated, Avidya will move to the second phase.\n2. Avidya cannot be targeted in the second phase of battle, and will summon a team of powerful Corporobos to fight. When all of the Corporobos have been defeated, Avidya will move to the third phase, where he can be targeted and will not use any skills.\n3. During the battle, Avidya will use Selfless Devotion on randomly selected Corporobos, who will self-destruct after 2 turns, dealing heavy damage to the Phantom Thieves."
+    "strategy": "1. Avidya cannot be targeted in the first phase of battle, and will continuously summon Corporobos to fight. After a certain number of Corporobos have been defeated, Avidya will move to the second phase.\n2. Avidya cannot be targeted in the second phase of battle, and will summon a team of powerful Corporobos to fight. When all of the Corporobos have been defeated, Avidya will move to the third phase, where he can be targeted and will not use any skills.\n3. During the battle, Avidya will use <color=#72C5FF>Sacrifice Order</color> on randomly selected Corporobos, who will self-destruct after 2 turns, dealing heavy damage to the Phantom Thieves."
   },
   {
     "sn": "915931",
     "name": "Avidya",
     "desc": "An unknown person's Shadow. It despises the ignorant and the indifferent, possessing a twisted fixation on offering salvation.",
-    "strategy": "1. Avidya cannot be targeted in the first phase of battle, and will continuously summon Corporobos to fight. After a certain number of Corporobos have been defeated, Avidya will move to the second phase.\n2. Avidya cannot be targeted in the second phase of battle, and will summon a team of powerful Corporobos to fight. When all of the Corporobos have been defeated, Avidya will move to the third phase, where he can be targeted and will not use any skills.\n3. During the battle, Avidya will use Selfless Devotion on randomly selected Corporobos, who will self-destruct after 2 turns, dealing heavy damage to the Phantom Thieves."
+    "strategy": "1. Avidya cannot be targeted in the first phase of battle, and will continuously summon Corporobos to fight. After a certain number of Corporobos have been defeated, Avidya will move to the second phase.\n2. Avidya cannot be targeted in the second phase of battle, and will summon a team of powerful Corporobos to fight. When all of the Corporobos have been defeated, Avidya will move to the third phase, where he can be targeted and will not use any skills.\n3. During the battle, Avidya will use <color=#72C5FF>Sacrifice Order</color> on randomly selected Corporobos, who will self-destruct after 2 turns, dealing heavy damage to the Phantom Thieves."
   },
   {
     "sn": "915932",
     "name": "Avidya",
     "desc": "An unknown person's Shadow. It despises the ignorant and the indifferent, possessing a twisted fixation on offering salvation.",
-    "strategy": "1. Avidya cannot be targeted in the first phase of battle, and will continuously summon Corporobos to fight. After a certain number of Corporobos have been defeated, Avidya will move to the second phase.\n2. Avidya cannot be targeted in the second phase of battle, and will summon a team of powerful Corporobos to fight. When all of the Corporobos have been defeated, Avidya will move to the third phase, where he can be targeted and will not use any skills.\n3. During the battle, Avidya will use Selfless Devotion on randomly selected Corporobos, who will self-destruct after 2 turns, dealing heavy damage to the Phantom Thieves."
+    "strategy": "1. Avidya cannot be targeted in the first phase of battle, and will continuously summon Corporobos to fight. After a certain number of Corporobos have been defeated, Avidya will move to the second phase.\n2. Avidya cannot be targeted in the second phase of battle, and will summon a team of powerful Corporobos to fight. When all of the Corporobos have been defeated, Avidya will move to the third phase, where he can be targeted and will not use any skills.\n3. During the battle, Avidya will use <color=#72C5FF>Sacrifice Order</color> on randomly selected Corporobos, who will self-destruct after 2 turns, dealing heavy damage to the Phantom Thieves."
   },
   {
     "sn": "915933",
@@ -46059,19 +46059,19 @@
     "sn": "915939",
     "name": "Avidya",
     "desc": "An unknown person's Shadow. It despises the ignorant and the indifferent, possessing a twisted fixation on offering salvation.",
-    "strategy": "1. Avidya cannot be targeted in the first phase of battle, and will continuously summon Corporobos to fight. After a certain number of Corporobos have been defeated, Avidya will move to the second phase.\n2. Avidya cannot be targeted in the second phase of battle, and will summon a team of powerful Corporobos to fight. When all of the Corporobos have been defeated, Avidya will move to the third phase, where he can be targeted and will not use any skills.\n3. During the battle, Avidya will use Selfless Devotion on randomly selected Corporobos, who will self-destruct after 2 turns, dealing heavy damage to the Phantom Thieves."
+    "strategy": "1. Avidya cannot be targeted in the first phase of battle, and will continuously summon Corporobos to fight. After a certain number of Corporobos have been defeated, Avidya will move to the second phase.\n2. Avidya cannot be targeted in the second phase of battle, and will summon a team of powerful Corporobos to fight. When all of the Corporobos have been defeated, Avidya will move to the third phase, where he can be targeted and will not use any skills.\n3. During the battle, Avidya will use <color=#72C5FF>Sacrifice Order</color> on randomly selected Corporobos, who will self-destruct after 2 turns, dealing heavy damage to the Phantom Thieves."
   },
   {
     "sn": "915941",
     "name": "Avidya",
     "desc": "An unknown person's Shadow. It despises the ignorant and the indifferent, possessing a twisted fixation on offering salvation.",
-    "strategy": "1. Avidya cannot be targeted in the first phase of battle, and will continuously summon Corporobos to fight. After a certain number of Corporobos have been defeated, Avidya will move to the second phase.\n2. Avidya cannot be targeted in the second phase of battle, and will summon a team of powerful Corporobos to fight. When all of the Corporobos have been defeated, Avidya will move to the third phase, where he can be targeted and will not use any skills.\n3. During the battle, Avidya will use Selfless Devotion on randomly selected Corporobos, who will self-destruct after 2 turns, dealing heavy damage to the Phantom Thieves."
+    "strategy": "1. Avidya cannot be targeted in the first phase of battle, and will continuously summon Corporobos to fight. After a certain number of Corporobos have been defeated, Avidya will move to the second phase.\n2. Avidya cannot be targeted in the second phase of battle, and will summon a team of powerful Corporobos to fight. When all of the Corporobos have been defeated, Avidya will move to the third phase, where he can be targeted and will not use any skills.\n3. During the battle, Avidya will use <color=#72C5FF>Sacrifice Order</color> on randomly selected Corporobos, who will self-destruct after 2 turns, dealing heavy damage to the Phantom Thieves."
   },
   {
     "sn": "915942",
     "name": "Avidya",
     "desc": "An unknown person's Shadow. It despises the ignorant and the indifferent, possessing a twisted fixation on offering salvation.",
-    "strategy": "1. Avidya cannot be targeted in the first phase of battle, and will continuously summon Corporobos to fight. After a certain number of Corporobos have been defeated, Avidya will move to the second phase.\n2. Avidya cannot be targeted in the second phase of battle, and will summon a team of powerful Corporobos to fight. When all of the Corporobos have been defeated, Avidya will move to the third phase, where he can be targeted and will not use any skills.\n3. During the battle, Avidya will use Selfless Devotion on randomly selected Corporobos, who will self-destruct after 2 turns, dealing heavy damage to the Phantom Thieves."
+    "strategy": "1. Avidya cannot be targeted in the first phase of battle, and will continuously summon Corporobos to fight. After a certain number of Corporobos have been defeated, Avidya will move to the second phase.\n2. Avidya cannot be targeted in the second phase of battle, and will summon a team of powerful Corporobos to fight. When all of the Corporobos have been defeated, Avidya will move to the third phase, where he can be targeted and will not use any skills.\n3. During the battle, Avidya will use <color=#72C5FF>Sacrifice Order</color> on randomly selected Corporobos, who will self-destruct after 2 turns, dealing heavy damage to the Phantom Thieves."
   },
   {
     "sn": "915943",
@@ -46113,19 +46113,19 @@
     "sn": "915949",
     "name": "Avidya",
     "desc": "An unknown person's Shadow. It despises the ignorant and the indifferent, possessing a twisted fixation on offering salvation.",
-    "strategy": "1. Avidya cannot be targeted in the first phase of battle, and will continuously summon Corporobos to fight. After a certain number of Corporobos have been defeated, Avidya will move to the second phase.\n2. Avidya cannot be targeted in the second phase of battle, and will summon a team of powerful Corporobos to fight. When all of the Corporobos have been defeated, Avidya will move to the third phase, where he can be targeted and will not use any skills.\n3. During the battle, Avidya will use Selfless Devotion on randomly selected Corporobos, who will self-destruct after 2 turns, dealing heavy damage to the Phantom Thieves."
+    "strategy": "1. Avidya cannot be targeted in the first phase of battle, and will continuously summon Corporobos to fight. After a certain number of Corporobos have been defeated, Avidya will move to the second phase.\n2. Avidya cannot be targeted in the second phase of battle, and will summon a team of powerful Corporobos to fight. When all of the Corporobos have been defeated, Avidya will move to the third phase, where he can be targeted and will not use any skills.\n3. During the battle, Avidya will use <color=#72C5FF>Sacrifice Order</color> on randomly selected Corporobos, who will self-destruct after 2 turns, dealing heavy damage to the Phantom Thieves."
   },
   {
     "sn": "915951",
     "name": "Avidya",
     "desc": "An unknown person's Shadow. It despises the ignorant and the indifferent, possessing a twisted fixation on offering salvation.",
-    "strategy": "1. Avidya cannot be targeted in the first phase of battle, and will continuously summon Corporobos to fight. After a certain number of Corporobos have been defeated, Avidya will move to the second phase.\n2. Avidya cannot be targeted in the second phase of battle, and will summon a team of powerful Corporobos to fight. When all of the Corporobos have been defeated, Avidya will move to the third phase, where he can be targeted and will not use any skills.\n3. During the battle, Avidya will use Selfless Devotion on randomly selected Corporobos, who will self-destruct after 2 turns, dealing heavy damage to the Phantom Thieves."
+    "strategy": "1. Avidya cannot be targeted in the first phase of battle, and will continuously summon Corporobos to fight. After a certain number of Corporobos have been defeated, Avidya will move to the second phase.\n2. Avidya cannot be targeted in the second phase of battle, and will summon a team of powerful Corporobos to fight. When all of the Corporobos have been defeated, Avidya will move to the third phase, where he can be targeted and will not use any skills.\n3. During the battle, Avidya will use <color=#72C5FF>Sacrifice Order</color> on randomly selected Corporobos, who will self-destruct after 2 turns, dealing heavy damage to the Phantom Thieves."
   },
   {
     "sn": "915952",
     "name": "Avidya",
     "desc": "An unknown person's Shadow. It despises the ignorant and the indifferent, possessing a twisted fixation on offering salvation.",
-    "strategy": "1. Avidya cannot be targeted in the first phase of battle, and will continuously summon Corporobos to fight. After a certain number of Corporobos have been defeated, Avidya will move to the second phase.\n2. Avidya cannot be targeted in the second phase of battle, and will summon a team of powerful Corporobos to fight. When all of the Corporobos have been defeated, Avidya will move to the third phase, where he can be targeted and will not use any skills.\n3. During the battle, Avidya will use Selfless Devotion on randomly selected Corporobos, who will self-destruct after 2 turns, dealing heavy damage to the Phantom Thieves."
+    "strategy": "1. Avidya cannot be targeted in the first phase of battle, and will continuously summon Corporobos to fight. After a certain number of Corporobos have been defeated, Avidya will move to the second phase.\n2. Avidya cannot be targeted in the second phase of battle, and will summon a team of powerful Corporobos to fight. When all of the Corporobos have been defeated, Avidya will move to the third phase, where he can be targeted and will not use any skills.\n3. During the battle, Avidya will use <color=#72C5FF>Sacrifice Order</color> on randomly selected Corporobos, who will self-destruct after 2 turns, dealing heavy damage to the Phantom Thieves."
   },
   {
     "sn": "915953",
@@ -46167,19 +46167,19 @@
     "sn": "915959",
     "name": "Avidya",
     "desc": "An unknown person's Shadow. It despises the ignorant and the indifferent, possessing a twisted fixation on offering salvation.",
-    "strategy": "1. Avidya cannot be targeted in the first phase of battle, and will continuously summon Corporobos to fight. After a certain number of Corporobos have been defeated, Avidya will move to the second phase.\n2. Avidya cannot be targeted in the second phase of battle, and will summon a team of powerful Corporobos to fight. When all of the Corporobos have been defeated, Avidya will move to the third phase, where he can be targeted and will not use any skills.\n3. During the battle, Avidya will use Selfless Devotion on randomly selected Corporobos, who will self-destruct after 2 turns, dealing heavy damage to the Phantom Thieves."
+    "strategy": "1. Avidya cannot be targeted in the first phase of battle, and will continuously summon Corporobos to fight. After a certain number of Corporobos have been defeated, Avidya will move to the second phase.\n2. Avidya cannot be targeted in the second phase of battle, and will summon a team of powerful Corporobos to fight. When all of the Corporobos have been defeated, Avidya will move to the third phase, where he can be targeted and will not use any skills.\n3. During the battle, Avidya will use <color=#72C5FF>Sacrifice Order</color> on randomly selected Corporobos, who will self-destruct after 2 turns, dealing heavy damage to the Phantom Thieves."
   },
   {
     "sn": "915961",
     "name": "Avidya",
     "desc": "An unknown person's Shadow. It despises the ignorant and the indifferent, possessing a twisted fixation on offering salvation.",
-    "strategy": "1. Avidya cannot be targeted in the first phase of battle, and will continuously summon Corporobos to fight. After a certain number of Corporobos have been defeated, Avidya will move to the second phase.\n2. Avidya cannot be targeted in the second phase of battle, and will summon a team of powerful Corporobos to fight. When all of the Corporobos have been defeated, Avidya will move to the third phase, where he can be targeted and will not use any skills.\n3. During the battle, Avidya will use Selfless Devotion on randomly selected Corporobos, who will self-destruct after 2 turns, dealing heavy damage to the Phantom Thieves."
+    "strategy": "1. Avidya cannot be targeted in the first phase of battle, and will continuously summon Corporobos to fight. After a certain number of Corporobos have been defeated, Avidya will move to the second phase.\n2. Avidya cannot be targeted in the second phase of battle, and will summon a team of powerful Corporobos to fight. When all of the Corporobos have been defeated, Avidya will move to the third phase, where he can be targeted and will not use any skills.\n3. During the battle, Avidya will use <color=#72C5FF>Sacrifice Order</color> on randomly selected Corporobos, who will self-destruct after 2 turns, dealing heavy damage to the Phantom Thieves."
   },
   {
     "sn": "915962",
     "name": "Avidya",
     "desc": "An unknown person's Shadow. It despises the ignorant and the indifferent, possessing a twisted fixation on offering salvation.",
-    "strategy": "1. Avidya cannot be targeted in the first phase of battle, and will continuously summon Corporobos to fight. After a certain number of Corporobos have been defeated, Avidya will move to the second phase.\n2. Avidya cannot be targeted in the second phase of battle, and will summon a team of powerful Corporobos to fight. When all of the Corporobos have been defeated, Avidya will move to the third phase, where he can be targeted and will not use any skills.\n3. During the battle, Avidya will use Selfless Devotion on randomly selected Corporobos, who will self-destruct after 2 turns, dealing heavy damage to the Phantom Thieves."
+    "strategy": "1. Avidya cannot be targeted in the first phase of battle, and will continuously summon Corporobos to fight. After a certain number of Corporobos have been defeated, Avidya will move to the second phase.\n2. Avidya cannot be targeted in the second phase of battle, and will summon a team of powerful Corporobos to fight. When all of the Corporobos have been defeated, Avidya will move to the third phase, where he can be targeted and will not use any skills.\n3. During the battle, Avidya will use <color=#72C5FF>Sacrifice Order</color> on randomly selected Corporobos, who will self-destruct after 2 turns, dealing heavy damage to the Phantom Thieves."
   },
   {
     "sn": "915963",
@@ -46221,7 +46221,7 @@
     "sn": "915969",
     "name": "Avidya",
     "desc": "An unknown person's Shadow. It despises the ignorant and the indifferent, possessing a twisted fixation on offering salvation.",
-    "strategy": "1. Avidya cannot be targeted in the first phase of battle, and will continuously summon Corporobos to fight. After a certain number of Corporobos have been defeated, Avidya will move to the second phase.\n2. Avidya cannot be targeted in the second phase of battle, and will summon a team of powerful Corporobos to fight. When all of the Corporobos have been defeated, Avidya will move to the third phase, where he can be targeted and will not use any skills.\n3. During the battle, Avidya will use Selfless Devotion on randomly selected Corporobos, who will self-destruct after 2 turns, dealing heavy damage to the Phantom Thieves."
+    "strategy": "1. Avidya cannot be targeted in the first phase of battle, and will continuously summon Corporobos to fight. After a certain number of Corporobos have been defeated, Avidya will move to the second phase.\n2. Avidya cannot be targeted in the second phase of battle, and will summon a team of powerful Corporobos to fight. When all of the Corporobos have been defeated, Avidya will move to the third phase, where he can be targeted and will not use any skills.\n3. During the battle, Avidya will use <color=#72C5FF>Sacrifice Order</color> on randomly selected Corporobos, who will self-destruct after 2 turns, dealing heavy damage to the Phantom Thieves."
   },
   {
     "sn": "915011",
@@ -46533,13 +46533,13 @@
     "sn": "915521",
     "name": "Decarabia",
     "desc": "One of the 72 demons of the Goetia, this demon appears as a pentacle. Keeper of jewels and herbal lore, Decarabia is said to have the ability to shape-shift at will.",
-    "strategy": "1. When Decarabia is defeated, Mara will lose a certain amount of HP.\n2. When Weakened, the damage inflicted on Decarabia will be added to your score."
+    "strategy": "AAAAAA=="
   },
   {
     "sn": "915522",
     "name": "Decarabia",
     "desc": "One of the 72 demons of the Goetia, this demon appears as a pentacle. Keeper of jewels and herbal lore, Decarabia is said to have the ability to shape-shift at will.",
-    "strategy": "1. When Decarabia is defeated, Mara will lose a certain amount of HP.\n2. When Weakened, the damage inflicted on Decarabia will be added to your score."
+    "strategy": "AAAAAA=="
   },
   {
     "sn": "915531",

@@ -187,7 +187,7 @@
   {
     "sn": "203831",
     "title": "Unique Shadow Abilities",
-    "text": "When Nue acts, Nue will gain 1 of the following random effects for 3 turns:\n<color=#FF423F>Monkey Mask</color>: At the end of the turn, heals a certain amount of HP. Heals any elemental ailments.\n<color=#FF423F>Tanuki Form</color>: Gains an 80% dodge chance. Heals any spiritual ailments."
+    "text": "At the start of battle, Nue gains all 5 of the following effects for 3 turns.\n<color=#FF423F>Monkey Mask</color>: At the end of the turn, heals a certain amount of HP. Heals any elemental ailments.\n<color=#FF423F>Tanuki Form</color>: Gains an 80% dodge chance. Heals any spiritual ailments."
   },
   {
     "sn": "203832",
@@ -437,7 +437,7 @@
   {
     "sn": "515101",
     "title": "Special Effect",
-    "text": "Quetzalcoatl shares a <color=#FF423F>Soul Link</color> with all Yurlungurs.\nSoul Link: Distributes all damage received between all Shadows who share this condition, based on the percentage of their current HP."
+    "text": "1. Quetzalcoatl and all Yurlungurs are in the Soul Link state.\nSoul Link: Distributes all damage received between all Shadows who share this condition, based on the percentage of their current HP.\n2. All Shadows take 20% increased damage from long-range attacks."
   },
   {
     "sn": "517101",
@@ -642,7 +642,7 @@
   {
     "sn": "703131",
     "title": "Hecatoncheires",
-    "text": "1. At the start of the battle, Hecatoncheires has 100 <color=#FF423F>Arms of Protection</color> stacks, and takes less damage depending on the number of stacks.\nWhen it has Arms of Protection, it also has <color=#FF423F>Arms of Defense</color>, reducing final damage by 70%."
+    "text": "1. At the start of the battle, Hecatoncheires has 100 <color=#FF423F>Arms of Protection</color> stacks, and reduces its damage taken based on the number of stacks.\nWhile it has Arms of Protection, it also reduces its final damage taken by 70% through <color=#72C5FF>Arms of Defense</color>."
   },
   {
     "sn": "703132",
@@ -872,7 +872,7 @@
   {
     "sn": "753121",
     "title": "Unique Shadow Abilities",
-    "text": "During battle, Kohryu will summon Seiryu, Byakko, Suzaku, and Genbu.\nWhen a Shadow is summoned, its corresponding <color=#FF423F>Might</color> is granted to all Shadows on the field.\nWhen a Shadow is defeated, the Shadows lose that Might and it is granted to all Phantom Thieves instead.\nSeiryu's Might: Grants a shield equal to 10% of max HP every turn.\nByakko's Might: Increases Attack by 20%.\nSuzaku's Might: Increases damage dealt by 20%.\nGenbu's Might: Increases Defense by 20%."
+    "text": "Shadows have different weaknesses and resistances than normal.\nDuring battle, Kohryu will summon Seiryu, Byakko, Suzaku, and Genbu.\nWhen a Shadow is summoned, its corresponding <color=#FF423F>Might</color> is granted to all Shadows on the field.\nWhen a Shadow is defeated, the Shadows lose that Might and it is granted to all Phantom Thieves instead.\nSeiryu's Might: Grants a shield equal to 10% of max HP every turn.\nByakko's Might: Increases Attack by 20%.\nSuzaku's Might: Increases damage dealt by 20%.\nGenbu's Might: Increases Defense by 20%."
   },
   {
     "sn": "753131",
@@ -882,7 +882,7 @@
   {
     "sn": "753141",
     "title": "Hecatoncheires",
-    "text": "1. At the start of the battle, Hecatoncheires has 100 <color=#FF423F>Arms of Protection</color> stacks, and takes less damage depending on the number of stacks. When it has Arms of Protection, it also has <color=#FF423F>Arms of Defense</color>, reducing final damage by 70%.\n2. Hecatoncheires will summon Slime and Black Ooze.\nWhen Slime is defeated, it removes 1 Arms of Protection stack. When Black Ooze is defeated, it removes 10 Arms of Protection stacks.\nFor each Arms of Protection stack removed, all Phantom Thieves gain <color=#FF423F>Arms of Strength</color>.\nArms of Strength: Damage increased based on number of stacks.\n3. When Hecatoncheires has 80 or more Arms of Protection stacks, it becomes invincible and will not attack.\nIt keeps 4 Slimes on the field, and gains 1 <color=#FF423F>Arms of Might</color> stack every turn.\nArms of Might: Damage increased based on number of stacks.\n4. When Hecatoncheires has less than 80 Arms of Protection stacks, it loses its invincibility and begins to attack. Every turn it summons 2 Black Oozes.\nWhen it takes damage, 1 Arms of Protection stack is removed.\n5. When Arms of Protection reaches 0, Hecatoncheires enters the <color=#FF423F>Last Stand</color> state.\nLast Stand: Damage is significantly increased, and attack pattern changes."
+    "text": "Weaknesses and resistances are different than normal.\n1. At the start of the battle, Hecatoncheires has 100 <color=#FF423F>Arms of Protection</color> stacks and reduces its damage taken based on the number of stacks. While it has Arms of Protection, it also reduces final damage taken by 70% through <color=#FF423F>Arms of Defense</color>.\n2. Hecatoncheires will summon Slime and Black Ooze.\nWhen Slime is defeated, 2 Arms of Protection stacks are removed. When Black Ooze is defeated, 10 Arms of Protection stacks are removed.\nFor each Arms of Protection stack removed, all Phantom Thieves gain <color=#FF423F>Arms of Strength</color>.\nArms of Strength: Increases damage based on the number of stacks.\n3. When Hecatoncheires has 80 or more Arms of Protection stacks, it becomes invincible and will not attack.\nDuring this time, it keeps 4 Slimes on the field, and gains 1 <color=#FF423F>Arms of Might</color> stack every turn.\nArms of Might: Increases damage based on the number of stacks.\n4. When Hecatoncheires has less than 80 Arms of Protection stacks, it loses its invincibility, and begins to attack and summon 2 Black Oozes every turn.\nWhen it takes damage, 2 Arms of Protection stacks are removed.\n5. When Arms of Protection reaches 0 stacks, Hecatoncheires enters the <color=#FF423F>Last Stand</color> state.\nLast Stand: Greatly increases final damage and changes the attack pattern."
   },
   {
     "sn": "900111",
@@ -1067,7 +1067,7 @@
   {
     "sn": "731111",
     "title": "Unique Shadow Abilities",
-    "text": "During battle, Kohryu will summon Shade of Seiryu, Shade of Byakko, Shade of Suzaku, and Shade of Genbu.\nWhen a Shadow is summoned, its corresponding Might is granted to all Shadows on the field.\nWhen a Shadow is defeated, the Shadows lose that Might and it is granted to all Phantom Thieves instead.\nSeiryu's Might: Grants a shield equal to 10% of max HP every turn.\nByakko's Might: Increases Attack by 20%.\nSuzaku's Might: Increases damage dealt by 20%.\nGenbu's Might: Increases Defense by 20%."
+    "text": "During battle, Kohryu will summon Seiryu, Byakko, Suzaku, and Genbu.\nWhen a Shadow is summoned, its corresponding Might is granted to all Shadows on the field.\nWhen a Shadow is defeated, the Shadows lose that Might and it is granted to all Phantom Thieves instead.\nSeiryu's Might: Grants a shield equal to 10% of max HP every turn.\nByakko's Might: Increases Attack by 20%.\nSuzaku's Might: Increases damage dealt by 20%.\nGenbu's Might: Increases Defense by 20%."
   },
   {
     "sn": "732111",
@@ -1222,7 +1222,7 @@
   {
     "sn": "829751",
     "title": "Unique Shadow Abilities",
-    "text": "1. White Rider will use <color=#FF423F>White Pestilence</color>.\nWhite Pestilence: All Phantom Thieves lose a certain amount of HP, and 3 random Phantom Thieves are inflicted with <color=#FF423F>Pestilence</color>, causing them to lose a certain amount of HP each turn. Lasts for 3 turns and stacks up to 5 times.\n.\n2. Red Rider will use <color=#FF423F>Red War</color>.\nRed War: Increases damage of all Shadows. Can be stacked. It also has a chance to inflict <color=#FF423F>Rage</color> on 2 random Phantom Thieves. Lasts for 2 turns.\n3. Black Rider will use <color=#FF423F>Black Famine</color>.\nBlack Famine: Inflicts Famine on all targets, decreasing their Attack and increasing their SP cost. Lasts for 1 turn and stacks up to 2 times.\n.\n4. Pale Rider will use <color=#FF423F>Pale Death</color>.\nPale Death: Deals damage based on current HP percentage to 1 target, and inflicts <color=#FF423F>Despair</color>. Lasts for 3 turns.\n5. Trumpeter cannot be targeted and will not attack. Trumpeter will use <color=#FF423F>Horn of the End</color> to instantly activate other Shadows' skills.\n6. If all other Shadows are defeated, Trumpeter will become targetable and begin preparing the <color=#FF423F>Horn of Ruin</color> for 2 turns.\nHorn of Ruin: Sacrifices self to resummon all defeated Shadows, greatly strengthening their abilities and dealing heavy damage to all Phantom Thieves."
+    "text": "1. White Rider will use <color=#FF423F>White Pestilence</color>.\nWhite Pestilence: All Phantom Thieves lose a certain amount of HP, and 3 random Phantom Thieves are inflicted with <color=#FF423F>Pestilence</color>, causing them to lose a certain amount of HP each turn.\nLasts for 3 turns and stacks up to 5 times.\n2. Red Rider will use <color=#FF423F>Red War</color>.\nRed War: Increases damage of all Shadows.\nIt also has a chance to inflict <color=#FF423F>Rage</color> on 2 random Phantom Thieves.\nLasts for 2 turns and can be stacked.\n3. Black Rider will use <color=#FF423F>Black Famine</color>.\nBlack Famine: Inflicts Famine on all targets, decreasing their Attack and increasing their SP cost.\nLasts for 1 turn and stacks up to 2 times.\n4. Pale Rider will use <color=#FF423F>Pale Death</color>.\nPale Death: Deals damage based on current HP percentage to 1 target, and inflicts <color=#FF423F>Despair</color>.\nLasts for 3 turns.\n5. Trumpeter cannot be targeted and will not attack. Trumpeter will use <color=#FF423F>Horn of the End</color> to instantly activate other Shadows' skills.\n6. If all other Shadows are defeated, Trumpeter will become targetable and begin preparing the <color=#FF423F>Horn of Ruin</color> for 2 turns.\nHorn of Ruin: Sacrifices self to resummon all defeated Shadows, greatly strengthening their abilities and dealing heavy damage to all Phantom Thieves."
   },
   {
     "sn": "901311",
@@ -1457,7 +1457,7 @@
   {
     "sn": "914501",
     "title": "Moha",
-    "text": "1. Hell Biker alternates between using <color=#FF423F>Hellfire</color> and <color=#FF423F>Cleansing Flame</color>.\n2. Hellfire: Deal heavy Fire damage to all Phantom Thieves, and inflict <color=#FF423F>Hellscorched</color> if the target's HP is decreased by this attack.\nHellscorched: Take damage equal to 35% of max HP each turn.\n3. Cleansing Flame: Deal heavy Fire damage to the Phantom Thief with the highest Attack, permanently decrease the target's Attack by 50%, and increase Hell Biker's Attack by 30%.\n4. Oni and Hell Biker are in the <color=#FF423F>Soul Link</color> state.\n5. Oni will prioritize attacking the Phantom Thief with the lowest HP."
+    "text": "1. When Moha's HP reaches 0 and it becomes Wrathful Moha, it gains 8 <color=#FF423F>Wrath</color> stacks.\n2. After acting each turn, if Wrathful Moha has taken damage during that turn, its Wrath increases by 4.\nIf it has not taken damage during the turn, its Wrath decreases by 1.\n3. If Wrathful Moha has 12 Wrath stacks at the end of its turn, it will spend all Wrath to activate <color=#FF423F>Rapid Ascent</color>, and on the next turn, use <color=#FF423F>Sphinxian Dive</color> to deal heavy Physical damage to all Phantom Thieves.\n4. When Wrathful Moha is in battle, the Phantom Thieves gain a small amount of <color=#FF423F>Ballista Energy</color> at the end of each turn.\n5. When the Phantom Thieves deal weakness damage to Wrathful Moha, they gain a large amount of Ballista Energy.\nThis can only be activated once per turn.\n6. When the Phantom Thieves have 100 Ballista Energy at the start of their turn, they will spend 100 Ballista Energy to attack Wrathful Moha with a <color=#FF423F>Ballista Shot</color>, putting it in a Weakened state and causing it to lose all Wrath."
   },
   {
     "sn": "921211",
@@ -1482,12 +1482,12 @@
   {
     "sn": "915501",
     "title": "Avidya's Skills",
-    "text": "1. Avidya cannot be targeted in the first phase of battle, and will continuously summon Corporobos to fight the Phantom Thieves.\nAfter a certain number of Corporobos have been defeated, Avidya will move to the second phase.\n2. Avidya cannot be targeted in the second phase of battle, and will summon a team of powerful Corporobos to fight.\nWhen all of the Corporobos have been defeated, Avidya will move to the third phase, where he can be targeted and will not use any skills.\n3. During the battle, Avidya will use <color=#FF423F>Selfless Devotion</color> on randomly selected Corporobos, who will self-destruct after 2 turns, dealing heavy damage to the Phantom Thieves.\n4. Corporobo MDL-CH will use <color=#FF423F>Overtime Order</color> on the Shadow with the highest Attack, granting it an extra turn.\n5. Corporobo MDL-DM will use <color=#FF423F>Performance Evaluation</color> on the Shadow with the lowest Attack, greatly increasing its Attack.\nWhen the effect ends, the Shadow will be promoted to a Corporobo MDL-AM.\n6. Corporobo MDL-GM uses skills to buff and heal Shadows.\n7. Corporobo MDL-ED will use <color=#FF423F>Team-Building Exercise</color> to drain all other Shadows' HP to strengthen itself."
+    "text": "1. Avidya cannot be targeted in the first phase of battle, and will continuously summon Corporobos to fight the Phantom Thieves.\nAfter a certain number of Corporobos have been defeated, Avidya will move to the second phase.\n2. Avidya cannot be targeted in the second phase of battle, and will summon a team of powerful Corporobos to fight.\nWhen all of the Corporobos have been defeated, Avidya will move to the third phase, where he can be targeted and will not use any skills.\n3. During the battle, Avidya will use <color=#FF423F>Selfless Devotion</color> on randomly selected Corporobos, who will self-destruct after 2 turns, dealing heavy damage to the Phantom Thieves.\n4. Corporobo MDL-CH will use <color=#FF423F>Overtime Order</color> on the Shadow with the highest Attack, granting it an extra turn.\n5. Corporobo MDL-DM will use <color=#FF423F>Performance Evaluation</color> on the Shadow with the lowest Attack, greatly increasing its Attack.\nWhen the effect ends, the Shadow will be promoted to a Corporobo MDL-AM.\n6. Corporobo MDL-GM uses <color=#FF423F>Corporate Culture</color>to buff and heal Shadows.\n7. Corporobo MDL-ED will use <color=#FF423F>Team-Building Exercise</color> to drain all other Shadows' HP to strengthen itself."
   },
   {
     "sn": "921511",
-    "title": "Ice Storm Kotone's Skills",
-    "text": "1. Ice Storm Kotone specializes in <color=#FF423F>single-target attacks</color>. During battle, she can switch between <color=#FF423F>Spring Form</color> and <color=#FF423F>Winter Form</color>, allowing her to change the attribute of her skills and Highlight accordingly.\n2. During battle, she can create a barrier to collect Vestiges, and then spend those Vestiges to shatter the barrier and unleash a powerful Resonance on enemies.\n3. While the barrier is open and a Phantom Thief with the same attribute uses skills, more Vestiges can be collected, and Ice Storm Kotone will deal more damage."
+    "title": "Frostgale Kotone's Skills",
+    "text": "1. Frostgale Kotone specializes in <color=#FF423F>single-target attacks</color>. During battle, she can switch between <color=#FF423F>Spring Form</color> and <color=#FF423F>Winter Form</color>, allowing her to change the attribute of her skills and Highlight accordingly.\n2. During battle, she can create a barrier to collect Vestiges, and then spend those Vestiges to shatter the barrier and unleash a powerful Resonance on enemies.\n3. While the barrier is open and a Phantom Thief with the same attribute uses skills, more Vestiges can be collected, and Frostgale Kotone will deal more damage."
   },
   {
     "sn": "934211",

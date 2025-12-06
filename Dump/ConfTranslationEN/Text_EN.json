@@ -401,7 +401,7 @@
   },
   {
     "sn": "1000112",
-    "textContent": "Jackpot! You snagged up all the good items! What's next, sugar? You can keep drawing if you like, or if you want to reset, I can prep a new lineup for you. Wanna reset?"
+    "textContent": "Jackpot! You snagged up the grand prize! What's next, sugar? You can keep drawing if you like, or I can prep a new lineup for you. Wanna reset?"
   },
   {
     "sn": "1000113",
@@ -1677,7 +1677,7 @@
   },
   {
     "sn": "1022064",
-    "textContent": "Select one."
+    "textContent": "Select one from the list."
   },
   {
     "sn": "1022065",
@@ -5545,7 +5545,7 @@
   },
   {
     "sn": "1081026",
-    "textContent": "For every <color=#FFDE00>{0}</color> orange-rarity <color=#FFDE00>{1}</color> Revelation Cards spent, you can inscribe a one-card set of a random <color=#FFDE00>{2}</color> Revelation Card."
+    "textContent": "For every <color=#FFDE00>{0}</color> <color=#FFDE00>{1}</color> Revelation Cards spent, you can inscribe 1 random <color=#FFDE00>{2}</color> Revelation Card."
   },
   {
     "sn": "1081027",
@@ -5565,7 +5565,7 @@
   },
   {
     "sn": "1081031",
-    "textContent": "Do you want to spend <color=#FFDE00>{0}</color> Revelation Cards to change to <color=#FFDE00>{1}</color> cards of the <color=#FFDE00>{2}</color> set?"
+    "textContent": "Do you want to spend <color=#FFDE00>{0}</color> Revelation Cards to inscribe <color=#FFDE00>{1}</color> card(s) of the <color=#FFDE00>{2}</color> set?"
   },
   {
     "sn": "1081032",
@@ -5577,11 +5577,11 @@
   },
   {
     "sn": "1081998",
-    "textContent": "For every <color=#FFDE00>{0}</color> orange-rarity <color=#FFDE00>{1}</color> Revelation Cards spent, you can inscribe one random <color=#FFDE00>{2}</color> Revelation Card."
+    "textContent": "For every <color=#FFDE00>{0}</color> orange-rarity <color=#FFDE00>{1}</color> Revelation Cards spent, you can inscribe 1 random <color=#FFDE00>{2}</color> Revelation Card."
   },
   {
     "sn": "1081999",
-    "textContent": "Do you want to use <color=#FFDE00>{0}</color> Revelation Cards to inscribe<color=#FFDE00>{1}</color> random <color=#FFDE00>{2}</color>-marked Revelation Cards?"
+    "textContent": "Do you want to use <color=#FFDE00>{0}</color> Revelation Cards to inscribe <color=#FFDE00>{1}</color> <color=#FFDE00>{2}</color>-marked Revelation Cards?"
   },
   {
     "sn": "1082001",
@@ -6445,7 +6445,7 @@
   },
   {
     "sn": "1090003",
-    "textContent": "I need to\ngive max. {2} card(s)\nto the {0}."
+    "textContent": "I need to\ngive {2} card(s)\nto the {0}."
   },
   {
     "sn": "2001001",
@@ -12217,7 +12217,7 @@
   },
   {
     "sn": "2002435",
-    "textContent": "Lockable"
+    "textContent": "Unlocked"
   },
   {
     "sn": "2002436",
@@ -12225,7 +12225,7 @@
   },
   {
     "sn": "2002437",
-    "textContent": "Select your customizations."
+    "textContent": "Select \"Create\""
   },
   {
     "sn": "2002483",
@@ -12277,15 +12277,15 @@
   },
   {
     "sn": "2002505",
-    "textContent": "tdxct-[2002505]"
+    "textContent": "*Text Confirmation Test Message\nUsername: <color=#EF0000>%s</color>\nDays since account creation: <color=#EF0000>%s</color>\nUser level: <color=#EF0000>%s</color>\nTotal stamina used: <color=#EF0000>%s</color>\nTotal Action Points used: <color=#EF0000>%s</color>\nTotal money spent: <color=#EF0000>%s</color>"
   },
   {
     "sn": "2002506",
-    "textContent": "tdxct-[2002506]"
+    "textContent": "*Text Confirmation Test Message\nContracted Phantom Thieves (number owned): <color=#EF0000>%s</color>\nMost-used Phantom Thieves (Top 3): <color=#EF0000>%s</color>\nMost-used Phantom Theives total rating (Top 3): <color=#EF0000>%s</color>"
   },
   {
     "sn": "2002507",
-    "textContent": "tdxct-[2002507]"
+    "textContent": "*Text Confirmation Test Message\nSynergies unlocked: <color=#EF0000>%s</color>\nClose Friends: <color=#EF0000>%s</color>\nSoulmates: <color=#EF0000>%s</color>\nHighest Synergy Characters (Top 3): <color=#EF0000>%s</color>\nHighest Synergy Character Ranks (Top 3): <color=#EF0000>%s</color>"
   },
   {
     "sn": "2002508",
@@ -12309,7 +12309,7 @@
   },
   {
     "sn": "2002511",
-    "textContent": "tdxct-[2002511]"
+    "textContent": "<color=#FEC431>%s</color>\nDays played: <color=#FEC431>%s</color> days\nContracted Phantom Thieves: <color=#FEC431>%s</color>"
   },
   {
     "sn": "2002491",
@@ -12333,35 +12333,35 @@
   },
   {
     "sn": "2002515",
-    "textContent": "tdxct-[2002515]"
+    "textContent": "*Text Confirmation Test Message\nAll user records as of December 1, 2025\n\nTotal battles: <color=#EF0000>[12/1 total]</color>\nPowerful Shadows defeated: <color=#EF0000>[12/1 total]</color>\nRegular Shadows defeated: <color=#EF0000>[12/1 total]</color>\nToughest story boss: <color=#EF0000>[12/1 total]</color>\nFailed attempts: <color=#EF0000>[12/1 total]</color>\nToughest Shadow: <color=#EF0000>[12/1 total]</color>\nFailed attempts: <color=#EF0000>[12/1 total]</color>"
   },
   {
     "sn": "2002516",
-    "textContent": "tdxct-[2002516]"
+    "textContent": "*Text Confirmation Test Message\n\nMost-used Persona: <color=#EF0000>[12/1 total]</color>\nMost-used Persona's number of battles: <color=#EF0000>[12/1 total]</color>\n\nMost-used Super Rank or higher Persona: <color=#EF0000>[12/1 total]</color>\nNumber of battles used: <color=#EF0000>[12/1 total]</color>"
   },
   {
     "sn": "2002517",
-    "textContent": "tdxct-[2002517]"
+    "textContent": "*Text Confirmation Test Message\n\nMost-used weapon: <color=#EF0000>[12/1 total]</color>\nNumber of battles used: <color=#EF0000>[12/1 total]</color>"
   },
   {
     "sn": "2002518",
-    "textContent": "tdxct-[2002518]"
+    "textContent": "*Text Confirmation Test Message\n\nCity Life activities: <color=#EF0000>[12/1 total]</color>\nMost popular category: <color=#EF0000>[12/1 total]</color>\nActivities done: <color=#EF0000>[12/1 total]</color>\nMost popular activity name: <color=#EF0000>[12/1 total]</color>\nTimes done <color=#EF0000>[12/1 total]</color>"
   },
   {
     "sn": "2002519",
-    "textContent": "tdxct-[2002519]"
+    "textContent": "*Text Confirmation Test Message\n\nPart-time job shifts worked: <color=#EF0000>[12/1 total]</color>\nMost popular part-time job: <color=#EF0000>[12/1 total]</color>\nMost improved social stat at part-time jobs: <color=#EF0000>[12/1 total]</color>"
   },
   {
     "sn": "2002520",
-    "textContent": "tdxct-[2002520]"
+    "textContent": "*Text Confirmation Test Message\n\nMost-prepared cooking dish: <color=#EF0000>[12/1 total]</color>\nTimes prepared: <color=#EF0000>[12/1 total]</color>"
   },
   {
     "sn": "2002521",
-    "textContent": "tdxct-[2002521]"
+    "textContent": "*Text Confirmation Test Message\n\nTimes outfits changed: <color=#EF0000>[12/1 total]</color>\nMost popular clothes: <color=#EF0000>[12/1 total]</color>\nTotal outfit changes: <color=#EF0000>[12/1 total]</color>"
   },
   {
     "sn": "2002522",
-    "textContent": "tdxct-[2002522]"
+    "textContent": "*Text Confirmation Test Message\n\nMost-obtained capsule toy: <color=#EF0000>[12/1 total]</color>\nComplete set collectors: <color=#EF0000>[12/1 total]</color>"
   },
   {
     "sn": "2002512",
@@ -13362,6 +13362,14 @@
   {
     "sn": "2303517",
     "textContent": "Event Ends in: {0}"
+  },
+  {
+    "sn": "2303512",
+    "textContent": "Maid Haru Set\n<color=#FFFC40>On sale for a limited time in the Shop!</color>"
+  },
+  {
+    "sn": "2303513",
+    "textContent": "Haru-only Outfit: "
   },
   {
     "sn": "2303539",

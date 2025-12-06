@@ -704,7 +704,7 @@
     "name": "Justice Barrier",
     "desc": "Spend 30% of 1 other ally's remaining HP to grant them a shield equal to 80% of HP spent + <color=#FFFC40>^%s^</color> of Kamiyama's Attack + <color=#FFFC40>^%s^</color> for 2 turns.\nAlso grant 1 <link=\"s|128\"><u>Power of Friendship</u></link> stack.",
     "descSimple": "Spend 30% of 1 other ally's remaining HP to grant them shield (80% of HP spent + %s of Kamiyama's Atk + %s, 2 turns).\nAlso grant 1 Power of Friendship.",
-    "levelUpList": "Shield Multiplier,Shield Base Value",
+    "levelUpList": "Shield Multiplier,Base Shield",
     "levelUpValue": "AAAAAA==",
     "contentBG": "The bond of friendship materializes as a shield of justice to protect an ally.",
     "skillTag": "Buff"
@@ -2892,7 +2892,7 @@
   {
     "sn": "125111",
     "name": "Extrasensory Aim",
-    "desc": "Deal Psychokinesis damage to all foes equal to <color=#FFFC40>^%s^</color> of Attack (2 hits). <color=#FFFC40>^%s^</color> chance to inflict 1 <link=\"s|114\"><u>Target Audience</u></link> stack on the main target and <color=#FFFC40>^%s^</color> chance to inflict 1 Target Audience stack on other foes. Then, change Target Audience stacks on foes to Target Audience stacks on Haru and Target Audience's duration to 3 turns. Also gain 1 Focused Shot stack.\nFocused Round: When using a ranged attack with Target Audience, increase skill damage by <color=#FFFC40>^%s^</color>. After the ranged attack, remove all Target Audience stacks granted to Haru.",
+    "desc": "Deal Psychokinesis damage to all foes equal to <color=#FFFC40>^%s^</color> of Attack (2 hits). <color=#FFFC40>^%s^</color> chance to inflict 1 <link=\"s|114\"><u>Target Audience</u></link> stack on the main target and <color=#FFFC40>^%s^</color> chance to inflict 1 Target Audience stack on other foes. Then, change Target Audience stacks on foes to Target Audience stacks on Haru and Target Audience's duration to 3 turns. Also gain 1 Focused Round stack.\nFocused Round: When using a ranged attack with Target Audience, increase skill damage by <color=#FFFC40>^%s^</color>. After the ranged attack, remove all Target Audience stacks granted to Haru.",
     "descSimple": "Psy dmg to all foes (%s Atk, 2 hits). %s chance to inflict 1 Target Audience on main target. %s chance to also inflict 1 Target Audience on other foes. Then, change Target Audience stacks on foe to Target Audience stacks on Haru (3 turns) and gain 1 Focused Round.\nFocused Round: When using ranged attack and granted Target Audience, increase skill dmg by %s; after ranged attack, remove all Target Audience stacks granted to Haru.",
     "levelUpList": "Skill Multiplier,Target Effect Accuracy,Non-Target Effect Accuracy,Skill Dmg Increase",
     "levelUpValue": "AAAAAA==",
@@ -2932,7 +2932,7 @@
   {
     "sn": "125132",
     "name": "Helping Others",
-    "desc": "Permanently gain 1 Area to Improve stack for each Thoughtful Round stack gained. Gain the following effects based on the number of Area to Improve stacks:\n1. Increase ailment accuracy by <color=#FFFC40>^%s^</color> and ailment resistance by <color=#FFFC40>^%s^</color>.\n2. Increase Attack by <color=#FFFC40>^%s^</color> and Defense by <color=#FFFC40>^%s^</color>.\n3. Increase critical damage by <color=#FFFC40>^%s^</color>.",
+    "desc": "Permanently gain 1 Area to Improve stack for each Thoughtful Round stack gained. Gain the following effects based on the number of Area to Improve stacks.\n1 stack: Increase ailment accuracy by <color=#FFFC40>^%s^</color> and ailment resistance by <color=#FFFC40>^%s^</color>.\n2 stacks: Increase Attack by <color=#FFFC40>^%s^</color> and Defense by <color=#FFFC40>^%s^</color>.\n3 stacks: Increase critical damage by <color=#FFFC40>^%s^</color>.",
     "descSimple": "AAAAAA==",
     "levelUpList": "AAAAAA==",
     "levelUpValue": "AAAAAA==",
@@ -3002,7 +3002,7 @@
   {
     "sn": "125146",
     "name": "Heroine of Justice",
-    "desc": "When at 2+ Thoughtful Round stacks, evolve Haru's ranged attacks to Resonating Shots. Also, deal a ranged attack that activates all Thoughtful Round effects once. This additional attack's damage is 50% of the original attack.\nActivate the following effects for Thoughtful Round gained from skills.\nFocused Round: When using a ranged attack, also decrease the foe's ailment resistance by 27% for 2 turns.\nPainpoint Round: When using a ranged attack and Haru has <link=\"s|114\"><u>Target Audience</u></link>, increase pierce rate by 12%.\nSpillover Round: When using a ranged attack and Haru has Target Audience, increase critical rate by 20% and critical damage by 20%.",
+    "desc": "When at 2+ Thoughtful Round stacks, evolve Haru's ranged attacks to Resonating Shots. Also, deal a ranged attack that activates all Thoughtful Round effects once. This additional attack's damage is 70% of the original attack.\nAt 2+ Thoughtful Round stacks, activate the following effects for Thoughtful Round gained from skills.\nFocused Round: When using a ranged attack, also decrease the foe's ailment resistance by 27% for 2 turns.\nPainpoint Round: When using a ranged attack and Haru has <link=\"s|114\"><u>Target Audience</u></link>, increase pierce rate by 12%.\nSpillover Round: When using a ranged attack and Haru has Target Audience, increase critical rate by 20% and critical damage by 20%.",
     "descSimple": "AAAAAA==",
     "levelUpList": "AAAAAA==",
     "levelUpValue": "AAAAAA==",
@@ -3301,7 +3301,7 @@
   },
   {
     "sn": "127142",
-    "name": "For my Big Bro!",
+    "name": "For My Big Bro!",
     "desc": "When an ally's remaining HP is below 30%, grant them a shield equal to 28% of Miyu's Defense + 660 for 2 turns. This effect can be activated once per battle.",
     "descSimple": "AAAAAA==",
     "levelUpList": "AAAAAA==",
@@ -6082,7 +6082,7 @@
   {
     "sn": "121213",
     "name": "Ailes au Vent / Frozen Wings",
-    "desc": "Spring: For 1 turn, activate Spring's Edge, and deal Wind damage to 1 foe equal to <color=#FFFC40>^%s^</color> of Attack (3 hits). While Spring's Edge is active, when allies deal Wind damage with a skill, Highlight, or <link=\"s|100\"><u>Resonance</u></link>, deal Wind damage to the selected target equal to 20% of Ice Storm Kotone's Attack, and gain 1 <link=\"s|212\"><u>Spring's Vestige</u></link> stack. When Spring's Edge ends, spend all Spring's Vestige stacks, and deal Wind damage to the target selected that turn equal to (number of Spring's Vestige stacks + 2) x <color=#FFFC40>^%s^</color> of Attack. This damage is counted as a Resonance.\nWinter: For 1 turn, activate Winter's Edge, and deal Ice damage to 1 foe equal to <color=#FFFC40>^%s^</color> of Attack. While Winter's Edge is active, when an ally takes an attack, grant Glacial Heart to all allies, protecting them from up to <color=#FFFC40>^%s^</color> damage. This effect can be activated up to 2 times. Also, when allies deal Ice damage with a skill, Highlight, or Resonance, gain 1 <link=\"s|213\"><u>Winter's Vestige</u></link> stack. When Winter's Edge ends, spend all Winter's Vestige stacks, and deal Ice damage to the target selected that turn equal to (number of Winter's Vestige stacks + 2) x <color=#FFFC40>^%s^</color> of Attack. This damage is counted as a Resonance.",
+    "desc": "Spring: For 1 turn, activate Spring's Edge, and deal Wind damage to 1 foe equal to <color=#FFFC40>^%s^</color> of Attack (3 hits). While Spring's Edge is active, when allies deal Wind damage with a skill, Highlight, or <link=\"s|100\"><u>Resonance</u></link>, deal Wind damage to the selected target equal to 20% of Frostgale Kotone's Attack, and gain 1 <link=\"s|212\"><u>Spring's Vestige</u></link> stack. When Spring's Edge ends, spend all Spring's Vestige stacks, and deal Wind damage to the target selected that turn equal to (number of Spring's Vestige stacks + 2) x <color=#FFFC40>^%s^</color> of Attack. This damage is counted as a Resonance.\nWinter: For 1 turn, activate Winter's Edge, and deal Ice damage to 1 foe equal to <color=#FFFC40>^%s^</color> of Attack. While Winter's Edge is active, when an ally takes an attack, grant Glacial Heart to all allies, protecting them from up to <color=#FFFC40>^%s^</color> damage. This effect can be activated up to 2 times. Also, when allies deal Ice damage with a skill, Highlight, or Resonance, gain 1 <link=\"s|213\"><u>Winter's Vestige</u></link> stack. When Winter's Edge ends, spend all Winter's Vestige stacks, and deal Ice damage to the target selected that turn equal to (number of Winter's Vestige stacks + 2) x <color=#FFFC40>^%s^</color> of Attack. This damage is counted as a Resonance.",
     "descSimple": "AAAAAA==",
     "levelUpList": "Skill Multiplier,Resonance Multiplier,Skill Multiplier,Shield Rate,Resonance Multiplier",
     "levelUpValue": "AAAAAA==",
@@ -6172,7 +6172,7 @@
   {
     "sn": "121221",
     "name": "Ailes au Vent",
-    "desc": "For 1 turn, activate Spring's Edge, and deal Wind damage to 1 foe equal to <color=#FFFC40>^%s^</color> of Attack (3 hits). While Spring's Edge is active, when allies deal Wind damage with a skill, Highlight, or <link=\"s|100\"><u>Resonance</u></link>, deal Wind damage to the selected target equal to 20% of Ice Storm Kotone's Attack, and gain 1 <link=\"s|212\"><u>Spring's Vestige</u></link> stack. When Spring's Edge ends, spend all Spring's Vestige stacks, and deal Wind damage to the target selected that turn equal to (number of Spring's Vestige stacks + 2) x <color=#FFFC40>^%s^</color> of Attack. This damage is counted as a Resonance.",
+    "desc": "For 1 turn, activate Spring's Edge, and deal Wind damage to 1 foe equal to <color=#FFFC40>^%s^</color> of Attack (3 hits). While Spring's Edge is active, when allies deal Wind damage with a skill, Highlight, or <link=\"s|100\"><u>Resonance</u></link>, deal Wind damage to the selected target equal to 20% of Frostgale Kotone's Attack, and gain 1 <link=\"s|212\"><u>Spring's Vestige</u></link> stack. When Spring's Edge ends, spend all Spring's Vestige stacks, and deal Wind damage to the target selected that turn equal to (number of Spring's Vestige stacks + 2) x <color=#FFFC40>^%s^</color> of Attack. This damage is counted as a Resonance.",
     "descSimple": "For 1 turn, activate Spring's Edge, and Wind dmg to 1 foe (%s Atk, 3 hits). While Spring's Edge is active, when allies deal Wind dmg with skill, Highlight, or Resonance, deal Wind dmg to selected target (20% Atk), and gain 1 Spring's Vestige. When Spring's Edge ends, spend all Spring's Vestige, and deal Wind dmg to target selected that turn ((number of Spring's Vestige + 2) x %s Atk). This damage is counted as a Resonance.",
     "levelUpList": "Spring Multiplier,Spring Resonance Multiplier",
     "levelUpValue": "AAAAAA==",
@@ -6192,7 +6192,7 @@
   {
     "sn": "121240",
     "name": "Swan on the Ice",
-    "desc": "Ice Storm Kotone has 2 modes: Spring and Winter. During battle, when Spring's Edge / Winter's Edge is not active, she can freely change between modes. When changing modes, the attributes of her skills and Highlight change. At the start of battle, she will be in Spring mode, but if more allies in the party have the Ice attribute than Wind attribute, she will be in Winter mode.",
+    "desc": "Frostgale Kotone has 2 modes: Spring and Winter. During battle, when Spring's Edge / Winter's Edge is not active, she can freely change between modes. When changing modes, the attributes of her skills and Highlight change. At the start of battle, she will be in Spring mode, but if more allies in the party have the Ice attribute than Wind attribute, she will be in Winter mode.",
     "descSimple": "tnxotb-[Skill_descSimple_121240]",
     "levelUpList": "AAAAAA==",
     "levelUpValue": "AAAAAA==",
@@ -11041,7 +11041,7 @@
   },
   {
     "sn": "1813",
-    "name": "1 More",
+    "name": "1 MORE",
     "desc": "Deal Fire damage to 1 foe.",
     "descSimple": "Fire dmg to 1 foe.",
     "levelUpList": "Damage",
@@ -18574,7 +18574,7 @@
     "name": "Power of Faith",
     "desc": "Heal 1 ally for <color=#fffc40>^%s^</color> Attack + <color=#fffc40>^%s^</color>. Increase Defense by <color=#fffc40>^%s^</color>. Lasts for 2 turns.",
     "descSimple": "Restore 1 ally's HP (%s Atk + %s). Increase Def %s (2 turns).",
-    "levelUpList": "Skill Multiplier,Defense Increase",
+    "levelUpList": "Skill Multiplier,Def Increase",
     "levelUpValue": "AAAAAA==",
     "contentBG": "AAAAAA==",
     "skillTag": "Single-Heal"
@@ -18624,7 +18624,7 @@
     "name": "Wicked Brand",
     "desc": "Deal Curse damage to all foes equal to <color=#fffc40>^%s^</color> of Attack. Inflict 1-2 <link=\"s|112\"><u>Curse</u></link> stacks.",
     "descSimple": "Curse dmg to all foes (%s Atk). Inflict 1-2 Curse.",
-    "levelUpList": "Skill Multiplier,Defense Decrease,Ailment Resistance Decrease",
+    "levelUpList": "Skill Multiplier,Def Decrease,Ailment Resistance Decrease",
     "levelUpValue": "AAAAAA==",
     "contentBG": "AAAAAA==",
     "skillTag": "Debuff"
@@ -23902,7 +23902,7 @@
   {
     "sn": "16141",
     "name": "Goodwill to All",
-    "desc": "Increase critical rate by 17.5%. Increase <link=\"s|104\"><u>Windswept</u></link> accuracy by 13%. Increase damage to Windswept foes by 13%. When inflicting or resetting Windswept, decrease target's Defense by 32% for 2 turns.",
+    "desc": "Increase critical rate by 17.5%. Increase <link=\"s|105\"><u>Windswept</u></link> accuracy by 13%. Increase damage to Windswept foes by 13%. When inflicting or resetting Windswept, decrease the target's Defense by 32% for 2 turns.",
     "descSimple": "Increase critical rate 17.5%. Increase chance to inflict Windswept 13%. Windswept foes take 13% more dmg. When inflicting or extending Windswept, decrease target's Def 32% (2 turns).",
     "levelUpList": "AAAAAA==",
     "levelUpValue": "AAAAAA==",
@@ -23912,7 +23912,7 @@
   {
     "sn": "16142",
     "name": "Goodwill to All I",
-    "desc": "Increase critical rate by 17.5%. Increase <link=\"s|104\"><u>Windswept</u></link> accuracy by 20%. Increase damage to Windswept foes by 13%. When inflicting or resetting Windswept, decrease target's Defense by 32% for 2 turns.",
+    "desc": "Increase critical rate by 17.5%. Increase <link=\"s|105\"><u>Windswept</u></link> accuracy by 20%. Increase damage to Windswept foes by 13%. When inflicting or resetting Windswept, decrease the target's Defense by 32% for 2 turns.",
     "descSimple": "Increase critical rate 17.5%. Increase chance to inflict Windswept 20%. Windswept foes take 13% more dmg. When inflicting or extending Windswept, decrease target's Def 32% (2 turns).",
     "levelUpList": "AAAAAA==",
     "levelUpValue": "AAAAAA==",
@@ -23922,7 +23922,7 @@
   {
     "sn": "16143",
     "name": "Goodwill to All II",
-    "desc": "Increase critical rate by 17.5%. Increase <link=\"s|104\"><u>Windswept</u></link> accuracy by 20%. Increase damage to Windswept foes by 20%. When inflicting or resetting Windswept, decrease target's Defense by 32% for 2 turns.",
+    "desc": "Increase critical rate by 17.5%. Increase <link=\"s|105\"><u>Windswept</u></link> accuracy by 20%. Increase damage to Windswept foes by 20%. When inflicting or resetting Windswept, decrease the target's Defense by 32% for 2 turns.",
     "descSimple": "Increase critical rate 17.5%. Increase chance to inflict Windswept 20%. Windswept foes take 20% more dmg. When inflicting or extending Windswept, decrease target's Def 32% (2 turns).",
     "levelUpList": "AAAAAA==",
     "levelUpValue": "AAAAAA==",
@@ -23932,7 +23932,7 @@
   {
     "sn": "16144",
     "name": "Goodwill to All III",
-    "desc": "Increase critical rate by 17.5%. Increase <link=\"s|104\"><u>Windswept</u></link> accuracy by 20%. Increase damage to Windswept foes by 20%. When inflicting or resetting Windswept, decrease target's Defense by 48% for 2 turns.",
+    "desc": "Increase critical rate by 17.5%. Increase <link=\"s|105\"><u>Windswept</u></link> accuracy by 20%. Increase damage to Windswept foes by 20%. When inflicting or resetting Windswept, decrease the target's Defense by 48% for 2 turns.",
     "descSimple": "Increase critical rate 17.5%. Increase chance to inflict Windswept 20%. Windswept foes take 20% more dmg. When inflicting or extending Windswept, decrease target's Def 48% (2 turns).",
     "levelUpList": "AAAAAA==",
     "levelUpValue": "AAAAAA==",
@@ -26071,7 +26071,7 @@
   },
   {
     "sn": "6209",
-    "name": "Selfless Devotion",
+    "name": "Sacrifice Order",
     "desc": "Select 1 ally to be given a Sacrifice Order. When the order is fulfilled, the ally self-destructs, dealing heavy damage to all foes.",
     "descSimple": "AAAAAA==",
     "levelUpList": "AAAAAA==",
@@ -30547,7 +30547,7 @@
     "levelUpList": "AAAAAA==",
     "levelUpValue": "AAAAAA==",
     "contentBG": "AAAAAA==",
-    "skillTag": "AAAAAA=="
+    "skillTag": "Single-Target"
   },
   {
     "sn": "2636",
@@ -30557,7 +30557,7 @@
     "levelUpList": "AAAAAA==",
     "levelUpValue": "AAAAAA==",
     "contentBG": "AAAAAA==",
-    "skillTag": "AAAAAA=="
+    "skillTag": "Buff"
   },
   {
     "sn": "2640",
@@ -32777,7 +32777,7 @@
     "levelUpList": "AAAAAA==",
     "levelUpValue": "AAAAAA==",
     "contentBG": "AAAAAA==",
-    "skillTag": "AAAAAA=="
+    "skillTag": "Multi-Target"
   },
   {
     "sn": "3402",
@@ -32787,7 +32787,7 @@
     "levelUpList": "AAAAAA==",
     "levelUpValue": "AAAAAA==",
     "contentBG": "AAAAAA==",
-    "skillTag": "AAAAAA=="
+    "skillTag": "Multi-Target"
   },
   {
     "sn": "3403",
@@ -32797,7 +32797,7 @@
     "levelUpList": "AAAAAA==",
     "levelUpValue": "AAAAAA==",
     "contentBG": "AAAAAA==",
-    "skillTag": "AAAAAA=="
+    "skillTag": "Multi-Heal"
   },
   {
     "sn": "3404",
@@ -32807,7 +32807,7 @@
     "levelUpList": "AAAAAA==",
     "levelUpValue": "AAAAAA==",
     "contentBG": "AAAAAA==",
-    "skillTag": "AAAAAA=="
+    "skillTag": "Single-Target"
   },
   {
     "sn": "3405",
@@ -32897,7 +32897,7 @@
     "levelUpList": "AAAAAA==",
     "levelUpValue": "AAAAAA==",
     "contentBG": "AAAAAA==",
-    "skillTag": "AAAAAA=="
+    "skillTag": "Single-Target"
   },
   {
     "sn": "3415",
@@ -37752,7 +37752,7 @@
   {
     "sn": "52551",
     "name": "Final Judgment",
-    "desc": "Increase ailment accuracy by <color=#2899FF>^%s^</color>.\nWhen Haru has <link=\"s|114\"><u>Target Audience</u></link>, increase Psychokinesis damage by <color=#2899FF>^%s^</color>. Also, for each Thoughtful Round gained, increase Attack by <color=#2899FF>^%s^</color> for 1 turn.",
+    "desc": "Increase ailment accuracy by <color=#2899FF>^%s^</color>.\nWhen dealing Psychokinesis damage, if Haru has <link=\"s|114\"><u>Target Audience</u></link>, increase Psychokinesis damage by <color=#2899FF>^%s^</color>. Also, for each Thoughtful Round gained, increase Attack by <color=#2899FF>^%s^</color> for 1 turn.",
     "descSimple": "AAAAAA==",
     "levelUpList": "AAAAAA==",
     "levelUpValue": "AAAAAA==",
@@ -40627,7 +40627,7 @@
     "levelUpList": "AAAAAA==",
     "levelUpValue": "AAAAAA==",
     "contentBG": "AAAAAA==",
-    "skillTag": "AAAAAA=="
+    "skillTag": "Summon"
   },
   {
     "sn": "3463",

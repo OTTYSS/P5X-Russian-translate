@@ -1659,7 +1659,7 @@
     "sn": "1251052",
     "title": "Unwavering Faith",
     "desc": "Decrease dmg taken by %s.",
-    "BuffDesc": "A<color=#000000>d</color>vancing Courage",
+    "BuffDesc": "U<color=#000000>n</color>wavering Faith",
     "addText": "AAAAAA==",
     "removeText": "AAAAAA==",
     "calText": "AAAAAA=="
@@ -1668,7 +1668,7 @@
     "sn": "1251053",
     "title": "Unwavering Faith",
     "desc": "Increase Psy dmg by %s.",
-    "BuffDesc": "A<color=#000000>d</color>vancing Courage",
+    "BuffDesc": "U<color=#000000>n</color>wavering Faith",
     "addText": "AAAAAA==",
     "removeText": "AAAAAA==",
     "calText": "AAAAAA=="
@@ -1747,7 +1747,7 @@
   },
   {
     "sn": "1251611",
-    "title": "Stat Debuff",
+    "title": "Focused Round",
     "desc": "Decrease ailment resistance by %s.",
     "BuffDesc": "S<color=#000000>t</color>at Debuff",
     "addText": "AAAAAA==",
@@ -2962,9 +2962,9 @@
   },
   {
     "sn": "1301052",
-    "title": "Jazz Session",
+    "title": "From Now On",
     "desc": "Increase ailment accuracy by %s.",
-    "BuffDesc": "J<color=#000000>a</color>zz Session",
+    "BuffDesc": "F<color=#000000>r</color>om Now On",
     "addText": "AAAAAA==",
     "removeText": "AAAAAA==",
     "calText": "AAAAAA=="
@@ -4313,7 +4313,7 @@
   {
     "sn": "1212112",
     "title": "Attack Sequence",
-    "desc": "When Ice Storm Kotone attacks this foe, increase crit dmg.",
+    "desc": "When Frostgale Kotone attacks this foe, increase crit dmg.",
     "BuffDesc": "A<color=#000000>t</color>tack Sequence",
     "addText": "AAAAAA==",
     "removeText": "AAAAAA==",
@@ -12017,7 +12017,7 @@
   {
     "sn": "62631",
     "title": "Attack Position",
-    "desc": "Increase damage by %s",
+    "desc": "Increase dmg by %s.",
     "BuffDesc": "A<color=#000000>t</color>tack Position",
     "addText": "AAAAAA==",
     "removeText": "AAAAAA==",
@@ -12350,7 +12350,7 @@
   {
     "sn": "80071",
     "title": "Power of Death",
-    "desc": "Increase damage by %s.",
+    "desc": "Increase dmg by %s.",
     "BuffDesc": "P<color=#000000>o</color>wer of Death",
     "addText": "AAAAAA==",
     "removeText": "AAAAAA==",
@@ -12359,7 +12359,7 @@
   {
     "sn": "80072",
     "title": "Horn of the End",
-    "desc": "Increase damage by %s.",
+    "desc": "Increase dmg by %s.",
     "BuffDesc": "H<color=#000000>o</color>rn of the End",
     "addText": "AAAAAA==",
     "removeText": "AAAAAA==",
@@ -12377,7 +12377,7 @@
   {
     "sn": "80074",
     "title": "Power of Ruin",
-    "desc": "Increase damage by %s.",
+    "desc": "Increase dmg by %s.",
     "BuffDesc": "AAAAAA==",
     "addText": "AAAAAA==",
     "removeText": "AAAAAA==",
@@ -19865,10 +19865,10 @@
   {
     "sn": "30492",
     "title": "Arms of Defense",
-    "desc": "When Arms of Protection is active, decrease final dmg by %s.",
+    "desc": "When Arms of Protection is active, decrease final dmg taken by %s.",
     "BuffDesc": "A<color=#000000>r</color>ms of Defense",
     "addText": "AAAAAA==",
-    "removeText": "Hecatoncheires lost its Arms of Defense!",
+    "removeText": "AAAAAA==",
     "calText": "AAAAAA=="
   },
   {
@@ -19894,8 +19894,8 @@
     "title": "Unable to Select",
     "desc": "Cannot be targeted by enemy skills.",
     "BuffDesc": "U<color=#000000>n</color>able to Select",
-    "addText": "Hecatoncheires cannot be targeted!\nDestroy 10 Arms to remove condition...",
-    "removeText": "Hecatoncheires can now be targeted!",
+    "addText": "AAAAAA==",
+    "removeText": "AAAAAA==",
     "calText": "AAAAAA=="
   },
   {
@@ -23374,7 +23374,7 @@
   },
   {
     "sn": "525411",
-    "title": "Stat Buff",
+    "title": "Decisive Edge",
     "desc": "Increase ailment accuracy by %s.",
     "BuffDesc": "AAAAAA==",
     "addText": "AAAAAA==",
@@ -23383,7 +23383,7 @@
   },
   {
     "sn": "525412",
-    "title": "Stat Buff",
+    "title": "Decisive Edge",
     "desc": "Increase Atk by %s.",
     "BuffDesc": "AAAAAA==",
     "addText": "AAAAAA==",
@@ -24432,6 +24432,15 @@
     "BuffDesc": "D<color=#000000>e</color>monic Curse",
     "addText": "All affinities changed to Weak!",
     "removeText": "All affinities reverted!",
+    "calText": "AAAAAA=="
+  },
+  {
+    "sn": "5151011",
+    "title": "Ranged Attack Damage Taken Up",
+    "desc": "Increase ranged attack dmg taken by %s.",
+    "BuffDesc": "AAAAAA==",
+    "addText": "AAAAAA==",
+    "removeText": "AAAAAA==",
     "calText": "AAAAAA=="
   },
   {
@@ -26259,6 +26268,15 @@
     "BuffDesc": "AAAAAA==",
     "addText": "Affinities changed!",
     "removeText": "Affinities reverted!",
+    "calText": "AAAAAA=="
+  },
+  {
+    "sn": "511521",
+    "title": "AAAAAA==",
+    "desc": "AAAAAA==",
+    "BuffDesc": "AAAAAA==",
+    "addText": "Damage taken decreased!",
+    "removeText": "AAAAAA==",
     "calText": "AAAAAA=="
   },
   {

@@ -1412,12 +1412,12 @@
   {
     "sn": "1014",
     "name": "Special Effect",
-    "desc": "When an ally gains a shield, they also gain Charge Field. An ally can also gain Charge Field when they deal weakness damage.\nCharge Field: Final damage increases by 5%. Lasts for 2 turns. Stacks up to 8 times."
+    "desc": "When an ally gains a shield, they also gain Charge Field. An ally can also gain Charge Field when they deal weakness damage.\nCharge Field: Increase final damage by 5%. This effect lasts for 2 turns and stacks up to 8 times."
   },
   {
     "sn": "1015",
     "name": "Special Effect",
-    "desc": "When an ally deals weakness damage, they gain 4 Charge Field stacks. An ally can also gain 1 Charge Field stack when they gain a shield.\nCharge Field: Final damage increases by 5%. Lasts for 1 turns. Stacks up to 8 times."
+    "desc": "If an ally deals weakness damage, they gain 4 Charge Field stacks at the end of their action.\nCharge Field: Increase final damage by 5%. This effect lasts 2 turns and can stack up to 8 times."
   },
   {
     "sn": "1016",
@@ -1742,7 +1742,7 @@
   {
     "sn": "5003",
     "name": "Special Effect",
-    "desc": "When an ally uses a <color=#FFFC40>Highlight</color>, gain 1 Blazing Starfire stack. When Blazing Starfire reaches 4 stacks, spend all Blazing Starfire and activate Sparkling Stage.\nSparkling Stage: Randomly grants 10 buffs to allies. Each buff will be 1 of the following effects:\nIncrease Attack by 15%.\nIncrease Defense by 22.5%.\nIncrease max HP by 15%.\nIncrease damage by 12%.\nIncrease ailment accuracy by 18%.\nIncrease pierce rate by 6%.\nIncrease critical rate by 9%.\nIncrease critical damage by 18%.\nIncrease pierce resistance by 7.5%.\nIncrease weakness damage by 6%."
+    "desc": "<size=26>When allies use a <color=#FFFC40>Highlight</color>, gain 1 Blazing Starfire. When Blazing Starfire reaches 4 stacks, spend all Blazing Starfire and activate Sparkling Stage.\nSparkling Stage: Randomly grants 10 of the following buffs to allies. For each buff, the target ally and effect will be chosen at random.\nIncrease Attack by 15%, increase Defense by 22.5%, increase max HP by 15%, increase damage by 12%, increase ailment accuracy by 18%, increase pierce rate by 6%, increase critical rate by 9%, increase critical damage by 18%, increase resistance pierce rate by 7.5%, or increase weakness damage by 6%.</size>"
   },
   {
     "sn": "6001",
@@ -2072,7 +2072,7 @@
   {
     "sn": "7074",
     "name": "Special Effect",
-    "desc": "When Avidya uses Selfless Devotion, it selects 2 allies at once and greatly increases their self-destruct damage."
+    "desc": "When Avidya uses Sacrifice Order, it selects 2 allies at once and greatly increases their self-destruct damage."
   },
   {
     "sn": "7075",

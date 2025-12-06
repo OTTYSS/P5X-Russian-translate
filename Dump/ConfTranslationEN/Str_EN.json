@@ -4844,6 +4844,13 @@
     "option2": "AAAAAA=="
   },
   {
+    "sn": "18034",
+    "strContent": "Online mode of Tycoon is currently not available. Suspension period: %s d",
+    "option1": "AAAAAA==",
+    "showName": "AAAAAA==",
+    "option2": "AAAAAA=="
+  },
+  {
     "sn": "19001",
     "strContent": "Obtain the record item %s to unlock.",
     "option1": "AAAAAA==",
@@ -5902,21 +5909,21 @@
   },
   {
     "sn": "1000437",
-    "strContent": "All sub-attributes are locked and cannot be updated.",
+    "strContent": "All sub-attributes are locked and cannot be changed.",
     "option1": "AAAAAA==",
     "showName": "AAAAAA==",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1000438",
-    "strContent": "Unlocks after previous Revelation Card has been customized.",
+    "strContent": "Unlocks after the previous Revelation Card has been customized.",
     "option1": "AAAAAA==",
     "showName": "AAAAAA==",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1000439",
-    "strContent": "Do you want to spend <color=#FFDE00>{0} x{1}</color> to reset all unlocked sub-attributes and refresh effects?",
+    "strContent": "Do you want to spend <color=#FFDE00>{0} x{1}</color> to reset all unlocked sub-attributes and change the effects?",
     "option1": "Cancel",
     "showName": "AAAAAA==",
     "option2": "Never mind."
@@ -6350,7 +6357,7 @@
   },
   {
     "sn": "1000459",
-    "strContent": "Random main attributes for the mark {0} include the following: {1}",
+    "strContent": "Random main attributes for {0}-marked cards include the following: {1}",
     "option1": "AAAAAA==",
     "showName": "AAAAAA==",
     "option2": "AAAAAA=="
@@ -10501,7 +10508,7 @@
   },
   {
     "sn": "1019221",
-    "strContent": "Should I go with Kotone?",
+    "strContent": "Would you like to spend time with Kotone?",
     "option1": "Spend time with Kotone",
     "showName": "AAAAAA==",
     "option2": "I have plans today..."
@@ -12314,7 +12321,7 @@
   },
   {
     "sn": "1036028",
-    "strContent": "Unlocks after completing {0} Task {1}. <color=#FFDE00>Progressing in Tomoko Noge's Synergy story will provide a better experience.</color>",
+    "strContent": "Clear {0}: {1} to unlock. <color=#FFDE00>Play through Tomoko Noge's Synergy to further enjoy the story.</color>",
     "option1": "AAAAAA==",
     "showName": "AAAAAA==",
     "option2": "AAAAAA=="
@@ -14190,7 +14197,7 @@
   },
   {
     "sn": "1047249",
-    "strContent": "You have not yet cleared Episode 4-10 of the Pyramid Arc. This mode may impact your experience of the story. Do you still wish to continue?",
+    "strContent": "You have not yet cleared Episode 5-10 of the Spaceport Arc. This mode may impact your experience of the story. Do you still wish to continue?",
     "option1": "Confirm",
     "showName": "L<#000000,u,#FFFFFF>fel",
     "option2": "Never mind."
@@ -19650,7 +19657,7 @@
   },
   {
     "sn": "1088017",
-    "strContent": "Um, big bro...\nI think it's about time you took a break.",
+    "strContent": "Um, Big Bro...\nI think it's about time you took a break.",
     "option1": "AAAAAA==",
     "showName": "Miyu Sahara",
     "option2": "AAAAAA=="
@@ -21134,7 +21141,7 @@
   },
   {
     "sn": "1080016",
-    "strContent": "In recommended contracts, you can lock <color=#FF423F>3</color> Phantom Thieves.\nOnce the contract is confirmed, <color=#FF423F>{0}</color>{0} will have <color=#FF423F>one lock applied</color>.\nWould you like to start the contract?\nCaution: When the card pool is active, the only UP characters that can be selected will be from the 3 locked Phantom Thieves, so please choose carefully.",
+    "strContent": "In Partners in Crime, you can select three Most Wanted Phantom Thieves from a lineup of exclusive 5★ Phantom Thieves.\nOnce you begin drawing for each Phantom Thief, they will become the selected character and you will not be able to change that Phantom Thief.\nWould you like to begin the contract?\n*The 5★ Phantom Thieves selection is shared between \"chance\" and \"targeted.\"",
     "option1": "Confirm",
     "showName": "L<#000000,u,#FFFFFF>fel",
     "option2": "Never mind."
@@ -25978,35 +25985,35 @@
   },
   {
     "sn": "1204081",
-    "strContent": "Hey, big bro...\nPlease, wake up!",
+    "strContent": "Hey, Big Bro...\nPlease, wake up!",
     "option1": "AAAAAA==",
     "showName": "AAAAAA==",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1204082",
-    "strContent": "Whaaa!? Big bro!",
+    "strContent": "Whaaa!? Big Bro!",
     "option1": "AAAAAA==",
     "showName": "AAAAAA==",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1204083",
-    "strContent": "Keep it together, big bro!",
+    "strContent": "Keep it together, Big Bro!",
     "option1": "AAAAAA==",
     "showName": "AAAAAA==",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1204084",
-    "strContent": "Big bro...! Someone, help him!",
+    "strContent": "Big Bro...! Someone, help him!",
     "option1": "AAAAAA==",
     "showName": "AAAAAA==",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1204091",
-    "strContent": "B-Big bro!? You're hurt!\nPlease be careful!",
+    "strContent": "B-Big Bro!? You're hurt!\nPlease be careful!",
     "option1": "AAAAAA==",
     "showName": "AAAAAA==",
     "option2": "AAAAAA=="
@@ -26090,7 +26097,7 @@
   },
   {
     "sn": "1204151",
-    "strContent": "That's my big bro!",
+    "strContent": "That's my Big Bro!",
     "option1": "AAAAAA==",
     "showName": "AAAAAA==",
     "option2": "AAAAAA=="
@@ -26223,7 +26230,7 @@
   },
   {
     "sn": "1204281",
-    "strContent": "Ready to go, big bro!",
+    "strContent": "Ready to go, Big Bro!",
     "option1": "AAAAAA==",
     "showName": "AAAAAA==",
     "option2": "AAAAAA=="
@@ -26237,7 +26244,7 @@
   },
   {
     "sn": "1204283",
-    "strContent": "Ready when you are, big bro!",
+    "strContent": "Ready when you are, Big Bro!",
     "option1": "AAAAAA==",
     "showName": "AAAAAA==",
     "option2": "AAAAAA=="
@@ -26307,7 +26314,7 @@
   },
   {
     "sn": "1204314",
-    "strContent": "Big bro, I'm so glad...\nI was seriously about to cry!",
+    "strContent": "Big Bro, I'm so glad...\nI was seriously about to cry!",
     "option1": "AAAAAA==",
     "showName": "AAAAAA==",
     "option2": "AAAAAA=="
@@ -26370,7 +26377,7 @@
   },
   {
     "sn": "1206003",
-    "strContent": "You unlocked the City Life activity\n<color=#ffc000>Talk to Hiyori Koide</color>.\nThere is a chance for it to appear each day.",
+    "strContent": "You unlocked the City Life activity\n<color=#ffc000>Talk to Hiyori</color>.\nThere is a chance for it to appear each day.",
     "option1": "AAAAAA==",
     "showName": "AAAAAA==",
     "option2": "AAAAAA=="
@@ -26412,7 +26419,7 @@
   },
   {
     "sn": "1206009",
-    "strContent": "You unlocked the City Life activity Talk with Shishida.\nThere is a chance for it to appear each day.",
+    "strContent": "You unlocked the City Life activity\n<color=#ffc000>Talk to Shishida</color>.\nThere is a chance for it to appear each day.",
     "option1": "AAAAAA==",
     "showName": "AAAAAA==",
     "option2": "AAAAAA=="
@@ -27735,14 +27742,14 @@
   },
   {
     "sn": "1213002",
-    "strContent": "You have already acquired all individual Popper rewards.",
+    "strContent": "You have already acquired all Celebratory Popper rewards.",
     "option1": "AAAAAA==",
     "showName": "AAAAAA==",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1214001",
-    "strContent": "Are you sure you want to end?\n*After ending, you will be able to review Commemorative Brochures.\n*After you've finished viewing, you can share Commemorative Brochures and receive sharing rewards.",
+    "strContent": "Are you sure you want to finish viewing?\nYou will be able to watch your rewind again.\nAfter you've finished viewing, you can share your rewind to receive rewards.",
     "option1": "Confirm",
     "showName": "L<#000000,u,#FFFFFF>fel",
     "option2": "Never mind."
@@ -30619,7 +30626,7 @@
   },
   {
     "sn": "1209458",
-    "strContent": "There are still some unclaimed prizes left. Do you want to spin this raffle?",
+    "strContent": "You still haven't claimed the grand prize. Do you want to spin this raffle?",
     "option1": "AAAAAA==",
     "showName": "AAAAAA==",
     "option2": "AAAAAA=="
@@ -30752,14 +30759,14 @@
   },
   {
     "sn": "1132116",
-    "strContent": "Big bro! I'm baaack!",
+    "strContent": "Big Bro! I'm baaack!",
     "option1": "AAAAAA==",
     "showName": "Miyu Sahara",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1132117",
-    "strContent": "Big bro! I found some\ngood stuff!",
+    "strContent": "Big Bro! I found some\ngood stuff!",
     "option1": "AAAAAA==",
     "showName": "Miyu Sahara",
     "option2": "AAAAAA=="
@@ -30832,6 +30839,153 @@
     "strContent": "I'm gonna have fun with\nthis one.",
     "option1": "AAAAAA==",
     "showName": "Ayaka Sakai",
+    "option2": "AAAAAA=="
+  },
+  {
+    "sn": "1157451",
+    "strContent": "INTRUDERS DETECTED!",
+    "option1": "AAAAAA==",
+    "showName": "AAAAAA==",
+    "option2": "AAAAAA=="
+  },
+  {
+    "sn": "1157452",
+    "strContent": "INTRUDERS DETECTED. ENGAGING INTERCEPTOR SEQUENCE!",
+    "option1": "AAAAAA==",
+    "showName": "AAAAAA==",
+    "option2": "AAAAAA=="
+  },
+  {
+    "sn": "1157453",
+    "strContent": "HALT! HALT!",
+    "option1": "AAAAAA==",
+    "showName": "AAAAAA==",
+    "option2": "AAAAAA=="
+  },
+  {
+    "sn": "1157454",
+    "strContent": "TARGET LOCKED. COMMENCING PURSUIT!",
+    "option1": "AAAAAA==",
+    "showName": "AAAAAA==",
+    "option2": "AAAAAA=="
+  },
+  {
+    "sn": "1157455",
+    "strContent": "TARGET SIGNAL LOST.",
+    "option1": "AAAAAA==",
+    "showName": "AAAAAA==",
+    "option2": "AAAAAA=="
+  },
+  {
+    "sn": "1157456",
+    "strContent": "INTRUDERS HAVE EXITED DETECTABLE RANGE.",
+    "option1": "AAAAAA==",
+    "showName": "AAAAAA==",
+    "option2": "AAAAAA=="
+  },
+  {
+    "sn": "1157457",
+    "strContent": "ENTERING SAFE MODE...",
+    "option1": "AAAAAA==",
+    "showName": "AAAAAA==",
+    "option2": "AAAAAA=="
+  },
+  {
+    "sn": "1157458",
+    "strContent": "NOTHING TO REPORT. CONTINUING PATROL MODE.",
+    "option1": "AAAAAA==",
+    "showName": "AAAAAA==",
+    "option2": "AAAAAA=="
+  },
+  {
+    "sn": "1157459",
+    "strContent": "INTRUDERS SHALL BE ELIMINATED UPON DISCOVERY.",
+    "option1": "AAAAAA==",
+    "showName": "AAAAAA==",
+    "option2": "AAAAAA=="
+  },
+  {
+    "sn": "1157460",
+    "strContent": "ALERT MODE. INTRUDER SEARCH TOP PRIORITY.",
+    "option1": "AAAAAA==",
+    "showName": "AAAAAA==",
+    "option2": "AAAAAA=="
+  },
+  {
+    "sn": "1157461",
+    "strContent": "MAINTAINING PROTECTION AND PATROL.",
+    "option1": "AAAAAA==",
+    "showName": "AAAAAA==",
+    "option2": "AAAAAA=="
+  },
+  {
+    "sn": "1157462",
+    "strContent": "GUARD MODE. PROTECTION TOP PRIORITY.",
+    "option1": "AAAAAA==",
+    "showName": "AAAAAA==",
+    "option2": "AAAAAA=="
+  },
+  {
+    "sn": "1157463",
+    "strContent": "INTRUDERS DETECTED.\nAWAITING ORDERS.",
+    "option1": "AAAAAA==",
+    "showName": "AAAAAA==",
+    "option2": "AAAAAA=="
+  },
+  {
+    "sn": "1157464",
+    "strContent": "INTRUDERS AT LARGE.\nREQUESTING BACKUP.",
+    "option1": "AAAAAA==",
+    "showName": "AAAAAA==",
+    "option2": "AAAAAA=="
+  },
+  {
+    "sn": "1157465",
+    "strContent": "ENTERING SAFE MODE...",
+    "option1": "AAAAAA==",
+    "showName": "AAAAAA==",
+    "option2": "AAAAAA=="
+  },
+  {
+    "sn": "1157466",
+    "strContent": "TARGET EXITED SEARCH RANGE.\nNOW RETURNING TO STANDARD RANGE.",
+    "option1": "AAAAAA==",
+    "showName": "AAAAAA==",
+    "option2": "AAAAAA=="
+  },
+  {
+    "sn": "1157467",
+    "strContent": "EMPLOYEE WORK ETHIC PROBLEMATIC.\nEXECUTING COERCION INITIATIVE.",
+    "option1": "AAAAAA==",
+    "showName": "AAAAAA==",
+    "option2": "AAAAAA=="
+  },
+  {
+    "sn": "1157468",
+    "strContent": "PRODUCT ABNORMALITY DETECTED:\nWITHIN ACCEPTABLE SALE RANGE.",
+    "option1": "AAAAAA==",
+    "showName": "AAAAAA==",
+    "option2": "AAAAAA=="
+  },
+  {
+    "sn": "1157469",
+    "strContent": "WORKER CHAT RECEIVED.\nLEVEL OF RESISTANCE: IN ACCEPTABLE RANGE.",
+    "option1": "AAAAAA==",
+    "showName": "AAAAAA==",
+    "option2": "AAAAAA=="
+  },
+  {
+    "sn": "1157470",
+    "strContent": "MATCHING INTRUDER PARAMETERS...\nSEARCH ERROR: NO RESULTS.",
+    "option1": "AAAAAA==",
+    "showName": "AAAAAA==",
+    "option2": "AAAAAA=="
+  },
+  {
+    "sn": "1157471",
+    "strContent": "GIVE IT YOUR ALL!\nTHE CUSTOMER IS ALWAYS RIGHT!",
+    "option1": "AAAAAA==",
+    "showName": "AAAAAA==",
     "option2": "AAAAAA=="
   },
   {
