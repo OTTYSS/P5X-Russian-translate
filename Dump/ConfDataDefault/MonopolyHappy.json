@@ -1,0 +1,47 @@
+[
+  {
+    "sn": 101,
+    "name": "AAAAAA==",
+    "costMoney": 100,
+    "minNeedMoney": 1000,
+    "robotMoney": "2000,10000",
+    "basicScore": 100,
+    "g1AddScore": 4,
+    "g2AddScore": 2,
+    "basicMulti": 2,
+    "revoMulti": 2,
+    "upMoney": 20000,
+    "robotMatchTime": 30,
+    "maxMatchTime": 1800
+  },
+  {
+    "sn": 102,
+    "name": "AAAAAA==",
+    "costMoney": 500,
+    "minNeedMoney": 20000,
+    "robotMoney": "20000,50000",
+    "basicScore": 100,
+    "g1AddScore": 4,
+    "g2AddScore": 2,
+    "basicMulti": 5,
+    "revoMulti": 2,
+    "upMoney": 100000,
+    "robotMatchTime": 45,
+    "maxMatchTime": 1800
+  },
+  {
+    "sn": 103,
+    "name": "AAAAAA==",
+    "costMoney": 2000,
+    "minNeedMoney": 100000,
+    "robotMoney": "100000,200000",
+    "basicScore": 100,
+    "g1AddScore": 4,
+    "g2AddScore": 2,
+    "basicMulti": 20,
+    "revoMulti": 2,
+    "upMoney": 400000,
+    "robotMatchTime": -1,
+    "maxMatchTime": 1800
+  }
+]

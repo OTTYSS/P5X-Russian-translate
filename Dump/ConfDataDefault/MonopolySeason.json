@@ -2,24 +2,26 @@
   {
     "sn": 101,
     "desc": "AAAAAA==",
-    "openTime": "2024-09-26 05:30:00",
-    "matchEndTime": "2024-11-21 01:00:00",
-    "closeTime": "2024-11-21 05:00:00",
+    "openTime": "2025-11-25 11:30:00",
+    "matchEndTime": "2025-12-25 01:00:00",
+    "closeTime": "2025-12-25 07:59:50",
     "isSeasonShow": 1,
     "seasonTitle": "S1",
     "addtionRules": "AAAAAA==",
-    "addtionRulesDesc": "AAAAAA=="
+    "addtionRulesDesc": "AAAAAA==",
+    "isHappyShow": 0
   },
   {
     "sn": 102,
     "desc": "AAAAAA==",
-    "openTime": "2024-11-21 05:30:00",
-    "matchEndTime": "2025-01-02 01:00:00",
-    "closeTime": "2025-01-02 05:00:00",
+    "openTime": "2025-12-25 08:30:30",
+    "matchEndTime": "2026-02-04 23:59:59",
+    "closeTime": "2026-02-05 10:59:59",
     "isSeasonShow": 1,
     "seasonTitle": "S2",
     "addtionRules": "1",
-    "addtionRulesDesc": "AAAAAA=="
+    "addtionRulesDesc": "AAAAAA==",
+    "isHappyShow": 0
   },
   {
     "sn": 103,
@@ -29,7 +31,8 @@
     "closeTime": "2025-02-13 05:00:00",
     "isSeasonShow": 1,
     "seasonTitle": "S3",
-    "addtionRules": "AAAAAA==",
-    "addtionRulesDesc": "AAAAAA=="
+    "addtionRules": "1,2",
+    "addtionRulesDesc": "AAAAAA==",
+    "isHappyShow": 0
   }
 ]

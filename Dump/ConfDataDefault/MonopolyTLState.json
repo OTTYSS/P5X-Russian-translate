@@ -154,5 +154,53 @@
     "startState": 0,
     "endState": 3,
     "tlTrackName": "RankToReady"
+  },
+  {
+    "sn": 27,
+    "startState": 1,
+    "endState": 7,
+    "tlTrackName": "MainToHappy"
+  },
+  {
+    "sn": 28,
+    "startState": 7,
+    "endState": 1,
+    "tlTrackName": "HappyToMain"
+  },
+  {
+    "sn": 29,
+    "startState": 7,
+    "endState": 6,
+    "tlTrackName": "HappyToTask"
+  },
+  {
+    "sn": 30,
+    "startState": 6,
+    "endState": 7,
+    "tlTrackName": "TaskToHappy"
+  },
+  {
+    "sn": 31,
+    "startState": 7,
+    "endState": 5,
+    "tlTrackName": "HappyToDress"
+  },
+  {
+    "sn": 32,
+    "startState": 5,
+    "endState": 7,
+    "tlTrackName": "DressToHappy"
+  },
+  {
+    "sn": 33,
+    "startState": 0,
+    "endState": 7,
+    "tlTrackName": "EnterHappy"
+  },
+  {
+    "sn": 34,
+    "startState": 7,
+    "endState": 0,
+    "tlTrackName": "HappyToMain"
   }
 ]

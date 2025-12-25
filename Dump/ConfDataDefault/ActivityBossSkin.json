@@ -1,6 +1,52 @@
 [
   {
     "sn": 1,
-    "mainUi": "UI_ActivityBossRegularMain"
+    "mainUi": "UI_ActivityBossRegularMain",
+    "goalUi": "UI_ActivityBossGoalView",
+    "bossUI": "AAAAAA==",
+    "resultsUI": "AAAAAA==",
+    "rankUI": "AAAAAA==",
+    "otherColor": "AAAAAA==",
+    "selfColor": "AAAAAA=="
+  },
+  {
+    "sn": 2,
+    "mainUi": "UI_ActivityBossMainView_V34",
+    "goalUi": "UI_ActivityBossGoalView_V34",
+    "bossUI": "AAAAAA==",
+    "resultsUI": "AAAAAA==",
+    "rankUI": "AAAAAA==",
+    "otherColor": "AAAAAA==",
+    "selfColor": "AAAAAA=="
+  },
+  {
+    "sn": 3,
+    "mainUi": "AAAAAA==",
+    "goalUi": "AAAAAA==",
+    "bossUI": "UI_P3RActivityBossBattleView",
+    "resultsUI": "UI_P3RActivityBossSummaryView",
+    "rankUI": "UI_P3RActivityBossRankView",
+    "otherColor": "#FFFFFF",
+    "selfColor": "#F7DC24"
+  },
+  {
+    "sn": 4,
+    "mainUi": "AAAAAA==",
+    "goalUi": "AAAAAA==",
+    "bossUI": "UI_ActivityBossBattleSummerView",
+    "resultsUI": "UI_ActivityBossSummarySummerView",
+    "rankUI": "UI_ActivityBossRankSummerView",
+    "otherColor": "#001C85",
+    "selfColor": "#ff5603"
+  },
+  {
+    "sn": 5,
+    "mainUi": "AAAAAA==",
+    "goalUi": "AAAAAA==",
+    "bossUI": "UI_ActivityBossBattle",
+    "resultsUI": "UI_ActivityBossSummaryView",
+    "rankUI": "UI_ActivityBossRankView",
+    "otherColor": "AAAAAA==",
+    "selfColor": "#FFD145"
   }
 ]

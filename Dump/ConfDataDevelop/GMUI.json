@@ -3836,8 +3836,8 @@
     "orderGroup": "8101",
     "name": "开始大富翁（匹配)\n大富豪ゲームを開始する（マッチング）。",
     "desc": "真人匹配，15秒后开启，满4真人开局，不够补机器人\n【パラメータ 1】モード sn（304 を推奨する）",
-    "format": "monopolyStartMatch",
-    "example": "monopolyStartMatch"
+    "format": "monopolyStartMatch [模式sn] [是否直接福利局]",
+    "example": "monopolyStartMatch 201 0"
   },
   {
     "sn": "monopolyStartPVE",
@@ -3918,6 +3918,26 @@
     "desc": "参数：段位Sn 零颗星\nパラメータ：段位 Sn（零つ星）",
     "format": "monopolySetRankSn [段位]",
     "example": "monopolySetRankSn 4"
+  },
+  {
+    "sn": "monopolyStartMatchHappy",
+    "type": 1,
+    "group": "大富翁",
+    "orderGroup": "8110",
+    "name": "开始大富翁（欢乐)",
+    "desc": "【参数1】模式Sn\n【参数2】0=正常 1=指定为福利局\n欢乐模式匹配",
+    "format": "monopolyStartMatch [模式sn] [是否直接福利局]",
+    "example": "monopolyStartMatch 101 0"
+  },
+  {
+    "sn": "monopolyAddCoin",
+    "type": 1,
+    "group": "大富翁",
+    "orderGroup": "8111",
+    "name": "增减大富翁金币",
+    "desc": "【参数1】固定67（大富翁金币）\n【参数2】增减数量，可以是负数",
+    "format": "addItem 67 1000",
+    "example": "addItem 67 1000"
   },
   {
     "sn": "myPalaceSetLevel",
@@ -5748,6 +5768,16 @@
     "desc": "进入省电模式时长\n省電力モードの持続時間",
     "format": "enterSleepTime 10",
     "example": "enterSleepTime 10"
+  },
+  {
+    "sn": "monopolyBanPlayer",
+    "type": 1,
+    "group": "大富翁",
+    "orderGroup": "8112",
+    "name": "大富翁封禁",
+    "desc": "【参数1】封禁时长（单位：天）\n重复使用，以最后一次使用的时长为准。",
+    "format": "monopolyBanPlayer 365",
+    "example": "monopolyBanPlayer 365"
   },
   {
     "sn": "GMSetResolutionByWH",

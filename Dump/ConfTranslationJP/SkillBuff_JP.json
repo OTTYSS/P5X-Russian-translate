@@ -47,7 +47,7 @@
   {
     "sn": "1171091",
     "title": "データ掌握",
-    "desc": "与ダメージが%s上昇し、弱点ダメージを与えた場合、このダメージ上昇効果は倍になる。",
+    "desc": "与ダメージが%s上昇し、弱点ダメージを与えたときは、この効果がさらに上昇する。",
     "BuffDesc": "デ<color=#000000>ー</color>タ掌握",
     "addText": "AAAAAA==",
     "removeText": "AAAAAA==",
@@ -1659,7 +1659,7 @@
     "sn": "1251052",
     "title": "不動の信念",
     "desc": "被ダメージ%s低下",
-    "BuffDesc": "踏<color=#000000>み</color>出す勇気",
+    "BuffDesc": "不<color=#000000>動</color>の信念",
     "addText": "AAAAAA==",
     "removeText": "AAAAAA==",
     "calText": "AAAAAA=="
@@ -1668,7 +1668,7 @@
     "sn": "1251053",
     "title": "不動の信念",
     "desc": "念動属性ダメージ%s上昇",
-    "BuffDesc": "踏<color=#000000>み</color>出す勇気",
+    "BuffDesc": "不<color=#000000>動</color>の信念",
     "addText": "AAAAAA==",
     "removeText": "AAAAAA==",
     "calText": "AAAAAA=="
@@ -1747,7 +1747,7 @@
   },
   {
     "sn": "1251611",
-    "title": "ステータス低下",
+    "title": "フォーカス弾",
     "desc": "状態異常抵抗%s低下",
     "BuffDesc": "ス<color=#000000>テ</color>ータス低下",
     "addText": "AAAAAA==",
@@ -2962,9 +2962,9 @@
   },
   {
     "sn": "1301052",
-    "title": "ジャズセッション",
+    "title": "人生これから",
     "desc": "状態異常命中%s上昇",
-    "BuffDesc": "ジ<color=#000000>ャ</color>ズセッション",
+    "BuffDesc": "人<color=#000000>生</color>これから",
     "addText": "AAAAAA==",
     "removeText": "AAAAAA==",
     "calText": "AAAAAA=="
@@ -4086,15 +4086,6 @@
     "calText": "AAAAAA=="
   },
   {
-    "sn": "1331102",
-    "title": "信望",
-    "desc": "クリティカル率%s上昇",
-    "BuffDesc": "信<color=#000000>望</color>",
-    "addText": "AAAAAA==",
-    "removeText": "AAAAAA==",
-    "calText": "AAAAAA=="
-  },
-  {
     "sn": "1331025",
     "title": "騎士の守り",
     "desc": "シールド値：%s",
@@ -4116,7 +4107,7 @@
     "sn": "1331051",
     "title": "ガーベラの花言葉",
     "desc": "防御力%s上昇",
-    "BuffDesc": "悪<color=#000000>を</color>遠ざく氷心の騎士",
+    "BuffDesc": "ガ<color=#000000>ー</color>ベラの花言葉",
     "addText": "AAAAAA==",
     "removeText": "AAAAAA==",
     "calText": "AAAAAA=="
@@ -4158,6 +4149,24 @@
     "calText": "AAAAAA=="
   },
   {
+    "sn": "1331052",
+    "title": "ガーベラの花言葉",
+    "desc": "与ダメージ%s上昇",
+    "BuffDesc": "AAAAAA==",
+    "addText": "AAAAAA==",
+    "removeText": "AAAAAA==",
+    "calText": "AAAAAA=="
+  },
+  {
+    "sn": "1331053",
+    "title": "ガーベラの花言葉",
+    "desc": "クリティカルダメージ%s上昇",
+    "BuffDesc": "AAAAAA==",
+    "addText": "AAAAAA==",
+    "removeText": "AAAAAA==",
+    "calText": "AAAAAA=="
+  },
+  {
     "sn": "1331111",
     "title": "凍結",
     "desc": "攻撃力１２%低下",
@@ -4168,8 +4177,8 @@
   },
   {
     "sn": "1331125",
-    "title": "tdxct-[SkillBuff_title_1331125]",
-    "desc": "効果持続中、『騎士の守り』のシールド量が追加で上昇する。",
+    "title": "誓いの雪花",
+    "desc": "効果持続中、『騎士の守り』のシールド付与量が追加で上昇する。",
     "BuffDesc": "AAAAAA==",
     "addText": "AAAAAA==",
     "removeText": "AAAAAA==",
@@ -4267,27 +4276,27 @@
   },
   {
     "sn": "1212001",
-    "title": "旋風の線刻",
-    "desc": "tdxct-[SkillBuff_desc_1212001]『仲春の結界』解除時の追加効果のダメージを上昇させる。",
-    "BuffDesc": "tdxct-[SkillBuff_BuffDesc_1212001]朝<color=#000000>露</color>の結晶",
+    "title": "旋風の刻線",
+    "desc": "『旋風結界』終了時の意識奏功のダメージが上昇する。",
+    "BuffDesc": "旋<color=#000000>風</color>の刻線",
     "addText": "AAAAAA==",
     "removeText": "AAAAAA==",
     "calText": "AAAAAA=="
   },
   {
     "sn": "1212003",
-    "title": "旋風の線刻",
-    "desc": "tdxct-[SkillBuff_desc_1212003]『仲春の結界』解除時の追加効果のダメージを上昇させる。",
-    "BuffDesc": "tdxct-[SkillBuff_BuffDesc_1212003]朝<color=#000000>露</color>の結晶",
+    "title": "旋風の刻線",
+    "desc": "『旋風結界』終了時の意識奏功のダメージが上昇する。",
+    "BuffDesc": "旋<color=#000000>風</color>の刻線",
     "addText": "AAAAAA==",
     "removeText": "AAAAAA==",
     "calText": "AAAAAA=="
   },
   {
     "sn": "1212006",
-    "title": "旋風の線刻",
-    "desc": "tdxct-[SkillBuff_desc_1212006]『冬夜の結界』解除時の追加効果のダメージを上昇させる。",
-    "BuffDesc": "tdxct-[SkillBuff_BuffDesc_1212006]寒<color=#000000>霜</color>の結晶",
+    "title": "旋風の刻線",
+    "desc": "『旋風結界』終了時の意識奏功のダメージが上昇する。",
+    "BuffDesc": "旋<color=#000000>風</color>の刻線",
     "addText": "AAAAAA==",
     "removeText": "AAAAAA==",
     "calText": "AAAAAA=="
@@ -4295,8 +4304,8 @@
   {
     "sn": "1212111",
     "title": "風襲",
-    "desc": "tdxct-[SkillBuff_desc_1212111]防御力１２%低下",
-    "BuffDesc": "tdxct-[SkillBuff_BuffDesc_1212111]風<color=#000000>襲</color>",
+    "desc": "防御力１２%低下",
+    "BuffDesc": "風<color=#000000>襲</color>",
     "addText": "AAAAAA==",
     "removeText": "AAAAAA==",
     "calText": "AAAAAA=="
@@ -4304,8 +4313,8 @@
   {
     "sn": "1212112",
     "title": "アタックシークェンス",
-    "desc": "tdxct-[SkillBuff_desc_1212112]モントがこのユニットを攻撃すると、クリティカルダメージが上昇する。",
-    "BuffDesc": "tdxct-[SkillBuff_BuffDesc_1212112]風<color=#000000>傷</color>",
+    "desc": "琴音・アイスストームがこの敵を攻撃する時、クリティカルダメージが上昇する。",
+    "BuffDesc": "ア<color=#000000>タ</color>ックシークェンス",
     "addText": "AAAAAA==",
     "removeText": "AAAAAA==",
     "calText": "AAAAAA=="
@@ -4313,7 +4322,7 @@
   {
     "sn": "1212131",
     "title": "旋風結界",
-    "desc": "tdxct-[SkillBuff_desc_1212131]結界が終了した時、対象に疾風属性のダメージを与える。",
+    "desc": "結界終了時、対象に疾風属性ダメージを与える。",
     "BuffDesc": "AAAAAA==",
     "addText": "AAAAAA==",
     "removeText": "AAAAAA==",
@@ -4321,9 +4330,9 @@
   },
   {
     "sn": "1212008",
-    "title": "銀盤の線刻",
-    "desc": "tdxct-[SkillBuff_desc_1212008]『冬夜の結界』解除時の追加効果のダメージを上昇させる。",
-    "BuffDesc": "tdxct-[SkillBuff_BuffDesc_1212008]寒<color=#000000>霜</color>の結晶",
+    "title": "銀盤の刻線",
+    "desc": "『銀盤結界』終了時の意識奏功のダメージが上昇する。",
+    "BuffDesc": "銀<color=#000000>盤</color>の刻線",
     "addText": "AAAAAA==",
     "removeText": "AAAAAA==",
     "calText": "AAAAAA=="
@@ -4331,7 +4340,7 @@
   {
     "sn": "1212171",
     "title": "銀盤結界",
-    "desc": "tdxct-[SkillBuff_desc_1212171]結界が終了した時、対象に氷結属性のダメージを与える。",
+    "desc": "結界終了時、対象に氷結属性ダメージを与える。",
     "BuffDesc": "AAAAAA==",
     "addText": "AAAAAA==",
     "removeText": "AAAAAA==",
@@ -4340,7 +4349,7 @@
   {
     "sn": "1212041",
     "title": "まなざし浚う鵬翼",
-    "desc": "tdxct-[SkillBuff_desc_1212041]防御力%s低下",
+    "desc": "防御力%s低下",
     "BuffDesc": "AAAAAA==",
     "addText": "AAAAAA==",
     "removeText": "AAAAAA==",
@@ -4349,16 +4358,16 @@
   {
     "sn": "1212541",
     "title": "氷漬け",
-    "desc": "tdxct-[SkillBuff_desc_1212541]行動不能",
-    "BuffDesc": "tdxct-[SkillBuff_BuffDesc_1212541]凍<color=#000000>結</color>",
-    "addText": "凍結状態になった！",
-    "removeText": "凍結状態から回復した…",
+    "desc": "行動不能",
+    "BuffDesc": "氷<color=#000000>漬</color>け",
+    "addText": "氷漬け状態になった！",
+    "removeText": "氷漬け状態から回復した…",
     "calText": "AAAAAA=="
   },
   {
     "sn": "1212042",
     "title": "まなざし浚う鵬翼",
-    "desc": "tdxct-[SkillBuff_desc_1212042]氷結属性ダメージ%s上昇",
+    "desc": "氷結属性の与ダメージ%s上昇",
     "BuffDesc": "AAAAAA==",
     "addText": "AAAAAA==",
     "removeText": "AAAAAA==",
@@ -4367,7 +4376,7 @@
   {
     "sn": "1212043",
     "title": "まなざし浚う鵬翼",
-    "desc": "tdxct-[SkillBuff_desc_1212043]ＳＰコスト%s低下",
+    "desc": "ＳＰ消費%s低下",
     "BuffDesc": "AAAAAA==",
     "addText": "AAAAAA==",
     "removeText": "AAAAAA==",
@@ -4383,8 +4392,8 @@
     "calText": "AAAAAA=="
   },
   {
-    "sn": "1331321",
-    "title": "花の騎士の献身",
+    "sn": "1331312",
+    "title": "花の騎士の庇護",
     "desc": "状態異常抵抗%s上昇",
     "BuffDesc": "AAAAAA==",
     "addText": "AAAAAA==",
@@ -4392,10 +4401,28 @@
     "calText": "AAAAAA=="
   },
   {
+    "sn": "1331323",
+    "title": "花の騎士の献身",
+    "desc": "与ダメージ%s上昇",
+    "BuffDesc": "花<color=#000000>の</color>騎士の献身",
+    "addText": "AAAAAA==",
+    "removeText": "AAAAAA==",
+    "calText": "AAAAAA=="
+  },
+  {
+    "sn": "1331324",
+    "title": "花の騎士の献身",
+    "desc": "クリティカルダメージ%s上昇",
+    "BuffDesc": "花<color=#000000>の</color>騎士の献身",
+    "addText": "AAAAAA==",
+    "removeText": "AAAAAA==",
+    "calText": "AAAAAA=="
+  },
+  {
     "sn": "1212151",
     "title": "凍結",
-    "desc": "tdxct-[SkillBuff_desc_1212151]攻撃力１２%低下",
-    "BuffDesc": "tdxct-[SkillBuff_BuffDesc_1212151]凍<color=#000000>結</color>",
+    "desc": "攻撃力１２%低下",
+    "BuffDesc": "凍<color=#000000>結</color>",
     "addText": "AAAAAA==",
     "removeText": "AAAAAA==",
     "calText": "AAAAAA=="
@@ -4403,17 +4430,17 @@
   {
     "sn": "1212161",
     "title": "凍結",
-    "desc": "tdxct-[SkillBuff_desc_1212161]攻撃力１２%低下",
-    "BuffDesc": "tdxct-[SkillBuff_BuffDesc_1212161]凍<color=#000000>結</color>",
+    "desc": "攻撃力１２%低下",
+    "BuffDesc": "凍<color=#000000>結</color>",
     "addText": "AAAAAA==",
     "removeText": "AAAAAA==",
     "calText": "AAAAAA=="
   },
   {
     "sn": "1212162",
-    "title": "オンアイス",
-    "desc": "tdxct-[SkillBuff_desc_1212162]被氷結属性ダメージ%s上昇",
-    "BuffDesc": "tdxct-[SkillBuff_BuffDesc_1212162]凍<color=#000000>結</color>",
+    "title": "オン・アイス",
+    "desc": "氷結属性の被ダメージ%s上昇",
+    "BuffDesc": "オ<color=#000000>ン</color>・アイス",
     "addText": "AAAAAA==",
     "removeText": "AAAAAA==",
     "calText": "AAAAAA=="
@@ -4438,8 +4465,8 @@
   },
   {
     "sn": "1212311",
-    "title": "プログラム・コンポーネンツ",
-    "desc": "tdxct-[SkillBuff_desc_1212311]疾風属性ダメージ%s上昇",
+    "title": "演技構成点",
+    "desc": "疾風属性の与ダメージ%s上昇",
     "BuffDesc": "AAAAAA==",
     "addText": "AAAAAA==",
     "removeText": "AAAAAA==",
@@ -4447,8 +4474,8 @@
   },
   {
     "sn": "1212312",
-    "title": "プログラム・コンポーネンツ",
-    "desc": "tdxct-[SkillBuff_desc_1212312]氷結属性ダメージ%s上昇",
+    "title": "演技構成点",
+    "desc": "氷結属性の与ダメージ%s上昇",
     "BuffDesc": "AAAAAA==",
     "addText": "AAAAAA==",
     "removeText": "AAAAAA==",
@@ -4456,27 +4483,27 @@
   },
   {
     "sn": "1212323",
-    "title": "テクニカル・エレメンツ",
-    "desc": "tdxct-[SkillBuff_desc_1212323]攻撃力%s上昇",
-    "BuffDesc": "tdxct-[SkillBuff_BuffDesc_1212323]思<color=#000000>い</color>",
+    "title": "技術点",
+    "desc": "攻撃力%s上昇",
+    "BuffDesc": "技<color=#000000>術</color>点",
     "addText": "AAAAAA==",
     "removeText": "AAAAAA==",
     "calText": "AAAAAA=="
   },
   {
     "sn": "1212324",
-    "title": "テクニカル・エレメンツ",
-    "desc": "tdxct-[SkillBuff_desc_1212324]防御力%s上昇",
-    "BuffDesc": "tdxct-[SkillBuff_BuffDesc_1212324]思<color=#000000>い</color>",
+    "title": "技術点",
+    "desc": "防御力%s上昇",
+    "BuffDesc": "技<color=#000000>術</color>点",
     "addText": "AAAAAA==",
     "removeText": "AAAAAA==",
     "calText": "AAAAAA=="
   },
   {
     "sn": "1212175",
-    "title": "グレイシャル・ハート",
-    "desc": "tdxct-[SkillBuff_desc_1212175]シールド値：%s",
-    "BuffDesc": "tdxct-[SkillBuff_BuffDesc_1212175]氷<color=#000000>結</color>の盾",
+    "title": "グレイシャルメンタル",
+    "desc": "シールド値：%s",
+    "BuffDesc": "グ<color=#000000>レ</color>イシャルメンタル",
     "addText": "AAAAAA==",
     "removeText": "AAAAAA==",
     "calText": "AAAAAA=="
@@ -4485,7 +4512,466 @@
     "sn": "1331523",
     "title": "カモミールの花言葉",
     "desc": "付与されるシールドが%s上昇",
-    "BuffDesc": "リ<color=#000000>ン</color>ドウの花言葉",
+    "BuffDesc": "カ<color=#000000>モ</color>ミールの花言葉",
+    "addText": "AAAAAA==",
+    "removeText": "AAAAAA==",
+    "calText": "AAAAAA=="
+  },
+  {
+    "sn": "1461521",
+    "title": "ハイライト",
+    "desc": "攻撃力%s上昇",
+    "BuffDesc": "攻<color=#000000>撃</color>力上昇",
+    "addText": "AAAAAA==",
+    "removeText": "AAAAAA==",
+    "calText": "AAAAAA=="
+  },
+  {
+    "sn": "1461111",
+    "title": "相貌・悪戯と無邪気",
+    "desc": "『相貌・悪戯と無邪気』を獲得",
+    "BuffDesc": "相<color=#000000>貌</color>・悪戯と無邪気",
+    "addText": "AAAAAA==",
+    "removeText": "AAAAAA==",
+    "calText": "AAAAAA=="
+  },
+  {
+    "sn": "1462111",
+    "title": "相貌・奉仕と警告",
+    "desc": "『相貌・奉仕と警告』を獲得",
+    "BuffDesc": "相<color=#000000>貌</color>・奉仕と警告",
+    "addText": "AAAAAA==",
+    "removeText": "AAAAAA==",
+    "calText": "AAAAAA=="
+  },
+  {
+    "sn": "1463111",
+    "title": "相貌・不条理と非合理",
+    "desc": "『相貌・不条理と非合理』を獲得",
+    "BuffDesc": "相<color=#000000>貌</color>・不条理と非合理",
+    "addText": "AAAAAA==",
+    "removeText": "AAAAAA==",
+    "calText": "AAAAAA=="
+  },
+  {
+    "sn": "1464111",
+    "title": "相貌・福果と禍因",
+    "desc": "『相貌・福果と禍因』を獲得",
+    "BuffDesc": "相<color=#000000>貌</color>・福果と禍因",
+    "addText": "AAAAAA==",
+    "removeText": "AAAAAA==",
+    "calText": "AAAAAA=="
+  },
+  {
+    "sn": "1465121",
+    "title": "二者合一の仮面",
+    "desc": "与ダメージ%s上昇",
+    "BuffDesc": "二<color=#000000>者</color>合一の仮面",
+    "addText": "AAAAAA==",
+    "removeText": "AAAAAA==",
+    "calText": "AAAAAA=="
+  },
+  {
+    "sn": "1465151",
+    "title": "二者合一の仮面",
+    "desc": "シールド値：%s",
+    "BuffDesc": "二<color=#000000>者</color>合一の仮面",
+    "addText": "AAAAAA==",
+    "removeText": "AAAAAA==",
+    "calText": "AAAAAA=="
+  },
+  {
+    "sn": "1465152",
+    "title": "二者合一の仮面",
+    "desc": "防御力%s上昇",
+    "BuffDesc": "二<color=#000000>者</color>合一の仮面",
+    "addText": "AAAAAA==",
+    "removeText": "AAAAAA==",
+    "calText": "AAAAAA=="
+  },
+  {
+    "sn": "1465161",
+    "title": "二者合一の仮面",
+    "desc": "防御力%s低下",
+    "BuffDesc": "二<color=#000000>者</color>合一の仮面",
+    "addText": "AAAAAA==",
+    "removeText": "AAAAAA==",
+    "calText": "AAAAAA=="
+  },
+  {
+    "sn": "1465162",
+    "title": "風襲",
+    "desc": "防御力１２%低下",
+    "BuffDesc": "風<color=#000000>襲</color>",
+    "addText": "AAAAAA==",
+    "removeText": "AAAAAA==",
+    "calText": "AAAAAA=="
+  },
+  {
+    "sn": "1465163",
+    "title": "感電",
+    "desc": "被クリティカル率１０%上昇",
+    "BuffDesc": "感<color=#000000>電</color>",
+    "addText": "AAAAAA==",
+    "removeText": "AAAAAA==",
+    "calText": "AAAAAA=="
+  },
+  {
+    "sn": "1465164",
+    "title": "呪印",
+    "desc": "継続的にＨＰ減少",
+    "BuffDesc": "呪<color=#000000>印</color>",
+    "addText": "AAAAAA==",
+    "removeText": "AAAAAA==",
+    "calText": "AAAAAA=="
+  },
+  {
+    "sn": "1465165",
+    "title": "祝印",
+    "desc": "継続的にＨＰ回復",
+    "BuffDesc": "祝<color=#000000>印</color>",
+    "addText": "AAAAAA==",
+    "removeText": "AAAAAA==",
+    "calText": "AAAAAA=="
+  },
+  {
+    "sn": "1465171",
+    "title": "反逆者の監視",
+    "desc": "スキル発動時、一時的に自身以外の攻撃力が最も高い支配か反抗ロールの味方の効果補正を%s付与",
+    "BuffDesc": "反<color=#000000>逆</color>者の監視",
+    "addText": "AAAAAA==",
+    "removeText": "AAAAAA==",
+    "calText": "AAAAAA=="
+  },
+  {
+    "sn": "1461112",
+    "title": "悪戯と無邪気の仮面",
+    "desc": "攻撃力%s上昇",
+    "BuffDesc": "悪<color=#000000>戯</color>と無邪気の仮面",
+    "addText": "AAAAAA==",
+    "removeText": "AAAAAA==",
+    "calText": "AAAAAA=="
+  },
+  {
+    "sn": "1462112",
+    "title": "奉仕と警告の仮面",
+    "desc": "被ダメージ%s低下",
+    "BuffDesc": "奉<color=#000000>仕</color>と警告の仮面",
+    "addText": "AAAAAA==",
+    "removeText": "AAAAAA==",
+    "calText": "AAAAAA=="
+  },
+  {
+    "sn": "1463112",
+    "title": "不条理と非合理の仮面",
+    "desc": "貫通力%s上昇",
+    "BuffDesc": "不<color=#000000>条</color>理と非合理の仮面",
+    "addText": "AAAAAA==",
+    "removeText": "AAAAAA==",
+    "calText": "AAAAAA=="
+  },
+  {
+    "sn": "1464112",
+    "title": "福果と禍因の仮面",
+    "desc": "攻撃力%s上昇",
+    "BuffDesc": "福<color=#000000>果</color>と禍因の仮面",
+    "addText": "AAAAAA==",
+    "removeText": "AAAAAA==",
+    "calText": "AAAAAA=="
+  },
+  {
+    "sn": "1464113",
+    "title": "福果と禍因の仮面",
+    "desc": "クリティカル率%s上昇",
+    "BuffDesc": "福<color=#000000>果</color>と禍因の仮面",
+    "addText": "AAAAAA==",
+    "removeText": "AAAAAA==",
+    "calText": "AAAAAA=="
+  },
+  {
+    "sn": "1464114",
+    "title": "福果と禍因の仮面",
+    "desc": "ダメージ%s上昇",
+    "BuffDesc": "福<color=#000000>果</color>と禍因の仮面",
+    "addText": "AAAAAA==",
+    "removeText": "AAAAAA==",
+    "calText": "AAAAAA=="
+  },
+  {
+    "sn": "1461522",
+    "title": "ハイライト",
+    "desc": "ダメージ%s上昇",
+    "BuffDesc": "攻<color=#000000>撃</color>力上昇",
+    "addText": "AAAAAA==",
+    "removeText": "AAAAAA==",
+    "calText": "AAAAAA=="
+  },
+  {
+    "sn": "1461531",
+    "title": "ハイライト",
+    "desc": "最大ＨＰ%s上昇",
+    "BuffDesc": "最<color=#000000>大</color>ＨＰ上昇",
+    "addText": "AAAAAA==",
+    "removeText": "AAAAAA==",
+    "calText": "AAAAAA=="
+  },
+  {
+    "sn": "1461045",
+    "title": "冷酷な温情",
+    "desc": "攻撃力%s上昇",
+    "BuffDesc": "冷<color=#000000>酷</color>な温情",
+    "addText": "AAAAAA==",
+    "removeText": "AAAAAA==",
+    "calText": "AAAAAA=="
+  },
+  {
+    "sn": "1461046",
+    "title": "冷酷な温情",
+    "desc": "被ダメージ%s低下",
+    "BuffDesc": "冷<color=#000000>酷</color>な温情",
+    "addText": "AAAAAA==",
+    "removeText": "AAAAAA==",
+    "calText": "AAAAAA=="
+  },
+  {
+    "sn": "1461047",
+    "title": "冷酷な温情",
+    "desc": "クリティカルダメージ%s上昇",
+    "BuffDesc": "冷<color=#000000>酷</color>な温情",
+    "addText": "AAAAAA==",
+    "removeText": "AAAAAA==",
+    "calText": "AAAAAA=="
+  },
+  {
+    "sn": "1461048",
+    "title": "冷酷な温情",
+    "desc": "自身のスキルダメージ１０%上昇",
+    "BuffDesc": "冷<color=#000000>酷</color>な温情",
+    "addText": "AAAAAA==",
+    "removeText": "AAAAAA==",
+    "calText": "AAAAAA=="
+  },
+  {
+    "sn": "1461541",
+    "title": "ハイライト",
+    "desc": "攻撃力%s上昇",
+    "BuffDesc": "AAAAAA==",
+    "addText": "AAAAAA==",
+    "removeText": "AAAAAA==",
+    "calText": "AAAAAA=="
+  },
+  {
+    "sn": "1461542",
+    "title": "ハイライト",
+    "desc": "攻撃力%s上昇",
+    "BuffDesc": "AAAAAA==",
+    "addText": "AAAAAA==",
+    "removeText": "AAAAAA==",
+    "calText": "AAAAAA=="
+  },
+  {
+    "sn": "1461551",
+    "title": "ハイライト",
+    "desc": "攻撃力%s上昇",
+    "BuffDesc": "AAAAAA==",
+    "addText": "AAAAAA==",
+    "removeText": "AAAAAA==",
+    "calText": "AAAAAA=="
+  },
+  {
+    "sn": "1461552",
+    "title": "ハイライト",
+    "desc": "クリティカルダメージ%s上昇",
+    "BuffDesc": "AAAAAA==",
+    "addText": "AAAAAA==",
+    "removeText": "AAAAAA==",
+    "calText": "AAAAAA=="
+  },
+  {
+    "sn": "1461081",
+    "title": "真実の渇望",
+    "desc": "消費後、次に発動する『二者合一の仮面』を強化",
+    "BuffDesc": "真<color=#000000>実</color>の渇望",
+    "addText": "AAAAAA==",
+    "removeText": "AAAAAA==",
+    "calText": "AAAAAA=="
+  },
+  {
+    "sn": "1461091",
+    "title": "破滅に抗う力",
+    "desc": "次に発動する『二者合一の仮面』を強化",
+    "BuffDesc": "破<color=#000000>滅</color>に抗う力",
+    "addText": "AAAAAA==",
+    "removeText": "AAAAAA==",
+    "calText": "AAAAAA=="
+  },
+  {
+    "sn": "1465131",
+    "title": "二者合一の仮面",
+    "desc": "スキル成長効果%s上昇",
+    "BuffDesc": "二<color=#000000>者</color>合一の仮面",
+    "addText": "AAAAAA==",
+    "removeText": "AAAAAA==",
+    "calText": "AAAAAA=="
+  },
+  {
+    "sn": "1463113",
+    "title": "不条理と非合理の仮面",
+    "desc": "貫通力%s上昇",
+    "BuffDesc": "不<color=#000000>条</color>理と非合理の仮面",
+    "addText": "AAAAAA==",
+    "removeText": "AAAAAA==",
+    "calText": "AAAAAA=="
+  },
+  {
+    "sn": "1461321",
+    "title": "撞着する者",
+    "desc": "回復量%s上昇",
+    "BuffDesc": "AAAAAA==",
+    "addText": "AAAAAA==",
+    "removeText": "AAAAAA==",
+    "calText": "AAAAAA=="
+  },
+  {
+    "sn": "1461322",
+    "title": "撞着する者",
+    "desc": "速さ%s上昇",
+    "BuffDesc": "AAAAAA==",
+    "addText": "AAAAAA==",
+    "removeText": "AAAAAA==",
+    "calText": "AAAAAA=="
+  },
+  {
+    "sn": "1461323",
+    "title": "撞着する者",
+    "desc": "クリティカル率%s上昇",
+    "BuffDesc": "AAAAAA==",
+    "addText": "AAAAAA==",
+    "removeText": "AAAAAA==",
+    "calText": "AAAAAA=="
+  },
+  {
+    "sn": "1461324",
+    "title": "撞着する者",
+    "desc": "シールド効果が%s上昇する。",
+    "BuffDesc": "AAAAAA==",
+    "addText": "AAAAAA==",
+    "removeText": "AAAAAA==",
+    "calText": "AAAAAA=="
+  },
+  {
+    "sn": "1461325",
+    "title": "撞着する者",
+    "desc": "速さ%s上昇",
+    "BuffDesc": "AAAAAA==",
+    "addText": "AAAAAA==",
+    "removeText": "AAAAAA==",
+    "calText": "AAAAAA=="
+  },
+  {
+    "sn": "1461326",
+    "title": "撞着する者",
+    "desc": "クリティカルダメージ%s上昇",
+    "BuffDesc": "AAAAAA==",
+    "addText": "AAAAAA==",
+    "removeText": "AAAAAA==",
+    "calText": "AAAAAA=="
+  },
+  {
+    "sn": "1461327",
+    "title": "撞着する者",
+    "desc": "攻撃力%s上昇",
+    "BuffDesc": "AAAAAA==",
+    "addText": "AAAAAA==",
+    "removeText": "AAAAAA==",
+    "calText": "AAAAAA=="
+  },
+  {
+    "sn": "1461328",
+    "title": "撞着する者",
+    "desc": "被ダメージ%s上昇",
+    "BuffDesc": "AAAAAA==",
+    "addText": "AAAAAA==",
+    "removeText": "AAAAAA==",
+    "calText": "AAAAAA=="
+  },
+  {
+    "sn": "1461022",
+    "title": "双子の看守",
+    "desc": "『デザイアレベル』：%s",
+    "BuffDesc": "双<color=#000000>子</color>の看守",
+    "addText": "AAAAAA==",
+    "removeText": "AAAAAA==",
+    "calText": "AAAAAA=="
+  },
+  {
+    "sn": "1461062",
+    "title": "更生を望む処刑",
+    "desc": "攻撃力%s上昇",
+    "BuffDesc": "更<color=#000000>生</color>を望む処刑",
+    "addText": "AAAAAA==",
+    "removeText": "AAAAAA==",
+    "calText": "AAAAAA=="
+  },
+  {
+    "sn": "1461063",
+    "title": "更生を望む処刑",
+    "desc": "与ダメージ%s上昇",
+    "BuffDesc": "更<color=#000000>生</color>を望む処刑",
+    "addText": "AAAAAA==",
+    "removeText": "AAAAAA==",
+    "calText": "AAAAAA=="
+  },
+  {
+    "sn": "1461064",
+    "title": "更生を望む処刑",
+    "desc": "攻撃力%s上昇",
+    "BuffDesc": "更<color=#000000>生</color>を望む処刑",
+    "addText": "AAAAAA==",
+    "removeText": "AAAAAA==",
+    "calText": "AAAAAA=="
+  },
+  {
+    "sn": "1461065",
+    "title": "更生を望む処刑",
+    "desc": "与ダメージ%s上昇",
+    "BuffDesc": "更<color=#000000>生</color>を望む処刑",
+    "addText": "AAAAAA==",
+    "removeText": "AAAAAA==",
+    "calText": "AAAAAA=="
+  },
+  {
+    "sn": "1461103",
+    "title": "破滅に抗う力",
+    "desc": "最終ダメージ増幅効果%s上昇",
+    "BuffDesc": "破<color=#000000>滅</color>に抗う力",
+    "addText": "AAAAAA==",
+    "removeText": "AAAAAA==",
+    "calText": "AAAAAA=="
+  },
+  {
+    "sn": "1465132",
+    "title": "二者合一の仮面",
+    "desc": "クリティカルダメージ%s上昇",
+    "BuffDesc": "二<color=#000000>者</color>合一の仮面",
+    "addText": "AAAAAA==",
+    "removeText": "AAAAAA==",
+    "calText": "AAAAAA=="
+  },
+  {
+    "sn": "1461329",
+    "title": "撞着する者",
+    "desc": "与ダメージ%s上昇",
+    "BuffDesc": "AAAAAA==",
+    "addText": "AAAAAA==",
+    "removeText": "AAAAAA==",
+    "calText": "AAAAAA=="
+  },
+  {
+    "sn": "1461049",
+    "title": "冷酷な温情",
+    "desc": "クリティカルダメージ%s上昇",
+    "BuffDesc": "冷<color=#000000>酷</color>な温情",
     "addText": "AAAAAA==",
     "removeText": "AAAAAA==",
     "calText": "AAAAAA=="
@@ -10359,6 +10845,24 @@
     "calText": "AAAAAA=="
   },
   {
+    "sn": "135122",
+    "title": "与ダメージ上昇",
+    "desc": "与ダメージ%s上昇",
+    "BuffDesc": "与<color=#000000>ダ</color>メージ上昇",
+    "addText": "AAAAAA==",
+    "removeText": "AAAAAA==",
+    "calText": "AAAAAA=="
+  },
+  {
+    "sn": "135133",
+    "title": "与ダメージ上昇",
+    "desc": "与ダメージ%s上昇",
+    "BuffDesc": "与<color=#000000>ダ</color>メージ上昇",
+    "addText": "AAAAAA==",
+    "removeText": "AAAAAA==",
+    "calText": "AAAAAA=="
+  },
+  {
     "sn": "137111",
     "title": "被呪怨ダメージ上昇",
     "desc": "被呪怨ダメージ%s上昇",
@@ -11199,7 +11703,7 @@
     "sn": "260111",
     "title": "因果の変転",
     "desc": "防御力%s低下",
-    "BuffDesc": "因果<color=#000000>の</color>変転",
+    "BuffDesc": "因<color=#000000>果</color>の変転",
     "addText": "AAAAAA==",
     "removeText": "AAAAAA==",
     "calText": "AAAAAA=="
@@ -11208,7 +11712,7 @@
     "sn": "260112",
     "title": "因果の変転",
     "desc": "念動属性ダメージの被クリティカル率が%s上昇する",
-    "BuffDesc": "因果<color=#000000>の</color>変転",
+    "BuffDesc": "因<color=#000000>果</color>の変転",
     "addText": "AAAAAA==",
     "removeText": "AAAAAA==",
     "calText": "AAAAAA=="
@@ -11585,7 +12089,7 @@
   {
     "sn": "62051",
     "title": "業績評価",
-    "desc": "攻撃力が%s上昇し、効果終了時に『エリア長ロボ』に変わる。",
+    "desc": "攻撃力が%s上昇し、効果終了時に『社畜ロボ・TYPE係長』に変わる。",
     "BuffDesc": "業<color=#000000>績</color>評価",
     "addText": "業績評価を獲得した！",
     "removeText": "AAAAAA==",
@@ -11639,7 +12143,7 @@
   {
     "sn": "62271",
     "title": "業績評価",
-    "desc": "攻撃力が%s上昇し、効果終了時に『エリア長ロボ』に変わる。",
+    "desc": "攻撃力が%s上昇し、効果終了時に『社畜ロボ・TYPE係長』に変わる。",
     "BuffDesc": "業<color=#000000>績</color>評価",
     "addText": "業績評価を獲得した！",
     "removeText": "AAAAAA==",
@@ -11648,7 +12152,7 @@
   {
     "sn": "62281",
     "title": "業績評価",
-    "desc": "攻撃力が%s上昇し、効果終了時に『エリア長ロボ』に変わる。",
+    "desc": "攻撃力が%s上昇し、効果終了時に『社畜ロボ・TYPE係長』に変わる。",
     "BuffDesc": "業<color=#000000>績</color>評価",
     "addText": "業績評価を獲得した！",
     "removeText": "AAAAAA==",
@@ -11657,7 +12161,7 @@
   {
     "sn": "62291",
     "title": "業績評価",
-    "desc": "攻撃力が%s上昇し、効果終了時に『エリア長ロボ』に変わる。",
+    "desc": "攻撃力が%s上昇し、効果終了時に『社畜ロボ・TYPE係長』に変わる。",
     "BuffDesc": "業<color=#000000>績</color>評価",
     "addText": "業績評価を獲得した！",
     "removeText": "AAAAAA==",
@@ -11666,7 +12170,7 @@
   {
     "sn": "62301",
     "title": "業績評価",
-    "desc": "攻撃力が%s上昇し、効果終了時に『エリア長ロボ』に変わる。",
+    "desc": "攻撃力が%s上昇し、効果終了時に『社畜ロボ・TYPE係長』に変わる。",
     "BuffDesc": "業<color=#000000>績</color>評価",
     "addText": "業績評価を獲得した！",
     "removeText": "AAAAAA==",
@@ -11675,7 +12179,7 @@
   {
     "sn": "62311",
     "title": "業績評価",
-    "desc": "攻撃力が%s上昇し、効果終了時に『エリア長ロボ』に変わる。",
+    "desc": "攻撃力が%s上昇し、効果終了時に『社畜ロボ・TYPE係長』に変わる。",
     "BuffDesc": "業<color=#000000>績</color>評価",
     "addText": "業績評価を獲得した！",
     "removeText": "AAAAAA==",
@@ -11684,7 +12188,7 @@
   {
     "sn": "62321",
     "title": "業績評価",
-    "desc": "攻撃力が%s上昇し、効果終了時に『エリア長ロボ』に変わる。",
+    "desc": "攻撃力が%s上昇し、効果終了時に『社畜ロボ・TYPE係長』に変わる。",
     "BuffDesc": "業<color=#000000>績</color>評価",
     "addText": "業績評価を獲得した！",
     "removeText": "AAAAAA==",
@@ -11974,6 +12478,240 @@
     "title": "攻撃態勢",
     "desc": "与ダメージが%s上昇する。",
     "BuffDesc": "攻<color=#000000>撃</color>態勢",
+    "addText": "AAAAAA==",
+    "removeText": "AAAAAA==",
+    "calText": "AAAAAA=="
+  },
+  {
+    "sn": "63111",
+    "title": "白昼",
+    "desc": "AAAAAA==",
+    "BuffDesc": "白<color=#000000>昼</color>",
+    "addText": "白昼になった…",
+    "removeText": "AAAAAA==",
+    "calText": "AAAAAA=="
+  },
+  {
+    "sn": "63112",
+    "title": "暗夜",
+    "desc": "AAAAAA==",
+    "BuffDesc": "暗<color=#000000>夜</color>",
+    "addText": "暗夜になった…",
+    "removeText": "AAAAAA==",
+    "calText": "AAAAAA=="
+  },
+  {
+    "sn": "63121",
+    "title": "与ダメージ上昇",
+    "desc": "最終ダメージが%s上昇する。",
+    "BuffDesc": "与<color=#000000>ダ</color>メージ上昇",
+    "addText": "AAAAAA==",
+    "removeText": "AAAAAA==",
+    "calText": "AAAAAA=="
+  },
+  {
+    "sn": "63122",
+    "title": "被ダメージ低下",
+    "desc": "受ける最終ダメージが%s低下する。",
+    "BuffDesc": "被<color=#000000>ダ</color>メージ低下",
+    "addText": "AAAAAA==",
+    "removeText": "AAAAAA==",
+    "calText": "AAAAAA=="
+  },
+  {
+    "sn": "63123",
+    "title": "与ダメージ低下",
+    "desc": "最終ダメージが%s低下する。",
+    "BuffDesc": "与<color=#000000>ダ</color>メージ低下",
+    "addText": "AAAAAA==",
+    "removeText": "AAAAAA==",
+    "calText": "AAAAAA=="
+  },
+  {
+    "sn": "63124",
+    "title": "被ダメージ上昇",
+    "desc": "受ける最終ダメージが%s上昇する。",
+    "BuffDesc": "被<color=#000000>ダ</color>メージ上昇",
+    "addText": "AAAAAA==",
+    "removeText": "AAAAAA==",
+    "calText": "AAAAAA=="
+  },
+  {
+    "sn": "63141",
+    "title": "再生の聖印",
+    "desc": "一定数累積した時、『再生の力』に変換する。",
+    "BuffDesc": "再<color=#000000>生</color>の聖印",
+    "addText": "再生の聖印を獲得した！",
+    "removeText": "AAAAAA==",
+    "calText": "AAAAAA=="
+  },
+  {
+    "sn": "63151",
+    "title": "再生の力",
+    "desc": "瀕死時に１つ消費し、自身の最大ＨＰの２５%を回復する。",
+    "BuffDesc": "再<color=#000000>生</color>の力",
+    "addText": "再生の力を獲得した！",
+    "removeText": "AAAAAA==",
+    "calText": "AAAAAA=="
+  },
+  {
+    "sn": "63161",
+    "title": "太陽神の祝福",
+    "desc": "一定数累積した時、『太陽神の力』に変換する。",
+    "BuffDesc": "太<color=#000000>陽</color>神の祝福",
+    "addText": "太陽神の祝福を獲得した！",
+    "removeText": "AAAAAA==",
+    "calText": "AAAAAA=="
+  },
+  {
+    "sn": "63171",
+    "title": "太陽神の力",
+    "desc": "最終ダメージが%s上昇する。",
+    "BuffDesc": "太<color=#000000>陽</color>神の力",
+    "addText": "太陽神の力を獲得した！",
+    "removeText": "AAAAAA==",
+    "calText": "AAAAAA=="
+  },
+  {
+    "sn": "63181",
+    "title": "智慧の魔術",
+    "desc": "すべての属性相性が耐になる。",
+    "BuffDesc": "智<color=#000000>慧</color>の魔術",
+    "addText": "AAAAAA==",
+    "removeText": "AAAAAA==",
+    "calText": "AAAAAA=="
+  },
+  {
+    "sn": "63191",
+    "title": "守護の魔術",
+    "desc": "シールド値：%s",
+    "BuffDesc": "守<color=#000000>護</color>の魔術",
+    "addText": "AAAAAA==",
+    "removeText": "AAAAAA==",
+    "calText": "AAAAAA=="
+  },
+  {
+    "sn": "63361",
+    "title": "智慧の魔術",
+    "desc": "すべての属性相性が無になる。",
+    "BuffDesc": "智<color=#000000>慧</color>の魔術",
+    "addText": "AAAAAA==",
+    "removeText": "AAAAAA==",
+    "calText": "AAAAAA=="
+  },
+  {
+    "sn": "63371",
+    "title": "智慧の魔術",
+    "desc": "すべての属性相性が吸になる。",
+    "BuffDesc": "智<color=#000000>慧</color>の魔術",
+    "addText": "AAAAAA==",
+    "removeText": "AAAAAA==",
+    "calText": "AAAAAA=="
+  },
+  {
+    "sn": "63382",
+    "title": "防御力上昇",
+    "desc": "防御力%s上昇",
+    "BuffDesc": "防<color=#000000>御</color>力上昇",
+    "addText": "AAAAAA==",
+    "removeText": "AAAAAA==",
+    "calText": "AAAAAA=="
+  },
+  {
+    "sn": "63392",
+    "title": "防御力上昇",
+    "desc": "防御力%s上昇",
+    "BuffDesc": "防<color=#000000>御</color>力上昇",
+    "addText": "AAAAAA==",
+    "removeText": "AAAAAA==",
+    "calText": "AAAAAA=="
+  },
+  {
+    "sn": "63402",
+    "title": "防御力上昇",
+    "desc": "防御力%s上昇",
+    "BuffDesc": "防<color=#000000>御</color>力上昇",
+    "addText": "AAAAAA==",
+    "removeText": "AAAAAA==",
+    "calText": "AAAAAA=="
+  },
+  {
+    "sn": "63201",
+    "title": "死滅の呪い",
+    "desc": "一定数累積した時、即死する。",
+    "BuffDesc": "死<color=#000000>滅</color>の呪い",
+    "addText": "死滅の呪いを獲得した！",
+    "removeText": "AAAAAA==",
+    "calText": "AAAAAA=="
+  },
+  {
+    "sn": "63125",
+    "title": "与ダメージ上昇",
+    "desc": "最終ダメージが%s上昇する。",
+    "BuffDesc": "与<color=#000000>ダ</color>メージ上昇",
+    "addText": "AAAAAA==",
+    "removeText": "AAAAAA==",
+    "calText": "AAAAAA=="
+  },
+  {
+    "sn": "63126",
+    "title": "被ダメージ低下",
+    "desc": "受ける最終ダメージが%s低下する。",
+    "BuffDesc": "被<color=#000000>ダ</color>メージ低下",
+    "addText": "AAAAAA==",
+    "removeText": "AAAAAA==",
+    "calText": "AAAAAA=="
+  },
+  {
+    "sn": "63127",
+    "title": "与ダメージ低下",
+    "desc": "最終ダメージが%s低下する。",
+    "BuffDesc": "与<color=#000000>ダ</color>メージ低下",
+    "addText": "AAAAAA==",
+    "removeText": "AAAAAA==",
+    "calText": "AAAAAA=="
+  },
+  {
+    "sn": "63128",
+    "title": "被ダメージ上昇",
+    "desc": "受ける最終ダメージが%s上昇する。",
+    "BuffDesc": "被<color=#000000>ダ</color>メージ上昇",
+    "addText": "AAAAAA==",
+    "removeText": "AAAAAA==",
+    "calText": "AAAAAA=="
+  },
+  {
+    "sn": "63131",
+    "title": "与ダメージ上昇",
+    "desc": "最終ダメージが%s上昇する。",
+    "BuffDesc": "与<color=#000000>ダ</color>メージ上昇",
+    "addText": "AAAAAA==",
+    "removeText": "AAAAAA==",
+    "calText": "AAAAAA=="
+  },
+  {
+    "sn": "63132",
+    "title": "被ダメージ低下",
+    "desc": "受ける最終ダメージが%s低下する。",
+    "BuffDesc": "被<color=#000000>ダ</color>メージ低下",
+    "addText": "AAAAAA==",
+    "removeText": "AAAAAA==",
+    "calText": "AAAAAA=="
+  },
+  {
+    "sn": "63133",
+    "title": "与ダメージ上昇",
+    "desc": "最終ダメージが%s上昇する。",
+    "BuffDesc": "与<color=#000000>ダ</color>メージ上昇",
+    "addText": "AAAAAA==",
+    "removeText": "AAAAAA==",
+    "calText": "AAAAAA=="
+  },
+  {
+    "sn": "63134",
+    "title": "被ダメージ低下",
+    "desc": "受ける最終ダメージが%s低下する。",
+    "BuffDesc": "被<color=#000000>ダ</color>メージ低下",
     "addText": "AAAAAA==",
     "removeText": "AAAAAA==",
     "calText": "AAAAAA=="
@@ -12313,8 +13051,8 @@
   },
   {
     "sn": "39",
-    "title": "暴動防止エリア",
-    "desc": "クリティカルが発生しないが、最終ダメージが%s上昇する。",
+    "title": "クリティカル禁止区域",
+    "desc": "クリティカルが発生しないが、クリティカル率／ダメージに応じて最終ダメージが%s上昇する。",
     "BuffDesc": "AAAAAA==",
     "addText": "AAAAAA==",
     "removeText": "AAAAAA==",
@@ -12332,7 +13070,7 @@
   {
     "sn": "41",
     "title": "割合ダメージ低下",
-    "desc": "自身の最大ＨＰの割合に基づいて被ダメージが大幅に低下する。",
+    "desc": "自身が受ける最大ＨＰに基づく割合ダメージが大きく低下する。",
     "BuffDesc": "AAAAAA==",
     "addText": "AAAAAA==",
     "removeText": "AAAAAA==",
@@ -12341,7 +13079,7 @@
   {
     "sn": "42",
     "title": "割合ダメージ低下",
-    "desc": "自身の最大ＨＰの割合に基づいて被ダメージが超大幅に低下する。",
+    "desc": "自身が受ける最大ＨＰに基づく割合ダメージがとても大きく低下する。",
     "BuffDesc": "AAAAAA==",
     "addText": "AAAAAA==",
     "removeText": "AAAAAA==",
@@ -12350,7 +13088,7 @@
   {
     "sn": "43",
     "title": "割合ダメージ低下",
-    "desc": "自身の最大ＨＰの割合に基づいて被ダメージが極大幅に低下する。",
+    "desc": "自身が受ける最大ＨＰに基づく割合ダメージが極めて大きく低下する。",
     "BuffDesc": "AAAAAA==",
     "addText": "AAAAAA==",
     "removeText": "AAAAAA==",
@@ -17616,7 +18354,7 @@
     "sn": "27224",
     "title": "虚弱",
     "desc": "被ダメージが上昇する。",
-    "BuffDesc": "ス<color=#000000>テ</color>ータス低下",
+    "BuffDesc": "虚<color=#000000>弱</color>",
     "addText": "AAAAAA==",
     "removeText": "AAAAAA==",
     "calText": "AAAAAA=="
@@ -18508,6 +19246,15 @@
     "title": "特殊効果",
     "desc": "追加ターン中、クリティカル率とクリティカルダメージが２０%上昇する。",
     "BuffDesc": "AAAAAA==",
+    "addText": "AAAAAA==",
+    "removeText": "AAAAAA==",
+    "calText": "AAAAAA=="
+  },
+  {
+    "sn": "25221",
+    "title": "特殊効果",
+    "desc": "攻撃力が３０%上昇し、与ダメージが２０%上昇する。",
+    "BuffDesc": "特<color=#000000>殊</color>効果",
     "addText": "AAAAAA==",
     "removeText": "AAAAAA==",
     "calText": "AAAAAA=="
@@ -19586,10 +20333,10 @@
   {
     "sn": "30492",
     "title": "腕の守護",
-    "desc": "『腕の防御』があるとき、最終ダメージを%s低下させる。",
+    "desc": "『腕の防御』がある時に受ける最終ダメージを%s低下させる。",
     "BuffDesc": "腕<color=#000000>の</color>守護",
     "addText": "AAAAAA==",
-    "removeText": "ヘカトンケイルは、腕の守護を失った！",
+    "removeText": "AAAAAA==",
     "calText": "AAAAAA=="
   },
   {
@@ -19615,8 +20362,8 @@
     "title": "選択できない",
     "desc": "敵のスキルターゲットにされない。",
     "BuffDesc": "選<color=#000000>択</color>できない",
-    "addText": "ヘカトンケイルが選択できなくなった！\n腕を２０個撃破すると解除することができる…",
-    "removeText": "ヘカトンケイルを選択できるようになった！",
+    "addText": "AAAAAA==",
+    "removeText": "AAAAAA==",
     "calText": "AAAAAA=="
   },
   {
@@ -20039,6 +20786,105 @@
     "desc": "被ダメージが１０%上昇する。",
     "BuffDesc": "元<color=#000000>素</color>侵襲",
     "addText": "被ダメージが上がった！",
+    "removeText": "AAAAAA==",
+    "calText": "AAAAAA=="
+  },
+  {
+    "sn": "31060",
+    "title": "群知の侵蝕",
+    "desc": "最終ダメージが%s上昇する。",
+    "BuffDesc": "AAAAAA==",
+    "addText": "『群知の侵蝕』を獲得した！",
+    "removeText": "AAAAAA==",
+    "calText": "AAAAAA=="
+  },
+  {
+    "sn": "31061",
+    "title": "群知の侵蝕",
+    "desc": "最終ダメージが%s上昇する。",
+    "BuffDesc": "AAAAAA==",
+    "addText": "『群知の侵蝕』を獲得した！",
+    "removeText": "AAAAAA==",
+    "calText": "AAAAAA=="
+  },
+  {
+    "sn": "31062",
+    "title": "群知の侵蝕",
+    "desc": "最終ダメージが%s上昇する。",
+    "BuffDesc": "AAAAAA==",
+    "addText": "『群知の侵蝕』を獲得した！",
+    "removeText": "AAAAAA==",
+    "calText": "AAAAAA=="
+  },
+  {
+    "sn": "31063",
+    "title": "群知の侵蝕",
+    "desc": "最終ダメージが%s上昇する。",
+    "BuffDesc": "AAAAAA==",
+    "addText": "『群知の侵蝕』を獲得した！",
+    "removeText": "AAAAAA==",
+    "calText": "AAAAAA=="
+  },
+  {
+    "sn": "31064",
+    "title": "群知の侵蝕",
+    "desc": "最終ダメージが%s上昇する。",
+    "BuffDesc": "AAAAAA==",
+    "addText": "『群知の侵蝕』を獲得した！",
+    "removeText": "AAAAAA==",
+    "calText": "AAAAAA=="
+  },
+  {
+    "sn": "31065",
+    "title": "群知の侵蝕",
+    "desc": "最終ダメージが%s上昇する。",
+    "BuffDesc": "AAAAAA==",
+    "addText": "『群知の侵蝕』を獲得した！",
+    "removeText": "AAAAAA==",
+    "calText": "AAAAAA=="
+  },
+  {
+    "sn": "31066",
+    "title": "群知の侵蝕",
+    "desc": "最終ダメージが%s上昇する。",
+    "BuffDesc": "AAAAAA==",
+    "addText": "『群知の侵蝕』を獲得した！",
+    "removeText": "AAAAAA==",
+    "calText": "AAAAAA=="
+  },
+  {
+    "sn": "31067",
+    "title": "群知の侵蝕",
+    "desc": "最終ダメージが%s上昇する。",
+    "BuffDesc": "AAAAAA==",
+    "addText": "『群知の侵蝕』を獲得した！",
+    "removeText": "AAAAAA==",
+    "calText": "AAAAAA=="
+  },
+  {
+    "sn": "31068",
+    "title": "群知の侵蝕",
+    "desc": "最終ダメージが%s上昇する。",
+    "BuffDesc": "AAAAAA==",
+    "addText": "『群知の侵蝕』を獲得した！",
+    "removeText": "AAAAAA==",
+    "calText": "AAAAAA=="
+  },
+  {
+    "sn": "31069",
+    "title": "群知の侵蝕",
+    "desc": "最終ダメージが%s上昇する。",
+    "BuffDesc": "AAAAAA==",
+    "addText": "『群知の侵蝕』を獲得した！",
+    "removeText": "AAAAAA==",
+    "calText": "AAAAAA=="
+  },
+  {
+    "sn": "31070",
+    "title": "群知の侵蝕",
+    "desc": "最終ダメージが%s上昇する。",
+    "BuffDesc": "AAAAAA==",
+    "addText": "『群知の侵蝕』を獲得した！",
     "removeText": "AAAAAA==",
     "calText": "AAAAAA=="
   },
@@ -21853,7 +22699,7 @@
   },
   {
     "sn": "57281",
-    "title": "誠実＆責任",
+    "title": "誠実＆作業",
     "desc": "ＨＰ、攻撃力、防御力が、同じ属性の味方の数に応じて上昇する。",
     "BuffDesc": "AAAAAA==",
     "addText": "AAAAAA==",
@@ -21862,7 +22708,7 @@
   },
   {
     "sn": "57291",
-    "title": "決意＆責務",
+    "title": "決意＆作業",
     "desc": "防御力が１０%低下する。",
     "BuffDesc": "防<color=#000000>御</color>力低下",
     "addText": "AAAAAA==",
@@ -21880,7 +22726,7 @@
   },
   {
     "sn": "57331",
-    "title": "創造＆憂鬱",
+    "title": "創造＆心配",
     "desc": "クリティカルダメージが%s上昇する。",
     "BuffDesc": "AAAAAA==",
     "addText": "AAAAAA==",
@@ -22923,6 +23769,123 @@
     "calText": "AAAAAA=="
   },
   {
+    "sn": "37081",
+    "title": "感電",
+    "desc": "被クリティカル率１０%上昇",
+    "BuffDesc": "感<color=#000000>電</color>",
+    "addText": "AAAAAA==",
+    "removeText": "AAAAAA==",
+    "calText": "AAAAAA=="
+  },
+  {
+    "sn": "37101",
+    "title": "虚弱",
+    "desc": "行動不能、かつ選択対象にならない",
+    "BuffDesc": "AAAAAA==",
+    "addText": "AAAAAA==",
+    "removeText": "AAAAAA==",
+    "calText": "AAAAAA=="
+  },
+  {
+    "sn": "37111",
+    "title": "舞神の跳躍",
+    "desc": "防御力%s低下",
+    "BuffDesc": "舞<color=#000000>神</color>の跳躍",
+    "addText": "防御力が下がった！",
+    "removeText": "AAAAAA==",
+    "calText": "AAAAAA=="
+  },
+  {
+    "sn": "37112",
+    "title": "舞神の跳躍",
+    "desc": "被ＨＰ回復量%s低下",
+    "BuffDesc": "舞<color=#000000>神</color>の跳躍",
+    "addText": "被ＨＰ回復量が下がった！",
+    "removeText": "AAAAAA==",
+    "calText": "AAAAAA=="
+  },
+  {
+    "sn": "37121",
+    "title": "智慧",
+    "desc": "『破滅の舞』、『舞神の跳躍』を強化",
+    "BuffDesc": "智<color=#000000>慧</color>",
+    "addText": "AAAAAA==",
+    "removeText": "AAAAAA==",
+    "calText": "AAAAAA=="
+  },
+  {
+    "sn": "37131",
+    "title": "豊穣の母",
+    "desc": "攻撃力%s上昇",
+    "BuffDesc": "豊<color=#000000>穣</color>の母",
+    "addText": "AAAAAA==",
+    "removeText": "AAAAAA==",
+    "calText": "AAAAAA=="
+  },
+  {
+    "sn": "37132",
+    "title": "豊穣の母",
+    "desc": "防御力%s上昇",
+    "BuffDesc": "豊<color=#000000>穣</color>の母",
+    "addText": "AAAAAA==",
+    "removeText": "AAAAAA==",
+    "calText": "AAAAAA=="
+  },
+  {
+    "sn": "37141",
+    "title": "神気の障壁",
+    "desc": "すべての属性相性が無効になる。",
+    "BuffDesc": "神<color=#000000>気</color>の障壁",
+    "addText": "全属性が無効になった！",
+    "removeText": "属性相性が元に戻った！",
+    "calText": "AAAAAA=="
+  },
+  {
+    "sn": "37142",
+    "title": "慈愛の守護",
+    "desc": "受ける最終ダメージが%s低下する。",
+    "BuffDesc": "慈<color=#000000>愛</color>の守護",
+    "addText": "AAAAAA==",
+    "removeText": "AAAAAA==",
+    "calText": "AAAAAA=="
+  },
+  {
+    "sn": "37151",
+    "title": "智慧",
+    "desc": "『破滅の舞』、『舞神の跳躍』を強化",
+    "BuffDesc": "智<color=#000000>慧</color>",
+    "addText": "AAAAAA==",
+    "removeText": "AAAAAA==",
+    "calText": "AAAAAA=="
+  },
+  {
+    "sn": "37152",
+    "title": "智慧",
+    "desc": "『破滅の舞』、『舞神の跳躍』を強化",
+    "BuffDesc": "智<color=#000000>慧</color>",
+    "addText": "AAAAAA==",
+    "removeText": "AAAAAA==",
+    "calText": "AAAAAA=="
+  },
+  {
+    "sn": "37153",
+    "title": "智慧",
+    "desc": "『破滅の舞』、『舞神の跳躍』を強化",
+    "BuffDesc": "智<color=#000000>慧</color>",
+    "addText": "AAAAAA==",
+    "removeText": "AAAAAA==",
+    "calText": "AAAAAA=="
+  },
+  {
+    "sn": "45148",
+    "title": "特殊効果",
+    "desc": "最終ダメージが%s上昇する。",
+    "BuffDesc": "特<color=#000000>殊</color>効果",
+    "addText": "AAAAAA==",
+    "removeText": "AAAAAA==",
+    "calText": "AAAAAA=="
+  },
+  {
     "sn": "73021",
     "title": "料理効果",
     "desc": "毎ターン開始時に３%のＨＰを回復する。",
@@ -23095,7 +24058,7 @@
   },
   {
     "sn": "525411",
-    "title": "ステータス上昇",
+    "title": "果断の戦斧",
     "desc": "状態異常命中が%s上昇する。",
     "BuffDesc": "AAAAAA==",
     "addText": "AAAAAA==",
@@ -23104,7 +24067,7 @@
   },
   {
     "sn": "525412",
-    "title": "ステータス上昇",
+    "title": "果断の戦斧",
     "desc": "攻撃力が%s上昇する。",
     "BuffDesc": "AAAAAA==",
     "addText": "AAAAAA==",
@@ -23113,7 +24076,7 @@
   },
   {
     "sn": "525531",
-    "title": "ステータス上昇",
+    "title": "決断の戦斧",
     "desc": "攻撃力が%s上昇する。",
     "BuffDesc": "ス<color=#000000>テ</color>ータス上昇",
     "addText": "AAAAAA==",
@@ -24156,11 +25119,110 @@
     "calText": "AAAAAA=="
   },
   {
+    "sn": "5151011",
+    "title": "遠隔攻撃被ダメージ上昇",
+    "desc": "遠隔攻撃の被ダメージが%s上昇する。",
+    "BuffDesc": "AAAAAA==",
+    "addText": "AAAAAA==",
+    "removeText": "AAAAAA==",
+    "calText": "AAAAAA=="
+  },
+  {
     "sn": "5221012",
     "title": "冥夜の加護",
     "desc": "受ける最終ダメージが%s低下する。",
     "BuffDesc": "冥<color=#000000>夜</color>の加護",
     "addText": "受ける最終ダメージが下がった！",
+    "removeText": "AAAAAA==",
+    "calText": "AAAAAA=="
+  },
+  {
+    "sn": "5391011",
+    "title": "維持神の加護",
+    "desc": "物理属性の属性相性が耐性に変化する。",
+    "BuffDesc": "AAAAAA==",
+    "addText": "AAAAAA==",
+    "removeText": "AAAAAA==",
+    "calText": "AAAAAA=="
+  },
+  {
+    "sn": "5391012",
+    "title": "維持神の加護",
+    "desc": "銃撃属性の属性相性が耐性に変化する。",
+    "BuffDesc": "AAAAAA==",
+    "addText": "AAAAAA==",
+    "removeText": "AAAAAA==",
+    "calText": "AAAAAA=="
+  },
+  {
+    "sn": "5391013",
+    "title": "維持神の加護",
+    "desc": "火炎属性の属性相性が耐性に変化する。",
+    "BuffDesc": "AAAAAA==",
+    "addText": "AAAAAA==",
+    "removeText": "AAAAAA==",
+    "calText": "AAAAAA=="
+  },
+  {
+    "sn": "5391014",
+    "title": "維持神の加護",
+    "desc": "氷結属性の属性相性が耐性に変化する。",
+    "BuffDesc": "AAAAAA==",
+    "addText": "AAAAAA==",
+    "removeText": "AAAAAA==",
+    "calText": "AAAAAA=="
+  },
+  {
+    "sn": "5391015",
+    "title": "維持神の加護",
+    "desc": "電撃属性の属性相性が耐性に変化する。",
+    "BuffDesc": "AAAAAA==",
+    "addText": "AAAAAA==",
+    "removeText": "AAAAAA==",
+    "calText": "AAAAAA=="
+  },
+  {
+    "sn": "5391016",
+    "title": "維持神の加護",
+    "desc": "疾風属性の属性相性が耐性に変化する。",
+    "BuffDesc": "AAAAAA==",
+    "addText": "AAAAAA==",
+    "removeText": "AAAAAA==",
+    "calText": "AAAAAA=="
+  },
+  {
+    "sn": "5391017",
+    "title": "維持神の加護",
+    "desc": "念動属性の属性相性が耐性に変化する。",
+    "BuffDesc": "AAAAAA==",
+    "addText": "AAAAAA==",
+    "removeText": "AAAAAA==",
+    "calText": "AAAAAA=="
+  },
+  {
+    "sn": "5391018",
+    "title": "維持神の加護",
+    "desc": "核熱属性の属性相性が耐性に変化する。",
+    "BuffDesc": "AAAAAA==",
+    "addText": "AAAAAA==",
+    "removeText": "AAAAAA==",
+    "calText": "AAAAAA=="
+  },
+  {
+    "sn": "5391019",
+    "title": "維持神の加護",
+    "desc": "祝福属性の属性相性が耐性に変化する。",
+    "BuffDesc": "AAAAAA==",
+    "addText": "AAAAAA==",
+    "removeText": "AAAAAA==",
+    "calText": "AAAAAA=="
+  },
+  {
+    "sn": "5391020",
+    "title": "維持神の加護",
+    "desc": "呪怨属性の属性相性が耐性に変化する。",
+    "BuffDesc": "AAAAAA==",
+    "addText": "AAAAAA==",
     "removeText": "AAAAAA==",
     "calText": "AAAAAA=="
   },
@@ -24499,7 +25561,7 @@
   },
   {
     "sn": "533311",
-    "title": "tdxct-[Weapon_skillName_213302]",
+    "title": "氷のいばら",
     "desc": "シールド効果が%s上昇する。",
     "BuffDesc": "シ<color=#000000>ー</color>ルド効果上昇",
     "addText": "AAAAAA==",
@@ -24508,7 +25570,7 @@
   },
   {
     "sn": "533531",
-    "title": "tdxct-[Weapon_skillName_213304]",
+    "title": "誓約のいばら",
     "desc": "与ダメージが%s上昇する。",
     "BuffDesc": "ダ<color=#000000>メ</color>ージ上昇",
     "addText": "AAAAAA==",
@@ -24562,7 +25624,7 @@
   },
   {
     "sn": "521351",
-    "title": "tdxct-[Weapon_skillName_212112]",
+    "title": "凍嵐の兆",
     "desc": "疾風属性の与ダメージが%s上昇する。",
     "BuffDesc": "AAAAAA==",
     "addText": "AAAAAA==",
@@ -24571,7 +25633,7 @@
   },
   {
     "sn": "521352",
-    "title": "tdxct-[Weapon_skillName_212112]",
+    "title": "凍嵐の兆",
     "desc": "氷結属性の与ダメージが%s上昇する。",
     "BuffDesc": "AAAAAA==",
     "addText": "AAAAAA==",
@@ -24580,7 +25642,7 @@
   },
   {
     "sn": "521461",
-    "title": "tdxct-[Weapon_skillName_212113]",
+    "title": "霜露の刃",
     "desc": "攻撃力が%s上昇する。",
     "BuffDesc": "AAAAAA==",
     "addText": "AAAAAA==",
@@ -24589,7 +25651,7 @@
   },
   {
     "sn": "521561",
-    "title": "tdxct-[Weapon_skillName_212114]",
+    "title": "天鵝の翼",
     "desc": "クリティカル率%sが上昇する。",
     "BuffDesc": "AAAAAA==",
     "addText": "AAAAAA==",
@@ -24598,7 +25660,7 @@
   },
   {
     "sn": "521571",
-    "title": "tdxct-[Weapon_skillName_212114]",
+    "title": "天鵝の翼",
     "desc": "疾風属性の与ダメージが%s上昇する。",
     "BuffDesc": "AAAAAA==",
     "addText": "AAAAAA==",
@@ -24607,7 +25669,7 @@
   },
   {
     "sn": "521581",
-    "title": "tdxct-[Weapon_skillName_212114]",
+    "title": "天鵝の翼",
     "desc": "氷結属性の与ダメージが%s上昇する。",
     "BuffDesc": "AAAAAA==",
     "addText": "AAAAAA==",
@@ -24646,6 +25708,42 @@
     "title": "深淵の邪視",
     "desc": "防御力が%s低下する。",
     "BuffDesc": "深<color=#000000>淵</color>の邪視",
+    "addText": "AAAAAA==",
+    "removeText": "AAAAAA==",
+    "calText": "AAAAAA=="
+  },
+  {
+    "sn": "546411",
+    "title": "更生に導く光",
+    "desc": "攻撃力%s上昇",
+    "BuffDesc": "AAAAAA==",
+    "addText": "AAAAAA==",
+    "removeText": "AAAAAA==",
+    "calText": "AAAAAA=="
+  },
+  {
+    "sn": "546521",
+    "title": "片羽の蝶",
+    "desc": "与ダメージ%s上昇",
+    "BuffDesc": "片<color=#000000>羽</color>の蝶",
+    "addText": "AAAAAA==",
+    "removeText": "AAAAAA==",
+    "calText": "AAAAAA=="
+  },
+  {
+    "sn": "546522",
+    "title": "片羽の蝶",
+    "desc": "クリティカルダメージ%s上昇",
+    "BuffDesc": "片<color=#000000>羽</color>の蝶",
+    "addText": "AAAAAA==",
+    "removeText": "AAAAAA==",
+    "calText": "AAAAAA=="
+  },
+  {
+    "sn": "57461",
+    "title": "誕生＆動力",
+    "desc": "『デザイアレベル』%s上昇",
+    "BuffDesc": "AAAAAA==",
     "addText": "AAAAAA==",
     "removeText": "AAAAAA==",
     "calText": "AAAAAA=="
@@ -25971,6 +27069,15 @@
     "BuffDesc": "AAAAAA==",
     "addText": "%sの全属性が吸収に変わった！",
     "removeText": "全属性が元に戻った！",
+    "calText": "AAAAAA=="
+  },
+  {
+    "sn": "42032",
+    "title": "AAAAAA==",
+    "desc": "AAAAAA==",
+    "BuffDesc": "AAAAAA==",
+    "addText": "属性相性が変化した！",
+    "removeText": "AAAAAA==",
     "calText": "AAAAAA=="
   },
   {

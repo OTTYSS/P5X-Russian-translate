@@ -280,7 +280,7 @@
     "iconThiefScale": 1,
     "iconThiefOffset": "155,-190",
     "iconPersona": "Texture-update-panther-persona.png",
-    "iconPersonaOffset": "267,-35",
+    "iconPersonaOffset": "339,-36",
     "iconCode": "Texture-update-panther-code.png",
     "iconCodeOffset": "11,3",
     "iconWeak": "Texture-update-panther-weak.png"
@@ -339,7 +339,7 @@
   },
   {
     "sn": 1251,
-    "isOpen": 0,
+    "isOpen": 1,
     "order": 2701,
     "iconThief": "Texture-update-noir-thief.png",
     "iconThiefScale": 1,
@@ -443,7 +443,7 @@
   },
   {
     "sn": 1331,
-    "isOpen": 0,
+    "isOpen": 1,
     "order": 2601,
     "iconThief": "Texture-update-cherish-thief.png",
     "iconThiefScale": 1,
@@ -453,5 +453,18 @@
     "iconCode": "Texture-update-cherish-code.png",
     "iconCodeOffset": "-8,-9",
     "iconWeak": "Texture-update-cherish-weak.png"
+  },
+  {
+    "sn": 1461,
+    "isOpen": 1,
+    "order": 4921,
+    "iconThief": "Texture-update-JandC-thief.png",
+    "iconThiefScale": 1,
+    "iconThiefOffset": "-46,-46",
+    "iconPersona": "Texture-update-JandC-persona.png",
+    "iconPersonaOffset": "151,-31",
+    "iconCode": "Texture-update-JandC-code-en.png",
+    "iconCodeOffset": "-9,-13",
+    "iconWeak": "Texture-update-JandC-weak.png"
   }
 ]

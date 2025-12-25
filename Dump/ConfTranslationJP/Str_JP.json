@@ -1064,13 +1064,6 @@
     "option2": "AAAAAA=="
   },
   {
-    "sn": "11311",
-    "strContent": "<color=#FF423F>レベルアップで超過した経験値は怪盗レベルアップ素材に変換されます。</color>\nレベルアップしますか？",
-    "option1": "決定",
-    "showName": "ル<#000000,フ,#FFFFFF>ェル",
-    "option2": "やめておく"
-  },
-  {
     "sn": "11312",
     "strContent": "怪盗をフォローしました。",
     "option1": "AAAAAA==",
@@ -2440,6 +2433,13 @@
     "strContent": "精神的な干渉を受けており、第三の目を起動できません。",
     "option1": "AAAAAA==",
     "showName": "AAAAAA==",
+    "option2": "AAAAAA=="
+  },
+  {
+    "sn": "12520",
+    "strContent": "ロボットがエネルギーを帯びてて、近づけないぞ。",
+    "option1": "AAAAAA==",
+    "showName": "ル<#000000,フ,#FFFFFF>ェル",
     "option2": "AAAAAA=="
   },
   {
@@ -4361,6 +4361,13 @@
     "option2": "AAAAAA=="
   },
   {
+    "sn": "15312",
+    "strContent": "『%s』は期間外のため利用できません。",
+    "option1": "AAAAAA==",
+    "showName": "AAAAAA==",
+    "option2": "AAAAAA=="
+  },
+  {
     "sn": "15401",
     "strContent": "同時に複数のテーマにはチャレンジできません。",
     "option1": "AAAAAA==",
@@ -4635,7 +4642,7 @@
   },
   {
     "sn": "18004",
-    "strContent": "逃走するとロボットが引き継ぎます。続けますか？\n<color=#FFC000>このゲームが終了するまで新しいゲームを開始できません。</color>",
+    "strContent": "対戦から離脱しますか？\n離脱後はオートで進行し、<color=#FFC000>この対戦が終了するまで、新しい対戦を開始することはできません。</color>",
     "option1": "決定",
     "showName": "ル<#000000,フ,#FFFFFF>ェル",
     "option2": "やめておく"
@@ -4656,7 +4663,7 @@
   },
   {
     "sn": "18007",
-    "strContent": "退出すると現在のゲームを離れ、報酬を得ることができません。続けますか？",
+    "strContent": "退出すると現在のゲームを離れ、報酬を得ることができません。退出しますか？",
     "option1": "決定",
     "showName": "ル<#000000,フ,#FFFFFF>ェル",
     "option2": "やめておく"
@@ -4712,14 +4719,14 @@
   },
   {
     "sn": "18015",
-    "strContent": "『%s』をクラシック版カードに切り替えました。",
+    "strContent": "『%s』のカードスキンを変更しました。",
     "option1": "AAAAAA==",
     "showName": "AAAAAA==",
     "option2": "AAAAAA=="
   },
   {
     "sn": "18016",
-    "strContent": "『%s』をカスタム版カードに切り替えました。",
+    "strContent": "『%s』のカードスキンを変更しました。",
     "option1": "AAAAAA==",
     "showName": "AAAAAA==",
     "option2": "AAAAAA=="
@@ -4747,14 +4754,14 @@
   },
   {
     "sn": "18020",
-    "strContent": "このモードはまだオープンしていません。お楽しみに。",
+    "strContent": "新モードは今後のアップデートで解放されます。",
     "option1": "AAAAAA==",
     "showName": "AAAAAA==",
     "option2": "AAAAAA=="
   },
   {
     "sn": "18021",
-    "strContent": "このカードにはまだカスタム版のカードがありません。お楽しみに。",
+    "strContent": "このカードには、カードスキンがありません。",
     "option1": "AAAAAA==",
     "showName": "AAAAAA==",
     "option2": "AAAAAA=="
@@ -4783,6 +4790,69 @@
   {
     "sn": "18025",
     "strContent": "このプレイヤーのスタンプ送信の<color=#FFC000>ブロック</color>を解除しました。",
+    "option1": "AAAAAA==",
+    "showName": "AAAAAA==",
+    "option2": "AAAAAA=="
+  },
+  {
+    "sn": "18026",
+    "strContent": "『エクストラカード』が不足しています。交換所か、ミッションで入手することができます。",
+    "option1": "AAAAAA==",
+    "showName": "AAAAAA==",
+    "option2": "AAAAAA=="
+  },
+  {
+    "sn": "18027",
+    "strContent": "エクストラコインが不足しています。マッチングを開始できません。",
+    "option1": "AAAAAA==",
+    "showName": "AAAAAA==",
+    "option2": "AAAAAA=="
+  },
+  {
+    "sn": "18028",
+    "strContent": "エクストラコインが不足しており参加に必要な額に達していないため、マッチングを開始できません。",
+    "option1": "AAAAAA==",
+    "showName": "AAAAAA==",
+    "option2": "AAAAAA=="
+  },
+  {
+    "sn": "18029",
+    "strContent": "本日獲得できる『サポート補給』の上限に達しました。明日またお受け取りください。",
+    "option1": "AAAAAA==",
+    "showName": "AAAAAA==",
+    "option2": "AAAAAA=="
+  },
+  {
+    "sn": "18030",
+    "strContent": "現在マッチング中のため、対戦ステージを変更することはできません。",
+    "option1": "AAAAAA==",
+    "showName": "AAAAAA==",
+    "option2": "AAAAAA=="
+  },
+  {
+    "sn": "18031",
+    "strContent": "エクストラコインが上限に達しており、これ以上獲得できません。",
+    "option1": "AAAAAA==",
+    "showName": "AAAAAA==",
+    "option2": "AAAAAA=="
+  },
+  {
+    "sn": "18032",
+    "strContent": "最大上限を超えています。",
+    "option1": "AAAAAA==",
+    "showName": "AAAAAA==",
+    "option2": "AAAAAA=="
+  },
+  {
+    "sn": "18033",
+    "strContent": "キャラクターを１人以上選択してください。",
+    "option1": "AAAAAA==",
+    "showName": "AAAAAA==",
+    "option2": "AAAAAA=="
+  },
+  {
+    "sn": "18034",
+    "strContent": "大富豪のオンラインプレイは現在行えません。停止期間：%s日",
     "option1": "AAAAAA==",
     "showName": "AAAAAA==",
     "option2": "AAAAAA=="
@@ -5133,9 +5203,9 @@
   {
     "sn": "1000074",
     "strContent": "神楽鈴が足りないため、祈願を行うことができません。",
-    "option1": "購入",
-    "showName": "ル<#000000,フ,#FFFFFF>ェル",
-    "option2": "考え直す"
+    "option1": "AAAAAA==",
+    "showName": "AAAAAA==",
+    "option2": "AAAAAA=="
   },
   {
     "sn": "1000075",
@@ -5293,10 +5363,10 @@
   },
   {
     "sn": "1000138",
-    "strContent": "<color=#FF423F>強化で超過した経験値は強化素材に変換されます。</color>\n強化しますか？",
-    "option1": "確認",
+    "strContent": "この強化で超過した経験値は共通素材に変換されました。",
+    "option1": "AAAAAA==",
     "showName": "AAAAAA==",
-    "option2": "やめておく"
+    "option2": "AAAAAA=="
   },
   {
     "sn": "1000139",
@@ -5404,25 +5474,11 @@
     "option2": "AAAAAA=="
   },
   {
-    "sn": "1000154",
-    "strContent": "超過した強化経験値は、次のレベルに引き継がれます。選択した素材で強化しますか？",
-    "option1": "確認",
-    "showName": "AAAAAA==",
-    "option2": "やめておく"
-  },
-  {
     "sn": "1000155",
     "strContent": "サーバーに再接続しました",
     "option1": "AAAAAA==",
     "showName": "AAAAAA==",
     "option2": "AAAAAA=="
-  },
-  {
-    "sn": "1000156",
-    "strContent": "強化経験値が超過していますが、選択した素材で強化しますか？",
-    "option1": "確認",
-    "showName": "AAAAAA==",
-    "option2": "やめておく"
   },
   {
     "sn": "1000187",
@@ -5622,7 +5678,7 @@
   },
   {
     "sn": "1000321",
-    "strContent": "『{0}』×{1}を消費して、普段着{2}を購入しますか？",
+    "strContent": "『{0}』×{1}を消費して、日常服{2}を購入しますか？",
     "option1": "確認",
     "showName": "AAAAAA==",
     "option2": "やめておく"
@@ -5693,13 +5749,6 @@
   {
     "sn": "1000407",
     "strContent": "すでに啓示カードを装備中です。外して、この啓示カードを装備しますか？",
-    "option1": "確認",
-    "showName": "AAAAAA==",
-    "option2": "やめておく"
-  },
-  {
-    "sn": "1000408",
-    "strContent": "強化されている啓示カードです。変換を行うと、超過した経験値が戻ります。変換しますか？",
     "option1": "確認",
     "showName": "AAAAAA==",
     "option2": "やめておく"
@@ -5867,14 +5916,14 @@
   },
   {
     "sn": "1000440",
-    "strContent": "セット<color=#FFDE00>{0}</color>、位置<color=#FFDE00>{1}</color>、主属性<color=#FFDE00>{2}</color>の啓示カードをカスタマイズしますか？",
+    "strContent": "セット<color=#FFDE00>{0}</color>、マーク<color=#FFDE00>{1}</color>、主属性<color=#FFDE00>{2}</color>の啓示カードをカスタマイズしますか？",
     "option1": "確認",
     "showName": "AAAAAA==",
     "option2": "やめておく"
   },
   {
     "sn": "1000441",
-    "strContent": "セット<color=#FFDE00>{0}</color>、位置<color=#FFDE00>{1}</color>、主属性<color=#FFDE00>{2}</color>の啓示カードをカスタマイズしますか？",
+    "strContent": "セット<color=#FFDE00>{0}</color>、マーク<color=#FFDE00>{1}</color>、主属性<color=#FFDE00>{2}</color>の啓示カードをカスタマイズしますか？",
     "option1": "確認",
     "showName": "AAAAAA==",
     "option2": "やめておく"
@@ -5937,7 +5986,7 @@
   },
   {
     "sn": "1000451",
-    "strContent": "現在選択されている溶解セットは{0}位置で、切り替えできません。",
+    "strContent": "現在選択中の啓示が『{0}』にあるため、切り替えできません。",
     "option1": "AAAAAA==",
     "showName": "AAAAAA==",
     "option2": "AAAAAA=="
@@ -5965,7 +6014,7 @@
   },
   {
     "sn": "1000455",
-    "strContent": "溶解上限に追加されました。",
+    "strContent": "クイック選択の上限に達しました。",
     "option1": "AAAAAA==",
     "showName": "AAAAAA==",
     "option2": "AAAAAA=="
@@ -6112,7 +6161,7 @@
   },
   {
     "sn": "1000431",
-    "strContent": "位置：<color=#f1b500>{0}</color>、セット：<color=#f1b500>{1}</color>、主属性：<color=#f1b500>{2}</color>で啓示カードのカスタマイズを実行しますか？",
+    "strContent": "マーク：<color=#f1b500>{0}</color>、セット：<color=#f1b500>{1}</color>、主属性：<color=#f1b500>{2}</color>で啓示カードのカスタマイズを実行しますか？",
     "option1": "確認",
     "showName": "AAAAAA==",
     "option2": "やめておく"
@@ -6294,7 +6343,7 @@
   },
   {
     "sn": "1000459",
-    "strContent": "『{0}』位置のランダム主属性には以下が含まれます：{1}",
+    "strContent": "『{0}』のランダム主属性には以下が含まれます：{1}",
     "option1": "AAAAAA==",
     "showName": "AAAAAA==",
     "option2": "AAAAAA=="
@@ -6445,13 +6494,6 @@
     "option1": "AAAAAA==",
     "showName": "AAAAAA==",
     "option2": "AAAAAA=="
-  },
-  {
-    "sn": "1010156",
-    "strContent": "怪盗レベルは最大になりますが、経験値が%d超過します。操作を続けますか？",
-    "option1": "継続",
-    "showName": "ル<#000000,フ,#FFFFFF>ェル",
-    "option2": "考え直す"
   },
   {
     "sn": "1010201",
@@ -9451,7 +9493,7 @@
   },
   {
     "sn": "1014327",
-    "strContent": "雑司ヶ谷。\n都内豊島区に所在する街であり \n自宅がある場所だ。",
+    "strContent": "雑司ヶ谷。\n都内豊島区に所在する街であり\n自宅がある場所だ。",
     "option1": "AAAAAA==",
     "showName": "AAAAAA==",
     "option2": "AAAAAA=="
@@ -9609,6 +9651,13 @@
     "option1": "決定",
     "showName": "ル<#000000,フ,#FFFFFF>ェル",
     "option2": "やめておく"
+  },
+  {
+    "sn": "1015034",
+    "strContent": "ペルソナの組み合わせはロールの条件を満たしていないため、変更するまで出撃できません。",
+    "option1": "AAAAAA==",
+    "showName": "AAAAAA==",
+    "option2": "AAAAAA=="
   },
   {
     "sn": "1017001",
@@ -9934,10 +9983,10 @@
   },
   {
     "sn": "1019056",
-    "strContent": "獅子田と話すのか？",
-    "option1": "決定",
+    "strContent": "獅子田と過ごすのか？",
+    "option1": "過ごす",
     "showName": "ル<#000000,フ,#FFFFFF>ェル",
-    "option2": "また後にしよう"
+    "option2": "やめておく"
   },
   {
     "sn": "1019057",
@@ -10053,7 +10102,7 @@
   },
   {
     "sn": "1019070",
-    "strContent": "ここでカラオケをするのか？\n料金は『<color=#FF423F>１５００円</color> 』だな。",
+    "strContent": "ここでカラオケをするのか？\n料金は『<color=#FF423F>１５００円</color>』だな。",
     "option1": "カラオケをする",
     "showName": "ル<#000000,フ,#FFFFFF>ェル",
     "option2": "やっぱりやめる"
@@ -10085,6 +10134,13 @@
     "option1": "やろう",
     "showName": "ル<#000000,フ,#FFFFFF>ェル",
     "option2": "やめておく"
+  },
+  {
+    "sn": "1019078",
+    "strContent": "あ、おにいさん…",
+    "option1": "日和を手伝う",
+    "showName": "小<#000000,出,#FFFFFF> 日和",
+    "option2": "今は止めておく"
   },
   {
     "sn": "1019104",
@@ -10341,7 +10397,7 @@
   {
     "sn": "1019211",
     "strContent": "海夕と一緒に過ごすのか？",
-    "option1": "分かった",
+    "option1": "海夕と過ごす",
     "showName": "ル<#000000,フ,#FFFFFF>ェル",
     "option2": "他の予定が…"
   },
@@ -10368,10 +10424,10 @@
   },
   {
     "sn": "1019212",
-    "strContent": "今日は海夕と過ごそうか…",
-    "option1": "じゃあ一緒に行くよ",
-    "showName": "AAAAAA==",
-    "option2": "今は少し難しい…"
+    "strContent": "海夕と一緒に過ごすのか？",
+    "option1": "海夕と過ごす",
+    "showName": "ル<#000000,フ,#FFFFFF>ェル",
+    "option2": "他の予定が…"
   },
   {
     "sn": "1019192",
@@ -10389,10 +10445,10 @@
   },
   {
     "sn": "1019220",
-    "strContent": "今日は芦谷を家に連れて帰って遊びますか？",
-    "option1": "いいね",
+    "strContent": "なんと答えようか…",
+    "option1": "いいよ",
     "showName": "AAAAAA==",
-    "option2": "今日はあまり都合が良くない"
+    "option2": "今日はちょっと…"
   },
   {
     "sn": "1019218",
@@ -10445,10 +10501,10 @@
   },
   {
     "sn": "1019221",
-    "strContent": "琴音と一緒に行きますか？",
-    "option1": "私も一緒に行く",
-    "showName": "AAAAAA==",
-    "option2": "今はあまり都合が良くない…"
+    "strContent": "琴音と過ごすのか？",
+    "option1": "琴音と過ごす",
+    "showName": "ル<#000000,フ,#FFFFFF>ェル",
+    "option2": "他の予定が…"
   },
   {
     "sn": "1019184",
@@ -10473,10 +10529,10 @@
   },
   {
     "sn": "1019222",
-    "strContent": "琴音と一緒に過ごしますか？",
-    "option1": "一緒に過ごす",
+    "strContent": "琴音と過ごすのか？",
+    "option1": "琴音と過ごす",
     "showName": "ル<#000000,フ,#FFFFFF>ェル",
-    "option2": "他の予定ができた…"
+    "option2": "他の予定が…"
   },
   {
     "sn": "1020110",
@@ -10536,7 +10592,7 @@
   },
   {
     "sn": "1019226",
-    "strContent": "このシナジーミッションのストーリーは『野毛朋子』協同ストーリー任務の後に発生します。前置任務を完了して、完全な体験を得ることをお勧めします。",
+    "strContent": "プレイ体験に影響を与える可能性があるため、『野毛朋子』のシナジーストーリー体験後にプレイ開始することをおすすめします。",
     "option1": "AAAAAA==",
     "showName": "AAAAAA==",
     "option2": "AAAAAA=="
@@ -11257,7 +11313,7 @@
   },
   {
     "sn": "1023056",
-    "strContent": "任意の2人の怪盗の適合レベルを5に上げると報酬を受け取れます。",
+    "strContent": "任意の２人の怪盗の訪問レベルを５に上げると報酬を受け取れます。",
     "option1": "AAAAAA==",
     "showName": "AAAAAA==",
     "option2": "AAAAAA=="
@@ -11383,7 +11439,7 @@
   },
   {
     "sn": "1023059",
-    "strContent": "『マイパレスミッション』の任意の4つのタスクを完了すると報酬を受け取れます。",
+    "strContent": "『マイパレスミッション』の任意の４つのミッションを完了すると報酬を受け取れます。",
     "option1": "AAAAAA==",
     "showName": "AAAAAA==",
     "option2": "AAAAAA=="
@@ -11425,7 +11481,7 @@
   },
   {
     "sn": "1023064",
-    "strContent": "このタスクはまだありません。メインストーリーを進めて、『<color=#FF423F>マイパレス</color>』機能を解放してください。",
+    "strContent": "このミッションはまだありません。メインストーリーを進めて、『<color=#FF423F>マイパレス</color>』機能を解放してください。",
     "option1": "AAAAAA==",
     "showName": "AAAAAA==",
     "option2": "AAAAAA=="
@@ -11748,13 +11804,6 @@
   {
     "sn": "1026001",
     "strContent": "素材<color=#FF423F>%s</color>を選択しています。\n強化しますか？",
-    "option1": "確認",
-    "showName": "AAAAAA==",
-    "option2": "やめておく"
-  },
-  {
-    "sn": "1026002",
-    "strContent": "素材<color=#FF423F>%s</color>を選択しています。\n強化すると経験値が超過します。<color=#FF423F>超過した経験値は戻ります</color>。\n強化しますか？",
     "option1": "確認",
     "showName": "AAAAAA==",
     "option2": "やめておく"
@@ -12258,7 +12307,7 @@
   },
   {
     "sn": "1036028",
-    "strContent": "{0}タスク『{1}』を完了すると解放されます。<color=#FFDE00>野毛朋子の協力者ストーリーを完了すると、より良い体験ができます。</color>",
+    "strContent": "{0}タスク『{1}』を達成すると解放。<color=#FFDE00>野毛朋子のシナジーストーリーを進めると、より楽しめます。</color>",
     "option1": "AAAAAA==",
     "showName": "AAAAAA==",
     "option2": "AAAAAA=="
@@ -13987,7 +14036,7 @@
   },
   {
     "sn": "1049018",
-    "strContent": "ここで『マイパレス』を解放できますが、\nすぐに実行しますか？\nサブストーリー『未知を切り開け』の前に解放すると、\n商売人のシャドウとの関係性が前後します。n\\※ストーリー自体に変化はありません。",
+    "strContent": "ここで『マイパレス』を解放できますが、\nすぐに実行しますか？\nサブストーリー『未知を切り開け』の前に解放すると、\n商売人のシャドウとの関係性が前後します。\n※ストーリー自体に変化はありません。",
     "option1": "決定",
     "showName": "ル<#000000,フ,#FFFFFF>ェル",
     "option2": "やめておく"
@@ -14012,6 +14061,13 @@
     "option1": "AAAAAA==",
     "showName": "AAAAAA==",
     "option2": "AAAAAA=="
+  },
+  {
+    "sn": "1047247",
+    "strContent": "ストーリー体験に影響を与えるため、<color=#FF423F>怪盗団３人目の覚醒後</color>に挑戦することを推奨しますが、すぐに開始しますか？",
+    "option1": "決定",
+    "showName": "AAAAAA==",
+    "option2": "やめておく"
   },
   {
     "sn": "1050087",
@@ -14134,10 +14190,52 @@
   },
   {
     "sn": "1047249",
-    "strContent": "ストーリー体験に影響を与えるため、ピラミッド編４－１０をクリアした後に挑戦することを推奨しますが、すぐに開始しますか？",
+    "strContent": "ストーリー体験に影響を与えるため、宇宙基地編５－１０をクリアした後に挑戦することを推奨しますが、すぐに開始しますか？",
     "option1": "決定",
     "showName": "ル<#000000,フ,#FFFFFF>ェル",
     "option2": "やめておく"
+  },
+  {
+    "sn": "1050612",
+    "strContent": "リセットすると編成ロックが解除され、挑戦回数が回復し、ボスＨＰがリセットされます。\n最高スコアは変わりません。\nリセットしますか？",
+    "option1": "決定",
+    "showName": "AAAAAA==",
+    "option2": "やめておく"
+  },
+  {
+    "sn": "1050613",
+    "strContent": "本日の挑戦回数は使い果たしました。明日再度挑戦してください。",
+    "option1": "AAAAAA==",
+    "showName": "AAAAAA==",
+    "option2": "AAAAAA=="
+  },
+  {
+    "sn": "1050614",
+    "strContent": "難易度LV.%sクリアで解放",
+    "option1": "AAAAAA==",
+    "showName": "AAAAAA==",
+    "option2": "AAAAAA=="
+  },
+  {
+    "sn": "1050615",
+    "strContent": "ラストモードが未開放です。",
+    "option1": "AAAAAA==",
+    "showName": "AAAAAA==",
+    "option2": "AAAAAA=="
+  },
+  {
+    "sn": "1050616",
+    "strContent": "ボスは撃破済みのため、挑戦できません。",
+    "option1": "AAAAAA==",
+    "showName": "AAAAAA==",
+    "option2": "AAAAAA=="
+  },
+  {
+    "sn": "1050617",
+    "strContent": "主人公以外に<color=#FFD145>４</color>名の怪盗を出陣させる必要があります。",
+    "option1": "AAAAAA==",
+    "showName": "AAAAAA==",
+    "option2": "AAAAAA=="
   },
   {
     "sn": "1051001",
@@ -14765,6 +14863,13 @@
   {
     "sn": "1052057",
     "strContent": "ミッションがありません。メインストーリーを進めると解放されます。",
+    "option1": "AAAAAA==",
+    "showName": "AAAAAA==",
+    "option2": "AAAAAA=="
+  },
+  {
+    "sn": "1050632",
+    "strContent": "毎日ログインで新しいおみくじを獲得",
     "option1": "AAAAAA==",
     "showName": "AAAAAA==",
     "option2": "AAAAAA=="
@@ -17529,84 +17634,84 @@
   },
   {
     "sn": "1064181",
-    "strContent": "以下が開放されました。\n『<color=#FF423F>制御センター下層・前ホール</color>』のショートカット。",
+    "strContent": "以下が開放されました。\n『<color=#FF423F>コントロールセンター下層・前ホール</color>』のショートカット。",
     "option1": "AAAAAA==",
     "showName": "AAAAAA==",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1064182",
-    "strContent": "以下が開放されました。\n『<color=#FF423F>制御センター下層・相談室廊下</color>』のショートカット。",
+    "strContent": "以下が開放されました。\n『<color=#FF423F>コントロールセンター下層・相談室廊下</color>』のショートカット。",
     "option1": "AAAAAA==",
     "showName": "AAAAAA==",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1064183",
-    "strContent": "以下が開放されました。\n『<color=#FF423F>制御センター下層・階段室</color>』のショートカット。",
+    "strContent": "以下が開放されました。\n『<color=#FF423F>コントロールセンター下層・階段室</color>』のショートカット。",
     "option1": "AAAAAA==",
     "showName": "AAAAAA==",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1064184",
-    "strContent": "以下が開放されました。\n『<color=#FF423F>制御センター下層・相談室廊下</color>』のショートカット。",
+    "strContent": "以下が開放されました。\n『<color=#FF423F>コントロールセンター下層・相談室廊下</color>』のショートカット。",
     "option1": "AAAAAA==",
     "showName": "AAAAAA==",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1064185",
-    "strContent": "以下が開放されました。\n『<color=#FF423F>制御センター下層・制御室</color>』のショートカット。",
+    "strContent": "以下が開放されました。\n『<color=#FF423F>コントロールセンター下層・制御室</color>』のショートカット。",
     "option1": "AAAAAA==",
     "showName": "AAAAAA==",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1064186",
-    "strContent": "以下が開放されました。\n『<color=#FF423F>制御センター下層・食堂</color>』のショートカット。",
+    "strContent": "以下が開放されました。\n『<color=#FF423F>コントロールセンター下層・食堂</color>』のショートカット。",
     "option1": "AAAAAA==",
     "showName": "AAAAAA==",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1064201",
-    "strContent": "以下が開放されました。\n『<color=#FF423F>制御センター下層・中庭広場</color>』のショートカット。",
+    "strContent": "以下が開放されました。\n『<color=#FF423F>コントロールセンター下層・中庭広場</color>』のショートカット。",
     "option1": "AAAAAA==",
     "showName": "AAAAAA==",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1064187",
-    "strContent": "以下が開放されました。\n『<color=#FF423F>制御センター下層・中央廊下</color>』のショートカット。",
+    "strContent": "以下が開放されました。\n『<color=#FF423F>コントロールセンター下層・中央廊下</color>』のショートカット。",
     "option1": "AAAAAA==",
     "showName": "AAAAAA==",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1064188",
-    "strContent": "以下が開放されました。\n『<color=#FF423F>制御センター下層・東側廊下</color>』のショートカット。",
+    "strContent": "以下が開放されました。\n『<color=#FF423F>コントロールセンター下層・東側廊下</color>』のショートカット。",
     "option1": "AAAAAA==",
     "showName": "AAAAAA==",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1064189",
-    "strContent": "以下が開放されました。\n『<color=#FF423F>制御センター下層・南東食堂</color>』のショートカット。",
+    "strContent": "以下が開放されました。\n『<color=#FF423F>コントロールセンター下層・南東食堂</color>』のショートカット。",
     "option1": "AAAAAA==",
     "showName": "AAAAAA==",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1064190",
-    "strContent": "以下が開放されました。\n『<color=#FF423F>制御センター下層・南東廊下</color>』のショートカット。",
+    "strContent": "以下が開放されました。\n『<color=#FF423F>コントロールセンター下層・南東廊下</color>』のショートカット。",
     "option1": "AAAAAA==",
     "showName": "AAAAAA==",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1064202",
-    "strContent": "以下が開放されました。\n『<color=#FF423F>水処理場中層・北側通路</color>』のショートカット。",
+    "strContent": "以下が開放されました。\n『<color=#FF423F>コントロールセンター上層・北側通路</color>』のショートカット。",
     "option1": "AAAAAA==",
     "showName": "AAAAAA==",
     "option2": "AAAAAA=="
@@ -17620,28 +17725,28 @@
   },
   {
     "sn": "1064203",
-    "strContent": "以下が開放されました。\n『<color=#FF423F>制御センター上層・東側食堂</color>』のショートカット。",
+    "strContent": "以下が開放されました。\n『<color=#FF423F>コントロールセンター上層・東側食堂</color>』のショートカット。",
     "option1": "AAAAAA==",
     "showName": "AAAAAA==",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1064204",
-    "strContent": "以下が開放されました。\n『<color=#FF423F>制御センター上層・北西食堂</color>』のショートカット。",
+    "strContent": "以下が開放されました。\n『<color=#FF423F>コントロールセンター上層・北西食堂</color>』のショートカット。",
     "option1": "AAAAAA==",
     "showName": "AAAAAA==",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1064205",
-    "strContent": "以下が開放されました。\n『<color=#FF423F>制御センター上層・南西食堂</color>』のショートカット。",
+    "strContent": "以下が開放されました。\n『<color=#FF423F>コントロールセンター上層・南西食堂</color>』のショートカット。",
     "option1": "AAAAAA==",
     "showName": "AAAAAA==",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1064206",
-    "strContent": "以下が開放されました。\n『<color=#FF423F>制御センター上層・西側制御室</color>』のショートカット。",
+    "strContent": "以下が開放されました。\n『<color=#FF423F>コントロールセンター上層・西側制御室</color>』のショートカット。",
     "option1": "AAAAAA==",
     "showName": "AAAAAA==",
     "option2": "AAAAAA=="
@@ -20392,247 +20497,247 @@
   },
   {
     "sn": "1150001",
-    "strContent": "じゃあ、行ってくるね。",
+    "strContent": "今日はどこまでいけるかな。",
     "option1": "AAAAAA==",
     "showName": "芦谷真咲",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1150002",
-    "strContent": "よし、行こうか。",
+    "strContent": "周囲を探索してみようか。",
     "option1": "AAAAAA==",
     "showName": "芦谷真咲",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1150003",
-    "strContent": "AAAAAA==",
+    "strContent": "目的地に到着だね。",
     "option1": "AAAAAA==",
     "showName": "芦谷真咲",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1150004",
-    "strContent": "AAAAAA==",
+    "strContent": "あれ、通路があるみたいだね。",
     "option1": "AAAAAA==",
     "showName": "芦谷真咲",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1150005",
-    "strContent": "AAAAAA==",
+    "strContent": "開かないみたいだね。",
     "option1": "AAAAAA==",
     "showName": "芦谷真咲",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1150006",
-    "strContent": "AAAAAA==",
+    "strContent": "ドアが壊れてるのかな？",
     "option1": "AAAAAA==",
     "showName": "芦谷真咲",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1150007",
-    "strContent": "ただいま。お待たせしちゃったかな？",
+    "strContent": "やったね、お疲れ様。",
     "option1": "AAAAAA==",
     "showName": "芦谷真咲",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1150008",
-    "strContent": "AAAAAA==",
+    "strContent": "宝箱があるみたいだよ。",
     "option1": "AAAAAA==",
     "showName": "芦谷真咲",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1150009",
-    "strContent": "AAAAAA==",
+    "strContent": "ちょっと、疲れちゃった…かも。",
     "option1": "AAAAAA==",
     "showName": "芦谷真咲",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1150010",
-    "strContent": "何が入ってるのかな？",
+    "strContent": "何が入ってるのかな。",
     "option1": "AAAAAA==",
     "showName": "芦谷真咲",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1150011",
-    "strContent": "なんとか達成できたみたい。",
+    "strContent": "ふふ、よかったね。",
     "option1": "AAAAAA==",
     "showName": "芦谷真咲",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1150012",
-    "strContent": "AAAAAA==",
+    "strContent": "シャドウだね、大丈夫、ボクがついてる。",
     "option1": "AAAAAA==",
     "showName": "芦谷真咲",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1150013",
-    "strContent": "AAAAAA==",
+    "strContent": "セーフルームを見つけたよ。",
     "option1": "AAAAAA==",
     "showName": "芦谷真咲",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1150014",
-    "strContent": "AAAAAA==",
+    "strContent": "そろそろ休んだ方がいいよ。",
     "option1": "AAAAAA==",
     "showName": "芦谷真咲",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1150015",
-    "strContent": "楽しい依頼だったね。次も行きたいな。",
+    "strContent": "楽しかった。また誘ってね。",
     "option1": "AAAAAA==",
     "showName": "芦谷真咲",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1150016",
-    "strContent": "お疲れ様！\u3000今日は休ませてもらおうかな。",
+    "strContent": "お疲れ様。今夜はしっかり休もうね。",
     "option1": "AAAAAA==",
     "showName": "芦谷真咲",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1150017",
-    "strContent": "AAAAAA==",
+    "strContent": "嫌な予感がする…ボクの後ろに隠れて。",
     "option1": "AAAAAA==",
     "showName": "芦谷真咲",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1150018",
-    "strContent": "AAAAAA==",
+    "strContent": "疲れてるんじゃない？\u3000少し休もう。",
     "option1": "AAAAAA==",
     "showName": "芦谷真咲",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1151001",
-    "strContent": "AAAAAA==",
+    "strContent": "まだいけるけど…かなり厳しいわね。",
     "option1": "AAAAAA==",
-    "showName": "琴音・モンターニュ\u3000ダンス",
+    "showName": "琴音・アイスストーム",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1151002",
-    "strContent": "準備はできたわ。",
+    "strContent": "準備はできてるわね？\u3000行きましょう！",
     "option1": "AAAAAA==",
-    "showName": "琴音・モンターニュ\u3000ダンス",
+    "showName": "琴音・アイスストーム",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1151003",
-    "strContent": "目的地到着ね。",
+    "strContent": "目的地ね。",
     "option1": "AAAAAA==",
-    "showName": "琴音・モンターニュ\u3000ダンス",
+    "showName": "琴音・アイスストーム",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1151004",
-    "strContent": "セーフルームね。少し休みましょう。",
+    "strContent": "セーフルームね。少し休みましょう",
     "option1": "AAAAAA==",
-    "showName": "琴音・モンターニュ\u3000ダンス",
+    "showName": "琴音・アイスストーム",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1151005",
-    "strContent": "AAAAAA==",
+    "strContent": "これからどうする？",
     "option1": "AAAAAA==",
-    "showName": "琴音・モンターニュ\u3000ダンス",
+    "showName": "琴音・アイスストーム",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1151006",
     "strContent": "シャドウよ。用心して。",
     "option1": "AAAAAA==",
-    "showName": "琴音・モンターニュ\u3000ダンス",
+    "showName": "琴音・アイスストーム",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1151007",
     "strContent": "向こうから行けないかしら？",
     "option1": "AAAAAA==",
-    "showName": "琴音・モンターニュ\u3000ダンス",
+    "showName": "琴音・アイスストーム",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1151008",
-    "strContent": "依頼完了ね。",
+    "strContent": "ミッションコンプリートね",
     "option1": "AAAAAA==",
-    "showName": "琴音・モンターニュ\u3000ダンス",
+    "showName": "琴音・アイスストーム",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1151009",
     "strContent": "宝箱よ。何が入ってるかしら。",
     "option1": "AAAAAA==",
-    "showName": "琴音・モンターニュ\u3000ダンス",
+    "showName": "琴音・アイスストーム",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1151010",
     "strContent": "ふふっ、収穫ありね。",
     "option1": "AAAAAA==",
-    "showName": "琴音・モンターニュ\u3000ダンス",
+    "showName": "琴音・アイスストーム",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1151011",
-    "strContent": "AAAAAA==",
+    "strContent": "隠し通路があるわ。風の音がするの。",
     "option1": "AAAAAA==",
-    "showName": "琴音・モンターニュ\u3000ダンス",
+    "showName": "琴音・アイスストーム",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1151012",
     "strContent": "到着よ。ワンダー。これからどうする？",
     "option1": "AAAAAA==",
-    "showName": "琴音・モンターニュ\u3000ダンス",
+    "showName": "琴音・アイスストーム",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1151013",
-    "strContent": "AAAAAA==",
+    "strContent": "通れそうにないわね。",
     "option1": "AAAAAA==",
-    "showName": "琴音・モンターニュ\u3000ダンス",
+    "showName": "琴音・アイスストーム",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1151014",
-    "strContent": "AAAAAA==",
+    "strContent": "良い物、入ってる？",
     "option1": "AAAAAA==",
-    "showName": "琴音・モンターニュ\u3000ダンス",
+    "showName": "琴音・アイスストーム",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1151015",
-    "strContent": "お疲れ様。ストレッチを忘れずに。",
+    "strContent": "お疲れ様。クールダウン、忘れちゃダメよ。",
     "option1": "AAAAAA==",
-    "showName": "琴音・モンターニュ\u3000ダンス",
+    "showName": "琴音・アイスストーム",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1151016",
-    "strContent": "AAAAAA==",
+    "strContent": "強敵ね…チャレンジしてみる？",
     "option1": "AAAAAA==",
-    "showName": "琴音・モンターニュ\u3000ダンス",
+    "showName": "琴音・アイスストーム",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1151017",
-    "strContent": "AAAAAA==",
+    "strContent": "そろそろ休むべきね。体への負担を考慮すべきだわ",
     "option1": "AAAAAA==",
-    "showName": "琴音・モンターニュ\u3000ダンス",
+    "showName": "琴音・アイスストーム",
     "option2": "AAAAAA=="
   },
   {
@@ -21071,14 +21176,14 @@
   },
   {
     "sn": "1080018",
-    "strContent": "怪盗を１人選んでから説明を確認してください。\n注：選択後は自由に変更できます。",
+    "strContent": "怪盗を１人選んでから確認してください。\n※怪盗の選択状態は、抽選開始まで自由に変更できます。",
     "option1": "AAAAAA==",
     "showName": "AAAAAA==",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1080016",
-    "strContent": "推奨される契約では、<color=#FF423F>３人</color>の怪盗をロックできます。\n契約を確認すると、<color=#FF423F>{0}</color>{0}が<color=#FF423F>１つのロック枠を占有します</color>。\n契約を開始してもよろしいですか？\n注：このカードプールが有効な間、UPキャラクターは３人のロックされた怪盗からのみ選択できますので、慎重に選んでください。",
+    "strContent": "『怪ドルセレクション』では、ラインナップの限定★５怪盗からピックアップする怪盗を３体選択できます。\n抽選を開始すると３体中の１体が『{0}』となり、怪盗の変更はできなくなります。\n契約を開始してもよろしいですか？\n※★５怪盗の選択状態は、CHANCE/TARGETで共通となります。",
     "option1": "決定",
     "showName": "ル<#000000,フ,#FFFFFF>ェル",
     "option2": "やめておく"
@@ -26314,7 +26419,7 @@
   },
   {
     "sn": "1206003",
-    "strContent": "都市生活『<color=#ffc000>小出日和と話す</color>』\nが解放されました。\n毎日一定の確率で発生します。",
+    "strContent": "都市生活『<color=#ffc000>日和と話す</color>』\nが解放されました。\n毎日一定の確率で発生します。",
     "option1": "AAAAAA==",
     "showName": "AAAAAA==",
     "option2": "AAAAAA=="
@@ -26356,7 +26461,7 @@
   },
   {
     "sn": "1206009",
-    "strContent": "都市生活『<color=#ffc000>獅々田と話す</color>』\nが解放されました。\n毎日一定の確率で発生します。",
+    "strContent": "都市生活『<color=#ffc000>獅子田と話す</color>』\nが解放されました。\n毎日一定の確率で発生します。",
     "option1": "AAAAAA==",
     "showName": "AAAAAA==",
     "option2": "AAAAAA=="
@@ -26628,6 +26733,153 @@
     "option2": "AAAAAA=="
   },
   {
+    "sn": "1174001",
+    "strContent": "今日はどこに行くんだ、早くしろ。",
+    "option1": "AAAAAA==",
+    "showName": "カロリーヌ",
+    "option2": "AAAAAA=="
+  },
+  {
+    "sn": "1174002",
+    "strContent": "ここのようです。",
+    "option1": "AAAAAA==",
+    "showName": "ジュスティーヌ",
+    "option2": "AAAAAA=="
+  },
+  {
+    "sn": "1174003",
+    "strContent": "目的地ですね。",
+    "option1": "AAAAAA==",
+    "showName": "ジュスティーヌ",
+    "option2": "AAAAAA=="
+  },
+  {
+    "sn": "1174004",
+    "strContent": "この気配は…隠し通路のようです。",
+    "option1": "AAAAAA==",
+    "showName": "ジュスティーヌ",
+    "option2": "AAAAAA=="
+  },
+  {
+    "sn": "1174005",
+    "strContent": "鍵がかかっているようだな。",
+    "option1": "AAAAAA==",
+    "showName": "カロリーヌ",
+    "option2": "AAAAAA=="
+  },
+  {
+    "sn": "1174006",
+    "strContent": "うん？\u3000どうやらここは入れないようだ。",
+    "option1": "AAAAAA==",
+    "showName": "カロリーヌ",
+    "option2": "AAAAAA=="
+  },
+  {
+    "sn": "1174007",
+    "strContent": "いい調子ですね、新人。",
+    "option1": "AAAAAA==",
+    "showName": "ジュスティーヌ",
+    "option2": "AAAAAA=="
+  },
+  {
+    "sn": "1174008",
+    "strContent": "む、あれは…貴重なものかもしれん、行くぞ！",
+    "option1": "AAAAAA==",
+    "showName": "カロリーヌ",
+    "option2": "AAAAAA=="
+  },
+  {
+    "sn": "1174009",
+    "strContent": "さっさとしろ、新人！",
+    "option1": "AAAAAA==",
+    "showName": "カロリーヌ",
+    "option2": "AAAAAA=="
+  },
+  {
+    "sn": "1174019",
+    "strContent": "回復をお願いします。",
+    "option1": "AAAAAA==",
+    "showName": "ジュスティーヌ",
+    "option2": "AAAAAA=="
+  },
+  {
+    "sn": "1174010",
+    "strContent": "この高揚感…いい物に違いありません。",
+    "option1": "AAAAAA==",
+    "showName": "ジュスティーヌ",
+    "option2": "AAAAAA=="
+  },
+  {
+    "sn": "1174011",
+    "strContent": "ほう、これは…悪くない！",
+    "option1": "AAAAAA==",
+    "showName": "カロリーヌ",
+    "option2": "AAAAAA=="
+  },
+  {
+    "sn": "1174012",
+    "strContent": "この先に敵がいるようです。",
+    "option1": "AAAAAA==",
+    "showName": "ジュスティーヌ",
+    "option2": "AAAAAA=="
+  },
+  {
+    "sn": "1174022",
+    "strContent": "どうする？\u3000新人。",
+    "option1": "AAAAAA==",
+    "showName": "カロリーヌ",
+    "option2": "AAAAAA=="
+  },
+  {
+    "sn": "1174013",
+    "strContent": "セーフルームだな。休んでいってもいいぞ。",
+    "option1": "AAAAAA==",
+    "showName": "カロリーヌ",
+    "option2": "AAAAAA=="
+  },
+  {
+    "sn": "1174014",
+    "strContent": "セーフルーム、ですか。一休みしますか？",
+    "option1": "AAAAAA==",
+    "showName": "ジュスティーヌ",
+    "option2": "AAAAAA=="
+  },
+  {
+    "sn": "1174015",
+    "strContent": "今日はここまでのようだな！",
+    "option1": "AAAAAA==",
+    "showName": "カロリーヌ",
+    "option2": "AAAAAA=="
+  },
+  {
+    "sn": "1174016",
+    "strContent": "帰るとしましょう。",
+    "option1": "AAAAAA==",
+    "showName": "ジュスティーヌ",
+    "option2": "AAAAAA=="
+  },
+  {
+    "sn": "1174017",
+    "strContent": "あの敵は…気を引き締めなさい、新人。",
+    "option1": "AAAAAA==",
+    "showName": "ジュスティーヌ",
+    "option2": "AAAAAA=="
+  },
+  {
+    "sn": "1174018",
+    "strContent": "人間には休息が必要だと聞いたが、\n貴様はいいのか？",
+    "option1": "AAAAAA==",
+    "showName": "カロリーヌ",
+    "option2": "AAAAAA=="
+  },
+  {
+    "sn": "1080026",
+    "strContent": "怪盗を１人選んでから確認してください。\n※怪盗の選択状態は、抽選開始まで自由に変更できます。",
+    "option1": "AAAAAA==",
+    "showName": "AAAAAA==",
+    "option2": "AAAAAA=="
+  },
+  {
     "sn": "1209306",
     "strContent": "宝物をすべて開けました。",
     "option1": "AAAAAA==",
@@ -26776,7 +27028,7 @@
   },
   {
     "sn": "1209434",
-    "strContent": "都市に行き、スケジュールを遂行して人格パラメータを上げてください。",
+    "strContent": "都市に行き、スケジュールを遂行して人間パラメータを上げてください。",
     "option1": "AAAAAA==",
     "showName": "AAAAAA==",
     "option2": "AAAAAA=="
@@ -27672,21 +27924,21 @@
   },
   {
     "sn": "1213001",
-    "strContent": "小型礼砲が不足しています。",
+    "strContent": "記念クラッカーが不足しています。",
     "option1": "AAAAAA==",
     "showName": "AAAAAA==",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1213002",
-    "strContent": "個人の熱量値報酬はすべて受け取り済みです。",
+    "strContent": "記念クラッカー報酬はすべて受け取り済みです。",
     "option1": "AAAAAA==",
     "showName": "AAAAAA==",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1214001",
-    "strContent": "終了を確認しますか？\n*終了後、記念冊を再度見ることができます。\n*記念冊を完全に視聴した後、記念冊を共有して共有報酬を得ることができます。",
+    "strContent": "閲覧を終了しますか？\nプレイバックは再度見ることができます。\nプレイバックを全て見終えた後に共有することで報酬を獲得することができます。",
     "option1": "決定",
     "showName": "ル<#000000,フ,#FFFFFF>ェル",
     "option2": "やめておく"
@@ -27813,6 +28065,13 @@
   {
     "sn": "1212010",
     "strContent": "イベント『夏だ！水着だ！ＳＥＡ\u3000ＴＩＭＥ！』を進めて代里海岸を解放してください。",
+    "option1": "AAAAAA==",
+    "showName": "AAAAAA==",
+    "option2": "AAAAAA=="
+  },
+  {
+    "sn": "1216005",
+    "strContent": "現在のプレイを終了後、イベントに参加できます。",
     "option1": "AAAAAA==",
     "showName": "AAAAAA==",
     "option2": "AAAAAA=="
@@ -30556,7 +30815,7 @@
   },
   {
     "sn": "1209458",
-    "strContent": "大賞は獲得済ですが他の商品が残っています。この福引きを行いますか？",
+    "strContent": "まだ『大賞』を獲得していません。このまま福引きを行いますか？",
     "option1": "AAAAAA==",
     "showName": "AAAAAA==",
     "option2": "AAAAAA=="
@@ -30772,6 +31031,153 @@
     "option2": "AAAAAA=="
   },
   {
+    "sn": "1157451",
+    "strContent": "侵入者、発見！",
+    "option1": "AAAAAA==",
+    "showName": "AAAAAA==",
+    "option2": "AAAAAA=="
+  },
+  {
+    "sn": "1157452",
+    "strContent": "侵入者ヲ発見、迎撃シーケンスへ移行！",
+    "option1": "AAAAAA==",
+    "showName": "AAAAAA==",
+    "option2": "AAAAAA=="
+  },
+  {
+    "sn": "1157453",
+    "strContent": "止マリナサイ！\u3000止マリナサイ！",
+    "option1": "AAAAAA==",
+    "showName": "AAAAAA==",
+    "option2": "AAAAAA=="
+  },
+  {
+    "sn": "1157454",
+    "strContent": "ターゲット、ロック。\u3000追跡シマス！",
+    "option1": "AAAAAA==",
+    "showName": "AAAAAA==",
+    "option2": "AAAAAA=="
+  },
+  {
+    "sn": "1157455",
+    "strContent": "ターゲット反応、ロスト。",
+    "option1": "AAAAAA==",
+    "showName": "AAAAAA==",
+    "option2": "AAAAAA=="
+  },
+  {
+    "sn": "1157456",
+    "strContent": "侵入者、警備範囲外ヘノ逃走ヲ確認。",
+    "option1": "AAAAAA==",
+    "showName": "AAAAAA==",
+    "option2": "AAAAAA=="
+  },
+  {
+    "sn": "1157457",
+    "strContent": "セーフモード、移行中。",
+    "option1": "AAAAAA==",
+    "showName": "AAAAAA==",
+    "option2": "AAAAAA=="
+  },
+  {
+    "sn": "1157458",
+    "strContent": "異常ナシ、巡回モードヲ継続シマス。",
+    "option1": "AAAAAA==",
+    "showName": "AAAAAA==",
+    "option2": "AAAAAA=="
+  },
+  {
+    "sn": "1157459",
+    "strContent": "侵入者ハ発見次第、排除シマス。",
+    "option1": "AAAAAA==",
+    "showName": "AAAAAA==",
+    "option2": "AAAAAA=="
+  },
+  {
+    "sn": "1157460",
+    "strContent": "警戒モード、侵入者ノ探索ヲ最優先。",
+    "option1": "AAAAAA==",
+    "showName": "AAAAAA==",
+    "option2": "AAAAAA=="
+  },
+  {
+    "sn": "1157461",
+    "strContent": "対象ノ警護ト、巡回ヲ継続シマス。",
+    "option1": "AAAAAA==",
+    "showName": "AAAAAA==",
+    "option2": "AAAAAA=="
+  },
+  {
+    "sn": "1157462",
+    "strContent": "警護モード、対象ノ保護ヲ最優先。",
+    "option1": "AAAAAA==",
+    "showName": "AAAAAA==",
+    "option2": "AAAAAA=="
+  },
+  {
+    "sn": "1157463",
+    "strContent": "侵入者ヲ確認。\n指示ヲ願イマス。",
+    "option1": "AAAAAA==",
+    "showName": "AAAAAA==",
+    "option2": "AAAAAA=="
+  },
+  {
+    "sn": "1157464",
+    "strContent": "施設内ヲ、侵入者ガ逃走中。\n増援ヲ要請シマス。",
+    "option1": "AAAAAA==",
+    "showName": "AAAAAA==",
+    "option2": "AAAAAA=="
+  },
+  {
+    "sn": "1157465",
+    "strContent": "セーフモード、移行中。",
+    "option1": "AAAAAA==",
+    "showName": "AAAAAA==",
+    "option2": "AAAAAA=="
+  },
+  {
+    "sn": "1157466",
+    "strContent": "索敵範囲ヲ、外レマシタ。\n通常索敵範囲ニ、戻リマス。",
+    "option1": "AAAAAA==",
+    "showName": "AAAAAA==",
+    "option2": "AAAAAA=="
+  },
+  {
+    "sn": "1157467",
+    "strContent": "従業員ノ勤務態度ニ問題有リ。\n服従措置ヲ実行シマス。",
+    "option1": "AAAAAA==",
+    "showName": "AAAAAA==",
+    "option2": "AAAAAA=="
+  },
+  {
+    "sn": "1157468",
+    "strContent": "製品ノ異常ヲ感知シマシタ。\n販売ノ許容範囲内デス。",
+    "option1": "AAAAAA==",
+    "showName": "AAAAAA==",
+    "option2": "AAAAAA=="
+  },
+  {
+    "sn": "1157469",
+    "strContent": "従業員ノ会話ヲ取得中。\n抵抗値ハ許容範囲内デス。",
+    "option1": "AAAAAA==",
+    "showName": "AAAAAA==",
+    "option2": "AAAAAA=="
+  },
+  {
+    "sn": "1157470",
+    "strContent": "侵入者パーソナリティ共有中。\n検索エラー、該当アリマセン。",
+    "option1": "AAAAAA==",
+    "showName": "AAAAAA==",
+    "option2": "AAAAAA=="
+  },
+  {
+    "sn": "1157471",
+    "strContent": "今日モ元気ニ働キマショウ！\nオ客様ハ神様デス！",
+    "option1": "AAAAAA==",
+    "showName": "AAAAAA==",
+    "option2": "AAAAAA=="
+  },
+  {
     "sn": "1132208",
     "strContent": "行ってくるね。",
     "option1": "AAAAAA==",
@@ -30843,14 +31249,14 @@
   },
   {
     "sn": "1300001",
-    "strContent": "現在カスタム版カードを持っていません。パラダイスデパート『大富豪専用カウンター』でアンロックできます。",
+    "strContent": "『カンパニオショップ』でカスタムカードを獲得することができます。",
     "option1": "AAAAAA==",
     "showName": "AAAAAA==",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1300101",
-    "strContent": "現在このキャラクターを持っていません。パラダイスデパート『大富豪専用カウンター』でアンロックできます。",
+    "strContent": "『カンパニオショップ』でこのキャラクター専用の招待状と交換することで解放できます。",
     "option1": "AAAAAA==",
     "showName": "AAAAAA==",
     "option2": "AAAAAA=="
@@ -31683,14 +32089,14 @@
   },
   {
     "sn": "1301001",
-    "strContent": "使用回数がもうありません。参戦を設定できません。",
+    "strContent": "編成可能回数の上限に達しているため、編成できません。",
     "option1": "AAAAAA==",
     "showName": "AAAAAA==",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1301002",
-    "strContent": "挑戦を行うには、少なくとも３人の出撃怪盗を設定する必要があります。",
+    "strContent": "怪盗を３人の編成してください。",
     "option1": "AAAAAA==",
     "showName": "AAAAAA==",
     "option2": "AAAAAA=="
@@ -31704,35 +32110,35 @@
   },
   {
     "sn": "1301004",
-    "strContent": "陣容の中に挑戦回数が不足している怪盗がいるため、挑戦できません。",
+    "strContent": "編成可能回数が上限に達している怪盗がいるため、挑戦できません。",
     "option1": "AAAAAA==",
     "showName": "AAAAAA==",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1301005",
-    "strContent": "消費した<color=#ffc000>精神力</color>と<color=#ffc000>参加回数</color>を<color=#ffc000>返還</color>し、今回の<color=#FF423F>挑戦結果</color>を<color=#FF423F>放棄</color>します。よろしいですか？",
+    "strContent": "撤退しますか？\n精神力と編成可能回数はバトル開始前の状態に戻ります。",
     "option1": "決定",
     "showName": "ル<#000000,フ,#FFFFFF>ェル",
     "option2": "やめておく"
   },
   {
     "sn": "1301006",
-    "strContent": "消費した<color=#ffc000>精神力</color>と<color=#ffc000>参加回数</color>を<color=#ffc000>全て返還</color>し、モニタリングポイントの<color=#FF423F>挑戦進捗</color>を<color=#FF423F>放棄</color>します。よろしいですか？",
+    "strContent": "観測点の挑戦に使用した<color=#ffc000>精神力</color>と<color=#ffc000>編成可能回数</color>が回復します。\nまた。観測点が未クリア状態になります。\nよろしいですか？",
     "option1": "決定",
     "showName": "ル<#000000,フ,#FFFFFF>ェル",
     "option2": "やめておく"
   },
   {
     "sn": "1301007",
-    "strContent": "消費した<color=#ffc000>精神力</color>と<color=#ffc000>参加回数</color>を<color=#ffc000>全て返還</color>し、モニタリングポイントを<color=#FF423F>再占領</color>した後、新しいモニタリングポイントに挑戦できます。よろしいですか？",
+    "strContent": "リセットしますか？\n観測点の挑戦に使用した<color=#ffc000>精神力</color>と<color=#ffc000>編成可能回数</color>が回復します。\n観測点は未クリア状態になるため、再度クリアしないと新しい観測点に挑戦することはできません。",
     "option1": "決定",
     "showName": "ル<#000000,フ,#FFFFFF>ェル",
     "option2": "やめておく"
   },
   {
     "sn": "1301008",
-    "strContent": "既に通過したモニタリングポイントを<color=#FF423F>再占領</color>してから、再度挑戦してください。",
+    "strContent": "既に通過した観測点を<color=#FF423F>クリア</color>しないと挑戦できません。",
     "option1": "AAAAAA==",
     "showName": "AAAAAA==",
     "option2": "AAAAAA=="
@@ -31956,14 +32362,14 @@
   },
   {
     "sn": "1300002",
-    "strContent": "カスタム版カードを所持していません。『芦谷真咲』シナジーストーリーでアンロックできます。",
+    "strContent": "『芦谷真咲』シナジーを進めると獲得することができます。",
     "option1": "AAAAAA==",
     "showName": "AAAAAA==",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1300102",
-    "strContent": "このキャラクターを所持していません。『芦谷真咲』シナジーストーリーでアンロックできます。",
+    "strContent": "『芦谷真咲』シナジーを進めると獲得することができます。",
     "option1": "AAAAAA==",
     "showName": "AAAAAA==",
     "option2": "AAAAAA=="
@@ -32131,7 +32537,7 @@
   },
   {
     "sn": "1133104",
-    "strContent": "この力が生かせるのなら。",
+    "strContent": "この力が活かせるのなら。",
     "option1": "AAAAAA==",
     "showName": "芦谷真咲",
     "option2": "AAAAAA=="
@@ -32530,21 +32936,21 @@
   },
   {
     "sn": "1301009",
-    "strContent": "今期の<color=#FF423F>すべての監視ポイント</color>の挑戦進捗を<color=#FF423F>放棄</color>し、消費した<color=#ffc000>精神力</color>と<color=#ffc000>参加回数</color>を<color=#ffc000>すべて返還</color>します。監視ポイントを<color=#FF423F>すべて再占領</color>した後に、挑戦を続けることができます。よろしいですか？",
+    "strContent": "リセットしますか？\nすべての観測点がリセットされ、挑戦に使用した<color=#ffc000>精神力</color>と<color=#ffc000>編成可能回数</color>が回復します。観測点は未クリア状態になるため、再度クリアしないと新しい観測点に挑戦することはできません。",
     "option1": "決定",
     "showName": "ル<#000000,フ,#FFFFFF>ェル",
     "option2": "やめておく"
   },
   {
     "sn": "1301010",
-    "strContent": "監視ポイントのリセットに成功しました。",
+    "strContent": "監視点のリセットに成功しました。",
     "option1": "AAAAAA==",
     "showName": "AAAAAA==",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1301011",
-    "strContent": "このプレイモードはレベル70以降に開放されます。",
+    "strContent": "レベル７０で解放されます。",
     "option1": "AAAAAA==",
     "showName": "AAAAAA==",
     "option2": "AAAAAA=="
@@ -32578,6 +32984,13 @@
     "option2": "やめておく"
   },
   {
+    "sn": "1303005",
+    "strContent": "主人公レベル%sで、『%s』が解放されます。",
+    "option1": "AAAAAA==",
+    "showName": "AAAAAA==",
+    "option2": "AAAAAA=="
+  },
+  {
     "sn": "1303004",
     "strContent": "『%s』はまだ解放されていません。",
     "option1": "AAAAAA==",
@@ -32585,10 +32998,164 @@
     "option2": "AAAAAA=="
   },
   {
+    "sn": "1209464",
+    "strContent": "『怪盗トライアル』の期間限定イベントは終了しました。",
+    "option1": "AAAAAA==",
+    "showName": "AAAAAA==",
+    "option2": "AAAAAA=="
+  },
+  {
+    "sn": "1209469",
+    "strContent": "現在所持している『トライアルキー』で、すべての怪盗トライアルを解放できます。それでも購入しますか？",
+    "option1": "決定",
+    "showName": "ル<#000000,フ,#FFFFFF>ェル",
+    "option2": "やめておく"
+  },
+  {
     "sn": "1212013",
     "strContent": "ミッション『ビーチｄｅイセカイ！』を進めてください。",
     "option1": "AAAAAA==",
     "showName": "AAAAAA==",
+    "option2": "AAAAAA=="
+  },
+  {
+    "sn": "1135701",
+    "strContent": "今日はどこに行くんだ、早くしろ。",
+    "option1": "AAAAAA==",
+    "showName": "カロリーヌ",
+    "option2": "AAAAAA=="
+  },
+  {
+    "sn": "1135702",
+    "strContent": "行きますよ、カロリーヌ。",
+    "option1": "AAAAAA==",
+    "showName": "ジュスティーヌ",
+    "option2": "AAAAAA=="
+  },
+  {
+    "sn": "1135703",
+    "strContent": "出番のようだな、ジュスティーヌ！",
+    "option1": "AAAAAA==",
+    "showName": "カロリーヌ",
+    "option2": "AAAAAA=="
+  },
+  {
+    "sn": "1135704",
+    "strContent": "我々の力が必要なようですね。",
+    "option1": "AAAAAA==",
+    "showName": "ジュスティーヌ",
+    "option2": "AAAAAA=="
+  },
+  {
+    "sn": "1135705",
+    "strContent": "退屈させるんじゃないぞ！",
+    "option1": "AAAAAA==",
+    "showName": "カロリーヌ",
+    "option2": "AAAAAA=="
+  },
+  {
+    "sn": "1135706",
+    "strContent": "ここのようです。",
+    "option1": "AAAAAA==",
+    "showName": "ジュスティーヌ",
+    "option2": "AAAAAA=="
+  },
+  {
+    "sn": "1135707",
+    "strContent": "やるぞ、ジュスティーヌ！",
+    "option1": "AAAAAA==",
+    "showName": "カロリーヌ",
+    "option2": "AAAAAA=="
+  },
+  {
+    "sn": "1135708",
+    "strContent": "行きますよ、カロリーヌ。",
+    "option1": "AAAAAA==",
+    "showName": "ジュスティーヌ",
+    "option2": "AAAAAA=="
+  },
+  {
+    "sn": "1135709",
+    "strContent": "さっさと行くぞ、ジュスティーヌ。",
+    "option1": "AAAAAA==",
+    "showName": "カロリーヌ",
+    "option2": "AAAAAA=="
+  },
+  {
+    "sn": "1135710",
+    "strContent": "さっさと片づけましょう。",
+    "option1": "AAAAAA==",
+    "showName": "ジュスティーヌ",
+    "option2": "AAAAAA=="
+  },
+  {
+    "sn": "1135711",
+    "strContent": "ここまで…か…",
+    "option1": "AAAAAA==",
+    "showName": "カロリーヌ",
+    "option2": "AAAAAA=="
+  },
+  {
+    "sn": "1135712",
+    "strContent": "ここまで…のようです…",
+    "option1": "AAAAAA==",
+    "showName": "ジュスティーヌ",
+    "option2": "AAAAAA=="
+  },
+  {
+    "sn": "1135713",
+    "strContent": "やるな！？",
+    "option1": "AAAAAA==",
+    "showName": "カロリーヌ",
+    "option2": "AAAAAA=="
+  },
+  {
+    "sn": "1135714",
+    "strContent": "私が、負けるわけが…",
+    "option1": "AAAAAA==",
+    "showName": "ジュスティーヌ",
+    "option2": "AAAAAA=="
+  },
+  {
+    "sn": "1135715",
+    "strContent": "ウソだろ！？",
+    "option1": "AAAAAA==",
+    "showName": "カロリーヌ",
+    "option2": "AAAAAA=="
+  },
+  {
+    "sn": "1135716",
+    "strContent": "ほう、面白いではないか。",
+    "option1": "AAAAAA==",
+    "showName": "カロリーヌ",
+    "option2": "AAAAAA=="
+  },
+  {
+    "sn": "1135717",
+    "strContent": "やりますね。",
+    "option1": "AAAAAA==",
+    "showName": "ジュスティーヌ",
+    "option2": "AAAAAA=="
+  },
+  {
+    "sn": "1135718",
+    "strContent": "ほう、これは…悪くない！",
+    "option1": "AAAAAA==",
+    "showName": "カロリーヌ",
+    "option2": "AAAAAA=="
+  },
+  {
+    "sn": "1135719",
+    "strContent": "今日はここまでのようだな！",
+    "option1": "AAAAAA==",
+    "showName": "カロリーヌ",
+    "option2": "AAAAAA=="
+  },
+  {
+    "sn": "1135720",
+    "strContent": "帰るとしましょう。",
+    "option1": "AAAAAA==",
+    "showName": "ジュスティーヌ",
     "option2": "AAAAAA=="
   },
   {

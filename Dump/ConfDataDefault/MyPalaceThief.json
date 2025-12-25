@@ -299,6 +299,19 @@
     "NPCPositionTempSn": "1,2,3,4,5,6,7,8,9,10,11,12"
   },
   {
+    "sn": 1251,
+    "NPCSn": 50006025,
+    "DialogNPCSn": 50007025,
+    "isOpen": 1,
+    "dialogSn": "MP105600,MP105620,MP105640",
+    "getAwardLevel": "2,3,4,5,6,7,8,9,10",
+    "getAwardGroup": "243202,243203,243204,243205,243206,243207,243208,243209,243210",
+    "spDialogUnlockLevel": "AAAAAA==",
+    "spDialogSn": "AAAAAA==",
+    "visit": 0,
+    "NPCPositionTempSn": "1,2,3,4,5,6,7,8,9,10,11,12"
+  },
+  {
     "sn": 1261,
     "NPCSn": 50006026,
     "DialogNPCSn": 50007026,
@@ -388,5 +401,31 @@
     "spDialogSn": "MP100960|MP100980|MP101000|MP101020",
     "visit": 0,
     "NPCPositionTempSn": "1,2,3,4,5,6,7,8,9,10,11,12"
+  },
+  {
+    "sn": 1331,
+    "NPCSn": 50006033,
+    "DialogNPCSn": 50007033,
+    "isOpen": 1,
+    "dialogSn": "MP102300,MP102320,MP102340",
+    "getAwardLevel": "2,3,4,5,6,7,8,9,10",
+    "getAwardGroup": "243202,243203,243204,243205,243206,243207,243208,243209,243210",
+    "spDialogUnlockLevel": "2,4,6,8",
+    "spDialogSn": "MP102360|MP102380|MP102400|MP102420",
+    "visit": 1,
+    "NPCPositionTempSn": "1,2,3,4,5,6,7,8,9,10,11,12"
+  },
+  {
+    "sn": 1461,
+    "NPCSn": 50006053,
+    "DialogNPCSn": 50007053,
+    "isOpen": 1,
+    "dialogSn": "MP109000,MP109010,MP109020",
+    "getAwardLevel": "2,3,4,5,6,7,8,9,10",
+    "getAwardGroup": "243202,243203,243204,243205,243206,243207,243208,243209,243210",
+    "spDialogUnlockLevel": "2,4,6,8",
+    "spDialogSn": "MP109030|MP109040|MP109050|MP109060",
+    "visit": 0,
+    "NPCPositionTempSn": "1,2,3,4,5,6,7,8,9,10,11"
   }
 ]

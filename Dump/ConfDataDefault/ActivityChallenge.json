@@ -8,7 +8,10 @@
     "pic": "AAAAAA==",
     "timeline": "TL_UI_Activity_Boss06.prefab",
     "tlScene": 26006,
-    "monsterShow": 0
+    "monsterShow": 0,
+    "timelineEx": "TL_UI_Activity_Boss06.prefab",
+    "tlSceneEx": 26006,
+    "exParam": 0
   },
   {
     "sn": 2,
@@ -19,7 +22,10 @@
     "pic": "AAAAAA==",
     "timeline": "TL_UI_Activity_Boss05.prefab",
     "tlScene": 26005,
-    "monsterShow": 0
+    "monsterShow": 0,
+    "timelineEx": "TL_UI_Activity_Boss05.prefab",
+    "tlSceneEx": 26005,
+    "exParam": 0
   },
   {
     "sn": 3,
@@ -30,7 +36,10 @@
     "pic": "AAAAAA==",
     "timeline": "TL_UI_Activity_Boss06.prefab",
     "tlScene": 26006,
-    "monsterShow": 901410
+    "monsterShow": 901410,
+    "timelineEx": "TL_UI_Activity_Boss06.prefab",
+    "tlSceneEx": 26006,
+    "exParam": 0
   },
   {
     "sn": 4,
@@ -41,6 +50,37 @@
     "pic": "AAAAAA==",
     "timeline": "TL_UI_Activity_Boss09.prefab",
     "tlScene": 26005,
-    "monsterShow": 901510
+    "monsterShow": 901510,
+    "timelineEx": "TL_UI_Activity_Boss09.prefab",
+    "tlSceneEx": 26005,
+    "exParam": 0
+  },
+  {
+    "sn": 8,
+    "activitySn": 5400004,
+    "name": "AAAAAA==",
+    "activityGoal": "540012,540013",
+    "bossName": "Activty-challenge-saite02-i18n.png,Activty-challenge-saite02-i18n.png",
+    "pic": "AAAAAA==",
+    "timeline": "TL_UI_Activity_Boss15.prefab",
+    "tlScene": 26006,
+    "monsterShow": 902011,
+    "timelineEx": "TL_UI_Activity_Boss15.prefab",
+    "tlSceneEx": 26006,
+    "exParam": 0
+  },
+  {
+    "sn": 9,
+    "activitySn": 5400004,
+    "name": "AAAAAA==",
+    "activityGoal": "540014,540015",
+    "bossName": "Activty-challenge-chuihaozhe02-i18n.png,Activty-challenge-chuihaozhe02-i18n.png",
+    "pic": "AAAAAA==",
+    "timeline": "TL_UI_Activity_Boss09.prefab",
+    "tlScene": 26005,
+    "monsterShow": 901510,
+    "timelineEx": "TL_UI_Activity_Boss09.prefab",
+    "tlSceneEx": 26005,
+    "exParam": 0
   }
 ]

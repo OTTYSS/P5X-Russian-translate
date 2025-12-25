@@ -4,7 +4,7 @@
     "type": 1,
     "materialIdx": 0,
     "changeCharacterRes": "AAAAAA==",
-    "buttomUI": "UI_TurnBasedExtraskillQueen",
+    "buttomUI": "UI-zhandou-extraskill-queen.prefab",
     "skillSn": 120116
   },
   {
@@ -12,7 +12,7 @@
     "type": 1,
     "materialIdx": 0,
     "changeCharacterRes": "AAAAAA==",
-    "buttomUI": "UI_TurnBasedExtraskillDoctor",
+    "buttomUI": "UI-zhandou-extraskill-doctor.prefab",
     "skillSn": 129113
   },
   {
@@ -20,7 +20,7 @@
     "type": 2,
     "materialIdx": 0,
     "changeCharacterRes": "AAAAAA==",
-    "buttomUI": "UI_TurnBasedExtraskillFrostWind",
+    "buttomUI": "UI-zhandou-extraskill-feng-mont.prefab",
     "skillSn": 121209
   },
   {
@@ -28,7 +28,15 @@
     "type": 2,
     "materialIdx": 17,
     "changeCharacterRes": "frost_manwu_thief_bing",
-    "buttomUI": "UI_TurnBasedExtraskillFrostIce",
+    "buttomUI": "UI-zhandou-extraskill-bing-mont.prefab",
     "skillSn": 121210
+  },
+  {
+    "sn": 25,
+    "type": 1,
+    "materialIdx": 0,
+    "changeCharacterRes": "AAAAAA==",
+    "buttomUI": "UI-zhandou-extraskill-JandC.prefab",
+    "skillSn": 146109
   }
 ]

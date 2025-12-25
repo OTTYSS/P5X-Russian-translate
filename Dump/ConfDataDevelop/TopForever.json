@@ -367,8 +367,8 @@
   },
   {
     "sn": 1070,
-    "moneyTypes": "50",
-    "canBuyStates": "0",
+    "moneyTypes": "64,50",
+    "canBuyStates": "0,0",
     "hook_ui": "AAAAAA=="
   },
   {
@@ -391,8 +391,8 @@
   },
   {
     "sn": 1074,
-    "moneyTypes": "302911,302905",
-    "canBuyStates": "0,0",
+    "moneyTypes": "302905,302911,302920",
+    "canBuyStates": "0,0,0",
     "hook_ui": "AAAAAA=="
   },
   {
@@ -421,13 +421,13 @@
   },
   {
     "sn": 1079,
-    "moneyTypes": "1022",
+    "moneyTypes": "1023",
     "canBuyStates": "0",
     "hook_ui": "AAAAAA=="
   },
   {
     "sn": 1080,
-    "moneyTypes": "59",
+    "moneyTypes": "400036",
     "canBuyStates": "1",
     "hook_ui": "AAAAAA=="
   },
@@ -553,7 +553,7 @@
   },
   {
     "sn": 1101,
-    "moneyTypes": "66,23,24,26",
+    "moneyTypes": "26,24,23,66",
     "canBuyStates": "0,0,0,0",
     "hook_ui": "AAAAAA=="
   },
@@ -600,8 +600,26 @@
     "hook_ui": "AAAAAA=="
   },
   {
+    "sn": 1121,
+    "moneyTypes": "67",
+    "canBuyStates": "0",
+    "hook_ui": "AAAAAA=="
+  },
+  {
     "sn": 1123,
     "moneyTypes": "20",
+    "canBuyStates": "0",
+    "hook_ui": "AAAAAA=="
+  },
+  {
+    "sn": 1160,
+    "moneyTypes": "1106",
+    "canBuyStates": "0",
+    "hook_ui": "AAAAAA=="
+  },
+  {
+    "sn": 1169,
+    "moneyTypes": "1085",
     "canBuyStates": "0",
     "hook_ui": "AAAAAA=="
   }

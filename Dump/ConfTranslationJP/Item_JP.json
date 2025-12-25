@@ -441,6 +441,20 @@
     "contentBG": "<color=#ffffff>  </color>"
   },
   {
+    "sn": "67",
+    "name": "エクストラコイン",
+    "typeName": "通貨",
+    "tips": "大富豪の『エクストラモード』を遊ぶために必要な通貨。",
+    "contentBG": "<color=#ffffff>  </color>"
+  },
+  {
+    "sn": "68",
+    "name": "エクストラポイント",
+    "typeName": "通貨",
+    "tips": "『エクストラモード』で獲得でき、交換所で報酬と交換できる。",
+    "contentBG": "<color=#ffffff>  </color>"
+  },
+  {
     "sn": "1000",
     "name": "Ｐメダル",
     "typeName": "アイテム",
@@ -597,7 +611,7 @@
   {
     "sn": "1023",
     "name": "ルートチケット",
-    "typeName": "ルートチケット",
+    "typeName": "イベントアイテム",
     "tips": "福引き屋で抽選できる。『マルチムの期間限定依頼』をクリアするか『渇望メトロライン』に参加すると獲得可能。",
     "contentBG": "AAAAAA=="
   },
@@ -641,6 +655,27 @@
     "name": "『反逆』のコイン・宙",
     "typeName": "記念アイテム",
     "tips": "『運命が交錯する時・宇宙基地編』で入手したコインは、１０個の魂魄玉に交換可能。",
+    "contentBG": "<color=#ffffff>  </color>"
+  },
+  {
+    "sn": "1085",
+    "name": "マルチムスタンプ",
+    "typeName": "イベント通貨",
+    "tips": "ショップで商品を購入すると獲得可能。一定のスタンプを貯めると『購入特典』で報酬を獲得できる。",
+    "contentBG": "AAAAAA=="
+  },
+  {
+    "sn": "1106",
+    "name": "『反逆』のコイン・刑",
+    "typeName": "イベント通貨",
+    "tips": "『運命が交錯する時・双子の看守編』への参加で獲得可能。報酬と交換できる。",
+    "contentBG": "<color=#ffffff>  </color>"
+  },
+  {
+    "sn": "1107",
+    "name": "運命の紋章・双蝶",
+    "typeName": "記念アイテム",
+    "tips": "『運命が交錯する時・双子の看守編』で入手したコインは、１００個の魂魄玉に交換可能。",
     "contentBG": "<color=#ffffff>  </color>"
   },
   {
@@ -1239,8 +1274,71 @@
     "contentBG": "AAAAAA=="
   },
   {
+    "sn": "100427",
+    "name": "★５怪盗抽選券０２",
+    "typeName": "ギフトセット",
+    "tips": "使用すると、特定の怪盗から１人を抽選し、獲得する。",
+    "contentBG": "AAAAAA=="
+  },
+  {
+    "sn": "100506",
+    "name": "育成ブーストパック",
+    "typeName": "ギフトセット",
+    "tips": "ランダムな育成素材を獲得できる。",
+    "contentBG": "AAAAAA=="
+  },
+  {
+    "sn": "100512",
+    "name": "育成ブーストパック",
+    "typeName": "ギフトセット",
+    "tips": "ランダムな育成素材を獲得できる。",
+    "contentBG": "AAAAAA=="
+  },
+  {
+    "sn": "100517",
+    "name": "育成ブーストパック",
+    "typeName": "ギフトセット",
+    "tips": "ランダムな育成素材を獲得できる。",
+    "contentBG": "AAAAAA=="
+  },
+  {
+    "sn": "100522",
+    "name": "育成ブーストパック",
+    "typeName": "ギフトセット",
+    "tips": "ランダムな育成素材を獲得できる。",
+    "contentBG": "AAAAAA=="
+  },
+  {
+    "sn": "100527",
+    "name": "育成ブーストパック",
+    "typeName": "ギフトセット",
+    "tips": "ランダムな育成素材を獲得できる。",
+    "contentBG": "AAAAAA=="
+  },
+  {
+    "sn": "100532",
+    "name": "育成ブーストパック",
+    "typeName": "ギフトセット",
+    "tips": "ランダムな育成素材を獲得できる。",
+    "contentBG": "AAAAAA=="
+  },
+  {
+    "sn": "100537",
+    "name": "育成ブーストパック",
+    "typeName": "ギフトセット",
+    "tips": "ランダムな育成素材を獲得できる。",
+    "contentBG": "AAAAAA=="
+  },
+  {
     "sn": "100601",
     "name": "★５怪盗抽選券０１",
+    "typeName": "ギフトセット",
+    "tips": "使用すると、特定の怪盗から１人を抽選し、獲得する。",
+    "contentBG": "AAAAAA=="
+  },
+  {
+    "sn": "100602",
+    "name": "★５怪盗抽選券０２",
     "typeName": "ギフトセット",
     "tips": "使用すると、特定の怪盗から１人を抽選し、獲得する。",
     "contentBG": "AAAAAA=="
@@ -1295,10 +1393,17 @@
     "contentBG": "AAAAAA=="
   },
   {
+    "sn": "101008",
+    "name": "エクストラカード",
+    "typeName": "ギフトセット",
+    "tips": "AAAAAA==",
+    "contentBG": "AAAAAA=="
+  },
+  {
     "sn": "102001",
     "name": "トライアルキー",
     "typeName": "アイテム解放",
-    "tips": "『怪盗トライアル』を任意のタイミングでアンロックしてプレイすることができる。最大で３つまで所持可能。",
+    "tips": "『怪盗トライアル』を任意のタイミングでアンロックしてプレイすることができる。交換所で獲得できる。",
     "contentBG": "AAAAAA=="
   },
   {
@@ -1310,9 +1415,9 @@
   },
   {
     "sn": "170002",
-    "name": "経験の証・運航計画",
+    "name": "経験の証・運行目標",
     "typeName": "通貨",
-    "tips": "『渇望メトロラインの調整』をクリアすると獲得可能。運用目標の調整レベルを上げられる。",
+    "tips": "『渇望メトロラインのコントロールセンター』をクリアすると獲得可能。運行目標のレベルを上げられる。",
     "contentBG": "<color=#ffffff>  </color>"
   },
   {
@@ -1613,7 +1718,7 @@
     "sn": "190053",
     "name": "謎の武器キット",
     "typeName": "武器",
-    "tips": "使用すると、朋子・ピーチサマーの専用武器『オーシャンロッド』を獲得する。",
+    "tips": "謎の怪盗専用の近接武器。",
     "contentBG": "AAAAAA=="
   },
   {
@@ -1632,7 +1737,7 @@
   },
   {
     "sn": "190056",
-    "name": "認知のボックス０２",
+    "name": "★５結晶選択箱",
     "typeName": "ギフトセット",
     "tips": "使用すると、特定の怪盗の認知結晶を１つ選択し、獲得する。",
     "contentBG": "<color=#ffffff>  </color>"
@@ -1648,7 +1753,7 @@
     "sn": "190058",
     "name": "謎の武器キット",
     "typeName": "武器",
-    "tips": "北里専用の近接武器。",
+    "tips": "謎の怪盗専用の近接武器。",
     "contentBG": "AAAAAA=="
   },
   {
@@ -1669,7 +1774,7 @@
     "sn": "190061",
     "name": "謎の武器キット",
     "typeName": "武器",
-    "tips": "謎の怪盗専用の近接武器。",
+    "tips": "使用すると、奥村春の専用武器『ギルガメスアクス』を獲得する。",
     "contentBG": "<color=#ffffff>  </color>"
   },
   {
@@ -1688,28 +1793,28 @@
   },
   {
     "sn": "190064",
-    "name": "認知のボックス０３",
+    "name": "特典★５結晶選択箱",
     "typeName": "ギフトセット",
-    "tips": "使用すると、特定の怪盗の認知結晶を１つ抽選し、獲得する。",
-    "contentBG": "AAAAAA=="
+    "tips": "使用すると、特定の怪盗の認知結晶を１つ選択し、獲得する。",
+    "contentBG": "<color=#ffffff>  </color>"
   },
   {
     "sn": "190065",
-    "name": "★５武器選択箱",
+    "name": "特典★５武器選択箱",
     "typeName": "ギフトセット",
-    "tips": "使用すると、特定の武器から１つを選択し、獲得する。",
+    "tips": "使用すると、特定の武器、または自在結晶×１０００から１つを選択し、獲得する。",
     "contentBG": "<color=#ffffff>  </color>"
   },
   {
     "sn": "190066",
-    "name": "★５怪ドルチケット３",
+    "name": "特典★５怪盗選択券",
     "typeName": "ギフトセット",
-    "tips": "使用すると、特定の怪盗から１人を選択し、獲得する。",
+    "tips": "使用すると、特定の怪盗、または自在結晶×１５００から１人を選択し、獲得する。",
     "contentBG": "AAAAAA=="
   },
   {
     "sn": "190067",
-    "name": "★４武器選択箱",
+    "name": "限定★４武器選択箱",
     "typeName": "ギフトセット",
     "tips": "使用すると、特定の武器から１つを選択し、獲得する。",
     "contentBG": "<color=#ffffff>  </color>"
@@ -1841,6 +1946,13 @@
     "contentBG": "<color=#ffffff>  </color>"
   },
   {
+    "sn": "190178",
+    "name": "半周年★５怪盗選択券",
+    "typeName": "ギフトセット",
+    "tips": "使用すると、特定の怪盗から１人を選択し、獲得する。",
+    "contentBG": "<color=#ffffff>  </color>"
+  },
+  {
     "sn": "200109",
     "name": "葬送の眼",
     "typeName": "ダガー",
@@ -1867,6 +1979,251 @@
     "typeName": "棍棒",
     "tips": "竜司専用の近接武器。",
     "contentBG": "<color=#ffffff>  </color>"
+  },
+  {
+    "sn": "190190",
+    "name": "自在結晶×１０００",
+    "typeName": "通貨",
+    "tips": "『契約』『武器補給』『主人公の体力回復』に使用する。",
+    "contentBG": "<color=#ffffff>  </color>"
+  },
+  {
+    "sn": "190191",
+    "name": "自在結晶×１５００",
+    "typeName": "通貨",
+    "tips": "『契約』『武器補給』『主人公の体力回復』に使用する。",
+    "contentBG": "<color=#ffffff>  </color>"
+  },
+  {
+    "sn": "190193",
+    "name": "AAAAAA==",
+    "typeName": "AAAAAA==",
+    "tips": "AAAAAA==",
+    "contentBG": "AAAAAA=="
+  },
+  {
+    "sn": "190194",
+    "name": "AAAAAA==",
+    "typeName": "AAAAAA==",
+    "tips": "AAAAAA==",
+    "contentBG": "AAAAAA=="
+  },
+  {
+    "sn": "190195",
+    "name": "AAAAAA==",
+    "typeName": "AAAAAA==",
+    "tips": "AAAAAA==",
+    "contentBG": "AAAAAA=="
+  },
+  {
+    "sn": "190196",
+    "name": "AAAAAA==",
+    "typeName": "AAAAAA==",
+    "tips": "AAAAAA==",
+    "contentBG": "AAAAAA=="
+  },
+  {
+    "sn": "190197",
+    "name": "AAAAAA==",
+    "typeName": "AAAAAA==",
+    "tips": "AAAAAA==",
+    "contentBG": "AAAAAA=="
+  },
+  {
+    "sn": "190198",
+    "name": "AAAAAA==",
+    "typeName": "AAAAAA==",
+    "tips": "AAAAAA==",
+    "contentBG": "AAAAAA=="
+  },
+  {
+    "sn": "190199",
+    "name": "AAAAAA==",
+    "typeName": "AAAAAA==",
+    "tips": "AAAAAA==",
+    "contentBG": "AAAAAA=="
+  },
+  {
+    "sn": "190200",
+    "name": "AAAAAA==",
+    "typeName": "AAAAAA==",
+    "tips": "AAAAAA==",
+    "contentBG": "AAAAAA=="
+  },
+  {
+    "sn": "190201",
+    "name": "AAAAAA==",
+    "typeName": "AAAAAA==",
+    "tips": "AAAAAA==",
+    "contentBG": "AAAAAA=="
+  },
+  {
+    "sn": "190202",
+    "name": "AAAAAA==",
+    "typeName": "AAAAAA==",
+    "tips": "AAAAAA==",
+    "contentBG": "AAAAAA=="
+  },
+  {
+    "sn": "190203",
+    "name": "AAAAAA==",
+    "typeName": "AAAAAA==",
+    "tips": "AAAAAA==",
+    "contentBG": "AAAAAA=="
+  },
+  {
+    "sn": "190204",
+    "name": "AAAAAA==",
+    "typeName": "AAAAAA==",
+    "tips": "AAAAAA==",
+    "contentBG": "AAAAAA=="
+  },
+  {
+    "sn": "190205",
+    "name": "AAAAAA==",
+    "typeName": "AAAAAA==",
+    "tips": "AAAAAA==",
+    "contentBG": "AAAAAA=="
+  },
+  {
+    "sn": "190206",
+    "name": "AAAAAA==",
+    "typeName": "AAAAAA==",
+    "tips": "AAAAAA==",
+    "contentBG": "AAAAAA=="
+  },
+  {
+    "sn": "190207",
+    "name": "AAAAAA==",
+    "typeName": "AAAAAA==",
+    "tips": "AAAAAA==",
+    "contentBG": "AAAAAA=="
+  },
+  {
+    "sn": "190208",
+    "name": "AAAAAA==",
+    "typeName": "AAAAAA==",
+    "tips": "AAAAAA==",
+    "contentBG": "AAAAAA=="
+  },
+  {
+    "sn": "190209",
+    "name": "AAAAAA==",
+    "typeName": "AAAAAA==",
+    "tips": "AAAAAA==",
+    "contentBG": "AAAAAA=="
+  },
+  {
+    "sn": "190210",
+    "name": "AAAAAA==",
+    "typeName": "AAAAAA==",
+    "tips": "AAAAAA==",
+    "contentBG": "AAAAAA=="
+  },
+  {
+    "sn": "190211",
+    "name": "AAAAAA==",
+    "typeName": "AAAAAA==",
+    "tips": "AAAAAA==",
+    "contentBG": "AAAAAA=="
+  },
+  {
+    "sn": "190212",
+    "name": "AAAAAA==",
+    "typeName": "AAAAAA==",
+    "tips": "AAAAAA==",
+    "contentBG": "AAAAAA=="
+  },
+  {
+    "sn": "190213",
+    "name": "AAAAAA==",
+    "typeName": "AAAAAA==",
+    "tips": "AAAAAA==",
+    "contentBG": "AAAAAA=="
+  },
+  {
+    "sn": "190214",
+    "name": "AAAAAA==",
+    "typeName": "AAAAAA==",
+    "tips": "AAAAAA==",
+    "contentBG": "AAAAAA=="
+  },
+  {
+    "sn": "190215",
+    "name": "AAAAAA==",
+    "typeName": "AAAAAA==",
+    "tips": "AAAAAA==",
+    "contentBG": "AAAAAA=="
+  },
+  {
+    "sn": "190216",
+    "name": "AAAAAA==",
+    "typeName": "AAAAAA==",
+    "tips": "AAAAAA==",
+    "contentBG": "AAAAAA=="
+  },
+  {
+    "sn": "190217",
+    "name": "AAAAAA==",
+    "typeName": "AAAAAA==",
+    "tips": "AAAAAA==",
+    "contentBG": "AAAAAA=="
+  },
+  {
+    "sn": "190218",
+    "name": "AAAAAA==",
+    "typeName": "AAAAAA==",
+    "tips": "AAAAAA==",
+    "contentBG": "AAAAAA=="
+  },
+  {
+    "sn": "190219",
+    "name": "AAAAAA==",
+    "typeName": "AAAAAA==",
+    "tips": "AAAAAA==",
+    "contentBG": "AAAAAA=="
+  },
+  {
+    "sn": "190220",
+    "name": "AAAAAA==",
+    "typeName": "AAAAAA==",
+    "tips": "AAAAAA==",
+    "contentBG": "AAAAAA=="
+  },
+  {
+    "sn": "190221",
+    "name": "AAAAAA==",
+    "typeName": "AAAAAA==",
+    "tips": "AAAAAA==",
+    "contentBG": "AAAAAA=="
+  },
+  {
+    "sn": "190222",
+    "name": "AAAAAA==",
+    "typeName": "AAAAAA==",
+    "tips": "AAAAAA==",
+    "contentBG": "AAAAAA=="
+  },
+  {
+    "sn": "190223",
+    "name": "AAAAAA==",
+    "typeName": "AAAAAA==",
+    "tips": "AAAAAA==",
+    "contentBG": "AAAAAA=="
+  },
+  {
+    "sn": "190224",
+    "name": "AAAAAA==",
+    "typeName": "AAAAAA==",
+    "tips": "AAAAAA==",
+    "contentBG": "AAAAAA=="
+  },
+  {
+    "sn": "190225",
+    "name": "AAAAAA==",
+    "typeName": "AAAAAA==",
+    "tips": "AAAAAA==",
+    "contentBG": "AAAAAA=="
   },
   {
     "sn": "210102",
@@ -2549,28 +2906,28 @@
   },
   {
     "sn": "212111",
-    "name": "tdxct-[Weapon_name_212111]",
+    "name": "ラムデュヴォングラセ",
     "typeName": "セーバー",
     "tips": "琴音専用の近接武器。",
     "contentBG": "<color=#ffffff>  </color>"
   },
   {
     "sn": "212112",
-    "name": "DC[It][112]",
+    "name": "ラムドラトゥルモント",
     "typeName": "セーバー",
     "tips": "琴音専用の近接武器。",
     "contentBG": "<color=#ffffff>  </color>"
   },
   {
     "sn": "212113",
-    "name": "DC[It][113]",
+    "name": "ラムドゥルーベ",
     "typeName": "セーバー",
     "tips": "琴音専用の近接武器。",
     "contentBG": "<color=#ffffff>  </color>"
   },
   {
     "sn": "212114",
-    "name": "DC[It][114]",
+    "name": "ラムドゥラムール",
     "typeName": "セーバー",
     "tips": "琴音専用の近接武器。",
     "contentBG": "<color=#ffffff>  </color>"
@@ -2829,56 +3186,56 @@
   },
   {
     "sn": "213301",
-    "name": "tdxct-[Weapon_name_213301]",
-    "typeName": "tdxct-[Weapon_name_213301]",
+    "name": "スピナアニミ",
+    "typeName": "スピナアニミ",
     "tips": "芦谷専用の近接武器。",
     "contentBG": "<color=#ffffff>  </color>"
   },
   {
     "sn": "213302",
-    "name": "tdxct-[Weapon_name_213302]",
-    "typeName": "tdxct-[Weapon_name_213301]",
+    "name": "スピナグラキアリス",
+    "typeName": "スピナアニミ",
     "tips": "芦谷専用の近接武器。",
     "contentBG": "<color=#ffffff>  </color>"
   },
   {
     "sn": "213303",
-    "name": "tdxct-[Weapon_name_213303]",
-    "typeName": "tdxct-[Weapon_name_213301]",
+    "name": "スピナカリタティス",
+    "typeName": "スピナアニミ",
     "tips": "芦谷専用の近接武器。",
     "contentBG": "<color=#ffffff>  </color>"
   },
   {
     "sn": "213304",
-    "name": "tdxct-[Weapon_name_213304]",
-    "typeName": "tdxct-[Weapon_name_213301]",
+    "name": "スピナサクラメンティ",
+    "typeName": "スピナアニミ",
     "tips": "芦谷専用の近接武器。",
     "contentBG": "<color=#ffffff>  </color>"
   },
   {
     "sn": "213401",
-    "name": "tdxct-[Weapon_name_213401]",
+    "name": "もこもこクロー",
     "typeName": "AAAAAA==",
     "tips": "AAAAAA==",
     "contentBG": "AAAAAA=="
   },
   {
     "sn": "213402",
-    "name": "tdxct-[Weapon_name_213402]",
+    "name": "ばんけんクロー",
     "typeName": "AAAAAA==",
     "tips": "AAAAAA==",
     "contentBG": "AAAAAA=="
   },
   {
     "sn": "213403",
-    "name": "tdxct-[Weapon_name_213403]",
+    "name": "ハウンドクロー",
     "typeName": "AAAAAA==",
     "tips": "AAAAAA==",
     "contentBG": "AAAAAA=="
   },
   {
     "sn": "213404",
-    "name": "tdxct-[Weapon_name_213404]",
+    "name": "サーベラスクロー",
     "typeName": "AAAAAA==",
     "tips": "AAAAAA==",
     "contentBG": "AAAAAA=="
@@ -2938,6 +3295,62 @@
     "typeName": "AAAAAA==",
     "tips": "AAAAAA==",
     "contentBG": "AAAAAA=="
+  },
+  {
+    "sn": "214601",
+    "name": "ウォーデンバトン",
+    "typeName": "警棒",
+    "tips": "ジュスティーヌ＆カロリーヌの専用武器",
+    "contentBG": "<color=#ffffff>  </color>"
+  },
+  {
+    "sn": "214602",
+    "name": "ジェイルパニッシャー",
+    "typeName": "警棒",
+    "tips": "ジュスティーヌ＆カロリーヌの専用武器",
+    "contentBG": "<color=#ffffff>  </color>"
+  },
+  {
+    "sn": "214603",
+    "name": "剛毅の御使い",
+    "typeName": "警棒",
+    "tips": "ジュスティーヌ＆カロリーヌの専用武器",
+    "contentBG": "<color=#ffffff>  </color>"
+  },
+  {
+    "sn": "214604",
+    "name": "群青の審判",
+    "typeName": "警棒",
+    "tips": "ジュスティーヌ＆カロリーヌの専用武器",
+    "contentBG": "<color=#ffffff>  </color>"
+  },
+  {
+    "sn": "214611",
+    "name": "AAAAAA==",
+    "typeName": "AAAAAA==",
+    "tips": "悠美専用の近接武器。",
+    "contentBG": "<color=#ffffff>  </color>"
+  },
+  {
+    "sn": "214612",
+    "name": "AAAAAA==",
+    "typeName": "AAAAAA==",
+    "tips": "悠美専用の近接武器。",
+    "contentBG": "<color=#ffffff>  </color>"
+  },
+  {
+    "sn": "214613",
+    "name": "AAAAAA==",
+    "typeName": "AAAAAA==",
+    "tips": "悠美専用の近接武器。",
+    "contentBG": "<color=#ffffff>  </color>"
+  },
+  {
+    "sn": "214614",
+    "name": "AAAAAA==",
+    "typeName": "AAAAAA==",
+    "tips": "悠美専用の近接武器。",
+    "contentBG": "<color=#ffffff>  </color>"
   },
   {
     "sn": "220121",
@@ -6258,6 +6671,342 @@
     "contentBG": "<color=#ffffff>  </color>"
   },
   {
+    "sn": "223321",
+    "name": "AAAAAA==",
+    "typeName": "啓示",
+    "tips": "AAAAAA==",
+    "contentBG": "<color=#ffffff>  </color>"
+  },
+  {
+    "sn": "223322",
+    "name": "AAAAAA==",
+    "typeName": "啓示",
+    "tips": "AAAAAA==",
+    "contentBG": "<color=#ffffff>  </color>"
+  },
+  {
+    "sn": "223323",
+    "name": "AAAAAA==",
+    "typeName": "啓示",
+    "tips": "AAAAAA==",
+    "contentBG": "<color=#ffffff>  </color>"
+  },
+  {
+    "sn": "223324",
+    "name": "AAAAAA==",
+    "typeName": "啓示",
+    "tips": "AAAAAA==",
+    "contentBG": "<color=#ffffff>  </color>"
+  },
+  {
+    "sn": "223331",
+    "name": "AAAAAA==",
+    "typeName": "啓示",
+    "tips": "AAAAAA==",
+    "contentBG": "<color=#ffffff>  </color>"
+  },
+  {
+    "sn": "223332",
+    "name": "AAAAAA==",
+    "typeName": "啓示",
+    "tips": "AAAAAA==",
+    "contentBG": "<color=#ffffff>  </color>"
+  },
+  {
+    "sn": "223333",
+    "name": "AAAAAA==",
+    "typeName": "啓示",
+    "tips": "AAAAAA==",
+    "contentBG": "<color=#ffffff>  </color>"
+  },
+  {
+    "sn": "223334",
+    "name": "AAAAAA==",
+    "typeName": "啓示",
+    "tips": "AAAAAA==",
+    "contentBG": "<color=#ffffff>  </color>"
+  },
+  {
+    "sn": "223341",
+    "name": "AAAAAA==",
+    "typeName": "啓示",
+    "tips": "AAAAAA==",
+    "contentBG": "<color=#ffffff>  </color>"
+  },
+  {
+    "sn": "223342",
+    "name": "AAAAAA==",
+    "typeName": "啓示",
+    "tips": "AAAAAA==",
+    "contentBG": "<color=#ffffff>  </color>"
+  },
+  {
+    "sn": "223343",
+    "name": "AAAAAA==",
+    "typeName": "啓示",
+    "tips": "AAAAAA==",
+    "contentBG": "<color=#ffffff>  </color>"
+  },
+  {
+    "sn": "223344",
+    "name": "AAAAAA==",
+    "typeName": "啓示",
+    "tips": "AAAAAA==",
+    "contentBG": "<color=#ffffff>  </color>"
+  },
+  {
+    "sn": "223351",
+    "name": "AAAAAA==",
+    "typeName": "啓示",
+    "tips": "AAAAAA==",
+    "contentBG": "<color=#ffffff>  </color>"
+  },
+  {
+    "sn": "223352",
+    "name": "AAAAAA==",
+    "typeName": "啓示",
+    "tips": "AAAAAA==",
+    "contentBG": "<color=#ffffff>  </color>"
+  },
+  {
+    "sn": "223353",
+    "name": "AAAAAA==",
+    "typeName": "啓示",
+    "tips": "AAAAAA==",
+    "contentBG": "<color=#ffffff>  </color>"
+  },
+  {
+    "sn": "223354",
+    "name": "AAAAAA==",
+    "typeName": "啓示",
+    "tips": "AAAAAA==",
+    "contentBG": "<color=#ffffff>  </color>"
+  },
+  {
+    "sn": "223421",
+    "name": "AAAAAA==",
+    "typeName": "啓示",
+    "tips": "AAAAAA==",
+    "contentBG": "AAAAAA=="
+  },
+  {
+    "sn": "223422",
+    "name": "AAAAAA==",
+    "typeName": "啓示",
+    "tips": "AAAAAA==",
+    "contentBG": "AAAAAA=="
+  },
+  {
+    "sn": "223423",
+    "name": "AAAAAA==",
+    "typeName": "啓示",
+    "tips": "AAAAAA==",
+    "contentBG": "AAAAAA=="
+  },
+  {
+    "sn": "223424",
+    "name": "AAAAAA==",
+    "typeName": "啓示",
+    "tips": "AAAAAA==",
+    "contentBG": "AAAAAA=="
+  },
+  {
+    "sn": "223431",
+    "name": "AAAAAA==",
+    "typeName": "啓示",
+    "tips": "AAAAAA==",
+    "contentBG": "AAAAAA=="
+  },
+  {
+    "sn": "223432",
+    "name": "AAAAAA==",
+    "typeName": "啓示",
+    "tips": "AAAAAA==",
+    "contentBG": "AAAAAA=="
+  },
+  {
+    "sn": "223433",
+    "name": "AAAAAA==",
+    "typeName": "啓示",
+    "tips": "AAAAAA==",
+    "contentBG": "AAAAAA=="
+  },
+  {
+    "sn": "223434",
+    "name": "AAAAAA==",
+    "typeName": "啓示",
+    "tips": "AAAAAA==",
+    "contentBG": "AAAAAA=="
+  },
+  {
+    "sn": "223441",
+    "name": "AAAAAA==",
+    "typeName": "啓示",
+    "tips": "AAAAAA==",
+    "contentBG": "AAAAAA=="
+  },
+  {
+    "sn": "223442",
+    "name": "AAAAAA==",
+    "typeName": "啓示",
+    "tips": "AAAAAA==",
+    "contentBG": "AAAAAA=="
+  },
+  {
+    "sn": "223443",
+    "name": "AAAAAA==",
+    "typeName": "啓示",
+    "tips": "AAAAAA==",
+    "contentBG": "AAAAAA=="
+  },
+  {
+    "sn": "223444",
+    "name": "AAAAAA==",
+    "typeName": "啓示",
+    "tips": "AAAAAA==",
+    "contentBG": "AAAAAA=="
+  },
+  {
+    "sn": "223451",
+    "name": "AAAAAA==",
+    "typeName": "啓示",
+    "tips": "AAAAAA==",
+    "contentBG": "AAAAAA=="
+  },
+  {
+    "sn": "223452",
+    "name": "AAAAAA==",
+    "typeName": "啓示",
+    "tips": "AAAAAA==",
+    "contentBG": "AAAAAA=="
+  },
+  {
+    "sn": "223453",
+    "name": "AAAAAA==",
+    "typeName": "啓示",
+    "tips": "AAAAAA==",
+    "contentBG": "AAAAAA=="
+  },
+  {
+    "sn": "223454",
+    "name": "AAAAAA==",
+    "typeName": "啓示",
+    "tips": "AAAAAA==",
+    "contentBG": "AAAAAA=="
+  },
+  {
+    "sn": "223521",
+    "name": "AAAAAA==",
+    "typeName": "啓示",
+    "tips": "AAAAAA==",
+    "contentBG": "AAAAAA=="
+  },
+  {
+    "sn": "223522",
+    "name": "AAAAAA==",
+    "typeName": "啓示",
+    "tips": "AAAAAA==",
+    "contentBG": "AAAAAA=="
+  },
+  {
+    "sn": "223523",
+    "name": "AAAAAA==",
+    "typeName": "啓示",
+    "tips": "AAAAAA==",
+    "contentBG": "AAAAAA=="
+  },
+  {
+    "sn": "223524",
+    "name": "AAAAAA==",
+    "typeName": "啓示",
+    "tips": "AAAAAA==",
+    "contentBG": "AAAAAA=="
+  },
+  {
+    "sn": "223531",
+    "name": "AAAAAA==",
+    "typeName": "啓示",
+    "tips": "AAAAAA==",
+    "contentBG": "AAAAAA=="
+  },
+  {
+    "sn": "223532",
+    "name": "AAAAAA==",
+    "typeName": "啓示",
+    "tips": "AAAAAA==",
+    "contentBG": "AAAAAA=="
+  },
+  {
+    "sn": "223533",
+    "name": "AAAAAA==",
+    "typeName": "啓示",
+    "tips": "AAAAAA==",
+    "contentBG": "AAAAAA=="
+  },
+  {
+    "sn": "223534",
+    "name": "AAAAAA==",
+    "typeName": "啓示",
+    "tips": "AAAAAA==",
+    "contentBG": "AAAAAA=="
+  },
+  {
+    "sn": "223541",
+    "name": "AAAAAA==",
+    "typeName": "啓示",
+    "tips": "AAAAAA==",
+    "contentBG": "AAAAAA=="
+  },
+  {
+    "sn": "223542",
+    "name": "AAAAAA==",
+    "typeName": "啓示",
+    "tips": "AAAAAA==",
+    "contentBG": "AAAAAA=="
+  },
+  {
+    "sn": "223543",
+    "name": "AAAAAA==",
+    "typeName": "啓示",
+    "tips": "AAAAAA==",
+    "contentBG": "AAAAAA=="
+  },
+  {
+    "sn": "223544",
+    "name": "AAAAAA==",
+    "typeName": "啓示",
+    "tips": "AAAAAA==",
+    "contentBG": "AAAAAA=="
+  },
+  {
+    "sn": "223551",
+    "name": "AAAAAA==",
+    "typeName": "啓示",
+    "tips": "AAAAAA==",
+    "contentBG": "AAAAAA=="
+  },
+  {
+    "sn": "223552",
+    "name": "AAAAAA==",
+    "typeName": "啓示",
+    "tips": "AAAAAA==",
+    "contentBG": "AAAAAA=="
+  },
+  {
+    "sn": "223553",
+    "name": "AAAAAA==",
+    "typeName": "啓示",
+    "tips": "AAAAAA==",
+    "contentBG": "AAAAAA=="
+  },
+  {
+    "sn": "223554",
+    "name": "AAAAAA==",
+    "typeName": "啓示",
+    "tips": "AAAAAA==",
+    "contentBG": "AAAAAA=="
+  },
+  {
     "sn": "241003",
     "name": "【抑圧】の啓示・橙",
     "typeName": "啓示",
@@ -6760,6 +7509,62 @@
     "typeName": "啓示",
     "tips": "使用すると紫色の『調和』の啓示カードを獲得する。",
     "contentBG": "<color=#ffffff>  </color>"
+  },
+  {
+    "sn": "231901",
+    "name": "誕生",
+    "typeName": "啓示",
+    "tips": "『誕生』を象徴する啓示カード。装備することでさまざまな効果を得られる。",
+    "contentBG": "<color=#ffffff>  </color>"
+  },
+  {
+    "sn": "231902",
+    "name": "誕生",
+    "typeName": "啓示",
+    "tips": "『誕生』を象徴する啓示カード。装備することでさまざまな効果を得られる。",
+    "contentBG": "<color=#ffffff>  </color>"
+  },
+  {
+    "sn": "231903",
+    "name": "誕生",
+    "typeName": "啓示",
+    "tips": "『誕生』を象徴する啓示カード。装備することでさまざまな効果を得られる。",
+    "contentBG": "<color=#ffffff>  </color>"
+  },
+  {
+    "sn": "231904",
+    "name": "誕生",
+    "typeName": "啓示",
+    "tips": "『誕生』を象徴する啓示カード。装備することでさまざまな効果を得られる。",
+    "contentBG": "<color=#ffffff>  </color>"
+  },
+  {
+    "sn": "232001",
+    "name": "AAAAAA==",
+    "typeName": "啓示",
+    "tips": "AAAAAA==",
+    "contentBG": "AAAAAA=="
+  },
+  {
+    "sn": "232002",
+    "name": "AAAAAA==",
+    "typeName": "啓示",
+    "tips": "AAAAAA==",
+    "contentBG": "AAAAAA=="
+  },
+  {
+    "sn": "232003",
+    "name": "AAAAAA==",
+    "typeName": "啓示",
+    "tips": "AAAAAA==",
+    "contentBG": "AAAAAA=="
+  },
+  {
+    "sn": "232004",
+    "name": "AAAAAA==",
+    "typeName": "啓示",
+    "tips": "AAAAAA==",
+    "contentBG": "AAAAAA=="
   },
   {
     "sn": "241135",
@@ -9443,6 +10248,27 @@
     "contentBG": "<color=#ffffff>  </color>"
   },
   {
+    "sn": "241048",
+    "name": "【誕生】の啓示・橙",
+    "typeName": "啓示",
+    "tips": "使用すると橙色の『誕生』の啓示カードを獲得する。",
+    "contentBG": "<color=#ffffff>  </color>"
+  },
+  {
+    "sn": "241195",
+    "name": "【誕生】の啓示・紫",
+    "typeName": "啓示",
+    "tips": "使用すると紫色の『誕生』の啓示カードを獲得する。",
+    "contentBG": "<color=#ffffff>  </color>"
+  },
+  {
+    "sn": "241196",
+    "name": "【誕生】の啓示・蒼",
+    "typeName": "啓示",
+    "tips": "使用すると蒼色の『誕生』の啓示カードを獲得する。",
+    "contentBG": "<color=#ffffff>  </color>"
+  },
+  {
     "sn": "252222",
     "name": "愉楽・月",
     "typeName": "啓示",
@@ -10545,7 +11371,7 @@
     "sn": "302011",
     "name": "星屑のボトル",
     "typeName": "素材",
-    "tips": "消費することで怪ドルに応じたステータス強化要素を解放・強化できる。",
+    "tips": "消費することでステータス強化要素を解放・強化できる。",
     "contentBG": "<color=#ffffff>  </color>"
   },
   {
@@ -13920,6 +14746,13 @@
     "name": "味噌",
     "typeName": "食材",
     "tips": "自宅のキッチンで料理に使用する。",
+    "contentBG": "<color=#ffffff>  </color>"
+  },
+  {
+    "sn": "301461",
+    "name": "Ｊ＆Ｃの認知結晶",
+    "typeName": "残留意識",
+    "tips": "特定の場所で使うことで、ジュスティーヌ＆カロリーヌの意識レベルを進化させる。",
     "contentBG": "<color=#ffffff>  </color>"
   },
   {
@@ -18061,7 +18894,7 @@
   },
   {
     "sn": "306869",
-    "name": "五方雑処",
+    "name": "ゴーイングマイウェイ",
     "typeName": "フレーム",
     "tips": "プロフィールのフレームに設定できる。",
     "contentBG": "AAAAAA=="
@@ -18208,9 +19041,9 @@
   },
   {
     "sn": "306890",
-    "name": "クラシックアイコンフレーム38",
+    "name": "メリークリスマス",
     "typeName": "フレーム",
-    "tips": "フレーム。\n再ログイン後、このフレームに更新。",
+    "tips": "プロフィールのフレームに設定できる。",
     "contentBG": "AAAAAA=="
   },
   {
@@ -18677,16 +19510,16 @@
   },
   {
     "sn": "306959",
-    "name": "クラシック名刺デザイン33",
+    "name": "クリスマスリース",
     "typeName": "名刺デザイン",
-    "tips": "名刺デザイン。\n再ログイン後、このフレームに更新。",
+    "tips": "プロフィールの名刺に設定できる。",
     "contentBG": "AAAAAA=="
   },
   {
     "sn": "306960",
     "name": "クラシック名刺デザイン34",
     "typeName": "名刺デザイン",
-    "tips": "名刺デザイン。\n再ログイン後、このフレームに更新。",
+    "tips": "プロフィールのフレームに設定できる。",
     "contentBG": "AAAAAA=="
   },
   {
@@ -20170,21 +21003,21 @@
     "sn": "314131",
     "name": "邂逅のバラ",
     "typeName": "バッジ",
-    "tips": "『怪盗トライアル』の『チェリッシュ特別ミッション』初級ステージをクリアで獲得する。",
+    "tips": "『怪盗トライアル』の『チェリッシュ特別ミッション』チャレンジ難易度・ステージ１をクリアすることで獲得できる。",
     "contentBG": "AAAAAA=="
   },
   {
     "sn": "314132",
     "name": "理解のバラ",
     "typeName": "バッジ",
-    "tips": "『怪盗トライアル』の『チェリッシュ特別ミッション』中級ステージをクリアで獲得する。",
+    "tips": "『怪盗トライアル』の『チェリッシュ特別ミッション』チャレンジ難易度・ステージ４をクリアすることで獲得できる。",
     "contentBG": "AAAAAA=="
   },
   {
     "sn": "314133",
     "name": "絆のバラ",
     "typeName": "バッジ",
-    "tips": "『怪盗トライアル』の『チェリッシュ特別ミッション』上級ステージをクリアで獲得する。",
+    "tips": "『怪盗トライアル』の『チェリッシュ特別ミッション』チャレンジ難易度・ステージ５をクリアすることで獲得できる。",
     "contentBG": "AAAAAA=="
   },
   {
@@ -20198,7 +21031,7 @@
     "sn": "314135",
     "name": "能く貪欲を制す者",
     "typeName": "バッジ",
-    "tips": "『運命が交錯する時・宇宙基地編』で『貪欲の像』難易度１０をクリアすると獲得する。",
+    "tips": "『運命が交錯する時・宇宙基地編』で『ボスバトル』難易度１０をクリアすると獲得する。",
     "contentBG": "AAAAAA=="
   },
   {
@@ -20212,21 +21045,28 @@
     "sn": "314136",
     "name": "固く貪欲を制す者",
     "typeName": "バッジ",
-    "tips": "『運命が交錯する時・宇宙基地編』で『貪欲の像』難易度２０をクリアすると獲得する。",
+    "tips": "『運命が交錯する時・宇宙基地編』で『ボスバトル』難易度２０をクリアすると獲得する。",
     "contentBG": "AAAAAA=="
   },
   {
     "sn": "314137",
     "name": "数多の貪欲を制す者",
     "typeName": "バッジ",
-    "tips": "『運命が交錯する時・宇宙基地編』で『貪欲の像』難易度２５をクリアすると獲得する。",
+    "tips": "『運命が交錯する時・宇宙基地編』で『ボスバトル』難易度２５をクリアすると獲得する。",
     "contentBG": "AAAAAA=="
   },
   {
     "sn": "314138",
     "name": "一切の貪欲を制す者",
     "typeName": "バッジ",
-    "tips": "『運命が交錯する時・宇宙基地編』で『貪欲の像』難易度３０をクリアすると獲得する。",
+    "tips": "『運命が交錯する時・宇宙基地編』で『ボスバトル』難易度３０をクリアすると獲得する。",
+    "contentBG": "AAAAAA=="
+  },
+  {
+    "sn": "314195",
+    "name": "大金持ち",
+    "typeName": "バッジ",
+    "tips": "『プレミアム大富豪』に参加することで獲得する。",
     "contentBG": "AAAAAA=="
   },
   {
@@ -20310,7 +21150,7 @@
     "sn": "314147",
     "name": "詐欺師が見る夢",
     "typeName": "バッジ",
-    "tips": "メインストーリー３章『無償の愛 第３幕』を進めることで獲得する。",
+    "tips": "メインストーリー３章『無償の愛 第３幕』に参加することで獲得する。",
     "contentBG": "<color=#ffffff>  </color>"
   },
   {
@@ -20549,6 +21389,41 @@
     "name": "８つ星５段",
     "typeName": "バッジ",
     "tips": "『心の海の試練』終了時、８つ星５段の位を保っていれば獲得する。",
+    "contentBG": "<color=#ffffff>  </color>"
+  },
+  {
+    "sn": "314259",
+    "name": "荊の試練・バッジ",
+    "typeName": "バッジ",
+    "tips": "プロフィールのアイコンに設定できる。",
+    "contentBG": "AAAAAA=="
+  },
+  {
+    "sn": "314260",
+    "name": "茨の冠・ルーキー",
+    "typeName": "バッジ",
+    "tips": "プロフィールのアイコンに設定できる。",
+    "contentBG": "<color=#ffffff>  </color>"
+  },
+  {
+    "sn": "314261",
+    "name": "茨の冠・ベテラン",
+    "typeName": "バッジ",
+    "tips": "プロフィールのアイコンに設定できる。",
+    "contentBG": "<color=#ffffff>  </color>"
+  },
+  {
+    "sn": "314262",
+    "name": "茨の冠・エリート",
+    "typeName": "バッジ",
+    "tips": "プロフィールのアイコンに設定できる。",
+    "contentBG": "<color=#ffffff>  </color>"
+  },
+  {
+    "sn": "314263",
+    "name": "茨の冠・レジェンド",
+    "typeName": "バッジ",
+    "tips": "プロフィールのアイコンに設定できる。",
     "contentBG": "<color=#ffffff>  </color>"
   },
   {
@@ -21683,6 +22558,13 @@
     "name": "メイドさんだぞ！",
     "typeName": "名刺デザイン",
     "tips": "プロフィールの名刺に設定できる。",
+    "contentBG": "AAAAAA=="
+  },
+  {
+    "sn": "317509",
+    "name": "ジュスティーヌ＆カロリーヌバッジ",
+    "typeName": "バッジ",
+    "tips": "ジュスティーヌ＆カロリーヌの意識レベルを６に進化させると獲得する。",
     "contentBG": "AAAAAA=="
   },
   {
@@ -23156,6 +24038,48 @@
     "contentBG": "<color=#ffffff>  </color>"
   },
   {
+    "sn": "311078",
+    "name": "ジュスティーヌの心象",
+    "typeName": "アイコン",
+    "tips": "プロフィールのアイコンに設定できる。",
+    "contentBG": "AAAAAA=="
+  },
+  {
+    "sn": "311079",
+    "name": "ジュスティーヌの心象",
+    "typeName": "アイコン",
+    "tips": "プロフィールのアイコンに設定できる。",
+    "contentBG": "AAAAAA=="
+  },
+  {
+    "sn": "311080",
+    "name": "カロリーヌの心象",
+    "typeName": "アイコン",
+    "tips": "プロフィールのアイコンに設定できる。",
+    "contentBG": "AAAAAA=="
+  },
+  {
+    "sn": "311081",
+    "name": "カロリーヌの心象",
+    "typeName": "アイコン",
+    "tips": "プロフィールのアイコンに設定できる。",
+    "contentBG": "AAAAAA=="
+  },
+  {
+    "sn": "311086",
+    "name": "群青色の自己の心象",
+    "typeName": "アイコン",
+    "tips": "プロフィールのアイコンに設定できる。",
+    "contentBG": "AAAAAA=="
+  },
+  {
+    "sn": "311087",
+    "name": "メイド服・春の心象",
+    "typeName": "アイコン",
+    "tips": "プロフィールのアイコンに設定できる。",
+    "contentBG": "AAAAAA=="
+  },
+  {
     "sn": "312048",
     "name": "百合の芳香",
     "typeName": "フレーム",
@@ -23172,6 +24096,34 @@
   {
     "sn": "312057",
     "name": "不慣れな給仕",
+    "typeName": "フレーム",
+    "tips": "プロフィールのフレームに設定できる。",
+    "contentBG": "AAAAAA=="
+  },
+  {
+    "sn": "312061",
+    "name": "謹賀新年２０２６",
+    "typeName": "フレーム",
+    "tips": "プロフィールのフレームに設定できる。",
+    "contentBG": "AAAAAA=="
+  },
+  {
+    "sn": "312062",
+    "name": "クリスマスプレゼント",
+    "typeName": "フレーム",
+    "tips": "プロフィールのフレームに設定できる。",
+    "contentBG": "AAAAAA=="
+  },
+  {
+    "sn": "312063",
+    "name": "極上の一杯",
+    "typeName": "フレーム",
+    "tips": "プロフィールのフレームに設定できる。",
+    "contentBG": "AAAAAA=="
+  },
+  {
+    "sn": "312064",
+    "name": "青き欲望",
     "typeName": "フレーム",
     "tips": "プロフィールのフレームに設定できる。",
     "contentBG": "AAAAAA=="
@@ -24276,6 +25228,13 @@
     "contentBG": "<color=#ffffff>  </color>"
   },
   {
+    "sn": "360100",
+    "name": "大富豪福袋",
+    "typeName": "ギフトセット",
+    "tips": "使用すると、芦谷真咲以外の未所持の『カスタムカード』をランダムで１枚獲得する。\nすべて所持している場合は、大富豪ポイントに変換される。",
+    "contentBG": "AAAAAA=="
+  },
+  {
     "sn": "360101",
     "name": "♦６・芦谷",
     "typeName": "カードスキン",
@@ -24284,9 +25243,9 @@
   },
   {
     "sn": "360102",
-    "name": "♣Ｋ・竜司",
+    "name": "♠Ｋ・竜司",
     "typeName": "カードスキン",
-    "tips": "ミニゲーム『大富豪』で使用するカードの♣Ｋを、特別なデザインに変更できる。",
+    "tips": "ミニゲーム『大富豪』で使用するカードの♠Ｋを、特別なデザインに変更できる。",
     "contentBG": "<color=#ffffff>  </color>"
   },
   {
@@ -24391,7 +25350,7 @@
     "sn": "400004",
     "name": "落語と君",
     "typeName": "アイテム",
-    "tips": "落語の入門書。獅子田鉄之丞からのお使いで日乃國屋に買いに行ったもの。",
+    "tips": "落語の入門書。獅子田鉄之丞からのお使いで日乃国屋に買いに行ったもの。",
     "contentBG": "<color=#ffffff>  </color>"
   },
   {
@@ -24587,21 +25546,21 @@
     "sn": "351212",
     "name": "琴音の認知片",
     "typeName": "認知片",
-    "tips": "６０個集めると『ＹＵＩの認知結晶』１つを獲得可能。",
+    "tips": "６０個集めると『琴音・アイスストームの認知結晶』１つを獲得可能。",
     "contentBG": "<color=#ffffff>  </color>"
   },
   {
     "sn": "400034",
     "name": "記念クラッカー",
     "typeName": "イベントアイテム",
-    "tips": "ハーフアニバーサリーイベントでミッションクリアすると獲得可能。これを使用したユーザー数が一定数を超えると報酬をもらえる。",
+    "tips": "ハーフアニバーサリーイベントでミッションクリアすると獲得可能。",
     "contentBG": "<color=#ffffff>  </color>"
   },
   {
     "sn": "400035",
     "name": "大富豪メダル",
     "typeName": "イベントアイテム",
-    "tips": "『大富豪』イベント期間中に勝利すると獲得可能。１００個集めるごとに報酬をもらえる。",
+    "tips": "『大富豪』で遊ぶと獲得可能。",
     "contentBG": "AAAAAA=="
   },
   {
@@ -24888,7 +25847,7 @@
     "sn": "400038",
     "name": "大富豪メダル",
     "typeName": "イベントアイテム",
-    "tips": "『大富豪』イベント期間中に勝利すると獲得可能。１００個集めるごとに報酬をもらえる。",
+    "tips": "『大富豪』で遊ぶと獲得可能。",
     "contentBG": "AAAAAA=="
   },
   {
@@ -24897,6 +25856,13 @@
     "typeName": "イベントアイテム",
     "tips": "獲得するとイメージパズルにピースが追加される。",
     "contentBG": "<color=#ffffff>  </color>"
+  },
+  {
+    "sn": "400056",
+    "name": "大富豪の証",
+    "typeName": "イベントアイテム",
+    "tips": "プレミアム大富豪イベントで獲得することができる。",
+    "contentBG": "AAAAAA=="
   },
   {
     "sn": "410516",
@@ -25209,7 +26175,7 @@
   {
     "sn": "410579",
     "name": "無知のプラモ",
-    "typeName": "ステージ",
+    "typeName": "貴重品",
     "tips": "『運命が交錯する時・宇宙基地編』のパレスのコア。",
     "contentBG": "<color=#ffffff>  </color>"
   },
@@ -25350,7 +26316,7 @@
     "sn": "500095",
     "name": "プレミアム+特典",
     "typeName": "プレビュー",
-    "tips": "ファントムパス・プレミアム＋を購入すると以下のアイテムを獲得することができます。\n限定ファッション：<link=\"fashion|309063\"><u>『アートコーデＬＢＵ』<color=#0F69CA></color></u></link>\n限定名刺：<link=\"display|306941\"><u>『グラフィティデイズ』<color=#0F69CA></color></u></link>\n限定フレーム：<link=\"display|306869\"><u>『五方雑処』<color=#0F69CA></color></u></link>\n\nさらに『染色スプレー』１個を贈呈。\n限定ファッションを入手後、自宅２階の『クローゼット』で新たなカラーが解放されます。\n解放されるのは『<link=\"fashion|309064\"><u><color=#00fcff>アートコーデＢＵ</color></u></link>』『<link=\"fashion|309065\"><u><color=#ff9c00>アートコーデＲＤ</color></u></link>』『<link=\"fashion|309066\"><u><color=#00ff9f>アートコーデＰＬ</color></u></link>』。",
+    "tips": "ファントムパス・プレミアム＋を購入すると以下のアイテムを獲得することができます。\n限定ファッション：<link=\"fashion|309063\"><u>『アートコーデＬＢＵ』<color=#0F69CA></color></u></link>\n限定名刺：<link=\"display|306941\"><u>『グラフィティデイズ』<color=#0F69CA></color></u></link>\n限定フレーム：<link=\"display|306869\"><u>『ゴーイングマイウェイ』<color=#0F69CA></color></u></link>\n\nさらに『染色スプレー』１個を贈呈。\n限定ファッションを入手後、自宅２階の『クローゼット』で新たなカラーが解放されます。\n解放されるのは『<link=\"fashion|309064\"><u><color=#00fcff>アートコーデＢＵ</color></u></link>』『<link=\"fashion|309065\"><u><color=#ff9c00>アートコーデＲＤ</color></u></link>』『<link=\"fashion|309066\"><u><color=#00ff9f>アートコーデＰＬ</color></u></link>』。",
     "contentBG": "<color=#ffffff>  </color>"
   },
   {
@@ -25378,7 +26344,7 @@
     "sn": "500099",
     "name": "怪盗生活応援ギフト",
     "typeName": "プレビュー",
-    "tips": "ファントムパスで獲得するアイテム\n『サラマンダーコイン』１枚\n『ゴールドチケット』５枚\n『常久の香木』２個\n『コーヒーエイド』６個\nなどの育成素材と魂魄玉を含む。\n\nパス・プレミアムで獲得するアイテム\n『サラマンダーコイン』４枚\n『限定★４武器選択箱』２個\n『プラチナチケット』３枚\n『プラチナミリコイン』３枚\n『運命の啓示・橙』１枚\n『常久の香木』３個\n『コーヒーエイド』６個\nなど、多くの育成素材と魂魄玉を含む。",
+    "tips": "ファントムパスで獲得するアイテム\n『サラマンダーコイン』１枚\n『ゴールドチケット』５枚\n『常久の香木』２個\n『コーヒーエイド』６個\nなどの育成素材と魂魄玉を含む。\n\nパス・プレミアムで獲得するアイテム\n『サラマンダーコイン』４枚\n『限定★４武器選択箱』２個\n『プラチナチケット』３枚\n『プラチナミリコイン』３枚\n『運命の啓示・橙』１枚\n『常久の香木』３個\n『コーヒーエイド』６個\n『変遷のインク』２個\nなど、多くの育成素材と魂魄玉を含む。",
     "contentBG": "<color=#ffffff>  </color>"
   },
   {
@@ -25480,6 +26446,83 @@
     "contentBG": "<color=#ffffff>  </color>"
   },
   {
+    "sn": "314447",
+    "name": "迎春",
+    "typeName": "バッジ",
+    "tips": "『謹賀新年！\u3000除災招福！』の探索進行度が１００%に達すると獲得する。",
+    "contentBG": "AAAAAA=="
+  },
+  {
+    "sn": "314448",
+    "name": "運命が交錯する法則",
+    "typeName": "バッジ",
+    "tips": "『運命が交錯する時・双子の看守編』の探索進行度が１００%に達すると獲得する。",
+    "contentBG": "AAAAAA=="
+  },
+  {
+    "sn": "314449",
+    "name": "異世界・始まりの法則",
+    "typeName": "バッジ",
+    "tips": "『運命が交錯する時・双子の看守編』で『チャレンジバトル』難易度１０をクリアすると獲得する。",
+    "contentBG": "AAAAAA=="
+  },
+  {
+    "sn": "314450",
+    "name": "異世界・繁栄の法則",
+    "typeName": "バッジ",
+    "tips": "『運命が交錯する時・双子の看守編』で『チャレンジバトル』難易度２０をクリアすると獲得する。",
+    "contentBG": "AAAAAA=="
+  },
+  {
+    "sn": "314451",
+    "name": "異世界・至高の法則",
+    "typeName": "バッジ",
+    "tips": "『運命が交錯する時・双子の看守編』で『チャレンジバトル』難易度２５をクリアすると獲得する。",
+    "contentBG": "AAAAAA=="
+  },
+  {
+    "sn": "314452",
+    "name": "異世界・終焉の法則",
+    "typeName": "バッジ",
+    "tips": "『運命が交錯する時・双子の看守編』で『チャレンジバトル』難易度３０をクリアすると獲得する。",
+    "contentBG": "AAAAAA=="
+  },
+  {
+    "sn": "314453",
+    "name": "異世界・法則の相貌",
+    "typeName": "バッジ",
+    "tips": "『運命が交錯する時・双子の看守編』で『チャレンジバトル』最高難易度をクリアすると獲得する。",
+    "contentBG": "AAAAAA=="
+  },
+  {
+    "sn": "318505",
+    "name": "初春の午",
+    "typeName": "名刺デザイン",
+    "tips": "プロフィールの名刺に設定できる。",
+    "contentBG": "AAAAAA=="
+  },
+  {
+    "sn": "318506",
+    "name": "クリスマスリース",
+    "typeName": "名刺デザイン",
+    "tips": "プロフィールのフレームに設定できる。",
+    "contentBG": "AAAAAA=="
+  },
+  {
+    "sn": "318507",
+    "name": "優雅なひと時",
+    "typeName": "名刺デザイン",
+    "tips": "プロフィールの名刺に設定できる。",
+    "contentBG": "AAAAAA=="
+  },
+  {
+    "sn": "318508",
+    "name": "青く深い海へ",
+    "typeName": "名刺デザイン",
+    "tips": "プロフィールの名刺に設定できる。",
+    "contentBG": "AAAAAA=="
+  },
+  {
     "sn": "500208",
     "name": "ＹＵＩの好感度",
     "typeName": "AAAAAA==",
@@ -25567,7 +26610,7 @@
     "sn": "501031",
     "name": "新井 素羽",
     "typeName": "怪盗",
-    "tips": "<color=#eade10>★★★★</color>\n属性・ロール：電撃・支配\nペルソナ：アルビルダ\n\n高校２年生の少女。主人公のクラスメイト。スポーツ万能。 明るくさっぱりとして、気遣いができる性格。校内では男女ともに人気。\nコードネームは『クローザー』。",
+    "tips": "<color=#eade10>★★★★</color>\n属性・ロール：電撃・支配\nペルソナ：アルビルダ\n\n高校２年生の少女。主人公のクラスメイト。スポーツ万能。明るくさっぱりとして、気遣いができる性格。校内では男女ともに人気。\nコードネームは『クローザー』。",
     "contentBG": "AAAAAA=="
   },
   {
@@ -25672,14 +26715,14 @@
     "sn": "501151",
     "name": "明智 吾郎",
     "typeName": "怪盗",
-    "tips": "<color=#eade10>★★★★★</color>\n属性・ロール：万能・優越\nペルソナ：ロビンフッド\n\n高校３年生の少年。明晰な頭脳と人当たりのいい性格、 その容姿も相まって注目を集めている。\nコードネームは『クロウ』。",
+    "tips": "<color=#eade10>★★★★★</color>\n属性・ロール：万能・優越\nペルソナ：ロビンフッド\n\n高校３年生の少年。明晰な頭脳と人当たりのいい性格、その容姿も相まって注目を集めている。\nコードネームは『クロウ』。",
     "contentBG": "AAAAAA=="
   },
   {
     "sn": "501161",
     "name": "喜多川 祐介",
     "typeName": "怪盗",
-    "tips": "<color=#eade10>★★★★★</color>\n属性・ロール：氷結・支配\nペルソナ：ゴエモン\n\n高校２年生の少年。人目を引く美少年だが、 独特の感性ゆえ浮世離れしたところも。\nコードネームは『フォックス』。",
+    "tips": "<color=#eade10>★★★★★</color>\n属性・ロール：氷結・支配\nペルソナ：ゴエモン\n\n高校２年生の少年。人目を引く美少年だが、独特の感性ゆえ浮世離れしたところも。\nコードネームは『フォックス』。",
     "contentBG": "AAAAAA=="
   },
   {
@@ -25719,7 +26762,7 @@
   },
   {
     "sn": "501212",
-    "name": "琴音・モンターニュ\u3000スローダンス",
+    "name": "琴音・アイスストーム",
     "typeName": "怪盗",
     "tips": "AAAAAA==",
     "contentBG": "AAAAAA=="
@@ -26869,7 +27912,7 @@
     "sn": "510260",
     "name": "シヴァ",
     "typeName": "ペルソナ",
-    "tips": "『シヴァ』というペルソナ。戦闘中に呼び出すことができる。",
+    "tips": "『シヴァ』という名のペルソナ。戦闘中に呼び出すことができる。",
     "contentBG": "AAAAAA=="
   },
   {
@@ -29141,6 +30184,20 @@
     "contentBG": "AAAAAA=="
   },
   {
+    "sn": "309518",
+    "name": "怪盗服",
+    "typeName": "コスチューム",
+    "tips": "春の見た目を怪盗服に変更する。",
+    "contentBG": "<color=#ffffff>  </color>"
+  },
+  {
+    "sn": "309519",
+    "name": "メイド服",
+    "typeName": "コスチューム",
+    "tips": "春の見た目をメイド服に変更する。\nショップで『メイド服・春セット』を購入すると獲得できる。",
+    "contentBG": "<color=#ffffff>  </color>"
+  },
+  {
     "sn": "600404",
     "name": "渡来軒",
     "typeName": "マイパレスの彫像",
@@ -29317,14 +30374,14 @@
   },
   {
     "sn": "530171",
-    "name": "『笑わないで…』",
+    "name": "『くらくら…』",
     "typeName": "スタンプ",
     "tips": "チャットに使用する。",
     "contentBG": "AAAAAA=="
   },
   {
     "sn": "530172",
-    "name": "『知らないわ？』",
+    "name": "『どうして？』",
     "typeName": "スタンプ",
     "tips": "チャットに使用する。",
     "contentBG": "AAAAAA=="
@@ -30707,5 +31764,194 @@
     "typeName": "イベントアイテム",
     "tips": "『全速力でぶっ飛ばせ』で獲得したポイントアイテム。",
     "contentBG": "<color=#ffffff>  </color>"
+  },
+  {
+    "sn": "309520",
+    "name": "群青色の衣装・主人公",
+    "typeName": "コスチューム",
+    "tips": "主人公の見た目を群青色の衣装に変更する。\nショップで『群青色の衣装・主人公セット』を購入すると獲得できる。",
+    "contentBG": "<color=#ffffff>  </color>"
+  },
+  {
+    "sn": "310339",
+    "name": "謎の双子",
+    "typeName": "カプセルトイ",
+    "tips": "期間限定イベント『カプセルトイ』で入手できる。自宅のショーケースに飾れる。",
+    "contentBG": "<color=#ffffff>  </color>"
+  },
+  {
+    "sn": "310340",
+    "name": "更生開始",
+    "typeName": "カプセルトイ",
+    "tips": "期間限定イベント『カプセルトイ』で入手できる。自宅のショーケースに飾れる。",
+    "contentBG": "<color=#ffffff>  </color>"
+  },
+  {
+    "sn": "310341",
+    "name": "合体警報",
+    "typeName": "カプセルトイ",
+    "tips": "期間限定イベント『カプセルトイ』で入手できる。自宅のショーケースに飾れる。",
+    "contentBG": "<color=#ffffff>  </color>"
+  },
+  {
+    "sn": "310342",
+    "name": "処刑の刻",
+    "typeName": "カプセルトイ",
+    "tips": "期間限定イベント『カプセルトイ』で入手できる。自宅のショーケースに飾れる。",
+    "contentBG": "<color=#ffffff>  </color>"
+  },
+  {
+    "sn": "310343",
+    "name": "特別刑務",
+    "typeName": "カプセルトイ",
+    "tips": "期間限定イベント『カプセルトイ』で入手できる。自宅のショーケースに飾れる。",
+    "contentBG": "<color=#ffffff>  </color>"
+  },
+  {
+    "sn": "310344",
+    "name": "大食いチャレンジ",
+    "typeName": "カプセルトイ",
+    "tips": "期間限定イベント『カプセルトイ』で入手できるレアカプセル。自宅のショーケースに飾れる。",
+    "contentBG": "<color=#ffffff>  </color>"
+  },
+  {
+    "sn": "310345",
+    "name": "囚獄の扉",
+    "typeName": "カプセルトイ",
+    "tips": "期間限定イベント『カプセルトイ』で入手できるレアカプセル。自宅のショーケースに飾れる。",
+    "contentBG": "<color=#ffffff>  </color>"
+  },
+  {
+    "sn": "310346",
+    "name": "謹賀新年",
+    "typeName": "カプセルトイ",
+    "tips": "期間限定イベント『カプセルトイ』で入手できる激レアカプセル。自宅のショーケースに飾れる。",
+    "contentBG": "<color=#ffffff>  </color>"
+  },
+  {
+    "sn": "310818",
+    "name": "青の監獄",
+    "typeName": "ショーケース背景",
+    "tips": "ショーケースの背景として使用する。カプセルトイを飾って楽しめる。",
+    "contentBG": "<color=#ffffff>  </color>"
+  },
+  {
+    "sn": "341461",
+    "name": "AAAAAA==",
+    "typeName": "AAAAAA==",
+    "tips": "AAAAAA==",
+    "contentBG": "<color=#ffffff>  </color>"
+  },
+  {
+    "sn": "351461",
+    "name": "Ｊ＆Ｃの認知片",
+    "typeName": "認知片",
+    "tips": "６０個集めると『Ｊ＆Ｃの認知結晶』１つを獲得可能。",
+    "contentBG": "<color=#ffffff>  </color>"
+  },
+  {
+    "sn": "501461",
+    "name": "ジュスティーヌ＆カロリーヌ",
+    "typeName": "怪盗",
+    "tips": "<color=#eade10>★★★★★</color>\n属性・ロール：万能・自律\n\n看守姿の双子の少女。\n主人公のことを『新人』と呼び、\n少し険のある態度と口調で接している。",
+    "contentBG": "AAAAAA=="
+  },
+  {
+    "sn": "540129",
+    "name": "AAAAAA==",
+    "typeName": "啓示セット",
+    "tips": "AAAAAA==",
+    "contentBG": "<color=#ffffff>  </color>"
+  },
+  {
+    "sn": "540130",
+    "name": "AAAAAA==",
+    "typeName": "啓示セット",
+    "tips": "AAAAAA==",
+    "contentBG": "<color=#ffffff>  </color>"
+  },
+  {
+    "sn": "540131",
+    "name": "AAAAAA==",
+    "typeName": "啓示セット",
+    "tips": "AAAAAA==",
+    "contentBG": "<color=#ffffff>  </color>"
+  },
+  {
+    "sn": "540132",
+    "name": "AAAAAA==",
+    "typeName": "啓示セット",
+    "tips": "AAAAAA==",
+    "contentBG": "<color=#ffffff>  </color>"
+  },
+  {
+    "sn": "540133",
+    "name": "AAAAAA==",
+    "typeName": "啓示セット",
+    "tips": "AAAAAA==",
+    "contentBG": "<color=#ffffff>  </color>"
+  },
+  {
+    "sn": "540134",
+    "name": "AAAAAA==",
+    "typeName": "啓示セット",
+    "tips": "AAAAAA==",
+    "contentBG": "<color=#ffffff>  </color>"
+  },
+  {
+    "sn": "540135",
+    "name": "AAAAAA==",
+    "typeName": "啓示セット",
+    "tips": "AAAAAA==",
+    "contentBG": "<color=#ffffff>  </color>"
+  },
+  {
+    "sn": "540136",
+    "name": "AAAAAA==",
+    "typeName": "啓示セット",
+    "tips": "AAAAAA==",
+    "contentBG": "<color=#ffffff>  </color>"
+  },
+  {
+    "sn": "540137",
+    "name": "AAAAAA==",
+    "typeName": "啓示セット",
+    "tips": "AAAAAA==",
+    "contentBG": "<color=#ffffff>  </color>"
+  },
+  {
+    "sn": "540138",
+    "name": "AAAAAA==",
+    "typeName": "啓示セット",
+    "tips": "AAAAAA==",
+    "contentBG": "<color=#ffffff>  </color>"
+  },
+  {
+    "sn": "540139",
+    "name": "AAAAAA==",
+    "typeName": "啓示セット",
+    "tips": "AAAAAA==",
+    "contentBG": "<color=#ffffff>  </color>"
+  },
+  {
+    "sn": "540140",
+    "name": "AAAAAA==",
+    "typeName": "啓示セット",
+    "tips": "AAAAAA==",
+    "contentBG": "<color=#ffffff>  </color>"
+  },
+  {
+    "sn": "600814",
+    "name": "運命が交錯する時\u3000双子の看守編",
+    "typeName": "マイパレスのイラスト",
+    "tips": "『運命が交錯する時\u3000双子の看守編』に使用されたイラスト。",
+    "contentBG": "AAAAAA=="
+  },
+  {
+    "sn": "600815",
+    "name": "謹賀新年！\u3000除災招福！",
+    "typeName": "マイパレスのイラスト",
+    "tips": "『謹賀新年！\u3000除災招福！』に使用されたイラスト。",
+    "contentBG": "AAAAAA=="
   }
 ]
