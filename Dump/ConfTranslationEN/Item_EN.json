@@ -428,7 +428,7 @@
   },
   {
     "sn": "65",
-    "name": "Spiritual Endurance",
+    "name": "Willpower",
     "typeName": "Currency",
     "tips": "An item needed to attempt Trial of the Astrolabe. Restores 7 days after an attempt.",
     "contentBG": "<color=#ffffff>  </color>"
@@ -655,6 +655,27 @@
     "name": "Cosmic Rebel Coin",
     "typeName": "Commemorative Item",
     "tips": "Coins obtained from Crossroads of Fate: Spaceport Arc can be exchanged for 10 Konpaku Gems.",
+    "contentBG": "<color=#ffffff>  </color>"
+  },
+  {
+    "sn": "1085",
+    "name": "Marthym's Stamp",
+    "typeName": "Event Currency",
+    "tips": "Obtainable by purchasing items at the Shop. After earning a certain number, you can get Purchase Rewards.",
+    "contentBG": "AAAAAA=="
+  },
+  {
+    "sn": "1106",
+    "name": "Prison Rebel Coin",
+    "typeName": "Event Currency",
+    "tips": "Obtainable by playing Crossroads of Fate: Twins Arc. Can be exchanged for rewards.",
+    "contentBG": "<color=#ffffff>  </color>"
+  },
+  {
+    "sn": "1107",
+    "name": "Emblem of Fate: Butterfly",
+    "typeName": "Commemorative Item",
+    "tips": "Coins obtained from Crossroads of Fate: Twins Arc can be exchanged for 100 Konpaku Gems.",
     "contentBG": "<color=#ffffff>  </color>"
   },
   {
@@ -1253,8 +1274,71 @@
     "contentBG": "AAAAAA=="
   },
   {
+    "sn": "100427",
+    "name": "5★ Phantom Thief Chance 02",
+    "typeName": "Gift Set",
+    "tips": "Can be used to draw and obtain one Phantom Thief from certain Phantom Thieves.",
+    "contentBG": "AAAAAA=="
+  },
+  {
+    "sn": "100506",
+    "name": "Training Boost Set",
+    "typeName": "Gift Set",
+    "tips": "Can be used to obtain random training materials.",
+    "contentBG": "AAAAAA=="
+  },
+  {
+    "sn": "100512",
+    "name": "Training Boost Set",
+    "typeName": "Gift Set",
+    "tips": "Can be used to obtain random training materials.",
+    "contentBG": "AAAAAA=="
+  },
+  {
+    "sn": "100517",
+    "name": "Training Boost Set",
+    "typeName": "Gift Set",
+    "tips": "Can be used to obtain random training materials.",
+    "contentBG": "AAAAAA=="
+  },
+  {
+    "sn": "100522",
+    "name": "Training Boost Set",
+    "typeName": "Gift Set",
+    "tips": "Can be used to obtain random training materials.",
+    "contentBG": "AAAAAA=="
+  },
+  {
+    "sn": "100527",
+    "name": "Training Boost Set",
+    "typeName": "Gift Set",
+    "tips": "Can be used to obtain random training materials.",
+    "contentBG": "AAAAAA=="
+  },
+  {
+    "sn": "100532",
+    "name": "Training Boost Set",
+    "typeName": "Gift Set",
+    "tips": "Can be used to obtain random training materials.",
+    "contentBG": "AAAAAA=="
+  },
+  {
+    "sn": "100537",
+    "name": "Training Boost Set",
+    "typeName": "Gift Set",
+    "tips": "Can be used to obtain random training materials.",
+    "contentBG": "AAAAAA=="
+  },
+  {
     "sn": "100601",
     "name": "5★ Phantom Thief Chance 01",
+    "typeName": "Gift Set",
+    "tips": "Can be used to draw and obtain one Phantom Thief from certain Phantom Thieves.",
+    "contentBG": "AAAAAA=="
+  },
+  {
+    "sn": "100602",
+    "name": "5★ Phantom Thief Chance 02",
     "typeName": "Gift Set",
     "tips": "Can be used to draw and obtain one Phantom Thief from certain Phantom Thieves.",
     "contentBG": "AAAAAA=="
@@ -1709,23 +1793,23 @@
   },
   {
     "sn": "190064",
-    "name": "Cognitite Box 3",
+    "name": "Reward 5★ Cognitite Case",
     "typeName": "Gift Set",
-    "tips": "Can be used to draw and obtain one Cognitite for certain Phantom Thieves.",
-    "contentBG": "AAAAAA=="
+    "tips": "Can be used to select and obtain one Cognitite for certain Phantom Thieves.",
+    "contentBG": "<color=#ffffff>  </color>"
   },
   {
     "sn": "190065",
-    "name": "5★ Weapon Case",
+    "name": "Reward 5★ Weapon Case",
     "typeName": "Gift Set",
-    "tips": "Can be used to select and obtain one weapon from certain weapons.",
+    "tips": "Can be used to select and obtain one weapon from certain weapons or Meta Jewel x1000.",
     "contentBG": "<color=#ffffff>  </color>"
   },
   {
     "sn": "190066",
-    "name": "5★ Phantom Idol Ticket 3",
+    "name": "Reward 5★ Thief Select Ticket",
     "typeName": "Gift Set",
-    "tips": "Can be used to select and obtain one Phantom Thief from certain Phantom Thieves.",
+    "tips": "Can be used to select and obtain one Phantom Thief from certain Phantom Thieves or Meta Jewel x1500.",
     "contentBG": "AAAAAA=="
   },
   {
@@ -1862,6 +1946,13 @@
     "contentBG": "<color=#ffffff>  </color>"
   },
   {
+    "sn": "190178",
+    "name": "Half-Anni 5★ Thief Select Ticket",
+    "typeName": "Gift Set",
+    "tips": "Can be used to select and obtain one Phantom Thief from certain Phantom Thieves.",
+    "contentBG": "<color=#ffffff>  </color>"
+  },
+  {
     "sn": "200109",
     "name": "Eye of Obsequies",
     "typeName": "Dagger",
@@ -1887,6 +1978,20 @@
     "name": "Normal Rod",
     "typeName": "Stick",
     "tips": "Ryuji-only melee weapon.",
+    "contentBG": "<color=#ffffff>  </color>"
+  },
+  {
+    "sn": "190190",
+    "name": "Meta Jewel x1000",
+    "typeName": "Currency",
+    "tips": "Used for Contracts, Arms Deals, and recovering your stamina.",
+    "contentBG": "<color=#ffffff>  </color>"
+  },
+  {
+    "sn": "190191",
+    "name": "Meta Jewel x1500",
+    "typeName": "Currency",
+    "tips": "Used for Contracts, Arms Deals, and recovering your stamina.",
     "contentBG": "<color=#ffffff>  </color>"
   },
   {
@@ -2570,28 +2675,28 @@
   },
   {
     "sn": "212111",
-    "name": "tdxct-[Weapon_name_212111]",
+    "name": "Lame du Vent Glacé",
     "typeName": "Saber",
     "tips": "Kotone-only melee weapon.",
     "contentBG": "<color=#ffffff>  </color>"
   },
   {
     "sn": "212112",
-    "name": "DC[It][112]",
+    "name": "Lame de la Tourmente",
     "typeName": "Saber",
     "tips": "Kotone-only melee weapon.",
     "contentBG": "<color=#ffffff>  </color>"
   },
   {
     "sn": "212113",
-    "name": "DC[It][113]",
+    "name": "Lame de l'Aube",
     "typeName": "Saber",
     "tips": "Kotone-only melee weapon.",
     "contentBG": "<color=#ffffff>  </color>"
   },
   {
     "sn": "212114",
-    "name": "DC[It][114]",
+    "name": "Lame de l'Amour",
     "typeName": "Saber",
     "tips": "Kotone-only melee weapon.",
     "contentBG": "<color=#ffffff>  </color>"
@@ -2878,28 +2983,28 @@
   },
   {
     "sn": "213401",
-    "name": "tdxct-[Weapon_name_213401]",
+    "name": "Plushie Claws",
     "typeName": "AAAAAA==",
     "tips": "AAAAAA==",
     "contentBG": "AAAAAA=="
   },
   {
     "sn": "213402",
-    "name": "tdxct-[Weapon_name_213402]",
+    "name": "Guard Dog Claws",
     "typeName": "AAAAAA==",
     "tips": "AAAAAA==",
     "contentBG": "AAAAAA=="
   },
   {
     "sn": "213403",
-    "name": "tdxct-[Weapon_name_213403]",
+    "name": "Hunting Hound Claws",
     "typeName": "AAAAAA==",
     "tips": "AAAAAA==",
     "contentBG": "AAAAAA=="
   },
   {
     "sn": "213404",
-    "name": "tdxct-[Weapon_name_213404]",
+    "name": "Cerberus Gauntlets",
     "typeName": "AAAAAA==",
     "tips": "AAAAAA==",
     "contentBG": "AAAAAA=="
@@ -2959,6 +3064,62 @@
     "typeName": "AAAAAA==",
     "tips": "AAAAAA==",
     "contentBG": "AAAAAA=="
+  },
+  {
+    "sn": "214601",
+    "name": "Warden's Baton",
+    "typeName": "Baton",
+    "tips": "Justine & Caroline's exclusive weapon.",
+    "contentBG": "<color=#ffffff>  </color>"
+  },
+  {
+    "sn": "214602",
+    "name": "Prisoner Punisher",
+    "typeName": "Baton",
+    "tips": "Justine & Caroline's exclusive weapon.",
+    "contentBG": "<color=#ffffff>  </color>"
+  },
+  {
+    "sn": "214603",
+    "name": "Deliverance of Strength",
+    "typeName": "Baton",
+    "tips": "Justine & Caroline's exclusive weapon.",
+    "contentBG": "<color=#ffffff>  </color>"
+  },
+  {
+    "sn": "214604",
+    "name": "Warden's Judgement",
+    "typeName": "Baton",
+    "tips": "Justine & Caroline's exclusive weapon.",
+    "contentBG": "<color=#ffffff>  </color>"
+  },
+  {
+    "sn": "214611",
+    "name": "AAAAAA==",
+    "typeName": "AAAAAA==",
+    "tips": "Yumi-only melee weapon.",
+    "contentBG": "<color=#ffffff>  </color>"
+  },
+  {
+    "sn": "214612",
+    "name": "AAAAAA==",
+    "typeName": "AAAAAA==",
+    "tips": "Yumi-only melee weapon.",
+    "contentBG": "<color=#ffffff>  </color>"
+  },
+  {
+    "sn": "214613",
+    "name": "AAAAAA==",
+    "typeName": "AAAAAA==",
+    "tips": "Yumi-only melee weapon.",
+    "contentBG": "<color=#ffffff>  </color>"
+  },
+  {
+    "sn": "214614",
+    "name": "AAAAAA==",
+    "typeName": "AAAAAA==",
+    "tips": "Yumi-only melee weapon.",
+    "contentBG": "<color=#ffffff>  </color>"
   },
   {
     "sn": "220121",
@@ -6279,6 +6440,342 @@
     "contentBG": "<color=#ffffff>  </color>"
   },
   {
+    "sn": "223321",
+    "name": "AAAAAA==",
+    "typeName": "Revelation",
+    "tips": "AAAAAA==",
+    "contentBG": "<color=#ffffff>  </color>"
+  },
+  {
+    "sn": "223322",
+    "name": "AAAAAA==",
+    "typeName": "Revelation",
+    "tips": "AAAAAA==",
+    "contentBG": "<color=#ffffff>  </color>"
+  },
+  {
+    "sn": "223323",
+    "name": "AAAAAA==",
+    "typeName": "Revelation",
+    "tips": "AAAAAA==",
+    "contentBG": "<color=#ffffff>  </color>"
+  },
+  {
+    "sn": "223324",
+    "name": "AAAAAA==",
+    "typeName": "Revelation",
+    "tips": "AAAAAA==",
+    "contentBG": "<color=#ffffff>  </color>"
+  },
+  {
+    "sn": "223331",
+    "name": "AAAAAA==",
+    "typeName": "Revelation",
+    "tips": "AAAAAA==",
+    "contentBG": "<color=#ffffff>  </color>"
+  },
+  {
+    "sn": "223332",
+    "name": "AAAAAA==",
+    "typeName": "Revelation",
+    "tips": "AAAAAA==",
+    "contentBG": "<color=#ffffff>  </color>"
+  },
+  {
+    "sn": "223333",
+    "name": "AAAAAA==",
+    "typeName": "Revelation",
+    "tips": "AAAAAA==",
+    "contentBG": "<color=#ffffff>  </color>"
+  },
+  {
+    "sn": "223334",
+    "name": "AAAAAA==",
+    "typeName": "Revelation",
+    "tips": "AAAAAA==",
+    "contentBG": "<color=#ffffff>  </color>"
+  },
+  {
+    "sn": "223341",
+    "name": "AAAAAA==",
+    "typeName": "Revelation",
+    "tips": "AAAAAA==",
+    "contentBG": "<color=#ffffff>  </color>"
+  },
+  {
+    "sn": "223342",
+    "name": "AAAAAA==",
+    "typeName": "Revelation",
+    "tips": "AAAAAA==",
+    "contentBG": "<color=#ffffff>  </color>"
+  },
+  {
+    "sn": "223343",
+    "name": "AAAAAA==",
+    "typeName": "Revelation",
+    "tips": "AAAAAA==",
+    "contentBG": "<color=#ffffff>  </color>"
+  },
+  {
+    "sn": "223344",
+    "name": "AAAAAA==",
+    "typeName": "Revelation",
+    "tips": "AAAAAA==",
+    "contentBG": "<color=#ffffff>  </color>"
+  },
+  {
+    "sn": "223351",
+    "name": "AAAAAA==",
+    "typeName": "Revelation",
+    "tips": "AAAAAA==",
+    "contentBG": "<color=#ffffff>  </color>"
+  },
+  {
+    "sn": "223352",
+    "name": "AAAAAA==",
+    "typeName": "Revelation",
+    "tips": "AAAAAA==",
+    "contentBG": "<color=#ffffff>  </color>"
+  },
+  {
+    "sn": "223353",
+    "name": "AAAAAA==",
+    "typeName": "Revelation",
+    "tips": "AAAAAA==",
+    "contentBG": "<color=#ffffff>  </color>"
+  },
+  {
+    "sn": "223354",
+    "name": "AAAAAA==",
+    "typeName": "Revelation",
+    "tips": "AAAAAA==",
+    "contentBG": "<color=#ffffff>  </color>"
+  },
+  {
+    "sn": "223421",
+    "name": "AAAAAA==",
+    "typeName": "Revelation",
+    "tips": "AAAAAA==",
+    "contentBG": "AAAAAA=="
+  },
+  {
+    "sn": "223422",
+    "name": "AAAAAA==",
+    "typeName": "Revelation",
+    "tips": "AAAAAA==",
+    "contentBG": "AAAAAA=="
+  },
+  {
+    "sn": "223423",
+    "name": "AAAAAA==",
+    "typeName": "Revelation",
+    "tips": "AAAAAA==",
+    "contentBG": "AAAAAA=="
+  },
+  {
+    "sn": "223424",
+    "name": "AAAAAA==",
+    "typeName": "Revelation",
+    "tips": "AAAAAA==",
+    "contentBG": "AAAAAA=="
+  },
+  {
+    "sn": "223431",
+    "name": "AAAAAA==",
+    "typeName": "Revelation",
+    "tips": "AAAAAA==",
+    "contentBG": "AAAAAA=="
+  },
+  {
+    "sn": "223432",
+    "name": "AAAAAA==",
+    "typeName": "Revelation",
+    "tips": "AAAAAA==",
+    "contentBG": "AAAAAA=="
+  },
+  {
+    "sn": "223433",
+    "name": "AAAAAA==",
+    "typeName": "Revelation",
+    "tips": "AAAAAA==",
+    "contentBG": "AAAAAA=="
+  },
+  {
+    "sn": "223434",
+    "name": "AAAAAA==",
+    "typeName": "Revelation",
+    "tips": "AAAAAA==",
+    "contentBG": "AAAAAA=="
+  },
+  {
+    "sn": "223441",
+    "name": "AAAAAA==",
+    "typeName": "Revelation",
+    "tips": "AAAAAA==",
+    "contentBG": "AAAAAA=="
+  },
+  {
+    "sn": "223442",
+    "name": "AAAAAA==",
+    "typeName": "Revelation",
+    "tips": "AAAAAA==",
+    "contentBG": "AAAAAA=="
+  },
+  {
+    "sn": "223443",
+    "name": "AAAAAA==",
+    "typeName": "Revelation",
+    "tips": "AAAAAA==",
+    "contentBG": "AAAAAA=="
+  },
+  {
+    "sn": "223444",
+    "name": "AAAAAA==",
+    "typeName": "Revelation",
+    "tips": "AAAAAA==",
+    "contentBG": "AAAAAA=="
+  },
+  {
+    "sn": "223451",
+    "name": "AAAAAA==",
+    "typeName": "Revelation",
+    "tips": "AAAAAA==",
+    "contentBG": "AAAAAA=="
+  },
+  {
+    "sn": "223452",
+    "name": "AAAAAA==",
+    "typeName": "Revelation",
+    "tips": "AAAAAA==",
+    "contentBG": "AAAAAA=="
+  },
+  {
+    "sn": "223453",
+    "name": "AAAAAA==",
+    "typeName": "Revelation",
+    "tips": "AAAAAA==",
+    "contentBG": "AAAAAA=="
+  },
+  {
+    "sn": "223454",
+    "name": "AAAAAA==",
+    "typeName": "Revelation",
+    "tips": "AAAAAA==",
+    "contentBG": "AAAAAA=="
+  },
+  {
+    "sn": "223521",
+    "name": "AAAAAA==",
+    "typeName": "Revelation",
+    "tips": "AAAAAA==",
+    "contentBG": "AAAAAA=="
+  },
+  {
+    "sn": "223522",
+    "name": "AAAAAA==",
+    "typeName": "Revelation",
+    "tips": "AAAAAA==",
+    "contentBG": "AAAAAA=="
+  },
+  {
+    "sn": "223523",
+    "name": "AAAAAA==",
+    "typeName": "Revelation",
+    "tips": "AAAAAA==",
+    "contentBG": "AAAAAA=="
+  },
+  {
+    "sn": "223524",
+    "name": "AAAAAA==",
+    "typeName": "Revelation",
+    "tips": "AAAAAA==",
+    "contentBG": "AAAAAA=="
+  },
+  {
+    "sn": "223531",
+    "name": "AAAAAA==",
+    "typeName": "Revelation",
+    "tips": "AAAAAA==",
+    "contentBG": "AAAAAA=="
+  },
+  {
+    "sn": "223532",
+    "name": "AAAAAA==",
+    "typeName": "Revelation",
+    "tips": "AAAAAA==",
+    "contentBG": "AAAAAA=="
+  },
+  {
+    "sn": "223533",
+    "name": "AAAAAA==",
+    "typeName": "Revelation",
+    "tips": "AAAAAA==",
+    "contentBG": "AAAAAA=="
+  },
+  {
+    "sn": "223534",
+    "name": "AAAAAA==",
+    "typeName": "Revelation",
+    "tips": "AAAAAA==",
+    "contentBG": "AAAAAA=="
+  },
+  {
+    "sn": "223541",
+    "name": "AAAAAA==",
+    "typeName": "Revelation",
+    "tips": "AAAAAA==",
+    "contentBG": "AAAAAA=="
+  },
+  {
+    "sn": "223542",
+    "name": "AAAAAA==",
+    "typeName": "Revelation",
+    "tips": "AAAAAA==",
+    "contentBG": "AAAAAA=="
+  },
+  {
+    "sn": "223543",
+    "name": "AAAAAA==",
+    "typeName": "Revelation",
+    "tips": "AAAAAA==",
+    "contentBG": "AAAAAA=="
+  },
+  {
+    "sn": "223544",
+    "name": "AAAAAA==",
+    "typeName": "Revelation",
+    "tips": "AAAAAA==",
+    "contentBG": "AAAAAA=="
+  },
+  {
+    "sn": "223551",
+    "name": "AAAAAA==",
+    "typeName": "Revelation",
+    "tips": "AAAAAA==",
+    "contentBG": "AAAAAA=="
+  },
+  {
+    "sn": "223552",
+    "name": "AAAAAA==",
+    "typeName": "Revelation",
+    "tips": "AAAAAA==",
+    "contentBG": "AAAAAA=="
+  },
+  {
+    "sn": "223553",
+    "name": "AAAAAA==",
+    "typeName": "Revelation",
+    "tips": "AAAAAA==",
+    "contentBG": "AAAAAA=="
+  },
+  {
+    "sn": "223554",
+    "name": "AAAAAA==",
+    "typeName": "Revelation",
+    "tips": "AAAAAA==",
+    "contentBG": "AAAAAA=="
+  },
+  {
     "sn": "241003",
     "name": "Oppression Revelation - Orange",
     "typeName": "Revelation",
@@ -6781,6 +7278,62 @@
     "typeName": "Revelation",
     "tips": "Use to receive a Purple-rarity Harmony Revelation Card.",
     "contentBG": "<color=#ffffff>  </color>"
+  },
+  {
+    "sn": "231901",
+    "name": "Nativity",
+    "typeName": "Revelation",
+    "tips": "A revelation card symbolizing nativity. Equipping it grants various effects.",
+    "contentBG": "<color=#ffffff>  </color>"
+  },
+  {
+    "sn": "231902",
+    "name": "Nativity",
+    "typeName": "Revelation",
+    "tips": "A revelation card symbolizing nativity. Equipping it grants various effects.",
+    "contentBG": "<color=#ffffff>  </color>"
+  },
+  {
+    "sn": "231903",
+    "name": "Nativity",
+    "typeName": "Revelation",
+    "tips": "A revelation card symbolizing nativity. Equipping it grants various effects.",
+    "contentBG": "<color=#ffffff>  </color>"
+  },
+  {
+    "sn": "231904",
+    "name": "Nativity",
+    "typeName": "Revelation",
+    "tips": "A revelation card symbolizing nativity. Equipping it grants various effects.",
+    "contentBG": "<color=#ffffff>  </color>"
+  },
+  {
+    "sn": "232001",
+    "name": "AAAAAA==",
+    "typeName": "Revelation",
+    "tips": "AAAAAA==",
+    "contentBG": "AAAAAA=="
+  },
+  {
+    "sn": "232002",
+    "name": "AAAAAA==",
+    "typeName": "Revelation",
+    "tips": "AAAAAA==",
+    "contentBG": "AAAAAA=="
+  },
+  {
+    "sn": "232003",
+    "name": "AAAAAA==",
+    "typeName": "Revelation",
+    "tips": "AAAAAA==",
+    "contentBG": "AAAAAA=="
+  },
+  {
+    "sn": "232004",
+    "name": "AAAAAA==",
+    "typeName": "Revelation",
+    "tips": "AAAAAA==",
+    "contentBG": "AAAAAA=="
   },
   {
     "sn": "241135",
@@ -9464,6 +10017,27 @@
     "contentBG": "<color=#ffffff>  </color>"
   },
   {
+    "sn": "241048",
+    "name": "Nativity Revelation - Orange",
+    "typeName": "Revelation",
+    "tips": "Use to receive an Orange-rarity Nativity Revelation Card.",
+    "contentBG": "<color=#ffffff>  </color>"
+  },
+  {
+    "sn": "241195",
+    "name": "Nativity Revelation - Purple",
+    "typeName": "Revelation",
+    "tips": "Use to receive a Purple-rarity Nativity Revelation Card.",
+    "contentBG": "<color=#ffffff>  </color>"
+  },
+  {
+    "sn": "241196",
+    "name": "Nativity Revelation - Blue",
+    "typeName": "Revelation",
+    "tips": "Use to receive a Blue-rarity Nativity Revelation Card.",
+    "contentBG": "<color=#ffffff>  </color>"
+  },
+  {
     "sn": "252222",
     "name": "Pleasure: Moon",
     "typeName": "Revelation",
@@ -10272,7 +10846,7 @@
     "sn": "300088",
     "name": "Kagura Bell",
     "typeName": "Prayer Item",
-    "tips": "Can be used to draw prayers in the shop and obtain various items.\n*This item will become usable in a future update.",
+    "tips": "Can be used to draw prayers in the shop and obtain various items.",
     "contentBG": "<color=#ffffff>  </color>"
   },
   {
@@ -10566,7 +11140,7 @@
     "sn": "302011",
     "name": "Stardust Bottle",
     "typeName": "Material",
-    "tips": "Can be spent to unlock/enhance stat enhancement elements for Phantom Idols.",
+    "tips": "Can be spent to unlock/enhance stat enhancement elements.",
     "contentBG": "<color=#ffffff>  </color>"
   },
   {
@@ -13437,7 +14011,7 @@
     "name": "Red Sanke Koi",
     "typeName": "Material",
     "tips": "Can be exchanged for 3300 points at the Catch 'n' Trade.",
-    "contentBG": "Vividly colored koi. A rare fish that can only be caught under special conditions."
+    "contentBG": "Vividly colored sanke koi. A rare fish that can only be caught under special conditions."
   },
   {
     "sn": "303552",
@@ -13941,6 +14515,13 @@
     "name": "Miso",
     "typeName": "Ingredient",
     "tips": "Used to cook in your home kitchen.",
+    "contentBG": "<color=#ffffff>  </color>"
+  },
+  {
+    "sn": "301461",
+    "name": "Twins' Cognitite",
+    "typeName": "Lingering Thoughts",
+    "tips": "Can be used in certain areas to raise Justine & Caroline's Awareness Level.",
     "contentBG": "<color=#ffffff>  </color>"
   },
   {
@@ -18082,7 +18663,7 @@
   },
   {
     "sn": "306869",
-    "name": "Melting Pot",
+    "name": "Pop of Color",
     "typeName": "Frame",
     "tips": "Can be set as your profile frame.",
     "contentBG": "AAAAAA=="
@@ -18231,7 +18812,7 @@
     "sn": "306890",
     "name": "Merry Christmas",
     "typeName": "Frame",
-    "tips": "Frame.\nWill be updated after logging in again.",
+    "tips": "Can be set as your profile frame.",
     "contentBG": "AAAAAA=="
   },
   {
@@ -18700,14 +19281,14 @@
     "sn": "306959",
     "name": "Christmas Wreath",
     "typeName": "Profile Design",
-    "tips": "Profile card design.\nWill be updated after logging in again.",
+    "tips": "Can be set as your profile card.",
     "contentBG": "AAAAAA=="
   },
   {
     "sn": "306960",
     "name": "Classic Profile Card Design 34",
     "typeName": "Profile Design",
-    "tips": "Profile card design.\nWill be updated after logging in again.",
+    "tips": "Can be set as your profile frame.",
     "contentBG": "AAAAAA=="
   },
   {
@@ -20723,28 +21304,28 @@
     "sn": "314401",
     "name": "Enlightening Planetarium: Silver",
     "typeName": "Badge",
-    "tips": "Awarded for passing 3 monitoring points in Trial of the Astrolabe Pt. 1.",
+    "tips": "Awarded for passing 3 Stella in Trial of the Astrolabe Pt. 1.",
     "contentBG": "<color=#ffffff>  </color>"
   },
   {
     "sn": "314402",
     "name": "Enlightening Planetarium: Gold",
     "typeName": "Badge",
-    "tips": "Awarded for passing at least 1 monitoring point and Palace Star in Trial of the Astrolabe Pt. 1.",
+    "tips": "Awarded for passing at least 1 Stella and Palace Stella in Trial of the Astrolabe Pt. 1.",
     "contentBG": "<color=#ffffff>  </color>"
   },
   {
     "sn": "314403",
     "name": "Enlightening Planetarium: Rainbow",
     "typeName": "Badge",
-    "tips": "Awarded for passing 1 monitoring point and Life Star in Trial of the Astrolabe Pt. 1.",
+    "tips": "Awarded for passing 1 Stella and Fate Stella in Trial of the Astrolabe Pt. 1.",
     "contentBG": "<color=#ffffff>  </color>"
   },
   {
     "sn": "314404",
     "name": "Enlightening Planetarium: Holo",
     "typeName": "Badge",
-    "tips": "Awarded for passing all monitoring points in Trial of the Astrolabe Pt. 1.",
+    "tips": "Awarded for passing all Stella in Trial of the Astrolabe Pt. 1.",
     "contentBG": "<color=#ffffff>  </color>"
   },
   {
@@ -21746,6 +22327,13 @@
     "name": "I'm a Maid!",
     "typeName": "Profile Design",
     "tips": "Can be set as your profile card.",
+    "contentBG": "AAAAAA=="
+  },
+  {
+    "sn": "317509",
+    "name": "Justine & Caroline Badge",
+    "typeName": "Badge",
+    "tips": "Awarded for raising Justine & Caroline's Awareness Level to 6.",
     "contentBG": "AAAAAA=="
   },
   {
@@ -23219,6 +23807,41 @@
     "contentBG": "<color=#ffffff>  </color>"
   },
   {
+    "sn": "311078",
+    "name": "Justine Avatar",
+    "typeName": "Avatar",
+    "tips": "Can be set as your own profile avatar.",
+    "contentBG": "AAAAAA=="
+  },
+  {
+    "sn": "311079",
+    "name": "Justine Avatar",
+    "typeName": "Avatar",
+    "tips": "Can be set as your own profile avatar.",
+    "contentBG": "AAAAAA=="
+  },
+  {
+    "sn": "311080",
+    "name": "Caroline Avatar",
+    "typeName": "Avatar",
+    "tips": "Can be set as your own profile avatar.",
+    "contentBG": "AAAAAA=="
+  },
+  {
+    "sn": "311081",
+    "name": "Caroline Avatar",
+    "typeName": "Avatar",
+    "tips": "Can be set as your own profile avatar.",
+    "contentBG": "AAAAAA=="
+  },
+  {
+    "sn": "311086",
+    "name": "Personal Ultramarine Avatar",
+    "typeName": "Avatar",
+    "tips": "Can be set as your profile avatar.",
+    "contentBG": "AAAAAA=="
+  },
+  {
     "sn": "311087",
     "name": "Maid Haru Avatar",
     "typeName": "Avatar",
@@ -23247,6 +23870,13 @@
     "contentBG": "AAAAAA=="
   },
   {
+    "sn": "312061",
+    "name": "Happy New Year 2026",
+    "typeName": "Frame",
+    "tips": "Can be set as your profile frame.",
+    "contentBG": "AAAAAA=="
+  },
+  {
     "sn": "312062",
     "name": "Christmas Present",
     "typeName": "Frame",
@@ -23256,6 +23886,13 @@
   {
     "sn": "312063",
     "name": "A Cup Brewed to Perfection",
+    "typeName": "Frame",
+    "tips": "Can be set as your profile frame.",
+    "contentBG": "AAAAAA=="
+  },
+  {
+    "sn": "312064",
+    "name": "Blue Collar",
     "typeName": "Frame",
     "tips": "Can be set as your profile frame.",
     "contentBG": "AAAAAA=="
@@ -24678,14 +25315,14 @@
     "sn": "351212",
     "name": "Kotone's Cognitite Shard",
     "typeName": "Cognitite Shard",
-    "tips": "Collect 60 to obtain one Yui's Cognitite.",
+    "tips": "Collect 60 to obtain one Frostgale Kotone's Cognitite.",
     "contentBG": "<color=#ffffff>  </color>"
   },
   {
     "sn": "400034",
     "name": "Celebratory Popper",
     "typeName": "Event Item",
-    "tips": "Awarded for clearing the Half-Year Anniversary event mission. If over a certain number of players use it, they will receive a reward.",
+    "tips": "Awarded for clearing the Half-Year Anniversary event mission.",
     "contentBG": "<color=#ffffff>  </color>"
   },
   {
@@ -25448,7 +26085,7 @@
     "sn": "500095",
     "name": "Premium+ Special",
     "typeName": "Preview",
-    "tips": "The following items can be obtained after purchasing a Premium+ Phantom Pass:\n• Exclusive Outfit: <link=\"fashion|309063\"><u>Light Blue Artsy Outfit<color=#0F69CA></color></u></link>\n• Exclusive Profile Card: <link=\"display|306941\"><u>Graffiti Days<color=#0F69CA></color></u></link>\n• Exclusive Frame: <link=\"display|306869\"><u>Melting Pot<color=#0F69CA></color></u></link>\n\n• Plus, Spray-On Dye x1 as a bonus.\nNew outfit colors will also unlock after you obtain your exclusive outfit and go to the in-game closet on the second floor of your home.\nThese colors include <link=\"fashion|309064\"><u><color=#00fcff>Blue Artsy Outfit</color></u></link>, <link=\"fashion|309065\"><u><color=#ff9c00>Red Artsy Outfit</color></u></link>, and <link=\"fashion|309066\"><u><color=#00ff9f>Purple Artsy Outfit</color></u></link>.",
+    "tips": "The following items can be obtained after purchasing a Premium+ Phantom Pass:\n• Exclusive Outfit: <link=\"fashion|309063\"><u>Light Blue Artsy Outfit<color=#0F69CA></color></u></link>\n• Exclusive Profile Card: <link=\"display|306941\"><u>Graffiti Days<color=#0F69CA></color></u></link>\n• Exclusive Frame: <link=\"display|306869\"><u>Pop of Color<color=#0F69CA></color></u></link>\n\n• Plus, Spray-On Dye x1 as a bonus.\nNew outfit colors will also unlock after you obtain your exclusive outfit and go to the in-game closet on the second floor of your home.\nThese colors include <link=\"fashion|309064\"><u><color=#00fcff>Blue Artsy Outfit</color></u></link>, <link=\"fashion|309065\"><u><color=#ff9c00>Red Artsy Outfit</color></u></link>, and <link=\"fashion|309066\"><u><color=#00ff9f>Purple Artsy Outfit</color></u></link>.",
     "contentBG": "<color=#ffffff>  </color>"
   },
   {
@@ -25476,7 +26113,7 @@
     "sn": "500099",
     "name": "Phantom Thief Gift",
     "typeName": "Preview",
-    "tips": "Phantom Pass items up for grabs:\n1 Salamander Coin\n5 Gold Tickets\n2 Everlasting Incense\n6 Coffee Aids\nas well as training materials and Konpaku Gems.\n\nPremium Pass items up for grabs:\n4 Salamander Coins\n2 Limited 4★ Weapon Cases\n3 Platinum Tickets\n3 Platinum Milicoins\n1 Orange Fortune Revelation\n3 Everlasting Incense\n6 Coffee Aids\nas well as training materials and Konpaku Gems.",
+    "tips": "Phantom Pass items up for grabs:\nSalamander Coin x1\nGold Ticket x5\nEverlasting Incense x2\nCoffee Aid x6\nAdditional training materials and Konpaku Gems\n\nPremium Pass items up for grabs:\nSalamander Coin x4\nLimited 4★ Weapon Case x2\nPlatinum Ticket x3\nPlatinum Milicoin x3\nOrange Fortune Revelation x1\nEverlasting Incense x3\nCoffee Aid x6\nExtra training materials and Konpaku Gems",
     "contentBG": "<color=#ffffff>  </color>"
   },
   {
@@ -25578,6 +26215,62 @@
     "contentBG": "<color=#ffffff>  </color>"
   },
   {
+    "sn": "314447",
+    "name": "New Year's Favor",
+    "typeName": "Badge",
+    "tips": "Achieve 100% exploration progress in New Years Blessings!",
+    "contentBG": "AAAAAA=="
+  },
+  {
+    "sn": "314448",
+    "name": "Law of the Crossroads",
+    "typeName": "Badge",
+    "tips": "Achieve 100% exploration progress in Crossroads of Fate: Twins Arc.",
+    "contentBG": "AAAAAA=="
+  },
+  {
+    "sn": "314449",
+    "name": "Law of Beginnings",
+    "typeName": "Badge",
+    "tips": "Awarded for clearing Challenge Battle on difficulty 10 in Crossroads of Fate: Twins Arc.",
+    "contentBG": "AAAAAA=="
+  },
+  {
+    "sn": "314450",
+    "name": "Law of Prosperity",
+    "typeName": "Badge",
+    "tips": "Awarded for clearing Challenge Battle on difficulty 20 in Crossroads of Fate: Twins Arc.",
+    "contentBG": "AAAAAA=="
+  },
+  {
+    "sn": "314451",
+    "name": "Law of Supremacy",
+    "typeName": "Badge",
+    "tips": "Awarded for clearing Challenge Battle on difficulty 25 in Crossroads of Fate: Twins Arc.",
+    "contentBG": "AAAAAA=="
+  },
+  {
+    "sn": "314452",
+    "name": "Law of Death",
+    "typeName": "Badge",
+    "tips": "Awarded for clearing Challenge Battle on difficulty 30 in Crossroads of Fate: Twins Arc.",
+    "contentBG": "AAAAAA=="
+  },
+  {
+    "sn": "314453",
+    "name": "Law Enforcer",
+    "typeName": "Badge",
+    "tips": "Awarded for clearing Challenge Battle on the highest difficulty in Crossroads of Fate: Twins Arc.",
+    "contentBG": "AAAAAA=="
+  },
+  {
+    "sn": "318505",
+    "name": "Year of the Horse",
+    "typeName": "Profile Design",
+    "tips": "Can be set as your profile card.",
+    "contentBG": "AAAAAA=="
+  },
+  {
     "sn": "318506",
     "name": "Christmas Wreath",
     "typeName": "Profile Design",
@@ -25589,6 +26282,13 @@
     "name": "Elegant Afternoon",
     "typeName": "Profile Design",
     "tips": "Can be set as your own profile card.",
+    "contentBG": "AAAAAA=="
+  },
+  {
+    "sn": "318508",
+    "name": "Down in the Deep",
+    "typeName": "Profile Design",
+    "tips": "Can be set as your profile card.",
     "contentBG": "AAAAAA=="
   },
   {
@@ -25831,7 +26531,7 @@
   },
   {
     "sn": "501212",
-    "name": "Slow Dance Kotone Montagne",
+    "name": "Frostgale Kotone",
     "typeName": "Phantom Thief",
     "tips": "AAAAAA==",
     "contentBG": "AAAAAA=="
@@ -29443,14 +30143,14 @@
   },
   {
     "sn": "530171",
-    "name": "Don't Laugh... Emote",
+    "name": "Dizzy Emote",
     "typeName": "Emote",
     "tips": "Used in chat.",
     "contentBG": "AAAAAA=="
   },
   {
     "sn": "530172",
-    "name": "You Don't Know? Emote",
+    "name": "What's Up? Emote",
     "typeName": "Emote",
     "tips": "Used in chat.",
     "contentBG": "AAAAAA=="
@@ -30833,5 +31533,194 @@
     "typeName": "Event Item",
     "tips": "A point item gained from Send 'Em Flying.",
     "contentBG": "<color=#ffffff>  </color>"
+  },
+  {
+    "sn": "309520",
+    "name": "Ultramarine Wonder",
+    "typeName": "Outfit",
+    "tips": "Changes Wonder's appearance to his Ultramarine Outfit.\nCan be obtained by purchasing the Ultramarine Wonder Set in the Shop.",
+    "contentBG": "<color=#ffffff>  </color>"
+  },
+  {
+    "sn": "310339",
+    "name": "Mysterious Twins",
+    "typeName": "Capsule Toy",
+    "tips": "Obtained from a limited-time capsule toy event. Can be displayed in your Display Case at home.",
+    "contentBG": "<color=#ffffff>  </color>"
+  },
+  {
+    "sn": "310340",
+    "name": "Rehabilitation Ready",
+    "typeName": "Capsule Toy",
+    "tips": "Obtained from a limited-time capsule toy event. Can be displayed in your Display Case at home.",
+    "contentBG": "<color=#ffffff>  </color>"
+  },
+  {
+    "sn": "310341",
+    "name": "Fusion Alarm",
+    "typeName": "Capsule Toy",
+    "tips": "Obtained from a limited-time capsule toy event. Can be displayed in your Display Case at home.",
+    "contentBG": "<color=#ffffff>  </color>"
+  },
+  {
+    "sn": "310342",
+    "name": "The Execution Hour",
+    "typeName": "Capsule Toy",
+    "tips": "Obtained from a limited-time capsule toy event. Can be displayed in your Display Case at home.",
+    "contentBG": "<color=#ffffff>  </color>"
+  },
+  {
+    "sn": "310343",
+    "name": "Special Assignment",
+    "typeName": "Capsule Toy",
+    "tips": "Obtained from a limited-time capsule toy event. Can be displayed in your Display Case at home.",
+    "contentBG": "<color=#ffffff>  </color>"
+  },
+  {
+    "sn": "310344",
+    "name": "Eating Challenge",
+    "typeName": "Capsule Toy",
+    "tips": "A rare capsule obtained from a limited-time capsule toy event. Can be displayed in your Display Case at home.",
+    "contentBG": "<color=#ffffff>  </color>"
+  },
+  {
+    "sn": "310345",
+    "name": "Prison Door",
+    "typeName": "Capsule Toy",
+    "tips": "A rare capsule obtained from a limited-time capsule toy event. Can be displayed in your Display Case at home.",
+    "contentBG": "<color=#ffffff>  </color>"
+  },
+  {
+    "sn": "310346",
+    "name": "New Year's Celebration",
+    "typeName": "Capsule Toy",
+    "tips": "A super rare capsule obtained from a limited-time capsule toy event. Can be displayed in your Display Case at home.",
+    "contentBG": "<color=#ffffff>  </color>"
+  },
+  {
+    "sn": "310818",
+    "name": "Blue Prison",
+    "typeName": "Display Case Background",
+    "tips": "A background for your capsule toy display case.",
+    "contentBG": "<color=#ffffff>  </color>"
+  },
+  {
+    "sn": "341461",
+    "name": "AAAAAA==",
+    "typeName": "AAAAAA==",
+    "tips": "AAAAAA==",
+    "contentBG": "<color=#ffffff>  </color>"
+  },
+  {
+    "sn": "351461",
+    "name": "Twins' Cognitite Shard",
+    "typeName": "Cognitite Shard",
+    "tips": "Collect 60 to obtain one Twins' Cognitite.",
+    "contentBG": "<color=#ffffff>  </color>"
+  },
+  {
+    "sn": "501461",
+    "name": "Justine & Caroline",
+    "typeName": "Phantom Thief",
+    "tips": "<color=#eade10>★★★★★</color>\nMain Attribute/Role: Almighty, Virtuoso\n\nTwin girls dressed like prison wardens. They refer to Wonder as \"Rookie\" and wield aggressive attitudes, all in the name of rehabilitation.",
+    "contentBG": "AAAAAA=="
+  },
+  {
+    "sn": "540129",
+    "name": "AAAAAA==",
+    "typeName": "Revelation Set",
+    "tips": "AAAAAA==",
+    "contentBG": "<color=#ffffff>  </color>"
+  },
+  {
+    "sn": "540130",
+    "name": "AAAAAA==",
+    "typeName": "Revelation Set",
+    "tips": "AAAAAA==",
+    "contentBG": "<color=#ffffff>  </color>"
+  },
+  {
+    "sn": "540131",
+    "name": "AAAAAA==",
+    "typeName": "Revelation Set",
+    "tips": "AAAAAA==",
+    "contentBG": "<color=#ffffff>  </color>"
+  },
+  {
+    "sn": "540132",
+    "name": "AAAAAA==",
+    "typeName": "Revelation Set",
+    "tips": "AAAAAA==",
+    "contentBG": "<color=#ffffff>  </color>"
+  },
+  {
+    "sn": "540133",
+    "name": "AAAAAA==",
+    "typeName": "Revelation Set",
+    "tips": "AAAAAA==",
+    "contentBG": "<color=#ffffff>  </color>"
+  },
+  {
+    "sn": "540134",
+    "name": "AAAAAA==",
+    "typeName": "Revelation Set",
+    "tips": "AAAAAA==",
+    "contentBG": "<color=#ffffff>  </color>"
+  },
+  {
+    "sn": "540135",
+    "name": "AAAAAA==",
+    "typeName": "Revelation Set",
+    "tips": "AAAAAA==",
+    "contentBG": "<color=#ffffff>  </color>"
+  },
+  {
+    "sn": "540136",
+    "name": "AAAAAA==",
+    "typeName": "Revelation Set",
+    "tips": "AAAAAA==",
+    "contentBG": "<color=#ffffff>  </color>"
+  },
+  {
+    "sn": "540137",
+    "name": "AAAAAA==",
+    "typeName": "Revelation Set",
+    "tips": "AAAAAA==",
+    "contentBG": "<color=#ffffff>  </color>"
+  },
+  {
+    "sn": "540138",
+    "name": "AAAAAA==",
+    "typeName": "Revelation Set",
+    "tips": "AAAAAA==",
+    "contentBG": "<color=#ffffff>  </color>"
+  },
+  {
+    "sn": "540139",
+    "name": "AAAAAA==",
+    "typeName": "Revelation Set",
+    "tips": "AAAAAA==",
+    "contentBG": "<color=#ffffff>  </color>"
+  },
+  {
+    "sn": "540140",
+    "name": "AAAAAA==",
+    "typeName": "Revelation Set",
+    "tips": "AAAAAA==",
+    "contentBG": "<color=#ffffff>  </color>"
+  },
+  {
+    "sn": "600814",
+    "name": "Crossroads of Fate: Twins Arc ",
+    "typeName": "Thieves Den Illustration",
+    "tips": "The illustration used for Crossroads of Fate: Twins Arc.",
+    "contentBG": "AAAAAA=="
+  },
+  {
+    "sn": "600815",
+    "name": "New Year's Blessings!",
+    "typeName": "Thieves Den Illustration",
+    "tips": "The illustration used for New Year's Blessings!",
+    "contentBG": "AAAAAA=="
   }
 ]

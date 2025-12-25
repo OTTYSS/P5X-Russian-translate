@@ -259,11 +259,32 @@
     "lockDesc": "• Get Lufel's Rating to 70 points."
   },
   {
+    "sn": "58",
+    "resultsDesc": "Increases Twins' HP by 20 (takes effect in battle).",
+    "name": "Cut-In: Justine",
+    "desc": "Justine cut-in that displays during battle.",
+    "lockDesc": "• Get Twins' Rating to 60 points."
+  },
+  {
+    "sn": "59",
+    "resultsDesc": "Increases Twins' HP by 20 (takes effect in battle).",
+    "name": "Cut-In: Caroline",
+    "desc": "Caroline cut-in that displays during battle.",
+    "lockDesc": "• Get Twins' Rating to 60 points."
+  },
+  {
     "sn": "1004",
     "resultsDesc": "Increases Motoha's Defense by 10 (takes effect in battle).",
     "name": "All-Out Attack (Motoha)",
     "desc": "Motoha cut-in that displays during an All-Out Attack.",
     "lockDesc": "• Get Motoha's Rating to 70 points."
+  },
+  {
+    "sn": "60",
+    "resultsDesc": "Increases the protagonist's HP by 40 (takes effect in battle).",
+    "name": "Cut-In: Ultramarine Wonder",
+    "desc": "Protagonist cut-in that displays during battle.",
+    "lockDesc": "• Purchase the Ultramarine outfit."
   },
   {
     "sn": "1005",
@@ -630,6 +651,20 @@
     "lockDesc": "• Get Yusuke's Rating to 100 points."
   },
   {
+    "sn": "1058",
+    "resultsDesc": "Increases Twins' Defense by 5 (takes effect in battle).",
+    "name": "All-Out Attack (Justine)",
+    "desc": "Justine cut-in that displays during an All-Out Attack.",
+    "lockDesc": "• Get Twins' Rating to 80 points."
+  },
+  {
+    "sn": "1059",
+    "resultsDesc": "Increases Twins' Defense by 5 (takes effect in battle).",
+    "name": "All-Out Attack (Caroline)",
+    "desc": "Caroline cut-in that displays during an All-Out Attack.",
+    "lockDesc": "• Get Twins' Rating to 80 points."
+  },
+  {
     "sn": "2023",
     "resultsDesc": "Increases Makoto's Attack by 10 (takes effect in battle).",
     "name": "All-Out Attack Finisher (Makoto)",
@@ -770,6 +805,13 @@
     "lockDesc": "AAAAAA=="
   },
   {
+    "sn": "1060",
+    "resultsDesc": "Increases the protagonist's Defense by 10 (takes effect in battle).",
+    "name": "All-Out Attack (Ultramarine Wonder)",
+    "desc": "Protagonist cut-in that displays during battle.",
+    "lockDesc": "• Purchase the Ultramarine outfit."
+  },
+  {
     "sn": "3010",
     "resultsDesc": "Increases Futaba's and Haru's Attack by 1% (takes effect in battle).",
     "name": "P5 Special Event Pt. 3",
@@ -780,7 +822,7 @@
     "sn": "3101",
     "resultsDesc": "Increases Yusuke and Makoto's Defense by 15 (takes effect in battle).",
     "name": "P5 Special Event Pt. 2",
-    "desc": "The illustration used for The Crossroads of Fate:\nMuseum and Bank Arcs.",
+    "desc": "The illustration used for Crossroads of Fate:\nMuseum and Bank Arcs.",
     "lockDesc": "AAAAAA=="
   },
   {
@@ -887,5 +929,33 @@
     "name": "2018 New Years Illustration",
     "desc": "Illustration used to celebrate\nNew Year's in 2018.",
     "lockDesc": "AAAAAA=="
+  },
+  {
+    "sn": "2058",
+    "resultsDesc": "Increases Twins' Attack by 10 (takes effect in battle).",
+    "name": "All-Out Attack Finisher (Justine & Caroline)",
+    "desc": "Image of Twins that displays after an All-Out Attack finisher.",
+    "lockDesc": "• Get Twins' Rating to 100 points."
+  },
+  {
+    "sn": "2060",
+    "resultsDesc": "Increases the protagonist's Attack by 10 (takes effect in battle).",
+    "name": "All-Out Attack Finisher (Ultramarine Wonder)",
+    "desc": "Image of the protagonist that displays after an All-Out Attack finisher.",
+    "lockDesc": "• Purchase the Ultramarine outfit."
+  },
+  {
+    "sn": "3129",
+    "resultsDesc": "Increases Justine & Caroline's Attack by 1% (takes effect in battle).",
+    "name": "Crossroads of Fate: Twins Arc",
+    "desc": "The illustration used for Crossroads of Fate: Twins Arc.",
+    "lockDesc": "• Obtain from Phantom Pass rewards."
+  },
+  {
+    "sn": "3130",
+    "resultsDesc": "Increases Justine & Caroline's HP by 1% (takes effect in battle).",
+    "name": "New Year's Blessings!",
+    "desc": "The illustration used for New Year's Blessings!",
+    "lockDesc": "• Obtain from Phantom Pass rewards."
   }
 ]

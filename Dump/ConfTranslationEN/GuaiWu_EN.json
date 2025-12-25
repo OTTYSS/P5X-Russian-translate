@@ -661,33 +661,21 @@
   },
   {
     "sn": "516101",
-    "name": "Bishamonten",
-    "desc": "Also known as Tamonten and Vaishravana in Buddhist lore, he is the strongest of the Heavenly Kings. He protects the North and is the god of war.",
-    "strategy": "Each turn the Four Heavenly Kings will focus their Death Stare on 1 random Phantom Thief. They will prioritize attacking the Phantom Thief under the Death Stare."
+    "name": "Vishnu",
+    "desc": "One of the major Hindu gods, he is the preserver and protector of the universe. Legends claim that he will make ten appearances across time and space to strike down evil and uphold justice.",
+    "strategy": "1. At the start of battle, Vishnu summons 4 servants. Vishnu and all servants are in the Soul Link state.\nSoul Link: Distributes all damage received between all Shadows who share this condition, based on the percentage of their current HP.\n2. When Vishnu and its servants take skill damage, they gain Guardian's Preservation based on the attribute, and that affinity is changed to Resist. This effect lasts for 2 turns."
   },
   {
     "sn": "516102",
-    "name": "Koumokuten",
-    "desc": "Also known as Virupaksha, he is the protector of the West, and is one of the four Heavenly Kings of Buddhist origin. He keeps a close watch on the world with his sharp gaze.",
-    "strategy": "AAAAAA=="
-  },
-  {
-    "sn": "516103",
-    "name": "Zouchouten",
-    "desc": "Also known as Virudhaka, he is the protector of the South, and is one of the four Heavenly Kings of Buddhist origin. He is the god of the five grains, and was once the chief of the gods.",
-    "strategy": "AAAAAA=="
-  },
-  {
-    "sn": "516104",
-    "name": "Jikokuten",
-    "desc": "Also known as Dhritarashtra, he is the protector of the East, and is one of the four Heavenly Kings of Buddhist origin. He helps maintain the security of the nation.",
+    "name": "Garuda",
+    "desc": "A divine bird-man in Hindu lore, he once fought the gods and received immortality in exchange for becoming Vishnu's carrier.",
     "strategy": "AAAAAA=="
   },
   {
     "sn": "516111",
     "name": "Quetzalcoatl",
     "desc": "An Aztec deity known as the Feathered Serpent. He created humans with his own blood and taught them how to sustain themselves.",
-    "strategy": "Quetzalcoatl shares a Soul Link with all Yurlungurs.\nSoul Link: Distributes all damage received between all Shadows who share this condition, based on the percentage of their current HP."
+    "strategy": "1. Quetzalcoatl and all Yurlungurs are in the Soul Link state.\nSoul Link: Distributes all damage received between all Shadows who share this condition, based on the percentage of their current HP.\n2. All Shadows take 20% increased damage from long-range attacks."
   },
   {
     "sn": "516112",
@@ -939,6 +927,252 @@
     "sn": "517114",
     "name": "Jikokuten",
     "desc": "Also known as Dhritarashtra, he is the protector of the East, and is one of the four Heavenly Kings of Buddhist origin. He helps maintain the security of the nation.",
+    "strategy": "AAAAAA=="
+  },
+  {
+    "sn": "902311",
+    "name": "Ganesha",
+    "desc": "The Hindu elephant-headed god. He was originally created by Parvati in order to prevent anyone from watching her bathe. Shiva batted off his original head and replaced it with an elephant's head.",
+    "strategy": "AAAAAA=="
+  },
+  {
+    "sn": "902312",
+    "name": "Jatayu",
+    "desc": "The Hindu king of birds. In the Ramayana, he fought bravely against Ravana in an attempt to save Sita, Rama's wife and the seventh avatar of Vishnu, but lost.",
+    "strategy": "AAAAAA=="
+  },
+  {
+    "sn": "902313",
+    "name": "Jatayu",
+    "desc": "The Hindu king of birds. In the Ramayana, he fought bravely against Ravana in an attempt to save Sita, Rama's wife and the seventh avatar of Vishnu, but lost.",
+    "strategy": "AAAAAA=="
+  },
+  {
+    "sn": "902321",
+    "name": "Garuda",
+    "desc": "A divine bird-man in Hindu lore, he once fought the gods and received immortality in exchange for becoming Vishnu's carrier.",
+    "strategy": "AAAAAA=="
+  },
+  {
+    "sn": "902322",
+    "name": "Dakini",
+    "desc": "Hindu deities of passion and relations. They are Kali's attendants. They eat human flesh and gather at graveyards and crematories each night. Their name means \"sky dancer.\"",
+    "strategy": "AAAAAA=="
+  },
+  {
+    "sn": "902323",
+    "name": "Dakini",
+    "desc": "Hindu deities of passion and relations. They are Kali's attendants. They eat human flesh and gather at graveyards and crematories each night. Their name means \"sky dancer.\"",
+    "strategy": "AAAAAA=="
+  },
+  {
+    "sn": "902331",
+    "name": "Shiva",
+    "desc": "One of the major Hindu gods, he is known as the Destroyer, but is also related to regeneration. His wife is Parvati.",
+    "strategy": "1. Shiva's skills Riot Gun and Karmic Alteration, as well as Parvati's skill Mother's Revelation, will grant Wisdom. Wisdom enhances the skill effects of Dance of Destruction and Divine Dancer's Leap.\nShiva's skill Divine Dancer's Leap and Parvati's skill Mother's Revelation will be used after the phase changes.\n2. Each time Shiva takes damage of a different attribute, it loses 1 Wisdom stack (1 time for each attribute, count resets at the start of Shiva's next turn).\n3. Every time a certain number of turns passes, Parvati will activate Qi Barrier, changing all of the Shadows' affinities to Null. It is removed when taking damage that is not a continuous effect.\n4. The first time that Shiva or Parvati reach 1 HP, they will enter a weakened state. During this time, they cannot act and cannot be targeted. When Shiva and Parvati enter their weakened states at the same time, they will recover HP and enter the next phase.\n5. When Parvati is defeated, Shiva will immediately activate Dance of Destruction, dealing damage to all Phantom Thieves.\n6. When Shiva is defeated, Parvati will transform into Kali."
+  },
+  {
+    "sn": "902332",
+    "name": "Shiva",
+    "desc": "One of the major Hindu gods, he is known as the Destroyer, but is also related to regeneration. His wife is Parvati.",
+    "strategy": "1. Shiva's skills Riot Gun and Karmic Alteration, as well as Parvati's skill Mother's Revelation, will grant Wisdom. Wisdom enhances the skill effects of Dance of Destruction and Divine Dancer's Leap.\nShiva's skill Divine Dancer's Leap and Parvati's skill Mother's Revelation will be used after the phase changes.\n2. Each time Shiva takes damage of a different attribute, it loses 1 Wisdom stack (1 time for each attribute, count resets at the start of Shiva's next turn).\n3. Every time a certain number of turns passes, Parvati will activate Qi Barrier, changing all of the Shadows' affinities to Null. It is removed when taking damage that is not a continuous effect.\n4. The first time that Shiva or Parvati reach 1 HP, they will enter a weakened state. During this time, they cannot act and cannot be targeted. When Shiva and Parvati enter their weakened states at the same time, they will recover HP and enter the next phase.\n5. When Parvati is defeated, Shiva will immediately activate Dance of Destruction, dealing damage to all Phantom Thieves.\n6. When Shiva is defeated, Parvati will transform into Kali."
+  },
+  {
+    "sn": "902341",
+    "name": "Shiva",
+    "desc": "One of the major Hindu gods, he is known as the Destroyer, but is also related to regeneration. His wife is Parvati.",
+    "strategy": "1. Shiva's skills Riot Gun and Karmic Alteration, as well as Parvati's skill Mother's Revelation, will grant Wisdom. Wisdom enhances the skill effects of Dance of Destruction and Divine Dancer's Leap.\nShiva's skill Divine Dancer's Leap and Parvati's skill Mother's Revelation will be used after the phase changes.\n2. Each time Shiva takes damage of a different attribute, it loses 1 Wisdom stack (1 time for each attribute, count resets at the start of Shiva's next turn).\n3. Every time a certain number of turns passes, Parvati will activate Qi Barrier, changing all of the Shadows' affinities to Null. It is removed when taking damage that is not a continuous effect.\n4. The first time that Shiva or Parvati reach 1 HP, they will enter a weakened state. During this time, they cannot act and cannot be targeted. When Shiva and Parvati enter their weakened states at the same time, they will recover HP and enter the next phase.\n5. When Parvati is defeated, Shiva will immediately activate Dance of Destruction, dealing damage to all Phantom Thieves.\n6. When Shiva is defeated, Parvati will transform into Kali."
+  },
+  {
+    "sn": "902342",
+    "name": "Shiva",
+    "desc": "One of the major Hindu gods, he is known as the Destroyer, but is also related to regeneration. His wife is Parvati.",
+    "strategy": "1. Shiva's skills Riot Gun and Karmic Alteration, as well as Parvati's skill Mother's Revelation, will grant Wisdom. Wisdom enhances the skill effects of Dance of Destruction and Divine Dancer's Leap.\nShiva's skill Divine Dancer's Leap and Parvati's skill Mother's Revelation will be used after the phase changes.\n2. Each time Shiva takes damage of a different attribute, it loses 1 Wisdom stack (1 time for each attribute, count resets at the start of Shiva's next turn).\n3. Every time a certain number of turns passes, Parvati will activate Qi Barrier, changing all of the Shadows' affinities to Null. It is removed when taking damage that is not a continuous effect.\n4. The first time that Shiva or Parvati reach 1 HP, they will enter a weakened state. During this time, they cannot act and cannot be targeted. When Shiva and Parvati enter their weakened states at the same time, they will recover HP and enter the next phase.\n5. When Parvati is defeated, Shiva will immediately activate Dance of Destruction, dealing damage to all Phantom Thieves.\n6. When Shiva is defeated, Parvati will transform into Kali."
+  },
+  {
+    "sn": "902351",
+    "name": "Shiva",
+    "desc": "One of the major Hindu gods, he is known as the Destroyer, but is also related to regeneration. His wife is Parvati.",
+    "strategy": "1. Shiva's skills Riot Gun and Karmic Alteration, as well as Parvati's skill Mother's Revelation, will grant Wisdom. Wisdom enhances the skill effects of Dance of Destruction and Divine Dancer's Leap.\nShiva's skill Divine Dancer's Leap and Parvati's skill Mother's Revelation will be used after the phase changes.\n2. Each time Shiva takes damage of a different attribute, it loses 1 Wisdom stack (1 time for each attribute, count resets at the start of Shiva's next turn).\n3. Every time a certain number of turns passes, Parvati will activate Qi Barrier, changing all of the Shadows' affinities to Null. It is removed when taking damage that is not a continuous effect.\n4. The first time that Shiva or Parvati reach 1 HP, they will enter a weakened state. During this time, they cannot act and cannot be targeted. When Shiva and Parvati enter their weakened states at the same time, they will recover HP and enter the next phase.\n5. When Parvati is defeated, Shiva will immediately activate Dance of Destruction, dealing damage to all Phantom Thieves.\n6. When Shiva is defeated, Parvati will transform into Kali."
+  },
+  {
+    "sn": "902352",
+    "name": "Shiva",
+    "desc": "One of the major Hindu gods, he is known as the Destroyer, but is also related to regeneration. His wife is Parvati.",
+    "strategy": "1. Shiva's skills Riot Gun and Karmic Alteration, as well as Parvati's skill Mother's Revelation, will grant Wisdom. Wisdom enhances the skill effects of Dance of Destruction and Divine Dancer's Leap.\nShiva's skill Divine Dancer's Leap and Parvati's skill Mother's Revelation will be used after the phase changes.\n2. Each time Shiva takes damage of a different attribute, it loses 1 Wisdom stack (1 time for each attribute, count resets at the start of Shiva's next turn).\n3. Every time a certain number of turns passes, Parvati will activate Qi Barrier, changing all of the Shadows' affinities to Null. It is removed when taking damage that is not a continuous effect.\n4. The first time that Shiva or Parvati reach 1 HP, they will enter a weakened state. During this time, they cannot act and cannot be targeted. When Shiva and Parvati enter their weakened states at the same time, they will recover HP and enter the next phase.\n5. When Parvati is defeated, Shiva will immediately activate Dance of Destruction, dealing damage to all Phantom Thieves.\n6. When Shiva is defeated, Parvati will transform into Kali."
+  },
+  {
+    "sn": "902361",
+    "name": "Shiva",
+    "desc": "One of the major Hindu gods, he is known as the Destroyer, but is also related to regeneration. His wife is Parvati.",
+    "strategy": "1. Shiva's skills Riot Gun and Karmic Alteration, as well as Parvati's skill Mother's Revelation, will grant Wisdom. Wisdom enhances the skill effects of Dance of Destruction and Divine Dancer's Leap.\nShiva's skill Divine Dancer's Leap and Parvati's skill Mother's Revelation will be used after the phase changes.\n2. Each time Shiva takes damage of a different attribute, it loses 1 Wisdom stack (1 time for each attribute, count resets at the start of Shiva's next turn).\n3. Every time a certain number of turns passes, Parvati will activate Qi Barrier, changing all of the Shadows' affinities to Null. It is removed when taking damage that is not a continuous effect.\n4. The first time that Shiva or Parvati reach 1 HP, they will enter a weakened state. During this time, they cannot act and cannot be targeted. When Shiva and Parvati enter their weakened states at the same time, they will recover HP and enter the next phase.\n5. When Parvati is defeated, Shiva will immediately activate Dance of Destruction, dealing damage to all Phantom Thieves.\n6. When Shiva is defeated, Parvati will transform into Kali."
+  },
+  {
+    "sn": "902362",
+    "name": "Shiva",
+    "desc": "One of the major Hindu gods, he is known as the Destroyer, but is also related to regeneration. His wife is Parvati.",
+    "strategy": "1. Shiva's skills Riot Gun and Karmic Alteration, as well as Parvati's skill Mother's Revelation, will grant Wisdom. Wisdom enhances the skill effects of Dance of Destruction and Divine Dancer's Leap.\nShiva's skill Divine Dancer's Leap and Parvati's skill Mother's Revelation will be used after the phase changes.\n2. Each time Shiva takes damage of a different attribute, it loses 1 Wisdom stack (1 time for each attribute, count resets at the start of Shiva's next turn).\n3. Every time a certain number of turns passes, Parvati will activate Qi Barrier, changing all of the Shadows' affinities to Null. It is removed when taking damage that is not a continuous effect.\n4. The first time that Shiva or Parvati reach 1 HP, they will enter a weakened state. During this time, they cannot act and cannot be targeted. When Shiva and Parvati enter their weakened states at the same time, they will recover HP and enter the next phase.\n5. When Parvati is defeated, Shiva will immediately activate Dance of Destruction, dealing damage to all Phantom Thieves.\n6. When Shiva is defeated, Parvati will transform into Kali."
+  },
+  {
+    "sn": "902371",
+    "name": "Shiva",
+    "desc": "One of the major Hindu gods, he is known as the Destroyer, but is also related to regeneration. His wife is Parvati.",
+    "strategy": "1. Shiva's skills Riot Gun and Karmic Alteration, as well as Parvati's skill Mother's Revelation, will grant Wisdom. Wisdom enhances the skill effects of Dance of Destruction and Divine Dancer's Leap.\nShiva's skill Divine Dancer's Leap and Parvati's skill Mother's Revelation will be used after the phase changes.\n2. Each time Shiva takes damage of a different attribute, it loses 1 Wisdom stack (1 time for each attribute, count resets at the start of Shiva's next turn).\n3. Every time a certain number of turns passes, Parvati will activate Qi Barrier, changing all of the Shadows' affinities to Null. It is removed when taking damage that is not a continuous effect.\n4. The first time that Shiva or Parvati reach 1 HP, they will enter a weakened state. During this time, they cannot act and cannot be targeted. When Shiva and Parvati enter their weakened states at the same time, they will recover HP and enter the next phase.\n5. When Parvati is defeated, Shiva will immediately activate Dance of Destruction, dealing damage to all Phantom Thieves.\n6. When Shiva is defeated, Parvati will transform into Kali."
+  },
+  {
+    "sn": "902372",
+    "name": "Shiva",
+    "desc": "One of the major Hindu gods, he is known as the Destroyer, but is also related to regeneration. His wife is Parvati.",
+    "strategy": "1. Shiva's skills Riot Gun and Karmic Alteration, as well as Parvati's skill Mother's Revelation, will grant Wisdom. Wisdom enhances the skill effects of Dance of Destruction and Divine Dancer's Leap.\nShiva's skill Divine Dancer's Leap and Parvati's skill Mother's Revelation will be used after the phase changes.\n2. Each time Shiva takes damage of a different attribute, it loses 1 Wisdom stack (1 time for each attribute, count resets at the start of Shiva's next turn).\n3. Every time a certain number of turns passes, Parvati will activate Qi Barrier, changing all of the Shadows' affinities to Null. It is removed when taking damage that is not a continuous effect.\n4. The first time that Shiva or Parvati reach 1 HP, they will enter a weakened state. During this time, they cannot act and cannot be targeted. When Shiva and Parvati enter their weakened states at the same time, they will recover HP and enter the next phase.\n5. When Parvati is defeated, Shiva will immediately activate Dance of Destruction, dealing damage to all Phantom Thieves.\n6. When Shiva is defeated, Parvati will transform into Kali."
+  },
+  {
+    "sn": "902381",
+    "name": "Shiva",
+    "desc": "One of the major Hindu gods, he is known as the Destroyer, but is also related to regeneration. His wife is Parvati.",
+    "strategy": "1. Shiva's skills Riot Gun and Karmic Alteration, as well as Parvati's skill Mother's Revelation, will grant Wisdom. Wisdom enhances the skill effects of Dance of Destruction and Divine Dancer's Leap.\nShiva's skill Divine Dancer's Leap and Parvati's skill Mother's Revelation will be used after the phase changes.\n2. Each time Shiva takes damage of a different attribute, it loses 1 Wisdom stack (1 time for each attribute, count resets at the start of Shiva's next turn).\n3. Every time a certain number of turns passes, Parvati will activate Qi Barrier, changing all of the Shadows' affinities to Null. It is removed when taking damage that is not a continuous effect.\n4. The first time that Shiva or Parvati reach 1 HP, they will enter a weakened state. During this time, they cannot act and cannot be targeted. When Shiva and Parvati enter their weakened states at the same time, they will recover HP and enter the next phase.\n5. When Parvati is defeated, Shiva will immediately activate Dance of Destruction, dealing damage to all Phantom Thieves.\n6. When Shiva is defeated, Parvati will transform into Kali."
+  },
+  {
+    "sn": "902382",
+    "name": "Shiva",
+    "desc": "One of the major Hindu gods, he is known as the Destroyer, but is also related to regeneration. His wife is Parvati.",
+    "strategy": "1. Shiva's skills Riot Gun and Karmic Alteration, as well as Parvati's skill Mother's Revelation, will grant Wisdom. Wisdom enhances the skill effects of Dance of Destruction and Divine Dancer's Leap.\nShiva's skill Divine Dancer's Leap and Parvati's skill Mother's Revelation will be used after the phase changes.\n2. Each time Shiva takes damage of a different attribute, it loses 1 Wisdom stack (1 time for each attribute, count resets at the start of Shiva's next turn).\n3. Every time a certain number of turns passes, Parvati will activate Qi Barrier, changing all of the Shadows' affinities to Null. It is removed when taking damage that is not a continuous effect.\n4. The first time that Shiva or Parvati reach 1 HP, they will enter a weakened state. During this time, they cannot act and cannot be targeted. When Shiva and Parvati enter their weakened states at the same time, they will recover HP and enter the next phase.\n5. When Parvati is defeated, Shiva will immediately activate Dance of Destruction, dealing damage to all Phantom Thieves.\n6. When Shiva is defeated, Parvati will transform into Kali."
+  },
+  {
+    "sn": "902391",
+    "name": "Shiva",
+    "desc": "One of the major Hindu gods, he is known as the Destroyer, but is also related to regeneration. His wife is Parvati.",
+    "strategy": "1. Shiva's skills Riot Gun and Karmic Alteration, as well as Parvati's skill Mother's Revelation, will grant Wisdom. Wisdom enhances the skill effects of Dance of Destruction and Divine Dancer's Leap.\nShiva's skill Divine Dancer's Leap and Parvati's skill Mother's Revelation will be used after the phase changes.\n2. Each time Shiva takes damage of a different attribute, it loses 1 Wisdom stack (1 time for each attribute, count resets at the start of Shiva's next turn).\n3. Every time a certain number of turns passes, Parvati will activate Qi Barrier, changing all of the Shadows' affinities to Null. It is removed when taking damage that is not a continuous effect.\n4. The first time that Shiva or Parvati reach 1 HP, they will enter a weakened state. During this time, they cannot act and cannot be targeted. When Shiva and Parvati enter their weakened states at the same time, they will recover HP and enter the next phase.\n5. When Parvati is defeated, Shiva will immediately activate Dance of Destruction, dealing damage to all Phantom Thieves.\n6. When Shiva is defeated, Parvati will transform into Kali."
+  },
+  {
+    "sn": "902392",
+    "name": "Shiva",
+    "desc": "One of the major Hindu gods, he is known as the Destroyer, but is also related to regeneration. His wife is Parvati.",
+    "strategy": "1. Shiva's skills Riot Gun and Karmic Alteration, as well as Parvati's skill Mother's Revelation, will grant Wisdom. Wisdom enhances the skill effects of Dance of Destruction and Divine Dancer's Leap.\nShiva's skill Divine Dancer's Leap and Parvati's skill Mother's Revelation will be used after the phase changes.\n2. Each time Shiva takes damage of a different attribute, it loses 1 Wisdom stack (1 time for each attribute, count resets at the start of Shiva's next turn).\n3. Every time a certain number of turns passes, Parvati will activate Qi Barrier, changing all of the Shadows' affinities to Null. It is removed when taking damage that is not a continuous effect.\n4. The first time that Shiva or Parvati reach 1 HP, they will enter a weakened state. During this time, they cannot act and cannot be targeted. When Shiva and Parvati enter their weakened states at the same time, they will recover HP and enter the next phase.\n5. When Parvati is defeated, Shiva will immediately activate Dance of Destruction, dealing damage to all Phantom Thieves.\n6. When Shiva is defeated, Parvati will transform into Kali."
+  },
+  {
+    "sn": "902333",
+    "name": "Parvati",
+    "desc": "A beautiful Hindu goddess of love and one of Shiva's wives. Always by his side, she played a role in opening his third eye. She can turn into Durga or Kali when angered.",
+    "strategy": "AAAAAA=="
+  },
+  {
+    "sn": "902334",
+    "name": "Parvati",
+    "desc": "A beautiful Hindu goddess of love and one of Shiva's wives. Always by his side, she played a role in opening his third eye. She can turn into Durga or Kali when angered.",
+    "strategy": "AAAAAA=="
+  },
+  {
+    "sn": "902335",
+    "name": "Kali",
+    "desc": "A goddess of death and destruction. She is said to be another face of Parvati. She is violent, wears a string of skulls, and carries bloody weapons, but she also blesses her followers.",
+    "strategy": "AAAAAA=="
+  },
+  {
+    "sn": "902343",
+    "name": "Parvati",
+    "desc": "A beautiful Hindu goddess of love and one of Shiva's wives. Always by his side, she played a role in opening his third eye. She can turn into Durga or Kali when angered.",
+    "strategy": "AAAAAA=="
+  },
+  {
+    "sn": "902344",
+    "name": "Parvati",
+    "desc": "A beautiful Hindu goddess of love and one of Shiva's wives. Always by his side, she played a role in opening his third eye. She can turn into Durga or Kali when angered.",
+    "strategy": "AAAAAA=="
+  },
+  {
+    "sn": "902345",
+    "name": "Kali",
+    "desc": "A goddess of death and destruction. She is said to be another face of Parvati. She is violent, wears a string of skulls, and carries bloody weapons, but she also blesses her followers.",
+    "strategy": "AAAAAA=="
+  },
+  {
+    "sn": "902353",
+    "name": "Parvati",
+    "desc": "A beautiful Hindu goddess of love and one of Shiva's wives. Always by his side, she played a role in opening his third eye. She can turn into Durga or Kali when angered.",
+    "strategy": "AAAAAA=="
+  },
+  {
+    "sn": "902354",
+    "name": "Parvati",
+    "desc": "A beautiful Hindu goddess of love and one of Shiva's wives. Always by his side, she played a role in opening his third eye. She can turn into Durga or Kali when angered.",
+    "strategy": "AAAAAA=="
+  },
+  {
+    "sn": "902355",
+    "name": "Kali",
+    "desc": "A goddess of death and destruction. She is said to be another face of Parvati. She is violent, wears a string of skulls, and carries bloody weapons, but she also blesses her followers.",
+    "strategy": "AAAAAA=="
+  },
+  {
+    "sn": "902363",
+    "name": "Parvati",
+    "desc": "A beautiful Hindu goddess of love and one of Shiva's wives. Always by his side, she played a role in opening his third eye. She can turn into Durga or Kali when angered.",
+    "strategy": "AAAAAA=="
+  },
+  {
+    "sn": "902364",
+    "name": "Parvati",
+    "desc": "A beautiful Hindu goddess of love and one of Shiva's wives. Always by his side, she played a role in opening his third eye. She can turn into Durga or Kali when angered.",
+    "strategy": "AAAAAA=="
+  },
+  {
+    "sn": "902365",
+    "name": "Kali",
+    "desc": "A goddess of death and destruction. She is said to be another face of Parvati. She is violent, wears a string of skulls, and carries bloody weapons, but she also blesses her followers.",
+    "strategy": "AAAAAA=="
+  },
+  {
+    "sn": "902373",
+    "name": "Parvati",
+    "desc": "A beautiful Hindu goddess of love and one of Shiva's wives. Always by his side, she played a role in opening his third eye. She can turn into Durga or Kali when angered.",
+    "strategy": "AAAAAA=="
+  },
+  {
+    "sn": "902374",
+    "name": "Parvati",
+    "desc": "A beautiful Hindu goddess of love and one of Shiva's wives. Always by his side, she played a role in opening his third eye. She can turn into Durga or Kali when angered.",
+    "strategy": "AAAAAA=="
+  },
+  {
+    "sn": "902375",
+    "name": "Kali",
+    "desc": "A goddess of death and destruction. She is said to be another face of Parvati. She is violent, wears a string of skulls, and carries bloody weapons, but she also blesses her followers.",
+    "strategy": "AAAAAA=="
+  },
+  {
+    "sn": "902383",
+    "name": "Parvati",
+    "desc": "A beautiful Hindu goddess of love and one of Shiva's wives. Always by his side, she played a role in opening his third eye. She can turn into Durga or Kali when angered.",
+    "strategy": "AAAAAA=="
+  },
+  {
+    "sn": "902384",
+    "name": "Parvati",
+    "desc": "A beautiful Hindu goddess of love and one of Shiva's wives. Always by his side, she played a role in opening his third eye. She can turn into Durga or Kali when angered.",
+    "strategy": "AAAAAA=="
+  },
+  {
+    "sn": "902385",
+    "name": "Kali",
+    "desc": "A goddess of death and destruction. She is said to be another face of Parvati. She is violent, wears a string of skulls, and carries bloody weapons, but she also blesses her followers.",
+    "strategy": "AAAAAA=="
+  },
+  {
+    "sn": "902393",
+    "name": "Parvati",
+    "desc": "A beautiful Hindu goddess of love and one of Shiva's wives. Always by his side, she played a role in opening his third eye. She can turn into Durga or Kali when angered.",
+    "strategy": "AAAAAA=="
+  },
+  {
+    "sn": "902394",
+    "name": "Parvati",
+    "desc": "A beautiful Hindu goddess of love and one of Shiva's wives. Always by his side, she played a role in opening his third eye. She can turn into Durga or Kali when angered.",
+    "strategy": "AAAAAA=="
+  },
+  {
+    "sn": "902395",
+    "name": "Kali",
+    "desc": "A goddess of death and destruction. She is said to be another face of Parvati. She is violent, wears a string of skulls, and carries bloody weapons, but she also blesses her followers.",
     "strategy": "AAAAAA=="
   },
   {
@@ -1282,6 +1516,30 @@
     "name": "Decarabia",
     "desc": "One of the 72 demons of the Goetia, this demon appears as a pentacle. Keeper of jewels and herbal lore, Decarabia is said to have the ability to shape-shift at will.",
     "strategy": "Decarabia has different weaknesses and resistances than normal."
+  },
+  {
+    "sn": "923411",
+    "name": "Kin-Ki",
+    "desc": "One of the four oni controlled by Fujiwara no Chikata, its body is so hard that no weapons can penetrate it. It and its comrades fell into hell through holes that can still be found in modern Iga.",
+    "strategy": "AAAAAA=="
+  },
+  {
+    "sn": "923511",
+    "name": "Quetzalcoatl",
+    "desc": "An Aztec deity known as the Feathered Serpent. He created humans with his own blood and taught them how to sustain themselves.",
+    "strategy": "AAAAAA=="
+  },
+  {
+    "sn": "923611",
+    "name": "Koppa Tengu",
+    "desc": "A type of tengu. Their spiritual power is weaker than other tengu, so they are much smaller. They are said to be the reincarnations of long-lived wolves.",
+    "strategy": "AAAAAA=="
+  },
+  {
+    "sn": "923612",
+    "name": "Koppa Tengu",
+    "desc": "A type of tengu. Their spiritual power is weaker than other tengu, so they are much smaller. They are said to be the reincarnations of long-lived wolves.",
+    "strategy": "AAAAAA=="
   },
   {
     "sn": "930032",
@@ -5594,7 +5852,7 @@
   {
     "sn": "227",
     "name": "Uriel",
-    "desc": "One of the fourmajor archangels. His name means \"Flame of God,\" and he knows all the celestial phenomena. He is the first angel Satan met on earth.",
+    "desc": "One of the four major archangels. His name means \"Flame of God,\" and he knows all the celestial phenomena. He is the first angel Satan met on earth.",
     "strategy": "AAAAAA=="
   },
   {
@@ -22239,7 +22497,7 @@
     "sn": "238061",
     "name": "Byakko",
     "desc": "One of the Ssu-Ling, celestial creatures of Chinese myth. It represents the direction west, the season of autumn, and the element of metal. He is believed to be the king of all beasts.",
-    "strategy": "1. Byakko alternates between Byakko's Claw and Byakko's Fang.\n2. Byakko's Claw: Deals damage to 1 target and inflicts Deep Wounds. This effect deals damage over time, and can be removed by receiving healing 3 times.\n3. Byakko's Fang: Deals damage to all targets and inflicts Bite Marks. This effect increases damage taken, and can be removed by dealing damage 3 times.\n4. At the start of each turn, if both Deep Wounds and Bite Marks have been inflicted, Byakko will activate Prey, dealing heavy damage and inflicting Despair on the target.\n5. Every two turns, 1 Leanan Sidhe will be summoned."
+    "strategy": "1. Byakko will use <color=#72C5FF>Byakko's Claw</color> and <color=#72C5FF>Byakko's Fang</color>.\n2. Byakko's Claw: Deals damage to 1 target and inflicts <color=#72C5FF>Deep Wounds</color>. This effect deals damage over time, and can be removed by receiving healing 3 times.\n3. Byakko's Fang: Deals damage to all targets and inflicts <color=#72C5FF>Bite Marks</color>. This effect increases damage taken, and can be removed by dealing damage 3 times.\n4. At the start of each turn, if both Deep Wounds and Bite Marks have been inflicted, Byakko will activate <color=#72C5FF>Prey</color>, dealing heavy damage and inflicting <color=#72C5FF>Despair</color> on the target.\n5. Every two turns, 1 Leanan Sidhe will be summoned."
   },
   {
     "sn": "238062",
@@ -22251,13 +22509,13 @@
     "sn": "238071",
     "name": "Byakko",
     "desc": "One of the Ssu-Ling, celestial creatures of Chinese myth. It represents the direction west, the season of autumn, and the element of metal. He is believed to be the king of all beasts.",
-    "strategy": "1. Byakko alternates between Byakko's Claw and Byakko's Fang.\n2. Byakko's Claw: Deals damage to 1 target and inflicts Deep Wounds. This effect deals damage over time.\n3. Byakko's Fang: Deals damage to all targets and inflicts Bite Marks. This effect increases damage taken.\n4. At the start of each turn, if both Deep Wounds and Bite Marks have been inflicted, Byakko will activate Prey, dealing heavy damage and inflicting Despair on the target.\n5. Every 2 turns, Byakko selects 1 Sudama as Bait, and on the next turn, eats the Sudama, fully restoring its HP and granting itself a buff."
+    "strategy": "1. Byakko alternates between <color=#72C5FF>Byakko's Claw</color> and <color=#72C5FF>Byakko's Fang</color>.\n2. Byakko's Claw: Deals damage to 1 target and inflicts <color=#72C5FF>Deep Wounds</color>. This effect deals damage over time.\n3. Byakko's Fang: Deals damage to all targets and inflicts <color=#72C5FF>Bite Marks</color>. This effect increases damage taken.\n4. At the start of each turn, if both Deep Wounds and Bite Marks have been inflicted, Byakko will activate <color=#72C5FF>Prey</color>, dealing heavy damage and inflicting <color=#72C5FF>Despair</color> on the target.\n5. Every 2 turns, Byakko selects 1 Sudama as Bait, and on the next turn, eats the Sudama, fully restoring its HP and granting itself a buff."
   },
   {
     "sn": "238072",
     "name": "Sudama",
     "desc": "A spirit of rivers and mountains in Japanese lore, it dwells in ancient trees and ageless rocks. They are not evil, and will often appear as humans or supernatural wonders to warn people.",
-    "strategy": "When defeated, Deep Wounds and Bite Marks are removed."
+    "strategy": "When defeated, <color=#72C5FF>Deep Wounds</color> and <color=#72C5FF>Bite Marks</color> are removed."
   },
   {
     "sn": "238081",
@@ -31923,7 +32181,7 @@
     "sn": "730111",
     "name": "Dominion",
     "desc": "The fourth of the nine orders of angels. Their duty is to oversee the other angels. Their actions are the manifestation of God's will.",
-    "strategy": "Dominion, Power, Principality, and Archangel have <color=#72C5FF>Soul Link</color>.\nSoul Link: When a Shadow with Soul Link takes damage, split the damage between all Shadows with Soul Link, based on its current HP.\nDominion continuously summons waves of Angels. You can restore SP when you defeat an Angel.\nWhen Dominion is Weakened, damage dealt to Angels is added to your score."
+    "strategy": "Weaknesses and resistances are different than normal.\nDominion, Power, Principality, and Archangel have <color=#72C5FF>Soul Link</color>.\nSoul Link: When a Shadow with Soul Link takes damage, split the damage between all Shadows with Soul Link, based on its current HP.\nDominion continuously summons waves of Angels. You can restore SP when you defeat an Angel.\nWhen Dominion is Weakened, damage dealt to Angels is added to your score."
   },
   {
     "sn": "730112",
@@ -31935,7 +32193,7 @@
     "sn": "730121",
     "name": "Power",
     "desc": "The sixth of the nine orders of angels. It is said that they were the first order to be created. Their duty is to protect human souls from demons.",
-    "strategy": "Dominion, Power, Principality, and Archangel are in the <color=#72C5FF>Soul Link</color> state.\nSoul Link: When a Shadow with Soul Link takes damage, split the damage between all Shadows with Soul Link, based on its current HP."
+    "strategy": "Weaknesses and resistances are different than normal.\nDominion, Power, Principality, and Archangel are in the <color=#72C5FF>Soul Link</color> state.\nSoul Link: When a Shadow with Soul Link takes damage, split the damage between all Shadows with Soul Link, based on its current HP."
   },
   {
     "sn": "730122",
@@ -32655,13 +32913,13 @@
     "sn": "740611",
     "name": "Kartikeya",
     "desc": "A Hindu god of war, known as Skanda or Murugan. He rides atop a peacock called Paravani,with bow and arrow drawn. He commands the army of the gods and defeated the forces of Asura.",
-    "strategy": "1. Kartikeya leads its army of birds in a coordinated strike.\n2. When Garuda and Jatayu take damage from a Phantom Thief, that Thief's damage increases by 4% for 3 turns. Stacks up to 5 times. When Horus and Yatagarasu take damage from a Phantom Thief, that Thief's pierce rate increases by 2% for 3 turns. Stacks up to 5 times."
+    "strategy": "Weaknesses and resistances are different than normal.\n1. Kartikeya leads its army of Shadows in a coordinated strike.\n2. When Garuda and Jatayu take damage from a Phantom Thief, that Thief's damage increases by 4% for 3 turns. Stacks up to 5 times. When Horus and Yatagarasu take damage from a Phantom Thief, that Thief's pierce rate increases by 2% for 3 turns. Stacks up to 5 times."
   },
   {
     "sn": "740621",
     "name": "Garuda",
     "desc": "A divine bird-man in Hindu lore, he once fought the gods and received immortality in exchange for becoming Vishnu's carrier.",
-    "strategy": "When Garuda and Jatayu take damage from a Phantom Thief, that Thief's damage increases by 4% for 3 turns. Stacks up to 5 times."
+    "strategy": "Weaknesses and resistances are different than normal.\nWhen Garuda and Jatayu take damage from a Phantom Thief, that Thief's damage increases by 4% for 3 turns. Stacks up to 5 times."
   },
   {
     "sn": "740622",
@@ -32673,13 +32931,13 @@
     "sn": "740623",
     "name": "Horus",
     "desc": "An ancient god of Egypt whose eyes are the sun and moon. Revered by some as the chief god, he is often depicted as a hawk or a falcon.",
-    "strategy": "When Horus and Yatagarasu take damage from a Phantom Thief, that Thief's pierce rate increases by 2% for 3 turns. Stacks up to 5 times."
+    "strategy": "Weaknesses and resistances are different than normal.\nWhen Horus and Yatagarasu take damage from a Phantom Thief, that Thief's pierce rate increases by 2% for 3 turns. Stacks up to 5 times."
   },
   {
     "sn": "740624",
     "name": "Yatagarasu",
     "desc": "A divine creature in Japanese lore. They are three-legged birds sent by Amaterasu to help humans. They are said to have helped Emperor Jinmu claim victory.",
-    "strategy": "When Horus and Yatagarasu take damage from a Phantom Thief, that Thief's pierce rate increases by 2% for 3 turns. Stacks to 5 times."
+    "strategy": "Weaknesses and resistances are different than normal.\nWhen Horus and Yatagarasu take damage from a Phantom Thief, that Thief's pierce rate increases by 2% for 3 turns. Stacks up to 5 times."
   },
   {
     "sn": "741111",

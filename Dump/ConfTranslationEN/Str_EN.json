@@ -1064,13 +1064,6 @@
     "option2": "AAAAAA=="
   },
   {
-    "sn": "11311",
-    "strContent": "<color=#FF423F>Excess experience from leveling up will be converted into level up materials.</color>\nDo you want to proceed?",
-    "option1": "Confirm",
-    "showName": "L<#000000,u,#FFFFFF>fel",
-    "option2": "Never mind."
-  },
-  {
     "sn": "11312",
     "strContent": "You have favorited this Phantom Thief.",
     "option1": "AAAAAA==",
@@ -2440,6 +2433,13 @@
     "strContent": "You are unable to open your third eye due to mental interference.",
     "option1": "AAAAAA==",
     "showName": "AAAAAA==",
+    "option2": "AAAAAA=="
+  },
+  {
+    "sn": "12520",
+    "strContent": "The robot is carrying energy and can't move closer.",
+    "option1": "AAAAAA==",
+    "showName": "L<#000000,u,#FFFFFF>fel",
     "option2": "AAAAAA=="
   },
   {
@@ -4361,6 +4361,13 @@
     "option2": "AAAAAA=="
   },
   {
+    "sn": "15312",
+    "strContent": "Cannot use %s outside of the designated time period.",
+    "option1": "AAAAAA==",
+    "showName": "AAAAAA==",
+    "option2": "AAAAAA=="
+  },
+  {
     "sn": "15401",
     "strContent": "You cannot challenge multiple themes simultaneously.",
     "option1": "AAAAAA==",
@@ -4845,7 +4852,7 @@
   },
   {
     "sn": "18034",
-    "strContent": "Online mode of Tycoon is currently not available. Suspension period: %s d",
+    "strContent": "Online mode of Tycoon is currently not available. Offline Period: %s d",
     "option1": "AAAAAA==",
     "showName": "AAAAAA==",
     "option2": "AAAAAA=="
@@ -5196,9 +5203,9 @@
   {
     "sn": "1000074",
     "strContent": "You don't have enough Kagura Bells to pray.",
-    "option1": "Buy",
-    "showName": "L<#000000,u,#FFFFFF>fel",
-    "option2": "Not now"
+    "option1": "AAAAAA==",
+    "showName": "AAAAAA==",
+    "option2": "AAAAAA=="
   },
   {
     "sn": "1000075",
@@ -5356,10 +5363,10 @@
   },
   {
     "sn": "1000138",
-    "strContent": "<color=#FF423F>Excess experience from enhancement will be converted into enhancement materials.</color>\nDo you want to enhance?",
-    "option1": "Cancel",
+    "strContent": "Excess experience from this enhancement was converted into general materials.",
+    "option1": "AAAAAA==",
     "showName": "AAAAAA==",
-    "option2": "Never mind."
+    "option2": "AAAAAA=="
   },
   {
     "sn": "1000139",
@@ -5467,25 +5474,11 @@
     "option2": "AAAAAA=="
   },
   {
-    "sn": "1000154",
-    "strContent": "Excess enhancement experience will carry over to the next level. Do you want to use the selected materials for enhancement?",
-    "option1": "Cancel",
-    "showName": "AAAAAA==",
-    "option2": "Never mind."
-  },
-  {
     "sn": "1000155",
     "strContent": "Reconnected to the server.",
     "option1": "AAAAAA==",
     "showName": "AAAAAA==",
     "option2": "AAAAAA=="
-  },
-  {
-    "sn": "1000156",
-    "strContent": "This exceeds the maximum amount of experience points. Do you want to enhance the selected materials?",
-    "option1": "Cancel",
-    "showName": "AAAAAA==",
-    "option2": "Never mind."
   },
   {
     "sn": "1000187",
@@ -5756,13 +5749,6 @@
   {
     "sn": "1000407",
     "strContent": "You are already have a Revelation Card equipped. Do you want to swap it for this Revelation Card instead?",
-    "option1": "Cancel",
-    "showName": "AAAAAA==",
-    "option2": "Never mind."
-  },
-  {
-    "sn": "1000408",
-    "strContent": "This Revelation Card has been enhanced. If you convert it, the excess experience points will be returned. Do you want to convert it?",
     "option1": "Cancel",
     "showName": "AAAAAA==",
     "option2": "Never mind."
@@ -6357,7 +6343,7 @@
   },
   {
     "sn": "1000459",
-    "strContent": "Random main attributes for {0}-marked cards include the following: {1}",
+    "strContent": "Random main attributes for {0}-marked cards include: {1}",
     "option1": "AAAAAA==",
     "showName": "AAAAAA==",
     "option2": "AAAAAA=="
@@ -6508,13 +6494,6 @@
     "option1": "AAAAAA==",
     "showName": "AAAAAA==",
     "option2": "AAAAAA=="
-  },
-  {
-    "sn": "1010156",
-    "strContent": "Exceeds the maximum experience by %d. Do you still want to continue?",
-    "option1": "Continue",
-    "showName": "L<#000000,u,#FFFFFF>fel",
-    "option2": "Not now"
   },
   {
     "sn": "1010201",
@@ -8842,21 +8821,21 @@
   },
   {
     "sn": "1013013",
-    "strContent": "You have selected a Persona that has been trained. Are you sure?",
+    "strContent": "You have selected a Persona that has been trained. Do you still want to continue?",
     "option1": "Continue",
     "showName": "L<#000000,u,#FFFFFF>fel",
     "option2": "Not now"
   },
   {
     "sn": "1013014",
-    "strContent": "You have selected a high-rank Persona Seal. Are you sure?",
+    "strContent": "You have selected a high-rank Persona Seal. Do you still want to continue?",
     "option1": "Continue",
     "showName": "L<#000000,u,#FFFFFF>fel",
     "option2": "Not now"
   },
   {
     "sn": "1013015",
-    "strContent": "Persona will reach max level, but %d excess experience will be lost. Continue?",
+    "strContent": "The Persona will reach max level, but %d excess experience will be lost. Do you still want to continue?",
     "option1": "Continue",
     "showName": "L<#000000,u,#FFFFFF>fel",
     "option2": "Not now"
@@ -8884,21 +8863,21 @@
   },
   {
     "sn": "1013022",
-    "strContent": "This Persona has evolved. It will become a %d★ if evolved further. Evolve?",
+    "strContent": "This Persona has evolved. It will become a %d★ if evolved further. Do you still want to continue?",
     "option1": "Continue",
     "showName": "L<#000000,u,#FFFFFF>fel",
     "option2": "Not now"
   },
   {
     "sn": "1013023",
-    "strContent": "This Persona has evolved. It will inherit %d experience if evolved further. Evolve?",
+    "strContent": "This Persona has evolved. It will inherit %d experience if evolved further. Do you still want to continue?",
     "option1": "Continue",
     "showName": "L<#000000,u,#FFFFFF>fel",
     "option2": "Not now"
   },
   {
     "sn": "1013024",
-    "strContent": "This Persona has evolved. It will become a 6★ and you will lose %d stars if evolved further. Evolve?",
+    "strContent": "This Persona has evolved. It will become a 6★ and you will lose %d stars if evolved further. Do you still want to continue?",
     "option1": "Continue",
     "showName": "L<#000000,u,#FFFFFF>fel",
     "option2": "Not now"
@@ -8940,14 +8919,14 @@
   },
   {
     "sn": "1013032",
-    "strContent": "You have selected a 4★ Persona. Are you sure?",
+    "strContent": "You have selected a 4★ Persona. Do you still want to continue?",
     "option1": "Continue",
     "showName": "L<#000000,u,#FFFFFF>fel",
     "option2": "Not now"
   },
   {
     "sn": "1013033",
-    "strContent": "You have selected a Persona that has been trained. Are you sure?",
+    "strContent": "You have selected a Persona that has been trained. Do you still want to continue?",
     "option1": "Continue",
     "showName": "L<#000000,u,#FFFFFF>fel",
     "option2": "Not now"
@@ -9017,7 +8996,7 @@
   },
   {
     "sn": "1013045",
-    "strContent": "Purchased.",
+    "strContent": "Purchase complete.",
     "option1": "AAAAAA==",
     "showName": "AAAAAA==",
     "option2": "AAAAAA=="
@@ -9674,6 +9653,13 @@
     "option2": "Not now"
   },
   {
+    "sn": "1015034",
+    "strContent": "The Persona combination does not meet role requirements, and must be changed in order to deploy.",
+    "option1": "AAAAAA==",
+    "showName": "AAAAAA==",
+    "option2": "AAAAAA=="
+  },
+  {
     "sn": "1017001",
     "strContent": "You exited a stage in progress. Would you like to resume from there?",
     "option1": "Continue",
@@ -10150,6 +10136,13 @@
     "option2": "Never mind."
   },
   {
+    "sn": "1019078",
+    "strContent": "Oh, hello there...",
+    "option1": "Help Hiyori",
+    "showName": "Hiyori Koi<#000000,d,#FFFFFF>e",
+    "option2": "Not right now"
+  },
+  {
     "sn": "1019104",
     "strContent": "How should I answer...?",
     "option1": "Sure.",
@@ -10510,7 +10503,7 @@
     "sn": "1019221",
     "strContent": "Would you like to spend time with Kotone?",
     "option1": "Spend time with Kotone",
-    "showName": "AAAAAA==",
+    "showName": "L<#000000,u,#FFFFFF>fel",
     "option2": "I have plans today..."
   },
   {
@@ -10537,9 +10530,9 @@
   {
     "sn": "1019222",
     "strContent": "Would you like to spend time with Kotone?",
-    "option1": "Spend time with her.",
+    "option1": "Spend time with Kotone",
     "showName": "L<#000000,u,#FFFFFF>fel",
-    "option2": "I made other plans..."
+    "option2": "I have plans today..."
   },
   {
     "sn": "1020110",
@@ -11446,7 +11439,7 @@
   },
   {
     "sn": "1023059",
-    "strContent": "Complete 4 optional Thieves Den missions to obtain rewards.",
+    "strContent": "Complete any 4 Thieves Den missions to obtain rewards.",
     "option1": "AAAAAA==",
     "showName": "AAAAAA==",
     "option2": "AAAAAA=="
@@ -11488,7 +11481,7 @@
   },
   {
     "sn": "1023064",
-    "strContent": "No tasks available. Progress through the main story and unlock the<color=#FF423F>Thieves Den</color> feature.",
+    "strContent": "No missions available. Progress through the main story and unlock the<color=#FF423F>Thieves Den</color> feature.",
     "option1": "AAAAAA==",
     "showName": "AAAAAA==",
     "option2": "AAAAAA=="
@@ -11816,13 +11809,6 @@
     "option2": "Never mind."
   },
   {
-    "sn": "1026002",
-    "strContent": "<color=#FF423F>%s</color> selected.\nEnhancement will exceed required experience. <color=#FF423F>Exceeded experience will be returned</color>.\nDo you want to enhance?",
-    "option1": "Cancel",
-    "showName": "AAAAAA==",
-    "option2": "Never mind."
-  },
-  {
     "sn": "1026003",
     "strContent": "There are no materials that can be added.",
     "option1": "AAAAAA==",
@@ -11832,7 +11818,7 @@
   {
     "sn": "1026004",
     "strContent": "Are you sure you want to convert %s into %s?",
-    "option1": "Confirm",
+    "option1": "Cancel",
     "showName": "AAAAAA==",
     "option2": "Never mind."
   },
@@ -13161,7 +13147,7 @@
   },
   {
     "sn": "1046001",
-    "strContent": "Purchased.",
+    "strContent": "Purchase complete.",
     "option1": "AAAAAA==",
     "showName": "AAAAAA==",
     "option2": "AAAAAA=="
@@ -13182,7 +13168,7 @@
   },
   {
     "sn": "1046004",
-    "strContent": "Purchased.",
+    "strContent": "Purchase complete.",
     "option1": "AAAAAA==",
     "showName": "AAAAAA==",
     "option2": "AAAAAA=="
@@ -13595,7 +13581,7 @@
   },
   {
     "sn": "1049007",
-    "strContent": "You don't have enough %s to purchase this.",
+    "strContent": "You don't have enough of the item needed (%s) to make this purchase.",
     "option1": "AAAAAA==",
     "showName": "AAAAAA==",
     "option2": "AAAAAA=="
@@ -13679,7 +13665,7 @@
   },
   {
     "sn": "1049008",
-    "strContent": "Purchased.",
+    "strContent": "Purchase complete.",
     "option1": "AAAAAA==",
     "showName": "AAAAAA==",
     "option2": "AAAAAA=="
@@ -14077,6 +14063,13 @@
     "option2": "AAAAAA=="
   },
   {
+    "sn": "1047247",
+    "strContent": "You have not yet <color=#FF423F>witnessed the third Phantom Thief's awakening</color>. This mode may impact your experience of the story. Do you still wish to continue?",
+    "option1": "Confirm",
+    "showName": "AAAAAA==",
+    "option2": "Never mind."
+  },
+  {
     "sn": "1050087",
     "strContent": "Unlocks at level 30. Please level up.",
     "option1": "AAAAAA==",
@@ -14201,6 +14194,48 @@
     "option1": "Confirm",
     "showName": "L<#000000,u,#FFFFFF>fel",
     "option2": "Never mind."
+  },
+  {
+    "sn": "1050612",
+    "strContent": "When you reset, the locked party will be unlocked, the challenge attempts will be restored, and the boss HP will be reset.\nThe highest score will not change.\nDo you want to reset?",
+    "option1": "Confirm",
+    "showName": "AAAAAA==",
+    "option2": "Never mind."
+  },
+  {
+    "sn": "1050613",
+    "strContent": "You have run out of attempts for today. Please try again tomorrow.",
+    "option1": "AAAAAA==",
+    "showName": "AAAAAA==",
+    "option2": "AAAAAA=="
+  },
+  {
+    "sn": "1050614",
+    "strContent": "Clear difficulty level %s to unlock.",
+    "option1": "AAAAAA==",
+    "showName": "AAAAAA==",
+    "option2": "AAAAAA=="
+  },
+  {
+    "sn": "1050615",
+    "strContent": "Final Mode is not unlocked.",
+    "option1": "AAAAAA==",
+    "showName": "AAAAAA==",
+    "option2": "AAAAAA=="
+  },
+  {
+    "sn": "1050616",
+    "strContent": "The boss is already defeated and cannot be challenged.",
+    "option1": "AAAAAA==",
+    "showName": "AAAAAA==",
+    "option2": "AAAAAA=="
+  },
+  {
+    "sn": "1050617",
+    "strContent": "In addition to Wonder, you must deploy <color=#FFD145>4</color> Phantom Thieves.",
+    "option1": "AAAAAA==",
+    "showName": "AAAAAA==",
+    "option2": "AAAAAA=="
   },
   {
     "sn": "1051001",
@@ -14828,6 +14863,13 @@
   {
     "sn": "1052057",
     "strContent": "No missions available. Unlock more through main story progression.",
+    "option1": "AAAAAA==",
+    "showName": "AAAAAA==",
+    "option2": "AAAAAA=="
+  },
+  {
+    "sn": "1050632",
+    "strContent": "Log in every day to receive a new fortune",
     "option1": "AAAAAA==",
     "showName": "AAAAAA==",
     "option2": "AAAAAA=="
@@ -17648,7 +17690,7 @@
   },
   {
     "sn": "1064188",
-    "strContent": "You can now quick travel to the \n<color=#FF423F>Lower Control Center: Eastern Corridor</color>.",
+    "strContent": "You can now quick travel to the \n<color=#FF423F>Lower Control Center: East Corridor</color>.",
     "option1": "AAAAAA==",
     "showName": "AAAAAA==",
     "option2": "AAAAAA=="
@@ -17669,7 +17711,7 @@
   },
   {
     "sn": "1064202",
-    "strContent": "You can now quick travel to the \n<color=#FF423F>Central Water Treatment Plant: Northeast Corridor</color>.",
+    "strContent": "You can now quick travel to the \n<color=#FF423F>Upper Control Center: North Corridor</color>.",
     "option1": "AAAAAA==",
     "showName": "AAAAAA==",
     "option2": "AAAAAA=="
@@ -20583,119 +20625,119 @@
     "sn": "1151001",
     "strContent": "I can still keep going...\nbut this is pretty rough.",
     "option1": "AAAAAA==",
-    "showName": "Kotone Montagne",
+    "showName": "Frostgale Kotone",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1151002",
     "strContent": "You all set? Then let's get\ngoing!",
     "option1": "AAAAAA==",
-    "showName": "Kotone Montagne",
+    "showName": "Frostgale Kotone",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1151003",
     "strContent": "Made it.",
     "option1": "AAAAAA==",
-    "showName": "Kotone Montagne",
+    "showName": "Frostgale Kotone",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1151004",
     "strContent": "A safe room. Let's rest for\na bit.",
     "option1": "AAAAAA==",
-    "showName": "Kotone Montagne",
+    "showName": "Frostgale Kotone",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1151005",
     "strContent": "What's our next move?",
     "option1": "AAAAAA==",
-    "showName": "Kotone Montagne",
+    "showName": "Frostgale Kotone",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1151006",
     "strContent": "Shadows. Be cautious.",
     "option1": "AAAAAA==",
-    "showName": "Kotone Montagne",
+    "showName": "Frostgale Kotone",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1151007",
     "strContent": "Can we get in from the other side?",
     "option1": "AAAAAA==",
-    "showName": "Kotone Montagne",
+    "showName": "Frostgale Kotone",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1151008",
     "strContent": "Mission complete.",
     "option1": "AAAAAA==",
-    "showName": "Kotone Montagne",
+    "showName": "Frostgale Kotone",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1151009",
     "strContent": "There's a chest! I wonder what's inside.",
     "option1": "AAAAAA==",
-    "showName": "Kotone Montagne",
+    "showName": "Frostgale Kotone",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1151010",
     "strContent": "Hehe, we got something good.",
     "option1": "AAAAAA==",
-    "showName": "Kotone Montagne",
+    "showName": "Frostgale Kotone",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1151011",
     "strContent": "I hear the sound of wind...\nI bet there's a hidden passage\nnearby.",
     "option1": "AAAAAA==",
-    "showName": "Kotone Montagne",
+    "showName": "Frostgale Kotone",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1151012",
     "strContent": "We've arrived. Wonder. What should we do next?",
     "option1": "AAAAAA==",
-    "showName": "Kotone Montagne",
+    "showName": "Frostgale Kotone",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1151013",
     "strContent": "Doesn't seem like we can go\nthrough here.",
     "option1": "AAAAAA==",
-    "showName": "Kotone Montagne",
+    "showName": "Frostgale Kotone",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1151014",
     "strContent": "Find anything good?",
     "option1": "AAAAAA==",
-    "showName": "Kotone Montagne",
+    "showName": "Frostgale Kotone",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1151015",
     "strContent": "Good work. Don't forget to\ncool down, okay?",
     "option1": "AAAAAA==",
-    "showName": "Kotone Montagne",
+    "showName": "Frostgale Kotone",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1151016",
     "strContent": "A strong enemy... Think we can\nhandle it?",
     "option1": "AAAAAA==",
-    "showName": "Kotone Montagne",
+    "showName": "Frostgale Kotone",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1151017",
     "strContent": "We should rest. Be careful\nnot to put too much strain\non your body.",
     "option1": "AAAAAA==",
-    "showName": "Kotone Montagne",
+    "showName": "Frostgale Kotone",
     "option2": "AAAAAA=="
   },
   {
@@ -21134,14 +21176,14 @@
   },
   {
     "sn": "1080018",
-    "strContent": "Please select a Phantom Thief, then read the instructions.\nNote: You are free to change after making your selection.",
+    "strContent": "Please confirm after selecting a Phantom Thief.\n*You are free to change your Phantom Thief selection before you start drawing.",
     "option1": "AAAAAA==",
     "showName": "AAAAAA==",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1080016",
-    "strContent": "In Partners in Crime, you can select three Most Wanted Phantom Thieves from a lineup of exclusive 5★ Phantom Thieves.\nOnce you begin drawing for each Phantom Thief, they will become the selected character and you will not be able to change that Phantom Thief.\nWould you like to begin the contract?\n*The 5★ Phantom Thieves selection is shared between \"chance\" and \"targeted.\"",
+    "strContent": "In Most Wanted Casting Call, you can select three Most Wanted Phantom Thieves from a lineup of exclusive 5★ Phantom Thieves.\nOnce you begin drawing, one of the three will become {0}, and you will not be able to change the Phantom Thief.\nWould you like to begin the contract?\n*The 5★ Phantom Thieves selection is shared between \"chance\" and \"targeted.\"",
     "option1": "Confirm",
     "showName": "L<#000000,u,#FFFFFF>fel",
     "option2": "Never mind."
@@ -21218,21 +21260,21 @@
   },
   {
     "sn": "1083003",
-    "strContent": "A Phantom Thief deployment slot is empty. Is that okay?",
+    "strContent": "You left a Phantom Thief slot empty. Do you still want to continue?",
     "option1": "Confirm",
     "showName": "L<#000000,u,#FFFFFF>fel",
     "option2": "Never mind."
   },
   {
     "sn": "1083004",
-    "strContent": "A Persona deployment slot is empty. Is that okay?",
+    "strContent": "You left a Persona slot empty. Do you still want to continue?",
     "option1": "Confirm",
     "showName": "L<#000000,u,#FFFFFF>fel",
     "option2": "Never mind."
   },
   {
     "sn": "1083005",
-    "strContent": "There are empty Phantom Thief and Persona deployment slots. Is that okay?",
+    "strContent": "You left Phantom Thief and/or Persona slots empty. Do you still want to continue?",
     "option1": "Confirm",
     "showName": "L<#000000,u,#FFFFFF>fel",
     "option2": "Never mind."
@@ -26691,6 +26733,153 @@
     "option2": "AAAAAA=="
   },
   {
+    "sn": "1174001",
+    "strContent": "Well, where are we going?\nHurry up and make a decision!",
+    "option1": "AAAAAA==",
+    "showName": "Caroline",
+    "option2": "AAAAAA=="
+  },
+  {
+    "sn": "1174002",
+    "strContent": "This seems to be the place.",
+    "option1": "AAAAAA==",
+    "showName": "Justine",
+    "option2": "AAAAAA=="
+  },
+  {
+    "sn": "1174003",
+    "strContent": "This is our destination,\nright?",
+    "option1": "AAAAAA==",
+    "showName": "Justine",
+    "option2": "AAAAAA=="
+  },
+  {
+    "sn": "1174004",
+    "strContent": "I sense... a hidden path\nnearby.",
+    "option1": "AAAAAA==",
+    "showName": "Justine",
+    "option2": "AAAAAA=="
+  },
+  {
+    "sn": "1174005",
+    "strContent": "Looks like it's locked.",
+    "option1": "AAAAAA==",
+    "showName": "Caroline",
+    "option2": "AAAAAA=="
+  },
+  {
+    "sn": "1174006",
+    "strContent": "Huh? Seems like we can't get\nthrough here.",
+    "option1": "AAAAAA==",
+    "showName": "Caroline",
+    "option2": "AAAAAA=="
+  },
+  {
+    "sn": "1174007",
+    "strContent": "Not bad, Rookie.",
+    "option1": "AAAAAA==",
+    "showName": "Justine",
+    "option2": "AAAAAA=="
+  },
+  {
+    "sn": "1174008",
+    "strContent": "...Hmm!? Hey... that might\nbe something valuable.\nLet's check it out!",
+    "option1": "AAAAAA==",
+    "showName": "Caroline",
+    "option2": "AAAAAA=="
+  },
+  {
+    "sn": "1174009",
+    "strContent": "Hurry up, Rookie!",
+    "option1": "AAAAAA==",
+    "showName": "Caroline",
+    "option2": "AAAAAA=="
+  },
+  {
+    "sn": "1174019",
+    "strContent": "Requesting healing.",
+    "option1": "AAAAAA==",
+    "showName": "Justine",
+    "option2": "AAAAAA=="
+  },
+  {
+    "sn": "1174010",
+    "strContent": "This feeling of\nanticipation... It's got\nto be something good!",
+    "option1": "AAAAAA==",
+    "showName": "Justine",
+    "option2": "AAAAAA=="
+  },
+  {
+    "sn": "1174011",
+    "strContent": "Huh... Not bad at all!",
+    "option1": "AAAAAA==",
+    "showName": "Caroline",
+    "option2": "AAAAAA=="
+  },
+  {
+    "sn": "1174012",
+    "strContent": "I sense an enemy up ahead.",
+    "option1": "AAAAAA==",
+    "showName": "Justine",
+    "option2": "AAAAAA=="
+  },
+  {
+    "sn": "1174022",
+    "strContent": "What's the plan, Rookie?",
+    "option1": "AAAAAA==",
+    "showName": "Caroline",
+    "option2": "AAAAAA=="
+  },
+  {
+    "sn": "1174013",
+    "strContent": "There's a safe room. It might\npay to take a rest.",
+    "option1": "AAAAAA==",
+    "showName": "Caroline",
+    "option2": "AAAAAA=="
+  },
+  {
+    "sn": "1174014",
+    "strContent": "A safe room... Shall we take\na break?",
+    "option1": "AAAAAA==",
+    "showName": "Justine",
+    "option2": "AAAAAA=="
+  },
+  {
+    "sn": "1174015",
+    "strContent": "Guess we'll call it here for\ntoday!",
+    "option1": "AAAAAA==",
+    "showName": "Caroline",
+    "option2": "AAAAAA=="
+  },
+  {
+    "sn": "1174016",
+    "strContent": "Time to head back.",
+    "option1": "AAAAAA==",
+    "showName": "Justine",
+    "option2": "AAAAAA=="
+  },
+  {
+    "sn": "1174017",
+    "strContent": "This enemy... Brace yourself,\nRookie.",
+    "option1": "AAAAAA==",
+    "showName": "Justine",
+    "option2": "AAAAAA=="
+  },
+  {
+    "sn": "1174018",
+    "strContent": "I heard that humans require\nbreaks. Are you all right to\nkeep going?",
+    "option1": "AAAAAA==",
+    "showName": "Caroline",
+    "option2": "AAAAAA=="
+  },
+  {
+    "sn": "1080026",
+    "strContent": "Please confirm after selecting a Phantom Thief.\n*You are free to change your Phantom Thief selection before you start drawing.",
+    "option1": "AAAAAA==",
+    "showName": "AAAAAA==",
+    "option2": "AAAAAA=="
+  },
+  {
     "sn": "1209306",
     "strContent": "All treasure has been found.",
     "option1": "AAAAAA==",
@@ -26839,14 +27028,14 @@
   },
   {
     "sn": "1209434",
-    "strContent": "Please go to City Life to perform activities and raise your social stats.",
+    "strContent": "Please go to City Life to carry out activities and raise your social stats.",
     "option1": "AAAAAA==",
     "showName": "AAAAAA==",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1209435",
-    "strContent": "Please go to City Life to perform schedules and raise your Synergy Rank.",
+    "strContent": "Please go to City Life to carry out activities and raise your Synergy Rank.",
     "option1": "AAAAAA==",
     "showName": "AAAAAA==",
     "option2": "AAAAAA=="
@@ -27749,7 +27938,7 @@
   },
   {
     "sn": "1214001",
-    "strContent": "Are you sure you want to finish viewing?\nYou will be able to watch your rewind again.\nAfter you've finished viewing, you can share your rewind to receive rewards.",
+    "strContent": "Would you like to finish viewing?\nYou will be able to watch your rewind again.\nAfter you've finished viewing, you can share your rewind to receive rewards.",
     "option1": "Confirm",
     "showName": "L<#000000,u,#FFFFFF>fel",
     "option2": "Never mind."
@@ -31900,56 +32089,56 @@
   },
   {
     "sn": "1301001",
-    "strContent": "No more uses. Unable to set participation",
+    "strContent": "This Phantom Thief cannot be assigned to the party because they have used all their challenge attempts.",
     "option1": "AAAAAA==",
     "showName": "AAAAAA==",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1301002",
-    "strContent": "You must deploy at least 3 Phantom Thieves before starting the challenge.",
+    "strContent": "Please form a party of 3 Phantom Thieves.",
     "option1": "AAAAAA==",
     "showName": "AAAAAA==",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1301003",
-    "strContent": "Not enough Spiritual Endurance, unable to challenge.",
+    "strContent": "Not enough Willpower, unable to challenge.",
     "option1": "AAAAAA==",
     "showName": "AAAAAA==",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1301004",
-    "strContent": "Cannot Challenge. There are currently Phantom Thieves in your lineup that do not have enough challenge attempts.",
+    "strContent": "This party can't enter battle because it includes a Phantom Thief who has used all their challenge attempts.",
     "option1": "AAAAAA==",
     "showName": "AAAAAA==",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1301005",
-    "strContent": "Consumed <color=#ffc000>Spiritual Endurance</color> and <color=#ffc000>participation counts</color> will be <color=#ffc000>reset</color>, and <color=#FF423F>challenge results</color> will be <color=#FF423F>abandoned</color>. Confirm?",
+    "strContent": "Do you want to retreat?\nYour Willpower and challenge attempts will be reverted to their state prior to battle.",
     "option1": "Confirm",
     "showName": "L<#000000,u,#FFFFFF>fel",
     "option2": "Never mind."
   },
   {
     "sn": "1301006",
-    "strContent": "Consumed <color=#ffc000>Spiritual Endurance</color> and <color=#ffc000>participation counts</color> will be <color=#ffc000>reset</color>, and <color=#FF423F>challenge results</color> will be <color=#FF423F>abandoned</color>. Confirm?",
+    "strContent": "Your <color=#ffc000>Willpower</color> and <color=#ffc000>challenge attempts</color> spent to battle at the Stella will be restored, and the Stella will be reverted to not cleared status.\nDo you still want to continue?",
     "option1": "Confirm",
     "showName": "L<#000000,u,#FFFFFF>fel",
     "option2": "Never mind."
   },
   {
     "sn": "1301007",
-    "strContent": "Consumed <color=#ffc000>Spiritual Endurance</color> and <color=#ffc000>participation counts</color> will be <color=#ffc000>returned</color>, and after Monitoring Points are <color=#FF423F>reoccupied</color>, you will be able to challenge a new Monitoring Point. Confirm?",
+    "strContent": "Do you want to reset?\nYour <color=#ffc000>Willpower</color> and <color=#ffc000>challenge attempts</color> spent to battle at the Stella will be restored.\nThe Stella will be reverted to not cleared status, so you will need to clear it again in order to take on new Stella.",
     "option1": "Confirm",
     "showName": "L<#000000,u,#FFFFFF>fel",
     "option2": "Never mind."
   },
   {
     "sn": "1301008",
-    "strContent": "Please <color=#FF423F>reoccupy</color> the monitoring point you already passed before taking on the challenge again.",
+    "strContent": "You need to clear the Stella that you have already passed before you can take this on.",
     "option1": "AAAAAA==",
     "showName": "AAAAAA==",
     "option2": "AAAAAA=="
@@ -31991,7 +32180,7 @@
   },
   {
     "sn": "1302001",
-    "strContent": "Unlocked at Synergy Rank 17 with Kotone Montagne",
+    "strContent": "Unlocks at Synergy Rank 17 with Kotone Montagne",
     "option1": "AAAAAA==",
     "showName": "AAAAAA==",
     "option2": "AAAAAA=="
@@ -32747,21 +32936,21 @@
   },
   {
     "sn": "1301009",
-    "strContent": "You will <color=#FF423F>lose</color> your progress for <color=#FF423F>all Monitoring Points</color>, and all of your used <color=#ffc000>Spiritual Endurance</color> and <color=#ffc000>Attempts</color> will be <color=#ffc000>returned</color>. Once you have <color=#FF423F>reclaimed</color> all Monitoring Points, you will be able to resume the challenge. Proceed?",
+    "strContent": "Do you want to reset?\nAll Stella will be reset, and your <color=#ffc000>Willpower</color> and <color=#ffc000>challenge attempts</color> spent to battle will be restored. The Stella will be reverted to not cleared status, so you will need to clear them again in order to take on new Stella.",
     "option1": "Confirm",
     "showName": "L<#000000,u,#FFFFFF>fel",
     "option2": "Cancel"
   },
   {
     "sn": "1301010",
-    "strContent": "Successfully reset the Monitoring Points.",
+    "strContent": "Stella reset successfully.",
     "option1": "AAAAAA==",
     "showName": "AAAAAA==",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1301011",
-    "strContent": "This play mode is unlocked at level 70.",
+    "strContent": "Unlocks at level 70.",
     "option1": "AAAAAA==",
     "showName": "AAAAAA==",
     "option2": "AAAAAA=="
@@ -32827,6 +33016,146 @@
     "strContent": "Progress in the mission Beach! Metaverse!",
     "option1": "AAAAAA==",
     "showName": "AAAAAA==",
+    "option2": "AAAAAA=="
+  },
+  {
+    "sn": "1135701",
+    "strContent": "Well, where are we going?\nHurry up and make a decision!",
+    "option1": "AAAAAA==",
+    "showName": "Caroline",
+    "option2": "AAAAAA=="
+  },
+  {
+    "sn": "1135702",
+    "strContent": "Let's go, Caroline.",
+    "option1": "AAAAAA==",
+    "showName": "Justine",
+    "option2": "AAAAAA=="
+  },
+  {
+    "sn": "1135703",
+    "strContent": "We're up, Justine!",
+    "option1": "AAAAAA==",
+    "showName": "Caroline",
+    "option2": "AAAAAA=="
+  },
+  {
+    "sn": "1135704",
+    "strContent": "Looks like you require\nour help.",
+    "option1": "AAAAAA==",
+    "showName": "Justine",
+    "option2": "AAAAAA=="
+  },
+  {
+    "sn": "1135705",
+    "strContent": "Don't you dare bore us!",
+    "option1": "AAAAAA==",
+    "showName": "Caroline",
+    "option2": "AAAAAA=="
+  },
+  {
+    "sn": "1135706",
+    "strContent": "This seems to be the place.",
+    "option1": "AAAAAA==",
+    "showName": "Justine",
+    "option2": "AAAAAA=="
+  },
+  {
+    "sn": "1135707",
+    "strContent": "Let's do this, Justine!",
+    "option1": "AAAAAA==",
+    "showName": "Caroline",
+    "option2": "AAAAAA=="
+  },
+  {
+    "sn": "1135708",
+    "strContent": "Let's be on our way, Caroline.",
+    "option1": "AAAAAA==",
+    "showName": "Justine",
+    "option2": "AAAAAA=="
+  },
+  {
+    "sn": "1135709",
+    "strContent": "Hurry up already, Justine.",
+    "option1": "AAAAAA==",
+    "showName": "Caroline",
+    "option2": "AAAAAA=="
+  },
+  {
+    "sn": "1135710",
+    "strContent": "Let's finish this.",
+    "option1": "AAAAAA==",
+    "showName": "Justine",
+    "option2": "AAAAAA=="
+  },
+  {
+    "sn": "1135711",
+    "strContent": "Is this... it...?",
+    "option1": "AAAAAA==",
+    "showName": "Caroline",
+    "option2": "AAAAAA=="
+  },
+  {
+    "sn": "1135712",
+    "strContent": "I guess... this is it...",
+    "option1": "AAAAAA==",
+    "showName": "Justine",
+    "option2": "AAAAAA=="
+  },
+  {
+    "sn": "1135713",
+    "strContent": "Not bad!",
+    "option1": "AAAAAA==",
+    "showName": "Caroline",
+    "option2": "AAAAAA=="
+  },
+  {
+    "sn": "1135714",
+    "strContent": "How could I possibly... lose?",
+    "option1": "AAAAAA==",
+    "showName": "Justine",
+    "option2": "AAAAAA=="
+  },
+  {
+    "sn": "1135715",
+    "strContent": "No way!",
+    "option1": "AAAAAA==",
+    "showName": "Caroline",
+    "option2": "AAAAAA=="
+  },
+  {
+    "sn": "1135716",
+    "strContent": "Huh, now this is interesting.",
+    "option1": "AAAAAA==",
+    "showName": "Caroline",
+    "option2": "AAAAAA=="
+  },
+  {
+    "sn": "1135717",
+    "strContent": "Nicely done.",
+    "option1": "AAAAAA==",
+    "showName": "Justine",
+    "option2": "AAAAAA=="
+  },
+  {
+    "sn": "1135718",
+    "strContent": "Huh... Not bad at all!",
+    "option1": "AAAAAA==",
+    "showName": "Caroline",
+    "option2": "AAAAAA=="
+  },
+  {
+    "sn": "1135719",
+    "strContent": "Guess we'll call it here for\ntoday!",
+    "option1": "AAAAAA==",
+    "showName": "Caroline",
+    "option2": "AAAAAA=="
+  },
+  {
+    "sn": "1135720",
+    "strContent": "Time to head back.",
+    "option1": "AAAAAA==",
+    "showName": "Justine",
     "option2": "AAAAAA=="
   },
   {

@@ -1417,7 +1417,7 @@
   {
     "sn": "1015",
     "name": "Special Effect",
-    "desc": "If an ally deals weakness damage, they gain 4 Charge Field stacks at the end of their action.\nCharge Field: Increase final damage by 5%. This effect lasts 2 turns and can stack up to 8 times."
+    "desc": "If an ally deals weakness damage, they gain 4 Charge Field stacks at the end of their action.\nCharge Field: Increase final damage by 5%. This effect lasts for turns and stacks up to 8 times."
   },
   {
     "sn": "1016",
@@ -1428,6 +1428,11 @@
     "sn": "1017",
     "name": "Special Effect",
     "desc": "After dealing damage with skills or Resonance, gain 1 Impact stack.\nImpact: Deal 5% final damage for each stack. Lasts for 2 turns. Stacks up to 8 times."
+  },
+  {
+    "sn": "1039",
+    "name": "Infestation",
+    "desc": "For each type of attribute damage dealt, gain 1 Erosion of the Masses stack.\nErosion of the Masses: Increase final damage by 10% for each stack. Lasts for 2 turns. Stacks up to 4 times."
   },
   {
     "sn": "2001",
@@ -1658,6 +1663,31 @@
     "sn": "4512",
     "name": "Special Effect",
     "desc": "Psychokinesis/Nuclear/Bless/Curse allies' final damage is increased by 30%. Other allies' final damage is decreased by 30%."
+  },
+  {
+    "sn": "743",
+    "name": "Painting Effect",
+    "desc": "Painting Effect Active"
+  },
+  {
+    "sn": "744",
+    "name": "Painting Effect",
+    "desc": "Painting Effect Active"
+  },
+  {
+    "sn": "745",
+    "name": "Painting Effect",
+    "desc": "Painting Effect Active"
+  },
+  {
+    "sn": "746",
+    "name": "Painting Effect",
+    "desc": "Painting Effect Active"
+  },
+  {
+    "sn": "747",
+    "name": "Painting Effect",
+    "desc": "Painting Effect Active"
   },
   {
     "sn": "4513",
@@ -1925,6 +1955,11 @@
     "desc": "All foes' Attack is increased by 10%."
   },
   {
+    "sn": "2025",
+    "name": "Special Effect",
+    "desc": "When allies deal <color=#FFFC40>Almighty damage</color>, the party's Attack is increased by 30% and damage dealt is increased by 20% for 2 turns."
+  },
+  {
     "sn": "7014",
     "name": "Special Effect",
     "desc": "All foes' damage is increased by 10%."
@@ -1952,7 +1987,7 @@
   {
     "sn": "7030",
     "name": "Special Effect",
-    "desc": "Party's damage dealt is greatly increased, and their damage taken is greatly decreased."
+    "desc": "Party's final damage is greatly increased, and their damage taken is greatly decreased. Before allies' actions, all foes' affinities change to Weak."
   },
   {
     "sn": "7031",
@@ -2400,6 +2435,11 @@
     "desc": "Zouchouten's Growth of All Things also decreases damage taken by 20%. Zouchouten's max HP is increased by 80%."
   },
   {
+    "sn": "4515",
+    "name": "Special Effect",
+    "desc": "When allies deal <color=#FFFC40>Almighty damage</color>, the party's final damage is increased by 60% for 2 turns."
+  },
+  {
     "sn": "8213",
     "name": "Special Effect",
     "desc": "Targets marked by Koumokuten's Eye of Heaven take 10% increased damage. Koumokuten's Attack is increased by 10%."
@@ -2663,5 +2703,30 @@
     "sn": "8723",
     "name": "Shield Theurgy III",
     "desc": "The shield granted by Shield Theurgy is increased by 50%, the target's Defense is increased by 50%, and Thoth's max HP is increased by 100%."
+  },
+  {
+    "sn": "7201",
+    "name": "Harvest Mother",
+    "desc": "When Parvati activates Mediarahan, the target's Attack and Defense increase more for 2 turns."
+  },
+  {
+    "sn": "7202",
+    "name": "Benevolent Protection",
+    "desc": "Parvati applies Qi Barrier more frequently.\nShadows with Qi Barrier take decreased final damage."
+  },
+  {
+    "sn": "7203",
+    "name": "Glitter of Gold",
+    "desc": "Parvati activates Mother's Revelation every turn."
+  },
+  {
+    "sn": "7204",
+    "name": "Raging God",
+    "desc": "When Shiva activates Dance of Destruction, for each Wisdom stack spent, the skill damage multiplier is greatly increased. After activating Dance of Destruction, Shiva gains 1 Wisdom stack."
+  },
+  {
+    "sn": "7205",
+    "name": "Seal of Destruction",
+    "desc": "Shiva's Divine Dancer's Leap has greatly enhanced healing reduction and Defense decrease effects."
   }
 ]

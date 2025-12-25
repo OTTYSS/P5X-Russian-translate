@@ -6320,6 +6320,406 @@
     "skillTag": "AAAAAA=="
   },
   {
+    "sn": "146101",
+    "name": "Melee Attack",
+    "desc": "Deal Physical damage to 1 foe.",
+    "descSimple": "AAAAAA==",
+    "levelUpList": "Melee Dmg",
+    "levelUpValue": "6.7%,13.3%,20.0%,26.7%,33.3%,40.0%,46.7%,51.3%,56.0%,59.3%,62.7%,66.0%,69.3%,72.7%",
+    "contentBG": "AAAAAA==",
+    "skillTag": "AAAAAA=="
+  },
+  {
+    "sn": "146102",
+    "name": "tnxotb-[Skill_name_146102]",
+    "desc": "tnxotb-[Skill_desc_146102]",
+    "descSimple": "AAAAAA==",
+    "levelUpList": "AAAAAA==",
+    "levelUpValue": "AAAAAA==",
+    "contentBG": "AAAAAA==",
+    "skillTag": "AAAAAA=="
+  },
+  {
+    "sn": "146103",
+    "name": "tnxotb-[Skill_name_146103]",
+    "desc": "tnxotb-[Skill_desc_146103]",
+    "descSimple": "AAAAAA==",
+    "levelUpList": "AAAAAA==",
+    "levelUpValue": "AAAAAA==",
+    "contentBG": "AAAAAA==",
+    "skillTag": "AAAAAA=="
+  },
+  {
+    "sn": "146104",
+    "name": "tnxotb-[Skill_name_146104]",
+    "desc": "tnxotb-[Skill_desc_146104]",
+    "descSimple": "AAAAAA==",
+    "levelUpList": "AAAAAA==",
+    "levelUpValue": "AAAAAA==",
+    "contentBG": "AAAAAA==",
+    "skillTag": "AAAAAA=="
+  },
+  {
+    "sn": "146105",
+    "name": "tnxotb-[Skill_name_146105]",
+    "desc": "tnxotb-[Skill_desc_146105]",
+    "descSimple": "AAAAAA==",
+    "levelUpList": "AAAAAA==",
+    "levelUpValue": "AAAAAA==",
+    "contentBG": "AAAAAA==",
+    "skillTag": "AAAAAA=="
+  },
+  {
+    "sn": "146106",
+    "name": "tnxotb-[Skill_name_146106]",
+    "desc": "tnxotb-[Skill_desc_146106]",
+    "descSimple": "AAAAAA==",
+    "levelUpList": "AAAAAA==",
+    "levelUpValue": "AAAAAA==",
+    "contentBG": "AAAAAA==",
+    "skillTag": "AAAAAA=="
+  },
+  {
+    "sn": "146107",
+    "name": "tnxotb-[Skill_name_146107]",
+    "desc": "tnxotb-[Skill_desc_146107]",
+    "descSimple": "AAAAAA==",
+    "levelUpList": "AAAAAA==",
+    "levelUpValue": "AAAAAA==",
+    "contentBG": "AAAAAA==",
+    "skillTag": "AAAAAA=="
+  },
+  {
+    "sn": "146108",
+    "name": "tnxotb-[Skill_name_146108]",
+    "desc": "tnxotb-[Skill_desc_146108]",
+    "descSimple": "AAAAAA==",
+    "levelUpList": "AAAAAA==",
+    "levelUpValue": "AAAAAA==",
+    "contentBG": "AAAAAA==",
+    "skillTag": "AAAAAA=="
+  },
+  {
+    "sn": "146111",
+    "name": "Mask of Mischief & Innocence",
+    "desc": "Deal Fire damage to 1 foe equal to <color=#FFFC40>^%s^</color> of Attack and Ice damage equal to <color=#FFFC40>^%s^</color> of Attack (1 hit each; increase this effect by 1% for every 1 point of <link=\"s|271\"><u>Desire Level</u></link>). Also, increase party's Attack by <color=#FFFC40>^%s^</color> × Desire Level points / 100 for 3 turns.\nGain <link=\"s|273\"><u>Facade</u></link> of Mischief & Innocence.",
+    "descSimple": "Fire dmg to 1 foe (%s Atk) and Ice dmg (%s Atk), 1 hit each (increase this skill's effect 1% per 1 Desire Level). Increase party's Atk %s × Desire Level / 100 (3 turns).\nGain Facade of Mischief & Innocence.",
+    "levelUpList": "Fire Dmg Multiplier,Ice Dmg Multiplier,Atk Increase",
+    "levelUpValue": "AAAAAA==",
+    "contentBG": "Combine the powers of Jack-o'-Lantern and Jack Frost to deal Fire and Ice damage to an enemy.",
+    "skillTag": "Single-Target"
+  },
+  {
+    "sn": "146211",
+    "name": "Mask of Service & Admonition",
+    "desc": "Deal Electric damage to 1 foe equal to <color=#FFFC40>^%s^</color> of Attack and Wind damage equal to <color=#FFFC40>^%s^</color> of Attack (1 hit each; increase this effect by 1% for every 1 point of <link=\"s|271\"><u>Desire Level</u></link>). Also, decrease party's damage taken by <color=#FFFC40>^%s^</color>, plus <color=#FFFC40>^%s^</color> × Desire Level points / 100 more for 3 turns. Also, restore party's HP by <color=#FFFC40>^%s^</color> of Justine & Caroline's Attack + <color=#FFFC40>^%s^</color>.\nGain <link=\"s|273\"><u>Facade</u></link> of Service & Admonition.",
+    "descSimple": "Elec dmg to 1 foe (%s Atk) and Wind dmg (%s Atk), 1 hit each (increase this effect 1% per 1 Desire Level). Decrease party's dmg taken %s, plus %s × Desire Level / 100 more (3 turns). Also, restore party's HP (%s Atk + %s).\nGain Facade of Service & Admonition.",
+    "levelUpList": "Elec Dmg Multiplier,Wind Dmg Multiplier,Dmg Taken Decrease,Extra Dmg Taken Decrease,Healing Multiplier,Base Healing",
+    "levelUpValue": "AAAAAA==",
+    "contentBG": "Combine the powers of Agathion and Sudama to deal Electric and Wind damage to an enemy.",
+    "skillTag": "Single-Target"
+  },
+  {
+    "sn": "146311",
+    "name": "Mask of Absurdity & Nonsense",
+    "desc": "Deal Psychokinesis damage to 1 foe equal to <color=#FFFC40>^%s^</color> of Attack and Nuclear damage equal to <color=#FFFC40>^%s^</color> of Attack (1 hit each; increase this effect by 1% for every 1 point of <link=\"s|271\"><u>Desire Level</u></link>). Also, increase pierce rate for Justine & Caroline and the Sweeper or Assassin ally with the highest Attack by <color=#FFFC40>^%s^</color>, plus <color=#FFFC40>^%s^</color> x Desire Level points / 100 more for 3 turns.\nGain <link=\"s|273\"><u>Facade</u></link> of Absurdity & Nonsense.",
+    "descSimple": "Psy dmg to 1 foe (%s Atk) and Nuke dmg (%s Atk), 1 hit each (increase this effect 1% per 1 Desire Level). For Justine & Caroline and Sweeper or Assassin ally with highest Atk, increase pierce rate %s, plus %s × Desire Level / 100 more (3 turns).\nGain Facade of Absurdity & Nonsense.",
+    "levelUpList": "Psy Dmg Multiplier,Nuke Dmg Multiplier,Pierce Rate Increase,Extra Pierce Rate Increase",
+    "levelUpValue": "AAAAAA==",
+    "contentBG": "Combine the powers of Mandrake and Onmoraki to deal Psychokinesis and Nuclear damage to an enemy.",
+    "skillTag": "Single-Target"
+  },
+  {
+    "sn": "146411",
+    "name": "Mask of Luck & Loss",
+    "desc": "Deal Bless damage to 1 foe equal to <color=#FFFC40>^%s^</color> of Attack and Curse damage equal to <color=#FFFC40>^%s^</color> of Attack (1 hit each; increase this effect by 1% for every point of <link=\"s|271\"><u>Desire Level</u></link>).\nAlso, increase Justine & Caroline's Attack by <color=#FFFC40>^%s^</color>, plus <color=#FFFC40>^%s^</color> × Desire Level points / 100 more; damage dealt by <color=#FFFC40>^%s^</color>, <color=#FFFC40>^%s^</color> × Desire Level points / 100 more; and critical rate by <color=#FFFC40>^%s^</color> <color=#FFFC40>^%s^</color> × Desire Level points / 100 more for 3 turns.\nGain <link=\"s|273\"><u>Facade</u></link> of Luck & Loss.",
+    "descSimple": "Bless dmg to 1 foe (%s Atk) and Curse dmg (%s Atk), 1 hit each (increase this skill's effect 1% per 1 Desire Level).\nIncrease Justine & Caroline's Atk %s, plus %s × Desire Level / 100 more; dmg dealt %s, plus %s × Desire Level / 100 more; and crit rate %s, plus %s × Desire Level / 100 more (3 turns).\nGain Facade of Luck & Loss.",
+    "levelUpList": "Bless Dmg Multiplier,Curse Dmg Multiplier,Atk Increase,Extra Atk Increase,Dmg Increase,Extra Dmg Increase,Critical Rate Increase,Extra Critical Rate Increase",
+    "levelUpValue": "AAAAAA==",
+    "contentBG": "Combine the powers of Shiisaa and Bugs to deal Bless and Curse damage to an enemy.",
+    "skillTag": "Single-Target"
+  },
+  {
+    "sn": "146511",
+    "name": "Two Masks as One",
+    "desc": "Usable when any 2 types of <link=\"s|273\"><u>Facade</u></link> have been gained. Deal Almighty damage to 1 foe equal to <color=#FFFC40>^%s^</color> of Attack (increase this effect by 1% for every 1 point of <link=\"s|271\"><u>Desire Level</u></link>). Also, spend all Facades to activate the following effects based on their combination.\nFacade of Mischief & Innocence + Facade of Service & Admonition: Restore party's HP equal to <color=#FFFC40>^%s^</color> of Attack + <color=#FFFC40>^%s^</color>. Also, increase party's damage dealt by <color=#FFFC40>^%s^</color> x Desire Level points / 100 for 2 turns.\nFacade of Mischief & Innocence + Facade of Absurdity & Nonsense: Grant other allies <color=#FFFC40>^%s^</color> of <link=\"s|272\"><u>Skill Amplification</u></link> for 2 turns. Also, increase party's critical damage by <color=#FFFC40>^%s^</color> x Desire Level points / 100.\nSkill Amplification: Increase the values of skills and Thief Tactics that are increased when leveled up. This effect is calculated separately from other effects.\nFacade of Mischief & Innocence + Facade of Luck & Loss: Change this skill's target to all foes.\nFacade of Service & Admonition + Facade of Absurdity & Nonsense: Grant all allies a shield equal to <color=#FFFC40>^%s^</color> of Justine & Caroline's Attack + <color=#FFFC40>^%s^</color> and 1 Down Point for 2 turns. Also, increase party's Defense by <color=#FFFC40>^%s^</color> x Desire Level points / 100.\nFacade of Service & Admonition + Facade of Luck & Loss: Inflict <link=\"s|104\"><u>Shock</u></link>, <link=\"s|105\"><u>Windswept</u></link> and 2 <link=\"s|112\"><u>Curse</u></link> stacks on the main target, and gain 2 <link=\"s|111\"><u>Blessing</u></link> stacks. These effects last for 2 turns. Also, decrease all foes' Defense by <color=#FFFC40>^%s^</color> plus <color=#FFFC40>^%s^</color> x Desire Level points / 100 for 2 turns.\nFacade of Absurdity & Nonsense + Facade of Luck & Loss: This skill deals 1 more hit of Almighty damage. Also, gain Rebel Surveillance for 2 turns.\nRebel Surveillance: When using a skill, temporarily gain <color=#FFFC40>^%s^</color> of <link=\"s|274\"><u>Effects</u></link> stats from the Sweeper or Assassin ally with the highest Attack (excluding Justine & Caroline).",
+    "descSimple": "Usable when any 2 Facade stacks have been gained. Almighty dmg to 1 foe (%s Atk; increase this effect 1% per 1 Desire Level). Spend all Facade stacks to activate the following effects based on their combination.\nFacade of Mischief & Innocence + Facade of Service & Admonition: Restore party's HP (%s Atk + %s). Increase party's dmg dealt %s x Desire Level / 100 (2 turns).\nFacade of Mischief & Innocence + Facade of Absurdity & Nonsense: Grant other allies Skill Amplification (%s, 2 turns). Increase other allies' crit dmg %s x Desire Level / 100 (2 turns).\nSkill Amplification: Increase effects of skills and Thief Tactics that are increased when leveled up. This effect is calculated separately from other effects.\nFacade of Mischief & Innocence + Facade of Luck & Loss: Change this skill's target to all foes.\nFacade of Service & Admonition + Facade of Absurdity & Nonsense: Grant all allies shield (%s of Justine & Caroline's Atk + %s) and 1 Down Point. Also, increase party's Def %s x Desire Level / 100 (2 turns).\nFacade of Service & Admonition + Facade of Luck & Loss: Inflict Shock, Windswept and 2 Curse on main target, and gain 2 Blessing (2 turns). Also decrease all foes' Def %s + %s x Desire Level / 100 (2 turns).\nFacade of Absurdity & Nonsense + Facade of Luck & Loss: Deal 1 more hit of Almighty dmg from this skill. Gain Rebel Surveillance (2 turns).\nRebel Surveillance: When using a skill, grant %s of Effects stats from Sweeper or Assassin ally with highest Atk (excluding Justine & Caroline).",
+    "levelUpList": "Almighty Dmg Multiplier,Healing Multiplier,Base Healing,Dmg Increase,Skill Amplification,Crit Dmg Increase,Shield Multiplier,Base Shield,Def Increase,Def Decrease,Extra Def Decrease,Effect Enhancement +",
+    "levelUpValue": "AAAAAA==",
+    "contentBG": "With the power of the Velvet Room's attendants, harness a variety of Facades to grant various effects.",
+    "skillTag": "Single-Target"
+  },
+  {
+    "sn": "146131",
+    "name": "Overseer of Rehabilitation",
+    "desc": "At the start of battle, gain more <link=\"s|271\"><u>Desire Level</u></link> stacks based on Justine & Caroline's base stats.\nFor every 100 points of Attack, gain 1 Desire Level (up to <color=#FFFC40>^%s^</color>).\nFor every 2% of Damage Mult. +, gain 1 Desire Level (up to <color=#FFFC40>^%s^</color>).\nFor every 6% of Critical Multiplier above 100%, gain 1 Desire Level (up to <color=#FFFC40>^%s^</color>).",
+    "descSimple": "AAAAAA==",
+    "levelUpList": "AAAAAA==",
+    "levelUpValue": "AAAAAA==",
+    "contentBG": "AAAAAA==",
+    "skillTag": "Talent"
+  },
+  {
+    "sn": "146132",
+    "name": "Oxymoron",
+    "desc": "Gain stat bonuses based on the selected Persona combinations:\nMask of Mischief & Innocence + Mask of Service & Admonition: Increase healing by <color=#FFFC40>^%s^</color>. Also, when on the field, increase party's damage dealt by <color=#FFFC40>^%s^</color>.\nMask of Mischief & Innocence + Mask of Absurdity & Nonsense: Increase Speed by 5. Also, when on the field, increase party's Attack by <color=#FFFC40>^%s^</color>.\nMask of Mischief & Innocence + Mask of Luck & Loss: Increase critical rate by <color=#FFFC40>^%s^</color>.\nMask of Service & Admonition + Mask of Absurdity & Nonsense: Increase Justine & Caroline's shield by <color=#FFFC40>^%s^</color>.\nMask of Service & Admonition + Mask of Luck & Loss: Increase Speed by 5. Also, when on the field, increase all foes' damage taken by <color=#FFFC40>^%s^</color>.\nMask of Absurdity & Nonsense + Mask of Luck & Loss: Increase critical damage by <color=#FFFC40>^%s^</color>.",
+    "descSimple": "AAAAAA==",
+    "levelUpList": "AAAAAA==",
+    "levelUpValue": "AAAAAA==",
+    "contentBG": "AAAAAA==",
+    "skillTag": "Talent"
+  },
+  {
+    "sn": "146140",
+    "name": "Twin Wardens",
+    "desc": "After obtaining Justine & Caroline, during battle, increase Wonder's skill and Thief Tactics levels by 1 (takes effect even when Justine & Caroline are not in battle).\nBefore entering battle, Justine & Caroline can select 2 of their 4 sets of Personas, and their Skill 1 and Skill 2 will change accordingly. During battle, Justine & Caroline will receive the following role effect based on the selected sets:\nMask of Mischief & Innocence + Mask of Service & Admonition: Medic\nMask of Mischief & Innocence + Mask of Absurdity & Nonsense: Strategist\nMask of Mischief & Innocence + Mask of Luck & Loss: Sweeper\nMask of Service & Admonition + Mask of Absurdity & Nonsense: Guardian\nMask of Service & Admonition + Mask of Luck & Loss: Saboteur\nMask of Absurdity & Nonsense + Mask of Luck & Loss: Assassin\nSkill effects are affected by <link=\"s|271\"><u>Desire Level</u></link>. At the start of battle, increase Desire Level by 25.",
+    "descSimple": "AAAAAA==",
+    "levelUpList": "AAAAAA==",
+    "levelUpValue": "AAAAAA==",
+    "contentBG": "AAAAAA==",
+    "skillTag": "AAAAAA=="
+  },
+  {
+    "sn": "146141",
+    "name": "Strict Tolerance",
+    "desc": "At the start of battle, depending on the selected Personas, gain 2 types of <link=\"s|273\"><u>Facade</u></link>.\nAt the start or end of Justine & Caroline's turn, if they have 2 types of Facade, automatically activate Two Masks as One on a random target 1 time (prioritizing the target of the previous skill attack used).",
+    "descSimple": "AAAAAA==",
+    "levelUpList": "AAAAAA==",
+    "levelUpValue": "AAAAAA==",
+    "contentBG": "AAAAAA==",
+    "skillTag": "AAAAAA=="
+  },
+  {
+    "sn": "146142",
+    "name": "Callous Kindness",
+    "desc": "When a <link=\"s|273\"><u>Facade</u></link> is gained, gain the following buff based on the type of Facade:\nFacade of Mischief & Innocence: Increase party's Attack by 30% for 2 turns.\nFacade of Service & Admonition: Decrease party's damage taken by 20% for 2 turns.\nFacade of Absurdity & Nonsense: Increase critical damage of the Assassin or Sweeper ally with the highest Attack by 20% for 2 turns.\nFacade of Luck & Loss: Increase Justine & Caroline's skill damage by 10% for 2 turns.",
+    "descSimple": "AAAAAA==",
+    "levelUpList": "AAAAAA==",
+    "levelUpValue": "AAAAAA==",
+    "contentBG": "AAAAAA==",
+    "skillTag": "AAAAAA=="
+  },
+  {
+    "sn": "146143",
+    "name": "Punitive Mercy",
+    "desc": "Increase the skill levels of Selected Skill 1 and Two Masks as One by 3.",
+    "descSimple": "AAAAAA==",
+    "levelUpList": "AAAAAA==",
+    "levelUpValue": "AAAAAA==",
+    "contentBG": "AAAAAA==",
+    "skillTag": "AAAAAA=="
+  },
+  {
+    "sn": "146144",
+    "name": "Execution of Rebirth",
+    "desc": "When Justine & Caroline activate their Highlight, increase their Attack by 40%, damage dealt by 20%, and grant 50% of these effects to other allies for 2 turns.",
+    "descSimple": "AAAAAA==",
+    "levelUpList": "AAAAAA==",
+    "levelUpValue": "AAAAAA==",
+    "contentBG": "AAAAAA==",
+    "skillTag": "AAAAAA=="
+  },
+  {
+    "sn": "146145",
+    "name": "Humane Prison",
+    "desc": "Increase the skill levels of Selected Skill 2 and Thief Tactics by 3.",
+    "descSimple": "AAAAAA==",
+    "levelUpList": "AAAAAA==",
+    "levelUpValue": "AAAAAA==",
+    "contentBG": "AAAAAA==",
+    "skillTag": "AAAAAA=="
+  },
+  {
+    "sn": "146146",
+    "name": "Power to Resist Ruin",
+    "desc": "When this Awareness is unlocked, during battle, increase Wonder's skill and Thief Tactics levels by 1 (takes effect even when Justine & Caroline are not in battle). Also, increase <link=\"s|271\"><u>Desire Level</u></link> by 20%.\nAt the start of battle, gain True Desire. Afterwards, regain True Desire every 8 turns if it has been spent.\nDuring Justine & Caroline's turn, spend 1 True Desire stack to enhance the next activated Two Masks as One.\nEnhanced effect: Activate all <link=\"s|273\"><u>Facade</u></link> effects for Two Masks as One. Also, deal bonus damage to the main target equal to 40% of Attack (8 hits. Increase this skill's effect by 1% for every 1 point of Desire Level. These bonus attacks deal 1 hit of Fire, Ice, Electric, Wind, Psychokinesis, Nuclear, Bless, and Curse damage each.)",
+    "descSimple": "AAAAAA==",
+    "levelUpList": "AAAAAA==",
+    "levelUpValue": "AAAAAA==",
+    "contentBG": "AAAAAA==",
+    "skillTag": "AAAAAA=="
+  },
+  {
+    "sn": "146151",
+    "name": "1 MORE",
+    "desc": "Deal Almighty damage to 1 foe.",
+    "descSimple": "AAAAAA==",
+    "levelUpList": "1 More Dmg",
+    "levelUpValue": "6.7%,13.3%,20.0%,26.7%,33.3%,40.0%,46.7%,51.3%,56.0%,59.3%,62.7%,66.0%,69.3%,72.7%",
+    "contentBG": "AAAAAA==",
+    "skillTag": "AAAAAA=="
+  },
+  {
+    "sn": "146152",
+    "name": "Highlight",
+    "desc": "Increase party's Attack by <color=#FFFC40>^%s^</color> and damage dealt by <color=#FFFC40>^%s^</color> for 2 turns.",
+    "descSimple": "Increase party's Atk %s and dmg %s (2 turns).",
+    "levelUpList": "AAAAAA==",
+    "levelUpValue": "AAAAAA==",
+    "contentBG": "AAAAAA==",
+    "skillTag": "AAAAAA=="
+  },
+  {
+    "sn": "146153",
+    "name": "Highlight",
+    "desc": "Restore party's HP by <color=#FFFC40>^%s^</color> of Justine & Caroline's Attack + <color=#FFFC40>^%s^</color>.\nAlso increase the party's max HP by <color=#FFFC40>^%s^</color> for 2 turns.",
+    "descSimple": "Restore party's HP (%s Atk + %s).\nAlso increase party's max HP %s (2 turns).",
+    "levelUpList": "AAAAAA==",
+    "levelUpValue": "AAAAAA==",
+    "contentBG": "AAAAAA==",
+    "skillTag": "AAAAAA=="
+  },
+  {
+    "sn": "146154",
+    "name": "Highlight",
+    "desc": "Deal Psychokinesis damage to 1 foe equal to <color=#FFFC40>^%s^</color> of Attack, and deal Nuclear damage equal to <color=#FFFC40>^%s^</color> of Attack (1 hit each).\nIncrease Attack by <color=#FFFC40>^%s^</color> for Justine & Caroline and the ally with the highest Attack (prioritizing Sweepers and Assassins).",
+    "descSimple": "Psy dmg to 1 foe (%s Atk), and Nuke dmg (%s Atk), 1 hit each.\nIncrease Atk %s for Justine & Caroline and ally with highest Atk (prioritizing Assassins and Sweepers, 2 turns).",
+    "levelUpList": "AAAAAA==",
+    "levelUpValue": "AAAAAA==",
+    "contentBG": "AAAAAA==",
+    "skillTag": "AAAAAA=="
+  },
+  {
+    "sn": "146155",
+    "name": "Highlight",
+    "desc": "Deal Bless damage to all foes equal to <color=#FFFC40>^%s^</color> of Attack, and Curse damage equal to <color=#FFFC40>^%s^</color> of Attack (1 hit each).\nFor 2 turns, increase Justine & Caroline's Attack by <color=#FFFC40>^%s^</color> and critical damage by <color=#FFFC40>^%s^</color>.",
+    "descSimple": "Bless dmg to all foes (%s Atk), and Curse dmg (%s Atk), 1 hit each.\nIncrease Justine & Caroline's Atk %s and crit dmg %s.",
+    "levelUpList": "AAAAAA==",
+    "levelUpValue": "AAAAAA==",
+    "contentBG": "AAAAAA==",
+    "skillTag": "AAAAAA=="
+  },
+  {
+    "sn": "146161",
+    "name": "Ranged Attack",
+    "desc": "Deal Gun damage to 1 foe. Can fire until out of ammo.",
+    "descSimple": "AAAAAA==",
+    "levelUpList": "Ranged Dmg",
+    "levelUpValue": "6.7%,13.3%,20.0%,26.7%,33.3%,40.0%,46.7%,51.3%,56.0%,59.3%,62.7%,66.0%,69.3%,72.7%",
+    "contentBG": "AAAAAA==",
+    "skillTag": "AAAAAA=="
+  },
+  {
+    "sn": "146156",
+    "name": "Highlight",
+    "desc": "When activating a Highlight, choose 1 of the 2 selected Persona sets and activate its Highlight below (cooldown times for each Highlight are calculated independently).\nMask of Mischief & Innocence: Increase the party's Attack by <color=#FFFC40>^%s^</color> and damage by <color=#FFFC40>^%s^</color> for 2 turns.\nMask of Service & Admonition: Restore the party's HP by <color=#FFFC40>^%s^</color> of Justine & Caroline's Attack + <color=#FFFC40>^%s^</color>.\nIncrease the party's max HP by <color=#FFFC40>^%s^</color> for 2 turns.\nMask of Absurdity & Nonsense: Deal Psychokinesis damage to 1 foe equal to <color=#FFFC40>^%s^</color> of Attack, and Nuclear damage equal to <color=#FFFC40>^%s^</color> of Attack (1 hit each).\nIncrease Attack by <color=#FFFC40>^%s^</color> for Justine & Caroline and the ally with the highest Attack (prioritizing Assassins or Sweepers).\nMask of Luck & Loss: Deal Bless damage to all foes equal to <color=#FFFC40>^%s^</color> of Attack, and deal Curse damage equal to <color=#FFFC40>^%s^</color> of Attack (1 hit each).\nFor 2 turns, increase Justine & Caroline's Attack by <color=#FFFC40>^%s^</color> and critical damage by <color=#FFFC40>^%s^</color>.",
+    "descSimple": "When activating Highlight, choose 1 of the 2 selected Persona sets and activate its Highlight below (cooldown times for each Highlight are calculated independently).\nMask of Mischief & Innocence: Increase party's Atk %s and dmg %s (2 turns).\nMask of Service & Admonition: Restore party's HP by %s of Justine & Caroline's Atk + %s. Increase party's max HP %s (2 turns).\nMask of Absurdity & Nonsense: Psy dmg to 1 foe (%s Atk), and Nuke dmg (%s Atk), 1 hit each. Increase Atk %s for Justine & Caroline and ally with highest Atk (prioritizing Assassin/Sweeper).\nMask of Luck & Loss: Bless dmg to all foes (%s Atk), and Curse dmg (%s Atk), 1 hit each. Increase Justine & Caroline's Atk %s and crit dmg %s (2 turns).",
+    "levelUpList": "Atk Increase,Dmg Increase,Healing Multiplier,Base Healing,Max HP Increase,Psy Dmg Multiplier,Nuke Dmg Multiplier,Atk Increase,Bless Dmg Multiplier,Curse Dmg Multiplier,Atk Increase,Crit Dmg Increase",
+    "levelUpValue": "AAAAAA==",
+    "contentBG": "AAAAAA==",
+    "skillTag": "AAAAAA=="
+  },
+  {
+    "sn": "146611",
+    "name": "tnxotb-[Skill_name_146611]",
+    "desc": "AAAAAA==",
+    "descSimple": "AAAAAA==",
+    "levelUpList": "AAAAAA==",
+    "levelUpValue": "AAAAAA==",
+    "contentBG": "AAAAAA==",
+    "skillTag": "Single-Target"
+  },
+  {
+    "sn": "146711",
+    "name": "tnxotb-[Skill_name_146711]",
+    "desc": "AAAAAA==",
+    "descSimple": "AAAAAA==",
+    "levelUpList": "AAAAAA==",
+    "levelUpValue": "AAAAAA==",
+    "contentBG": "AAAAAA==",
+    "skillTag": "Single-Target"
+  },
+  {
+    "sn": "146512",
+    "name": "Two Masks as One",
+    "desc": "Can be used when <link=\"s|273\"><u>Facade</u></link> of Mischief & Innocence and Facade of Service & Admonition are both held. Deal Almighty damage to 1 foe equal to <color=#FFFC40>^%s^</color> of Attack (increase this effect by 1% for every 1 point of <link=\"s|271\"><u>Desire Level</u></link>).\nSpend all Facade stacks to restore party's HP by <color=#FFFC40>^%s^</color> of Justine & Caroline's Attack + <color=#FFFC40>^%s^</color>. Also increase the party's damage dealt by <color=#FFFC40>^%s^</color> × Desire Level points / 100 for 2 turns.",
+    "descSimple": "Can be used when Facade of Mischief & Innocence and Facade of Service & Admonition are both held. Almighty dmg to 1 foe (%s Atk; increase this effect 1% per 1 Desire Level).\nSpend all Facade stacks to restore party's HP (%s of Justine & Caroline's Atk + %s). Also increase party's dmg %s × Desire Level / 100 (2 turns).",
+    "levelUpList": "AAAAAA==",
+    "levelUpValue": "AAAAAA==",
+    "contentBG": "AAAAAA==",
+    "skillTag": "Single-Target"
+  },
+  {
+    "sn": "146513",
+    "name": "Two Masks as One",
+    "desc": "Can be used when <link=\"s|273\"><u>Facade</u></link> of Mischief & Innocence and Facade of Absurdity & Nonsense are both held. Deal Almighty damage to 1 foe equal to <color=#FFFC40>^%s^</color> of Attack (increase this skill effect by 1% for every 1 point of <link=\"s|271\"><u>Desire Level</u></link>).\nSpend all Facade stacks to grant Skill Amplification equal to <color=#FFFC40>^%s^</color> <link=\"s|272\"><u>Skill Amplification</u></link> stacks to other allies for 2 turns. Also, increase party's critical damage by <color=#FFFC40>^%s^</color> × Desire Level points / 100.\nSkill Amplification: Increase the values of skills and Thief Tactics that are increased when leveled up. This effect is calculated independently of other effects.",
+    "descSimple": "Can be used when Facade of Mischief & Innocence and Facade of Absurdity & Nonsense are both held. Almighty dmg to 1 foe (%s Atk; increase this effect 1% per 1 Desire Level).\nSpend all Facade stacks to grant Skill Amplification (%s) to all other allies. Also increase party's crit dmg %s × Desire Level / 100 (2 turns). \nSkill Amplification: Increase values of skills and Thief Tactics that are increased when leveled up. This effect is calculated separately from other effects.",
+    "levelUpList": "AAAAAA==",
+    "levelUpValue": "AAAAAA==",
+    "contentBG": "AAAAAA==",
+    "skillTag": "Single-Target"
+  },
+  {
+    "sn": "146514",
+    "name": "Two Masks as One",
+    "desc": "Can be used when <link=\"s|273\"><u>Facade</u></link> of Mischief & Innocence and Facade of Luck & Loss are both held. Deal Almighty damage to all foes equal to <color=#FFFC40>^%s^</color> of Attack (increase this effect by 1% for every 1 point of <link=\"s|271\"><u>Desire Level</u></link>). \nSpend all Facade stacks.",
+    "descSimple": "Can be used when Facade of Mischief & Innocence and Facade of Luck & Loss are both held. Almighty dmg to all foes (%s Atk; increase this effect 1% per 1 Desire Level).\nSpend all Facade stacks.",
+    "levelUpList": "AAAAAA==",
+    "levelUpValue": "AAAAAA==",
+    "contentBG": "AAAAAA==",
+    "skillTag": "Multi-Target"
+  },
+  {
+    "sn": "146515",
+    "name": "Two Masks as One",
+    "desc": "Can be used when <link=\"s|273\"><u>Facade</u></link> of Service & Admonition and Facade of Absurdity & Nonsense are both held. Deal Almighty damage to 1 foe equal to <color=#FFFC40>^%s^</color> of Attack (increase this effect by 1% for every 1 point of <link=\"s|271\"><u>Desire Level</u></link>).\nSpend all Facade stacks to grant all allies a shield equal to <color=#FFFC40>^%s^</color> of Justine & Caroline's Attack + <color=#FFFC40>^%s^</color> and 1 Down Point for 2 turns; also, increase party's Defense by <color=#FFFC40>^%s^</color> × Desire Level points / 100.",
+    "descSimple": "Can be used when Facade of Service & Admonition and Facade of Absurdity & Nonsense are both held. Almighty dmg to 1 foe (%s Atk; increase this effect 1% per 1 Desire Level).\nSpend all Facade stacks to grant all allies a shield (%s Atk + %s) and 1 Down Point (2 turns). Also increase party's Def %s × Desire Level / 100 (2 turns).",
+    "levelUpList": "AAAAAA==",
+    "levelUpValue": "AAAAAA==",
+    "contentBG": "AAAAAA==",
+    "skillTag": "Single-Target"
+  },
+  {
+    "sn": "146516",
+    "name": "Two Masks as One",
+    "desc": "Can be used when <link=\"s|273\"><u>Facade</u></link> of Service & Admonition and Facade of Luck & Loss are both held. Deal Almighty damage to 1 foe equal to <color=#FFFC40>^%s^</color> of Attack. Increase this effect by 1% for every 1 point of <link=\"s|271\"><u>Desire Level</u></link>.\nSpend all Facade stacks to inflict <link=\"s|104\"><u>Shock</u></link> and <link=\"s|105\"><u>Windswept</u></link> on the main target, then inflict 2 <link=\"s|112\"><u>Curse</u></link> stacks and gain 2 <link=\"s|111\"><u>Blessing</u></link> stacks. These effects last for 2 turns. Decrease all foes' Defense by <color=#FFFC40>^%s^</color>, plus  <color=#FFFC40>^%s^</color> × Desire Level points / 100 more for 2 turns.",
+    "descSimple": "Can be used when Facade of Service & Admonition and Facade of Luck & Loss are both held. Almighty dmg to 1 foe (%s Atk; increase effect 1% per 1 Desire Level).\nSpend all Facade stacks to inflict Shock and Windswept on main target, then inflict 2 Curse and gain 2 Blessing (2 turns). Decrease all foes' Def %s, plus %s × Desire Level / 100 more (2 turns).",
+    "levelUpList": "AAAAAA==",
+    "levelUpValue": "AAAAAA==",
+    "contentBG": "AAAAAA==",
+    "skillTag": "Single-Target"
+  },
+  {
+    "sn": "146517",
+    "name": "Two Masks as One",
+    "desc": "Can be used when <link=\"s|273\"><u>Facade</u></link> of Absurdity & Nonsense and Facade of Luck & Loss are both held. Deal Almighty damage to 1 foe equal to <color=#FFFC40>^%s^</color> of Attack (increase this effect by 1% for every 1 point of <link=\"s|271\"><u>Desire Level</u></link>).\nSpend all Facade stacks to deal 1 more hit of Almighty damage from this skill. Also, gain Rebel Surveillance for 2 turns.\nRebel Surveillance: When using a skill, temporarily gain <color=#FFFC40>^%s^</color> of <link=\"s|274\"><u>Effects</u></link> stats from the Sweeper or Assassin ally with the highest Attack (excluding Justine & Caroline).",
+    "descSimple": "Can be used when Facade of Absurdity & Nonsense and Facade of Luck & Loss are both held. Almighty dmg to 1 foe (%s Atk; increase this effect 1% per 1 Desire Level).\nSpend all Facade stacks to deal more Almighty dmg from this skill (1 hit). Gain Rebel Surveillance (2 turns).\nRebel Surveillance: When using a skill, grant %s of Effects stats from Sweeper or Assassin ally with highest Attack (excluding Justine & Caroline).",
+    "levelUpList": "AAAAAA==",
+    "levelUpValue": "AAAAAA==",
+    "contentBG": "AAAAAA==",
+    "skillTag": "Single-Target"
+  },
+  {
+    "sn": "146518",
+    "name": "Two Masks as One",
+    "desc": "Usable when any 2 types of <link=\"s|273\"><u>Facade</u></link> have been gained. Deal Almighty damage to all foes equal to <color=#FFFC40>^%s^</color> of Attack (increase this effect by 1% for every 1 point of Desire Level).\nSpend all Facades to deal more Almighty damage from this skill (1 hit). Also, deal damage to the main target equal to 40% of Attack (8 hits; increase this effect by 1% for every 1 point of Desire Level; deal 1 hit each of Fire, Ice, Electric, Wind, Psychokinesis, Nuclear, Bless, and Curse damage for the additional attacks).\nRestore the party's HP equal to <color=#FFFC40>^%s^</color> of Attack + <color=#FFFC40>^%s^</color>. For 2 turns, increase the party's damage dealt by <color=#FFFC40>^%s^</color> × Desire Level points / 100.\nFor 2 turns, grant other allies <link=\"s|272\"><u>Skill Amplification</u></link> equal to <color=#FFFC40>^%s^</color>. Also, increase party's critical damage by <color=#FFFC40>^%s^</color> × Desire Level points / 100.\nFor 2 turns, grant all allies a shield equal to <color=#FFFC40>^%s^</color> of Justine & Caroline's Attack + <color=#FFFC40>^%s^</color> and 1 Down Point. Also, increase party's Defense by <color=#FFFC40>^%s^</color> × Desire Level points / 100.\nInflict Shock, Windswept and 2 Curse stacks on the main target, and gain 2 Blessing stacks. These effects last for 2 turns. Also, for 2 turns, decrease all foes' Defense by <color=#FFFC40>^%s^</color>, plus <color=#FFFC40>^%s^</color> × Desire Level points / 100 more.\nFor 2 turns, gain Rebel Surveillance.\nRebel Surveillance: When using a skill, temporarily gain <color=#FFFC40>^%s^</color> of <link=\"s|274\"><u>Effects</u></link> stats from the Sweeper or Assassin ally with the highest Attack (excluding Justine & Caroline).",
+    "descSimple": "Usable when any 2 types of Facade have been gained. Almighty dmg to all foes (%s Atk; increase this effect 1% per 1 Desire Level).\nSpend all Facade to deal more Almighty dmg from this skill (1 hit). Also deal more dmg to main target (40% Atk, 8 hits; increase this effect 1% per 1 point of Desire Level; deal 1 hit each of Fire, Ice, Elec, Wind, Psy, Nuke, Bless, and Curse damage for additional attacks).\nRestore party's HP (%s Atk + %s). Also increase party's dmg dealt %s × Desire Level / 100 (2 turns).\nGrant Skill Amplification (%s) to other allies (2 turns). Increase party's crit dmg %s × Desire Level / 100 (2 turns).\nGrant all allies shield (%s Atk + %s) and 1 Down Point. Also increase party's Def %s × Desire Level / 100 (2 turns).\nInflict Shock and Windswept on main target, then inflict 2 Curse and gain 2 Blessing (2 turns). Also decrease all foes' Def %s, plus %s × Desire Level / 100 more (2 turns).\nGain Rebel Surveillance (2 turns).\nRebel Surveillance: When using a skill, gain %s of Effects stats from Sweeper or Assassin ally with highest Atk (excluding Justine & Caroline).",
+    "levelUpList": "AAAAAA==",
+    "levelUpValue": "AAAAAA==",
+    "contentBG": "AAAAAA==",
+    "skillTag": "Multi-Target"
+  },
+  {
+    "sn": "146109",
+    "name": "Power to Resist Ruin",
+    "desc": "AAAAAA==",
+    "descSimple": "AAAAAA==",
+    "levelUpList": "AAAAAA==",
+    "levelUpValue": "AAAAAA==",
+    "contentBG": "AAAAAA==",
+    "skillTag": "AAAAAA=="
+  },
+  {
+    "sn": "146110",
+    "name": "Power to Resist Ruin",
+    "desc": "AAAAAA==",
+    "descSimple": "AAAAAA==",
+    "levelUpList": "AAAAAA==",
+    "levelUpValue": "AAAAAA==",
+    "contentBG": "AAAAAA==",
+    "skillTag": "AAAAAA=="
+  },
+  {
     "sn": "101102",
     "name": "AAAAAA==",
     "desc": "tnxotb-[Skill_desc_101102]",
@@ -24732,7 +25132,7 @@
   {
     "sn": "12344",
     "name": "Fell Spear's Wielder III",
-    "desc": "Increase critical rate by 17.5%. After a critical hit, inflict Fatal Thorn on foe. On the next attack with a unique skill, spend Fatal Thorn to increase skill damage by 87% with a miniscule chance to insta-kill.",
+    "desc": "Increase critical rate by 17.5%. After a critical hit, inflict Fatal Thorn on foe. On the next attack with a unique skill, spend Fatal Thorn to increase skill damage by 87% with a low chance to insta-kill.",
     "descSimple": "Increase crit rate 17.5%. After crit hit, inflict Fatal Thorn. When attacking with unique skill, spend Fatal Thorn and increase skill dmg by 87% Atk. Low chance of insta-kill.",
     "levelUpList": "AAAAAA==",
     "levelUpValue": "AAAAAA==",
@@ -33700,6 +34100,96 @@
     "skillTag": "AAAAAA=="
   },
   {
+    "sn": "3708",
+    "name": "Maziodyne",
+    "desc": "Deal Electric damage to all foes. Chance to inflict Shock for 2 turns.",
+    "descSimple": "AAAAAA==",
+    "levelUpList": "AAAAAA==",
+    "levelUpValue": "AAAAAA==",
+    "contentBG": "AAAAAA==",
+    "skillTag": "Multi-Target"
+  },
+  {
+    "sn": "3709",
+    "name": "Riot Gun",
+    "desc": "Decrease this skill's accuracy by 15%, increase critical rate by 20%, and deal Gun damage to all foes. If this skill defeats a foe, gain 1 Wisdom stack.",
+    "descSimple": "AAAAAA==",
+    "levelUpList": "AAAAAA==",
+    "levelUpValue": "AAAAAA==",
+    "contentBG": "AAAAAA==",
+    "skillTag": "Multi-Target"
+  },
+  {
+    "sn": "3710",
+    "name": "Dance of Destruction",
+    "desc": "Spend all Wisdom stacks, and deal Psychokinesis damage to all foes. Increase skill damage based on the number of Wisdom stacks spent.",
+    "descSimple": "AAAAAA==",
+    "levelUpList": "AAAAAA==",
+    "levelUpValue": "AAAAAA==",
+    "contentBG": "AAAAAA==",
+    "skillTag": "Multi-Target"
+  },
+  {
+    "sn": "3711",
+    "name": "Divine Dancer's Leap",
+    "desc": "Deal Almighty damage to all foes. Decrease Defense and healing received, and further decrease Defense for each stack of Wisdom. This effect lasts for 3 turns and does not stack.",
+    "descSimple": "AAAAAA==",
+    "levelUpList": "AAAAAA==",
+    "levelUpValue": "AAAAAA==",
+    "contentBG": "AAAAAA==",
+    "skillTag": "Debuff"
+  },
+  {
+    "sn": "3712",
+    "name": "Karmic Alteration",
+    "desc": "Gain Wisdom at the start of each turn. When Parvati is defeated, gain 1 more Wisdom. Lose 1 Wisdom each time damage of a different attribute is taken. (Up to one per attribute, count resets at the start of the turn).",
+    "descSimple": "AAAAAA==",
+    "levelUpList": "AAAAAA==",
+    "levelUpValue": "AAAAAA==",
+    "contentBG": "AAAAAA==",
+    "skillTag": "Passive,Buff"
+  },
+  {
+    "sn": "3713",
+    "name": "Mediarahan",
+    "desc": "Restore HP to all allies.",
+    "descSimple": "AAAAAA==",
+    "levelUpList": "AAAAAA==",
+    "levelUpValue": "AAAAAA==",
+    "contentBG": "AAAAAA==",
+    "skillTag": "Multi-Heal"
+  },
+  {
+    "sn": "3714",
+    "name": "Qi Barrier",
+    "desc": "Grant 1 Qi Barrier stack to all allies, and change all affinities to Null for 1 turn.",
+    "descSimple": "AAAAAA==",
+    "levelUpList": "AAAAAA==",
+    "levelUpValue": "AAAAAA==",
+    "contentBG": "AAAAAA==",
+    "skillTag": "Buff"
+  },
+  {
+    "sn": "3715",
+    "name": "Mother's Revelation",
+    "desc": "Grant 3 Wisdom stacks to Shiva. If user's HP is below 50%, grant 1 more stack.",
+    "descSimple": "AAAAAA==",
+    "levelUpList": "AAAAAA==",
+    "levelUpValue": "AAAAAA==",
+    "contentBG": "AAAAAA==",
+    "skillTag": "Buff"
+  },
+  {
+    "sn": "3716",
+    "name": "Avatar of Love and Hate",
+    "desc": "AAAAAA==",
+    "descSimple": "AAAAAA==",
+    "levelUpList": "AAAAAA==",
+    "levelUpValue": "AAAAAA==",
+    "contentBG": "AAAAAA==",
+    "skillTag": "AAAAAA=="
+  },
+  {
     "sn": "4011",
     "name": "Fell Flame",
     "desc": "Deal Curse damage to 1 foe.",
@@ -35954,6 +36444,16 @@
     "name": "Blaze Charm",
     "desc": "Deal medium Fire damage to target.",
     "descSimple": "Medium Fire dmg to target.",
+    "levelUpList": "AAAAAA==",
+    "levelUpValue": "AAAAAA==",
+    "contentBG": "AAAAAA==",
+    "skillTag": "AAAAAA=="
+  },
+  {
+    "sn": "5746",
+    "name": "Nativity & Power",
+    "desc": "When equipped by Justine & Caroline: Increase <link=\"s|271\"><u>Desire Level</u></link> by <color=%s>5%</color>.",
+    "descSimple": "AAAAAA==",
     "levelUpList": "AAAAAA==",
     "levelUpValue": "AAAAAA==",
     "contentBG": "AAAAAA==",
@@ -39333,6 +39833,46 @@
     "sn": "52158",
     "name": "Flight of the Swan",
     "desc": "AAAAAA==",
+    "descSimple": "AAAAAA==",
+    "levelUpList": "AAAAAA==",
+    "levelUpValue": "AAAAAA==",
+    "contentBG": "AAAAAA==",
+    "skillTag": "AAAAAA=="
+  },
+  {
+    "sn": "54621",
+    "name": "Warden's Warning",
+    "desc": "Increase Attack by <color=#2899FF>^%s^</color>.",
+    "descSimple": "AAAAAA==",
+    "levelUpList": "AAAAAA==",
+    "levelUpValue": "AAAAAA==",
+    "contentBG": "AAAAAA==",
+    "skillTag": "AAAAAA=="
+  },
+  {
+    "sn": "54631",
+    "name": "Rebel's Punishment",
+    "desc": "When dealing Almighty damage, increase damage dealt by <color=#2899FF>^%s^</color>.",
+    "descSimple": "AAAAAA==",
+    "levelUpList": "AAAAAA==",
+    "levelUpValue": "AAAAAA==",
+    "contentBG": "AAAAAA==",
+    "skillTag": "AAAAAA=="
+  },
+  {
+    "sn": "54641",
+    "name": "Light of Rehabilitation",
+    "desc": "Increase Attack by <color=#2899FF>^%s^</color>.\nWhen Two Masks as One is activated, increase Attack by <color=#2899FF>^%s^</color> for 2 turns.",
+    "descSimple": "AAAAAA==",
+    "levelUpList": "AAAAAA==",
+    "levelUpValue": "AAAAAA==",
+    "contentBG": "AAAAAA==",
+    "skillTag": "AAAAAA=="
+  },
+  {
+    "sn": "54651",
+    "name": "One-Winged Butterfly",
+    "desc": "Increase Attack by <color=#2899FF>^%s^</color>.\nWhen Two Masks as One is activated, increase <link=\"s|271\"><u>Desire Level</u></link> by <color=#2899FF>^%s^</color>.\nWhen a <link=\"s|273\"><u>Facade</u></link> is gained, increase party's critical damage by <color=#2899FF>^%s^</color> and damage dealt by <color=#2899FF>^%s^</color> for 2 turns. Stacks up to 2 times.",
     "descSimple": "AAAAAA==",
     "levelUpList": "AAAAAA==",
     "levelUpValue": "AAAAAA==",

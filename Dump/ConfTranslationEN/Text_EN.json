@@ -121,7 +121,7 @@
   },
   {
     "sn": "1000040",
-    "textContent": "Valid until: %s/%s/%s, %s:%s"
+    "textContent": "Valid until: {1}/{2}/{0}, {3}:{4}"
   },
   {
     "sn": "1000041",
@@ -452,6 +452,10 @@
     "textContent": "Sale ends in %s"
   },
   {
+    "sn": "1000129",
+    "textContent": "You still haven't gotten all the prizes yet, sugar! Are you sure you wanna reset?"
+  },
+  {
     "sn": "1011001",
     "textContent": "Turn start."
   },
@@ -645,7 +649,7 @@
   },
   {
     "sn": "1015001",
-    "textContent": "Unlocked at Synergy Rank %s with %s"
+    "textContent": "Unlocks at Synergy Rank %s with %s"
   },
   {
     "sn": "1015003",
@@ -877,7 +881,7 @@
   },
   {
     "sn": "1019502",
-    "textContent": "Wonder's Role will match the first equipped Persona."
+    "textContent": "Wonder's role changes based on his equipped Personas."
   },
   {
     "sn": "1020000",
@@ -1189,7 +1193,7 @@
   },
   {
     "sn": "1020084",
-    "textContent": "Unlocked at Synergy Rank %s with Merope"
+    "textContent": "Unlocks at Synergy Rank %s with Merope"
   },
   {
     "sn": "1020085",
@@ -1418,6 +1422,10 @@
   {
     "sn": "1020238",
     "textContent": "(Obtained from trades and cannot be traded.)"
+  },
+  {
+    "sn": "1020240",
+    "textContent": "Added to your collection on: %s"
   },
   {
     "sn": "1021001",
@@ -1697,7 +1705,7 @@
   },
   {
     "sn": "1022069",
-    "textContent": "Select the Phantom Thief you would like. This selection can be changed at any time."
+    "textContent": "The next 5★ drawn will be your selected Phantom Thief!"
   },
   {
     "sn": "1022070",
@@ -2062,6 +2070,14 @@
   {
     "sn": "1027043",
     "textContent": "You can pre-download (download amount) of game data before release.\nEven if you select cancel, you can select manual download on the title screen. Regardless of whether the download is completed, you will not be able to log in to the game until release.\nDo you want to pre-download?"
+  },
+  {
+    "sn": "1027058",
+    "textContent": "In the Control Center of the Trials from the Sea of Souls, many players have been aiming for high scores against formidable opponents.\nAs of Version 2.5, the highest confirmed score was <color=#EF0000>239,318,662</color>."
+  },
+  {
+    "sn": "1027059",
+    "textContent": "In the Gates of the Nightmare Catcher, Companios have banded together to battle against powerful foes.\nAs of Version 2.5, the highest-scoring Companio reached a combined score of <color=#FF423F>12,960,907,848</color>."
   },
   {
     "sn": "1028001",
@@ -5541,7 +5557,7 @@
   },
   {
     "sn": "1081023",
-    "textContent": "Random main attributes for {0}-marked cards include the following: {1}"
+    "textContent": "Random main attributes for {0}-marked cards include: {1}"
   },
   {
     "sn": "1081026",
@@ -10689,7 +10705,7 @@
   },
   {
     "sn": "2002080",
-    "textContent": "Distortion"
+    "textContent": "Distortion:"
   },
   {
     "sn": "2002081",
@@ -10857,7 +10873,7 @@
   },
   {
     "sn": "2002244",
-    "textContent": "Do you want to spend [{1}{0}] to receive [{2}]?"
+    "textContent": "Do you want to spend {1}{0} to get {2}?"
   },
   {
     "sn": "2002245",
@@ -10941,23 +10957,23 @@
   },
   {
     "sn": "2002135",
-    "textContent": "<link=\"s|1001\"><u>Rank Boost Phase I</u></link>"
+    "textContent": "<link=\"s|1001\"><u>Training Boost</u></link>"
   },
   {
     "sn": "2002136",
-    "textContent": "<link=\"s|1003\"><u>Rank Boost Phase II</u></link>"
+    "textContent": "<link=\"s|1003\"><u>Training Boost</u></link>"
   },
   {
     "sn": "2002137",
-    "textContent": "<link=\"s|1004\"><u>Rank Boost Phase III</u></link>"
+    "textContent": "<link=\"s|1004\"><u>Training Boost</u></link>"
   },
   {
     "sn": "2002138",
-    "textContent": "<link=\"s|1005\"><u>Rank Boost Phase IV</u></link>"
+    "textContent": "<link=\"s|1005\"><u>Training Boost</u></link>"
   },
   {
     "sn": "2002139",
-    "textContent": "<link=\"s|1006\"><u>Rank Boost Phase V</u></link>"
+    "textContent": "<link=\"s|1006\"><u>Training Boost</u></link>"
   },
   {
     "sn": "2002140",
@@ -10965,7 +10981,7 @@
   },
   {
     "sn": "2002142",
-    "textContent": "<link=\"s|1007\"><u>Rank Boost Phase VI</u></link>"
+    "textContent": "<link=\"s|1007\"><u>Training Boost</u></link>"
   },
   {
     "sn": "2002265",
@@ -10973,27 +10989,27 @@
   },
   {
     "sn": "2002143",
-    "textContent": "Rank Boost I"
+    "textContent": "Training Boost"
   },
   {
     "sn": "2002144",
-    "textContent": "Rank Boost II"
+    "textContent": "Training Boost"
   },
   {
     "sn": "2002145",
-    "textContent": "Rank Boost III"
+    "textContent": "Training Boost"
   },
   {
     "sn": "2002146",
-    "textContent": "Rank Boost IV"
+    "textContent": "Training Boost"
   },
   {
     "sn": "2002147",
-    "textContent": "Rank Boost V"
+    "textContent": "Training Boost"
   },
   {
     "sn": "2002148",
-    "textContent": "Rank Boost VI"
+    "textContent": "Training Boost"
   },
   {
     "sn": "2002153",
@@ -11157,7 +11173,7 @@
   },
   {
     "sn": "2002219",
-    "textContent": "Least number of actions: This difficulty level has not been attempted"
+    "textContent": "Fewest actions: You haven't tried this difficulty."
   },
   {
     "sn": "2002220",
@@ -11177,7 +11193,7 @@
   },
   {
     "sn": "2002223",
-    "textContent": "Least number of actions: "
+    "textContent": "Fewest actions: "
   },
   {
     "sn": "2002224",
@@ -12277,15 +12293,15 @@
   },
   {
     "sn": "2002505",
-    "textContent": "*Text Confirmation Test Message\nUsername: <color=#EF0000>%s</color>\nDays since account creation: <color=#EF0000>%s</color>\nUser level: <color=#EF0000>%s</color>\nTotal stamina used: <color=#EF0000>%s</color>\nTotal Action Points used: <color=#EF0000>%s</color>\nTotal money spent: <color=#EF0000>%s</color>"
+    "textContent": "<color=#FF423F>%s</color>, the young man who awakened to the power of Persona. As the Phantom Thief \"Wonder\", you resolved to return the desire that had been stolen from the world.\nSince then, it has been <color=#FF423F>%s days</color>... As the leader of the Phantom Thieves, you have reached Level <color=#FF423F>%s</color>. To date, you have spent \n<color=#FF423F>%s Stamina, %s Action Points, and %s yen</color>... And you continue to give it your all as you balance your double life as a regular student and a Phantom Thief."
   },
   {
     "sn": "2002506",
-    "textContent": "*Text Confirmation Test Message\nContracted Phantom Thieves (number owned): <color=#EF0000>%s</color>\nMost-used Phantom Thieves (Top 3): <color=#EF0000>%s</color>\nMost-used Phantom Theives total rating (Top 3): <color=#EF0000>%s</color>"
+    "textContent": "So far you have forged contracts with <color=#FF423F>%s Phantom Thieves and Phantom Idols</color>.\nAmong them, <color=#FF423F>%s</color> have become your most powerful allies, with total ratings of <color=#FF423F>%s</color>.\nNo matter what dangers may come, you know these allies will have your back."
   },
   {
     "sn": "2002507",
-    "textContent": "*Text Confirmation Test Message\nSynergies unlocked: <color=#EF0000>%s</color>\nClose Friends: <color=#EF0000>%s</color>\nSoulmates: <color=#EF0000>%s</color>\nHighest Synergy Characters (Top 3): <color=#EF0000>%s</color>\nHighest Synergy Character Ranks (Top 3): <color=#EF0000>%s</color>"
+    "textContent": "In this world where desires have been stolen...\nYou have formed bonds with <color=#FF423F>%s Accomplices</color>. Among them, you became <color=#FF423F>Close Friends</color> with <color=#FF423F>%s</color> and <color=#FF423F>Soulmates</color> with <color=#FF423F>%s</color>. Your deepest bonds are with\n<color=#FF423F>%s</color>...\nYou have forged powerful connections at <color=#FF423F>Ranks %s</color>."
   },
   {
     "sn": "2002508",
@@ -12309,7 +12325,7 @@
   },
   {
     "sn": "2002511",
-    "textContent": "<color=#FEC431>%s</color>\nDays played: <color=#FEC431>%s</color> days\nContracted Phantom Thieves: <color=#FEC431>%s</color>"
+    "textContent": "After <color=#FEC431>%s</color> awakened his abilities as a Persona-user, <color=#FF423F>%s</color> days have passed...\nStill, he continues to fight for a world being sapped of desire with <color=#FEC431>%s</color> accomplices at his side."
   },
   {
     "sn": "2002491",
@@ -12333,7 +12349,7 @@
   },
   {
     "sn": "2002515",
-    "textContent": "*Text Confirmation Test Message\nAll user records as of December 1, 2025\n\nTotal battles: <color=#EF0000>[12/1 total]</color>\nPowerful Shadows defeated: <color=#EF0000>[12/1 total]</color>\nRegular Shadows defeated: <color=#EF0000>[12/1 total]</color>\nToughest story boss: <color=#EF0000>[12/1 total]</color>\nFailed attempts: <color=#EF0000>[12/1 total]</color>\nToughest Shadow: <color=#EF0000>[12/1 total]</color>\nFailed attempts: <color=#EF0000>[12/1 total]</color>"
+    "textContent": "The Phantom Thieves have fought countless battles against fearsome foes. As of Version 2.5, the most dangerous of these has been <color=#FF423F>Shadow Miyazawa</color>, forcing <color=#FF423F>72.1</color>% of Phantom Thieves to taste defeat.\nAnd in <color=#FF423F>Recollections</color>, when facing <color=#FF423F>Takeyuki Kiuchi</color> in battle, <color=#FF423F>71.8</color>% of Phantom Thieves were slammed into submission."
   },
   {
     "sn": "2002516",
@@ -12361,7 +12377,7 @@
   },
   {
     "sn": "2002522",
-    "textContent": "*Text Confirmation Test Message\n\nMost-obtained capsule toy: <color=#EF0000>[12/1 total]</color>\nComplete set collectors: <color=#EF0000>[12/1 total]</color>"
+    "textContent": "Capsule machines line the streets of the city.\nSince the start of service, the most popular series has been <color=#FF423F>Queue of 100 Demons</color>.\nSo far, <color=#FF423F>17.9%</color> of players have managed to complete the full set, and it continues to be a favorite among collectors."
   },
   {
     "sn": "2002512",
@@ -12377,7 +12393,7 @@
   },
   {
     "sn": "2002547",
-    "textContent": "Season 1 On Now!"
+    "textContent": "Season 2 <size=40>on Now</size>!"
   },
   {
     "sn": "2002548",
@@ -12549,7 +12565,7 @@
   },
   {
     "sn": "2002569",
-    "textContent": "Challenged %s times"
+    "textContent": "%s attempts"
   },
   {
     "sn": "2002570",
@@ -12565,15 +12581,15 @@
   },
   {
     "sn": "2002573",
-    "textContent": "Monitoring Points Passed: "
+    "textContent": "Stella Passed: "
   },
   {
     "sn": "2002575",
-    "textContent": "Spiritual Endurance used: "
+    "textContent": "Willpower Cost: "
   },
   {
     "sn": "2002576",
-    "textContent": "In <color=#FFC000>%s</color>: Your Spiritual Endurance will increase by <color=#FFC000>%s</color> (Max: %s). All Phantom Thieves' Challenge Attempts will increase by <color=#FFC000>%s</color> (Max: %s)."
+    "textContent": "In <color=#FFC000>%s</color>: Your Willpower will increase by <color=#FFC000>%s</color> (Max: %s).\nYour challenge attempts will increase by <color=#FFC000>%s</color> (Max: %s)."
   },
   {
     "sn": "2002577",
@@ -12613,7 +12629,7 @@
   },
   {
     "sn": "2002591",
-    "textContent": "Unlocks at Rank 17 with Kotone Montagne"
+    "textContent": "Get Kotone to Rank 17"
   },
   {
     "sn": "2002592",
@@ -12817,7 +12833,7 @@
   },
   {
     "sn": "2002718",
-    "textContent": "The trial challenge, Monitoring Point, consumes Spiritual Endurance and Phantom Thief challenge attempts.\nAfter each challenge is opened:\nIncreases every 7 days, for a total of 3 times.\nFinal Spiritual Endurance limit: <color=#FFC000>%s</color>\nChallenge attempt limit: <color=#FFC000>%s</color>"
+    "textContent": "You must use Willpower and challenge attempts to take on Stella.\nFrom the start of each trial period, your Willpower and challenge attempts will increase every 7 days, for a total of 3 times.\nMax Willpower: <color=#FFC000>%s</color>\nMax challenge attempts: <color=#FFC000>%s</color>"
   },
   {
     "sn": "2002719",
@@ -12857,19 +12873,19 @@
   },
   {
     "sn": "2002653",
-    "textContent": "Ambience Info: "
+    "textContent": "Info"
   },
   {
     "sn": "2002654",
-    "textContent": "Shadow Intel: "
+    "textContent": "Shadows"
   },
   {
     "sn": "2002655",
-    "textContent": "Challenge Party: "
+    "textContent": "Party"
   },
   {
     "sn": "2002656",
-    "textContent": "Challenge Rewards: "
+    "textContent": "Rewards"
   },
   {
     "sn": "2002657",
@@ -13001,7 +13017,7 @@
   },
   {
     "sn": "2002720",
-    "textContent": "Event Time Remaining:"
+    "textContent": "Event Ends in: "
   },
   {
     "sn": "2002733",
@@ -13025,7 +13041,7 @@
   },
   {
     "sn": "2002739",
-    "textContent": "Your usable Spiritual Endurance will increase by <color=#FFC000>%s</color> (max %s)."
+    "textContent": "Your usable Willpower will increase by <color=#FFC000>%s</color> (max %s)."
   },
   {
     "sn": "2002740",
@@ -13212,6 +13228,10 @@
     "textContent": "Obtain Qualia EXP when\nPhantom Thief Rating increases."
   },
   {
+    "sn": "2303022",
+    "textContent": "Challenge Mode hasn't been cleared yet."
+  },
+  {
     "sn": "2303025",
     "textContent": "Premium Rewards (Partial)"
   },
@@ -13246,6 +13266,14 @@
   {
     "sn": "2002789",
     "textContent": "Wishing you prosperity and good fortune!"
+  },
+  {
+    "sn": "2002794",
+    "textContent": "#{0}"
+  },
+  {
+    "sn": "2002795",
+    "textContent": "Current {0}%%"
   },
   {
     "sn": "2303207",
@@ -13344,6 +13372,58 @@
     "textContent": "Preview"
   },
   {
+    "sn": "2303383",
+    "textContent": "Challenge Info"
+  },
+  {
+    "sn": "2303384",
+    "textContent": "Clear Details"
+  },
+  {
+    "sn": "2303385",
+    "textContent": "Clear Rewards"
+  },
+  {
+    "sn": "2303410",
+    "textContent": "Boss's HP Left"
+  },
+  {
+    "sn": "2303417",
+    "textContent": "For the best gameplay experience, this event is recommended for players who have <color=#FF423F>witnessed the third Phantom Thief's awakening</color>."
+  },
+  {
+    "sn": "2303418",
+    "textContent": "Deployed Party: "
+  },
+  {
+    "sn": "2303429",
+    "textContent": "Reward Details"
+  },
+  {
+    "sn": "2303430",
+    "textContent": "Fair Luck"
+  },
+  {
+    "sn": "2303431",
+    "textContent": "Average Luck"
+  },
+  {
+    "sn": "2303432",
+    "textContent": "Good Luck"
+  },
+  {
+    "sn": "2303433",
+    "textContent": "Slight Luck"
+  },
+  {
+    "sn": "2303434",
+    "textContent": "Fortune Results"
+  },
+  {
+    "sn": "2303435",
+    "textContent": "Rewards"
+  },
+  {
     "sn": "2303438",
     "textContent": "Wonder-only Outfit: "
   },
@@ -13354,6 +13434,74 @@
   {
     "sn": "2303440",
     "textContent": "Futaba-only Outfit:"
+  },
+  {
+    "sn": "2303462",
+    "textContent": "Unlocks in %s d"
+  },
+  {
+    "sn": "2303492",
+    "textContent": "Draw a Fortune"
+  },
+  {
+    "sn": "2303064",
+    "textContent": "Deploy Members"
+  },
+  {
+    "sn": "2303069",
+    "textContent": "HP Left"
+  },
+  {
+    "sn": "2303070",
+    "textContent": "Phantom Thieves"
+  },
+  {
+    "sn": "2303071",
+    "textContent": "Boss HP Left"
+  },
+  {
+    "sn": "2303072",
+    "textContent": "Actions"
+  },
+  {
+    "sn": "2303073",
+    "textContent": "Recommended Party"
+  },
+  {
+    "sn": "2303074",
+    "textContent": "Ranking badges will be sent to your Inbox after the event ends."
+  },
+  {
+    "sn": "2303078",
+    "textContent": "Stage %s"
+  },
+  {
+    "sn": "2303079",
+    "textContent": "Actions: "
+  },
+  {
+    "sn": "2303080",
+    "textContent": "Challenge Attempts Left: "
+  },
+  {
+    "sn": "2303083",
+    "textContent": "Challenge Attempts Left"
+  },
+  {
+    "sn": "2303084",
+    "textContent": "Not Attempted"
+  },
+  {
+    "sn": "2303510",
+    "textContent": "Ultramarine Outfit Set\n<color=#FFFC40>On sale for a limited time</color> in the Shop!"
+  },
+  {
+    "sn": "2303511",
+    "textContent": "Wonder-only Outfit: "
+  },
+  {
+    "sn": "2303052",
+    "textContent": "Play Next Stage"
   },
   {
     "sn": "2303516",
@@ -13382,5 +13530,65 @@
   {
     "sn": "2303541",
     "textContent": "Rank Rewards"
+  },
+  {
+    "sn": "2303551",
+    "textContent": "Obtain Justine & Caroline (%s/1)"
+  },
+  {
+    "sn": "2303552",
+    "textContent": "Raise character to level 20 (%s/20)"
+  },
+  {
+    "sn": "2303553",
+    "textContent": "Clear Recollections of Fate on difficulty 15 in Crossroads of Fate: Twins Arc."
+  },
+  {
+    "sn": "2303554",
+    "textContent": "Clear Recollections of Fate on difficulty 10 in Crossroads of Fate: Twins Arc."
+  },
+  {
+    "sn": "2303555",
+    "textContent": "Clear Stage 1 of Crossroads of Fate: Twins Arc."
+  },
+  {
+    "sn": "2303556",
+    "textContent": "Clear Stage 3 of Crossroads of Fate: Twins Arc."
+  },
+  {
+    "sn": "2303558",
+    "textContent": "Clear Stage 5 of Crossroads of Fate: Twins Arc."
+  },
+  {
+    "sn": "2303559",
+    "textContent": "Obtain the Ultramarine Outfit Set at Marthym's Shop."
+  },
+  {
+    "sn": "2303560",
+    "textContent": "Obtain Down in the Deep at Marthym's Shop."
+  },
+  {
+    "sn": "2303343",
+    "textContent": "Clear %s"
+  },
+  {
+    "sn": "2303344",
+    "textContent": "Clear %s"
+  },
+  {
+    "sn": "2303387",
+    "textContent": "Attempt at Lv. %s."
+  },
+  {
+    "sn": "2303017",
+    "textContent": "Clear Lv. "
+  },
+  {
+    "sn": "2303018",
+    "textContent": "<color=#ffffff>  </color>"
+  },
+  {
+    "sn": "2303392",
+    "textContent": "Selections: <color=#D70100>%s</color>/%s"
   }
 ]

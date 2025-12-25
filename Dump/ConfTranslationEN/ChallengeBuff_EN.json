@@ -72,7 +72,7 @@
   {
     "sn": "15",
     "buffName": "Phase Interference",
-    "buffDesc": "When an ally deals weakness damage, they gain 4 <link=\"dc|205\"><u>Charge Field</u></link> stacks."
+    "buffDesc": "When an ally deals weakness damage, gain 4 <link=\"dc|205\"><u>Charge Field</u></link> stacks."
   },
   {
     "sn": "16",
@@ -83,5 +83,10 @@
     "sn": "17",
     "buffName": "Transfinite Collapse",
     "buffDesc": "After dealing damage with skills or Resonance, gain 1 Impact stack. Impact: Deal 5% final damage for each stack. Lasts for 2 turns. Stacks up to 8 times."
+  },
+  {
+    "sn": "39",
+    "buffName": "Infestation",
+    "buffDesc": "For each type of attribute damage dealt, gain 1 Erosion of the Masses stack.\nErosion of the Masses: Increase final damage by 10% for each stack. Lasts for 2 turns. Stacks up to 4 times."
   }
 ]

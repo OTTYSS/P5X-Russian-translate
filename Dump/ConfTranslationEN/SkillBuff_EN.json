@@ -47,7 +47,7 @@
   {
     "sn": "1171091",
     "title": "Data Storm",
-    "desc": "Increase dmg by %s. If dealing weakness dmg, double this dmg increase.",
+    "desc": "Increase dmg by %s. If dealing weakness dmg, increase effect further.",
     "BuffDesc": "D<color=#000000>a</color>ta Storm",
     "addText": "AAAAAA==",
     "removeText": "AAAAAA==",
@@ -4513,6 +4513,465 @@
     "title": "Floriography: Chamomile",
     "desc": "Increase shield gained by %s.",
     "BuffDesc": "F<color=#000000>l</color>oriography: Chamomile",
+    "addText": "AAAAAA==",
+    "removeText": "AAAAAA==",
+    "calText": "AAAAAA=="
+  },
+  {
+    "sn": "1461521",
+    "title": "Highlight",
+    "desc": "Increase Atk by %s.",
+    "BuffDesc": "A<color=#000000>t</color>tack Up",
+    "addText": "AAAAAA==",
+    "removeText": "AAAAAA==",
+    "calText": "AAAAAA=="
+  },
+  {
+    "sn": "1461111",
+    "title": "Facade of Mischief & Innocence",
+    "desc": "Gained Facade of Mischief & Innocence.",
+    "BuffDesc": "F<color=#000000>a</color>cade of Mischief & Innocence",
+    "addText": "AAAAAA==",
+    "removeText": "AAAAAA==",
+    "calText": "AAAAAA=="
+  },
+  {
+    "sn": "1462111",
+    "title": "Facade of Service & Admonition",
+    "desc": "Gained Facade of Service & Admonition.",
+    "BuffDesc": "F<color=#000000>a</color>cade of Service & Admonition",
+    "addText": "AAAAAA==",
+    "removeText": "AAAAAA==",
+    "calText": "AAAAAA=="
+  },
+  {
+    "sn": "1463111",
+    "title": "Facade of Absurdity & Nonsense",
+    "desc": "Gained Facade of Absurdity & Nonsense.",
+    "BuffDesc": "F<color=#000000>a</color>cade of Absurdity & Nonsense",
+    "addText": "AAAAAA==",
+    "removeText": "AAAAAA==",
+    "calText": "AAAAAA=="
+  },
+  {
+    "sn": "1464111",
+    "title": "Facade of Luck & Loss",
+    "desc": "Gained Facade of Luck & Loss.",
+    "BuffDesc": "F<color=#000000>a</color>cade of Luck & Loss",
+    "addText": "AAAAAA==",
+    "removeText": "AAAAAA==",
+    "calText": "AAAAAA=="
+  },
+  {
+    "sn": "1465121",
+    "title": "Two Masks As One",
+    "desc": "Increase dmg by %s.",
+    "BuffDesc": "T<color=#000000>w</color>o Masks as One",
+    "addText": "AAAAAA==",
+    "removeText": "AAAAAA==",
+    "calText": "AAAAAA=="
+  },
+  {
+    "sn": "1465151",
+    "title": "Two Masks As One",
+    "desc": "Shield: %s",
+    "BuffDesc": "T<color=#000000>w</color>o Masks as One",
+    "addText": "AAAAAA==",
+    "removeText": "AAAAAA==",
+    "calText": "AAAAAA=="
+  },
+  {
+    "sn": "1465152",
+    "title": "Two Masks As One",
+    "desc": "Increase Def by %s.",
+    "BuffDesc": "T<color=#000000>w</color>o Masks as One",
+    "addText": "AAAAAA==",
+    "removeText": "AAAAAA==",
+    "calText": "AAAAAA=="
+  },
+  {
+    "sn": "1465161",
+    "title": "Two Masks As One",
+    "desc": "Decrease Def by %s.",
+    "BuffDesc": "T<color=#000000>w</color>o Masks as One",
+    "addText": "AAAAAA==",
+    "removeText": "AAAAAA==",
+    "calText": "AAAAAA=="
+  },
+  {
+    "sn": "1465162",
+    "title": "Windswept",
+    "desc": "Decrease Def by 12%.",
+    "BuffDesc": "W<color=#000000>i</color>ndswept",
+    "addText": "AAAAAA==",
+    "removeText": "AAAAAA==",
+    "calText": "AAAAAA=="
+  },
+  {
+    "sn": "1465163",
+    "title": "Shock",
+    "desc": "Increase rate of taking critical hits by 10%.",
+    "BuffDesc": "S<color=#000000>h</color>ock",
+    "addText": "AAAAAA==",
+    "removeText": "AAAAAA==",
+    "calText": "AAAAAA=="
+  },
+  {
+    "sn": "1465164",
+    "title": "Curse",
+    "desc": "Continuously decrease HP.",
+    "BuffDesc": "C<color=#000000>u</color>rse",
+    "addText": "AAAAAA==",
+    "removeText": "AAAAAA==",
+    "calText": "AAAAAA=="
+  },
+  {
+    "sn": "1465165",
+    "title": "Blessing",
+    "desc": "Continuously restore HP.",
+    "BuffDesc": "B<color=#000000>l</color>essing",
+    "addText": "AAAAAA==",
+    "removeText": "AAAAAA==",
+    "calText": "AAAAAA=="
+  },
+  {
+    "sn": "1465171",
+    "title": "Rebel Surveillance",
+    "desc": "When using a skill, temporarily gain %s of Effects stats from Sweeper or Assassin ally with highest Atk (excluding Justine & Caroline).",
+    "BuffDesc": "R<color=#000000>e</color>bel Surveillance",
+    "addText": "AAAAAA==",
+    "removeText": "AAAAAA==",
+    "calText": "AAAAAA=="
+  },
+  {
+    "sn": "1461112",
+    "title": "Mask of Mischief & Innocence",
+    "desc": "Increase Atk by %s.",
+    "BuffDesc": "M<color=#000000>a</color>sk of Mischief & Innocence",
+    "addText": "AAAAAA==",
+    "removeText": "AAAAAA==",
+    "calText": "AAAAAA=="
+  },
+  {
+    "sn": "1462112",
+    "title": "Mask of Service & Admonition",
+    "desc": "Decrease dmg taken by %s.",
+    "BuffDesc": "M<color=#000000>a</color>sk of Service & Admonition",
+    "addText": "AAAAAA==",
+    "removeText": "AAAAAA==",
+    "calText": "AAAAAA=="
+  },
+  {
+    "sn": "1463112",
+    "title": "Mask of Absurdity & Nonsense",
+    "desc": "Increase pierce rate by %s.",
+    "BuffDesc": "M<color=#000000>a</color>sk of Absurdity & Nonsense",
+    "addText": "AAAAAA==",
+    "removeText": "AAAAAA==",
+    "calText": "AAAAAA=="
+  },
+  {
+    "sn": "1464112",
+    "title": "Mask of Luck & Loss",
+    "desc": "Increase Atk by %s.",
+    "BuffDesc": "M<color=#000000>a</color>sk of Luck & Loss",
+    "addText": "AAAAAA==",
+    "removeText": "AAAAAA==",
+    "calText": "AAAAAA=="
+  },
+  {
+    "sn": "1464113",
+    "title": "Mask of Luck & Loss",
+    "desc": "Increase critical rate by %s.",
+    "BuffDesc": "M<color=#000000>a</color>sk of Luck & Loss",
+    "addText": "AAAAAA==",
+    "removeText": "AAAAAA==",
+    "calText": "AAAAAA=="
+  },
+  {
+    "sn": "1464114",
+    "title": "Mask of Luck & Loss",
+    "desc": "Increase dmg by %s.",
+    "BuffDesc": "M<color=#000000>a</color>sk of Luck & Loss",
+    "addText": "AAAAAA==",
+    "removeText": "AAAAAA==",
+    "calText": "AAAAAA=="
+  },
+  {
+    "sn": "1461522",
+    "title": "Highlight",
+    "desc": "Damage Up %s",
+    "BuffDesc": "A<color=#000000>t</color>tack Up",
+    "addText": "AAAAAA==",
+    "removeText": "AAAAAA==",
+    "calText": "AAAAAA=="
+  },
+  {
+    "sn": "1461531",
+    "title": "Highlight",
+    "desc": "Increase max HP by %s.",
+    "BuffDesc": "M<color=#000000>a</color>x HP Up",
+    "addText": "AAAAAA==",
+    "removeText": "AAAAAA==",
+    "calText": "AAAAAA=="
+  },
+  {
+    "sn": "1461045",
+    "title": "Callous Kindness",
+    "desc": "Increase Atk by %s.",
+    "BuffDesc": "C<color=#000000>a</color>llous Kindness",
+    "addText": "AAAAAA==",
+    "removeText": "AAAAAA==",
+    "calText": "AAAAAA=="
+  },
+  {
+    "sn": "1461046",
+    "title": "Callous Kindness",
+    "desc": "Decrease dmg taken by %s.",
+    "BuffDesc": "C<color=#000000>a</color>llous Kindness",
+    "addText": "AAAAAA==",
+    "removeText": "AAAAAA==",
+    "calText": "AAAAAA=="
+  },
+  {
+    "sn": "1461047",
+    "title": "Callous Kindness",
+    "desc": "Increase critical dmg by %s.",
+    "BuffDesc": "C<color=#000000>a</color>llous Kindness",
+    "addText": "AAAAAA==",
+    "removeText": "AAAAAA==",
+    "calText": "AAAAAA=="
+  },
+  {
+    "sn": "1461048",
+    "title": "Callous Kindness",
+    "desc": "Increase skill dmg by 10%.",
+    "BuffDesc": "C<color=#000000>a</color>llous Kindness",
+    "addText": "AAAAAA==",
+    "removeText": "AAAAAA==",
+    "calText": "AAAAAA=="
+  },
+  {
+    "sn": "1461541",
+    "title": "Highlight",
+    "desc": "Increase Atk by %s.",
+    "BuffDesc": "AAAAAA==",
+    "addText": "AAAAAA==",
+    "removeText": "AAAAAA==",
+    "calText": "AAAAAA=="
+  },
+  {
+    "sn": "1461542",
+    "title": "Highlight",
+    "desc": "Increase Atk by %s.",
+    "BuffDesc": "AAAAAA==",
+    "addText": "AAAAAA==",
+    "removeText": "AAAAAA==",
+    "calText": "AAAAAA=="
+  },
+  {
+    "sn": "1461551",
+    "title": "Highlight",
+    "desc": "Increase Atk by %s.",
+    "BuffDesc": "AAAAAA==",
+    "addText": "AAAAAA==",
+    "removeText": "AAAAAA==",
+    "calText": "AAAAAA=="
+  },
+  {
+    "sn": "1461552",
+    "title": "Highlight",
+    "desc": "Increase critical dmg by %s.",
+    "BuffDesc": "AAAAAA==",
+    "addText": "AAAAAA==",
+    "removeText": "AAAAAA==",
+    "calText": "AAAAAA=="
+  },
+  {
+    "sn": "1461081",
+    "title": "True Desire",
+    "desc": "Spend to strengthen next activated Two Masks as One.",
+    "BuffDesc": "T<color=#000000>r</color>ue Desire",
+    "addText": "AAAAAA==",
+    "removeText": "AAAAAA==",
+    "calText": "AAAAAA=="
+  },
+  {
+    "sn": "1461091",
+    "title": "Power to Resist Ruin",
+    "desc": "Strengthen next activated Two Masks as One.",
+    "BuffDesc": "P<color=#000000>o</color>wer to Resist Ruin",
+    "addText": "AAAAAA==",
+    "removeText": "AAAAAA==",
+    "calText": "AAAAAA=="
+  },
+  {
+    "sn": "1465131",
+    "title": "Two Masks As One",
+    "desc": "Increase Skill Amplification by %s.",
+    "BuffDesc": "T<color=#000000>w</color>o Masks as One",
+    "addText": "AAAAAA==",
+    "removeText": "AAAAAA==",
+    "calText": "AAAAAA=="
+  },
+  {
+    "sn": "1463113",
+    "title": "Mask of Absurdity & Nonsense",
+    "desc": "Increase pierce rate by %s.",
+    "BuffDesc": "M<color=#000000>a</color>sk of Absurdity & Nonsense",
+    "addText": "AAAAAA==",
+    "removeText": "AAAAAA==",
+    "calText": "AAAAAA=="
+  },
+  {
+    "sn": "1461321",
+    "title": "Oxymoron",
+    "desc": "Increase recovery by %s. ",
+    "BuffDesc": "AAAAAA==",
+    "addText": "AAAAAA==",
+    "removeText": "AAAAAA==",
+    "calText": "AAAAAA=="
+  },
+  {
+    "sn": "1461322",
+    "title": "Oxymoron",
+    "desc": "Increase speed by %s.",
+    "BuffDesc": "AAAAAA==",
+    "addText": "AAAAAA==",
+    "removeText": "AAAAAA==",
+    "calText": "AAAAAA=="
+  },
+  {
+    "sn": "1461323",
+    "title": "Oxymoron",
+    "desc": "Increase critical rate by %s.",
+    "BuffDesc": "AAAAAA==",
+    "addText": "AAAAAA==",
+    "removeText": "AAAAAA==",
+    "calText": "AAAAAA=="
+  },
+  {
+    "sn": "1461324",
+    "title": "Oxymoron",
+    "desc": "Increase shield by %s.",
+    "BuffDesc": "AAAAAA==",
+    "addText": "AAAAAA==",
+    "removeText": "AAAAAA==",
+    "calText": "AAAAAA=="
+  },
+  {
+    "sn": "1461325",
+    "title": "Oxymoron",
+    "desc": "Increase speed by %s.",
+    "BuffDesc": "AAAAAA==",
+    "addText": "AAAAAA==",
+    "removeText": "AAAAAA==",
+    "calText": "AAAAAA=="
+  },
+  {
+    "sn": "1461326",
+    "title": "Oxymoron",
+    "desc": "Increase critical dmg by %s.",
+    "BuffDesc": "AAAAAA==",
+    "addText": "AAAAAA==",
+    "removeText": "AAAAAA==",
+    "calText": "AAAAAA=="
+  },
+  {
+    "sn": "1461327",
+    "title": "Oxymoron",
+    "desc": "Increase Atk by %s.",
+    "BuffDesc": "AAAAAA==",
+    "addText": "AAAAAA==",
+    "removeText": "AAAAAA==",
+    "calText": "AAAAAA=="
+  },
+  {
+    "sn": "1461328",
+    "title": "Oxymoron",
+    "desc": "Increase dmg taken by %s.",
+    "BuffDesc": "AAAAAA==",
+    "addText": "AAAAAA==",
+    "removeText": "AAAAAA==",
+    "calText": "AAAAAA=="
+  },
+  {
+    "sn": "1461022",
+    "title": "Twin Wardens",
+    "desc": "Desire Level: %s",
+    "BuffDesc": "T<color=#000000>w</color>in Wardens",
+    "addText": "AAAAAA==",
+    "removeText": "AAAAAA==",
+    "calText": "AAAAAA=="
+  },
+  {
+    "sn": "1461062",
+    "title": "Execution of Rebirth",
+    "desc": "Increase Atk by %s.",
+    "BuffDesc": "E<color=#000000>x</color>ecution of Rebirth",
+    "addText": "AAAAAA==",
+    "removeText": "AAAAAA==",
+    "calText": "AAAAAA=="
+  },
+  {
+    "sn": "1461063",
+    "title": "Execution of Rebirth",
+    "desc": "Increase dmg by %s.",
+    "BuffDesc": "E<color=#000000>x</color>ecution of Rebirth",
+    "addText": "AAAAAA==",
+    "removeText": "AAAAAA==",
+    "calText": "AAAAAA=="
+  },
+  {
+    "sn": "1461064",
+    "title": "Execution of Rebirth",
+    "desc": "Increase Atk by %s.",
+    "BuffDesc": "E<color=#000000>x</color>ecution of Rebirth",
+    "addText": "AAAAAA==",
+    "removeText": "AAAAAA==",
+    "calText": "AAAAAA=="
+  },
+  {
+    "sn": "1461065",
+    "title": "Execution of Rebirth",
+    "desc": "Increase dmg by %s.",
+    "BuffDesc": "E<color=#000000>x</color>ecution of Rebirth",
+    "addText": "AAAAAA==",
+    "removeText": "AAAAAA==",
+    "calText": "AAAAAA=="
+  },
+  {
+    "sn": "1461103",
+    "title": "Power to Resist Ruin",
+    "desc": "Increase final dmg amplification effect by %s.",
+    "BuffDesc": "P<color=#000000>o</color>wer to Resist Ruin",
+    "addText": "AAAAAA==",
+    "removeText": "AAAAAA==",
+    "calText": "AAAAAA=="
+  },
+  {
+    "sn": "1465132",
+    "title": "Two Masks As One",
+    "desc": "Increase critical dmg by %s.",
+    "BuffDesc": "T<color=#000000>w</color>o Masks as One",
+    "addText": "AAAAAA==",
+    "removeText": "AAAAAA==",
+    "calText": "AAAAAA=="
+  },
+  {
+    "sn": "1461329",
+    "title": "Oxymoron",
+    "desc": "Increase dmg by %s.",
+    "BuffDesc": "AAAAAA==",
+    "addText": "AAAAAA==",
+    "removeText": "AAAAAA==",
+    "calText": "AAAAAA=="
+  },
+  {
+    "sn": "1461049",
+    "title": "Callous Kindness",
+    "desc": "Increase critical dmg by %s.",
+    "BuffDesc": "C<color=#000000>a</color>llous Kindness",
     "addText": "AAAAAA==",
     "removeText": "AAAAAA==",
     "calText": "AAAAAA=="
@@ -12016,9 +12475,9 @@
   },
   {
     "sn": "62631",
-    "title": "Attack Position",
+    "title": "Offensive Stance",
     "desc": "Increase dmg by %s.",
-    "BuffDesc": "A<color=#000000>t</color>tack Position",
+    "BuffDesc": "O<color=#000000>f</color>fensive Stance",
     "addText": "AAAAAA==",
     "removeText": "AAAAAA==",
     "calText": "AAAAAA=="
@@ -12592,8 +13051,8 @@
   },
   {
     "sn": "39",
-    "title": "Riot Control Area",
-    "desc": "Cannot activate critical hits, but increase final damage by %s.",
+    "title": "No-Critical Zone",
+    "desc": "Cannot activate critical hits, but increase final dmg by %s based on crit rate and crit dmg.",
     "BuffDesc": "AAAAAA==",
     "addText": "AAAAAA==",
     "removeText": "AAAAAA==",
@@ -12611,7 +13070,7 @@
   {
     "sn": "41",
     "title": "Percentage Damage Down",
-    "desc": "Greatly decrease damage taken based on percentage of user's max HP.",
+    "desc": "Decrease percentage damage taken based on max HP.",
     "BuffDesc": "AAAAAA==",
     "addText": "AAAAAA==",
     "removeText": "AAAAAA==",
@@ -12620,7 +13079,7 @@
   {
     "sn": "42",
     "title": "Percentage Damage Down",
-    "desc": "Significantly decrease damage taken based on percentage of user's max HP.",
+    "desc": "Greatly decrease percentage damage taken based on max HP.",
     "BuffDesc": "AAAAAA==",
     "addText": "AAAAAA==",
     "removeText": "AAAAAA==",
@@ -12629,7 +13088,7 @@
   {
     "sn": "43",
     "title": "Percentage Damage Down",
-    "desc": "Massively decrease damage taken based on percentage of user's max HP.",
+    "desc": "Significantly decrease percentage damage taken based on max HP.",
     "BuffDesc": "AAAAAA==",
     "addText": "AAAAAA==",
     "removeText": "AAAAAA==",
@@ -18792,6 +19251,15 @@
     "calText": "AAAAAA=="
   },
   {
+    "sn": "25221",
+    "title": "Special Effect",
+    "desc": "Increase Atk by 30% and dmg dealt by 20%.",
+    "BuffDesc": "S<color=#000000>p</color>ecial Effect",
+    "addText": "AAAAAA==",
+    "removeText": "AAAAAA==",
+    "calText": "AAAAAA=="
+  },
+  {
     "sn": "25663",
     "title": "Wicked Poison",
     "desc": "At end of turn, lose HP and increase dmg taken by 10% (max 7 stacks).",
@@ -20318,6 +20786,105 @@
     "desc": "Increase dmg taken by 10%.",
     "BuffDesc": "E<color=#000000>l</color>emental Invasion",
     "addText": "Damage taken increased!",
+    "removeText": "AAAAAA==",
+    "calText": "AAAAAA=="
+  },
+  {
+    "sn": "31060",
+    "title": "Erosion of the Masses",
+    "desc": "Increase final dmg by %s.",
+    "BuffDesc": "AAAAAA==",
+    "addText": "Gained Erosion of the Masses!",
+    "removeText": "AAAAAA==",
+    "calText": "AAAAAA=="
+  },
+  {
+    "sn": "31061",
+    "title": "Erosion of the Masses",
+    "desc": "Increase final dmg by %s.",
+    "BuffDesc": "AAAAAA==",
+    "addText": "Gained Erosion of the Masses!",
+    "removeText": "AAAAAA==",
+    "calText": "AAAAAA=="
+  },
+  {
+    "sn": "31062",
+    "title": "Erosion of the Masses",
+    "desc": "Increase final dmg by %s.",
+    "BuffDesc": "AAAAAA==",
+    "addText": "Gained Erosion of the Masses!",
+    "removeText": "AAAAAA==",
+    "calText": "AAAAAA=="
+  },
+  {
+    "sn": "31063",
+    "title": "Erosion of the Masses",
+    "desc": "Increase final dmg by %s.",
+    "BuffDesc": "AAAAAA==",
+    "addText": "Gained Erosion of the Masses!",
+    "removeText": "AAAAAA==",
+    "calText": "AAAAAA=="
+  },
+  {
+    "sn": "31064",
+    "title": "Erosion of the Masses",
+    "desc": "Increase final dmg by %s.",
+    "BuffDesc": "AAAAAA==",
+    "addText": "Gained Erosion of the Masses!",
+    "removeText": "AAAAAA==",
+    "calText": "AAAAAA=="
+  },
+  {
+    "sn": "31065",
+    "title": "Erosion of the Masses",
+    "desc": "Increase final dmg by %s.",
+    "BuffDesc": "AAAAAA==",
+    "addText": "Gained Erosion of the Masses!",
+    "removeText": "AAAAAA==",
+    "calText": "AAAAAA=="
+  },
+  {
+    "sn": "31066",
+    "title": "Erosion of the Masses",
+    "desc": "Increase final dmg by %s.",
+    "BuffDesc": "AAAAAA==",
+    "addText": "Gained Erosion of the Masses!",
+    "removeText": "AAAAAA==",
+    "calText": "AAAAAA=="
+  },
+  {
+    "sn": "31067",
+    "title": "Erosion of the Masses",
+    "desc": "Increase final dmg by %s.",
+    "BuffDesc": "AAAAAA==",
+    "addText": "Gained Erosion of the Masses!",
+    "removeText": "AAAAAA==",
+    "calText": "AAAAAA=="
+  },
+  {
+    "sn": "31068",
+    "title": "Erosion of the Masses",
+    "desc": "Increase final dmg by %s.",
+    "BuffDesc": "AAAAAA==",
+    "addText": "Gained Erosion of the Masses!",
+    "removeText": "AAAAAA==",
+    "calText": "AAAAAA=="
+  },
+  {
+    "sn": "31069",
+    "title": "Erosion of the Masses",
+    "desc": "Increase final dmg by %s.",
+    "BuffDesc": "AAAAAA==",
+    "addText": "Gained Erosion of the Masses!",
+    "removeText": "AAAAAA==",
+    "calText": "AAAAAA=="
+  },
+  {
+    "sn": "31070",
+    "title": "Erosion of the Masses",
+    "desc": "Increase final dmg by %s.",
+    "BuffDesc": "AAAAAA==",
+    "addText": "Gained Erosion of the Masses!",
     "removeText": "AAAAAA==",
     "calText": "AAAAAA=="
   },
@@ -23202,6 +23769,123 @@
     "calText": "AAAAAA=="
   },
   {
+    "sn": "37081",
+    "title": "Shock",
+    "desc": "Increase critical taken rate by 10%.",
+    "BuffDesc": "S<color=#000000>h</color>ock",
+    "addText": "AAAAAA==",
+    "removeText": "AAAAAA==",
+    "calText": "AAAAAA=="
+  },
+  {
+    "sn": "37101",
+    "title": "Weakened",
+    "desc": "Cannot be targeted and unable to act.",
+    "BuffDesc": "AAAAAA==",
+    "addText": "AAAAAA==",
+    "removeText": "AAAAAA==",
+    "calText": "AAAAAA=="
+  },
+  {
+    "sn": "37111",
+    "title": "Divine Dancer's Leap",
+    "desc": "Decrease Def by %s.",
+    "BuffDesc": "D<color=#000000>i</color>vine Dancer's Leap",
+    "addText": "Defense decreased!",
+    "removeText": "AAAAAA==",
+    "calText": "AAAAAA=="
+  },
+  {
+    "sn": "37112",
+    "title": "Divine Dancer's Leap",
+    "desc": "Decrease HP Recovery Taken by %s.",
+    "BuffDesc": "D<color=#000000>i</color>vine Dancer's Leap",
+    "addText": "HP Recovery Taken decreased!",
+    "removeText": "AAAAAA==",
+    "calText": "AAAAAA=="
+  },
+  {
+    "sn": "37121",
+    "title": "Wisdom",
+    "desc": "Strengthen Dance of Destruction and Divine Dancer's Leap.",
+    "BuffDesc": "W<color=#000000>i</color>sdom",
+    "addText": "AAAAAA==",
+    "removeText": "AAAAAA==",
+    "calText": "AAAAAA=="
+  },
+  {
+    "sn": "37131",
+    "title": "Harvest Mother",
+    "desc": "Increase Atk by %s.",
+    "BuffDesc": "H<color=#000000>a</color>rvest Mother",
+    "addText": "AAAAAA==",
+    "removeText": "AAAAAA==",
+    "calText": "AAAAAA=="
+  },
+  {
+    "sn": "37132",
+    "title": "Harvest Mother",
+    "desc": "Increase Def by %s.",
+    "BuffDesc": "H<color=#000000>a</color>rvest Mother",
+    "addText": "AAAAAA==",
+    "removeText": "AAAAAA==",
+    "calText": "AAAAAA=="
+  },
+  {
+    "sn": "37141",
+    "title": "Qi Barrier",
+    "desc": "Change all affinities to Null.",
+    "BuffDesc": "Q<color=#000000>i</color> Barrier",
+    "addText": "All affinities changed to Null!",
+    "removeText": "Affinities reverted!",
+    "calText": "AAAAAA=="
+  },
+  {
+    "sn": "37142",
+    "title": "Benevolent Protection",
+    "desc": "Decrease final dmg taken by %s.",
+    "BuffDesc": "B<color=#000000>e</color>nevolent Protection",
+    "addText": "AAAAAA==",
+    "removeText": "AAAAAA==",
+    "calText": "AAAAAA=="
+  },
+  {
+    "sn": "37151",
+    "title": "Wisdom",
+    "desc": "Strengthen Dance of Destruction and Divine Dancer's Leap.",
+    "BuffDesc": "W<color=#000000>i</color>sdom",
+    "addText": "AAAAAA==",
+    "removeText": "AAAAAA==",
+    "calText": "AAAAAA=="
+  },
+  {
+    "sn": "37152",
+    "title": "Wisdom",
+    "desc": "Strengthen Dance of Destruction and Divine Dancer's Leap.",
+    "BuffDesc": "W<color=#000000>i</color>sdom",
+    "addText": "AAAAAA==",
+    "removeText": "AAAAAA==",
+    "calText": "AAAAAA=="
+  },
+  {
+    "sn": "37153",
+    "title": "Wisdom",
+    "desc": "Strengthen Dance of Destruction and Divine Dancer's Leap.",
+    "BuffDesc": "W<color=#000000>i</color>sdom",
+    "addText": "AAAAAA==",
+    "removeText": "AAAAAA==",
+    "calText": "AAAAAA=="
+  },
+  {
+    "sn": "45148",
+    "title": "Special Effect",
+    "desc": "Increase final dmg by %s.",
+    "BuffDesc": "S<color=#000000>p</color>ecial Effect",
+    "addText": "AAAAAA==",
+    "removeText": "AAAAAA==",
+    "calText": "AAAAAA=="
+  },
+  {
     "sn": "73021",
     "title": "Food Effect",
     "desc": "Restores HP by 3% at start of each turn.",
@@ -24436,7 +25120,7 @@
   },
   {
     "sn": "5151011",
-    "title": "Ranged Attack Damage Taken Up",
+    "title": "Ranged Damage Taken Up",
     "desc": "Increase ranged attack dmg taken by %s.",
     "BuffDesc": "AAAAAA==",
     "addText": "AAAAAA==",
@@ -24449,6 +25133,96 @@
     "desc": "Decrease final dmg taken by %s.",
     "BuffDesc": "C<color=#000000>o</color>ver of Night",
     "addText": "Final damage taken decreased!",
+    "removeText": "AAAAAA==",
+    "calText": "AAAAAA=="
+  },
+  {
+    "sn": "5391011",
+    "title": "Guardian's Preservation",
+    "desc": "Change Physical affinity to Resist.",
+    "BuffDesc": "AAAAAA==",
+    "addText": "AAAAAA==",
+    "removeText": "AAAAAA==",
+    "calText": "AAAAAA=="
+  },
+  {
+    "sn": "5391012",
+    "title": "Guardian's Preservation",
+    "desc": "Change Gun affinity to Resist.",
+    "BuffDesc": "AAAAAA==",
+    "addText": "AAAAAA==",
+    "removeText": "AAAAAA==",
+    "calText": "AAAAAA=="
+  },
+  {
+    "sn": "5391013",
+    "title": "Guardian's Preservation",
+    "desc": "Change Fire affinity to Resist.",
+    "BuffDesc": "AAAAAA==",
+    "addText": "AAAAAA==",
+    "removeText": "AAAAAA==",
+    "calText": "AAAAAA=="
+  },
+  {
+    "sn": "5391014",
+    "title": "Guardian's Preservation",
+    "desc": "Change Ice affinity to Resist.",
+    "BuffDesc": "AAAAAA==",
+    "addText": "AAAAAA==",
+    "removeText": "AAAAAA==",
+    "calText": "AAAAAA=="
+  },
+  {
+    "sn": "5391015",
+    "title": "Guardian's Preservation",
+    "desc": "Change Electric affinity to Resist.",
+    "BuffDesc": "AAAAAA==",
+    "addText": "AAAAAA==",
+    "removeText": "AAAAAA==",
+    "calText": "AAAAAA=="
+  },
+  {
+    "sn": "5391016",
+    "title": "Guardian's Preservation",
+    "desc": "Change Wind affinity to Resist.",
+    "BuffDesc": "AAAAAA==",
+    "addText": "AAAAAA==",
+    "removeText": "AAAAAA==",
+    "calText": "AAAAAA=="
+  },
+  {
+    "sn": "5391017",
+    "title": "Guardian's Preservation",
+    "desc": "Change Psychokinesis affinity to Resist.",
+    "BuffDesc": "AAAAAA==",
+    "addText": "AAAAAA==",
+    "removeText": "AAAAAA==",
+    "calText": "AAAAAA=="
+  },
+  {
+    "sn": "5391018",
+    "title": "Guardian's Preservation",
+    "desc": "Change Nuclear affinity to Resist.",
+    "BuffDesc": "AAAAAA==",
+    "addText": "AAAAAA==",
+    "removeText": "AAAAAA==",
+    "calText": "AAAAAA=="
+  },
+  {
+    "sn": "5391019",
+    "title": "Guardian's Preservation",
+    "desc": "Change Bless affinity to Resist.",
+    "BuffDesc": "AAAAAA==",
+    "addText": "AAAAAA==",
+    "removeText": "AAAAAA==",
+    "calText": "AAAAAA=="
+  },
+  {
+    "sn": "5391020",
+    "title": "Guardian's Preservation",
+    "desc": "Change Curse affinity to Resist.",
+    "BuffDesc": "AAAAAA==",
+    "addText": "AAAAAA==",
     "removeText": "AAAAAA==",
     "calText": "AAAAAA=="
   },
@@ -24934,6 +25708,42 @@
     "title": "Eye of the Abyss",
     "desc": "Decrease Def by %s.",
     "BuffDesc": "E<color=#000000>y</color>e of the Abyss",
+    "addText": "AAAAAA==",
+    "removeText": "AAAAAA==",
+    "calText": "AAAAAA=="
+  },
+  {
+    "sn": "546411",
+    "title": "Light of Rehabilitation",
+    "desc": "Increase Attack by %s.",
+    "BuffDesc": "AAAAAA==",
+    "addText": "AAAAAA==",
+    "removeText": "AAAAAA==",
+    "calText": "AAAAAA=="
+  },
+  {
+    "sn": "546521",
+    "title": "One-Winged Butterfly",
+    "desc": "Increase dmg by %s.",
+    "BuffDesc": "O<color=#000000>n</color>e-Winged Butterfly",
+    "addText": "AAAAAA==",
+    "removeText": "AAAAAA==",
+    "calText": "AAAAAA=="
+  },
+  {
+    "sn": "546522",
+    "title": "One-Winged Butterfly",
+    "desc": "Increase critical dmg by %s.",
+    "BuffDesc": "O<color=#000000>n</color>e-Winged Butterfly",
+    "addText": "AAAAAA==",
+    "removeText": "AAAAAA==",
+    "calText": "AAAAAA=="
+  },
+  {
+    "sn": "57461",
+    "title": "Nativity & Power",
+    "desc": "Increase Desire Level by %s.",
+    "BuffDesc": "AAAAAA==",
     "addText": "AAAAAA==",
     "removeText": "AAAAAA==",
     "calText": "AAAAAA=="
@@ -26262,21 +27072,21 @@
     "calText": "AAAAAA=="
   },
   {
+    "sn": "42032",
+    "title": "AAAAAA==",
+    "desc": "AAAAAA==",
+    "BuffDesc": "AAAAAA==",
+    "addText": "Affinities changed!",
+    "removeText": "AAAAAA==",
+    "calText": "AAAAAA=="
+  },
+  {
     "sn": "75022",
     "title": "AAAAAA==",
     "desc": "AAAAAA==",
     "BuffDesc": "AAAAAA==",
     "addText": "Affinities changed!",
     "removeText": "Affinities reverted!",
-    "calText": "AAAAAA=="
-  },
-  {
-    "sn": "511521",
-    "title": "AAAAAA==",
-    "desc": "AAAAAA==",
-    "BuffDesc": "AAAAAA==",
-    "addText": "Damage taken decreased!",
-    "removeText": "AAAAAA==",
     "calText": "AAAAAA=="
   },
   {

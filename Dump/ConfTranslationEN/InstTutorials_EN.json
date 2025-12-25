@@ -450,6 +450,11 @@
     "text": "1. At the start of battle, Lilith summons 4 servants.\nLilith and all servants are in the <color=#ff3b37>Soul Link</color> state.\nSoul Link: Distributes all damage received between all Shadows who share this condition, based on the percentage of their current HP.\n2. Each turn, Lilith grants 1 Cover of Night stack to all Shadows.\nCover of Night: Decrease final damage taken by 15% for each stack. Stacks up to 2 times.\n3. When a Shadow with Cover of Night is inflicted with an elemental ailment, remove 1 Cover of Night stack."
   },
   {
+    "sn": "539101",
+    "title": "Guardian's Preservation",
+    "text": "1. At the start of battle, Vishnu summons 4 servants. Vishnu and all servants are in the Soul Link state.\nSoul Link: Distributes all damage received between all Shadows who share this condition, based on the percentage of their current HP.\n2. When Vishnu and its servants take skill damage, they gain Guardian's Preservation based on the attribute, and that affinity is changed to Resist. This effect lasts for 2 turns."
+  },
+  {
     "sn": "701011",
     "title": "The Velvet Trials",
     "text": "At the start of its turn, Suzaku will select 1 Phantom Thief and decrease their Defense. On the next turn, it will attack the selected Phantom Thief.\n<color=#FF423F>Guarding</color> is recommended."
@@ -882,7 +887,7 @@
   {
     "sn": "753141",
     "title": "Hecatoncheires",
-    "text": "Weaknesses and resistances are different than normal.\n1. At the start of the battle, Hecatoncheires has 100 <color=#FF423F>Arms of Protection</color> stacks and reduces its damage taken based on the number of stacks. While it has Arms of Protection, it also reduces final damage taken by 70% through <color=#FF423F>Arms of Defense</color>.\n2. Hecatoncheires will summon Slime and Black Ooze.\nWhen Slime is defeated, 2 Arms of Protection stacks are removed. When Black Ooze is defeated, 10 Arms of Protection stacks are removed.\nFor each Arms of Protection stack removed, all Phantom Thieves gain <color=#FF423F>Arms of Strength</color>.\nArms of Strength: Increases damage based on the number of stacks.\n3. When Hecatoncheires has 80 or more Arms of Protection stacks, it becomes invincible and will not attack.\nDuring this time, it keeps 4 Slimes on the field, and gains 1 <color=#FF423F>Arms of Might</color> stack every turn.\nArms of Might: Increases damage based on the number of stacks.\n4. When Hecatoncheires has less than 80 Arms of Protection stacks, it loses its invincibility, and begins to attack and summon 2 Black Oozes every turn.\nWhen it takes damage, 2 Arms of Protection stacks are removed.\n5. When Arms of Protection reaches 0 stacks, Hecatoncheires enters the <color=#FF423F>Last Stand</color> state.\nLast Stand: Greatly increases final damage and changes the attack pattern."
+    "text": "Weaknesses and resistances are different than normal.\n1. At the start of the battle, Hecatoncheires has 100 <color=#FF423F>Arms of Protection</color> stacks and reduces its damage taken based on the number of stacks. While it has Arms of Protection, it also reduces final damage taken by 70% through <color=#FF423F>Arms of Defense</color>.\n2. Hecatoncheires will summon Slime and Black Ooze.\nWhen Slime is defeated, 2 Arms of Protection stacks are removed. When Black Ooze is defeated, 10 Arms of Protection stacks are removed.\nFor each Arms of Protection stack removed, all Phantom Thieves gain <color=#FF423F>Arms of Strength</color>.\nArms of Strength: Increases damage based on the number of stacks.\n3. When Hecatoncheires has 80 or more Arms of Protection stacks, it becomes invincible and will not attack.\nDuring this time, it keeps 4 Slimes on the field, and gains 1 <color=#FF423F>Arms of Might</color> stack every turn.\nArms of Might: Increases damage based on the number of stacks.\n4. When Hecatoncheires has less than 80 Arms of Protection stacks, it loses its invincibility, and begins to attack and summon 2 Black Oozes every turn.\nWhen it takes damage, 2 Arms of Protection stacks are removed.\n5. When Arms of Protection reaches 0 stacks, Hecatoncheires enters the Last Stand</color> state.\nLast Stand: Greatly increases final damage and changes the attack pattern."
   },
   {
     "sn": "900111",
@@ -1057,7 +1062,7 @@
   {
     "sn": "730111",
     "title": "Unique Shadow Abilities",
-    "text": "Dominion, Power, Principality, and Archangel are in the <color=#FF423F>Soul Link</color> state.\nSoul Link: When a Shadow with Soul Link takes damage, split the damage between all Shadows with Soul Link, based on its current HP.\nDominion will summon continuous waves of Angels. When an Angel is defeated, SP is restored.\nDominion will summon continuous waves of Angels. When an Angel is defeated, SP is restored.\nWhen Dominion is Weakened, damage dealt to Angels is added to your score."
+    "text": "Shadows have different weaknesses and resistances than normal.\nDominion, Power, Principality, and Archangel are in the <color=#FF423F>Soul Link</color> state.\nSoul Link: When a Shadow with Soul Link takes damage, split the damage between all Shadows with Soul Link, based on its current HP.\nDominion will summon continuous waves of Angels. When an Angel is defeated, SP is restored.\nDominion will summon continuous waves of Angels. When an Angel is defeated, SP is restored.When Dominion is Weakened, damage dealt to Angels is added to your score."
   },
   {
     "sn": "730611",
@@ -1132,7 +1137,7 @@
   {
     "sn": "740111",
     "title": "Unique Shadow Abilities",
-    "text": "1. Kartikeya leads its army of birds to attack all at once.\n2. When Garuda and Jatayu take damage from a Phantom Thief, that Thief's damage increases by 4%.\nLasts for 3 turns. Stacks up to 5 times.\nWhen Horus and Yatagarasu take damage from a Phantom Thief, that Thief's pierce rate increases by 2%.\nLasts for 3 turns. Stacks up to 5 times."
+    "text": "Shadows have different weaknesses and resistances than normal.\n1. Kartikeya leads its army of Shadows in a coordinated strike.\n2. When Garuda and Jatayu take damage from a Phantom Thief, that Thief's damage increases by 4%.\nLasts for 3 turns. Stacks up to 5 times.\nWhen Horus and Yatagarasu take damage from a Phantom Thief, that Thief's pierce rate increases by 2%.\nLasts for 3 turns. Stacks up to 5 times."
   },
   {
     "sn": "741111",
@@ -1345,6 +1350,11 @@
     "text": "1. Seaside Tomoko has excellent <color=#FF423F>healing and attack</color> capabilities.\nAfter inflicting a certain number of <color=#FF423F>Sparks</color> on foes, she activates <color=#FF423F>Summer Reminiscence</color>, dealing damage to enemies while also healing allies.\nTeam up with allies who use <color=#FF423F>multi-target</color> or <color=#FF423F>multi-hit</color> attacks to build up Sparks quickly.\n2. She can increase her allies' <color=#FF423F>Attack</color> and <color=#FF423F>survivability</color>.\nShe can also reduce the damage dealt by enemies and increase their damage taken, giving her <color=#FF423F>excellent support capability</color>."
   },
   {
+    "sn": "902331",
+    "title": "Shiva and Parvati",
+    "text": "1. Shiva's skills Riot Gun and Karmic Alteration, as well as Parvati's skill Mother's Revelation, will grant Wisdom. Wisdom enhances the skill effects of Dance of Destruction and Divine Dancer's Leap.\nShiva's skill Divine Dancer's Leap and Parvati's skill Mother's Revelation will be used after the phase changes.\n2. Each time Shiva takes damage of a different attribute, it loses 1 Wisdom stack (1 time for each attribute, count resets at the start of Shiva's next turn).\n3. Every time a certain number of turns passes, Parvati will activate Qi Barrier, changing all of the Shadows' affinities to Null. It is removed when taking damage that is not a continuous effect.\n4. The first time that Shiva or Parvati reach 1 HP, they will enter a weakened state. During this time, they cannot act and cannot be targeted. When Shiva and Parvati enter their weakened states at the same time, they will recover HP and enter the next phase.\n5. When Parvati is defeated, Shiva will immediately activate Dance of Destruction, dealing damage to all Phantom Thieves.\n6. When Shiva is defeated, Parvati will transform into Kali."
+  },
+  {
     "sn": "921011",
     "title": "Yui's Skills",
     "text": "1. Yui specializes in <color=#FF423F>single-target attacks</color>.\nAfter an ally uses an attack skill, she has a chance to activate a <color=#FF423F>follow-up attack skill</color>.\n2. Yui can select one ally to be <color=#FF423F>Player 2</color>.\nWhen she uses a Highlight or selects a Player 2, her follow-up attacks get even stronger.\n3. She can also deal more damage to <color=#FF423F>Shocked</color> enemies."
@@ -1482,7 +1492,7 @@
   {
     "sn": "915501",
     "title": "Avidya's Skills",
-    "text": "1. Avidya cannot be targeted in the first phase of battle, and will continuously summon Corporobos to fight the Phantom Thieves.\nAfter a certain number of Corporobos have been defeated, Avidya will move to the second phase.\n2. Avidya cannot be targeted in the second phase of battle, and will summon a team of powerful Corporobos to fight.\nWhen all of the Corporobos have been defeated, Avidya will move to the third phase, where he can be targeted and will not use any skills.\n3. During the battle, Avidya will use <color=#FF423F>Selfless Devotion</color> on randomly selected Corporobos, who will self-destruct after 2 turns, dealing heavy damage to the Phantom Thieves.\n4. Corporobo MDL-CH will use <color=#FF423F>Overtime Order</color> on the Shadow with the highest Attack, granting it an extra turn.\n5. Corporobo MDL-DM will use <color=#FF423F>Performance Evaluation</color> on the Shadow with the lowest Attack, greatly increasing its Attack.\nWhen the effect ends, the Shadow will be promoted to a Corporobo MDL-AM.\n6. Corporobo MDL-GM uses <color=#FF423F>Corporate Culture</color>to buff and heal Shadows.\n7. Corporobo MDL-ED will use <color=#FF423F>Team-Building Exercise</color> to drain all other Shadows' HP to strengthen itself."
+    "text": "1. Avidya cannot be targeted in the first phase of battle, and will continuously summon Corporobos to fight the Phantom Thieves.\nAfter a certain number of Corporobos have been defeated, Avidya will move to the second phase.\n2. Avidya cannot be targeted in the second phase of battle, and will summon a team of powerful Corporobos to fight.\nWhen all of the Corporobos have been defeated, Avidya will move to the third phase, where he can be targeted and will not use any skills.\n3. During the battle, Avidya will use <color=#FF423F>Sacrifice Order</color> on randomly selected Corporobos, who will self-destruct after 2 turns, dealing heavy damage to the Phantom Thieves.\n4. Corporobo MDL-CH will use <color=#FF423F>Overtime Order</color> on the Shadow with the highest Attack, granting it an extra turn.\n5. Corporobo MDL-DM will use <color=#FF423F>Performance Evaluation</color> on the Shadow with the lowest Attack, greatly increasing its Attack.\nWhen the effect ends, the Shadow will be promoted to a Corporobo MDL-AM.\n6. Corporobo MDL-GM will use <color=#FF423F>Corporate Culture</color> to buff and heal Shadows.\n7. Corporobo MDL-ED will use <color=#FF423F>Team-Building Exercise</color> to drain all other Shadows' HP to strengthen itself."
   },
   {
     "sn": "921511",
@@ -1522,16 +1532,31 @@
   {
     "sn": "238061",
     "title": "Unique Shadow Abilities",
-    "text": "1. Byakko alternates between <color=#FF423F>Byakko's Claw</color> and <color=#FF423F>Byakko's Fang</color>.\n2. Byakko's Claw: Deals damage to 1 target and inflicts <color=#FF423F>Deep Wounds</color>.\nThis effect deals damage over time, and can be removed by receiving healing 3 times.\n3. Byakko's Fang: Deals damage to all targets and inflicts <color=#FF423F>Bite Marks</color>.\nThis effect increases damage taken, and can be removed by dealing damage 3 times.\n4. At the start of each turn, if both Deep Wounds and Bite Marks have been inflicted, Byakko will activate <color=#FF423F>Prey</color>, dealing heavy damage and inflicting <color=#FF423F>Despair</color> on the target.\n5. Every 2 turns, 1 Leanan Sidhe will be summoned."
+    "text": "1. Byakko uses <color=#FF423F>Byakko's Claw</color> and <color=#FF423F>Byakko's Fang</color>.\n2. Byakko's Claw: Deals damage to 1 target and inflicts <color=#FF423F>Deep Wounds</color>.\nThis effect deals damage over time, and can be removed by receiving healing 3 times.\n3. Byakko's Fang: Deals damage to all targets and inflicts <color=#FF423F>Bite Marks</color>.\nThis effect increases damage taken, and can be removed by dealing damage 3 times.\n4. At the start of each turn, if both Deep Wounds and Bite Marks have been inflicted, Byakko will activate <color=#FF423F>Prey</color>, dealing heavy damage and inflicting <color=#FF423F>Despair</color> on the target.\n5. Every 2 turns, 1 Leanan Sidhe will be summoned."
   },
   {
     "sn": "238071",
     "title": "Unique Shadow Abilities",
-    "text": "1. Byakko alternates between <color=#FF423F>Byakko's Claw</color> and <color=#FF423F>Byakko's Fang</color>.\n2. Byakko's Claw: Deals damage to 1 target and inflicts <color=#FF423F>Deep Wounds</color>.\nThis effect deals damage over time.\n3. Byakko's Fang: Deals damage to all targets and inflicts <color=#FF423F>Bite Marks</color>.\nThis effect increases damage taken.\n4. At the start of each turn, if both Deep Wounds and Bite Marks have been inflicted, Byakko will activate <color=#FF423F>Prey</color>, dealing heavy damage and inflicting <color=#FF423F>Despair</color> on the target.\n5. Every 2 turns, Byakko selects 1 Sudama as Bait, and on the next turn, eats the Sudama, fully restoring its HP and granting itself a buff."
+    "text": "1. Byakko uses <color=#FF423F>Byakko's Claw</color> and <color=#FF423F>Byakko's Fang</color>.\n2. Byakko's Claw: Deals damage to 1 target and inflicts <color=#FF423F>Deep Wounds</color>.\nThis effect deals damage over time.\n3. Byakko's Fang: Deals damage to all targets and inflicts <color=#FF423F>Bite Marks</color>.\nThis effect increases damage taken.\n4. At the start of each turn, if both Deep Wounds and Bite Marks have been inflicted, Byakko will activate <color=#FF423F>Prey</color>, dealing heavy damage and inflicting <color=#FF423F>Despair</color> on the target.\n5. Every 2 turns, Byakko selects 1 Sudama as Bait, and on the next turn, eats the Sudama, fully restoring its HP and granting itself a buff."
   },
   {
     "sn": "238081",
     "title": "Unique Shadow Abilities",
     "text": "1. Byakko alternates between <color=#FF423F>Byakko's Claw</color> and <color=#FF423F>Byakko's Fang</color>.\n2. Byakko's Claw: Deals damage to 1 target and inflicts <color=#FF423F>Deep Wounds</color>.\nThis effect deals damage over time, and can be removed by inflicting an elemental or spiritual ailment.\n3. Byakko's Fang: Deals damage to all targets and inflicts <color=#FF423F>Bite Marks</color>.\nThis effect increases damage taken and can be removed by activating a Highlight or Resonance.\n4. At the start of each turn, if both Deep Wounds and Bite Marks have been inflicted, Byakko will activate <color=#FF423F>Prey</color>, dealing heavy damage and inflicting Despair</color> on the target.\n5. Every 2 turns, Byakko summons 1 Byakko's Afterimage.\nByakko's Afterimage has the same skills, but very low HP and ailment resistance."
+  },
+  {
+    "sn": "923411",
+    "title": "Justine & Caroline's Skills",
+    "text": "1. As a <color=#FF423F>Virtuoso</color> unit, Justine & Caroline can freely combine multiple sets of Personas before battle to create <color=#FF423F>6 different</color> role-based fighting styles.\n2. By combining Mask of Mischief & Innocence and Mask of Absurdity & Nonsense, the twins will gain <color=#FF423F>Strategist abilities</color>. Upon using each skill, Two Masks as One will become usable.\n3. By granting allies <color=#FF423F>Skill Amplification</color>, they can strengthen allies' <color=#FF423F>skill effects when they are enhanced</color>, as well as improve their attack, support, and recovery abilities simultaneously."
+  },
+  {
+    "sn": "923511",
+    "title": "Justine & Caroline's Skills",
+    "text": "1. As a <color=#FF423F>Virtuoso</color> unit, Justine & Caroline can freely combine multiple sets of Personas before battle to create <color=#FF423F>6 different</color> role-based fighting styles.\n2. By combining Mask of Absurdity & Nonsense and Mask of Luck & Loss, the twins will gain <color=#FF423F>Assassin abilities</color>. Upon using each skill, Two Masks as One will become usable.\n3. By granting allies Rebel Surveillance, they can gain a percentage of the <color=#FF423F>Effects</color> stats from their allies to greatly increase their attack capabilities."
+  },
+  {
+    "sn": "923611",
+    "title": "Justine & Caroline's Skills",
+    "text": "1. As a <color=#FF423F>Virtuoso</color> unit, Justine & Caroline can freely combine multiple sets of Personas before battle to create <color=#FF423F>6 different</color> role-based fighting styles.\n2. By combining Mask of Mischief & Innocence and Mask of Service & Admonition, the twins will gain <color=#FF423F>Medic abilities</color>. Upon using each skill, Two Masks as One will become usable.\n3. By restoring allies' HP and granting them Attack and Damage Mult. +, they can improve the team's survivability and Attack."
   }
 ]
