@@ -1,4 +1,4 @@
-Cognition Crystals=Когнитивные Кристаллы
+Cognition Crystals=Когнитивные кристаллы
 Only=Только
 Pieces=Части
 Points=Очки
@@ -48,7 +48,7 @@ x=х
 %s day(s) remaining=Осталось %s дн.
 %s h=%s ч.
 %s has expired.=%s истёк.
-%s has joined the Phantom Thieves=%s присоединился к Призрачным Похитителям.
+%s has joined the Phantom Thieves=%s присоединился к Фантомным ворам.
 %s left=Осталось %s
 %s level %s=%s, уровень %s
 %s more %s points to unlock=Ещё %s очков %s для открытия.
@@ -81,14 +81,14 @@ x=х
 (Obtained from trades and cannot be traded.)=(Получено в обмен, не подлежит обмену.)
 (Paid: %d)=(Оплачено: %d)
 ), get <color\=#EADE10>%s</color> x1! Use it to randomly get one of these Thieves:=), получите <color\=#EADE10>%s</color> x1! Используйте, чтобы случайным образом получить одного из этих Воров:
-* Other opportunities to get exclusive 5\u2605 Phantom Thieves may be available in the future.=* Другие возможности получить эксклюзивных 5\u2605 Призрачных Воров могут стать доступны в будущем.
+* Other opportunities to get exclusive 5\u2605 Phantom Thieves may be available in the future.=* Другие возможности получить эксклюзивных 5\u2605 Фантомных воров могут стать доступны в будущем.
 * Please check the previous screen for details on item content.=* Для получения подробной информации о содержимом предмета, пожалуйста, проверьте предыдущий экран.
 *All in-game voices will be changed after you set the new language.=* Вся внутриигровая озвучка изменится после установки нового языка.
 *Content will be displayed when official information is received from Sega.=* Контент будет отображен, как только поступит официальная информация от Sega.
 *Content will be updated when official information is received from Sega.=* Контент будет обновлен, как только поступит официальная информация от Sega.
 *The voiceover language can be changed through the Settings menu.=* Язык озвучки можно изменить в меню настроек.
-+1 when a Companio member participates for the first time=+1, когда участник Компаньона участвует впервые
-+1 when a Companio member participates for the first time.=+1, когда участник Компаньона участвует впервые.
++1 when a Companio member participates for the first time=+1, когда участник «Компанио» участвует впервые
++1 when a Companio member participates for the first time.=+1, когда участник «Компанио» участвует впервые.
 , %s is the next guaranteed 5\u2605!=, %s — следующий гарантированный 5\u2605!
 , %s more until the next guaranteed 5\u2605!=, осталось %s до следующего гарантированного 5\u2605!
 , \n<color\=#f1b500>%s</color> unlocked=, \n<color\=#f1b500>%s</color> разблокирован
@@ -101,7 +101,7 @@ x=х
 /Type=Тип
 1 2=1 2
 1 Game Mode=1 Игровой режим
-1 MORE=1 БОЛЬШЕ
+1 MORE=1 ЕЩЁ
 1 More Turn=1 Дополнительный ход
 1 Round=1 Раунд
 10 More Turns=10 Дополнительных ходов
@@ -124,7 +124,7 @@ x=х
 4-piece set:=Комплект из 4 предметов:
 4\u2605=4★
 4\u2605 5\u2605 Special Most Wanted Draw=4★ 5★ Особый призыв: Самые разыскиваемые
-4\u2605 Phantom Thief Select=Выбор Призрачного вора 4★
+4\u2605 Phantom Thief Select=Выбор Фантомного вора 4★
 4\u2605 Special Most Wanted Active=4★ Особый призыв: Самые разыскиваемые (активен)
 4\u2605 Special Most Wanted Draw=4★ Особый призыв: Самые разыскиваемые
 4\u2605 Weapon Select=Выбор оружия 4★
@@ -136,26 +136,26 @@ x=х
 5\u2605 Special Most Wanted Draw Active=5★ Особый призыв: Самые разыскиваемые (активен)
 60 characters max=Макс. 60 символов
 7 days ago=7 дней назад
-: Phantom Thief Test cannot be charged on PC=: Испытание Призрачного вора нельзя пополнить на ПК
-: Phantom Thief Test cannot be directly charged on iOS=Прямые пополнения в Испытании Фантомного Похитителя недоступны на iOS.
+: Phantom Thief Test cannot be charged on PC=: Испытание Фантомного вора нельзя пополнить на ПК
+: Phantom Thief Test cannot be directly charged on iOS=Прямые пополнения в Испытании Фантомного воранедоступны на iOS.
 r:"^<color\=#0F69CA>\(<size\=40><sprite\=1></size>\+(.+?)\)</color>$"="<color\=#0F69CA>(<size\=40><sprite\=1></size>+$1)</color>"
 <color\=#8B8A8A>[Not Cleared]</color>=<color\=#8B8A8A>[Не пройдено]</color>
 <color\=#8F8D8D>Online %s d ago</color>=<color\=#8F8D8D>Онлайн %s дн. назад</color>
 <color\=#8F8D8D>Online %s h ago</color>=<color\=#8F8D8D>Онлайн %s ч. назад</color>
 <color\=#8F8D8D>Online %s m ago</color>=<color\=#8F8D8D>Онлайн %s мин. назад</color>
 <color\=#DF712D>Throw away shaved ice here=<color\=#DF712D>Выбросить колотый лед здесь</color>
-r:"^<color\=#EADE10></color>During the Phantom Thief trial period\, the total amount charged \(including through Marthym\'s Rewards Card\, Premium Pass\, Premium Pass \+\, and any direct Gift Pack purchases\) will be returned at a rate of (.+?) (.+?) \= 10 Cognition Crystals\. The specific return range and rules are as follows\:\n<sprite\=0 tint\=1>If the amount charged is <color\=#EADE10>(.+?)(.+?) \- (.+?)(.+?) </color>\: Cognition Crystals returned at a rate of <color\=#EADE10>400%%</color>\.\n<sprite\=0 tint\=1>If the amount charged is <color\=#EADE10>(.+?)(.+?) \- (.+?)(.+?) </color>\: Cognition Crystals returned at a rate of <color\=#EADE10>300%%</color>\.\n<sprite\=0 tint\=1>If the amount charged is <color\=#EADE10>(.+?)(.+?) \- (.+?)(.+?) </color>\: Cognition Crystals returned at a rate of <color\=#EADE10>200%%</color>\.\n<sprite\=0 tint\=1>If the amount charged is <color\=#EADE10>(.+?)(.+?) \- (.+?)(.+?) </color>\: Cognition Crystals returned at a rate of <color\=#EADE10>150%%</color>\.\n<sprite\=0 tint\=1>If the amount charged is <color\=#EADE10>(.+?)(.+?)</color> or more\: Cognition Crystals returned at a rate of <color\=#EADE10>130%%</color>\.$"="Во время Испытания Фантомного Похитителя общая сумма пополнений (включая Карту наград Мартима, Премиум-пропуск, Премиум-пропуск + и любые прямые покупки подарочных наборов) будет возвращена по курсу $1$2 \= 10 Кристаллов Когниции. Конкретные диапазоны возврата и правила следующие:\n<sprite\=0 tint\=1>Если сумма пополнений составляет <color\=#EADE10>от $3$4 до $5$6</color>: Кристаллы Когниции возвращаются по курсу <color\=#EADE10>400%</color>.\n<sprite\=0 tint\=1>Если сумма пополнений составляет <color\=#EADE10>от $7$8 до $9$10</color>: Кристаллы Когниции возвращаются по курсу <color\=#EADE10>300%</color>.\n<sprite\=0 tint\=1>Если сумма пополнений составляет <color\=#EADE10>от $11$12 до $13$14</color>: Кристаллы Когниции возвращаются по курсу <color\=#EADE10>200%</color>.\n<sprite\=0 tint\=1>Если сумма пополнений составляет <color\=#EADE10>от $15$16 до $17$18</color>: Кристаллы Когниции возвращаются по курсу <color\=#EADE10>150%</color>.\n<sprite\=0 tint\=1>Если сумма пополнений составляет <color\=#EADE10>$19$20</color> или более: Кристаллы Когниции возвращаются по курсу <color\=#EADE10>130%</color>."
+r:"^<color\=#EADE10></color>During the Phantom Thief trial period\, the total amount charged \(including through Marthym\'s Rewards Card\, Premium Pass\, Premium Pass \+\, and any direct Gift Pack purchases\) will be returned at a rate of (.+?) (.+?) \= 10 Cognition Crystals\. The specific return range and rules are as follows\:\n<sprite\=0 tint\=1>If the amount charged is <color\=#EADE10>(.+?)(.+?) \- (.+?)(.+?) </color>\: Cognition Crystals returned at a rate of <color\=#EADE10>400%%</color>\.\n<sprite\=0 tint\=1>If the amount charged is <color\=#EADE10>(.+?)(.+?) \- (.+?)(.+?) </color>\: Cognition Crystals returned at a rate of <color\=#EADE10>300%%</color>\.\n<sprite\=0 tint\=1>If the amount charged is <color\=#EADE10>(.+?)(.+?) \- (.+?)(.+?) </color>\: Cognition Crystals returned at a rate of <color\=#EADE10>200%%</color>\.\n<sprite\=0 tint\=1>If the amount charged is <color\=#EADE10>(.+?)(.+?) \- (.+?)(.+?) </color>\: Cognition Crystals returned at a rate of <color\=#EADE10>150%%</color>\.\n<sprite\=0 tint\=1>If the amount charged is <color\=#EADE10>(.+?)(.+?)</color> or more\: Cognition Crystals returned at a rate of <color\=#EADE10>130%%</color>\.$"="Во время Испытания Фантомного вораобщая сумма пополнений (включая Карту наград Мартимы, Премиальный Пропуск, Премиальный Пропуск + и любые прямые покупки подарочных наборов) будет возвращена по курсу $1$2 \= 10 Кристаллов Когниции. Конкретные диапазоны возврата и правила следующие:\n<sprite\=0 tint\=1>Если сумма пополнений составляет <color\=#EADE10>от $3$4 до $5$6</color>: Когнитивные кристаллы возвращаются по курсу <color\=#EADE10>400%</color>.\n<sprite\=0 tint\=1>Если сумма пополнений составляет <color\=#EADE10>от $7$8 до $9$10</color>: Когнитивные кристаллы возвращаются по курсу <color\=#EADE10>300%</color>.\n<sprite\=0 tint\=1>Если сумма пополнений составляет <color\=#EADE10>от $11$12 до $13$14</color>: Когнитивные кристаллы возвращаются по курсу <color\=#EADE10>200%</color>.\n<sprite\=0 tint\=1>Если сумма пополнений составляет <color\=#EADE10>от $15$16 до $17$18</color>: Когнитивные кристаллы возвращаются по курсу <color\=#EADE10>150%</color>.\n<sprite\=0 tint\=1>Если сумма пополнений составляет <color\=#EADE10>$19$20</color> или более: Когнитивные кристаллы возвращаются по курсу <color\=#EADE10>130%</color>."
 <color\=#EADE11>[Cleared]</color>=<color\=#EADE11>[Пройдено]</color>
 <color\=#FF423F>%s</color> accepted the trade request.=<color\=#FF423F>%s</color> принял запрос на обмен.
 <color\=#FF423F>%s</color> appointed <color\=#FF423F>%s</color> as leader.=<color\=#FF423F>%s</color> назначил <color\=#FF423F>%s</color> лидером.
 <color\=#FF423F>%s</color> changed <color\=#FF423F>%s</color> to <color\=#FF423F>%s</color>.=<color\=#FF423F>%s</color> изменил <color\=#FF423F>%s</color> на <color\=#FF423F>%s</color>.
-<color\=#FF423F>%s</color> changed the Companio name to <color\=#FF423F>%s</color>.=<color\=#FF423F>%s</color> изменил название Компанио на <color\=#FF423F>%s</color>.
-<color\=#FF423F>%s</color> created a Companio.=<color\=#FF423F>%s</color> создал Компанио.
+<color\=#FF423F>%s</color> changed the Companio name to <color\=#FF423F>%s</color>.=<color\=#FF423F>%s</color> изменил название «Компанио» на <color\=#FF423F>%s</color>.
+<color\=#FF423F>%s</color> created a Companio.=<color\=#FF423F>%s</color> создал «Компанио».
 <color\=#FF423F>%s</color> has been offline for a long time.|The leader role has been automatically given to <color\=#FF423F>%s</color>.=<color\=#FF423F>%s</color> давно не в сети.|Роль лидера автоматически передана <color\=#FF423F>%s</color>.
-<color\=#FF423F>%s</color> joined the Companio.=<color\=#FF423F>%s</color> присоединился к Компанио.
-<color\=#FF423F>%s</color> left the Companio.=<color\=#FF423F>%s</color> покинул Компанио.
+<color\=#FF423F>%s</color> joined the Companio.=<color\=#FF423F>%s</color> присоединился к «Компанио».
+<color\=#FF423F>%s</color> left the Companio.=<color\=#FF423F>%s</color> покинул «Компанио».
 <color\=#FF423F>%s</color> stepped down as subleader.=<color\=#FF423F>%s</color> сложил полномочия заместителя лидера.
-<color\=#FF423F>%s</color> was removed <color\=#FF423F>%s</color> from the Companio.=<color\=#FF423F>%s</color> исключил <color\=#FF423F>%s</color> из Компанио.
+<color\=#FF423F>%s</color> was removed <color\=#FF423F>%s</color> from the Companio.=<color\=#FF423F>%s</color> исключил <color\=#FF423F>%s</color> из «Компанио».
 <color\=#FF423F>Alt key</color> displays cursor.=<color\=#FF423F>Клавиша Alt</color> отображает курсор.
 <color\=#FF423F>Defeat</color>=<color\=#FF423F>Поражение</color>
 <color\=#FF423F>Downloading...</color>=<color\=#FF423F>Загрузка...</color>
@@ -171,7 +171,7 @@ r:"^<color\=#EADE10></color>During the Phantom Thief trial period\, the total am
 <color\=#FFC000>Enhanced</color>=<color\=#FFC000>Усилено</color>
 <color\=#FFC000>Rarity is too high.</color>=<color\=#FFC000>Слишком высокая редкость.</color>
 <color\=#FFD145>Name</color>\nPlease enter your real name in order to confirm your identity on delivery.\n<color\=#FFD145>Phone Number</color>\nPlease enter a valid phone number.\n<color\=#FFD145>Delivery Address</color>\nPlease include your building name and room number if applicable.\nIf the delivery address is inaccurate, the merchandise may not be able to be delivered.\n<color\=#FFD145>Notification</color>\nIf you participate in this event or win a prize, please enter the requested information on the reward screen. All personal information will be stored securely. If you choose not to provide the information, you may be unable to participate in the event or receive rewards. For more information on how personal information is handled, please refer to "Perfect World Privacy and Security."=<color\=#FFD145>Имя</color>\nПожалуйста, введите ваше настоящее имя для подтверждения личности при доставке.\n<color\=#FFD145>Номер телефона</color>\nПожалуйста, введите действительный номер телефона.\n<color\=#FFD145>Адрес доставки</color>\nПожалуйста, укажите название здания и номер комнаты, если применимо.\nЕсли адрес доставки указан неточно, товар может быть не доставлен.\n<color\=#FFD145>Уведомление</color>\nЕсли вы участвуете в этом событии или выиграли приз, пожалуйста, введите запрашиваемую информацию на экране награды. Вся личная информация будет храниться в безопасности. Если вы откажетесь предоставить информацию, вы не сможете участвовать в событии или получить награды. Для получения дополнительной информации об обработке персональных данных, пожалуйста, ознакомьтесь с разделом "Конфиденциальность и безопасность Perfect World".
-<color\=#FFE900>Cognition Crystals, Marthym's Rewards Cards, Phantom Passes, and packs</color> purchased during the Phantom Thief trial period will be returned after the official release.=<color\=#FFE900>Кристаллы Познания, Наградные карты Мартима, Фантомные Пропуска и наборы</color>, приобретённые в течение пробного периода Фантомных Воров, будут возвращены после официального релиза.
+<color\=#FFE900>Cognition Crystals, Marthym's Rewards Cards, Phantom Passes, and packs</color> purchased during the Phantom Thief trial period will be returned after the official release.=<color\=#FFE900>Кристаллы Познания, Наградные карты Мартимы, Фантомные Пропуска и наборы</color>, приобретённые в течение пробного периода Фантомных воров, будут возвращены после официального релиза.
 <color\=#FFF000>Rank Up Next Season</color>=<color\=#FFF000>Повышение ранга в следующем сезоне</color>
 <color\=#FFFC40>You will not be able to change your relationship without using certain items.</color>=<color\=#FFFC40>Вы не сможете изменить ваши отношения без использования определённых предметов.</color>
 r:"^<color\=#FFFC40>(.+?)</color> is a non\-exclusive weapon and will be included in the Choose Weapons lineup after the event ends\.$"="<color\=#FFFC40>$1</color> является неэксклюзивным оружием и будет включено в список выбора оружия после окончания события."
@@ -188,8 +188,7 @@ r:"^<color\=#FFFC40>(.+?)</color> which is an exclusive weapon\.$"="<color\=#FFF
 <color\=#e6b625>Conditions</color> have not been met.=<color\=#e6b625>Условия</color> не выполнены.
 <color\=#f1b500>%s</color> was also unlocked!=<color\=#f1b500>%s</color> также разблокировано!
 <color\=#f1b500>%s</color>\n caught at %s with %s. (Weather: %s Time: %s)=<color\=#f1b500>%s</color>\n поймано в %s с помощью %s. (Погода: %s Время: %s)
-<color\=#ffffff>  </color>=<color\=#ffffff>  </color>
-<color\=#ffffff> </color>=<color\=#ffffff> </color>
+<color\=#ffffff>  </color>=<color\=#ffffff> </color>
 <color\=#ffffff> </color>=<color\=#ffffff> </color>
 <link\="htp|https://beian.miit.gov.cn/"><u>Beijing ICP No. 2021015964-3A</u></link>=<link\="htp|https://beian.miit.gov.cn/"><u>Пекинский номер ICP 2021015964-3A</u></link>
 <link\="s|1001"><u>Rank Boost Phase I</u></link>=<link\="s|1001"><u>Повышение ранга: Этап I</u></link>
@@ -203,13 +202,13 @@ r:"^<color\=#FFFC40>(.+?)</color> which is an exclusive weapon\.$"="<color\=#FFF
 <size\=54>Select</size> a <size\=71>tutorial</size> to <size\=54>view</size>.=<size\=54>Выберите</size> <size\=71>обучение</size> для <size\=54>просмотра</size>.
 <size\=60>Limited Time=<size\=60>Ограниченное время
 <sprite\=0 tint\=1> During the Persona5: The Phantom X trial period, the total amount charged will be refunded after the game's official release according to the Charge Refund Rules.=<sprite\=0 tint\=1> В течение пробного периода Persona 5: The Phantom X общая сумма пополнений будет возвращена после официального релиза игры в соответствии с Правилами возврата средств.
-r:"^<sprite\=0 tint\=1>During the trial period\, Player A purchased a (.+?)(.+?) Premium Pass\. As this (.+?)(.+?) <color\=#EADE10>will be regarded as the amount charged</color>\, Player A will have Cognition Crystals returned after release in accordance with \[Rule 1\]\, and receive a free Premium Pass\.\n<sprite\=0 tint\=1>During the trial period\, Player B used a (.+?)(.+?) Premium Pass and purchased a Premium Pass \+ for (.+?)(.+?)\. As the amount charged equals <color\=#EADE10>(.+?)(.+?)</color>\, Player B will have Cognition Crystals returned after release in accordance with \[Rule 1\] and <color\=#EADE10>receive a free</color> Premium Pass \+\.\n\nAbove are details on the Phantom Thief Trial Return Rules\.$"="<sprite\=0 tint\=1>В течение пробного периода Игрок А приобрел Премиум-пропуск $1$2. Поскольку эта сумма $3$4 <color\=#EADE10>будет считаться суммой пополнения</color>, Игроку А будут возвращены Кристаллы Познания после релиза в соответствии с [Правилом 1], и он получит бесплатный Премиум-пропуск.\n<sprite\=0 tint\=1>В течение пробного периода Игрок Б приобрел Премиум-пропуск за $5$6 и дополнительно Премиум-пропуск + за $7$8. Поскольку сумма пополнений равна <color\=#EADE10>$9$10</color>, Игроку Б будут возвращены Кристаллы Познания после релиза в соответствии с [Правилом 1] и он <color\=#EADE10>получит бесплатный</color> Премиум-пропуск +.\n\nВыше представлены подробности Правил возврата средств пробного периода Призрачных Похитителей."
-<sprite\=0 tint\=1>If a Marthym's Rewards Card was purchased during the Phantom Thief trial period, Cognition Crystals will be returned after the official release according to [Rule 1] based on the amount charged for the Marthym's Rewards Card. Marthym's Rewards Cards will also be returned based on the amount of Marthym's Rewards Cards purchased.\n<sprite\=0 tint\=1>Returns are limited to a maximum of <color\=#EADE10>2</color> Marthym's Rewards Cards. If one Marthym's Rewards Card was purchased during the trial period, one Marthym's Rewards Card will be returned after the official release, and if two were purchased, two will be returned. If more than two Marthym's Rewards Card were purchased, only two will be returned; however, the amount charged <color\=#EADE10>will count</color> toward the Cognition Crystal returns for [Rule 1].=<sprite\=0 tint\=1>Если Карта наград Мартима была приобретена в течение пробного периода Призрачных Похитителей, Кристаллы Познания будут возвращены после официального релиза в соответствии с [Правилом 1], исходя из суммы пополнения за Карту наград Мартима. Карты наград Мартима также будут возвращены в количестве приобретенных Карт наград Мартима.\n<sprite\=0 tint\=1>Возврат Карт наград Мартима ограничен количеством не более <color\=#EADE10>2</color> карт. Если в течение пробного периода была приобретена одна Карта наград Мартима, одна Карта наград Мартима будет возвращена после официального релиза; если были приобретены две, то будут возвращены две. Если было приобретено более двух Карт наград Мартима, будут возвращены только две; однако сумма пополнения <color\=#EADE10>будет учтена</color> при возврате Кристаллов Познания по [Правилу 1].
-<sprite\=0 tint\=1>Only the same account that was charged from the same platform during the Phantom Thief trial can receive a refund. The amount charged for one account's <color\=#EADE10>device or website will be calculated</color> and refunded in accordance with the above Charge Return Rules.\n<sprite\=0 tint\=1>Returns<color\=#EADE10> will be distributed through the in-game Mail screen after the official release</color>. The <color\=#EADE10>return messages</color> will be sent after logging in on the same platform with the account that was charged during the Phantom Thief trial period.\n<sprite\=0 tint\=1>Items returned after the official release<color\=#EADE10>don't have an expiration dateuse</color>. The Marthym's Rewards Card can be used to receive a 300-Cognition Crystal Customer Card valid for 30 days. If a Marthym's Rewards Card has already been activated and used after release, <color\=#EADE10>it will increase the validity period for 30 days</color>. The Phantom Pass can be used to unlock a rank based on the current season's Phantom Pass. If a Phantom Pass rank has already been activated, the returned Phantom Pass becomes unusable, but can be used after the next season unlocks.\n<sprite\=0 tint\=1>Players under the age of 18 who participated in the Phantom Thief trial period are subject to the "Game Dependency Prevention System" restrictions.=<sprite\=0 tint\=1>Возврат средств может быть осуществлен только на тот же аккаунт, который совершал пополнения с той же платформы в течение пробного периода Призрачных Похитителей. Сумма пополнений с <color\=#EADE10>устройства или веб-сайта одного аккаунта будет рассчитана</color> и возвращена в соответствии с вышеуказанными Правилами возврата средств.\n<sprite\=0 tint\=1>Возвраты <color\=#EADE10>будут распределены через внутриигровую почту после официального релиза</color>. <color\=#EADE10>Сообщения о возврате</color> будут отправлены после входа в игру на той же платформе с аккаунта, который совершал пополнения в течение пробного периода Призрачных Похитителей.\n<sprite\=0 tint\=1>Предметы, возвращенные после официального релиза, <color\=#EADE10>не имеют срока действия</color>. Карту наград Мартима можно использовать для получения Клиентской карты на 300 Кристаллов Познания, которая будет действовать 30 дней. Если Карта наград Мартима уже была активирована и использована после релиза, <color\=#EADE10>ее срок действия будет продлен на 30 дней</color>. Фантомный пропуск можно использовать для разблокировки ранга, соответствующего Фантомному пропуску текущего сезона. Если ранг Фантомного пропуска уже был активирован, возвращенный Фантомный пропуск становится непригодным для использования в текущем сезоне, но его можно будет использовать после начала следующего сезона.\n<sprite\=0 tint\=1>Игроки младше 18 лет, участвовавшие в пробном периоде Призрачных Похитителей, подпадают под ограничения «Системы предотвращения игровой зависимости».
+r:"^<sprite\=0 tint\=1>During the trial period\, Player A purchased a (.+?)(.+?) Premium Pass\. As this (.+?)(.+?) <color\=#EADE10>will be regarded as the amount charged</color>\, Player A will have Cognition Crystals returned after release in accordance with \[Rule 1\]\, and receive a free Premium Pass\.\n<sprite\=0 tint\=1>During the trial period\, Player B used a (.+?)(.+?) Premium Pass and purchased a Premium Pass \+ for (.+?)(.+?)\. As the amount charged equals <color\=#EADE10>(.+?)(.+?)</color>\, Player B will have Cognition Crystals returned after release in accordance with \[Rule 1\] and <color\=#EADE10>receive a free</color> Premium Pass \+\.\n\nAbove are details on the Phantom Thief Trial Return Rules\.$"="<sprite\=0 tint\=1>В течение пробного периода Игрок А приобрел Премиальный Пропуск $1$2. Поскольку эта сумма $3$4 <color\=#EADE10>будет считаться суммой пополнения</color>, Игроку А будут возвращены Кристаллы Познания после релиза в соответствии с [Правилом 1], и он получит бесплатный Премиальный Пропуск.\n<sprite\=0 tint\=1>В течение пробного периода Игрок Б приобрел Премиальный Пропуск за $5$6 и дополнительно Премиальный Пропуск + за $7$8. Поскольку сумма пополнений равна <color\=#EADE10>$9$10</color>, Игроку Б будут возвращены Кристаллы Познания после релиза в соответствии с [Правилом 1] и он <color\=#EADE10>получит бесплатный</color> Премиальный Пропуск +.\n\nВыше представлены подробности Правил возврата средств пробного периода Фантомных воров."
+<sprite\=0 tint\=1>If a Marthym's Rewards Card was purchased during the Phantom Thief trial period, Cognition Crystals will be returned after the official release according to [Rule 1] based on the amount charged for the Marthym's Rewards Card. Marthym's Rewards Cards will also be returned based on the amount of Marthym's Rewards Cards purchased.\n<sprite\=0 tint\=1>Returns are limited to a maximum of <color\=#EADE10>2</color> Marthym's Rewards Cards. If one Marthym's Rewards Card was purchased during the trial period, one Marthym's Rewards Card will be returned after the official release, and if two were purchased, two will be returned. If more than two Marthym's Rewards Card were purchased, only two will be returned; however, the amount charged <color\=#EADE10>will count</color> toward the Cognition Crystal returns for [Rule 1].=<sprite\=0 tint\=1>Если Карта наград Мартима была приобретена в течение пробного периода Фантомных воров, Кристаллы Познания будут возвращены после официального релиза в соответствии с [Правилом 1], исходя из суммы пополнения за Карту наград Мартима. Карты наград Мартимы также будут возвращены в количестве приобретённых Карт наград Мартимы.\n<sprite\=0 tint\=1>Возврат Карт наград Мартимы ограничен количеством не более <color\=#EADE10>2</color> карт. Если в течение пробного периода была приобретена одна Карта наград Мартимы, одна Карта наград Мартимы будет возвращена после официального релиза; если были приобретены две, то будут возвращены две. Если было приобретено более двух Карт наград Мартимы, будут возвращены только две; однако сумма пополнения <color\=#EADE10>будет учтена</color> при возврате Кристаллов Познания по [Правилу 1].
+<sprite\=0 tint\=1>Only the same account that was charged from the same platform during the Phantom Thief trial can receive a refund. The amount charged for one account's <color\=#EADE10>device or website will be calculated</color> and refunded in accordance with the above Charge Return Rules.\n<sprite\=0 tint\=1>Returns<color\=#EADE10> will be distributed through the in-game Mail screen after the official release</color>. The <color\=#EADE10>return messages</color> will be sent after logging in on the same platform with the account that was charged during the Phantom Thief trial period.\n<sprite\=0 tint\=1>Items returned after the official release<color\=#EADE10>don't have an expiration dateuse</color>. The Marthym's Rewards Card can be used to receive a 300-Cognition Crystal Customer Card valid for 30 days. If a Marthym's Rewards Card has already been activated and used after release, <color\=#EADE10>it will increase the validity period for 30 days</color>. The Phantom Pass can be used to unlock a rank based on the current season's Phantom Pass. If a Phantom Pass rank has already been activated, the returned Phantom Pass becomes unusable, but can be used after the next season unlocks.\n<sprite\=0 tint\=1>Players under the age of 18 who participated in the Phantom Thief trial period are subject to the "Game Dependency Prevention System" restrictions.=<sprite\=0 tint\=1>Возврат средств может быть осуществлен только на тот же аккаунт, который совершал пополнения с той же платформы в течение пробного периода Фантомных воров. Сумма пополнений с <color\=#EADE10>устройства или веб-сайта одного аккаунта будет рассчитана</color> и возвращена в соответствии с вышеуказанными Правилами возврата средств.\n<sprite\=0 tint\=1>Возвраты <color\=#EADE10>будут распределены через внутриигровую почту после официального релиза</color>. <color\=#EADE10>Сообщения о возврате</color> будут отправлены после входа в игру на той же платформе с аккаунта, который совершал пополнения в течение пробного периода Фантомных воров.\n<sprite\=0 tint\=1>Предметы, возвращённые после официального релиза, <color\=#EADE10>не имеют срока действия</color>. Карту наград Мартимы можно использовать для получения Клиентской карты на 300 Кристаллов Познания, которая будет действовать 30 дней. Если Карта наград Мартимы уже была активирована и использована после релиза, <color\=#EADE10>ее срок действия будет продлен на 30 дней</color>. Фантомный пропуск можно использовать для разблокировки ранга, соответствующего Фантомному пропуску текущего сезона. Если ранг Фантомного пропуска уже был активирован, возвращенный Фантомный пропуск становится непригодным для использования в текущем сезоне, но его можно будет использовать после начала следующего сезона.\n<sprite\=0 tint\=1>Игроки младше 18 лет, участвовавшие в пробном периоде Фантомных воров, подпадают под ограничения «Системы предотвращения игровой зависимости».
 ???=???
-A Cool Day in Sushi Village=Приятный день в Деревне Суси
-A Phantom Thief or Persona below is locked and can't be added.=Один из Призрачных Похитителей или Персон ниже заблокирован и не может быть добавлен.
-A Phantom Thief or Persona below is on another team and can't be added.=Один из Призрачных Похитителей или Персон ниже находится в другой команде и не может быть добавлен.
+A Cool Day in Sushi Village=Классный день в деревне суши
+A Phantom Thief or Persona below is locked and can't be added.=Один из Фантомных воров или Персон ниже заблокирован и не может быть добавлен.
+A Phantom Thief or Persona below is on another team and can't be added.=Один из Фантомных воров или Персон ниже находится в другой команде и не может быть добавлен.
 A Team=Команда А
 A limted-time event to trade forged protagonist weapons has begun=Началось ограниченное по времени событие по обмену кованого оружия протагониста
 A new Phantom Pass has been unlocked.=Новый Фантомный пропуск разблокирован.
@@ -228,7 +227,7 @@ About Brawl Bots=О ботах для потасовок
 About Charges=О платежах
 About Locking=О блокировке
 About Overplaying the Game=О чрезмерной игре
-About Points\nCompanio Points are calculated as follows:\nChallenge Points x Difficulty Bonus\nIn cases where multiple difficulty levels for the same boss have been attempted, the highest score is used.=Об очках\nОчки Компаньона рассчитываются следующим образом:\nОчки Испытаний x Бонус сложности\nВ случаях, когда босс был пройден на нескольких уровнях сложности, учитывается наивысший результат.
+About Points\nCompanio Points are calculated as follows:\nChallenge Points x Difficulty Bonus\nIn cases where multiple difficulty levels for the same boss have been attempted, the highest score is used.=Об очках\nОчки «Компанио» рассчитываются следующим образом:\nОчки Испытаний x Бонус сложности\nВ случаях, когда босс был пройден на нескольких уровнях сложности, учитывается наивысший результат.
 About Refunds=О возвратах
 About Skill Inheritance=О наследовании навыков
 About Tracking=Об отслеживании
@@ -248,7 +247,7 @@ Acquisition Time=Время получения
 Action Points=Очки действия
 Actions=Действия
 Actions Left: %s/%s=Осталось очков действия: %s/%s
-Actions:=Очки действия:
+Actions:=Действия:
 Activate Account=Активировать аккаунт
 Activation Cost=Стоимость активации
 Activation Failed (Error Code: %d)=Ошибка активации (Код ошибки: %d)
@@ -270,10 +269,10 @@ Advanced Buff=Продвинутый бафф
 After=После
 After %s, the progress cap will be %s.=После %s максимальный прогресс составит %s.
 r:"^After <color\=#EADE10>(.+?)/(.+?)</color> contracts\, you can get a <color\=#EADE10>%s x1</color>\. Use it to randomly get one of these Thieves\:$"="После <color\=#EADE10>$1/$2</color> контрактов вы получите <color\=#EADE10>%s x1</color>. Используйте, чтобы случайным образом получить одного из этих Воров:"
-r:"^After <color\=#EADE10>(.+?)/(.+?)</color> contracts\, you can obtain a <color\=#EADE10>5\\u2605 Phantom Idol Contract x1</color>\. Use this to obtain one of the Phantom Thieves below at random\.$"="После <color\=#EADE10>$1/$2</color> контрактов вы получите <color\=#EADE10>Контракт фантомного идола 5\u2605 x1</color>. Используйте его, чтобы случайным образом получить одного из Призрачных Воров из списка ниже."
+r:"^After <color\=#EADE10>(.+?)/(.+?)</color> contracts\, you can obtain a <color\=#EADE10>5\\u2605 Phantom Idol Contract x1</color>\. Use this to obtain one of the Phantom Thieves below at random\.$"="После <color\=#EADE10>$1/$2</color> контрактов вы получите <color\=#EADE10>Контракт фантомного айдола 5\u2605 x1</color>. Используйте его, чтобы случайным образом получить одного из Фантомных воров из списка ниже."
 After <color\=#FF423F>%s</color>:=После <color\=#FF423F>%s</color>:
 After disassembling, the weapon will be converted into an item.=После разборки оружие превратится в предмет.
-After joining a Companio, you can claim participation rewards.=После вступления в Companio вы сможете получить награды за участие.
+After joining a Companio, you can claim participation rewards.=После вступления в «Компанио» вы сможете получить награды за участие.
 After obtaining an item, you can select it from your bag to use it.=После получения предмета вы можете выбрать его в рюкзаке, чтобы использовать.
 After reaching a rank for the first time, you can receive the corresponding rank reward (this reward does not reset each season and can only be claimed once).=После достижения ранга впервые вы сможете получить соответствующую награду за ранг (эта награда не сбрасывается каждый сезон и может быть получена только один раз).
 After reaching difficulty %s, the progress cap will be %s.=После достижения сложности %s максимальный прогресс составит %s.
@@ -303,18 +302,18 @@ Ambience Info:=Сведения об окружении:
 Ambient\nOcclusion=Затенение\nокружения
 Amount Held=Количество в наличии
 Amount Up=Повышение
-An occurrence on a certain summer's day...\nDuring the Kokatsu Academy off-campus excursion, the students took a trip to Shirosato Beach to attend seaside classes.\nThere, the Phantom Thieves unexpectedly experienced "Strange Changes on the Beach..."=Случай, произошедший одним летним днём...\nВо время выездной экскурсии Академии Кокацу студенты отправились на пляж Сиросато, чтобы посетить прибрежные занятия.\nТам Призрачные Похитители неожиданно столкнулись со «Странными изменениями на пляже...»
+An occurrence on a certain summer's day...\nDuring the Kokatsu Academy off-campus excursion, the students took a trip to Shirosato Beach to attend seaside classes.\nThere, the Phantom Thieves unexpectedly experienced "Strange Changes on the Beach..."=Случай, произошедший одним летним днём...\nВо время выездной экскурсии Академии Кокацу студенты отправились на пляж Сиросато, чтобы посетить прибрежные занятия.\nТам Фантомные воры неожиданно столкнулись со «Странными изменениями на пляже...»
 Animation under Development=Анимация в разработке
 Ann Takamaki=Ан Такамаки
 Another time=В другой раз
 Another time.=В другой раз.
 Anti-Aliasing=Сглаживание
 Any <color\=#FF423F>excess experience</color> from this enhancement will be converted into general materials.\n=Любой <color\=#FF423F>избыточный опыт</color> от этого улучшения будет преобразован в обычные материалы.\n
-Aperture=Апертура
+Aperture=апертура
 Apply All=Применить всё
 Appoint=Назначить
-Arai ruined his career...=Арай погубил свою карьеру...
-Arai...=Арай...
+Arai ruined his career...=Араи погубила его карьеру...
+Arai...=Араи...
 Area=Область
 Area A=Область А
 Area D=Зона D
@@ -325,7 +324,7 @@ Armory=Оружейная
 Arms Deals=Оружейные сделки
 As per <color\=#FF423F>%s</color>'s request, you've successfully exchanged your %s for their %s.=По запросу <color\=#FF423F>%s</color> вы успешно обменяли свой %s на их %s.
 Assign All=Назначить всех
-Assigning Phantom Thieves with the same Attribute activates a Harmony Effect.=Назначение Призрачных Похитителей с одинаковым Атрибутом активирует Эффект Гармонии.
+Assigning Phantom Thieves with the same Attribute activates a Harmony Effect.=Назначение Фантомных воров с одинаковым Атрибутом активирует Эффект Гармонии.
 Assignment Tips=Советы по назначению
 Assists Left:=Осталось помощи:
 Astrolabe Time Remaining: <color\=#FFC000>%s</color>=До конца Астролябии: <color\=#FFC000>%s</color>
@@ -377,17 +376,17 @@ Bait Conditions=Условия использования приманки
 Band Club=Музыкальный клуб
 Base=База
 Base Damage Points=Базовые очки урона
-Base Multiplier:=Базовый множитель:
+Base Multiplier:=Обычный множитель:
 Base Points=Базовые очки
-Base Score:=Базовый счёт:
+Base Score:=Обычный счёт:
 Base Stats=Базовые характеристики
-Base Status=Базовый статус
+Base Status=Обычный статус
 Base Synergy +%s, with an extra +%s for preferred gifts, with an extra +%s for first-time preferred gifts.=Базовая синергия +%s, а также +%s за предпочитаемые подарки и +%s за первый предпочитаемый подарок.
 Base Synergy +%s\nBonus +%s for preferred gifts\nBonus +%s for first-time preferred gifts=Базовая синергия +%s\nБонус +%s за предпочитаемые подарки\nБонус +%s за первый предпочитаемый подарок
 Baseball=Бейсбол
 Basic Abilities=Базовые способности
 Basic Buff=Базовое усиление
-Basic Set=Базовый набор
+Basic Set=Обычный набор
 Basic charge refund rules=Базовые правила возмещения заряда
 Battle=Бой
 Battle %=Боевой %
@@ -396,13 +395,13 @@ Battle Difficulty=Сложность боя
 Battle Earnings=Боевой доход
 Battle Effects=Боевые эффекты
 Battle Failed=Бой провален
-Battle Intel=Сведения о бое
+Battle Intel=Боевые Сведения
 Battle Settings=Настройки боя
 Be aware of scammers and risks from playing pirated versions of the game. Don't push yourself too hard and play the game at your own pace.=Остерегайтесь мошенников и рисков, связанных с использованием пиратских версий игры. Не переутомляйтесь и играйте в своем темпе.
 Be careful not to play the game for too long.=Будьте осторожны, не играйте слишком долго.
 Be<color\=#ffff00ff>gin</color>ner=Нов<color\=#ffff00ff>ич</color>ок
 Beachwear Set\n<color\=#FFFC40>On sale for a limited time</color> in the Shop!=Набор пляжной одежды в Магазине! <color\=#FFFC40>Предложение ограничено!</color>
-Beast Bots Genesis=Звероботы: Генезис
+Beast Bots Genesis=Генезис Звероботов
 Because the amount owed is higher than your current coins, you will only pay <color\=#87CEEB>%s coins</color>.=Поскольку сумма к оплате превышает количество ваших текущих монет, вы заплатите только <color\=#87CEEB>%s монет</color>.
 Because the amount received is higher than the current coins, you will only receive <color\=#87CEEB>%s coins</color>.=Поскольку полученная сумма превышает количество ваших текущих монет, вы получите только <color\=#87CEEB>%s монет</color>.
 Because there is a coin limit for the Rich and Tycoon, the amount paid by the Poor and Beggar is reduced. The Poor will pay <color\=#87CEEB>%s coins</color>, and the Beggar will pay <color\=#87CEEB>%s coins</color>.=Поскольку для Богачей и Магнатов действует лимит монет, сумма, выплачиваемая Бедняками и Нищими, уменьшается. Бедняки заплатят <color\=#87CEEB>%s монет</color>, а Нищие — <color\=#87CEEB>%s монет</color>.
@@ -428,7 +427,7 @@ Boosted Bonuses Left Today:=Осталось усиленных бонусов �
 Boosted Rewards=Усиленные награды
 Boosted Rewards Left Today:=Осталось усиленных наград на сегодня:
 Boss Attack Points=Очки атаки босса
-Boss Battle=Битва с боссом
+Boss Battle=Сражение с боссом
 Boss Traits:=Особенности босса:
 Box=Ящик
 Brawl Bots=Боевые роботы
@@ -457,7 +456,7 @@ Can enhance more at Thief Lv. %d=Дальнейшее улучшение дос�
 Can insta-kill=Может мгновенно убить
 Can level up at Persona Lv. %d=Повышение уровня доступно на Ур. Персоны %d.
 Can level up at Talent Lv. %d=Повышение уровня доступно на Ур. Таланта %d.
-Can level up at Wonder Lv. %d=Доступно повышение уровня при Уровне Чуда %d
+Can level up at Wonder Lv. %d=Доступно повышение уровня при Уровне Вандера %d
 Can partially insta-kill=Может мгновенно убить с некоторой вероятностью
 Can't raise Synergy Rank.=Невозможно повысить Ранг Синергии.
 Cancel=Отмена
@@ -471,7 +470,7 @@ Capsule Exchange=Обмен Капсул
 Capsule Log=Журнал Капсул
 Capsule Type=Тип Капсулы
 Capsules=Капсулы
-Capy B.'s Costume Party=Костюмированная вечеринка Капи Би
+Capy B.'s Costume Party=Костюмированная вечеринка Кэттл
 Card=Карта
 Card Explanation=Описание Карты
 Card rarity:=Редкость карты:
@@ -502,7 +501,7 @@ Challenge Stage Progress:=Прогресс этапа испытания:
 Challenge difficulty:=Сложность испытания:
 Challenge difficulty: %s=Сложность испытания: %s
 Challenged %s times=Попыток: %s
-Chamber of Recollections=Чертог Воспоминаний
+Chamber of Recollections=Чёртог Воспоминаний
 Chance Encounter Rewards:=Награды за случайную встречу:
 Change=Изменить
 Change %s's permission to the following:=Изменить разрешения %s на следующие:
@@ -514,7 +513,7 @@ Change Badge=Изменить значок
 Change Bait=Сменить наживку
 Change Case=Изменить чехол
 Change Color=Изменить цвет
-Change Companio Name=Изменить имя компаньона
+Change Companio Name=Изменить название «Компанио»
 Change Direction=Изменить направление
 Change Frame=Изменить рамку
 Change Message=Изменить сообщение
@@ -559,7 +558,7 @@ Chizuko Nagao=Чидзуко Нагао
 Choices=Настройки
 Choose Decoration=Выбрать украшение
 Choose Topping=Выбрать топпинг
-Choose one <color\=#EADE10>5\u2605 Phantom Thief</color> from the lineup when you draw <color\=#EADE10>%s/%s</color> contracts in Phantom Idol Draft X.=Выберите одного <color\=#EADE10>5★ Фантомного Вора</color> из состава, когда заключите <color\=#EADE10>%s/%s</color> контрактов в «Фантомный Идол: Драфт X».
+Choose one <color\=#EADE10>5\u2605 Phantom Thief</color> from the lineup when you draw <color\=#EADE10>%s/%s</color> contracts in Phantom Idol Draft X.=Выберите одного <color\=#EADE10>5★ Фантомного вора</color> из состава, когда заключите <color\=#EADE10>%s/%s</color> контрактов в «Фантомный айдол: Драфт X».
 City Life=Городская жизнь
 City Life Day=День городской жизни
 City Life Earnings=Доход от городской жизни
@@ -583,7 +582,7 @@ Clear All=Завершить все
 Clear Cognigem=Пройти Когнигем
 Clear History=Завершить историю
 Clear Rank Rewards=Награды за ранг
-Clear Rewards=Награды за завершение
+Clear Rewards=Пройдите Награды
 Clear Rewards:=Награды за завершение:
 Clear Score: %d=Очки за завершение: %d
 r:"^Clear Step <size\=10></size><size\=42>(.+?)</size><size\=10></size> to obtain$"="Пройдите этап <size\=10></size><size\=42>$1</size><size\=10></size>, чтобы получить"
@@ -620,9 +619,8 @@ Close Friend=Близкий друг
 Close Hint=Закрыть подсказку
 Clubs=Клубы
 Coffee Candy=Кофейная конфета
-Cognition Crystals=Кристаллы Когниции
-Cognition Crystals: %s\nMeta Jewels: %s=Кристаллы Когниции: %s\nМета-самоцветы: %s
-Cognition Shop=Магазин Когниции
+Cognition Crystals: %s\nMeta Jewels: %s=Когнититные Кристаллы: %s\nМета-самоцветы: %s
+Cognition Shop=Когнититный магазин
 Collect %s to earn %s!=Соберите %s, чтобы получить %s!
 Collect all rewards to unlock Plan III=Соберите все награды, чтобы разблокировать План III
 Collect all the marbles to unlock the mission Paw it Forward.=Соберите все шарики, чтобы разблокировать миссию «Лапа помощи».
@@ -642,17 +640,17 @@ Coming soon=Скоро
 Common=Обычный
 Community=Сообщество
 Community Category=Категория сообщества
-Companio=Компаньо
-Companio Contribution=Вклад в Компаньо
-Companio Details=Подробности Компаньо
-Companio ID=ID Компаньо
-Companio Info=Информация о Компаньо
-Companio Level=Уровень Компаньо
-Companio Members=Члены Компаньо
-Companio Points:=Очки Компаньо:
-Companio Rank=Ранг Компаньо
-Companio Rank:=Ранг Компаньо:
-Companio Ranking Rewards=Награды за рейтинг Компаньо
+Companio=«Компанио»
+Companio Contribution=Вклад в «Компанио»
+Companio Details=Подробности «Компанио»
+Companio ID=ID «Компанио»
+Companio Info=Информация о «Компанио»
+Companio Level=Уровень «Компанио»
+Companio Members=Члены «Компанио»
+Companio Points:=Очки «Компанио»:
+Companio Rank=Ранг «Компанио»
+Companio Rank:=Ранг «Компанио»:
+Companio Ranking Rewards=Награды за рейтинг «Компанио»
 Complete=Завершено
 Complete daily Pass goals to get rewards. Goals left: \u3000=Выполняйте ежедневные цели пропуска, чтобы получить награды. Целей осталось: \u3000
 Complete goals to=Выполните цели, чтобы
@@ -662,12 +660,12 @@ Complete the Introduction Story=Пройдите вступительную ис
 Complete the mission\n%s.=Завершите миссию\n%s.
 Complete this action.=Выполните это действие.
 Completely her fault.=Полностью её вина.
-Completing Tomoko Noge's synergy story will provide a better play experience=Пройдите сюжетную линию синергии с Томоко Ногэ, чтобы получить максимум от игры.
+Completing Tomoko Noge's synergy story will provide a better play experience=Пройдите сюжетную линию синергии с Томоко Ноге, чтобы получить максимум от игры.
 Completion of ending prerequesite quest is required.=Требуется завершение предварительного квеста для получения концовки.
 Completion of previous stage unlocks story.=Завершение предыдущего этапа открывает сюжет.
-Concerto Effects=Эффекты Кончерто
-Concerto: Enhances damage for four attributes in party.=Кончерто: Увеличивает урон, наносимый четырьмя атрибутами в отряде.
-Concerto: Increases %s/%s/%s/%s damage by %s.=Кончерто: Увеличивает урон от %s/%s/%s/%s на %s.
+Concerto Effects=Эффекты Кончёрто
+Concerto: Enhances damage for four attributes in party.=Кончёрто: Увеличивает урон, наносимый четырьмя атрибутами в отряде.
+Concerto: Increases %s/%s/%s/%s damage by %s.=Кончёрто: Увеличивает урон от %s/%s/%s/%s на %s.
 Conditions=Условия
 Conditions Cleared!=Условия выполнены!
 Conditions have not been met.=Условия не выполнены.
@@ -693,7 +691,7 @@ Control=Управление
 Control Settings=Настройки управления
 Control Tips=Подсказки по управлению
 Controls=Управление
-Cooking=Кулинария
+Cooking=Готовка
 Cooperation=Кооперация
 Copy=Копировать
 Copy ID=Копировать ID
@@ -722,8 +720,8 @@ Cup=Кубок
 Current=Текущий
 Current %s%%=Текущий %s%%
 Current Challenge:=Текущее испытание:
-Current Companio=Текущий компаньон
-Current Companio Participation=Участие текущего компаньона
+Current Companio=Текущий «Компанио»
+Current Companio Participation=Участие текущего «Компанио»
 Current Cost:=Текущая стоимость:
 Current Effect=Текущий эффект
 Current Effect:=Текущий эффект:
@@ -793,9 +791,9 @@ Day 6: Get Sun Crystal x30=День 6: Получите Солнечный Кр�
 Day 7: Get a Miyu Sahara-only Gold Space Revelation Card=День 7: Получите Золотую Карту Прозрения Пространства только для Мию Сахары
 Days left: %s=Дней осталось: %s
 Daytime=День
-Deal weakness/All-Out Attacks=Используйте уязвимости / Проводите Общие атаки
+Deal weakness/All-Out Attacks=Используйте уязвимости / Проведите Совместную атаку
 Deals Gun damage to one enemy. Can attack as many times as there are remaining bullets.=Наносит урон огнестрельным оружием одному врагу. Может атаковать столько раз, сколько осталось патронов.
-Dear Phantom Thief:=Дорогой Призрачный Вор:
+Dear Phantom Thief:=Дорогой Фантомный вор:
 Decorations=Украшения
 Dedicated Customer Support=Выделенная служба поддержки
 Default Outfit=Стандартный наряд
@@ -811,7 +809,7 @@ Delete All Claimed=Удалить все принятые
 Deluxe Pass Only=Только для Deluxe Pass
 r:"^Den Lv\. (.+?)$"="Логово ур. $1"
 Deny=Отклонить
-Deploy %s Phantom Thieves=Задействовать %s Призрачных Похитителей
+Deploy %s Phantom Thieves=Задействовать %s Фантомных воров
 Deploy %s party members=Задействовать %s участников отряда
 Depth of Field=Глубина резкости
 Description=Описание
@@ -831,7 +829,7 @@ Disagree=Возразить
 Discard=Выбросить
 Discarded [%s]=Выброшено [%s]
 Display Recent Messages=Показать недавние сообщения
-Display the first 1000 Phantom Thieves=Показать 1000 лучших Призрачных Похитителей
+Display the first 1000 Phantom Thieves=Показать 1000 лучших Фантомных воров
 Display-=Отобразить
 Displayed=Отображено
 Displaying season rankings for top 1000 players from Rank Battle mode.=Отображаются сезонные рейтинги для 1000 лучших игроков в режиме Рейтинговых битв.
@@ -862,7 +860,7 @@ Do you want to spend these items\nto purchase %s?=Хотите потратит�
 Do you want to trade %s for %s?=Хотите обменять %s на %s?
 Do you want to trade %s x%s for %s x%s?=Хотите обменять %s x%s на %s x%s?
 r:"^Do you want to trade for the Persona (.+?)\?$"="Хотите обменять на Персону $1?"
-Do you want to trade to receive the 5\u2605 Phantom Thief %s?=Хотите обменять на 5\u2605 Призрачного Вора %s?
+Do you want to trade to receive the 5\u2605 Phantom Thief %s?=Хотите обменять на 5\u2605 Фантомного вора %s?
 Do you want to use %s to craft %s?=Хотите использовать %s для создания %s?
 r:"^Do you want to use <color\=#FFDE00>(.+?)</color> Revelation Cards to inscribe a <color\=#FFDE00>(.+?)</color>\-card set of <color\=#FFDE00>(.+?)</color> Revelation Cards\?$"="Хотите использовать <color\=#FFDE00>$1</color> Карт Откровения, чтобы сформировать набор из <color\=#FFDE00>$2</color> Карт Откровения «<color\=#FFDE00>$3</color>»?"
 r:"^Do you want to use <color\=#FFDE00>(.+?)</color> Revelation Cards to inscribe<color\=#FFDE00>(.+?)</color> random <color\=#FFDE00>(.+?)</color>\-marked Revelation Cards\?$"="Хотите использовать <color\=#FFDE00>$1</color> Карт Откровения, чтобы создать <color\=#FFDE00>$2</color> случайных Карт Откровения уровня <color\=#FFDE00>$3</color>?"
@@ -885,23 +883,23 @@ Download\nRewards=Загрузить\nНаграды
 Downloading=Загрузка
 Downloading %s\n(%s/%s)=Загрузка %s\n(%s/%s)
 Downloading...=Загрузка...
-Drag shaved ice here to throw it away=Перетащите колотый лёд сюда, чтобы выбросить.
+Drag shaved ice here to throw it away=Перетащите какигори сюда, чтобы выбросить.
 Drag the left mouse button to change the point of view.=Перетащите левой кнопкой мыши, чтобы изменить точку обзора.
 Drag the piece on the right to complete the puzzle.=Перетащите деталь справа, чтобы завершить головоломку.
 Draw 1=Призыв 1
 Draw 1 %s=Призыв 1 %s
-Draw 300 contracts in Phantom Idol Draft X to receive one of the following <color\=#EADE10>5\u2605 Phantom Thieves</color> of your choosing.=Призовите 300 контрактов в Phantom Idol Draft X, чтобы получить одного из следующих <color\=#EADE10>5★ Призрачных Похитителей</color> на ваш выбор.
+Draw 300 contracts in Phantom Idol Draft X to receive one of the following <color\=#EADE10>5\u2605 Phantom Thieves</color> of your choosing.=Призовите 300 контрактов в Phantom Idol Draft X, чтобы получить одного из следующих <color\=#EADE10>5★ Фантомных воров</color> на ваш выбор.
 Draw 5=Призыв 5
 Draw 5 %s=Призыв 5 %s
-Draw 50 Newcomer Contracts to receive one of the following <color\=#EADE10>5\u2605 Phantom Thieves</color> of your choosing.=Призовите 50 контрактов новичка, чтобы получить одного из следующих <color\=#EADE10>5★ Призрачных Похитителей</color> на ваш выбор.
+Draw 50 Newcomer Contracts to receive one of the following <color\=#EADE10>5\u2605 Phantom Thieves</color> of your choosing.=Призовите 50 контрактов новичка, чтобы получить одного из следующих <color\=#EADE10>5★ Фантомных воров</color> на ваш выбор.
 Draw: %s=Призыв: %s
 Drawable Contracts Left Today: %d=Контрактов для призыва осталось сегодня: %d
 Dream Line=Линия мечты
 Dungeon is locked.=Подземелье заблокировано.
 Duration: %s=Длительность: %s
 Duration: 1:30=Длительность: 1:30
-During Limited-Time Stages, bringing along a designated Phantom Thief will grant bonus rewards. Bring along more designated Phantom Thieves to earn even more bonus rewards. Bonus clear rewards will be converted into lower-rarity items based on item conversion.=Присутствие назначенного Призрачного Вора на временных этапах приносит бонусные награды. Привлекайте больше назначенных Призрачных Воров, чтобы получить ещё больше бонусов. Бонусные награды за прохождение конвертируются в предметы более низкой редкости в соответствии с системой конвертации.
-During Limited-Time Stages, bringing along a designated Phantom Thieves member will grant an additional set reward bonus. Clearing with multiple designated members will compoud bonus rewards.=На временных этапах участие назначенного Призрачного Вора приносит дополнительные бонусные награды. Прохождение с несколькими назначенными Призрачными Ворами позволяет суммировать бонусы.
+During Limited-Time Stages, bringing along a designated Phantom Thief will grant bonus rewards. Bring along more designated Phantom Thieves to earn even more bonus rewards. Bonus clear rewards will be converted into lower-rarity items based on item conversion.=Присутствие назначенного Фантомного вора на временных этапах приносит бонусные награды. Привлекайте больше назначенных Фантомных воров, чтобы получить ещё больше бонусов. Бонусные награды за прохождение конвертируются в предметы более низкой редкости в соответствии с системой конвертации.
+During Limited-Time Stages, bringing along a designated Phantom Thieves member will grant an additional set reward bonus. Clearing with multiple designated members will compoud bonus rewards.=На временных этапах участие назначенного Фантомного вора приносит дополнительные бонусные награды. Прохождение с несколькими назначенными Фантомными ворами позволяет суммировать бонусы.
 Dusk=Сумерки
 Dynamic Resolution=Динамическое разрешение
 EX=EX
@@ -930,12 +928,12 @@ End Navigation=Завершить навигацию
 Ends in %s=Закончится через %s
 Ends in 22 days=Закончится через 22 дня
 Ends in:=Закончится через:
-Ends in: %s=Закончится через: %s
+Ends in: %s=Заканчивается на: %s
 Enemies are stronger when the security level is high, making battles more difficult.=Противники сильнее при высоком уровне безопасности, что усложняет битвы.
-Enemies defeated: %s=Противников побеждено: %s
+Enemies defeated: %s=Противников побеждёно: %s
 Enemy Intel:=Данные о противнике:
 Enemy Strength=Сила противника
-Enemy levels will scale according to Wonder's level.=Уровень противников будет масштабироваться в зависимости от уровня Вандер.
+Enemy levels will scale according to Wonder's level.=Уровень противников будет меняться пропорционально уровню Вандера.
 English Voice=Английская озвучка
 Enhance=Улучшить
 Enhance Awareness=Повысить внимательность
@@ -946,9 +944,9 @@ Enhancement Materials=Материалы усиления
 Enhancement Tips=Советы по усилению
 Enter=Войти
 Enter Content=Войти в контент
-Enter a Companio name or ID=Введите имя или ID компаньона
-Enter a Companio name or ID to search...=Введите имя или ID компаньона для поиска...
-Enter a name for the Companio.=Введите имя для компаньона.
+Enter a Companio name or ID=Введите имя или ID «Компанио»
+Enter a Companio name or ID to search...=Введите имя или ID «Компанио» для поиска...
+Enter a name for the Companio.=Введите имя для «Компанио».
 Enter a skill name to search.=Введите название навыка для поиска.
 Enter an exchange code.=Введите код обмена.
 Enter new channel: %s=Вход в новый канал: %s
@@ -963,13 +961,12 @@ Equip the same type of Revelation Cards to activate Set Effects.=Экипиру�
 Equipped=Экипировано
 Error loading settings.=Ошибка загрузки настроек.
 Error: tnxotb-[Text_textContent_1027036]=Ошибка: tnxotb-[Text_textContent_1027036]
-r:"^Even if (.+?)(.+?) were charged in the Phantom Thief Trial\, a total of 92\,625 Cognition Crystals will be returned after the release version starts\. The return calculations are broken down as follows\:\n<sprite\=0 tint\=1>(.+?)(.+?) \- (.+?)(.+?) returned\: \(30\\xd710 <color\=#EADE10>400%%</color>\) \= 1200 Cognition Crystals\.\n<sprite\=0 tint\=1>(.+?)(.+?) \- (.+?)(.+?) returned\: \(170\\xd710 <color\=#EADE10>300%%</color>\) \= 5100 Cognition Crystals\.\n<sprite\=0 tint\=1>(.+?)(.+?) \- (.+?)(.+?) returned\: \(1800\\xd710 <color\=#EADE10>200%%</color>\) \= 3600 Cognition Crystals\.\n<sprite\=0 tint\=1>(.+?)(.+?) \- (.+?)(.+?) returned\: \(3000\\xd710<color\=#EADE10>150%%</color>\) \= 4500 Cognition Crystals\.\n<sprite\=0 tint\=1>(.+?)(.+?) or more returned\: \(415\\xd710 <color\=#EADE10>130%%</color>\) \= 5395 Cognition Crystals\.\nTotal\: 1200 \+ 5100 \+ 3600 \+ 4500 \+ 5395 \= 92\,695 Cognition Crystals$"="Даже если $1$2 были получены в ходе Испытания Призрачных воров, после запуска релизной версии будет возвращено 92 625 Кристаллов Познания. Расчеты возврата следующие:\n<sprite\=0 tint\=1>$3$4 - $5$6 возвращено: (30\xd710 <color\=#EADE10>400%%</color>) \= 1200 Кристаллов Познания.\n<sprite\=0 tint\=1>$7$8 - $9$10 возвращено: (170\xd710 <color\=#EADE10>300%%</color>) \= 5100 Кристаллов Познания.\n<sprite\=0 tint\=1>$11$12 - $13$14 возвращено: (1800\xd710 <color\=#EADE10>200%%</color>) \= 3600 Кристаллов Познания.\n<sprite\=0 tint\=1>$15$16 - $17$18 возвращено: (3000\xd710<color\=#EADE10>150%%</color>) \= 4500 Кристаллов Познания.\n<sprite\=0 tint\=1>$19$20 или более возвращено: (415\xd710 <color\=#EADE10>130%%</color>) \= 5395 Кристаллов Познания.\nИтого: 1200 + 5100 + 3600 + 4500 + 5395 \= 92 695 Кристаллов Познания"
+r:"^Even if (.+?)(.+?) were charged in the Phantom Thief Trial\, a total of 92\,625 Cognition Crystals will be returned after the release version starts\. The return calculations are broken down as follows\:\n<sprite\=0 tint\=1>(.+?)(.+?) \- (.+?)(.+?) returned\: \(30\\xd710 <color\=#EADE10>400%%</color>\) \= 1200 Cognition Crystals\.\n<sprite\=0 tint\=1>(.+?)(.+?) \- (.+?)(.+?) returned\: \(170\\xd710 <color\=#EADE10>300%%</color>\) \= 5100 Cognition Crystals\.\n<sprite\=0 tint\=1>(.+?)(.+?) \- (.+?)(.+?) returned\: \(1800\\xd710 <color\=#EADE10>200%%</color>\) \= 3600 Cognition Crystals\.\n<sprite\=0 tint\=1>(.+?)(.+?) \- (.+?)(.+?) returned\: \(3000\\xd710<color\=#EADE10>150%%</color>\) \= 4500 Cognition Crystals\.\n<sprite\=0 tint\=1>(.+?)(.+?) or more returned\: \(415\\xd710 <color\=#EADE10>130%%</color>\) \= 5395 Cognition Crystals\.\nTotal\: 1200 \+ 5100 \+ 3600 \+ 4500 \+ 5395 \= 92\,695 Cognition Crystals$"="Даже если $1$2 были получены в ходе Испытания Фантомных воров, после запуска релизной версии будет возвращено 92 625 Кристаллов Познания. Расчеты возврата следующие:\n<sprite\=0 tint\=1>$3$4 - $5$6 возвращено: (30\xd710 <color\=#EADE10>400%%</color>) \= 1200 Кристаллов Познания.\n<sprite\=0 tint\=1>$7$8 - $9$10 возвращено: (170\xd710 <color\=#EADE10>300%%</color>) \= 5100 Кристаллов Познания.\n<sprite\=0 tint\=1>$11$12 - $13$14 возвращено: (1800\xd710 <color\=#EADE10>200%%</color>) \= 3600 Кристаллов Познания.\n<sprite\=0 tint\=1>$15$16 - $17$18 возвращено: (3000\xd710<color\=#EADE10>150%%</color>) \= 4500 Кристаллов Познания.\n<sprite\=0 tint\=1>$19$20 или более возвращено: (415\xd710 <color\=#EADE10>130%%</color>) \= 5395 Кристаллов Познания.\nИтого: 1200 + 5100 + 3600 + 4500 + 5395 \= 92 695 Кристаллов Познания"
 Evening=Вечер
 Event=Событие
 Event Bonus Rewards Left:=Бонусных наград события осталось:
 Event Duration=Длительность события
-Event Ends in:=Событие завершится через:
-Event Ends in:=Событие завершится через:
+Event Ends in:=Событие заканчивается через:
 r:"^Event Ends in\: (.+?)$"="Событие завершится через: $1"
 Event Notice=Уведомление о событии
 Event Time Remaining:=До окончания события:
@@ -1033,7 +1030,7 @@ Fishing Time:=Время рыбалки:
 Fixed Difficulty=Фиксированная сложность
 Fixed main attributes cannot be customized.=Основные характеристики фиксированы и не могут быть изменены.
 Flames of Desire=Пламя Желания
-Flames of Desire activates when the Phantom Thieves in\nyour party and Wonder's Persona share the same Attribute.=Пламя Желания активируется, когда Призрачные Похитители в \nвашем отряде и Персона Вондера обладают одним и тем же Атрибутом.
+Flames of Desire activates when the Phantom Thieves in\nyour party and Wonder's Persona share the same Attribute.=Пламя Желания активируется, когда Фантомные воры в \nвашем отряде и Персона Вандера обладают одним и тем же Атрибутом.
 Flat 1=Фикс. 1
 Flat 2=Фикс. 2
 Flavor=Вкус
@@ -1044,7 +1041,7 @@ Foe Party=Отряд противника
 Foe Party:=Отряд противника:
 Follow the official X account=Подпишитесь на официальный аккаунт X
 Food Effect=Эффект еды
-For Phantom Passes purchased during the Phantom Thief trial period, Cognition Crystals will be returned after the official release based on the amount charged for Phantom Passes in accordance with [Rule 1]. Based on the charges, the player will also <color\=#EADE10>receive the Phantom Pass items for free</color>.=За Фантомные Пропуска, приобретенные в течение пробного периода Фантомных Похитителей, Кристаллы Познания будут возвращены после официального релиза на основе суммы, потраченной на Фантомные Пропуска в соответствии с [Правилом 1]. Исходя из этих затрат, игрок также <color\=#EADE10>получит предметы Фантомного Пропуска бесплатно</color>.
+For Phantom Passes purchased during the Phantom Thief trial period, Cognition Crystals will be returned after the official release based on the amount charged for Phantom Passes in accordance with [Rule 1]. Based on the charges, the player will also <color\=#EADE10>receive the Phantom Pass items for free</color>.=За Фантомные Пропуска, приобретенные в течение пробного периода Фантомных воров, Кристаллы Познания будут возвращены после официального релиза на основе суммы, потраченной на Фантомные Пропуска в соответствии с [Правилом 1]. Исходя из этих затрат, игрок также <color\=#EADE10>получит предметы Фантомного Пропуска бесплатно</color>.
 For each Bot equipped, +1 Combat Drone and +1 removable Data Abnormality.=За каждого экипированного Бота: +1 Боевой Дрон и +1 снимаемая Аномалия Данных.
 For each Bot equipped, gain 1 extra Self-Destruct Bot, and Self-Destruct Bot's Almighty damage increases by 100%.=За каждого экипированного Бота, получаете 1 дополнительного Бота-самоуничтожителя, а Всевышний урон Бота-самоуничтожителя увеличивается на 100%.
 r:"^For every <color\=#FFDE00>(.+?)</color> <color\=#FFDE00>(.+?)</color>\-marked orange\-rarity Revelation Cards used\, you can inscribe a one\-card set of a random <color\=#FFDE00>(.+?)</color> Revelation Card\.$"="За каждые <color\=#FFDE00>$1</color> использованные Карты Откровения оранжевой редкости с меткой <color\=#FFDE00>$2</color>, вы можете выгравировать набор из одной случайной Карты Откровения <color\=#FFDE00>$3</color>."
@@ -1054,8 +1051,8 @@ r:"^For every <color\=#FFDE00>(.+?)</color> orange\-rarity <color\=#FFDE00>(.+?)
 For more details, visit the official Persona 5: The Phantom X WeChat account.=Подробнее на официальном аккаунте Persona 5: The Phantom X в WeChat.
 For more details, visit the official Persona5: The Phantom X website.=Подробнее на официальном сайте Persona 5: The Phantom X.
 For players aged 18 and up=Для игроков от 18 лет
-For the best gameplay experience, this event is recommended for players who have witnessed the second Phantom Thief's awakening.=Для наилучшего игрового опыта это событие рекомендуется игрокам, которые стали свидетелями пробуждения второго Фантомного Похитителя.
-For the best gameplay experience, this event is recommended for players who have witnessed the third Phantom Thief's awakening.=Для наилучшего игрового опыта это событие рекомендуется игрокам, которые стали свидетелями пробуждения третьего Фантомного Похитителя.
+For the best gameplay experience, this event is recommended for players who have witnessed the second Phantom Thief's awakening.=Для наилучшего игрового опыта это событие рекомендуется игрокам, которые стали свидетелями пробуждения второго Фантомного вора.
+For the best gameplay experience, this event is recommended for players who have witnessed the third Phantom Thief's awakening.=Для наилучшего игрового опыта это событие рекомендуется игрокам, которые стали свидетелями пробуждения третьего Фантомного вора.
 Forge=Кузница
 Forge Details=Подробности ковки
 Forge Effects=Эффекты ковки
@@ -1114,16 +1111,16 @@ Get Miyu Sahara now=Получите Мию Сахара сейчас
 Get Now=Получить сейчас
 Get Now: Miyu Sahara and 3 Platinum Tickets=Получить сейчас: Мию Сахара и 3 платиновых билета
 Get Now: Miyu Sahara and 5 Platinum Tickets=Получить сейчас: Мию Сахара и 5 платиновых билетов
-Get Now: a 10-draw Contract with a 4\u2605 Phantom Thief of your choice=Получить сейчас: контракт на 10 призывов с 4★ Фантомным Вором на ваш выбор
+Get Now: a 10-draw Contract with a 4\u2605 Phantom Thief of your choice=Получить сейчас: контракт на 10 призывов с 4★ Фантомным вором на ваш выбор
 Get Schema Points=Получить очки Схемы
 Get a boost to gems earned from the first charge each rank.=Получите бонус к самоцветам, заработанным за первую покупку каждого ранга.
 Get a character below from Most Wanted contracts.=Получите одного из персонажей ниже через контракты «Самый разыскиваемый».
-Get a character below from Phantom Idol contracts.=Получите одного из персонажей ниже через контракты «Фантомный идол».
+Get a character below from Phantom Idol contracts.=Получите одного из персонажей ниже через контракты «Фантомный айдол».
 Get extra rewards for crafting!=Получите дополнительные награды за крафт!
 Get rewards at each rank. Ranks reset every season.=Получайте награды на каждом ранге. Ранги сбрасываются каждый сезон.
 Get\nTomorrow=Получить\nЗавтра
 Gift Set=Подарочный набор
-Give your Companio a name.=Дайте имя вашему компаньону.
+Give your Companio a name.=Дайте имя вашему «Компанио»у.
 Go=Перейти
 Go fishing to fill your Catch Log!=Отправляйтесь на рыбалку, чтобы заполнить журнал улова!
 Go to Recruitment=Перейти к набору
@@ -1143,8 +1140,8 @@ Guaranteed: <color\=#0F69CA>%s/%s</color>=Гарантировано: <color\=#0
 Guardian=Страж
 Guide=Руководство
 Gun Damage=Урон от огнестрела
-HP=HP
-HP Percentage=Процент HP
+HP=ОЗ
+HP Percentage=Процент ОЗ
 HaRD=Сложно
 Hang out with %s=Провести время с %s
 Hangouts=Встречи
@@ -1169,11 +1166,11 @@ Hero Level (1\u2605)=Уровень героя (1\u2605)
 Hey, the girl in the news looks like Arai.=Эй, девушка в новостях похожа на Араи.
 Hide Max\nVisitor EXP=Скрыть макс.\nопыт посетителя
 Hide Self=Скрыть себя
-Hide information about Assist Phantom Thief sets.=Скрыть информацию о наборах Вспомогательных Призрачных Похитителей.
+Hide information about Assist Phantom Thief sets.=Скрыть информацию о наборах Вспомогательных Фантомных воров.
 Hide\nNPCs=Скрыть\nНПС
 Hide\nOther Players=Скрыть\nдругих игроков
 Hide\nPersonal Info=Скрыть\nличные данные
-High HP=Высокий HP
+High HP=Высокие ОЗ
 High Score=Рекорд
 High-Rarity=Высокая редкость
 Highest Abnormality Level=Наивысший уровень аномалии
@@ -1183,7 +1180,7 @@ Highest Clear Difficulty:=Наивысшая сложность:
 Highest Combo: %s=Наивысшее комбо: %s
 Highest Level Cleared:=Наивысший пройденный уровень:
 Highest Total Rating=Наивысший общий рейтинг
-Highlight=Выделение
+Highlight=Хайлайт
 Highlight Animations=Анимации выделения
 Highlights=Выделение
 Hm? Nothing to worry about, right?=Хм? Не о чем беспокоиться, да?
@@ -1197,34 +1194,34 @@ How to Increase the Protagonist's Level=Как повысить уровень �
 How to Obtain=Как получить
 How to Unlock=Как открыть
 However, you won't receive any rewards if you haven't played at least one time.=Однако вы не получите никаких наград, если не играли хотя бы один раз.
-I feel like I haven't quite gotten the hang\nof working at Heritage Kitchen.=Я чувствую, что ещё не совсем освоился\nс работой в «Кухне Наследия».
-I feel like I haven't quite gotten the hang\nof working at the beef bowl restaurant.=Я чувствую, что ещё не совсем освоился\nс работой в ресторане гюдон.
-I feel like I haven't quite gotten the hang\nof working at the bookstore.=Я чувствую, что ещё не совсем освоился\nс работой в книжном магазине.
-I feel like I haven't quite gotten the hang\nof working at the convenience store.=Я чувствую, что ещё не совсем освоился\nс работой в комбини.
-I feel like I haven't quite gotten the hang\nof working at the cr\xeape shop.=Я чувствую, что ещё не совсем освоился\nс работой в блинной.
-I feel like I haven't quite gotten the hang\nof working at the drugstore.=Я чувствую, что ещё не совсем освоился\nс работой в аптеке.
-I feel like I haven't quite gotten the hang\nof working at the flower shop.=Я чувствую, что ещё не совсем освоился\nс работой в цветочном магазине.
-I feel like I haven't truly understood the charms\nof bathing at the bathhouse.=Я чувствую, что ещё не до конца понял прелесть\nпоходов в сэнто.
-I feel like I haven't truly understood the charms\nof training at the gym.=Я чувствую, что ещё не до конца понял прелесть\nтренировок в спортзале.
-I feel like I haven't truly understood the charms\nof watching movies at the theater.=Я чувствую, что ещё не до конца понял прелесть\nпросмотра фильмов в кинотеатре.
-I feel like I've understood the true charms of bathing at the bathhouse.=Я чувствую, что понял истинную прелесть\nпоходов в сэнто.
-I feel like I've understood the true charms of watching movies at the theater.=Я чувствую, что понял истинную прелесть\nпросмотра фильмов в кинотеатре.
-r:"^I need to\ngive max\. (.+?) card\(s\)\nto the (.+?)\.$"="Мне нужно\nотдать максимум $1 карт\n$2."
-r:"^I need to\ngive (.+?) card\(s\)\nto the (.+?)\.$"="Мне нужно\nотдать $1 карт\n$2."
+I feel like I haven't quite gotten the hang\nof working at Heritage Kitchen.=Я чувствую, что ещё не совсем освоился с работой в «Старинной кухне.
+I feel like I haven't quite gotten the hang\nof working at the beef bowl restaurant.=Я чувствую, что ещё не совсем освоился с работой в ресторане гюдон.
+I feel like I haven't quite gotten the hang\nof working at the bookstore.=Я чувствую, что ещё не совсем освоился с работой в книжном магазине.
+I feel like I haven't quite gotten the hang\nof working at the convenience store.=Я чувствую, что ещё не совсем освоился с работой в круглосуточном.
+I feel like I haven't quite gotten the hang\nof working at the cr\xeape shop.=Я чувствую, что ещё не совсем освоился с работой в крепенной.
+I feel like I haven't quite gotten the hang\nof working at the drugstore.=Я чувствую, что ещё не совсем освоился с работой в аптеке.
+I feel like I haven't quite gotten the hang\nof working at the flower shop.=Я чувствую, что ещё не совсем освоился с работой в цветочном магазине.
+I feel like I haven't truly understood the charms\nof bathing at the bathhouse.=Я чувствую, что ещё не до конца понял прелесть походов в сэнто.
+I feel like I haven't truly understood the charms\nof training at the gym.=Я чувствую, что ещё не до конца понял прелесть тренировок в спортзале.
+I feel like I haven't truly understood the charms\nof watching movies at the theater.=Я чувствую, что ещё не до конца понял прелесть просмотра фильмов в кинотеатре.
+I feel like I've understood the true charms of bathing at the bathhouse.=Я чувствую, что понял истинную прелесть походов в сэнто.
+I feel like I've understood the true charms of watching movies at the theater.=Я чувствую, что понял истинную прелесть просмотров фильмов в кинотеатре.
+r:"^I need to\ngive max\. (.+?) card\(s\)\nto the (.+?)\.$"="Мне нужно отдать максимум $1 карт\ $2."
+r:"^I need to\ngive (.+?) card\(s\)\nto the (.+?)\.$"="Мне нужно\отдать $1 карту(ы)\к $2."
 I ought to thank ya for goin' all out!\nThose items'll be replenished in a jiffy.=Я должен поблагодарить тебя за то, что ты выложился на полную!\nЭти предметы пополнятся вмиг.
 I think I've gotten the hang of observing others.=Думаю, я приловчился наблюдать за другими.
 I think I've gotten the hang of serving customers.=Думаю, я приловчился обслуживать клиентов.
 I think I've gotten the hang of training at the gym.=Думаю, я приловчился тренироваться в спортзале.
-I think I've gotten the hang of working at Heritage Kitchen.=Думаю, я освоился с работой в «Кухне Наследия».
+I think I've gotten the hang of working at Heritage Kitchen.=Думаю, я освоился с работой в «Старинной кухне».
 I think I've gotten the hang of working at the beef bowl restaurant.=Думаю, я освоился с работой в ресторане гюдон.
 I think I've gotten the hang of working at the bookstore.=Кажется, я наловчился работать в книжном.
 I think I've gotten the hang of working at the convenience store.=Кажется, я наловчился работать в круглосуточном магазине.
-I think I've gotten the hang of working at the cr\xeape shop.=Кажется, я наловчился работать в блинной.
+I think I've gotten the hang of working at the cr\xeape shop.=Кажется, я наловчился работать в крепенной.
 I think I've gotten the hang of working at the drugstore.=Кажется, я наловчился работать в аптеке.
 I think I've gotten the hang of working at the flower shop.=Кажется, я наловчился работать в цветочном магазине.
 I'm about to enter a serious relationship with %s.=Кажется, у меня вот-вот завяжутся серьёзные отношения с %s.
 I'm feeling luckier after the fortune-telling.=После гадания мне стало везти больше.
-r:"^If four (.+?)(.+?) Marthym\'s Rewards Cards were purchased during the trial period\, the amount charged will be (.+?)(.+?)\, and Cognition Crystals will be returned after the game\'s release in accordance with \[Rule 1\]\. The player will also receive two Marthym\'s Rewards Cards\. \(Cognition Crystals received through Marthym\'s Rewards Card won\'t be counted toward returns for \[Rule 1\]\.\)$"="Если в течение пробного периода было приобретено четыре Наградные карты Мартима стоимостью $1$2, взимаемая сумма составит $3$4, и Кристаллы Когниции будут возвращены после выхода игры в соответствии с [Правилом 1]. Игрок также получит две Наградные карты Мартима. (Кристаллы Когниции, полученные через Наградную карту Мартима, не будут учитываться при возврате по [Правилу 1].)"
+r:"^If four (.+?)(.+?) Marthym\'s Rewards Cards were purchased during the trial period\, the amount charged will be (.+?)(.+?)\, and Cognition Crystals will be returned after the game\'s release in accordance with \[Rule 1\]\. The player will also receive two Marthym\'s Rewards Cards\. \(Cognition Crystals received through Marthym\'s Rewards Card won\'t be counted toward returns for \[Rule 1\]\.\)$"="Если в течение пробного периода было приобретено четыре Наградные карты Мартима стоимостью $1$2, взимаемая сумма составит $3$4, и Когнитивные кристаллы будут возвращены после выхода игры в соответствии с [Правилом 1]. Игрок также получит две Наградные карты Мартима. (Когнитивные кристаллы, полученные через Наградную карту Мартимы, не будут учитываться при возврате по [Правилу 1].)"
 If set to "Off," anyone may apply.=Если установлено «Выкл.», любой может подать заявку.
 If there is a significant amount of lag, the accuracy may be affected. Try lowering graphics settings.=Если наблюдаются сильные задержки, это может повлиять на точность. Попробуйте понизить настройки графики.
 If you abort the infiltration, you will lose all rewards obtained in the Palace. Are you sure you want to quit?=Если вы прервёте проникновение, вы потеряете все награды, полученные во Дворце. Вы уверены, что хотите выйти?
@@ -1246,7 +1243,7 @@ In 1st place, the Tycoon gains (%s+%s) x 2/3 \= <color\=#87CEEB>%s coins</color>
 In 2nd place, the Rich gains (%s+%s) x 1/3 \= <color\=#87CEEB>%s coins</color>. %s=За 2-е место Богач получает (%s+%s) x 1/3 \= <color\=#87CEEB>%s монет</color>. %s
 In 3rd place, the Poor must pay <color\=#87CEEB>%s coins</color>. %s=За 3-е место Бедняк должен заплатить <color\=#87CEEB>%s монет</color>. %s
 In 4th place, the Beggar must pay <color\=#87CEEB>%s coins</color>. %s=За 4-е место Нищий должен заплатить <color\=#87CEEB>%s монет</color>. %s
-In <color\=#FFC000>%s</color>: Your Spiritual Endurance will increase by <color\=#FFC000>%s</color> (Max: %s). All Phantom Thieves' Challenge Attempts will increase by <color\=#FFC000>%s</color> (Max: %s).=В <color\=#FFC000>%s</color>: Ваша Духовная выносливость увеличится на <color\=#FFC000>%s</color> (Макс.: %s). Попытки прохождения испытаний всех Призрачных похитителей увеличатся на <color\=#FFC000>%s</color> (Макс.: %s).
+In <color\=#FFC000>%s</color>: Your Spiritual Endurance will increase by <color\=#FFC000>%s</color> (Max: %s). All Phantom Thieves' Challenge Attempts will increase by <color\=#FFC000>%s</color> (Max: %s).=В <color\=#FFC000>%s</color>: Ваша Духовная выносливость увеличится на <color\=#FFC000>%s</color> (Макс.: %s). Попытки прохождения испытаний всех Фантомных воров увеличатся на <color\=#FFC000>%s</color> (Макс.: %s).
 In Endless Mode, sell as many as you can until you fail.=В Бесконечном режиме продавайте сколько сможете, пока не проиграете.
 In Progress=В процессе
 In accordance with the "Notice on the Management of Online Game Addiction among Minors" issued by the State Press Publishing House, minors can only log into the game between 8 pm and 9 pm on Fridays, Saturdays, Sundays, and public holidays.\n\nThank you for your understanding.=В соответствии с «Уведомлением об управлении зависимостью от онлайн-игр среди несовершеннолетних», изданным Государственным издательством печати, несовершеннолетние могут входить в игру только с 20:00 до 21:00 по пятницам, субботам, воскресеньям и в государственные праздники.\n\nСпасибо за понимание.
@@ -1268,13 +1265,13 @@ Intel:=Разведданные:
 Intermediate=Средний
 Intermediate Buff=Среднее усиление
 Invalid room number.=Неверный номер комнаты.
-Invitation from Ann Takamaki=Приглашение от Энн Такамаки
-Invitation from a Phantom Thief=Приглашение от Призрачного Похитителя
+Invitation from Ann Takamaki=Приглашение от Анн Такамаки
+Invitation from a Phantom Thief=Приглашение от Фантомного вора
 Invite code:=Код приглашения:
-Invited Phantom Thieves must enter the invite code below to recieve rewards!=Приглашенные Призрачные Похитители должны ввести код приглашения ниже, чтобы получить награды!
+Invited Phantom Thieves must enter the invite code below to recieve rewards!=Приглашенные Фантомные воры должны ввести код приглашения ниже, чтобы получить награды!
 r:"^Is this your birthdate\? \n (.+?)/(.+?)$"="Это ваша дата рождения? \n $1/$2"
 It is recommended to play this event after completing the main story chapter Riko's Awakening. Otherwise, it may impact your experience of the story.=Рекомендуется пройти это событие после завершения основной сюжетной главы «Пробуждение Рико». В противном случае это может повлиять на ваше восприятие истории.
-r:"^It seems that (.+?) has something they want to talk about\.$"="Похоже, $1 хочет поговорить."
+r:"^It seems that (.+?) has something they want to talk about\.$"="похоже, $1 хочет поговорить."
 It seems you are not connected to Wi-Fi. Do you want to download it anyway?=Похоже, вы не подключены к Wi-Fi. Вы все равно хотите загрузить?
 It seems you've reached Fishing Level %d %s.=Похоже, вы достигли Уровня рыбалки %d %s.
 It seems you've reached Fishing Lv. %d .\n%s=Похоже, вы достигли уровня Рыболовства %d.\n%s
@@ -1300,7 +1297,7 @@ Join Request=Запрос на присоединение
 Join Requirements: %s=Требования для вступления: %s
 Join Settings=Настройки вступления
 Join WeChat Group=Вступить в группу WeChat
-Join a Companio to get ranking rewards.=Вступите в Компанио, чтобы получить награды за рейтинг.
+Join a Companio to get ranking rewards.=Вступите в «Компанио», чтобы получить награды за рейтинг.
 Joined=Вступили
 r:"^Joined (.+?)/(.+?)/(.+?)$"="Вступили $1/$2/$3"
 Joker=Джокер
@@ -1311,7 +1308,7 @@ Kira Kitazato's Exclusive Version Set=Набор эксклюзивной вер
 Kokatsu Academy seaside classes: Rediscover your seaside desires=Академия Кокацу, прибрежные занятия: Откройте заново свои морские желания
 Kokatsu Academy summer classes: Rediscover your seaside desires!=Академия Кокацу, летние занятия: Откройте заново свои морские желания!
 Korean Voice=Корейская озвучка
-Kotone Montagne=Котонэ Монтань
+Kotone Montagne=Котоне Монтень
 Language Settings=Настройки языка
 Last Season Records=Результаты прошлого сезона
 Last Season Summary=Сводка прошлого сезона
@@ -1323,7 +1320,7 @@ Leader Info=Информация о лидере
 Leader Lv.=Ур. лидера
 Least number of actions:=Минимум действий:
 Least number of actions: This difficulty level has not been attempted=Минимум действий: На этом уровне сложности попыток не было
-Leave Companio=Отпустить компаньона
+Leave Companio=Покинуть «Компанио»
 Leave the station=Покинуть станцию
 Left=Осталось
 Left This Week:=Осталось на этой неделе:
@@ -1383,7 +1380,7 @@ Logging in..=Вход..
 Logging in...=Вход...
 Logging in......=Вход......
 Login Failed %s=Вход не удался %s
-Long press a Thief to check stats=Задержите нажатие на Призрачном Воре, чтобы проверить характеристики
+Long press a Thief to check stats=Длительное нажатие на Воре позволяет проверить его характеристики
 Long press icons to view info=Задержите нажатие на значках, чтобы просмотреть информацию
 Lost Items=Потерянные предметы
 Lost Items Obtained: %d=Получено потерянных предметов: %d
@@ -1391,7 +1388,6 @@ Loungewear=Домашняя одежда
 Love Fortune=Гадание на любовь
 Lover's Standoff=Противостояние влюблённых
 Lower Speed=Снижение скорости
-Lv.=Ур.
 Lv.=Ур.
 Maid Futaba Set\n<color\=#FFFC40>On sale for a limited time in the Shop!</color>=Набор горничной Футабы\n<color\=#FFFC40>В продаже ограниченное время в Магазине!</color>
 Mail=Почта
@@ -1403,18 +1399,18 @@ Main Story Progress=Прогресс основного сюжета
 Main attributes cannot be customized.=Основные характеристики нельзя настроить.
 Make 5 goals.=Поставь 5 целей.
 Make sure you haven't gotten anything mixed up now!=Смотри, ничего не напутай теперь!
-Makoto Niijima=Макото Ниидзима
+Makoto Niijima=Макото Нидзима
 Makoto-only Outfit:=Наряд только для Макото:
 Manage Visitors=Управление посетителями
 Marbles Collected:=Собрано шариков:
 Marian=Мариан
 Mark=Марк
 Mark:=Отметка:
-Marthym's Big Sale=Большая распродажа Мартима
-Marthym's Rewards Card=Бонусная карта Мартима
-Marthym's Rewards Card Return Rules=Правила возврата бонусной карты Мартима
+Marthym's Big Sale=Большая распродажа Мартимы
+Marthym's Rewards Card=Бонусная карта Мартимы
+Marthym's Rewards Card Return Rules=Правила возврата бонусной карты Мартимы
 Maruha=Маруха
-MasTer=Мастер
+MasTer=МАСТЕР
 Masaki Ashiya=Масаки Асия
 Masaki Ashiya Synergy Now Available=Синергия с Масаки Асией теперь доступна
 Masaki Ashiya's Exclusive Version Set=Эксклюзивный набор Масаки Асии
@@ -1442,7 +1438,7 @@ Maximum level=Максимальный уровень
 Maximum level reached=Достигнут максимальный уровень
 Medic=Медик
 Medicine Name=Название лекарства
-Melee Attack=Рукопашная атака
+Melee Attack=Ближний бой
 Melee Weapons=Оружие ближнего боя
 Ranged Weapons=Оружие дальнего боя
 Armor=Броня
@@ -1457,7 +1453,7 @@ Members Online=Участники онлайн
 Members:=Участники:
 Members: %s/%s=Участники: %s/%s
 Members\nFollowing=Участники\nПодписки
-Mementos=Мэментос
+Mementos=Мементос
 Memories\n%s/%s=Воспоминания\n%s/%s
 Memory=Воспоминание
 Merchandise Exchange Code: %s=Код обмена товаров: %s
@@ -1491,9 +1487,9 @@ Monthly Limited=Ежемесячное ограничение
 Monthly Set=Ежемесячный набор
 Morgana=Моргана
 r:"^Most Sales\: (.+?)$"="Лидер продаж: $1"
-Most Wanted 4\u2605 Phantom Thieves=Самые разыскиваемые 4★ Призрачные Похитители
+Most Wanted 4\u2605 Phantom Thieves=Самые разыскиваемые 4★ Фантомные воры
 Most Wanted 4\u2605 Weapons=Самое разыскиваемое 4★ Оружие
-Most Wanted 5\u2605 Phantom Thieves=Самые разыскиваемые 5★ Призрачные Похитители
+Most Wanted 5\u2605 Phantom Thieves=Самые разыскиваемые 5★ Фантомные воры
 Most Wanted 5\u2605 Weapons=Самое разыскиваемое 5★ Оружие
 Mouse\nCamera Sensitivity=Мышь\nЧувствительность камеры
 Mouse\nZoom Sensitivity=Мышь\nЧувствительность масштабирования
@@ -1551,18 +1547,18 @@ New skill at Lv. %s=Новый навык на ур. %s
 Newcomer Contracts=Контракты новичка
 Next Level Effect=Эффект следующего уровня
 Next Level Effect:=Эффект следующего уровня:
-Next Talent: Wonder Lv. %s=Следующий талант: Чудо ур. %s
-Next rank unlocks when Wonder reaches Lv. %s=Следующий ранг разблокируется, когда Чудо достигнет ур. %s
-Next time, obtain a <color\=#EADE10>5\u2605 Phantom Idol Contract x1</color>. Use this to obtain one of the Phantom Thieves below at random.=В следующий раз вы получите <color\=#EADE10>5★ Контракт с Призрачным Идолом x1</color>. Используйте его, чтобы случайным образом получить одного из Призрачных Похитителей ниже.
+Next Talent: Wonder Lv. %s=Следующий талант: Вандер ур. %s
+Next rank unlocks when Wonder reaches Lv. %s=Следующий ранг разблокируется, когда Вандер достигнет ур. %s
+Next time, obtain a <color\=#EADE10>5\u2605 Phantom Idol Contract x1</color>. Use this to obtain one of the Phantom Thieves below at random.=В следующий раз вы получите <color\=#EADE10>5★ Контракт с Фантомным Айдолом x1</color>. Используйте его, чтобы случайным образом получить одного из Фантомных воров ниже.
 Nickname=Никнейм
-Nightmare Catcher=Ловец кошмаров
+Nightmare Catcher=Ловец ночных кошмаров
 No=Нет
 No Assist Thieves assigned.=Воры-помощники не назначены.
 No Chat History=Нет истории чата.
-No Companio=Нет компаньонов.
+No Companio=Нет «Компанио».
 No Companio join requests available.=Нет доступных заявок на присоединение.
-No Companios.=Нет компаньонов.
-No MaraThon Energy.=Нет энергии МараТон.
+No Companios.=Нет «Компанио».
+No MaraThon Energy.=Нет энергии МараТона.
 No Persona selected.=Персона не выбрана.
 No Personas available.=Нет доступных Персон.
 No Returns=Нет возвратов.
@@ -1622,12 +1618,12 @@ No usable items.=Нет доступных предметов.
 No way! Seriously?=Не может быть! Серьёзно?
 No weapons equipped=Оружие не экипировано
 No! Motoha didn't do anythi\u2014!=Нет! Мотоха ничего не дела—!
-NoRMaL=НОРМАЛЬНО
-Non-Wonder allies deal weakness/All-Out Attacks=Союзники, не являющиеся Чудесами, используют слабости/проводят Тотальные атаки
+NoRMaL=НоРМаЛЬНО
+Non-Wonder allies deal weakness/All-Out Attacks=Союзники, не относящиеся к Вандеру, используют слабости/проводят Совместные атаки
 =Нет данных
 Normal=Обычный
 Normal Cleared=Обычный пройден
-Not Attempted=Попыток не было
+Not Attempted=Не Попробовано
 Not Bought=Не куплено
 Not Customized=Не настроено
 Not Equipped=Не экипировано
@@ -1641,8 +1637,8 @@ Not enough schema points.=Недостаточно очков схемы.
 Not found.=Не найдено.
 Not owned=Не получено
 Note (1-7 characters)=Заметка (1–7 символов)
-Note:\nIf you obtain a Phantom Thief or Persona that you already have, it will be automatically exchanged for the items below based on its rarity and how many times you've obtained it.\n5\u2605 Phantom Thief\nObtained 2 - 7 Times\nThat Phantom Thief's Cognitite x1, Violet Cognigem x30\n\nObtained 8+ Times\nViolet Cognigem x75=Примечание:\nЕсли вы получите уже имеющегося Призрачного Вора или Персону, они будут автоматически обменяны на указанные ниже предметы, в зависимости от их редкости и количества повторных получений.\nПризрачный Вор 5★\nПолучено 2–7 раз\nКогнитит этого Призрачного Вора x1, Фиолетовый Когнигем x30\n\nПолучено 8+ раз\nФиолетовый Когнигем x75
-Note:\nIf you obtain a Phantom Thief that you already have, it will be automatically exchanged for the items below based on its rarity and how many times you've obtained it.\n5\u2605 Phantom Thief\nObtained 2 - 7 Times\nThat Phantom Thief's Cognitite x1, Violet Cognigem x30\n\nObtained 8+ Times\nViolet Cognigem x75=Примечание:\nЕсли вы получите уже имеющегося Призрачного Вора, он будет автоматически обменен на указанные ниже предметы, в зависимости от его редкости и количества повторных получений.\nПризрачный Вор 5★\nПолучено 2–7 раз\nКогнитит этого Призрачного Вора x1, Фиолетовый Когнигем x30\n\nПолучено 8+ раз\nФиолетовый Когнигем x75
+Note:\nIf you obtain a Phantom Thief or Persona that you already have, it will be automatically exchanged for the items below based on its rarity and how many times you've obtained it.\n5\u2605 Phantom Thief\nObtained 2 - 7 Times\nThat Phantom Thief's Cognitite x1, Violet Cognigem x30\n\nObtained 8+ Times\nViolet Cognigem x75=Примечание:\nЕсли вы получите уже имеющегося Фантомного вора или Персону, они будут автоматически обменяны на указанные ниже предметы, в зависимости от их редкости и количества повторных получений.\nФантомный вор 5★\nПолучено 2–7 раз\nКогнитит этого Фантомного вора x1, Фиолетовый Когнигем x30\n\nПолучено 8+ раз\nФиолетовый Когнигем x75
+Note:\nIf you obtain a Phantom Thief that you already have, it will be automatically exchanged for the items below based on its rarity and how many times you've obtained it.\n5\u2605 Phantom Thief\nObtained 2 - 7 Times\nThat Phantom Thief's Cognitite x1, Violet Cognigem x30\n\nObtained 8+ Times\nViolet Cognigem x75=Примечание:\nЕсли вы получите уже имеющегося Фантомного вора, он будет автоматически обменен на указанные ниже предметы, в зависимости от его редкости и количества повторных получений.\nФантомный вор 5★\nПолучено 2–7 раз\nКогнитит этого Фантомного вора x1, Фиолетовый Когнигем x30\n\nПолучено 8+ раз\nФиолетовый Когнигем x75
 Nothing equipped=Ничего не экипировано
 Nothing here yet.=Здесь пока ничего нет.
 Notices=Объявления
@@ -1656,8 +1652,8 @@ OK=ОК
 Objective Clear=Цель выполнена
 Obtain=Получить
 Obtain %s=Получить %s
-Obtain <size\=72><sprite\=37 tint\=1></size><size\=34><color\=#FFE500> x5</color></size> from the season total when\nyou purchase a Premium Phantom Pass!=Получите <size\=72><sprite\=37 tint\=1></size><size\=34><color\=#FFE500> x5</color></size> из общего сезонного запаса при\nпокупке Премиум-фантомного пропуска!
-Obtain Qualia EXP when\nPhantom Thief Rating increases.=Получите Опыт Квалии при\nповышении Рейтинга Фантомного Похитителя.
+Obtain <size\=72><sprite\=37 tint\=1></size><size\=34><color\=#FFE500> x5</color></size> from the season total when\nyou purchase a Premium Phantom Pass!=Получите <size\=72><sprite\=37 tint\=1></size><size\=34><color\=#FFE500> x5</color></size> из общего сезонного запаса при\nпокупке Премиальный-фантомного пропуска!
+Obtain Qualia EXP when\nPhantom Thief Rating increases.=Получите Опыт Квалии при\nповышении Рейтинга Фантомного вора.
 Obtain Skill=Получить навык
 Obtain at %s%% progress=Получить при %s%% прогресса
 Obtain at Ticket Level %s=Получить при уровне билета %s
@@ -1690,7 +1686,7 @@ Only players who meet the level conditions can ask to join.=Только игр�
 Only sold at %s.=Продается только в %s.
 Only the current top 1000 Extra Mode players are displayed.=Отображаются только текущие 1000 лучших игроков Режима «Экстра».
 Only the current top 1000 Ranked Match players are displayed.=Отображаются только текущие 1000 лучших игроков Рейтингового матча.
-Only the currently top 2000 ranked Phantom Thieves are displayed.=Отображаются только текущие 2000 Призрачных Похитителей с наивысшим рейтингом.
+Only the currently top 2000 ranked Phantom Thieves are displayed.=Отображаются только текущие 2000 Фантомных воров с наивысшим рейтингом.
 Only unlocked sub-attributes will be updated during the update.=Во время обновления будут обновлены только разблокированные субатрибуты.
 Open=Открыть
 Open (%s)=Открыть (%s)
@@ -1700,7 +1696,7 @@ Ops=Операции
 Orange=Оранжевый
 Orange Power Revelation=Откровение оранжевой силы
 Orders Failed=Приказы не выполнены
-Outfit Details:\n1. You can change a character's outfit on the Thieves screen.\n2. After changing, the character will have a new look in battle and in the Metaverse.=Подробности наряда:\n1. Вы можете сменить наряд персонажа на экране Похитителей.\n2. После смены наряда персонаж будет выглядеть по-новому в бою и в Метавселенной.
+Outfit Details:\n1. You can change a character's outfit on the Thieves screen.\n2. After changing, the character will have a new look in battle and in the Metaverse.=Подробности наряда:\n1. Вы можете сменить наряд персонажа на экране воров.\n2. После смены наряда персонаж будет выглядеть по-новому в бою и в Метавселенной.
 Overclock=Разгон
 Overclock Details=Подробности разгона
 Overclock Level=Уровень разгона
@@ -1717,10 +1713,9 @@ Participants=Участники
 Participants:=Участники:
 Participate once to earn rank rewards=Примите участие один раз, чтобы получить награды за ранг
 Partner: %s=Напарник: %s
-Parts=Детали
-Party=Отряд
+Party=Партия
 Party Characteristics=Характеристики отряда
-Party Formation=Формирование отряда
+Party Formation=Состав отряда
 Party Reference=Информация об отряде
 Party can't be changed.=Отряд нельзя изменить.
 Party is in use for Metro of Desire.=Отряд задействован в Метро Желаний.
@@ -1738,34 +1733,34 @@ Perseverance=Настойчивость
 Persona=Персона
 Persona Lesson=Урок Персоны
 Persona rarity:=Редкость Персоны:
-Persona's Cognitite=Когнитив Персоны
+Persona's Cognitite=Когнитит Персоны
 Persona5: The Phantom X Target Demographic=Целевая аудитория Persona 5: The Phantom X
 Persona\nNot Equipped=Персона\nНе экипирована
 Personal Best=Личный рекорд
 Personal Data=Личные данные
 Personas=Персоны
 Pet Companio=Питомец-спутник
-Phantom Idol Draft X=Призрачный Идол: Драфт X
+Phantom Idol Draft X=Фантомный айдол: Драфт X
 Phantom Pass=Фантомный Пропуск
 Phantom Pass Level Up=Фантомный Пропуск: Повышение уровня
 Phantom Pass Level Up!=Фантомный Пропуск: Уровень повышен!
 Phantom Pass Missions=Задания Фантомного Пропуска
 Phantom Pass Refund Rules=Правила возврата Фантомного Пропуска
-Phantom Thief=Призрачный Вор
-Phantom Thief Awareness=Известность Призрачных Воров
-Phantom Thief Panel=Панель Призрачного Вора
-Phantom Thief Rating=Рейтинг Призрачного Вора
-Phantom Thief level cap increased to \n<color\=#FFF000>Lv. %s</color>.=Предел уровня Призрачного Вора повышен до \n<color\=#FFF000>ур. %s</color>.
-r:"^Phantom Thief visitor capacity\: (.+?)$"="Вместимость посетителей Призрачного Вора: $1"
-Phantom Thieves=Призрачные Похитители
-Phantom Thieves Visiting:=Призрачные Похитители-гости:
-Phantom Thieves must be at least level %s.=Призрачные Похитители должны быть минимум уровня %s.
+Phantom Thief=Фантомный вор
+Phantom Thief Awareness=Известность Фантомных воров
+Phantom Thief Panel=Панель Фантомного вора
+Phantom Thief Rating=Рейтинг Фантомного вора
+Phantom Thief level cap increased to \n<color\=#FFF000>Lv. %s</color>.=Предел уровня Фантомного вора повышен до \n<color\=#FFF000>ур. %s</color>.
+r:"^Phantom Thief visitor capacity\: (.+?)$"="Вместимость посетителей Фантомного вора: $1"
+Phantom Thieves=Фантомные воры
+Phantom Thieves Visiting:=Фантомные воры-гости:
+Phantom Thieves must be at least level %s.=Фантомные воры должны быть минимум уровня %s.
 Phone Number=Номер телефона
 Pin=Значок
 Pink=Розовый
 Place Item=Поместить предмет
-Place Phantom Thief=Поместить Призрачного Похитителя
-Place a Phantom Thief to raise your\nVisitor EXP and get P Medals=Поместите Призрачного Похитителя, чтобы повысить опыт посетителя и получить P-медали
+Place Phantom Thief=Поместить Фантомного вора
+Place a Phantom Thief to raise your\nVisitor EXP and get P Medals=Поместите Фантомного вора, чтобы повысить опыт посетителя и получить P-медали
 Play Realm of Repression\nto gain EXP!=Играйте в Царство Подавления\nдля получения опыта!
 Player=Игрок
 Player Boss Points=Очки игрока (Босс)
@@ -1787,7 +1782,7 @@ Please enter an invite code.=Пожалуйста, введите код при�
 Please enter channel number (1-999).=Пожалуйста, введите номер канала (1-999).
 Please enter serial code.=Пожалуйста, введите серийный код.
 Please enter the serial code.=Пожалуйста, введите серийный код.
-Please enter your Phantom Thief name.=Пожалуйста, введите имя вашего Призрачного Похитителя.
+Please enter your Phantom Thief name.=Пожалуйста, введите имя вашего Фантомного вора.
 Please enter your address (including house/apt number).=Пожалуйста, введите ваш адрес (включая номер дома/квартиры).
 Please enter your birthdate.=Пожалуйста, введите вашу дату рождения.
 Please enter your date of birth.=Пожалуйста, введите вашу дату рождения.
@@ -1797,7 +1792,7 @@ Please enter your name.\n(This can be changed later.)=Пожалуйста, вв
 Please enter your name.\n(Your name can be changed later.)=Пожалуйста, введите ваше имя.\n(Имя можно будет изменить позже.)
 Please enter your phone number.=Пожалуйста, введите ваш номер телефона.
 Please enter your surname.=Пожалуйста, введите вашу фамилию.
-Please join the Companio first.=Сначала вступите в Companio.
+Please join the Companio first.=Сначала вступите в «Компанио».
 Please purchase %s first.=Сначала приобретите %s.
 Please select=Пожалуйста, сделайте выбор.
 Please select a <color\=#FCEA92>5</color>\u2605 weapon.=Пожалуйста, выберите <color\=#FCEA92>5</color>\u2605-звездочное оружие.
@@ -1809,13 +1804,12 @@ Point Bonus:=Бонус очков:
 Point Limit:=Лимит очков:
 Point Multiplier: +100%=Множитель очков: +100%
 Point Progress:=Прогресс очков:
-Points=Очки
 Points are only earned by damaging foes marked with Boss or Score.=Очки начисляются только за нанесение урона противникам, помеченным как «Босс» или «Счёт».
 Points:=Очки:
 Points: %s=Очки: %s
 Post-Processing\nEffects=Постэффекты\n
 Preferred +%s=Предпочтительно +%s
-Premium Rewards (Partial)=Премиум-награды (Частично)
+Premium Rewards (Partial)=Премиальный-награды (Частично)
 Preorder Bonus=Бонус за предзаказ
 Present=Текущее
 r:"^Preset Plan (.+?)$"="Готовый план $1"
@@ -1875,7 +1869,7 @@ Purchased=Куплено
 Purchased %d/%d times (Resets daily at 8 PM UTC)=Куплено %d/%d раз (сброс ежедневно в 20:00 по UTC)
 Purple=Фиолетовый
 Purple or lower=Фиолетовый или ниже
-Push Notifications=Push-уведомления
+Push Notifications=Push Уведомления
 Puzzle Progress=Прогресс головоломки
 Pyramid Arc=Арка Пирамиды
 Qualia Level Details=Подробности уровня Qualia
@@ -1902,11 +1896,10 @@ Raise any stat to level 5 to unlock=Повысьте любую характер
 r:"^Raise visitor level with (.+?)\:$"="Повысить уровень посетителя: $1"
 Random Attribute=Случайный атрибут
 Random Item=Случайный предмет
-r:"^Random main attributes for (.+?)\-marked cards include the following\: (.+?)$"="Случайные основные атрибуты для карт, помеченных $1, включают: $2"
+r:"^Random main attributes for (.+?)\-marked cards include the following\: (.+?)$"="Случайные основные атрибуты для карт с меткой $1 включают следующее: $2"
 Randomize Attribute=Рандомизировать атрибут
 Randomly obtain one of the following skills.=Получите один из следующих навыков случайным образом.
-Ranged Attack=Дистанционная атака
-Rank=Ранг
+Ranged Attack=Дальний бой
 Rank=Ранг
 Rank %s=Ранг %s
 Rank %s reward=Награда за ранг %s
@@ -1927,7 +1920,6 @@ Rank up unlocks when %s reaches Lv. %s=Повышение ранга стане�
 r:"^Rank (.+?) Ability\:\n$"="Способность ранга $1:\n"
 Rank-Up Status:=Статус повышения ранга:
 Rank:=Ранг:
-Rank:=Ранг:
 Ranking=Рейтинг
 Ranking Info=Информация о рейтинге
 Ranking Rewards=Награды рейтинга
@@ -1945,7 +1937,7 @@ Rating: %d=Рейтинг: %d
 Reach %s level %s=Достигните уровня %s для %s
 Reach %s level %s. Reach %s level %s=Достигните уровня %s для %s. Достигните уровня %s для %s
 Reach %s%s Rating.=Достигните рейтинга %s%s
-Reach Talent level %d to further level up Phantom Thief.=Достигните уровня Таланта %d, чтобы продолжить повышать уровень Призрачного Похитителя.
+Reach Talent level %d to further level up Phantom Thief.=Достигните уровня Таланта %d, чтобы продолжить повышать уровень Фантомного вора.
 Reach level %s=Достигните уровня %s
 r:"^Reach (.+?) customer satisfaction$"="Достигните $1 удовлетворённости клиентов"
 Reached limit for daily Wandering Shadow rewards.=Достигнут лимит ежедневных наград за Блуждающую Тень.
@@ -1968,7 +1960,7 @@ Recollections=Воспоминания
 Recommended=Рекомендуемое
 Recommended Attributes=Рекомендуемые характеристики
 Recommended Equipment=Рекомендуемое снаряжение
-Recommended Party=Рекомендуемый отряд
+Recommended Party=Рекомендуемая партия
 Recommended Revelations=Рекомендуемые откровения
 r:"^Recommended Revelations (.+?)$"="Рекомендуемые откровения $1"
 Recommended Set=Рекомендуемый комплект
@@ -2042,7 +2034,7 @@ Review=Обзор
 Review Request=Запрос на проверку
 Revise your party and try again.=Измените состав отряда и попробуйте снова.
 Revolution=Революция
-Reward Details=Подробности награды
+Reward Details=Детали Награды
 Reward Information:=Информация о награде:
 Reward Name=Название награды
 Reward Type=Тип награды
@@ -2060,7 +2052,7 @@ Rewards will be sent to your inbox after the week's results have been calculated
 Rewards:=Награды:
 Rewards: <color\=#0F69CA>%s/%s</color>=Награды: <color\=#0F69CA>%s/%s</color>
 Rich Bonus=Щедрый бонус
-Riko Tanemura=Рико Танэмура
+Riko Tanemura=Рико Танемура
 Robot=Робот
 Role=Роль
 Role Details=Описание роли
@@ -2105,7 +2097,7 @@ Seals Missing:=Отсутствующие печати:
 Seals Used:=Использовано печатей:
 Seals held: %s=Печатей в наличии: %s
 Search=Поиск
-Seaside Tomoko Noge=Приморская Томоко Ногэ
+Seaside Tomoko Noge=Прибрежная Томоко Ноге
 Seaside classes will be held at Shirosato Beach. Make the most of your summer vacation gaining valuable experience at the beach and making unforgettable memories with friends. Participation is optional (and free of charge). Uniforms not required.=Приморские занятия пройдут на пляже Сиросато. Проведите незабываемые летние каникулы, набираясь ценного опыта на пляже и создавая воспоминания с друзьями. Участие необязательно (и бесплатно). Форма не требуется.
 Season 1 On Now!=Сезон 1 активен!
 Season 2 <size\=40>Begins</size>!=Сезон 2 <size\=40>Начинается</size>!
@@ -2132,7 +2124,7 @@ Select Package (required)=Выбрать набор (обязательно)
 Select Party Playstyle=Выбрать стиль игры отряда
 Select Syrup=Выбрать сироп
 Select Weapon (Standby)=Выбрать оружие (Резервное)
-Select a %s\u2605 Phantom Thief from the list.=Выберите %s★ Призрачного Вора из списка.
+Select a %s\u2605 Phantom Thief from the list.=Выберите %s★ Фантомного вора из списка.
 Select a %s\u2605 weapon from the list.=Выберите %s★ оружие из списка.
 Select a Charm=Выбрать амулет
 Select a Lost Item=Выбрать потерянный предмет
@@ -2145,12 +2137,12 @@ Select a tutorial to view.=Выберите обучение.
 Select content to input.=Выберите контент для ввода.
 Select content to send.=Выберите контент для отправки.
 Select on of the following Space Revelation Cards=Выберите одну из следующих Карт Откровения Пространства.
-Select one %s\u2605 Phantom Thief from the list.=Выберите одного %s★ Призрачного Вора из списка.
+Select one %s\u2605 Phantom Thief from the list.=Выберите одного %s★ Фантомного вора из списка.
 Select one %s\u2605 weapon from the list.=Выберите одно %s★ оружие из списка.
 Select one tarot card=Выберите одну карту Таро.
 Select one.=Выберите одно.
-Select or drag Phantom Thieves to change the turn order.=Выберите или перетащите Призрачных Воров, чтобы изменить порядок хода.
-Select the Phantom Thief you would like. This selection can be changed at any time.=Выберите Призрачного Вора, которого вы хотите. Этот выбор можно изменить в любое время.
+Select or drag Phantom Thieves to change the turn order.=Выберите или перетащите Фантомных воров, чтобы изменить порядок хода.
+Select the Phantom Thief you would like. This selection can be changed at any time.=Выберите Фантомного вора, которого вы хотите. Этот выбор можно изменить в любое время.
 Select the fireworks to launch.=Выберите фейерверки для запуска.
 Select two non-Most Wanted 5\u2605 weapons.=Выберите два не особо ценных оружия 5★.
 Select your 5\u2605 weapons.=Выберите ваше оружие 5★.
@@ -2160,7 +2152,7 @@ Selected Materials=Выбранные материалы
 Selected Most Wanted 5\u2605 Weapons=Выбрано: Самое разыскиваемое 5\u2605 оружие
 Selected Set=Выбран комплект
 Selected Weapon (Your Choice)=Выбрано оружие (на ваш выбор)
-Selecting other Phantom Thieves will change the turn order.=Выбор других Призрачных Похитителей изменит порядок хода.
+Selecting other Phantom Thieves will change the turn order.=Выбор других Фантомных воров изменит порядок хода.
 Sell=Продать
 r:"^Sell at least (.+?)$"="Продать не менее $1"
 Send=Отправить
@@ -2173,9 +2165,8 @@ Server=Сервер
 Server 1=Сервер 1
 Server is currently down. Please check the announcements.=Сервер в данный момент недоступен. Проверьте объявления.
 Set=Комплект
-Set Assist Phantom Thief=Назначить вспомогательного Призрачного Похитителя
+Set Assist Phantom Thief=Назначить вспомогательного Фантомного вора
 Set Details=Подробности комплекта
-Set Effect=Эффект комплекта
 Set Filter=Установить фильтр
 Set Name=Название набора
 Set includes the exchangeable 5\u2605 weapons below:=Набор включает следующие 5★ предметы оружия, доступные для обмена:
@@ -2191,10 +2182,10 @@ Shadow Quality=Качество теней
 Shadow Quality\nLevel=Уровень качества теней
 Share Rating=Поделиться оценкой
 Sharing failed=Не удалось поделиться
-Shaved Ice to Beat the Heat / Start Making Shaved Ice=Какигори, чтобы победить жару / Начать готовить какигори
-Shaved Ice to Beat the Heat: Start Making Shaved Ice=Какигори, чтобы победить жару: Начать готовить какигори
+Shaved Ice to Beat the Heat / Start Making Shaved Ice=Какигори против жары / Начать делать какигори
+Shaved Ice to Beat the Heat: Start Making Shaved Ice=Какигори против жары / Начать делать какигори
 Shells=Раковины
-Shibuya Central Street=Центральная улица Сибуи
+Shibuya Central Street=Главная улица Сибуи
 Shop=Магазин
 Shopping=Покупки
 Show All Badges=Показать все значки
@@ -2245,7 +2236,7 @@ Special Pass=Специальный пропуск
 Special Pass Only=Только по спецпропуску
 Special Rewards=Специальные награды
 Special Skill=Специальный навык
-Specified Commercial Transactions Act and Payment Services Act=Закон об определенных коммерческих сделках и Закон о платежных услугах
+Specified Commercial Transactions Act and Payment Services Act=Закон об определённых коммерческих сделках и Закон о платежных услугах
 Speed up conversations with Fast Forward.=Ускорьте диалоги с помощью Быстрой перемотки.
 Spend %s to unlock=Разблокировать за %s
 Spent=Потрачено
@@ -2253,7 +2244,7 @@ Spent when an action is taken. Recover 5 points at 8 PM UTC daily.=Тратит�
 Spiritual Endurance used:=Использовано Духовной выносливости:
 Stable=Стабильный
 Stage=Этап
-Stage %s=Этап %s
+Stage %s=Сцена %s
 Stage 1=Этап 1
 Stage 2=Этап 2
 Stage 3=Этап 3
@@ -2267,7 +2258,7 @@ Stage Information=Информация об этапе
 Stage Rating=Рейтинг этапа
 Stage Start=Начало этапа
 Stage Suspended=Этап приостановлен
-Stage completed.=Этап завершен.
+Stage completed.=Этап завершён.
 Stage has been locked.=Этап заблокирован.
 Stage locked.=Этап заблокирован.
 Stamina=Энергия
@@ -2302,9 +2293,9 @@ Subtitles=Субтитры
 Successful defenses:=Успешных защит:
 r:"^Successfully exchanged your (.+?) for (.+?)\'s (.+?)\.$"="Вы успешно обменяли $1 на $2 от $3."
 Summary:=Итог:
-Summer Makoto Set\n<color\=#FFFC40>On sale for a limited time</color> in the Shop!=Летний набор Макото\n<color\=#FFFC40>В продаже ограниченное время!</color>
+Summer Makoto Set\n<color\=#FFFC40>On sale for a limited time</color> in the Shop!=Летний набор для Макото\n<color\=#FFFC40>В продаже ограниченное время!</color>
 Summer Motoha Arai=Летняя Мотоха Араи
-Summer Tomoko Noge=Летняя Томоко Ногэ
+Summer Tomoko Noge=Летняя Томоко Ноге
 Sunlight=Солнечный свет
 Super Bonus=Супербонус
 Super Level=Суперуровень
@@ -2317,7 +2308,7 @@ Supply Time=Время поставки
 Supply Type=Тип припасов
 Support=Поддержка
 Support Effect=Эффект поддержки
-Support Phantom Thieves Animations=Поддержка анимаций Призрачных Похитителей
+Support Phantom Thieves Animations=Поддержка анимаций Фантомных воров
 Support Supplies=Припасы поддержки
 Survival Bonus Points \xd7=Бонусные очки за выживание \xd7
 Swap Energy=Обмен энергии
@@ -2400,7 +2391,7 @@ r:"^The methods to obtain (.+?) illustrations including (.+?) have been unlocked
 r:"^The methods to obtain (.+?) music tracks including (.+?) have been unlocked\.$"="Разблокированы способы получения $1 музыкальных композиций, включая $2."
 r:"^The methods to obtain (.+?) tools including (.+?) have been unlocked\.$"="Разблокированы способы получения $1 инструментов, включая $2."
 The network is unstable. Please check your connection.=Сеть нестабильна. Проверьте соединение.
-The number of Thieves you can send will increase by <color\=#FFC000>%s</color> (max %s).=Количество Призрачных Воров, которых можно отправить, увеличится на <color\=#FFC000>%s</color> (макс. %s).
+The number of Thieves you can send will increase by <color\=#FFC000>%s</color> (max %s).=Количество Фантомных воров, которых можно отправить, увеличится на <color\=#FFC000>%s</color> (макс. %s).
 The prerequisite skill has not been unlocked.=Необходимый навык не разблокирован.
 The prerequisite skills haven't been unlocked.=Необходимые навыки не разблокированы.
 The progress route is not unlocked.=Путь развития не разблокирован.
@@ -2414,7 +2405,7 @@ The servers are busy. Please wait a moment.\nCurrent queue position: <color\=#FF
 The servers are busy.\nNumber of people in queue: <color\=#FF0000>%s+</color>.\nThank you for your patience. Please stay in the app while you wait.=Серверы перегружены.\nВ очереди: <color\=#FF0000>%s+</color>.\nБлагодарим за терпение. Пожалуйста, не закрывайте приложение во время ожидания.
 The set effect is not active.=Эффект набора неактивен.
 The total cost <size\=46><color\=#ffffff><sprite\=2 tint\=1></size></color> must be higher than %d.=Общая стоимость <size\=46><color\=#ffffff><sprite\=2 tint\=1></size></color> должна быть выше %d.
-The trial challenge, Monitoring Point, consumes Spiritual Endurance and Phantom Thief challenge attempts.\nAfter each challenge is opened:\nIncreases every 7 days, for a total of 3 times.\nFinal Spiritual Endurance limit: <color\=#FFC000>%s</color>\nChallenge attempt limit: <color\=#FFC000>%s</color>=Пробное испытание «Точка Наблюдения» расходует Духовную Выносливость и попытки Призрачных Воров.\nПосле каждого открытия испытания лимиты увеличиваются каждые 7 дней (всего 3 раза).\nФинальный лимит Духовной Выносливости: <color\=#FFC000>%s</color>\nФинальный лимит попыток: <color\=#FFC000>%s</color>
+The trial challenge, Monitoring Point, consumes Spiritual Endurance and Phantom Thief challenge attempts.\nAfter each challenge is opened:\nIncreases every 7 days, for a total of 3 times.\nFinal Spiritual Endurance limit: <color\=#FFC000>%s</color>\nChallenge attempt limit: <color\=#FFC000>%s</color>=Пробное испытание «Точка Наблюдения» расходует Духовную Выносливость и попытки Фантомных воров.\nПосле каждого открытия испытания лимиты увеличиваются каждые 7 дней (всего 3 раза).\nФинальный лимит Духовной Выносливости: <color\=#FFC000>%s</color>\nФинальный лимит попыток: <color\=#FFC000>%s</color>
 The validity period has passed.=Срок действия истёк.
 There are multiple set effects for the Space Revelation effect, which is determined by the effects of the Heavens 4-piece set that is currently active. You can determine the effect of the required 4-piece set from the name of the Space set effect.=Эффект «Пространственное Откровение» имеет несколько вариантов, зависящих от активного эффекта набора из 4 предметов «Небеса». Определить требуемый эффект набора из 4 предметов можно по названию эффекта набора Пространства.
 There are no fireworks in your backpack. Let's go and make some!=В рюкзаке нет фейерверков. Давай их смастерим!
@@ -2430,8 +2421,8 @@ Thief Training=Тренировка Вора
 Thieves=Воры
 r:"^Thieves Den EXP Credit increased by (.+?)$"="Опыт Логова Воров увеличен на $1"
 Thieves Den can now be unlocked. Do you want to do so now? Unlocking before the side mission Break Open the Unknown may affect your relationship with the Saleswoman Shadow.\n*This won't affect the story content.=Логово Воров теперь можно разблокировать. Хотите сделать это сейчас? Разблокировка до завершения побочного задания «Пробить Неизвестность» может повлиять на ваши отношения с Продавщицей-Тенью.\n*Это не повлияет на сюжет.
-Third Eye=Третий Глаз
-This 5\u2605 contract Phantom Thief is a <color\=#FFFC40>non-exclusive Phantom Thief</color> and will be added to the <color\=#FFFC40>Phantom Idol Contracts</color> lineup after the event ends.=Этот 5\u2605 контрактный Фантомный Вор является <color\=#FFFC40>неэксклюзивным Фантомным Вором</color> и будет добавлен в список <color\=#FFFC40>Контрактов Фантомных Идолов</color> после завершения события.
+Third Eye=Третий глаз
+This 5\u2605 contract Phantom Thief is a <color\=#FFFC40>non-exclusive Phantom Thief</color> and will be added to the <color\=#FFFC40>Phantom Idol Contracts</color> lineup after the event ends.=Этот 5\u2605 контрактный Фантомный Вор является <color\=#FFFC40>неэксклюзивным Фантомным вором</color> и будет добавлен в список <color\=#FFFC40>Контрактов Фантомных айдолов</color> после завершения события.
 This <color\=#FF423F>Phantom Thief</color> or <color\=#FF423F>Persona</color> is locked. Please choose a different one.=Этот <color\=#FF423F>Фантомный Вор</color> или <color\=#FF423F>Персона</color> заблокирован. Пожалуйста, выберите другой вариант.
 This Event=Это событие
 This Month=Этот месяц
@@ -2492,7 +2483,7 @@ Today's Boosted Bonus:=Сегодняшний усиленный бонус:
 Today's Challenge Attempts Left:=Осталось попыток в сегодняшних испытаниях:
 Today's Challenges=Сегодняшние испытания
 Today's Tasks=Сегодняшние задания
-Tomoko Noge=Томоко Ногэ
+Tomoko Noge=Томоко Ноге
 Too far.=Слишком далеко.
 Too many messages. Please wait %s seconds.=Слишком много сообщений. Пожалуйста, подождите %s секунд.
 Topping=Топпинг
@@ -2505,7 +2496,7 @@ Total Completions=Всего завершений:
 Total Level: <color\=#FFFC40>%s</color>=Общий уровень: <color\=#FFFC40>%s</color>
 Total Meta Jewels Earned=Всего заработано мета-самоцветов:
 Total Mult. +=Общий множитель:
-Total Phantom Thief Rating=Общий рейтинг Призрачного вора
+Total Phantom Thief Rating=Общий рейтинг Фантомного вора
 Total Player Points:=Всего очков игрока:
 Total Points=Всего очков:
 Total Points:=Всего очков:
@@ -2534,7 +2525,7 @@ Trade Item=Обмен предметов
 Trade Requests Left:=Осталось обменов:
 Trade Rewards=Награды за обмен
 Trades Left Today:=Сегодня осталось обменов:
-Train Upgrades=Улучшения тренировок
+Train Upgrades=Улучшения поезда
 Training=Тренировка
 Training Earnings=Доход от тренировок
 Training Materials=Материалы для тренировок
@@ -2567,7 +2558,7 @@ Type: %s=Тип: %s
 Tyrant Set=Набор Тирана
 Ultra Rare=Ультраредкий
 Unblock=Разблокировать
-Unclaimed rewards will be sent to your Inbox after the event ends.=Невостребованные награды будут отправлены в ваш почтовый ящик после завершения события.
+Unclaimed rewards will be sent to your Inbox after the event ends.=Незабранные награды будут отправлены в ваш Inbox после окончания события.
 Unconditional Love=Безусловная любовь
 Under Improvement=На улучшении
 Undo Transformation=Отменить трансформацию
@@ -2589,8 +2580,8 @@ r:"^Unlock at Den Level (.+?)$"="Разблокировать на уровне 
 Unlock at Difficulty %s=Разблокировать на сложности %s
 Unlock by clearing Normal 1-2 of Recollections=Разблокировать, пройдя Обычный 1-2 в Воспоминаниях
 Unlock contents using Synergy Rank=Разблокировать содержимое, используя Ранг Синергии
-Unlock when Wonder reaches level %d=Разблокировать, когда Чудо достигнет уровня %d
-Unlock when Wonder reaches level %s=Разблокировать, когда Чудо достигнет уровня %s
+Unlock when Wonder reaches level %d=Разблокировать, когда Вандер достигнет уровня %d
+Unlock when Wonder reaches level %s=Разблокировать, когда Вандер достигнет уровня %s
 Unlock with %s=Разблокировать с помощью %s
 r:"^Unlock x(.+?)$"="Разблокировать x$1"
 Unlock\nClaim=Разблокировать\nПолучить
@@ -2602,7 +2593,7 @@ Unlocked after %s.=Разблокировано после %s.
 Unlocked after obtaining %s=Разблокировано после получения %s.
 Unlocked after obtaining %s.=Разблокировано после получения %s.
 Unlocked at Synergy Rank %s with %s=Разблокировано при Ранге Синергии %s с %s.
-Unlocked at Synergy Rank %s with Merope=Разблокировано при Ранге Синергии %s с Меропой.
+Unlocked at Synergy Rank %s with Merope=Разблокировано при Ранге Синергии %s с Меропе.
 Unlocked by clearing the required stage.=Разблокировано после прохождения требуемого этапа.
 Unlocked by completing mission=Разблокировано после выполнения задания.
 Unlocked skill <color\=#FFFC40>%s</color>/%s=Разблокирован навык <color\=#FFFC40>%s</color>/%s
@@ -2622,7 +2613,7 @@ Unlocks at Lv. %d=Открывается на уровне %d
 Unlocks at Lv. %s=Открывается на уровне %s
 Unlocks at Palace Progress XXX=Открывается при прогрессе Дворца XXX
 Unlocks at Persona level %d=Открывается на уровне Персоны %d
-Unlocks at Rank 17 with Kotone Montagne=Открывается на 17 ранге с Котонэ Монтань
+Unlocks at Rank 17 with Kotone Montagne=Открывается на 17 ранге с Котоне Монтань
 Unlocks at Synergy Rank %s with Ayaka Sakai.=Открывается на ранге Синергии %s с Аякой Сакаи.
 Unlocks at Talent level %d=Открывается на уровне таланта %d
 Unlocks at Thief Lv. %d=Открывается на уровне Вора %d
@@ -2650,11 +2641,11 @@ Unlocks when %s is at Rank %s=Откроется, когда %s достигне
 Unlocks when Wonder reaches Lv. 40=Откроется, когда Вандер достигнет ур. 40
 r:"^Unlocks when Wonder reaches S\-Lv\. (.+?)$"="Откроется, когда Вандер достигнет S-ур. $1"
 Unlocks when Wonder reaches level %s=Откроется, когда Вандер достигнет ур. %s
-Unlocks when you have the Phantom Thief %s=Откроется, когда у вас появится Призрачный Вор %s
+Unlocks when you have the Phantom Thief %s=Откроется, когда у вас появится Фантомный вор %s
 Unlocks with <size\=50><sprite\=32></size><color\=#0F69CA> X1</color>=Откроется за <size\=50><sprite\=32></size><color\=#0F69CA> X1</color>
 Unpin=Открепить
 Unranked=Без ранга
-Unranked Companio=Неранговый компаньон
+Unranked Companio=Неранговый «Компанио»
 Unselected or reset buffs will have a permanently lowered chance of appearing during this challenge.=Невыбранные или сброшенные усиления будут иметь перманентно сниженный шанс появления во время этого испытания.
 Until 5\u2605: %s/%s=До 5\u2605: %s/%s
 Until start:=До начала:
@@ -2673,7 +2664,7 @@ Use All=Использовать все
 Use Highlight in Auto-Battle=Использовать выделение в авто-бою
 Use Persona Seals\nto fuse a new Persona.=Используйте Печати Персон\nдля слияния новой Персоны.
 Use Secret Key to unlock Secret Chapter=Используйте Секретный ключ, чтобы разблокировать Секретную главу
-Use Support Phantom Thief\nskills during auto-battle=Использовать навыки поддерживающих Призрачных Воров\nво время авто-боя
+Use Support Phantom Thief\nskills during auto-battle=Использовать навыки поддерживающих Фантомных воров\nво время авто-боя
 Use Thieves for Hire=Воры по найму
 Use [%s]=Использовать [%s]
 Use rate:=Частота использования:
@@ -2769,17 +2760,16 @@ Will be used in order of %s=Будет использоваться в поря�
 Win within %s actions.=Победите за %s действий.
 Wishing you prosperity and good fortune!=Желаю вам процветания и удачи!
 Within %d ally actions=В течение %d действий союзников
-Wonder must be at least Lv. %d.=Уровень Вондера должен быть не ниже ур. %d.
-Wonder's Role will match the first equipped Persona.=Роль Вондера будет соответствовать первой экипированной Персоне.
-r:"^Wonder\'s (.+?) are not strong enough\.$"="$1 Вондера недостаточно сильны."
-Wonder-only Outfit:=Наряд только для Вондера:
-Wonder-only Outfit:=Наряд только для Вондера:
+Wonder must be at least Lv. %d.=Уровень Вандера должен быть не ниже ур. %d.
+Wonder's Role will match the first equipped Persona.=Роль Вандера будет соответствовать первой экипированной Персоне.
+r:"^Wonder\'s (.+?) are not strong enough\.$"="$1 Вандера недостаточно сильны."
+Wonder-only Outfit:=Одежда только для Вандера:
 Work=Работа
 Would you like to continue from your saved progress?=Хотите продолжить с последнего сохранения?
 Would you like to download the game in the background? Select "Yes" to download while playing and "No" to download %s of required data now to play after.=Хотите загрузить игру в фоновом режиме? Выберите "Да", чтобы загружать во время игры, и "Нет", чтобы загрузить %s необходимых данных прямо сейчас и начать играть, как только загрузка завершится.
 Wraith of Envy=Призрак Зависти
 Yaoling Li=Яолин Ли
-Yeah, now Kiuchi's\nin a total slump\nbecause of it.=Да уж, теперь Киути\nиз-за этого совсем расклеился\n.
+Yeah, now Kiuchi's\nin a total slump\nbecause of it.=Да уж, теперь Киучи\nиз-за этого совсем расклеился\n.
 Yeah, seems like he got hurt during the baseball clinic.=Ага, похоже, он травмировался на бейсбольных сборах.
 Yellow=Жёлтый
 Yes=Да
@@ -2788,24 +2778,24 @@ You=Вы
 You already have this Persona, so it will be converted into Awareness after fusion.=У вас уже есть эта Персона, поэтому после слияния она будет преобразована в Проницательность.
 r:"^You already have this Persona\, so you obtained (.+?) x(.+?) from the fusion\.$"="У вас уже есть эта Персона, поэтому в результате слияния вы получили $1 x$2."
 You are already in the room.=Вы уже в этой комнате.
-You are no longer a member of this Companio and will be removed.=Вы больше не являетесь участником этого Компанио и будете исключены.
+You are no longer a member of this Companio and will be removed.=Вы больше не являетесь участником этого «Компанио» и будете исключены.
 You are now friends. Say hello!=Теперь вы друзья. Поздоровайтесь!
-You can also obtain Wonder EXP Credits by raising your Palace Exploration Progress or Fare Machine Ticket Level.=Вы также можете получить Очки опыта Чуда, повышая Прогресс исследования Дворца или Уровень билета Автомата Оплаты.
+You can also obtain Wonder EXP Credits by raising your Palace Exploration Progress or Fare Machine Ticket Level.=Вы также можете получить Очки опыта Вандера, повышая Прогресс исследования Дворца или Уровень билета Автомата Оплаты.
 You can cancel after %s.=Вы можете отменить через %s.
 You can change your settings later in Menu > Settings > Gameplay.=Вы можете изменить настройки позже в Меню > Настройки > Игровой процесс.
 You can defeat Shadows to enhance abilities.=Вы можете побеждать Теней, чтобы улучшать способности.
 You can earn rewards based on how many stars you earn.=Вы можете получать награды в зависимости от количества заработанных звёзд.
 You can earn up to <color\=#FF423F>%s</color> <link\="s|1002"><u>Assist Reward</u></link> points per day.=Вы можете заработать до <color\=#FF423F>%s</color> <link\="s|1002"><u>очков награды за помощь</u></link> в день.
-You can enhance even more once Wonder's level reaches %d.=Вы сможете усилить ещё больше, как только уровень Чуда достигнет %d.
+You can enhance even more once Wonder's level reaches %d.=Вы сможете усилить ещё больше, как только уровень Вандера достигнет %d.
 You can forge a set number of times.=Ковать можно определённое число раз.
 You can gain the following rewards after leveling up.=Следующие награды можно получить после повышения уровня.
 You can get EXP rewards for Phantom Pass Daily Missions not completed within two days.=Вы можете получить очки опыта за ежедневные задания Фантомного Пропуска, не выполненные в течение двух дней.
 You can get rewards the first time you rank up.=Вы можете получить награды за первое повышение ранга.
 r:"^You can go to the second floor and change your appearance to (.+?)\.$"="Вы можете подняться на второй этаж и изменить свою внешность в $1."
-You can now display this illustration in the Thieves Den!=Теперь вы можете разместить эту иллюстрацию в Убежище Фантомов!
+You can now display this illustration in the Thieves Den!=Теперь вы можете разместить эту иллюстрацию в Фантомное Убежище!
 You can now go to the second floor and change your appearance!=Теперь вы можете подняться на второй этаж и изменить свою внешность!
-You can now place this item in the Thieves Den!=Теперь вы можете разместить этот предмет в Убежище Фантомов!
-You can now play this music in the Thieves Den!=Теперь вы можете включить эту музыку в Убежище Фантомов!
+You can now place this item in the Thieves Den!=Теперь вы можете разместить этот предмет в Фантомное Убежище!
+You can now play this music in the Thieves Den!=Теперь вы можете включить эту музыку в Фантомное Убежище!
 You can obtain a %s Charm.=Вы можете получить амулет %s.
 r:"^You can obtain (.+?) Revelation Cards exclusive to this event\.$"="Вы можете получить $1 Карт Откровения, эксклюзивные для этого события."
 You can only receive achievement rewards once.=Награды за достижения можно получить только один раз.
@@ -2814,14 +2804,14 @@ You can press the Filter Skills icon to sort out certain skills. Press and hold 
 You can raise a Persona's skill level by allocating schema points.=Вы можете повысить уровень навыка Персоны, распределяя очки схемы.
 You can search messages from the past 90 days. (If the search results do not load, please try again later.)=Вы можете искать сообщения за последние 90 дней. (Если результаты поиска не загружаются, повторите попытку позже.)
 You can select fireworks from the backpack and customize an exclusive launch plan.=Вы можете выбрать фейерверки из рюкзака и настроить персональный план запуска.
-You can select one of the 5\u2605 Phantom Thieves below.=Вы можете выбрать одного из представленных ниже 5\u2605 Фантомных похитителей.
-You can select this music for your Thieves Den using the music player.=Вы можете выбрать эту музыку для своего Убежища Фантомов, используя музыкальный проигрыватель.
+You can select one of the 5\u2605 Phantom Thieves below.=Вы можете выбрать одного из представленных ниже 5\u2605 Фантомных воров.
+You can select this music for your Thieves Den using the music player.=Вы можете выбрать эту музыку для своего Фантомного Убежища, используя музыкальный проигрыватель.
 You can select up to four.=Вы можете выбрать до четырёх.
 You can select up to two.=Можно выбрать до двух.
-You can select what illustrations to display in the Thieves Den at the Gallery.=Вы можете выбрать, какие иллюстрации отображать в Галерее Убежища Фантомов.
+You can select what illustrations to display in the Thieves Den at the Gallery.=Вы можете выбрать, какие иллюстрации отображать в Галерее Фантомного Убежища.
 You can set up to three tags.=Можно установить до трех тегов.
-You can use a 5\u2605 Welcome Idol Chance to get a 5\u2605 Phantom Thief.\n5\u2605 Phantom Thieves\nMorgana, Ryuji Sakamoto, Ann Takamaki, Yaoling Li, and Haruna Nishimori.=Вы можете воспользоваться Призывом «Приветственный Идол» (5\u2605), чтобы получить Фантомного Вора (5\u2605).\nФантомные Воры (5\u2605)\nМоргана, Рюдзи Сакамото, Энн Такамаки, Яолин Ли и Харуна Нисимори.
-r:"^You can use a (.+?) to get a 5\\u2605 Phantom Thief\.$"="Вы можете использовать $1, чтобы получить Фантомного Вора (5\u2605)."
+You can use a 5\u2605 Welcome Idol Chance to get a 5\u2605 Phantom Thief.\n5\u2605 Phantom Thieves\nMorgana, Ryuji Sakamoto, Ann Takamaki, Yaoling Li, and Haruna Nishimori.=Вы можете воспользоваться Призывом «Приветственный айдол» (5\u2605), чтобы получить Фантомного вора (5\u2605).\nФантомные воры (5\u2605)\nМоргана, Рюдзи Сакамото, Анн Такамаки, Яолин Ли и Харуна Нисимори.
+r:"^You can use a (.+?) to get a 5\\u2605 Phantom Thief\.$"="Вы можете использовать $1, чтобы получить Фантомного вора (5\u2605)."
 You cannot use this service as your monthly usage limit for your age has been reached.\nThe monthly limit is 5,000 yen for those under 13 years old, and 20,000 yen for those under 20 years old.=Вы не можете воспользоваться этой услугой, так как достигнут ежемесячный лимит, установленный для вашего возраста.\nЕжемесячный лимит составляет 5 000 иен для лиц младше 13 лет и 20 000 иен для лиц младше 20 лет.
 You cooperated with <color\=#FFC000>%s</color>. Send a friend request?=Вы играли вместе с <color\=#FFC000>%s</color>. Отправить запрос на добавление в друзья?
 You did not receive any additional skills this time.=Вы не получили дополнительных навыков в этот раз.
@@ -2835,7 +2825,7 @@ You don't have enough %s.=У вас недостаточно %s.
 r:"^You don\'t have enough (.+?)\.$"="У вас недостаточно $1."
 You gained skill points.=Вы получили очки навыков.
 You have no Lost Items to discard.=У вас нет Утерянных предметов, которые можно сбросить.
-You have not yet cleared <color\=#FF423F>Castle in the Void</color>. This story contains events and character appearances that may include spoilers. Do you still wish to continue?=Вы еще не прошли <color\=#FF423F>Замок в Пустоте</color>. Эта история содержит события и персонажей, которые могут содержать спойлеры. Вы все еще хотите продолжить?
+You have not yet cleared <color\=#FF423F>Castle in the Void</color>. This story contains events and character appearances that may include spoilers. Do you still wish to continue?=Вы еще не прошли <color\=#FF423F>Замок в Пустоте</color>. Эта история содержит события и персонажей, которые могут содержать спойлеры. Вы всё ещё хотите продолжить?
 You have played more than %d hours. Why not take a break?=Вы играли более %d часов. Почему бы вам не сделать перерыв?
 You have reached today's data limit.=Достигнут дневной лимит данных.
 You have reached today's limit for Wandering Shadow rewards.=Вы достигли дневного лимита наград за Блуждающих Теней.
@@ -2843,21 +2833,21 @@ You have reached today's limit.=Достигнут дневной лимит.
 You haven't obtained this yet, so its effects are unknown.=Вы ещё не получили это, поэтому его эффекты неизвестны.
 You lost... Would you like to edit your party and try again?\nIf you quit, the challenge will end at your current progress.=Вы проиграли... Хотите изменить отряд и попробовать снова?\nЕсли вы выйдете, испытание завершится с текущим прогрессом.
 You need more stamina!=Вам нужно больше выносливости!
-You obtained the <color\=#FF423F>exchange code</color> for this Phantom Thief event. Copy the code and use it on the website to trade for a gift!=Вы получили <color\=#FF423F>код обмена</color> для этого события Фантомных Похитителей. Скопируйте код и используйте его на сайте, чтобы обменять на подарок!
-You see the article?\nApparently Kiuchi's\nin a slump.=Ты видел статью?\nПохоже, Киути\nв кризисе.
+You obtained the <color\=#FF423F>exchange code</color> for this Phantom Thief event. Copy the code and use it on the website to trade for a gift!=Вы получили <color\=#FF423F>код обмена</color> для этого события Фантомных воров. Скопируйте код и используйте его на сайте, чтобы обменять на подарок!
+You see the article?\nApparently Kiuchi's\nin a slump.=Ты видел статью?\nпохоже, Киучи\nв кризисе.
 You were charged <color\=#FFE900>%s</color> yen, so <color\=#FFE900>%s</color> Cognition Crystals were returned.=Списано <color\=#FFE900>%s</color> иен, возвращено <color\=#FFE900>%s</color> Кристаллов Когниции.
 You will be downloading <color\=#FF423F>%s</color> of data for the update. <color\=#FF423F>You are not currently connected to Wi-Fi</color>. Do you want to begin the download?=Для обновления будет загружено <color\=#FF423F>%s</color> данных. <color\=#FF423F>Вы не подключены к Wi-Fi</color>. Начать загрузку?
 You will be downloading <color\=#FF423F>%s</color> of data for the update. Do you want to begin?=Для обновления будет загружено <color\=#FF423F>%s</color> данных. Начать загрузку?
-You will gain 3 deployment points at the end of each turn. Upon reaching 20 points, all your points will automatically be traded for 1 Self-Destruct Bot and 1 Battle Bot. The number can increase depending on your equipment.=Вы будете получать 3 очка развертывания в конце каждого хода. По достижении 20 очков все ваши очки будут автоматически обменяны на 1 Бота-камикадзе и 1 Боевого Бота. Количество может увеличиваться в зависимости от вашего снаряжения.
-You won't be able to change these <color\=#FF423F>Thieves, Personas, and Revelations</color>. Proceed?=Вы не сможете изменить этих <color\=#FF423F>Похитителей, Персон и Откровений</color>. Продолжить?
-You won't be able to change these <color\=#FF423F>Thieves</color> and <color\=#FF423F>Personas</color>. Proceed?=Вы не сможете изменить этих <color\=#FF423F>Похитителей</color> и <color\=#FF423F>Персон</color>. Продолжить?
-You won't be able to change your Phantom Thieves and Personas once you begin this challenge. Are you sure you want to lock them in?=Вы не сможете изменить своих Фантомных Похитителей и Персон после начала этого испытания. Вы уверены, что хотите их закрепить?
+You will gain 3 deployment points at the end of each turn. Upon reaching 20 points, all your points will automatically be traded for 1 Self-Destruct Bot and 1 Battle Bot. The number can increase depending on your equipment.=Вы будете получать 3 очка развёртывания в конце каждого хода. По достижении 20 очков все ваши очки будут автоматически обменяны на 1 Бота-камикадзе и 1 Боевого Бота. Количество может увеличиваться в зависимости от вашего снаряжения.
+You won't be able to change these <color\=#FF423F>Thieves, Personas, and Revelations</color>. Proceed?=Вы не сможете изменить этих <color\=#FF423F>воров, Персон и Откровений</color>. Продолжить?
+You won't be able to change these <color\=#FF423F>Thieves</color> and <color\=#FF423F>Personas</color>. Proceed?=Вы не сможете изменить этих <color\=#FF423F>воров</color> и <color\=#FF423F>Персон</color>. Продолжить?
+You won't be able to change your Phantom Thieves and Personas once you begin this challenge. Are you sure you want to lock them in?=Вы не сможете изменить своих Фантомных воров и Персон после начала этого испытания. Вы уверены, что хотите их закрепить?
 You've already obtained these clear rank rewards.=Вы уже получили эти награды за ранг прохождения.
 You've received a reward!\nA customer service representative will contact you shortly, so please wait until then.=Вы получили награду!\nПредставитель службы поддержки свяжется с вами в ближайшее время. Пожалуйста, ожидайте.
 You've received some merchandise rewards! Please enter your shipping information.=Вы получили товарные награды! Пожалуйста, введите информацию для доставки.
 Your Companio=Ваш Спутник
-Your Phantom Thieves=Ваши Фантомные Похитители
-r:"^Your Phantom Thieves\' (.+?) are not strong enough\.$"="Ваши $1 Фантомных Похитителей недостаточно сильны."
+Your Phantom Thieves=Ваши Фантомные воры
+r:"^Your Phantom Thieves\' (.+?) are not strong enough\.$"="Ваши $1 Фантомные воры недостаточно сильны."
 Your Pick Set=Ваш набор отмычек
 Your Rank:=Ваш ранг:
 Your end-of-season rewards will be sent to your inbox.=Награды по окончании сезона будут отправлены в ваш почтовый ящик.
@@ -2868,11 +2858,11 @@ Your rank won't decrease at your current rank.=На текущем ранге в
 Your stars won't decrease at your current rank.=На текущем ранге ваши звезды не уменьшатся.
 Your usable Spiritual Endurance will increase by <color\=#FFC000>%s</color> (max %s).=Ваша доступная Духовная выносливость увеличится на <color\=#FFC000>%s</color> (макс. %s).
 Yui=Юи
-Yumi Shiina=Юми Сиина
-Yusuke Kitagawa=Юсукэ Китагава
-Yusuke's Butler Suit Set\n<color\=#FFFC40>Limited-Time Sale at the Shop</color>=Набор костюма дворецкого Юсукэ\n<color\=#FFFC40>Ограниченная распродажа в магазине</color>
-Yusuke's Butler Suit Set\n<color\=#FFFC40>On sale for a limited time in the Shop!</color>=Набор костюма дворецкого Юсукэ\n<color\=#FFFC40>В продаже ограниченное время в магазине!</color>
-Yusuke-only Outfit:=Костюм только для Юсукэ:
+Yumi Shiina=Юми Шиина
+Yusuke Kitagawa=Юске Китагава
+Yusuke's Butler Suit Set\n<color\=#FFFC40>Limited-Time Sale at the Shop</color>=Набор костюма дворецкого Юске\n<color\=#FFFC40>Ограниченная распродажа в магазине</color>
+Yusuke's Butler Suit Set\n<color\=#FFFC40>On sale for a limited time in the Shop!</color>=Набор костюма дворецкого Юске\n<color\=#FFFC40>В продаже ограниченное время в магазине!</color>
+Yusuke-only Outfit:=Костюм только для Юске:
 [%s]=[%s]
 [Charm Effects]=[Эффекты очарования]
 [Collection Rewards]=[Награды за коллекцию]
@@ -2882,7 +2872,7 @@ Yusuke-only Outfit:=Костюм только для Юсукэ:
 r:"^\[(.+?)\]$"="[$1]"
 \u2022 Ranged attack damage and accuracy increase with your level.\n\u2022 Ranged attacks also have their own critical rate, which is affected by your critical rate.=\u2022 Урон и точность дальних атак повышаются вместе с вашим уровнем.\n\u2022 Дальние атаки также имеют собственный шанс крит. урона, на который влияет ваш общий шанс крит. урона.
 r:"^\\u2022 Reach Den Level (.+?)\.$"="\u2022 Достигните $1 уровня Логова."
-\u2022 SP recovery is the amount of SP a Phantom Thief recovers each turn.\n\u2022 Pierce rate shows how much of a foe's Defense is ignored when dealing damage.\n\u2022 Ailment accuracy is the rate of inflicting a debuff on a foe.\n\u2022 Ailment resistance is the rate of receiving debuffs.=\u2022 Восстановление SP — это количество SP, которое Призрачный Вор восстанавливает каждый ход.\n\u2022 Пробивание показывает, какая часть Защиты противника игнорируется при нанесении урона.\n\u2022 Точность статусов — это шанс наложить негативный эффект на противника.\n\u2022 Сопротивление статусам — это шанс получить негативный эффект.
+\u2022 SP recovery is the amount of SP a Phantom Thief recovers each turn.\n\u2022 Pierce rate shows how much of a foe's Defense is ignored when dealing damage.\n\u2022 Ailment accuracy is the rate of inflicting a debuff on a foe.\n\u2022 Ailment resistance is the rate of receiving debuffs.=\u2022 Восстановление ОМ — это количество ОМ, которое Фантомный вор восстанавливает каждый ход.\n\u2022 Пробивание показывает, какая часть Защиты противника игнорируется при нанесении урона.\n\u2022 Точность статусов — это шанс наложить негативный эффект на противника.\n\u2022 Сопротивление статусам — это шанс получить негативный эффект.
 \u2022 Speed determines the turn order in battle.\n\u2022 A skill's accuracy changes based on the difference from the target's speed.=\u2022 Скорость определяет порядок ходов в бою.\n\u2022 Точность навыка зависит от разницы между вашей Скоростью и Скоростью цели.
 \u2605=\u2605
 \u2605\u2605=\u2605\u2605
@@ -2890,9 +2880,9 @@ r:"^\\u2022 Reach Den Level (.+?)\.$"="\u2022 Достигните $1 уровн
 \u2605\u2605\u2605\u2605=\u2605\u2605\u2605\u2605
 \u2605\u2605\u2605\u2605\u2605=\u2605\u2605\u2605\u2605\u2605
 \xa9 Perfect World Adapted from Persona 5 \xa9 ATLUS. \xa9 SEGA.\nSpecial Thanks: Fontworks Inc. and SHOWASHOTAI Co., Ltd.\nClient Version: %s Game Version: %s Resource No.: %s=\xa9 Perfect World по мотивам Persona 5 \xa9 ATLUS. \xa9 SEGA.\nОсобая благодарность: Fontworks Inc. и SHOWASHOTAI Co., Ltd.\nВерсия клиента: %s Версия игры: %s Номер ресурса: %s
-a 5\u2605 Phantom Thief's Cognitite!=Когнитив Призрачного Вора 5\u2605!
-a 5\u2605 Phantom Thief's weapon!=Оружие Призрачного Вора 5\u2605!
-a novice 5\u2605 Thief of your choice!=Призрачный Вор-новичок 5\u2605 на ваш выбор!
+a 5\u2605 Phantom Thief's Cognitite!=Когнитит Фантомного вора 5\u2605!
+a 5\u2605 Phantom Thief's weapon!=Оружие Фантомного вора 5\u2605!
+a novice 5\u2605 Thief of your choice!=Фантомный вор-новичок 5\u2605 на ваш выбор!
 a novice 5\u2605 weapon of your choice!=Оружие новичка 5\u2605 на ваш выбор!
 left this season=осталось в этом сезоне
 new battle effects=новые боевые эффекты
