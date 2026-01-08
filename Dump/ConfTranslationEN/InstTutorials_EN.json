@@ -442,7 +442,7 @@
   {
     "sn": "517101",
     "title": "Special Effect",
-    "text": "1. Melchizedek gains 6 stacks of Divine Protection each turn, and each stack of Divine Protection decreases damage taken by 5%.\n2. Melchizedek loses 1 Divine Protection each time it takes damage from a skill or Resonance.\n3. When Melchizedek has lost all Divine Protection, all Phantom Thieves receive Divine Protection, and their damage is increased."
+    "text": "1. Melchizedek gains 6 stacks of Divine Protection each turn, and each stack of Divine Protection decreases damage taken by 5%.\n2. Melchizedek loses 1 Divine Protection each time it takes damage from a skill or Resonance.\n3. When Melchizedek has lost all stacks of Divine Protection, all Phantom Thieves gain Divine Blessing, which increases their damage dealt."
   },
   {
     "sn": "522101",
@@ -452,7 +452,7 @@
   {
     "sn": "539101",
     "title": "Guardian's Preservation",
-    "text": "1. At the start of battle, Vishnu summons 4 servants. Vishnu and all servants are in the Soul Link state.\nSoul Link: Distributes all damage received between all Shadows who share this condition, based on the percentage of their current HP.\n2. When Vishnu and its servants take skill damage, they gain Guardian's Preservation based on the attribute, and that affinity is changed to Resist. This effect lasts for 2 turns."
+    "text": "1. At the start of battle, Vishnu summons 4 servants. Vishnu and all servants are in the <color=#FF423F>Soul Link</color> state.\nSoul Link: Distributes all damage received between all Shadows who share this condition, based on the percentage of their current HP.\n2. When Vishnu and its servants take skill damage, they gain Guardian's Preservation based on the attribute, and that affinity is changed to Resist. This effect lasts for 2 turns."
   },
   {
     "sn": "701011",
@@ -1497,66 +1497,106 @@
   {
     "sn": "921511",
     "title": "Frostgale Kotone's Skills",
-    "text": "1. Frostgale Kotone specializes in <color=#FF423F>single-target attacks</color>. During battle, she can switch between <color=#FF423F>Spring Form</color> and <color=#FF423F>Winter Form</color>, allowing her to change the attribute of her skills and Highlight accordingly.\n2. During battle, she can create a barrier to collect Vestiges, and then spend those Vestiges to shatter the barrier and unleash a powerful Resonance on enemies.\n3. While the barrier is open and a Phantom Thief with the same attribute uses skills, more Vestiges can be collected, and Frostgale Kotone will deal more damage."
+    "text": "1. Frostgale Kotone specializes in <color=#FF423F>single-target attacks</color>. During battle, she can switch between <color=#FF423F>Spring Form</color> and <color=#FF423F>Winter Form</color>, allowing her to change the attribute of her skills and Highlight accordingly.\n2. During battle, she can create a <color=#FFFC40>barrier</color> to collect <color=#FFFC40>Vestiges</color>, and then spend those Vestiges to shatter the barrier and unleash a powerful <color=#FFFC40>Resonance</color> on enemies.\n3. While the barrier is open and a Phantom Thief with the same attribute uses skills, more Vestiges can be collected, and Frostgale Kotone will deal more damage."
   },
   {
     "sn": "934211",
     "title": "Unique Shadow Abilities",
-    "text": "1. Shiki-Ouji changes forms every turn.\n2. In Defense Form, Shiki-Ouji permanently gains 5 <color=#FF423F>Defensive Stance</color> stacks.\nDefensive Stance: Damage taken is decreased by 10%. Lose 1 stack when taking weakness damage.\n3. In Attack Form, Shiki-Ouji will act twice, and each stack of Defensive Stance increases its damage by 25%."
+    "text": "Shadows have different weaknesses and resistances than normal.\n1. Shiki-Ouji changes between Attack Form and Defense Form every turn.\n2. In Defense Form, Shiki-Ouji gains 5 <color=#FF423F>Defensive Stance</color> stacks.\nDefensive Stance: Damage taken is decreased by 10%. Lose 1 stack when taking weakness damage.\n3. In Attack Form, Shiki-Ouji will act twice, and for each Defensive Stance, it will gain 1 <color=#FF423F>Offensive Stance</color> stack.\nOffensive Stance: Increase Shiki-Ouji's damage dealt by 25%.\n4. In Defense Form, Shiki-Ouji gains <color=#FF423F>Defense Position</color>.\nDefense Position: All non-Weak attributes change to Resist for 1 turn."
   },
   {
     "sn": "238011",
     "title": "Unique Shadow Abilities",
-    "text": "1. Seiryu alternates between inflicting weaknesses to Psychokinesis and Nuclear. These effects last for 2 turns.\n2. When a Shadow is defeated, Seiryu gains 1 <color=#FF423F>Azure Storm</color> stack.\nAzure Storm: Damage increases by 30%.\nWhen Azure Storm reaches 6 stacks, Seiryu deals heavy damage.\n3. Every 2 turns, Seiryu summons 1 Phoenix and 1 Leanan Sidhe.\nPhoenix uses Nuclear skills, and Leanan Sidhe uses Psychokinesis skills."
+    "text": "1. Seiryu alternates between inflicting weaknesses to Psychokinesis and Nuclear. These effects last for 2 turns.\n2. When a Phantom Thief is knocked down, Seiryu gains 1 <color=#FF423F>Azure Storm</color> stack.\nAzure Storm: Damage increases by 30%.\nWhen Azure Storm reaches 6 stacks, Seiryu deals heavy damage to all Phantom Thieves.3. Every 2 turns, Seiryu summons 1 Phoenix and 1 Leanan Sidhe.\nPhoenix uses Nuclear skills, and Leanan Sidhe uses Psychokinesis skills."
   },
   {
     "sn": "238021",
     "title": "Unique Shadow Abilities",
-    "text": "1. Seiryu alternates between inflicting weaknesses to Wind and Ice. These effects last for 2 turns.\n2. When a Shadow is defeated, Seiryu gains 1 <color=#FF423F>Azure Storm</color> stack.\nAzure Storm: Damage increases by 30%.\nWhen Azure Storm reaches 6 stacks, Seiryu deals heavy damage.\n3. At the start of the turn, if there are no Sudama or Kodama on the field, 1 Sudama or Kodama will be summoned."
+    "text": "1. Seiryu alternates between inflicting weaknesses to Wind and Ice. These effects last for 2 turns.\n2. When a Phantom Thief is knocked down, Seiryu gains 1 <color=#FF423F>Azure Storm</color> stack.\nAzure Storm: Damage increases by 30%.\nWhen Azure Storm reaches 6 stacks, Seiryu deals heavy damage to all Phantom Thieves.3. At the start of the turn, if there are no Sudama or Kodama on the field, 1 Sudama or Kodama will be summoned.\n4. When Sudama is defeated, all Phantom Thieves gain Wind Wall and their Wind attribute changes to Resist for 1 turn.\n5. When Kodama is defeated, all Phantom Thieves gain Ice Wall and their Ice attribute changes to Resist for 1 turn."
   },
   {
     "sn": "238031",
     "title": "Unique Shadow Abilities",
-    "text": "1. Each turn, Seiryu will record the attributes of damage it takes, and on the next turn inflicts a weakness to those attributes to a Shadow.\n2. When a Shadow is defeated, Seiryu gains 1 <color=#FF423F>Azure Storm</color> stack.\nAzure Storm: Damage increases by 30%.\nWhen Azure Storm reaches 6 stacks, Seiryu deals heavy damage."
+    "text": "1. Each turn, Seiryu will record the attributes of damage it takes, and on the next turn inflicts a weakness to those attributes to a Shadow.\n2. When a Phantom Thief is knocked down, Seiryu gains 1 <color=#FF423F>Azure Storm</color> stack.\nAzure Storm: Damage increases by 30%.When Azure Storm reaches 6 stacks, Seiryu deals heavy damage to all Phantom Thieves."
   },
   {
     "sn": "238041",
     "title": "Unique Shadow Abilities",
-    "text": "1. Raja Naga alternates between <color=#FF423F>Royal Blessing</color> and <color=#FF423F>Royal Punishment</color>.\n2. Royal Blessing: Greatly strengthens 1 Shadow, and when that Shadow attacks, it can inflict <color=#FF423F>Brainwash</color> on 1 Phantom Thief.\n3. Royal Punishment: Locks on to a Phantom Thief, and deals heavy damage on the next turn.\nIf Shadows take damage from 4 different attribute types, the lock on will be lost."
+    "text": "Shadows have different weaknesses and resistances than normal.\n1. Raja Naga alternates between <color=#FF423F>Royal Blessing</color> and <color=#FF423F>Royal Punishment</color>.\n2. Royal Blessing: Greatly strengthens 1 Shadow, and when that Shadow attacks, it can inflict <color=#FF423F>Brainwash</color> on 1 Phantom Thief.\n3. Royal Punishment: Locks on to a Phantom Thief, and deals heavy damage on the next turn.\nIf Shadows take damage from 4 different attribute types, the lock on will be lost."
   },
   {
     "sn": "238051",
     "title": "Unique Shadow Abilities",
-    "text": "1. Raja Naga alternates between <color=#FF423F>Royal Blessing</color> and <color=#FF423F>Royal Punishment</color>.\n2. Royal Blessing: Greatly strengthens 1 Shadow, and when that Shadow attacks, all Shadows' ailment resistance is increased.\n3. Royal Punishment: Locks on to the Phantom Thief with the highest Attack, and deals heavy damage on the next turn.\nIf Shadows are inflicted with a total of 15 debuffs, the lock on will be lost."
+    "text": "Shadows have different weaknesses and resistances than normal.\n1. Raja Naga alternates between <color=#FF423F>Royal Blessing</color> and <color=#FF423F>Royal Punishment</color>.\n2. Royal Blessing: Greatly strengthens 1 Shadow, and when that Shadow attacks, all Shadows' ailment resistance is increased.\n3. Royal Punishment: Locks on to the Phantom Thief with the highest Attack, and deals heavy damage on the next turn.\nIf Shadows are inflicted with a total of 15 debuffs, the lock on will be lost."
   },
   {
     "sn": "238061",
     "title": "Unique Shadow Abilities",
-    "text": "1. Byakko uses <color=#FF423F>Byakko's Claw</color> and <color=#FF423F>Byakko's Fang</color>.\n2. Byakko's Claw: Deals damage to 1 target and inflicts <color=#FF423F>Deep Wounds</color>.\nThis effect deals damage over time, and can be removed by receiving healing 3 times.\n3. Byakko's Fang: Deals damage to all targets and inflicts <color=#FF423F>Bite Marks</color>.\nThis effect increases damage taken, and can be removed by dealing damage 3 times.\n4. At the start of each turn, if both Deep Wounds and Bite Marks have been inflicted, Byakko will activate <color=#FF423F>Prey</color>, dealing heavy damage and inflicting <color=#FF423F>Despair</color> on the target.\n5. Every 2 turns, 1 Leanan Sidhe will be summoned."
+    "text": "1. Byakko uses <color=#FF423F>Byakko's Claw</color> and <color=#FF423F>Byakko's Fang</color>.\n2. Byakko's Claw: Deals damage to 1 target and inflicts <color=#FF423F>Deep Wounds</color>.\nThis effect deals damage over time, and can be removed by receiving healing 3 times.\n3. Byakko's Fang: Deals damage to all targets and inflicts <color=#FF423F>Bite Marks</color>.\nThis effect increases damage taken, and can be removed by dealing damage 3 times.\n4. At the start of each turn, if both Deep Wounds and Bite Marks have been inflicted, Byakko will activate <color=#FF423F>Prey</color>, dealing heavy damage and inflicting <color=#FF423F>Despair</color> on the target.\n5. Every 2 turns, 1 Leanan Sidhe will be summoned.\n6. 2 turns after being summoned, Leanan Sidhe inflicts Recovery Block on all Phantom Thieves. Lasts for 2 turns."
   },
   {
     "sn": "238071",
     "title": "Unique Shadow Abilities",
-    "text": "1. Byakko uses <color=#FF423F>Byakko's Claw</color> and <color=#FF423F>Byakko's Fang</color>.\n2. Byakko's Claw: Deals damage to 1 target and inflicts <color=#FF423F>Deep Wounds</color>.\nThis effect deals damage over time.\n3. Byakko's Fang: Deals damage to all targets and inflicts <color=#FF423F>Bite Marks</color>.\nThis effect increases damage taken.\n4. At the start of each turn, if both Deep Wounds and Bite Marks have been inflicted, Byakko will activate <color=#FF423F>Prey</color>, dealing heavy damage and inflicting <color=#FF423F>Despair</color> on the target.\n5. Every 2 turns, Byakko selects 1 Sudama as Bait, and on the next turn, eats the Sudama, fully restoring its HP and granting itself a buff."
+    "text": "1. Byakko uses <color=#FF423F>Byakko's Claw</color> and <color=#FF423F>Byakko's Fang</color>.\n2. Byakko's Claw: Deals damage to 1 target and inflicts <color=#FF423F>Deep Wounds</color>.\nThis effect deals damage over time.\n3. Byakko's Fang: Deals damage to all targets and inflicts <color=#FF423F>Bite Marks</color>.\nThis effect increases damage taken.\n4. At the start of each turn, if both Deep Wounds and Bite Marks have been inflicted, Byakko will activate <color=#FF423F>Prey</color>, dealing heavy damage and inflicting <color=#FF423F>Despair</color> on the target.\n5. Every 2 turns, Byakko selects 1 Sudama as Bait, and on the next turn, eats the Sudama, fully restoring its HP and granting itself a buff.\n6. When a Sudama is defeated, Deep Wounds and Bite Marks will be removed from all Phantom Thieves."
   },
   {
     "sn": "238081",
     "title": "Unique Shadow Abilities",
-    "text": "1. Byakko alternates between <color=#FF423F>Byakko's Claw</color> and <color=#FF423F>Byakko's Fang</color>.\n2. Byakko's Claw: Deals damage to 1 target and inflicts <color=#FF423F>Deep Wounds</color>.\nThis effect deals damage over time, and can be removed by inflicting an elemental or spiritual ailment.\n3. Byakko's Fang: Deals damage to all targets and inflicts <color=#FF423F>Bite Marks</color>.\nThis effect increases damage taken and can be removed by activating a Highlight or Resonance.\n4. At the start of each turn, if both Deep Wounds and Bite Marks have been inflicted, Byakko will activate <color=#FF423F>Prey</color>, dealing heavy damage and inflicting Despair</color> on the target.\n5. Every 2 turns, Byakko summons 1 Byakko's Afterimage.\nByakko's Afterimage has the same skills, but very low HP and ailment resistance."
+    "text": "1. Byakko uses <color=#FF423F>Byakko's Claw</color> and <color=#FF423F>Byakko's Fang</color>.\n2. Byakko's Claw: Deals damage to 1 target and inflicts <color=#FF423F>Deep Wounds</color>.\nThis effect deals damage over time, and can be removed by inflicting an elemental or spiritual ailment.\n3. Byakko's Fang: Deals damage to all targets and inflicts <color=#FF423F>Bite Marks</color>.\nThis effect increases damage taken and can be removed by activating a Highlight or Resonance.\n4. At the start of each turn, if both Deep Wounds and Bite Marks have been inflicted, Byakko will activate <color=#FF423F>Prey</color>, dealing heavy damage and inflicting <color=#FF423F>Despair</color> on the target.\n5. Every two turns, 1 Byakko is summoned.\nThe summoned Byakko has lower HP and ailment resistance than the original Byakko, and also uses Byakko's Claw and Byakko's Fang."
+  },
+  {
+    "sn": "645011",
+    "title": "Unique Shadow Abilities",
+    "text": "When Atavaka takes damage from a skill, it gains a Mark based on that skill's <color=#ff3b37>attribute</color>.The maximum number of Marks is 7.\nWhen it has collected 3 Marks of the same attribute, Atavaka spends all Marks to summon a Rakshasa.When Rakshasa is defeated, the corresponding attribute damage of all Phantom Thieves is increased.Atavaka can summon Rakshasa up to 2 times."
+  },
+  {
+    "sn": "645111",
+    "title": "Unique Shadow Abilities",
+    "text": "During battle, Kohryu will summon Seiryu, Byakko, Suzaku, and Genbu.\nWhen a Shadow is summoned, its corresponding Might is granted to all Shadows on the field.\nWhen a Shadow is defeated, the Shadows lose that Might and it is granted to all Phantom Thieves instead.\nSeiryu's Might: Grants a shield equal to 3% of max HP every turn.\nByakko's Might: Increases Attack by 20%.\nSuzaku's Might: Increases damage dealt by 20%.\nGenbu's Might: Increases Defense by 20%."
+  },
+  {
+    "sn": "645211",
+    "title": "Unique Shadow Abilities",
+    "text": "1. Jikokuten has <color=#ff3b37>Blade of Sanctuary</color>.\nBlade of Sanctuary: Each time damage is dealt, also grants a shield to 1 random Shadow.\n2. Zouchouten can activate <color=#ff3b37>Growth of All Things</color>.\nGrowth of All Things: Randomly increases Attack, Defense, or damage of all Shadows each turn.\n3. Koumokuten can activate <color=#ff3b37>Eye of Heaven</color>.\nEye of Heaven: Selects 1 Phantom Thief.\nIncreases their damage taken and has Shadows focus attacks on them next turn.\n4. Bishamonten has <color=#ff3b37>Parasol of Chaos</color>.\nParasol of Chaos: Covers the Shadow with the lowest HP, and changes all elemental affinities to Drain.\nLasts for 2 turns."
+  },
+  {
+    "sn": "645311",
+    "title": "Unique Shadow Abilities",
+    "text": "1. Fuu-Ki's <color=#FF423F>Wind Domain</color> gives it a base chance of 80% to put the target in an <color=#FF423F>Ultrawindswept</color> state when attacking. Ultrawindswept lasts for 2 turns.\nUltrawindswept: An enhanced version of Windswept inflicted by Fuu-Ki. Decreases Defense by 24%.\n2. Sui-Ki's <color=#FF423F>Ice Domain</color> gives it a base chance of 80% to inflict <color=#FF423F>Ultrafreeze</color> when attacking. Ultrafreeze lasts for 2 turns.\nUltrafreeze: An enhanced version of Frozen inflicted by Sui-Ki. Decreases Attack Power by 24%.\n3. Kin-Ki's <color=#FF423F>Golden Domain</color> allows it to grant <color=#FF423F>Indestructible Vajra</color> to 1 random Shadow after dealing damage.\nIndestructible Vajra: Nullifies the next damage taken.\n4. Ongyo-Ki starts with 3 <color=#ff3b37>Damage Reduction</color> stacks, which increases the damage dealt to Phantom Thieves with elemental ailments.\n5. When Fuu-Ki, Sui-Ki, or Kin-Ki are defeated, Ongyo-Ki loses 1 <color=#ff3b37>Damage Reduction</color> stack. It then gains the Domain effect from the defeated Shadow, and its affinities change.\nOnce Fuu-Ki, Sui-Ki, and Kin-Ki have all been defeated, Ongyo-ki becomes enraged, increasing its final damage."
+  },
+  {
+    "sn": "660311",
+    "title": "Unique Shadow Abilities",
+    "text": "1. Kin-Ki's <color=#FF423F>Golden Domain</color> allows it to grant <color=#FF423F>Indestructible Vajra</color> to 1 random Shadow after dealing damage.\nIndestructible Vajra: Nullifies the next damage taken.\n2. Shadows gain the following abilities as turns progress.\nStarting on turn 3, Shadows gain 1 <color=#FF423F>Berserk</color> stack every turn.\nStarting on turn 5, Shadows gain 2 <color=#FF423F>Berserk</color> stack every turn.\nBerserk: Damage increases by 10%. Stacks up to 20 times."
+  },
+  {
+    "sn": "660321",
+    "title": "Unique Shadow Abilities",
+    "text": "1. Fuu-Ki's <color=#FF423F>Wind Domain</color> gives it a base chance of 80% to put the target in an <color=#FF423F>Ultrawindswept</color> state when attacking. Ultrawindswept lasts for 2 turns.\nUltrawindswept: An enhanced version of Windswept inflicted by Fuu-Ki. Decreases Defense by 24%.\n2. Kin-Ki's <color=#FF423F>Golden Domain</color> allows it to grant <color=#FF423F>Indestructible Vajra</color> to 1 random Shadow after dealing damage.\nIndestructible Vajra: Nullifies the next damage taken.\n3. Shadows gain the following abilities as turns progress.\nStarting on turn 3, Shadows gain 1 <color=#FF423F>Berserk</color> stack every turn.\nStarting on turn 5, Shadows gain 2 <color=#FF423F>Berserk</color> stack every turn.\nBerserk: Damage increases by 10%. Stacks up to 20 times."
+  },
+  {
+    "sn": "660331",
+    "title": "Unique Shadow Abilities",
+    "text": "1. Fuu-Ki's Wind Domain</color> gives it a base chance of 80% to put the target in an Ultrawindswept</color> state when attacking. Ultrawindswept lasts for 2 turns.\nUltrawindswept: An enhanced version of Windswept inflicted by Fuu-Ki. Decreases Defense by 24%.\n2. Sui-Ki's <color=#FF423F>Ice Domain</color> gives it a base chance of 80% to inflict <color=#FF423F>Ultrafreeze</color> when attacking. Ultrafreeze lasts for 2 turns.\nUltrafreeze: An enhanced version of Frozen inflicted by Sui-Ki. Decreases Attack Power by 24%.\n3. Kin-Ki's <color=#FF423F>Golden Domain</color> allows it to grant <color=#FF423F>Indestructible Vajra</color> to 1 random Shadow after dealing damage.\nIndestructible Vajra: Nullifies the next damage taken.\n4. Shadows gain the following abilities as turns progress.\nStarting on turn 3, Shadows gain 1 <color=#FF423F>Berserk</color> stack every turn.\nStarting on turn 5, Shadows gain 2 <color=#FF423F>Berserk</color> stack every turn.\nBerserk: Damage increases by 10%. Stacks up to 20 times."
+  },
+  {
+    "sn": "660341",
+    "title": "Unique Shadow Abilities",
+    "text": "1. Fuu-Ki's Wind Domain</color> gives it a base chance of 80% to put the target in an Ultrawindswept</color> state when attacking. Ultrawindswept lasts for 2 turns.\nUltrawindswept: An enhanced version of Windswept inflicted by Fuu-Ki. Decreases Defense by 24%.\n2. Sui-Ki's Ice Domain</color> gives it a base chance of 80% to inflict Ultrafreeze</color> when attacking. Ultrafreeze lasts for 2 turns.\nUltrafreeze: An enhanced version of Frozen inflicted by Sui-Ki. Decreases Attack Power by 24%.\n3. Kin-Ki's Golden Domain</color> allows it to grant Indestructible Vajra</color> to 1 random Shadow after dealing damage.\nIndestructible Vajra: Nullifies the next damage taken.\n4. Ongyo-Ki starts with 3 <color=#ff3b37>Damage Reduction</color> stacks, which increases the damage dealt to Phantom Thieves with elemental ailments.\n5. When Fuu-Ki, Sui-Ki, or Kin-Ki are defeated, Ongyo-Ki loses 1 <color=#ff3b37>Damage Reduction</color> stack. It then gains the Domain effect from the defeated Shadow, and its affinities change.\nOnce Fuu-Ki, Sui-Ki, and Kin-Ki have all been defeated, Ongyo-ki becomes enraged, increasing its final damage.\n6. Shadows gain the following abilities as turns progress.\nStarting on turn 3, Shadows gain 1 <color=#FF423F>Berserk</color> stack every turn.\nStarting on turn 5, Shadows gain 2 <color=#FF423F>Berserk</color> stack every turn.\nBerserk: Damage increases by 10%. Stacks up to 20 times."
   },
   {
     "sn": "923411",
     "title": "Justine & Caroline's Skills",
-    "text": "1. As a <color=#FF423F>Virtuoso</color> unit, Justine & Caroline can freely combine multiple sets of Personas before battle to create <color=#FF423F>6 different</color> role-based fighting styles.\n2. By combining Mask of Mischief & Innocence and Mask of Absurdity & Nonsense, the twins will gain <color=#FF423F>Strategist abilities</color>. Upon using each skill, Two Masks as One will become usable.\n3. By granting allies <color=#FF423F>Skill Amplification</color>, they can strengthen allies' <color=#FF423F>skill effects when they are enhanced</color>, as well as improve their attack, support, and recovery abilities simultaneously."
+    "text": "1. As a <color=#FF423F>Virtuoso</color> unit, Justine & Caroline can freely combine multiple sets of Personas before battle to create <color=#FF423F>6 different</color> role-based fighting styles.\n2. By combining Mask of Mischief & Innocence and Mask of Absurdity & Nonsense, the twins will gain <color=#FF423F>Strategist abilities</color>. By using each of these skills, they can use Two Masks as One.\n3. By granting allies <color=#FF423F>Skill Amplification</color>, they can strengthen allies' <color=#FF423F>skill effects when they are enhanced</color>, as well as improve their attack, support, and recovery abilities simultaneously."
   },
   {
     "sn": "923511",
     "title": "Justine & Caroline's Skills",
-    "text": "1. As a <color=#FF423F>Virtuoso</color> unit, Justine & Caroline can freely combine multiple sets of Personas before battle to create <color=#FF423F>6 different</color> role-based fighting styles.\n2. By combining Mask of Absurdity & Nonsense and Mask of Luck & Loss, the twins will gain <color=#FF423F>Assassin abilities</color>. Upon using each skill, Two Masks as One will become usable.\n3. By granting allies Rebel Surveillance, they can gain a percentage of the <color=#FF423F>Effects</color> stats from their allies to greatly increase their attack capabilities."
+    "text": "1. As the only <color=#81ea2c>Virtuoso</color> unit, Justine & Caroline can freely combine multiple sets of Personas before battle to create <color=#81ea2c>6 different</color> role-based fighting styles.\n2. By combining Mask of Absurdity & Nonsense and Mask of Luck & Loss, the twins will gain <color=#81ea2c>Assassin abilities</color>.\n3. By granting allies Rebel Surveillance, they can gain a percentage of the <color=#81ea2c>Effects</color> stats from their allies to greatly increase their attack capabilities."
   },
   {
     "sn": "923611",
     "title": "Justine & Caroline's Skills",
-    "text": "1. As a <color=#FF423F>Virtuoso</color> unit, Justine & Caroline can freely combine multiple sets of Personas before battle to create <color=#FF423F>6 different</color> role-based fighting styles.\n2. By combining Mask of Mischief & Innocence and Mask of Service & Admonition, the twins will gain <color=#FF423F>Medic abilities</color>. Upon using each skill, Two Masks as One will become usable.\n3. By restoring allies' HP and granting them Attack and Damage Mult. +, they can improve the team's survivability and Attack."
+    "text": "1. As the only <color=#81ea2c>Virtuoso</color> unit, Justine & Caroline can freely combine multiple sets of Personas before battle to create <color=#81ea2c>6 different</color> role-based fighting styles.\n2. By combining Mask of Mischief & Innocence and Mask of Service & Admonition, the twins will gain <color=#81ea2c>Medic abilities</color>.\n3. By restoring allies' HP and granting them Attack and Damage Mult. +, they can improve the team's survivability and Attack."
   }
 ]

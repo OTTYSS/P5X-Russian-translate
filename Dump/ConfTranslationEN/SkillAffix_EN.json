@@ -1397,12 +1397,12 @@
   {
     "sn": "1011",
     "name": "Special Effect",
-    "desc": "When an ally deals damage with Resonance, they gain Wild Fury.\nWild Fury: Final damage increases by 20%. Lasts for 2 turns. Stacks up to 2 times."
+    "desc": "When an ally deals damage with a Resonance, they gain Wild Fury.\nWild Fury: Final damage increases by 20%. Lasts for 2 turns. Stacks up to 2 times."
   },
   {
     "sn": "1012",
     "name": "Special Effect",
-    "desc": "When an ally spends HP to use a skill or deals damage with Resonance, they gain 1 Bloodbath Blessing stack.\nBloodbath Blessing: Final damage increases by 40%."
+    "desc": "When an ally spends HP to use a skill or deals damage with a Resonance, they gain 1 Bloodbath Blessing stack.\nBloodbath Blessing: Final damage increases by 40%."
   },
   {
     "sn": "1013",
@@ -1427,7 +1427,7 @@
   {
     "sn": "1017",
     "name": "Special Effect",
-    "desc": "After dealing damage with skills or Resonance, gain 1 Impact stack.\nImpact: Deal 5% final damage for each stack. Lasts for 2 turns. Stacks up to 8 times."
+    "desc": "After dealing damage with a skill or Resonance, gain 1 Impact stack.\nImpact: Deal 5% final damage for each stack. Lasts for 2 turns. Stacks up to 8 times."
   },
   {
     "sn": "1039",
@@ -1647,22 +1647,22 @@
   {
     "sn": "4501",
     "name": "Special Effect",
-    "desc": "<color=#FFFC40>Assassin</color> allies' final damage is increased by 30%. Other allies' final damage is decreased by 30%."
+    "desc": "<color=#FFFC40>Assassin</color> allies' final damage is increased by 60%."
   },
   {
     "sn": "4502",
     "name": "Special Effect",
-    "desc": "<color=#FFFC40>Sweeper</color> allies' final damage is increased by 30%. Other allies' final damage is decreased by 30%."
+    "desc": "<color=#FFFC40>Sweeper</color> allies' final damage is increased by 60%."
   },
   {
     "sn": "4511",
     "name": "Special Effect",
-    "desc": "Fire/Ice/Electric/Wind allies' final damage is increased by 30%. Other allies' final damage is decreased by 30%."
+    "desc": "<color=#ff381d>Fire</color>, <color=#00aeff>Ice</color>, <color=#fbff37>Electric</color>, and <color=#81ea2c>Wind</color> allies' final damage is increased by 60%."
   },
   {
     "sn": "4512",
     "name": "Special Effect",
-    "desc": "Psychokinesis/Nuclear/Bless/Curse allies' final damage is increased by 30%. Other allies' final damage is decreased by 30%."
+    "desc": "<color=#ff63ff>Psychokinesis</color>, <color=#00fcff>Nuclear</color>, <color=#fffea0>Bless</color>, and <color=#ff0036>Curse</color> allies' final damage is increased by 60%."
   },
   {
     "sn": "743",
@@ -1692,7 +1692,7 @@
   {
     "sn": "4513",
     "name": "Special Effect",
-    "desc": "Physical/Gun/Almighty allies' final damage is increased by 30%. Other allies' final damage is decreased by 30%."
+    "desc": "<color=#FF9C00>Physical</color>, <color=#FF9C00>Gun</color>, and <color=#E3E3E3>Almighty</color> allies' final damage is increased by 60%."
   },
   {
     "sn": "4521",
@@ -1702,17 +1702,17 @@
   {
     "sn": "4522",
     "name": "Special Effect",
-    "desc": "Foes will be inflicted with most <color=#FFFC40>spiritual ailments</color>. When an ally inflicts a <color=#FFFC40>spiritual ailment</color>, their ailment accuracy is greatly increased. Foes inflicted with <color=#FFFC40>spiritual ailments</color> take increased final damage."
+    "desc": "Foes can be inflicted with most <color=#FFFC40>spiritual and control ailments</color>. When an ally inflicts a <color=#FFFC40>spiritual or control ailment</color>, their ailment accuracy is greatly increased. Foes inflicted with <color=#FFFC40>spiritual and control ailments</color> take 60% increased final damage."
   },
   {
     "sn": "4523",
     "name": "Special Effect",
-    "desc": "When all allies are inflicted with a <color=#FFFC40>spiritual ailment</color>, ailment accuracy is greatly increased."
+    "desc": "Foes can be inflicted with most <color=#FFFC40>spiritual and control ailments</color>. When an ally inflicts a <color=#FFFC40>spiritual or control ailment</color>, their ailment accuracy is greatly increased."
   },
   {
     "sn": "4524",
     "name": "Special Effect",
-    "desc": "Foes' spiritual ailment resistance is increased, but their final damage taken is increased by 60% when inflicted with a <color=#FFFC40>spiritual ailment</color>."
+    "desc": "Foes can be inflicted with most <color=#FFFC40>spiritual and control ailments</color>. Foes inflicted with <color=#FFFC40>spiritual and control ailments</color> take 60% increased final damage."
   },
   {
     "sn": "4531",
@@ -1727,7 +1727,7 @@
   {
     "sn": "4533",
     "name": "Special Effect",
-    "desc": "The Highlight gauge fills 20% slower, but Highlight final damage is increased by 200%."
+    "desc": "The Highlight gauge fills 20% slower, but allies' <color=#FFFC40>Highlight</color> final damage is increased by 100%."
   },
   {
     "sn": "4541",
@@ -1747,7 +1747,7 @@
   {
     "sn": "4552",
     "name": "Special Effect",
-    "desc": "At the start of battle and at the start of the foe's action, 1 of the foes' affinities randomly changes to Weak (only the most recently gained Weak affinity will remain). When a foe takes damage from a 1 More or All-Out Attack, their damage taken is increased by 400%."
+    "desc": "Increase dmg taken from <color=#FFFC40>1 More and All-Out Attacks</color> by 400%."
   },
   {
     "sn": "4553",
@@ -1777,27 +1777,27 @@
   {
     "sn": "6001",
     "name": "Node Breaker",
-    "desc": "<color=#FF423F>Node Breaker</color>: <color=#fffc40>Combat Chip</color>. When an ally defeats a foe, gain <color=#fffc40>10</color> deployment points. Allies' damage is increased by <color=#fffc40>30%</color>."
+    "desc": "<color=#FF423F>Node Breaker</color>: <color=#fffc40>Combat Chip</color>. When an ally defeats a foe, gain <color=#fffc40>10</color> deployment points. Increase ally damage by <color=#fffc40>30%</color>."
   },
   {
     "sn": "6002",
     "name": "Vulnerability Cracking",
-    "desc": "<color=#FF423F>Vulnerability Cracking</color>: <color=#fffc40>Combat Chip</color>. When an ally deals weakness damage, gain <color=#fffc40>3</color> deployment points. Allies' weakness damage is increased by <color=#fffc40>37.5%</color>."
+    "desc": "<color=#FF423F>Vulnerability Cracking</color>: <color=#fffc40>Combat Chip</color>. When an ally deals weakness damage, gain <color=#fffc40>3</color> deployment points. Increase ally weakness damage by <color=#fffc40>37.5%</color>."
   },
   {
     "sn": "6003",
     "name": "Synchro-attack",
-    "desc": "<color=#FF423F>Synchro-attack</color>: <color=#fffc40>Combat Chip</color>. When allies take damage of their own attribute, gain <color=#fffc40>4</color> deployment points. Damage is increased by <color=#fffc40>60%</color>."
+    "desc": "<color=#FF423F>Synchro-attack</color>: <color=#fffc40>Combat Chip</color>. When allies take damage of their own attribute, gain <color=#fffc40>4</color> deployment points. Increase damage by <color=#fffc40>60%</color> more."
   },
   {
     "sn": "6004",
     "name": "Flooding Device",
-    "desc": "<color=#FF423F>Flooding Device</color>: <color=#fffc40>Combat Chip</color>. Each time allies attack, gain <color=#fffc40>1</color> deployment point. After every 10 ally attacks, party's Attack is increased by <color=#fffc40>40%</color> for 1 turn."
+    "desc": "<color=#FF423F>Flooding Device</color>: <color=#fffc40>Combat Chip</color>. Each time allies attack, gain <color=#fffc40>1</color> deployment point. After every 10 ally attacks, increase party's Attack by <color=#fffc40>40%</color> for 1 turn."
   },
   {
     "sn": "6005",
     "name": "Trojan Horse",
-    "desc": "<color=#FF423F>Trojan Horse</color>: <color=#fffc40>Combat Chip</color>. When an ally activates a Resonance, gain <color=#fffc40>5</color> deployment points (only once per action). Allies' Resonance damage is increased by <color=#fffc40>60%</color>."
+    "desc": "<color=#FF423F>Trojan Horse</color>: <color=#fffc40>Combat Chip</color>. When an ally activates a Resonance, gain <color=#fffc40>5</color> deployment points. Increase ally Resonance damage by <color=#fffc40>60%</color>."
   },
   {
     "sn": "2503",
@@ -1805,9 +1805,24 @@
     "desc": "At the end of each turn, foes gain 1 <color=#FFFC40>Berserk</color> stack.\nBerserk: Increase damage by a set amount. Stacks up to 3 times."
   },
   {
+    "sn": "4514",
+    "name": "Special Effect",
+    "desc": "When the party has 2/3/4 allies of the <color=#FFFC40>same attribute</color>, all allies' final damage is increased by 20%/40%/60%."
+  },
+  {
+    "sn": "4535",
+    "name": "Special Effect",
+    "desc": "When allies activate a <color=#FFFC40>Technical</color>, final damage is increased by 100%."
+  },
+  {
+    "sn": "4555",
+    "name": "Special Effect",
+    "desc": "At the start of battle and at the start of the foe's turn, the foe will gain a random Weak affinity (only the most recent Weak affinity is active)."
+  },
+  {
     "sn": "6006",
     "name": "Overload",
-    "desc": "<color=#FF423F>Overload</color>: <color=#fffc40>Combat Chip</color>. When an ally deals critical damage, gain <color=#fffc40>4</color> deployment points. Allies' critical rate is increased by <color=#fffc40>18%</color>."
+    "desc": "<color=#FF423F>Overload</color>: <color=#fffc40>Combat Chip</color>. When an ally deals critical damage, gain <color=#fffc40>4</color> deployment points. Increase ally critical rate by <color=#fffc40>18%</color>."
   },
   {
     "sn": "6011",
@@ -1827,7 +1842,7 @@
   {
     "sn": "6014",
     "name": "Elemental Combat-E2",
-    "desc": "<color=#FF423F>Elemental Combat-E2</color>: After taking an attack from a <color=#fffc40>Self-Destruct Bot</color>, the target's Psychokinesis, Nuclear, Bless, and Curse damage taken is increased by 40% for 2 turns. Only activates once per battle."
+    "desc": "<color=#FF423F>Elemental Combat-E2</color>: After taking an attack from a <color=#FFFC40>Self-Destruct Bot</color>, the target's Psychokinesis, Nuclear, Bless, and Curse damage taken is increased by <color=#FFFC40>40%</color> for 2 turns. Only activates once per battle."
   },
   {
     "sn": "6015",
@@ -1958,6 +1973,46 @@
     "sn": "2025",
     "name": "Special Effect",
     "desc": "When allies deal <color=#FFFC40>Almighty damage</color>, the party's Attack is increased by 30% and damage dealt is increased by 20% for 2 turns."
+  },
+  {
+    "sn": "4503",
+    "name": "Special Effect",
+    "desc": "When the party has 2 or more <color=#FFFC40>Sweeper or Assassin</color> allies, all allies' final damage is increased by 60%."
+  },
+  {
+    "sn": "4504",
+    "name": "Special Effect",
+    "desc": "<color=#FFFC40>Wonder</color>'s final damage is increased by 100%."
+  },
+  {
+    "sn": "4534",
+    "name": "Special Effect",
+    "desc": "When allies use <color=#FFFC40>melee or ranged attacks</color>, final damage is increased by 100%."
+  },
+  {
+    "sn": "4561",
+    "name": "Special Effect",
+    "desc": "At the end of the boss's turn, all allies are inflicted with <color=#FFFC40>Intimidation</color>. When Intimidation is removed, all foes are inflicted with Intimidation.\nIntimidation: Increase final damage taken by 10%. Stacks up to 6 times. Lasts for 3 turns."
+  },
+  {
+    "sn": "4571",
+    "name": "Special Effect",
+    "desc": "Each time an ally deals damage to a foe, that ally's final damage is increased by 4%. Stacks up to 15 times. Lasts for 3 turns."
+  },
+  {
+    "sn": "4572",
+    "name": "Special Effect",
+    "desc": "When an ally does not deal damage for 1 turn, their final damage is increased by 50%. This effect lasts for 1 turn."
+  },
+  {
+    "sn": "4581",
+    "name": "Special Effect",
+    "desc": "When a Sweeper or Assassin ally lands a <color=#FFFC40>critical hit</color>, final damage is increased by 30%, critical rate is increased by 40%, and critical damage is decreased by 60%."
+  },
+  {
+    "sn": "4591",
+    "name": "Special Effect",
+    "desc": "Allies from the <color=#ff381d>Phantom Thieves of Hearts</color> deal 60% increased final damage."
   },
   {
     "sn": "7014",
@@ -2437,7 +2492,7 @@
   {
     "sn": "4515",
     "name": "Special Effect",
-    "desc": "When allies deal <color=#FFFC40>Almighty damage</color>, the party's final damage is increased by 60% for 2 turns."
+    "desc": "When allies besides Wonder deal <color=#FFFC40>Almighty damage</color> with a skill or 1 More, the party's final damage is increased by 60% for 2 turns."
   },
   {
     "sn": "8213",

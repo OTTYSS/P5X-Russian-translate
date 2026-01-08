@@ -381,7 +381,7 @@
     "sn": "55",
     "name": "TV Show Point",
     "typeName": "Currency",
-    "tips": "Can be exchanged for rewards from the 24-hour TV program \"Robo Challenge.\" Obtainable by participating on the program.",
+    "tips": "You can earn points by participating in the Robotic Challenge and exchange them for rewards.",
     "contentBG": "<color=#ffffff>  </color>"
   },
   {
@@ -584,7 +584,7 @@
     "sn": "1018",
     "name": "Plum Blossom Dango",
     "typeName": "Event Currency",
-    "tips": "Can be exchanged for the Rank VII Persona Black Frost and its Seal.",
+    "tips": "Once a certain amount has been collected, can be exchanged for the Rank VII Persona Black Frost and its Seal.",
     "contentBG": "<color=#ffffff>  </color>"
   },
   {
@@ -1953,6 +1953,55 @@
     "contentBG": "<color=#ffffff>  </color>"
   },
   {
+    "sn": "190179",
+    "name": "Wonder Weapon Enhancement Box",
+    "typeName": "Gift Set",
+    "tips": "Can be used to select and obtain Joy Medal x600 or certain weapon enhancement materials.",
+    "contentBG": "AAAAAA=="
+  },
+  {
+    "sn": "190180",
+    "name": "Venus Gift",
+    "typeName": "Gift Set",
+    "tips": "Can be used to obtain Venus Gem x2 and Venus Bottle x6.",
+    "contentBG": "AAAAAA=="
+  },
+  {
+    "sn": "190181",
+    "name": "City Life Boost Gift",
+    "typeName": "Gift Set",
+    "tips": "Can be used to obtain Aroma Diffuser x3 and Assam Tea x1.",
+    "contentBG": "AAAAAA=="
+  },
+  {
+    "sn": "190182",
+    "name": "Custom Revelation Gift",
+    "typeName": "Gift Set",
+    "tips": "Can be used to obtain Vicissitude Ink x1 and Retrograde Card x2.",
+    "contentBG": "AAAAAA=="
+  },
+  {
+    "sn": "190183",
+    "name": "Rank VIII Persona Box",
+    "typeName": "Gift Set",
+    "tips": "Can be used to select and obtain Repression Medal IV x300 or certain Rank VIII Personas. ",
+    "contentBG": "AAAAAA=="
+  },
+  {
+    "sn": "190188",
+    "name": "Joy Medal x600",
+    "typeName": "Currency",
+    "tips": "Obtainable from specific content. Can be exchanged for Wonder-only 5★ weapons.",
+    "contentBG": "<color=#ffffff>  </color>"
+  },
+  {
+    "sn": "190189",
+    "name": "Repression Medal IV x300",
+    "typeName": "Currency",
+    "tips": "Obtainable by playing events such as Trials from the Sea of Souls. Can be exchanged for rewards from the Repression Medal shops.",
+    "contentBG": "<color=#ffffff>  </color>"
+  },
+  {
     "sn": "200109",
     "name": "Eye of Obsequies",
     "typeName": "Dagger",
@@ -1992,6 +2041,237 @@
     "name": "Meta Jewel x1500",
     "typeName": "Currency",
     "tips": "Used for Contracts, Arms Deals, and recovering your stamina.",
+    "contentBG": "<color=#ffffff>  </color>"
+  },
+  {
+    "sn": "190193",
+    "name": "Eternal Love",
+    "typeName": "Preview",
+    "tips": "Merope",
+    "contentBG": "<color=#ffffff>  </color>"
+  },
+  {
+    "sn": "190194",
+    "name": "Eternal Love",
+    "typeName": "Preview",
+    "tips": "Motoha Arai",
+    "contentBG": "<color=#ffffff>  </color>"
+  },
+  {
+    "sn": "190195",
+    "name": "Eternal Love",
+    "typeName": "Preview",
+    "tips": "Riko Tanemura",
+    "contentBG": "<color=#ffffff>  </color>"
+  },
+  {
+    "sn": "190196",
+    "name": "Eternal Love",
+    "typeName": "Preview",
+    "tips": "Lufel",
+    "contentBG": "<color=#ffffff>  </color>"
+  },
+  {
+    "sn": "190197",
+    "name": "Eternal Love",
+    "typeName": "Preview",
+    "tips": "Shun Kano",
+    "contentBG": "<color=#ffffff>  </color>"
+  },
+  {
+    "sn": "190198",
+    "name": "Eternal Love",
+    "typeName": "Preview",
+    "tips": "Kiyoshi Kurotani",
+    "contentBG": "<color=#ffffff>  </color>"
+  },
+  {
+    "sn": "190199",
+    "name": "Eternal Love",
+    "typeName": "Preview",
+    "tips": "Yaoling Li",
+    "contentBG": "<color=#ffffff>  </color>"
+  },
+  {
+    "sn": "190200",
+    "name": "Eternal Love",
+    "typeName": "Preview",
+    "tips": "Tomoko Noge",
+    "contentBG": "<color=#ffffff>  </color>"
+  },
+  {
+    "sn": "190201",
+    "name": "Eternal Love",
+    "typeName": "Preview",
+    "tips": "Kayo Tomiyama",
+    "contentBG": "<color=#ffffff>  </color>"
+  },
+  {
+    "sn": "190202",
+    "name": "Eternal Love",
+    "typeName": "Preview",
+    "tips": "Toshiya Sumi",
+    "contentBG": "<color=#ffffff>  </color>"
+  },
+  {
+    "sn": "190203",
+    "name": "Eternal Love",
+    "typeName": "Preview",
+    "tips": "Yui",
+    "contentBG": "<color=#ffffff>  </color>"
+  },
+  {
+    "sn": "190204",
+    "name": "Eternal Love",
+    "typeName": "Preview",
+    "tips": "Ayaka Sakai",
+    "contentBG": "<color=#ffffff>  </color>"
+  },
+  {
+    "sn": "190205",
+    "name": "Eternal Love",
+    "typeName": "Preview",
+    "tips": "Yumi Shiina",
+    "contentBG": "<color=#ffffff>  </color>"
+  },
+  {
+    "sn": "190206",
+    "name": "Eternal Love",
+    "typeName": "Preview",
+    "tips": "Miyu Sahara",
+    "contentBG": "<color=#ffffff>  </color>"
+  },
+  {
+    "sn": "190207",
+    "name": "Eternal Love",
+    "typeName": "Preview",
+    "tips": "Kira Kitazato",
+    "contentBG": "<color=#ffffff>  </color>"
+  },
+  {
+    "sn": "190208",
+    "name": "Eternal Love",
+    "typeName": "Preview",
+    "tips": "Masaki Ashiya",
+    "contentBG": "<color=#ffffff>  </color>"
+  },
+  {
+    "sn": "190209",
+    "name": "Eternal Love",
+    "typeName": "Preview",
+    "tips": "Kotone Montagne",
+    "contentBG": "<color=#ffffff>  </color>"
+  },
+  {
+    "sn": "190210",
+    "name": "Eternal Love",
+    "typeName": "Preview",
+    "tips": "Runa Dogenzaka",
+    "contentBG": "<color=#ffffff>  </color>"
+  },
+  {
+    "sn": "190211",
+    "name": "Eternal Love",
+    "typeName": "Preview",
+    "tips": "Mayumi Hashimoto",
+    "contentBG": "<color=#ffffff>  </color>"
+  },
+  {
+    "sn": "190212",
+    "name": "Eternal Love",
+    "typeName": "Preview",
+    "tips": "Mio Natsukawa",
+    "contentBG": "<color=#ffffff>  </color>"
+  },
+  {
+    "sn": "190213",
+    "name": "Eternal Love",
+    "typeName": "Preview",
+    "tips": "Manaka Nagao",
+    "contentBG": "<color=#ffffff>  </color>"
+  },
+  {
+    "sn": "190214",
+    "name": "Eternal Love",
+    "typeName": "Preview",
+    "tips": "Ichigo Shikano",
+    "contentBG": "<color=#ffffff>  </color>"
+  },
+  {
+    "sn": "190215",
+    "name": "Eternal Love",
+    "typeName": "Preview",
+    "tips": "Minami Miyashita",
+    "contentBG": "<color=#ffffff>  </color>"
+  },
+  {
+    "sn": "190216",
+    "name": "Eternal Love",
+    "typeName": "Preview",
+    "tips": "Kumi Katayama",
+    "contentBG": "<color=#ffffff>  </color>"
+  },
+  {
+    "sn": "190217",
+    "name": "Eternal Love",
+    "typeName": "Preview",
+    "tips": "Musubi Matsukata",
+    "contentBG": "<color=#ffffff>  </color>"
+  },
+  {
+    "sn": "190218",
+    "name": "Eternal Love",
+    "typeName": "Preview",
+    "tips": "Shoki Ikenami",
+    "contentBG": "<color=#ffffff>  </color>"
+  },
+  {
+    "sn": "190219",
+    "name": "Eternal Love",
+    "typeName": "Preview",
+    "tips": "Mayumi Hashimoto",
+    "contentBG": "<color=#ffffff>  </color>"
+  },
+  {
+    "sn": "190220",
+    "name": "Eternal Love",
+    "typeName": "Preview",
+    "tips": "Ichigo Shikano",
+    "contentBG": "<color=#ffffff>  </color>"
+  },
+  {
+    "sn": "190221",
+    "name": "Eternal Love",
+    "typeName": "Preview",
+    "tips": "Minami Miyashita",
+    "contentBG": "<color=#ffffff>  </color>"
+  },
+  {
+    "sn": "190222",
+    "name": "Eternal Love",
+    "typeName": "Preview",
+    "tips": "Kumi Katayama",
+    "contentBG": "<color=#ffffff>  </color>"
+  },
+  {
+    "sn": "190223",
+    "name": "Eternal Love",
+    "typeName": "Preview",
+    "tips": "Musubi Matsukata",
+    "contentBG": "<color=#ffffff>  </color>"
+  },
+  {
+    "sn": "190224",
+    "name": "Eternal Love",
+    "typeName": "Preview",
+    "tips": "Shoki Ikenami",
+    "contentBG": "<color=#ffffff>  </color>"
+  },
+  {
+    "sn": "190225",
+    "name": "Eternal Love",
+    "typeName": "Preview",
+    "tips": "Mayumi Hashimoto",
     "contentBG": "<color=#ffffff>  </color>"
   },
   {
@@ -3004,7 +3284,7 @@
   },
   {
     "sn": "213404",
-    "name": "Cerberus Gauntlets",
+    "name": "Cerberus Claws",
     "typeName": "AAAAAA==",
     "tips": "AAAAAA==",
     "contentBG": "AAAAAA=="
@@ -5587,114 +5867,114 @@
   },
   {
     "sn": "222321",
-    "name": "Success: Sun",
+    "name": "Triumph: Sun",
     "typeName": "Revelation",
-    "tips": "A revelation card symbolizing success. Equipping it grants various effects.",
+    "tips": "A revelation card symbolizing triumph. Equipping it grants various effects.",
     "contentBG": "<color=#ffffff>  </color>"
   },
   {
     "sn": "222322",
-    "name": "Success: Moon",
+    "name": "Triumph: Moon",
     "typeName": "Revelation",
-    "tips": "A revelation card symbolizing success. Equipping it grants various effects.",
+    "tips": "A revelation card symbolizing triumph. Equipping it grants various effects.",
     "contentBG": "<color=#ffffff>  </color>"
   },
   {
     "sn": "222323",
-    "name": "Success: Star",
+    "name": "Triumph: Star",
     "typeName": "Revelation",
-    "tips": "A revelation card symbolizing success. Equipping it grants various effects.",
+    "tips": "A revelation card symbolizing triumph. Equipping it grants various effects.",
     "contentBG": "<color=#ffffff>  </color>"
   },
   {
     "sn": "222324",
-    "name": "Success: Sky",
+    "name": "Triumph: Sky",
     "typeName": "Revelation",
-    "tips": "A revelation card symbolizing success. Equipping it grants various effects.",
+    "tips": "A revelation card symbolizing triumph. Equipping it grants various effects.",
     "contentBG": "<color=#ffffff>  </color>"
   },
   {
     "sn": "222331",
-    "name": "Success: Sun",
+    "name": "Triumph: Sun",
     "typeName": "Revelation",
-    "tips": "A revelation card symbolizing success. Equipping it grants various effects.",
+    "tips": "A revelation card symbolizing triumph. Equipping it grants various effects.",
     "contentBG": "<color=#ffffff>  </color>"
   },
   {
     "sn": "222332",
-    "name": "Success: Moon",
+    "name": "Triumph: Moon",
     "typeName": "Revelation",
-    "tips": "A revelation card symbolizing success. Equipping it grants various effects.",
+    "tips": "A revelation card symbolizing triumph. Equipping it grants various effects.",
     "contentBG": "<color=#ffffff>  </color>"
   },
   {
     "sn": "222333",
-    "name": "Success: Star",
+    "name": "Triumph: Star",
     "typeName": "Revelation",
-    "tips": "A revelation card symbolizing success. Equipping it grants various effects.",
+    "tips": "A revelation card symbolizing triumph. Equipping it grants various effects.",
     "contentBG": "<color=#ffffff>  </color>"
   },
   {
     "sn": "222334",
-    "name": "Success: Sky",
+    "name": "Triumph: Sky",
     "typeName": "Revelation",
-    "tips": "A revelation card symbolizing success. Equipping it grants various effects.",
+    "tips": "A revelation card symbolizing triumph. Equipping it grants various effects.",
     "contentBG": "<color=#ffffff>  </color>"
   },
   {
     "sn": "222341",
-    "name": "Success: Sun",
+    "name": "Triumph: Sun",
     "typeName": "Revelation",
-    "tips": "A revelation card symbolizing success. Equipping it grants various effects.",
+    "tips": "A revelation card symbolizing triumph. Equipping it grants various effects.",
     "contentBG": "<color=#ffffff>  </color>"
   },
   {
     "sn": "222342",
-    "name": "Success: Moon",
+    "name": "Triumph: Moon",
     "typeName": "Revelation",
-    "tips": "A revelation card symbolizing success. Equipping it grants various effects.",
+    "tips": "A revelation card symbolizing triumph. Equipping it grants various effects.",
     "contentBG": "<color=#ffffff>  </color>"
   },
   {
     "sn": "222343",
-    "name": "Success: Star",
+    "name": "Triumph: Star",
     "typeName": "Revelation",
-    "tips": "A revelation card symbolizing success. Equipping it grants various effects.",
+    "tips": "A revelation card symbolizing triumph. Equipping it grants various effects.",
     "contentBG": "<color=#ffffff>  </color>"
   },
   {
     "sn": "222344",
-    "name": "Success: Sky",
+    "name": "Triumph: Sky",
     "typeName": "Revelation",
-    "tips": "A revelation card symbolizing success. Equipping it grants various effects.",
+    "tips": "A revelation card symbolizing triumph. Equipping it grants various effects.",
     "contentBG": "<color=#ffffff>  </color>"
   },
   {
     "sn": "222351",
-    "name": "Success: Sun",
+    "name": "Triumph: Sun",
     "typeName": "Revelation",
-    "tips": "A revelation card symbolizing success. Equipping it grants various effects.",
+    "tips": "A revelation card symbolizing triumph. Equipping it grants various effects.",
     "contentBG": "<color=#ffffff>  </color>"
   },
   {
     "sn": "222352",
-    "name": "Success: Moon",
+    "name": "Triumph: Moon",
     "typeName": "Revelation",
-    "tips": "A revelation card symbolizing success. Equipping it grants various effects.",
+    "tips": "A revelation card symbolizing triumph. Equipping it grants various effects.",
     "contentBG": "<color=#ffffff>  </color>"
   },
   {
     "sn": "222353",
-    "name": "Success: Star",
+    "name": "Triumph: Star",
     "typeName": "Revelation",
-    "tips": "A revelation card symbolizing success. Equipping it grants various effects.",
+    "tips": "A revelation card symbolizing triumph. Equipping it grants various effects.",
     "contentBG": "<color=#ffffff>  </color>"
   },
   {
     "sn": "222354",
-    "name": "Success: Sky",
+    "name": "Triumph: Sky",
     "typeName": "Revelation",
-    "tips": "A revelation card symbolizing success. Equipping it grants various effects.",
+    "tips": "A revelation card symbolizing triumph. Equipping it grants various effects.",
     "contentBG": "<color=#ffffff>  </color>"
   },
   {
@@ -6917,9 +7197,9 @@
   },
   {
     "sn": "241023",
-    "name": "Success Revelation - Orange",
+    "name": "Triumph Revelation - Orange",
     "typeName": "Revelation",
-    "tips": "Use to receive an Orange-rarity Success Revelation Card.",
+    "tips": "Use to receive an Orange-rarity Triumph Revelation Card.",
     "contentBG": "<color=#ffffff>  </color>"
   },
   {
@@ -7197,9 +7477,9 @@
   },
   {
     "sn": "241123",
-    "name": "Success Revelation - Purple",
+    "name": "Triumph Revelation - Purple",
     "typeName": "Revelation",
-    "tips": "Use to receive a Purple-rarity Success Revelation Card.",
+    "tips": "Use to receive a Purple-rarity Triumph Revelation Card.",
     "contentBG": "<color=#ffffff>  </color>"
   },
   {
@@ -7533,9 +7813,9 @@
   },
   {
     "sn": "241163",
-    "name": "Success Revelation - Blue",
+    "name": "Triumph Revelation - Blue",
     "typeName": "Revelation",
-    "tips": "Use to receive a Blue-rarity Success Revelation Card.",
+    "tips": "Use to receive a Blue-rarity Triumph Revelation Card.",
     "contentBG": "<color=#ffffff>  </color>"
   },
   {
@@ -8781,7 +9061,7 @@
     "sn": "251121",
     "name": "Reconciliation: Sun",
     "typeName": "Revelation",
-    "tips": "A Revelation Card symbolizing reconciliation. Equipping it grants various effects.",
+    "tips": "A revelation card symbolizing reconciliation. Equipping it grants various effects.",
     "contentBG": "<color=#ffffff>  </color>"
   },
   {
@@ -10144,114 +10424,114 @@
   },
   {
     "sn": "252321",
-    "name": "Success: Sun",
+    "name": "Triumph: Sun",
     "typeName": "Revelation",
-    "tips": "A revelation card symbolizing success. Equipping it grants various effects.",
+    "tips": "A revelation card symbolizing triumph. Equipping it grants various effects.",
     "contentBG": "<color=#ffffff>  </color>"
   },
   {
     "sn": "252322",
-    "name": "Success: Moon",
+    "name": "Triumph: Moon",
     "typeName": "Revelation",
-    "tips": "A revelation card symbolizing success. Equipping it grants various effects.",
+    "tips": "A revelation card symbolizing triumph. Equipping it grants various effects.",
     "contentBG": "<color=#ffffff>  </color>"
   },
   {
     "sn": "252323",
-    "name": "Success: Star",
+    "name": "Triumph: Star",
     "typeName": "Revelation",
-    "tips": "A revelation card symbolizing success. Equipping it grants various effects.",
+    "tips": "A revelation card symbolizing triumph. Equipping it grants various effects.",
     "contentBG": "<color=#ffffff>  </color>"
   },
   {
     "sn": "252324",
-    "name": "Success: Sky",
+    "name": "Triumph: Sky",
     "typeName": "Revelation",
-    "tips": "A revelation card symbolizing success. Equipping it grants various effects.",
+    "tips": "A revelation card symbolizing triumph. Equipping it grants various effects.",
     "contentBG": "<color=#ffffff>  </color>"
   },
   {
     "sn": "252331",
-    "name": "Success: Sun",
+    "name": "Triumph: Sun",
     "typeName": "Revelation",
-    "tips": "A revelation card symbolizing success. Equipping it grants various effects.",
+    "tips": "A revelation card symbolizing triumph. Equipping it grants various effects.",
     "contentBG": "<color=#ffffff>  </color>"
   },
   {
     "sn": "252332",
-    "name": "Success: Moon",
+    "name": "Triumph: Moon",
     "typeName": "Revelation",
-    "tips": "A revelation card symbolizing success. Equipping it grants various effects.",
+    "tips": "A revelation card symbolizing triumph. Equipping it grants various effects.",
     "contentBG": "<color=#ffffff>  </color>"
   },
   {
     "sn": "252333",
-    "name": "Success: Star",
+    "name": "Triumph: Star",
     "typeName": "Revelation",
-    "tips": "A revelation card symbolizing success. Equipping it grants various effects.",
+    "tips": "A revelation card symbolizing triumph. Equipping it grants various effects.",
     "contentBG": "<color=#ffffff>  </color>"
   },
   {
     "sn": "252334",
-    "name": "Success: Sky",
+    "name": "Triumph: Sky",
     "typeName": "Revelation",
-    "tips": "A revelation card symbolizing success. Equipping it grants various effects.",
+    "tips": "A revelation card symbolizing triumph. Equipping it grants various effects.",
     "contentBG": "<color=#ffffff>  </color>"
   },
   {
     "sn": "252341",
-    "name": "Success: Sun",
+    "name": "Triumph: Sun",
     "typeName": "Revelation",
-    "tips": "A revelation card symbolizing success. Equipping it grants various effects.",
+    "tips": "A revelation card symbolizing triumph. Equipping it grants various effects.",
     "contentBG": "<color=#ffffff>  </color>"
   },
   {
     "sn": "252342",
-    "name": "Success: Moon",
+    "name": "Triumph: Moon",
     "typeName": "Revelation",
-    "tips": "A revelation card symbolizing success. Equipping it grants various effects.",
+    "tips": "A revelation card symbolizing triumph. Equipping it grants various effects.",
     "contentBG": "<color=#ffffff>  </color>"
   },
   {
     "sn": "252343",
-    "name": "Success: Star",
+    "name": "Triumph: Star",
     "typeName": "Revelation",
-    "tips": "A revelation card symbolizing success. Equipping it grants various effects.",
+    "tips": "A revelation card symbolizing triumph. Equipping it grants various effects.",
     "contentBG": "<color=#ffffff>  </color>"
   },
   {
     "sn": "252344",
-    "name": "Success: Sky",
+    "name": "Triumph: Sky",
     "typeName": "Revelation",
-    "tips": "A revelation card symbolizing success. Equipping it grants various effects.",
+    "tips": "A revelation card symbolizing triumph. Equipping it grants various effects.",
     "contentBG": "<color=#ffffff>  </color>"
   },
   {
     "sn": "252351",
-    "name": "Success: Sun",
+    "name": "Triumph: Sun",
     "typeName": "Revelation",
-    "tips": "A revelation card symbolizing success. Equipping it grants various effects.",
+    "tips": "A revelation card symbolizing triumph. Equipping it grants various effects.",
     "contentBG": "<color=#ffffff>  </color>"
   },
   {
     "sn": "252352",
-    "name": "Success: Moon",
+    "name": "Triumph: Moon",
     "typeName": "Revelation",
-    "tips": "A revelation card symbolizing success. Equipping it grants various effects.",
+    "tips": "A revelation card symbolizing triumph. Equipping it grants various effects.",
     "contentBG": "<color=#ffffff>  </color>"
   },
   {
     "sn": "252353",
-    "name": "Success: Star",
+    "name": "Triumph: Star",
     "typeName": "Revelation",
-    "tips": "A revelation card symbolizing success. Equipping it grants various effects.",
+    "tips": "A revelation card symbolizing triumph. Equipping it grants various effects.",
     "contentBG": "<color=#ffffff>  </color>"
   },
   {
     "sn": "252354",
-    "name": "Success: Sky",
+    "name": "Triumph: Sky",
     "typeName": "Revelation",
-    "tips": "A revelation card symbolizing success. Equipping it grants various effects.",
+    "tips": "A revelation card symbolizing triumph. Equipping it grants various effects.",
     "contentBG": "<color=#ffffff>  </color>"
   },
   {
@@ -11035,7 +11315,7 @@
     "sn": "301212",
     "name": "Kotone's Cognitite 2",
     "typeName": "Lingering Thoughts",
-    "tips": "Can be used in certain areas to raise Kotone's Awareness Level.",
+    "tips": "Can be used in certain areas to raise Frostgale Kotone's Awareness Level.",
     "contentBG": "<color=#ffffff>  </color>"
   },
   {
@@ -11140,7 +11420,7 @@
     "sn": "302011",
     "name": "Stardust Bottle",
     "typeName": "Material",
-    "tips": "Can be spent to unlock/enhance stat enhancement elements.",
+    "tips": "Can be spent in order to unlock/enhance Mindscapes.",
     "contentBG": "<color=#ffffff>  </color>"
   },
   {
@@ -11154,7 +11434,7 @@
     "sn": "302021",
     "name": "Stardust Gem",
     "typeName": "Material",
-    "tips": "Can be spent to unlock Mindscapes which enhance skills, Highlights, and more.",
+    "tips": "Can be spent to unlock/enhance Mindscapes which enhance skills, Highlights, and more.",
     "contentBG": "<color=#ffffff>  </color>"
   },
   {
@@ -11168,7 +11448,7 @@
     "sn": "302031",
     "name": "Stardust Bell",
     "typeName": "Material",
-    "tips": "Can be spent to unlock Mindscapes which boost base stats.",
+    "tips": "Can be spent to unlock/enhance Mindscapes which boost base stats.",
     "contentBG": "<color=#ffffff>  </color>"
   },
   {
@@ -12888,7 +13168,7 @@
   },
   {
     "sn": "303273",
-    "name": "Kids' Anime Body Pillow",
+    "name": "Kids' Character Pillow",
     "typeName": "Daily Life Item",
     "tips": "Can increase Synergy levels with an accomplice.",
     "contentBG": "<color=#ffffff>  </color>"
@@ -14525,6 +14805,13 @@
     "contentBG": "<color=#ffffff>  </color>"
   },
   {
+    "sn": "302934",
+    "name": "Artisan's Mod Order Piece",
+    "typeName": "Piece",
+    "tips": "Collect 60 to obtain one Artisan's Mod Order.",
+    "contentBG": "<color=#ffffff>  </color>"
+  },
+  {
     "sn": "304008",
     "name": "Wasabi",
     "typeName": "Ingredient",
@@ -15949,7 +16236,7 @@
     "sn": "305624",
     "name": "Gluttony Treasure Detector",
     "typeName": "Infiltration Tool",
-    "tips": "When used in the Metaverse, increases the chance of discovering rare treasure. Can be crafted at the workbench with gluttony chips, retro game consoles, and stabilizer.",
+    "tips": "When used in the Metaverse, displays destroyable objects in the area used on the map. Can be crafted at the workbench with gluttony chips, retro game consoles, and tranquilizer.",
     "contentBG": "<color=#ffffff>  </color>"
   },
   {
@@ -20189,16 +20476,16 @@
   },
   {
     "sn": "311016",
-    "name": "Under Development",
+    "name": "Frostgale Kotone Avatar",
     "typeName": "Avatar",
     "tips": "Can be set as your profile avatar.",
     "contentBG": "AAAAAA=="
   },
   {
     "sn": "311017",
-    "name": "Under Development",
+    "name": "Frostgale Avatar 2",
     "typeName": "Avatar",
-    "tips": "Can be set as your own profile avatar.",
+    "tips": "Can be set as your profile avatar.",
     "contentBG": "AAAAAA=="
   },
   {
@@ -20450,14 +20737,14 @@
     "sn": "314141",
     "name": "An Icy Wind Encountered",
     "typeName": "Badge",
-    "tips": "Awarded for clearing the Beginner Stage of Mont's Special Mission in Thieves' Secrets.",
+    "tips": "Awarded for clearing Challenge Stage 4 of Mont's Special Missions in Thieves' Secrets.",
     "contentBG": "AAAAAA=="
   },
   {
     "sn": "314142",
     "name": "An Icy Wind Understood",
     "typeName": "Badge",
-    "tips": "Awarded for clearing the Intermediate Stage of Mont's Special Mission in Thieves' Secrets.",
+    "tips": "Awarded for clearing Challenge Stage 4 of Mont's Special Missions in Thieves' Secrets.",
     "contentBG": "AAAAAA=="
   },
   {
@@ -20485,7 +20772,7 @@
     "sn": "314143",
     "name": "An Icy Wind Bonded",
     "typeName": "Badge",
-    "tips": "Awarded for clearing the Advanced Stage of Mont's Special Mission in Thieves' Secrets.",
+    "tips": "Awarded for clearing Challenge Stage 5 of Mont's Special Missions in Thieves' Secrets.",
     "contentBG": "AAAAAA=="
   },
   {
@@ -21304,28 +21591,28 @@
     "sn": "314401",
     "name": "Enlightening Planetarium: Silver",
     "typeName": "Badge",
-    "tips": "Awarded for passing 3 Stella in Trial of the Astrolabe Pt. 1.",
+    "tips": "Awarded for passing 3 Stellae in Trial of the Astrolabe Season 1.",
     "contentBG": "<color=#ffffff>  </color>"
   },
   {
     "sn": "314402",
     "name": "Enlightening Planetarium: Gold",
     "typeName": "Badge",
-    "tips": "Awarded for passing at least 1 Stella and Palace Stella in Trial of the Astrolabe Pt. 1.",
+    "tips": "Pass a Lord Stella in Trial of the Astrolabe Season 1.",
     "contentBG": "<color=#ffffff>  </color>"
   },
   {
     "sn": "314403",
     "name": "Enlightening Planetarium: Rainbow",
     "typeName": "Badge",
-    "tips": "Awarded for passing 1 Stella and Fate Stella in Trial of the Astrolabe Pt. 1.",
+    "tips": "Pass a Fate Stella in Trial of the Astrolabe Season 1.",
     "contentBG": "<color=#ffffff>  </color>"
   },
   {
     "sn": "314404",
     "name": "Enlightening Planetarium: Holo",
     "typeName": "Badge",
-    "tips": "Awarded for passing all Stella in Trial of the Astrolabe Pt. 1.",
+    "tips": "Pass all Stellae in Trial of the Astrolabe Season 1.",
     "contentBG": "<color=#ffffff>  </color>"
   },
   {
@@ -21856,7 +22143,7 @@
   {
     "sn": "307501",
     "name": "Casualwear",
-    "typeName": "Casual",
+    "typeName": "Casualwear",
     "tips": "Default Casualwear",
     "contentBG": "<color=#ffffff>  </color>"
   },
@@ -21877,14 +22164,14 @@
   {
     "sn": "307504",
     "name": "Gray Leather Shoulder Bag",
-    "typeName": "Casual",
+    "typeName": "Casualwear",
     "tips": "Can be put on at the closet in your bedroom.",
     "contentBG": "<color=#ffffff>  </color>"
   },
   {
     "sn": "307505",
     "name": "Red Leather Shoulder Bag",
-    "typeName": "Casual",
+    "typeName": "Casualwear",
     "tips": "Can be put on at the closet in your bedroom.",
     "contentBG": "<color=#ffffff>  </color>"
   },
@@ -21898,413 +22185,413 @@
   {
     "sn": "307507",
     "name": "Black Shoulder Bag",
-    "typeName": "Casual",
+    "typeName": "Casualwear",
     "tips": "Can be put on at the closet in your bedroom.",
     "contentBG": "<color=#ffffff>  </color>"
   },
   {
     "sn": "307508",
     "name": "Default Casualwear",
-    "typeName": "Casual",
+    "typeName": "Casualwear",
     "tips": "Casual Gloves",
     "contentBG": "<color=#ffffff>  </color>"
   },
   {
     "sn": "307509",
     "name": "Kokatsu Academy Blazer",
-    "typeName": "Casual",
+    "typeName": "Casualwear",
     "tips": "Can be put on at the closet in your bedroom.",
     "contentBG": "<color=#ffffff>  </color>"
   },
   {
     "sn": "307510",
     "name": "Kokatsu Academy Slacks",
-    "typeName": "Casual",
+    "typeName": "Casualwear",
     "tips": "Can be put on at the closet in your bedroom.",
     "contentBG": "<color=#ffffff>  </color>"
   },
   {
     "sn": "307511",
     "name": "Everyday Sneakers",
-    "typeName": "Casual",
+    "typeName": "Casualwear",
     "tips": "You can put them on at the closet in your bedroom.",
     "contentBG": "<color=#ffffff>  </color>"
   },
   {
     "sn": "307512",
     "name": "Black & Red Shoulder Bag",
-    "typeName": "Casual",
+    "typeName": "Casualwear",
     "tips": "Can be put on at the closet in your bedroom.",
     "contentBG": "<color=#ffffff>  </color>"
   },
   {
     "sn": "307513",
     "name": "White & Orange Shoulder Bag",
-    "typeName": "Casual",
+    "typeName": "Casualwear",
     "tips": "Can be put on at the closet in your bedroom.",
     "contentBG": "<color=#ffffff>  </color>"
   },
   {
     "sn": "307514",
     "name": "Navy Shoulder Bag",
-    "typeName": "Casual",
+    "typeName": "Casualwear",
     "tips": "Can be put on at the closet in your bedroom.",
     "contentBG": "<color=#ffffff>  </color>"
   },
   {
     "sn": "307515",
     "name": "Brown Leather Shoulder Bag",
-    "typeName": "Casual",
+    "typeName": "Casualwear",
     "tips": "Can be put on at the closet in your bedroom.",
     "contentBG": "<color=#ffffff>  </color>"
   },
   {
     "sn": "307516",
     "name": "Pink Shoulder Bag",
-    "typeName": "Casual",
+    "typeName": "Casualwear",
     "tips": "Can be put on at the closet in your bedroom.",
     "contentBG": "<color=#ffffff>  </color>"
   },
   {
     "sn": "307517",
     "name": "Red Shoulder Bag",
-    "typeName": "Casual",
+    "typeName": "Casualwear",
     "tips": "Can be put on at the closet in your bedroom.",
     "contentBG": "<color=#ffffff>  </color>"
   },
   {
     "sn": "307518",
     "name": "Aqua Shoulder Bag",
-    "typeName": "Casual",
+    "typeName": "Casualwear",
     "tips": "Can be put on at the closet in your bedroom.",
     "contentBG": "<color=#ffffff>  </color>"
   },
   {
     "sn": "307519",
     "name": "Green Character Bag",
-    "typeName": "Casual",
+    "typeName": "Casualwear",
     "tips": "Can be put on at the closet in your bedroom.",
     "contentBG": "<color=#ffffff>  </color>"
   },
   {
     "sn": "307520",
     "name": "Navy and Orange Shoulder Bag",
-    "typeName": "Casual",
+    "typeName": "Casualwear",
     "tips": "Can be put on at the closet in your bedroom.",
     "contentBG": "<color=#ffffff>  </color>"
   },
   {
     "sn": "307521",
     "name": "Yellow Character Bag",
-    "typeName": "Casual",
+    "typeName": "Casualwear",
     "tips": "Can be put on at the closet in your bedroom.",
     "contentBG": "<color=#ffffff>  </color>"
   },
   {
     "sn": "307522",
     "name": "Navy & Red Shoulder Bag",
-    "typeName": "Casual",
+    "typeName": "Casualwear",
     "tips": "Can be put on at the closet in your bedroom.",
     "contentBG": "<color=#ffffff>  </color>"
   },
   {
     "sn": "307523",
     "name": "White Shoulder Bag",
-    "typeName": "Casual",
+    "typeName": "Casualwear",
     "tips": "Can be put on at the closet in your bedroom.",
     "contentBG": "<color=#ffffff>  </color>"
   },
   {
     "sn": "307524",
     "name": "Blue Character Bag",
-    "typeName": "Casual",
+    "typeName": "Casualwear",
     "tips": "Can be put on at the closet in your bedroom.",
     "contentBG": "<color=#ffffff>  </color>"
   },
   {
     "sn": "307525",
     "name": "Red Sunglasses",
-    "typeName": "Casual",
+    "typeName": "Casualwear",
     "tips": "You can put them on at the closet in your bedroom.",
     "contentBG": "<color=#ffffff>  </color>"
   },
   {
     "sn": "307526",
     "name": "Artsy Shoulder Bag",
-    "typeName": "Casual",
+    "typeName": "Casualwear",
     "tips": "AAAAAA==",
     "contentBG": "AAAAAA=="
   },
   {
     "sn": "307611",
     "name": "Indigo Jacket",
-    "typeName": "Casual",
+    "typeName": "Casualwear",
     "tips": "Can be put on at the closet in your bedroom.",
     "contentBG": "<color=#ffffff>  </color>"
   },
   {
     "sn": "307612",
     "name": "Brown Capris",
-    "typeName": "Casual",
+    "typeName": "Casualwear",
     "tips": "Can be put on at the closet in your bedroom.",
     "contentBG": "<color=#ffffff>  </color>"
   },
   {
     "sn": "307613",
     "name": "Canvas Sneakers",
-    "typeName": "Casual",
+    "typeName": "Casualwear",
     "tips": "You can put them on at the closet in your bedroom.",
     "contentBG": "<color=#ffffff>  </color>"
   },
   {
     "sn": "307621",
     "name": "Gray Jacket",
-    "typeName": "Casual",
+    "typeName": "Casualwear",
     "tips": "Can be put on at the closet in your bedroom.",
     "contentBG": "<color=#ffffff>  </color>"
   },
   {
     "sn": "307622",
     "name": "Gray Capris",
-    "typeName": "Casual",
+    "typeName": "Casualwear",
     "tips": "Can be put on at the closet in your bedroom.",
     "contentBG": "<color=#ffffff>  </color>"
   },
   {
     "sn": "307631",
     "name": "Blue Jacket",
-    "typeName": "Casual",
+    "typeName": "Casualwear",
     "tips": "Can be put on at the closet in your bedroom.",
     "contentBG": "<color=#ffffff>  </color>"
   },
   {
     "sn": "307632",
     "name": "Black Capris",
-    "typeName": "Casual",
+    "typeName": "Casualwear",
     "tips": "Can be put on at the closet in your bedroom.",
     "contentBG": "<color=#ffffff>  </color>"
   },
   {
     "sn": "307641",
     "name": "Navy Jacket",
-    "typeName": "Casual",
+    "typeName": "Casualwear",
     "tips": "Can be put on at the closet in your bedroom.",
     "contentBG": "<color=#ffffff>  </color>"
   },
   {
     "sn": "307642",
     "name": "Blue Capris",
-    "typeName": "Casual",
+    "typeName": "Casualwear",
     "tips": "Can be put on at the closet in your bedroom.",
     "contentBG": "<color=#ffffff>  </color>"
   },
   {
     "sn": "307651",
     "name": "White & Blue Layers",
-    "typeName": "Casual",
+    "typeName": "Casualwear",
     "tips": "Can be put on at the closet in your bedroom.",
     "contentBG": "<color=#ffffff>  </color>"
   },
   {
     "sn": "307652",
     "name": "Blue Denim Pants",
-    "typeName": "Casual",
+    "typeName": "Casualwear",
     "tips": "Can be put on at the closet in your bedroom.",
     "contentBG": "<color=#ffffff>  </color>"
   },
   {
     "sn": "307653",
     "name": "Blue Sneakers",
-    "typeName": "Casual",
+    "typeName": "Casualwear",
     "tips": "You can put them on at the closet in your bedroom.",
     "contentBG": "<color=#ffffff>  </color>"
   },
   {
     "sn": "307661",
     "name": "Purple & Green Layers",
-    "typeName": "Casual",
+    "typeName": "Casualwear",
     "tips": "Can be put on at the closet in your bedroom.",
     "contentBG": "<color=#ffffff>  </color>"
   },
   {
     "sn": "307662",
     "name": "Purple Denim Pants",
-    "typeName": "Casual",
+    "typeName": "Casualwear",
     "tips": "Can be put on at the closet in your bedroom.",
     "contentBG": "<color=#ffffff>  </color>"
   },
   {
     "sn": "307663",
     "name": "Purple Sneakers",
-    "typeName": "Casual",
+    "typeName": "Casualwear",
     "tips": "You can put them on at the closet in your bedroom.",
     "contentBG": "<color=#ffffff>  </color>"
   },
   {
     "sn": "307671",
     "name": "Blue & Gray Layers",
-    "typeName": "Casual",
+    "typeName": "Casualwear",
     "tips": "Can be put on at the closet in your bedroom.",
     "contentBG": "<color=#ffffff>  </color>"
   },
   {
     "sn": "307672",
     "name": "Gray Denim Pants",
-    "typeName": "Casual",
+    "typeName": "Casualwear",
     "tips": "Can be put on at the closet in your bedroom.",
     "contentBG": "<color=#ffffff>  </color>"
   },
   {
     "sn": "307673",
     "name": "Gray Sneakers",
-    "typeName": "Casual",
+    "typeName": "Casualwear",
     "tips": "You can put them on at the closet in your bedroom.",
     "contentBG": "<color=#ffffff>  </color>"
   },
   {
     "sn": "307681",
     "name": "Black & White Layers",
-    "typeName": "Casual",
+    "typeName": "Casualwear",
     "tips": "Can be put on at the closet in your bedroom.",
     "contentBG": "<color=#ffffff>  </color>"
   },
   {
     "sn": "307682",
     "name": "Black Denim Pants",
-    "typeName": "Casual",
+    "typeName": "Casualwear",
     "tips": "Can be put on at the closet in your bedroom.",
     "contentBG": "<color=#ffffff>  </color>"
   },
   {
     "sn": "307683",
     "name": "Black Sneakers",
-    "typeName": "Casual",
+    "typeName": "Casualwear",
     "tips": "You can put them on at the closet in your bedroom.",
     "contentBG": "<color=#ffffff>  </color>"
   },
   {
     "sn": "307691",
     "name": "Blue Casual Shirt",
-    "typeName": "Casual",
+    "typeName": "Casualwear",
     "tips": "Can be put on at the closet in your bedroom.",
     "contentBG": "<color=#ffffff>  </color>"
   },
   {
     "sn": "307692",
     "name": "Blue Casual Pants",
-    "typeName": "Casual",
+    "typeName": "Casualwear",
     "tips": "Can be put on at the closet in your bedroom.",
     "contentBG": "<color=#ffffff>  </color>"
   },
   {
     "sn": "307693",
     "name": "Sneakers",
-    "typeName": "Casual",
+    "typeName": "Casualwear",
     "tips": "You can put them on at the closet in your bedroom.",
     "contentBG": "<color=#ffffff>  </color>"
   },
   {
     "sn": "307701",
     "name": "Black Casual Shirt",
-    "typeName": "Casual",
+    "typeName": "Casualwear",
     "tips": "Can be put on at the closet in your bedroom.",
     "contentBG": "<color=#ffffff>  </color>"
   },
   {
     "sn": "307702",
     "name": "Gray Casual Pants",
-    "typeName": "Casual",
+    "typeName": "Casualwear",
     "tips": "Can be put on at the closet in your bedroom.",
     "contentBG": "<color=#ffffff>  </color>"
   },
   {
     "sn": "307703",
     "name": "White & Brown Sneakers",
-    "typeName": "Casual",
+    "typeName": "Casualwear",
     "tips": "You can put them on at the closet in your bedroom.",
     "contentBG": "<color=#ffffff>  </color>"
   },
   {
     "sn": "307711",
     "name": "Gray Casual Shirt",
-    "typeName": "Casual",
+    "typeName": "Casualwear",
     "tips": "Can be put on at the closet in your bedroom.",
     "contentBG": "<color=#ffffff>  </color>"
   },
   {
     "sn": "307712",
     "name": "Black Casual Pants",
-    "typeName": "Casual",
+    "typeName": "Casualwear",
     "tips": "Can be put on at the closet in your bedroom.",
     "contentBG": "<color=#ffffff>  </color>"
   },
   {
     "sn": "307713",
     "name": "Black & White Sneakers",
-    "typeName": "Casual",
+    "typeName": "Casualwear",
     "tips": "You can put them on at the closet in your bedroom.",
     "contentBG": "<color=#ffffff>  </color>"
   },
   {
     "sn": "307721",
     "name": "Pink Casual Shirt",
-    "typeName": "Casual",
+    "typeName": "Casualwear",
     "tips": "Can be put on at the closet in your bedroom.",
     "contentBG": "<color=#ffffff>  </color>"
   },
   {
     "sn": "307722",
     "name": "Beige Casual Pants",
-    "typeName": "Casual",
+    "typeName": "Casualwear",
     "tips": "Can be put on at the closet in your bedroom.",
     "contentBG": "<color=#ffffff>  </color>"
   },
   {
     "sn": "307723",
     "name": "Pink & White Sneakers",
-    "typeName": "Casual",
+    "typeName": "Casualwear",
     "tips": "You can put them on at the closet in your bedroom.",
     "contentBG": "<color=#ffffff>  </color>"
   },
   {
     "sn": "307731",
     "name": "Gray Blazer",
-    "typeName": "Casual",
+    "typeName": "Casualwear",
     "tips": "Can be put on at the closet in your bedroom.",
     "contentBG": "<color=#ffffff>  </color>"
   },
   {
     "sn": "307732",
     "name": "White Cuffed Pants",
-    "typeName": "Casual",
+    "typeName": "Casualwear",
     "tips": "Can be put on at the closet in your bedroom.",
     "contentBG": "<color=#ffffff>  </color>"
   },
   {
     "sn": "307733",
     "name": "Black Buckle Boots",
-    "typeName": "Casual",
+    "typeName": "Casualwear",
     "tips": "You can put them on at the closet in your bedroom.",
     "contentBG": "<color=#ffffff>  </color>"
   },
   {
     "sn": "307741",
     "name": "Checkered Blazer",
-    "typeName": "Casual",
+    "typeName": "Casualwear",
     "tips": "Can be put on at the closet in your bedroom.",
     "contentBG": "<color=#ffffff>  </color>"
   },
   {
     "sn": "307742",
     "name": "Purple Cuffed Pants",
-    "typeName": "Casual",
+    "typeName": "Casualwear",
     "tips": "Can be put on at the closet in your bedroom.",
     "contentBG": "<color=#ffffff>  </color>"
   },
   {
     "sn": "307743",
     "name": "Brown Strapped Boots",
-    "typeName": "Casual",
+    "typeName": "Casualwear",
     "tips": "You can put them on at the closet in your bedroom.",
     "contentBG": "<color=#ffffff>  </color>"
   },
@@ -22360,910 +22647,910 @@
   {
     "sn": "307751",
     "name": "Brown Blazer",
-    "typeName": "Casual",
+    "typeName": "Casualwear",
     "tips": "Can be put on at the closet in your bedroom.",
     "contentBG": "<color=#ffffff>  </color>"
   },
   {
     "sn": "307752",
     "name": "Navy Cuffed Pants",
-    "typeName": "Casual",
+    "typeName": "Casualwear",
     "tips": "Can be put on at the closet in your bedroom.",
     "contentBG": "<color=#ffffff>  </color>"
   },
   {
     "sn": "307753",
     "name": "Gray Strapped Boots",
-    "typeName": "Casual",
+    "typeName": "Casualwear",
     "tips": "You can put them on at the closet in your bedroom.",
     "contentBG": "<color=#ffffff>  </color>"
   },
   {
     "sn": "307761",
     "name": "Ivory Blazer",
-    "typeName": "Casual",
+    "typeName": "Casualwear",
     "tips": "Can be put on at the closet in your bedroom.",
     "contentBG": "<color=#ffffff>  </color>"
   },
   {
     "sn": "307762",
     "name": "Gray Cuffed Pants",
-    "typeName": "Casual",
+    "typeName": "Casualwear",
     "tips": "Can be put on at the closet in your bedroom.",
     "contentBG": "<color=#ffffff>  </color>"
   },
   {
     "sn": "307763",
     "name": "Beige Strapped Boots",
-    "typeName": "Casual",
+    "typeName": "Casualwear",
     "tips": "You can put them on at the closet in your bedroom.",
     "contentBG": "<color=#ffffff>  </color>"
   },
   {
     "sn": "307771",
     "name": "Blazer",
-    "typeName": "Casual",
+    "typeName": "Casualwear",
     "tips": "Can be put on at the closet in your bedroom.",
     "contentBG": "<color=#ffffff>  </color>"
   },
   {
     "sn": "307772",
     "name": "Gray Slacks",
-    "typeName": "Casual",
+    "typeName": "Casualwear",
     "tips": "Can be put on at the closet in your bedroom.",
     "contentBG": "<color=#ffffff>  </color>"
   },
   {
     "sn": "307773",
     "name": "Designer Shoes",
-    "typeName": "Casual",
+    "typeName": "Casualwear",
     "tips": "You can put them on at the closet in your bedroom.",
     "contentBG": "<color=#ffffff>  </color>"
   },
   {
     "sn": "307781",
     "name": "Beige Blazer",
-    "typeName": "Casual",
+    "typeName": "Casualwear",
     "tips": "Can be put on at the closet in your bedroom.",
     "contentBG": "<color=#ffffff>  </color>"
   },
   {
     "sn": "307782",
     "name": "White Slacks",
-    "typeName": "Casual",
+    "typeName": "Casualwear",
     "tips": "Can be put on at the closet in your bedroom.",
     "contentBG": "<color=#ffffff>  </color>"
   },
   {
     "sn": "307783",
     "name": "Brown Designer Shoes",
-    "typeName": "Casual",
+    "typeName": "Casualwear",
     "tips": "You can put them on at the closet in your bedroom.",
     "contentBG": "<color=#ffffff>  </color>"
   },
   {
     "sn": "307791",
     "name": "Blue Blazer",
-    "typeName": "Casual",
+    "typeName": "Casualwear",
     "tips": "Can be put on at the closet in your bedroom.",
     "contentBG": "<color=#ffffff>  </color>"
   },
   {
     "sn": "307792",
     "name": "Purple Slacks",
-    "typeName": "Casual",
+    "typeName": "Casualwear",
     "tips": "Can be put on at the closet in your bedroom.",
     "contentBG": "<color=#ffffff>  </color>"
   },
   {
     "sn": "307793",
     "name": "Orange Designer Shoes",
-    "typeName": "Casual",
+    "typeName": "Casualwear",
     "tips": "You can put them on at the closet in your bedroom.",
     "contentBG": "<color=#ffffff>  </color>"
   },
   {
     "sn": "307801",
     "name": "Green Blazer",
-    "typeName": "Casual",
+    "typeName": "Casualwear",
     "tips": "Can be put on at the closet in your bedroom.",
     "contentBG": "<color=#ffffff>  </color>"
   },
   {
     "sn": "307802",
     "name": "Brown Slacks",
-    "typeName": "Casual",
+    "typeName": "Casualwear",
     "tips": "Can be put on at the closet in your bedroom.",
     "contentBG": "<color=#ffffff>  </color>"
   },
   {
     "sn": "307803",
     "name": "Black Designer Shoes",
-    "typeName": "Casual",
+    "typeName": "Casualwear",
     "tips": "You can put them on at the closet in your bedroom.",
     "contentBG": "<color=#ffffff>  </color>"
   },
   {
     "sn": "307811",
     "name": "Platinum Blouson",
-    "typeName": "Casual",
+    "typeName": "Casualwear",
     "tips": "Can be put on at the closet in your bedroom.",
     "contentBG": "<color=#ffffff>  </color>"
   },
   {
     "sn": "307812",
     "name": "Ombre Denim",
-    "typeName": "Casual",
+    "typeName": "Casualwear",
     "tips": "Can be put on at the closet in your bedroom.",
     "contentBG": "<color=#ffffff>  </color>"
   },
   {
     "sn": "307813",
     "name": "White Sneakers",
-    "typeName": "Casual",
+    "typeName": "Casualwear",
     "tips": "You can put them on at the closet in your bedroom.",
     "contentBG": "<color=#ffffff>  </color>"
   },
   {
     "sn": "307821",
     "name": "Reflective Blouson",
-    "typeName": "Casual",
+    "typeName": "Casualwear",
     "tips": "Can be put on at the closet in your bedroom.",
     "contentBG": "<color=#ffffff>  </color>"
   },
   {
     "sn": "307822",
     "name": "Designer Pants",
-    "typeName": "Casual",
+    "typeName": "Casualwear",
     "tips": "Can be put on at the closet in your bedroom.",
     "contentBG": "<color=#ffffff>  </color>"
   },
   {
     "sn": "307823",
     "name": "High-Top Shoes",
-    "typeName": "Casual",
+    "typeName": "Casualwear",
     "tips": "You can put them on at the closet in your bedroom.",
     "contentBG": "<color=#ffffff>  </color>"
   },
   {
     "sn": "307831",
     "name": "[NB][IT][831]",
-    "typeName": "Casual",
+    "typeName": "Casualwear",
     "tips": "Error: tnxotb-[Item_tips_307831]",
     "contentBG": "AAAAAA=="
   },
   {
     "sn": "307832",
     "name": "[NB][IT][832]",
-    "typeName": "Casual",
+    "typeName": "Casualwear",
     "tips": "Error: tnxotb-[Item_tips_307832]",
     "contentBG": "AAAAAA=="
   },
   {
     "sn": "307833",
     "name": "[NB][IT][833]",
-    "typeName": "Casual",
+    "typeName": "Casualwear",
     "tips": "Error: tnxotb-[Item_tips_307833]",
     "contentBG": "AAAAAA=="
   },
   {
     "sn": "307841",
     "name": "[NB][IT][841]",
-    "typeName": "Casual",
+    "typeName": "Casualwear",
     "tips": "Error: tnxotb-[Item_tips_307841]",
     "contentBG": "AAAAAA=="
   },
   {
     "sn": "307842",
     "name": "[NB][IT][842]",
-    "typeName": "Casual",
+    "typeName": "Casualwear",
     "tips": "Error: tnxotb-[Item_tips_307842]",
     "contentBG": "AAAAAA=="
   },
   {
     "sn": "307843",
     "name": "[NB][IT][843]",
-    "typeName": "Casual",
+    "typeName": "Casualwear",
     "tips": "Error: tnxotb-[Item_tips_307843]",
     "contentBG": "AAAAAA=="
   },
   {
     "sn": "307851",
     "name": "Studded Jacket",
-    "typeName": "Casual",
+    "typeName": "Casualwear",
     "tips": "Can be put on at the closet in your bedroom.",
     "contentBG": "<color=#ffffff>  </color>"
   },
   {
     "sn": "307852",
     "name": "Leather Pants",
-    "typeName": "Casual",
+    "typeName": "Casualwear",
     "tips": "Can be put on at the closet in your bedroom.",
     "contentBG": "<color=#ffffff>  </color>"
   },
   {
     "sn": "307853",
     "name": "Short Boots",
-    "typeName": "Casual",
+    "typeName": "Casualwear",
     "tips": "You can put them on at the closet in your bedroom.",
     "contentBG": "<color=#ffffff>  </color>"
   },
   {
     "sn": "307854",
     "name": "Leather Gloves",
-    "typeName": "Casual",
+    "typeName": "Casualwear",
     "tips": "You can put them on at the closet in your bedroom.",
     "contentBG": "<color=#ffffff>  </color>"
   },
   {
     "sn": "307861",
     "name": "White Linen Shirt",
-    "typeName": "Casual",
+    "typeName": "Casualwear",
     "tips": "Can be put on at the closet in your bedroom.",
     "contentBG": "<color=#ffffff>  </color>"
   },
   {
     "sn": "307862",
     "name": "Checkered Pants",
-    "typeName": "Casual",
+    "typeName": "Casualwear",
     "tips": "Can be put on at the closet in your bedroom.",
     "contentBG": "<color=#ffffff>  </color>"
   },
   {
     "sn": "307863",
     "name": "White Leather Shoes",
-    "typeName": "Casual",
+    "typeName": "Casualwear",
     "tips": "You can put them on at the closet in your bedroom.",
     "contentBG": "<color=#ffffff>  </color>"
   },
   {
     "sn": "307864",
     "name": "Newsboy Cap",
-    "typeName": "Casual",
+    "typeName": "Casualwear",
     "tips": "You can put it on at the closet in your bedroom.",
     "contentBG": "<color=#ffffff>  </color>"
   },
   {
     "sn": "307871",
     "name": "Checkered Jacket",
-    "typeName": "Casual",
+    "typeName": "Casualwear",
     "tips": "Can be put on at the closet in your bedroom.",
     "contentBG": "<color=#ffffff>  </color>"
   },
   {
     "sn": "307872",
     "name": "Black Slacks",
-    "typeName": "Casual",
+    "typeName": "Casualwear",
     "tips": "Can be put on at the closet in your bedroom.",
     "contentBG": "<color=#ffffff>  </color>"
   },
   {
     "sn": "307873",
     "name": "Brown Loafers",
-    "typeName": "Casual",
+    "typeName": "Casualwear",
     "tips": "You can put them on at the closet in your bedroom.",
     "contentBG": "<color=#ffffff>  </color>"
   },
   {
     "sn": "307881",
     "name": "Sportswear",
-    "typeName": "Casual",
+    "typeName": "Casualwear",
     "tips": "Can be put on at the closet in your bedroom.",
     "contentBG": "<color=#ffffff>  </color>"
   },
   {
     "sn": "307882",
     "name": "Stretchy Pants",
-    "typeName": "Casual",
+    "typeName": "Casualwear",
     "tips": "Can be put on at the closet in your bedroom.",
     "contentBG": "<color=#ffffff>  </color>"
   },
   {
     "sn": "307883",
     "name": "High-tops",
-    "typeName": "Casual",
+    "typeName": "Casualwear",
     "tips": "You can put them on at the closet in your bedroom.",
     "contentBG": "<color=#ffffff>  </color>"
   },
   {
     "sn": "307884",
     "name": "Studded Gloves",
-    "typeName": "Casual",
+    "typeName": "Casualwear",
     "tips": "You can put them on at the closet in your bedroom.",
     "contentBG": "<color=#ffffff>  </color>"
   },
   {
     "sn": "307891",
     "name": "Sportswear",
-    "typeName": "Casual",
+    "typeName": "Casualwear",
     "tips": "Can be put on at the closet in your bedroom.",
     "contentBG": "<color=#ffffff>  </color>"
   },
   {
     "sn": "307892",
     "name": "Stretchy Pants",
-    "typeName": "Casual",
+    "typeName": "Casualwear",
     "tips": "Can be put on at the closet in your bedroom.",
     "contentBG": "<color=#ffffff>  </color>"
   },
   {
     "sn": "307893",
     "name": "High-tops",
-    "typeName": "Casual",
+    "typeName": "Casualwear",
     "tips": "You can put them on at the closet in your bedroom.",
     "contentBG": "<color=#ffffff>  </color>"
   },
   {
     "sn": "307894",
     "name": "Studded Gloves",
-    "typeName": "Casual",
+    "typeName": "Casualwear",
     "tips": "You can put them on at the closet in your bedroom.",
     "contentBG": "<color=#ffffff>  </color>"
   },
   {
     "sn": "307901",
     "name": "Sportswear",
-    "typeName": "Casual",
+    "typeName": "Casualwear",
     "tips": "Can be put on at the closet in your bedroom.",
     "contentBG": "<color=#ffffff>  </color>"
   },
   {
     "sn": "307902",
     "name": "Stretchy Pants",
-    "typeName": "Casual",
+    "typeName": "Casualwear",
     "tips": "Can be put on at the closet in your bedroom.",
     "contentBG": "<color=#ffffff>  </color>"
   },
   {
     "sn": "307903",
     "name": "High-tops",
-    "typeName": "Casual",
+    "typeName": "Casualwear",
     "tips": "You can put them on at the closet in your bedroom.",
     "contentBG": "<color=#ffffff>  </color>"
   },
   {
     "sn": "307904",
     "name": "Studded Gloves",
-    "typeName": "Casual",
+    "typeName": "Casualwear",
     "tips": "You can put them on at the closet in your bedroom.",
     "contentBG": "<color=#ffffff>  </color>"
   },
   {
     "sn": "307911",
     "name": "Sportswear",
-    "typeName": "Casual",
+    "typeName": "Casualwear",
     "tips": "Can be put on at the closet in your bedroom.",
     "contentBG": "<color=#ffffff>  </color>"
   },
   {
     "sn": "307912",
     "name": "Stretchy Pants",
-    "typeName": "Casual",
+    "typeName": "Casualwear",
     "tips": "Can be put on at the closet in your bedroom.",
     "contentBG": "<color=#ffffff>  </color>"
   },
   {
     "sn": "307913",
     "name": "High-tops",
-    "typeName": "Casual",
+    "typeName": "Casualwear",
     "tips": "You can put them on at the closet in your bedroom.",
     "contentBG": "<color=#ffffff>  </color>"
   },
   {
     "sn": "307914",
     "name": "Studded Gloves",
-    "typeName": "Casual",
+    "typeName": "Casualwear",
     "tips": "You can put them on at the closet in your bedroom.",
     "contentBG": "<color=#ffffff>  </color>"
   },
   {
     "sn": "307921",
     "name": "Sportswear",
-    "typeName": "Casual",
+    "typeName": "Casualwear",
     "tips": "Can be put on at the closet in your bedroom.",
     "contentBG": "<color=#ffffff>  </color>"
   },
   {
     "sn": "307922",
     "name": "Stretchy Pants",
-    "typeName": "Casual",
+    "typeName": "Casualwear",
     "tips": "Can be put on at the closet in your bedroom.",
     "contentBG": "<color=#ffffff>  </color>"
   },
   {
     "sn": "307923",
     "name": "High-tops",
-    "typeName": "Casual",
+    "typeName": "Casualwear",
     "tips": "You can put them on at the closet in your bedroom.",
     "contentBG": "<color=#ffffff>  </color>"
   },
   {
     "sn": "307924",
     "name": "Studded Gloves",
-    "typeName": "Casual",
+    "typeName": "Casualwear",
     "tips": "You can put them on at the closet in your bedroom.",
     "contentBG": "<color=#ffffff>  </color>"
   },
   {
     "sn": "307931",
     "name": "Sportswear",
-    "typeName": "Casual",
+    "typeName": "Casualwear",
     "tips": "Can be put on at the closet in your bedroom.",
     "contentBG": "<color=#ffffff>  </color>"
   },
   {
     "sn": "307932",
     "name": "Stretchy Pants",
-    "typeName": "Casual",
+    "typeName": "Casualwear",
     "tips": "Can be put on at the closet in your bedroom.",
     "contentBG": "<color=#ffffff>  </color>"
   },
   {
     "sn": "307933",
     "name": "High-tops",
-    "typeName": "Casual",
+    "typeName": "Casualwear",
     "tips": "You can put them on at the closet in your bedroom.",
     "contentBG": "<color=#ffffff>  </color>"
   },
   {
     "sn": "307934",
     "name": "Studded Gloves",
-    "typeName": "Casual",
+    "typeName": "Casualwear",
     "tips": "You can put them on at the closet in your bedroom.",
     "contentBG": "<color=#ffffff>  </color>"
   },
   {
     "sn": "307941",
     "name": "Sportswear",
-    "typeName": "Casual",
+    "typeName": "Casualwear",
     "tips": "Can be put on at the closet in your bedroom.",
     "contentBG": "<color=#ffffff>  </color>"
   },
   {
     "sn": "307942",
     "name": "Stretchy Pants",
-    "typeName": "Casual",
+    "typeName": "Casualwear",
     "tips": "Can be put on at the closet in your bedroom.",
     "contentBG": "<color=#ffffff>  </color>"
   },
   {
     "sn": "307943",
     "name": "High-tops",
-    "typeName": "Casual",
+    "typeName": "Casualwear",
     "tips": "You can put them on at the closet in your bedroom.",
     "contentBG": "<color=#ffffff>  </color>"
   },
   {
     "sn": "307944",
     "name": "Studded Gloves",
-    "typeName": "Casual",
+    "typeName": "Casualwear",
     "tips": "You can put them on at the closet in your bedroom.",
     "contentBG": "<color=#ffffff>  </color>"
   },
   {
     "sn": "307951",
     "name": "Sportswear",
-    "typeName": "Casual",
+    "typeName": "Casualwear",
     "tips": "Can be put on at the closet in your bedroom.",
     "contentBG": "<color=#ffffff>  </color>"
   },
   {
     "sn": "307952",
     "name": "Stretchy Pants",
-    "typeName": "Casual",
+    "typeName": "Casualwear",
     "tips": "Can be put on at the closet in your bedroom.",
     "contentBG": "<color=#ffffff>  </color>"
   },
   {
     "sn": "307953",
     "name": "High-tops",
-    "typeName": "Casual",
+    "typeName": "Casualwear",
     "tips": "You can put them on at the closet in your bedroom.",
     "contentBG": "<color=#ffffff>  </color>"
   },
   {
     "sn": "307954",
     "name": "Studded Gloves",
-    "typeName": "Casual",
+    "typeName": "Casualwear",
     "tips": "You can put them on at the closet in your bedroom.",
     "contentBG": "<color=#ffffff>  </color>"
   },
   {
     "sn": "307961",
     "name": "Sportswear",
-    "typeName": "Casual",
+    "typeName": "Casualwear",
     "tips": "Can be put on at the closet in your bedroom.",
     "contentBG": "<color=#ffffff>  </color>"
   },
   {
     "sn": "307962",
     "name": "Stretchy Pants",
-    "typeName": "Casual",
+    "typeName": "Casualwear",
     "tips": "Can be put on at the closet in your bedroom.",
     "contentBG": "<color=#ffffff>  </color>"
   },
   {
     "sn": "307963",
     "name": "High-tops",
-    "typeName": "Casual",
+    "typeName": "Casualwear",
     "tips": "You can put them on at the closet in your bedroom.",
     "contentBG": "<color=#ffffff>  </color>"
   },
   {
     "sn": "307964",
     "name": "Studded Gloves",
-    "typeName": "Casual",
+    "typeName": "Casualwear",
     "tips": "You can put them on at the closet in your bedroom.",
     "contentBG": "<color=#ffffff>  </color>"
   },
   {
     "sn": "307971",
     "name": "Sportswear",
-    "typeName": "Casual",
+    "typeName": "Casualwear",
     "tips": "Can be put on at the closet in your bedroom.",
     "contentBG": "<color=#ffffff>  </color>"
   },
   {
     "sn": "307972",
     "name": "Stretchy Pants",
-    "typeName": "Casual",
+    "typeName": "Casualwear",
     "tips": "Can be put on at the closet in your bedroom.",
     "contentBG": "<color=#ffffff>  </color>"
   },
   {
     "sn": "307973",
     "name": "High-tops",
-    "typeName": "Casual",
+    "typeName": "Casualwear",
     "tips": "You can put them on at the closet in your bedroom.",
     "contentBG": "<color=#ffffff>  </color>"
   },
   {
     "sn": "307974",
     "name": "Studded Gloves",
-    "typeName": "Casual",
+    "typeName": "Casualwear",
     "tips": "You can put them on at the closet in your bedroom.",
     "contentBG": "<color=#ffffff>  </color>"
   },
   {
     "sn": "307981",
     "name": "White Beanie",
-    "typeName": "Casual",
+    "typeName": "Casualwear",
     "tips": "You can put it on at the closet in your bedroom.",
     "contentBG": "<color=#ffffff>  </color>"
   },
   {
     "sn": "307982",
     "name": "Pink Shell Jacket",
-    "typeName": "Casual",
+    "typeName": "Casualwear",
     "tips": "Can be put on at the closet in your bedroom.",
     "contentBG": "<color=#ffffff>  </color>"
   },
   {
     "sn": "307983",
     "name": "Cargo Pants",
-    "typeName": "Casual",
+    "typeName": "Casualwear",
     "tips": "Can be put on at the closet in your bedroom.",
     "contentBG": "<color=#ffffff>  </color>"
   },
   {
     "sn": "307984",
     "name": "Black Thigh-Highs",
-    "typeName": "Casual",
+    "typeName": "Casualwear",
     "tips": "You can put them on at the closet in your bedroom.",
     "contentBG": "<color=#ffffff>  </color>"
   },
   {
     "sn": "307985",
     "name": "Nylon Gloves",
-    "typeName": "Casual",
+    "typeName": "Casualwear",
     "tips": "You can put them on at the closet in your bedroom.",
     "contentBG": "<color=#ffffff>  </color>"
   },
   {
     "sn": "307991",
     "name": "Green Beanie",
-    "typeName": "Casual",
+    "typeName": "Casualwear",
     "tips": "You can put it on at the closet in your bedroom.",
     "contentBG": "<color=#ffffff>  </color>"
   },
   {
     "sn": "307992",
     "name": "Green Shell Jacket",
-    "typeName": "Casual",
+    "typeName": "Casualwear",
     "tips": "Can be put on at the closet in your bedroom.",
     "contentBG": "<color=#ffffff>  </color>"
   },
   {
     "sn": "307993",
     "name": "Orange Line Cargo Pants",
-    "typeName": "Casual",
+    "typeName": "Casualwear",
     "tips": "Can be put on at the closet in your bedroom.",
     "contentBG": "<color=#ffffff>  </color>"
   },
   {
     "sn": "307994",
     "name": "Gray Thigh-Highs",
-    "typeName": "Casual",
+    "typeName": "Casualwear",
     "tips": "You can put them on at the closet in your bedroom.",
     "contentBG": "<color=#ffffff>  </color>"
   },
   {
     "sn": "307995",
     "name": "Orange Nylon Gloves",
-    "typeName": "Casual",
+    "typeName": "Casualwear",
     "tips": "You can put them on at the closet in your bedroom.",
     "contentBG": "<color=#ffffff>  </color>"
   },
   {
     "sn": "308001",
     "name": "Light Gray Beanie",
-    "typeName": "Casual",
+    "typeName": "Casualwear",
     "tips": "You can put it on at the closet in your bedroom.",
     "contentBG": "<color=#ffffff>  </color>"
   },
   {
     "sn": "308002",
     "name": "Blue Shell Jacket",
-    "typeName": "Casual",
+    "typeName": "Casualwear",
     "tips": "Can be put on at the closet in your bedroom.",
     "contentBG": "<color=#ffffff>  </color>"
   },
   {
     "sn": "308003",
     "name": "White Line Cargo Pants",
-    "typeName": "Casual",
+    "typeName": "Casualwear",
     "tips": "Can be put on at the closet in your bedroom.",
     "contentBG": "<color=#ffffff>  </color>"
   },
   {
     "sn": "308004",
     "name": "Light Gray Thigh-Highs",
-    "typeName": "Casual",
+    "typeName": "Casualwear",
     "tips": "You can put them on at the closet in your bedroom.",
     "contentBG": "<color=#ffffff>  </color>"
   },
   {
     "sn": "308005",
     "name": "White Nylon Gloves",
-    "typeName": "Casual",
+    "typeName": "Casualwear",
     "tips": "You can put them on at the closet in your bedroom.",
     "contentBG": "<color=#ffffff>  </color>"
   },
   {
     "sn": "308011",
     "name": "Gray Beanie",
-    "typeName": "Casual",
+    "typeName": "Casualwear",
     "tips": "You can put it on at the closet in your bedroom.",
     "contentBG": "<color=#ffffff>  </color>"
   },
   {
     "sn": "308012",
     "name": "Brown Shell Jacket",
-    "typeName": "Casual",
+    "typeName": "Casualwear",
     "tips": "Can be put on at the closet in your bedroom.",
     "contentBG": "<color=#ffffff>  </color>"
   },
   {
     "sn": "308013",
     "name": "Pink Line Cargo Pants",
-    "typeName": "Casual",
+    "typeName": "Casualwear",
     "tips": "Can be put on at the closet in your bedroom.",
     "contentBG": "<color=#ffffff>  </color>"
   },
   {
     "sn": "308014",
     "name": "Brown Thigh-Highs",
-    "typeName": "Casual",
+    "typeName": "Casualwear",
     "tips": "You can put them on at the closet in your bedroom.",
     "contentBG": "<color=#ffffff>  </color>"
   },
   {
     "sn": "308015",
     "name": "Gray Nylon Gloves",
-    "typeName": "Casual",
+    "typeName": "Casualwear",
     "tips": "You can put them on at the closet in your bedroom.",
     "contentBG": "<color=#ffffff>  </color>"
   },
   {
     "sn": "308021",
     "name": "Purple Silk Hat",
-    "typeName": "Casual",
+    "typeName": "Casualwear",
     "tips": "You can put it on at the closet in your bedroom.",
     "contentBG": "<color=#ffffff>  </color>"
   },
   {
     "sn": "308022",
     "name": "Purple Silk Jacket",
-    "typeName": "Casual",
+    "typeName": "Casualwear",
     "tips": "Can be put on at the closet in your bedroom.",
     "contentBG": "<color=#ffffff>  </color>"
   },
   {
     "sn": "308023",
     "name": "Purple Silk Slacks",
-    "typeName": "Casual",
+    "typeName": "Casualwear",
     "tips": "Can be put on at the closet in your bedroom.",
     "contentBG": "<color=#ffffff>  </color>"
   },
   {
     "sn": "308024",
     "name": "Purple Designer Shoes",
-    "typeName": "Casual",
+    "typeName": "Casualwear",
     "tips": "You can put them on at the closet in your bedroom.",
     "contentBG": "<color=#ffffff>  </color>"
   },
   {
     "sn": "308025",
     "name": "Purple Leather Gloves",
-    "typeName": "Casual",
+    "typeName": "Casualwear",
     "tips": "You can put them on at the closet in your bedroom.",
     "contentBG": "<color=#ffffff>  </color>"
   },
   {
     "sn": "308031",
     "name": "Light Blue Beanie",
-    "typeName": "Casual",
+    "typeName": "Casualwear",
     "tips": "You can put it on at the closet in your bedroom.",
     "contentBG": "<color=#ffffff>  </color>"
   },
   {
     "sn": "308032",
     "name": "Aqua Short Blouson",
-    "typeName": "Casual",
+    "typeName": "Casualwear",
     "tips": "Can be put on at the closet in your bedroom.",
     "contentBG": "<color=#ffffff>  </color>"
   },
   {
     "sn": "308033",
     "name": "Light Blue Designer Denim",
-    "typeName": "Casual",
+    "typeName": "Casualwear",
     "tips": "Can be put on at the closet in your bedroom.",
     "contentBG": "<color=#ffffff>  </color>"
   },
   {
     "sn": "308034",
     "name": "Blue Tech Sneakers",
-    "typeName": "Casual",
+    "typeName": "Casualwear",
     "tips": "You can put them on at the closet in your bedroom.",
     "contentBG": "<color=#ffffff>  </color>"
   },
   {
     "sn": "308041",
     "name": "Blue Beanie",
-    "typeName": "Casual",
+    "typeName": "Casualwear",
     "tips": "You can put it on at the closet in your bedroom.",
     "contentBG": "<color=#ffffff>  </color>"
   },
   {
     "sn": "308042",
     "name": "Navy Short Blouson",
-    "typeName": "Casual",
+    "typeName": "Casualwear",
     "tips": "Can be put on at the closet in your bedroom.",
     "contentBG": "<color=#ffffff>  </color>"
   },
   {
     "sn": "308043",
     "name": "Blue Designer Denim",
-    "typeName": "Casual",
+    "typeName": "Casualwear",
     "tips": "Can be put on at the closet in your bedroom.",
     "contentBG": "<color=#ffffff>  </color>"
   },
   {
     "sn": "308044",
     "name": "Aqua Tech Sneakers",
-    "typeName": "Casual",
+    "typeName": "Casualwear",
     "tips": "You can put them on at the closet in your bedroom.",
     "contentBG": "<color=#ffffff>  </color>"
   },
   {
     "sn": "308051",
     "name": "Red Beanie",
-    "typeName": "Casual",
+    "typeName": "Casualwear",
     "tips": "You can put it on at the closet in your bedroom.",
     "contentBG": "<color=#ffffff>  </color>"
   },
   {
     "sn": "308052",
     "name": "Black Short Blouson",
-    "typeName": "Casual",
+    "typeName": "Casualwear",
     "tips": "Can be put on at the closet in your bedroom.",
     "contentBG": "<color=#ffffff>  </color>"
   },
   {
     "sn": "308053",
     "name": "Black Designer Denim",
-    "typeName": "Casual",
+    "typeName": "Casualwear",
     "tips": "Can be put on at the closet in your bedroom.",
     "contentBG": "<color=#ffffff>  </color>"
   },
   {
     "sn": "308054",
     "name": "Red Tech Sneakers",
-    "typeName": "Casual",
+    "typeName": "Casualwear",
     "tips": "You can put them on at the closet in your bedroom.",
     "contentBG": "<color=#ffffff>  </color>"
   },
   {
     "sn": "308061",
     "name": "Purple Beanie",
-    "typeName": "Casual",
+    "typeName": "Casualwear",
     "tips": "You can put it on at the closet in your bedroom.",
     "contentBG": "<color=#ffffff>  </color>"
   },
   {
     "sn": "308062",
     "name": "Purple Short Blouson",
-    "typeName": "Casual",
+    "typeName": "Casualwear",
     "tips": "Can be put on at the closet in your bedroom.",
     "contentBG": "<color=#ffffff>  </color>"
   },
   {
     "sn": "308063",
     "name": "Purple Designer Denim",
-    "typeName": "Casual",
+    "typeName": "Casualwear",
     "tips": "Can be put on at the closet in your bedroom.",
     "contentBG": "<color=#ffffff>  </color>"
   },
   {
     "sn": "308064",
     "name": "Purple Tech Sneakers",
-    "typeName": "Casual",
+    "typeName": "Casualwear",
     "tips": "You can put them on at the closet in your bedroom.",
     "contentBG": "<color=#ffffff>  </color>"
   },
   {
     "sn": "308071",
     "name": "[NB][IT][071]",
-    "typeName": "Casual",
+    "typeName": "Casualwear",
     "tips": "Error: tnxotb-[Item_tips_308071]",
     "contentBG": "AAAAAA=="
   },
   {
     "sn": "308072",
     "name": "[NB][IT][072]",
-    "typeName": "Casual",
+    "typeName": "Casualwear",
     "tips": "Error: tnxotb-[Item_tips_308072]",
     "contentBG": "AAAAAA=="
   },
   {
     "sn": "308073",
     "name": "[NB][IT][073]",
-    "typeName": "Casual",
+    "typeName": "Casualwear",
     "tips": "Error: tnxotb-[Item_tips_308073]",
     "contentBG": "AAAAAA=="
   },
   {
     "sn": "308081",
     "name": "[NB][IT][081]",
-    "typeName": "Casual",
+    "typeName": "Casualwear",
     "tips": "Error: tnxotb-[Item_tips_308081]",
     "contentBG": "<color=#ffffff>  </color>"
   },
   {
     "sn": "308082",
     "name": "[NB][IT][082]",
-    "typeName": "Casual",
+    "typeName": "Casualwear",
     "tips": "Error: tnxotb-[Item_tips_308082]",
     "contentBG": "AAAAAA=="
   },
   {
     "sn": "308083",
     "name": "[NB][IT][083]",
-    "typeName": "Casual",
+    "typeName": "Casualwear",
     "tips": "Error: tnxotb-[Item_tips_308083]",
     "contentBG": "AAAAAA=="
   },
   {
     "sn": "308084",
     "name": "[NB][IT][084]",
-    "typeName": "Casual",
+    "typeName": "Casualwear",
     "tips": "Error: tnxotb-[Item_tips_308084]",
     "contentBG": "AAAAAA=="
   },
   {
     "sn": "309001",
     "name": "Blue Town Outfit",
-    "typeName": "Casual",
+    "typeName": "Casualwear",
     "tips": "A coordinated outfit that can be put on at the closet in your bedroom.",
     "contentBG": "<color=#ffffff>  </color>"
   },
@@ -23277,56 +23564,56 @@
   {
     "sn": "309003",
     "name": "School Uniform",
-    "typeName": "Casual",
+    "typeName": "Casualwear",
     "tips": "AAAAAA==",
     "contentBG": "AAAAAA=="
   },
   {
     "sn": "309004",
     "name": "Gray Town Outfit",
-    "typeName": "Casual",
+    "typeName": "Casualwear",
     "tips": "A coordinated outfit that can be put on at the closet in your bedroom.",
     "contentBG": "<color=#ffffff>  </color>"
   },
   {
     "sn": "309005",
     "name": "Indigo Town Outfit",
-    "typeName": "Casual",
+    "typeName": "Casualwear",
     "tips": "A coordinated outfit that can be put on at the closet in your bedroom.",
     "contentBG": "<color=#ffffff>  </color>"
   },
   {
     "sn": "309006",
     "name": "Navy Town Outfit",
-    "typeName": "Casual",
+    "typeName": "Casualwear",
     "tips": "A coordinated outfit that can be put on at the closet in your bedroom.",
     "contentBG": "<color=#ffffff>  </color>"
   },
   {
     "sn": "309007",
     "name": "White Weekend Outfit",
-    "typeName": "Casual",
+    "typeName": "Casualwear",
     "tips": "A coordinated outfit that can be put on at the closet in your bedroom.",
     "contentBG": "<color=#ffffff>  </color>"
   },
   {
     "sn": "309008",
     "name": "Purple Weekend Outfit",
-    "typeName": "Casual",
+    "typeName": "Casualwear",
     "tips": "A coordinated outfit that can be put on at the closet in your bedroom.",
     "contentBG": "<color=#ffffff>  </color>"
   },
   {
     "sn": "309009",
     "name": "Blue Weekend Outfit",
-    "typeName": "Casual",
+    "typeName": "Casualwear",
     "tips": "A coordinated outfit that can be put on at the closet in your bedroom.",
     "contentBG": "<color=#ffffff>  </color>"
   },
   {
     "sn": "309010",
     "name": "Black Weekend Outfit",
-    "typeName": "Casual",
+    "typeName": "Casualwear",
     "tips": "A coordinated outfit that can be put on at the closet in your bedroom.",
     "contentBG": "<color=#ffffff>  </color>"
   },
@@ -23389,98 +23676,98 @@
   {
     "sn": "309019",
     "name": "Cyan Summer Outfit",
-    "typeName": "Casual",
+    "typeName": "Casualwear",
     "tips": "A coordinated outfit that can be put on at the closet in your bedroom.",
     "contentBG": "<color=#ffffff>  </color>"
   },
   {
     "sn": "309020",
     "name": "Black Summer Outfit",
-    "typeName": "Casual",
+    "typeName": "Casualwear",
     "tips": "A coordinated outfit that can be put on at the closet in your bedroom.",
     "contentBG": "<color=#ffffff>  </color>"
   },
   {
     "sn": "309021",
     "name": "Gray Summer Outfit",
-    "typeName": "Casual",
+    "typeName": "Casualwear",
     "tips": "A coordinated outfit that can be put on at the closet in your bedroom.",
     "contentBG": "<color=#ffffff>  </color>"
   },
   {
     "sn": "309022",
     "name": "Pink Summer Outfit",
-    "typeName": "Casual",
+    "typeName": "Casualwear",
     "tips": "A coordinated outfit that can be put on at the closet in your bedroom.",
     "contentBG": "<color=#ffffff>  </color>"
   },
   {
     "sn": "309023",
     "name": "School Outfit",
-    "typeName": "Casual",
+    "typeName": "Casualwear",
     "tips": "A coordinated outfit that can be put on at the closet in your bedroom.",
     "contentBG": "<color=#ffffff>  </color>"
   },
   {
     "sn": "309024",
     "name": "Purple School Outfit",
-    "typeName": "Casual",
+    "typeName": "Casualwear",
     "tips": "A coordinated outfit that can be put on at the closet in your bedroom.",
     "contentBG": "<color=#ffffff>  </color>"
   },
   {
     "sn": "309025",
     "name": "Brown School Outfit",
-    "typeName": "Casual",
+    "typeName": "Casualwear",
     "tips": "A coordinated outfit that can be put on at the closet in your bedroom.",
     "contentBG": "<color=#ffffff>  </color>"
   },
   {
     "sn": "309026",
     "name": "Green School Outfit",
-    "typeName": "Casual",
+    "typeName": "Casualwear",
     "tips": "A coordinated outfit that can be put on at the closet in your bedroom.",
     "contentBG": "<color=#ffffff>  </color>"
   },
   {
     "sn": "309027",
     "name": "Preppy Outfit",
-    "typeName": "Casual",
+    "typeName": "Casualwear",
     "tips": "A coordinated outfit that can be put on at the closet in your bedroom.",
     "contentBG": "<color=#ffffff>  </color>"
   },
   {
     "sn": "309028",
     "name": "Brown Preppy Outfit",
-    "typeName": "Casual",
+    "typeName": "Casualwear",
     "tips": "A coordinated outfit that can be put on at the closet in your bedroom.",
     "contentBG": "<color=#ffffff>  </color>"
   },
   {
     "sn": "309029",
     "name": "Blue Preppy Outfit",
-    "typeName": "Casual",
+    "typeName": "Casualwear",
     "tips": "A coordinated outfit that can be put on at the closet in your bedroom.",
     "contentBG": "<color=#ffffff>  </color>"
   },
   {
     "sn": "309030",
     "name": "Green Preppy Outfit",
-    "typeName": "Casual",
+    "typeName": "Casualwear",
     "tips": "A coordinated outfit that can be put on at the closet in your bedroom.",
     "contentBG": "<color=#ffffff>  </color>"
   },
   {
     "sn": "309031",
     "name": "White Street Outfit",
-    "typeName": "Casual",
+    "typeName": "Casualwear",
     "tips": "A coordinated outfit that can be put on at the closet in your bedroom.",
     "contentBG": "<color=#ffffff>  </color>"
   },
   {
     "sn": "309032",
     "name": "Black Street Outfit",
-    "typeName": "Casual",
+    "typeName": "Casualwear",
     "tips": "A coordinated outfit that can be put on at the closet in your bedroom.",
     "contentBG": "<color=#ffffff>  </color>"
   },
@@ -23501,7 +23788,7 @@
   {
     "sn": "309035",
     "name": "Rocker Outfit",
-    "typeName": "Casual",
+    "typeName": "Casualwear",
     "tips": "A coordinated outfit that can be put on at the closet in your bedroom.",
     "contentBG": "<color=#ffffff>  </color>"
   },
@@ -23529,112 +23816,112 @@
   {
     "sn": "308091",
     "name": "Orange Bucket Hat",
-    "typeName": "Casual",
+    "typeName": "Casualwear",
     "tips": "You can put it on at the closet in your bedroom.",
     "contentBG": "<color=#ffffff>  </color>"
   },
   {
     "sn": "308092",
     "name": "Orange Designer Cap",
-    "typeName": "Casual",
+    "typeName": "Casualwear",
     "tips": "Can be put on at the closet in your bedroom.",
     "contentBG": "AAAAAA=="
   },
   {
     "sn": "308093",
     "name": "White Cotton Pants",
-    "typeName": "Casual",
+    "typeName": "Casualwear",
     "tips": "Can be put on at the closet in your bedroom.",
     "contentBG": "AAAAAA=="
   },
   {
     "sn": "308094",
     "name": "Brown Fringe Boots",
-    "typeName": "Casual",
+    "typeName": "Casualwear",
     "tips": "You can put them on at the closet in your bedroom.",
     "contentBG": "AAAAAA=="
   },
   {
     "sn": "308101",
     "name": "Lime Bucket Hat",
-    "typeName": "Casual",
+    "typeName": "Casualwear",
     "tips": "You can put it on at the closet in your bedroom.",
     "contentBG": "<color=#ffffff>  </color>"
   },
   {
     "sn": "308102",
     "name": "Cyan Designer Cap",
-    "typeName": "Casual",
+    "typeName": "Casualwear",
     "tips": "Can be put on at the closet in your bedroom.",
     "contentBG": "AAAAAA=="
   },
   {
     "sn": "308103",
     "name": "Blue Cotton Pants",
-    "typeName": "Casual",
+    "typeName": "Casualwear",
     "tips": "Can be put on at the closet in your bedroom.",
     "contentBG": "AAAAAA=="
   },
   {
     "sn": "308104",
     "name": "Beige Fringe Boots",
-    "typeName": "Casual",
+    "typeName": "Casualwear",
     "tips": "You can put them on at the closet in your bedroom.",
     "contentBG": "AAAAAA=="
   },
   {
     "sn": "308111",
     "name": "Brown Bucket Hat",
-    "typeName": "Casual",
+    "typeName": "Casualwear",
     "tips": "You can put it on at the closet in your bedroom.",
     "contentBG": "<color=#ffffff>  </color>"
   },
   {
     "sn": "308112",
     "name": "Green Designer Cap",
-    "typeName": "Casual",
+    "typeName": "Casualwear",
     "tips": "Can be put on at the closet in your bedroom.",
     "contentBG": "AAAAAA=="
   },
   {
     "sn": "308113",
     "name": "Ivory Cotton Pants",
-    "typeName": "Casual",
+    "typeName": "Casualwear",
     "tips": "Can be put on at the closet in your bedroom.",
     "contentBG": "AAAAAA=="
   },
   {
     "sn": "308114",
     "name": "Green Fringe Boots",
-    "typeName": "Casual",
+    "typeName": "Casualwear",
     "tips": "You can put them on at the closet in your bedroom.",
     "contentBG": "AAAAAA=="
   },
   {
     "sn": "308121",
     "name": "Blue Bucket Hat",
-    "typeName": "Casual",
+    "typeName": "Casualwear",
     "tips": "You can put it on at the closet in your bedroom.",
     "contentBG": "<color=#ffffff>  </color>"
   },
   {
     "sn": "308122",
     "name": "Aqua Designer Cap",
-    "typeName": "Casual",
+    "typeName": "Casualwear",
     "tips": "Can be put on at the closet in your bedroom.",
     "contentBG": "AAAAAA=="
   },
   {
     "sn": "308123",
     "name": "Cyan Cotton Pants",
-    "typeName": "Casual",
+    "typeName": "Casualwear",
     "tips": "Can be put on at the closet in your bedroom.",
     "contentBG": "AAAAAA=="
   },
   {
     "sn": "308124",
     "name": "Cyan Fringe Boots",
-    "typeName": "Casual",
+    "typeName": "Casualwear",
     "tips": "You can put them on at the closet in your bedroom.",
     "contentBG": "AAAAAA=="
   },
@@ -23648,126 +23935,126 @@
   {
     "sn": "309040",
     "name": "School Uniform",
-    "typeName": "Casual",
+    "typeName": "Casualwear",
     "tips": "Can be put on at the closet in your bedroom.",
     "contentBG": "<color=#ffffff>  </color>"
   },
   {
     "sn": "309041",
     "name": "Countryside Classic",
-    "typeName": "Casual",
+    "typeName": "Casualwear",
     "tips": "A coordinated outfit that can be put on at the closet in your bedroom.",
     "contentBG": "<color=#ffffff>  </color>"
   },
   {
     "sn": "309042",
     "name": "Classic Outfit",
-    "typeName": "Casual",
+    "typeName": "Casualwear",
     "tips": "A coordinated outfit that can be put on at the closet in your bedroom.",
     "contentBG": "<color=#ffffff>  </color>"
   },
   {
     "sn": "309043",
     "name": "Athleisure Outfit",
-    "typeName": "Casual",
+    "typeName": "Casualwear",
     "tips": "A coordinated outfit that can be put on at the closet in your bedroom.",
     "contentBG": "<color=#ffffff>  </color>"
   },
   {
     "sn": "309044",
     "name": "Pink Athleisure Outfit",
-    "typeName": "Casual",
+    "typeName": "Casualwear",
     "tips": "A coordinated outfit that can be put on at the closet in your bedroom.",
     "contentBG": "<color=#ffffff>  </color>"
   },
   {
     "sn": "309045",
     "name": "White Athleisure Outfit",
-    "typeName": "Casual",
+    "typeName": "Casualwear",
     "tips": "A coordinated outfit that can be put on at the closet in your bedroom.",
     "contentBG": "<color=#ffffff>  </color>"
   },
   {
     "sn": "309046",
     "name": "Purple Athleisure Outfit",
-    "typeName": "Casual",
+    "typeName": "Casualwear",
     "tips": "A coordinated outfit that can be put on at the closet in your bedroom.",
     "contentBG": "<color=#ffffff>  </color>"
   },
   {
     "sn": "309047",
     "name": "Green Athleisure Outfit",
-    "typeName": "Casual",
+    "typeName": "Casualwear",
     "tips": "A coordinated outfit that can be put on at the closet in your bedroom.",
     "contentBG": "<color=#ffffff>  </color>"
   },
   {
     "sn": "309048",
     "name": "Orange Athleisure Outfit",
-    "typeName": "Casual",
+    "typeName": "Casualwear",
     "tips": "A coordinated outfit that can be put on at the closet in your bedroom.",
     "contentBG": "<color=#ffffff>  </color>"
   },
   {
     "sn": "309049",
     "name": "Yellow Athleisure Outfit",
-    "typeName": "Casual",
+    "typeName": "Casualwear",
     "tips": "A coordinated outfit that can be put on at the closet in your bedroom.",
     "contentBG": "<color=#ffffff>  </color>"
   },
   {
     "sn": "309050",
     "name": "Coral Athleisure Outfit",
-    "typeName": "Casual",
+    "typeName": "Casualwear",
     "tips": "A coordinated outfit that can be put on at the closet in your bedroom.",
     "contentBG": "<color=#ffffff>  </color>"
   },
   {
     "sn": "309051",
     "name": "Brown Athleisure Outfit",
-    "typeName": "Casual",
+    "typeName": "Casualwear",
     "tips": "A coordinated outfit that can be put on at the closet in your bedroom.",
     "contentBG": "<color=#ffffff>  </color>"
   },
   {
     "sn": "309052",
     "name": "Aqua Athleisure Outfit",
-    "typeName": "Casual",
+    "typeName": "Casualwear",
     "tips": "A coordinated outfit that can be put on at the closet in your bedroom.",
     "contentBG": "<color=#ffffff>  </color>"
   },
   {
     "sn": "309053",
     "name": "Pink Shell Outfit",
-    "typeName": "Casual",
+    "typeName": "Casualwear",
     "tips": "A coordinated outfit that can be put on at the closet in your bedroom.",
     "contentBG": "<color=#ffffff>  </color>"
   },
   {
     "sn": "309054",
     "name": "Green Shell Outfit",
-    "typeName": "Casual",
+    "typeName": "Casualwear",
     "tips": "A coordinated outfit that can be put on at the closet in your bedroom.",
     "contentBG": "<color=#ffffff>  </color>"
   },
   {
     "sn": "309055",
     "name": "Blue Shell Outfit",
-    "typeName": "Casual",
+    "typeName": "Casualwear",
     "tips": "A coordinated outfit that can be put on at the closet in your bedroom.",
     "contentBG": "<color=#ffffff>  </color>"
   },
   {
     "sn": "309056",
     "name": "Brown Shell Outfit",
-    "typeName": "Casual",
+    "typeName": "Casualwear",
     "tips": "A coordinated outfit that can be put on at the closet in your bedroom.",
     "contentBG": "<color=#ffffff>  </color>"
   },
   {
     "sn": "309057",
     "name": "Purple Silk Outfit",
-    "typeName": "Casual",
+    "typeName": "Casualwear",
     "tips": "A coordinated outfit that can be put on at the closet in your bedroom.",
     "contentBG": "<color=#ffffff>  </color>"
   },
@@ -23810,28 +24097,28 @@
     "sn": "311078",
     "name": "Justine Avatar",
     "typeName": "Avatar",
-    "tips": "Can be set as your own profile avatar.",
+    "tips": "Can be set as your profile avatar.",
     "contentBG": "AAAAAA=="
   },
   {
     "sn": "311079",
     "name": "Justine Avatar",
     "typeName": "Avatar",
-    "tips": "Can be set as your own profile avatar.",
+    "tips": "Can be set as your profile avatar.",
     "contentBG": "AAAAAA=="
   },
   {
     "sn": "311080",
     "name": "Caroline Avatar",
     "typeName": "Avatar",
-    "tips": "Can be set as your own profile avatar.",
+    "tips": "Can be set as your profile avatar.",
     "contentBG": "AAAAAA=="
   },
   {
     "sn": "311081",
     "name": "Caroline Avatar",
     "typeName": "Avatar",
-    "tips": "Can be set as your own profile avatar.",
+    "tips": "Can be set as your profile avatar.",
     "contentBG": "AAAAAA=="
   },
   {
@@ -23845,7 +24132,7 @@
     "sn": "311087",
     "name": "Maid Haru Avatar",
     "typeName": "Avatar",
-    "tips": "Can be set as your own profile avatar.",
+    "tips": "Can be set as your profile avatar.",
     "contentBG": "AAAAAA=="
   },
   {
@@ -23900,42 +24187,42 @@
   {
     "sn": "309063",
     "name": "Light Blue Artsy Outfit",
-    "typeName": "Casual",
+    "typeName": "Casualwear",
     "tips": "A coordinated outfit that can be put on at the closet in your bedroom.",
     "contentBG": "<color=#ffffff>  </color>"
   },
   {
     "sn": "309064",
     "name": "Blue Artsy Outfit",
-    "typeName": "Casual",
+    "typeName": "Casualwear",
     "tips": "A coordinated outfit that can be put on at the closet in your bedroom.",
     "contentBG": "<color=#ffffff>  </color>"
   },
   {
     "sn": "309065",
     "name": "Red Artsy Outfit",
-    "typeName": "Casual",
+    "typeName": "Casualwear",
     "tips": "A coordinated outfit that can be put on at the closet in your bedroom.",
     "contentBG": "<color=#ffffff>  </color>"
   },
   {
     "sn": "309066",
     "name": "Purple Artsy Outfit",
-    "typeName": "Casual",
+    "typeName": "Casualwear",
     "tips": "A coordinated outfit that can be put on at the closet in your bedroom.",
     "contentBG": "<color=#ffffff>  </color>"
   },
   {
     "sn": "309067",
     "name": "[NB][IT][067]",
-    "typeName": "Casual",
+    "typeName": "Casualwear",
     "tips": "Error: tnxotb-[Item_tips_309067]",
     "contentBG": "<color=#ffffff>  </color>"
   },
   {
     "sn": "309068",
     "name": "[NB][IT][068]",
-    "typeName": "Casual",
+    "typeName": "Casualwear",
     "tips": "Error: tnxotb-[Item_tips_309068]",
     "contentBG": "<color=#ffffff>  </color>"
   },
@@ -24208,28 +24495,28 @@
   {
     "sn": "309069",
     "name": "Beige Knit Outfit",
-    "typeName": "Casual",
+    "typeName": "Casualwear",
     "tips": "A coordinated outfit that can be put on at the closet in your bedroom.",
     "contentBG": "<color=#ffffff>  </color>"
   },
   {
     "sn": "309070",
     "name": "Light Blue Knit Outfit",
-    "typeName": "Casual",
+    "typeName": "Casualwear",
     "tips": "A coordinated outfit that can be put on at the closet in your bedroom.",
     "contentBG": "<color=#ffffff>  </color>"
   },
   {
     "sn": "309071",
     "name": "Green Knit Outfit",
-    "typeName": "Casual",
+    "typeName": "Casualwear",
     "tips": "A coordinated outfit that can be put on at the closet in your bedroom.",
     "contentBG": "<color=#ffffff>  </color>"
   },
   {
     "sn": "309072",
     "name": "Aqua Knit Outfit",
-    "typeName": "Casual",
+    "typeName": "Casualwear",
     "tips": "A coordinated outfit that can be put on at the closet in your bedroom.",
     "contentBG": "<color=#ffffff>  </color>"
   },
@@ -24543,7 +24830,7 @@
   },
   {
     "sn": "310611",
-    "name": "Diselectro R0",
+    "name": "Electrojammer R0",
     "typeName": "Robot",
     "tips": "Used in the 24-hour TV program \"Brawl Bots.\"",
     "contentBG": "AAAAAA=="
@@ -25851,6 +26138,13 @@
     "contentBG": "<color=#ffffff>  </color>"
   },
   {
+    "sn": "314400",
+    "name": "Enlightening Planetarium: Super",
+    "typeName": "Badge",
+    "tips": "Clear all Stellae using the minimum amount of Willpower in Trial of the Astrolabe Season 1.",
+    "contentBG": "<color=#ffffff>  </color>"
+  },
+  {
     "sn": "410566",
     "name": "Control Manual",
     "typeName": "Key Item",
@@ -26085,7 +26379,7 @@
     "sn": "500095",
     "name": "Premium+ Special",
     "typeName": "Preview",
-    "tips": "The following items can be obtained after purchasing a Premium+ Phantom Pass:\n• Exclusive Outfit: <link=\"fashion|309063\"><u>Light Blue Artsy Outfit<color=#0F69CA></color></u></link>\n• Exclusive Profile Card: <link=\"display|306941\"><u>Graffiti Days<color=#0F69CA></color></u></link>\n• Exclusive Frame: <link=\"display|306869\"><u>Pop of Color<color=#0F69CA></color></u></link>\n\n• Plus, Spray-On Dye x1 as a bonus.\nNew outfit colors will also unlock after you obtain your exclusive outfit and go to the in-game closet on the second floor of your home.\nThese colors include <link=\"fashion|309064\"><u><color=#00fcff>Blue Artsy Outfit</color></u></link>, <link=\"fashion|309065\"><u><color=#ff9c00>Red Artsy Outfit</color></u></link>, and <link=\"fashion|309066\"><u><color=#00ff9f>Purple Artsy Outfit</color></u></link>.",
+    "tips": "The following items can be obtained after purchasing a Premium+ Phantom Pass:\n• Exclusive Outfit: <color=#0F69CA><link=\"fashion|309063\"><u>Light Blue Artsy Outfit</color></u></link>\n• Exclusive Profile Card: <color=#0F69CA><link=\"display|306941\"><u>Graffiti Days</color></u></link>\n• Exclusive Frame: <color=#0F69CA><link=\"display|306869\"><u>Pop of Color</color></u></link>\n\n• Plus, Spray-On Dye x1 as a bonus.\nNew outfit colors will also unlock after you obtain your exclusive outfit and go to the in-game closet on the second floor of your home.\nThese colors include <link=\"fashion|309064\"><u><color=#00fcff>Blue Artsy Outfit</color></u></link>, <link=\"fashion|309065\"><u><color=#ff9c00>Red Artsy Outfit</color></u></link>, and <link=\"fashion|309066\"><u><color=#00ff9f>Purple Artsy Outfit</color></u></link>.",
     "contentBG": "<color=#ffffff>  </color>"
   },
   {
@@ -29333,14 +29627,14 @@
     "sn": "530108",
     "name": "Victory Emote",
     "typeName": "Emote",
-    "tips": "Earned for building a strong bond of friendship with Motoha Arai.\nFor use in chat.",
+    "tips": "Earned for building a strong bond of friendship with Motoha Arai.\nUsed in chat.",
     "contentBG": "AAAAAA=="
   },
   {
     "sn": "530109",
     "name": "Work Out Emote",
     "typeName": "Emote",
-    "tips": "Earned for forming a romantic relationship with Motoha Arai.\nFor use in chat.",
+    "tips": "Earned for forming a romantic relationship with Motoha Arai.\nUsed in chat.",
     "contentBG": "AAAAAA=="
   },
   {
@@ -29368,14 +29662,14 @@
     "sn": "530113",
     "name": "Teary-Eyed Emote",
     "typeName": "Emote",
-    "tips": "Earned for building a strong bond of friendship with Tomoko Noge.\nFor use in chat.",
+    "tips": "Earned for building a strong bond of friendship with Tomoko Noge.\nUsed in chat.",
     "contentBG": "AAAAAA=="
   },
   {
     "sn": "530114",
     "name": "Whisper Emote",
     "typeName": "Emote",
-    "tips": "Earned for forming a romantic relationship with Tomoko Noge.\nFor use in chat.",
+    "tips": "Earned for forming a romantic relationship with Tomoko Noge.\nUsed in chat.",
     "contentBG": "AAAAAA=="
   },
   {
@@ -29403,14 +29697,14 @@
     "sn": "530118",
     "name": "Confused Emote",
     "typeName": "Emote",
-    "tips": "Earned for building a strong bond of friendship with Yaoling Li.\nFor use in chat.",
+    "tips": "Earned for building a strong bond of friendship with Yaoling Li.\nUsed in chat.",
     "contentBG": "AAAAAA=="
   },
   {
     "sn": "530119",
     "name": "Panic Emote",
     "typeName": "Emote",
-    "tips": "Earned for forming a romantic relationship with Yaoling Li.\nFor use in chat.",
+    "tips": "Earned for forming a romantic relationship with Yaoling Li.\nUsed in chat.",
     "contentBG": "AAAAAA=="
   },
   {
@@ -29585,14 +29879,14 @@
     "sn": "530148",
     "name": "Listening In Emote",
     "typeName": "Emote",
-    "tips": "Earned for building a strong bond of friendship with Yumi Shiina.\nFor use in chat.",
+    "tips": "Earned for building a strong bond of friendship with Yumi Shiina.\nUsed in chat.",
     "contentBG": "AAAAAA=="
   },
   {
     "sn": "530149",
     "name": "Tipsy Emote",
     "typeName": "Emote",
-    "tips": "Earned for forming a romantic relationship with Yumi Shiina.\nFor use in chat.",
+    "tips": "Earned for forming a romantic relationship with Yumi Shiina.\nUsed in chat.",
     "contentBG": "AAAAAA=="
   },
   {
@@ -29620,14 +29914,14 @@
     "sn": "530153",
     "name": "Let's Sing! Emote",
     "typeName": "Emote",
-    "tips": "Earned for building a strong bond of friendship with Ayaka Sakai.\nFor use in chat.",
+    "tips": "Earned for building a strong bond of friendship with Ayaka Sakai.\nUsed in chat.",
     "contentBG": "AAAAAA=="
   },
   {
     "sn": "530154",
     "name": "I'm So Happy! Emote",
     "typeName": "Emote",
-    "tips": "Earned for forming a romantic relationship with Ayaka Sakai .\nFor use in chat.",
+    "tips": "Earned for forming a romantic relationship with Ayaka Sakai .\nUsed in chat.",
     "contentBG": "AAAAAA=="
   },
   {
@@ -30096,14 +30390,14 @@
     "sn": "530158",
     "name": "Expectant Gaze Emote",
     "typeName": "Emote",
-    "tips": "Earned for building a strong bond of friendship with Miyu Sahara.\nFor use in chat.",
+    "tips": "Earned for building a strong bond of friendship with Miyu Sahara.\nUsed in chat.",
     "contentBG": "AAAAAA=="
   },
   {
     "sn": "530159",
     "name": "Look at Me! Emote",
     "typeName": "Emote",
-    "tips": "Earned for forming a romantic relationship with Miyu Sahara.\nFor use in chat.",
+    "tips": "Earned for forming a romantic relationship with Miyu Sahara.\nUsed in chat.",
     "contentBG": "AAAAAA=="
   },
   {
@@ -30159,14 +30453,14 @@
     "sn": "530173",
     "name": "Mon Ami Emote",
     "typeName": "Emote",
-    "tips": "Earned for building a strong bond of friendship with Kotone Montagne.\nFor use in chat.",
+    "tips": "Earned for building a strong bond of friendship with Kotone Montagne.\nUsed in chat.",
     "contentBG": "AAAAAA=="
   },
   {
     "sn": "530174",
     "name": "Je T'aime Emote",
     "typeName": "Emote",
-    "tips": "Earned for forming a romantic relationship with Kotone Montagne.\nFor use in chat.",
+    "tips": "Earned for forming a romantic relationship with Kotone Montagne.\nUsed in chat.",
     "contentBG": "AAAAAA=="
   },
   {
@@ -30178,35 +30472,35 @@
   },
   {
     "sn": "530176",
-    "name": "NB[it][ID176]",
+    "name": "Treasure Hunt Emote",
     "typeName": "Emote",
     "tips": "Error: tnxotb-[Item_tips_530176]",
     "contentBG": "AAAAAA=="
   },
   {
     "sn": "530177",
-    "name": "NB[it][ID177]",
+    "name": "Sobbing Emote",
     "typeName": "Emote",
     "tips": "Error: tnxotb-[Item_tips_530177]",
     "contentBG": "AAAAAA=="
   },
   {
     "sn": "530178",
-    "name": "NB[it][ID178]",
+    "name": "Looking Around Emote",
     "typeName": "Emote",
     "tips": "Error: tnxotb-[Item_tips_530178]",
     "contentBG": "AAAAAA=="
   },
   {
     "sn": "530179",
-    "name": "NB[it][ID179]",
+    "name": "So Cute! Emote",
     "typeName": "Emote",
     "tips": "Error: tnxotb-[Item_tips_530179]",
     "contentBG": "AAAAAA=="
   },
   {
     "sn": "530180",
-    "name": "NB[it][ID180]",
+    "name": "Woof! Woof! Hooray! Emote",
     "typeName": "Emote",
     "tips": "Error: tnxotb-[Item_tips_530180]",
     "contentBG": "AAAAAA=="
@@ -30787,28 +31081,28 @@
   },
   {
     "sn": "540069",
-    "name": "Success",
+    "name": "Triumph",
     "typeName": "Revelation Set",
     "tips": "AAAAAA==",
     "contentBG": "<color=#ffffff>  </color>"
   },
   {
     "sn": "540070",
-    "name": "Success",
+    "name": "Triumph",
     "typeName": "Revelation Set",
     "tips": "AAAAAA==",
     "contentBG": "<color=#ffffff>  </color>"
   },
   {
     "sn": "540071",
-    "name": "Success",
+    "name": "Triumph",
     "typeName": "Revelation Set",
     "tips": "AAAAAA==",
     "contentBG": "<color=#ffffff>  </color>"
   },
   {
     "sn": "540072",
-    "name": "Success",
+    "name": "Triumph",
     "typeName": "Revelation Set",
     "tips": "AAAAAA==",
     "contentBG": "<color=#ffffff>  </color>"

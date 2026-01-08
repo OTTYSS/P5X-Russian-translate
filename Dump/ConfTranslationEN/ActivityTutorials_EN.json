@@ -7,22 +7,22 @@
   {
     "sn": "1505",
     "title": "Robot Actions",
-    "text": "When the protagonist is next to a robot, he can push it.\nEach time a robot is pushed, it will move forward one square in the direction of the push.\nEach square moved will consume one <color=#FF423F>Movement Point</color>."
+    "text": "When the protagonist is next to a robot, he can push it.\nEach time a robot is pushed, it will move forward one square in the direction of the push.\nEach square moved will subtract one from the allotted number of <color=#FF423F>Moves</color>."
   },
   {
     "sn": "1506",
     "title": "King Bot",
-    "text": "Monitor the situation carefully as you move the <color=#FF423F>King Bot</color>.\nOnce the <color=#FF423F>King Bot</color> reaches the <color=#FF423F>Objective</color>, the challenge is complete."
+    "text": "Monitor the situation carefully as you move the <color=#FF423F>King Bot</color>.\nOnce the <color=#FF423F>King Bot</color> reaches the <color=#FF423F>Backdoor</color>, the challenge is complete."
   },
   {
     "sn": "1507",
-    "title": "Bad Sector",
-    "text": "<color=#FF423F>Bad Sector</color> squares are contaminated or damaged and cannot be crossed.\nOnly <color=#FF423F>Combat Drones</color> can fly over these special areas."
+    "title": "Restricted Zone",
+    "text": "Red <color=#FF423F>Restricted Zones</color> are contaminated or damaged and cannot be crossed.\nOnly <color=#FF423F>Combat Drones</color> can fly over these special areas."
   },
   {
     "sn": "1508",
     "title": "Collecting Gold Coins",
-    "text": "There are <color=#FF423F>Gold Coins</color> on the field. Collect them to clear additional challenges."
+    "text": "There are <color=#FF423F>Gold Coins</color> on the field. Move any robot to a coin's space to collect it. Collect coins to clear additional challenges."
   },
   {
     "sn": "1510",
@@ -42,7 +42,7 @@
   {
     "sn": "1515",
     "title": "Firewall",
-    "text": "<color=#FF423F>Firewalls</color> are unable to be crossed.\nYou will need to go around the <color=#FF423F>Firewall</color> in order to proceed."
+    "text": "<color=#FF423F>Firewalls</color> cannot be crossed by any robot.\nYou will need to go around <color=#FF423F>Firewalls</color> in order to proceed."
   },
   {
     "sn": "1516",
@@ -52,22 +52,22 @@
   {
     "sn": "1517",
     "title": "Robot Actions",
-    "text": "When the protagonist is next to a robot, he can push it.\nEach time a robot is pushed, it will move forward one square in the direction of the push.\nEach square moved will consume one <color=#FF423F>Movement Point</color>."
+    "text": "When the protagonist is next to a robot, he can push it.\nEach time a robot is pushed, it will move forward one square in the direction of the push.\nEach square moved will subtract one from the allotted number of <color=#FF423F>Moves</color>."
   },
   {
     "sn": "1518",
     "title": "King Bot",
-    "text": "Monitor the situation carefully as you move the <color=#FF423F>King Bot</color>.\nOnce the <color=#FF423F>King Bot</color> reaches the <color=#FF423F>Objective</color>, the challenge is complete."
+    "text": "Monitor the situation carefully as you move the <color=#FF423F>King Bot</color>.\nOnce the <color=#FF423F>King Bot</color> reaches the <color=#FF423F>Backdoor</color>, the challenge is complete."
   },
   {
     "sn": "1519",
     "title": "Bad Sector",
-    "text": "<color=#FF423F>Bad Sector</color> squares are contaminated or damaged and cannot be crossed.\nOnly <color=#FF423F>Combat Drones</color> can fly over these special areas."
+    "text": "Red <color=#FF423F>Restricted Zones</color> are contaminated or damaged and cannot be crossed.\nOnly <color=#FF423F>Combat Drones</color> can fly over these special areas."
   },
   {
     "sn": "1520",
     "title": "Collecting Gold Coins",
-    "text": "There are <color=#FF423F>Gold Coins</color> on the squares.\nCollect them to clear additional challenges."
+    "text": "There are <color=#FF423F>Gold Coins</color> on the field. Move any robot to a coin's space to collect it. Collect coins to clear additional challenges."
   },
   {
     "sn": "1525",
@@ -97,7 +97,7 @@
   {
     "sn": "1530",
     "title": "Electrolock Barrier",
-    "text": "<color=#FF423F>Electrolock Barriers</color> are unable to be crossed.\nBut they <color=#FF423F>can be destroyed</color> with <color=#FF423F>Self-Destruct Bots</color>."
+    "text": "<color=#FF423F>Electrolock Barriers</color> cannot be crossed by any robot.\nBut they <color=#FF423F>can be destroyed</color> with <color=#FF423F>Self-Destruct Bots</color>."
   },
   {
     "sn": "1531",
@@ -107,27 +107,27 @@
   {
     "sn": "1532",
     "title": "Robot Actions",
-    "text": "When the protagonist is next to a robot, he can push it.\nEach time a robot is pushed, it will move forward one square in the direction of the push.\nEach square moved will consume one <color=#FF423F>Movement Point</color>."
+    "text": "When the protagonist is next to a robot, he can push it.\nEach time a robot is pushed, it will move forward one square in the direction of the push.\nEach square moved will subtract one from the allotted number of <color=#FF423F>Moves</color>."
   },
   {
     "sn": "1533",
     "title": "King Bot",
-    "text": "Monitor the situation carefully as you move the <color=#FF423F>King Bot</color>.\nOnce the <color=#FF423F>King Bot</color> reaches the <color=#FF423F>Objective</color>, the challenge is complete."
+    "text": "Monitor the situation carefully as you move the <color=#FF423F>King Bot</color>.\nOnce the <color=#FF423F>King Bot</color> reaches the <color=#FF423F>Backdoor</color>, the challenge is complete."
   },
   {
     "sn": "1534",
     "title": "Collecting Gold Coins",
-    "text": "There are <color=#FF423F>Gold Coins</color> on the squares.\nCollect them to clear additional challenges."
+    "text": "There are <color=#FF423F>Gold Coins</color> on the field. Move any robot to a coin's space to collect it. Collect coins to clear additional challenges."
   },
   {
     "sn": "1535",
     "title": "Bad Sector",
-    "text": "<color=#FF423F>Bad Sector</color> squares are contaminated or damaged and cannot be crossed.\nOnly <color=#FF423F>Combat Drones</color> can fly over these special areas."
+    "text": "Red <color=#FF423F>Restricted Zones</color> are contaminated or damaged and cannot be crossed.\nOnly <color=#FF423F>Combat Drones</color> can fly over these special areas."
   },
   {
     "sn": "1536",
     "title": "Firewall",
-    "text": "<color=#FF423F>Firewalls</color> are unable to be crossed.\nYou will need to go around the <color=#FF423F>Firewall</color> in order to proceed."
+    "text": "<color=#FF423F>Firewalls</color> cannot be crossed by any robot.\nYou will need to go around <color=#FF423F>Firewalls</color> in order to proceed."
   },
   {
     "sn": "1540",
@@ -152,22 +152,22 @@
   {
     "sn": "1548",
     "title": "Robot Actions",
-    "text": "When the protagonist is next to a robot, he can push it.\nEach time a robot is pushed, it will move forward one square in the direction of the push.\nEach square moved will consume one <color=#FF423F>Movement Point</color>."
+    "text": "When the protagonist is next to a robot, he can push it.\nEach time a robot is pushed, it will move forward one square in the direction of the push.\nEach square moved will subtract one from the allotted number of <color=#FF423F>Moves</color>."
   },
   {
     "sn": "1549",
     "title": "King Bot",
-    "text": "Monitor the situation carefully as you move the <color=#FF423F>King Bot</color>.\nOnce the <color=#FF423F>King Bot</color> reaches the <color=#FF423F>Objective</color>, the challenge is complete."
+    "text": "Monitor the situation carefully as you move the <color=#FF423F>King Bot</color>.\nOnce the <color=#FF423F>King Bot</color> reaches the <color=#FF423F>Backdoor</color>, the challenge is complete."
   },
   {
     "sn": "1550",
     "title": "Firewall",
-    "text": "<color=#FF423F>Firewalls</color> are unable to be crossed.\nYou will need to go around the <color=#FF423F>Firewall</color> in order to proceed."
+    "text": "<color=#FF423F>Firewalls</color> cannot be crossed by any robot.\nYou will need to go around <color=#FF423F>Firewalls</color> in order to proceed."
   },
   {
     "sn": "1551",
     "title": "Electrolock Barrier",
-    "text": "<color=#FF423F>Electrolock Barriers</color> are unable to be crossed.\nBut they <color=#FF423F>can be destroyed</color> with <color=#FF423F>Self-Destruct Bots</color>."
+    "text": "<color=#FF423F>Electrolock Barriers</color> cannot be crossed by any robot.\nBut they <color=#FF423F>can be destroyed</color> with <color=#FF423F>Self-Destruct Bots</color>."
   },
   {
     "sn": "1552",
@@ -317,7 +317,7 @@
   {
     "sn": "1606",
     "title": "Defeating Enemies",
-    "text": "You can <color=#FF423F>activate an attack</color> that <color=#FF423F>destroys Berserk Bots</color> by simply pushing a <color=#FF423F>Combat Drone</color>, <color=#FF423F>King Bot</color>, or <color=#FF423F>Self-Destruct Bot</color> onto their squares.\nTry to think of ways to take Berserk Bots down and clear bonus challenges."
+    "text": "You can activate an attack that destroys <color=#FF423F>Berserk Bots</color> by simply pushing a <color=#FF423F>Combat Drone</color>, <color=#FF423F>King Bot</color>, or <color=#FF423F>Self-Destruct Bot</color> onto their squares. Try and think of ways to defeat them to clear bonus challenges."
   },
   {
     "sn": "1607",

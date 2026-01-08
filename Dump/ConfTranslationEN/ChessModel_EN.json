@@ -12,7 +12,7 @@
   {
     "sn": "shandi1",
     "name": "Firewall",
-    "desc": "<color=#FF423F>Firewalls</color> are extremely tough barriers that block robots from proceeding."
+    "desc": "<color=#FF423F>Firewalls</color> are extremely tough barriers that block robots from proceeding. It blocks all robots and cannot be destroyed."
   },
   {
     "sn": "paobing",
@@ -22,7 +22,7 @@
   {
     "sn": "bubing",
     "name": "Combat Drone",
-    "desc": "<color=#FF423F>Combat Drones</color> can attack enemies, and are able to fly over Bad Sectors."
+    "desc": "<color=#FF423F>Combat Drones</color> can attack enemies, and are able to fly over Restricted Zones."
   },
   {
     "sn": "zhaoze",
@@ -42,6 +42,6 @@
   {
     "sn": "dibing",
     "name": "Berserk Bot",
-    "desc": "<color=#FF423F>Berserk Bots</color> are affected by an unstable program and are running amok. They will destroy all robots in their path in order to reach the King Bot. Do your best to avoid them."
+    "desc": "<color=#FF423F>Berserk Bots</color> are affected by an unstable program and are running amok. They aim to destroy the King Bot and will destroy all other robots in their path in order to do so. Do your best to avoid them."
   }
 ]

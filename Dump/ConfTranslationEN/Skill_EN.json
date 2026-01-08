@@ -242,7 +242,7 @@
   {
     "sn": "102140",
     "name": "Morgana's Favor",
-    "desc": "When using a different skill than the previous skill, gain 1 Chivalry stack. This can stack up to 3 times.\nWhen an ally with less than 70% HP remaining attacks with a skill or Highlight, activate <link=\"s|100\"><u>Resonance</u></link>, spending 1 Chivalry stack to heal the party by 10% of Morgana's Attack + 150/225/300 (effect changes at Lv. 1/50/70, respectively).",
+    "desc": "When using a different skill than the previous skill, gain 1 Chivalry stack. This can stack up to 3 times.\nWhen an ally with less than 70% HP remaining attacks with a skill or Highlight, activate a <link=\"s|100\"><u>Resonance</u></link>, spending 1 Chivalry stack to heal the party by 10% of Morgana's Attack + 150/225/300 (effect changes at Lv. 1/50/70, respectively).",
     "descSimple": "When using different skill from previous skill, gain 1 Chivalry (max 3 stacks). When ally below 70% HP attacks with skill, activate Resonance and spend 1 Chivalry to restore party's HP.",
     "levelUpList": "AAAAAA==",
     "levelUpValue": "AAAAAA==",
@@ -714,7 +714,7 @@
     "name": "Ultima Booster",
     "desc": "Increase 1 ally's Attack by <color=#FFFC40>^%s^</color> for 2 turns (other than Kamiyama).\nFor each stack of <link=\"s|128\"><u>Power of Friendship</u></link> the target has, increase Attack by 20% of Kamiyama's Attack more (up to <color=#FFFC40>^%s^</color>).",
     "descSimple": "Increase 1 other ally's Atk %s for 2 turns.\nFor each stack of Power of Friendship on target, increase Atk (20% of Kamiyama's Atk, up to %s).",
-    "levelUpList": "Atk Increase Cap,Additional Atk Increase",
+    "levelUpList": "Atk Increase Cap,Atk Increase",
     "levelUpValue": "AAAAAA==",
     "contentBG": "The power of friendship amplifies an ally's strength, increasing their Attack.",
     "skillTag": "Buff"
@@ -824,7 +824,7 @@
     "name": "Highlight",
     "desc": "Grant the maximum number of <link=\"s|128\"><u>Power of Friendship</u></link> stacks to 1 ally (other than Kamiyama) for 2 turns. If the target's remaining HP is below 60%, restore their HP up to 60% (healing is limited to 200% of Kamiyama's Attack). Increase Attack by 15% of Kamiyama's Attack (up to <color=#FFFC40>^%s^</color>) for 2 turns.",
     "descSimple": "Max Power of Friendship stacks on 1 ally besides self and increase Atk (15% of Kamiyama's Atk, max %s stacks, 2 turns). If target's HP is below 60%, restore HP up to 60% (up to 200% of Kamiyama's Atk).",
-    "levelUpList": "Highlight Atk Increase Multiplier Cap",
+    "levelUpList": "Highlight Atk Increase Cap",
     "levelUpValue": "AAAAAA==",
     "contentBG": "AAAAAA==",
     "skillTag": "AAAAAA=="
@@ -912,7 +912,7 @@
   {
     "sn": "108140",
     "name": "Fever Time",
-    "desc": "When using a skill, gain Beat stacks. When Beat stacks reach 4 or more, <link=\"s|100\"><u>Resonance</u></link> activates, spending 4 Beat stacks to grant 1 Pulsating Rhythm stack to the party. When allies have Pulsating Rhythm, increase Attack by 10%/15%/20%, Defense by 10%/15%/20% and ailment accuracy by 5%/7.5%/10% based on Tomiyama's level (effect increases at level 1/50/70). Lasts for 2 turns. Stacks up to 3 times, and effects increase based on number of stacks.",
+    "desc": "When using a skill, gain Beat stacks. When Beat stacks reach 4 or more, activate a <link=\"s|100\"><u>Resonance</u></link>, spending 4 Beat stacks to grant 1 Pulsating Rhythm stack to all allies. When allies have Pulsating Rhythm, increase Attack by 10%/15%/20%, Defense by 10%/15%/20% and ailment accuracy by 5%/7.5%/10% based on Tomiyama's level (effect increases at level 1/50/70). Lasts for 2 turns. Stacks up to 3 times, and effects increase based on number of stacks.",
     "descSimple": "Gain Beat when using support skills. At 4 stacks, activate Resonance to use Pulsating Rhythm, granting buffs to party.",
     "levelUpList": "AAAAAA==",
     "levelUpValue": "AAAAAA==",
@@ -1184,7 +1184,7 @@
     "name": "Sacral Glow",
     "desc": "Grant a shield to 1 ally besides self equal to <color=#FFFC40>^%s^</color> of Yukimi's Defense + <color=#FFFC40>^%s^</color>, and increase target's Defense by 35% of Yukimi's Defense (up to <color=#FFFC40>^%s^</color>).\nAlso, decrease target's damage taken by 20% once. Lasts for 2 turns. Grant 2 <link=\"s|111\"><u>Blessing</u></link> stacks, and grant target <link=\"s|121\"><u>Oath</u></link> for 2 turns.",
     "descSimple": "Grant shield to 1 ally (%s of Yukimi's Def + %s), increase Def (35% of Yukimi's Def, max %s, 2 turns).\nDecrease target's dmg taken 20% once (2 turns).\nGrant 2 Blessing and grant Oath.",
-    "levelUpList": "Shield Multiplier,Base Shield,Def Increase",
+    "levelUpList": "Shield Multiplier,Base Shield,Def Increase Cap",
     "levelUpValue": "AAAAAA==",
     "contentBG": "A righteous barrier of light emerges, serving as a shield for an ally.",
     "skillTag": "Shield"
@@ -1304,7 +1304,7 @@
     "name": "Highlight",
     "desc": "Deal Bless damage to 1 foe equal to <color=#FFFC40>^%s^</color> of Yukimi's Defense. Also increase party's Defense by 20% of Yukimi's Defense (up to <color=#FFFC40>^%s^</color>) for 2 turns.",
     "descSimple": "Bless dmg to 1 foe (%s Def). Increase party's Def by 20% of Yukimi's Def (max %s, 2 turns).",
-    "levelUpList": "Highlight Dmg,Highlight Def Increase",
+    "levelUpList": "Highlight Dmg,Highlight Def Increase Cap",
     "levelUpValue": "AAAAAA==",
     "contentBG": "AAAAAA==",
     "skillTag": "AAAAAA=="
@@ -1742,7 +1742,7 @@
   {
     "sn": "116140",
     "name": "Inspiration",
-    "desc": "When taking damage from a foe's skill, 65% chance to activate <link=\"s|100\"><u>Resonance</u></link> and counterattack, dealing Ice damage equal to 88% of Yusuke's Defense.\nEvolve this effect to <link=\"s|172\"><u>Imagination</u></link> by using a skill.",
+    "desc": "When taking damage from a foe's skill, 65% chance to activate a <link=\"s|100\"><u>Resonance</u></link> and counterattack, dealing Ice damage equal to 88% of Yusuke's Defense.\nEvolve this effect to <link=\"s|172\"><u>Imagination</u></link> by using a skill.",
     "descSimple": "When taking dmg from foe's skill, 65% to activate Resonance to counterattack and deal Ice dmg (88% Def).",
     "levelUpList": "AAAAAA==",
     "levelUpValue": "AAAAAA==",
@@ -1864,7 +1864,7 @@
     "name": "Data Link Established!",
     "desc": "Usable when allies have Data Storm. For 2 turns, increase 1 ally's Attack by <color=#FFFC40>^%s^</color>; increase Attack by 21.7 more for every 100 points of Futaba's Attack (up to <color=#FFFC40>^%s^</color> of Attack).\nInflict Virus on all foes for 1 turn, based on the targeted ally's attribute.\nVirus: Change affinities of the foe this is inflicted upon. (Null, Repel, and Drain become Resist. Resist becomes Normal. Normal becomes Weak. Weak attributes take 25% more weakness damage.)",
     "descSimple": "Usable when allies have Data Storm. For 2 turns, increase 1 ally's Atk by %s; increase Atk 21.7 more per 100 points of Futaba's Atk (up to %s of Atk). Inflict Virus on all foes (1 turn), based on targeted ally's attribute.",
-    "levelUpList": "Atk Increase Multiplier,Atk Increase Cap",
+    "levelUpList": "Atk Increase,Atk Increase Cap",
     "levelUpValue": "AAAAAA==",
     "contentBG": "Compile data collected on friends and foes alike to turn the situation in your favor, allowing allies to exploit enemies' weaknesses.",
     "skillTag": "Buff"
@@ -2062,7 +2062,7 @@
   {
     "sn": "118140",
     "name": "Sonnet of Fate",
-    "desc": "Each time an ally deals damage, gain 1 <link=\"s|153\"><u>Verse</u></link> stack.\nAt 14+ Verse stacks, activate <link=\"s|100\"><u>Resonance</u></link> and spend 14 stacks of Verse to deal follow-up Curse damage to the last foe Sumi targeted, equal to 65%/98%/130% of Attack (effect changes at Lv. 1/50/70, respectively).\n*Verse of Hate, Verse of Healing, and Verse of Passion all also count as Verse stacks.",
+    "desc": "Each time an ally deals damage, gain 1 <link=\"s|153\"><u>Verse</u></link> stack.\nAt 14+ Verse stacks, activate a <link=\"s|100\"><u>Resonance</u></link> and spend 14 Verse stacks to deal follow-up Curse damage to the last foe Sumi targeted, equal to 65%/98%/130% of Attack (effect changes at Lv. 1/50/70, respectively).\n*Verse of Hate, Verse of Healing, and Verse of Passion all also count as Verse stacks.",
     "descSimple": "When an ally deals dmg, gain 1 Verse. At 14 Verse stacks, activate Resonance, and deal Curse dmg as follow-up attack to last foe Sumi targeted (65%/98%/130% of Atk, increasing at Lv. 1/50/70).",
     "levelUpList": "AAAAAA==",
     "levelUpValue": "AAAAAA==",
@@ -2494,7 +2494,7 @@
     "name": "Highlight",
     "desc": "Deal Nuclear damage to 1 foe equal to <color=#FFFC40>^%s^</color> of Attack, gain 2 Frenzied Voltage stacks, and activate the following effects.\nSpend 1 Frenzied Voltage stack to inflict 1 random elemental ailment on foes, continuing until foes have 2 elemental ailments. Spend all remaining Frenzied Voltage stacks to increase the damage of this skill by 20% per stack.",
     "descSimple": "Nuke dmg to 1 foe (%s Atk). Gain 2 Frenzied Voltage.\nImmediately spend Frenzied Voltage to inflict up to 2 elemental ailments on foes.\nSpend all remaining Frenzied Voltage to increase this skill's damage 20% per stack.",
-    "levelUpList": "Highlight Atk Multiplier",
+    "levelUpList": "Highlight Skill Multiplier",
     "levelUpValue": "AAAAAA==",
     "contentBG": "AAAAAA==",
     "skillTag": "AAAAAA=="
@@ -2592,7 +2592,7 @@
   {
     "sn": "121140",
     "name": "Blade Dancer",
-    "desc": "On ally's action, gain 1 <link=\"s|119\"><u>Ice Crystal</u></link> stack. Stacks up to 12 times. After using a skill, when Ice Crystal reaches 10 stacks, activate <link=\"s|100\"><u>Resonance</u></link>, spending 10 Ice Crystal stacks to deal 65% follow-up Ice damage to the main target. This Resonance is guaranteed to be a critical hit.\nWhen using Frost Lily or Winter Storm, if the Resonance is activated, gain Parhelion.\nParhelion is used to strengthen Durandal of Ice.",
+    "desc": "On ally's action, gain 1 <link=\"s|119\"><u>Ice Crystal</u></link> stack. Stacks up to 12 times. After using a skill, when Ice Crystal reaches 10 stacks, activate a <link=\"s|100\"><u>Resonance</u></link>, spending 10 Ice Crystal stacks to deal 65% follow-up Ice damage to the main target. This Resonance is guaranteed to be a critical hit.\nWhen using Frost Lily or Winter Storm, if the Resonance is activated, gain Parhelion.\nParhelion is used to strengthen Durandal of Ice.",
     "descSimple": "When an ally acts, gain 1 Ice Crystal (max 12 stacks).\nWhen Kotone uses skill, activate Resonance, spend 10 Ice Crystal and deal follow-up Ice dmg to foes.\nWhen using Ice Lily or Winter Storm, gain Parhelion and increase dmg of next Durandal of Ice.",
     "levelUpList": "AAAAAA==",
     "levelUpValue": "AAAAAA==",
@@ -2914,7 +2914,7 @@
     "name": "Mindful Release",
     "desc": "Deal Psychokinesis damage to all foes equal to <color=#FFFC40>^%s^</color> of Attack. When Haru has <link=\"s|114\"><u>Target Audience</u></link>, increase this skill's critical rate by <color=#FFFC40>^%s^</color> and gain 1 Spillover Round stack.\nSpillover Round: When using a ranged attack, also deal Psychokinesis damage to all foes equal to <color=#FFFC40>^%s^</color> of Attack (can gain skill damage increases from Focused Round).",
     "descSimple": "Psy dmg to all foes (%s Atk) When Haru has Target Audience, increase this skill's critical rate by %s and gain 1 Spillover Round.\nSpillover Round: When using ranged attack, also deal Psy dmg to all foes (%s Atk, can gain skill dmg increases from Focused Round).",
-    "levelUpList": "Skill Multiplier,Critical Increase,Skill Multiplier",
+    "levelUpList": "Skill Multiplier,Crit Rate Increase,Skill Multiplier",
     "levelUpValue": "AAAAAA==",
     "contentBG": "Unleashes your thoughts at targets in your sights, dealing Psychokinesis damage to all foes.",
     "skillTag": "Multi-Target"
@@ -3024,7 +3024,7 @@
     "name": "Highlight",
     "desc": "Deal Psychokinesis damage to all foes equal to <color=#FFFC40>^%s^</color> of Attack. Gain 1 Overload Round if Haru doesn't have any Overload Round stacks and is below maximum Thoughtful Round stacks.\nOverload Round: When using a ranged attack, increase critical rate by <color=#FFFC40>^%s^</color>.\nIf Haru hasn't gained any Overload Round stacks, increase this skill damage by <color=#FFFC40>^%s^</color>.",
     "descSimple": "Psy dmg to all foes (%s Atk). Gain 1 Overload Round if there's no Overload Round stacks and below max Thoughtful Round stacks.\nOverload Round: When using ranged attack, increase crit rate %s.\nIf haven't gained Overload Round, increase this skill dmg %s.",
-    "levelUpList": "Highlight Skill Multiplier,Critical Rate Increase,Skill Dmg Increase",
+    "levelUpList": "Highlight Skill Multiplier,Criti Rate Increase,Skill Dmg Increase",
     "levelUpValue": "AAAAAA==",
     "contentBG": "AAAAAA==",
     "skillTag": "AAAAAA=="
@@ -4142,7 +4142,7 @@
   {
     "sn": "111140",
     "name": "Jolly Cooperation",
-    "desc": "<nobr>When an ally deals damage with a skill, there is a 35% chance to activate <link=\"s|100\"><u>Resonance </u></link>, dealing Electric damage equal to 80% of Attack as a follow-up attack. After a follow-up, increase target's next Electric damage taken by 15% for 2 turns.",
+    "desc": "<nobr>When an ally deals damage with a skill, there is a 35% chance to activate a <link=\"s|100\"><u>Resonance </u></link>, dealing Electric damage equal to 80% of Attack as a follow-up attack. After a follow-up, increase target's next Electric damage taken by 15% for 2 turns.",
     "descSimple": "When ally deals skill dmg, activate Resonance for 35% chance to deal Electic dmg follow-up attack (80% Atk).\nIncrease follow-up attack target's next Elec dmg taken 15% (2 turns).",
     "levelUpList": "AAAAAA==",
     "levelUpValue": "AAAAAA==",
@@ -4224,7 +4224,7 @@
     "name": "Highlight",
     "desc": "Increase Attack by <color=#FFFC40>^%s^</color> and follow-up damage by <color=#FFFC40>^%s^</color> of Attack for 2 turns.\nActivate follow-up when allies deal damage to foes with skills for 2 turns.",
     "descSimple": "Increase Yui's Atk and follow-up dmg (2 turns). Also perform follow-up attack when allies deal skill dmg to foes (2 turns).",
-    "levelUpList": "Highlight Atk Increase,Highlight Crit Rate Increase",
+    "levelUpList": "Highlight Atk Increase,Highlight Follow-Up Dmg Multiplier Increase",
     "levelUpValue": "AAAAAA==",
     "contentBG": "AAAAAA==",
     "skillTag": "AAAAAA=="
@@ -4354,7 +4354,7 @@
     "name": "Courageous Campaign",
     "desc": "This skill requires <link=\"s|164\"><u>Childish Heart</u></link>.\nWhen used with Childish Heart, increase party's Attack by 10% for 2 turns.\nAt 2 or more stacks of Childish Heart, also increase party's damage by 1% for every 100 of Haruna's Attack, up to <color=#FFFC40>^%s^</color>.",
     "descSimple": "Requires Childish Heart. Increase party's Atk 10% (2 turns). At 2+ Childish Heart, also increase dmg 1% per 100 of Haruna's Atk, up to %s.",
-    "levelUpList": "Dmg Cap",
+    "levelUpList": "Dmg Increase Cap",
     "levelUpValue": "AAAAAA==",
     "contentBG": "Summons support units to secure success, increasing the party's Attack.",
     "skillTag": "Buff"
@@ -5024,7 +5024,7 @@
     "name": "Unison Notes",
     "desc": "Grant <link=\"s|190\"><u>Costar</u></link> to 1 ally, and increase their Attack by 24% of Ayaka's Attack (up to <color=#FFFC40>^%s^</color>) for 3 turns.\nOnly 1 ally can be a Costar at a time.",
     "descSimple": "Grant Costar to 1 ally and increase target's Atk by 24% of Ayaka's Atk (up to %s, 3 turns).",
-    "levelUpList": "Atk Increase",
+    "levelUpList": "Atk Increase Cap",
     "levelUpValue": "AAAAAA==",
     "contentBG": "Two stars take the stage and perform in perfect unison, increasing allies' Attack.",
     "skillTag": "Buff"
@@ -5464,7 +5464,7 @@
     "name": "Surf 'n' Shine",
     "desc": "Immediately enter the <link=\"s|192\"><u>Summer Hype</u></link> state, which lasts until the end of Tropical Motoha's next turn.\nSpend 15% of her max HP to deal Bless damage to all foes equal to <color=#FFFC40>^%s^</color> of Attack.\nSummer Hype: Increase critical rate by <color=#FFFC40>^%s^</color> and damage by <color=#FFFC40>^%s^</color>.",
     "descSimple": "Immediately enter Summer Hype until end of next turn. Spend 15% max HP to deal Bless dmg to all foes (%s Atk). Summer Hype: Increase crit rate %s and dmg %s.",
-    "levelUpList": "Skill Multiplier,Crit Rate Up,Dmg Increase",
+    "levelUpList": "Skill Multiplier,Crit Rate Increase,Dmg Increase",
     "levelUpValue": "AAAAAA==",
     "contentBG": "The summer sunshine creates perfect surf conditions, dealing Bless damage to all foes.",
     "skillTag": "Multi-Target"
@@ -6062,7 +6062,7 @@
   {
     "sn": "121211",
     "name": "Éclat de Vent / Iceburst",
-    "desc": "Spring: Deal Wind damage to 1 foe equal to <color=#FFFC40>^%s^</color> of Attack (3 hits), with a 30% chance to inflict <link=\"s|105\"><u>Windswept</u></link>. When Spring's Edge is active, also inflict <link=\"s|209\"><u>Attack Sequence</u></link> for 2 turns. When Ice Storm Kotone attacks a foe with Attack Sequence, increase critical damage by <color=#FFFC40>^%s^</color>.\nWinter: Deal Ice damage to 1 foe equal to <color=#FFFC40>^%s^</color> of Attack, with a <color=#FFFC40>^%s^</color> chance to inflict <link=\"s|103\"><u>Freeze</u></link>. If the target is already frozen, inflict <link=\"s|210\"><u>On Ice</u></link> for 2 turns. Increase Ice damage taken by <color=#FFFC40>^%s^</color> for foes with On Ice.",
+    "desc": "Spring mode: Deal Wind damage to 1 foe equal to <color=#FFFC40>^%s^</color> of Attack (3 hits), with a 30% chance to inflict <link=\"s|105\"><u>Windswept</u></link>. When Spring's Edge is active, also gain 1 <link=\"s|212\"><u>Spring's Vestige</u></link> stack and inflict <link=\"s|209\"><u>Spiral Sequence</u></link> for 2 turns. When Frostgale Kotone attacks a foe with Spiral Sequence, increase critical damage by <color=#FFFC40>^%s^</color>.\nWinter mode: Deal Ice damage to 1 foe equal to <color=#FFFC40>^%s^</color> of Attack, with a <color=#FFFC40>^%s^</color> chance to inflict <link=\"s|103\"><u>Freeze</u></link>. If the target is already Frozen, inflict <link=\"s|210\"><u>On Ice</u></link> for 2 turns. Increase Ice damage taken by <color=#FFFC40>^%s^</color> for foes with On Ice.",
     "descSimple": "AAAAAA==",
     "levelUpList": "Skill Multiplier,Crit Dmg,Skill Multiplier,Freeze Chance,Target Ice Dmg Taken",
     "levelUpValue": "AAAAAA==",
@@ -6072,7 +6072,7 @@
   {
     "sn": "121212",
     "name": "Zephyr / Sapphire Storm",
-    "desc": "Spring: Deal Wind damage to all foes equal to <color=#FFFC40>^%s^</color> of Attack (3 hits). When Spring's Edge is active, also gain 1 <link=\"s|212\"><u>Spring's Vestige</u></link>.\nWinter: Deal Ice damage to all foes equal to <color=#FFFC40>^%s^</color> of Attack, with a <color=#FFFC40>^%s^</color> chance to inflict <link=\"s|103\"><u>Freeze</u></link>. When Winter's Edge is active, increase this skill's damage by 20%.",
+    "desc": "Spring mode: Deal Wind damage to all foes equal to <color=#FFFC40>^%s^</color> of Attack (3 hits). When Spring's Edge is active, also gain 2 <link=\"s|212\"><u>Spring's Vestige</u></link> stacks.\nWinter mode: Deal Ice damage to all foes equal to <color=#FFFC40>^%s^</color> of Attack, with a <color=#FFFC40>^%s^</color> chance to inflict <link=\"s|103\"><u>Freeze</u></link>. When Winter's Edge is active, increase this skill's damage by 20%.",
     "descSimple": "AAAAAA==",
     "levelUpList": "Skill Multiplier,Skill Multiplier,Freeze Chance",
     "levelUpValue": "AAAAAA==",
@@ -6082,7 +6082,7 @@
   {
     "sn": "121213",
     "name": "Ailes au Vent / Frozen Wings",
-    "desc": "Spring: For 1 turn, activate Spring's Edge, and deal Wind damage to 1 foe equal to <color=#FFFC40>^%s^</color> of Attack (3 hits). While Spring's Edge is active, when allies deal Wind damage with a skill, Highlight, or <link=\"s|100\"><u>Resonance</u></link>, deal Wind damage to the selected target equal to 20% of Frostgale Kotone's Attack, and gain 1 <link=\"s|212\"><u>Spring's Vestige</u></link> stack. When Spring's Edge ends, spend all Spring's Vestige stacks, and deal Wind damage to the target selected that turn equal to (number of Spring's Vestige stacks + 2) x <color=#FFFC40>^%s^</color> of Attack. This damage is counted as a Resonance.\nWinter: For 1 turn, activate Winter's Edge, and deal Ice damage to 1 foe equal to <color=#FFFC40>^%s^</color> of Attack. While Winter's Edge is active, when an ally takes an attack, grant Glacial Heart to all allies, protecting them from up to <color=#FFFC40>^%s^</color> damage. This effect can be activated up to 2 times. Also, when allies deal Ice damage with a skill, Highlight, or Resonance, gain 1 <link=\"s|213\"><u>Winter's Vestige</u></link> stack. When Winter's Edge ends, spend all Winter's Vestige stacks, and deal Ice damage to the target selected that turn equal to (number of Winter's Vestige stacks + 2) x <color=#FFFC40>^%s^</color> of Attack. This damage is counted as a Resonance.",
+    "desc": "Spring mode: Activate Spring's Edge for 1 turn, and deal Wind damage to 1 foe equal to <color=#FFFC40>^%s^</color> of Attack (3 hits). While Spring's Edge is active, when allies deal Wind damage with a skill, Highlight, or <link=\"s|100\"><u>Resonance</u></link>, deal Wind damage to the selected target equal to 20% of Frostgale Kotone's Attack, and gain 1 <link=\"s|212\"><u>Spring's Vestige</u></link> stack. When Spring's Edge ends, spend all Spring's Vestige stacks, and deal Wind damage to the target selected that turn equal to (number of Spring's Vestige stacks + 4) x <color=#FFFC40>^%s^</color> of Attack. This damage is counted as a Resonance.\nWinter mode: Activate Winter's Edge for 1 turn, and deal Ice damage to 1 foe equal to <color=#FFFC40>^%s^</color> of Attack. While Winter's Edge is active, when an ally takes an attack, grant Glacial Heart to all allies for 2 turns, protecting them from up to <color=#FFFC40>^%s^</color> damage. This effect can be activated up to 2 times. Also, when allies deal Ice damage with a skill, Highlight, or Resonance, gain 1 <link=\"s|213\"><u>Winter's Vestige</u></link> stack. When Winter's Edge ends, spend all Winter's Vestige stacks, and deal Ice damage to the target selected that turn equal to (number of Winter's Vestige stacks + 4) x <color=#FFFC40>^%s^</color> of Attack. This damage is counted as a Resonance.",
     "descSimple": "AAAAAA==",
     "levelUpList": "Skill Multiplier,Resonance Multiplier,Skill Multiplier,Shield Rate,Resonance Multiplier",
     "levelUpValue": "AAAAAA==",
@@ -6091,7 +6091,7 @@
   },
   {
     "sn": "121214",
-    "name": "Error: tnxotb-[Skill_name_121214]",
+    "name": "Spring's Edge",
     "desc": "AAAAAA==",
     "descSimple": "AAAAAA==",
     "levelUpList": "AAAAAA==",
@@ -6102,7 +6102,7 @@
   {
     "sn": "121215",
     "name": "Iceburst",
-    "desc": "Deal Ice damage to 1 foe equal to <color=#FFFC40>^%s^</color> of Attack with a <color=#FFFC40>^%s^</color> chance to inflict <link=\"s|103\"><u>Freeze</u></link>. If target is already Frozen, inflict <link=\"s|210\"><u>On Ice</u></link> for 2 turns. Increase Ice damage taken by foes with On Ice by <color=#FFFC40>^%s^</color>.",
+    "desc": "Deal Ice damage to 1 foe equal to <color=#FFFC40>^%s^</color> of Attack with a <color=#FFFC40>^%s^</color> chance to inflict <link=\"s|103\"><u>Freeze</u></link>. If the target is already Frozen, inflict <link=\"s|210\"><u>On Ice</u></link> for 2 turns. Increase Ice damage taken by foes with On Ice by <color=#FFFC40>^%s^</color>.",
     "descSimple": "Ice dmg to 1 foe (%s Atk). %s chance to inflict Freeze. If target is already Frozen, inflict On Ice (2 turns). Increase Ice dmg taken by foes with On Ice %s.",
     "levelUpList": "Winter Multiplier,Winter Freeze Chance,Winter Ice Dmg Taken",
     "levelUpValue": "AAAAAA==",
@@ -6122,8 +6122,8 @@
   {
     "sn": "121217",
     "name": "Frozen Wings",
-    "desc": "For 1 turn, activate Winter's Edge, and deal Ice damage to 1 foe equal to <color=#FFFC40>^%s^</color> of Attack. While Winter's Edge is active, when an ally takes an attack, grant Glacial Heart to all allies, protecting them from up to <color=#FFFC40>^%s^</color> damage. This effect can be activated up to 2 times. Also, when allies deal Ice damage with a skill, Highlight, or <link=\"s|100\"><u>Resonance</u></link>, gain 1 <link=\"s|213\"><u>Winter's Vestige</u></link> stack. When Winter's Edge ends, spend all Winter's Vestige stacks, and deal Ice damage to the target selected that turn equal to (number of Winter's Vestige stacks + 2) x <color=#FFFC40>^%s^</color> of Attack. This damage is counted as a Resonance.",
-    "descSimple": "For 1 turn, activate Winter's Edge, and Ice dmg to 1 foe (%s Atk). While Winter's Edge is active, when ally is attacked, grant Glacial Heart to all allies, protecting from up to %s dmg (max 2 times). When allies deal Ice dmg with skill, Highlight, or Resonance, gain 1 Winter's Vestige. When Winter's Edge ends, spend all Winter's Vestige, and deal Ice dmg to target selected that turn ((number of Winter's Vestige + 2) x %s Atk). This damage is counted as a Resonance.",
+    "desc": "Activate Winter's Edge for 1 turn, and deal Ice damage to 1 foe equal to <color=#FFFC40>^%s^</color> of Attack. While Winter's Edge is active, when an ally takes an attack, grant Glacial Heart to all allies for 2 turns, protecting them from up to <color=#FFFC40>^%s^</color> damage. This effect can be activated up to 2 times. Also, when allies deal Ice damage with a skill, Highlight, or <link=\"s|100\"><u>Resonance</u></link>, gain 1 <link=\"s|213\"><u>Winter's Vestige</u></link> stack. When Winter's Edge ends, spend all Winter's Vestige stacks, and deal Ice damage to the target selected that turn equal to (number of Winter's Vestige stacks + 4) x <color=#FFFC40>^%s^</color> of Attack. This damage is counted as a Resonance.",
+    "descSimple": "Activate Winter's Edge (1 turn), and Ice dmg to 1 foe (%s Atk). While Winter's Edge is active, when ally is attacked, grant Glacial Heart to all allies, protecting from up to %s dmg (max 2 times, 2 turns). When allies deal Ice dmg with skill, Highlight, or Resonance, gain 1 Winter's Vestige. When Winter's Edge ends, spend all Winter's Vestige, and deal Ice dmg to target selected that turn ((number of Winter's Vestige + 4) x %s Atk). This damage is counted as a Resonance.",
     "levelUpList": "Winter Multiplier,Winter Shield Rate,Winter Resonance Multiplier",
     "levelUpValue": "AAAAAA==",
     "contentBG": "AAAAAA==",
@@ -6131,7 +6131,7 @@
   },
   {
     "sn": "121218",
-    "name": "Error: tnxotb-[Skill_name_121218]",
+    "name": "Winter's Edge",
     "desc": "AAAAAA==",
     "descSimple": "AAAAAA==",
     "levelUpList": "AAAAAA==",
@@ -6142,7 +6142,7 @@
   {
     "sn": "121231",
     "name": "Performance Scoring",
-    "desc": "When a Wind ally is in the party, increase own Wind damage by <color=#FFFC40>^%s^</color>.\nWhen an Ice ally is in the party, increase own Ice damage by <color=#FFFC40>^%s^</color>.",
+    "desc": "At the start of battle, if a Wind ally is in the party, increase Frostgale Kotone's Wind damage by <color=#FFFC40>^%s^</color>.\nAt the start of battle, if an Ice ally is in the party, increase Frostgale Kotone's Ice damage by <color=#FFFC40>^%s^</color>.",
     "descSimple": "AAAAAA==",
     "levelUpList": "AAAAAA==",
     "levelUpValue": "AAAAAA==",
@@ -6152,8 +6152,8 @@
   {
     "sn": "121219",
     "name": "Éclat de Vent",
-    "desc": "Deal Wind damage to 1 foe equal to <color=#FFFC40>^%s^</color> of Attack (3 hits), with a 30% chance to inflict <link=\"s|105\"><u>Windswept</u></link>. When Spring's Edge is active, also inflict <link=\"s|209\"><u>Attack Sequence</u></link> for 2 turns. When Ice Storm Kotone attacks a foe with Attack Sequence, increase critical damage by <color=#FFFC40>^%s^</color>.",
-    "descSimple": "Wind dmg to 1 foe (%s Atk, 3 hits), 30% chance to inflict Windswept. When Spring's Edge is active, also inflict Attack Sequence (2 turns). When attacking foe with Attack Sequence, increase crit dmg %s.",
+    "desc": "Deal Wind damage to 1 foe equal to <color=#FFFC40>^%s^</color> of Attack (3 hits), with a 30% chance to inflict <link=\"s|105\"><u>Windswept</u></link>. When Spring's Edge is active, gain 1 more <link=\"s|212\"><u>Spring's Vestige</u></link> stack and also inflict <link=\"s|209\"><u>Spiral Sequence</u></link> on the selected target for 2 turns. When Frostgale Kotone attacks a foe with Spiral Sequence, increase critical damage by <color=#FFFC40>^%s^</color>.",
+    "descSimple": "Wind dmg to 1 foe (%s Atk, 3 hits), 30% chance to inflict Windswept. When Spring's Edge is active, gain 1 more Spring's Vestige and inflict Spiral Sequence on the selected target (2 turns). When attacking foe with Spiral Sequence, increase crit dmg %s.",
     "levelUpList": "Spring Multiplier,Spring Crit Dmg",
     "levelUpValue": "AAAAAA==",
     "contentBG": "AAAAAA==",
@@ -6162,8 +6162,8 @@
   {
     "sn": "121220",
     "name": "Zephyr",
-    "desc": "Deal Wind damage to all foes equal to <color=#FFFC40>^%s^</color> (3 hits). When Spring's Edge is active, gain 1 more <link=\"s|212\"><u>Spring's Vestige</u></link> stack.",
-    "descSimple": "Wind dmg to all foes (%s Atk, 3 hits). When Spring's Edge is active, gain 1 more Spring's Vestige.",
+    "desc": "Deal Wind damage to all foes equal to <color=#FFFC40>^%s^</color> (3 hits). When Spring's Edge is active, gain 2 more <link=\"s|212\"><u>Spring's Vestige</u></link> stacks.",
+    "descSimple": "Wind dmg to all foes (%s Atk, 3 hits). When Spring's Edge is active, gain 2 more Spring's Vestige.",
     "levelUpList": "Spring Multiplier",
     "levelUpValue": "AAAAAA==",
     "contentBG": "AAAAAA==",
@@ -6172,8 +6172,8 @@
   {
     "sn": "121221",
     "name": "Ailes au Vent",
-    "desc": "For 1 turn, activate Spring's Edge, and deal Wind damage to 1 foe equal to <color=#FFFC40>^%s^</color> of Attack (3 hits). While Spring's Edge is active, when allies deal Wind damage with a skill, Highlight, or <link=\"s|100\"><u>Resonance</u></link>, deal Wind damage to the selected target equal to 20% of Frostgale Kotone's Attack, and gain 1 <link=\"s|212\"><u>Spring's Vestige</u></link> stack. When Spring's Edge ends, spend all Spring's Vestige stacks, and deal Wind damage to the target selected that turn equal to (number of Spring's Vestige stacks + 2) x <color=#FFFC40>^%s^</color> of Attack. This damage is counted as a Resonance.",
-    "descSimple": "For 1 turn, activate Spring's Edge, and Wind dmg to 1 foe (%s Atk, 3 hits). While Spring's Edge is active, when allies deal Wind dmg with skill, Highlight, or Resonance, deal Wind dmg to selected target (20% Atk), and gain 1 Spring's Vestige. When Spring's Edge ends, spend all Spring's Vestige, and deal Wind dmg to target selected that turn ((number of Spring's Vestige + 2) x %s Atk). This damage is counted as a Resonance.",
+    "desc": "Activate Spring's Edge for 1 turn, and deal Wind damage to 1 foe equal to <color=#FFFC40>^%s^</color> of Attack (3 hits). While Spring's Edge is active, when allies deal Wind damage with a skill, Highlight, or <link=\"s|100\"><u>Resonance</u></link>, deal Wind damage to the selected target equal to 20% of Frostgale Kotone's Attack, and gain 1 <link=\"s|212\"><u>Spring's Vestige</u></link> stack. When Spring's Edge ends, spend all Spring's Vestige stacks, and deal Wind damage to the target selected that turn equal to (number of Spring's Vestige stacks + 4) x <color=#FFFC40>^%s^</color> of Attack. This damage is counted as a Resonance.",
+    "descSimple": "Activate Spring's Edge (1 turn), and Wind dmg to 1 foe (%s Atk, 3 hits). While Spring's Edge is active, when allies deal Wind dmg with skill, Highlight, or Resonance, deal Wind dmg to selected target (20% Atk), and gain 1 Spring's Vestige. When Spring's Edge ends, spend all Spring's Vestige, and deal Wind dmg to target selected that turn ((number of Spring's Vestige + 4) x %s Atk). This damage is counted as a Resonance.",
     "levelUpList": "Spring Multiplier,Spring Resonance Multiplier",
     "levelUpValue": "AAAAAA==",
     "contentBG": "AAAAAA==",
@@ -6181,8 +6181,8 @@
   },
   {
     "sn": "121232",
-    "name": "Technical Score",
-    "desc": "While in Spring mode, when an ally attacks with the Wind attribute, increase party's Attack by <color=#FFFC40>^%s^</color> for 2 turns. Stacks up to 5 times.\nWhile in Winter mode, when gaining a shield, increase party's Defense by <color=#FFFC40>^%s^</color> for 2 turns. Stacks up to 4 times.",
+    "name": "Technical Scoring",
+    "desc": "While in Spring mode, each time an ally attacks with the Wind attribute, increase party's Attack by <color=#FFFC40>^%s^</color> for 2 turns. Stacks up to 5 times.\nWhile in Winter mode, each time Frostgale Kotone gains a shield, increase party's Defense by <color=#FFFC40>^%s^</color> for 2 turns. Stacks up to 4 times.",
     "descSimple": "AAAAAA==",
     "levelUpList": "AAAAAA==",
     "levelUpValue": "AAAAAA==",
@@ -6192,7 +6192,7 @@
   {
     "sn": "121240",
     "name": "Swan on the Ice",
-    "desc": "Frostgale Kotone has 2 modes: Spring and Winter. During battle, when Spring's Edge / Winter's Edge is not active, she can freely change between modes. When changing modes, the attributes of her skills and Highlight change. At the start of battle, she will be in Spring mode, but if more allies in the party have the Ice attribute than Wind attribute, she will be in Winter mode.",
+    "desc": "Frostgale Kotone has 2 modes: Spring and Winter. During battle, she can freely change between modes while Spring's Edge / Winter's Edge is not active. When changing modes, the attributes of her skills and Highlight change. At the start of battle, she will be in Spring mode, but if there are more allies in the party that have the Ice attribute than the Wind attribute, she will be in Winter mode.\nFor every 1 <link=\"s|212\"><u>Spring's Vestige</u></link> or <link=\"s|213\"><u>Winter's Vestige</u></link> stack she gains, permanently increase Attack by 5% (stacks up to 7 times).",
     "descSimple": "tnxotb-[Skill_descSimple_121240]",
     "levelUpList": "AAAAAA==",
     "levelUpValue": "AAAAAA==",
@@ -6201,8 +6201,8 @@
   },
   {
     "sn": "121241",
-    "name": "Flurry of Grooves Etched in Ice",
-    "desc": "Spring: Each time Spring's Edge is activated, gain 1 <link=\"s|212\"><u>Spring's Vestige</u></link> stack. When Spring's Edge ends, increase <link=\"s|100\"><u>Resonance</u></link> damage by 8% for each Spring's Vestige stack (up to 40%).\nWinter: Each time Winter's Edge is activated, gain 1 <link=\"s|213\"><u>Winter's Vestige</u></link> stack. When Winter's Edge ends, increase Resonance damage by 8% for each Winter's Vestige stack (up to 40%).",
+    "name": "Etched in Ice",
+    "desc": "Spring mode: Each time Spring's Edge is activated, gain 1 <link=\"s|212\"><u>Spring's Vestige</u></link> stack. When Spring's Edge ends, increase <link=\"s|100\"><u>Resonance</u></link> damage by 8% for each Spring's Vestige stack (up to 40%).\nWinter mode: Each time Winter's Edge is activated, gain 1 <link=\"s|213\"><u>Winter's Vestige</u></link> stack. When Winter's Edge ends, increase Resonance damage by 8% for each Winter's Vestige stack (up to 40%).",
     "descSimple": "AAAAAA==",
     "levelUpList": "AAAAAA==",
     "levelUpValue": "AAAAAA==",
@@ -6211,8 +6211,8 @@
   },
   {
     "sn": "121242",
-    "name": "Glaring Phoenix",
-    "desc": "Spring: While Spring's Edge is active, decrease all foes' Defense by 40%, and decrease party's SP costs for Persona skills by 25%.\nWinter: While Winter's Edge is active, increase party's Ice damage by 30%, and decrease SP costs for Persona skills by 25%.",
+    "name": "Swan's Gaze",
+    "desc": "Spring mode: While Spring's Edge is active, decrease all foes' Defense by 40%, and decrease party's SP costs for skills by 25%.\nWinter mode: While Winter's Edge is active, increase party's Ice damage by 30%, and decrease SP costs for skills by 25%.",
     "descSimple": "AAAAAA==",
     "levelUpList": "AAAAAA==",
     "levelUpValue": "AAAAAA==",
@@ -6232,7 +6232,7 @@
   {
     "sn": "121244",
     "name": "Queen of Ice and Wind",
-    "desc": "Spring: When activating a Highlight, if Spring's Edge is active, gain 1 more <link=\"s|212\"><u>Spring's Vestige</u></link> stack. (Can gain more stacks than the maximum limit). Otherwise, increase Highlight damage by 25%.\nWinter: When activating a Highlight, if Winter's Edge is active, gain 1 more <link=\"s|213\"><u>Winter's Vestige</u></link> stack above the maximum limit. Otherwise, increase Highlight damage by 25%.",
+    "desc": "Spring mode: When activating a Highlight, if Spring's Edge is active, gain 1 more <link=\"s|212\"><u>Spring's Vestige</u></link> stack (this additional stack can exceed the maximum limit). If Spring's Edge is not active, increase Highlight damage by 35%.\nWinter mode: When activating a Highlight, if Winter's Edge is active, gain 1 more <link=\"s|213\"><u>Winter's Vestige</u></link> stack (this additional stack can exceed the maximum limit). If Winter's Edge is not active, increase Highlight damage by 35%.",
     "descSimple": "AAAAAA==",
     "levelUpList": "AAAAAA==",
     "levelUpValue": "AAAAAA==",
@@ -6241,7 +6241,7 @@
   },
   {
     "sn": "121245",
-    "name": "Season Highlight",
+    "name": "Seasonal Highlight",
     "desc": "Increase the skill levels of Éclat de Vent / Iceburst and Thief Tactics by 3.",
     "descSimple": "AAAAAA==",
     "levelUpList": "AAAAAA==",
@@ -6251,8 +6251,8 @@
   },
   {
     "sn": "121246",
-    "name": "Interpretive Dance of Love",
-    "desc": "Spring: When Spring's Edge ends, after activating <link=\"s|100\"><u>Resonance</u></link>, extend the duration of Spring's Edge by 1 turn and gain 2 <link=\"s|212\"><u>Spring's Vestige</u></link> stacks. Afterwards, can activate Resonance again. Also, when Spring's Edge ends, increase Resonance pierce rate by 4% for each Spring's Vestige stack (up to 20%).\nWinter: When Winter's Edge ends, after activating Resonance, extend the duration of Winter's Edge by 1 turn and gain 2 <link=\"s|213\"><u>Winter's Vestige</u></link> stacks. Afterwards, can activate Resonance again. Also, when Winter's Edge ends, increase Resonance pierce rate by 4% for each Winter's Vestige stack (up to 20%).",
+    "name": "Dance of Love",
+    "desc": "Spring mode: After activating the <link=\"s|100\"><u>Resonance</u></link> when Spring's Edge ends, extend the duration of Spring's Edge by 1 turn. Regain up to 2 spent <link=\"s|212\"><u>Spring's Vestige</u></link> stacks, and regain up to 2 stacks that exceeded the maximum limit. Afterwards, the Resonance can be activated again (the duration cannot be extended again). Also increase Resonance pierce rate by 4% for each Spring's Vestige stack (up to 20%).\nWinter mode: After activating the Resonance when Winter's Edge ends, extend the duration of Winter's Edge by 1 turn. Regain up to 2 spent <link=\"s|213\"><u>Winter's Vestige</u></link> stacks, and regain up to 2 stacks that exceeded the maximum limit. Afterwards, the Resonance can be activated again (the duration cannot be extended again). Also increase Resonance pierce rate by 4% for each Winter's Vestige stack (up to 20%).",
     "descSimple": "AAAAAA==",
     "levelUpList": "AAAAAA==",
     "levelUpValue": "AAAAAA==",
@@ -6262,7 +6262,7 @@
   {
     "sn": "121251",
     "name": "1 MORE",
-    "desc": "Spring: Deal Wind damage to 1 foe.\nWinter: Deal Ice damage to 1 foe.",
+    "desc": "Spring mode: Deal Wind damage to 1 foe.\nWinter mode: Deal Ice damage to 1 foe.",
     "descSimple": "AAAAAA==",
     "levelUpList": "1 More Dmg",
     "levelUpValue": "6.7%,13.3%,20.0%,26.7%,33.3%,40.0%,46.7%,51.3%,56.0%,59.3%,62.7%,66.0%,69.3%,72.7%",
@@ -6272,8 +6272,8 @@
   {
     "sn": "121252",
     "name": "Highlight",
-    "desc": "Spring: Deal Wind damage to 1 foe equal to <color=#FFFC40>^%s^</color> of Attack (3 hits). When Spring's Edge is active, gain 1 more <link=\"s|212\"><u>Spring's Vestige</u></link> stack (Can gain more stacks than the maximum limit). Otherwise, deal 1 more hit of Wind damage to selected target.\nWinter: Deal Ice damage to 1 foe equal to <color=#FFFC40>^%s^</color> of Attack, with a <color=#FFFC40>^%s^</color> chance to inflict <link=\"s|214\"><u>Icebound</u></link>. When Winter's Edge is active, increase chance to inflict Icebound by <color=#FFFC40>^%s^</color>. Otherwise, increase Highlight damage by 20%.",
-    "descSimple": "Wind dmg to 1 foe (%s Atk, 3 hits). When Spring's Edge is active, gain 1 more Spring's Vestige. Otherwise, deal Wind dmg 1 more time to target.",
+    "desc": "Spring mode: Deal Wind damage to 1 foe equal to <color=#FFFC40>^%s^</color> of Attack (3 hits). When Spring's Edge is active, gain 1 more <link=\"s|212\"><u>Spring's Vestige</u></link> stack (this additional stack can exceed the maximum limit). If Spring's Edge is not active, deal 1 more hit of Wind damage to selected target.\nWinter mode: Deal Ice damage to 1 foe equal to <color=#FFFC40>^%s^</color> of Attack, with a <color=#FFFC40>^%s^</color> chance to inflict <link=\"s|214\"><u>Icebound</u></link>. When Winter's Edge is active, increase chance to inflict Icebound by <color=#FFFC40>^%s^</color>. If Winter's Edge is not active, increase Highlight damage by 20%.",
+    "descSimple": "Wind dmg to 1 foe (%s Atk, 3 hits). When Spring's Edge is active, gain 1 more Spring's Vestige (this stack can exceed max limit). If Spring's Edge is not active, deal Wind dmg 1 more time to target.",
     "levelUpList": "Highlight: Skill Multiplier,Highlight: Skill Multiplier,Highlight: Icebound Chance,Highlight: Icebound Chance Increase",
     "levelUpValue": "AAAAAA==",
     "contentBG": "AAAAAA==",
@@ -6292,8 +6292,8 @@
   {
     "sn": "121254",
     "name": "Highlight",
-    "desc": "Deal Ice damage to 1 foe equal to <color=#FFFC40>^%s^</color> of Attack, with a <color=#FFFC40>^%s^</color> chance to inflict <link=\"s|214\"><u>Icebound</u></link>. When Winter's Edge is active, increase chance to inflict Icebound by <color=#FFFC40>^%s^</color>. Otherwise, increase Highlight damage by 20%.",
-    "descSimple": "Ice dmg to 1 foe (%s Atk), %s chance to inflict Icebound. When Winter's Edge is active, increase chance to inflict Icebound %s. Otherwise, increase Highlight dmg 20%.",
+    "desc": "Deal Ice damage to 1 foe equal to <color=#FFFC40>^%s^</color> of Attack, with a <color=#FFFC40>^%s^</color> chance to inflict <link=\"s|214\"><u>Icebound</u></link>. When Winter's Edge is active, increase chance to inflict Icebound by <color=#FFFC40>^%s^</color>. If Winter's Edge is not active, increase Highlight damage by 20%.",
+    "descSimple": "Ice dmg to 1 foe (%s Atk), %s chance to inflict Icebound. When Winter's Edge is active, increase chance to inflict Icebound %s. If Winter's Edge is not active, increase Highlight dmg 20%.",
     "levelUpList": "Highlight: Winter Multiplier,Highlight: Winter Icebound Chance,Highlight: Winter Icebound Chance Increase",
     "levelUpValue": "AAAAAA==",
     "contentBG": "AAAAAA==",
@@ -6402,8 +6402,8 @@
   {
     "sn": "146111",
     "name": "Mask of Mischief & Innocence",
-    "desc": "Deal Fire damage to 1 foe equal to <color=#FFFC40>^%s^</color> of Attack and Ice damage equal to <color=#FFFC40>^%s^</color> of Attack (1 hit each; increase this effect by 1% for every 1 point of <link=\"s|271\"><u>Desire Level</u></link>). Also, increase party's Attack by <color=#FFFC40>^%s^</color> × Desire Level points / 100 for 3 turns.\nGain <link=\"s|273\"><u>Facade</u></link> of Mischief & Innocence.",
-    "descSimple": "Fire dmg to 1 foe (%s Atk) and Ice dmg (%s Atk), 1 hit each (increase this skill's effect 1% per 1 Desire Level). Increase party's Atk %s × Desire Level / 100 (3 turns).\nGain Facade of Mischief & Innocence.",
+    "desc": "Deal Fire damage to 1 foe equal to <color=#FFFC40>^%s^</color> of Attack and Ice damage equal to <color=#FFFC40>^%s^</color> of Attack (1 hit each; increase this effect by 1% for every 1 point of <link=\"s|271\"><u>Desire Level</u></link>). Also, increase party's Attack by <color=#FFFC40>^%s^</color> for every 100 points of Desire Level for 3 turns.\nGain <link=\"s|273\"><u>Facade</u></link> of Mischief & Innocence.",
+    "descSimple": "Fire dmg to 1 foe (%s Atk) and Ice dmg (%s Atk), 1 hit each (increase this skill's effect 1% per 1 Desire Level). Increase party's Atk %s per 100 Desire Level (3 turns).\nGain Facade of Mischief & Innocence.",
     "levelUpList": "Fire Dmg Multiplier,Ice Dmg Multiplier,Atk Increase",
     "levelUpValue": "AAAAAA==",
     "contentBG": "Combine the powers of Jack-o'-Lantern and Jack Frost to deal Fire and Ice damage to an enemy.",
@@ -6412,8 +6412,8 @@
   {
     "sn": "146211",
     "name": "Mask of Service & Admonition",
-    "desc": "Deal Electric damage to 1 foe equal to <color=#FFFC40>^%s^</color> of Attack and Wind damage equal to <color=#FFFC40>^%s^</color> of Attack (1 hit each; increase this effect by 1% for every 1 point of <link=\"s|271\"><u>Desire Level</u></link>). Also, decrease party's damage taken by <color=#FFFC40>^%s^</color>, plus <color=#FFFC40>^%s^</color> × Desire Level points / 100 more for 3 turns. Also, restore party's HP by <color=#FFFC40>^%s^</color> of Justine & Caroline's Attack + <color=#FFFC40>^%s^</color>.\nGain <link=\"s|273\"><u>Facade</u></link> of Service & Admonition.",
-    "descSimple": "Elec dmg to 1 foe (%s Atk) and Wind dmg (%s Atk), 1 hit each (increase this effect 1% per 1 Desire Level). Decrease party's dmg taken %s, plus %s × Desire Level / 100 more (3 turns). Also, restore party's HP (%s Atk + %s).\nGain Facade of Service & Admonition.",
+    "desc": "Deal Electric damage to 1 foe equal to <color=#FFFC40>^%s^</color> of Attack and Wind damage equal to <color=#FFFC40>^%s^</color> of Attack (1 hit each; increase this effect by 1% for every 1 point of <link=\"s|271\"><u>Desire Level</u></link>). Also, decrease party's damage taken by <color=#FFFC40>^%s^</color> and <color=#FFFC40>^%s^</color> more for every 100 points of Desire Level for 3 turns. Also, restore party's HP by <color=#FFFC40>^%s^</color> of Justine & Caroline's Attack + <color=#FFFC40>^%s^</color>.\nGain <link=\"s|273\"><u>Facade</u></link> of Service & Admonition.",
+    "descSimple": "Elec dmg to 1 foe (%s Atk) and Wind dmg (%s Atk), 1 hit each (increase this effect 1% per 1 Desire Level). Decrease party's dmg taken %s + %s per 100 Desire Level (3 turns). Also, restore party's HP (%s Atk + %s).\nGain Facade of Service & Admonition.",
     "levelUpList": "Elec Dmg Multiplier,Wind Dmg Multiplier,Dmg Taken Decrease,Extra Dmg Taken Decrease,Healing Multiplier,Base Healing",
     "levelUpValue": "AAAAAA==",
     "contentBG": "Combine the powers of Agathion and Sudama to deal Electric and Wind damage to an enemy.",
@@ -6422,8 +6422,8 @@
   {
     "sn": "146311",
     "name": "Mask of Absurdity & Nonsense",
-    "desc": "Deal Psychokinesis damage to 1 foe equal to <color=#FFFC40>^%s^</color> of Attack and Nuclear damage equal to <color=#FFFC40>^%s^</color> of Attack (1 hit each; increase this effect by 1% for every 1 point of <link=\"s|271\"><u>Desire Level</u></link>). Also, increase pierce rate for Justine & Caroline and the Sweeper or Assassin ally with the highest Attack by <color=#FFFC40>^%s^</color>, plus <color=#FFFC40>^%s^</color> x Desire Level points / 100 more for 3 turns.\nGain <link=\"s|273\"><u>Facade</u></link> of Absurdity & Nonsense.",
-    "descSimple": "Psy dmg to 1 foe (%s Atk) and Nuke dmg (%s Atk), 1 hit each (increase this effect 1% per 1 Desire Level). For Justine & Caroline and Sweeper or Assassin ally with highest Atk, increase pierce rate %s, plus %s × Desire Level / 100 more (3 turns).\nGain Facade of Absurdity & Nonsense.",
+    "desc": "Deal Psychokinesis damage to 1 foe equal to <color=#FFFC40>^%s^</color> of Attack and Nuclear damage equal to <color=#FFFC40>^%s^</color> of Attack (1 hit each; increase this effect by 1% for every 1 point of <link=\"s|271\"><u>Desire Level</u></link>). Also, increase pierce rate for Justine & Caroline and the Sweeper or Assassin ally with the highest Attack by <color=#FFFC40>^%s^</color> and <color=#FFFC40>^%s^</color> more for every 100 points of Desire Level for 3 turns.\nGain <link=\"s|273\"><u>Facade</u></link> of Absurdity & Nonsense.",
+    "descSimple": "Psy dmg to 1 foe (%s Atk) and Nuke dmg (%s Atk), 1 hit each (increase this effect 1% per 1 Desire Level). For Justine & Caroline and Sweeper or Assassin ally with highest Atk, increase pierce rate %s + %s per 100 Desire Level (3 turns).\nGain Facade of Absurdity & Nonsense.",
     "levelUpList": "Psy Dmg Multiplier,Nuke Dmg Multiplier,Pierce Rate Increase,Extra Pierce Rate Increase",
     "levelUpValue": "AAAAAA==",
     "contentBG": "Combine the powers of Mandrake and Onmoraki to deal Psychokinesis and Nuclear damage to an enemy.",
@@ -6432,9 +6432,9 @@
   {
     "sn": "146411",
     "name": "Mask of Luck & Loss",
-    "desc": "Deal Bless damage to 1 foe equal to <color=#FFFC40>^%s^</color> of Attack and Curse damage equal to <color=#FFFC40>^%s^</color> of Attack (1 hit each; increase this effect by 1% for every point of <link=\"s|271\"><u>Desire Level</u></link>).\nAlso, increase Justine & Caroline's Attack by <color=#FFFC40>^%s^</color>, plus <color=#FFFC40>^%s^</color> × Desire Level points / 100 more; damage dealt by <color=#FFFC40>^%s^</color>, <color=#FFFC40>^%s^</color> × Desire Level points / 100 more; and critical rate by <color=#FFFC40>^%s^</color> <color=#FFFC40>^%s^</color> × Desire Level points / 100 more for 3 turns.\nGain <link=\"s|273\"><u>Facade</u></link> of Luck & Loss.",
-    "descSimple": "Bless dmg to 1 foe (%s Atk) and Curse dmg (%s Atk), 1 hit each (increase this skill's effect 1% per 1 Desire Level).\nIncrease Justine & Caroline's Atk %s, plus %s × Desire Level / 100 more; dmg dealt %s, plus %s × Desire Level / 100 more; and crit rate %s, plus %s × Desire Level / 100 more (3 turns).\nGain Facade of Luck & Loss.",
-    "levelUpList": "Bless Dmg Multiplier,Curse Dmg Multiplier,Atk Increase,Extra Atk Increase,Dmg Increase,Extra Dmg Increase,Critical Rate Increase,Extra Critical Rate Increase",
+    "desc": "Deal Bless damage to 1 foe equal to <color=#FFFC40>^%s^</color> of Attack and Curse damage equal to <color=#FFFC40>^%s^</color> of Attack (1 hit each; increase this effect by 1% for every point of <link=\"s|271\"><u>Desire Level</u></link>).\nAlso, increase Justine & Caroline's Attack by <color=#FFFC40>^%s^</color> + <color=#FFFC40>^%s^</color> for every 100 points of Desire Level, damage dealt by <color=#FFFC40>^%s^</color> + <color=#FFFC40>^%s^</color> for every 100 points of Desire Level, and critical rate by <color=#FFFC40>^%s^</color> + <color=#FFFC40>^%s^</color> for every 100 points of Desire Level for 3 turns.\nGain <link=\"s|273\"><u>Facade</u></link> of Luck & Loss.",
+    "descSimple": "Bless dmg to 1 foe (%s Atk) and Curse dmg (%s Atk), 1 hit each (increase this skill's effect 1% per 1 Desire Level).\nIncrease Justine & Caroline's Atk %s + %s per 100 Desire Level, dmg dealt %s + %s per 100 Desire Level, and crit rate %s + %s per 100 Desire Level (3 turns).\nGain Facade of Luck & Loss.",
+    "levelUpList": "Bless Dmg Multiplier,Curse Dmg Multiplier,Atk Increase,Extra Atk Increase,Dmg Increase,Extra Dmg Increase,Crit Rate Increase,Extra Crit Rate Increase",
     "levelUpValue": "AAAAAA==",
     "contentBG": "Combine the powers of Shiisaa and Bugs to deal Bless and Curse damage to an enemy.",
     "skillTag": "Single-Target"
@@ -6442,8 +6442,8 @@
   {
     "sn": "146511",
     "name": "Two Masks as One",
-    "desc": "Usable when any 2 types of <link=\"s|273\"><u>Facade</u></link> have been gained. Deal Almighty damage to 1 foe equal to <color=#FFFC40>^%s^</color> of Attack (increase this effect by 1% for every 1 point of <link=\"s|271\"><u>Desire Level</u></link>). Also, spend all Facades to activate the following effects based on their combination.\nFacade of Mischief & Innocence + Facade of Service & Admonition: Restore party's HP equal to <color=#FFFC40>^%s^</color> of Attack + <color=#FFFC40>^%s^</color>. Also, increase party's damage dealt by <color=#FFFC40>^%s^</color> x Desire Level points / 100 for 2 turns.\nFacade of Mischief & Innocence + Facade of Absurdity & Nonsense: Grant other allies <color=#FFFC40>^%s^</color> of <link=\"s|272\"><u>Skill Amplification</u></link> for 2 turns. Also, increase party's critical damage by <color=#FFFC40>^%s^</color> x Desire Level points / 100.\nSkill Amplification: Increase the values of skills and Thief Tactics that are increased when leveled up. This effect is calculated separately from other effects.\nFacade of Mischief & Innocence + Facade of Luck & Loss: Change this skill's target to all foes.\nFacade of Service & Admonition + Facade of Absurdity & Nonsense: Grant all allies a shield equal to <color=#FFFC40>^%s^</color> of Justine & Caroline's Attack + <color=#FFFC40>^%s^</color> and 1 Down Point for 2 turns. Also, increase party's Defense by <color=#FFFC40>^%s^</color> x Desire Level points / 100.\nFacade of Service & Admonition + Facade of Luck & Loss: Inflict <link=\"s|104\"><u>Shock</u></link>, <link=\"s|105\"><u>Windswept</u></link> and 2 <link=\"s|112\"><u>Curse</u></link> stacks on the main target, and gain 2 <link=\"s|111\"><u>Blessing</u></link> stacks. These effects last for 2 turns. Also, decrease all foes' Defense by <color=#FFFC40>^%s^</color> plus <color=#FFFC40>^%s^</color> x Desire Level points / 100 for 2 turns.\nFacade of Absurdity & Nonsense + Facade of Luck & Loss: This skill deals 1 more hit of Almighty damage. Also, gain Rebel Surveillance for 2 turns.\nRebel Surveillance: When using a skill, temporarily gain <color=#FFFC40>^%s^</color> of <link=\"s|274\"><u>Effects</u></link> stats from the Sweeper or Assassin ally with the highest Attack (excluding Justine & Caroline).",
-    "descSimple": "Usable when any 2 Facade stacks have been gained. Almighty dmg to 1 foe (%s Atk; increase this effect 1% per 1 Desire Level). Spend all Facade stacks to activate the following effects based on their combination.\nFacade of Mischief & Innocence + Facade of Service & Admonition: Restore party's HP (%s Atk + %s). Increase party's dmg dealt %s x Desire Level / 100 (2 turns).\nFacade of Mischief & Innocence + Facade of Absurdity & Nonsense: Grant other allies Skill Amplification (%s, 2 turns). Increase other allies' crit dmg %s x Desire Level / 100 (2 turns).\nSkill Amplification: Increase effects of skills and Thief Tactics that are increased when leveled up. This effect is calculated separately from other effects.\nFacade of Mischief & Innocence + Facade of Luck & Loss: Change this skill's target to all foes.\nFacade of Service & Admonition + Facade of Absurdity & Nonsense: Grant all allies shield (%s of Justine & Caroline's Atk + %s) and 1 Down Point. Also, increase party's Def %s x Desire Level / 100 (2 turns).\nFacade of Service & Admonition + Facade of Luck & Loss: Inflict Shock, Windswept and 2 Curse on main target, and gain 2 Blessing (2 turns). Also decrease all foes' Def %s + %s x Desire Level / 100 (2 turns).\nFacade of Absurdity & Nonsense + Facade of Luck & Loss: Deal 1 more hit of Almighty dmg from this skill. Gain Rebel Surveillance (2 turns).\nRebel Surveillance: When using a skill, grant %s of Effects stats from Sweeper or Assassin ally with highest Atk (excluding Justine & Caroline).",
+    "desc": "Usable when any 2 types of <link=\"s|273\"><u>Facade</u></link> have been gained. Deal Almighty damage to 1 foe equal to <color=#FFFC40>^%s^</color> of Attack (increase this effect by 1% for every 1 point of <link=\"s|271\"><u>Desire Level</u></link>). Also, spend all Facades to activate the following effects based on their combination.\nFacade of Mischief & Innocence + Facade of Service & Admonition: Restore party's HP equal to <color=#FFFC40>^%s^</color> of Attack + <color=#FFFC40>^%s^</color>. Also, increase party's damage dealt by <color=#FFFC40>^%s^</color> for every 100 points of Desire Level for 2 turns.\nFacade of Mischief & Innocence + Facade of Absurdity & Nonsense: Grant other allies <color=#FFFC40>^%s^</color> of <link=\"s|272\"><u>Skill Amplification</u></link> for 2 turns. Also, increase party's critical damage by <color=#FFFC40>^%s^</color> for every 100 points of Desire Level.\nSkill Amplification: Increase the values of skills and Thief Tactics that are increased when leveled up. This effect is calculated separately from other effects.\nFacade of Mischief & Innocence + Facade of Luck & Loss: Change this skill's target to all foes.\nFacade of Service & Admonition + Facade of Absurdity & Nonsense: Grant all allies a shield equal to <color=#FFFC40>^%s^</color> of Justine & Caroline's Attack + <color=#FFFC40>^%s^</color> and 1 Down Point for 2 turns. Also, increase party's Defense by <color=#FFFC40>^%s^</color> for every 100 points of Desire Level.\nFacade of Service & Admonition + Facade of Luck & Loss: Inflict <link=\"s|104\"><u>Shock</u></link>, <link=\"s|105\"><u>Windswept</u></link> and 2 <link=\"s|112\"><u>Curse</u></link> stacks on the main target, and gain 2 <link=\"s|111\"><u>Blessing</u></link> stacks. These effects last for 2 turns. Also, decrease all foes' Defense by <color=#FFFC40>^%s^</color> + <color=#FFFC40>^%s^</color> for every 100 point of Desire Level for 2 turns.\nFacade of Absurdity & Nonsense + Facade of Luck & Loss: This skill deals 1 more hit of Almighty damage. Also, gain Rebel Surveillance for 2 turns.\nRebel Surveillance: When using a skill, temporarily gain <color=#FFFC40>^%s^</color> of <link=\"s|274\"><u>Effects</u></link> stats from the Sweeper or Assassin ally with the highest Attack (excluding Justine & Caroline).",
+    "descSimple": "Usable when any 2 Facades have been gained. Almighty dmg to 1 foe (%s Atk; increase this effect 1% per 1 Desire Level). Spend all Facades to activate the following effects based on their combination.\nFacade of Mischief & Innocence + Facade of Service & Admonition: Restore party's HP (%s Atk + %s). Increase party's dmg dealt %s per 100 Desire Level (2 turns).\nFacade of Mischief & Innocence + Facade of Absurdity & Nonsense: Grant other allies Skill Amplification (%s, 2 turns). Increase other allies' crit dmg %s per 100 Desire Level (2 turns).\nSkill Amplification: Increase effects of skills and Thief Tactics that are increased when leveled up. This effect is calculated separately from other effects.\nFacade of Mischief & Innocence + Facade of Luck & Loss: Change this skill's target to all foes.\nFacade of Service & Admonition + Facade of Absurdity & Nonsense: Grant all allies shield (%s of Justine & Caroline's Atk + %s) and 1 Down Point. Also, increase party's Def %s per 100 Desire Level (2 turns).\nFacade of Service & Admonition + Facade of Luck & Loss: Inflict Shock, Windswept and 2 Curse on main target, and gain 2 Blessing (2 turns). Also decrease all foes' Def %s + %s per 100 Desire Level (2 turns).\nFacade of Absurdity & Nonsense + Facade of Luck & Loss: Deal 1 more hit of Almighty dmg from this skill. Gain Rebel Surveillance (2 turns).\nRebel Surveillance: When using a skill, grant %s of Effects stats from Sweeper or Assassin ally with highest Atk (excluding Justine & Caroline).",
     "levelUpList": "Almighty Dmg Multiplier,Healing Multiplier,Base Healing,Dmg Increase,Skill Amplification,Crit Dmg Increase,Shield Multiplier,Base Shield,Def Increase,Def Decrease,Extra Def Decrease,Effect Enhancement +",
     "levelUpValue": "AAAAAA==",
     "contentBG": "With the power of the Velvet Room's attendants, harness a variety of Facades to grant various effects.",
@@ -6452,7 +6452,7 @@
   {
     "sn": "146131",
     "name": "Overseer of Rehabilitation",
-    "desc": "At the start of battle, gain more <link=\"s|271\"><u>Desire Level</u></link> stacks based on Justine & Caroline's base stats.\nFor every 100 points of Attack, gain 1 Desire Level (up to <color=#FFFC40>^%s^</color>).\nFor every 2% of Damage Mult. +, gain 1 Desire Level (up to <color=#FFFC40>^%s^</color>).\nFor every 6% of Critical Multiplier above 100%, gain 1 Desire Level (up to <color=#FFFC40>^%s^</color>).",
+    "desc": "At the start of battle, increase <link=\"s|271\"><u>Desire Level</u></link> based on Justine & Caroline's base stats.\nFor every 100 points of Attack, increase Desire Level by 1 (up to <color=#FFFC40>^%s^</color>).\nFor every 2% of Damage Mult. +, increase Desire Level by 1 (up to <color=#FFFC40>^%s^</color>).\nFor every 6% of Critical Multiplier above 100%, increase Desire Level by 1 (up to <color=#FFFC40>^%s^</color>).",
     "descSimple": "AAAAAA==",
     "levelUpList": "AAAAAA==",
     "levelUpValue": "AAAAAA==",
@@ -6532,7 +6532,7 @@
   {
     "sn": "146146",
     "name": "Power to Resist Ruin",
-    "desc": "When this Awareness is unlocked, during battle, increase Wonder's skill and Thief Tactics levels by 1 (takes effect even when Justine & Caroline are not in battle). Also, increase <link=\"s|271\"><u>Desire Level</u></link> by 20%.\nAt the start of battle, gain True Desire. Afterwards, regain True Desire every 8 turns if it has been spent.\nDuring Justine & Caroline's turn, spend 1 True Desire stack to enhance the next activated Two Masks as One.\nEnhanced effect: Activate all <link=\"s|273\"><u>Facade</u></link> effects for Two Masks as One. Also, deal bonus damage to the main target equal to 40% of Attack (8 hits. Increase this skill's effect by 1% for every 1 point of Desire Level. These bonus attacks deal 1 hit of Fire, Ice, Electric, Wind, Psychokinesis, Nuclear, Bless, and Curse damage each.)",
+    "desc": "When this Awareness is unlocked, during battle, increase Wonder's skill and Thief Tactics levels by 1 (takes effect even when Justine & Caroline are not in battle). Also, increase <link=\"s|271\"><u>Desire Level</u></link> by 20%.\nAt the start of battle, gain True Desire. Afterwards, regain True Desire every 8 turns if it has been spent.\nDuring Justine & Caroline's turn, they can spend 1 True Desire stack to enhance the next activated Two Masks as One.\nEnhanced effect: Activate all <link=\"s|273\"><u>Facade</u></link> effects for Two Masks as One. Also, deal bonus damage to the main target equal to 40% of Attack (8 hits. Increase this skill's effect by 1% for every 1 point of Desire Level. These bonus hits deal 1 hit of Fire, Ice, Electric, Wind, Psychokinesis, Nuclear, Bless, and Curse damage each.)",
     "descSimple": "AAAAAA==",
     "levelUpList": "AAAAAA==",
     "levelUpValue": "AAAAAA==",
@@ -6562,7 +6562,7 @@
   {
     "sn": "146153",
     "name": "Highlight",
-    "desc": "Restore party's HP by <color=#FFFC40>^%s^</color> of Justine & Caroline's Attack + <color=#FFFC40>^%s^</color>.\nAlso increase the party's max HP by <color=#FFFC40>^%s^</color> for 2 turns.",
+    "desc": "Restore party's HP by <color=#FFFC40>^%s^</color> of Justine & Caroline's Attack + <color=#FFFC40>^%s^</color>.\nAlso, increase the party's max HP by <color=#FFFC40>^%s^</color> for 2 turns.",
     "descSimple": "Restore party's HP (%s Atk + %s).\nAlso increase party's max HP %s (2 turns).",
     "levelUpList": "AAAAAA==",
     "levelUpValue": "AAAAAA==",
@@ -6572,8 +6572,8 @@
   {
     "sn": "146154",
     "name": "Highlight",
-    "desc": "Deal Psychokinesis damage to 1 foe equal to <color=#FFFC40>^%s^</color> of Attack, and deal Nuclear damage equal to <color=#FFFC40>^%s^</color> of Attack (1 hit each).\nIncrease Attack by <color=#FFFC40>^%s^</color> for Justine & Caroline and the ally with the highest Attack (prioritizing Sweepers and Assassins).",
-    "descSimple": "Psy dmg to 1 foe (%s Atk), and Nuke dmg (%s Atk), 1 hit each.\nIncrease Atk %s for Justine & Caroline and ally with highest Atk (prioritizing Assassins and Sweepers, 2 turns).",
+    "desc": "Deal Psychokinesis damage to 1 foe equal to <color=#FFFC40>^%s^</color> of Attack, and Nuclear damage equal to <color=#FFFC40>^%s^</color> of Attack (1 hit each, can inflict critical damage).\nAlso, increase Attack by <color=#FFFC40>^%s^</color> for Justine & Caroline and the ally with the highest Attack (prioritizing Sweepers and Assassins) for 2 turns.",
+    "descSimple": "Psy dmg to 1 foe (%s Atk), and Nuke dmg (%s Atk), 1 hit each, can crit.\nIncrease Atk %s for Justine & Caroline and ally with highest Atk (prioritizing Assassins and Sweepers, 2 turns).",
     "levelUpList": "AAAAAA==",
     "levelUpValue": "AAAAAA==",
     "contentBG": "AAAAAA==",
@@ -6582,8 +6582,8 @@
   {
     "sn": "146155",
     "name": "Highlight",
-    "desc": "Deal Bless damage to all foes equal to <color=#FFFC40>^%s^</color> of Attack, and Curse damage equal to <color=#FFFC40>^%s^</color> of Attack (1 hit each).\nFor 2 turns, increase Justine & Caroline's Attack by <color=#FFFC40>^%s^</color> and critical damage by <color=#FFFC40>^%s^</color>.",
-    "descSimple": "Bless dmg to all foes (%s Atk), and Curse dmg (%s Atk), 1 hit each.\nIncrease Justine & Caroline's Atk %s and crit dmg %s.",
+    "desc": "Deal Bless damage to all foes equal to <color=#FFFC40>^%s^</color> of Attack, and Curse damage equal to <color=#FFFC40>^%s^</color> of Attack (1 hit each, can inflict critical damage).\nAlso, increase Justine & Caroline's Attack by <color=#FFFC40>^%s^</color> and critical damage by <color=#FFFC40>^%s^</color> for 2 turns.",
+    "descSimple": "Bless dmg to all foes (%s Atk), and Curse dmg (%s Atk), 1 hit each, can crit.\nIncrease Justine & Caroline's Atk %s and crit dmg %s (2 turns).",
     "levelUpList": "AAAAAA==",
     "levelUpValue": "AAAAAA==",
     "contentBG": "AAAAAA==",
@@ -6602,9 +6602,9 @@
   {
     "sn": "146156",
     "name": "Highlight",
-    "desc": "When activating a Highlight, choose 1 of the 2 selected Persona sets and activate its Highlight below (cooldown times for each Highlight are calculated independently).\nMask of Mischief & Innocence: Increase the party's Attack by <color=#FFFC40>^%s^</color> and damage by <color=#FFFC40>^%s^</color> for 2 turns.\nMask of Service & Admonition: Restore the party's HP by <color=#FFFC40>^%s^</color> of Justine & Caroline's Attack + <color=#FFFC40>^%s^</color>.\nIncrease the party's max HP by <color=#FFFC40>^%s^</color> for 2 turns.\nMask of Absurdity & Nonsense: Deal Psychokinesis damage to 1 foe equal to <color=#FFFC40>^%s^</color> of Attack, and Nuclear damage equal to <color=#FFFC40>^%s^</color> of Attack (1 hit each).\nIncrease Attack by <color=#FFFC40>^%s^</color> for Justine & Caroline and the ally with the highest Attack (prioritizing Assassins or Sweepers).\nMask of Luck & Loss: Deal Bless damage to all foes equal to <color=#FFFC40>^%s^</color> of Attack, and deal Curse damage equal to <color=#FFFC40>^%s^</color> of Attack (1 hit each).\nFor 2 turns, increase Justine & Caroline's Attack by <color=#FFFC40>^%s^</color> and critical damage by <color=#FFFC40>^%s^</color>.",
-    "descSimple": "When activating Highlight, choose 1 of the 2 selected Persona sets and activate its Highlight below (cooldown times for each Highlight are calculated independently).\nMask of Mischief & Innocence: Increase party's Atk %s and dmg %s (2 turns).\nMask of Service & Admonition: Restore party's HP by %s of Justine & Caroline's Atk + %s. Increase party's max HP %s (2 turns).\nMask of Absurdity & Nonsense: Psy dmg to 1 foe (%s Atk), and Nuke dmg (%s Atk), 1 hit each. Increase Atk %s for Justine & Caroline and ally with highest Atk (prioritizing Assassin/Sweeper).\nMask of Luck & Loss: Bless dmg to all foes (%s Atk), and Curse dmg (%s Atk), 1 hit each. Increase Justine & Caroline's Atk %s and crit dmg %s (2 turns).",
-    "levelUpList": "Atk Increase,Dmg Increase,Healing Multiplier,Base Healing,Max HP Increase,Psy Dmg Multiplier,Nuke Dmg Multiplier,Atk Increase,Bless Dmg Multiplier,Curse Dmg Multiplier,Atk Increase,Crit Dmg Increase",
+    "desc": "When activating a Highlight, choose 1 of the 2 selected Persona sets and activate its Highlight below (cooldown times for each Highlight are calculated independently).\nMask of Mischief & Innocence: Increase the party's Attack by <color=#FFFC40>^%s^</color> and damage by <color=#FFFC40>^%s^</color> for 2 turns.\nMask of Service & Admonition: Restore the party's HP by <color=#FFFC40>^%s^</color> of Justine & Caroline's Attack + <color=#FFFC40>^%s^</color>.\nIncrease the party's max HP by <color=#FFFC40>^%s^</color> for 2 turns.\nMask of Absurdity & Nonsense: Deal Psychokinesis damage to 1 foe equal to <color=#FFFC40>^%s^</color> of Attack, and Nuclear damage equal to <color=#FFFC40>^%s^</color> of Attack (1 hit each, can inflict critical damage).\nIncrease Attack by <color=#FFFC40>^%s^</color> for Justine & Caroline and the ally with the highest Attack (prioritizing Assassins or Sweepers).\nMask of Luck & Loss: Deal Bless damage to all foes equal to <color=#FFFC40>^%s^</color> of Attack, and deal Curse damage equal to <color=#FFFC40>^%s^</color> of Attack (1 hit each, can inflict critical damage).\nFor 2 turns, increase Justine & Caroline's Attack by <color=#FFFC40>^%s^</color> and critical damage by <color=#FFFC40>^%s^</color>.",
+    "descSimple": "When activating Highlight, choose 1 of the 2 selected Persona sets and activate its Highlight below (cooldown times for each Highlight are calculated independently).\nMask of Mischief & Innocence: Increase party's Atk %s and dmg %s (2 turns).\nMask of Service & Admonition: Restore party's HP by %s of Justine & Caroline's Atk + %s. Increase party's max HP %s (2 turns).\nMask of Absurdity & Nonsense: Psy dmg to 1 foe (%s Atk), and Nuke dmg (%s Atk), 1 hit each, can crit. Increase Atk %s for Justine & Caroline and ally with highest Atk (prioritizing Assassin/Sweeper).\nMask of Luck & Loss: Bless dmg to all foes (%s Atk), and Curse dmg (%s Atk), 1 hit each, can crit. Increase Justine & Caroline's Atk %s and crit dmg %s (2 turns).",
+    "levelUpList": "Highlight Atk Increase,Highlight Dmg Increase,Highlight Healing Multiplier,Highlight Base Healing,Highlight Max HP Increase,Highlight Psy Dmg Multiplier,Highlight Nuke Dmg Multiplier,Highlight Atk Increase,Highlight Bless Dmg Multiplier,Highlight Curse Dmg Multiplier,Highlight Atk Increase,Highlight Crit Dmg Increase",
     "levelUpValue": "AAAAAA==",
     "contentBG": "AAAAAA==",
     "skillTag": "AAAAAA=="
@@ -6632,8 +6632,8 @@
   {
     "sn": "146512",
     "name": "Two Masks as One",
-    "desc": "Can be used when <link=\"s|273\"><u>Facade</u></link> of Mischief & Innocence and Facade of Service & Admonition are both held. Deal Almighty damage to 1 foe equal to <color=#FFFC40>^%s^</color> of Attack (increase this effect by 1% for every 1 point of <link=\"s|271\"><u>Desire Level</u></link>).\nSpend all Facade stacks to restore party's HP by <color=#FFFC40>^%s^</color> of Justine & Caroline's Attack + <color=#FFFC40>^%s^</color>. Also increase the party's damage dealt by <color=#FFFC40>^%s^</color> × Desire Level points / 100 for 2 turns.",
-    "descSimple": "Can be used when Facade of Mischief & Innocence and Facade of Service & Admonition are both held. Almighty dmg to 1 foe (%s Atk; increase this effect 1% per 1 Desire Level).\nSpend all Facade stacks to restore party's HP (%s of Justine & Caroline's Atk + %s). Also increase party's dmg %s × Desire Level / 100 (2 turns).",
+    "desc": "Can be used when <link=\"s|273\"><u>Facade</u></link> of Mischief & Innocence and Facade of Service & Admonition are both held. Deal Almighty damage to 1 foe equal to <color=#FFFC40>^%s^</color> of Attack (increase this effect by 1% for every 1 point of <link=\"s|271\"><u>Desire Level</u></link>).\nSpend all Facade stacks to restore party's HP by <color=#FFFC40>^%s^</color> of Justine & Caroline's Attack + <color=#FFFC40>^%s^</color>. Also increase the party's damage dealt by <color=#FFFC40>^%s^</color> for every 100 points of Desire Level for 2 turns.",
+    "descSimple": "Can be used when Facade of Mischief & Innocence and Facade of Service & Admonition are both held. Almighty dmg to 1 foe (%s Atk; increase this effect 1% per 1 Desire Level).\nSpend all Facade stacks to restore party's HP (%s of Justine & Caroline's Atk + %s). Also increase party's dmg %s per 100 Desire Level (2 turns).",
     "levelUpList": "AAAAAA==",
     "levelUpValue": "AAAAAA==",
     "contentBG": "AAAAAA==",
@@ -6642,8 +6642,8 @@
   {
     "sn": "146513",
     "name": "Two Masks as One",
-    "desc": "Can be used when <link=\"s|273\"><u>Facade</u></link> of Mischief & Innocence and Facade of Absurdity & Nonsense are both held. Deal Almighty damage to 1 foe equal to <color=#FFFC40>^%s^</color> of Attack (increase this skill effect by 1% for every 1 point of <link=\"s|271\"><u>Desire Level</u></link>).\nSpend all Facade stacks to grant Skill Amplification equal to <color=#FFFC40>^%s^</color> <link=\"s|272\"><u>Skill Amplification</u></link> stacks to other allies for 2 turns. Also, increase party's critical damage by <color=#FFFC40>^%s^</color> × Desire Level points / 100.\nSkill Amplification: Increase the values of skills and Thief Tactics that are increased when leveled up. This effect is calculated independently of other effects.",
-    "descSimple": "Can be used when Facade of Mischief & Innocence and Facade of Absurdity & Nonsense are both held. Almighty dmg to 1 foe (%s Atk; increase this effect 1% per 1 Desire Level).\nSpend all Facade stacks to grant Skill Amplification (%s) to all other allies. Also increase party's crit dmg %s × Desire Level / 100 (2 turns). \nSkill Amplification: Increase values of skills and Thief Tactics that are increased when leveled up. This effect is calculated separately from other effects.",
+    "desc": "Can be used when <link=\"s|273\"><u>Facade</u></link> of Mischief & Innocence and Facade of Absurdity & Nonsense are both held. Deal Almighty damage to 1 foe equal to <color=#FFFC40>^%s^</color> of Attack (increase this skill effect by 1% for every 1 point of <link=\"s|271\"><u>Desire Level</u></link>).\nSpend all Facade stacks to grant Skill Amplification equal to <color=#FFFC40>^%s^</color> <link=\"s|272\"><u>Skill Amplification</u></link> stacks to other allies for 2 turns. Also, increase party's critical damage by <color=#FFFC40>^%s^</color> for every 100 points of Desire Level.\nSkill Amplification: Increase the values of skills and Thief Tactics that are increased when leveled up. This effect is calculated independently of other effects.",
+    "descSimple": "Can be used when Facade of Mischief & Innocence and Facade of Absurdity & Nonsense are both held. Almighty dmg to 1 foe (%s Atk; increase this effect 1% per 1 Desire Level).\nSpend all Facade stacks to grant Skill Amplification (%s) to all other allies. Also increase party's crit dmg %s per 100 Desire Level (2 turns). \nSkill Amplification: Increase values of skills and Thief Tactics that are increased when leveled up. This effect is calculated separately from other effects.",
     "levelUpList": "AAAAAA==",
     "levelUpValue": "AAAAAA==",
     "contentBG": "AAAAAA==",
@@ -6652,8 +6652,8 @@
   {
     "sn": "146514",
     "name": "Two Masks as One",
-    "desc": "Can be used when <link=\"s|273\"><u>Facade</u></link> of Mischief & Innocence and Facade of Luck & Loss are both held. Deal Almighty damage to all foes equal to <color=#FFFC40>^%s^</color> of Attack (increase this effect by 1% for every 1 point of <link=\"s|271\"><u>Desire Level</u></link>). \nSpend all Facade stacks.",
-    "descSimple": "Can be used when Facade of Mischief & Innocence and Facade of Luck & Loss are both held. Almighty dmg to all foes (%s Atk; increase this effect 1% per 1 Desire Level).\nSpend all Facade stacks.",
+    "desc": "Can be used when <link=\"s|273\"><u>Facade</u></link> of Mischief & Innocence and Facade of Luck & Loss are both held. Deal Almighty damage to all foes equal to <color=#FFFC40>^%s^</color> of Attack (increase this effect by 1% for every 1 point of <link=\"s|271\"><u>Desire Level</u></link>). \nSpend all Facades.",
+    "descSimple": "Can be used when Facade of Mischief & Innocence and Facade of Luck & Loss are both held. Almighty dmg to all foes (%s Atk; increase this effect 1% per 1 Desire Level).\nSpend all Facades.",
     "levelUpList": "AAAAAA==",
     "levelUpValue": "AAAAAA==",
     "contentBG": "AAAAAA==",
@@ -6662,8 +6662,8 @@
   {
     "sn": "146515",
     "name": "Two Masks as One",
-    "desc": "Can be used when <link=\"s|273\"><u>Facade</u></link> of Service & Admonition and Facade of Absurdity & Nonsense are both held. Deal Almighty damage to 1 foe equal to <color=#FFFC40>^%s^</color> of Attack (increase this effect by 1% for every 1 point of <link=\"s|271\"><u>Desire Level</u></link>).\nSpend all Facade stacks to grant all allies a shield equal to <color=#FFFC40>^%s^</color> of Justine & Caroline's Attack + <color=#FFFC40>^%s^</color> and 1 Down Point for 2 turns; also, increase party's Defense by <color=#FFFC40>^%s^</color> × Desire Level points / 100.",
-    "descSimple": "Can be used when Facade of Service & Admonition and Facade of Absurdity & Nonsense are both held. Almighty dmg to 1 foe (%s Atk; increase this effect 1% per 1 Desire Level).\nSpend all Facade stacks to grant all allies a shield (%s Atk + %s) and 1 Down Point (2 turns). Also increase party's Def %s × Desire Level / 100 (2 turns).",
+    "desc": "Can be used when <link=\"s|273\"><u>Facade</u></link> of Service & Admonition and Facade of Absurdity & Nonsense are both held. Deal Almighty damage to 1 foe equal to <color=#FFFC40>^%s^</color> of Attack (increase this effect by 1% for every 1 point of <link=\"s|271\"><u>Desire Level</u></link>).\nSpend all Facade stacks to grant all allies a shield equal to <color=#FFFC40>^%s^</color> of Justine & Caroline's Attack + <color=#FFFC40>^%s^</color> and 1 Down Point for 2 turns; also, increase party's Defense by <color=#FFFC40>^%s^</color> for every 100 points of Desire Level.",
+    "descSimple": "Can be used when Facade of Service & Admonition and Facade of Absurdity & Nonsense are both held. Almighty dmg to 1 foe (%s Atk; increase this effect 1% per 1 Desire Level).\nSpend all Facade stacks to grant all allies a shield (%s Atk + %s) and 1 Down Point (2 turns). Also increase party's Def %s per 100 Desire Level (2 turns).",
     "levelUpList": "AAAAAA==",
     "levelUpValue": "AAAAAA==",
     "contentBG": "AAAAAA==",
@@ -6672,8 +6672,8 @@
   {
     "sn": "146516",
     "name": "Two Masks as One",
-    "desc": "Can be used when <link=\"s|273\"><u>Facade</u></link> of Service & Admonition and Facade of Luck & Loss are both held. Deal Almighty damage to 1 foe equal to <color=#FFFC40>^%s^</color> of Attack. Increase this effect by 1% for every 1 point of <link=\"s|271\"><u>Desire Level</u></link>.\nSpend all Facade stacks to inflict <link=\"s|104\"><u>Shock</u></link> and <link=\"s|105\"><u>Windswept</u></link> on the main target, then inflict 2 <link=\"s|112\"><u>Curse</u></link> stacks and gain 2 <link=\"s|111\"><u>Blessing</u></link> stacks. These effects last for 2 turns. Decrease all foes' Defense by <color=#FFFC40>^%s^</color>, plus  <color=#FFFC40>^%s^</color> × Desire Level points / 100 more for 2 turns.",
-    "descSimple": "Can be used when Facade of Service & Admonition and Facade of Luck & Loss are both held. Almighty dmg to 1 foe (%s Atk; increase effect 1% per 1 Desire Level).\nSpend all Facade stacks to inflict Shock and Windswept on main target, then inflict 2 Curse and gain 2 Blessing (2 turns). Decrease all foes' Def %s, plus %s × Desire Level / 100 more (2 turns).",
+    "desc": "Can be used when <link=\"s|273\"><u>Facade</u></link> of Service & Admonition and Facade of Luck & Loss are both held. Deal Almighty damage to 1 foe equal to <color=#FFFC40>^%s^</color> of Attack. Increase this effect by 1% for every 1 point of <link=\"s|271\"><u>Desire Level</u></link>.\nSpend all Facade stacks to inflict <link=\"s|104\"><u>Shock</u></link> and <link=\"s|105\"><u>Windswept</u></link> on the main target, then inflict 2 <link=\"s|112\"><u>Curse</u></link> stacks and gain 2 <link=\"s|111\"><u>Blessing</u></link> stacks. These effects last for 2 turns. Decrease all foes' Defense by <color=#FFFC40>^%s^</color> + <color=#FFFC40>^%s^</color> for every 100 points of Desire Level for 2 turns.",
+    "descSimple": "Can be used when Facade of Service & Admonition and Facade of Luck & Loss are both held. Almighty dmg to 1 foe (%s Atk; increase effect 1% per 1 Desire Level).\nSpend all Facade stacks to inflict Shock and Windswept on main target, then inflict 2 Curse and gain 2 Blessing (2 turns). Decrease all foes' Def %s + %s per 100 Desire Level (2 turns).",
     "levelUpList": "AAAAAA==",
     "levelUpValue": "AAAAAA==",
     "contentBG": "AAAAAA==",
@@ -6682,8 +6682,8 @@
   {
     "sn": "146517",
     "name": "Two Masks as One",
-    "desc": "Can be used when <link=\"s|273\"><u>Facade</u></link> of Absurdity & Nonsense and Facade of Luck & Loss are both held. Deal Almighty damage to 1 foe equal to <color=#FFFC40>^%s^</color> of Attack (increase this effect by 1% for every 1 point of <link=\"s|271\"><u>Desire Level</u></link>).\nSpend all Facade stacks to deal 1 more hit of Almighty damage from this skill. Also, gain Rebel Surveillance for 2 turns.\nRebel Surveillance: When using a skill, temporarily gain <color=#FFFC40>^%s^</color> of <link=\"s|274\"><u>Effects</u></link> stats from the Sweeper or Assassin ally with the highest Attack (excluding Justine & Caroline).",
-    "descSimple": "Can be used when Facade of Absurdity & Nonsense and Facade of Luck & Loss are both held. Almighty dmg to 1 foe (%s Atk; increase this effect 1% per 1 Desire Level).\nSpend all Facade stacks to deal more Almighty dmg from this skill (1 hit). Gain Rebel Surveillance (2 turns).\nRebel Surveillance: When using a skill, grant %s of Effects stats from Sweeper or Assassin ally with highest Attack (excluding Justine & Caroline).",
+    "desc": "Can be used when <link=\"s|273\"><u>Facade</u></link> of Absurdity & Nonsense and Facade of Luck & Loss are both held. Deal Almighty damage to 1 foe equal to <color=#FFFC40>^%s^</color> of Attack (increase this effect by 1% for every 1 point of <link=\"s|271\"><u>Desire Level</u></link>).\nSpend all Facades to deal 1 more hit of Almighty damage from this skill. Also, gain Rebel Surveillance for 2 turns.\nRebel Surveillance: When using a skill, temporarily gain <color=#FFFC40>^%s^</color> of <link=\"s|274\"><u>Effects</u></link> stats from the Sweeper or Assassin ally with the highest Attack (excluding Justine & Caroline).",
+    "descSimple": "Can be used when Facade of Absurdity & Nonsense and Facade of Luck & Loss are both held. Almighty dmg to 1 foe (%s Atk; increase this skill effect 1% per 1 Desire Level).\nSpend all Facades to deal more Almighty dmg from this skill (1 hit). Gain Rebel Surveillance (2 turns).\nRebel Surveillance: When using a skill, grant %s of Effects stats from Sweeper or Assassin ally with highest Attack (excluding Justine & Caroline).",
     "levelUpList": "AAAAAA==",
     "levelUpValue": "AAAAAA==",
     "contentBG": "AAAAAA==",
@@ -6692,8 +6692,8 @@
   {
     "sn": "146518",
     "name": "Two Masks as One",
-    "desc": "Usable when any 2 types of <link=\"s|273\"><u>Facade</u></link> have been gained. Deal Almighty damage to all foes equal to <color=#FFFC40>^%s^</color> of Attack (increase this effect by 1% for every 1 point of Desire Level).\nSpend all Facades to deal more Almighty damage from this skill (1 hit). Also, deal damage to the main target equal to 40% of Attack (8 hits; increase this effect by 1% for every 1 point of Desire Level; deal 1 hit each of Fire, Ice, Electric, Wind, Psychokinesis, Nuclear, Bless, and Curse damage for the additional attacks).\nRestore the party's HP equal to <color=#FFFC40>^%s^</color> of Attack + <color=#FFFC40>^%s^</color>. For 2 turns, increase the party's damage dealt by <color=#FFFC40>^%s^</color> × Desire Level points / 100.\nFor 2 turns, grant other allies <link=\"s|272\"><u>Skill Amplification</u></link> equal to <color=#FFFC40>^%s^</color>. Also, increase party's critical damage by <color=#FFFC40>^%s^</color> × Desire Level points / 100.\nFor 2 turns, grant all allies a shield equal to <color=#FFFC40>^%s^</color> of Justine & Caroline's Attack + <color=#FFFC40>^%s^</color> and 1 Down Point. Also, increase party's Defense by <color=#FFFC40>^%s^</color> × Desire Level points / 100.\nInflict Shock, Windswept and 2 Curse stacks on the main target, and gain 2 Blessing stacks. These effects last for 2 turns. Also, for 2 turns, decrease all foes' Defense by <color=#FFFC40>^%s^</color>, plus <color=#FFFC40>^%s^</color> × Desire Level points / 100 more.\nFor 2 turns, gain Rebel Surveillance.\nRebel Surveillance: When using a skill, temporarily gain <color=#FFFC40>^%s^</color> of <link=\"s|274\"><u>Effects</u></link> stats from the Sweeper or Assassin ally with the highest Attack (excluding Justine & Caroline).",
-    "descSimple": "Usable when any 2 types of Facade have been gained. Almighty dmg to all foes (%s Atk; increase this effect 1% per 1 Desire Level).\nSpend all Facade to deal more Almighty dmg from this skill (1 hit). Also deal more dmg to main target (40% Atk, 8 hits; increase this effect 1% per 1 point of Desire Level; deal 1 hit each of Fire, Ice, Elec, Wind, Psy, Nuke, Bless, and Curse damage for additional attacks).\nRestore party's HP (%s Atk + %s). Also increase party's dmg dealt %s × Desire Level / 100 (2 turns).\nGrant Skill Amplification (%s) to other allies (2 turns). Increase party's crit dmg %s × Desire Level / 100 (2 turns).\nGrant all allies shield (%s Atk + %s) and 1 Down Point. Also increase party's Def %s × Desire Level / 100 (2 turns).\nInflict Shock and Windswept on main target, then inflict 2 Curse and gain 2 Blessing (2 turns). Also decrease all foes' Def %s, plus %s × Desire Level / 100 more (2 turns).\nGain Rebel Surveillance (2 turns).\nRebel Surveillance: When using a skill, gain %s of Effects stats from Sweeper or Assassin ally with highest Atk (excluding Justine & Caroline).",
+    "desc": "Usable when any 2 types of <link=\"s|273\"><u>Facade</u></link> have been gained. Deal Almighty damage to all foes equal to <color=#FFFC40>^%s^</color> of Attack (increase this effect by 1% for every 1 point of <link=\"s|271\"><u>Desire Level</u></link>).\nSpend all Facades to deal more Almighty damage from this skill (1 hit). Also, deal damage to the main target equal to 40% of Attack (8 hits; increase this effect by 1% for every 1 point of Desire Level; deal 1 hit each of Fire, Ice, Electric, Wind, Psychokinesis, Nuclear, Bless, and Curse damage).\nRestore the party's HP equal to <color=#FFFC40>^%s^</color> of Attack + <color=#FFFC40>^%s^</color>. For 2 turns, increase the party's damage dealt by <color=#FFFC40>^%s^</color> for every 100 points of Desire Level.\nFor 2 turns, grant other allies <link=\"s|272\"><u>Skill Amplification</u></link> equal to <color=#FFFC40>^%s^</color>. Also, increase party's critical damage by <color=#FFFC40>^%s^</color> for every 100 points of Desire Level.\nFor 2 turns, grant all allies a shield equal to <color=#FFFC40>^%s^</color> of Justine & Caroline's Attack + <color=#FFFC40>^%s^</color> and 1 Down Point. Also, increase party's Defense by <color=#FFFC40>^%s^</color> for every 100 points of Desire Level.\nInflict Shock, Windswept and 2 Curse stacks on the main target, and gain 2 Blessing stacks. These effects last for 2 turns. Also, for 2 turns, decrease all foes' Defense by <color=#FFFC40>^%s^</color> + <color=#FFFC40>^%s^</color> for every 100 points of Desire Level.\nFor 2 turns, gain Rebel Surveillance.\nRebel Surveillance: When using a skill, temporarily gain <color=#FFFC40>^%s^</color> of <link=\"s|274\"><u>Effects</u></link> stats from the Sweeper or Assassin ally with the highest Attack (excluding Justine & Caroline).",
+    "descSimple": "Usable when any 2 types of Facade have been gained. Almighty dmg to all foes (%s Atk; increase this effect 1% per 1 Desire Level).\nSpend all Facades to deal more Almighty dmg from this skill (1 hit). Also deal more dmg to main target (40% Atk, 8 hits; increase this effect 1% per 1 point of Desire Level; deals 1 hit each of Fire, Ice, Elec, Wind, Psy, Nuke, Bless, and Curse dmg).\nRestore party's HP (%s Atk + %s). Also increase party's dmg dealt %s per 100 Desire Level (2 turns).\nGrant Skill Amplification (%s) to other allies (2 turns). Increase party's crit dmg %s per 100 Desire Level (2 turns).\nGrant all allies shield (%s Atk + %s) and 1 Down Point. Also increase party's Def %s per 100 Desire Level (2 turns).\nInflict Shock and Windswept on main target, then inflict 2 Curse and gain 2 Blessing (2 turns). Also decrease all foes' Def %s + %s per 100 Desire Level (2 turns).\nGain Rebel Surveillance (2 turns).\nRebel Surveillance: When using a skill, gain %s of Effects stats from Sweeper or Assassin ally with highest Atk (excluding Justine & Caroline).",
     "levelUpList": "AAAAAA==",
     "levelUpValue": "AAAAAA==",
     "contentBG": "AAAAAA==",
@@ -24002,7 +24002,7 @@
   {
     "sn": "12640",
     "name": "Nice Try",
-    "desc": "Increase Attack by 29.1%. When dealing skill damage to a foe, 75% chance to remove 1 Down Point. When knocking down a foe with a skill, gain 1 Blizzard stack: increase Attack by 15% and Ice damage by 15%. Lasts for 2 turns. Stacks up to 2 times.",
+    "desc": "Increase Attack by 29.1%. When dealing skill damage to a foe, 75% chance to remove 1 Down Point. After using a skill to knock down a foe, gain 1 Blizzard. Blizzard: Increase Attack by 15% and increase Ice damage by 15% for 2 turns. Stacks up to 2 times.",
     "descSimple": "Increase Atk by 29.1%. When dealing skill dmg to foe, 75% chance to remove 1 Down Point. When knocking down foe with skill, gain 1 Blizzard: increase Atk 15% and Ice dmg 15% (max 2 stacks, 2 turns).",
     "levelUpList": "AAAAAA==",
     "levelUpValue": "AAAAAA==",
@@ -24012,7 +24012,7 @@
   {
     "sn": "12641",
     "name": "Nice Try I",
-    "desc": "Increase Attack by 29.1%. When dealing skill damage to a foe, 75% chance to remove 1 Down Point. When knocking down a foe with a skill, gain 1 Blizzard stack: increase Attack by 25% and Ice damage by 15%. Lasts for 2 turns. Stacks up to 2 times.",
+    "desc": "Increase Attack by 29.1%. When dealing skill damage to a foe, 75% chance to remove 1 Down Point. After using a skill to knock down a foe, gain 1 Blizzard. Blizzard: Increase Attack by 15% and increase Ice damage by 15% for 2 turns. Stacks up to 2 times.",
     "descSimple": "Increase Atk by 29.1%. When dealing skill dmg to foe, 75% chance to remove 1 Down Point. When knocking down foe with skill, gain 1 Blizzard: increase Atk 25% and Ice dmg 15% (max 2 stacks, 2 turns).",
     "levelUpList": "AAAAAA==",
     "levelUpValue": "AAAAAA==",
@@ -24022,7 +24022,7 @@
   {
     "sn": "12642",
     "name": "Nice Try II",
-    "desc": "Increase Attack by 29.1%. When dealing skill damage to a foe, 75% chance to remove 1 Down Point. When knocking down a foe with a skill, gain 1 Blizzard stack: increase Attack by 25% and Ice damage by 25%. Lasts for 2 turns. Stacks up to 2 times.",
+    "desc": "Increase Attack by 29.1%. When dealing skill damage to a foe, 75% chance to remove 1 Down Point. After using a skill to knock down a foe, gain 1 Blizzard. Blizzard: Increase Attack by 25% and increase Ice damage by 25% for 2 turns. Stacks up to 2 times.",
     "descSimple": "Increase Atk by 29.1%. When dealing skill dmg to foe, 75% chance to remove 1 Down Point. When knocking down foe with skill, gain 1 Blizzard: increase Atk 25% and Ice dmg 25% (max 2 stacks, 2 turns).",
     "levelUpList": "AAAAAA==",
     "levelUpValue": "AAAAAA==",
@@ -24032,7 +24032,7 @@
   {
     "sn": "12643",
     "name": "Nice Try III",
-    "desc": "Increase Attack by 29.1%. When dealing skill damage to a foe, 75% chance to remove 1 Down Point. When knocking down a foe with a skill, gain 1 Blizzard stack: increase Attack by 25% and Ice damage by 25%. Lasts for 3 turns. Stacks up to 2 times.",
+    "desc": "Increase Attack by 29.1%. When dealing skill damage to a foe, 75% chance to remove 1 Down Point. After using a skill to knock down a foe, gain 1 Blizzard. Blizzard: Increase Attack by 25% and increase Ice damage by 25% for 3 turns. Stacks up to 2 times.",
     "descSimple": "Increase Atk by 29.1%. When dealing skill dmg to foe, 75% chance to remove 1 Down Point. When knocking down foe with skill, gain 1 Blizzard: increase Atk 25% and Ice dmg 25% (max 2 stacks, 3 turns).",
     "levelUpList": "AAAAAA==",
     "levelUpValue": "AAAAAA==",
@@ -33021,7 +33021,7 @@
   },
   {
     "sn": "3203",
-    "name": "Resolve Glitch",
+    "name": "Glitch Repaired",
     "desc": "AAAAAA==",
     "descSimple": "AAAAAA==",
     "levelUpList": "AAAAAA==",
@@ -34630,6 +34630,36 @@
     "skillTag": "AAAAAA=="
   },
   {
+    "sn": "4508",
+    "name": "Trial of the Astrolabe",
+    "desc": "AAAAAA==",
+    "descSimple": "AAAAAA==",
+    "levelUpList": "AAAAAA==",
+    "levelUpValue": "AAAAAA==",
+    "contentBG": "AAAAAA==",
+    "skillTag": "AAAAAA=="
+  },
+  {
+    "sn": "4509",
+    "name": "Trial of the Astrolabe",
+    "desc": "AAAAAA==",
+    "descSimple": "AAAAAA==",
+    "levelUpList": "AAAAAA==",
+    "levelUpValue": "AAAAAA==",
+    "contentBG": "AAAAAA==",
+    "skillTag": "AAAAAA=="
+  },
+  {
+    "sn": "4511",
+    "name": "Trial of the Astrolabe",
+    "desc": "AAAAAA==",
+    "descSimple": "AAAAAA==",
+    "levelUpList": "AAAAAA==",
+    "levelUpValue": "AAAAAA==",
+    "contentBG": "AAAAAA==",
+    "skillTag": "AAAAAA=="
+  },
+  {
     "sn": "4600",
     "name": "Trial of the Astrolabe",
     "desc": "Increase Ice damage by 50%.",
@@ -35681,7 +35711,7 @@
   },
   {
     "sn": "5361",
-    "name": "Success",
+    "name": "Triumph",
     "desc": "Increase critical rate by <color=%s>7.5%</color>.",
     "descSimple": "AAAAAA==",
     "levelUpList": "AAAAAA==",
@@ -35691,7 +35721,7 @@
   },
   {
     "sn": "5362",
-    "name": "Success",
+    "name": "Triumph",
     "desc": "Increase Resonance damage by <color=%s>40%</color>.",
     "descSimple": "AAAAAA==",
     "levelUpList": "AAAAAA==",
@@ -35762,7 +35792,7 @@
   {
     "sn": "5701",
     "name": "Meditation & Opulence",
-    "desc": "When activating Resonance, increase critical damage by <color=%s>50%</color>.",
+    "desc": "When activating a Resonance, increase critical damage by <color=%s>50%</color>.",
     "descSimple": "AAAAAA==",
     "levelUpList": "AAAAAA==",
     "levelUpValue": "AAAAAA==",
@@ -35772,7 +35802,7 @@
   {
     "sn": "5702",
     "name": "Growth & Opulence",
-    "desc": "When activating Resonance, increase own Ice damage by <color=%s>10%</color> for 2 turns. Stacks up to 3 times.",
+    "desc": "When activating a Resonance, increase own Ice damage by <color=%s>10%</color> for 2 turns. Stacks up to 3 times.",
     "descSimple": "AAAAAA==",
     "levelUpList": "AAAAAA==",
     "levelUpValue": "AAAAAA==",
@@ -35792,7 +35822,7 @@
   {
     "sn": "5704",
     "name": "Growth & Renewal",
-    "desc": "Increase critical damage of Resonance by <color=%s>50%</color>.",
+    "desc": "Increase Resonance critical damage by <color=%s>50%</color>.",
     "descSimple": "AAAAAA==",
     "levelUpList": "AAAAAA==",
     "levelUpValue": "AAAAAA==",
@@ -36061,7 +36091,7 @@
   },
   {
     "sn": "5731",
-    "name": "Freedom & Success",
+    "name": "Freedom & Triumph",
     "desc": "After using a skill, gain 1 Glory stack. When a Resonance is activated, spend all Glory stacks and increase pierce rate by <color=%s>8%</color> for each stack. Stacks up to 2 times.",
     "descSimple": "AAAAAA==",
     "levelUpList": "AAAAAA==",
@@ -39772,7 +39802,7 @@
   {
     "sn": "52135",
     "name": "Winter's Prelude",
-    "desc": "At the start of battle, increase Wind or Ice damage by <color=#2899FF>^%s^</color> for 3 turns, based on current mode.",
+    "desc": "At the start of battle, increase Wind or Ice damage by <color=#2899FF>^%s^</color> for 3 turns, based on the current mode.",
     "descSimple": "AAAAAA==",
     "levelUpList": "AAAAAA==",
     "levelUpValue": "AAAAAA==",
@@ -39782,7 +39812,7 @@
   {
     "sn": "52145",
     "name": "Frostblade",
-    "desc": "Increase Attack by <color=#2899FF>^%s^</color>. Each time Ice Storm Kotone gains a <link=\"s|212\"><u>Spring's Vestige</u></link> or <link=\"s|213\"><u>Winter's Vestige</u></link> stack, permanently increase Attack by <color=#2899FF>^%s^</color>. This effect can stack up to 10 times.",
+    "desc": "Increase Attack by <color=#2899FF>^%s^</color>. Each time Frostgale Kotone gains a <link=\"s|212\"><u>Spring's Vestige</u></link> or <link=\"s|213\"><u>Winter's Vestige</u></link> stack, permanently increase Attack by <color=#2899FF>^%s^</color>. This effect can stack up to 10 times.",
     "descSimple": "AAAAAA==",
     "levelUpList": "AAAAAA==",
     "levelUpValue": "AAAAAA==",
@@ -39802,7 +39832,7 @@
   {
     "sn": "52155",
     "name": "Flight of the Swan",
-    "desc": "Increase Attack by <color=#2899FF>^%s^</color>. Each time Ice Storm Kotone gains a <link=\"s|212\"><u>Spring's Vestige</u></link> or <link=\"s|213\"><u>Winter's Vestige</u></link> stack, increase critical rate by <color=#2899FF>^%s^</color> for 2 turns. This effect can stack up to 3 times. When activating Spring's Edge or Winter's Edge, increase Wind or Ice damage by <color=#2899FF>^%s^</color> for 2 turns.",
+    "desc": "Increase Attack by <color=#2899FF>^%s^</color>. Each time Frostgale Kotone gains a <link=\"s|212\"><u>Spring's Vestige</u></link> or <link=\"s|213\"><u>Winter's Vestige</u></link> stack, increase critical rate by <color=#2899FF>^%s^</color> for 2 turns. This effect can stack up to 3 times. When activating Spring's Edge or Winter's Edge, increase Wind or Ice damage by <color=#2899FF>^%s^</color> for 2 turns.",
     "descSimple": "AAAAAA==",
     "levelUpList": "AAAAAA==",
     "levelUpValue": "AAAAAA==",

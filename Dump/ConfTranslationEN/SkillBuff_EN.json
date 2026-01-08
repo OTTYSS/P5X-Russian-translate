@@ -1749,7 +1749,7 @@
     "sn": "1251611",
     "title": "Focused Round",
     "desc": "Decrease ailment resistance by %s.",
-    "BuffDesc": "S<color=#000000>t</color>at Debuff",
+    "BuffDesc": "F<color=#000000>o</color>cused Round",
     "addText": "AAAAAA==",
     "removeText": "AAAAAA==",
     "calText": "AAAAAA=="
@@ -4286,7 +4286,7 @@
   {
     "sn": "1212003",
     "title": "Spring's Vestige",
-    "desc": "Increase dmg of Resonance activated when Spring's Edge ends.",
+    "desc": "Increase dmg of Resonance activated when Spring's Edge ends (exceed limit).",
     "BuffDesc": "S<color=#000000>p</color>ring's Vestige",
     "addText": "AAAAAA==",
     "removeText": "AAAAAA==",
@@ -4294,9 +4294,9 @@
   },
   {
     "sn": "1212006",
-    "title": "Spring's Vestige",
-    "desc": "Increase dmg of Resonance activated when Spring's Edge ends.",
-    "BuffDesc": "S<color=#000000>p</color>ring's Vestige",
+    "title": "Winter's Vestige",
+    "desc": "Increase dmg of Resonance activated when Winter's Edge ends.",
+    "BuffDesc": "W<color=#000000>i</color>nter's Vestige",
     "addText": "AAAAAA==",
     "removeText": "AAAAAA==",
     "calText": "AAAAAA=="
@@ -4305,16 +4305,16 @@
     "sn": "1212111",
     "title": "Windswept",
     "desc": "Decrease Def by 12%.",
-    "BuffDesc": "Wind<color=#000000>s</color>wept",
+    "BuffDesc": "W<color=#000000>i</color>ndswept",
     "addText": "AAAAAA==",
     "removeText": "AAAAAA==",
     "calText": "AAAAAA=="
   },
   {
     "sn": "1212112",
-    "title": "Attack Sequence",
+    "title": "Spiral Sequence",
     "desc": "When Frostgale Kotone attacks this foe, increase crit dmg.",
-    "BuffDesc": "A<color=#000000>t</color>tack Sequence",
+    "BuffDesc": "S<color=#000000>p</color>iral Sequence",
     "addText": "AAAAAA==",
     "removeText": "AAAAAA==",
     "calText": "AAAAAA=="
@@ -4331,7 +4331,7 @@
   {
     "sn": "1212008",
     "title": "Winter's Vestige",
-    "desc": "Increase dmg of Resonance activated when Winter's Edge ends.",
+    "desc": "Increase dmg of Resonance activated when Winter's Edge ends (exceed limit).",
     "BuffDesc": "W<color=#000000>i</color>nter's Vestige",
     "addText": "AAAAAA==",
     "removeText": "AAAAAA==",
@@ -4348,7 +4348,7 @@
   },
   {
     "sn": "1212041",
-    "title": "Glaring Phoenix",
+    "title": "Swan's Gaze",
     "desc": "Decrease Def by %s.",
     "BuffDesc": "AAAAAA==",
     "addText": "AAAAAA==",
@@ -4366,7 +4366,7 @@
   },
   {
     "sn": "1212042",
-    "title": "Glaring Phoenix",
+    "title": "Swan's Gaze",
     "desc": "Increase Ice dmg by %s.",
     "BuffDesc": "AAAAAA==",
     "addText": "AAAAAA==",
@@ -4375,7 +4375,7 @@
   },
   {
     "sn": "1212043",
-    "title": "Glaring Phoenix",
+    "title": "Swan's Gaze",
     "desc": "Decrease SP costs by %s.",
     "BuffDesc": "AAAAAA==",
     "addText": "AAAAAA==",
@@ -4483,18 +4483,18 @@
   },
   {
     "sn": "1212323",
-    "title": "Technical Score",
+    "title": "Technical Scoring",
     "desc": "Increase Atk by %s.",
-    "BuffDesc": "T<color=#000000>e</color>chnical Score",
+    "BuffDesc": "T<color=#000000>e</color>chnical Scoring",
     "addText": "AAAAAA==",
     "removeText": "AAAAAA==",
     "calText": "AAAAAA=="
   },
   {
     "sn": "1212324",
-    "title": "Technical Score",
+    "title": "Technical Scoring",
     "desc": "Increase Def by %s.",
-    "BuffDesc": "T<color=#000000>e</color>chnical Score",
+    "BuffDesc": "T<color=#000000>e</color>chnical Scoring",
     "addText": "AAAAAA==",
     "removeText": "AAAAAA==",
     "calText": "AAAAAA=="
@@ -4513,6 +4513,33 @@
     "title": "Floriography: Chamomile",
     "desc": "Increase shield gained by %s.",
     "BuffDesc": "F<color=#000000>l</color>oriography: Chamomile",
+    "addText": "AAAAAA==",
+    "removeText": "AAAAAA==",
+    "calText": "AAAAAA=="
+  },
+  {
+    "sn": "1212002",
+    "title": "Spring's Vestige",
+    "desc": "Increase dmg of Resonance activated when Spring's Edge ends (regained).",
+    "BuffDesc": "S<color=#000000>p</color>ring's Vestige",
+    "addText": "AAAAAA==",
+    "removeText": "AAAAAA==",
+    "calText": "AAAAAA=="
+  },
+  {
+    "sn": "1212007",
+    "title": "Winter's Vestige",
+    "desc": "Increase dmg of Resonance activated when Winter's Edge ends (regained).",
+    "BuffDesc": "W<color=#000000>i</color>nter's Vestige",
+    "addText": "AAAAAA==",
+    "removeText": "AAAAAA==",
+    "calText": "AAAAAA=="
+  },
+  {
+    "sn": "1212018",
+    "title": "Swan on the Ice",
+    "desc": "Increase Atk by %s.",
+    "BuffDesc": "AAAAAA==",
     "addText": "AAAAAA==",
     "removeText": "AAAAAA==",
     "calText": "AAAAAA=="
@@ -12440,8 +12467,8 @@
   {
     "sn": "62551",
     "title": "Prey",
-    "desc": "Targeted by Byakko to become Prey.",
-    "BuffDesc": "P<color=#000000>r</color>ey",
+    "desc": "Targeted by Byakko as Prey.",
+    "BuffDesc": "Prey",
     "addText": "%s is targeted...",
     "removeText": "AAAAAA==",
     "calText": "AAAAAA=="
@@ -12602,7 +12629,7 @@
   {
     "sn": "63371",
     "title": "Wisdom Theurgy",
-    "desc": "Change all affinities to Absorb.",
+    "desc": "Change all affinities to Drain.",
     "BuffDesc": "W<color=#000000>i</color>sdom Theurgy",
     "addText": "AAAAAA==",
     "removeText": "AAAAAA==",
@@ -12712,6 +12739,15 @@
     "title": "Damage Taken Down",
     "desc": "Decrease final dmg taken by %s.",
     "BuffDesc": "D<color=#000000>a</color>mage Taken Down",
+    "addText": "AAAAAA==",
+    "removeText": "AAAAAA==",
+    "calText": "AAAAAA=="
+  },
+  {
+    "sn": "62492",
+    "title": "AAAAAA==",
+    "desc": "AAAAAA==",
+    "BuffDesc": "D<color=#000000>e</color>buff Stacks",
     "addText": "AAAAAA==",
     "removeText": "AAAAAA==",
     "calText": "AAAAAA=="
@@ -15435,6 +15471,24 @@
     "calText": "AAAAAA=="
   },
   {
+    "sn": "22235",
+    "title": "Damage Down",
+    "desc": "Decrease final damage taken by %s.",
+    "BuffDesc": "D<color=#000000>a</color>mage Down",
+    "addText": "AAAAAA==",
+    "removeText": "AAAAAA==",
+    "calText": "AAAAAA=="
+  },
+  {
+    "sn": "22236",
+    "title": "Enraged",
+    "desc": "Increase final dmg by %s.",
+    "BuffDesc": "E<color=#000000>n</color>raged",
+    "addText": "Became enraged!",
+    "removeText": "AAAAAA==",
+    "calText": "AAAAAA=="
+  },
+  {
     "sn": "22241",
     "title": "Weakness",
     "desc": "When taking weakness dmg, gain 1 stack. Increase Decarabia's dmg taken with each stack.",
@@ -15895,7 +15949,7 @@
   },
   {
     "sn": "22712",
-    "title": "Decrease critical rate by .",
+    "title": "Critical Rate Down",
     "desc": "Defeated servant. Decreased critical rate!",
     "BuffDesc": "C<color=#000000>r</color>itical Rate Down",
     "addText": "Critical rate decreased!",
@@ -17164,6 +17218,24 @@
   },
   {
     "sn": "24285",
+    "title": "Shield",
+    "desc": "Shield created with Seiryu's Might. Drains fixed amount of dmg.",
+    "BuffDesc": "S<color=#000000>h</color>ield",
+    "addText": "AAAAAA==",
+    "removeText": "AAAAAA==",
+    "calText": "AAAAAA=="
+  },
+  {
+    "sn": "24286",
+    "title": "Seiryu's Might",
+    "desc": "Gain shield equal to 3% of max HP each turn.",
+    "BuffDesc": "S<color=#000000>e</color>iryu's Might",
+    "addText": "AAAAAA==",
+    "removeText": "AAAAAA==",
+    "calText": "AAAAAA=="
+  },
+  {
+    "sn": "24287",
     "title": "Shield",
     "desc": "Shield created with Seiryu's Might. Drains fixed amount of dmg.",
     "BuffDesc": "S<color=#000000>h</color>ield",
@@ -19226,7 +19298,7 @@
   {
     "sn": "25161",
     "title": "Special Effect",
-    "desc": "Increase final dmg through Resonance by %s.",
+    "desc": "Increase Resonance final dmg by %s.",
     "BuffDesc": "S<color=#000000>p</color>ecial Effect",
     "addText": "AAAAAA==",
     "removeText": "AAAAAA==",
@@ -21278,7 +21350,7 @@
   {
     "sn": "33000",
     "title": "Glitch",
-    "desc": "Attacks won't land via Glitch. Further change form. Can be removed.",
+    "desc": "Attacks won't land due to Glitch, and form is changed. Can be removed.",
     "BuffDesc": "G<color=#000000>l</color>itch",
     "addText": "Inflicted with 1 Glitch!",
     "removeText": "Glitch repaired!",
@@ -21287,7 +21359,7 @@
   {
     "sn": "33001",
     "title": "Glitch",
-    "desc": "Attacks won't land via Glitch. Further change form. Can be removed.",
+    "desc": "Attacks won't land due to Glitch, and form is changed. Can be removed.",
     "BuffDesc": "G<color=#000000>l</color>itch",
     "addText": "Inflicted with 1 Glitch!",
     "removeText": "Glitch repaired!",
@@ -21296,7 +21368,7 @@
   {
     "sn": "33002",
     "title": "Glitch",
-    "desc": "Attacks won't land via Glitch. Further change form. Can be removed.",
+    "desc": "Attacks won't land due to Glitch, and form is changed. Can be removed.",
     "BuffDesc": "G<color=#000000>l</color>itch",
     "addText": "Inflicted with 6 Glitches!",
     "removeText": "Glitch repaired!",
@@ -21305,7 +21377,7 @@
   {
     "sn": "33003",
     "title": "Glitch",
-    "desc": "Attacks won't land via Glitch. Further change form. Can be removed.",
+    "desc": "Attacks won't land due to Glitch, and form is changed. Can be removed.",
     "BuffDesc": "G<color=#000000>l</color>itch",
     "addText": "Inflicted with 2 Glitches!",
     "removeText": "Glitch repaired!",
@@ -21314,7 +21386,7 @@
   {
     "sn": "33004",
     "title": "Glitch",
-    "desc": "Attacks won't land via Glitch. Further change form. Can be removed.",
+    "desc": "Attacks won't land due to Glitch, and form is changed. Can be removed.",
     "BuffDesc": "G<color=#000000>l</color>itch",
     "addText": "Inflicted with 3 Glitches!",
     "removeText": "Glitch repaired!",
@@ -21323,7 +21395,7 @@
   {
     "sn": "33005",
     "title": "Glitch",
-    "desc": "Attacks won't land via Glitch. Further change form. Can be removed.",
+    "desc": "Attacks won't land due to Glitch, and form is changed. Can be removed.",
     "BuffDesc": "G<color=#000000>l</color>itch",
     "addText": "Inflicted with 1 Glitch!",
     "removeText": "Glitch repaired!",
@@ -21332,7 +21404,7 @@
   {
     "sn": "33006",
     "title": "Frail Circuit",
-    "desc": "Decrease own HP by 100% when Self-Destruct Bot's attack is successful.",
+    "desc": "Lose 100% HP when Self-Destruct Bot attacks.",
     "BuffDesc": "F<color=#000000>r</color>ail Circuit",
     "addText": "AAAAAA==",
     "removeText": "AAAAAA==",
@@ -21341,7 +21413,7 @@
   {
     "sn": "33007",
     "title": "Frail Circuit",
-    "desc": "Decrease own HP by 50% when Self-Destruct Bot's attack is successful.",
+    "desc": "Lose 50% HP when Self-Destruct Bot attacks.",
     "BuffDesc": "F<color=#000000>r</color>ail Circuit",
     "addText": "AAAAAA==",
     "removeText": "AAAAAA==",
@@ -21350,7 +21422,7 @@
   {
     "sn": "33008",
     "title": "Frail Circuit",
-    "desc": "Decrease own HP by 33.3% when Self-Destruct Bot's attack is successful.",
+    "desc": "Lose 33.3% HP when Self-Destruct Bot attacks.",
     "BuffDesc": "F<color=#000000>r</color>ail Circuit",
     "addText": "AAAAAA==",
     "removeText": "AAAAAA==",
@@ -21359,7 +21431,7 @@
   {
     "sn": "33009",
     "title": "Frail Circuit",
-    "desc": "Decrease own HP by 25% when Self-Destruct Bot's attack is successful.",
+    "desc": "Lose 25% HP when Self-Destruct Bot attacks.",
     "BuffDesc": "F<color=#000000>r</color>ail Circuit",
     "addText": "AAAAAA==",
     "removeText": "AAAAAA==",
@@ -21448,10 +21520,10 @@
   },
   {
     "sn": "33061",
-    "title": "Attack Boost",
+    "title": "Seal of Enhancement",
     "desc": "Increase Atk by 25% per stack. Whenever taking dmg, lose 1 stack.",
-    "BuffDesc": "A<color=#000000>t</color>tack Boost",
-    "addText": "Gained 4 Atk Boost stacks!\nLose 1 if dmg is taken...",
+    "BuffDesc": "S<color=#000000>e</color>al of Enhancement",
+    "addText": "Gained 4 Seal of Enhancement stacks!\nLose 1 if damage is taken...",
     "removeText": "AAAAAA==",
     "calText": "AAAAAA=="
   },
@@ -22168,7 +22240,7 @@
   },
   {
     "sn": "45003",
-    "title": "Special Effect",
+    "title": "Astrolabe Effect",
     "desc": "Decrease final dmg taken by %s.",
     "BuffDesc": "AAAAAA==",
     "addText": "AAAAAA==",
@@ -22214,7 +22286,7 @@
   {
     "sn": "45025",
     "title": "Special Effect",
-    "desc": "Whenever inflicted with elemental ailment, increase final dmg by 5% (Current Increase: %s)",
+    "desc": "Each time an elemental ailment is inflicted, increase final dmg taken by 5% (Current Increase: %s)",
     "BuffDesc": "AAAAAA==",
     "addText": "AAAAAA==",
     "removeText": "AAAAAA==",
@@ -22223,7 +22295,7 @@
   {
     "sn": "45026",
     "title": "Special Effect",
-    "desc": "When inflicted with 4 elemental ailments at once, increase final dmg by %s.",
+    "desc": "When inflicted with 4 elemental ailments at once, increase final dmg taken by %s.",
     "BuffDesc": "S<color=#000000>p</color>ecial Effect",
     "addText": "AAAAAA==",
     "removeText": "AAAAAA==",
@@ -22241,7 +22313,7 @@
   {
     "sn": "45035",
     "title": "Special Effect",
-    "desc": "Increase final dmg by %s when Resonances are activated.",
+    "desc": "Increase final dmg by %s when a Resonance is activated.",
     "BuffDesc": "S<color=#000000>p</color>ecial Effect",
     "addText": "AAAAAA==",
     "removeText": "AAAAAA==",
@@ -22250,7 +22322,7 @@
   {
     "sn": "45041",
     "title": "Special Effect",
-    "desc": "Greatly increase ailment accuracy when spiritual ailments are inflicted.",
+    "desc": "When inflicting a spiritual or control ailment, ailment accuracy is greatly increased.",
     "BuffDesc": "S<color=#000000>p</color>ecial Effect",
     "addText": "AAAAAA==",
     "removeText": "AAAAAA==",
@@ -22259,7 +22331,7 @@
   {
     "sn": "45043",
     "title": "Special Effect",
-    "desc": "Increase final dmg by %s when spiritual ailments are inflicted.",
+    "desc": "When inflicted with a spiritual or control ailment, increase final dmg taken by %s.",
     "BuffDesc": "S<color=#000000>p</color>ecial Effect",
     "addText": "AAAAAA==",
     "removeText": "AAAAAA==",
@@ -22286,7 +22358,7 @@
   {
     "sn": "45055",
     "title": "Special Effect",
-    "desc": "On extra action, increase final dmg by %s.",
+    "desc": "When on an extra action, increase final dmg by %s.",
     "BuffDesc": "S<color=#000000>p</color>ecial Effect",
     "addText": "AAAAAA==",
     "removeText": "AAAAAA==",
@@ -22405,6 +22477,105 @@
     "title": "Special Effect",
     "desc": "Increase final dmg taken when HP is low. (Current Increase: %s)",
     "BuffDesc": "S<color=#000000>p</color>ecial Effect",
+    "addText": "AAAAAA==",
+    "removeText": "AAAAAA==",
+    "calText": "AAAAAA=="
+  },
+  {
+    "sn": "45081",
+    "title": "Special Effect",
+    "desc": "Increase final dmg by %s. Stacks up to 15 times.",
+    "BuffDesc": "AAAAAA==",
+    "addText": "AAAAAA==",
+    "removeText": "AAAAAA==",
+    "calText": "AAAAAA=="
+  },
+  {
+    "sn": "45085",
+    "title": "Intimidation",
+    "desc": "Increase final dmg by %s. Stacks up to 6 times.",
+    "BuffDesc": "I<color=#000000>n</color>timidation",
+    "addText": "AAAAAA==",
+    "removeText": "AAAAAA==",
+    "calText": "AAAAAA=="
+  },
+  {
+    "sn": "45086",
+    "title": "Intimidation",
+    "desc": "Increase final dmg by %s. Stacks up to 6 times.",
+    "BuffDesc": "I<color=#000000>n</color>timidation",
+    "addText": "AAAAAA==",
+    "removeText": "AAAAAA==",
+    "calText": "AAAAAA=="
+  },
+  {
+    "sn": "45087",
+    "title": "Special Effect",
+    "desc": "At end of each turn, inflict 1 Intimidation stack on all Phantom Thieves.",
+    "BuffDesc": "S<color=#000000>p</color>ecial Effect",
+    "addText": "AAAAAA==",
+    "removeText": "AAAAAA==",
+    "calText": "AAAAAA=="
+  },
+  {
+    "sn": "45091",
+    "title": "Special Effect",
+    "desc": "Increase final dmg by %s.",
+    "BuffDesc": "AAAAAA==",
+    "addText": "AAAAAA==",
+    "removeText": "AAAAAA==",
+    "calText": "AAAAAA=="
+  },
+  {
+    "sn": "45096",
+    "title": "Special Effect",
+    "desc": "Increase final dmg by %s.",
+    "BuffDesc": "AAAAAA==",
+    "addText": "Increase final damage next turn!",
+    "removeText": "AAAAAA==",
+    "calText": "AAAAAA=="
+  },
+  {
+    "sn": "45101",
+    "title": "Special Effect",
+    "desc": "Increase final dmg by %s.",
+    "BuffDesc": "AAAAAA==",
+    "addText": "AAAAAA==",
+    "removeText": "AAAAAA==",
+    "calText": "AAAAAA=="
+  },
+  {
+    "sn": "45107",
+    "title": "Special Effect",
+    "desc": "Increase critical rate by 30% and decrease critical dmg by 50%. When landing a critical hit, increase final dmg by 30%.",
+    "BuffDesc": "AAAAAA==",
+    "addText": "AAAAAA==",
+    "removeText": "AAAAAA==",
+    "calText": "AAAAAA=="
+  },
+  {
+    "sn": "45111",
+    "title": "Special Effect",
+    "desc": "Increase final dmg by %s.",
+    "BuffDesc": "AAAAAA==",
+    "addText": "AAAAAA==",
+    "removeText": "AAAAAA==",
+    "calText": "AAAAAA=="
+  },
+  {
+    "sn": "45115",
+    "title": "Special Effect",
+    "desc": "When using melee or ranged attacks, increase final dmg by %s.",
+    "BuffDesc": "AAAAAA==",
+    "addText": "AAAAAA==",
+    "removeText": "AAAAAA==",
+    "calText": "AAAAAA=="
+  },
+  {
+    "sn": "45117",
+    "title": "Special Effect",
+    "desc": "Increase final dmg by %s.",
+    "BuffDesc": "AAAAAA==",
     "addText": "AAAAAA==",
     "removeText": "AAAAAA==",
     "calText": "AAAAAA=="
@@ -22735,7 +22906,7 @@
   },
   {
     "sn": "57341",
-    "title": "Creation & Acceptance",
+    "title": "Creation & Reconciliation",
     "desc": "Increase dmg by %s.",
     "BuffDesc": "AAAAAA==",
     "addText": "AAAAAA==",
@@ -24960,7 +25131,7 @@
     "sn": "5021015",
     "title": "Berserk",
     "desc": "Increase dmg by 5%.",
-    "BuffDesc": "B<color=#000000>e</color>rserk",
+    "BuffDesc": "AAAAAA==",
     "addText": "AAAAAA==",
     "removeText": "AAAAAA==",
     "calText": "AAAAAA=="
@@ -24978,7 +25149,7 @@
     "sn": "5021113",
     "title": "Weakened",
     "desc": "Increase dmg taken.",
-    "BuffDesc": "W<color=#000000>e</color>aken",
+    "BuffDesc": "AAAAAA==",
     "addText": "Weakened!",
     "removeText": "AAAAAA==",
     "calText": "AAAAAA=="
@@ -24996,7 +25167,7 @@
     "sn": "5031015",
     "title": "Angel's Bindings",
     "desc": "Decrease final dmg by 30%.",
-    "BuffDesc": "A<color=#000000>n</color>gel's Bindings",
+    "BuffDesc": "AAAAAA==",
     "addText": "Received Angel's Bindings, and final damage decreased...",
     "removeText": "AAAAAA==",
     "calText": "AAAAAA=="
@@ -25005,7 +25176,7 @@
     "sn": "5041012",
     "title": "Death Stare",
     "desc": "Targeted by Shadows.",
-    "BuffDesc": "D<color=#000000>e</color>ath Stare",
+    "BuffDesc": "AAAAAA==",
     "addText": "%s is under a Death Stare...",
     "removeText": "AAAAAA==",
     "calText": "AAAAAA=="
@@ -25014,7 +25185,7 @@
     "sn": "5041112",
     "title": "Vajra Curse",
     "desc": "Decrease dmg by 50%.",
-    "BuffDesc": "V<color=#000000>a</color>jra Curse",
+    "BuffDesc": "AAAAAA==",
     "addText": "Damage decreased!",
     "removeText": "AAAAAA==",
     "calText": "AAAAAA=="
@@ -25023,7 +25194,7 @@
     "sn": "5061011",
     "title": "Azure Scales",
     "desc": "Decrease dmg taken by %s for each stack.",
-    "BuffDesc": "A<color=#000000>z</color>ure Scales",
+    "BuffDesc": "AAAAAA==",
     "addText": "Gained 1 Azure Scales stack!",
     "removeText": "AAAAAA==",
     "calText": "AAAAAA=="
@@ -25032,7 +25203,7 @@
     "sn": "5061012",
     "title": "Azure Scales",
     "desc": "Decrease dmg taken by %s for each stack.",
-    "BuffDesc": "A<color=#000000>z</color>ure Scales",
+    "BuffDesc": "AAAAAA==",
     "addText": "Gained 2 Azure Scales stack!",
     "removeText": "AAAAAA==",
     "calText": "AAAAAA=="
@@ -25123,6 +25294,24 @@
     "title": "Ranged Damage Taken Up",
     "desc": "Increase ranged attack dmg taken by %s.",
     "BuffDesc": "AAAAAA==",
+    "addText": "AAAAAA==",
+    "removeText": "AAAAAA==",
+    "calText": "AAAAAA=="
+  },
+  {
+    "sn": "5171011",
+    "title": "Divine Protection",
+    "desc": "Decrease dmg by %s.",
+    "BuffDesc": "D<color=#000000>i</color>vine Protection",
+    "addText": "Gained 6 Divine Protection!",
+    "removeText": "Destroyed 1 Divine Protection!",
+    "calText": "AAAAAA=="
+  },
+  {
+    "sn": "5171012",
+    "title": "Divine Blessing",
+    "desc": "Increase dmg by %s.",
+    "BuffDesc": "D<color=#000000>i</color>vine Blessing",
     "addText": "AAAAAA==",
     "removeText": "AAAAAA==",
     "calText": "AAAAAA=="
@@ -25678,7 +25867,7 @@
   },
   {
     "sn": "590233",
-    "title": "Hunter's Instincts",
+    "title": "Hunter's Instinct",
     "desc": "Increase critical rate by %s.",
     "BuffDesc": "AAAAAA==",
     "addText": "AAAAAA==",
@@ -25687,7 +25876,7 @@
   },
   {
     "sn": "590234",
-    "title": "Hunter's Instincts",
+    "title": "Hunter's Instinct",
     "desc": "Increase critical dmg by %s.",
     "BuffDesc": "AAAAAA==",
     "addText": "AAAAAA==",
@@ -25696,7 +25885,7 @@
   },
   {
     "sn": "590235",
-    "title": "Hunter's Instincts",
+    "title": "Hunter's Instinct",
     "desc": "Increase dmg by %s.",
     "BuffDesc": "AAAAAA==",
     "addText": "AAAAAA==",

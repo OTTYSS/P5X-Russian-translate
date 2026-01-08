@@ -405,7 +405,7 @@
   },
   {
     "sn": "1000113",
-    "textContent": "I ought to thank ya for goin' all out!\nThose items'll be replenished in a jiffy."
+    "textContent": "I ought to thank ya for goin' all out! Those items'll be replenished in a jiffy."
   },
   {
     "sn": "1000114",
@@ -881,7 +881,7 @@
   },
   {
     "sn": "1019502",
-    "textContent": "Wonder's role changes based on his equipped Personas."
+    "textContent": "Wonder has no role, but displays the role of the equipped Persona."
   },
   {
     "sn": "1020000",
@@ -1425,7 +1425,7 @@
   },
   {
     "sn": "1020240",
-    "textContent": "Added to your collection on: %s"
+    "textContent": "Unlock the %s collection."
   },
   {
     "sn": "1021001",
@@ -1597,7 +1597,7 @@
   },
   {
     "sn": "1022029",
-    "textContent": "<color=#FFFC40>{0}</color> which is an exclusive weapon."
+    "textContent": "<color=#FFFC40>{0}</color> which is an exclusive weapon. "
   },
   {
     "sn": "1022030",
@@ -2073,11 +2073,11 @@
   },
   {
     "sn": "1027058",
-    "textContent": "In the Control Center of the Trials from the Sea of Souls, many players have been aiming for high scores against formidable opponents.\nAs of Version 2.5, the highest confirmed score was <color=#EF0000>239,318,662</color>."
+    "textContent": "In the Control Center of the Trials from the Sea of Souls, many players have been aiming for high scores against formidable opponents.\nAs of Version 2.5, the highest confirmed score was <color=#FF423F>229,665,122</color>."
   },
   {
     "sn": "1027059",
-    "textContent": "In the Gates of the Nightmare Catcher, Companios have banded together to battle against powerful foes.\nAs of Version 2.5, the highest-scoring Companio reached a combined score of <color=#FF423F>12,960,907,848</color>."
+    "textContent": "In the Gates of the Nightmare Catcher, Companios have banded together to battle against powerful foes.\nAs of Version 2.5, the highest-scoring Companio reached a combined score of \n<color=#FF423F>12,960,907,848</color>."
   },
   {
     "sn": "1028001",
@@ -2917,11 +2917,11 @@
   },
   {
     "sn": "1034084",
-    "textContent": "Weapons with the same star level can be used as materials."
+    "textContent": "Weapons with the same star level or\n%s can be used as materials."
   },
   {
     "sn": "1034085",
-    "textContent": "Weapons with the same name can be used as materials."
+    "textContent": "Weapons with the same name or \n%s can be used as materials."
   },
   {
     "sn": "1034086",
@@ -3717,11 +3717,11 @@
   },
   {
     "sn": "1043049",
-    "textContent": "Stage Boss"
+    "textContent": "Anon 1"
   },
   {
     "sn": "1043050",
-    "textContent": "Floor %d"
+    "textContent": "Anon %d"
   },
   {
     "sn": "1043051",
@@ -3741,7 +3741,7 @@
   },
   {
     "sn": "1043064",
-    "textContent": "Unlocks by clearing the tutorial stage and Puzzle Bots stage %s"
+    "textContent": "Clear the tutorial stage and Chess Chase stage %s to unlock"
   },
   {
     "sn": "1043065",
@@ -3849,7 +3849,7 @@
   },
   {
     "sn": "1043082",
-    "textContent": "a 5★ Phantom Thief's weapon!"
+    "textContent": "a 5★ Phantom Thief's Cognitite!"
   },
   {
     "sn": "1043083",
@@ -5589,7 +5589,7 @@
   },
   {
     "sn": "1081033",
-    "textContent": "Preset Plan {0}"
+    "textContent": "Preset {0}"
   },
   {
     "sn": "1081998",
@@ -6778,6 +6778,34 @@
   {
     "sn": "2001037",
     "textContent": "How to Obtain"
+  },
+  {
+    "sn": "1094001",
+    "textContent": "Season Goals"
+  },
+  {
+    "sn": "1094002",
+    "textContent": "Weekly Goals"
+  },
+  {
+    "sn": "1094003",
+    "textContent": "After clearing all Stellae, earn the following rewards for each remaining Willpower:\n<link=\"itemTips|302021\"><u><color=#29b6ff>Stardust Gems x20</color></u></link>\n<link=\"itemTips|302011\"><u><color=#29b6ff>Stardust Bottles x40</color></u></link>\n<link=\"itemTips|302001\"><u><color=#29b6ff>Stardust Shards x450</color></u></link>"
+  },
+  {
+    "sn": "1094004",
+    "textContent": "Left: %s"
+  },
+  {
+    "sn": "1094005",
+    "textContent": "Time Left: %s h %s m"
+  },
+  {
+    "sn": "1094006",
+    "textContent": "Time Left: %s m"
+  },
+  {
+    "sn": "1094007",
+    "textContent": "Willpower: %d"
   },
   {
     "sn": "2001038",
@@ -7985,11 +8013,11 @@
   },
   {
     "sn": "2001339",
-    "textContent": "Palace Progress"
+    "textContent": "Palace Progress "
   },
   {
     "sn": "2001340",
-    "textContent": "Rewards"
+    "textContent": "Reward"
   },
   {
     "sn": "2001341",
@@ -8553,7 +8581,7 @@
   },
   {
     "sn": "2001484",
-    "textContent": "Quick Filter"
+    "textContent": "Filter"
   },
   {
     "sn": "2001485",
@@ -10813,7 +10841,7 @@
   },
   {
     "sn": "2002106",
-    "textContent": "Clear this difficulty to automatically clear challenges below selected level."
+    "textContent": "Clear this difficulty to automatically clear lower-level challenges."
   },
   {
     "sn": "2002107",
@@ -10885,7 +10913,7 @@
   },
   {
     "sn": "2002123",
-    "textContent": "Recieve rewards for clearing all stages of Relativity's Labyrinth"
+    "textContent": "Receive rewards for clearing all stages of Relativity's Labyrinth"
   },
   {
     "sn": "2002124",
@@ -12293,7 +12321,7 @@
   },
   {
     "sn": "2002505",
-    "textContent": "<color=#FF423F>%s</color>, the young man who awakened to the power of Persona. As the Phantom Thief \"Wonder\", you resolved to return the desire that had been stolen from the world.\nSince then, it has been <color=#FF423F>%s days</color>... As the leader of the Phantom Thieves, you have reached Level <color=#FF423F>%s</color>. To date, you have spent \n<color=#FF423F>%s Stamina, %s Action Points, and %s yen</color>... And you continue to give it your all as you balance your double life as a regular student and a Phantom Thief."
+    "textContent": "<color=#FF423F>%s</color>, the young man who awakened to the power of Persona. As the Phantom Thief \"Wonder\", you resolved to return the desire that had been stolen from the world.\nSince then, it has been <color=#FF423F>%s days</color>... As the leader of the Phantom Thieves, you have reached Level <color=#FF423F>%s</color>. To date, you have spent\n<color=#FF423F>%s Stamina, %s Action Points, and %s yen</color>... And you continue to give it your all as you balance your double life as a regular student and a Phantom Thief."
   },
   {
     "sn": "2002506",
@@ -12301,7 +12329,7 @@
   },
   {
     "sn": "2002507",
-    "textContent": "In this world where desires have been stolen...\nYou have formed bonds with <color=#FF423F>%s Accomplices</color>. Among them, you became <color=#FF423F>Close Friends</color> with <color=#FF423F>%s</color> and <color=#FF423F>Soulmates</color> with <color=#FF423F>%s</color>. Your deepest bonds are with\n<color=#FF423F>%s</color>...\nYou have forged powerful connections at <color=#FF423F>Ranks %s</color>."
+    "textContent": "In this world where desires have been stolen...\nYou have formed bonds with <color=#FF423F>%s Accomplices</color>. Among them, you became <color=#FF423F>Close Friends</color> with <color=#FF423F>%s</color> and <color=#FF423F>Soulmates</color> with <color=#FF423F>%s</color>.Your deepest bonds are with\n<color=#FF423F>%s</color>...\nYou have forged powerful connections at <color=#FF423F>Ranks %s</color>."
   },
   {
     "sn": "2002508",
@@ -12353,27 +12381,27 @@
   },
   {
     "sn": "2002516",
-    "textContent": "*Text Confirmation Test Message\n\nMost-used Persona: <color=#EF0000>[12/1 total]</color>\nMost-used Persona's number of battles: <color=#EF0000>[12/1 total]</color>\n\nMost-used Super Rank or higher Persona: <color=#EF0000>[12/1 total]</color>\nNumber of battles used: <color=#EF0000>[12/1 total]</color>"
+    "textContent": "*Text Confirmation Test Message\n\nMost-used Persona: <color=#FF423F>[12/1 total]</color>\nMost-used Persona's number of battles: <color=#FF423F>[12/1 total]</color>\n\nMost-used Super Rank or higher Persona: <color=#FF423F>[12/1 total]</color>\nNumber of battles used: <color=#FF423F>[12/1 total]</color>"
   },
   {
     "sn": "2002517",
-    "textContent": "*Text Confirmation Test Message\n\nMost-used weapon: <color=#EF0000>[12/1 total]</color>\nNumber of battles used: <color=#EF0000>[12/1 total]</color>"
+    "textContent": "*Text Confirmation Test Message\n\nMost-used weapon: <color=#FF423F>[12/1 total]</color>\nNumber of battles used: <color=#FF423F>[12/1 total]</color>"
   },
   {
     "sn": "2002518",
-    "textContent": "*Text Confirmation Test Message\n\nCity Life activities: <color=#EF0000>[12/1 total]</color>\nMost popular category: <color=#EF0000>[12/1 total]</color>\nActivities done: <color=#EF0000>[12/1 total]</color>\nMost popular activity name: <color=#EF0000>[12/1 total]</color>\nTimes done <color=#EF0000>[12/1 total]</color>"
+    "textContent": "*Text Confirmation Test Message\n\nCity Life activities: <color=#FF423F>[12/1 total]</color>\nMost popular category: <color=#FF423F>[12/1 total]</color>\nActivities done: <color=#FF423F>[12/1 total]</color>\nMost popular activity name: <color=#FF423F>[12/1 total]</color>\nTimes done <color=#FF423F>[12/1 total]</color>"
   },
   {
     "sn": "2002519",
-    "textContent": "*Text Confirmation Test Message\n\nPart-time job shifts worked: <color=#EF0000>[12/1 total]</color>\nMost popular part-time job: <color=#EF0000>[12/1 total]</color>\nMost improved social stat at part-time jobs: <color=#EF0000>[12/1 total]</color>"
+    "textContent": "*Text Confirmation Test Message\n\nPart-time job shifts worked: <color=#FF423F>[12/1 total]</color>\nMost popular part-time job: <color=#FF423F>[12/1 total]</color>\nMost improved social stat at part-time jobs: <color=#FF423F>[12/1 total]</color>"
   },
   {
     "sn": "2002520",
-    "textContent": "*Text Confirmation Test Message\n\nMost-prepared cooking dish: <color=#EF0000>[12/1 total]</color>\nTimes prepared: <color=#EF0000>[12/1 total]</color>"
+    "textContent": "*Text Confirmation Test Message\n\nMost-prepared cooking dish: <color=#FF423F>[12/1 total]</color>\nTimes prepared: <color=#FF423F>[12/1 total]</color>"
   },
   {
     "sn": "2002521",
-    "textContent": "*Text Confirmation Test Message\n\nTimes outfits changed: <color=#EF0000>[12/1 total]</color>\nMost popular clothes: <color=#EF0000>[12/1 total]</color>\nTotal outfit changes: <color=#EF0000>[12/1 total]</color>"
+    "textContent": "*Text Confirmation Test Message\n\nTimes outfits changed: <color=#FF423F>[12/1 total]</color>\nMost popular clothes: <color=#FF423F>[12/1 total]</color>\nTotal outfit changes: <color=#FF423F>[12/1 total]</color>"
   },
   {
     "sn": "2002522",
@@ -12568,24 +12596,16 @@
     "textContent": "%s attempts"
   },
   {
-    "sn": "2002570",
-    "textContent": "The progress route is not unlocked."
-  },
-  {
-    "sn": "2002571",
-    "textContent": "Unlocks after earning %s stars in the Velvet Trials."
-  },
-  {
     "sn": "2002572",
     "textContent": "Battle %"
   },
   {
     "sn": "2002573",
-    "textContent": "Stella Passed: "
+    "textContent": "Stellae Passed: "
   },
   {
     "sn": "2002575",
-    "textContent": "Willpower Cost: "
+    "textContent": "Willpower Spent: "
   },
   {
     "sn": "2002576",
@@ -12741,19 +12761,19 @@
   },
   {
     "sn": "2002624",
-    "textContent": "You can now place this item in the Thieves Den!"
+    "textContent": "Items can be placed in the Thieves Den!"
   },
   {
     "sn": "2002625",
-    "textContent": "You can now display this illustration in the Thieves Den!"
+    "textContent": "You can display illustrations in the Thieves Den"
   },
   {
     "sn": "2002626",
-    "textContent": "You can now play this music in the Thieves Den!"
+    "textContent": "You can choose the background music for the Thieves Den"
   },
   {
     "sn": "2002627",
-    "textContent": "You can now go to the second floor and change your appearance!"
+    "textContent": "You can change your appearance from the second floor"
   },
   {
     "sn": "2002628",
@@ -12833,7 +12853,7 @@
   },
   {
     "sn": "2002718",
-    "textContent": "You must use Willpower and challenge attempts to take on Stella.\nFrom the start of each trial period, your Willpower and challenge attempts will increase every 7 days, for a total of 3 times.\nMax Willpower: <color=#FFC000>%s</color>\nMax challenge attempts: <color=#FFC000>%s</color>"
+    "textContent": "You must use Willpower and challenge attempts to take on Stellae.\nFrom the start of each trial period, your Willpower and challenge attempts will increase every 7 days, for a total of 3 times.\nMax Willpower: <color=#FFC000>%s</color>\nMax challenge attempts: <color=#FFC000>%s</color>"
   },
   {
     "sn": "2002719",
@@ -12953,7 +12973,7 @@
   },
   {
     "sn": "2002670",
-    "textContent": "Turns Left: "
+    "textContent": "Attack Turns Left: "
   },
   {
     "sn": "2002675",
@@ -13025,7 +13045,7 @@
   },
   {
     "sn": "2002734",
-    "textContent": "Doll Name"
+    "textContent": "Plushie Name"
   },
   {
     "sn": "2002735",
@@ -13037,15 +13057,15 @@
   },
   {
     "sn": "2002738",
-    "textContent": "After <color=#FF423F>%s</color>:"
+    "textContent": "In <color=#FF423F>%s</color>:"
   },
   {
     "sn": "2002739",
-    "textContent": "Your usable Willpower will increase by <color=#FFC000>%s</color> (max %s)."
+    "textContent": "Willpower will increase by <color=#FFC000>%s</color> (max %s)."
   },
   {
     "sn": "2002740",
-    "textContent": "The number of Thieves you can send will increase by <color=#FFC000>%s</color> (max %s)."
+    "textContent": "Challenge attempts will increase by <color=#FFC000>%s</color> (max %s)."
   },
   {
     "sn": "2002741",
@@ -13058,6 +13078,18 @@
   {
     "sn": "2002769",
     "textContent": "Points:"
+  },
+  {
+    "sn": "2002775",
+    "textContent": "Clear any <color=#ff0000>previous Stellae</color> to unlock"
+  },
+  {
+    "sn": "2002776",
+    "textContent": "Clear <color=#ff0000>%s</color> to unlock"
+  },
+  {
+    "sn": "2002777",
+    "textContent": "Clear <color=#ff0000>%s Stellae</color> to unlock"
   },
   {
     "sn": "2002788",
@@ -13573,7 +13605,7 @@
   },
   {
     "sn": "2303344",
-    "textContent": "Clear %s"
+    "textContent": "Unlocks after clearing %s in the story."
   },
   {
     "sn": "2303387",
@@ -13590,5 +13622,17 @@
   {
     "sn": "2303392",
     "textContent": "Selections: <color=#D70100>%s</color>/%s"
+  },
+  {
+    "sn": "2303280",
+    "textContent": "Can use weapons of the same name"
+  },
+  {
+    "sn": "1043123",
+    "textContent": "Clear all of Plan <sprite=12 tint=1> to obtain"
+  },
+  {
+    "sn": "1043124",
+    "textContent": "a 5★ Phantom Thief's weapon!"
   }
 ]
