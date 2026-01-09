@@ -157,7 +157,7 @@ Haruna Nishimori=Харуна Нисимори
 Kayo Tomiyama=Каё Томийяма
 Kira Kitazato=Кира Китадзато
 Kiyoshi Kurotani=Киёши Куротани
-Kotone Montagne=Котоне Монтень
+Kotone Montagne=Котоне Монтань
 L<#000000,u,#FFFFFF>fel=Л<#000000,u,#FFFFFF>фел
 Leo Kamiyama=Лео Камийяма
 Lu<#000000,f,#FFFFFF>el=Лу<#000000,f,#FFFFFF>эль
@@ -282,8 +282,8 @@ Yusuke Kitagawa=Юске Китагава
 <color\=#FFC000>%s %s</color> added to playlist.=<color\=#FFC000>%s %s</color> добавлено в плейлист.
 <color\=#FFC000>%s %s</color> removed from playlist.=<color\=#FFC000>%s %s</color> удалено из плейлиста.
 <color\=#FFC000>Persona Fusion</color> has been unlocked.=Слияние Персон <color\=#FFC000>разблокировано</color>.
-r:"^<color\=#FFDE00>(.+?)</color> is not yet part of your team\. Exchange for their Awareness\?\nAwareness can only be used if the corresponding Phantom Thief has joined you\. It will be stored in your bag as an item until ready to use\.$"="<color\=#FFDE00>$1</color> пока не в вашей команде. Обменять на Озарение?\nОзарение можно использовать только после того, как соответствующий Призрачный Похититель присоединится к вам. Оно будет храниться в вашей сумке как предмет, пока не будет готово к использованию."
-r:"^<color\=#FFDE00>(.+?)</color> is part your team\. Exchange for their Awareness\?\nAwareness can only be used if the corresponding Phantom Thief has joined you\. It will be stored in your bag as an item until ready to use\.$"="<color\=#FFDE00>$1</color> в вашей команде. Обменять на Озарение?\nОзарение можно использовать только после того, как соответствующий Призрачный Похититель присоединится к вам. Оно будет храниться в вашей сумке как предмет, пока не будет готово к использованию."
+r:"^<color\=#FFDE00>(.+?)</color> is not yet part of your team\. Exchange for their Awareness\?\nAwareness can only be used if the corresponding Phantom Thief has joined you\. It will be stored in your bag as an item until ready to use\.$"="<color\=#FFDE00>$1</color> пока не в вашей команде. Обменять на Озарение?\nОзарение можно использовать только после того, как соответствующий Фантомный вор присоединится к вам. Оно будет храниться в вашей сумке как предмет, пока не будет готово к использованию."
+r:"^<color\=#FFDE00>(.+?)</color> is part your team\. Exchange for their Awareness\?\nAwareness can only be used if the corresponding Phantom Thief has joined you\. It will be stored in your bag as an item until ready to use\.$"="<color\=#FFDE00>$1</color> в вашей команде. Обменять на Озарение?\nОзарение можно использовать только после того, как соответствующий Фантомный вор присоединится к вам. Оно будет храниться в вашей сумке как предмет, пока не будет готово к использованию."
 <color\=#FFF000>%s</color> can't be in your party with <color\=#FFF000>%s</color>. Would you like to swap them?=<color\=#FFF000>%s</color> не может быть в вашей команде вместе с <color\=#FFF000>%s</color>. Хотите поменять их местами?
 <size\=36><keySn>403</keySn><keySn>404</keySn><keySn>405</keySn><keySn>406</keySn></size> cannot be changed=<size\=36><keySn>403</keySn><keySn>404</keySn><keySn>405</keySn><keySn>406</keySn></size> нельзя изменить
 <size\=36><keySn>403</keySn><keySn>404</keySn><keySn>405</keySn><keySn>406</keySn></size> cannot be changed with current settings=<size\=36><keySn>403</keySn><keySn>404</keySn><keySn>405</keySn><keySn>406</keySn></size> нельзя изменить с текущими настройками
@@ -936,7 +936,7 @@ Do you want to return to the Mementos entrance and regroup?=Хотите вер�
 Do you want to return to the city without doing club activities?=Хотите вернуться в город без клубных занятий?
 Do you want to save the battle effects you changed?=Вы хотите сохранить изменённые эффекты боя?
 Do you want to save these changes?=Хотите сохранить изменения?
-r:"^Do you want to select (.+?)\?\nIt can only be equipped after corresponding Phantom Thief is unlocked\.$"="Хотите выбрать $1?\nЭкипировать можно только после разблокировки соответствующего Призрачного Похитителя."
+r:"^Do you want to select (.+?)\?\nIt can only be equipped after corresponding Phantom Thief is unlocked\.$"="Хотите выбрать $1?\nЭкипировать можно только после разблокировки соответствующего Фантомного вора."
 Do you want to send these Phantom Thieves?=Хочешь отправить этих Фантомных воров?
 Do you want to sing at karaoke?\nIt costs <color\=#FF423F>1,500 yen</color>.=Хочешь петь в караоке? это стоит <color\=#FF423F>1500 иен</color>.
 Do you want to skip reading this book?=Хотите пропустить чтение этой книги?
@@ -1433,21 +1433,21 @@ Hmmm... maybe you should\nswitch to better bait?=Хммм... может, сме�
 Hmph! Cowards.=Хмф! Трусы.
 Hmph, I see... In that case, I let us return...=Хмф, понимаю... В таком случае, давайте вернёмся...
 Hmph, it seems it doesn't open.\nSo be it.=Хмф, похоже, не открывается.\nЧто ж, пусть.
-Hoho, I didn't expect to get my hands on something like this.=Ху-ху, не ожидал заполучить нечто подобное.
-Home Run Award complete!\nAim for the next challenge.=Награда Home Run получена!\nТеперь к следующему испытанию.
+Hoho, I didn't expect to get my hands on something like this.=Хо-хо, не ожидал заполучить нечто подобное.
+Home Run Award complete!\nAim for the next challenge.=Награда за хоум-ран получена! Вперёд к следующему испытанию.
 Home level rewards have already been claimed.=Награды домашнего уровня уже получены.
 Honestly... I'm pretty pumped for this.=Честно... Я довольно взволнован этим.
 Hoo boy... That was a total failure.=Ху, блин... Полный провал.
 Hoo hoo! A new high score, pretty good!=Ху-ху! Новый рекорд, неплохо!
 Hoo... am I?=Ху... я?
-Hooaaah! Now you've\ndone it... Aim properly!=хоуаах! Теперь ты\nэто сделал... Целься правильно!
+Hooaaah! Now you've\ndone it... Aim properly!=Ху-у-а-ах! Ну вот, получилось... Целься как следует!
 Hoohoo! A new high score! Not bad!=Ху-ху! Новый рекорд! Неплохо!
 Hoohoo! I didn't expect to see\nsuch a brilliant performance!=Ху-ху! Yе ожидал увидеть такое блестящее выступление!
 Hoohoo! Your first home run!\nYou can collect your first Home Run Award.=Ху-ху! Твой первый хоум-ран! Можешь получить свою первую награду Home Run.
-Hoohoom, an impressive performance indeed.\nKeep up the good work.=Ху-хум, впечатляющее выступление. Продолжай в том же духе.
+Hoohoom, an impressive performance indeed.\nKeep up the good work.=Ху-хум, впечатляет. Продолжай в том же духе.
 Hoom, impressive.=Хум, впечатляет.
 Hoom, not bad.=Хум, неплохо.
-Hoom, we've seen this one before. I suppose\nthat's how the cookie crumbles...=Хум, такое мы уже видели. Видимо,\nтак уж суждено...
+Hoom, we've seen this one before. I suppose\nthat's how the cookie crumbles...=Хум, такое мы уже видели. Видимо, так уж суждено...
 Hoomph, a meager score. Let's see\nif you can reach new heights\nnext time.=Хумф, скромный счёт. Посмотрим, получится ли у тебя в следующий раз набрать больше очков.
 Hope I can get something\ngood from this.=Надеюсь, из этого выйдет что-то хорошее.
 Hope it's something good!=Надеюсь, это что-то хорошее!
@@ -1881,7 +1881,7 @@ Impressive, if I may say so myself.=Впечатляюще, если можно 
 In addition to Wonder, you must deploy <color\=#FFD145>%s</color> Phantom Thieves.=В дополнение к Вандеру, вы должны развернуть <color\=#FFD145>%s</color> Фантомных воров.
 In order to receive task rewards in a timely manner, it is recommended to turn on push notifications for the game.\nNotifications will be sent if there are task rewards to claim.\nNotifications will be sent at 1:00 AM, 3:00 AM, 9:00 AM, and 11:00 AM (UTC).=Чтобы своевременно получать награды за задания,\nрекомендуется включить push-уведомления для игры.\nУведомления будут отправлены, если есть награды за задания.\nУведомления будут отправлены в 1:00, 3:00, 9:00 и 11:00 (UTC).
 In other words... there are other priorities?=Другими словами... есть другие приоритеты?
-r:"^In recommended contracts\, you can lock <color\=#FF423F>3</color> Phantom Thieves\.\nOnce the contract is confirmed\, <color\=#FF423F>(.+?)</color>(.+?) will have <color\=#FF423F>one lock applied</color>\.\nWould you like to start the contract\?\nCaution\: When the card pool is active\, the only UP characters that can be selected will be from the 3 locked Phantom Thieves\, so please choose carefully\.$"="В рекомендованных контрактах вы можете заблокировать <color\=#FF423F>3</color> Призрачных Похитителей.\nПосле подтверждения контракта, <color\=#FF423F>$1</color>$2 будет применён <color\=#FF423F>один замок</color>.\nХотите начать контракт?\nВнимание: При активном пуле карт, доступными UP-персонажами станут только 3 заблокированных Призрачных Похитителя, поэтому выбирайте внимательно."
+r:"^In recommended contracts\, you can lock <color\=#FF423F>3</color> Phantom Thieves\.\nOnce the contract is confirmed\, <color\=#FF423F>(.+?)</color>(.+?) will have <color\=#FF423F>one lock applied</color>\.\nWould you like to start the contract\?\nCaution\: When the card pool is active\, the only UP characters that can be selected will be from the 3 locked Phantom Thieves\, so please choose carefully\.$"="В рекомендованных контрактах вы можете заблокировать <color\=#FF423F>3</color> Фантомных воров.\nПосле подтверждения контракта, <color\=#FF423F>$1</color>$2 будет применён <color\=#FF423F>один замок</color>.\nХотите начать контракт?\nВнимание: При активном пуле карт, доступными UP-персонажами станут только 3 заблокированных Фантомных воров, поэтому выбирайте внимательно."
 In the cleared difficulty level, <color\=#FF423F>Agitated Shadows</color>can be insta-killed.=На пройденном уровне сложности <color\=#FF423F>Возмущенные Тени</color> могут быть убиты мгновенно.
 In the name of\nMiyazawa-sama,\nI shall ascend!=Во имя\nМиядзава-сама,\nя вознесусь!
 Inappropriate message. Please re-enter.=Недопустимое сообщение. Введите заново.
@@ -3110,7 +3110,7 @@ Such a boring mistake to make...=Какая скучная ошибка...
 Such graceful movements, and\nthen... a sudden flash!\nTruly magnificent.=Такие грациозные движения, а\nпотом... внезапный всплеск!\nПоистине великолепно.
 Summer really kicks me\ninto gear!=Лето действительно приводит меня в движение!
 Summer's just getting started!\nI'm ready for more!=Лето только начинается! Я готов к большему!
-Sun-marked cards main attribute is fixed as HP and cannot be changed.=Основной атрибут карт с солнечной меткой — HP, его нельзя изменить.
+Sun-marked cards main attribute is fixed as HP and cannot be changed.=Основной атрибут карт с солнечной меткой — ОЗ, его нельзя изменить.
 Sure am hungry...=Как же я голоден...
 Sure, if it means I get to put\nmy skills into action.=Конечно, если это значит, что я смогу\nприменить свои навыки.
 Sure. I'll head out right away.=Конечно. Я сразу выхожу.
@@ -3921,7 +3921,7 @@ Unlocked after clearing Crossroads of Fate: Castle Arc 1-1.=Разблокиру
 r:"^Unlocked after clearing (.+?)\.$"="Разблокируется после прохождения $1."
 Unlocked after obtaining %s.=Разблокировано после получения %s.
 Unlocked after obtaining the required skill.=Разблокируется после получения нужного навыка.
-Unlocked at Synergy Rank 17 with Kotone Montagne=Разблокируется при 17 ранге Синергии с Котоне Монтень.
+Unlocked at Synergy Rank 17 with Kotone Montagne=Разблокируется при 17 ранге Синергии с Котоне Монтань.
 Unlocked at level %s.=<size\=25>Разблокируется на %s уровне.</size>
 Unlocked by clearing the required stage.=Разблокировано после прохождения требуемого этапа.
 Unlocked by completing event goals and earning rewards. View event objectives?=Разблокировано за выполнение целей событий и получение наград. Посмотреть цели события?
@@ -4584,7 +4584,7 @@ You can set up to %s Personas with the %s role in your party.=Вы можете 
 You can set up to %s Phantom Thieves with the %s attribute in your party.=Вы можете назначить до %s Фантомных воров с атрибутом %s в группе.
 You can set up to %s Phantom Thieves with the %s role in your party.=Вы можете назначить до %s Фантомных воров с ролью %s в группе.
 You can set up to three tags.=Можно установить до трех тегов.
-r:"^You can set up to (.+?) (.+?) Phantom Thieves with the (.+?) attribute in your party\.$"="Вы можете разместить до $1 $2 Призрачных Похитителей с атрибутом $3 в вашей группе."
+r:"^You can set up to (.+?) (.+?) Phantom Thieves with the (.+?) attribute in your party\.$"="Вы можете разместить до $1 $2 Фантомных воров с атрибутом $3 в вашей группе."
 You can unlock this character by getting their Invite at the Companio Shop.=Вы можете разблокировать этого персонажа, получив его Приглашение в Магазине Компанио.
 You can unlock this character by raising your Synergy with Masaki Ashiya.=Вы можете разблокировать этого персонажа, повысив свою Синергию с Масаки Асией.
 You can unlock this shape by completing the festival schedule. Do you want to jump there now?=Эта форма станет доступна после выполнения расписания фестиваля. Перейти туда сейчас?
@@ -4878,7 +4878,7 @@ You have selected equipment that has been upgraded. Do you want to enhance it?=�
 You have stepped down.=Вы сложили полномочия.
 You haven't cleared the %s %s, so %s hasn't been unlocked.=Ты не прошел %s %s, поэтому %s не был разблокирован.
 You haven't met the recommended party conditions. Do you want to use this party anyway?=Ты не выполнила рекомендованные условия для вечеринки. Ты хочешь использовать эту вечеринку всё равно?
-r:"^You haven\'t obtained (.+?)\. You do not have the Phantom Thief who can wear this outfit\, but do you still want to purchase it\?$"="Вы не получили $1. У вас нет Призрачного Вора, который может носить этот наряд, но вы все равно хотите его приобрести?"
+r:"^You haven\'t obtained (.+?)\. You do not have the Phantom Thief who can wear this outfit\, but do you still want to purchase it\?$"="Вы не получили $1. У вас нет Фантомного вора, который может носить этот наряд, но вы все равно хотите его приобрести?"
 You haven't saved this team formation. Do you want to save it?=Вы не сохранили этот состав. Сохранить?
 You haven't set which Thieves to send on the task.=Вы не указали, каких Воров отправить на задание.
 You haven't unlocked that dungeon yet.=Вы ещё не открыли это Подземелье.
@@ -4949,7 +4949,7 @@ You two seem close enough already.\nSpend time together anyway?=Вы и так �
 You two seem close enough already.\nSpend time with each other without giving a gift?=Вы и так уже близки.\nПровести время вместе без подарка?
 You unlocked the City Life activity Talk with Shishida.\nThere is a chance for it to appear each day.=Вы разблокировали городскую активность: Поговорить с Шишидой.\nЕсть шанс, что она появится каждый день.
 You unlocked the City Life activity\n<color\=#ffc000>Camerawork with Rikuto Shimizu</color>.\nThere is a chance for it to appear each day.=Вы разблокировали активность жизни в городе\n<color\=#ffc000>Работа с камерой с Рикудо Симизу</color>.\nОна может появляться каждый день.
-You unlocked the City Life activity\n<color\=#ffc000>Chihaya's Fortune-Telling</color>.\nThere is a chance for it to appear each day.=Вы разблокировали активность жизни в городе\n<color\=#ffc000>Гадание Чихаи</color>.\nОна может появляться каждый день.
+You unlocked the City Life activity\n<color\=#ffc000>Chihaya's Fortune-Telling</color>.\nThere is a chance for it to appear each day.=Вы разблокировали активность жизни в городе\n<color\=#ffc000>Гадание Чихайи</color>.\nОна может появляться каждый день.
 You unlocked the City Life activity\n<color\=#ffc000>Exploring with Haruna</color>.\nThere is a chance for it to appear each day.=Вы разблокировали городскую активность\n<color\=#ffc000>Исследование с Харуной</color>.\nЕсть шанс, что она появится каждый день.
 You unlocked the City Life activity\n<color\=#ffc000>Help Yuta Sato</color>.\nThere is a chance for it to appear each day.=Вы разблокировали активность жизни в городе\n<color\=#ffc000>Помощь Юте Сато</color>.\nОна может появляться каждый день.
 You unlocked the City Life activity\n<color\=#ffc000>Listen to Ayaka's song</color>.\nThere is a chance for it to appear each day.=Вы разблокировали активность жизни в городе\n<color\=#ffc000>Послушать песню Аяки</color>.\nОна может появляться каждый день.
@@ -4962,7 +4962,7 @@ You unlocked the City Life activity\n<color\=#ffc000>Talk to Shichi-kun</color>.
 You unlocked the City Life activity\n<color\=#ffc000>Talk to Shishida</color>.\nThere is a chance for it to appear each day.=Вы разблокировали активность Городская жизнь <color\=#ffc000>Разговор с Сисидой</color>. Каждый день есть шанс, что она появится.
 You unlocked the City Life activity\n<color\=#ffc000>Talk to Tosabayashi</color>.\nThere is a chance for it to appear each day.=Вы разблокировали активность жизни в городе\n<color\=#ffc000>Поговорить с Тосабаяси</color>.\nОна может появляться каждый день.
 You unlocked the City Life activity\n<color\=#ffc000>Talk to Tsuda</color>.\nThere is a chance for it to appear each day.=Вы разблокировали активность жизни в городе\n<color\=#ffc000>Поговорить с Цуда</color>.\nОна может появляться каждый день.
-You unlocked the City Life activity\n<color\=#ffc000>Work at Heritage Kitchen</color>.\nThere is a chance for it to appear each day.=Вы разблокировали активность Городской Жизни\n<color\=#ffc000>Работа в «Старинной кухне»</color>.\nЕсть шанс, что она будет появляться каждый день.
+You unlocked the City Life activity\n<color\=#ffc000>Work at Heritage Kitchen</color>.\nThere is a chance for it to appear each day.=Вы разблокировали активность Городской Жизни\n<color\=#ffc000>Работа в «Старинной кухне»</color>. Есть шанс, что она будет появляться каждый день.
 You unlocked the City Life activity\n<color\=#ffc000>Yakitori Invitation</color>.\nThere is a chance for it to appear each day.=Вы разблокировали активность жизни в городе\n<color\=#ffc000>Приглашение на якитори</color>.\nОна может появляться каждый день.
 You unlocked the next stage.\nDo you want to Quick Clear this stage?=Вы открыли следующий этап.\nХотите быстро пройти этот этап?
 You want me to join?=Хочешь, чтобы я присоединился?
@@ -5022,7 +5022,7 @@ You've put your trust in me, so I can't let you down.=Ты вернулся. Я 
 You've reached the max Pass level.=Достигнут максимальный уровень пропуска.
 You've returned. I'd expect nothing less.=Ты действительно превзошел себя! Абсолютно спек-та-ку-лярно!
 You... You broke a new record!\nCongratulations! This is a tremendous\naccomplishment!=Ты... Ты побил рекорд!\nПоздравляю! Это грандиозное\nдостижение!
-Your <color\=#FF423F>home</color> is in Zoshigaya. Would you like\nto go back there now?=Ваш <color\=#FF423F>дом</color> находится в Зосигая. Хотите вернуться туда сейчас?
+Your <color\=#FF423F>home</color> is in Zoshigaya. Would you like\nto go back there now?=Ваш <color\=#FF423F>дом</color> находится в Зосигае. Хотите вернуться туда сейчас?
 Your Companio's name has been changed.=Название вашего «Компанио» изменено.
 Your Highlight is ready.\nNow, who will take the stage?=Хайлайт готов.\nКто теперь выйдет на сцену?
 Your Synergy Rank is not high enough, so this mission cannot be accepted.=Недостаточно ранга Синергии для принятия миссии.
