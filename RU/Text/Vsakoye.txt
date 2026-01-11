@@ -334,7 +334,7 @@ Attack=Атака
 Attack Percentage=Процент атаки
 Attack Turns Left:=Осталось ходов атаки:
 r:"^Attack (.+?) to obtain\.$"="Атакуйте $1 для получения."
-Attempts to reconnect %s/%s=Попытки переподключения %s/%s
+Attempts to reconnect %s/%s=попытки переподключения %s/%s
 Attribute=Атрибут
 Attribute Filter=Фильтр атрибутов
 Audio=Аудио
@@ -462,7 +462,7 @@ Can't raise Synergy Rank.=Невозможно повысить Ранг Син�
 Cancel=Отмена
 Cannot be inherited.=Не может быть унаследовано.
 Cannot exceed the level\nof the prerequisite skill.=Не может превышать уровень\nнавыка-требования.
-Cannot find Companio.=Не удалось найти Companio.
+Cannot find Companio.=Не удалось найти «Компанио».
 Cannot insta-kill=Не может мгновенно убить
 Cannot reach destination.=Невозможно достичь пункта назначения.
 Capsule Collection=Коллекция Капсул
@@ -484,7 +484,7 @@ Casualwear=Повседневная одежда
 Catch Log=Журнал улова
 Chal<size\=60>lenge=Испы<size\=60>тание
 Challenge=Испытание
-Challenge Attempts: %d/%d=Попыток испытания: %d/%d
+Challenge Attempts: %d/%d=попыток испытания: %d/%d
 Challenge Clear Win Rate: %0.1f=Процент побед в испытании: %0.1f
 Challenge Countdown:=Обратный отсчет испытания:
 Challenge Countdown: %s=Обратный отсчет испытания: %s
@@ -500,7 +500,7 @@ Challenge Rewards:=Награды за испытание:
 Challenge Stage Progress:=Прогресс этапа испытания:
 Challenge difficulty:=Сложность испытания:
 Challenge difficulty: %s=Сложность испытания: %s
-Challenged %s times=Попыток: %s
+Challenged %s times=попыток: %s
 Chamber of Recollections=Чёртог Воспоминаний
 Chance Encounter Rewards:=Награды за случайную встречу:
 Change=Изменить
@@ -918,7 +918,7 @@ Effects=Эффекты
 Effects Quality=Качество эффектов
 Elimination Rewards=Награды за победы
 Elucidator=Элюсидейтор
-Emote=Эмоция
+Emote=Эмоция:
 Enable Commission Reward Notifications=Включить уведомления о наградах за поручения
 Enable Push Notifications=Включить push-уведомления
 Enabled=Включено
@@ -1120,7 +1120,7 @@ Get extra rewards for crafting!=Получите дополнительные н
 Get rewards at each rank. Ranks reset every season.=Получайте награды на каждом ранге. Ранги сбрасываются каждый сезон.
 Get\nTomorrow=Получить\nЗавтра
 Gift Set=Подарочный набор
-Give your Companio a name.=Дайте имя вашему «Компанио»у.
+Give your Companio a name.=Дайте имя вашему «Компанио».
 Go=Перейти
 Go fishing to fill your Catch Log!=Отправляйтесь на рыбалку, чтобы заполнить журнал улова!
 Go to Recruitment=Перейти к набору
@@ -1151,7 +1151,7 @@ Harmony Effects=Эффекты Гармонии
 Haruna Nishimori=Харуна Нисимори
 Have=В наличии
 r:"^Have fewer than (.+?) customers leave$"="Ушедшие покупатели: не более $1"
-Have members of your Companio participate to earn rewards! Current total: <color\=#eade10>%s</color>=Привлекайте членов своего Companio к участию, чтобы получить награды! Текущая сумма: <color\=#eade10>%s</color>
+Have members of your Companio participate to earn rewards! Current total: <color\=#eade10>%s</color>=Привлекайте членов своего «Компанио» к участию, чтобы получить награды! Текущая сумма: <color\=#eade10>%s</color>
 Have:=В наличии:
 r:"^Have\: (.+?)$"="В наличии: $1"
 Hazard Details=Сведения об опасностях
@@ -1243,7 +1243,7 @@ In 1st place, the Tycoon gains (%s+%s) x 2/3 \= <color\=#87CEEB>%s coins</color>
 In 2nd place, the Rich gains (%s+%s) x 1/3 \= <color\=#87CEEB>%s coins</color>. %s=За 2-е место Богач получает (%s+%s) x 1/3 \= <color\=#87CEEB>%s монет</color>. %s
 In 3rd place, the Poor must pay <color\=#87CEEB>%s coins</color>. %s=За 3-е место Бедняк должен заплатить <color\=#87CEEB>%s монет</color>. %s
 In 4th place, the Beggar must pay <color\=#87CEEB>%s coins</color>. %s=За 4-е место Нищий должен заплатить <color\=#87CEEB>%s монет</color>. %s
-In <color\=#FFC000>%s</color>: Your Spiritual Endurance will increase by <color\=#FFC000>%s</color> (Max: %s). All Phantom Thieves' Challenge Attempts will increase by <color\=#FFC000>%s</color> (Max: %s).=В <color\=#FFC000>%s</color>: Ваша Духовная выносливость увеличится на <color\=#FFC000>%s</color> (Макс.: %s). Попытки прохождения испытаний всех Фантомных воров увеличатся на <color\=#FFC000>%s</color> (Макс.: %s).
+In <color\=#FFC000>%s</color>: Your Spiritual Endurance will increase by <color\=#FFC000>%s</color> (Max: %s). All Phantom Thieves' Challenge Attempts will increase by <color\=#FFC000>%s</color> (Max: %s).=В <color\=#FFC000>%s</color>: Ваша Духовная выносливость увеличится на <color\=#FFC000>%s</color> (Макс.: %s). попытки прохождения испытаний всех Фантомных воров увеличатся на <color\=#FFC000>%s</color> (Макс.: %s).
 In Endless Mode, sell as many as you can until you fail.=В Бесконечном режиме продавайте сколько сможете, пока не проиграете.
 In Progress=В процессе
 In accordance with the "Notice on the Management of Online Game Addiction among Minors" issued by the State Press Publishing House, minors can only log into the game between 8 pm and 9 pm on Fridays, Saturdays, Sundays, and public holidays.\n\nThank you for your understanding.=В соответствии с «Уведомлением об управлении зависимостью от онлайн-игр среди несовершеннолетних», изданным Государственным издательством печати, несовершеннолетние могут входить в игру только с 20:00 до 21:00 по пятницам, субботам, воскресеньям и в государственные праздники.\n\nСпасибо за понимание.
@@ -1350,7 +1350,7 @@ Level Up Rewards:=Награды за повышение уровня:
 Level limit reached. Please wait for the next version update.=Лимит уровня достигнут. Дождитесь следующего обновления версии.
 Level-Up Effect=Эффект повышения уровня
 Level: %s=Уровень: %s
-Leveling up or unlocking Mindscape level will earn Mindscape Points.=Повышая уровень или открывая уровни Майндскейпа, вы будете получать очки Майндскейпа.
+Leveling up or unlocking Mindscape level will earn Mindscape Points.=Повышая уровень или открывая уровни Пейзаж разумаа, вы будете получать очки Пейзаж разумаа.
 Levels Unlocked:=Открыто уровней:
 Like=Нравится
 Liked=Понравилось
@@ -1457,7 +1457,7 @@ Mementos=Мементос
 Memories\n%s/%s=Воспоминания\n%s/%s
 Memory=Воспоминание
 Merchandise Exchange Code: %s=Код обмена товаров: %s
-Merope=Меропа
+Merope=Меропе
 Message=Сообщение
 Message expired.=Срок действия сообщения истёк.
 Meta Jewels=Мета-самоцветы
@@ -1623,7 +1623,7 @@ Non-Wonder allies deal weakness/All-Out Attacks=Союзники, не отно�
 =Нет данных
 Normal=Обычный
 Normal Cleared=Обычный пройден
-Not Attempted=Не Попробовано
+Not Attempted=Не попробовано
 Not Bought=Не куплено
 Not Customized=Не настроено
 Not Equipped=Не экипировано
@@ -1631,7 +1631,7 @@ Not Joined=Не вступил
 Not Obtained=Не получено
 Not Registered=Не зарегистрировано
 Not Set=Не задано
-Not a Companio member.=Не член Companio.
+Not a Companio member.=Не член «Компанио».
 Not cleared=Не пройдено
 Not enough schema points.=Недостаточно очков схемы.
 Not found.=Не найдено.
@@ -1982,10 +1982,10 @@ Reject All=Отклонить все
 Remaining Today:=Осталось сегодня:
 Reminder to Play Responsibly=Напоминание: играйте ответственно
 Remove=Удалить
-Ren Amamiya=Рэн Амамия
-Ren's Butler Suit Set\n<color\=#FFFC40>Limited-Time Sale at the Shop</color>=Набор костюма дворецкого Рэна\n<color\=#FFFC40>Временная акция в магазине</color>
-Ren's Butler Suit Set\n<color\=#FFFC40>On sale for a limited time in the Shop!</color>=Набор костюма дворецкого Рэна\n<color\=#FFFC40>В продаже ограниченное время в магазине!</color>
-Ren-only Outfit:=Наряд только для Рэна:
+Ren Amamiya=Рен Амамия
+Ren's Butler Suit Set\n<color\=#FFFC40>Limited-Time Sale at the Shop</color>=Набор костюма Дворецкого Рена\n<color\=#FFFC40>Временная акция в магазине</color>
+Ren's Butler Suit Set\n<color\=#FFFC40>On sale for a limited time in the Shop!</color>=Набор костюма Дворецкого Рена\n<color\=#FFFC40>В продаже ограниченное время в магазине!</color>
+Ren-only Outfit:=Наряд только для Рена:
 Render Quality=Качество рендеринга
 Render\nScale=Рендеринг\nМасштаб
 Renewed All-Out Attack=Обновлённая Общая атака
@@ -2032,7 +2032,7 @@ Revelations Unusable=Откровения недоступны
 r:"^Revelations Used\: (.+?)$"="Использовано Откровений: $1"
 Review=Обзор
 Review Request=Запрос на проверку
-Revise your party and try again.=Измените состав отряда и попробуйте снова.
+Revise your party and try again.=Измените состав отряда и Попробуйте снова.
 Revolution=Революция
 Reward Details=Детали Награды
 Reward Information:=Информация о награде:
@@ -2379,7 +2379,7 @@ The following items will be discarded:=Следующие предметы бу�
 The following will be used.=Будет использовано следующее.
 The game version is outdated. Please download the latest version.=Версия игры устарела. Пожалуйста, скачайте последнюю версию.
 The game version is outdated. Please update and restart the game.=Версия игры устарела. Пожалуйста, обновите и перезапустите игру.
-The invited player has not yet registered the invitation code. Invite the player and have them register the code!=Приглашённый игрок ещё не зарегистрировал код приглашения. Попросите его зарегистрировать код!
+The invited player has not yet registered the invitation code. Invite the player and have them register the code!=Приглашённый игрок ещё не зарегистрировал код приглашения. попросите его зарегистрировать код!
 The king didn't reach the target space.=Король не достиг целевой клетки.
 The material is too high quality or the weapon is already enhanced. Do you want to enhance anyway? Your materials will be returned if this would exceed the max EXP level.=Материал слишком высокого качества, или оружие уже улучшено. Всё равно хотите улучшить? Ваши материалы будут возвращены, если улучшение приведёт к превышению максимального уровня опыта.
 r:"^The method to obtain the exterior (.+?) has been unlocked\.$"="Разблокирован метод получения внешнего вида $1."
@@ -2429,7 +2429,7 @@ This Month=Этот месяц
 This Persona has reached the max star level.=Эта Персона достигла максимального звёздного уровня.
 This Season's Challenge=Испытание этого сезона
 This Week=На этой неделе
-This area has not been discovered yet.=Эта область еще не открыта.
+This area has not been discovered yet.=Эта область ещё не открыта.
 This button has already been assigned to another action. Change settings?=Эта кнопка уже назначена другому действию. Хотите изменить настройки?
 This can be obtained from: %s=Можно получить из: %s
 This character gains the attributes of their equipped Personas.=Этот персонаж получает характеристики экипированных Персон.
@@ -2825,7 +2825,7 @@ You don't have enough %s.=У вас недостаточно %s.
 r:"^You don\'t have enough (.+?)\.$"="У вас недостаточно $1."
 You gained skill points.=Вы получили очки навыков.
 You have no Lost Items to discard.=У вас нет Утерянных предметов, которые можно сбросить.
-You have not yet cleared <color\=#FF423F>Castle in the Void</color>. This story contains events and character appearances that may include spoilers. Do you still wish to continue?=Вы еще не прошли <color\=#FF423F>Замок в Пустоте</color>. Эта история содержит события и персонажей, которые могут содержать спойлеры. Вы всё ещё хотите продолжить?
+You have not yet cleared <color\=#FF423F>Castle in the Void</color>. This story contains events and character appearances that may include spoilers. Do you still wish to continue?=Вы ещё не прошли <color\=#FF423F>Замок в Пустоте</color>. Эта история содержит события и персонажей, которые могут содержать спойлеры. Вы всё ещё хотите продолжить?
 You have played more than %d hours. Why not take a break?=Вы играли более %d часов. Почему бы вам не сделать перерыв?
 You have reached today's data limit.=Достигнут дневной лимит данных.
 You have reached today's limit for Wandering Shadow rewards.=Вы достигли дневного лимита наград за Блуждающих Теней.
@@ -2860,8 +2860,8 @@ Your usable Spiritual Endurance will increase by <color\=#FFC000>%s</color> (max
 Yui=Юи
 Yumi Shiina=Юми Шиина
 Yusuke Kitagawa=Юске Китагава
-Yusuke's Butler Suit Set\n<color\=#FFFC40>Limited-Time Sale at the Shop</color>=Набор костюма дворецкого Юске\n<color\=#FFFC40>Ограниченная распродажа в магазине</color>
-Yusuke's Butler Suit Set\n<color\=#FFFC40>On sale for a limited time in the Shop!</color>=Набор костюма дворецкого Юске\n<color\=#FFFC40>В продаже ограниченное время в магазине!</color>
+Yusuke's Butler Suit Set\n<color\=#FFFC40>Limited-Time Sale at the Shop</color>=Набор костюма Дворецкого Юске\n<color\=#FFFC40>Ограниченная распродажа в магазине</color>
+Yusuke's Butler Suit Set\n<color\=#FFFC40>On sale for a limited time in the Shop!</color>=Набор костюма Дворецкого Юске\n<color\=#FFFC40>В продаже ограниченное время в магазине!</color>
 Yusuke-only Outfit:=Костюм только для Юске:
 [%s]=[%s]
 [Charm Effects]=[Эффекты очарования]
