@@ -1165,7 +1165,7 @@
   },
   {
     "sn": "1020076",
-    "textContent": "Currently equipped Personas are shown here."
+    "textContent": "Equipped Personas will be displayed. Wonder's attribute changes based on his equipped Personas. The attributes of the first persona will be used for actions like Flames of Desire or Resonance."
   },
   {
     "sn": "1020077",
@@ -1406,6 +1406,26 @@
   {
     "sn": "1020229",
     "textContent": "My Stock"
+  },
+  {
+    "sn": "1020230",
+    "textContent": "Small ({0})"
+  },
+  {
+    "sn": "1020231",
+    "textContent": "Med. ({0})"
+  },
+  {
+    "sn": "1020232",
+    "textContent": "Large ({0})"
+  },
+  {
+    "sn": "1020233",
+    "textContent": "Treasure"
+  },
+  {
+    "sn": "1020234",
+    "textContent": "Event Anniversary"
   },
   {
     "sn": "1020235",
@@ -3313,7 +3333,7 @@
   },
   {
     "sn": "1040009",
-    "textContent": "Deploy %s party members"
+    "textContent": "Deploy %s party members besides Wonder"
   },
   {
     "sn": "1040010",
@@ -3325,7 +3345,7 @@
   },
   {
     "sn": "1040017",
-    "textContent": "Ally %s Attack Score"
+    "textContent": "Ally %s Attack Score (besides Wonder)"
   },
   {
     "sn": "1040018",
@@ -3741,7 +3761,7 @@
   },
   {
     "sn": "1043064",
-    "textContent": "Clear the tutorial stage and Chess Chase stage %s to unlock"
+    "textContent": "Clear the tutorial stage and Puzzle Bots stage %s to unlock"
   },
   {
     "sn": "1043065",
@@ -3849,7 +3869,7 @@
   },
   {
     "sn": "1043082",
-    "textContent": "a 5★ Phantom Thief's Cognitite!"
+    "textContent": "a 5★ Phantom Thief's weapon!"
   },
   {
     "sn": "1043083",
@@ -3906,6 +3926,34 @@
   {
     "sn": "1043097",
     "textContent": "It's recommended to play this event once you've completed {0} in the main story. Playing it before then may impact your experience of the story."
+  },
+  {
+    "sn": "1043104",
+    "textContent": "Please complete the other Treasure Hunt missions first."
+  },
+  {
+    "sn": "1043105",
+    "textContent": "Clear Runa Dogenzaka's Synergy mission Shibuya's Former Glory to unlock."
+  },
+  {
+    "sn": "1043106",
+    "textContent": "Collect all of the <color=#FFEC00>keywords</color> to uncover the message."
+  },
+  {
+    "sn": "1043107",
+    "textContent": "Adventure Story"
+  },
+  {
+    "sn": "1043108",
+    "textContent": "City Life"
+  },
+  {
+    "sn": "1043123",
+    "textContent": "Clear all of Plan <sprite=12 tint=1> to obtain"
+  },
+  {
+    "sn": "1043124",
+    "textContent": "a 5★ Phantom Thief's weapon!"
   },
   {
     "sn": "1045003",
@@ -5592,6 +5640,10 @@
     "textContent": "Preset {0}"
   },
   {
+    "sn": "1081034",
+    "textContent": "Add New ({0}/{1})"
+  },
+  {
     "sn": "1081998",
     "textContent": "For every <color=#FFDE00>{0}</color> orange-rarity <color=#FFDE00>{1}</color> Revelation Cards spent, you can inscribe 1 random <color=#FFDE00>{2}</color> Revelation Card."
   },
@@ -6789,7 +6841,7 @@
   },
   {
     "sn": "1094003",
-    "textContent": "After clearing all Stellae, earn the following rewards for each remaining Willpower:\n<link=\"itemTips|302021\"><u><color=#29b6ff>Stardust Gems x20</color></u></link>\n<link=\"itemTips|302011\"><u><color=#29b6ff>Stardust Bottles x40</color></u></link>\n<link=\"itemTips|302001\"><u><color=#29b6ff>Stardust Shards x450</color></u></link>"
+    "textContent": "After clearing all Stellae, earn the following rewards for each remaining Willpower:\n<link=\"itemTips|302021\"><u>Stardust Gems x20<color=#29b6ff></color></u></link>\n<link=\"itemTips|302011\"><u>Stardust Bottles x40<color=#29b6ff></color></u></link>\n<link=\"itemTips|302001\"><u>Stardust Shards x450<color=#29b6ff></color></u></link>"
   },
   {
     "sn": "1094004",
@@ -10189,7 +10241,7 @@
   },
   {
     "sn": "2001947",
-    "textContent": "Tip: Equipping items gained from Brawl Bots will grant you special effects"
+    "textContent": "Tip: Equipping items gained from Puzzle Bots will grant you special effects"
   },
   {
     "sn": "2001948",
@@ -10321,7 +10373,7 @@
   },
   {
     "sn": "2001980",
-    "textContent": "No Chat History"
+    "textContent": "No Comment History"
   },
   {
     "sn": "2001981",
@@ -10609,7 +10661,7 @@
   },
   {
     "sn": "2002048",
-    "textContent": "Fierce Battles"
+    "textContent": "Notice"
   },
   {
     "sn": "2002049",
@@ -10745,7 +10797,7 @@
   },
   {
     "sn": "2002082",
-    "textContent": "Marian"
+    "textContent": "Minami Miyashita"
   },
   {
     "sn": "2002083",
@@ -12405,7 +12457,7 @@
   },
   {
     "sn": "2002522",
-    "textContent": "Capsule machines line the streets of the city.\nSince the start of service, the most popular series has been <color=#FF423F>Queue of 100 Demons</color>.\nSo far, <color=#FF423F>17.9%</color> of players have managed to complete the full set, and it continues to be a favorite among collectors."
+    "textContent": "Capsule machines line the streets of the city.\nSince the start of service, the most popular series has been <color=#FF423F>Queue of 100 Demons</color>.\nSo far, <color=#FF423F>17.9</color>% of players have managed to complete the full set, and it continues to be a favorite among collectors."
   },
   {
     "sn": "2002512",
@@ -12421,7 +12473,7 @@
   },
   {
     "sn": "2002547",
-    "textContent": "Season 2 <size=40>on Now</size>!"
+    "textContent": "Season 3 <size=40>on Now</size>!"
   },
   {
     "sn": "2002548",
@@ -12708,6 +12760,18 @@
     "textContent": "(Paid: %d)"
   },
   {
+    "sn": "2002602",
+    "textContent": "Grab {0} x {1}"
+  },
+  {
+    "sn": "2002603",
+    "textContent": "Grab {0} x {1}"
+  },
+  {
+    "sn": "2002604",
+    "textContent": "Normal"
+  },
+  {
     "sn": "2002613",
     "textContent": "You can go to the second floor and change your appearance to {0}."
   },
@@ -12940,6 +13004,10 @@
     "textContent": "Gain {1} Visitor EXP\nevery {0} s"
   },
   {
+    "sn": "2002665",
+    "textContent": "Clear the mission Akihabara's Curious Curios."
+  },
+  {
     "sn": "2002669",
     "textContent": "Stat Increases"
   },
@@ -13012,6 +13080,10 @@
     "textContent": "Use All"
   },
   {
+    "sn": "2002712",
+    "textContent": "Ends in: {0}"
+  },
+  {
     "sn": "2002745",
     "textContent": "Pt Effect"
   },
@@ -13040,8 +13112,36 @@
     "textContent": "Event Ends in: "
   },
   {
+    "sn": "2002721",
+    "textContent": "Edit"
+  },
+  {
+    "sn": "2002722",
+    "textContent": "Use"
+  },
+  {
+    "sn": "2002723",
+    "textContent": "Save"
+  },
+  {
+    "sn": "2002724",
+    "textContent": "Clear All"
+  },
+  {
+    "sn": "2002725",
+    "textContent": "Save"
+  },
+  {
+    "sn": "2002731",
+    "textContent": "Some Revelations in the preset are used by other characters. Continue?"
+  },
+  {
+    "sn": "2002732",
+    "textContent": "This will remove Revelations from other characters."
+  },
+  {
     "sn": "2002733",
-    "textContent": "Sales Record"
+    "textContent": "Catch History"
   },
   {
     "sn": "2002734",
@@ -13054,6 +13154,10 @@
   {
     "sn": "2002736",
     "textContent": "Sales Time"
+  },
+  {
+    "sn": "2002737",
+    "textContent": "Current Set"
   },
   {
     "sn": "2002738",
@@ -13072,8 +13176,52 @@
     "textContent": "Party Reference"
   },
   {
+    "sn": "2002742",
+    "textContent": "Remove"
+  },
+  {
+    "sn": "2002743",
+    "textContent": "Runa Dogenzaka"
+  },
+  {
+    "sn": "2002744",
+    "textContent": "Displays the last 100 plushies won."
+  },
+  {
+    "sn": "2002746",
+    "textContent": "Swipe to rotate the plushie."
+  },
+  {
+    "sn": "2002747",
+    "textContent": "1 Play"
+  },
+  {
+    "sn": "2002748",
+    "textContent": "5 Plays"
+  },
+  {
     "sn": "2002749",
     "textContent": "Chat Message Push Notifications"
+  },
+  {
+    "sn": "2002750",
+    "textContent": "Filter"
+  },
+  {
+    "sn": "2002753",
+    "textContent": "Ends in: "
+  },
+  {
+    "sn": "2002754",
+    "textContent": "Common"
+  },
+  {
+    "sn": "2002755",
+    "textContent": "Rare"
+  },
+  {
+    "sn": "2002756",
+    "textContent": "Super Rare"
   },
   {
     "sn": "2002769",
@@ -13289,7 +13437,7 @@
   },
   {
     "sn": "2002792",
-    "textContent": "New Year's Gift"
+    "textContent": "Red Envelopes"
   },
   {
     "sn": "2002807",
@@ -13306,6 +13454,10 @@
   {
     "sn": "2002795",
     "textContent": "Current {0}%%"
+  },
+  {
+    "sn": "2002814",
+    "textContent": "Laboratory Arc Part 1"
   },
   {
     "sn": "2303207",
@@ -13628,11 +13780,15 @@
     "textContent": "Can use weapons of the same name"
   },
   {
-    "sn": "1043123",
-    "textContent": "Clear all of Plan <sprite=12 tint=1> to obtain"
+    "sn": "2303610",
+    "textContent": "Twins Arc"
   },
   {
-    "sn": "1043124",
-    "textContent": "a 5★ Phantom Thief's weapon!"
+    "sn": "2303665",
+    "textContent": "Check details and accept>"
+  },
+  {
+    "sn": "2303504",
+    "textContent": "When you spend <link=\"itemTips|%s\"><u>%s</u></link>, you will be notified when activated. Held: %s"
   }
 ]

@@ -154,7 +154,7 @@
     "name": "Highlight",
     "desc": "Deal Physical damage to 1 foe equal to <color=#FFFC40>^%s^</color> Attack, and increase damage of next skill by <color=#FFFC40>^%s^</color>.",
     "descSimple": "Phys dmg to 1 foe (%s Atk), and increase next skill dmg %s.",
-    "levelUpList": "Highlight Dmg,Highlight Dmg Increase",
+    "levelUpList": "Highlight: Skill Multiplier,Highlight: Skill Multiplier Increase",
     "levelUpValue": "AAAAAA==",
     "contentBG": "AAAAAA==",
     "skillTag": "AAAAAA=="
@@ -214,7 +214,7 @@
     "name": "Healing Breeze",
     "desc": "Restore party's HP by <color=#FFFC40>^%s^</color> of Morgana's Attack + <color=#FFFC40>^%s^</color>, and heal 1 <link=\"s|101\"><u>elemental ailment</u></link>. When healing an elemental ailment, gain 1 <link=\"s|150\"><u>Chivalry</u></link> stack.",
     "descSimple": "Restore party's HP (%s of Morgana's Atk + %s), and remove 1 elemental ailment.\nWhen removing elemental ailment, gain 1 Chivalry.",
-    "levelUpList": "Skill Multiplier,Healing",
+    "levelUpList": "Healing Multiplier,Base Healing",
     "levelUpValue": "AAAAAA==",
     "contentBG": "A soothing energy rides the breeze, restoring all allies' stamina.",
     "skillTag": "Multi-Heal"
@@ -364,7 +364,7 @@
     "name": "Owl Green",
     "desc": "Restore 1 ally's HP by <color=#FFFC40>^%s^</color> of Lufel's Attack + <color=#FFFC40>^%s^</color>. If target's HP is below 50%, increase healing effect by <color=#FFFC40>^%s^</color>.",
     "descSimple": "Restore 1 ally's HP (%s of Lufel's Atk + %s). If target's HP is below 50%, increase healing effect %s.",
-    "levelUpList": "Skill Multiplier,Healing,Healing Increase",
+    "levelUpList": "Healing Multiplier,Base Healing,Healing Multiplier",
     "levelUpValue": "AAAAAA==",
     "contentBG": "A ray of rejuvenating light shines down upon an ally, restoring their HP.",
     "skillTag": "Single-Heal"
@@ -384,7 +384,7 @@
     "name": "Healing Satellite",
     "desc": "Restore party's HP by <color=#FFFC40>^%s^</color> of Lufel's Attack + <color=#FFFC40>^%s^</color>. Increase healing effect on the main target by <color=#FFFC40>^%s^</color>.",
     "descSimple": "Restore party's HP (%s of Lufel's Atk + %s).\nIncrease healing effect on main target.",
-    "levelUpList": "Skill Multiplier,Healing,Healing Increase",
+    "levelUpList": "Healing Multiplier,Base Healing,Healing Multiplier",
     "levelUpValue": "AAAAAA==",
     "contentBG": "A revitalizing force rains down from above, healing all allies' HP.",
     "skillTag": "Multi-Heal"
@@ -494,9 +494,9 @@
     "name": "Highlight",
     "desc": "Restore party's HP by <color=#FFFC40>^%s^</color> of Lufel's Attack + <color=#FFFC40>^%s^</color>. Increase party's Attack by <color=#FFFC40>^%s^</color> for 1 turn.",
     "descSimple": "Restore party's HP (%s of Lufel's Atk + %s) and increase party's Atk %s (1 turn).",
-    "levelUpList": "Highlight Skill Multiplier,Highlight Healing,Highlight Atk Increase",
+    "levelUpList": "Highlight: Healing Multiplier,Highlight: Base Healing,Highlight: Atk Increase",
     "levelUpValue": "AAAAAA==",
-    "contentBG": "Graces $all$ allies with immensely powerful healing and boosts their Attack.",
+    "contentBG": "AAAAAA==",
     "skillTag": "AAAAAA=="
   },
   {
@@ -554,7 +554,7 @@
     "name": "Icy Defense",
     "desc": "Increase party's max HP by 15% of Shun's max HP (up to <color=#FFFC40>^%s^</color>) for 2 turns.\nAlso, restore party's HP by <color=#FFFC40>^%s^</color> of Shun's max HP.\nGreatly increase Shun's chance of being targeted by attacks for 2 turns.\nCooldown Time: 1 turn.",
     "descSimple": "Increase party's max HP (15% of Shun's max HP, up to %s) and restore party's HP (%s of Shun's max HP). Greatly increase Shun's chance of being targeted by attacks (2 turns).",
-    "levelUpList": "HP Cap Increase,HP Recovery Multiplier",
+    "levelUpList": "HP Cap Increase,Healing Multiplier",
     "levelUpValue": "AAAAAA==",
     "contentBG": "A wall of ice rises up to protect your allies, raising their max HP.",
     "skillTag": "Support"
@@ -664,7 +664,7 @@
     "name": "Highlight",
     "desc": "Increase party's max HP by 10.3% of Shun's max HP for 2 turns (up to <color=#FFFC40>^%s^</color>) and restore party's HP by <color=#FFFC40>^%s^</color> of Shun's max HP.\nDeal Ice damage to 1 foe equal to <color=#FFFC40>^%s^</color> of Shun's max HP.",
     "descSimple": "Increase party's max HP (10.3% of Shun's max HP, up to %s, 2 turns) and restore party's HP (%s of Shun's max HP).\nDeal Ice dmg to 1 foe (%s of Shun's max HP).",
-    "levelUpList": "Highlight HP Cap Increase Cap,Highlight HP Recovery Multiplier,Highlight Dmg Multiplier",
+    "levelUpList": "Highlight: Max HP Increase Cap,Highlight: Healing Multiplier,Highlight: Skill Multiplier",
     "levelUpValue": "AAAAAA==",
     "contentBG": "AAAAAA==",
     "skillTag": "AAAAAA=="
@@ -1134,7 +1134,7 @@
     "name": "Highlight",
     "desc": "Increase all foes' Fire damage taken by <color=#FFFC40>^%s^</color>, and deal Fire damage equal to <color=#FFFC40>^%s^</color> of Kurotani's max HP. Also inflict <link=\"s|102\"><u>Burn</u></link> on the foes for 2 turns.",
     "descSimple": "Increase all foes' Fire dmg taken %s.\nFire dmg to all foes (%s of Kurotani's max HP) and inflict Burn (2 turns).",
-    "levelUpList": "Highlight Dmg Taken Increase,Highlight Dmg",
+    "levelUpList": "Highlight: Dmg Taken Increase,Highlight: Skill Multiplier",
     "levelUpValue": "AAAAAA==",
     "contentBG": "AAAAAA==",
     "skillTag": "AAAAAA=="
@@ -1304,7 +1304,7 @@
     "name": "Highlight",
     "desc": "Deal Bless damage to 1 foe equal to <color=#FFFC40>^%s^</color> of Yukimi's Defense. Also increase party's Defense by 20% of Yukimi's Defense (up to <color=#FFFC40>^%s^</color>) for 2 turns.",
     "descSimple": "Bless dmg to 1 foe (%s Def). Increase party's Def by 20% of Yukimi's Def (max %s, 2 turns).",
-    "levelUpList": "Highlight Dmg,Highlight Def Increase Cap",
+    "levelUpList": "Highlight: Skill Multiplier,Highlight: Def Increase Cap",
     "levelUpValue": "AAAAAA==",
     "contentBG": "AAAAAA==",
     "skillTag": "AAAAAA=="
@@ -1334,7 +1334,7 @@
     "name": "Graceful Gale",
     "desc": "Deal Wind damage to all foes equal to <color=#FFFC40>^%s^</color> of Attack (3 hits). Gain 1 <link=\"s|118\"><u>Right to Strike</u></link> stack with a chance equal to the number of foes present when using the skill × <color=#FFFC40>^%s^</color>.",
     "descSimple": "Wind dmg to all foes (%s Atk, 3 hits). Chance (number of foes x %s) to gain 1 Right to Strike.",
-    "levelUpList": "Skill Multiplier",
+    "levelUpList": "Skill Multiplier,Chance",
     "levelUpValue": "AAAAAA==",
     "contentBG": "A powerful tornado tears through everything in its path, dealing Wind damage to enemies.",
     "skillTag": "Multi-Target"
@@ -1464,7 +1464,7 @@
     "name": "Highlight",
     "desc": "Deal Wind damage to 1 foe equal to <color=#FFFC40>^%s^</color> of Attack (4 hits). When <link=\"s|118\"><u>Right to Strike</u></link> is at 3 or more stacks, increase hits by 1.",
     "descSimple": "Wind dmg to 1 foe (%s Atk, 4 hits). With 3+ Right to Strike, deal 1 more hit.",
-    "levelUpList": "Highlight Dmg",
+    "levelUpList": "Highlight: Skill Multiplier",
     "levelUpValue": "AAAAAA==",
     "contentBG": "AAAAAA==",
     "skillTag": "AAAAAA=="
@@ -1714,7 +1714,7 @@
     "name": "Keen Eye",
     "desc": "Evolve the next activated <link=\"s|123\"><u>Inspiration</u></link> to <link=\"s|172\"><u>Imagination</u></link>. \nImagination: Increase chance of counterattack to 100%, increase damage by <color=#FFFC40>^%s^</color> of Defense, and change target to all foes. If the effect is not activated by the start of Yusuke's next action, automatically activate it.\nFor 2 turns, gain a shield equal to <color=#FFFC40>^%s^</color> of Yusuke's Defense + <color=#FFFC40>^%s^</color>, increase Fire resistance, and nullify spiritual ailments.\nAlso inflict <link=\"s|143\"><u>Taunt</u></link> on all foes for 2 turns.\nCooldown Time: 1 turn.",
     "descSimple": "Evolve next activated Inspiration to Imagination.\n100% chance to counterattack, increase dmg (%s Def), and target all foes. Gain shield (%s Def + %s, 2 turns), increase Fire resistance, and nullify spiritual ailments (2 turns).\nTaunt all foes (2 turns).",
-    "levelUpList": "Skill Multiplier,Shield Multiplier,Shield Base Value",
+    "levelUpList": "Dmg Increase,Shield Multiplier,Base Shield",
     "levelUpValue": "AAAAAA==",
     "contentBG": "His extaordinary artist's eye allows him to assess his surroundings, steeling himself.",
     "skillTag": "Support"
@@ -1824,7 +1824,7 @@
     "name": "Highlight",
     "desc": "Deal Ice damage to all foes equal to <color=#FFFC40>^%s^</color> of Yusuke's Defense. Increase chance of activating <link=\"s|123\"><u>Inspiration</u></link> counterattacks by 35% for 3 turns.",
     "descSimple": "Ice dmg to all foes (%s Def). Increase chance of Inspiration counter 35% (3 turns).",
-    "levelUpList": "Highlight Dmg",
+    "levelUpList": "Highlight: Skill Multiplier",
     "levelUpValue": "AAAAAA==",
     "contentBG": "AAAAAA==",
     "skillTag": "AAAAAA=="
@@ -2144,7 +2144,7 @@
     "name": "Highlight",
     "desc": "Deal Curse damage to 1 foe equal to <color=#FFFC40>^%s^</color> of Attack (3 hits). Increase Sumi's Attack for <link=\"s|154\"><u>Sonnet of Fate</u></link> by <color=#FFFC40>^%s^</color> up to 2 times.",
     "descSimple": "Curse dmg to 1 foe (%s Atk, 3 hits). Increase Sumi's Atk for Sonnet of Fate up to 2 times.",
-    "levelUpList": "Highlight Dmg,Highlight Resonance Dmg",
+    "levelUpList": "Highlight: Skill Multiplier,Highlight: Effect Up",
     "levelUpValue": "AAAAAA==",
     "contentBG": "AAAAAA==",
     "skillTag": "AAAAAA=="
@@ -2314,7 +2314,7 @@
     "name": "Highlight",
     "desc": "Deal Fire damage to all foes equal to <color=#FFFC40>^%s^</color> of Attack. Increase damage of Ann's Fire skills by <color=#FFFC40>^%s^</color> for 1 turn.",
     "descSimple": "Fire dmg to all foes (%s Atk).\nIncrease Fire dmg %s (1 turn).",
-    "levelUpList": "Highlight Dmg,Highlight Fire Dmg Increase",
+    "levelUpList": "Highlight: Skill Multiplier,Highlight: Fire Dmg Increase",
     "levelUpValue": "AAAAAA==",
     "contentBG": "AAAAAA==",
     "skillTag": "AAAAAA=="
@@ -2354,7 +2354,7 @@
     "name": "President's Prowess",
     "desc": "Restore 1 ally's HP equal to <color=#FFFC40>^%s^</color> of Makoto's Attack + <color=#FFFC40>^%s^</color>. Increase Makoto's Attack by <color=#FFFC40>^%s^</color> for 2 turns.\nAlso gain 3 <link=\"s|177\"><u>Tenacity</u></link> stacks, and gain more Tenacity stacks for each different elemental ailment on foes.",
     "descSimple": "Restore 1 ally's HP (%s of Makoto's Atk + %s). Increase Makoto's Atk %s for 2 turns.\nAlso gain 3 Tenacity, and gain more Tenacity per elemental ailment on foes.",
-    "levelUpList": "Skill Multiplier,Healing,Atk Increase",
+    "levelUpList": "Healing Multiplier,Base Healing,Atk Increase",
     "levelUpValue": "AAAAAA==",
     "contentBG": "Draws on her skills as student council president to support her party, healing allies and strengthening herself.",
     "skillTag": "Single-Heal"
@@ -2676,7 +2676,7 @@
     "descSimple": "Deal Ice dmg to 1 foe (%s Atk). Increase dmg based on foe's missing HP. When foe's HP is below 20%, increase up to 30%.",
     "levelUpList": "Highlight Skill Multiplier",
     "levelUpValue": "AAAAAA==",
-    "contentBG": "Deals colossal Ice damage to all enemies. The lower the enemy's HP, the higher the damage.",
+    "contentBG": "AAAAAA==",
     "skillTag": "AAAAAA=="
   },
   {
@@ -2904,7 +2904,7 @@
     "name": "Precise Volley",
     "desc": "Deal Gun damage to 1 foe equal to <color=#FFFC40>^%s^</color> of Attack. When Haru has <link=\"s|114\"><u>Target Audience</u></link>, increase this skill's pierce rate by <color=#FFFC40>^%s^</color> and gain 1 Painpoint Round.\nPainpoint Round: When using a ranged attack, also deal Psychokinesis damage to the main target equal to <color=#FFFC40>^%s^</color> of Attack (can gain skill damage increases from Focused Round).",
     "descSimple": "Gun dmg to 1 foe (%s Atk). When Haru has Target Audience, increase this skill's pierce rate by %s and gain 1 Painpoint Round.\nPainpoint Round: When using ranged attack, also deal Psy dmg to main target (%s Atk, can gain skill dmg increases from Focused Round).",
-    "levelUpList": "Skill Multiplier,Pierce Rate Increase,Skill Multiplier",
+    "levelUpList": "Skill Multiplier,Pierce Rate Increase,Bonus Dmg Multiplier",
     "levelUpValue": "AAAAAA==",
     "contentBG": "Fires a barrage of shots at a target in your sights, dealing Gun damage to a foe.",
     "skillTag": "Single-Target"
@@ -2914,7 +2914,7 @@
     "name": "Mindful Release",
     "desc": "Deal Psychokinesis damage to all foes equal to <color=#FFFC40>^%s^</color> of Attack. When Haru has <link=\"s|114\"><u>Target Audience</u></link>, increase this skill's critical rate by <color=#FFFC40>^%s^</color> and gain 1 Spillover Round stack.\nSpillover Round: When using a ranged attack, also deal Psychokinesis damage to all foes equal to <color=#FFFC40>^%s^</color> of Attack (can gain skill damage increases from Focused Round).",
     "descSimple": "Psy dmg to all foes (%s Atk) When Haru has Target Audience, increase this skill's critical rate by %s and gain 1 Spillover Round.\nSpillover Round: When using ranged attack, also deal Psy dmg to all foes (%s Atk, can gain skill dmg increases from Focused Round).",
-    "levelUpList": "Skill Multiplier,Crit Rate Increase,Skill Multiplier",
+    "levelUpList": "Skill Multiplier,Crit Rate Up,Bonus Dmg Multiplier",
     "levelUpValue": "AAAAAA==",
     "contentBG": "Unleashes your thoughts at targets in your sights, dealing Psychokinesis damage to all foes.",
     "skillTag": "Multi-Target"
@@ -3214,7 +3214,7 @@
     "name": "Highlight",
     "desc": "Deal Curse damage to all foes equal to <color=#FFFC40>^%s^</color> of Attack, and gain 1 <link=\"s|124\"><u>Will of Rebellion</u></link> stack.",
     "descSimple": "Curse dmg to all foes (%s Atk).\nGain 1 Will of Rebellion.",
-    "levelUpList": "Highlight Dmg",
+    "levelUpList": "Highlight Skill Multiplier",
     "levelUpValue": "AAAAAA==",
     "contentBG": "AAAAAA==",
     "skillTag": "AAAAAA=="
@@ -3244,7 +3244,7 @@
     "name": "Poseidon's Blessing",
     "desc": "For 2 turns, grant a shield to 1 ally equal to <color=#FFFC40>^%s^</color> of Miyu's Defense + <color=#FFFC40>^%s^</color> and decrease weakness damage taken by <color=#FFFC40>^%s^</color>. Grant 2 Down Points and 2 <link=\"s|144\"><u>Seashell</u></link> stacks.\nCooldown Time: 8 ally actions.",
     "descSimple": "Grant shield to 1 ally (%s of Miyu's Def + %s, 2 turns). Decrease weakness dmg taken by %s (2 turns).\nGain 2 Down Points and 2 Seashell.",
-    "levelUpList": "Shield Def Multiplier,Base Shield,Weakness Dmg Taken Decrease",
+    "levelUpList": "Shield Multiplier,Base Shield,Weakness Dmg Taken Decrease",
     "levelUpValue": "AAAAAA==",
     "contentBG": "A blessing from the envoys of Poseidon, activating a shield that protects an ally.",
     "skillTag": "Shield"
@@ -3254,7 +3254,7 @@
     "name": "Tide of Dreams",
     "desc": "Grant a shield to all allies equal to <color=#FFFC40>^%s^</color> of Miyu's Defense + <color=#FFFC40>^%s^</color> + number of <link=\"s|144\"><u>Seashell</u></link> stacks on party x (<color=#FFFC40>^%s^</color> of Miyu's Defense + <color=#FFFC40>^%s^</color>) for 3 turns.\nAlso, if an ally has 4 or more Seashell stacks, increase damage by <color=#FFFC40>^%s^</color> for each stack.\nThe damage increase effect lasts for 3 turns or until shield is broken, and then lose 2 Seashell stacks.\nCooldown Time: 12 ally actions",
     "descSimple": "Grant shield to party (%s of Miyu's Def + %s, 3 turns). Increase shield based on target's Seashell stacks. With 4+ Seashell, increase dmg.\nDmg increase lasts 3 turns or until shield is destroyed, then lose 2 Seashell.",
-    "levelUpList": "Shield Def Multiplier,Base Shield,Seashell Def Multiplier,Seashell Base Shield,Seashell Dmg Increase",
+    "levelUpList": "Shield Multiplier,Base Shield,Seashell Shield Multiplier,Seashell Base Shield,Seashell Dmg Increase",
     "levelUpValue": "AAAAAA==",
     "contentBG": "A barrier of white waves wash over all, activating a shield that protects allies.",
     "skillTag": "Buff"
@@ -3374,7 +3374,7 @@
     "name": "Moonlit Scalpel / Midnight Surgery",
     "desc": "<link=\"s|198\"><u>Doctor</u></link> mode: Deal Physical damage to 1 foe equal to <color=#FFFC40>^%s^</color> of Attack (4 hits) and inflict 1 <link=\"s|196\"><u>Bleed</u></link> stack.  <link=\"s|199\"><u>Ripper</u></link> mode: Deal Physical damage to 1 foe equal to <color=#FFFC40>^%s^</color> of Attack, then remove 2 Bleed stacks from the target (can activate <link=\"s|197\"><u>Rending</u></link> effects).",
     "descSimple": "Phys dmg to 1 foe (%s Atk, 4 hits). Inflict 1 Bleed.",
-    "levelUpList": "Doctor Multiplier,Ripper Multiplier",
+    "levelUpList": "Doctor Skill Multiplier,Ripper Skill Multiplier",
     "levelUpValue": "AAAAAA==",
     "contentBG": "The razor flashes with peerless precision, dealing damage to the enemy.",
     "skillTag": "Single-Target"
@@ -3384,7 +3384,7 @@
     "name": "Crimson Operation / Pathology",
     "desc": "<link=\"s|198\"><u>Doctor</u></link> mode: Deal Physical damage to 1 foe equal to <color=#FFFC40>^%s^</color> of Attack (2 hits). At the same time, activate <link=\"s|196\"><u>Bleed</u></link> damage and reset the turn duration of the target's Bleed stacks 1 time.\n<link=\"s|199\"><u>Ripper</u></link> mode: Deal Physical damage to 1 foe equal to <color=#FFFC40>^%s^</color> of Attack. For each Bleed stack on the target, increase the damage of <link=\"s|197\"><u>Rending</u></link> activated by them and this skill by 2%, then remove all Bleed stacks from the target (can activate Rending effects).",
     "descSimple": "Phys dmg to 1 foe (%s Atk, 2 hits). Activate Bleed dmg 1 time and reset target's Bleed turn duration.",
-    "levelUpList": "Doctor Multiplier,Ripper Multiplier",
+    "levelUpList": "Doctor Skill Multiplier,Ripper Skill Multiplier",
     "levelUpValue": "AAAAAA==",
     "contentBG": "A merciless slash swings down with mortal intent, dealing damage to the enemy.",
     "skillTag": "Single-Target"
@@ -3554,7 +3554,7 @@
     "name": "Highlight",
     "desc": "Switch to <link=\"s|198\"><u>Doctor</u></link> mode and immediately inflict 5 <link=\"s|196\"><u>Bleed</u></link> stacks on 1 foe.\nThen, immediately switch to <link=\"s|199\"><u>Ripper</u></link> mode and deal Physical damage to the target equal to <color=#FFFC40>^%s^</color> of Attack (can activate <link=\"s|197\"><u>Rending</u></link> effects).",
     "descSimple": "Switch to Doctor mode and inflict 5 Bleed on 1 foe. Immediately switch to Ripper mode and deal Phys dmg to target (%s Atk, can activate Rending effects).",
-    "levelUpList": "Highlight Dmg",
+    "levelUpList": "Highlight Skill Multiplier",
     "levelUpValue": "AAAAAA==",
     "contentBG": "AAAAAA==",
     "skillTag": "AAAAAA=="
@@ -3584,7 +3584,7 @@
     "name": "Blitz Mine",
     "desc": "Deal Electric damage to 1 foe equal to <color=#FFFC40>^%s^</color> of Attack. Increase party's Electric damage by <color=#FFFC40>^%s^</color> for 2 turns.",
     "descSimple": "Elec dmg to 1 foe (%s Atk). Increase party's Elec dmg %s (2 turns).",
-    "levelUpList": "Skill Multiplier,Skill Multiplier",
+    "levelUpList": "Skill Multiplier,Dmg Increase",
     "levelUpValue": "AAAAAA==",
     "contentBG": "Unleashes the energy stored within a thundercloud, dealing Electric damage to an enemy.",
     "skillTag": "Single-Target"
@@ -3604,7 +3604,7 @@
     "name": "Electroshark",
     "desc": "Deal Electric damage to all foes equal to <color=#FFFC40>^%s^</color> of Attack. If a foe is <link=\"s|104\"><u>Shocked</u></link>, activate a <link=\"s|211\"><u>Technical</u></link> and deal bonus Electric damage equal to <color=#FFFC40>^%s^</color> of Attack.",
     "descSimple": "Elec dmg to all foes (%s Atk).\nIf foe is Shocked, activate Technical and deal bonus Elec dmg (%s Atk).",
-    "levelUpList": "Skill Multiplier,Skill Multiplier",
+    "levelUpList": "Skill Multiplier,Bonus Dmg Multiplier",
     "levelUpValue": "AAAAAA==",
     "contentBG": "Summons a rampaging shark of lightning, dealing Electric damage to enemies.",
     "skillTag": "Multi-Target"
@@ -3714,7 +3714,7 @@
     "name": "Highlight",
     "desc": "Deal Electric damage to all foes equal to <color=#FFFC40>^%s^</color> of Attack. For 2 turns, inflict <link=\"s|104\"><u>Shock</u></link> on the main target, and increase Electric damage taken by 10%.",
     "descSimple": "Elec dmg to all foes (%s Atk).\nInflict Shock on main target and increase Elec dmg 10% (2 turns).",
-    "levelUpList": "Highlight Dmg",
+    "levelUpList": "Highlight Skill Multiplier",
     "levelUpValue": "AAAAAA==",
     "contentBG": "AAAAAA==",
     "skillTag": "AAAAAA=="
@@ -3884,7 +3884,7 @@
     "name": "Highlight",
     "desc": "Deal Curse damage to all foes equal to <color=#FFFC40>^%s^</color> of Attack, and increase target's damage taken by <color=#FFFC40>^%s^</color>. 30% chance to inflict <link=\"s|108\"><u>Forget</u></link> on foes for 2 turns.",
     "descSimple": "Curse dmg to all foes (%s Atk). Increase target's next dmg taken %s.\n30% chance to inflict Forget (2 turns).",
-    "levelUpList": "Highlight Dmg,Highlight Dmg Taken Increase",
+    "levelUpList": "Highlight Skill Multiplier,Highlight Dmg Taken Increase",
     "levelUpValue": "AAAAAA==",
     "contentBG": "AAAAAA==",
     "skillTag": "AAAAAA=="
@@ -3934,7 +3934,7 @@
     "name": "Spirit's Lullaby",
     "desc": "Spend 2 <link=\"s|131\"><u>Greenleaf</u></link> stacks for<color=#FFFC40>^%s^</color> chance to inflict <link=\"s|109\"><u>Sleep</u></link> on 1 foe for 1 turn. On success, increase foe's next attack damage taken by <color=#FFFC40>^%s^</color>. On failure, increase next damage taken by <color=#FFFC40>^%s^</color>.",
     "descSimple": "Spend 2 Greenleaf stacks for %s chance to inflict Sleep on 1 foe (1 turn).\nOn success, increase foe's next attack dmg taken %s.\nOn failure, increase next dmg taken %s.",
-    "levelUpList": "Accuracy,Skill Multiplier,Skill Multiplier",
+    "levelUpList": "Accuracy,Dmg Taken Increase,Dmg Taken Increase",
     "levelUpValue": "AAAAAA==",
     "contentBG": "A sweet lullaby entrances listeners, putting enemies to Sleep.",
     "skillTag": "Control"
@@ -4114,7 +4114,7 @@
     "name": "Sparky Surprise",
     "desc": "Grant Player 2 to 1 ally for 2 turns, and increase Yui's Attack by <color=#FFFC40>^%s^</color>.\nFor 2 turns, when an ally with Player 2 deals damage to a foe with a skill, perform a follow-up attack, dealing Electric damage equal to <color=#FFFC40>^%s^</color> of Attack (max 2 times).\nIncrease chance to activate Jolly Cooperation by 10% for 2 turns.",
     "descSimple": "Grant Player 2 to 1 ally and increase Yui's Atk %s (2 turns).\nWhen ally with Player 2 deals dmg to a foe with skill, perform follow-up attack, dealing Elec dmg (%s Atk) up to 2 times (2 turns).\nIncrease chance to activate Jolly Cooperation 10% (2 turns).",
-    "levelUpList": "Atk Increase,Skill Multiplier",
+    "levelUpList": "Atk Increase,Follow-Up Dmg Multiplier",
     "levelUpValue": "AAAAAA==",
     "contentBG": "Sends a shocking present that friends are bound to appreciate, following up ally attacks with Electric ones.",
     "skillTag": "Buff"
@@ -4344,7 +4344,7 @@
     "name": "Ready for Adventure",
     "desc": "Increase party's healing received and shield received by <color=#FFFC40>^%s^</color>, and Defense by <color=#FFFC40>^%s^</color> for 2 turns.\nIf Haruna does not have <link=\"s|164\"><u>Childish Heart</u></link>, gain 2 Childish Heart stacks.",
     "descSimple": "Increase party's HP recovery received and shield received %s, and Def %s (2 turns). If no Childish Heart, gain 2 Childish Heart.",
-    "levelUpList": "Skill Multiplier,Skill Multiplier",
+    "levelUpList": "HP Recovery Received/Shield Received Multiplier,Def Increase",
     "levelUpValue": "AAAAAA==",
     "contentBG": "Prepares your allies for any situation, boosting their Defense and healing.",
     "skillTag": "Buff"
@@ -4474,7 +4474,7 @@
     "name": "Highlight",
     "desc": "Deal Psychokinesis damage to 1 foe equal to <color=#FFFC40>^%s^</color> of Attack. Increase party's damage by <color=#FFFC40>^%s^</color> for each stack of Mystery for 1 turn.",
     "descSimple": "Psy dmg to 1 foe (%s Atk) and increase party's dmg %s for each Mystery (1 turn).",
-    "levelUpList": "Skill Multiplier,Dmg Increase",
+    "levelUpList": "Highlight Skill Multiplier,Dmg Increase",
     "levelUpValue": "AAAAAA==",
     "contentBG": "AAAAAA==",
     "skillTag": "AAAAAA=="
@@ -5254,7 +5254,7 @@
     "name": "Verngale Petals",
     "desc": "Spend all <link=\"s|187\"><u>Intel</u></link> stacks to grant Fair Winds to party for 1 turn and restore targeted ally's HP by <color=#FFFC40>^%s^</color>.\nFair Winds: Increase damage to foes by <color=#FFFC40>^%s^</color>. Increase more based on Riko's Speed and the number of Intel stacks spent. If Riko's Speed is at 100 or more, increase damage by 1.05% for every 10 points of Speed over 100, up to <color=#FFFC40>^%s^</color>.\nCooldown Time: 8 ally actions. (Cannot be used when Intel is less than 5.)",
     "descSimple": "Spend all Intel stacks to grant Fair Winds to party for 1 turn and restore targeted ally's HP by %s.\nFair Winds: Increase damage to foes %s. Increase more based on Riko's Speed and number of Intel spent. If Riko's Speed is at 100 or more, increase Atk 1.05% per 10 points of Speed over 100 (up to %s, 1 turn).",
-    "levelUpList": "HP Recovery,Dmg Increase,Dmg Increase Cap",
+    "levelUpList": "Healing Multiplier,Dmg Increase,Dmg Increase Cap",
     "levelUpValue": "AAAAAA==",
     "contentBG": "Provides a rundown on the enemy, increasing allies' healing and damage.",
     "skillTag": "Buff"
@@ -5444,7 +5444,7 @@
     "name": "Blue Sunrise",
     "desc": "Deal Bless damage to all foes equal to <color=#FFFC40>^%s^</color> of Attack. If <link=\"s|192\"><u>Summer Hype</u></link> is active, spend 10% of Tropical Motoha's max HP to deal bonus Bless damage to all foes equal to <color=#FFFC40>^%s^</color> of Attack.",
     "descSimple": "Bless dmg to all foes (%s Atk). If Summer Hype is active, spend 10% of Motoha's max HP to deal bonus Bless dmg to all foes (%s Atk).",
-    "levelUpList": "Skill Multiplier,Skill Multiplier",
+    "levelUpList": "Skill Multiplier,Summer Hype Bonus Dmg Multiplier",
     "levelUpValue": "AAAAAA==",
     "contentBG": "The sun rises on the summer sea, dealing Bless damage to all foes.",
     "skillTag": "Multi-Target"
@@ -5454,7 +5454,7 @@
     "name": "Summer 'Splosion",
     "desc": "Deal Bless damage to 1 foe equal to <color=#FFFC40>^%s^</color> of Attack, and restore 20% of Tropical Motoha's max HP. If <link=\"s|192\"><u>Summer Hype</u></link> is active, deal bonus Bless damage to 1 foe equal to <color=#FFFC40>^%s^</color> of Attack.",
     "descSimple": "Bless dmg to 1 foe (%s Atk), and restore 20% of max HP. If Summer Hype is active, deal bonus Bless dmg to 1 foe (%s Atk).",
-    "levelUpList": "Skill Multiplier,Skill Multiplier",
+    "levelUpList": "Skill Multiplier,Summer Hype Bonus Dmg Multiplier",
     "levelUpValue": "AAAAAA==",
     "contentBG": "Swelling anticipation hits the beach, dealing Bless damage to 1 foe and healing user.",
     "skillTag": "Single-Target"
@@ -5854,7 +5854,7 @@
     "name": "Hoarfrost Vow",
     "desc": "Grant 1 <link=\"s|201\"><u>Knight's Protection</u></link> shield equal to <color=#FFFC40>^%s^</color> of Ashiya's Defense + <color=#FFFC40>^%s^</color> to 1 ally. Also increase the ally's Defense by 20% of Ashiya's Defense (up to <color=#FFFC40>^%s^</color>) for 2 turns. If the target granted this effect has more than 60% HP, increase rate to take attacks from foes by 50%.\nAt the start of Ashiya's next turn, grant 1 Knight's Protection again to the same target. If <link=\"s|202\"><u>Garden of Promises</u></link> is active, increase shield granted from Knight's Protection by 25% for 2 turns.",
     "descSimple": "Grant Knight's Protection shield to 1 ally (%s Def+ %s). Increase target's Def by 20% of Ashiya's Def (max %s, 2 turns). When this ally's HP is above 60%, increase chance of being targeted 50%.\nAt start of Ashiya's next action, grant 1 more Knight's Protection to target. If Garden of Promises is active, increase granted Knight's Protection shield 25% (2 turns).",
-    "levelUpList": "Shield Multiplier,Base Shield,Def Increase",
+    "levelUpList": "Shield Multiplier,Base Shield,Def Increase Cap",
     "levelUpValue": "AAAAAA==",
     "contentBG": "The unwavering vow to protect one's friends is crystallized, granting a shield to an ally.",
     "skillTag": "Shield"
@@ -5864,7 +5864,7 @@
     "name": "Winter Fortress",
     "desc": "Grant all allies 1 <link=\"s|201\"><u>Knight's Protection</u></link> shield equal to 12% of Ashiya's Defense + 120/240/360 (effect changes at Lv. 1/50/70, respectively) and <link=\"s|203\"><u>Knight's Resolve</u></link> shield equal to <color=#FFFC40>^%s^</color> of Ashiya's Defense + <color=#FFFC40>^%s^</color>.\nAlso increase all allies' Down Points by 1 and damage dealt by 2.9% for every 300 points of Ashiya's Defense (up to <color=#FFFC40>^%s^</color>) for 2 turns.",
     "descSimple": "Grant all allies 1 Knight's Protection shield (12% Def + 120/240/360 when at Lv. 1/50/70+), and Knight's Resolve shield (%s Def + %s).\nAlso increase all allies' Down Points by 1 and dmg dealt by 2.9% per 300 of Ashiya's Def (max %s, 2 turns).",
-    "levelUpList": "Shield Multiplier,Base Shield,Dmg Increase",
+    "levelUpList": "Shield Multiplier,Base Shield,Dmg Increase Cap",
     "levelUpValue": "AAAAAA==",
     "contentBG": "The determination to defend one's allies becomes a mighty fortress wall, granting shields to all allies.",
     "skillTag": "Shield"
@@ -6014,7 +6014,7 @@
     "name": "Highlight",
     "desc": "Grant <link=\"s|203\"><u>Knight's Resolve</u></link> shield equal to <color=#FFFC40>^%s^</color> of Ashiya's Defense + <color=#FFFC40>^%s^</color> to all allies and decrease damage taken by <color=#FFFC40>^%s^</color> for 2 turns.",
     "descSimple": "Grant Knight's Resolve shield to all allies (%s Def + %s), and decrease dmg taken %s (2 turns).",
-    "levelUpList": "Highlight: Shield Multiplier,Highlight: Base Shield,Highlight: Dmg Taken Decrease",
+    "levelUpList": "Highlight Shield Multiplier,Highlight Base Shield,Highlight Dmg Taken Decrease",
     "levelUpValue": "AAAAAA==",
     "contentBG": "AAAAAA==",
     "skillTag": "AAAAAA=="
@@ -6064,7 +6064,7 @@
     "name": "Éclat de Vent / Iceburst",
     "desc": "Spring mode: Deal Wind damage to 1 foe equal to <color=#FFFC40>^%s^</color> of Attack (3 hits), with a 30% chance to inflict <link=\"s|105\"><u>Windswept</u></link>. When Spring's Edge is active, also gain 1 <link=\"s|212\"><u>Spring's Vestige</u></link> stack and inflict <link=\"s|209\"><u>Spiral Sequence</u></link> for 2 turns. When Frostgale Kotone attacks a foe with Spiral Sequence, increase critical damage by <color=#FFFC40>^%s^</color>.\nWinter mode: Deal Ice damage to 1 foe equal to <color=#FFFC40>^%s^</color> of Attack, with a <color=#FFFC40>^%s^</color> chance to inflict <link=\"s|103\"><u>Freeze</u></link>. If the target is already Frozen, inflict <link=\"s|210\"><u>On Ice</u></link> for 2 turns. Increase Ice damage taken by <color=#FFFC40>^%s^</color> for foes with On Ice.",
     "descSimple": "AAAAAA==",
-    "levelUpList": "Skill Multiplier,Crit Dmg,Skill Multiplier,Freeze Chance,Target Ice Dmg Taken",
+    "levelUpList": "Spring Skill Multiplier,Crit Dmg,Winter Skill Multiplier,Freeze Chance,Target Ice Dmg Taken",
     "levelUpValue": "AAAAAA==",
     "contentBG": "In Spring mode, deal Wind damage to an enemy. In Winter mode, deal Ice damage to an enemy.",
     "skillTag": "Single-Target"
@@ -6074,7 +6074,7 @@
     "name": "Zephyr / Sapphire Storm",
     "desc": "Spring mode: Deal Wind damage to all foes equal to <color=#FFFC40>^%s^</color> of Attack (3 hits). When Spring's Edge is active, also gain 2 <link=\"s|212\"><u>Spring's Vestige</u></link> stacks.\nWinter mode: Deal Ice damage to all foes equal to <color=#FFFC40>^%s^</color> of Attack, with a <color=#FFFC40>^%s^</color> chance to inflict <link=\"s|103\"><u>Freeze</u></link>. When Winter's Edge is active, increase this skill's damage by 20%.",
     "descSimple": "AAAAAA==",
-    "levelUpList": "Skill Multiplier,Skill Multiplier,Freeze Chance",
+    "levelUpList": "Spring Skill Multiplier,Winter Skill Multiplier,Freeze Chance",
     "levelUpValue": "AAAAAA==",
     "contentBG": "In Spring mode, deal Wind damage to all enemies. In Winter mode, deal Ice damage to all enemies.",
     "skillTag": "Multi-Target"
@@ -6084,7 +6084,7 @@
     "name": "Ailes au Vent / Frozen Wings",
     "desc": "Spring mode: Activate Spring's Edge for 1 turn, and deal Wind damage to 1 foe equal to <color=#FFFC40>^%s^</color> of Attack (3 hits). While Spring's Edge is active, when allies deal Wind damage with a skill, Highlight, or <link=\"s|100\"><u>Resonance</u></link>, deal Wind damage to the selected target equal to 20% of Frostgale Kotone's Attack, and gain 1 <link=\"s|212\"><u>Spring's Vestige</u></link> stack. When Spring's Edge ends, spend all Spring's Vestige stacks, and deal Wind damage to the target selected that turn equal to (number of Spring's Vestige stacks + 4) x <color=#FFFC40>^%s^</color> of Attack. This damage is counted as a Resonance.\nWinter mode: Activate Winter's Edge for 1 turn, and deal Ice damage to 1 foe equal to <color=#FFFC40>^%s^</color> of Attack. While Winter's Edge is active, when an ally takes an attack, grant Glacial Heart to all allies for 2 turns, protecting them from up to <color=#FFFC40>^%s^</color> damage. This effect can be activated up to 2 times. Also, when allies deal Ice damage with a skill, Highlight, or Resonance, gain 1 <link=\"s|213\"><u>Winter's Vestige</u></link> stack. When Winter's Edge ends, spend all Winter's Vestige stacks, and deal Ice damage to the target selected that turn equal to (number of Winter's Vestige stacks + 4) x <color=#FFFC40>^%s^</color> of Attack. This damage is counted as a Resonance.",
     "descSimple": "AAAAAA==",
-    "levelUpList": "Skill Multiplier,Resonance Multiplier,Skill Multiplier,Shield Rate,Resonance Multiplier",
+    "levelUpList": "Spring Skill Multiplier,Resonance Multiplier,Winter Skill Multiplier,Base Shield,Resonance Multiplier",
     "levelUpValue": "AAAAAA==",
     "contentBG": "In Spring mode, deal Wind damage to an enemy. In Winter mode, deal Ice damage to an enemy.",
     "skillTag": "Single-Target"
@@ -6274,7 +6274,7 @@
     "name": "Highlight",
     "desc": "Spring mode: Deal Wind damage to 1 foe equal to <color=#FFFC40>^%s^</color> of Attack (3 hits). When Spring's Edge is active, gain 1 more <link=\"s|212\"><u>Spring's Vestige</u></link> stack (this additional stack can exceed the maximum limit). If Spring's Edge is not active, deal 1 more hit of Wind damage to selected target.\nWinter mode: Deal Ice damage to 1 foe equal to <color=#FFFC40>^%s^</color> of Attack, with a <color=#FFFC40>^%s^</color> chance to inflict <link=\"s|214\"><u>Icebound</u></link>. When Winter's Edge is active, increase chance to inflict Icebound by <color=#FFFC40>^%s^</color>. If Winter's Edge is not active, increase Highlight damage by 20%.",
     "descSimple": "Wind dmg to 1 foe (%s Atk, 3 hits). When Spring's Edge is active, gain 1 more Spring's Vestige (this stack can exceed max limit). If Spring's Edge is not active, deal Wind dmg 1 more time to target.",
-    "levelUpList": "Highlight: Skill Multiplier,Highlight: Skill Multiplier,Highlight: Icebound Chance,Highlight: Icebound Chance Increase",
+    "levelUpList": "Highlight: Spring Skill Multiplier,Highlight: Winter Skill Multiplier,Highlight: Icebound Chance,Highlight: Icebound Chance Increase",
     "levelUpValue": "AAAAAA==",
     "contentBG": "AAAAAA==",
     "skillTag": "AAAAAA=="
@@ -6311,6 +6311,266 @@
   },
   {
     "sn": "110261",
+    "name": "Ranged Attack",
+    "desc": "Deal Gun damage to 1 foe. Can fire until out of ammo.",
+    "descSimple": "AAAAAA==",
+    "levelUpList": "Ranged Dmg",
+    "levelUpValue": "6.7%,13.3%,20.0%,26.7%,33.3%,40.0%,46.7%,51.3%,56.0%,59.3%,62.7%,66.0%,69.3%,72.7%",
+    "contentBG": "AAAAAA==",
+    "skillTag": "AAAAAA=="
+  },
+  {
+    "sn": "134101",
+    "name": "Melee Attack",
+    "desc": "Deal Physical damage to 1 foe.",
+    "descSimple": "AAAAAA==",
+    "levelUpList": "Melee Dmg",
+    "levelUpValue": "6.7%,13.3%,20.0%,26.7%,33.3%,40.0%,46.7%,51.3%,56.0%,59.3%,62.7%,66.0%,69.3%,72.7%",
+    "contentBG": "AAAAAA==",
+    "skillTag": "AAAAAA=="
+  },
+  {
+    "sn": "134102",
+    "name": "tnxotb-[Skill_name_134102]",
+    "desc": "tnxotb-[Skill_desc_134102]",
+    "descSimple": "AAAAAA==",
+    "levelUpList": "AAAAAA==",
+    "levelUpValue": "AAAAAA==",
+    "contentBG": "AAAAAA==",
+    "skillTag": "AAAAAA=="
+  },
+  {
+    "sn": "134103",
+    "name": "tnxotb-[Skill_name_134103]",
+    "desc": "tnxotb-[Skill_desc_134103]",
+    "descSimple": "AAAAAA==",
+    "levelUpList": "AAAAAA==",
+    "levelUpValue": "AAAAAA==",
+    "contentBG": "AAAAAA==",
+    "skillTag": "AAAAAA=="
+  },
+  {
+    "sn": "134104",
+    "name": "tnxotb-[Skill_name_134104]",
+    "desc": "tnxotb-[Skill_desc_134104]",
+    "descSimple": "AAAAAA==",
+    "levelUpList": "AAAAAA==",
+    "levelUpValue": "AAAAAA==",
+    "contentBG": "AAAAAA==",
+    "skillTag": "AAAAAA=="
+  },
+  {
+    "sn": "134105",
+    "name": "tnxotb-[Skill_name_134105]",
+    "desc": "tnxotb-[Skill_desc_134105]",
+    "descSimple": "AAAAAA==",
+    "levelUpList": "AAAAAA==",
+    "levelUpValue": "AAAAAA==",
+    "contentBG": "AAAAAA==",
+    "skillTag": "AAAAAA=="
+  },
+  {
+    "sn": "134106",
+    "name": "tnxotb-[Skill_name_134106]",
+    "desc": "tnxotb-[Skill_desc_134106]",
+    "descSimple": "AAAAAA==",
+    "levelUpList": "AAAAAA==",
+    "levelUpValue": "AAAAAA==",
+    "contentBG": "AAAAAA==",
+    "skillTag": "AAAAAA=="
+  },
+  {
+    "sn": "134107",
+    "name": "tnxotb-[Skill_name_134107]",
+    "desc": "tnxotb-[Skill_desc_134107]",
+    "descSimple": "AAAAAA==",
+    "levelUpList": "AAAAAA==",
+    "levelUpValue": "AAAAAA==",
+    "contentBG": "AAAAAA==",
+    "skillTag": "AAAAAA=="
+  },
+  {
+    "sn": "134108",
+    "name": "tnxotb-[Skill_name_134108]",
+    "desc": "tnxotb-[Skill_desc_134108]",
+    "descSimple": "AAAAAA==",
+    "levelUpList": "AAAAAA==",
+    "levelUpValue": "AAAAAA==",
+    "contentBG": "AAAAAA==",
+    "skillTag": "AAAAAA=="
+  },
+  {
+    "sn": "134111",
+    "name": "Welcome Hug",
+    "desc": "Deal Fire damage to all foes equal to <color=#FFFC40>^%s^</color> of Attack.\nDecrease target's Defense by 15.4% of Runa's ailment accuracy for 2 turns (up to <color=#FFFC40>^%s^</color>). Also, when the target of this effect takes Fire, Ice, Electric, or Ice skill damage, decrease Defense by <color=#FFFC40>^%s^</color> more. The Defense decrease effects from this skill and Furrious Bark do not stack.\nAlso, 50% chance to inflict Burn on the target, and gain Big Welcome for 2 turns.\n",
+    "descSimple": "Fire dmg to all foes (%s Atk).\nDecrease target's Def (15.4% of Runa's ailment acc, max %s). After taking Fire, Ice, Elec, or Wind skill dmg, decrease %s more (2 turns). Def decrease effects from this skill and Furrious Bark do not stack.\nAlso, 50% chance to inflict Burn, and gain Big Welcome (2 turns).",
+    "levelUpList": "Skill Multiplier,Def Decrease Cap,Def Decrease (Fire Dmg Taken)",
+    "levelUpValue": "AAAAAA==",
+    "contentBG": "Give everyone a big hug burning with love, dealing Fire damage to all enemies.",
+    "skillTag": "Debuff"
+  },
+  {
+    "sn": "134112",
+    "name": "Furrious Bark",
+    "desc": "Deal Fire damage to 1 foe equal to <color=#FFFC40>^%s^</color> of Attack.\nDecrease target's Defense by <color=#FFFC40>^%s^</color> + 31.4% of Runa's ailment accuracy (up to <color=#FFFC40>^%s^</color>) for 2 turns. The Defense decrease effects from this skill and Welcome Hug do not stack.\nAlso, gain Furrocious Follow-Up for 2 turns.",
+    "descSimple": "Fire dmg to 1 foe (%s Atk).\nDecrease target's Def (%s + 31.4% of Runa's ailment acc, max %s, 2 turns). Def decrease effects from this skill and Welcome Hug do not stack.\nGain Furrocious Follow-Up (2 turns).",
+    "levelUpList": "Skill Multiplier,Def Decrease Multiplier,Def Decrease Cap",
+    "levelUpValue": "AAAAAA==",
+    "contentBG": "Unleash a mighty woof that shakes the skies, dealing Fire damage to a single enemy.",
+    "skillTag": "Debuff"
+  },
+  {
+    "sn": "134113",
+    "name": "Woof Woof Blaze",
+    "desc": "Deal Fire damage to all foes equal to <color=#FFFC40>^%s^</color> of Attack. This skill's damage is counted as a <link=\"s|100\"><u>Resonance</u></link>.\nIncrease target's damage taken by 24% of Runa's ailment accuracy (up to <color=#FFFC40>^%s^</color>), and Fire, Ice, Electric, and Wind damage taken by <color=#FFFC40>^%s^</color> for 2 turns. Remove Big Welcome.",
+    "descSimple": "Fire dmg to all foes (%s Atk). This damage counts as Resonance.\nIncrease target's dmg taken (24% of Runa's ailment acc, max %s), and Fire, Ice, Elec, and Wind dmg taken %s (2 turns). Remove Big Welcome.",
+    "levelUpList": "AAAAAA==",
+    "levelUpValue": "AAAAAA==",
+    "contentBG": "Slash with fiery paws, dealing Fire damage to all enemies.",
+    "skillTag": "Debuff"
+  },
+  {
+    "sn": "134114",
+    "name": "Woof Woof Blaze",
+    "desc": "Deal Fire damage to 1 foe equal to <color=#FFFC40>^%s^</color> of Attack. This skill's damage is counted as a <link=\"s|100\"><u>Resonance</u></link>.\nIncrease target's damage taken by 34.3% of Runa's ailment accuracy (up to <color=#FFFC40>^%s^</color>), and Resonance damage taken by <color=#FFFC40>^%s^</color> for 2 turns. Remove Furrocious Follow-Up.",
+    "descSimple": "Fire dmg to 1 foe (%s Atk). This damage counts as Resonance.\nIncrease target's dmg taken (34.3% of Runa's ailment acc, max %s), and Resonance dmg taken %s (2 turns). Remove Furrocious Follow-Up.",
+    "levelUpList": "AAAAAA==",
+    "levelUpValue": "AAAAAA==",
+    "contentBG": "Slash with fiery paws, dealing Fire damage to a single enemy.",
+    "skillTag": "Debuff"
+  },
+  {
+    "sn": "134115",
+    "name": "Woof Woof Blaze",
+    "desc": "Usable when Big Welcome or Furrocious Follow-Up are active, and activates various effects based on which is active.\nRemove Big Welcome and Furrocious Follow-Up after effect activates.\nBig Welcome: Deal Fire damage to all foes equal to <color=#FFFC40>^%s^</color> of Attack. This skill's damage is counted as a <link=\"s|100\"><u>Resonance</u></link>.\nIncrease target's damage taken by 24% of Runa's ailment accuracy (up to <color=#FFFC40>^%s^</color>), and Fire, Ice, Electric and Wind damage taken by <color=#FFFC40>^%s^</color> for 2 turns.\nFurrocious Follow-Up: Deal Fire damage to 1 foe equal to <color=#FFFC40>^%s^</color> of Attack. This skill's damage is counted as a Resonance.\nIncrease target's damage taken by 34.3% of Runa's ailment accuracy (up to <color=#FFFC40>^%s^</color>), and Resonance damage taken by <color=#FFFC40>^%s^</color> for 2 turns.",
+    "descSimple": "Usable with Big Welcome or Furrocious Follow-Up, activate various effects based on which is active.\nBig Welcome: Fire dmg to all foes (%s Atk). This damage counts as Resonance.\nIncrease target's dmg taken (24% of Runa's ailment acc, max %s), and Fire, Ice, Elec, and Wind dmg taken %s (2 turns).\nFurrocious Follow-Up: Fire dmg to 1 foe (%s Atk). This damage counts as Resonance.\nIncrease target's dmg taken (34.3% of Runa's ailment acc, max %s) and Resonance dmg taken %s (2 turns).",
+    "levelUpList": "AAAAAA==",
+    "levelUpValue": "AAAAAA==",
+    "contentBG": "Slash with fiery paws, dealing Fire damage to either a single or all enemies.",
+    "skillTag": "Debuff"
+  },
+  {
+    "sn": "134116",
+    "name": "Woof Woof Blaze",
+    "desc": "Usable when Big Welcome or Furrocious Follow-Up are active, and activates various effects based on which is active. If both effects are active at the same time, prioritize Big Welcome.\nRemove Big Welcome and Furrocious Follow-Up after effect activates.\nBig Welcome: Deal Fire damage to all foes equal to <color=#FFFC40>^%s^</color> of Attack. This skill's damage is counted as a <link=\"s|100\"><u>Resonance</u></link>.\nIncrease target's damage taken by 24% of Runa's ailment accuracy (up to <color=#FFFC40>^%s^</color>), and Fire, Ice, Electric and Wind damage taken by <color=#FFFC40>^%s^</color> for 2 turns.\nFurrocious Follow-Up: Deal Fire damage to 1 foe equal to <color=#FFFC40>^%s^</color> of Attack. This skill's damage is counted as a Resonance.\nIncrease target's damage taken by 34.3% of Runa's ailment accuracy (up to <color=#FFFC40>^%s^</color>), and Resonance damage taken by <color=#FFFC40>^%s^</color> for 2 turns.",
+    "descSimple": "Usable with Big Welcome or Furrocious Follow-Up, activate various effects based on which is active. If both effects are active simultaneously, prioritize Big Welcome's effects.\nRemove Big Welcome/Furrocious Follow-Up after activating.\nBig Welcome: Fire dmg to all foes (%s Atk). This dmg counts as Resonance.\nIncrease target's dmg taken (24% of Runa's ailment acc, max %s), and Fire, Ice, Elec, and Wind dmg taken %s (2 turns).\nFurrocious Follow-Up: Fire dmg to 1 foe (%s Atk). This dmg counts as Resonance.\nIncrease target's dmg taken (34.3% of Runa's ailment acc, max %s) and Resonance dmg taken %s (2 turns).",
+    "levelUpList": "Skill Multiplier,Dmg Taken Increase Cap,Fire Dmg Taken Increase,Skill Multiplier,Dmg Taken Increase Cap,Resonance Dmg Taken Increase",
+    "levelUpValue": "AAAAAA==",
+    "contentBG": "Slash with fiery paws, dealing Fire damage to either a single or all enemies.",
+    "skillTag": "Debuff"
+  },
+  {
+    "sn": "134131",
+    "name": "Peppy Guard Dog",
+    "desc": "During battle, increase Runa's Attack by <color=#FFFC40>^%s^</color> of her ailment accuracy.",
+    "descSimple": "AAAAAA==",
+    "levelUpList": "AAAAAA==",
+    "levelUpValue": "AAAAAA==",
+    "contentBG": "AAAAAA==",
+    "skillTag": "Talent"
+  },
+  {
+    "sn": "134132",
+    "name": "Faithful Dog",
+    "desc": "When Runa inflicts a debuff on a foe with a skill, increase her Attack by <color=#FFFC40>^%s^</color> for 1 turn. When an ally deals Fire, Ice, Electric or Wind damage or <link=\"s|100\"><u>Resonance</u></link> damage, grant them the same Attack increase effect.",
+    "descSimple": "AAAAAA==",
+    "levelUpList": "AAAAAA==",
+    "levelUpValue": "AAAAAA==",
+    "contentBG": "AAAAAA==",
+    "skillTag": "Talent"
+  },
+  {
+    "sn": "134140",
+    "name": "Station Square Mascot",
+    "desc": "When Big Welcome or Furrocious Follow-Up are active, Runa can use Woof Woof Blaze. When using Woof Woof Blaze, 60% chance to decrease target's healing received by 30%/40%/50%, and Defense by 6%/12%/18% (effect changes at Lv. 1/50/70, respectively) for 2 turns.",
+    "descSimple": "tnxotb-[Skill_descSimple_134140]",
+    "levelUpList": "AAAAAA==",
+    "levelUpValue": "AAAAAA==",
+    "contentBG": "AAAAAA==",
+    "skillTag": "AAAAAA=="
+  },
+  {
+    "sn": "134141",
+    "name": "Legendary Devotion",
+    "desc": "After using Woof Woof Blaze and activating the effects of Big Welcome, increase target's Fire, Ice, Electric and Wind damage taken by 36% for 2 turns. When activating the effects of Furrocious Follow-Up, increase target's <link=\"s|100\"><u>Resonance</u></link> damage taken by 50% for 2 turns.",
+    "descSimple": "AAAAAA==",
+    "levelUpList": "AAAAAA==",
+    "levelUpValue": "AAAAAA==",
+    "contentBG": "AAAAAA==",
+    "skillTag": "AAAAAA=="
+  },
+  {
+    "sn": "134142",
+    "name": "Trapped in Shibuya",
+    "desc": "When a foe has a debuff inflicted by Runa, increase target's critical damage taken by 36%, and decrease healing received by 20%.",
+    "descSimple": "AAAAAA==",
+    "levelUpList": "AAAAAA==",
+    "levelUpValue": "AAAAAA==",
+    "contentBG": "AAAAAA==",
+    "skillTag": "AAAAAA=="
+  },
+  {
+    "sn": "134143",
+    "name": "I ♥ Shichi-kun!",
+    "desc": "Increase the skill levels of Woof Woof Blaze and Thief Tactics by 3.",
+    "descSimple": "AAAAAA==",
+    "levelUpList": "AAAAAA==",
+    "levelUpValue": "AAAAAA==",
+    "contentBG": "AAAAAA==",
+    "skillTag": "AAAAAA=="
+  },
+  {
+    "sn": "134144",
+    "name": "Welcome to Shibuya!",
+    "desc": "Highlight Enhanced: Increase number of Enthusiastic Fuse stacks inflicted on foes to 4, and increase the maximum number of stacks to 4.",
+    "descSimple": "AAAAAA==",
+    "levelUpList": "AAAAAA==",
+    "levelUpValue": "AAAAAA==",
+    "contentBG": "AAAAAA==",
+    "skillTag": "AAAAAA=="
+  },
+  {
+    "sn": "134145",
+    "name": "I ♥ Shibuya!",
+    "desc": "Increase the skill levels of Welcome Hug and Furrious Bark by 3.",
+    "descSimple": "AAAAAA==",
+    "levelUpList": "AAAAAA==",
+    "levelUpValue": "AAAAAA==",
+    "contentBG": "AAAAAA==",
+    "skillTag": "AAAAAA=="
+  },
+  {
+    "sn": "134146",
+    "name": "Station Square Superstar",
+    "desc": "At the start of battle, gain Big Welcome and Furrocious Follow-Up for 2 turns.\nExtend the duration of debuffs from Welcome Hug, Furrious Bark, and Woof Woof Blaze by 1 turn.\nWhen Big Welcome and Furrocious Follow-Up are both active, increase Woof Woof Blaze's Fire, Ice, Electric, and Wind damage taken effect on all foes by 30%, increase the <link=\"s|100\"><u>Resonance</u></link> damage taken effect on the main target by 60%, and the effects granted by Big Welcome and Furrocious Follow-Up will both activate (the damage taken increase effects do not stack, and the greater effect is applied).",
+    "descSimple": "AAAAAA==",
+    "levelUpList": "AAAAAA==",
+    "levelUpValue": "AAAAAA==",
+    "contentBG": "AAAAAA==",
+    "skillTag": "AAAAAA=="
+  },
+  {
+    "sn": "134151",
+    "name": "1 MORE",
+    "desc": "Deal Fire damage to 1 foe.",
+    "descSimple": "AAAAAA==",
+    "levelUpList": "1 More Dmg",
+    "levelUpValue": "6.7%,13.3%,20.0%,26.7%,33.3%,40.0%,46.7%,51.3%,56.0%,59.3%,62.7%,66.0%,69.3%,72.7%",
+    "contentBG": "AAAAAA==",
+    "skillTag": "AAAAAA=="
+  },
+  {
+    "sn": "134152",
+    "name": "Highlight",
+    "desc": "Deal Fire damage to all foes equal to <color=#FFFC40>^%s^</color> of Attack.\nPermanently inflict 2 Enthusiastic Fuse stacks on foes. Stacks up to 2 times (remove as wave progresses).\nEnthusiastic Fuse: When any foe takes Fire, Ice, Electric, or Wind skill damage or <link=\"s|100\"><u>Resonance</u></link> damage, spend 1 Enthusiastic Fuse stack, and increase the damage by 22.9% of Runa's ailment accuracy (up to <color=#FFFC40>^%s^</color>). If Runa's skills and Resonance activate this effect, Enthusiastic Fuse will not be spent.",
+    "descSimple": "Fire dmg to all foes (%s Atk).\nPermanently inflict 2 Enthusiastic Fuse on foes (max 2 stacks, remove as wave progresses).\nEnthusiastic Fuse: When any foe takes Fire, Ice, Elec, or Wind skill dmg or Resonance dmg, spend 1 Enthusiastic Fuse, and increase dmg (22.9% of Runa's ailment acc, max %s. If Runa's skills and Resonance activate this effect, Enthusiastic Fuse will not be spent.",
+    "levelUpList": "Skill Multiplier,Dmg Taken Increase Cap",
+    "levelUpValue": "AAAAAA==",
+    "contentBG": "AAAAAA==",
+    "skillTag": "AAAAAA=="
+  },
+  {
+    "sn": "134161",
     "name": "Ranged Attack",
     "desc": "Deal Gun damage to 1 foe. Can fire until out of ammo.",
     "descSimple": "AAAAAA==",
@@ -6404,7 +6664,7 @@
     "name": "Mask of Mischief & Innocence",
     "desc": "Deal Fire damage to 1 foe equal to <color=#FFFC40>^%s^</color> of Attack and Ice damage equal to <color=#FFFC40>^%s^</color> of Attack (1 hit each; increase this effect by 1% for every 1 point of <link=\"s|271\"><u>Desire Level</u></link>). Also, increase party's Attack by <color=#FFFC40>^%s^</color> for every 100 points of Desire Level for 3 turns.\nGain <link=\"s|273\"><u>Facade</u></link> of Mischief & Innocence.",
     "descSimple": "Fire dmg to 1 foe (%s Atk) and Ice dmg (%s Atk), 1 hit each (increase this skill's effect 1% per 1 Desire Level). Increase party's Atk %s per 100 Desire Level (3 turns).\nGain Facade of Mischief & Innocence.",
-    "levelUpList": "Fire Dmg Multiplier,Ice Dmg Multiplier,Atk Increase",
+    "levelUpList": "Fire Skill Multiplier,Ice Skill Multiplier,Atk Increase",
     "levelUpValue": "AAAAAA==",
     "contentBG": "Combine the powers of Jack-o'-Lantern and Jack Frost to deal Fire and Ice damage to an enemy.",
     "skillTag": "Single-Target"
@@ -6414,7 +6674,7 @@
     "name": "Mask of Service & Admonition",
     "desc": "Deal Electric damage to 1 foe equal to <color=#FFFC40>^%s^</color> of Attack and Wind damage equal to <color=#FFFC40>^%s^</color> of Attack (1 hit each; increase this effect by 1% for every 1 point of <link=\"s|271\"><u>Desire Level</u></link>). Also, decrease party's damage taken by <color=#FFFC40>^%s^</color> and <color=#FFFC40>^%s^</color> more for every 100 points of Desire Level for 3 turns. Also, restore party's HP by <color=#FFFC40>^%s^</color> of Justine & Caroline's Attack + <color=#FFFC40>^%s^</color>.\nGain <link=\"s|273\"><u>Facade</u></link> of Service & Admonition.",
     "descSimple": "Elec dmg to 1 foe (%s Atk) and Wind dmg (%s Atk), 1 hit each (increase this effect 1% per 1 Desire Level). Decrease party's dmg taken %s + %s per 100 Desire Level (3 turns). Also, restore party's HP (%s Atk + %s).\nGain Facade of Service & Admonition.",
-    "levelUpList": "Elec Dmg Multiplier,Wind Dmg Multiplier,Dmg Taken Decrease,Extra Dmg Taken Decrease,Healing Multiplier,Base Healing",
+    "levelUpList": "Elec Skill Multiplier,Wind Skill Multiplier,Dmg Taken Decrease,Extra Dmg Taken Decrease,Healing Multiplier,Base Healing",
     "levelUpValue": "AAAAAA==",
     "contentBG": "Combine the powers of Agathion and Sudama to deal Electric and Wind damage to an enemy.",
     "skillTag": "Single-Target"
@@ -6424,7 +6684,7 @@
     "name": "Mask of Absurdity & Nonsense",
     "desc": "Deal Psychokinesis damage to 1 foe equal to <color=#FFFC40>^%s^</color> of Attack and Nuclear damage equal to <color=#FFFC40>^%s^</color> of Attack (1 hit each; increase this effect by 1% for every 1 point of <link=\"s|271\"><u>Desire Level</u></link>). Also, increase pierce rate for Justine & Caroline and the Sweeper or Assassin ally with the highest Attack by <color=#FFFC40>^%s^</color> and <color=#FFFC40>^%s^</color> more for every 100 points of Desire Level for 3 turns.\nGain <link=\"s|273\"><u>Facade</u></link> of Absurdity & Nonsense.",
     "descSimple": "Psy dmg to 1 foe (%s Atk) and Nuke dmg (%s Atk), 1 hit each (increase this effect 1% per 1 Desire Level). For Justine & Caroline and Sweeper or Assassin ally with highest Atk, increase pierce rate %s + %s per 100 Desire Level (3 turns).\nGain Facade of Absurdity & Nonsense.",
-    "levelUpList": "Psy Dmg Multiplier,Nuke Dmg Multiplier,Pierce Rate Increase,Extra Pierce Rate Increase",
+    "levelUpList": "Psy Skill Multiplier,Nuke Skill Multiplier,Pierce Rate Increase,Extra Pierce Rate Increase",
     "levelUpValue": "AAAAAA==",
     "contentBG": "Combine the powers of Mandrake and Onmoraki to deal Psychokinesis and Nuclear damage to an enemy.",
     "skillTag": "Single-Target"
@@ -6434,7 +6694,7 @@
     "name": "Mask of Luck & Loss",
     "desc": "Deal Bless damage to 1 foe equal to <color=#FFFC40>^%s^</color> of Attack and Curse damage equal to <color=#FFFC40>^%s^</color> of Attack (1 hit each; increase this effect by 1% for every point of <link=\"s|271\"><u>Desire Level</u></link>).\nAlso, increase Justine & Caroline's Attack by <color=#FFFC40>^%s^</color> + <color=#FFFC40>^%s^</color> for every 100 points of Desire Level, damage dealt by <color=#FFFC40>^%s^</color> + <color=#FFFC40>^%s^</color> for every 100 points of Desire Level, and critical rate by <color=#FFFC40>^%s^</color> + <color=#FFFC40>^%s^</color> for every 100 points of Desire Level for 3 turns.\nGain <link=\"s|273\"><u>Facade</u></link> of Luck & Loss.",
     "descSimple": "Bless dmg to 1 foe (%s Atk) and Curse dmg (%s Atk), 1 hit each (increase this skill's effect 1% per 1 Desire Level).\nIncrease Justine & Caroline's Atk %s + %s per 100 Desire Level, dmg dealt %s + %s per 100 Desire Level, and crit rate %s + %s per 100 Desire Level (3 turns).\nGain Facade of Luck & Loss.",
-    "levelUpList": "Bless Dmg Multiplier,Curse Dmg Multiplier,Atk Increase,Extra Atk Increase,Dmg Increase,Extra Dmg Increase,Crit Rate Increase,Extra Crit Rate Increase",
+    "levelUpList": "Bless Skill Multiplier,Curse Skill Multiplier,Atk Increase,Extra Atk Increase,Dmg Increase,Extra Dmg Increase,Crit Rate Increase,Extra Crit Rate Increase",
     "levelUpValue": "AAAAAA==",
     "contentBG": "Combine the powers of Shiisaa and Bugs to deal Bless and Curse damage to an enemy.",
     "skillTag": "Single-Target"
@@ -6444,7 +6704,7 @@
     "name": "Two Masks as One",
     "desc": "Usable when any 2 types of <link=\"s|273\"><u>Facade</u></link> have been gained. Deal Almighty damage to 1 foe equal to <color=#FFFC40>^%s^</color> of Attack (increase this effect by 1% for every 1 point of <link=\"s|271\"><u>Desire Level</u></link>). Also, spend all Facades to activate the following effects based on their combination.\nFacade of Mischief & Innocence + Facade of Service & Admonition: Restore party's HP equal to <color=#FFFC40>^%s^</color> of Attack + <color=#FFFC40>^%s^</color>. Also, increase party's damage dealt by <color=#FFFC40>^%s^</color> for every 100 points of Desire Level for 2 turns.\nFacade of Mischief & Innocence + Facade of Absurdity & Nonsense: Grant other allies <color=#FFFC40>^%s^</color> of <link=\"s|272\"><u>Skill Amplification</u></link> for 2 turns. Also, increase party's critical damage by <color=#FFFC40>^%s^</color> for every 100 points of Desire Level.\nSkill Amplification: Increase the values of skills and Thief Tactics that are increased when leveled up. This effect is calculated separately from other effects.\nFacade of Mischief & Innocence + Facade of Luck & Loss: Change this skill's target to all foes.\nFacade of Service & Admonition + Facade of Absurdity & Nonsense: Grant all allies a shield equal to <color=#FFFC40>^%s^</color> of Justine & Caroline's Attack + <color=#FFFC40>^%s^</color> and 1 Down Point for 2 turns. Also, increase party's Defense by <color=#FFFC40>^%s^</color> for every 100 points of Desire Level.\nFacade of Service & Admonition + Facade of Luck & Loss: Inflict <link=\"s|104\"><u>Shock</u></link>, <link=\"s|105\"><u>Windswept</u></link> and 2 <link=\"s|112\"><u>Curse</u></link> stacks on the main target, and gain 2 <link=\"s|111\"><u>Blessing</u></link> stacks. These effects last for 2 turns. Also, decrease all foes' Defense by <color=#FFFC40>^%s^</color> + <color=#FFFC40>^%s^</color> for every 100 point of Desire Level for 2 turns.\nFacade of Absurdity & Nonsense + Facade of Luck & Loss: This skill deals 1 more hit of Almighty damage. Also, gain Rebel Surveillance for 2 turns.\nRebel Surveillance: When using a skill, temporarily gain <color=#FFFC40>^%s^</color> of <link=\"s|274\"><u>Effects</u></link> stats from the Sweeper or Assassin ally with the highest Attack (excluding Justine & Caroline).",
     "descSimple": "Usable when any 2 Facades have been gained. Almighty dmg to 1 foe (%s Atk; increase this effect 1% per 1 Desire Level). Spend all Facades to activate the following effects based on their combination.\nFacade of Mischief & Innocence + Facade of Service & Admonition: Restore party's HP (%s Atk + %s). Increase party's dmg dealt %s per 100 Desire Level (2 turns).\nFacade of Mischief & Innocence + Facade of Absurdity & Nonsense: Grant other allies Skill Amplification (%s, 2 turns). Increase other allies' crit dmg %s per 100 Desire Level (2 turns).\nSkill Amplification: Increase effects of skills and Thief Tactics that are increased when leveled up. This effect is calculated separately from other effects.\nFacade of Mischief & Innocence + Facade of Luck & Loss: Change this skill's target to all foes.\nFacade of Service & Admonition + Facade of Absurdity & Nonsense: Grant all allies shield (%s of Justine & Caroline's Atk + %s) and 1 Down Point. Also, increase party's Def %s per 100 Desire Level (2 turns).\nFacade of Service & Admonition + Facade of Luck & Loss: Inflict Shock, Windswept and 2 Curse on main target, and gain 2 Blessing (2 turns). Also decrease all foes' Def %s + %s per 100 Desire Level (2 turns).\nFacade of Absurdity & Nonsense + Facade of Luck & Loss: Deal 1 more hit of Almighty dmg from this skill. Gain Rebel Surveillance (2 turns).\nRebel Surveillance: When using a skill, grant %s of Effects stats from Sweeper or Assassin ally with highest Atk (excluding Justine & Caroline).",
-    "levelUpList": "Almighty Dmg Multiplier,Healing Multiplier,Base Healing,Dmg Increase,Skill Amplification,Crit Dmg Increase,Shield Multiplier,Base Shield,Def Increase,Def Decrease,Extra Def Decrease,Effect Enhancement +",
+    "levelUpList": "Almighty Skill Multiplier,Healing Multiplier,Base Healing,Dmg Increase,Skill Amplification,Crit Dmg Increase,Shield Multiplier,Base Shield,Def Increase,Def Decrease,Extra Def Decrease,Effect Enhancement +",
     "levelUpValue": "AAAAAA==",
     "contentBG": "With the power of the Velvet Room's attendants, harness a variety of Facades to grant various effects.",
     "skillTag": "Single-Target"
@@ -6604,7 +6864,7 @@
     "name": "Highlight",
     "desc": "When activating a Highlight, choose 1 of the 2 selected Persona sets and activate its Highlight below (cooldown times for each Highlight are calculated independently).\nMask of Mischief & Innocence: Increase the party's Attack by <color=#FFFC40>^%s^</color> and damage by <color=#FFFC40>^%s^</color> for 2 turns.\nMask of Service & Admonition: Restore the party's HP by <color=#FFFC40>^%s^</color> of Justine & Caroline's Attack + <color=#FFFC40>^%s^</color>.\nIncrease the party's max HP by <color=#FFFC40>^%s^</color> for 2 turns.\nMask of Absurdity & Nonsense: Deal Psychokinesis damage to 1 foe equal to <color=#FFFC40>^%s^</color> of Attack, and Nuclear damage equal to <color=#FFFC40>^%s^</color> of Attack (1 hit each, can inflict critical damage).\nIncrease Attack by <color=#FFFC40>^%s^</color> for Justine & Caroline and the ally with the highest Attack (prioritizing Assassins or Sweepers).\nMask of Luck & Loss: Deal Bless damage to all foes equal to <color=#FFFC40>^%s^</color> of Attack, and deal Curse damage equal to <color=#FFFC40>^%s^</color> of Attack (1 hit each, can inflict critical damage).\nFor 2 turns, increase Justine & Caroline's Attack by <color=#FFFC40>^%s^</color> and critical damage by <color=#FFFC40>^%s^</color>.",
     "descSimple": "When activating Highlight, choose 1 of the 2 selected Persona sets and activate its Highlight below (cooldown times for each Highlight are calculated independently).\nMask of Mischief & Innocence: Increase party's Atk %s and dmg %s (2 turns).\nMask of Service & Admonition: Restore party's HP by %s of Justine & Caroline's Atk + %s. Increase party's max HP %s (2 turns).\nMask of Absurdity & Nonsense: Psy dmg to 1 foe (%s Atk), and Nuke dmg (%s Atk), 1 hit each, can crit. Increase Atk %s for Justine & Caroline and ally with highest Atk (prioritizing Assassin/Sweeper).\nMask of Luck & Loss: Bless dmg to all foes (%s Atk), and Curse dmg (%s Atk), 1 hit each, can crit. Increase Justine & Caroline's Atk %s and crit dmg %s (2 turns).",
-    "levelUpList": "Highlight Atk Increase,Highlight Dmg Increase,Highlight Healing Multiplier,Highlight Base Healing,Highlight Max HP Increase,Highlight Psy Dmg Multiplier,Highlight Nuke Dmg Multiplier,Highlight Atk Increase,Highlight Bless Dmg Multiplier,Highlight Curse Dmg Multiplier,Highlight Atk Increase,Highlight Crit Dmg Increase",
+    "levelUpList": "Highlight Atk Increase,Highlight Dmg Increase,Highlight Healing Multiplier,Highlight Base Healing,Highlight Max HP Increase,Highlight Skill Multiplier,Highlight Skill Multiplier,Highlight Atk Increase,Highlight Skill Multiplier,Highlight Skill Multiplier,Highlight Atk Increase,Highlight Crit Dmg Increase",
     "levelUpValue": "AAAAAA==",
     "contentBG": "AAAAAA==",
     "skillTag": "AAAAAA=="
@@ -25582,7 +25842,7 @@
   {
     "sn": "41001",
     "name": "AAAAAA==",
-    "desc": "Change all foes' Fire and Psy affinities to Weak. Change 1 other random affinity to Resist.",
+    "desc": "At the start of battle, change all foes' Fire and Psy affinities to Weak. Change 1 other random affinity to Resist.",
     "descSimple": "AAAAAA==",
     "levelUpList": "AAAAAA==",
     "levelUpValue": "AAAAAA==",
@@ -25592,7 +25852,7 @@
   {
     "sn": "41002",
     "name": "AAAAAA==",
-    "desc": "Change all foes' Ice and Nuke affinities to Weak. Change 1 other random affinity to Resist.",
+    "desc": "At the start of battle, change all foes' Ice and Nuke affinities to Weak. Change 1 other random affinity to Resist.",
     "descSimple": "AAAAAA==",
     "levelUpList": "AAAAAA==",
     "levelUpValue": "AAAAAA==",
@@ -25602,7 +25862,7 @@
   {
     "sn": "41003",
     "name": "AAAAAA==",
-    "desc": "Change all foes' Elec and Bless affinities to Weak. Change 1 other random affinity to Resist.",
+    "desc": "At the start of battle, change all foes' Elec and Bless affinities to Weak. Change 1 other random affinity to Resist.",
     "descSimple": "AAAAAA==",
     "levelUpList": "AAAAAA==",
     "levelUpValue": "AAAAAA==",
@@ -25612,7 +25872,7 @@
   {
     "sn": "41004",
     "name": "AAAAAA==",
-    "desc": "Change all foes' Wind and Curse affinities to Weak. Change 1 other random affinity to Resist.",
+    "desc": "At the start of battle, change all foes' Wind and Curse affinities to Weak. Change 1 other random affinity to Resist.",
     "descSimple": "AAAAAA==",
     "levelUpList": "AAAAAA==",
     "levelUpValue": "AAAAAA==",
@@ -26868,6 +27128,16 @@
     "levelUpValue": "AAAAAA==",
     "contentBG": "AAAAAA==",
     "skillTag": "Buff"
+  },
+  {
+    "sn": "6266",
+    "name": "Rude Awakening",
+    "desc": "Deals heavy damage to all targets and recovers a set percentage of the user's HP.",
+    "descSimple": "AAAAAA==",
+    "levelUpList": "AAAAAA==",
+    "levelUpValue": "AAAAAA==",
+    "contentBG": "AAAAAA==",
+    "skillTag": "Multi-Target"
   },
   {
     "sn": "6313",
@@ -29161,7 +29431,7 @@
   },
   {
     "sn": "2313",
-    "name": "(Empty line)",
+    "name": "Parasol of Chaos",
     "desc": "AAAAAA==",
     "descSimple": "AAAAAA==",
     "levelUpList": "AAAAAA==",
@@ -30922,6 +31192,16 @@
   {
     "sn": "2625",
     "name": "(Empty line)",
+    "desc": "AAAAAA==",
+    "descSimple": "AAAAAA==",
+    "levelUpList": "AAAAAA==",
+    "levelUpValue": "AAAAAA==",
+    "contentBG": "AAAAAA==",
+    "skillTag": "AAAAAA=="
+  },
+  {
+    "sn": "2626",
+    "name": "Placeholder",
     "desc": "AAAAAA==",
     "descSimple": "AAAAAA==",
     "levelUpList": "AAAAAA==",
@@ -39292,7 +39572,7 @@
   {
     "sn": "59021",
     "name": "Hunter's Instinct",
-    "desc": "Increase Attack by <color=#2899FF>^%s^</color>.\nWhen dealing damage with a skill, gain 3 Hunter's Instinct stacks. Every 2 times damage is dealt, gain 1 more stack.\nHunter's Instinct; Increase damage by <color=#2899FF>^%s^</color> for 1 turn. Stacks up to 5 times. When Hunter's Instinct is at 3/5 stacks, also increase critical rate by <color=#2899FF>^%s^</color>/<color=#2899FF>^%s^</color>%, and increase critical damage by <color=#2899FF>^%s^</color>/<color=#2899FF>^%s^</color>%.",
+    "desc": "Increase Attack by <color=#2899FF>^%s^</color>.\nWhen dealing damage with a skill, gain 3 Hunter's Instinct stacks. Every 2 times damage is dealt, gain 1 more stack.\nHunter's Instinct; Increase damage by <color=#2899FF>^%s^</color> for 1 turn. Stacks up to 5 times. When Hunter's Instinct is at 3/5 stacks, also increase critical rate by <color=#2899FF>^%s^</color>/<color=#2899FF>^%s^</color>, and increase critical damage by <color=#2899FF>^%s^</color>/<color=#2899FF>^%s^</color>.",
     "descSimple": "AAAAAA==",
     "levelUpList": "AAAAAA==",
     "levelUpValue": "AAAAAA==",
@@ -39863,6 +40143,46 @@
     "sn": "52158",
     "name": "Flight of the Swan",
     "desc": "AAAAAA==",
+    "descSimple": "AAAAAA==",
+    "levelUpList": "AAAAAA==",
+    "levelUpValue": "AAAAAA==",
+    "contentBG": "AAAAAA==",
+    "skillTag": "AAAAAA=="
+  },
+  {
+    "sn": "53421",
+    "name": "Doggone Determined",
+    "desc": "Increase Attack by <color=#2899FF>^%s^</color>.",
+    "descSimple": "AAAAAA==",
+    "levelUpList": "AAAAAA==",
+    "levelUpValue": "AAAAAA==",
+    "contentBG": "AAAAAA==",
+    "skillTag": "AAAAAA=="
+  },
+  {
+    "sn": "53431",
+    "name": "Doggone Devoted",
+    "desc": "For every foe inflicted by Runa's debuffs, increase Fire damage by <color=#2899FF>^%s^</color> (up to <color=#2899FF>^%s^</color>).",
+    "descSimple": "AAAAAA==",
+    "levelUpList": "AAAAAA==",
+    "levelUpValue": "AAAAAA==",
+    "contentBG": "AAAAAA==",
+    "skillTag": "AAAAAA=="
+  },
+  {
+    "sn": "53441",
+    "name": "Doggone Vicious",
+    "desc": "Increase Attack by <color=#2899FF>^%s^</color>. When Big Welcome or Furrocious Follow-Up is active, increase Runa's ailment accuracy by <color=#2899FF>^%s^</color>.",
+    "descSimple": "AAAAAA==",
+    "levelUpList": "AAAAAA==",
+    "levelUpValue": "AAAAAA==",
+    "contentBG": "AAAAAA==",
+    "skillTag": "AAAAAA=="
+  },
+  {
+    "sn": "53451",
+    "name": "Doggone Savage",
+    "desc": "Increase ailment accuracy by <color=#2899FF>^%s^</color>.\nWhen an ally uses a Fire, Ice, Electric or Wind skill or activates a <link=\"s|100\"><u>Resonance</u></link>, increase Runa's ailment accuracy by <color=#2899FF>^%s^</color> for 2 turns. This effect does not stack.\nWhen using Woof Woof Blaze and activating the effect of Big Welcome, decrease the target's Defense by <color=#2899FF>^%s^</color> more for 3 turns. When the effect of Furrocious Follow-Up is activated, decrease the target's Defense by <color=#2899FF>^%s^</color> more for 3 turns. These 2 debuffs do not stack.",
     "descSimple": "AAAAAA==",
     "levelUpList": "AAAAAA==",
     "levelUpValue": "AAAAAA==",
@@ -41132,7 +41452,7 @@
   {
     "sn": "3267",
     "name": "AAAAAA==",
-    "desc": "<color=#FF423F>Data Encryption-I4</color>: When a <color=#fffc40>Combat Drone</color> attacks, grant the ally with the lowest HP a shield equal to <color=#fffc40>80%</color> of their lost HP (250 or more) for 2 turns.",
+    "desc": "<color=#FF423F>Data Encryption-I4</color>: When a <color=#fffc40>Combat Drone</color> attacks, grant the ally with the lowest HP a shield equal to <color=#fffc40>80%</color> of their lost HP (15% or more of max HP) for 2 turns.",
     "descSimple": "AAAAAA==",
     "levelUpList": "AAAAAA==",
     "levelUpValue": "AAAAAA==",

@@ -4286,7 +4286,7 @@
   {
     "sn": "1212003",
     "title": "Spring's Vestige",
-    "desc": "Increase dmg of Resonance activated when Spring's Edge ends (exceed limit).",
+    "desc": "Increase dmg of Resonance activated when Spring's Edge ends.",
     "BuffDesc": "S<color=#000000>p</color>ring's Vestige",
     "addText": "AAAAAA==",
     "removeText": "AAAAAA==",
@@ -4331,7 +4331,7 @@
   {
     "sn": "1212008",
     "title": "Winter's Vestige",
-    "desc": "Increase dmg of Resonance activated when Winter's Edge ends (exceed limit).",
+    "desc": "Increase dmg of Resonance activated when Winter's Edge ends.",
     "BuffDesc": "W<color=#000000>i</color>nter's Vestige",
     "addText": "AAAAAA==",
     "removeText": "AAAAAA==",
@@ -4540,6 +4540,177 @@
     "title": "Swan on the Ice",
     "desc": "Increase Atk by %s.",
     "BuffDesc": "AAAAAA==",
+    "addText": "AAAAAA==",
+    "removeText": "AAAAAA==",
+    "calText": "AAAAAA=="
+  },
+  {
+    "sn": "1341111",
+    "title": "Big Welcome",
+    "desc": "Can activate Woof Woof Blaze.",
+    "BuffDesc": "B<color=#000000>i</color>g Welcome",
+    "addText": "AAAAAA==",
+    "removeText": "AAAAAA==",
+    "calText": "AAAAAA=="
+  },
+  {
+    "sn": "1341113",
+    "title": "Burn",
+    "desc": "Lose HP after acting.",
+    "BuffDesc": "B<color=#000000>u</color>rn",
+    "addText": "AAAAAA==",
+    "removeText": "AAAAAA==",
+    "calText": "AAAAAA=="
+  },
+  {
+    "sn": "1341115",
+    "title": "Welcome Hug",
+    "desc": "Decrease Def, decrease Def more after taking Fire/Ice/Electric/Wind dmg.",
+    "BuffDesc": "W<color=#000000>e</color>lcome Hug",
+    "addText": "AAAAAA==",
+    "removeText": "AAAAAA==",
+    "calText": "AAAAAA=="
+  },
+  {
+    "sn": "1341121",
+    "title": "Furrocious Follow-Up",
+    "desc": "Can activate Woof Woof Blaze.",
+    "BuffDesc": "F<color=#000000>u</color>rrocious Follow-Up",
+    "addText": "AAAAAA==",
+    "removeText": "AAAAAA==",
+    "calText": "AAAAAA=="
+  },
+  {
+    "sn": "1341122",
+    "title": "Furrious Bark",
+    "desc": "Decrease Def by %s.",
+    "BuffDesc": "F<color=#000000>u</color>rrious Bark",
+    "addText": "AAAAAA==",
+    "removeText": "AAAAAA==",
+    "calText": "AAAAAA=="
+  },
+  {
+    "sn": "1341132",
+    "title": "Woof Woof Blaze",
+    "desc": "Increase dmg taken by %s.",
+    "BuffDesc": "W<color=#000000>o</color>of Woof Blaze",
+    "addText": "AAAAAA==",
+    "removeText": "AAAAAA==",
+    "calText": "AAAAAA=="
+  },
+  {
+    "sn": "1341133",
+    "title": "Woof Woof Blaze",
+    "desc": "Increase Fire/Ice/Electric/Wind dmg taken by %s.",
+    "BuffDesc": "W<color=#000000>o</color>of Woof Blaze",
+    "addText": "AAAAAA==",
+    "removeText": "AAAAAA==",
+    "calText": "AAAAAA=="
+  },
+  {
+    "sn": "1341134",
+    "title": "Woof Woof Blaze",
+    "desc": "Increase Fire/Ice/Electric/Wind dmg taken by %s.",
+    "BuffDesc": "W<color=#000000>o</color>of Woof Blaze",
+    "addText": "AAAAAA==",
+    "removeText": "AAAAAA==",
+    "calText": "AAAAAA=="
+  },
+  {
+    "sn": "1341142",
+    "title": "Woof Woof Blaze",
+    "desc": "Increase dmg taken by %s.",
+    "BuffDesc": "W<color=#000000>o</color>of Woof Blaze",
+    "addText": "AAAAAA==",
+    "removeText": "AAAAAA==",
+    "calText": "AAAAAA=="
+  },
+  {
+    "sn": "1341143",
+    "title": "Woof Woof Blaze",
+    "desc": "Increase Resonance dmg taken by %s.",
+    "BuffDesc": "W<color=#000000>o</color>of Woof Blaze",
+    "addText": "AAAAAA==",
+    "removeText": "AAAAAA==",
+    "calText": "AAAAAA=="
+  },
+  {
+    "sn": "1341041",
+    "title": "Trapped in Shibuya",
+    "desc": "Increase critical dmg taken by %s.",
+    "BuffDesc": "AAAAAA==",
+    "addText": "AAAAAA==",
+    "removeText": "AAAAAA==",
+    "calText": "AAAAAA=="
+  },
+  {
+    "sn": "1341042",
+    "title": "Trapped in Shibuya",
+    "desc": "Decrease HP recovery taken by %s.",
+    "BuffDesc": "AAAAAA==",
+    "addText": "AAAAAA==",
+    "removeText": "AAAAAA==",
+    "calText": "AAAAAA=="
+  },
+  {
+    "sn": "1341082",
+    "title": "Station Square Superstar",
+    "desc": "Increase Fire/Ice/Electric/Wind dmg taken by %s.",
+    "BuffDesc": "S<color=#000000>t</color>ation Square Superstar",
+    "addText": "AAAAAA==",
+    "removeText": "AAAAAA==",
+    "calText": "AAAAAA=="
+  },
+  {
+    "sn": "1341083",
+    "title": "Station Square Superstar",
+    "desc": "Increase Resonance dmg taken by %s.",
+    "BuffDesc": "S<color=#000000>t</color>ation Square Superstar",
+    "addText": "AAAAAA==",
+    "removeText": "AAAAAA==",
+    "calText": "AAAAAA=="
+  },
+  {
+    "sn": "1341321",
+    "title": "Faithful Dog",
+    "desc": "Increase Atk by %s.",
+    "BuffDesc": "F<color=#000000>a</color>ithful Dog",
+    "addText": "AAAAAA==",
+    "removeText": "AAAAAA==",
+    "calText": "AAAAAA=="
+  },
+  {
+    "sn": "1341322",
+    "title": "Faithful Dog",
+    "desc": "Increase Atk by %s.",
+    "BuffDesc": "F<color=#000000>a</color>ithful Dog",
+    "addText": "AAAAAA==",
+    "removeText": "AAAAAA==",
+    "calText": "AAAAAA=="
+  },
+  {
+    "sn": "1341527",
+    "title": "Enthusiastic Fuse",
+    "desc": "Spend 1 when taking Fire/Ice/Electric/Wind or Resonance dmg to increase the dmg by %s.",
+    "BuffDesc": "AAAAAA==",
+    "addText": "AAAAAA==",
+    "removeText": "AAAAAA==",
+    "calText": "AAAAAA=="
+  },
+  {
+    "sn": "1341025",
+    "title": "Station Square Mascot",
+    "desc": "Decrease Def by %s.",
+    "BuffDesc": "S<color=#000000>t</color>ation Square Mascot",
+    "addText": "AAAAAA==",
+    "removeText": "AAAAAA==",
+    "calText": "AAAAAA=="
+  },
+  {
+    "sn": "1341026",
+    "title": "Station Square Mascot",
+    "desc": "Decrease HP recovery taken by %s.",
+    "BuffDesc": "S<color=#000000>t</color>ation Square Mascot",
     "addText": "AAAAAA==",
     "removeText": "AAAAAA==",
     "calText": "AAAAAA=="
@@ -12420,6 +12591,15 @@
     "calText": "%s is brainwashed and can't move!"
   },
   {
+    "sn": "62492",
+    "title": "Royal Punishment Count Decrease",
+    "desc": "Total debuffs inflicted on all Shadows.",
+    "BuffDesc": "R<color=#000000>o</color>yal Punishment Count Decrease",
+    "addText": "AAAAAA==",
+    "removeText": "AAAAAA==",
+    "calText": "AAAAAA=="
+  },
+  {
     "sn": "62501",
     "title": "Ailment Resist Up",
     "desc": "Increase ailment resistance by %s.",
@@ -12507,6 +12687,24 @@
     "BuffDesc": "O<color=#000000>f</color>fensive Stance",
     "addText": "AAAAAA==",
     "removeText": "AAAAAA==",
+    "calText": "AAAAAA=="
+  },
+  {
+    "sn": "62671",
+    "title": "Eternal Slumber",
+    "desc": "Puts Belphegor to sleep.",
+    "BuffDesc": "E<color=#000000>t</color>ernal Slumber",
+    "addText": "AAAAAA==",
+    "removeText": "AAAAAA==",
+    "calText": "AAAAAA=="
+  },
+  {
+    "sn": "62661",
+    "title": "Sleep",
+    "desc": "Unable to act.",
+    "BuffDesc": "S<color=#000000>l</color>eep",
+    "addText": "Inflicted with sleep!",
+    "removeText": "Recovered from sleep...",
     "calText": "AAAAAA=="
   },
   {
@@ -12739,15 +12937,6 @@
     "title": "Damage Taken Down",
     "desc": "Decrease final dmg taken by %s.",
     "BuffDesc": "D<color=#000000>a</color>mage Taken Down",
-    "addText": "AAAAAA==",
-    "removeText": "AAAAAA==",
-    "calText": "AAAAAA=="
-  },
-  {
-    "sn": "62492",
-    "title": "AAAAAA==",
-    "desc": "AAAAAA==",
-    "BuffDesc": "D<color=#000000>e</color>buff Stacks",
     "addText": "AAAAAA==",
     "removeText": "AAAAAA==",
     "calText": "AAAAAA=="
@@ -16371,6 +16560,15 @@
     "calText": "AAAAAA=="
   },
   {
+    "sn": "23122",
+    "title": "Parasol of Chaos",
+    "desc": "Protected by Parasol of Chaos, and all affinities change to Resist.",
+    "BuffDesc": "P<color=#000000>a</color>rasol of Chaos",
+    "addText": "All affinities changed to Resist!",
+    "removeText": "Affinities reverted!",
+    "calText": "AAAAAA=="
+  },
+  {
     "sn": "23151",
     "title": "Rage",
     "desc": "Guard Dog will enter special Rage state, attacking both friend and foe.",
@@ -18108,6 +18306,60 @@
     "calText": "AAAAAA=="
   },
   {
+    "sn": "26261",
+    "title": "Steal",
+    "desc": "Increase Def by %s.",
+    "BuffDesc": "S<color=#000000>t</color>eal",
+    "addText": "AAAAAA==",
+    "removeText": "AAAAAA==",
+    "calText": "AAAAAA=="
+  },
+  {
+    "sn": "26262",
+    "title": "Steal",
+    "desc": "Increase dmg by %s.",
+    "BuffDesc": "S<color=#000000>t</color>eal",
+    "addText": "AAAAAA==",
+    "removeText": "AAAAAA==",
+    "calText": "AAAAAA=="
+  },
+  {
+    "sn": "26263",
+    "title": "Steal",
+    "desc": "Increase Atk by %s.",
+    "BuffDesc": "S<color=#000000>t</color>eal",
+    "addText": "AAAAAA==",
+    "removeText": "AAAAAA==",
+    "calText": "AAAAAA=="
+  },
+  {
+    "sn": "26264",
+    "title": "Stolen",
+    "desc": "Decrease Def by %s.",
+    "BuffDesc": "S<color=#000000>t</color>olen",
+    "addText": "Defense stolen by Murakami!",
+    "removeText": "AAAAAA==",
+    "calText": "AAAAAA=="
+  },
+  {
+    "sn": "26265",
+    "title": "Stolen",
+    "desc": "Decrease dmg by %s.",
+    "BuffDesc": "S<color=#000000>t</color>olen",
+    "addText": "Damage dealt stolen by Murakami!",
+    "removeText": "AAAAAA==",
+    "calText": "AAAAAA=="
+  },
+  {
+    "sn": "26266",
+    "title": "Stolen",
+    "desc": "Decrease Atk by %s.",
+    "BuffDesc": "S<color=#000000>t</color>olen",
+    "addText": "Attack stolen by Murakami!",
+    "removeText": "AAAAAA==",
+    "calText": "AAAAAA=="
+  },
+  {
     "sn": "26361",
     "title": "Heroic Strength",
     "desc": "Lose Cu Chulainn's Lock On when shield breaks. (Shield Left: %s)",
@@ -18945,6 +19197,42 @@
     "calText": "AAAAAA=="
   },
   {
+    "sn": "25076",
+    "title": "Special Effect",
+    "desc": "Increase final dmg taken by %s.",
+    "BuffDesc": "S<color=#000000>p</color>ecial Effect",
+    "addText": "AAAAAA==",
+    "removeText": "AAAAAA==",
+    "calText": "AAAAAA=="
+  },
+  {
+    "sn": "25077",
+    "title": "Special Effect",
+    "desc": "Increase final dmg taken by %s.",
+    "BuffDesc": "S<color=#000000>p</color>ecial Effect",
+    "addText": "AAAAAA==",
+    "removeText": "AAAAAA==",
+    "calText": "AAAAAA=="
+  },
+  {
+    "sn": "25078",
+    "title": "Special Effect",
+    "desc": "Increase final dmg taken by %s.",
+    "BuffDesc": "S<color=#000000>p</color>ecial Effect",
+    "addText": "AAAAAA==",
+    "removeText": "AAAAAA==",
+    "calText": "AAAAAA=="
+  },
+  {
+    "sn": "25079",
+    "title": "Special Effect",
+    "desc": "Increase final dmg taken by %s.",
+    "BuffDesc": "S<color=#000000>p</color>ecial Effect",
+    "addText": "AAAAAA==",
+    "removeText": "AAAAAA==",
+    "calText": "AAAAAA=="
+  },
+  {
     "sn": "25081",
     "title": "Special Effect",
     "desc": "Change Physical affinity to Weak.",
@@ -19388,7 +19676,7 @@
   {
     "sn": "25692",
     "title": "Berserk",
-    "desc": "Gain a set amount of increased damage.",
+    "desc": "Gain a set amount of increased damage dealt.",
     "BuffDesc": "AAAAAA==",
     "addText": "AAAAAA==",
     "removeText": "AAAAAA==",
@@ -20784,8 +21072,8 @@
     "sn": "31012",
     "title": "Collapse Warning",
     "desc": "Increase dmg by 15%.",
-    "BuffDesc": "C<color=#000000>o</color>llapse Warning",
-    "addText": "AAAAAA==",
+    "BuffDesc": "AAAAAA==",
+    "addText": "Gained Collapse Warning!",
     "removeText": "AAAAAA==",
     "calText": "AAAAAA=="
   },
@@ -20793,8 +21081,8 @@
     "sn": "31013",
     "title": "Collapse Warning",
     "desc": "Increase dmg by 30%.",
-    "BuffDesc": "C<color=#000000>o</color>llapse Warning",
-    "addText": "AAAAAA==",
+    "BuffDesc": "AAAAAA==",
+    "addText": "Gained Collapse Warning!",
     "removeText": "AAAAAA==",
     "calText": "AAAAAA=="
   },
@@ -20802,8 +21090,8 @@
     "sn": "31014",
     "title": "Collapse Warning",
     "desc": "Increase dmg by 45%.",
-    "BuffDesc": "C<color=#000000>o</color>llapse Warning",
-    "addText": "AAAAAA==",
+    "BuffDesc": "AAAAAA==",
+    "addText": "Gained Collapse Warning!",
     "removeText": "AAAAAA==",
     "calText": "AAAAAA=="
   },
@@ -20811,7 +21099,7 @@
     "sn": "31021",
     "title": "Seal of Power",
     "desc": "Increase dmg by 10%.",
-    "BuffDesc": "S<color=#000000>e</color>al of Power",
+    "BuffDesc": "AAAAAA==",
     "addText": "Gained a Seal of Power!",
     "removeText": "AAAAAA==",
     "calText": "AAAAAA=="
@@ -20820,7 +21108,7 @@
     "sn": "31022",
     "title": "Seal of Power",
     "desc": "Increase dmg by 10%.",
-    "BuffDesc": "S<color=#000000>e</color>al of Power",
+    "BuffDesc": "AAAAAA==",
     "addText": "Gained a Seal of Power!",
     "removeText": "AAAAAA==",
     "calText": "AAAAAA=="
@@ -20829,7 +21117,7 @@
     "sn": "31031",
     "title": "Magnetic Interference",
     "desc": "Increase dmg taken by %s.",
-    "BuffDesc": "M<color=#000000>a</color>gnetic Interference",
+    "BuffDesc": "AAAAAA==",
     "addText": "Gained Magnetic Interference!",
     "removeText": "AAAAAA==",
     "calText": "AAAAAA=="
@@ -20838,7 +21126,7 @@
     "sn": "31041",
     "title": "Yang Energy",
     "desc": "Increase dmg by 30%. Cannot exist at same time as Yin Energy.",
-    "BuffDesc": "Y<color=#000000>a</color>ng Energy",
+    "BuffDesc": "AAAAAA==",
     "addText": "Gained Yang Energy!",
     "removeText": "AAAAAA==",
     "calText": "AAAAAA=="
@@ -20847,7 +21135,7 @@
     "sn": "31042",
     "title": "Yin Energy",
     "desc": "Increase dmg by 30%. Cannot exist at same time as Yang Energy.",
-    "BuffDesc": "Y<color=#000000>i</color>n Energy",
+    "BuffDesc": "AAAAAA==",
     "addText": "Gained Yin Energy!",
     "removeText": "AAAAAA==",
     "calText": "AAAAAA=="
@@ -20856,7 +21144,7 @@
     "sn": "31052",
     "title": "Elemental Invasion",
     "desc": "Increase dmg taken by 10%.",
-    "BuffDesc": "E<color=#000000>l</color>emental Invasion",
+    "BuffDesc": "AAAAAA==",
     "addText": "Damage taken increased!",
     "removeText": "AAAAAA==",
     "calText": "AAAAAA=="
@@ -21060,6 +21348,15 @@
     "calText": "AAAAAA=="
   },
   {
+    "sn": "31801",
+    "title": "Dissolution",
+    "desc": "Increase final dmg taken by %s.",
+    "BuffDesc": "D<color=#000000>i</color>ssolution",
+    "addText": "AAAAAA==",
+    "removeText": "AAAAAA==",
+    "calText": "AAAAAA=="
+  },
+  {
     "sn": "31904",
     "title": "Weakness Damage Up",
     "desc": "Increase weakness dmg by %s.",
@@ -21156,6 +21453,15 @@
     "BuffDesc": "S<color=#000000>t</color>at Buff",
     "addText": "AAAAAA==",
     "removeText": "AAAAAA==",
+    "calText": "AAAAAA=="
+  },
+  {
+    "sn": "32041",
+    "title": "Bughack-I0",
+    "desc": "Changes 1 random attribute to Weak.",
+    "BuffDesc": "B<color=#000000>u</color>ghack-I0",
+    "addText": "Gained 1 Weakness!",
+    "removeText": "%s's additional Weaknesses were removed...",
     "calText": "AAAAAA=="
   },
   {
@@ -21332,7 +21638,7 @@
   {
     "sn": "32682",
     "title": "Stat Buff",
-    "desc": "Increase final dmg by 5%. For every 1% of HP lost, increase dmg by 0.5% more (1 turn, up to 40%).",
+    "desc": "Increase final dmg by 5%. For every 1% of HP lost, increase dmg by 0.5% more (1 turn, up to 40%). Current increase: %s",
     "BuffDesc": "S<color=#000000>t</color>at Buff",
     "addText": "AAAAAA==",
     "removeText": "AAAAAA==",
@@ -21449,10 +21755,19 @@
   {
     "sn": "33011",
     "title": "Stat Buff",
-    "desc": "Decrease dmg taken by 80% when fence is present.",
+    "desc": "Decrease dmg taken by 80% when Arahabaki is present.",
     "BuffDesc": "S<color=#000000>t</color>at Buff",
     "addText": "Damage taken decreased 80%!",
     "removeText": "Damage reduction removed!",
+    "calText": "AAAAAA=="
+  },
+  {
+    "sn": "33014",
+    "title": "Guard Wall",
+    "desc": "Decrease other Shadows' dmg taken by 80% when Arahabaki is present.",
+    "BuffDesc": "AAAAAA==",
+    "addText": "AAAAAA==",
+    "removeText": "AAAAAA==",
     "calText": "AAAAAA=="
   },
   {
@@ -21502,18 +21817,18 @@
   },
   {
     "sn": "33029",
-    "title": "Marital Love",
+    "title": "Unbreakable Vow",
     "desc": "Titania will revive if she has been defeated at end of turn.",
-    "BuffDesc": "M<color=#000000>a</color>rital Love",
+    "BuffDesc": "U<color=#000000>n</color>breakable Vow",
     "addText": "AAAAAA==",
     "removeText": "AAAAAA==",
     "calText": "AAAAAA=="
   },
   {
     "sn": "33030",
-    "title": "Marital Love",
-    "desc": "Oberon will revive if he has been defeated at end of turn.",
-    "BuffDesc": "M<color=#000000>a</color>rital Love",
+    "title": "Unbreakable Vow",
+    "desc": "At end of turn, Oberon will revive if he has been defeated.",
+    "BuffDesc": "U<color=#000000>n</color>breakable Vow",
     "addText": "AAAAAA==",
     "removeText": "AAAAAA==",
     "calText": "AAAAAA=="
@@ -24555,8 +24870,8 @@
     "sn": "517512",
     "title": "A Modest CPU",
     "desc": "Increase Atk by %s.",
-    "BuffDesc": "A<color=#000000>t</color>tack Up",
-    "addText": "AAAAAA==",
+    "BuffDesc": "AAAAAA==",
+    "addText": "Final damage taken decreased!",
     "removeText": "AAAAAA==",
     "calText": "AAAAAA=="
   },
@@ -24690,7 +25005,7 @@
     "sn": "507411",
     "title": "Attack Up",
     "desc": "Increase Atk by %s.",
-    "BuffDesc": "A<color=#000000>t</color>tack Up",
+    "BuffDesc": "AAAAAA==",
     "addText": "AAAAAA==",
     "removeText": "AAAAAA==",
     "calText": "AAAAAA=="
@@ -24699,7 +25014,7 @@
     "sn": "507521",
     "title": "Attack Up",
     "desc": "Increase Atk by %s.",
-    "BuffDesc": "A<color=#000000>t</color>tack Up",
+    "BuffDesc": "AAAAAA==",
     "addText": "AAAAAA==",
     "removeText": "AAAAAA==",
     "calText": "AAAAAA=="
@@ -24708,7 +25023,7 @@
     "sn": "507522",
     "title": "Critical Damage Up",
     "desc": "Increase critical dmg by %s.",
-    "BuffDesc": "C<color=#000000>r</color>itical Damage Up",
+    "BuffDesc": "AAAAAA==",
     "addText": "AAAAAA==",
     "removeText": "AAAAAA==",
     "calText": "AAAAAA=="
@@ -24717,7 +25032,7 @@
     "sn": "507523",
     "title": "Shield Up",
     "desc": "Increase shield by %s.",
-    "BuffDesc": "S<color=#000000>h</color>ield Up",
+    "BuffDesc": "AAAAAA==",
     "addText": "AAAAAA==",
     "removeText": "AAAAAA==",
     "calText": "AAAAAA=="
@@ -24726,7 +25041,7 @@
     "sn": "521311",
     "title": "Ice Crystal",
     "desc": "Number of Ice Crystal stacks.",
-    "BuffDesc": "I<color=#000000>c</color>e Crystal",
+    "BuffDesc": "AAAAAA==",
     "addText": "AAAAAA==",
     "removeText": "AAAAAA==",
     "calText": "AAAAAA=="
@@ -24735,7 +25050,7 @@
     "sn": "521411",
     "title": "Glacial Gift",
     "desc": "Increase Ice dmg by %s.",
-    "BuffDesc": "G<color=#000000>l</color>acial Gift",
+    "BuffDesc": "AAAAAA==",
     "addText": "AAAAAA==",
     "removeText": "AAAAAA==",
     "calText": "AAAAAA=="
@@ -25888,6 +26203,51 @@
     "title": "Hunter's Instinct",
     "desc": "Increase dmg by %s.",
     "BuffDesc": "AAAAAA==",
+    "addText": "AAAAAA==",
+    "removeText": "AAAAAA==",
+    "calText": "AAAAAA=="
+  },
+  {
+    "sn": "534312",
+    "title": "Doggone Devoted",
+    "desc": "Increase Fire dmg by %s.",
+    "BuffDesc": "AAAAAA==",
+    "addText": "AAAAAA==",
+    "removeText": "AAAAAA==",
+    "calText": "AAAAAA=="
+  },
+  {
+    "sn": "534421",
+    "title": "Doggone Vicious",
+    "desc": "Increase ailment accuracy by %s.",
+    "BuffDesc": "AAAAAA==",
+    "addText": "AAAAAA==",
+    "removeText": "AAAAAA==",
+    "calText": "AAAAAA=="
+  },
+  {
+    "sn": "534521",
+    "title": "Doggone Savage",
+    "desc": "Increase ailment accuracy by %s.",
+    "BuffDesc": "D<color=#000000>o</color>ggone Savage",
+    "addText": "AAAAAA==",
+    "removeText": "AAAAAA==",
+    "calText": "AAAAAA=="
+  },
+  {
+    "sn": "534531",
+    "title": "Defense Down",
+    "desc": "Decrease Def by %s.",
+    "BuffDesc": "D<color=#000000>e</color>fense Down",
+    "addText": "AAAAAA==",
+    "removeText": "AAAAAA==",
+    "calText": "AAAAAA=="
+  },
+  {
+    "sn": "534532",
+    "title": "Defense Down",
+    "desc": "Decrease Def by %s.",
+    "BuffDesc": "D<color=#000000>e</color>fense Down",
     "addText": "AAAAAA==",
     "removeText": "AAAAAA==",
     "calText": "AAAAAA=="
@@ -27126,12 +27486,21 @@
     "calText": "AAAAAA=="
   },
   {
-    "sn": "32041",
+    "sn": "31017",
     "title": "AAAAAA==",
     "desc": "AAAAAA==",
     "BuffDesc": "AAAAAA==",
-    "addText": "Gained 1 Weakness!",
-    "removeText": "%s's additional Weaknesses were removed...",
+    "addText": "Gained \"\"!",
+    "removeText": "AAAAAA==",
+    "calText": "AAAAAA=="
+  },
+  {
+    "sn": "31051",
+    "title": "AAAAAA==",
+    "desc": "AAAAAA==",
+    "BuffDesc": "AAAAAA==",
+    "addText": "Gained \"\"!",
+    "removeText": "AAAAAA==",
     "calText": "AAAAAA=="
   },
   {

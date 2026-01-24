@@ -658,6 +658,13 @@
     "contentBG": "<color=#ffffff>  </color>"
   },
   {
+    "sn": "1038",
+    "name": "Arcade Exchange Voucher",
+    "typeName": "Event Item",
+    "tips": "Can be exchanged for prizes at the arcade in Akihabara. Obtainable by recycling prizes.",
+    "contentBG": "AAAAAA=="
+  },
+  {
     "sn": "1085",
     "name": "Marthym's Stamp",
     "typeName": "Event Currency",
@@ -718,6 +725,13 @@
     "name": "Coffee Candy",
     "typeName": "Stamina Replenishment",
     "tips": "Used to restore 30 Stamina.",
+    "contentBG": "<color=#ffffff>  </color>"
+  },
+  {
+    "sn": "100137",
+    "name": "Pass Experience Credit",
+    "typeName": "Currency",
+    "tips": "Used to level up your Phantom Pass.",
     "contentBG": "<color=#ffffff>  </color>"
   },
   {
@@ -1269,6 +1283,13 @@
   {
     "sn": "100404",
     "name": "5★ Phantom Idol Contract 4",
+    "typeName": "Gift Set",
+    "tips": "Can be used to draw and obtain one Phantom Thief from certain Phantom Thieves.",
+    "contentBG": "AAAAAA=="
+  },
+  {
+    "sn": "100405",
+    "name": "5★ Phantom Idol Contract 5",
     "typeName": "Gift Set",
     "tips": "Can be used to draw and obtain one Phantom Thief from certain Phantom Thieves.",
     "contentBG": "AAAAAA=="
@@ -1831,7 +1852,7 @@
     "name": "Mysterious Weapon Kit",
     "typeName": "Weapon",
     "tips": "Mystery Phantom Thief-only melee weapon.",
-    "contentBG": "AAAAAA=="
+    "contentBG": "Mystery Phantom Thief-only melee weapon."
   },
   {
     "sn": "190070",
@@ -2451,28 +2472,28 @@
   },
   {
     "sn": "210511",
-    "name": "tdxct-[Weapon_name_210511]",
+    "name": "Plum Branch Parasol",
     "typeName": "Parasol",
     "tips": "Riko-only melee weapon.",
     "contentBG": "AAAAAA=="
   },
   {
     "sn": "210512",
-    "name": "tdxct-[Weapon_name_210512]",
+    "name": "Plum Petal Spines",
     "typeName": "Parasol",
     "tips": "Riko-only melee weapon.",
     "contentBG": "AAAAAA=="
   },
   {
     "sn": "210513",
-    "name": "tdxct-[Weapon_name_210513]",
+    "name": "Sparrow's Leap",
     "typeName": "Parasol",
     "tips": "Riko-only melee weapon.",
     "contentBG": "AAAAAA=="
   },
   {
     "sn": "210514",
-    "name": "tdxct-[Weapon_name_210514]",
+    "name": "Windplum Dance",
     "typeName": "Parasol",
     "tips": "Riko-only melee weapon.",
     "contentBG": "AAAAAA=="
@@ -3265,29 +3286,29 @@
     "sn": "213401",
     "name": "Plushie Claws",
     "typeName": "AAAAAA==",
-    "tips": "AAAAAA==",
-    "contentBG": "AAAAAA=="
+    "tips": "Runa-only melee weapon.",
+    "contentBG": "<color=#ffffff>  </color>"
   },
   {
     "sn": "213402",
     "name": "Guard Dog Claws",
     "typeName": "AAAAAA==",
-    "tips": "AAAAAA==",
-    "contentBG": "AAAAAA=="
+    "tips": "Runa-only melee weapon.",
+    "contentBG": "<color=#ffffff>  </color>"
   },
   {
     "sn": "213403",
     "name": "Hunting Hound Claws",
     "typeName": "AAAAAA==",
-    "tips": "AAAAAA==",
-    "contentBG": "AAAAAA=="
+    "tips": "Runa-only melee weapon.",
+    "contentBG": "<color=#ffffff>  </color>"
   },
   {
     "sn": "213404",
     "name": "Cerberus Claws",
     "typeName": "AAAAAA==",
-    "tips": "AAAAAA==",
-    "contentBG": "AAAAAA=="
+    "tips": "Runa-only melee weapon.",
+    "contentBG": "<color=#ffffff>  </color>"
   },
   {
     "sn": "213501",
@@ -3377,28 +3398,28 @@
     "sn": "214611",
     "name": "AAAAAA==",
     "typeName": "AAAAAA==",
-    "tips": "Yumi-only melee weapon.",
+    "tips": "Mayumi-only melee weapon.",
     "contentBG": "<color=#ffffff>  </color>"
   },
   {
     "sn": "214612",
     "name": "AAAAAA==",
     "typeName": "AAAAAA==",
-    "tips": "Yumi-only melee weapon.",
+    "tips": "Mayumi-only melee weapon.",
     "contentBG": "<color=#ffffff>  </color>"
   },
   {
     "sn": "214613",
     "name": "AAAAAA==",
     "typeName": "AAAAAA==",
-    "tips": "Yumi-only melee weapon.",
+    "tips": "Mayumi-only melee weapon.",
     "contentBG": "<color=#ffffff>  </color>"
   },
   {
     "sn": "214614",
     "name": "AAAAAA==",
     "typeName": "AAAAAA==",
-    "tips": "Yumi-only melee weapon.",
+    "tips": "Mayumi-only melee weapon.",
     "contentBG": "<color=#ffffff>  </color>"
   },
   {
@@ -12432,6 +12453,41 @@
     "contentBG": "<color=#ffffff>  </color>"
   },
   {
+    "sn": "303049",
+    "name": "Chunky Potage",
+    "typeName": "Daily Life Item",
+    "tips": "Can be used in the Metaverse.",
+    "contentBG": "<color=#ffffff>  </color>"
+  },
+  {
+    "sn": "303050",
+    "name": "Udagawa Soda",
+    "typeName": "Daily Life Item",
+    "tips": "Can be used in the Metaverse.",
+    "contentBG": "<color=#ffffff>  </color>"
+  },
+  {
+    "sn": "303051",
+    "name": "Creature",
+    "typeName": "Daily Life Item",
+    "tips": "Can be used in the Metaverse.",
+    "contentBG": "<color=#ffffff>  </color>"
+  },
+  {
+    "sn": "303052",
+    "name": "Muscle Drink",
+    "typeName": "Daily Life Item",
+    "tips": "Can be used in the Metaverse.",
+    "contentBG": "<color=#ffffff>  </color>"
+  },
+  {
+    "sn": "303053",
+    "name": "10 Up",
+    "typeName": "Daily Life Item",
+    "tips": "Can be used in the Metaverse.",
+    "contentBG": "<color=#ffffff>  </color>"
+  },
+  {
     "sn": "303062",
     "name": "Alloy Baseball Bat",
     "typeName": "Daily Life Item",
@@ -17010,6 +17066,20 @@
     "contentBG": "<color=#ffffff>  </color>"
   },
   {
+    "sn": "306015",
+    "name": "Extra Pay: Concept Café",
+    "typeName": "City Life Bonus",
+    "tips": "Can be used to increase your part-time job salary at the Akihabara concept café.",
+    "contentBG": "<color=#ffffff>  </color>"
+  },
+  {
+    "sn": "306016",
+    "name": "Extra Pay: Electronics Superstore",
+    "typeName": "City Life Bonus",
+    "tips": "Can be used to increase your part-time job salary at the Akihabara electronics superstore.",
+    "contentBG": "<color=#ffffff>  </color>"
+  },
+  {
     "sn": "306101",
     "name": "Daisy Seeds",
     "typeName": "Seeds",
@@ -19048,16 +19118,16 @@
   },
   {
     "sn": "306883",
-    "name": "Classic Icon Frame 31",
+    "name": "Beloved Shibuya",
     "typeName": "Frame",
-    "tips": "Frame.\nWill be updated after logging in again.",
+    "tips": "Can be set as your profile frame.",
     "contentBG": "AAAAAA=="
   },
   {
     "sn": "306884",
-    "name": "Classic Icon Frame 32",
+    "name": "Woof! Woof! Hooray!",
     "typeName": "Frame",
-    "tips": "Frame.\nWill be updated after logging in again.",
+    "tips": "Can be set as your profile frame.",
     "contentBG": "AAAAAA=="
   },
   {
@@ -19524,9 +19594,9 @@
   },
   {
     "sn": "306953",
-    "name": "Classic Profile Card Design 27",
+    "name": "Homemade Dollhouse",
     "typeName": "Profile Design",
-    "tips": "Profile card design.\nWill be updated after logging in again.",
+    "tips": "Can be set as your profile card.",
     "contentBG": "AAAAAA=="
   },
   {
@@ -20370,6 +20440,13 @@
     "contentBG": "AAAAAA=="
   },
   {
+    "sn": "307093",
+    "name": "Howler Badge",
+    "typeName": "Badge",
+    "tips": "Awarded for raising Runa's Awareness Level to 6.",
+    "contentBG": "AAAAAA=="
+  },
+  {
     "sn": "311010",
     "name": "Personal Avatar",
     "typeName": "Avatar",
@@ -20484,6 +20561,34 @@
   {
     "sn": "311017",
     "name": "Frostgale Avatar 2",
+    "typeName": "Avatar",
+    "tips": "Can be set as your profile avatar.",
+    "contentBG": "AAAAAA=="
+  },
+  {
+    "sn": "311018",
+    "name": "Friend Runa Avatar",
+    "typeName": "Avatar",
+    "tips": "Earned for building a strong bond of friendship with Runa.",
+    "contentBG": "AAAAAA=="
+  },
+  {
+    "sn": "311019",
+    "name": "Soulmate Runa Avatar",
+    "typeName": "Avatar",
+    "tips": "Earned for forming a romantic relationship with Runa.",
+    "contentBG": "AAAAAA=="
+  },
+  {
+    "sn": "311020",
+    "name": "Runa Avatar",
+    "typeName": "Avatar",
+    "tips": "Can be set as your profile avatar.",
+    "contentBG": "AAAAAA=="
+  },
+  {
+    "sn": "311021",
+    "name": "Howler Avatar",
     "typeName": "Avatar",
     "tips": "Can be set as your profile avatar.",
     "contentBG": "AAAAAA=="
@@ -20737,14 +20842,14 @@
     "sn": "314141",
     "name": "An Icy Wind Encountered",
     "typeName": "Badge",
-    "tips": "Awarded for clearing Challenge Stage 4 of Mont's Special Missions in Thieves' Secrets.",
+    "tips": "Awarded for clearing Challenge: Stage 1 of Mont's Special Mission in Thieves' Secrets.",
     "contentBG": "AAAAAA=="
   },
   {
     "sn": "314142",
     "name": "An Icy Wind Understood",
     "typeName": "Badge",
-    "tips": "Awarded for clearing Challenge Stage 4 of Mont's Special Missions in Thieves' Secrets.",
+    "tips": "Awarded for clearing Challenge: Stage 4 of Mont's Special Mission in Thieves' Secrets.",
     "contentBG": "AAAAAA=="
   },
   {
@@ -20772,7 +20877,7 @@
     "sn": "314143",
     "name": "An Icy Wind Bonded",
     "typeName": "Badge",
-    "tips": "Awarded for clearing Challenge Stage 5 of Mont's Special Missions in Thieves' Secrets.",
+    "tips": "Awarded for clearing Challenge: Stage 5 of Mont's Special Mission in Thieves' Secrets.",
     "contentBG": "AAAAAA=="
   },
   {
@@ -21003,7 +21108,7 @@
     "sn": "314123",
     "name": "An Asklepian Understood",
     "typeName": "Badge",
-    "tips": "Awarded for clearing Challenge: Stage 4 of Messa's Special Mission in Thieves' Secrets. ",
+    "tips": "Awarded for clearing Challenge: Stage 4 of Messa's Special Mission in Thieves' Secrets.",
     "contentBG": "AAAAAA=="
   },
   {
@@ -21203,6 +21308,27 @@
     "contentBG": "AAAAAA=="
   },
   {
+    "sn": "314144",
+    "name": "A Pawprint Encountered",
+    "typeName": "Badge",
+    "tips": "Awarded for clearing Challenge: Stage 1 of Howler's Special Mission in Thieves' Secrets.",
+    "contentBG": "AAAAAA=="
+  },
+  {
+    "sn": "314145",
+    "name": "A Pawprint Understood",
+    "typeName": "Badge",
+    "tips": "Awarded for clearing Challenge: Stage 4 of Howler's Special Mission in Thieves' Secrets.",
+    "contentBG": "AAAAAA=="
+  },
+  {
+    "sn": "314146",
+    "name": "A Pawprint Bonded",
+    "typeName": "Badge",
+    "tips": "Awarded for clearing Challenge: Stage 5 of Howler's Special Mission in Thieves' Secrets.",
+    "contentBG": "AAAAAA=="
+  },
+  {
     "sn": "314147",
     "name": "Swindler's Dream",
     "typeName": "Badge",
@@ -21249,6 +21375,41 @@
     "name": "Daybreak: Holo",
     "typeName": "Badge",
     "tips": "Awarded to players who rank within the top 5% in the challenge Gates of the Nightmare Catcher: Devourer of Dreams Pt. 1.",
+    "contentBG": "AAAAAA=="
+  },
+  {
+    "sn": "314152",
+    "name": "Treasure of Akihabara",
+    "typeName": "Badge",
+    "tips": "Awarded for playing Akihabara Mystery Map.",
+    "contentBG": "AAAAAA=="
+  },
+  {
+    "sn": "314153",
+    "name": "Starry Night: Silver",
+    "typeName": "Badge",
+    "tips": "Awarded to all players who participated during a set period after a Gates of the Nightmare Catcher season starts.",
+    "contentBG": "AAAAAA=="
+  },
+  {
+    "sn": "314154",
+    "name": "Starry Night: Gold",
+    "typeName": "Badge",
+    "tips": "Awarded to players who ranked within the top 21%–50% during a set period after a Gates of the Nightmare Catcher season starts.",
+    "contentBG": "AAAAAA=="
+  },
+  {
+    "sn": "314155",
+    "name": "Starry Night: Rainbow",
+    "typeName": "Badge",
+    "tips": "Awarded to players who ranked within the top 6%–20% during a set period after a Gates of the Nightmare Catcher season starts.",
+    "contentBG": "AAAAAA=="
+  },
+  {
+    "sn": "314156",
+    "name": "Starry Night: Holo",
+    "typeName": "Badge",
+    "tips": "Awarded to players who ranked within the top 5% during a set period after a Gates of the Nightmare Catcher season starts.",
     "contentBG": "AAAAAA=="
   },
   {
@@ -21945,6 +22106,34 @@
     "contentBG": "<color=#ffffff>  </color>"
   },
   {
+    "sn": "317001",
+    "name": "Balloon Art Set",
+    "typeName": "Daily Life Item",
+    "tips": "Can increase Synergy levels with an accomplice.",
+    "contentBG": "<color=#ffffff>  </color>"
+  },
+  {
+    "sn": "317002",
+    "name": "Cartoon Eye Mask",
+    "typeName": "Daily Life Item",
+    "tips": "Can increase Synergy levels with an accomplice.",
+    "contentBG": "<color=#ffffff>  </color>"
+  },
+  {
+    "sn": "317003",
+    "name": "Advanced Sewing Tool Set",
+    "typeName": "Daily Life Item",
+    "tips": "Can increase Synergy levels with an accomplice.",
+    "contentBG": "<color=#ffffff>  </color>"
+  },
+  {
+    "sn": "317004",
+    "name": "Mini Cotton Candy Maker",
+    "typeName": "Daily Life Item",
+    "tips": "Can increase Synergy levels with an accomplice.",
+    "contentBG": "<color=#ffffff>  </color>"
+  },
+  {
     "sn": "307101",
     "name": "Batting Coupon",
     "typeName": "Daily Life Item",
@@ -22321,6 +22510,13 @@
     "typeName": "Casualwear",
     "tips": "AAAAAA==",
     "contentBG": "AAAAAA=="
+  },
+  {
+    "sn": "307527",
+    "name": "Handmade Shichi-kun Bag",
+    "typeName": "Casualwear",
+    "tips": "Available only through the Akihabara event.\nCan be put on at the closet in your bedroom.",
+    "contentBG": "<color=#ffffff>  </color>"
   },
   {
     "sn": "307611",
@@ -24759,6 +24955,62 @@
     "contentBG": "<color=#ffffff>  </color>"
   },
   {
+    "sn": "310201",
+    "name": "Maid Ruby",
+    "typeName": "Capsule Toy",
+    "tips": "Obtained from an Akihabara-exclusive capsule machine. Can be displayed in your display case at home.",
+    "contentBG": "<color=#ffffff>  </color>"
+  },
+  {
+    "sn": "310202",
+    "name": "Maid Mary",
+    "typeName": "Capsule Toy",
+    "tips": "Obtained from an Akihabara-exclusive capsule machine. Can be displayed in your display case at home.",
+    "contentBG": "<color=#ffffff>  </color>"
+  },
+  {
+    "sn": "310203",
+    "name": "Maid Sayaka",
+    "typeName": "Capsule Toy",
+    "tips": "Obtained from an Akihabara-exclusive capsule machine. Can be displayed in your display case at home.",
+    "contentBG": "<color=#ffffff>  </color>"
+  },
+  {
+    "sn": "310204",
+    "name": "Maid Rina",
+    "typeName": "Capsule Toy",
+    "tips": "Obtained from an Akihabara-exclusive capsule machine. Can be displayed in your display case at home.",
+    "contentBG": "<color=#ffffff>  </color>"
+  },
+  {
+    "sn": "310205",
+    "name": "Barista Mei",
+    "typeName": "Capsule Toy",
+    "tips": "A rare capsule obtained from an Akihabara-exclusive capsule machine. Can be displayed in your display case at home.",
+    "contentBG": "<color=#ffffff>  </color>"
+  },
+  {
+    "sn": "310206",
+    "name": "Maid Yuka",
+    "typeName": "Capsule Toy",
+    "tips": "Obtained from an Akihabara-exclusive capsule machine. Can be displayed in your display case at home.",
+    "contentBG": "<color=#ffffff>  </color>"
+  },
+  {
+    "sn": "310207",
+    "name": "Catgirl Promoter Chacha",
+    "typeName": "Capsule Toy",
+    "tips": "A rare capsule obtained from an Akihabara-exclusive capsule machine. Can be displayed in your display case at home.",
+    "contentBG": "<color=#ffffff>  </color>"
+  },
+  {
+    "sn": "310208",
+    "name": "Twin Maids Kuro & Shiro",
+    "typeName": "Capsule Toy",
+    "tips": "A super rare capsule obtained from an Akihabara-exclusive capsule machine. Can be displayed in your display case at home.",
+    "contentBG": "<color=#ffffff>  </color>"
+  },
+  {
     "sn": "310601",
     "name": "Node Breaker",
     "typeName": "Combat Chip",
@@ -24802,140 +25054,140 @@
   },
   {
     "sn": "310607",
-    "name": "Detection I0",
+    "name": "Bughack-I0",
     "typeName": "Robot",
     "tips": "Used in the 24-hour TV program \"Brawl Bots.\"",
     "contentBG": "AAAAAA=="
   },
   {
     "sn": "310608",
-    "name": "Guard Break N1",
+    "name": "Shieldbreak-N1",
     "typeName": "Robot",
     "tips": "Used in the 24-hour TV program \"Brawl Bots.\"",
     "contentBG": "AAAAAA=="
   },
   {
     "sn": "310609",
-    "name": "Element Type T0",
+    "name": "Elemental Combat-T0",
     "typeName": "Robot",
     "tips": "Used in the 24-hour TV program \"Brawl Bots.\"",
     "contentBG": "AAAAAA=="
   },
   {
     "sn": "310610",
-    "name": "Element Type E2",
+    "name": "Elemental Combat-E2",
     "typeName": "Robot",
     "tips": "Used in the 24-hour TV program \"Brawl Bots.\"",
     "contentBG": "AAAAAA=="
   },
   {
     "sn": "310611",
-    "name": "Electrojammer R0",
+    "name": "Electrojammer-R0",
     "typeName": "Robot",
     "tips": "Used in the 24-hour TV program \"Brawl Bots.\"",
     "contentBG": "AAAAAA=="
   },
   {
     "sn": "310612",
-    "name": "Flame Buster N3",
+    "name": "Firewall Buster-N3",
     "typeName": "Robot",
     "tips": "Used in the 24-hour TV program \"Brawl Bots.\"",
     "contentBG": "AAAAAA=="
   },
   {
     "sn": "310613",
-    "name": "Replicator E9",
+    "name": "Trojan Replicator-E9",
     "typeName": "Robot",
     "tips": "Used in the 24-hour TV program \"Brawl Bots.\"",
     "contentBG": "AAAAAA=="
   },
   {
     "sn": "310614",
-    "name": "Fortified Moxy T1",
+    "name": "Volt Overloader- T1",
     "typeName": "Robot",
     "tips": "Used in the 24-hour TV program \"Brawl Bots.\"",
     "contentBG": "AAAAAA=="
   },
   {
     "sn": "310615",
-    "name": "Fortified Moxy E2",
+    "name": "Voltage Amp-E2",
     "typeName": "Drone",
     "tips": "Used in the 24-hour TV program \"Brawl Bots.\"",
     "contentBG": "AAAAAA=="
   },
   {
     "sn": "310616",
-    "name": "Flame Buster X3",
+    "name": "Firewall Booster-X3",
     "typeName": "Drone",
     "tips": "Used in the 24-hour TV program \"Brawl Bots.\"",
     "contentBG": "AAAAAA=="
   },
   {
     "sn": "310617",
-    "name": "Data Healer P1",
+    "name": "Data Recovery-P1",
     "typeName": "Drone",
     "tips": "Used in the 24-hour TV program \"Brawl Bots.\"",
     "contentBG": "AAAAAA=="
   },
   {
     "sn": "310618",
-    "name": "Expansion L9",
+    "name": "Memory Expansion-L9",
     "typeName": "Drone",
     "tips": "Used in the 24-hour TV program \"Brawl Bots.\"",
     "contentBG": "AAAAAA=="
   },
   {
     "sn": "310619",
-    "name": "Charger O1",
+    "name": "Charging-O1",
     "typeName": "Drone",
     "tips": "Used in the 24-hour TV program \"Brawl Bots.\"",
     "contentBG": "AAAAAA=="
   },
   {
     "sn": "310620",
-    "name": "Trojan S8",
+    "name": "Trojan Hack-S8",
     "typeName": "Drone",
     "tips": "Used in the 24-hour TV program \"Brawl Bots.\"",
     "contentBG": "AAAAAA=="
   },
   {
     "sn": "310621",
-    "name": "Data Hasher I4",
+    "name": "Data Encryption-I4",
     "typeName": "Drone",
     "tips": "Used in the 24-hour TV program \"Brawl Bots.\"",
     "contentBG": "AAAAAA=="
   },
   {
     "sn": "310622",
-    "name": "Overclock O1",
+    "name": "Chip Overclock-O1",
     "typeName": "Drone",
     "tips": "Used in the 24-hour TV program \"Brawl Bots.\"",
     "contentBG": "AAAAAA=="
   },
   {
     "sn": "310623",
-    "name": "Enhancement N9",
+    "name": "Support Enhancer-N9",
     "typeName": "Drone",
     "tips": "Used in the 24-hour TV program \"Brawl Bots.\"",
     "contentBG": "AAAAAA=="
   },
   {
     "sn": "310624",
-    "name": "Route Booster F1",
+    "name": "Algorithm Booster-F1",
     "typeName": "Drone",
     "tips": "Used in the 24-hour TV program \"Brawl Bots.\"",
     "contentBG": "AAAAAA=="
   },
   {
     "sn": "310625",
-    "name": "Magnificent F2",
+    "name": "Energy Circuit Amp-F2",
     "typeName": "Drone",
     "tips": "Used in the 24-hour TV program \"Brawl Bots.\"",
     "contentBG": "AAAAAA=="
   },
   {
     "sn": "310626",
-    "name": "Electro Pulse F3",
+    "name": "Electromagnetic Pulse-F3",
     "typeName": "Drone",
     "tips": "Used in the 24-hour TV program \"Brawl Bots.\"",
     "contentBG": "AAAAAA=="
@@ -25015,6 +25267,433 @@
     "name": "Beast Bots",
     "typeName": "Display Case Background",
     "tips": "A background for your capsule toy display case.",
+    "contentBG": "<color=#ffffff>  </color>"
+  },
+  {
+    "sn": "310812",
+    "name": "Maid Café",
+    "typeName": "Display Case Background",
+    "tips": "A background for your capsule toy display case.",
+    "contentBG": "<color=#ffffff>  </color>"
+  },
+  {
+    "sn": "310813",
+    "name": "Pharaoh's Epitaph",
+    "typeName": "Display Case Background",
+    "tips": "A background for your capsule toy display case.",
+    "contentBG": "<color=#ffffff>  </color>"
+  },
+  {
+    "sn": "320001",
+    "name": "Mini Cream Fox",
+    "typeName": "Crane Game",
+    "tips": "Obtainable from crane games in Akihabara. Can be displayed in your home.",
+    "contentBG": "<color=#ffffff>  </color>"
+  },
+  {
+    "sn": "320002",
+    "name": "Mini Peach Fox",
+    "typeName": "Crane Game",
+    "tips": "Obtainable from crane games in Akihabara. Can be displayed in your home.",
+    "contentBG": "<color=#ffffff>  </color>"
+  },
+  {
+    "sn": "320003",
+    "name": "Mini Cocoa Fox",
+    "typeName": "Crane Game",
+    "tips": "Obtainable from crane games in Akihabara. Can be displayed in your home.",
+    "contentBG": "<color=#ffffff>  </color>"
+  },
+  {
+    "sn": "320004",
+    "name": "Mini Sea Fox",
+    "typeName": "Crane Game",
+    "tips": "Obtainable from crane games in Akihabara. Can be displayed in your home.",
+    "contentBG": "<color=#ffffff>  </color>"
+  },
+  {
+    "sn": "320005",
+    "name": "Cream Fox",
+    "typeName": "Crane Game",
+    "tips": "Obtainable from crane games in Akihabara. Can be displayed in your home.",
+    "contentBG": "<color=#ffffff>  </color>"
+  },
+  {
+    "sn": "320006",
+    "name": "Peach Fox",
+    "typeName": "Crane Game",
+    "tips": "Obtainable from crane games in Akihabara. Can be displayed in your home.",
+    "contentBG": "<color=#ffffff>  </color>"
+  },
+  {
+    "sn": "320007",
+    "name": "Cocoa Fox",
+    "typeName": "Crane Game",
+    "tips": "Obtainable from crane games in Akihabara. Can be displayed in your home.",
+    "contentBG": "<color=#ffffff>  </color>"
+  },
+  {
+    "sn": "320008",
+    "name": "Sea Fox",
+    "typeName": "Crane Game",
+    "tips": "Obtainable from crane games in Akihabara. Can be displayed in your home.",
+    "contentBG": "<color=#ffffff>  </color>"
+  },
+  {
+    "sn": "320011",
+    "name": "Mini White Owl",
+    "typeName": "Crane Game",
+    "tips": "Obtainable from crane games in Akihabara. Can be displayed in your home.",
+    "contentBG": "<color=#ffffff>  </color>"
+  },
+  {
+    "sn": "320012",
+    "name": "Mini Brown Owl",
+    "typeName": "Crane Game",
+    "tips": "Obtainable from crane games in Akihabara. Can be displayed in your home.",
+    "contentBG": "<color=#ffffff>  </color>"
+  },
+  {
+    "sn": "320013",
+    "name": "Mini Gray Owl",
+    "typeName": "Crane Game",
+    "tips": "Obtainable from crane games in Akihabara. Can be displayed in your home.",
+    "contentBG": "<color=#ffffff>  </color>"
+  },
+  {
+    "sn": "320014",
+    "name": "Mini Royal Owl",
+    "typeName": "Crane Game",
+    "tips": "Obtainable from crane games in Akihabara. Can be displayed in your home.",
+    "contentBG": "<color=#ffffff>  </color>"
+  },
+  {
+    "sn": "320015",
+    "name": "White Owl",
+    "typeName": "Crane Game",
+    "tips": "Obtainable from crane games in Akihabara. Can be displayed in your home.",
+    "contentBG": "<color=#ffffff>  </color>"
+  },
+  {
+    "sn": "320016",
+    "name": "Brown Owl",
+    "typeName": "Crane Game",
+    "tips": "Obtainable from crane games in Akihabara. Can be displayed in your home.",
+    "contentBG": "<color=#ffffff>  </color>"
+  },
+  {
+    "sn": "320017",
+    "name": "Gray Owl",
+    "typeName": "Crane Game",
+    "tips": "Obtainable from crane games in Akihabara. Can be displayed in your home.",
+    "contentBG": "<color=#ffffff>  </color>"
+  },
+  {
+    "sn": "320018",
+    "name": "Royal Owl",
+    "typeName": "Crane Game",
+    "tips": "Obtainable from crane games in Akihabara. Can be displayed in your home.",
+    "contentBG": "<color=#ffffff>  </color>"
+  },
+  {
+    "sn": "320021",
+    "name": "Mini Frog",
+    "typeName": "Crane Game",
+    "tips": "Obtainable from crane games in Akihabara. Can be displayed in your home.",
+    "contentBG": "<color=#ffffff>  </color>"
+  },
+  {
+    "sn": "320022",
+    "name": "Mini Blue Frog",
+    "typeName": "Crane Game",
+    "tips": "Obtainable from crane games in Akihabara. Can be displayed in your home.",
+    "contentBG": "<color=#ffffff>  </color>"
+  },
+  {
+    "sn": "320023",
+    "name": "Mini Orange Frog",
+    "typeName": "Crane Game",
+    "tips": "Obtainable from crane games in Akihabara. Can be displayed in your home.",
+    "contentBG": "<color=#ffffff>  </color>"
+  },
+  {
+    "sn": "320024",
+    "name": "Mini King Frog",
+    "typeName": "Crane Game",
+    "tips": "Obtainable from crane games in Akihabara. Can be displayed in your home.",
+    "contentBG": "<color=#ffffff>  </color>"
+  },
+  {
+    "sn": "320025",
+    "name": "Frog",
+    "typeName": "Crane Game",
+    "tips": "Obtainable from crane games in Akihabara. Can be displayed in your home.",
+    "contentBG": "<color=#ffffff>  </color>"
+  },
+  {
+    "sn": "320026",
+    "name": "Blue Frog",
+    "typeName": "Crane Game",
+    "tips": "Obtainable from crane games in Akihabara. Can be displayed in your home.",
+    "contentBG": "<color=#ffffff>  </color>"
+  },
+  {
+    "sn": "320027",
+    "name": "Orange Frog",
+    "typeName": "Crane Game",
+    "tips": "Obtainable from crane games in Akihabara. Can be displayed in your home.",
+    "contentBG": "<color=#ffffff>  </color>"
+  },
+  {
+    "sn": "320028",
+    "name": "King Frog",
+    "typeName": "Crane Game",
+    "tips": "Obtainable from crane games in Akihabara. Can be displayed in your home.",
+    "contentBG": "<color=#ffffff>  </color>"
+  },
+  {
+    "sn": "320031",
+    "name": "Mini White Goose",
+    "typeName": "Crane Game",
+    "tips": "Obtainable from crane games in Akihabara. Can be displayed in your home.",
+    "contentBG": "<color=#ffffff>  </color>"
+  },
+  {
+    "sn": "320032",
+    "name": "Mini Gray Goose",
+    "typeName": "Crane Game",
+    "tips": "Obtainable from crane games in Akihabara. Can be displayed in your home.",
+    "contentBG": "<color=#ffffff>  </color>"
+  },
+  {
+    "sn": "320033",
+    "name": "Mini Yellow Goose",
+    "typeName": "Crane Game",
+    "tips": "Obtainable from crane games in Akihabara. Can be displayed in your home.",
+    "contentBG": "<color=#ffffff>  </color>"
+  },
+  {
+    "sn": "320034",
+    "name": "Mini Dapper Goose",
+    "typeName": "Crane Game",
+    "tips": "Obtainable from crane games in Akihabara. Can be displayed in your home.",
+    "contentBG": "<color=#ffffff>  </color>"
+  },
+  {
+    "sn": "320035",
+    "name": "White Goose",
+    "typeName": "Crane Game",
+    "tips": "Obtainable from crane games in Akihabara. Can be displayed in your home.",
+    "contentBG": "<color=#ffffff>  </color>"
+  },
+  {
+    "sn": "320036",
+    "name": "Gray Goose",
+    "typeName": "Crane Game",
+    "tips": "Obtainable from crane games in Akihabara. Can be displayed in your home.",
+    "contentBG": "<color=#ffffff>  </color>"
+  },
+  {
+    "sn": "320037",
+    "name": "Yellow Goose",
+    "typeName": "Crane Game",
+    "tips": "Obtainable from crane games in Akihabara. Can be displayed in your home.",
+    "contentBG": "<color=#ffffff>  </color>"
+  },
+  {
+    "sn": "320038",
+    "name": "Dapper Goose",
+    "typeName": "Crane Game",
+    "tips": "Obtainable from crane games in Akihabara. Can be displayed in your home.",
+    "contentBG": "<color=#ffffff>  </color>"
+  },
+  {
+    "sn": "320041",
+    "name": "Mini Gray Hedgehog",
+    "typeName": "Crane Game",
+    "tips": "Obtainable from crane games in Akihabara. Can be displayed in your home.",
+    "contentBG": "<color=#ffffff>  </color>"
+  },
+  {
+    "sn": "320042",
+    "name": "Mini Brown Hedgehog",
+    "typeName": "Crane Game",
+    "tips": "Obtainable from crane games in Akihabara. Can be displayed in your home.",
+    "contentBG": "<color=#ffffff>  </color>"
+  },
+  {
+    "sn": "320043",
+    "name": "Mini Green Hedgehog",
+    "typeName": "Crane Game",
+    "tips": "Obtainable from crane games in Akihabara. Can be displayed in your home.",
+    "contentBG": "<color=#ffffff>  </color>"
+  },
+  {
+    "sn": "320044",
+    "name": "Mini Ribbon Hedgehog",
+    "typeName": "Crane Game",
+    "tips": "Obtainable from crane games in Akihabara. Can be displayed in your home.",
+    "contentBG": "<color=#ffffff>  </color>"
+  },
+  {
+    "sn": "320045",
+    "name": "Gray Hedgehog",
+    "typeName": "Crane Game",
+    "tips": "Obtainable from crane games in Akihabara. Can be displayed in your home.",
+    "contentBG": "<color=#ffffff>  </color>"
+  },
+  {
+    "sn": "320046",
+    "name": "Brown Hedgehog",
+    "typeName": "Crane Game",
+    "tips": "Obtainable from crane games in Akihabara. Can be displayed in your home.",
+    "contentBG": "<color=#ffffff>  </color>"
+  },
+  {
+    "sn": "320047",
+    "name": "Green Hedgehog",
+    "typeName": "Crane Game",
+    "tips": "Obtainable from crane games in Akihabara. Can be displayed in your home.",
+    "contentBG": "<color=#ffffff>  </color>"
+  },
+  {
+    "sn": "320048",
+    "name": "Ribbon Hedgehog",
+    "typeName": "Crane Game",
+    "tips": "Obtainable from crane games in Akihabara. Can be displayed in your home.",
+    "contentBG": "<color=#ffffff>  </color>"
+  },
+  {
+    "sn": "320051",
+    "name": "Mini Blue Dino",
+    "typeName": "Crane Game",
+    "tips": "Obtainable from crane games in Akihabara. Can be displayed in your home.",
+    "contentBG": "<color=#ffffff>  </color>"
+  },
+  {
+    "sn": "320052",
+    "name": "Mini Yellow Dino",
+    "typeName": "Crane Game",
+    "tips": "Obtainable from crane games in Akihabara. Can be displayed in your home.",
+    "contentBG": "<color=#ffffff>  </color>"
+  },
+  {
+    "sn": "320053",
+    "name": "Mini Green Dino",
+    "typeName": "Crane Game",
+    "tips": "Obtainable from crane games in Akihabara. Can be displayed in your home.",
+    "contentBG": "<color=#ffffff>  </color>"
+  },
+  {
+    "sn": "320054",
+    "name": "Mini Sea Dino",
+    "typeName": "Crane Game",
+    "tips": "Obtainable from crane games in Akihabara. Can be displayed in your home.",
+    "contentBG": "<color=#ffffff>  </color>"
+  },
+  {
+    "sn": "320055",
+    "name": "Blue Dino",
+    "typeName": "Crane Game",
+    "tips": "Obtainable from crane games in Akihabara. Can be displayed in your home.",
+    "contentBG": "<color=#ffffff>  </color>"
+  },
+  {
+    "sn": "320056",
+    "name": "Yellow Dino",
+    "typeName": "Crane Game",
+    "tips": "Obtainable from crane games in Akihabara. Can be displayed in your home.",
+    "contentBG": "<color=#ffffff>  </color>"
+  },
+  {
+    "sn": "320057",
+    "name": "Green Dino",
+    "typeName": "Crane Game",
+    "tips": "Obtainable from crane games in Akihabara. Can be displayed in your home.",
+    "contentBG": "<color=#ffffff>  </color>"
+  },
+  {
+    "sn": "320058",
+    "name": "Sea Dino",
+    "typeName": "Crane Game",
+    "tips": "Obtainable from crane games in Akihabara. Can be displayed in your home.",
+    "contentBG": "<color=#ffffff>  </color>"
+  },
+  {
+    "sn": "320501",
+    "name": "Mini Jack Frost",
+    "typeName": "Crane Game",
+    "tips": "Obtainable from crane games in Akihabara. Can be displayed in your home.",
+    "contentBG": "<color=#ffffff>  </color>"
+  },
+  {
+    "sn": "320502",
+    "name": "Jack Frost",
+    "typeName": "Crane Game",
+    "tips": "Obtainable from crane games in Akihabara. Can be displayed in your home.",
+    "contentBG": "<color=#ffffff>  </color>"
+  },
+  {
+    "sn": "320503",
+    "name": "Mini Pixie",
+    "typeName": "Crane Game",
+    "tips": "Obtainable from crane games in Akihabara. Can be displayed in your home.",
+    "contentBG": "<color=#ffffff>  </color>"
+  },
+  {
+    "sn": "320504",
+    "name": "Pixie",
+    "typeName": "Crane Game",
+    "tips": "Obtainable from crane games in Akihabara. Can be displayed in your home.",
+    "contentBG": "<color=#ffffff>  </color>"
+  },
+  {
+    "sn": "320505",
+    "name": "Mini Jack-o'-Lantern",
+    "typeName": "Crane Game",
+    "tips": "Obtainable from crane games in Akihabara. Can be displayed in your home.",
+    "contentBG": "<color=#ffffff>  </color>"
+  },
+  {
+    "sn": "320506",
+    "name": "Jack-o'-Lantern",
+    "typeName": "Crane Game",
+    "tips": "Obtainable from crane games in Akihabara. Can be displayed in your home.",
+    "contentBG": "<color=#ffffff>  </color>"
+  },
+  {
+    "sn": "320601",
+    "name": "King Frost",
+    "typeName": "Crane Game",
+    "tips": "Obtainable using arcade exchange vouchers. Can be displayed in your home.",
+    "contentBG": "<color=#ffffff>  </color>"
+  },
+  {
+    "sn": "320602",
+    "name": "Pink Flamingo",
+    "typeName": "Crane Game",
+    "tips": "Obtainable using arcade exchange vouchers. Can be displayed in your home.",
+    "contentBG": "<color=#ffffff>  </color>"
+  },
+  {
+    "sn": "320603",
+    "name": "Yellow Flamingo",
+    "typeName": "Crane Game",
+    "tips": "Obtainable using arcade exchange vouchers. Can be displayed in your home.",
+    "contentBG": "<color=#ffffff>  </color>"
+  },
+  {
+    "sn": "320604",
+    "name": "Cream Flamingo",
+    "typeName": "Crane Game",
+    "tips": "Obtainable using arcade exchange vouchers. Can be displayed in your home.",
+    "contentBG": "<color=#ffffff>  </color>"
+  },
+  {
+    "sn": "320605",
+    "name": "Fab Flamingo",
+    "typeName": "Crane Game",
+    "tips": "Obtainable using arcade exchange vouchers. Can be displayed in your home.",
     "contentBG": "<color=#ffffff>  </color>"
   },
   {
@@ -25466,6 +26145,13 @@
     "contentBG": "<color=#ffffff>  </color>"
   },
   {
+    "sn": "314400",
+    "name": "Enlightening Planetarium: Super",
+    "typeName": "Badge",
+    "tips": "Clear all Stellae using the minimum amount of Willpower in Trial of the Astrolabe Season 1.",
+    "contentBG": "<color=#ffffff>  </color>"
+  },
+  {
     "sn": "400015",
     "name": "Superb Cat Food",
     "typeName": "Unknown",
@@ -25603,6 +26289,13 @@
     "name": "Kotone's Cognitite Shard",
     "typeName": "Cognitite Shard",
     "tips": "Collect 60 to obtain one Frostgale Kotone's Cognitite.",
+    "contentBG": "<color=#ffffff>  </color>"
+  },
+  {
+    "sn": "351341",
+    "name": "Runa's Cognitite Shard",
+    "typeName": "Cognitite Shard",
+    "tips": "Collect 60 to obtain one Runa's Cognitite.",
     "contentBG": "<color=#ffffff>  </color>"
   },
   {
@@ -26135,13 +26828,6 @@
     "name": "GPS Sensor",
     "typeName": "Stage",
     "tips": "For use in a Palace.",
-    "contentBG": "<color=#ffffff>  </color>"
-  },
-  {
-    "sn": "314400",
-    "name": "Enlightening Planetarium: Super",
-    "typeName": "Badge",
-    "tips": "Clear all Stellae using the minimum amount of Willpower in Trial of the Astrolabe Season 1.",
     "contentBG": "<color=#ffffff>  </color>"
   },
   {
@@ -26904,7 +27590,7 @@
     "sn": "501341",
     "name": "Runa Dogenzaka",
     "typeName": "Phantom Thief",
-    "tips": "AAAAAA==",
+    "tips": "<color=#eade10>Runa Dogenzaka</color>\nMain Attribute/Role: Fire, Saboteur\nPersona Duo: Aura\n\nA 19-year-old girl attending a vocational school for fashion. She loves Shibuya and is a huge fan of Shichi-kun.\nHer code name is Howler.",
     "contentBG": "AAAAAA=="
   },
   {
@@ -30474,35 +31160,35 @@
     "sn": "530176",
     "name": "Treasure Hunt Emote",
     "typeName": "Emote",
-    "tips": "Error: tnxotb-[Item_tips_530176]",
+    "tips": "Used in chat.",
     "contentBG": "AAAAAA=="
   },
   {
     "sn": "530177",
     "name": "Sobbing Emote",
     "typeName": "Emote",
-    "tips": "Error: tnxotb-[Item_tips_530177]",
+    "tips": "Used in chat.",
     "contentBG": "AAAAAA=="
   },
   {
     "sn": "530178",
     "name": "Looking Around Emote",
     "typeName": "Emote",
-    "tips": "Error: tnxotb-[Item_tips_530178]",
+    "tips": "Earned for building a strong bond of friendship with Runa Dogenzaka.\nUsed in chat.",
     "contentBG": "AAAAAA=="
   },
   {
     "sn": "530179",
     "name": "So Cute! Emote",
     "typeName": "Emote",
-    "tips": "Error: tnxotb-[Item_tips_530179]",
+    "tips": "Earned for forming a romantic relationship with Runa Dogenzaka.\nUsed in chat.",
     "contentBG": "AAAAAA=="
   },
   {
     "sn": "530180",
     "name": "Woof! Woof! Hooray! Emote",
     "typeName": "Emote",
-    "tips": "Error: tnxotb-[Item_tips_530180]",
+    "tips": "Used in chat.",
     "contentBG": "AAAAAA=="
   },
   {
@@ -32016,5 +32702,12 @@
     "typeName": "Thieves Den Illustration",
     "tips": "The illustration used for New Year's Blessings!",
     "contentBG": "AAAAAA=="
+  },
+  {
+    "sn": "500085",
+    "name": "Error: tdxct-[Item_name_500085]",
+    "typeName": "Preview",
+    "tips": "Error: tdxct-[Item_tips_500085]",
+    "contentBG": "<color=#ffffff>  </color>"
   }
 ]

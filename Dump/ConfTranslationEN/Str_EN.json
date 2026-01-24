@@ -5881,7 +5881,7 @@
   },
   {
     "sn": "1000436",
-    "strContent": "Use: <color=#FFDE00>%s x%s</color>\nObtain: <color=#FFDE00>%s x%s</color>\nDo you want to use this now? (Auto-Recovery Limit: %s)",
+    "strContent": "Use: <color=#FFDE00>%s x%s</color>Obtain: <color=#FFDE00>%s x%s</color>\nDo you want to use this now? (Auto-Recovery Limit: %s)",
     "option1": "Cancel",
     "showName": "AAAAAA==",
     "option2": "Never mind."
@@ -6351,6 +6351,20 @@
   {
     "sn": "1000460",
     "strContent": "Sun-marked cards main attribute is fixed as HP and cannot be changed.",
+    "option1": "AAAAAA==",
+    "showName": "AAAAAA==",
+    "option2": "AAAAAA=="
+  },
+  {
+    "sn": "1000472",
+    "strContent": "Your changes have not been saved. Are you sure you want to quit?",
+    "option1": "Cancel",
+    "showName": "AAAAAA==",
+    "option2": "Never mind."
+  },
+  {
+    "sn": "1000473",
+    "strContent": "Cannot be selected because Space has not been unlocked.",
     "option1": "AAAAAA==",
     "showName": "AAAAAA==",
     "option2": "AAAAAA=="
@@ -9381,7 +9395,7 @@
   },
   {
     "sn": "1014313",
-    "strContent": "The holy land of 2D.\nI can't go there just yet...",
+    "strContent": "A place with many shops, including a concept\ncafé and electronic store. I should check it\nout if I have some time...",
     "option1": "AAAAAA==",
     "showName": "AAAAAA==",
     "option2": "AAAAAA=="
@@ -9793,6 +9807,13 @@
     "option2": "Maybe another time."
   },
   {
+    "sn": "1019016",
+    "strContent": "Would you like to work at the concept café?",
+    "option1": "Let's get to work.",
+    "showName": "L<#000000,u,#FFFFFF>fel",
+    "option2": "Never mind"
+  },
+  {
     "sn": "1019021",
     "strContent": "It doesn't seem like I can\ndeepen my bond with\nAnn Takamaki...",
     "option1": "AAAAAA==",
@@ -9885,7 +9906,7 @@
   },
   {
     "sn": "1019042",
-    "strContent": "Will you give the key ingredients to the owner?",
+    "strContent": "Error",
     "option1": "Confirm",
     "showName": "L<#000000,u,#FFFFFF>fel",
     "option2": "Maybe another time."
@@ -10125,6 +10146,13 @@
     "sn": "1019073",
     "strContent": "Do you want to spend time at the jazz bar?\nIt costs <color=#FF423F>1,500 yen</color>.",
     "option1": "Let's go in.",
+    "showName": "L<#000000,u,#FFFFFF>fel",
+    "option2": "Never mind."
+  },
+  {
+    "sn": "1019074",
+    "strContent": "It says it costs <color=#FF423F>1200 yen</color>. Do you wish to\nspend time here?",
+    "option1": "Sure.",
     "showName": "L<#000000,u,#FFFFFF>fel",
     "option2": "Never mind."
   },
@@ -10577,6 +10605,20 @@
     "option2": "Search the area"
   },
   {
+    "sn": "1019224",
+    "strContent": "Would you like to spend time with Runa?",
+    "option1": "Spend time together",
+    "showName": "L<#000000,u,#FFFFFF>fel",
+    "option2": "I have plans today..."
+  },
+  {
+    "sn": "1019225",
+    "strContent": "Would you like to spend time with Runa?",
+    "option1": "Spend time with Runa",
+    "showName": "L<#000000,u,#FFFFFF>fel",
+    "option2": "I have plans today..."
+  },
+  {
     "sn": "1020113",
     "strContent": "Maihama is home to a massive <color=#FF423F>theme park</color>.\nYou could give it a whirl if that sounds\ninteresting.",
     "option1": "Let's go.",
@@ -10600,6 +10642,13 @@
   {
     "sn": "1019226",
     "strContent": "For the best gameplay experience, this event is recommended for players who have completed Tomoko Noge's Synergy story content.",
+    "option1": "AAAAAA==",
+    "showName": "AAAAAA==",
+    "option2": "AAAAAA=="
+  },
+  {
+    "sn": "1019278",
+    "strContent": "For the best gameplay experience, this event is recommended for players who have completed Merope's Synergy story content.",
     "option1": "AAAAAA==",
     "showName": "AAAAAA==",
     "option2": "AAAAAA=="
@@ -11571,6 +11620,34 @@
     "option2": "AAAAAA=="
   },
   {
+    "sn": "1024001",
+    "strContent": "Kotone Montagne's Synergy mission is currently locked. Do you want to unlock it now? (Unlocking it early may impact your experience of the story, so please choose carefully.)",
+    "option1": "Confirm",
+    "showName": "L<#000000,u,#FFFFFF>fel",
+    "option2": "Not now"
+  },
+  {
+    "sn": "1024002",
+    "strContent": "Kotone Montagne's Synergy mission has been unlocked.",
+    "option1": "AAAAAA==",
+    "showName": "AAAAAA==",
+    "option2": "AAAAAA=="
+  },
+  {
+    "sn": "1024003",
+    "strContent": "Runa Dogenzaka's Synergy mission is currently locked. Do you want to unlock it now? (Unlocking it early may impact your experience of the story, so please choose carefully.)",
+    "option1": "Confirm",
+    "showName": "L<#000000,u,#FFFFFF>fel",
+    "option2": "Not now"
+  },
+  {
+    "sn": "1024004",
+    "strContent": "Runa Dogenzaka's Synergy mission has been unlocked.",
+    "option1": "AAAAAA==",
+    "showName": "AAAAAA==",
+    "option2": "AAAAAA=="
+  },
+  {
     "sn": "1024009",
     "strContent": "Yui's Synergy mission is currently locked. Do you want to unlock it now? (Unlocking it early may impact your experience of the story, so please choose carefully.)",
     "option1": "Confirm",
@@ -11650,6 +11727,111 @@
   {
     "sn": "1024032",
     "strContent": "Masaki Ashiya's Synergy mission has been unlocked.",
+    "option1": "AAAAAA==",
+    "showName": "AAAAAA==",
+    "option2": "AAAAAA=="
+  },
+  {
+    "sn": "1024101",
+    "strContent": "Akihabara unlocked",
+    "option1": "AAAAAA==",
+    "showName": "AAAAAA==",
+    "option2": "AAAAAA=="
+  },
+  {
+    "sn": "1024102",
+    "strContent": "City Life activities in Akihabara are now available!\nThese have a chance to appear each day.",
+    "option1": "AAAAAA==",
+    "showName": "AAAAAA==",
+    "option2": "AAAAAA=="
+  },
+  {
+    "sn": "1024103",
+    "strContent": "Akihabara can now be unlocked. Do you want to do so now? Unlocking it may impact your experience of the story. *This won't affect the story content.",
+    "option1": "Confirm",
+    "showName": "L<#000000,u,#FFFFFF>fel",
+    "option2": "Not now"
+  },
+  {
+    "sn": "1024104",
+    "strContent": "Complete 4 Adventure Story missions to obtain rewards.",
+    "option1": "AAAAAA==",
+    "showName": "AAAAAA==",
+    "option2": "AAAAAA=="
+  },
+  {
+    "sn": "1024105",
+    "strContent": "Complete 4 City Life activities to obtain rewards.",
+    "option1": "AAAAAA==",
+    "showName": "AAAAAA==",
+    "option2": "AAAAAA=="
+  },
+  {
+    "sn": "1024106",
+    "strContent": "No missions available. Please continue playing the main story and clear goals for the mission <color=#ff0000>Walk around Akihabara</color>.",
+    "option1": "AAAAAA==",
+    "showName": "AAAAAA==",
+    "option2": "AAAAAA=="
+  },
+  {
+    "sn": "1024107",
+    "strContent": "Completing Runa's City Life event will increase the accomplice's Rank.",
+    "option1": "AAAAAA==",
+    "showName": "AAAAAA==",
+    "option2": "AAAAAA=="
+  },
+  {
+    "sn": "1024108",
+    "strContent": "Akihabara is not yet unlocked. Do you want to unlock it now and?",
+    "option1": "Confirm",
+    "showName": "L<#000000,u,#FFFFFF>fel",
+    "option2": "Not now"
+  },
+  {
+    "sn": "1024111",
+    "strContent": "Crane Games can be played at any time after clearing the mission Crane Game Fun.",
+    "option1": "AAAAAA==",
+    "showName": "AAAAAA==",
+    "option2": "AAAAAA=="
+  },
+  {
+    "sn": "1024112",
+    "strContent": "In addition to the capsule toy that Hiyori Koide is looking for, the Lovely Maid Café series can also be found in the capsule machines in Akihabara.",
+    "option1": "AAAAAA==",
+    "showName": "AAAAAA==",
+    "option2": "AAAAAA=="
+  },
+  {
+    "sn": "1024113",
+    "strContent": "City Life: <color=#ffc000>Work at the Concept Café</color> has been unlocked.\nIt occurs with a certain probability every day.",
+    "option1": "AAAAAA==",
+    "showName": "AAAAAA==",
+    "option2": "AAAAAA=="
+  },
+  {
+    "sn": "1024114",
+    "strContent": "You unlocked the City Life activity <color=#ffc000>Go to the maid café</color>.\nThere is a chance for it to appear each day.",
+    "option1": "AAAAAA==",
+    "showName": "AAAAAA==",
+    "option2": "AAAAAA=="
+  },
+  {
+    "sn": "1024115",
+    "strContent": "I became acquaintances with Saki Shirai...",
+    "option1": "AAAAAA==",
+    "showName": "AAAAAA==",
+    "option2": "AAAAAA=="
+  },
+  {
+    "sn": "1024116",
+    "strContent": "I became acquaintances with Shinta Ezaki...",
+    "option1": "AAAAAA==",
+    "showName": "AAAAAA==",
+    "option2": "AAAAAA=="
+  },
+  {
+    "sn": "1024117",
+    "strContent": "Akihabara Mystery Map has ended.",
     "option1": "AAAAAA==",
     "showName": "AAAAAA==",
     "option2": "AAAAAA=="
@@ -11804,6 +11986,76 @@
   {
     "sn": "1025257",
     "strContent": "Hooaaah! Now you've\ndone it... Aim properly!",
+    "option1": "AAAAAA==",
+    "showName": "AAAAAA==",
+    "option2": "AAAAAA=="
+  },
+  {
+    "sn": "1025501",
+    "strContent": "Do you want to play the crane game?\nIt says one play is <color=#FF423F>1200 yen</color>...",
+    "option1": "Let's try it",
+    "showName": "L<#000000,u,#FFFFFF>fel",
+    "option2": "Not right now"
+  },
+  {
+    "sn": "1025502",
+    "strContent": "Do you want to play the crane game?\nIt says it will cost <color=#FF423F>%s1200 yen</color> in total...",
+    "option1": "Yay!",
+    "showName": "L<#000000,u,#FFFFFF>fel",
+    "option2": "Not right now"
+  },
+  {
+    "sn": "1025503",
+    "strContent": "You got one. Impressive work.",
+    "option1": "AAAAAA==",
+    "showName": "AAAAAA==",
+    "option2": "AAAAAA=="
+  },
+  {
+    "sn": "1025504",
+    "strContent": "Hoohoo... Exceptional skill!",
+    "option1": "AAAAAA==",
+    "showName": "AAAAAA==",
+    "option2": "AAAAAA=="
+  },
+  {
+    "sn": "1025505",
+    "strContent": "I regret to say this...\nbut you seem to lack\nthe necessary funds.",
+    "option1": "AAAAAA==",
+    "showName": "L<#000000,u,#FFFFFF>fel",
+    "option2": "AAAAAA=="
+  },
+  {
+    "sn": "1025506",
+    "strContent": "That's quite the prize.\nYou ought to put it up\nfor display at home.",
+    "option1": "AAAAAA==",
+    "showName": "AAAAAA==",
+    "option2": "AAAAAA=="
+  },
+  {
+    "sn": "1025507",
+    "strContent": "Oh dear... You were so close.",
+    "option1": "AAAAAA==",
+    "showName": "AAAAAA==",
+    "option2": "AAAAAA=="
+  },
+  {
+    "sn": "1025508",
+    "strContent": "Do you want to play the crane game?\nIt says one play is <color=#FF423F>1200 yen</color>...",
+    "option1": "Let's try it",
+    "showName": "L<#000000,u,#FFFFFF>fel",
+    "option2": "Not right now"
+  },
+  {
+    "sn": "1025509",
+    "strContent": "Remarkable! I'm impressed you\nmanaged to get that one...!",
+    "option1": "AAAAAA==",
+    "showName": "AAAAAA==",
+    "option2": "AAAAAA=="
+  },
+  {
+    "sn": "1025510",
+    "strContent": "You managed to get that prize!\nSpectacular cranework, indeed!",
     "option1": "AAAAAA==",
     "showName": "AAAAAA==",
     "option2": "AAAAAA=="
@@ -14750,7 +15002,7 @@
   },
   {
     "sn": "1052038",
-    "strContent": "Play Stage 2 of Puzzle Bots to unlock.",
+    "strContent": "Clear Stage 2 of Puzzle Bots to unlock.",
     "option1": "AAAAAA==",
     "showName": "AAAAAA==",
     "option2": "AAAAAA=="
@@ -15960,6 +16212,27 @@
     "option2": "Never mind."
   },
   {
+    "sn": "1052301",
+    "strContent": "You are currently tracking a keyword. You can begin a new mission after it is complete.",
+    "option1": "AAAAAA==",
+    "showName": "AAAAAA==",
+    "option2": "AAAAAA=="
+  },
+  {
+    "sn": "1052302",
+    "strContent": "You cannot continue collecting keywords until the mission is complete.",
+    "option1": "AAAAAA==",
+    "showName": "AAAAAA==",
+    "option2": "AAAAAA=="
+  },
+  {
+    "sn": "1052303",
+    "strContent": "You can obtain keywords by progressing through the Akihabara Mystery Map missions.",
+    "option1": "AAAAAA==",
+    "showName": "AAAAAA==",
+    "option2": "AAAAAA=="
+  },
+  {
     "sn": "1057017",
     "strContent": "Mmm...\nHey, how about we take a little break?",
     "option1": "AAAAAA==",
@@ -16382,6 +16655,13 @@
   {
     "sn": "1052158",
     "strContent": "Clear all missions in Step 7 to obtain rewards.",
+    "option1": "AAAAAA==",
+    "showName": "AAAAAA==",
+    "option2": "AAAAAA=="
+  },
+  {
+    "sn": "1052304",
+    "strContent": "This keyword will be revealed last. Please uncover the other keywords first.",
     "option1": "AAAAAA==",
     "showName": "AAAAAA==",
     "option2": "AAAAAA=="
@@ -21112,6 +21392,132 @@
     "option2": "AAAAAA=="
   },
   {
+    "sn": "1152001",
+    "strContent": "The hunt is on!\nWoof! Woof! Hooray!",
+    "option1": "AAAAAA==",
+    "showName": "Runa Dogenzaka",
+    "option2": "AAAAAA=="
+  },
+  {
+    "sn": "1152002",
+    "strContent": "Hehe, let's see...",
+    "option1": "AAAAAA==",
+    "showName": "Runa Dogenzaka",
+    "option2": "AAAAAA=="
+  },
+  {
+    "sn": "1152003",
+    "strContent": "Hooray!",
+    "option1": "AAAAAA==",
+    "showName": "Runa Dogenzaka",
+    "option2": "AAAAAA=="
+  },
+  {
+    "sn": "1152004",
+    "strContent": "I smell a secret passage!",
+    "option1": "AAAAAA==",
+    "showName": "Runa Dogenzaka",
+    "option2": "AAAAAA=="
+  },
+  {
+    "sn": "1152005",
+    "strContent": "Aww... It's locked...",
+    "option1": "AAAAAA==",
+    "showName": "Runa Dogenzaka",
+    "option2": "AAAAAA=="
+  },
+  {
+    "sn": "1152006",
+    "strContent": "We probably can't open it\nright now...",
+    "option1": "AAAAAA==",
+    "showName": "Runa Dogenzaka",
+    "option2": "AAAAAA=="
+  },
+  {
+    "sn": "1152007",
+    "strContent": "Mission complete!",
+    "option1": "AAAAAA==",
+    "showName": "Runa Dogenzaka",
+    "option2": "AAAAAA=="
+  },
+  {
+    "sn": "1152008",
+    "strContent": "I smell treasure!!!",
+    "option1": "AAAAAA==",
+    "showName": "Runa Dogenzaka",
+    "option2": "AAAAAA=="
+  },
+  {
+    "sn": "1152009",
+    "strContent": "Aah... This looks a little rough...",
+    "option1": "AAAAAA==",
+    "showName": "Runa Dogenzaka",
+    "option2": "AAAAAA=="
+  },
+  {
+    "sn": "1152010",
+    "strContent": "What's inside, what's inside!?",
+    "option1": "AAAAAA==",
+    "showName": "Runa Dogenzaka",
+    "option2": "AAAAAA=="
+  },
+  {
+    "sn": "1152011",
+    "strContent": "Awoooo! Heck yeah!",
+    "option1": "AAAAAA==",
+    "showName": "Runa Dogenzaka",
+    "option2": "AAAAAA=="
+  },
+  {
+    "sn": "1152012",
+    "strContent": "Shhh! An enemy's close...",
+    "option1": "AAAAAA==",
+    "showName": "Runa Dogenzaka",
+    "option2": "AAAAAA=="
+  },
+  {
+    "sn": "1152013",
+    "strContent": "It's a safe room! House-y house!",
+    "option1": "AAAAAA==",
+    "showName": "Runa Dogenzaka",
+    "option2": "AAAAAA=="
+  },
+  {
+    "sn": "1152014",
+    "strContent": "Phew... So relaxing...",
+    "option1": "AAAAAA==",
+    "showName": "Runa Dogenzaka",
+    "option2": "AAAAAA=="
+  },
+  {
+    "sn": "1152015",
+    "strContent": "Ehehe, what do we have here?",
+    "option1": "AAAAAA==",
+    "showName": "Runa Dogenzaka",
+    "option2": "AAAAAA=="
+  },
+  {
+    "sn": "1152016",
+    "strContent": "Let's play again sometime!",
+    "option1": "AAAAAA==",
+    "showName": "Runa Dogenzaka",
+    "option2": "AAAAAA=="
+  },
+  {
+    "sn": "1152017",
+    "strContent": "Wah, it's strong... What\nshould we do?",
+    "option1": "AAAAAA==",
+    "showName": "Runa Dogenzaka",
+    "option2": "AAAAAA=="
+  },
+  {
+    "sn": "1152018",
+    "strContent": "I have an idea! What if we\ntook a little break?",
+    "option1": "AAAAAA==",
+    "showName": "Runa Dogenzaka",
+    "option2": "AAAAAA=="
+  },
+  {
     "sn": "1073000",
     "strContent": "You already have a Tryout Phantom Thief. Do you want to replace them?",
     "option1": "OK",
@@ -21558,6 +21964,69 @@
     "option1": "AAAAAA==",
     "showName": "AAAAAA==",
     "option2": "AAAAAA=="
+  },
+  {
+    "sn": "1081008",
+    "strContent": "Do you want to decorate the first floor?",
+    "option1": "Confirm",
+    "showName": "AAAAAA==",
+    "option2": "Never mind."
+  },
+  {
+    "sn": "1081009",
+    "strContent": "Do you want to decorate the second floor?",
+    "option1": "Confirm",
+    "showName": "AAAAAA==",
+    "option2": "Never mind."
+  },
+  {
+    "sn": "1081010",
+    "strContent": "You have no items that can be placed.",
+    "option1": "AAAAAA==",
+    "showName": "AAAAAA==",
+    "option2": "AAAAAA=="
+  },
+  {
+    "sn": "1081011",
+    "strContent": "Item currently placed.",
+    "option1": "AAAAAA==",
+    "showName": "AAAAAA==",
+    "option2": "AAAAAA=="
+  },
+  {
+    "sn": "1081012",
+    "strContent": "You cannot place a model of this size here.",
+    "option1": "AAAAAA==",
+    "showName": "AAAAAA==",
+    "option2": "AAAAAA=="
+  },
+  {
+    "sn": "1081013",
+    "strContent": "Not obtained.",
+    "option1": "AAAAAA==",
+    "showName": "AAAAAA==",
+    "option2": "AAAAAA=="
+  },
+  {
+    "sn": "1081014",
+    "strContent": "This item is not the right size to be placed here.",
+    "option1": "AAAAAA==",
+    "showName": "AAAAAA==",
+    "option2": "AAAAAA=="
+  },
+  {
+    "sn": "1081015",
+    "strContent": "Saved.",
+    "option1": "AAAAAA==",
+    "showName": "AAAAAA==",
+    "option2": "AAAAAA=="
+  },
+  {
+    "sn": "1081016",
+    "strContent": "The current layout has not been saved. Are you sure you want to leave without saving?",
+    "option1": "Confirm",
+    "showName": "AAAAAA==",
+    "option2": "Never mind."
   },
   {
     "sn": "1083018",
@@ -22290,6 +22759,13 @@
   {
     "sn": "1073021",
     "strContent": "Gamepad Cursor Mode set to Off",
+    "option1": "AAAAAA==",
+    "showName": "AAAAAA==",
+    "option2": "AAAAAA=="
+  },
+  {
+    "sn": "1081017",
+    "strContent": "This item is not the right size to be placed here.",
     "option1": "AAAAAA==",
     "showName": "AAAAAA==",
     "option2": "AAAAAA=="
@@ -27321,6 +27797,27 @@
     "option2": "Never mind."
   },
   {
+    "sn": "1209425",
+    "strContent": "It seems you are out of funds. Perhaps we\nshould call it a day.",
+    "option1": "AAAAAA==",
+    "showName": "L<#000000,u,#FFFFFF>fel",
+    "option2": "AAAAAA=="
+  },
+  {
+    "sn": "1209426",
+    "strContent": "Today's limited item is a {0}.\nWould you like to try it out?",
+    "option1": "AAAAAA==",
+    "showName": "L<#000000,u,#FFFFFF>fel",
+    "option2": "AAAAAA=="
+  },
+  {
+    "sn": "1209427",
+    "strContent": "Today's limited item is a {0}.\nWould you like to try it out?",
+    "option1": "AAAAAA==",
+    "showName": "L<#000000,u,#FFFFFF>fel",
+    "option2": "AAAAAA=="
+  },
+  {
     "sn": "1210181",
     "strContent": "It must've seen that coming...",
     "option1": "AAAAAA==",
@@ -32197,14 +32694,14 @@
     "strContent": "Your <color=#ffc000>Willpower</color> and <color=#ffc000>challenge attempts</color> spent to battle at the Stella will be restored, and the Stella will be reverted to an uncleared status.\nDo you still want to continue?",
     "option1": "Confirm",
     "showName": "L<#000000,u,#FFFFFF>fel",
-    "option2": "Never mind."
+    "option2": "Cancel"
   },
   {
     "sn": "1301007",
     "strContent": "Do you want to reset?\nYour <color=#ffc000>Willpower</color> and <color=#ffc000>challenge attempts</color> spent to battle at the Stella will be restored.\nThe Stella will be reverted to an uncleared status, so you will need to clear them again in order to take on new Stellae.",
     "option1": "Confirm",
     "showName": "L<#000000,u,#FFFFFF>fel",
-    "option2": "Never mind."
+    "option2": "Cancel"
   },
   {
     "sn": "1301008",
@@ -32267,7 +32764,7 @@
     "strContent": "Do you want to instantly complete all active task missions?",
     "option1": "Confirm",
     "showName": "L<#000000,u,#FFFFFF>fel",
-    "option2": "Never mind."
+    "option2": "Cancel"
   },
   {
     "sn": "1132901",
@@ -33005,6 +33502,146 @@
     "option2": "AAAAAA=="
   },
   {
+    "sn": "1133401",
+    "strContent": "Here I come!",
+    "option1": "AAAAAA==",
+    "showName": "Runa Dogenzaka",
+    "option2": "AAAAAA=="
+  },
+  {
+    "sn": "1133402",
+    "strContent": "Leave it to me!",
+    "option1": "AAAAAA==",
+    "showName": "Runa Dogenzaka",
+    "option2": "AAAAAA=="
+  },
+  {
+    "sn": "1133403",
+    "strContent": "I'm heeere!",
+    "option1": "AAAAAA==",
+    "showName": "Runa Dogenzaka",
+    "option2": "AAAAAA=="
+  },
+  {
+    "sn": "1133404",
+    "strContent": "Finally, I've been waiting!",
+    "option1": "AAAAAA==",
+    "showName": "Runa Dogenzaka",
+    "option2": "AAAAAA=="
+  },
+  {
+    "sn": "1133405",
+    "strContent": "I'll go anywhere you need!",
+    "option1": "AAAAAA==",
+    "showName": "Runa Dogenzaka",
+    "option2": "AAAAAA=="
+  },
+  {
+    "sn": "1133406",
+    "strContent": "I'll bite!",
+    "option1": "AAAAAA==",
+    "showName": "Runa Dogenzaka",
+    "option2": "AAAAAA=="
+  },
+  {
+    "sn": "1133407",
+    "strContent": "Burn 'em all!",
+    "option1": "AAAAAA==",
+    "showName": "Runa Dogenzaka",
+    "option2": "AAAAAA=="
+  },
+  {
+    "sn": "1133408",
+    "strContent": "Woof... Woof... Hooray!",
+    "option1": "AAAAAA==",
+    "showName": "Runa Dogenzaka",
+    "option2": "AAAAAA=="
+  },
+  {
+    "sn": "1133409",
+    "strContent": "The hunt is on!\nWoof! Woof! Hooray!",
+    "option1": "AAAAAA==",
+    "showName": "Runa Dogenzaka",
+    "option2": "AAAAAA=="
+  },
+  {
+    "sn": "1133410",
+    "strContent": "I smell treasure!!!",
+    "option1": "AAAAAA==",
+    "showName": "Runa Dogenzaka",
+    "option2": "AAAAAA=="
+  },
+  {
+    "sn": "1133411",
+    "strContent": "Doggone it, I'm not done yet!",
+    "option1": "AAAAAA==",
+    "showName": "Runa Dogenzaka",
+    "option2": "AAAAAA=="
+  },
+  {
+    "sn": "1133412",
+    "strContent": "I'm so sorry...",
+    "option1": "AAAAAA==",
+    "showName": "Runa Dogenzaka",
+    "option2": "AAAAAA=="
+  },
+  {
+    "sn": "1133413",
+    "strContent": "Aww...",
+    "option1": "AAAAAA==",
+    "showName": "Runa Dogenzaka",
+    "option2": "AAAAAA=="
+  },
+  {
+    "sn": "1133414",
+    "strContent": "Oh, we done already?",
+    "option1": "AAAAAA==",
+    "showName": "Runa Dogenzaka",
+    "option2": "AAAAAA=="
+  },
+  {
+    "sn": "1133415",
+    "strContent": "S-So tired...",
+    "option1": "AAAAAA==",
+    "showName": "Runa Dogenzaka",
+    "option2": "AAAAAA=="
+  },
+  {
+    "sn": "1133416",
+    "strContent": "Surprise!",
+    "option1": "AAAAAA==",
+    "showName": "Runa Dogenzaka",
+    "option2": "AAAAAA=="
+  },
+  {
+    "sn": "1133417",
+    "strContent": "Hooray!",
+    "option1": "AAAAAA==",
+    "showName": "Runa Dogenzaka",
+    "option2": "AAAAAA=="
+  },
+  {
+    "sn": "1133418",
+    "strContent": "Mission complete!",
+    "option1": "AAAAAA==",
+    "showName": "Runa Dogenzaka",
+    "option2": "AAAAAA=="
+  },
+  {
+    "sn": "1133419",
+    "strContent": "Wow wow! Amazing!",
+    "option1": "AAAAAA==",
+    "showName": "Runa Dogenzaka",
+    "option2": "AAAAAA=="
+  },
+  {
+    "sn": "1133420",
+    "strContent": "Let's play together again\nsometime!",
+    "option1": "AAAAAA==",
+    "showName": "Runa Dogenzaka",
+    "option2": "AAAAAA=="
+  },
+  {
     "sn": "1301009",
     "strContent": "Do you want to reset?\nAll Stellae will be reset, and your <color=#ffc000>Willpower</color> and <color=#ffc000>challenge attempts</color> spent to battle will be restored. The Stellae will be reverted to an uncleared status, so you will need to clear them again in order to take on new Stellae.",
     "option1": "Confirm",
@@ -33020,7 +33657,7 @@
   },
   {
     "sn": "1301011",
-    "strContent": "Unlocks at level 70.",
+    "strContent": "Unlocks at level 65.",
     "option1": "AAAAAA==",
     "showName": "AAAAAA==",
     "option2": "AAAAAA=="
@@ -33031,6 +33668,13 @@
     "option1": "Confirm",
     "showName": "L<#000000,u,#FFFFFF>fel",
     "option2": "Cancel"
+  },
+  {
+    "sn": "1301013",
+    "strContent": "Party changes successful",
+    "option1": "AAAAAA==",
+    "showName": "AAAAAA==",
+    "option2": "AAAAAA=="
   },
   {
     "sn": "1310001",

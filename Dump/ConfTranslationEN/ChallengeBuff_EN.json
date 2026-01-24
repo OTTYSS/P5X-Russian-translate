@@ -88,5 +88,10 @@
     "sn": "39",
     "buffName": "Infestation",
     "buffDesc": "For each type of attribute damage dealt, gain 1 Erosion of the Masses stack.\nErosion of the Masses: Increase final damage by 10% for each stack. Lasts for 2 turns. Stacks up to 4 times."
+  },
+  {
+    "sn": "18",
+    "buffName": "Magma Eruption",
+    "buffDesc": "At the start of the foe's turn, inflict Dissolution, increasing final damage taken. Increase is equal to 25% of the ailment accuracy of the ally with the highest ailment accuracy, up to 40%."
   }
 ]

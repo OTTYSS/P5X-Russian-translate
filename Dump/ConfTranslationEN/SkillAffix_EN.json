@@ -115,6 +115,26 @@
     "desc": "Foes inflicted with Elemental Ailments take 20% increased damage."
   },
   {
+    "sn": "26",
+    "name": "Special Effect",
+    "desc": "Foes inflicted with Burn take 15% increased damage."
+  },
+  {
+    "sn": "27",
+    "name": "Special Effect",
+    "desc": "Foes inflicted with Freeze take 15% increased damage."
+  },
+  {
+    "sn": "28",
+    "name": "Special Effect",
+    "desc": "Foes inflicted with Shock take 15% increased damage."
+  },
+  {
+    "sn": "29",
+    "name": "Special Effect",
+    "desc": "Foes inflicted with Windswept take 15% increased damage."
+  },
+  {
     "sn": "31",
     "name": "Special Effect",
     "desc": "All foes' Physical affinity changes to Weak."
@@ -1096,18 +1116,18 @@
   },
   {
     "sn": "463",
-    "name": "AAAAAA==",
-    "desc": "AAAAAA=="
+    "name": "Painting Effect",
+    "desc": "Painting Effect Active"
   },
   {
     "sn": "464",
-    "name": "AAAAAA==",
-    "desc": "AAAAAA=="
+    "name": "Painting Effect",
+    "desc": "Painting Effect Active"
   },
   {
     "sn": "465",
-    "name": "AAAAAA==",
-    "desc": "AAAAAA=="
+    "name": "Painting Effect",
+    "desc": "Painting Effect Active"
   },
   {
     "sn": "446",
@@ -1435,6 +1455,11 @@
     "desc": "For each type of attribute damage dealt, gain 1 Erosion of the Masses stack.\nErosion of the Masses: Increase final damage by 10% for each stack. Lasts for 2 turns. Stacks up to 4 times."
   },
   {
+    "sn": "1018",
+    "name": "Magma Eruption",
+    "desc": "At the start of the foe's turn, inflict Dissolution, increasing final damage taken. Increase is equal to 25% of the ailment accuracy of the ally besides Wonder with the highest ailment accuracy, up to 40%."
+  },
+  {
     "sn": "2001",
     "name": "Special Effect",
     "desc": "Foes' damage taken is increased by 6% for each <color=#FFFC40>debuff</color> they are inflicted with, up to 30%."
@@ -1502,7 +1527,7 @@
   {
     "sn": "2014",
     "name": "Special Effect",
-    "desc": "All allies' final damage is increased based on their ailment accuracy. Final damage is increased by a maximum of 15% at 150% ailment accuracy."
+    "desc": "Damage is increased based on allies' ailment accuracies that are over 100%. Damage is increased by a maximum of 15% for an ailment accuracy of 150%."
   },
   {
     "sn": "2015",
@@ -1657,12 +1682,12 @@
   {
     "sn": "4511",
     "name": "Special Effect",
-    "desc": "<color=#ff381d>Fire</color>, <color=#00aeff>Ice</color>, <color=#fbff37>Electric</color>, and <color=#81ea2c>Wind</color> allies' final damage is increased by 60%."
+    "desc": "<color=#ff381d>Fire</color>, <color=#00aeff>Ice</color>, <color=#fbff37>Electric</color>, and <color=#81ea2c>Wind</color> allies' final damage is increased by 60% (other than Wonder)."
   },
   {
     "sn": "4512",
     "name": "Special Effect",
-    "desc": "<color=#ff63ff>Psychokinesis</color>, <color=#00fcff>Nuclear</color>, <color=#fffea0>Bless</color>, and <color=#ff0036>Curse</color> allies' final damage is increased by 60%."
+    "desc": "<color=#ff63ff>Psychokinesis</color>, <color=#00fcff>Nuclear</color>, <color=#fffea0>Bless</color>, and <color=#ff0036>Curse</color> allies' final damage is increased by 60% (other than Wonder)."
   },
   {
     "sn": "743",
@@ -1692,7 +1717,7 @@
   {
     "sn": "4513",
     "name": "Special Effect",
-    "desc": "<color=#FF9C00>Physical</color>, <color=#FF9C00>Gun</color>, and <color=#E3E3E3>Almighty</color> allies' final damage is increased by 60%."
+    "desc": "<color=#FF9C00>Physical</color>, <color=#FF9C00>Gun</color>, and <color=#E3E3E3>Almighty</color> allies' final damage is increased by 60% (other than Wonder)."
   },
   {
     "sn": "4521",
@@ -1702,12 +1727,12 @@
   {
     "sn": "4522",
     "name": "Special Effect",
-    "desc": "Foes can be inflicted with most <color=#FFFC40>spiritual and control ailments</color>. When an ally inflicts a <color=#FFFC40>spiritual or control ailment</color>, their ailment accuracy is greatly increased. Foes inflicted with <color=#FFFC40>spiritual and control ailments</color> take 60% increased final damage."
+    "desc": "Foes can be inflicted with most <color=#FFFC40>spiritual and control ailments</color>. When an ally (other than Wonder) inflicts a <color=#FFFC40>spiritual or control ailment</color>, their ailment accuracy is greatly increased. Foes inflicted with <color=#FFFC40>spiritual and control ailments</color> take 60% increased final damage."
   },
   {
     "sn": "4523",
     "name": "Special Effect",
-    "desc": "Foes can be inflicted with most <color=#FFFC40>spiritual and control ailments</color>. When an ally inflicts a <color=#FFFC40>spiritual or control ailment</color>, their ailment accuracy is greatly increased."
+    "desc": "Foes can be inflicted with most <color=#FFFC40>spiritual and control ailments</color>. When an ally (other than Wonder) inflicts a <color=#FFFC40>spiritual or control ailment</color>, their ailment accuracy is greatly increased."
   },
   {
     "sn": "4524",
@@ -1717,12 +1742,12 @@
   {
     "sn": "4531",
     "name": "Special Effect",
-    "desc": "When the party activates a <color=#FFFC40>Resonance</color>, their final damage is increased by 100%."
+    "desc": "When an ally (other than Wonder) activates a <color=#FFFC40>Resonance</color>, their final damage is increased by 100%."
   },
   {
     "sn": "4532",
     "name": "Special Effect",
-    "desc": "When the party activates a <color=#FFFC40>continuous damage</color> effect, their final damage is increased by 200%."
+    "desc": "When an ally (other than Wonder) activates a <color=#FFFC40>continuous damage</color> effect, their final damage is increased by 200%."
   },
   {
     "sn": "4533",
@@ -1787,7 +1812,7 @@
   {
     "sn": "6003",
     "name": "Synchro-attack",
-    "desc": "<color=#FF423F>Synchro-attack</color>: <color=#fffc40>Combat Chip</color>. When allies take damage of their own attribute, gain <color=#fffc40>4</color> deployment points. Increase damage by <color=#fffc40>60%</color> more."
+    "desc": "<color=#FF423F>Synchro-attack</color>: <color=#fffc40>Combat Chip</color>. When an ally deals damage of the same attribute as the previous ally who acted, gain <color=#fffc40>4</color> deployment points. Also, damage is increased by <color=#fffc40>60%</color>."
   },
   {
     "sn": "6004",
@@ -1861,8 +1886,8 @@
   },
   {
     "sn": "6018",
-    "name": "Volt Regulator-T1",
-    "desc": "<color=#FF423F>Volt Regulator-T1</color>: After taking an attack from a <color=#fffc40>Self-Destruct Bot</color>, the target's critical resistance is decreased by <color=#fffc40>9%</color> for 2 turns."
+    "name": "Volt Overloader- T1",
+    "desc": "<color=#FF423F>Volt Overloader- T1</color>: When a <color=#fffc40>Self-Destruct Bot</color> attacks, decrease the target's critical resistance by <color=#fffc40>9%</color>. Lasts for 2 turns."
   },
   {
     "sn": "6021",
@@ -1872,7 +1897,7 @@
   {
     "sn": "6022",
     "name": "Firewall Booster-X3",
-    "desc": "<color=#FF423F>Firewall Booster-X3</color>: When a <color=#fffc40>Combat Drone</color> attacks,party's Defense is increased by <color=#fffc40>30%</color> for 1 turn."
+    "desc": "<color=#FF423F>Firewall Booster-X3</color>: When a <color=#fffc40>Combat Drone</color> attacks, the party's Defense is increased by <color=#fffc40>30%</color> for 1 turn."
   },
   {
     "sn": "6023",
@@ -1897,12 +1922,12 @@
   {
     "sn": "6027",
     "name": "Data Encryption-I4",
-    "desc": "<color=#FF423F>Data Encryption-I4</color>: When a <color=#fffc40>Combat Drone</color> attacks, the ally with the lowest HP gains a shield equal to <color=#fffc40>80%</color> of their lost HP (250 or more). Lasts for 2 turns."
+    "desc": "<color=#FF423F>Data Encryption-I4</color>: When a <color=#fffc40>Combat Drone</color> attacks, the ally with the lowest HP gains a shield equal to <color=#fffc40>80%</color> of their lost HP (15% or more of max HP). Lasts for 2 turns."
   },
   {
     "sn": "6028",
     "name": "Chip Overclock-O1",
-    "desc": "<color=#FF423F>Chip Overclock-O1</color>: When a <color=#fffc40>Combat Drone</color> attacks, the party's damage is increased by <color=#fffc40>5%</color>. Damage is increased by <color=#fffc40>0.5%</color> more for each 1% of HP lost, up to <color=#fffc40>40%</color>. Lasts for 1 turn."
+    "desc": "<color=#FF423F>Chip Overclock-O1</color>: When a <color=#fffc40>Combat Drone</color> attacks, the party's damage is increased by <color=#fffc40>5%</color>. When this buff is applied, damage is increased by <color=#fffc40>0.5%</color> more for each 1% of HP lost, up to <color=#fffc40>40%</color>. Lasts for 1 turn."
   },
   {
     "sn": "6029",
@@ -1985,6 +2010,11 @@
     "desc": "<color=#FFFC40>Wonder</color>'s final damage is increased by 100%."
   },
   {
+    "sn": "2027",
+    "name": "Special Effect",
+    "desc": "All foes' <color=#FF423F>Defense is increased by 100%</color>, but their final damage taken is increased by 15%."
+  },
+  {
     "sn": "4534",
     "name": "Special Effect",
     "desc": "When allies use <color=#FFFC40>melee or ranged attacks</color>, final damage is increased by 100%."
@@ -2002,12 +2032,12 @@
   {
     "sn": "4572",
     "name": "Special Effect",
-    "desc": "When an ally does not deal damage for 1 turn, their final damage is increased by 50%. This effect lasts for 1 turn."
+    "desc": "When an ally besides Wonder does not deal damage for 1 turn, their final damage is increased by 50%. This effect lasts for 1 turn."
   },
   {
     "sn": "4581",
     "name": "Special Effect",
-    "desc": "When a Sweeper or Assassin ally lands a <color=#FFFC40>critical hit</color>, final damage is increased by 30%, critical rate is increased by 40%, and critical damage is decreased by 60%."
+    "desc": "Sweeper or Assassin allies' critical rate is increased by 40%, and critical damage is decreased by 60%. When landing a <color=#FFFC40>critical hit</color>, their final damage is increased by 30%."
   },
   {
     "sn": "4591",
@@ -2492,7 +2522,7 @@
   {
     "sn": "4515",
     "name": "Special Effect",
-    "desc": "When allies besides Wonder deal <color=#FFFC40>Almighty damage</color> with a skill or 1 More, the party's final damage is increased by 60% for 2 turns."
+    "desc": "When allies other than Wonder deal <color=#E3E3E3>Almighty damage</color> with skills or 1 More attacks, the party's final damage is increased by 60% for 2 turns."
   },
   {
     "sn": "8213",
