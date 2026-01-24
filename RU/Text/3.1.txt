@@ -154,7 +154,6 @@ Actually, I believe I may have heard of this\nbefore... The archetypical \clumsy
 Actually, we had a similar event in Shibuya\nonce! But it didn't go so well...=На самом деле, у нас был аналогичный случай в Сибуе разок! Но всё пошло не так...
 Actually... I was able to find a spare key,\nso it turns out I wasn't really locked out\nat all...=На самом деле... Я смог найти запасной ключ, поэтому оказалось, что я вовсе не был заперт вне...
 Actually... This was one of your missions!=На самом деле... Это была одна из ваших миссий!
-r:"^Add New \((.+?)/(.+?)\)$"="Добавить новое ($1/$2)"
 Advanced Sewing Tool Set=Расширенный набор швейных инструментов
 Adventure Story=Приключенческая история
 Affinities reverted!=Аффинитеты восстановлены!
@@ -182,9 +181,6 @@ Ah, time out! My heart isn't\nready yet! I need a little\nmore time!=Ах, вр�
 Ah, when I say handover, I don't mean—\nShichi-kun's just Shichi-kun, there's\nno one inside...!=Ах, когда я говорю "передача", я не имею в виду— Шичи-кун просто Шичи-кун, внутри нет никого...!
 Ah, why don't we order two different flavors?\nWe could go halfsies on each!=Ах, почему бы нам не заказать два разных вкуса? Мы могли бы поделиться каждым!
 Ah, yes, we've got that ready for you. Here\nyou go.=Ах, да, мы это подготовили для вас. Вот пожалуйста.
-r:"^Ah\, (.+?)\-kun\! For today\'s activities\.\.\.$"="r:"^Ah,\ (.+?)\-kun!\ For\ today's\ activities\.\.\.$"\="Ах, $1-кун! Для сегодняшних мероприятий...""
-r:"^Ah\, (.+?)\-kun\! Good evening\.$"="r:"^Ah,\ (.+?)\-kun!\ Good\ evening\.$"\="Ах, $1-кун! Добрый вечер.""
-r:"^Ah\, (.+?)\-kun\! Hey\, are you free\?$"="r:"^Ah,\ (.+?)\-kun!\ Hey,\ are\ you\ free\?$"\="Ах, $1-кун! Привет, ты свободен?""
 Ahaha... AHAHAHA! DELICIOUS! Delicious...\nNothing like savoring the sweet taste of\nsuffering!=Ахаха... АХАХА! ВКУСНО! Вкусно... Нет ничего лучше, чем наслаждаться сладким вкусом страдания!
 Ahh, good point... The \nrestaurant business is pretty fierce,\nand the space is limited.=Ах, хорошее замечание... Бизнес в ресторане очень серьёзный, и пространство ограничено.
 Ahh... Even if she's just saying that, I'm\nso happy...=Ах... Даже если она просто это говорит, я так счастлив...
@@ -388,7 +384,6 @@ But you're always so nice to clumsy little\nPetit... It makes me so happy!=Но 
 But your mission's not done yet! This next\none's gonna be completely different than\nthe last.=Но твоя миссия еще не закончена! Эта следующая будет совершенно другой, чем последняя.
 But, I just... I don't understand how this\nhappened...=Но, я просто... Я не понимаю, как это произошло...
 But, these keywords are...=Но эти ключевые слова...
-r:"^But\, um\, (.+?)\-kun\, I\.\.\.$"="r:"^But,\ um,\ (.+?)\-kun,\ I\.\.\.$"\="Но, эм, $1-кун, я...""
 But, why did you suddenly, y'know...? Were\nyou having second thoughts?=Но почему ты вдруг, знаешь...? Ты не передумал?
 But, wow, when that police officer was asking\nus questions, I was so nervous!=Но, вау, когда тот полицейский задавал нам вопросы, я была так нервной!
 But... surely it's too late for me now...=Но... наверняка для меня уже слишком поздно...
@@ -499,7 +494,7 @@ Complete Side Mission Shibuya's Former Glory=Завершите Побочную
 Completing Runa's City Life event will increase the accomplice's Rank.=Завершение мероприятия Городской Жизни Руна повысит ранг сообщника.
 Concept Caf├й=Концепт Кафе
 Confirm=Подтвердить
-congrats! gotta come back next season! (тЩбwтЩб)/ i'll be waiting!=Поздравляю! Надо вернуться в следующем сезоне! (тЩбwтЩб)/ Я буду ждать!
+congrats! gotta come back next season! (♡w♡)/ i'll be waiting!=Поздравляю! Надо вернуться в следующем сезоне! (♡w♡)/ Я буду ждать!
 Congratulations! That was incredible, you\nmanaged to get it in one try!=Поздравляем! Это было невероятно, вы сумели сделать это с первой попытки!
 Control Center=Центр управления
 Cool. Since that's all sorted...=Круто. Раз все уладили...
@@ -657,7 +652,6 @@ Embarrassed=Смущённый
 Emplo<#000000,y,#FFFFFF>ee=Служ<#000000>,а,#FFFFFF>щий
 Employee=Работник
 Ends in:=Закончится через:
-r:"^Ends in\: (.+?)$"="Заканчивается на: $1"
 Energy Circuit Amp-F2=Энергосхема-усилитель-F2
 Enjoy the rest of your day, Master...\nP-Please come back again soon.=Наслаждайтесь оставшейся частью дня, Мастер... П-Пожалуйста, возвращайтесь снова скорей.
 Enlightening Planetarium: Super=Просветляющий Планетарий: Супер
@@ -774,11 +768,9 @@ Go to the maid caf├й=Поехать в кафе с горничными
 Go to the parts shop=Поехать в магазин запчастей
 Go to the parts shop and ask to pick up the\nSpecialized Screwdriver.=Поехать в магазин запчастей и попросить забрать Специальную отвёртку.
 Good luck solving the mystery!=Удачи в решении загадки!
-r:"^Good morning\, (.+?)\-kun\! Today\'s another\nevent day\!$"="r:"^Good\ morning,\ (.+?)\-kun!\ Today's\ another\\nevent\ day!$"\="Доброе утро, $1-кун! Сегодня снова\nдень мероприятий!""
 Good morning? Hello? Good evening? I can\nnever tell what time it is here...=Доброе утро? Привет? Добрый вечер? Я никогда не могу понять, который сейчас час...
 Goose=Гусь
 Got it! One omelette rice, coming right up!\nThank you so much!=Понял! Один омлет с рисом, сейчас сделаю! Большое спасибо!
-r:"^Grab (.+?) x (.+?)$"="Схватить $1 x $2"
 Gray Goose=Серая гусь
 Gray Hedgehog=Серый ёж
 Gray Owl=Серая сова
@@ -860,16 +852,12 @@ Hey, are you free?=Привет, ты свободен?
 Hey, don't say that! Be more\ngreedy for Shichi-kun,\nwill you!?=Эй, не говори так! Будь более жадным к Сичи-куну, не так ли!?
 Hey, I wanted to ask you two!=Привет, я хотел вас спросить двоих!
 Hey, let's talk to her! Find out what's\nwrong.=Привет, давай поговорим с ней! Узнаем, что не так.
-r:"^Hey\, look\, (.+?)\-kun\. Doesn\'t that girl\nseem kinda sad\?$"="r:"^Hey,\ look,\ (.+?)\-kun\.\ Doesn't\ that\ girl\\nseem\ kinda\ sad\?$"\="Привет, смотри, $1-кун. Эта девочка не кажется немного грустной?""
 Hey, that's my line!=Эй, это моя реплика!
 Hey, there. You two doing the missions?=Привет. Вы двое выполняете задания?
 Hey, this card... Isn't it one of those...=Привет, эта карточка... Разве это не одна из тех...
 Hey, welcome back. I'm headin' out to go film\nAkashi. Lock the door behind me, okay?=Привет, добро пожаловать обратно. Я собираюсь поехать снимать Акаши. Закрой за мной дверь, хорошо?
 Hey, you there! Got a sec?=Эй, ты там! Есть минутка?
 Hey, you two.=Привет, вы двое.
-r:"^Hey\, (.+?)\-kun\! I\'m so glad you\'re here\.$"="r:"^Hey,\ (.+?)\-kun!\ I'm\ so\ glad\ you're\ here\.$"\="Привет, $1-кун! Я так рада, что ты здесь.""
-r:"^Hey\, (.+?)\-kun\. It looks like that maid\nis in trouble\.\.\.$"="r:"^Hey,\ (.+?)\-kun\.\ It\ looks\ like\ that\ maid\\nis\ in\ trouble\.\.\.$"\="Привет, $1-кун. Похоже, что эта горничная\nв беде...""
-r:"^Hey\, (.+?)\-kun\. Those people just now\,\nthey\'re talking about Shichi\-kun\, right\?$"="r:"^Hey,\ (.+?)\-kun\.\ Those\ people\ just\ now,\\nthey're\ talking\ about\ Shichi\-kun,\ right\?$"\="Привет, $1-кун. Те люди только что\nговорили о Сити-куне, верно?""
 Hey... Could it be that this was all your—=Эй... Неужели это всё было твоей—
 Highlight=Хайлайт
 Highlight Atk Increase,Highlight Dmg Increase,Highlight Healing Multiplier,Highlight Base Healing,Highlight Max HP Increase,Highlight Skill Multiplier,Highlight Skill Multiplier,Highlight Atk Increase,Highlight Skill Multiplier,Highlight Skill Multiplier,Highlight Atk Increase,Highlight Crit Dmg Increase=Шкала Хайлайта Увеличение Атаки,Шкала Хайлайта Увеличение Урона,Шкала Хайлайта Множитель Лечения,Шкала Хайлайта Базовое Лечение,Шкала Хайлайта Увеличение Макс HP,Шкала Хайлайта Множитель Умений,Шкала Хайлайта Множитель Умений,Шкала Хайлайта Увеличение Атаки,Шкала Хайлайта Множитель Умений,Шкала Хайлайта Множитель Умений,Шкала Хайлайта Увеличение Атаки,Шкала Хайлайта Увеличение Крит Урона
@@ -894,7 +882,6 @@ Hm, but a cat... What does it mean by a cat?\nCats just go wherever they want, s
 Hmm, can't quite find a good angle...=Хм, не могу найти хороший ракурс...
 Hmm, maybe we should stick to basics today,\nthough! Dashi, seafood, cod roe, stuff\nlike that!=Хм, может, сегодня стоит придерживаться основ, например! Даши, морепродукты, икру трески, такие вещи!
 Hmm, we'll turn this corner, and... Oh! We're\nback where we saw Shichi-kun.=Хм, мы завернем за угол, и... О! Мы снова там, где видели Сити-куна.
-r:"^Hmm\, what should I order this time\.\.\. Did you\ndecide already\, (.+?)\-kun\?$"="r:"^Hmm,\ what\ should\ I\ order\ this\ time\.\.\.\ Did\ you\\ndecide\ already,\ (.+?)\-kun\?$"\="Хм, что мне заказать на этот раз... Ты\nуже решил, $1-кун?""
 Hmm... I don't think this is the place.\nShould we try another one?=Хм... Не думаю, что это место. Попробуем другое?
 Hmm... I guess something more\nconventional is best. Gotta\nwork our way up.=Хм... Думаю, что-то более традиционное будет лучше. Надо подняться по лестнице.
 Hmm... Is it me, or does it feel like there\nisn't as much trash on the ground\nas expected?=Хм... Это только мне кажется, или здесь меньше мусора на земле, чем ожидалось?
@@ -932,7 +919,6 @@ Huh? But, I...=Что? Но я...
 Huh? Congratulations...?=Что? Поздравляю...?
 Huh? Don't tell me you saw something bad?=Что? Не говори мне, что ты увидел что-то плохое?
 Huh? Next door? Do you think those maids are\ncuter than Petit? Ooh, Master,\nyou scoundrel~!=Что? Соседка? Ты думаешь, что те горничные милее, чем Петит? Ох, Мастер, ты негодяй~!
-r:"^Huh\? Oh\.\.\. Really\!\? Thanks\, (.+?)\-kun\!$"="r:"^Huh\?\ Oh\.\.\.\ Really!\?\ Thanks,\ (.+?)\-kun!$"\="Что? Ох... Правда!? Спасибо, $1-кун!""
 Huh? Oh... Sorry, I spaced out there.=Что? Ох... Извини, я немного задумался.
 Huh? Really?=Что? Правда?
 Huh? Wh-Who the hell are you callin'\njealous...!=Что? К-Кого ты называешь завистливым...!
@@ -969,7 +955,6 @@ I don't mind if that's really\nthe case, but I still don't\nwanna deal with drun
 I don't really get it, but if\nthe customers are happy then I\nguess that's how it's done.=Я не совсем понимаю, но если клиентам это нравится, значит, так и надо.
 I don't think I have enough\ninformation to figure\nthis out yet...=Я не думаю, что у меня достаточно информации, чтобы разобраться в этом...
 I don't think we'll find anything of import\nif we continue forward.=Я не думаю, что мы найдём что-то важное, если продолжим двигаться вперёд.
-r:"^I expected nothing less\,\n(.+?)\-kun\! Common knowledge\nfor Shibuya friends like us\!$"="r:"^I\ expected\ nothing\ less,\\n(.+?)\-kun!\ Common\ knowledge\\nfor\ Shibuya\ friends\ like\ us!$"\="Я и не ожидал иного,\n$1-кун! Общее знание\nдля друзей из Сибуи, как мы!""
 I explained my order again,\nand she fixed it for me...=Я снова объяснил свой заказ, и она исправила его для меня...
 I feel a deep sense of trust\nbetween me and Runa...=Я чувствую глубокое доверие между мной и Руной...
 I feel a strong bond\nbetween me and Runa...=Я чувствую крепкую связь между мной и Руной...
@@ -1011,7 +996,6 @@ I hope we'll be able to go a lot more places\ntogether, so we can support Shibuy
 I just can't find it anywhere. There's\nsupposed to be a special regional design\nthat's only sold here.=Я просто не могу найти это нигде. Должен быть специальный региональный дизайн, который продаётся только здесь.
 I just know this is gonna be a mountain of\nwork though... Haha...=Я просто знаю, что это будет гора работы... Ха-ха...
 I just needed to blame someone else...=Мне просто нужно было свалить вину на кого-то другого...
-r:"^I knew you\'d say yes\! You really are the best\nShibuya friend\, (.+?)\-kun\.$"="r:"^I\ knew\ you'd\ say\ yes!\ You\ really\ are\ the\ best\\nShibuya\ friend,\ (.+?)\-kun\.$"\="Я знал, что ты скажешь \"да\"! Ты действительно лучший\nдруг в Шибуе, $1-кун.""
 I know I called you out of the blue, but thanks for coming!=Я знаю, что позвонил тебе наугад, но спасибо, что пришёл!
 I know I'm a pain, but please\ndon't leave me high and dry,\nokay...?=Я знаю, что я доставляю тебе неудобства, но пожалуйста, не оставляй меня в беде, хорошо...?
 I know it's a bit late to ask,\nbut you're in high school,\nright?=Я знаю, что уже поздно спрашивать, но ты учишься в старшей школе, правда?
@@ -1115,7 +1099,6 @@ I'll get your order for you in just a second,\nso wait right there!=Я прин�
 I'll Go Anywhere With You!=Я пойду куда угодно с тобой!
 I'll go anywhere you need!=Я пойду куда угодно, куда ты скажешь!
 I'll head there right now!\nSee you soon!=Я направляюсь туда прямо сейчас! Увидимся скоро!
-r:"^I\'ll leave the ordering to you\, (.+?)\-kun\.\.\.\!$"="r:"^I'll\ leave\ the\ ordering\ to\ you,\ (.+?)\-kun\.\.\.!$"\="Я оставлю заказ за тобой, $1-кун...!""
 I'll take you down with it!=Я тебя с собой заберу!
 I'm <color\=#FF423F>Runa Dogenzaka</color>. Call me Runa!=Я <color\=#FF423F>Руна Догензака</color>. Зови меня Руна!
 I'm a little new here, but I'm looking\nforward to serving you...=Я тут немного новенький, но с нетерпением жду, когда смогу вам помочь...
@@ -1236,7 +1219,6 @@ Isn't this one... a little too plain?=Неужели этот немного... 
 It can't be... No, it has to be!=Этого не может быть... Нет, это должно быть!
 It could be because of the extended berserk\nstate he was in back in the Metaverse...=Это может быть из-за продолжительного берсерка, в котором он был в Метавселенной...
 It could have been a disaster\nwhere Riko and the others\ngot hurt, or worse...=Это могло бы стать катастрофой, где Рико и другие пострадали, или хуже...
-r:"^It feels so good to hear that\! I\'m\nso happy\, (.+?)\-kun\.$"="r:"^It\ feels\ so\ good\ to\ hear\ that!\ I'm\\nso\ happy,\ (.+?)\-kun\.$"\="Как приятно это слышать! Я\nтак счастлива, $1-кун.""
 It happened with Shichi-kun V,\ntoo...=Это случилось и с Шичи-куном V, тоже...
 It is! You're much more put\ntogether than me even though\nI'm older than you!=Это так! Ты гораздо более собран, чем я, хотя я старше тебя!
 It lets him make arguments that have nothing\nto do with the original question, but sound\njust logical enough to make us listen.=Это позволяет ему делать аргументы, которые не имеют ничего общего с оригинальным вопросом, но звучат достаточно логично, чтобы заставить нас слушать.
@@ -1315,7 +1297,6 @@ La<#000000,n,#FFFFFF>guid Man=Ла<#000000,n,#FFFFFF>гид мужчина
 Laboratory Arc Part 1=Лабораторная арка, Часть 1
 Lakshmi=Лакшми
 Lakshmi's Rage=Ярость Лакшми
-r:"^Large \((.+?)\)$"="Большой ($1)"
 Laughing=Смех
 Leanan Sidhe=Линан Си
 Leanan Sidhe's Rage=Ярость Лианан Сидх
@@ -1327,7 +1308,6 @@ Legendary Devotion=Легендарная преданность
 Let us begin. Are you prepared?=Давайте начнём. Вы готовы?
 Let's change Shadow Murakami's heart.=Давайте изменим сердце Тени Мураками.
 Let's check what the message says! Hmm...=Давайте проверим, что написано в сообщении! Хмм...
-r:"^Let\'s do it\, (.+?)\-kun\!$"="r:"^Let's\ do\ it,\ (.+?)\-kun!$"\="Давайте сделаем это, $1-кун!""
 Let's find the last keyword.=Давайте найдём последнее ключевое слово.
 Let's find those messages\naround Akihabara...=Давайте найдём те сообщения вокруг Акихабары...
 Let's get to work.=За работу.
@@ -1357,7 +1337,6 @@ Look up=Посмотреть вверх
 Look! It's a limited-edition, super rare\nsticker Shichi-kun gave out two years ago!=Смотрите! Это лимитированная, суперредкая наклейка, которую Шичи-кун раздавал два года назад!
 Look! Look! It's Shichi-kun! In the shop\nwindow!=Смотрите! Смотрите! Это Шичи-кун! В витрине магазина!
 Look, it's just like the riddle we got at the\nbeginning! It must be some kind of hint.=Смотрите, это точно как загадка, которую мы получили в начале! Это должно быть какой-то намёк.
-r:"^Look\, (.+?)\-kun\. That woman seems a\nlittle suspicious\, don\'t you think\?$"="r:"^Look,\ (.+?)\-kun\.\ That\ woman\ seems\ a\\nlittle\ suspicious,\ don't\ you\ think\?$"\="Смотри, $1-кун. Эта женщина выглядит\nнемного подозрительно, не так ли?""
 Looking Around=Смотрим вокруг
 Looks like a famous idol is coming to\nShibuya. If you're interested, why not\ncheck them out?=Похоже, известный идол собирается в Сибую. Если вам интересно, почему бы не проверить его?
 Looks like we're working together again!\nLet's do our best today!=Похоже, мы снова работаем вместе! Давайте постараемся сегодня!
@@ -1409,7 +1388,6 @@ Maybe we could go together next time... Ah,\nb-but wouldn't we look like a coupl
 Mayumi-only melee weapon.=Майуми-только для ближнего боя.
 Me!? W-Wait a minute, are you saying...!=Я!? П-Погодите минутку, вы хотите сказать...!
 Meaning we're going to be super busy. You'll\nget some extra pay though, so do your best!=Это значит, что мы будем очень заняты. Вы получите дополнительную оплату, так что старайтесь!
-r:"^Med\. \((.+?)\)$"="Мед. ($1)"
 Meet the 2 otaku dancers practicing in Akihabara.=Познакомьтесь с двумя отаку-танцорами, практикующимися в Акихабаре.
 Melchizedek=Мелхиседек
 Melee Attack=Ближний бой
@@ -1477,8 +1455,6 @@ My store sponsored this thing too, and I'm\nnot getting a single yen back!=Мо�
 Mysterious Old Man=Таинственный Старик
 N-N-No way, I didn't...=Н-Н-Нет, я не...
 N-No, that's...=Н-Нет, это...
-r:"^N\-Not yet\.\.\. Let\'s keep trying\,\n(.+?)\-kun\!$"="r:"^N\-Not\ yet\.\.\.\ Let's\ keep\ trying,\\n(.+?)\-kun!$"\="Н-Еще нет... Давайте продолжим пытаться,\n$1-кун!""
-r:"^Na\.\.\. Naruru\!\? (.+?)\-kun\.\.\. Are you\nfriends with her\!\?$"="r:"^Na\.\.\.\ Naruru!\?\ (.+?)\-kun\.\.\.\ Are\ you\\nfriends\ with\ her!\?$"\="На... Наруру!? $1-кун... Ты\nдрузья с ней!?""
 Nagisa┬дKamisiro=Нагиса┬дКамисиро
 Narcissus=Нарцисс
 Narcissus's Rage=Ярость Нарцисса
@@ -1567,8 +1543,6 @@ Oh, I'm still planning to continue promoting\nShichi-kun as we have up until now
 Oh, it looks like it's getting late, huh? The\nevent is wrapping up, so we should head\nhome too.=О, похоже, что уже поздно, а? Мероприятие подходит к концу, так что нам тоже стоит отправляться домой.
 Oh, it looks like this\nkeyword's correct here! Yay!=О, похоже, что это ключевое слово здесь верное! Ура!
 Oh, it's no big deal! And here, take\nthis map.=О, это не проблема! А вот, возьми эту карту.
-r:"^Oh\, it\'s (.+?)\-kun and Runa\-chan\!\nThanks for coming\!$"="r:"^Oh,\ it's\ (.+?)\-kun\ and\ Runa\-chan!\\nThanks\ for\ coming!$"\="О, это $1-кун и Руна-чан!\nСпасибо, что пришли!""
-r:"^Oh\, it\'s (.+?)\-kun\! Woof\! Woof\! Hooray\!$"="r:"^Oh,\ it's\ (.+?)\-kun!\ Woof!\ Woof!\ Hooray!$"\="О, это $1-кун! Гав! Гав! Ура!""
 Oh, Master... Um, actually, the girl who has\nthe key to the caf├й hasn't come back...=О, Мастер... Эм, на самом деле, девочка, у которой есть ключ от кафе, еще не вернулась...
 Oh, okay... So this must be...=О, хорошо... Значит, это должно быть...
 Oh, ready to challenge our caf├й's mission?=О, готов бросить вызов миссии нашего кафе?
@@ -1578,8 +1552,6 @@ Oh, thank you, thank you. So, here. This is\nfor you.=О, спасибо, спа
 Oh, that wasn't coming from me, okay? It's\nwhat Shichi-kun said yesterday!=О, это не от меня, ладно? Это то, что сказал Шичи-кун вчера!
 Oh, the pink cream soda... I can do that.=О, розовая крем-сода... Я смогу это сделать.
 Oh, there's the message! We must be close to\nthe goal now, huh?=О, вот и сообщение! Мы, должно быть, близки к цели сейчас, а?
-r:"^Oh\, uh\.\.\. (.+?)\-kun\, could you show her\nwhat you took\?$"="r:"^Oh,\ uh\.\.\.\ (.+?)\-kun,\ could\ you\ show\ her\\nwhat\ you\ took\?$"\="О, эээ... $1-кун, можешь показать ей что ты взял?""
-r:"^Oh\, um\.\.\. Are you one of (.+?)\'s friends\?\nI\'m\.\.\.$"="r:"^Oh,\ um\.\.\.\ Are\ you\ one\ of\ (.+?)'s\ friends\?\\nI'm\.\.\.$"\="О, эм... Ты один из друзей $1?\nЯ...""
 Oh, um... This is for you...=О, эм... Это для тебя...
 Oh, we done already?=О, мы уже закончили?
 Oh, welcome home, Master!=О, с возвращением, Мастер!
@@ -1588,8 +1560,6 @@ Oh, whoopsie! I'm so used to looking at\nfaces for this job.=О, упс! Я та
 Oh, yeah! That's it!=О, да! Вот оно!
 Oh, yes, of course!=О, да, конечно!
 Oh, you're back!=О, ты вернулся!
-r:"^Oh\, (.+?)\-kun\! That\'s my buddy for you\,\nalways ready to help\.$"="r:"^Oh,\ (.+?)\-kun!\ That's\ my\ buddy\ for\ you,\\nalways\ ready\ to\ help\.$"\="О, $1-кун! Это мой друг,\nвсегда готовый помочь.""
-r:"^Oh\, (.+?)\-kun\.\.\. Sorry\, are you free\?$"="r:"^Oh,\ (.+?)\-kun\.\.\.\ Sorry,\ are\ you\ free\?$"\="О, $1-кун... Извини, ты свободен?""
 Oh... But, I really did want that Queue of\n100 Demons, too...=О... Но я действительно хотела этот Очередь из 100 Демонов, тоже...
 Oh... Find it yet?=О... Нашел это?
 Oh... Hearing all this praise... I could get\nused to this...=О... Слыша все эти похвалы... Я могла бы привыкнуть к этому...
@@ -1601,7 +1571,6 @@ Oh... R-Really?=О... Р-Действительно?
 Okay then! To Shinjuku we go go!=Хорошо тогда! В Шинджуку мы идем!
 Okay! I'll tell Shichi-kun VI\nthen! I'd love to come with\nand hang out too.=Хорошо! Я скажу Шичи-кун VI тогда! Я с радостью присоединюсь и повешу с вами.
 Okay! Keep going until we get it!=Хорошо! Продолжай, пока не добьемся успеха!
-r:"^Okay\! Let\'s do it\, (.+?)\-kun\!$"="r:"^Okay!\ Let's\ do\ it,\ (.+?)\-kun!$"\="Хорошо! Давай сделаем это, $1-кун!""
 Okay! Then I'm gonna do my very best to make\nMaster happy!=Хорошо! Тогда я сделаю все возможное, чтобы сделать Мастера счастливым!
 Okay! This is the home stretch! Let's do it!=Хорошо! Это финишная прямая! Давайте сделаем это!
 Okay, but... I'm serious, please don't do\nanything crazy!=Хорошо, но... Я серьезен, пожалуйста, не делай ничего безумного!
@@ -1666,7 +1635,6 @@ Phantom Idol Comeback Contract=Контракт на возвращение Фа
 Phantom Thieves who share the same attribute can create a Flames of Desire effect, boosting the stats of the whole party. Runa can decrease foes' Defense and inflict debuffs to increase their Fire damage taken. Also, by inflicting Burn, Ann can gain La Vie en Rose faster.=Фантомные воры, обладающие одинаковыми атрибутами, могут создать эффект Пламени Желания, увеличивая характеристики всей группы. Руна может уменьшить защиту врагов и наложить дебафы, чтобы увеличить получаемый ими урон от Огня. Кроме того, нанося Ожог, Анн может быстрее получить La Vie en Rose.
 Pharaoh's Epitaph=Эпитафия Фараона
 Phew! That was a big surprise.=Фух! Это было большим сюрпризом.
-r:"^Phew\, that\'s a relief\, huh\? Now\, let\'s return\nto our mission\, (.+?)\-kun\!$"="r:"^Phew,\ that's\ a\ relief,\ huh\?\ Now,\ let's\ return\\nto\ our\ mission,\ (.+?)\-kun!$"\="Фух, каково облегчение, а? Теперь вернёмся к нашей миссии, $1-кун!""
 Phew... So relaxing...=Фух... Так расслабляет...
 Pink Flamingo=Розовый фламинго
 Pixie=Пикси
@@ -1675,7 +1643,6 @@ Playing Crane Games=Играем в краны
 Please accept my deepest apologies!=Пожалуйста, примите мои самые глубокие извинения!
 Please complete the other Treasure Hunt missions first.=Пожалуйста, сначала завершите другие задания Охоты за Сокровищами.
 Please enjoy the crane games.=Пожалуйста, наслаждайтесь играми в краны.
-r:"^Please invite me out again\, (.+?)\-kun\!$"="r:"^Please\ invite\ me\ out\ again,\ (.+?)\-kun!$"\="Пожалуйста, пригласите меня снова, $1-кун!""
 Plum Branch Parasol=Зонтик из цветущей сливы
 Plum Petal Spines=Шипы цветков сливы
 Plus, he admitted throwing all his work onto\nRiko-senpai. Sounds like the teachers are\npretty busy now!=Плюс, он признал, что свалил всю свою работу на Рико-сенпай. Звучит так, будто учителя теперь очень заняты!
@@ -1850,7 +1817,6 @@ Season 3 <size\=40>on Now</size>!=Сезон 3 <size\=40>в эфире</size>!
 Secondh<#000000,a,#FFFFFF>nd Shop Clerk=Продавец во втором<h<#000000,a,#FFFFFF>ом магазине
 See you again in Shibuya some\nnight! Woof! Woof! Hooray!=Увидимся снова в Сибуе какой-нибудь ночью! Гав! Гав! Ура!
 See You in the Square!=Увидимся на площади!
-r:"^See you\, (.+?)\-kun\! Say hi if you\'re\nin Shibuya\!$"="r:"^See\ you,\ (.+?)\-kun!\ Say\ hi\ if\ you're\\nin\ Shibuya!$"\="Пока, $1-кун! Поздоровайся, если ты\nв Сибуе!""
 Seems like there's a girl picking up trash around Shibuya Station Square... Maybe I should go and see her.=Кажется, там девушка собирает мусор около площади станции Сибуя... Может, мне стоит подойти и посмотреть на неё.
 Seems they've taken a liking\nto me...=Похоже, они проявили ко мне симпатию...
 Select <color\=#ff3b37>Confirm</color>.=Выберите <color\=#ff3b37>Подтвердить</color>.
@@ -1954,7 +1920,6 @@ Slack Off,Promotion,Work,Holiday=Отдых, Продвижение, Работ�
 Sleep=Спать
 Slime=Слайм
 Slime's Rage=Ярость слизи
-r:"^Small \((.+?)\)$"="Маленький ($1)"
 Small human-like creatures that have kind, calm personalities. Once coexisting with the Ainu people of Japan, there was a falling out at some point, and they disappeared.=Маленькие человекоподобные существа с добрым и спокойным нравом. Когда-то сосуществовали с айнами Японии, но после разногласий исчезли.
 So actually, our shop is part of the puzzle-\nsolving event too, so all the staff is\ngetting involved.=На самом деле, наш магазин тоже часть мероприятия по решению головоломок, так что весь персонал участвует.
 So first, we've gotta find the registration.\nLet's see, where is it...=Сначала нам нужно найти регистрацию. Давайте посмотрим, где она...
@@ -2106,7 +2071,6 @@ Thanks so much for today. It wouldn't have\nbeen nearly as much fun by myself!=�
 Thanks so much! So then, I'll explain the\nevent for you.=Большое спасибо! Итак, я расскажу тебе о мероприятии.
 Thanks! It's nothing big, honestly, but...=Спасибо! Это не так уж и важно, честно говоря, но...
 Thanks, you two... You really helped me out!=Спасибо, вы двое... Вы действительно мне помогли!
-r:"^Thanks\, (.+?)\-kun\. It\nreally helps to hear you say that\.\.\.$"="r:"^Thanks,\ (.+?)\-kun\.\ It\\nreally\ helps\ to\ hear\ you\ say\ that\.\.\.$"\="Спасибо, $1-кун. На самом деле, очень приятно это слышать...""
 Thanks. Here, you can have this.=Спасибо. Вот, возьми это.
 Thanks. It should be at the shop already.=Спасибо. Оно уже должно быть в магазине.
 Thanks... It's about Kichijoji George.=Спасибо... Это о Джордже из Кичидзёдзи.
@@ -2133,7 +2097,6 @@ That's odd... It's not here... I was sure\nthey'd have it.=Это странно
 That's okay, we can do it!=Все в порядке, мы можем это сделать!
 That's quite the prize.\nYou ought to put it up\nfor display at home.=Это довольно приз. Тебе стоит выставить его на показ дома.
 That's right! Everyone's number-one fave,\nNarumi Nashimoto, NaruruтЩк=Верно! Любимец номер один у всех, Наруми Насимото, Наруру
-r:"^That\'s right\! This is the con caf├й where I\nwork\. (.+?)\-kun is one of our regulars$"="r:"^That's\ right!\ This\ is\ the\ con\ caf├й\ where\ I\\nwork\.\ (.+?)\-kun\ is\ one\ of\ our\ regulars$"\="Верно! Это кафе, где я работаю. $1-кун один из наших постоянных клиентов""
 That's right!тЩк Congratulations, you two!=Верно! Поздравляю вас двоих!
 That's right, Mr. G!=Верно, мистер Г!
 That's right. All of our house's staff have\ncontributed to help revitalize Akihabara.=Верно. Весь персонал нашего дома внес свой вклад, чтобы помочь восстановить Акихабару.
@@ -2213,7 +2176,6 @@ There's a hole in Shichi-kun's\ncostume!=В костюме Сити-куна е�
 There's an event going on at the concept caf├й in Akihabara today. Maybe I should help out...=Сегодня в концепт-кафе в Акихабаре проходит какое-то мероприятие. Может, мне стоит помочь...
 There's an important message written on it...=На нём написано важное сообщение...
 There's apparently a drink called 1UP that's exclusive to Akihabara. Let's look for it in the vending machines.=Существует напиток под названием 1UP, который эксклюзивен для Акихабары. Давайте поищем его в автоматах с напитками.
-r:"^There\'s just a bit left\, so we\'ve gotta make\nit to the goal\! (.+?)\-kun\, let\'s do this\!$"="r:"^There's\ just\ a\ bit\ left,\ so\ we've\ gotta\ make\\nit\ to\ the\ goal!\ (.+?)\-kun,\ let's\ do\ this!$"\="Осталось совсем немного, так что нам нужно добраться до цели! $1-кун, давай сделаем это!""
 There's lots of fancy stores down in the\nunderground mall, but I think this feels\nmore like Shibuya.=В подземном торговом центре много модных магазинов, но мне кажется, что это больше похоже на Сибую.
 There's no choice but to use\nthe very first prototype:\nNo. 0.=Нет выбора, кроме как использовать самую первую модель: Номер 0.
 There's no turning back now...=Пути назад нет...
@@ -2269,7 +2231,6 @@ To get the keyword, we'll\nhave to grab a prize...=Чтобы получить �
 To my... extreme... irritation... For some\nreason, you ignored my bait and came\nafter me instead!=К моему... крайнему... раздражению... По какой-то причине, ты проигнорировал мою приманку и пошел за мной вместо этого!
 Today was busy, but I'm sure you learned\nmuch from your hardworking coworkers'\nexample.=Сегодня было занято, но я уверен, что ты научился многому от примера своих трудолюбивых коллег.
 Today you can focus on cleaning the kitchen,\n'kay? Thank you!=Сегодня ты можешь сосредоточиться на уборке кухни, ладно? Спасибо!
-r:"^Today\'s limited item is a (.+?)\.\nWould you like to try it out\?$"="Сегодняшний лимитированный предмет — это $1. Ты хочешь попробовать его?"
 Today's trivia is... the secret\nbehind Shichi-kun's origins!=Сегодняшняя викторина... секрет происхождения Сичи-куна!
 Today, as always, Petit is gonna do her\nabsolute best to take good care\nof Master!=Сегодня, как всегда, Пити постарается изо всех сил позаботиться о Мастере!
 Tokobushiya=Токобусия
@@ -2301,7 +2262,6 @@ Ugh, guys like you are just...! Really!?=Ух, такие парни, как т�
 Uh, are you sure? That doesn't sound right.=Эм, ты уверен? Это не звучит правильно.
 Uh, what were those magic words again...?=Эм, какие были те волшебные слова снова...?
 Uh... Not yet! We'll head right over!=Эм... Пока нет! Мы сразу пойдём!
-r:"^Uhhh\.\.\. (.+?)\-kun\, you handle this\!$"="r:"^Uhhh\.\.\.\ (.+?)\-kun,\ you\ handle\ this!$"\="Эээ... $1-кун, ты справишься с этим!""
 Um, not yet...=Эм, пока нет...
 Um... Did you decide what to order?=Эм... Ты решил, что заказать?
 Um... Hoo...?=Эм... Хо...?
@@ -2310,7 +2270,6 @@ Um.... Master, are you mad at me? Is there\nanything I could do for you to forgi
 Um...?=Эм...?
 Umm, I don't really know how to talk to\nhim... He's a bit scary...=Эм, я не совсем знаю, как с ним разговаривать... Он немного страшный...
 Umm, it's some capsule toys...=Эм, это какие-то капсульные игрушки...
-r:"^Umm\, (.+?)\-kun\? You know if you don\'t say\nit with me\, I\'m gonna cry\?$"="r:"^Umm,\ (.+?)\-kun\?\ You\ know\ if\ you\ don't\ say\\nit\ with\ me,\ I'm\ gonna\ cry\?$"\="Эм, $1-кун? Ты знаешь, если ты не скажешь\nэто вместе со мной, я заплачу?""
 Umm... I guess... This also counts as a date?=Эм... Я думаю... Это тоже считается свиданием?
 Unable to act.=Неспособен действовать.
 Unbreakable Vow=Неразрывная клятва
@@ -2420,9 +2379,7 @@ Whaaat!? Really!?=Что!? Серьёзно!?
 Whaaat? Well, if you say so! Time for an\nencore!=Что? Ну, если вы так говорите! Время для аншлага!
 Whaaat? You wanna go out there in my place?=Чтооо? Ты хочешь выйти вместо меня?
 What a wondrous place... A second Shibuya...\nThe land my heart yearns for...=Какое чудесное место... Второе Сибуя...\ Земля, к которой стремится моё сердце...
-r:"^What are you thinking\, (.+?)\-kun\?$"="r:"^What\ are\ you\ thinking,\ (.+?)\-kun\?$"\="О чём ты думаешь, $1-кун?""
 What do you mean!? If I'm not with you, I'll\nprobably look super suspicious going around\non my own!=Что ты имеешь в виду!? Если я не с тобой, я\ наверняка буду выглядеть супер подозрительно, гуляя\ один!
-r:"^What do you think would be a good flavor for\nShichi\-kun ramen\, (.+?)\-kun\?$"="r:"^What\ do\ you\ think\ would\ be\ a\ good\ flavor\ for\\nShichi\-kun\ ramen,\ (.+?)\-kun\?$"\="Какой вкус, по твоему мнению, подойдёт для\\nрамена Шичи-куна, $1-кун?""
 What if the suit came off!?\nThat'd be dangerous in so many\nways!=А что если костюм снимется!?\ Это будет опасно во многих\ смыслах!
 What is it? Oh, it's you two! Did you get\na photo?=Что случилось? О, это вы двое! Вы сделали\ фото?
 What shall we do? Should we head back?=Что мы будем делать? Вернёмся назад?
@@ -2466,7 +2423,6 @@ Whoa, amazing! You can really feel the charm\nof Akihabara here!=Ух ты, по
 Whoa, he's so intense!=Ух ты, он такой интенсивный!
 Whoa, WHOA! This is such a cute caf├й... No,\nit's more like a mansion...?=Ух ты, УХ ТЫ! Это такой милый каф├й... Нет, это больше похоже на особняк...?
 Whoops! Too bad, that's not it...=Ой! Жаль, это не то...
-r:"^Whoops\, guess we\'ve gotta keep looking\.\.\.\nDon\'t give up\, (.+?)\-kun\!$"="r:"^Whoops,\ guess\ we've\ gotta\ keep\ looking\.\.\.\\nDon't\ give\ up,\ (.+?)\-kun!$"\="Ой, похоже, нам нужно продолжать искать...\nНе сдавайся, $1-кун!""
 Win a total of 5 plushies from the crane game.=Выиграйте в общей сложности 5 игрушек из игры с краном.
 Win within 33 actions,Win within 26 actions,Win within 20 actions=Победите за 33 действия, Победите за 26 действий, Победите за 20 действий
 Win within 39 actions,Win within 33 actions,Win within 26 actions=Победите за 39 действий, Победите за 33 действия, Победите за 26 действий
@@ -2494,7 +2450,6 @@ Woof! Woof! Hooray!\nHey, are you free right now?=Гав! Гав! Ура! Эй, 
 Woof... Woof... Hooray!=Гав... Гав... Ура!
 Woohoo! It's a mission!=Ура! Это миссия!
 Woohoo! Thanks! It would've been so lonely\non my own.=Ура! Спасибо! Мне было бы так одиноко самой.
-r:"^Woohoo\! You got it\! You\'re amazing\,\n(.+?)\-kun\!$"="r:"^Woohoo!\ You\ got\ it!\ You're\ amazing,\\n(.+?)\-kun!$"\="Ура! Ты справился! Ты удивителен,\n$1-кун!""
 Work at the concept caf├й=Работать в концепт-кафе
 Workbench=Верстак
 Would you like to spend time with Runa?=Хочешь провести время с Руной?
@@ -2536,7 +2491,6 @@ Yeah... It was a lot tougher than I expected!\nBut totally worth it!=Да... Э�
 Yellow Dino=Желтый Дино
 Yellow Flamingo=Желтая Фламинго
 Yellow Goose=Желтая Гусь
-r:"^Yep\! We got them\, right\, (.+?)\-kun\?$"="r:"^Yep!\ We\ got\ them,\ right,\ (.+?)\-kun\?$"\="Да! Мы их получили, верно, $1-кун?""
 Yep. I stuffed it all full of cotton and my\nlove for Shichi-kun!=Да. Я заполнил его целиком ватой и своей любовью к Шичи-кун!
 Yes! Let's keep it up! On to the\nnext mission!=Да! Давайте продолжим! Вперёд к следующей миссии!
 Yes! This was another of your missions!тЩк=Да! Это была ещё одна из ваших миссий!
@@ -2604,34 +2558,18 @@ You'll get a keyword as a bonus!=Вы получите ключевое слов
 You'll probably end up with fans of your\nown! Hehehe!=У вас, вероятно, появятся свои фанаты! Хехехе!
 You're a pretty weird guy,\nyou know?=Вы довольно странный парень, знаете ли вы?
 You're almost there, so keep it up!=Вы почти на финише, так что продолжайте в том же духе!
-r:"^You\'re already plenty strong\,\n(.+?)\-kun\! But thank you\.$"="r:"^You're\ already\ plenty\ strong,\\n(.+?)\-kun!\ But\ thank\ you\.$"\="Вы уже достаточно сильны,\n$1-кун! Но спасибо.""
 You're giving them... Huh?=Вы им даете... Хм?
 You're one of my few precious\nfriends.=Вы один из моих немногих драгоценных друзей.
 You're probably right. This must be the real\nfinal challenge!=Вы, вероятно, правы. Это должно быть настоящее финальное испытание!
 You're right... If only I could have fun like\nI did back then...=Вы правы... Если бы я только мог веселиться так, как тогда...
 You're wearing masks, but it's you all,\nisn't it...? I'll see you at school.=Вы носите маски, но это все вы, не так ли...? Увидимся в школе.
 You've done so much for me, so I can't just\nkeep feeling down like this.=Вы сделали для меня так много, так что я не могу просто продолжать грустить.
-r:"^You\'ve got this\, (.+?)\-kun\!$"="r:"^You've\ got\ this,\ (.+?)\-kun!$"\="У вас все получится, $1-кун!""
 You<#000000,n,#FFFFFF>g Passerby=Вы<#000000,n,#FFFFFF>г Прохожий
 Your changes have not been saved. Are you sure you want to quit?=Ваши изменения не были сохранены. Вы уверены, что хотите выйти?
 Your turn... YOU'RE NEXT! Time for you ALL\nto DIIIEEE!=Ваша очередь... ВЫ СЛЕДУЕТЕ! Время для всех вас УМРЕТЬ!
 Yui & Runa Dogenzaka=Юи и Руна Догензака
 Yurlungur=Юрлунгур
 Zoshigaya & Yongen-Jaya Coupon=Купон Зошигайя и Ёнген-Дзя
-r:"^(.+?)\-kun\! Glad you\'re here\!$"="r:"^(.+?)\-kun!\ Glad\ you're\ here!$"\="$1-кун! Рад, что ты здесь!""
-r:"^(.+?)\-kun\! I have a favor\nto ask\!$"="r:"^(.+?)\-kun!\ I\ have\ a\ favor\\nto\ ask!$"\="$1-кун! У меня есть просьба, которую\nнужно выполнить!""
-r:"^(.+?)\-kun\, could you come with me and\ntalk to that lady over there\?$"="r:"^(.+?)\-kun,\ could\ you\ come\ with\ me\ and\\ntalk\ to\ that\ lady\ over\ there\?$"\="$1-кун, не мог бы ты пойти со мной и\nпоговорить с той дамой вон там?""
-r:"^(.+?)\-kun\, don\'t tell me\.\.\. You\'re not\ngoing to do anything dangerous\, are you\?$"="r:"^(.+?)\-kun,\ don't\ tell\ me\.\.\.\ You're\ not\\ngoing\ to\ do\ anything\ dangerous,\ are\ you\?$"\="$1-кун, не говори мне... Ты не\nсобираешься делать ничего опасного, верно?""
-r:"^(.+?)\-kun\, isn\'t she\.\.\.\?$"="r:"^(.+?)\-kun,\ isn't\ she\.\.\.\?$"\="$1-кун, разве она не...?""
-r:"^(.+?)\-kun\, let\'s go find that \\crimson\nland of amusement\\\"\!\"$"="r:"^(.+?)\-kun,\ let's\ go\ find\ that\ \\crimson\\nland\ of\ amusement\\\"!\"$"\="$1-кун, давай найдем эту \\"кровавую\nземлю развлечений\\"!\"""
-r:"^(.+?)\-kun\, look\! Over there\! Someone\'s\non the ground\!$"="r:"^(.+?)\-kun,\ look!\ Over\ there!\ Someone's\\non\ the\ ground!$"\="$1-кун, смотри! Вон там! Кто-то\nна земле!""
-r:"^(.+?)\-kun\, next time you come here\,\nplease bring me with you\.\.\.$"="r:"^(.+?)\-kun,\ next\ time\ you\ come\ here,\\nplease\ bring\ me\ with\ you\.\.\.$"\="$1-кун, в следующий раз, когда ты придешь сюда,\nпожалуйста, возьми меня с собой...""
-r:"^(.+?)\-kun\, Runa\-chan\! Welcome back\.\nIf you\'re here\, then that must mean\.\.\.$"="r:"^(.+?)\-kun,\ Runa\-chan!\ Welcome\ back\.\\nIf\ you're\ here,\ then\ that\ must\ mean\.\.\.$"\="$1-кун, Руна-чан! С возвращением.\nЕсли ты здесь, значит это означает...""
-r:"^(.+?)\-kun\, Runa\-chan\, congratulations\!\nYou were both great\!$"="r:"^(.+?)\-kun,\ Runa\-chan,\ congratulations!\\nYou\ were\ both\ great!$"\="$1-кун, Руна-чан, поздравляю!\nВы оба были великолепны!""
-r:"^(.+?)\-kun\, that man over there sounds\nlike he\'s muttering something\.\.\.$"="r:"^(.+?)\-kun,\ that\ man\ over\ there\ sounds\\nlike\ he's\ muttering\ something\.\.\.$"\="$1-кун, тот человек вон там кажется,\nчто-то бормочет...""
-r:"^(.+?)\-kun\, y\-you\.\.\. you\'re friends with\nher\!\? You\'re friends with a MAID\!\?$"="r:"^(.+?)\-kun,\ y\-you\.\.\.\ you're\ friends\ with\\nher!\?\ You're\ friends\ with\ a\ MAID!\?$"\="$1-кун, ты... ты дружишь с\nней!? Ты дружишь с ДВОРЯНКОЙ!?""
-r:"^(.+?)\-kun\, you\'re really good at solving\nthese\. Hope I wasn\'t dragging you down\.\.\.$"="r:"^(.+?)\-kun,\ you're\ really\ good\ at\ solving\\nthese\.\ Hope\ I\ wasn't\ dragging\ you\ down\.\.\.$"\="$1-кун, ты действительно хорошо справляешься\nс этим. Надеюсь, я не тянул тебя вниз...""
-r:"^(.+?)\-kun\.\.\.\!$"="r:"^(.+?)\-kun\.\.\.!$"\="$1-кун...!""
 • Available upon obtaining Runa.=• Доступно после получения Руна.
 • Get Runa's Rating to 100 points.=• Достигните Рейтинга Руна в 100 очков.
 • Get Runa's Rating to 60 points.=• Достигните Рейтинга Руна в 60 очков.
@@ -2970,3 +2908,68 @@ You're wrong!=Вы ошибаетесь!
 It's okay to trust someone!=Доверять кому-то — это нормально!
 Your blinds you to reality.=Твоя слепота мешает видеть реальность.
 No one is meant to be prey.=Никто не должен быть добычей.
+
+
+
+r:"^Add New \((.+?)/(.+?)\)$"="Добавить новое ($1/$2)"
+r:"^Ah,\ (.+?)\-kun!\ For\ today's\ activities\.\.\.$"\="Ах, $1-кун! Для сегодняшних мероприятий..."
+r:"^Ah,\ (.+?)\-kun!\ Good\ evening\.$"\="Ах, $1-кун! Добрый вечер."
+r:"^Ah,\ (.+?)\-kun!\ Hey,\ are\ you\ free\?$"\="Ах, $1-кун! Привет, ты свободен?"
+r:"^But,\ um,\ (.+?)\-kun,\ I\.\.\.$"\="Но, эм, $1-кун, я..."
+r:"^Ends in\: (.+?)$"="Заканчивается на: $1"
+r:"^Good\ morning,\ (.+?)\-kun!\ Today's\ another\\nevent\ day!$"\="Доброе утро, $1-кун! Сегодня снова\nдень мероприятий!"
+r:"^Grab (.+?) x (.+?)$"="Схватить $1 x $2"
+r:"^Hey,\ look,\ (.+?)\-kun\.\ Doesn't\ that\ girl\\nseem\ kinda\ sad\?$"\="Привет, смотри, $1-кун. Эта девочка не кажется немного грустной?"
+r:"^Hey,\ (.+?)\-kun!\ I'm\ so\ glad\ you're\ here\.$"\="Привет, $1-кун! Я так рада, что ты здесь."
+r:"^Hey,\ (.+?)\-kun\.\ It\ looks\ like\ that\ maid\\nis\ in\ trouble\.\.\.$"\="Привет, $1-кун. Похоже, что эта горничная\nв беде..."
+r:"^Hey,\ (.+?)\-kun\.\ Those\ people\ just\ now,\\nthey're\ talking\ about\ Shichi\-kun,\ right\?$"\="Привет, $1-кун. Те люди только что\nговорили о Сити-куне, верно?"
+r:"^Hmm,\ what\ should\ I\ order\ this\ time\.\.\.\ Did\ you\\ndecide\ already,\ (.+?)\-kun\?$"\="Хм, что мне заказать на этот раз... Ты\nуже решил, $1-кун?"
+r:"^Huh\?\ Oh\.\.\.\ Really!\?\ Thanks,\ (.+?)\-kun!$"\="Что? Ох... Правда!? Спасибо, $1-кун!"
+r:"^I\ expected\ nothing\ less,\\n(.+?)\-kun!\ Common\ knowledge\\nfor\ Shibuya\ friends\ like\ us!$"\="Я и не ожидал иного,\n$1-кун! Общее знание\nдля друзей из Сибуи, как мы!"
+r:"^I\ knew\ you'd\ say\ yes!\ You\ really\ are\ the\ best\\nShibuya\ friend,\ (.+?)\-kun\.$"\="Я знал, что ты скажешь \"да\"! Ты действительно лучший\nдруг в Шибуе, $1-кун."
+r:"^I'll\ leave\ the\ ordering\ to\ you,\ (.+?)\-kun\.\.\.!$"\="Я оставлю заказ за тобой, $1-кун...!"
+r:"^It\ feels\ so\ good\ to\ hear\ that!\ I'm\\nso\ happy,\ (.+?)\-kun\.$"\="Как приятно это слышать! Я\nтак счастлива, $1-кун."
+r:"^Large \((.+?)\)$"="Большой ($1)"
+r:"^Let's\ do\ it,\ (.+?)\-kun!$"\="Давайте сделаем это, $1-кун!"
+r:"^Look,\ (.+?)\-kun\.\ That\ woman\ seems\ a\\nlittle\ suspicious,\ don't\ you\ think\?$"\="Смотри, $1-кун. Эта женщина выглядит\nнемного подозрительно, не так ли?"
+r:"^Med\. \((.+?)\)$"="Мед. ($1)"
+r:"^N\-Not\ yet\.\.\.\ Let's\ keep\ trying,\\n(.+?)\-kun!$"\="Н-Еще нет... Давайте продолжим пытаться,\n$1-кун!"
+r:"^Na\.\.\.\ Naruru!\?\ (.+?)\-kun\.\.\.\ Are\ you\\nfriends\ with\ her!\?$"\="На... Наруру!? $1-кун... Ты\nдрузья с ней!?"
+r:"^Oh,\ it's\ (.+?)\-kun\ and\ Runa\-chan!\\nThanks\ for\ coming!$"\="О, это $1-кун и Руна-чан!\nСпасибо, что пришли!"
+r:"^Oh,\ it's\ (.+?)\-kun!\ Woof!\ Woof!\ Hooray!$"\="О, это $1-кун! Гав! Гав! Ура!"
+r:"^Oh,\ uh\.\.\.\ (.+?)\-kun,\ could\ you\ show\ her\\nwhat\ you\ took\?$"\="О, эээ... $1-кун, можешь показать ей что ты взял?"
+r:"^Oh,\ um\.\.\.\ Are\ you\ one\ of\ (.+?)'s\ friends\?\\nI'm\.\.\.$"\="О, эм... Ты один из друзей $1?\nЯ..."
+r:"^Oh,\ (.+?)\-kun!\ That's\ my\ buddy\ for\ you,\\nalways\ ready\ to\ help\.$"\="О, $1-кун! Это мой друг,\nвсегда готовый помочь."
+r:"^Oh,\ (.+?)\-kun\.\.\.\ Sorry,\ are\ you\ free\?$"\="О, $1-кун... Извини, ты свободен?"
+r:"^Okay!\ Let's\ do\ it,\ (.+?)\-kun!$"\="Хорошо! Давай сделаем это, $1-кун!"
+r:"^Phew,\ that's\ a\ relief,\ huh\?\ Now,\ let's\ return\\nto\ our\ mission,\ (.+?)\-kun!$"\="Фух, каково облегчение, а? Теперь вернёмся к нашей миссии, $1-кун!"
+r:"^Please\ invite\ me\ out\ again,\ (.+?)\-kun!$"\="Пожалуйста, пригласите меня снова, $1-кун!"
+r:"^See\ you,\ (.+?)\-kun!\ Say\ hi\ if\ you're\\nin\ Shibuya!$"\="Пока, $1-кун! Поздоровайся, если ты\nв Сибуе!"
+r:"^Small \((.+?)\)$"="Маленький ($1)"
+r:"^Thanks,\ (.+?)\-kun\.\ It\\nreally\ helps\ to\ hear\ you\ say\ that\.\.\.$"\="Спасибо, $1-кун. На самом деле, очень приятно это слышать..."
+r:"^That's\ right!\ This\ is\ the\ con\ caf├й\ where\ I\\nwork\.\ (.+?)\-kun\ is\ one\ of\ our\ regulars$"\="Верно! Это кафе, где я работаю. $1-кун один из наших постоянных клиентов"
+r:"^There's\ just\ a\ bit\ left,\ so\ we've\ gotta\ make\\nit\ to\ the\ goal!\ (.+?)\-kun,\ let's\ do\ this!$"\="Осталось совсем немного, так что нам нужно добраться до цели! $1-кун, давай сделаем это!"
+r:"^Today\'s limited item is a (.+?)\.\nWould you like to try it out\?$"="Сегодняшний лимитированный предмет — это $1. Ты хочешь попробовать его?"
+r:"^Uhhh\.\.\.\ (.+?)\-kun,\ you\ handle\ this!$"\="Эээ... $1-кун, ты справишься с этим!"
+r:"^Umm,\ (.+?)\-kun\?\ You\ know\ if\ you\ don't\ say\\nit\ with\ me,\ I'm\ gonna\ cry\?$"\="Эм, $1-кун? Ты знаешь, если ты не скажешь\nэто вместе со мной, я заплачу?"
+r:"^What\ are\ you\ thinking,\ (.+?)\-kun\?$"\="О чём ты думаешь, $1-кун?"
+r:"^What\ do\ you\ think\ would\ be\ a\ good\ flavor\ for\\nShichi\-kun\ ramen,\ (.+?)\-kun\?$"\="Какой вкус, по твоему мнению, подойдёт для\\nрамена Шичи-куна, $1-кун?"
+r:"^Whoops,\ guess\ we've\ gotta\ keep\ looking\.\.\.\\nDon't\ give\ up,\ (.+?)\-kun!$"\="Ой, похоже, нам нужно продолжать искать...\nНе сдавайся, $1-кун!"
+r:"^Woohoo!\ You\ got\ it!\ You're\ amazing,\\n(.+?)\-kun!$"\="Ура! Ты справился! Ты удивителен,\n$1-кун!"
+r:"^Yep!\ We\ got\ them,\ right,\ (.+?)\-kun\?$"\="Да! Мы их получили, верно, $1-кун?"
+r:"^You're\ already\ plenty\ strong,\\n(.+?)\-kun!\ But\ thank\ you\.$"\="Вы уже достаточно сильны,\n$1-кун! Но спасибо."
+r:"^You've\ got\ this,\ (.+?)\-kun!$"\="У вас все получится, $1-кун!"
+r:"^(.+?)\-kun!\ Glad\ you're\ here!$"\="$1-кун! Рад, что ты здесь!"
+r:"^(.+?)\-kun!\ I\ have\ a\ favor\\nto\ ask!$"\="$1-кун! У меня есть просьба, которую\nнужно выполнить!"
+r:"^(.+?)\-kun,\ could\ you\ come\ with\ me\ and\\ntalk\ to\ that\ lady\ over\ there\?$"\="$1-кун, не мог бы ты пойти со мной и\nпоговорить с той дамой вон там?"
+r:"^(.+?)\-kun,\ don't\ tell\ me\.\.\.\ You're\ not\\ngoing\ to\ do\ anything\ dangerous,\ are\ you\?$"\="$1-кун, не говори мне... Ты не\nсобираешься делать ничего опасного, верно?"
+r:"^(.+?)\-kun,\ isn't\ she\.\.\.\?$"\="$1-кун, разве она не...?"
+r:"^(.+?)\-kun,\ let's\ go\ find\ that\ \\crimson\\nland\ of\ amusement\\\"!\"$"\="$1-кун, давай найдем эту \\"кровавую\nземлю развлечений\\"!\""
+r:"^(.+?)\-kun,\ look!\ Over\ there!\ Someone's\\non\ the\ ground!$"\="$1-кун, смотри! Вон там! Кто-то\nна земле!"
+r:"^(.+?)\-kun,\ next\ time\ you\ come\ here,\\nplease\ bring\ me\ with\ you\.\.\.$"\="$1-кун, в следующий раз, когда ты придешь сюда,\nпожалуйста, возьми меня с собой..."
+r:"^(.+?)\-kun,\ Runa\-chan!\ Welcome\ back\.\\nIf\ you're\ here,\ then\ that\ must\ mean\.\.\.$"\="$1-кун, Руна-чан! С возвращением.\nЕсли ты здесь, значит это означает..."
+r:"^(.+?)\-kun,\ Runa\-chan,\ congratulations!\\nYou\ were\ both\ great!$"\="$1-кун, Руна-чан, поздравляю!\nВы оба были великолепны!"
+r:"^(.+?)\-kun,\ that\ man\ over\ there\ sounds\\nlike\ he's\ muttering\ something\.\.\.$"\="$1-кун, тот человек вон там кажется,\nчто-то бормочет..."
+r:"^(.+?)\-kun,\ y\-you\.\.\.\ you're\ friends\ with\\nher!\?\ You're\ friends\ with\ a\ MAID!\?$"\="$1-кун, ты... ты дружишь с\nней!? Ты дружишь с ДВОРЯНКОЙ!?"
+r:"^(.+?)\-kun,\ you're\ really\ good\ at\ solving\\nthese\.\ Hope\ I\ wasn't\ dragging\ you\ down\.\.\.$"\="$1-кун, ты действительно хорошо справляешься\nс этим. Надеюсь, я не тянул тебя вниз..."
+r:"^(.+?)\-kun\.\.\.\!$"="r:"^(.+?)\-kun\.\.\.!$"\="$1-кун...!"
