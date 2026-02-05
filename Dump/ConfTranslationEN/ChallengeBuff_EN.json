@@ -93,5 +93,35 @@
     "sn": "18",
     "buffName": "Magma Eruption",
     "buffDesc": "At the start of the foe's turn, inflict Dissolution, increasing final damage taken. Increase is equal to 25% of the ailment accuracy of the ally with the highest ailment accuracy, up to 40%."
+  },
+  {
+    "sn": "19",
+    "buffName": "(SB)Critical Focus",
+    "buffDesc": "Increase highlight final damage by 40% and Resonance final damage by 30%."
+  },
+  {
+    "sn": "20",
+    "buffName": "(SB)Soul Awakening",
+    "buffDesc": "(SB)For every 40 SP Phantom Thieves spend, gain 1 Original Instinct stack.\nEach time a highlight is activated, gain 2 Original Instinct stacks.\nOriginal Instinct: Increase final damage by 5% for each stack. Lasts for 2 turns. Stacks up to 8 times."
+  },
+  {
+    "sn": "21",
+    "buffName": "Dimensional Imitation",
+    "buffDesc": "Each time Phantom Thieves spend a total of 40 SP or deal weakness damage, all allies gain 1 Seal of Power stack.\nAdditionally, after dealing damage with a skill or Resonance, gain 1 Seal of Power stack.\nSeal of Power: Deal 5% final damage for each stack. Lasts for 2 turns. Stacks up to 8 times."
+  },
+  {
+    "sn": "22",
+    "buffName": "(SB)Abstract Laser",
+    "buffDesc": "(SB)At the start of each turn, gain 1 Cardiac Stimulation stack. Stacks up to 2 times. When using a melee attack or activating a Resonance, spend 1 Cardiac Stimulation stack.\nCardiac Stimulation: Increase the final damage of this attack by 40%."
+  },
+  {
+    "sn": "23",
+    "buffName": "(SB)Scorching Breath",
+    "buffDesc": "Each time a Technical is activated, all allies gain 1 Seal of Power stack.\nSeal of Power: Increase final damage by 20% for each stack. Lasts for 2 turns. Stacks up to 2 times."
+  },
+  {
+    "sn": "24",
+    "buffName": "(SB)Ancient Garb",
+    "buffDesc": "(SB)Each time a Technical is activated, gain 2 Furious Impulse stacks, and grant 1 Furious Impulse stack to all other allies.\nFurious Impulse: Increase final damage by 8% for each stack. Lasts for 2 turns. Stacks up to 5 times."
   }
 ]

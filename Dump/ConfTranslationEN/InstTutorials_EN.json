@@ -432,7 +432,7 @@
   {
     "sn": "514101",
     "title": "Special Effect",
-    "text": "Each turn, Shadows will focus their Death Stare on 1 random Phantom Thief.\nThey will prioritize attacking the Phantom Thief under the Death Stare."
+    "text": "Shadows have different weaknesses and resistances than normal.\nEach turn, Shadows will focus their Death Stare on 1 random Phantom Thief.\nThey will prioritize attacking the Phantom Thief under the Death Stare."
   },
   {
     "sn": "515101",
@@ -442,12 +442,22 @@
   {
     "sn": "517101",
     "title": "Special Effect",
-    "text": "1. Melchizedek gains 6 stacks of Divine Protection each turn, and each stack of Divine Protection decreases damage taken by 5%.\n2. Melchizedek loses 1 Divine Protection each time it takes damage from a skill or Resonance.\n3. When Melchizedek has lost all stacks of Divine Protection, all Phantom Thieves gain Divine Blessing, which increases their damage dealt."
+    "text": "Shadows have different weaknesses and resistances than normal.\n1. Melchizedek gains 6 stacks of Divine Protection each turn, and each stack of Divine Protection decreases damage taken by 5%.\n2. Melchizedek loses 1 Divine Protection each time it takes damage from a skill or Resonance.\n3. When Melchizedek has lost all stacks of Divine Protection, all Phantom Thieves gain Divine Blessing, which increases their damage dealt."
+  },
+  {
+    "sn": "519101",
+    "title": "Special Effects",
+    "text": "Baphomet will restore all Phantom Thieves' SP each turn, but also inflicts Demonic Curse on the Phantom Thief with the highest Attack, greatly decreasing their damage."
   },
   {
     "sn": "522101",
     "title": "Special Effects",
     "text": "1. At the start of battle, Lilith summons 4 servants.\nLilith and all servants are in the <color=#ff3b37>Soul Link</color> state.\nSoul Link: Distributes all damage received between all Shadows who share this condition, based on the percentage of their current HP.\n2. Each turn, Lilith grants 1 Cover of Night stack to all Shadows.\nCover of Night: Decrease final damage taken by 15% for each stack. Stacks up to 2 times.\n3. When a Shadow with Cover of Night is inflicted with an elemental ailment, remove 1 Cover of Night stack."
+  },
+  {
+    "sn": "523111",
+    "title": "Special Effect",
+    "text": "1. At the start of battle, Seiryu gains 2 Azure Scales stacks, and gains 1 more stack every turn. Each stack decreases final damage taken by 10%.\n2. When Seiryu takes weakness damage, it loses 1 Azure Scales stack.\n3. When Seiryu loses all Azure Scales stacks, all Phantom Thieves gain Seiryu's Might, increasing their final damage dealt."
   },
   {
     "sn": "539101",
@@ -1092,12 +1102,12 @@
   {
     "sn": "734111",
     "title": "Unique Shadow Abilities",
-    "text": "When Vishnu's HP falls below 90%/60% for the first time, it summons 2 Avatars.\nThe Avatars and Vishnu's main body are in the <color=#FF423F>Soul Link</color> state.\nSoul Link: Distributes all damage received between all Shadows who share this condition, based on the percentage of their current HP."
+    "text": "When Vishnu's HP falls below 90%/60% for the first time, it summons 2 other Vishnus.\nThe summoned Vishnus and the original are in the <color=#FF423F>Soul Link</color> state.\nSoul Link: Distributes all damage received between all Shadows who share this condition, based on the percentage of their current HP."
   },
   {
     "sn": "734611",
     "title": "Unique Shadow Abilities",
-    "text": "Vishnu's Avatars and its main body are in the <color=#FF423F>Soul Link</color> state.\nSoul Link: Distributes all damage received between all Shadows who share this condition, based on the percentage of their current HP."
+    "text": "Vishnu summons 4 other Vishnus. The summoned Vishnus are weaker than the original, and damage dealt to them is added to your score."
   },
   {
     "sn": "735111",
@@ -1142,7 +1152,12 @@
   {
     "sn": "741111",
     "title": "Unique Shadow Abilities",
-    "text": "When Oumitsunu takes damage from a skill, Highlight, or Resonance, the damage of the corresponding attribute increases by 6%.\nLasts for 3 turns. Stacks up to 8 times."
+    "text": "When Oumitsunu takes damage from a skill, Highlight, or Resonance, its damage taken from the corresponding attribute increases by 6%.\nLasts for 3 turns. Stacks up to 8 times."
+  },
+  {
+    "sn": "742111",
+    "title": "Unique Shadow Abilities",
+    "text": "(SB)Fafnir inflicts all Phantom Thieves with Fafnir's Curse.\nFafnir's Curse: Increase damage taken by 20%. Any time Thieves use Strategist, Medic, or Guardian skills, remove Fafnir's Curse and apply 1 Stack of Curse Rebound to Fafnir.\nCurse Rebound: Decrease Defense by 12%. Can stack up to 3 times. At 3 stacks, increase Highlight damage taken by 30%."
   },
   {
     "sn": "228011",
@@ -1230,6 +1245,16 @@
     "text": "1. White Rider will use <color=#FF423F>White Pestilence</color>.\nWhite Pestilence: All Phantom Thieves lose a certain amount of HP, and 3 random Phantom Thieves are inflicted with <color=#FF423F>Pestilence</color>, causing them to lose a certain amount of HP each turn.\nLasts for 3 turns and stacks up to 5 times.\n2. Red Rider will use <color=#FF423F>Red War</color>.\nRed War: Increases damage of all Shadows.\nIt also has a chance to inflict <color=#FF423F>Rage</color> on 2 random Phantom Thieves.\nLasts for 2 turns and can be stacked.\n3. Black Rider will use <color=#FF423F>Black Famine</color>.\nBlack Famine: Inflicts Famine on all targets, decreasing their Attack and increasing their SP cost.\nLasts for 1 turn and stacks up to 2 times.\n4. Pale Rider will use <color=#FF423F>Pale Death</color>.\nPale Death: Deals damage based on current HP percentage to 1 target, and inflicts <color=#FF423F>Despair</color>.\nLasts for 3 turns.\n5. Trumpeter cannot be targeted and will not attack. Trumpeter will use <color=#FF423F>Horn of the End</color> to instantly activate other Shadows' skills.\n6. If all other Shadows are defeated, Trumpeter will become targetable and begin preparing the <color=#FF423F>Horn of Ruin</color> for 2 turns.\nHorn of Ruin: Sacrifices self to resummon all defeated Shadows, greatly strengthening their abilities and dealing heavy damage to all Phantom Thieves."
   },
   {
+    "sn": "829761",
+    "title": "Unique Shadow Abilities",
+    "text": "1. Seiryu will inflict weakness to a target. If Seiryu is present when a target is downed, all Shadows gain 1 <color=#FF423F>Azure Storm</color> stack.\nAzure Storm: Increases damage. Stackable.\n2. Byakko will use <color=#FF423F>Byakko's Claw</color> and <color=#FF423F>Byakko's Fang</color>.\nByakko's Claw: Deals damage to 1 target and inflicts <color=#FF423F>Deep Wounds</color>. This effect deals damage over time.\nByakko's Fang: Deals damage to all targets and inflicts <color=#FF423F>Bite Marks</color>. This effect increases damage taken.\nIf both Deep Wounds and Bite Marks have been inflicted, Byakko will activate <color=#FF423F>Prey</color>, dealing heavy damage and inflicting <color=#FF423F>Despair</color> on the target.\n3. Suzaku will use <color=#FF423F>Suzaku's Pyre</color> and <color=#FF423F>Suzaku's Feathers</color>.\nSuzaku's Pyre: Inflicts all targets with Pyre, dealing continuous damage.\nSuzaku's Feathers: Makes 1 Shadow untargetable.\n4. Genbu will continuously grant stacks of <color=#FF423F>Black Tortoiseshell</color> to all Shadows.\nBlack Tortoiseshell: Decreases final damage taken. Stackable, but lowering Genbu's Down Points will remove 1 stack.\n5. When a Shadow is summoned, its corresponding Might is granted to all Shadows on the field. When a Shadow is defeated, the Shadows lose that Might and it is granted to all Phantom Thieves instead.\nSeiryu's Might: Increases weakness damage.\nByakko's Might: All-Out Attack power.\nSuzaku's Might: Increases final damage.\nGenbu's Might: Decreases final damage taken."
+  },
+  {
+    "sn": "829771",
+    "title": "Unique Shadow Abilities",
+    "text": "(SB)1. Seiryu will inflict weakness to a target. If Seiryu is present when a target is downed, all Shadows gain 1 <color=#FF423F>Azure Storm</color> stack.\nAzure Storm: Increases damage. Stackable.\n2. Byakko will use <color=#FF423F>Byakko's Claw</color> and <color=#FF423F>Byakko's Fang</color>.\nByakko's Claw: Deals damage to 1 target and inflicts <color=#FF423F>Deep Wounds</color>. This effect deals damage over time.\nByakko's Fang: Deals damage to all targets and inflicts <color=#FF423F>Bite Marks</color>. This effect increases damage taken.\nIf both Deep Wounds and Bite Marks have been inflicted, Byakko will activate <color=#FF423F>Prey</color>, dealing heavy damage and inflicting <color=#FF423F>Despair</color> on the target.\n3. Suzaku will use <color=#FF423F>Suzaku's Pyre</color> and <color=#FF423F>Suzaku's Feathers</color>.\nSuzaku's Pyre: Inflicts all targets with Pyre, dealing continuous damage.\nSuzaku's Feathers: Makes 1 Shadow untargetable.\n4. Genbu will continuously grant stacks of <color=#FF423F>Black Tortoiseshell</color> to all Shadows.\nBlack Tortoiseshell: Decreases final damage taken. Stackable, but lowering Genbu's Down Points will remove 1 stack.\n5. Kohryu continues to summon Seiryu, Byakko, Suzaku. and Genbu. When you defeat a Shadow, you will gain an ability corresponding to that Shadow.\nSeiryu defeated:  Increase weakness damage.\nByakko defeated: Increase All-Out Attack power\nSuzaku defeated: Increase final damage.\nGenbu defeated: Decrease final damage taken.\n6. When Kohryu's HP is high, up to 2 summoned Shadows can appear at the same time. When Kohryu's HP is low, up to 4 summoned Shadows can appear at the same time.\nWhen Kohryu's HP is very low, it will stop summoning Shadows and gather its power. It will then use Psycho Blast: Ultra on the next turn, dealing colossal Psychokinesis damage to all Phantom Thieves"
+  },
+  {
     "sn": "901311",
     "title": "Wraith of Envy",
     "text": "The Wraith of Envy and its eyes are in the <color=#FF423F>Soul Link</color> state.\nSoul Link: Distributes all damage received between all Shadows who share this condition, based on the percentage of their current HP.\nEach turn, the Wraith of Envy will lock on to 1 Phantom Thief, and deal heavy damage to that Phantom Thief on the next turn."
@@ -1295,6 +1320,21 @@
     "text": "8. After all Shadows have been defeated once, Trumpeter will enter its Dire state, sacrificing 50% of its own HP to revive the Shadows, and becoming invincible again.\nThe Shadows share a <color=#FF423F>Soul Link</color>, and once they are defeated, Trumpeter will lose its invincibility.\n9. When in its Dire state, Trumpeter does not spend Power of Ruin when it sounds the Horn of Ruin, but still gains additional effects based on the number of stacks.\nThe number of stacks of Power of Ruin will increase the damage of all Shadows."
   },
   {
+    "sn": "901611",
+    "title": "Onyx Yearbeast",
+    "text": "tdxct-[InstTutorials_text_901611]"
+  },
+  {
+    "sn": "901711",
+    "title": "Larimar Yearbeast",
+    "text": "tdxct-[InstTutorials_text_901711]"
+  },
+  {
+    "sn": "901811",
+    "title": "Amber Yearbeast",
+    "text": "tdxct-[InstTutorials_text_901811]"
+  },
+  {
     "sn": "902011",
     "title": "Dire Seth",
     "text": "Shadows have different weaknesses and resistances than normal.\n1. Seth controls day and night, and switches the status of Dazzling Daylight and Obscuring Darkness each turn.\n2. When Dazzling Daylight is active, final damage dealt by Isis and Horus increases by 25%, and their final damage taken decreases by 25%. When Obscuring Darkness is active, their final damage dealt decreases by 25%, and their final damage taken increases by 25%.\n3. When Dazzling Daylight is active, final damage dealt by Thoth and Anubis decreases by 25%, and their final damage taken increases by 25%. When Obscuring Darkness is active, their final damage dealt increases by 25%, and their final damage taken decreases by 25%.\n4. While Dazzling Daylight is active, Isis uses Diarama, healing the Shadow with the lowest HP percentage. Each turn, Isis grants Amulet of Rebirth to Seth. At 4 Amulet of Rebirth stacks, they are exchanged for 1 Power of Rebirth stack. When a Shadow with Power of Rebirth is at low HP, it spends 1 Power of Rebirth to restore 25% of its max HP.\n5. While Dazzling Daylight is active, Horus grants Sun God's Blessing to Seth every turn. At 4 Sun God's Blessing stacks, they are exchanged for 1 Sun God's Power stack. When a Shadow has Sun God's Power, its final damage dealt is increased by 20%.\n6. While Obscuring Darkness is active, Thoth alternates between using Wisdom Theurgy and Shield Theurgy.\nWisdom Theurgy: Select the Shadow with the lowest HP and change all of that target's affinities to Resist for 2 turns.\nShield Theurgy: Grant a shield to all allies for 2 turns.\n7. While Obscuring Darkness is active, Anubis inflicts Curse of Annihilation on 1 random Phantom Thief each turn, after which it inflicts it on the Phantom Thief with the most Curse of Annihilation stacks. Curse of Annihilation insta-kills when it reaches 4 stacks and can be prioritized for removal. When Anubis is defeated, it deals Curse damage to all Phantom Thieves.\n8. When at the verge of death, Seth will defeat all Shadows present and change to Dire Seth. When it does, if Horus is present, it will change to always Dazzling Daylight state and summon Isis and Horus. If Horus is not present, it will change to always Obscuring Darkness state and summon Thoth and Anubis."
@@ -1347,7 +1387,7 @@
   {
     "sn": "920911",
     "title": "Seaside Tomoko's Skills",
-    "text": "1. Seaside Tomoko has excellent <color=#FF423F>healing and attack</color> capabilities.\nAfter inflicting a certain number of <color=#FF423F>Sparks</color> on foes, she activates <color=#FF423F>Summer Reminiscence</color>, dealing damage to enemies while also healing allies.\nTeam up with allies who use <color=#FF423F>multi-target</color> or <color=#FF423F>multi-hit</color> attacks to build up Sparks quickly.\n2. She can increase her allies' <color=#FF423F>Attack</color> and <color=#FF423F>survivability</color>.\nShe can also reduce the damage dealt by enemies and increase their damage taken, giving her <color=#FF423F>excellent support capability</color>."
+    "text": "1. Seaside Tomoko has excellent <color=#FF423F>healing and attack</color> capabilities.\nAfter inflicting a certain number of <color=#FF423F>Sparks</color> on foes, she activates <color=#FF423F>Summer Reminiscence</color>, dealing damage to enemies while also healing allies.\nTeam up with allies who use <color=#FF423F>multi-target</color> or <color=#FF423F>multi-hit</color> attacks to build up <color=#FF423F>Sparks</color> quickly.\n2. She can increase her allies' <color=#FF423F>Attack</color> and <color=#FF423F>survivability</color>.\nShe can also reduce the damage dealt by enemies and increase their damage taken, giving her <color=#FF423F>excellent support capability</color>."
   },
   {
     "sn": "902331",
@@ -1450,6 +1490,21 @@
     "text": "Shadows have different weaknesses and resistances than normal.\n1. Horus is blessed by the Sun God, and at the end of each turn it gains 1 <color=#FF423F>Power of the Sun</color> stack.\nPower of the Sun: Decreases final damage taken by 20%.\n2. If Horus has Power of the Sun at the beginning of its turn, it deals heavy Almighty damage to all Phantom Thieves.\nDamage increases based on the number of Power of the Sun stacks.\n3. Kushi Mitama removes 1 Power of the Sun stack from Horus each turn. In exchange, it loses 34% of its max HP.\n4. Saki Mitama grants 1 Power of the Sun stack to Horus each turn. If it is defeated, Horus loses all Power of the Sun stacks.\n5. Saki Mitama removes all continuous damage effects on itself at the start of its turn and takes damage equal to 3% of its max HP for each continuous damage effect removed (this is affected by final damage reduction).\n6. Saki Mitama has <color=#FF423F>Protection of Horus</color>, which decreases final damage taken by 60% (excluding on its turns), but increases final damage taken during its own turn by 300%.\n7. If only Kushi Mitama remains on the field, it transforms into Seth and takes control of the field."
   },
   {
+    "sn": "829131",
+    "title": "Unique Shadow Abilities",
+    "text": "Shadows have different weaknesses and resistances than normal.\n1. When King Frost takes damage, Jack Frosts on the field will counterattack with Bufu.\n2. Jack Frost and King Frost's attacks inflict <color=#FF423F>Chill</color>.\n3. When all Jack Frosts are defeated, King Frost will immediately use <color=#FF423F>Ice Age</color>: Damage increases based on Chill stacks inflicted. Phantom Thieves with 4 or more stacks will also be inflicted with <color=#FF423F>Weakness</color> for 1 turn.\n4. After all Jack Frosts have been defeated, King Frost will summon Jack Frost after 1 turn."
+  },
+  {
+    "sn": "829141",
+    "title": "Unique Shadow Abilities",
+    "text": "Shadows have different weaknesses and resistances than normal.\n1. King Frost uses <color=#FF423F>Ice Age</color> when defeated, dealing heavy damage and summoning 2 Black Frosts. Black Frosts on the field will be replaced with Jack Frost.\n2. Jack Frost and Black Frost's attacks inflict <color=#FF423F>Chill</color>.\n3. Black Frost will immediately use Ice Age when defeated: Damage increases based on Chill stacks inflicted. Phantom Thieves with 2 or more stacks will also be inflicted with <color=#FF423F>Weakness</color> for 1 turn."
+  },
+  {
+    "sn": "829151",
+    "title": "Unique Shadow Abilities",
+    "text": "Shadows have different weaknesses and resistances than normal.\n1. Phantom Thieves will be inflicted with 2 <color=#FF423F>Chill</color> stacks when they do not deal damage during a turn. Dealing damage removes 1 Chill stack.\n2. On even-numbered turns, King Frost will summon a Jack Frost if there are less than 3 Jack Frosts present. Jack Frost's attacks inflict Chill.\n3. Damage from King Frost's skills increases based on Chill stacks inflicted. Phantom Thieves with 3 or more stacks will also be inflicted with <color=#FF423F>Weakness</color> for 1 turn."
+  },
+  {
     "sn": "932211",
     "title": "Unique Shadow Abilities",
     "text": "Shadows' weakness and resistances are different than normal.\n1. Unicorn will activate <color=#FF423F>Sacred Blessing</color>.\nSacred Blessing: Deals Bless damage to all Phantom Thieves, gains 25 stacks of <color=#FF423F>Purity</color>, and summons 1 Nigi Mitama.\n2. Unicorn will activate <color=#FF423F>Sacred Radiance</color> 2 turns after activating Sacred Blessing.\nSacred Radiance: Deals heavy damage to all Phantom Thieves based on the number of Purity stacks. If there are 5 stacks of Purity or more, Phantom Thieves will also be inflicted with <color=#FF423F>Rebuke</color>.\nRebuke: Permanently increases damage taken by 50%.\n3. Each stack of Purity decreases Unicorn's damage taken by 5% for each stack. Lose 1 stack for each status ailment inflicted.\n4. When Nigi Mitama is inflicted with a status ailment, the same ailment is inflicted on Unicorn, and 1 stack of Purity is removed.\n5. Nigi Mitama will be defeated after 1 action.\nWhen defeated, Nigi Mitama will deal damage to Unicorn equal to its HP lost."
@@ -1495,6 +1550,11 @@
     "text": "1. Avidya cannot be targeted in the first phase of battle, and will continuously summon Corporobos to fight the Phantom Thieves.\nAfter a certain number of Corporobos have been defeated, Avidya will move to the second phase.\n2. Avidya cannot be targeted in the second phase of battle, and will summon a team of powerful Corporobos to fight.\nWhen all of the Corporobos have been defeated, Avidya will move to the third phase, where he can be targeted and will not use any skills.\n3. During the battle, Avidya will use <color=#FF423F>Sacrifice Order</color> on randomly selected Corporobos, who will self-destruct after 2 turns, dealing heavy damage to the Phantom Thieves.\n4. Corporobo MDL-CH will use <color=#FF423F>Overtime Order</color> on the Shadow with the highest Attack, granting it an extra turn.\n5. Corporobo MDL-DM will use <color=#FF423F>Performance Evaluation</color> on the Shadow with the lowest Attack, greatly increasing its Attack.\nWhen the effect ends, the Shadow will be promoted to a Corporobo MDL-AM.\n6. Corporobo MDL-GM will use <color=#FF423F>Corporate Culture</color> to buff and heal Shadows.\n7. Corporobo MDL-ED will use <color=#FF423F>Team-Building Exercise</color> to drain all other Shadows' HP to strengthen itself."
   },
   {
+    "sn": "916501",
+    "title": "Macabre's Skills",
+    "text": "(SB)1. In the first phase of battle, Macabre alternates between summoning Pale Rider and Red Rider. When its minions are defeated, it will summon them again 2 turns later.\n2. In the second phase of battle, Macabre will summon Pale Rider and Red Rider at the same time. When both its minions are on the field, final damage against Macabre is decreased by 50%. When its minions are defeated, it will summon them again 2 turns later.\n3. When both its minions are on the field, Macabre will use Spectral Lure on 1 minion.\nSpectral Lure: After 3 turns, that minion will be sacrificed to restore a certain amount of Macabre's HP.\n4. Pale Rider uses Brain Shake.\nBrain Shake: Deal Physical damage to the Phantom Thief with the lowest HP, with a chance to inflict Brainwash for 2 turns.\n5. Red Rider uses Call to Retreat.\nCall to Retreat: Decrease Highlight Gauge fill rate by 40%. When Red Rider is defeated, instantly increase Highlight Gauge by 50%."
+  },
+  {
     "sn": "921511",
     "title": "Frostgale Kotone's Skills",
     "text": "1. Frostgale Kotone specializes in <color=#FF423F>single-target attacks</color>. During battle, she can switch between <color=#FF423F>Spring Form</color> and <color=#FF423F>Winter Form</color>, allowing her to change the attribute of her skills and Highlight accordingly.\n2. During battle, she can create a <color=#FFFC40>barrier</color> to collect <color=#FFFC40>Vestiges</color>, and then spend those Vestiges to shatter the barrier and unleash a powerful <color=#FFFC40>Resonance</color> on enemies.\n3. While the barrier is open and a Phantom Thief with the same attribute uses skills, more Vestiges can be collected, and Frostgale Kotone will deal more damage."
@@ -1507,7 +1567,7 @@
   {
     "sn": "935211",
     "title": "Unique Shadow Abilities",
-    "text": "1. Belphegor is always Asleep. After being attacked, it will wake up, deal heavy damage to all Phantom Thieves and heal 15% of its max HP.\n2. At the start of Belphegor's turn, if it is not Asleep, it will summon 2 Sandmen.\n3. When Sandman is summoned, or at the start of its turn, it gains 1 Eternal Slumber stack.\n4. At the start of each Phantom Thief's turn, if Belphegor is awake, Sandman will spend Eternal Slumber to put it to Sleep. This effect activates once every turn."
+    "text": "Shadows have different weaknesses and resistances than normal.\n1. Belphegor is always Asleep. After being attacked, it will wake up, deal heavy damage to all Phantom Thieves and heal 15% of its max HP.\n2. At the start of Belphegor's turn, if it is not Asleep, it will summon 2 Sandmen.\n3. When Sandman is summoned, or at the start of its turn, it gains 1 Eternal Slumber stack.\n4. At the start of each Phantom Thief's turn, if Belphegor is awake, Sandman will spend Eternal Slumber to put it to Sleep. This effect activates once every turn."
   },
   {
     "sn": "238011",
@@ -1595,6 +1655,66 @@
     "text": "1. Fuu-Ki's <color=#81ea2c>Wind Domain</color> gives it a base chance of 80% to put the target in an <color=#81ea2c>Ultrawindswept</color> state when attacking. Ultrawindswept lasts for 2 turns.\nUltrawindswept: An enhanced version of Windswept inflicted by Fuu-Ki. Decreases Defense by 24%.\n2. Sui-Ki's <color=#00aeff>Ice Domain</color> gives it a base chance of 80% to inflict <color=#00aeff>Ultrafreeze</color> when attacking. Ultrafreeze lasts for 2 turns.\nUltrafreeze: An enhanced version of Frozen inflicted by Sui-Ki. Decreases Attack Power by 24%.\n3. Kin-Ki's <color=#ffd700>Golden Domain</color> allows it to grant <color=#ffd700>Indestructible Vajra</color> to 1 random Shadow after dealing damage.\nIndestructible Vajra: Nullifies the next damage taken.\n4. Ongyo-Ki starts with 3 <color=#ff3b37>Damage Reduction</color> stacks, which increases the damage dealt to Phantom Thieves with elemental ailments.\n5. When Fuu-Ki, Sui-Ki, or Kin-Ki are defeated, Ongyo-Ki loses 1 <color=#ff3b37>Damage Reduction</color> stack. It then gains the Domain effect from the defeated Shadow, and its affinities change.\nOnce Fuu-Ki, Sui-Ki, and Kin-Ki have all been defeated, Ongyo-ki becomes enraged, increasing its final damage.\n6. Shadows gain the following abilities as turns progress.\nStarting on turn 3, Shadows gain 1 <color=#ff381d>Berserk</color> stack every turn.\nStarting on turn 5, Shadows gain 2 <color=#ff381d>Berserk</color> stack every turn.\nBerserk: Damage increases by 10%. Stacks up to 20 times."
   },
   {
+    "sn": "921711",
+    "title": "Kasumi Yoshizawa's Skills",
+    "text": "tdxct-[InstTutorials_text_921711]"
+  },
+  {
+    "sn": "921712",
+    "title": "Kasumi Yoshizawa's Skills",
+    "text": "tdxct-[InstTutorials_text_921712]"
+  },
+  {
+    "sn": "936211",
+    "title": "Unique Shadow Abilities",
+    "text": "Shadows have different weaknesses and resistances than normal.\n1. Kumbhanda's attacks permanently inflict 1 <color=#FF423F>Starvation</color> stack on Phantom Thieves.\nStarvation: Decrease max HP by 15%, and grant 1 <color=#FF423F>Full Stomach</color> stack to Agathion.\n2. Every other turn, 1 Agathion is summoned.\n3. When Kumbhanda is defeated, all Starvation and Full Stomach stacks are removed.\n4. After the Phantom Thieves have spent a total of 150 SP, remove 1 Full Stomach stack from Agathion and 1 Starvation stack from all Phantom Thieves.\n5. When Agathion has Full Stomach, all affinities change to Null. When it has 3 Full Stomach stacks at the end of the turn, it changes to Kumbhanda."
+  },
+  {
+    "sn": "238091",
+    "title": "Unique Shadow Abilities",
+    "text": "1. Yamata-no-Orochi has extremely high HP. When it receives damage from each attribute for the first time, it will summon 1 Yurlungur. It can perform summoning up to 5 times, and on the 5th time, it will summon 1 Makami.\n2. When a Yurlungur is defeated, Yamata-no-Orochi's final damage taken will increase by 25%.\n3. When a Makami is defeated, all Phantom Thieves will gain Ame-no-Murakumo.\nAme-no-Murakumo: Final damage increases by 400%."
+  },
+  {
+    "sn": "238101",
+    "title": "Unique Shadow Abilities",
+    "text": "1. Yamata-no-Orochi has extremely high HP. When it receives Resonance or highlight damage, it will summon 1 Yurlungur. It can perform summoning up to 5 times, and on the 5th time, it will summon 1 Makami.\n2. When a Yurlungur is defeated, Yamata-no-Orochi's final damage taken will increase by 25%.\n3. When a Makami is defeated, all Phantom Thieves will gain Ame-no-Murakumo.\nAme-no-Murakumo: Final damage increases by 400%."
+  },
+  {
+    "sn": "238111",
+    "title": "Unique Shadow Abilities",
+    "text": "1. Yamata-no-Orochi has extremely high HP. When it is inflicted with an elemental or spiritual ailment, it will summon 1 Yurlungur. It can perform summoning up to 5 times, and on the 5th time, it will summon 1 Makami.\n2. When a Yurlungur is defeated, Yamata-no-Orochi's final damage taken will increase by 25%.\n3. When a Makami is defeated, all Phantom Thieves will gain Ame-no-Murakumo.\nAme-no-Murakumo: Final damage increases by 400%."
+  },
+  {
+    "sn": "238121",
+    "title": "Unique Shadow Abilities",
+    "text": "1. During battle, Thor will charge Mjolnir's energy. When energy reaches 100%, Thor will spend 100% of energy to use Thunder Reign, dealing heavy damage to 1 Phantom Thief. When energy reaches 100% for the third time, it will use Wild Thunder on all Phantom Thieves.\n2. When Thor uses a skill, it charges energy by 50%.\n3. At the start of each turn, it will summon 2 Valkyrie.\n4. When Valkyrie uses a skill, charge Mjolnir's energy by 25%.\n5. When Valkyrie is defeated, Mjolnir's energy is decreased by 25%."
+  },
+  {
+    "sn": "238131",
+    "title": "Unique Shadow Abilities",
+    "text": "1. During battle, Thor will charge Mjolnir's energy. When energy reaches 100%, Thor will spend 100% of energy to use Thunder Reign, dealing heavy damage to 1 Phantom Thief. When energy reaches 100% for the third time, it will use Wild Thunder on all Phantom Thieves.\n2. When a Shadow uses a skill, Mjolnir's energy is increased by 25%.\n3. When a Shadow besides Thor is inflicted with a spiritual ailment, Mjolnir's energy is decreased by 50%.\n4. Each turn, Norn grants Thor a shield.\n5. Each turn, Skadi grants Thor an extra turn."
+  },
+  {
+    "sn": "238141",
+    "title": "Unique Shadow Abilities",
+    "text": "1. During battle, Thor cannot be selected. At the start of Thor's turn, it alternates between inflicting Thunder God's Protection on the 2 Phantom Thieves with the highest Attack.\nThunder God's Protection: Increase final damage by 500%. When dealing skill damage, charge Mjolnir's energy by 50%.\n2. When Mjolnir's energy reaches 100%, it will spend 100% of energy to increase Surt's final damage taken by 25%. This effect stacks up to 4 times.\n3. Surt has extremely high HP. After 4 turns, it activates Ragnarok, increasing Surt's final damage by 50%."
+  },
+  {
+    "sn": "921811",
+    "title": "Tempest Riko's Skills",
+    "text": "1. Tempest Riko possesses SP <color=#FF423F>support abilities</color> that greatly increase the party's SP limit. During battle, she can also <color=#FF423F>recover her own SP</color> in various ways.\n2. When using Blossoming Season, all of her SP is consumed to grant allies buffs to their <color=#FF423F>Attack</color> and <color=#FF423F>critical damage</color>. The more SP consumed, the stronger the buffs become."
+  },
+  {
+    "sn": "921911",
+    "title": "Firecracker Yaoling's Skills",
+    "text": "tdxct-[InstTutorials_text_921911]"
+  },
+  {
+    "sn": "922011",
+    "title": "Mio Natsukawa's Skills",
+    "text": "tdxct-[InstTutorials_text_922011]"
+  },
+  {
     "sn": "923411",
     "title": "Justine & Caroline's Skills",
     "text": "1. As a <color=#FF423F>Virtuoso</color> unit, Justine & Caroline can freely combine multiple sets of Personas before battle to create <color=#FF423F>6 different</color> role-based fighting styles.\n2. By combining Mask of Mischief & Innocence and Mask of Absurdity & Nonsense, the twins will gain <color=#FF423F>Strategist abilities</color>. By using each of these skills, they can use Two Masks as One.\n3. By granting allies <color=#FF423F>Skill Amplification</color>, they can strengthen allies' <color=#FF423F>skill effects when they are enhanced</color>, as well as improve their attack, support, and recovery abilities simultaneously."
@@ -1608,5 +1728,35 @@
     "sn": "923611",
     "title": "Justine & Caroline's Skills",
     "text": "1. As the only <color=#81ea2c>Virtuoso</color> unit, Justine & Caroline can freely combine multiple sets of Personas before battle to create <color=#81ea2c>6 different</color> role-based fighting styles.\n2. By combining Mask of Mischief & Innocence and Mask of Service & Admonition, the twins will gain <color=#81ea2c>Medic abilities</color>.\n3. By restoring allies' HP and granting them Attack and Damage Mult. +, they can improve the team's survivability and Attack."
+  },
+  {
+    "sn": "960021",
+    "title": "Battle Skills",
+    "text": "1. In the Boss Battle section, you can obtain powerful buffs by accumulating <color=#FF423F><link=\"chocolate|1\"><u>ChocoPower</u></link></color> points. During battle, you can activate <color=#FF423F><link=\"chocolate|2\"><u>Love Bomb</u></link></color> by spending ChocoPower points, giving you an advantage during the fight. ChocoPower is limited to 75 in this stage.\n2. Each Shadow absorbs particular attributes. By fully restoring a Shadow's HP, gain 25 ChocoPower points."
+  },
+  {
+    "sn": "960041",
+    "title": "Battle Skills",
+    "text": "1. In the Boss Battle section, you can obtain powerful buffs by accumulating <color=#FF423F><link=\"chocolate|1\"><u>ChocoPower</u></link></color> points. During battle, you can activate <color=#FF423F><link=\"chocolate|2\"><u>Love Bomb</u></link></color> by spending ChocoPower points, giving you an advantage during the fight. ChocoPower is limited to 75 in this stage.\n2. The number of actions in this stage is limited to 40. When you defeat a Shadow, the same Shadow immediately respawns.\nGain 5 ChocoPower points upon defeating Inugami.\nGain 10 ChocoPower points upon defeating Quetzalcoatl.\nGain 15 points upon defeating Lamia."
+  },
+  {
+    "sn": "960061",
+    "title": "Battle Skills",
+    "text": "1. In the Boss Battle section, you can obtain powerful buffs by accumulating <color=#FF423F><link=\"chocolate|1\"><u>ChocoPower</u></link></color> points. During battle, you can activate <color=#FF423F><link=\"chocolate|2\"><u>Love Bomb</u></link></color> by spending ChocoPower points, giving you an advantage during the fight. ChocoPower is limited to 75 in this stage.\n2. At the start of battle, <color=#FF423F>Amoribbon</color> is on the field. At the start of Lilith's turn, Lilith will summon Amoribbon if it is not on the field. Defeat Amoribbon to gain 25 ChocoPower points. If Amoribbon captures a Phantom Thief, it will drain 10 points from ChocoPower gained during the battle.\n3. Defeat all the Shadows to gain 25 ChocoPower points."
+  },
+  {
+    "sn": "960071",
+    "title": "Battle Skills",
+    "text": "1. In this stage, you can activate <color=#FF423F><link=\"chocolate|2\"><u>Love Bomb</u></link></color> by spending 100 <color=#FF423F><link=\"chocolate|1\"><u>ChocoPower</u></link></color> points.\n2. At the start of battle, you will have the total amount of ChocoPower points you earned in the previous 6 stages.\n3. When Shadows use skills, they will steal 15 ChocoPower points. When Vasuki's ChocoPower reaches 100 points, it will spend its ChocoPower to unleash a Makajamaon against all Phantom Thieves.\n4. When Leanan Sidhe or Lamia is defeated, the Phantom Thieves gain 25 ChocoPower points.\n5. By using Love Bomb, you can change all target's affinities to Weak."
+  },
+  {
+    "sn": "960011",
+    "title": "Battle Skills",
+    "text": "1. In the Boss Battle section, you can obtain powerful buffs by accumulating <color=#FF423F><link=\"chocolate|1\"><u>ChocoPower</u></link></color> points.\nDuring battle, you can activate <color=#FF423F><link=\"chocolate|2\"><u>Love Bomb</u></link></color> by spending ChocoPower points, giving you an advantage during the fight."
+  },
+  {
+    "sn": "937211",
+    "title": "Unique Shadow Abilities",
+    "text": "Shadows have different weaknesses and resistances than normal.\n1. When Surt is on the field, it will summon 1 additional Surt.\n2. At the start of Surt's turn, Surt's <color=#FF423F>Progress</color> increases for each summoned Surt on the field.\nWhen Progress reaches 10, Surt activates <color=#FF423F>Abyssal Gaze</color>. This skill's damage increases according to the number of summoned Surts on the field.\n3. While Surt is on the field, all Shadows gain <color=#FF423F>Muddy Armor</color> and <color=#FF423F>Melted Armor</color> every 2 turns.\nMuddy Armor: Decrease final damage taken by 20%. When inflicted with Burn, this effect is removed.\nMelted Armor: Decrease final damage taken by 40%. When Burn is removed, Muddy Armor and Melted Armor are removed from all Shadows."
   }
 ]

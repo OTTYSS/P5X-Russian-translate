@@ -1445,7 +1445,7 @@
   },
   {
     "sn": "1020240",
-    "textContent": "Unlock the %s collection."
+    "textContent": "Added to your collection on: %s"
   },
   {
     "sn": "1021001",
@@ -3056,6 +3056,18 @@
     "textContent": "Filter for skills available"
   },
   {
+    "sn": "1034114",
+    "textContent": "Repression Medal II x%s"
+  },
+  {
+    "sn": "1034115",
+    "textContent": "Repression Medal III x%s"
+  },
+  {
+    "sn": "1034116",
+    "textContent": "Repression Medal IV x%s"
+  },
+  {
     "sn": "1034117",
     "textContent": "The <color=#FF423F>Persona's role</color> does not meet the requirements for this skill."
   },
@@ -3086,6 +3098,10 @@
   {
     "sn": "1034124",
     "textContent": "This skill has already been learned."
+  },
+  {
+    "sn": "1034125",
+    "textContent": "Maximum Level Effect: %s"
   },
   {
     "sn": "1034126",
@@ -3946,6 +3962,58 @@
   {
     "sn": "1043108",
     "textContent": "City Life"
+  },
+  {
+    "sn": "1043109",
+    "textContent": "Days Remaining until Confession Day: {0}"
+  },
+  {
+    "sn": "1043110",
+    "textContent": "Watch the prologue"
+  },
+  {
+    "sn": "1043111",
+    "textContent": "Unlocks in {0}"
+  },
+  {
+    "sn": "1043112",
+    "textContent": "Confession in Progress"
+  },
+  {
+    "sn": "1043113",
+    "textContent": "Confession Complete"
+  },
+  {
+    "sn": "1043114",
+    "textContent": "Challenge unlocks after {0}"
+  },
+  {
+    "sn": "1043115",
+    "textContent": "Unlocks after clearing the previous stage"
+  },
+  {
+    "sn": "1043116",
+    "textContent": "Total Power: {0}"
+  },
+  {
+    "sn": "1043117",
+    "textContent": "{0} (Required power for stage {1}): {2}"
+  },
+  {
+    "sn": "1043118",
+    "textContent": "<color=#FFEC00>Determines if the character will enter a special story</color>.\nIf enabled, you will receive a message on the confession day (requires certain Affection level and first two hangouts completed).\nIf disabled, you will not receive a message, regardless of conditions.\nAfter the confession is over, you can use the switch to rewatch the story as many times as you like."
+  },
+  {
+    "sn": "1043119",
+    "textContent": "Obtained this stage: {0}"
+  },
+  {
+    "sn": "1043120",
+    "textContent": "Current Clear Difficulty: {0}"
+  },
+  {
+    "sn": "1043121",
+    "textContent": "Days Remaining until Confession Day: {0}"
   },
   {
     "sn": "1043123",
@@ -5522,6 +5590,14 @@
   {
     "sn": "1075070",
     "textContent": "Gates of the Nightmare Catcher shifts its dreamscape every season, and the rules change accordingly."
+  },
+  {
+    "sn": "1075071",
+    "textContent": "Sweeper/Assassin score bonus ×"
+  },
+  {
+    "sn": "1075072",
+    "textContent": "Sweeper/Assassin Score Multiplier"
   },
   {
     "sn": "1081002",
@@ -10981,11 +11057,11 @@
   },
   {
     "sn": "2002127",
-    "textContent": "Collect all the marbles to unlock the mission Paw it Forward."
+    "textContent": "Collect all Cloth Tiger Dolls to unlock the mission."
   },
   {
     "sn": "2002128",
-    "textContent": "Marbles Collected: "
+    "textContent": "Cloth Tiger Dolls:"
   },
   {
     "sn": "2002129",
@@ -11537,7 +11613,7 @@
   },
   {
     "sn": "2002276",
-    "textContent": "Earn a {1} rating for {0}"
+    "textContent": "%s obtained %s."
   },
   {
     "sn": "2002292",
@@ -11669,7 +11745,7 @@
   },
   {
     "sn": "2002298",
-    "textContent": "Targets"
+    "textContent": "Details"
   },
   {
     "sn": "2002300",
@@ -12469,7 +12545,7 @@
   },
   {
     "sn": "2002546",
-    "textContent": "On days 2 and 3 of the event, the daily Tycoon Medal Cap is raised by 600 each day."
+    "textContent": "On days 2 and 3 of the event, the daily Tycoon Medal Cap is raised by 600 each day.\nIf you play 1 Round, you will receive 80 Tycoon Medals when rewards are tallied.\nIf you play 3 Rounds, you will receive 200 Tycoon Medals when rewards are tallied.\nIf you play in Ranked Match, you will receive 200 Tycoon Medals when rewards are tallied."
   },
   {
     "sn": "2002547",
@@ -13064,6 +13140,90 @@
     "textContent": "Effects"
   },
   {
+    "sn": "2002686",
+    "textContent": "[Image]"
+  },
+  {
+    "sn": "2002687",
+    "textContent": "Cold-Blooded Consultant A: Report 01"
+  },
+  {
+    "sn": "2002688",
+    "textContent": "Cold-Blooded Consultant A: Report 02"
+  },
+  {
+    "sn": "2002689",
+    "textContent": "Cold-Blooded Consultant A: Report 03"
+  },
+  {
+    "sn": "2002690",
+    "textContent": "Cold-Blooded Consultant A: Report 04"
+  },
+  {
+    "sn": "2002691",
+    "textContent": "Cold-Blooded Consultant A: Report 05"
+  },
+  {
+    "sn": "2002692",
+    "textContent": "Cold-Blooded Consultant A: Report 06"
+  },
+  {
+    "sn": "2002693",
+    "textContent": "Cold-Blooded Consultant A: Report 07"
+  },
+  {
+    "sn": "2002694",
+    "textContent": "Cold-Blooded Consultant A: Report 08"
+  },
+  {
+    "sn": "2002695",
+    "textContent": "Cold-Blooded Consultant A: Report 09"
+  },
+  {
+    "sn": "2002696",
+    "textContent": "Cold-Blooded Consultant A: Report 10"
+  },
+  {
+    "sn": "2002697",
+    "textContent": "Cold-Blooded Consultant A: Report 11"
+  },
+  {
+    "sn": "2002698",
+    "textContent": "Cold-Blooded Consultant A: Report 12"
+  },
+  {
+    "sn": "2002699",
+    "textContent": "Explore Distance"
+  },
+  {
+    "sn": "2002700",
+    "textContent": "Complete"
+  },
+  {
+    "sn": "2002701",
+    "textContent": "Can Challenge"
+  },
+  {
+    "sn": "2002702",
+    "textContent": "Owned"
+  },
+  {
+    "sn": "2002703",
+    "textContent": "Required"
+  },
+  {
+    "sn": "2002704",
+    "textContent": "Get"
+  },
+  {
+    "sn": "2002705",
+    "textContent": "Set dice score"
+  },
+  {
+    "sn": "2002706",
+    "textContent": "Battle Incident"
+  },
+  {
     "sn": "2002707",
     "textContent": "Party"
   },
@@ -13130,6 +13290,26 @@
   {
     "sn": "2002725",
     "textContent": "Save"
+  },
+  {
+    "sn": "2002726",
+    "textContent": "Drive"
+  },
+  {
+    "sn": "2002727",
+    "textContent": "Reverse"
+  },
+  {
+    "sn": "2002728",
+    "textContent": "Stay in place"
+  },
+  {
+    "sn": "2002729",
+    "textContent": "Rank"
+  },
+  {
+    "sn": "2002730",
+    "textContent": "Free"
   },
   {
     "sn": "2002731",
@@ -13224,20 +13404,124 @@
     "textContent": "Super Rare"
   },
   {
+    "sn": "2002757",
+    "textContent": "Daily Pass"
+  },
+  {
+    "sn": "2002758",
+    "textContent": "Season Pass"
+  },
+  {
+    "sn": "2002759",
+    "textContent": "Flowers gained each time"
+  },
+  {
+    "sn": "2002760",
+    "textContent": "Enemy Strength"
+  },
+  {
+    "sn": "2002761",
+    "textContent": "Floor"
+  },
+  {
+    "sn": "2002762",
+    "textContent": "Battle Encounter"
+  },
+  {
+    "sn": "2002763",
+    "textContent": "Boss Challenge"
+  },
+  {
+    "sn": "2002764",
+    "textContent": "Get Blessing"
+  },
+  {
+    "sn": "2002765",
+    "textContent": "Battle Rewards"
+  },
+  {
+    "sn": "2002766",
+    "textContent": "If you quit the battle, you will not receive rewards."
+  },
+  {
+    "sn": "2002767",
+    "textContent": "One Flower"
+  },
+  {
+    "sn": "2002768",
+    "textContent": " "
+  },
+  {
     "sn": "2002769",
     "textContent": "Points:"
   },
   {
+    "sn": "2002770",
+    "textContent": "Selected:"
+  },
+  {
+    "sn": "2002771",
+    "textContent": "Selected: "
+  },
+  {
+    "sn": "2002772",
+    "textContent": "Quick Select"
+  },
+  {
+    "sn": "2002773",
+    "textContent": "Cold-Blooded Consultant Kei Akashi"
+  },
+  {
+    "sn": "2002774",
+    "textContent": "Admit to all of your crimes!"
+  },
+  {
     "sn": "2002775",
-    "textContent": "Clear any <color=#ff0000>previous Stellae</color> to unlock"
+    "textContent": "Clear any <color=#ff0000>previous Stellae</color>"
   },
   {
     "sn": "2002776",
-    "textContent": "Clear <color=#ff0000>%s</color> to unlock"
+    "textContent": "Clear <color=#ff0000>%s</color>"
   },
   {
     "sn": "2002777",
-    "textContent": "Clear <color=#ff0000>%s Stellae</color> to unlock"
+    "textContent": "Clear <color=#ff0000>%s Stellae</color>"
+  },
+  {
+    "sn": "2002778",
+    "textContent": "Check receipt details>"
+  },
+  {
+    "sn": "2002779",
+    "textContent": "Today's number of receipts has been completed."
+  },
+  {
+    "sn": "2002780",
+    "textContent": "Collected all money from the red envelope."
+  },
+  {
+    "sn": "2002781",
+    "textContent": "Available receipts: "
+  },
+  {
+    "sn": "2002782",
+    "textContent": "Click the blank to close"
+  },
+  {
+    "sn": "2002783",
+    "textContent": "Can be claimed via the following."
+  },
+  {
+    "sn": "2002784",
+    "textContent": "%s collected"
+  },
+  {
+    "sn": "2002785",
+    "textContent": "Congratulations"
+  },
+  {
+    "sn": "2002786",
+    "textContent": "Same"
   },
   {
     "sn": "2002788",
@@ -13448,6 +13732,10 @@
     "textContent": "Wishing you prosperity and good fortune!"
   },
   {
+    "sn": "2002793",
+    "textContent": "%s has been unlocked."
+  },
+  {
     "sn": "2002794",
     "textContent": "#{0}"
   },
@@ -13456,8 +13744,440 @@
     "textContent": "Current {0}%%"
   },
   {
+    "sn": "2002796",
+    "textContent": "Shadow Incoming"
+  },
+  {
+    "sn": "2002797",
+    "textContent": " to unlock"
+  },
+  {
+    "sn": "2002798",
+    "textContent": "Already Claimed"
+  },
+  {
+    "sn": "2002799",
+    "textContent": "No purchase limit"
+  },
+  {
+    "sn": "2002800",
+    "textContent": "Highest Level Cleared: %s"
+  },
+  {
+    "sn": "2002801",
+    "textContent": "Version Info"
+  },
+  {
+    "sn": "2002802",
+    "textContent": "エラー：tnxotb-[Text_textContent_2002802]"
+  },
+  {
+    "sn": "2002804",
+    "textContent": "No Battle Rewards"
+  },
+  {
+    "sn": "2002805",
+    "textContent": "Roll Result"
+  },
+  {
+    "sn": "2002806",
+    "textContent": "Check the route and roll again"
+  },
+  {
+    "sn": "2002810",
+    "textContent": "Remaining claims today:"
+  },
+  {
+    "sn": "2002811",
+    "textContent": "Sent"
+  },
+  {
+    "sn": "2002812",
+    "textContent": "Unlocks in %s"
+  },
+  {
+    "sn": "2002813",
+    "textContent": "Must clear %s."
+  },
+  {
     "sn": "2002814",
     "textContent": "Laboratory Arc Part 1"
+  },
+  {
+    "sn": "2002817",
+    "textContent": "(Guess the name of the animal)"
+  },
+  {
+    "sn": "2002818",
+    "textContent": "If you enter {0} times, you are guaranteed to receive the special cosume <color=#FFF900>{1}</color>."
+  },
+  {
+    "sn": "2002819",
+    "textContent": "Obtained the special costume {0}."
+  },
+  {
+    "sn": "2002820",
+    "textContent": "You can get fashion tickets from the event {0}."
+  },
+  {
+    "sn": "2002829",
+    "textContent": "Event Info:"
+  },
+  {
+    "sn": "2002830",
+    "textContent": "Gift Contents:"
+  },
+  {
+    "sn": "2002831",
+    "textContent": "Mousepad x 1"
+  },
+  {
+    "sn": "2002832",
+    "textContent": "Stand x 1"
+  },
+  {
+    "sn": "2002833",
+    "textContent": "Limited Purchase"
+  },
+  {
+    "sn": "2002834",
+    "textContent": "{0} times"
+  },
+  {
+    "sn": "2002835",
+    "textContent": "Error: tnxotb-[Text_textContent_2002835]"
+  },
+  {
+    "sn": "2002836",
+    "textContent": "Error: tnxotb-[Text_textContent_2002836]"
+  },
+  {
+    "sn": "2002837",
+    "textContent": "Error: tnxotb-[Text_textContent_2002837]"
+  },
+  {
+    "sn": "2002838",
+    "textContent": "Error: tnxotb-[Text_textContent_2002838]"
+  },
+  {
+    "sn": "2002839",
+    "textContent": "Error: tnxotb-[Text_textContent_2002839]"
+  },
+  {
+    "sn": "2002840",
+    "textContent": "Error: tnxotb-[Text_textContent_2002840]"
+  },
+  {
+    "sn": "2002841",
+    "textContent": "Error: tnxotb-[Text_textContent_2002841]"
+  },
+  {
+    "sn": "2002842",
+    "textContent": "Error: tnxotb-[Text_textContent_2002842]"
+  },
+  {
+    "sn": "2002843",
+    "textContent": "Error: tnxotb-[Text_textContent_2002843]"
+  },
+  {
+    "sn": "2002844",
+    "textContent": "Error: tnxotb-[Text_textContent_2002844]"
+  },
+  {
+    "sn": "2002845",
+    "textContent": "Error: tnxotb-[Text_textContent_2002845]"
+  },
+  {
+    "sn": "2002846",
+    "textContent": "Error: tnxotb-[Text_textContent_2002846]"
+  },
+  {
+    "sn": "2002847",
+    "textContent": "Error: tnxotb-[Text_textContent_2002847]"
+  },
+  {
+    "sn": "2002848",
+    "textContent": "Error: tnxotb-[Text_textContent_2002848]"
+  },
+  {
+    "sn": "2002849",
+    "textContent": "Error: tnxotb-[Text_textContent_2002849]"
+  },
+  {
+    "sn": "2002850",
+    "textContent": "Error: tnxotb-[Text_textContent_2002850]"
+  },
+  {
+    "sn": "2002851",
+    "textContent": "Error: tnxotb-[Text_textContent_2002851]"
+  },
+  {
+    "sn": "2002852",
+    "textContent": "Error: tnxotb-[Text_textContent_2002852]"
+  },
+  {
+    "sn": "2002853",
+    "textContent": "Error: tnxotb-[Text_textContent_2002853]"
+  },
+  {
+    "sn": "2002854",
+    "textContent": "Error: tnxotb-[Text_textContent_2002854]"
+  },
+  {
+    "sn": "2002855",
+    "textContent": "Error: tnxotb-[Text_textContent_2002855]"
+  },
+  {
+    "sn": "2002856",
+    "textContent": "Error: tnxotb-[Text_textContent_2002856]"
+  },
+  {
+    "sn": "2002857",
+    "textContent": "Lunar New Year Items Now Available"
+  },
+  {
+    "sn": "2002858",
+    "textContent": "Error: tnxotb-[Text_textContent_2002857]"
+  },
+  {
+    "sn": "2002859",
+    "textContent": "2★"
+  },
+  {
+    "sn": "2002860",
+    "textContent": "3★"
+  },
+  {
+    "sn": "2002861",
+    "textContent": "White"
+  },
+  {
+    "sn": "2002862",
+    "textContent": "Blue"
+  },
+  {
+    "sn": "2002863",
+    "textContent": "Purple"
+  },
+  {
+    "sn": "2002864",
+    "textContent": "Space"
+  },
+  {
+    "sn": "2002865",
+    "textContent": "Sun"
+  },
+  {
+    "sn": "2002866",
+    "textContent": "Moon"
+  },
+  {
+    "sn": "2002867",
+    "textContent": "Star"
+  },
+  {
+    "sn": "2002868",
+    "textContent": "Sky"
+  },
+  {
+    "sn": "2002869",
+    "textContent": "If the number of items marked for disassembly exceeds the disassembly limit, items with lower rarity will be disassembled first."
+  },
+  {
+    "sn": "2002870",
+    "textContent": "Equipped weapons and already forged weapons can't be selected."
+  },
+  {
+    "sn": "2002871",
+    "textContent": "Rarity"
+  },
+  {
+    "sn": "2002872",
+    "textContent": "Level"
+  },
+  {
+    "sn": "2002873",
+    "textContent": "Once you have claimed it for the day, the message will no longer be displayed."
+  },
+  {
+    "sn": "2002874",
+    "textContent": "Question {0}"
+  },
+  {
+    "sn": "2002875",
+    "textContent": "(Total {0} Questions)"
+  },
+  {
+    "sn": "2002876",
+    "textContent": "Answer all questions correctly to receive"
+  },
+  {
+    "sn": "2002877",
+    "textContent": "Cleared"
+  },
+  {
+    "sn": "2002878",
+    "textContent": " to unlock"
+  },
+  {
+    "sn": "2002889",
+    "textContent": "You have reached the limit for this event."
+  },
+  {
+    "sn": "2002890",
+    "textContent": "Give:"
+  },
+  {
+    "sn": "2002891",
+    "textContent": "ChocoPower:"
+  },
+  {
+    "sn": "2002892",
+    "textContent": "Total ChocoPower:"
+  },
+  {
+    "sn": "2002893",
+    "textContent": "After at most <color=#FEFE60> %s times</color>, you're guaranteed to get the secret item!"
+  },
+  {
+    "sn": "2002897",
+    "textContent": "Only 1 can be cleared based on the first confession."
+  },
+  {
+    "sn": "2002898",
+    "textContent": "Ask someone special on a date!"
+  },
+  {
+    "sn": "2002899",
+    "textContent": "By setting this button to \"On\", the character with whom you have the highest Affection level and with whom you have participated in at least 2 events will send you a message on Confession day and appear in a special scenario."
+  },
+  {
+    "sn": "2002900",
+    "textContent": "Rewards"
+  },
+  {
+    "sn": "2002901",
+    "textContent": "Just for You"
+  },
+  {
+    "sn": "2002902",
+    "textContent": "Equipment:"
+  },
+  {
+    "sn": "2002903",
+    "textContent": "Revelation:"
+  },
+  {
+    "sn": "2002904",
+    "textContent": "Bag:"
+  },
+  {
+    "sn": "2002905",
+    "textContent": "Clear to unlock Stamina Mode"
+  },
+  {
+    "sn": "2002906",
+    "textContent": "Rewards:"
+  },
+  {
+    "sn": "2002909",
+    "textContent": "Not Yet Attempted"
+  },
+  {
+    "sn": "2002911",
+    "textContent": "Stamina Mode is not available for this difficulty level."
+  },
+  {
+    "sn": "2002912",
+    "textContent": "Shipping location: %s-%s"
+  },
+  {
+    "sn": "2002913",
+    "textContent": "Unlocks at Synergy Rank %s with %s"
+  },
+  {
+    "sn": "2002914",
+    "textContent": "Shipping location not unlocked"
+  },
+  {
+    "sn": "2002915",
+    "textContent": "Unlocks at %s level %s."
+  },
+  {
+    "sn": "2002916",
+    "textContent": "Tanaka's Shady Commodities is here to serve, no questions asked!"
+  },
+  {
+    "sn": "2002917",
+    "textContent": "Welcome to Tanaka's Shady Commodities. Please, take your time!"
+  },
+  {
+    "sn": "2002918",
+    "textContent": "Feel free to shop to your heart's content!"
+  },
+  {
+    "sn": "2002919",
+    "textContent": "Shipping from: Shady Commodities"
+  },
+  {
+    "sn": "2002923",
+    "textContent": "You cannot select equipment quickly."
+  },
+  {
+    "sn": "2002924",
+    "textContent": "Default"
+  },
+  {
+    "sn": "2002925",
+    "textContent": "Price"
+  },
+  {
+    "sn": "2002926",
+    "textContent": "Rarity"
+  },
+  {
+    "sn": "2002927",
+    "textContent": "Have: %s"
+  },
+  {
+    "sn": "2002928",
+    "textContent": "Limit: "
+  },
+  {
+    "sn": "2002929",
+    "textContent": "Restock: %s"
+  },
+  {
+    "sn": "2002930",
+    "textContent": "Sales End: %s"
+  },
+  {
+    "sn": "2002931",
+    "textContent": "Heheheh... Welcome to the alluring world of Shady Commodities!"
+  },
+  {
+    "sn": "2002932",
+    "textContent": "Welcome! This is Shady Commodities!"
+  },
+  {
+    "sn": "2002933",
+    "textContent": "Heheh... It's your lucky day! We've got some rare things on sale today!"
+  },
+  {
+    "sn": "2002934",
+    "textContent": "Curious about something? You've got access! Want something? You've got access!"
+  },
+  {
+    "sn": "2002935",
+    "textContent": "You've opened the door to possibilities that normal people can only dream of!"
+  },
+  {
+    "sn": "2002936",
+    "textContent": "Care to peruse the super rare goods we have for you today?"
+  },
+  {
+    "sn": "2002940",
+    "textContent": "No purchase limit"
   },
   {
     "sn": "2303207",
@@ -13790,5 +14510,13 @@
   {
     "sn": "2303504",
     "textContent": "When you spend <link=\"itemTips|%s\"><u>%s</u></link>, you will be notified when activated. Held: %s"
+  },
+  {
+    "sn": "2303564",
+    "textContent": "Effects: %s"
+  },
+  {
+    "sn": "2303565",
+    "textContent": "Check the preview."
   }
 ]

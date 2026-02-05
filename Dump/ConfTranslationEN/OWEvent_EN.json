@@ -1195,9 +1195,9 @@
   },
   {
     "sn": "31002",
-    "funcName": "Special Invitation from Riko",
-    "clientName": "Share some special time with Riko",
-    "clientDesc": "Should I spend some special time with Riko...?"
+    "funcName": "Hang out with Riko",
+    "clientName": "Spend time with Riko",
+    "clientDesc": "Should I spend time with Riko...?"
   },
   {
     "sn": "31011",
@@ -1400,8 +1400,8 @@
   {
     "sn": "31702",
     "funcName": "Special Invitation from Kotone",
-    "clientName": "Special Invitation from Kotone",
-    "clientDesc": "Should I spend some special time with Kotone...?"
+    "clientName": "Spend time with Kotone",
+    "clientDesc": "Should I spend time with Kotone...?"
   },
   {
     "sn": "31711",
@@ -1429,9 +1429,9 @@
   },
   {
     "sn": "31802",
-    "funcName": "Special Invitation from Runa",
+    "funcName": "Hang out with Runa",
     "clientName": "Spend time with Runa",
-    "clientDesc": "Should I spend some special time with Runa...?"
+    "clientDesc": "Should I spend time with Runa...?"
   },
   {
     "sn": "31811",
@@ -1450,6 +1450,36 @@
     "funcName": "Hang out with Runa",
     "clientName": "Spend time with Runa",
     "clientDesc": "Should I spend time with Runa...?"
+  },
+  {
+    "sn": "32001",
+    "funcName": "Hang out with Natsukawa",
+    "clientName": "Spend time with Natsukawa",
+    "clientDesc": "Should I spend time with Natsukawa...?"
+  },
+  {
+    "sn": "32002",
+    "funcName": "Spend time with Natsukawa",
+    "clientName": "Spend time with Natsukawa",
+    "clientDesc": "Should I spend time with Natsukawa...?"
+  },
+  {
+    "sn": "32011",
+    "funcName": "Hang out with Natsukawa",
+    "clientName": "Spend time with Natsukawa",
+    "clientDesc": "Should I spend time with Natsukawa...?"
+  },
+  {
+    "sn": "32021",
+    "funcName": "Hang out with Natsukawa",
+    "clientName": "Spend time with Natsukawa",
+    "clientDesc": "Should I spend time with Natsukawa...?"
+  },
+  {
+    "sn": "32099",
+    "funcName": "Hang out with Natsukawa",
+    "clientName": "Spend time with Natsukawa",
+    "clientDesc": "Should I spend time with Natsukawa...?"
   },
   {
     "sn": "40001",
@@ -1514,6 +1544,12 @@
   {
     "sn": "40056",
     "funcName": "Attend class",
+    "clientName": "Go to math class",
+    "clientDesc": "I've got to go to math class..."
+  },
+  {
+    "sn": "40097",
+    "funcName": "Attend Class",
     "clientName": "Go to math class",
     "clientDesc": "I've got to go to math class..."
   },
@@ -1840,6 +1876,72 @@
     "funcName": "Read on the train",
     "clientName": "Read on the train",
     "clientDesc": "I can read until I get to my station..."
+  },
+  {
+    "sn": "60001",
+    "funcName": "Go to Leblanc",
+    "clientName": "Go to Leblanc",
+    "clientDesc": "I could go to Leblanc..."
+  },
+  {
+    "sn": "60002",
+    "funcName": "Go to Leblanc",
+    "clientName": "Go to Leblanc",
+    "clientDesc": "I could go to Leblanc..."
+  },
+  {
+    "sn": "60003",
+    "funcName": "Go to Leblanc",
+    "clientName": "Go to Leblanc",
+    "clientDesc": "I could go to Leblanc..."
+  },
+  {
+    "sn": "60004",
+    "funcName": "Go to Leblanc",
+    "clientName": "Go to Leblanc",
+    "clientDesc": "I could go to Leblanc..."
+  },
+  {
+    "sn": "60005",
+    "funcName": "Go to Leblanc",
+    "clientName": "Go to Leblanc",
+    "clientDesc": "I could go to Leblanc..."
+  },
+  {
+    "sn": "60006",
+    "funcName": "Go to Leblanc",
+    "clientName": "Go to Leblanc",
+    "clientDesc": "I could go to Leblanc..."
+  },
+  {
+    "sn": "60021",
+    "funcName": "Go to Leblanc",
+    "clientName": "Go to Leblanc",
+    "clientDesc": "I could go to Leblanc..."
+  },
+  {
+    "sn": "60022",
+    "funcName": "Go to Leblanc",
+    "clientName": "Go to Leblanc",
+    "clientDesc": "I could go to Leblanc..."
+  },
+  {
+    "sn": "60023",
+    "funcName": "Go to Leblanc",
+    "clientName": "Go to Leblanc",
+    "clientDesc": "I could go to Leblanc..."
+  },
+  {
+    "sn": "60024",
+    "funcName": "Go to Leblanc",
+    "clientName": "Go to Leblanc",
+    "clientDesc": "I could go to Leblanc..."
+  },
+  {
+    "sn": "60025",
+    "funcName": "Go to Leblanc",
+    "clientName": "Go to Leblanc",
+    "clientDesc": "I could go to Leblanc..."
   },
   {
     "sn": "60101",
@@ -2418,6 +2520,12 @@
     "clientDesc": "Go meet the orange tabby"
   },
   {
+    "sn": "61201",
+    "funcName": "Spend time with Shirai",
+    "clientName": "Spend time with Shirai",
+    "clientDesc": "I should go meet Shirai..."
+  },
+  {
     "sn": "61401",
     "funcName": "Talk to Tosabayashi",
     "clientName": "Talk to Tosabayashi",
@@ -2458,6 +2566,12 @@
     "funcName": "See the orange tabby",
     "clientName": "Tabby's Treasure Hunt",
     "clientDesc": "Go meet the orange tabby"
+  },
+  {
+    "sn": "61101",
+    "funcName": "Error: tnxotb-[OWEvent_funcName_61101]",
+    "clientName": "Error: tnxotb-[OWEvent_clientName_61101]",
+    "clientDesc": "Error: tnxotb-[OWEvent_clientDesc_61101]"
   },
   {
     "sn": "61403",

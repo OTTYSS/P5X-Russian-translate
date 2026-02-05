@@ -642,12 +642,62 @@
   {
     "sn": "214",
     "title": "<color=#72C5FF>Icebound</color>",
-    "desc": "Unable to act."
+    "desc": "[Status] Unable to act for 1 turn."
+  },
+  {
+    "sn": "215",
+    "title": "tdxct-[SkillTips_title_215]",
+    "desc": "tdxct-[SkillTips_desc_215]"
+  },
+  {
+    "sn": "216",
+    "title": "tdxct-[SkillTips_title_216]",
+    "desc": "tdxct-[SkillTips_desc_216]"
+  },
+  {
+    "sn": "217",
+    "title": "tdxct-[SkillTips_title_217]",
+    "desc": "tdxct-[SkillTips_desc_217]"
+  },
+  {
+    "sn": "218",
+    "title": "<color=#72C5FF>Falling Petals</color>",
+    "desc": "When taking Wind damage, increase the damage's Attack."
+  },
+  {
+    "sn": "219",
+    "title": "<color=#72C5FF>Falling Petals</color>",
+    "desc": "When taking any attribute damage, increase the damage's Attack."
+  },
+  {
+    "sn": "220",
+    "title": "tnxotb-[SkillTips_title_220]",
+    "desc": "tnxotb-[SkillTips_desc_220]"
+  },
+  {
+    "sn": "221",
+    "title": "<color=#72C5FF>Blossom</color>",
+    "desc": "Gain 1 stack each time skill damage is dealt when Unravel is active. Increases Attack for 3 turns. Stacks up to 10 times. Gaining 5 will increase Attack and critical damage further based on Riko's critical multiplier. Gaining 10 will increase critical damage even further based on Riko's critical multiplier."
+  },
+  {
+    "sn": "222",
+    "title": "<color=#72C5FF>Flaming Sword Dance</color>",
+    "desc": "For 1 turn, increase damage, and normal attack evolves to Flaming Flower Slash. Remove when Flaming Flower Slash is activated."
+  },
+  {
+    "sn": "223",
+    "title": "<color=#72C5FF>Flaming Flower Slash</color>",
+    "desc": "Deal Fire damage to all foes based on Attack, and can activate Fire Technicals. When activating a Technical on a Burning foe, effect is increased."
+  },
+  {
+    "sn": "224",
+    "title": "<color=#72C5FF>Year-End Flames</color>",
+    "desc": "For 2 turns, take Fire damage based on Firecracker Yaoling's Attack. Stacks up to 4 times."
   },
   {
     "sn": "225",
     "title": "<color=#72C5FF>Fire Technical</color>",
-    "desc": "Some Fire skills have other effects on foes in certain states.\nFireburn activates on Burning foes and increases damage dealt to the target by 2%.\nIceburn activates on Frozen foes and has a 50% chance to increase the target's Fire and Ice damage taken by 5% for 2 turns.\nWindburn activates on Windswept foes and deals Fire damage as a follow-up equal to 1% of the target's max HP (1 time)."
+    "desc": "Some Fire skills have other effects on foes in certain states.\nFireburn activates on Burning foes and increases damage dealt to the target by 2%.\n50% chance to activate Iceburn on Frozen foes, increasing the target's Fire and Ice damage taken by 5% for 2 turns.\nWindburn activates on Windswept foes and deals Fire damage as a follow-up equal to 1% of the target's max HP (1 time)."
   },
   {
     "sn": "226",
@@ -663,6 +713,31 @@
     "sn": "228",
     "title": "<color=#72C5FF>Windburn</color>",
     "desc": "After activating, deal Fire damage as a follow-up equal to 1% of target's max HP."
+  },
+  {
+    "sn": "229",
+    "title": "<color=#72C5FF>Ice Technical</color>",
+    "desc": "Some Ice skills have other effects on foes in certain states.\nShort Circuit activates on Shocked foes and increases damage dealt to the target by 2%.\n50% chance to activate Iceburn on Frozen foes, increasing the target's Fire and Ice damage taken by 5% for 2 turns.\n2% chance to activate Deepfreeze on Frozen foes, inflicting Icebound for 1 turn."
+  },
+  {
+    "sn": "230",
+    "title": "<color=#72C5FF>Short Circuit</color>",
+    "desc": "After activating, increase damage dealt to target by 2%."
+  },
+  {
+    "sn": "231",
+    "title": "<color=#72C5FF>Deepfreeze</color>",
+    "desc": "2% chance to inflict Icebound on target for 1 turn."
+  },
+  {
+    "sn": "232",
+    "title": "<color=#72C5FF>Technical Ailment</color>",
+    "desc": "Special effects inflicted via Technicals. Includes Iceburn and Deepfreeze."
+  },
+  {
+    "sn": "233",
+    "title": "<color=#72C5FF>Technical Precision</color>",
+    "desc": "Additional effects activated via Technicals. For every 100 points of Technical Precision, gain the following effects (activate even if Technical Precision is below 100).\nIncrease the skill damage increase effect of Fireburn by 10%.\nIncrease the skill damage increase effect of Short Circuit by 10%.\nIncrease the Fire/Ice damage taken increase effect of Iceburn by 5%.\nIncrease the bonus damage from Windburn by 6%.\nIncrease the chance to activate Deepfreeze by 2.5%."
   },
   {
     "sn": "237",
@@ -697,7 +772,7 @@
   {
     "sn": "283",
     "title": "<color=#66ccff>Special Challenges</color>",
-    "desc": "Clear 1 Fate Stella and 2 Lord Stellae during the season with a Willpower cap of 17, or clear 1 Fate Stella and 3 Lord Stellae during the season with a Willpower cap of 21."
+    "desc": "Clear 1 red Stella and 2 purple Stellae during the season with a Willpower cap of 17, or clear 1 red Stella and 3 purple Stellae during the season with a Willpower cap of 21."
   },
   {
     "sn": "211",

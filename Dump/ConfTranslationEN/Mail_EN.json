@@ -48,6 +48,12 @@
     "sender": "System Notification"
   },
   {
+    "sn": "10010",
+    "title": "%s Reward",
+    "detail": "The unclaimed rewards from the event %s have been delivered to you via this message.",
+    "sender": "Persona5: The Phantom X Operations Team"
+  },
+  {
     "sn": "11",
     "title": "Unclaimed Contract Rewards",
     "detail": "As there was not enough room in your bag, the items obtained from the contract have been delivered to you via this message.",
@@ -97,7 +103,7 @@
   },
   {
     "sn": "19",
-    "title": "Pass Level Rewards",
+    "title": "Phantom Pass Level Rewards",
     "detail": "The level rewards from the previous Phantom Pass were not claimed. Please claim your rewards.",
     "sender": "Persona5: The Phantom X Operations Team"
   },
@@ -109,7 +115,7 @@
   },
   {
     "sn": "21",
-    "title": "Pass Purchase Rewards",
+    "title": "Phantom Pass Purchase Rewards",
     "detail": "Thank you for purchasing <color=#1A9827>Phantom Pass %s</color>. The rewards have been delivered to via this message.",
     "sender": "Persona5: The Phantom X Operations Team"
   },
@@ -236,7 +242,7 @@
   {
     "sn": "45",
     "title": "Special Bonus from Marthym's Shop",
-    "detail": "As thanks for purchasing %s, please accept this special gift from Marthym's Shop. You can find it attached below.",
+    "detail": "As thanks for purchasing the %s, please accept this special gift from Marthym's Shop. You can find it attached below.",
     "sender": "Marthym"
   },
   {
@@ -250,6 +256,12 @@
     "title": "Event Ending Notice",
     "detail": "The event period for %s will end soon.\nFor details on the event period, check the Shop or Event pages in-game.\n*For events with an exchange shop, the shop will also close when the event ends. Be sure to exchange rewards as soon as possible.",
     "sender": "System Notification"
+  },
+  {
+    "sn": "12001",
+    "title": "%s Ending Soon",
+    "detail": "The event period for %s will end soon.\nFor details on the event period, check the Shop or Event pages in-game.\n*For events with an exchange shop, the shop will also close when the event ends. Be sure to exchange rewards as soon as possible.",
+    "sender": "Persona5: The Phantom X Operations Team"
   },
   {
     "sn": "2003",
@@ -294,8 +306,20 @@
     "sender": "Persona5: The Phantom X Operations Team"
   },
   {
+    "sn": "12009",
+    "title": "%s Coin Delivery",
+    "detail": "The event %s has ended.\nYour unused coins have been delivered to you, and can be found in your bag.",
+    "sender": "Persona5: The Phantom X Operations Team"
+  },
+  {
     "sn": "2010",
-    "title": "Event Item Compensation",
+    "title": "Unclaimed Event Rewards",
+    "detail": "The event %s has ended.\nYour unused items have been automatically exchanged for rewards and delivered to you via this message.",
+    "sender": "Persona5: The Phantom X Operations Team"
+  },
+  {
+    "sn": "12010",
+    "title": "%s Reward",
     "detail": "The event %s has ended.\nYour unused items have been automatically exchanged for rewards and delivered to you via this message.",
     "sender": "Persona5: The Phantom X Operations Team"
   },
@@ -303,6 +327,12 @@
     "sn": "2011",
     "title": "Marthym's Rewards Card Reward Compensation",
     "detail": "The rewards for Marthym's Rewards Card have been adjusted from this update.\nCoffee Aid x1 has been added to the daily rewards, so Coffee Aid has been delivered to you as compensation based on the records for your previously purchased Marthym's Rewards Cards.",
+    "sender": "Persona5: The Phantom X Operations Team"
+  },
+  {
+    "sn": "2012",
+    "title": "%s Reward",
+    "detail": "On %s, you had some unclaimed rewards from %s. They have been delivered directly to you via this message.",
     "sender": "Persona5: The Phantom X Operations Team"
   },
   {
@@ -366,15 +396,63 @@
     "sender": "Persona5: The Phantom X Operations Team"
   },
   {
-    "sn": "2002",
-    "title": "AAAAAA==",
-    "detail": "Thank you for playing Persona5: The Phantom X.\nIn order to provide you with a better game experience, we are currently conducting a survey.\nYour opinions are very important to us. All data collected from this survey will be kept confidential and used solely for the purpose of improving the game.\n\nUpon completing the %s survey, you will receive Konpaku Gems x30,000 as a gift.\n\n<link=\"%s\"><u><color=#0F69CA>Survey Link</color></u></link>",
-    "sender": "Persona5: The Phantom X Operations Team"
+    "sn": "10001",
+    "title": "A Special Message from Motoha Arai",
+    "detail": "Happy Valentine's, {NAME2}!\nJust thinking about our date today makes me so happy that I can't stop smiling. I don't think I'll get a wink of sleep tonight at this rate!\nStill, I wouldn't have it any other way. It'd be great if we could always hang out even after Valentine's is over!\nCome to think of it, there's a bunch of stuff I wouldn't have been able to face head-on if you weren't around. Thanks for being there for me. And well, if it's okay with you... It'd be nice we could stay together from now on.\nLet's make a ton more memories, just the two of us! Love you lots!",
+    "sender": "Motoha Arai"
   },
   {
-    "sn": "2012",
+    "sn": "10002",
+    "title": "A Special Message from Riko Tanemura",
+    "detail": "Hello, {NAME2}.\nThis may have been the first time I've ever had such an enjoyable Valentine's. It's a bit embarrassing but... it was a wonderful opportunity to know each other better.\nYou've truly taught me so much. Without you, I would have never gotten to know and experience a great number of things. For all that you've done, I wanted to show my thanks... And so, I've prepared a present that hopefully captures the essence of \"I Love You\" on this particular day.\nYou'll continue to stay by my side, won't you?",
+    "sender": "Riko Tanemura"
+  },
+  {
+    "sn": "10003",
+    "title": "A Special Message from Yaoling Li",
+    "detail": "Happy Valentine's, {NAME2}-sensei!!\nI have something to tell you and I'm definitely not missing my chance.\nAs you know, my parents told me to go out and experience the world. Before I left the country, I had no idea what they meant. But after meeting you, I think I finally get what they were saying.\nWhen I'm with you, even if things are looking fun or frustrating, it always ends up being unforgettable. Sensei, thanks to you I could forget all my worries and fears and become the me you see today.\nSo then, I thought, maybe I came to Japan just so I could meet you!\nSensei, thank you so very much for everything. Looking forward to here on out.",
+    "sender": "Yaoling Li"
+  },
+  {
+    "sn": "10004",
+    "title": "A Special Message from Tomoko Noge",
+    "detail": "{NAME2}-kun,\nSorry to message you out of the blue!\nI actually wanted to come talk to you in person after class, but I ended up having to cover a shift at work...\nFor me, today feels special because it's the first Valentine's Day since we met.\nAfter I was injured and couldn't continue baseball anymore, things were really hard for me. But then you were there. You picked me up and helped me keep moving forward. I was able to put all of that pain behind me because you were by my side.\nAnyway, I'm just really glad I met you, and getting to spend time with you makes me really happy!\nSorry this message ended up being super long, but there's just one more thing. I actually made you a little something for Valentine's Day. I was wondering if after work I could stop by and give it to you?",
+    "sender": "Tomoko Noge"
+  },
+  {
+    "sn": "10005",
+    "title": "A Special Message from Ayaka Sakai",
+    "detail": "{NAME1}-kun,\nHappy Valentine's Day! I hope you like my present!\nI've been thinking about the day we met a lot lately. If you hadn't been there back then I don't think I'd have had the courage to start street performing.\nBut because of you I was finally able to share my voice, and my song, with the world. I really feel like I'm living out my dreams.\nI have a lot more songs I want to play for you, so I hope you'll keep on listening!",
+    "sender": "Ayaka Sakai"
+  },
+  {
+    "sn": "10006",
+    "title": "A Special Message from Yumi Shiina",
+    "detail": "{NAME2}-kun,\nHappy Valentine's!\nEveryone thinks Valentine's Day is all about the chocolates. But you know, that's not all there is... There are other things adults like to do on Valentine's Day. Would you like to come to the bar tonight and find out?\nJust kidding! Hehe, you're still too young for that!\nSorry for teasing you. But I do want you to come by the bar. I want you to try our special Valentine's mocktail. I think you'll really love the taste, so you have to come try it!\n\nP.S. Once you're old enough to drink, I promise to make you a real cocktail. So you promise to try it, 'kay?",
+    "sender": "Yumi Shiina"
+  },
+  {
+    "sn": "10007",
+    "title": "A Special Message from Miyu Sahara",
+    "detail": "To my favorite Big Bro:\nHey there! Have you been thinking about me today? Because I've sure been thinking about you!\nIt's Valentine's Day, after all. I wanted to get you the absolute best present I could. I was going over all the possibilities I could think of!\nOh, but I've gotta think about the price, too... It has to be within my budget. But you're always doing so much for me, so I really want to show my appreciation properly.\nThanks to you, I've been able to keep putting on the show I love. Since you supported me, I'm going to make sure it becomes the best show in the whole world!\nSo I want to absolutely, positively show you how much I love you forever and ever!\nSo then, you know where to find me, and I'll be waiting for you to stop by and say hello again!",
+    "sender": "Miyu Sahara"
+  },
+  {
+    "sn": "10008",
+    "title": "A Special Message from Kotone Montagne",
+    "detail": "{NAME2}-kun,\nJe t'aime.\nUntil now my every Valentine's Day was taken up by figure skating practice. I can't exactly eat much chocolate in my line of work either.\nMaybe it's because I have you that today's Valentine's feels special. In wanting to express how much you mean to me, I find myself buying every Valentine's gift I see. This must be how my coach feels about expressing love through choreography.\nDo you remember that day when I performed in front of you? You watched and you applauded, and ever since then you've become the most important person in my life.\nThat's why I promise to keep showing my love for you forever.",
+    "sender": "Kotone Montagne"
+  },
+  {
+    "sn": "10009",
+    "title": "A Special Message from Runa Dogenzaka",
+    "detail": "{NAME2}-kun,\nWoof! Woof! Hooray! And Happy Valentine's Day!\nI've never really had experience with Valentines. I mean, I like chocolate as much as the next person, but I've never got any or had anyone to give them to. Shichi-kun won't accept food gifts, so what's the point right? That's why the closest I've come to Valentine's chocolate is browsing the underground mall displays in Shibuya.\nBut since I met you, this Valentine's was totally different! I worked really hard making chocolates to give you, and it was so much fun!\nI think spending time with you has made me a lot more confident and willing to put myself out there, so thank you for that. Of course Shichi-kun is very important to me, but I couldn't imagine my life without you in it either!\nSooo, here's a Valentine's gift from me to you! See you around Shibuya!",
+    "sender": "Runa Dogenzaka"
+  },
+  {
+    "sn": "2002",
     "title": "AAAAAA==",
-    "detail": "On %s, you had some unclaimed rewards from %s. They have been delivered directly to you via this message.",
+    "detail": "Thank you for playing Persona5: The Phantom X.\nIn order to provide you with a better game experience, we are currently conducting a survey.\nYour opinions are very important to us. All data collected from this survey will be kept confidential and used solely for the purpose of improving the game.\n\nUpon completing the %s survey, you will receive Konpaku Gems x30,000 as a gift.\n\n<link=\"\"%s\"\"><u><color=#0F69CA>Survey Link</color></u></link>",
     "sender": "Persona5: The Phantom X Operations Team"
   }
 ]

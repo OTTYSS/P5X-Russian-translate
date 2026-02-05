@@ -714,7 +714,7 @@
     "name": "Ultima Booster",
     "desc": "Increase 1 ally's Attack by <color=#FFFC40>^%s^</color> for 2 turns (other than Kamiyama).\nFor each stack of <link=\"s|128\"><u>Power of Friendship</u></link> the target has, increase Attack by 20% of Kamiyama's Attack more (up to <color=#FFFC40>^%s^</color>).",
     "descSimple": "Increase 1 other ally's Atk %s for 2 turns.\nFor each stack of Power of Friendship on target, increase Atk (20% of Kamiyama's Atk, up to %s).",
-    "levelUpList": "Atk Increase Cap,Atk Increase",
+    "levelUpList": "Atk Increase Multiplier,Extra Atk Increase Cap",
     "levelUpValue": "AAAAAA==",
     "contentBG": "The power of friendship amplifies an ally's strength, increasing their Attack.",
     "skillTag": "Buff"
@@ -1334,7 +1334,7 @@
     "name": "Graceful Gale",
     "desc": "Deal Wind damage to all foes equal to <color=#FFFC40>^%s^</color> of Attack (3 hits). Gain 1 <link=\"s|118\"><u>Right to Strike</u></link> stack with a chance equal to the number of foes present when using the skill × <color=#FFFC40>^%s^</color>.",
     "descSimple": "Wind dmg to all foes (%s Atk, 3 hits). Chance (number of foes x %s) to gain 1 Right to Strike.",
-    "levelUpList": "Skill Multiplier,Chance",
+    "levelUpList": "Skill Multiplier,Right to Strike Chance",
     "levelUpValue": "AAAAAA==",
     "contentBG": "A powerful tornado tears through everything in its path, dealing Wind damage to enemies.",
     "skillTag": "Multi-Target"
@@ -2854,7 +2854,7 @@
     "name": "Highlight",
     "desc": "Restore party's HP by <color=#FFFC40>^%s^</color> of Minami's max HP + <color=#FFFC40>^%s^</color>, and cure 1 debuff.\nIncrease party's max HP by <color=#FFFC40>16.5%</color> of Minami's max HP (up to <color=#FFFC40>^%s^</color>) for 2 turns. At the end of an action, restore HP equal to <color=#FFFC40>^%s^</color> of Minami's max HP + <color=#FFFC40>^%s^</color> for 1 turn.",
     "descSimple": "Restore party's HP (%s of Minami's max HP + %s), and cure 1 debuff.\nIncrease party's max HP (16.5% of Minami's max HP, max %s, 2 turns).\nAt end of action, restore HP (%s of Minami's max HP + %s) for 1 turn.",
-    "levelUpList": "Highlight Healing Multiplier,Highlight Base Healing,Highlight HP Increase Cap,Highlight Cont. Healing Multiplier,Highlight Base Cont. Healing",
+    "levelUpList": "Highlight Healing Multiplier,Highlight Base Healing,Highlight HP Cap Increase,Highlight Cont. Healing Multiplier,Highlight Base Cont. Healing",
     "levelUpValue": "AAAAAA==",
     "contentBG": "AAAAAA==",
     "skillTag": "AAAAAA=="
@@ -3892,7 +3892,7 @@
   {
     "sn": "109161",
     "name": "Ranged Attack",
-    "desc": "Deal Gun damage to random foes. Fire 3 shots at once, and can fire until out of ammo.",
+    "desc": "Deal Gun damage to 1 foe. Fire 3 shots at once, and can fire until out of ammo.",
     "descSimple": "AAAAAA==",
     "levelUpList": "Ranged Dmg",
     "levelUpValue": "6.7%,13.3%,20.0%,26.7%,33.3%,40.0%,46.7%,51.3%,56.0%,59.3%,62.7%,66.0%,69.3%,72.7%",
@@ -4223,7 +4223,7 @@
     "sn": "111152",
     "name": "Highlight",
     "desc": "Increase Attack by <color=#FFFC40>^%s^</color> and follow-up damage by <color=#FFFC40>^%s^</color> of Attack for 2 turns.\nActivate follow-up when allies deal damage to foes with skills for 2 turns.",
-    "descSimple": "Increase Yui's Atk and follow-up dmg (2 turns). Also perform follow-up attack when allies deal skill dmg to foes (2 turns).",
+    "descSimple": "Increase Yui's Atk %s and follow-up attack dmg %s (2 turns). Also perform follow-up attack when ally deals skill dmg to foe (2 turns).",
     "levelUpList": "Highlight Atk Increase,Highlight Follow-Up Dmg Multiplier Increase",
     "levelUpValue": "AAAAAA==",
     "contentBG": "AAAAAA==",
@@ -5772,7 +5772,7 @@
   {
     "sn": "110241",
     "name": "Flash of Summer",
-    "desc": "Each time a foe receives a <link=\"\"s|194\"\"><u>Summer Reminiscence</u></link> effect, decrease the foe's Defense by 15% for 3 turns. Stacks up to 3 times.\nHale Summer Days healing effects apply to all allies.",
+    "desc": "Each time a foe receives a <link=\"s|194\"><u>Summer Reminiscence</u></link> effect, decrease the foe's Defense by 15% for 3 turns. Stacks up to 3 times.\nHale Summer Days healing effects apply to all allies.",
     "descSimple": "AAAAAA==",
     "levelUpList": "AAAAAA==",
     "levelUpValue": "AAAAAA==",
@@ -6402,7 +6402,7 @@
   {
     "sn": "134111",
     "name": "Welcome Hug",
-    "desc": "Deal Fire damage to all foes equal to <color=#FFFC40>^%s^</color> of Attack.\nDecrease target's Defense by 15.4% of Runa's ailment accuracy for 2 turns (up to <color=#FFFC40>^%s^</color>). Also, when the target of this effect takes Fire, Ice, Electric, or Ice skill damage, decrease Defense by <color=#FFFC40>^%s^</color> more. The Defense decrease effects from this skill and Furrious Bark do not stack.\nAlso, 50% chance to inflict Burn on the target, and gain Big Welcome for 2 turns.\n",
+    "desc": "Deal Fire damage to all foes equal to <color=#FFFC40>^%s^</color> of Attack.\nDecrease target's Defense by 15.4% of Runa's ailment accuracy for 2 turns (up to <color=#FFFC40>^%s^</color>). Also, when the target of this effect takes Fire, Ice, Electric, or Wind skill damage, decrease Defense by <color=#FFFC40>^%s^</color> more. The Defense decrease effects from this skill and Furrious Bark do not stack.\nAlso, 50% chance to inflict Burn on the target, and gain Big Welcome for 2 turns.",
     "descSimple": "Fire dmg to all foes (%s Atk).\nDecrease target's Def (15.4% of Runa's ailment acc, max %s). After taking Fire, Ice, Elec, or Wind skill dmg, decrease %s more (2 turns). Def decrease effects from this skill and Furrious Bark do not stack.\nAlso, 50% chance to inflict Burn, and gain Big Welcome (2 turns).",
     "levelUpList": "Skill Multiplier,Def Decrease Cap,Def Decrease (Fire Dmg Taken)",
     "levelUpValue": "AAAAAA==",
@@ -6573,6 +6573,976 @@
     "sn": "134161",
     "name": "Ranged Attack",
     "desc": "Deal Gun damage to 1 foe. Can fire until out of ammo.",
+    "descSimple": "AAAAAA==",
+    "levelUpList": "Ranged Dmg",
+    "levelUpValue": "6.7%,13.3%,20.0%,26.7%,33.3%,40.0%,46.7%,51.3%,56.0%,59.3%,62.7%,66.0%,69.3%,72.7%",
+    "contentBG": "AAAAAA==",
+    "skillTag": "AAAAAA=="
+  },
+  {
+    "sn": "135101",
+    "name": "Melee Attack",
+    "desc": "Deal Physical damage to 1 foe.",
+    "descSimple": "AAAAAA==",
+    "levelUpList": "Melee Dmg",
+    "levelUpValue": "6.7%,13.3%,20.0%,26.7%,33.3%,40.0%,46.7%,51.3%,56.0%,59.3%,62.7%,66.0%,69.3%,72.7%",
+    "contentBG": "AAAAAA==",
+    "skillTag": "AAAAAA=="
+  },
+  {
+    "sn": "135111",
+    "name": "tdxct-[Skill_name_135111]",
+    "desc": "tdxct-[Skill_desc_135111]",
+    "descSimple": "tdxct-[Skill_descSimple_135111]",
+    "levelUpList": "tdxct-[Skill_levelUpList_135111]",
+    "levelUpValue": "AAAAAA==",
+    "contentBG": "tdxct-[Skill_contentBG_135111]",
+    "skillTag": "Single-Target"
+  },
+  {
+    "sn": "135112",
+    "name": "tdxct-[Skill_name_135112]",
+    "desc": "tdxct-[Skill_desc_135112]",
+    "descSimple": "tdxct-[Skill_descSimple_135112]",
+    "levelUpList": "tdxct-[Skill_levelUpList_135112]",
+    "levelUpValue": "AAAAAA==",
+    "contentBG": "tdxct-[Skill_contentBG_135112]",
+    "skillTag": "Buff"
+  },
+  {
+    "sn": "135113",
+    "name": "tdxct-[Skill_name_135113]",
+    "desc": "tdxct-[Skill_desc_135113]",
+    "descSimple": "tdxct-[Skill_descSimple_135113]",
+    "levelUpList": "tdxct-[Skill_levelUpList_135113]",
+    "levelUpValue": "AAAAAA==",
+    "contentBG": "tdxct-[Skill_contentBG_135113]",
+    "skillTag": "Single-Target"
+  },
+  {
+    "sn": "135114",
+    "name": "tdxct-[Skill_name_135114]",
+    "desc": "AAAAAA==",
+    "descSimple": "AAAAAA==",
+    "levelUpList": "AAAAAA==",
+    "levelUpValue": "AAAAAA==",
+    "contentBG": "AAAAAA==",
+    "skillTag": "Single-Target"
+  },
+  {
+    "sn": "135115",
+    "name": "tdxct-[Skill_name_135115]",
+    "desc": "tdxct-[Skill_desc_135115]",
+    "descSimple": "AAAAAA==",
+    "levelUpList": "AAAAAA==",
+    "levelUpValue": "AAAAAA==",
+    "contentBG": "AAAAAA==",
+    "skillTag": "AAAAAA=="
+  },
+  {
+    "sn": "135131",
+    "name": "tdxct-[Skill_name_135131]",
+    "desc": "tdxct-[Skill_desc_135131]",
+    "descSimple": "AAAAAA==",
+    "levelUpList": "AAAAAA==",
+    "levelUpValue": "AAAAAA==",
+    "contentBG": "AAAAAA==",
+    "skillTag": "Talent"
+  },
+  {
+    "sn": "135132",
+    "name": "tdxct-[Skill_name_135132]",
+    "desc": "tdxct-[Skill_desc_135132]",
+    "descSimple": "AAAAAA==",
+    "levelUpList": "AAAAAA==",
+    "levelUpValue": "AAAAAA==",
+    "contentBG": "AAAAAA==",
+    "skillTag": "Talent"
+  },
+  {
+    "sn": "135140",
+    "name": "tdxct-[Skill_name_135140]",
+    "desc": "tdxct-[Skill_desc_135140]",
+    "descSimple": "tdxct-[Skill_descSimple_135140]",
+    "levelUpList": "AAAAAA==",
+    "levelUpValue": "AAAAAA==",
+    "contentBG": "AAAAAA==",
+    "skillTag": "AAAAAA=="
+  },
+  {
+    "sn": "135141",
+    "name": "tdxct-[Skill_name_135141]",
+    "desc": "tdxct-[Skill_desc_135141]",
+    "descSimple": "AAAAAA==",
+    "levelUpList": "AAAAAA==",
+    "levelUpValue": "AAAAAA==",
+    "contentBG": "AAAAAA==",
+    "skillTag": "AAAAAA=="
+  },
+  {
+    "sn": "135142",
+    "name": "tdxct-[Skill_name_135142]",
+    "desc": "tdxct-[Skill_desc_135142]",
+    "descSimple": "AAAAAA==",
+    "levelUpList": "AAAAAA==",
+    "levelUpValue": "AAAAAA==",
+    "contentBG": "AAAAAA==",
+    "skillTag": "AAAAAA=="
+  },
+  {
+    "sn": "135143",
+    "name": "tdxct-[Skill_name_135143]",
+    "desc": "tdxct-[Skill_desc_135143]",
+    "descSimple": "AAAAAA==",
+    "levelUpList": "AAAAAA==",
+    "levelUpValue": "AAAAAA==",
+    "contentBG": "AAAAAA==",
+    "skillTag": "AAAAAA=="
+  },
+  {
+    "sn": "135144",
+    "name": "tdxct-[Skill_name_135144]",
+    "desc": "tdxct-[Skill_desc_135144]",
+    "descSimple": "AAAAAA==",
+    "levelUpList": "AAAAAA==",
+    "levelUpValue": "AAAAAA==",
+    "contentBG": "AAAAAA==",
+    "skillTag": "AAAAAA=="
+  },
+  {
+    "sn": "135145",
+    "name": "tdxct-[Skill_name_135145]",
+    "desc": "tdxct-[Skill_desc_135145]",
+    "descSimple": "AAAAAA==",
+    "levelUpList": "AAAAAA==",
+    "levelUpValue": "AAAAAA==",
+    "contentBG": "AAAAAA==",
+    "skillTag": "AAAAAA=="
+  },
+  {
+    "sn": "135146",
+    "name": "tdxct-[Skill_name_135146]",
+    "desc": "tdxct-[Skill_desc_135146]",
+    "descSimple": "AAAAAA==",
+    "levelUpList": "AAAAAA==",
+    "levelUpValue": "AAAAAA==",
+    "contentBG": "AAAAAA==",
+    "skillTag": "AAAAAA=="
+  },
+  {
+    "sn": "135151",
+    "name": "1 MORE",
+    "desc": "tdxct-[Skill_desc_135151]",
+    "descSimple": "AAAAAA==",
+    "levelUpList": "tdxct-[Skill_levelUpList_135151]",
+    "levelUpValue": "6.7%,13.3%,20.0%,26.7%,33.3%,40.0%,46.7%,51.3%,56.0%,59.3%,62.7%,66.0%,69.3%,72.7%",
+    "contentBG": "AAAAAA==",
+    "skillTag": "AAAAAA=="
+  },
+  {
+    "sn": "135152",
+    "name": "Highlight",
+    "desc": "AAAAAA==",
+    "descSimple": "AAAAAA==",
+    "levelUpList": "tdxct-[Skill_levelUpList_135152]",
+    "levelUpValue": "AAAAAA==",
+    "contentBG": "AAAAAA==",
+    "skillTag": "AAAAAA=="
+  },
+  {
+    "sn": "135153",
+    "name": "Highlight",
+    "desc": "AAAAAA==",
+    "descSimple": "AAAAAA==",
+    "levelUpList": "tdxct-[Skill_levelUpList_135153]",
+    "levelUpValue": "AAAAAA==",
+    "contentBG": "AAAAAA==",
+    "skillTag": "AAAAAA=="
+  },
+  {
+    "sn": "135161",
+    "name": "Ranged Attack",
+    "desc": "tdxct-[Skill_desc_135161]",
+    "descSimple": "AAAAAA==",
+    "levelUpList": "tdxct-[Skill_levelUpList_135161]",
+    "levelUpValue": "6.7%,13.3%,20.0%,26.7%,33.3%,40.0%,46.7%,51.3%,56.0%,59.3%,62.7%,66.0%,69.3%,72.7%",
+    "contentBG": "AAAAAA==",
+    "skillTag": "AAAAAA=="
+  },
+  {
+    "sn": "105201",
+    "name": "Melee Attack",
+    "desc": "Deal Physical damage to 1 foe.",
+    "descSimple": "AAAAAA==",
+    "levelUpList": "Melee Dmg",
+    "levelUpValue": "6.7%,13.3%,20.0%,26.7%,33.3%,40.0%,46.7%,51.3%,56.0%,59.3%,62.7%,66.0%,69.3%,72.7%",
+    "contentBG": "AAAAAA==",
+    "skillTag": "AAAAAA=="
+  },
+  {
+    "sn": "105202",
+    "name": "tnxotb-[Skill_name_105202]",
+    "desc": "tnxotb-[Skill_desc_105202]",
+    "descSimple": "AAAAAA==",
+    "levelUpList": "AAAAAA==",
+    "levelUpValue": "AAAAAA==",
+    "contentBG": "AAAAAA==",
+    "skillTag": "AAAAAA=="
+  },
+  {
+    "sn": "105203",
+    "name": "tnxotb-[Skill_name_105203]",
+    "desc": "tnxotb-[Skill_desc_105203]",
+    "descSimple": "AAAAAA==",
+    "levelUpList": "AAAAAA==",
+    "levelUpValue": "AAAAAA==",
+    "contentBG": "AAAAAA==",
+    "skillTag": "AAAAAA=="
+  },
+  {
+    "sn": "105204",
+    "name": "tnxotb-[Skill_name_105204]",
+    "desc": "tnxotb-[Skill_desc_105204]",
+    "descSimple": "AAAAAA==",
+    "levelUpList": "AAAAAA==",
+    "levelUpValue": "AAAAAA==",
+    "contentBG": "AAAAAA==",
+    "skillTag": "AAAAAA=="
+  },
+  {
+    "sn": "105205",
+    "name": "tnxotb-[Skill_name_105205]",
+    "desc": "tnxotb-[Skill_desc_105205]",
+    "descSimple": "AAAAAA==",
+    "levelUpList": "AAAAAA==",
+    "levelUpValue": "AAAAAA==",
+    "contentBG": "AAAAAA==",
+    "skillTag": "AAAAAA=="
+  },
+  {
+    "sn": "105206",
+    "name": "tnxotb-[Skill_name_105206]",
+    "desc": "tnxotb-[Skill_desc_105206]",
+    "descSimple": "AAAAAA==",
+    "levelUpList": "AAAAAA==",
+    "levelUpValue": "AAAAAA==",
+    "contentBG": "AAAAAA==",
+    "skillTag": "AAAAAA=="
+  },
+  {
+    "sn": "105207",
+    "name": "tnxotb-[Skill_name_105207]",
+    "desc": "tnxotb-[Skill_desc_105207]",
+    "descSimple": "AAAAAA==",
+    "levelUpList": "AAAAAA==",
+    "levelUpValue": "AAAAAA==",
+    "contentBG": "AAAAAA==",
+    "skillTag": "AAAAAA=="
+  },
+  {
+    "sn": "105208",
+    "name": "tnxotb-[Skill_name_105208]",
+    "desc": "tnxotb-[Skill_desc_105208]",
+    "descSimple": "AAAAAA==",
+    "levelUpList": "AAAAAA==",
+    "levelUpValue": "AAAAAA==",
+    "contentBG": "AAAAAA==",
+    "skillTag": "AAAAAA=="
+  },
+  {
+    "sn": "105209",
+    "name": "tnxotb-[Skill_name_105209]",
+    "desc": "tnxotb-[Skill_desc_105209]",
+    "descSimple": "AAAAAA==",
+    "levelUpList": "AAAAAA==",
+    "levelUpValue": "AAAAAA==",
+    "contentBG": "AAAAAA==",
+    "skillTag": "AAAAAA=="
+  },
+  {
+    "sn": "105211",
+    "name": "Storm of Petals",
+    "desc": "Deal Wind damage to 1 foe equal to <color=#FFFC40>^%s^</color> of Attack, and inflict <link=\"s|105\"><u>Windswept</u></link> and <link=\"s|218\"><u>Falling Petals</u></link> for 2 turns.\nFalling Petals: When taking Wind damage, increase Attack for that damage. The increase is equal to 18.3% of the portion of Tempest Riko's critical multiplier that exceeds 100% (up to <color=#FFFC40>^%s^</color> of critical multiplier).\nAlso, restore Tempest Riko's SP by 16.",
+    "descSimple": "Wind dmg to 1 foe (%s Atk), and inflict Windswept and Falling Petals (2 turns).\nFalling Petals: When taking Wind dmg, increase Atk for that dmg. Increase is equal to 18.3% of Tempest Riko's crit mult above 100% (max %s of crit mult).\nAlso, restore Tempest Riko's SP by 16.",
+    "levelUpList": "Skill Multiplier,Applied Crit Mult Increase",
+    "levelUpValue": "AAAAAA==",
+    "contentBG": "The scent of plum blossoms envelops the foe, dealing Wind damage to 1 enemy.",
+    "skillTag": "Single-Target"
+  },
+  {
+    "sn": "105212",
+    "name": "Arrival of Spring",
+    "desc": "Increase party's Attack for 2 turns. The increase is equal to 12.8% of the portion of Tempest Riko's critical multiplier that exceeds 100% (up to <color=#FFFC40>^%s^</color> of critical multiplier). Also, restore party's SP by 4.\nFor one time only while this effect is active, when an ally deals damage with a skill, Resonance, or Highlight, restore Tempest Riko's SP by 12.",
+    "descSimple": "Increase party's Atk (2 turns). Increase is equal to 12.8% of Riko's crit mult above 100% (max %s of crit mult). Also, restore 4 SP.\nWhile this effect is active, when an ally deals dmg with a skill, Resonance, or Highlight, restore Riko's SP by 12 (1 time only).",
+    "levelUpList": "Applied Crit Mult Increase",
+    "levelUpValue": "AAAAAA==",
+    "contentBG": "A warm spring breeze surrounds your allies, increasing the party's Attack.",
+    "skillTag": "Buff"
+  },
+  {
+    "sn": "105213",
+    "name": "Blossoming Season",
+    "desc": "Spend all SP, and increase 1 other ally's critical rate by <color=#FFFC40>^%s^</color> for 2 turns. Also, apply the following effects based on the amount of SP spent. For every 2 SP spent, increase the effect by 1%.\n50 SP or higher: For every 1% of Tempest Riko's critical multiplier that exceeds 100%, increase Attack by 2.4.\n100 SP or higher: Increase critical damage by 12% of the portion of Tempest Riko's critical multiplier that exceeds 100%.\n150 SP or higher: Increase critical damage more by 6% of the portion of Tempest Riko's critical multiplier that exceeds 100%.\nThese effects count up to <color=#FFFC40>^%s^</color> of Tempest Riko's critical multiplier.",
+    "descSimple": "Spend all SP, and increase 1 other ally's crit rate %s (2 turns). Also apply following effects based on SP spent. Increase effects 1% per 2 SP spent.\n50+ SP: Increase Atk 2.4 per 1% of crit mult over 100%.\n100+ SP: Increase crit dmg by 12% of crit mult over 100%.\n150 SP or higher: Increase crit dmg more by 6% of crit mult over 100%.\nThese effects count up to %s of Tempest Riko's crit mult.",
+    "levelUpList": "Crit Rate Increase,Applied Crit Mult Increase",
+    "levelUpValue": "AAAAAA==",
+    "contentBG": "The soft aroma of flowers guides your allies, increasing their abilities.",
+    "skillTag": "Buff"
+  },
+  {
+    "sn": "105214",
+    "name": "Storm of Petals",
+    "desc": "Deal Wind damage to 1 foe equal to <color=#FFFC40>^%s^</color> of Attack, and inflict <link=\"s|105\"><u>Windswept</u></link> and <link=\"s|219\"><u>Falling Petals</u></link> for 2 turns.\nFalling Petals: When taking any attribute damage, increase Attack for that damage. The increase is equal to 18.3% of the portion of Tempest Riko's critical multiplier that exceeds 100% (up to <color=#FFFC40>^%s^</color> of critical multiplier).\nAlso, restore Tempest Riko's SP by 16.",
+    "descSimple": "Wind dmg to 1 foe (%s Atk), and inflict Windswept and Falling Petals (2 turns).\nFalling Petals: When taking any attribute dmg, increase Atk for that dmg. Increase is equal to 18.3% of Riko's crit mult above 100% (max %s of crit mult).\nAlso, restore Tempest Riko's SP by 16.",
+    "levelUpList": "Skill Multiplier,Applied Crit Mult Increase",
+    "levelUpValue": "AAAAAA==",
+    "contentBG": "The scent of plum blossoms envelops the foe, dealing Wind damage to 1 enemy.",
+    "skillTag": "Single-Target"
+  },
+  {
+    "sn": "105216",
+    "name": "Blossoming Season",
+    "desc": "Spend all SP, and increase all other allies' critical rate by <color=#FFFC40>^%s^</color> for 2 turns. Also, apply the following effects based on the amount of SP spent. For every 2 SP spent, increase the effect by 1%.\n50 SP or higher: For every 1% of Tempest Riko's critical multiplier that exceeds 100%, increase Attack by 2.4.\n100 SP or higher: Increase critical damage by 12% of the portion of Tempest Riko's critical multiplier that exceeds 100%.\n150 SP or higher: Increase critical damage more by 6% of the portion of Tempest Riko's critical multiplier that exceeds 100%.\nThese effects count up to <color=#FFFC40>^%s^</color> of Tempest Riko's critical multiplier.",
+    "descSimple": "Spend all SP, and increase all other allies' crit rate %s (2 turns). Also apply following effects based on SP spent. Increase effects 1% per 2 SP spent.\n50+ SP: Increase Atk 2.4 per 1% of crit mult over 100%.\n100+ SP: Increase crit dmg by 12% of crit mult over 100%.\n150 SP or higher: Increase crit dmg more by 6% of crit mult over 100%.\nThese effects count up to %s of Tempest Riko's crit mult.",
+    "levelUpList": "Crit Rate Increase,Applied Crit Mult Increase",
+    "levelUpValue": "AAAAAA==",
+    "contentBG": "The soft aroma of flowers guides your allies, increasing their abilities.",
+    "skillTag": "Buff"
+  },
+  {
+    "sn": "105231",
+    "name": "Vernal Splendor",
+    "desc": "After using Blossoming Season, grant Unravel to the target for 2 turns.\nUnravel: Each time skill damage is dealt, gain 1 Blossom stack.\nBlossom: Increase Attack by <color=#FFFC40>^%s^</color> for 3 turns. Stacks up to 10 times. After gaining 5 Blossom stacks, increase Attack more by <color=#FFFC40>^%s^</color> of the portion of Tempest Riko's critical multiplier that exceeds 100%, and increase critical damage by <color=#FFFC40>^%s^</color> of the portion of her critical multiplier that exceeds 100%. After gaining 10 Blossom stacks, critical damage is increased more. This increase is equal to <color=#FFFC40>^%s^</color> of the portion of her critical multiplier that exceeds 100%.",
+    "descSimple": "AAAAAA==",
+    "levelUpList": "AAAAAA==",
+    "levelUpValue": "AAAAAA==",
+    "contentBG": "AAAAAA==",
+    "skillTag": "Talent"
+  },
+  {
+    "sn": "105232",
+    "name": "Sun-kissed Blooms",
+    "desc": "During battle, increase critical damage and HP based on Tempest Riko's SP Recovery. At a maximum of <color=#FFFC40>^%s^</color> SP Recovery, increase critical damage by <color=#FFFC40>^%s^</color>, and HP by <color=#FFFC40>^%s^</color>.",
+    "descSimple": "AAAAAA==",
+    "levelUpList": "AAAAAA==",
+    "levelUpValue": "AAAAAA==",
+    "contentBG": "AAAAAA==",
+    "skillTag": "Talent"
+  },
+  {
+    "sn": "105240",
+    "name": "Fragrant Gale",
+    "desc": "Increase Tempest Riko's max SP to 200, and increase her SP Recovery by 60%. When using a skill to restore her own SP, the amount recovered is affected by SP Recovery.\nWhen using Blossoming Season, spend all SP, and activate different effects based on the amount of SP spent.",
+    "descSimple": "tnxotb-[Skill_descSimple_105240]",
+    "levelUpList": "AAAAAA==",
+    "levelUpValue": "AAAAAA==",
+    "contentBG": "AAAAAA==",
+    "skillTag": "AAAAAA=="
+  },
+  {
+    "sn": "105241",
+    "name": "Colors of Dawn",
+    "desc": "The condition to activate the <link=\"s|218\"><u>Falling Petals</u></link> effect from Storm of Petals changes from Wind damage to any attribute damage. Also, increase the target's critical damage taken by 30%.\nArrival of Spring increases Sweeper allies' Attack by 25% more.",
+    "descSimple": "AAAAAA==",
+    "levelUpList": "AAAAAA==",
+    "levelUpValue": "AAAAAA==",
+    "contentBG": "AAAAAA==",
+    "skillTag": "AAAAAA=="
+  },
+  {
+    "sn": "105242",
+    "name": "East Wind",
+    "desc": "Increase Tempest Riko's max SP by 50 (also increase the maximum effect of Blossoming Season). Also, after activating Blossoming Season, immediately recover 50 SP.\nEnhance the effect of the Talent Vernal Splendor: Double the critical damage increase after gaining 5/10 <link=\"s|221\"><u>Blossom</u></link> stacks.",
+    "descSimple": "AAAAAA==",
+    "levelUpList": "AAAAAA==",
+    "levelUpValue": "AAAAAA==",
+    "contentBG": "AAAAAA==",
+    "skillTag": "AAAAAA=="
+  },
+  {
+    "sn": "105243",
+    "name": "Swaying Boughs",
+    "desc": "Increase the skill levels of Arrival of Spring and Blossoming Season by 3.",
+    "descSimple": "AAAAAA==",
+    "levelUpList": "AAAAAA==",
+    "levelUpValue": "AAAAAA==",
+    "contentBG": "AAAAAA==",
+    "skillTag": "AAAAAA=="
+  },
+  {
+    "sn": "105244",
+    "name": "Sea Breeze",
+    "desc": "Highlight Enhanced: The buff effect now applies to all allies besides Tempest Riko. Increase the main target's critical damage by 12% more, and restore 32 SP to all allies besides Tempest Riko.",
+    "descSimple": "AAAAAA==",
+    "levelUpList": "AAAAAA==",
+    "levelUpValue": "AAAAAA==",
+    "contentBG": "AAAAAA==",
+    "skillTag": "AAAAAA=="
+  },
+  {
+    "sn": "105245",
+    "name": "Rage of Spring",
+    "desc": "Increase the skill levels of Storm of Petals and Thief Tactics by 3.",
+    "descSimple": "AAAAAA==",
+    "levelUpList": "AAAAAA==",
+    "levelUpValue": "AAAAAA==",
+    "contentBG": "AAAAAA==",
+    "skillTag": "AAAAAA=="
+  },
+  {
+    "sn": "105246",
+    "name": "Full Blossom",
+    "desc": "Blossoming Season now affects all allies besides Tempest Riko. When the main target uses a skill, immediately activate Storm of Petals 1 time on the target foe. This effect can only be activated 1 time for each use of Blossoming Season. Also, extend the duration of <link=\"s|218\"><u>Falling Petals</u></link> from Storm of Petals by 1 turn.\nWhile Riko is on the field, when any ally deals damage, for every 1% of their critical rate that exceeds 100%, increase the critical damage of that damage by 2%.",
+    "descSimple": "AAAAAA==",
+    "levelUpList": "AAAAAA==",
+    "levelUpValue": "AAAAAA==",
+    "contentBG": "AAAAAA==",
+    "skillTag": "AAAAAA=="
+  },
+  {
+    "sn": "105251",
+    "name": "1 MORE",
+    "desc": "Deal Wind damage to 1 foe.",
+    "descSimple": "AAAAAA==",
+    "levelUpList": "1 More Dmg",
+    "levelUpValue": "6.7%,13.3%,20.0%,26.7%,33.3%,40.0%,46.7%,51.3%,56.0%,59.3%,62.7%,66.0%,69.3%,72.7%",
+    "contentBG": "AAAAAA==",
+    "skillTag": "AAAAAA=="
+  },
+  {
+    "sn": "105252",
+    "name": "Highlight",
+    "desc": "Increase 1 other ally's Attack (for every 1% of Tempest Riko's critical multiplier that exceeds 100%, increase Attack by 2.5, up to <color=#FFFC40>^%s^</color> of critical multiplier) and increase critical damage by <color=#FFFC40>^%s^</color> for 2 turns.\nAlso, restore 20 SP to all allies besides Tempest Riko.",
+    "descSimple": "Increase 1 other ally's Atk (2.5 per 1% of Riko's crit mult over 100%, max %s of crit mult), and increase crit dmg %s (2 turns).\nAlso, restore 20 SP to all allies besides Riko.",
+    "levelUpList": "Applied Crit Mult Increase,Crit Dmg Increase",
+    "levelUpValue": "AAAAAA==",
+    "contentBG": "AAAAAA==",
+    "skillTag": "AAAAAA=="
+  },
+  {
+    "sn": "105253",
+    "name": "Highlight",
+    "desc": "Increase all other allies' Attack (for every 1% of Tempest Riko's critical multiplier that exceeds 100%, increase Attack by 2.5, up to <color=#FFFC40>^%s^</color> of critical multiplier) and increase critical damage by <color=#FFFC40>^%s^</color>. Also, increase the main target's critical damage by 12% more.\nAlso, restore 32 SP to all allies besides Tempest Riko. Lasts for 2 turns.",
+    "descSimple": "Increase all other allies' Atk (For every 1% of Riko's crit mult above 100%, increase Atk 2.5, max %s of crit mult), and increase crit dmg %s (2 turns). Also, increase main target's crit dmg 12% more.\nAlso, restore 32 SP to all allies besides Riko.",
+    "levelUpList": "Applied Crit Mult Increase,Crit Dmg Increase",
+    "levelUpValue": "AAAAAA==",
+    "contentBG": "AAAAAA==",
+    "skillTag": "AAAAAA=="
+  },
+  {
+    "sn": "105261",
+    "name": "Ranged Attack",
+    "desc": "Deal Gun damage to 1 foe. Can fire until out of ammo.",
+    "descSimple": "AAAAAA==",
+    "levelUpList": "Ranged Dmg",
+    "levelUpValue": "6.7%,13.3%,20.0%,26.7%,33.3%,40.0%,46.7%,51.3%,56.0%,59.3%,62.7%,66.0%,69.3%,72.7%",
+    "contentBG": "AAAAAA==",
+    "skillTag": "AAAAAA=="
+  },
+  {
+    "sn": "109201",
+    "name": "Melee Attack",
+    "desc": "Deal Physical damage to 1 foe.",
+    "descSimple": "AAAAAA==",
+    "levelUpList": "Melee Dmg",
+    "levelUpValue": "6.7%,13.3%,20.0%,26.7%,33.3%,40.0%,46.7%,51.3%,56.0%,59.3%,62.7%,66.0%,69.3%,72.7%",
+    "contentBG": "AAAAAA==",
+    "skillTag": "AAAAAA=="
+  },
+  {
+    "sn": "109202",
+    "name": "tnxotb-[Skill_name_109202]",
+    "desc": "tnxotb-[Skill_desc_109202]",
+    "descSimple": "AAAAAA==",
+    "levelUpList": "AAAAAA==",
+    "levelUpValue": "AAAAAA==",
+    "contentBG": "AAAAAA==",
+    "skillTag": "AAAAAA=="
+  },
+  {
+    "sn": "109203",
+    "name": "tnxotb-[Skill_name_109203]",
+    "desc": "tnxotb-[Skill_desc_109203]",
+    "descSimple": "AAAAAA==",
+    "levelUpList": "AAAAAA==",
+    "levelUpValue": "AAAAAA==",
+    "contentBG": "AAAAAA==",
+    "skillTag": "AAAAAA=="
+  },
+  {
+    "sn": "109204",
+    "name": "tnxotb-[Skill_name_109204]",
+    "desc": "tnxotb-[Skill_desc_109204]",
+    "descSimple": "AAAAAA==",
+    "levelUpList": "AAAAAA==",
+    "levelUpValue": "AAAAAA==",
+    "contentBG": "AAAAAA==",
+    "skillTag": "AAAAAA=="
+  },
+  {
+    "sn": "109205",
+    "name": "tnxotb-[Skill_name_109205]",
+    "desc": "tnxotb-[Skill_desc_109205]",
+    "descSimple": "AAAAAA==",
+    "levelUpList": "AAAAAA==",
+    "levelUpValue": "AAAAAA==",
+    "contentBG": "AAAAAA==",
+    "skillTag": "AAAAAA=="
+  },
+  {
+    "sn": "109206",
+    "name": "tnxotb-[Skill_name_109206]",
+    "desc": "tnxotb-[Skill_desc_109206]",
+    "descSimple": "AAAAAA==",
+    "levelUpList": "AAAAAA==",
+    "levelUpValue": "AAAAAA==",
+    "contentBG": "AAAAAA==",
+    "skillTag": "AAAAAA=="
+  },
+  {
+    "sn": "109207",
+    "name": "tnxotb-[Skill_name_109207]",
+    "desc": "tnxotb-[Skill_desc_109207]",
+    "descSimple": "AAAAAA==",
+    "levelUpList": "AAAAAA==",
+    "levelUpValue": "AAAAAA==",
+    "contentBG": "AAAAAA==",
+    "skillTag": "AAAAAA=="
+  },
+  {
+    "sn": "109208",
+    "name": "tnxotb-[Skill_name_109208]",
+    "desc": "tnxotb-[Skill_desc_109208]",
+    "descSimple": "AAAAAA==",
+    "levelUpList": "AAAAAA==",
+    "levelUpValue": "AAAAAA==",
+    "contentBG": "AAAAAA==",
+    "skillTag": "AAAAAA=="
+  },
+  {
+    "sn": "109209",
+    "name": "tnxotb-[Skill_name_109209]",
+    "desc": "AAAAAA==",
+    "descSimple": "AAAAAA==",
+    "levelUpList": "AAAAAA==",
+    "levelUpValue": "AAAAAA==",
+    "contentBG": "AAAAAA==",
+    "skillTag": "AAAAAA=="
+  },
+  {
+    "sn": "109211",
+    "name": "tdxct-[Skill_name_109211]",
+    "desc": "tdxct-[Skill_desc_109211]",
+    "descSimple": "tdxct-[Skill_descSimple_109211]",
+    "levelUpList": "Skill Multiplier,Red-Hot Meteor Rate Increase",
+    "levelUpValue": "AAAAAA==",
+    "contentBG": "tdxct-[Skill_contentBG_109211]",
+    "skillTag": "Multi-Target"
+  },
+  {
+    "sn": "109212",
+    "name": "tdxct-[Skill_name_109212]",
+    "desc": "tdxct-[Skill_desc_109212]",
+    "descSimple": "tdxct-[Skill_descSimple_109212]",
+    "levelUpList": "Skill Multiplier,Year-End Flames Rate Increase",
+    "levelUpValue": "AAAAAA==",
+    "contentBG": "tdxct-[Skill_contentBG_109212]",
+    "skillTag": "Multi-Target"
+  },
+  {
+    "sn": "109213",
+    "name": "tdxct-[Skill_name_109213]",
+    "desc": "tdxct-[Skill_desc_109213]",
+    "descSimple": "tdxct-[Skill_descSimple_109213]",
+    "levelUpList": "Dmg Increase,Red-Hot Meteor Rate Increase",
+    "levelUpValue": "AAAAAA==",
+    "contentBG": "tdxct-[Skill_contentBG_109213]",
+    "skillTag": "Support"
+  },
+  {
+    "sn": "109231",
+    "name": "tdxct-[Skill_name_109231]",
+    "desc": "tdxct-[Skill_desc_109231]",
+    "descSimple": "AAAAAA==",
+    "levelUpList": "AAAAAA==",
+    "levelUpValue": "AAAAAA==",
+    "contentBG": "AAAAAA==",
+    "skillTag": "Talent"
+  },
+  {
+    "sn": "109232",
+    "name": "tdxct-[Skill_name_109232]",
+    "desc": "tdxct-[Skill_desc_109232]",
+    "descSimple": "AAAAAA==",
+    "levelUpList": "AAAAAA==",
+    "levelUpValue": "AAAAAA==",
+    "contentBG": "AAAAAA==",
+    "skillTag": "Talent"
+  },
+  {
+    "sn": "109240",
+    "name": "tdxct-[Skill_name_109240]",
+    "desc": "tdxct-[Skill_desc_109240]",
+    "descSimple": "tdxct-[Skill_descSimple_109240]",
+    "levelUpList": "AAAAAA==",
+    "levelUpValue": "AAAAAA==",
+    "contentBG": "AAAAAA==",
+    "skillTag": "AAAAAA=="
+  },
+  {
+    "sn": "109241",
+    "name": "tdxct-[Skill_name_109241]",
+    "desc": "tdxct-[Skill_desc_109241]",
+    "descSimple": "AAAAAA==",
+    "levelUpList": "AAAAAA==",
+    "levelUpValue": "AAAAAA==",
+    "contentBG": "AAAAAA==",
+    "skillTag": "AAAAAA=="
+  },
+  {
+    "sn": "109242",
+    "name": "tdxct-[Skill_name_109242]",
+    "desc": "tdxct-[Skill_desc_109242]",
+    "descSimple": "AAAAAA==",
+    "levelUpList": "AAAAAA==",
+    "levelUpValue": "AAAAAA==",
+    "contentBG": "AAAAAA==",
+    "skillTag": "AAAAAA=="
+  },
+  {
+    "sn": "109243",
+    "name": "tdxct-[Skill_name_109243]",
+    "desc": "tdxct-[Skill_desc_109243]",
+    "descSimple": "AAAAAA==",
+    "levelUpList": "AAAAAA==",
+    "levelUpValue": "AAAAAA==",
+    "contentBG": "AAAAAA==",
+    "skillTag": "AAAAAA=="
+  },
+  {
+    "sn": "109244",
+    "name": "tdxct-[Skill_name_109244]",
+    "desc": "tdxct-[Skill_desc_109244]",
+    "descSimple": "AAAAAA==",
+    "levelUpList": "AAAAAA==",
+    "levelUpValue": "AAAAAA==",
+    "contentBG": "AAAAAA==",
+    "skillTag": "AAAAAA=="
+  },
+  {
+    "sn": "109245",
+    "name": "tdxct-[Skill_name_109245]",
+    "desc": "tdxct-[Skill_desc_109245]",
+    "descSimple": "AAAAAA==",
+    "levelUpList": "AAAAAA==",
+    "levelUpValue": "AAAAAA==",
+    "contentBG": "AAAAAA==",
+    "skillTag": "AAAAAA=="
+  },
+  {
+    "sn": "109246",
+    "name": "tdxct-[Skill_name_109246]",
+    "desc": "tdxct-[Skill_desc_109246]",
+    "descSimple": "AAAAAA==",
+    "levelUpList": "AAAAAA==",
+    "levelUpValue": "AAAAAA==",
+    "contentBG": "AAAAAA==",
+    "skillTag": "AAAAAA=="
+  },
+  {
+    "sn": "109251",
+    "name": "1 MORE",
+    "desc": "tdxct-[Skill_desc_109251]",
+    "descSimple": "AAAAAA==",
+    "levelUpList": "1 More Dmg",
+    "levelUpValue": "6.7%,13.3%,20.0%,26.7%,33.3%,40.0%,46.7%,51.3%,56.0%,59.3%,62.7%,66.0%,69.3%,72.7%",
+    "contentBG": "AAAAAA==",
+    "skillTag": "AAAAAA=="
+  },
+  {
+    "sn": "109252",
+    "name": "Highlight",
+    "desc": "tdxct-[Skill_desc_109252]",
+    "descSimple": "tdxct-[Skill_descSimple_109252]",
+    "levelUpList": "Skill Multiplier,Atk Increase,Red-Hot Meteor Dmg Increase",
+    "levelUpValue": "AAAAAA==",
+    "contentBG": "AAAAAA==",
+    "skillTag": "AAAAAA=="
+  },
+  {
+    "sn": "109261",
+    "name": "Ranged Attack",
+    "desc": "Deal Gun damage to 1 foe. Fire 3 shots at once, and can fire until out of ammo.",
+    "descSimple": "AAAAAA==",
+    "levelUpList": "Ranged Dmg",
+    "levelUpValue": "6.7%,13.3%,20.0%,26.7%,33.3%,40.0%,46.7%,51.3%,56.0%,59.3%,62.7%,66.0%,69.3%,72.7%",
+    "contentBG": "AAAAAA==",
+    "skillTag": "AAAAAA=="
+  },
+  {
+    "sn": "109262",
+    "name": "tdxct-[Skill_name_109262]",
+    "desc": "tdxct-[Skill_desc_109262]",
+    "descSimple": "tdxct-[Skill_descSimple_109262]",
+    "levelUpList": "tdxct-[Skill_levelUpList_109262]",
+    "levelUpValue": "AAAAAA==",
+    "contentBG": "AAAAAA==",
+    "skillTag": "Multi-Target"
+  },
+  {
+    "sn": "109263",
+    "name": "tdxct-[Skill_name_109263]",
+    "desc": "tdxct-[Skill_desc_109263]",
+    "descSimple": "tdxct-[Skill_descSimple_109263]",
+    "levelUpList": "tdxct-[Skill_levelUpList_109263]",
+    "levelUpValue": "AAAAAA==",
+    "contentBG": "AAAAAA==",
+    "skillTag": "Multi-Target"
+  },
+  {
+    "sn": "137101",
+    "name": "Melee Attack",
+    "desc": "Deal Physical damage to 1 foe.",
+    "descSimple": "AAAAAA==",
+    "levelUpList": "Melee Dmg",
+    "levelUpValue": "6.7%,13.3%,20.0%,26.7%,33.3%,40.0%,46.7%,51.3%,56.0%,59.3%,62.7%,66.0%,69.3%,72.7%",
+    "contentBG": "AAAAAA==",
+    "skillTag": "AAAAAA=="
+  },
+  {
+    "sn": "137102",
+    "name": "tnxotb-[Skill_name_137102]",
+    "desc": "AAAAAA==",
+    "descSimple": "AAAAAA==",
+    "levelUpList": "AAAAAA==",
+    "levelUpValue": "AAAAAA==",
+    "contentBG": "AAAAAA==",
+    "skillTag": "AAAAAA=="
+  },
+  {
+    "sn": "137103",
+    "name": "tnxotb-[Skill_name_137103]",
+    "desc": "AAAAAA==",
+    "descSimple": "AAAAAA==",
+    "levelUpList": "AAAAAA==",
+    "levelUpValue": "AAAAAA==",
+    "contentBG": "AAAAAA==",
+    "skillTag": "AAAAAA=="
+  },
+  {
+    "sn": "137104",
+    "name": "tnxotb-[Skill_name_137104]",
+    "desc": "AAAAAA==",
+    "descSimple": "AAAAAA==",
+    "levelUpList": "AAAAAA==",
+    "levelUpValue": "AAAAAA==",
+    "contentBG": "AAAAAA==",
+    "skillTag": "AAAAAA=="
+  },
+  {
+    "sn": "137105",
+    "name": "tnxotb-[Skill_name_137105]",
+    "desc": "AAAAAA==",
+    "descSimple": "AAAAAA==",
+    "levelUpList": "AAAAAA==",
+    "levelUpValue": "AAAAAA==",
+    "contentBG": "AAAAAA==",
+    "skillTag": "AAAAAA=="
+  },
+  {
+    "sn": "137106",
+    "name": "tnxotb-[Skill_name_137106]",
+    "desc": "AAAAAA==",
+    "descSimple": "AAAAAA==",
+    "levelUpList": "AAAAAA==",
+    "levelUpValue": "AAAAAA==",
+    "contentBG": "AAAAAA==",
+    "skillTag": "AAAAAA=="
+  },
+  {
+    "sn": "137107",
+    "name": "tnxotb-[Skill_name_137107]",
+    "desc": "AAAAAA==",
+    "descSimple": "AAAAAA==",
+    "levelUpList": "AAAAAA==",
+    "levelUpValue": "AAAAAA==",
+    "contentBG": "AAAAAA==",
+    "skillTag": "AAAAAA=="
+  },
+  {
+    "sn": "137108",
+    "name": "tnxotb-[Skill_name_137108]",
+    "desc": "AAAAAA==",
+    "descSimple": "AAAAAA==",
+    "levelUpList": "AAAAAA==",
+    "levelUpValue": "AAAAAA==",
+    "contentBG": "AAAAAA==",
+    "skillTag": "AAAAAA=="
+  },
+  {
+    "sn": "137109",
+    "name": "tnxotb-[Skill_name_137109]",
+    "desc": "AAAAAA==",
+    "descSimple": "AAAAAA==",
+    "levelUpList": "AAAAAA==",
+    "levelUpValue": "AAAAAA==",
+    "contentBG": "AAAAAA==",
+    "skillTag": "AAAAAA=="
+  },
+  {
+    "sn": "137111",
+    "name": "Sub-Zero Torrent",
+    "desc": "(SB)Gain 1 Extinguish stack, and deal Ice damage to all foes equal to <color=#FFFC40>^%s^</color> of Attack. 50% chance to inflict <link=\"s|103\"><u>Freeze</u></link>.\nAlso, decrease Defense by <color=#FFFC40>^%s^</color> for 3 turns (for every 5.47% of Natsukawa's ailment accuracy, decrease Defense by 1%, up to <color=#FFFC40>^%s^</color>). When an ally attacks a foe with Defense decreased by this skill, increase <link=\"s|233\"><u>Technical Precision</u></link> by <color=#FFFC40>^%s^</color>.\nIf the target is inflicted with <link=\"s|102\"><u>Burn</u></link>, remove Burn and inflict Scald (cannot be inflicted if Scald is already active).\nScald: Counts as Burn. Lasts for 3 turns. When allies attack the affected foe, increase Technical Precision by <color=#FFFC40>^%s^</color>.",
+    "descSimple": "Gain 1 Extinguish, and Ice dmg to all foes (%s Atk). 50% chance to inflict Freeze.\nAlso, decrease Def %s (1% per 5.47% of ailment accuracy, max %s, 3 turns). When ally attacks foe with Def decreased by this skill, increase Technical Precision %s.\nIf target is Burning, remove Burn and inflict Scald (cannot be inflicted if Scald is already active).\nScald: Counts as Burn (3 turns). When allies attack affected foe, increase Technical Precision %s.",
+    "levelUpList": "AAAAAA==",
+    "levelUpValue": "AAAAAA==",
+    "contentBG": "A rush of freezing water overwhelms foes, dealing Ice damage to all enemies.",
+    "skillTag": "Debuff"
+  },
+  {
+    "sn": "137112",
+    "name": "Freezing Prison",
+    "desc": "Deal Ice damage to 1 foe equal to <color=#FFFC40>^%s^</color>, and activate an <link=\"s|229\"><u>Ice Technical</u></link>. When <link=\"s|231\"><u>Deepfreeze</u></link> is activated, <color=#FFFC40>^%s^</color> chance to inflict <link=\"s|214\"><u>Icebound</u></link>.",
+    "descSimple": "Ice dmg to 1 foe (%s Atk), and activate Ice Technical. When Deepfreeze is activated, %s chance to inflict Icebound.",
+    "levelUpList": "AAAAAA==",
+    "levelUpValue": "AAAAAA==",
+    "contentBG": "Submerges the target in a prison of frigid water, dealing Ice damage to one enemy.",
+    "skillTag": "Control"
+  },
+  {
+    "sn": "137113",
+    "name": "Extinguishing Guidance",
+    "desc": "Can be used at 2 or more Extinguish stacks. Spend 2 Extinguish stacks. Deal Ice damage to all foes equal to <color=#FFFC40>^%s^</color> of Attack. Also, decrease Defense by <color=#FFFC40>^%s^</color> for 2 turns (for every 5.83% of Natsukawa's ailment accuracy, decrease Defense by 1%, up to a maximum of <color=#FFFC40>^%s^</color>).\nAlso, an <link=\"s|229\"><u>Ice Technical</u></link> can be activated. When <link=\"s|227\"><u>Iceburn</u></link> is activated, this effect is guaranteed to inflict Cold Flames.\nCold Flames: Increase damage taken by <color=#FFFC40>^%s^</color> (for every 4.38% of Natsukawa's ailment accuracy, increase damage taken by 1%, up to a maximum of <color=#FFFC40>^%s^</color>).\nAt 4 or more stacks, can strengthen Requiem Guidance.\nSpend 4 Extinguish stacks. Deal Ice damage to all foes equal to <color=#FFFC40>^%s^</color> of Attack. Also, decrease Defense by <color=#FFFC40>^%s^</color> for 2 turns (for every 4.86% of Natsukawa's ailment accuracy, decrease Defense by 1%, up to a maximum of <color=#FFFC40>^%s^</color>).\nAt the same time, an Ice Technical can be activated. When Iceburn is activated, this effect is guaranteed to inflict Cold Flames.\nCold Flames: Increase damage taken by <color=#FFFC40>^%s^</color> (for every 3.65% of Natsukawa's ailment accuracy, increase damage taken by 1%, up to a maximum of <color=#FFFC40>^%s^</color>).",
+    "descSimple": "Spend 2 Extinguish. Ice damage to all foes (%s Atk), and decrease Def %s (1% per 5.83% of ailment accuracy, max %s, 2 turns).\nIf Ice Technical can be activated, when Iceburn is activated, guaranteed to inflict Cold Flames.\nCold Flames: Increase dmg taken %s (1% per 4.38% of ailment accuracy, max %s).",
+    "levelUpList": "AAAAAA==",
+    "levelUpValue": "AAAAAA==",
+    "contentBG": "A jet of icewater blasts foes, dealing Ice damage to all enemies.",
+    "skillTag": "Debuff"
+  },
+  {
+    "sn": "137114",
+    "name": "Requiem Guidance",
+    "desc": "Spend 4 Extinguish stacks. Deal Ice damage to all foes equal to <color=#FFFC40>^%s^</color> of Attack. Also, decrease Defense by <color=#FFFC40>^%s^</color> for 2 turns (for every 4.86% of Natsukawa's ailment accuracy, decrease Defense by 1%, up to a maximum of <color=#FFFC40>^%s^</color>).\nAlso, an <link=\"s|229\"><u>Ice Technical</u></link> can be activated. When <link=\"s|227\"><u>Iceburn</u></link> is activated, this effect is guaranteed to inflict Cold Flames.\nCold Flames: Increase damage taken by <color=#FFFC40>^%s^</color> (for every 3.65% of Natsukawa's ailment accuracy, increase damage taken by 1%, up to a maximum of <color=#FFFC40>^%s^</color>).",
+    "descSimple": "Spend 4 Extinguish. Ice damage to all foes (%s Atk), and decrease Def %s (1% per 4.86% of ailment accuracy, max %s, 2 turns).\nIf Ice Technical can be activated, when Iceburn is activated, guaranteed to inflict Cold Flames.\nCold Flames: Increase dmg taken %s (1% per 3.65% of ailment accuracy, max %s).",
+    "levelUpList": "AAAAAA==",
+    "levelUpValue": "AAAAAA==",
+    "contentBG": "A jet of icewater blasts foes, dealing Ice damage to all enemies.",
+    "skillTag": "Debuff"
+  },
+  {
+    "sn": "137131",
+    "name": "Disaster Preparedness",
+    "desc": "Each time Natsukawa activates a Technical, grant all allies a shield that protects against <color=#FFFC40>^%s^</color> damage for 2 turns.",
+    "descSimple": "AAAAAA==",
+    "levelUpList": "AAAAAA==",
+    "levelUpValue": "AAAAAA==",
+    "contentBG": "AAAAAA==",
+    "skillTag": "Talent"
+  },
+  {
+    "sn": "137132",
+    "name": "Biting Cold",
+    "desc": "(SB)When Natsukawa is present, increase Frozen foes' damage taken by <color=#FFFC40>^%s^</color>, and increase damage taken by foes with Icebound by <color=#FFFC40>^%s^</color>.",
+    "descSimple": "AAAAAA==",
+    "levelUpList": "AAAAAA==",
+    "levelUpValue": "AAAAAA==",
+    "contentBG": "AAAAAA==",
+    "skillTag": "Talent"
+  },
+  {
+    "sn": "137140",
+    "name": "Smothering Agony",
+    "desc": "(SB)Some skills and Highlight can activate <link=\"s|229\"><u>Ice Technicals</u></link>. When dealing Ice damage, ignore foes' Ice resistance.\nOn Natsukawa's action, gain 1 Extinguish stack. Stacks up to 4 times. When using Extinguishing Guidance, spend Extinguish stacks, and inflict 1 Damnation stack on all foes for each stack spent.\nDamnation: Increase damage taken by 6% for 2 turns. Stacks up to 4 times.",
+    "descSimple": "tnxotb-[Skill_descSimple_137140]",
+    "levelUpList": "AAAAAA==",
+    "levelUpValue": "AAAAAA==",
+    "contentBG": "AAAAAA==",
+    "skillTag": "AAAAAA=="
+  },
+  {
+    "sn": "137141",
+    "name": "Cooling Spray",
+    "desc": "When using Sub-Zero Torrent, gain 1 more Extinguish stack. When spending Extinguish stacks, increase all foes' critical damage taken by 30% for 2 turns.",
+    "descSimple": "AAAAAA==",
+    "levelUpList": "AAAAAA==",
+    "levelUpValue": "AAAAAA==",
+    "contentBG": "AAAAAA==",
+    "skillTag": "AAAAAA=="
+  },
+  {
+    "sn": "137142",
+    "name": "Frozen Gateway",
+    "desc": "When spending Extinguish stacks, increase party's Attack by 20%, Defense by 30%, and damage dealt by 15% for 2 turns.",
+    "descSimple": "AAAAAA==",
+    "levelUpList": "AAAAAA==",
+    "levelUpValue": "AAAAAA==",
+    "contentBG": "AAAAAA==",
+    "skillTag": "AAAAAA=="
+  },
+  {
+    "sn": "137143",
+    "name": "Whirlpool Cannon",
+    "desc": "Increase the skill levels of Extinguishing Guidance and Thief Tactics by 3.",
+    "descSimple": "AAAAAA==",
+    "levelUpList": "AAAAAA==",
+    "levelUpValue": "AAAAAA==",
+    "contentBG": "AAAAAA==",
+    "skillTag": "AAAAAA=="
+  },
+  {
+    "sn": "137144",
+    "name": "Terrifying Chill",
+    "desc": "(SB)Highlight Enhanced: Extend the duration of the damage taken increase effect by 1 turn. Also, when the Highlight activates <link=\"s|231\"><u>Deepfreeze</u></link>, the chance to inflict <link=\"s|214\"><u>Icebound</u></link> becomes 44%.",
+    "descSimple": "AAAAAA==",
+    "levelUpList": "AAAAAA==",
+    "levelUpValue": "AAAAAA==",
+    "contentBG": "AAAAAA==",
+    "skillTag": "AAAAAA=="
+  },
+  {
+    "sn": "137145",
+    "name": "Wellspring of Grief",
+    "desc": "Increase the skill levels of Sub-Zero Torrent and Freezing Prison by 3.",
+    "descSimple": "AAAAAA==",
+    "levelUpList": "AAAAAA==",
+    "levelUpValue": "AAAAAA==",
+    "contentBG": "AAAAAA==",
+    "skillTag": "AAAAAA=="
+  },
+  {
+    "sn": "137146",
+    "name": "Firefighter's Soul",
+    "desc": "When foes are Burning on Natsukawa's action, activate Sub-Zero Torrent on that foe 1 time (this effect will not be activated by Scald).\nAlso, when the same foe is attacked repeatedly with Extinguishing Guidance or Requiem Guidance, increase the target's damage taken by 25% more for 1 turn.\nThe maximum number of Damnation stacks becomes 6.",
+    "descSimple": "AAAAAA==",
+    "levelUpList": "AAAAAA==",
+    "levelUpValue": "AAAAAA==",
+    "contentBG": "AAAAAA==",
+    "skillTag": "AAAAAA=="
+  },
+  {
+    "sn": "137151",
+    "name": "1 MORE",
+    "desc": "Deal Ice damage to 1 foe.",
+    "descSimple": "AAAAAA==",
+    "levelUpList": "1 More Dmg",
+    "levelUpValue": "6.7%,13.3%,20.0%,26.7%,33.3%,40.0%,46.7%,51.3%,56.0%,59.3%,62.7%,66.0%,69.3%,72.7%",
+    "contentBG": "AAAAAA==",
+    "skillTag": "AAAAAA=="
+  },
+  {
+    "sn": "137152",
+    "name": "Highlight",
+    "desc": "(SB)Deal Ice damage to all foes equal to <color=#FFFC40>^%s^</color>, and increase their damage taken for 2 turns (for every 5.83% of Natsukawa's ailment accuracy, increase damage taken by 1%, up to a maximum of <color=#FFFC40>^%s^</color>).\nAt the same time, if an <link=\"s|229\"><u>Ice Technical</u></link> can be activated, when <link=\"s|231\"><u>Deepfreeze</u></link> is activated, 32% chance to inflict <link=\"s|214\"><u>Icebound</u></link>. Also, increase damage taken by enemies inflicted with Freeze by this Highlight (for every 17.5% of Natsukawa's ailment accuracy, increase damage taken by 1%, up to a maximum of <color=#FFFC40>^%s^</color>).\nThen, deal additional Ice damage to all foes equal to <color=#FFFC40>^%s^</color> of Attack.",
+    "descSimple": "(SB)Ice damage to all foes (%s Atk), and increase dmg taken (1% per 5.83% of ailment accuracy, max %s, 2 turns).\nAlso, if Ice Technical can be activated, when Deepfreeze is activated, 28% chance to inflict Icebound. Also, increase damage taken by enemies Frozen by this Highlight (1% per 17.5% of ailment accuracy, max %s).\nThen, Ice damage to all foes (%s Atk).",
+    "levelUpList": "AAAAAA==",
+    "levelUpValue": "AAAAAA==",
+    "contentBG": "AAAAAA==",
+    "skillTag": "AAAAAA=="
+  },
+  {
+    "sn": "137161",
+    "name": "Ranged Attack",
+    "desc": "Deal Gun damage to 1 foe. Fire 4 shots at once, and can fire until out of ammo.",
     "descSimple": "AAAAAA==",
     "levelUpList": "Ranged Dmg",
     "levelUpValue": "6.7%,13.3%,20.0%,26.7%,33.3%,40.0%,46.7%,51.3%,56.0%,59.3%,62.7%,66.0%,69.3%,72.7%",
@@ -8890,6 +9860,76 @@
     "skillTag": "AAAAAA=="
   },
   {
+    "sn": "135102",
+    "name": "AAAAAA==",
+    "desc": "tdxct-[Skill_desc_135102]",
+    "descSimple": "AAAAAA==",
+    "levelUpList": "AAAAAA==",
+    "levelUpValue": "AAAAAA==",
+    "contentBG": "AAAAAA==",
+    "skillTag": "AAAAAA=="
+  },
+  {
+    "sn": "135103",
+    "name": "AAAAAA==",
+    "desc": "tdxct-[Skill_desc_135103]",
+    "descSimple": "AAAAAA==",
+    "levelUpList": "AAAAAA==",
+    "levelUpValue": "AAAAAA==",
+    "contentBG": "AAAAAA==",
+    "skillTag": "AAAAAA=="
+  },
+  {
+    "sn": "135104",
+    "name": "AAAAAA==",
+    "desc": "tdxct-[Skill_desc_135104]",
+    "descSimple": "AAAAAA==",
+    "levelUpList": "AAAAAA==",
+    "levelUpValue": "AAAAAA==",
+    "contentBG": "AAAAAA==",
+    "skillTag": "AAAAAA=="
+  },
+  {
+    "sn": "135105",
+    "name": "AAAAAA==",
+    "desc": "tdxct-[Skill_desc_135105]",
+    "descSimple": "AAAAAA==",
+    "levelUpList": "AAAAAA==",
+    "levelUpValue": "AAAAAA==",
+    "contentBG": "AAAAAA==",
+    "skillTag": "AAAAAA=="
+  },
+  {
+    "sn": "135106",
+    "name": "AAAAAA==",
+    "desc": "tdxct-[Skill_desc_135106]",
+    "descSimple": "AAAAAA==",
+    "levelUpList": "AAAAAA==",
+    "levelUpValue": "AAAAAA==",
+    "contentBG": "AAAAAA==",
+    "skillTag": "AAAAAA=="
+  },
+  {
+    "sn": "135107",
+    "name": "AAAAAA==",
+    "desc": "tdxct-[Skill_desc_135107]",
+    "descSimple": "AAAAAA==",
+    "levelUpList": "AAAAAA==",
+    "levelUpValue": "AAAAAA==",
+    "contentBG": "AAAAAA==",
+    "skillTag": "AAAAAA=="
+  },
+  {
+    "sn": "135108",
+    "name": "AAAAAA==",
+    "desc": "tdxct-[Skill_desc_135108]",
+    "descSimple": "AAAAAA==",
+    "levelUpList": "AAAAAA==",
+    "levelUpValue": "AAAAAA==",
+    "contentBG": "AAAAAA==",
+    "skillTag": "AAAAAA=="
+  },
+  {
     "sn": "113252",
     "name": "AAAAAA==",
     "desc": "AAAAAA==",
@@ -9813,7 +10853,7 @@
     "sn": "712",
     "name": "Mahamaon",
     "desc": "Deal Bless damage to all foes equal to <color=#fffc40>^%s^%</color> of Attack. Low chance to deal a Bless insta-kill effect to foes with 50% or less HP. Increase chance based on foe's missing HP.",
-    "descSimple": "Bless dmg to 1 foe (%s% Atk). Chance to insta-kill foes with low HP.",
+    "descSimple": "Bless dmg to all foes (%s% Atk). Chance to insta-kill foes with low HP.",
     "levelUpList": "Dmg Increase",
     "levelUpValue": "AAAAAA==",
     "contentBG": "AAAAAA==",
@@ -9823,7 +10863,7 @@
     "sn": "713",
     "name": "Samsara",
     "desc": "Deal Bless damage to all foes equal to <color=#fffc40>^%s^%</color> of Attack. Low chance to deal a Bless insta-kill effect to foes with 50% or less HP. Increase chance based on foe's missing HP.",
-    "descSimple": "Bless dmg to 1 foe (%s% Atk). Chance to insta-kill foes with low HP.",
+    "descSimple": "Bless dmg to all foes (%s% Atk). Chance to insta-kill foes with low HP.",
     "levelUpList": "Dmg Increase",
     "levelUpValue": "AAAAAA==",
     "contentBG": "AAAAAA==",
@@ -10700,6 +11740,16 @@
     "skillTag": "Multi-Target"
   },
   {
+    "sn": "1154",
+    "name": "Riot Gun",
+    "desc": "Decrease this skill's accuracy by 15%, and deal Gun damage to all foes equal to <color=#fffc40>^%s^%</color> of Attack.",
+    "descSimple": "Gun dmg to all foes (%s% Atk, 3 hits). Increase crit rate 20%. Decrease accuracy 15%.",
+    "levelUpList": "Dmg Increase",
+    "levelUpValue": "AAAAAA==",
+    "contentBG": "AAAAAA==",
+    "skillTag": "Multi-Target"
+  },
+  {
     "sn": "1201",
     "name": "Elemental Conversion",
     "desc": "Restore 1 ally's HP by <color=#fffc40>^%s^%</color> of Attack + <color=#fffc40>^%s^</color>. Cure 1 <link=\"s|101\"><u>elemental ailment</u></link>.",
@@ -11132,8 +12182,8 @@
   {
     "sn": "1427",
     "name": "Charge",
-    "desc": "Increase Physical and Gun damage by <color=#fffc40>^%s^</color> for 1 turn.",
-    "descSimple": "Increase user's next Phys/Gun dmg %s (1 turn).",
+    "desc": "Increase Physical and Gun damage (excluding 1 More) by <color=#fffc40>^%s^</color> for 1 turn.",
+    "descSimple": "Increase user's next Phys/Gun dmg (excluding 1 More) %s (1 turn).",
     "levelUpList": "AAAAAA==",
     "levelUpValue": "AAAAAA==",
     "contentBG": "AAAAAA==",
@@ -12213,6 +13263,16 @@
     "sn": "8014",
     "name": "Attack Boost IV",
     "desc": "Increase Attack by 13.5%.",
+    "descSimple": "AAAAAA==",
+    "levelUpList": "AAAAAA==",
+    "levelUpValue": "AAAAAA==",
+    "contentBG": "AAAAAA==",
+    "skillTag": "AAAAAA=="
+  },
+  {
+    "sn": "8015",
+    "name": "Attack Boost V",
+    "desc": "Increase Attack by 16.2%.",
     "descSimple": "AAAAAA==",
     "levelUpList": "AAAAAA==",
     "levelUpValue": "AAAAAA==",
@@ -13780,6 +14840,26 @@
     "skillTag": "AAAAAA=="
   },
   {
+    "sn": "8055",
+    "name": "Phys Boost V",
+    "desc": "Increase Physical dmg by 13.0%.",
+    "descSimple": "AAAAAA==",
+    "levelUpList": "AAAAAA==",
+    "levelUpValue": "AAAAAA==",
+    "contentBG": "AAAAAA==",
+    "skillTag": "AAAAAA=="
+  },
+  {
+    "sn": "8165",
+    "name": "Battle Acumen V",
+    "desc": "Increase dmg by 13.0%.",
+    "descSimple": "AAAAAA==",
+    "levelUpList": "AAAAAA==",
+    "levelUpValue": "AAAAAA==",
+    "contentBG": "AAAAAA==",
+    "skillTag": "AAAAAA=="
+  },
+  {
     "sn": "8681",
     "name": "Burn Boost I",
     "desc": "Increase <link=\"s|102\"><u>Burn</u></link> accuracy by 8.8%.",
@@ -14650,6 +15730,16 @@
     "skillTag": "AAAAAA=="
   },
   {
+    "sn": "9175",
+    "name": "Accuracy Boost V",
+    "desc": "Increase ailment accuracy by 19.4%.",
+    "descSimple": "AAAAAA==",
+    "levelUpList": "AAAAAA==",
+    "levelUpValue": "AAAAAA==",
+    "contentBG": "AAAAAA==",
+    "skillTag": "AAAAAA=="
+  },
+  {
     "sn": "9181",
     "name": "Resistance Boost I",
     "desc": "Increase ailment resistance by 7%.",
@@ -14768,6 +15858,16 @@
     "levelUpValue": "AAAAAA==",
     "contentBG": "AAAAAA==",
     "skillTag": "AAAAAA=="
+  },
+  {
+    "sn": "9251",
+    "name": "(SB)Sonic Interference",
+    "desc": "Decrease all foes' Defense by <color=#fffc40>^%s^</color> and increase damage taken by <color=#fffc40>^%s^</color> for 3 turns.",
+    "descSimple": "Decrease all foes' Def %s, and dmg taken %s (3 turns).",
+    "levelUpList": "AAAAAA==",
+    "levelUpValue": "AAAAAA==",
+    "contentBG": "AAAAAA==",
+    "skillTag": "Debuff"
   },
   {
     "sn": "8441",
@@ -16181,8 +17281,8 @@
   },
   {
     "sn": "9083",
-    "name": "Curse Boost III",
-    "desc": "Increase Curse damage by 1.54%.",
+    "name": "Year End Calamity",
+    "desc": "Increase Curse damage by 8.7%.",
     "descSimple": "AAAAAA==",
     "levelUpList": "AAAAAA==",
     "levelUpValue": "AAAAAA==",
@@ -19553,7 +20653,7 @@
     "sn": "11240",
     "name": "Knight's Glare",
     "desc": "Increase critical damage by 10%. When dealing Physical damage to 1 foe, increase Attack by 17% and increase critical rate by 10%.",
-    "descSimple": "Increase crit dmg 10%. When dealing Phys dmg to 1 foe, increase Atk 15% and increase crit rate 8%.",
+    "descSimple": "Increase critical damage by 10%. When dealing Physical damage to 1 foe, increase Attack by 17% and increase critical rate by 10%.",
     "levelUpList": "AAAAAA==",
     "levelUpValue": "AAAAAA==",
     "contentBG": "AAAAAA==",
@@ -19563,7 +20663,7 @@
     "sn": "11241",
     "name": "Knight's Glare I",
     "desc": "Increase critical damage by 10%. When dealing Physical damage to 1 foe, increase Attack by 20% and increase critical rate by 12%.",
-    "descSimple": "Increase crit dmg 10%. When dealing Phys dmg to 1 foe, increase Atk 18% and increase crit rate 10%.",
+    "descSimple": "Increase critical damage by 10%. When dealing Physical damage to 1 foe, increase Attack by 20% and increase critical rate by 12%.",
     "levelUpList": "AAAAAA==",
     "levelUpValue": "AAAAAA==",
     "contentBG": "AAAAAA==",
@@ -25770,6 +26870,206 @@
     "skillTag": "AAAAAA=="
   },
   {
+    "sn": "26111",
+    "name": "(SB)Absolute Obedience",
+    "desc": "(SB)Bless dmg to 1 foe (<color=#fffc40>^%s^</color> Atk). Increase target's Highlight dmg taken <color=#fffc40>^%s^</color> (1 turn).",
+    "descSimple": "Bless dmg to all foes (%s Atk). Increase main target's Highlight dmg taken %s (1 turn).",
+    "levelUpList": "Skill Multiplier",
+    "levelUpValue": "AAAAAA==",
+    "contentBG": "AAAAAA==",
+    "skillTag": "Single-Target"
+  },
+  {
+    "sn": "26141",
+    "name": "(SB)Heretical Hearings",
+    "desc": "(SB)Increase Attack by 29.1%. At the start of battle, gain 1 God's Ear stack. Lasts for 3 turns. Stacks up to 3 times. When an ally uses a Highlight, gain 1 God's Ear stack. When a Bless ally uses a Highlight, gain 1 more God's Ear stack. When using a unique skill, spend all God's Ear stacks, and increase foe's Bless damage taken by 4% for each stack. Also, when God's Ear reaches 3 stacks, when a foe takes Bless damage, decrease Defense by 16%.",
+    "descSimple": "(SB)Increase Atk 29.1%. At start of battle, gain 1 God's Ear (3 turns, max 3 stacks). When allies uses Highlight, gain 1 God's Ear. When Bless allies use Highlight, gain 1 more God's Ear. When using unique skill, spend all God's Ear, and increase foe's Bless dmg taken (4% per stack). Also, at 3 God's Ear, when foes take Bless damage, decrease Def 16% (2 turns).",
+    "levelUpList": "AAAAAA==",
+    "levelUpValue": "AAAAAA==",
+    "contentBG": "AAAAAA==",
+    "skillTag": "AAAAAA=="
+  },
+  {
+    "sn": "26142",
+    "name": "(SB)Heretical Hearings I",
+    "desc": "(SB)Increase Attack by 29.1%. At the start of battle, gain 2 God's Ear stacks. Lasts for 3 turns. Stacks up to 3 times. When an ally uses a Highlight, gain 1 God's Ear stack. When a Bless ally uses a Highlight, gain 1 more God's Ear stack. When using a unique skill, spend all God's Ear stacks, and increase foe's Bless damage taken by 4% for each stack. Also, when God's Ear reaches 3 stacks, when a foe takes Bless damage, decrease Defense by 16%.",
+    "descSimple": "(SB)Increase Atk 29.1%. At start of battle, gain 2 God's Ear (3 turns, max 3 stacks). When allies uses Highlight, gain 1 God's Ear. When Bless allies use Highlight, gain 1 more God's Ear. When using unique skill, spend all God's Ear, and increase foe's Bless dmg taken (4% per stack). Also, at 3 God's Ear, when foes take Bless damage, decrease Def 16% (2 turns).",
+    "levelUpList": "AAAAAA==",
+    "levelUpValue": "AAAAAA==",
+    "contentBG": "AAAAAA==",
+    "skillTag": "AAAAAA=="
+  },
+  {
+    "sn": "26143",
+    "name": "(SB)Heretical Hearings II",
+    "desc": "(SB)Increase Attack by 29.1%. At the start of battle, gain 2 God's Ear stacks. Lasts for 3 turns. Stacks up to 3 times. When an ally uses a Highlight, gain 1 God's Ear stack. When a Bless ally uses a Highlight, gain 1 more God's Ear stack. When using a unique skill, spend all God's Ear stacks, and increase foe's Bless damage taken by 6% for each stack. Also, when God's Ear reaches 3 stacks, when a foe takes Bless damage, decrease Defense by 16%.",
+    "descSimple": "(SB)Increase Atk 29.1%. At start of battle, gain 2 God's Ear (3 turns, max 3 stacks). When allies uses Highlight, gain 1 God's Ear. When Bless allies use Highlight, gain 1 more God's Ear. When using unique skill, spend all God's Ear, and increase foe's Bless dmg taken (6% per stack). Also, at 3 God's Ear, when foes take Bless damage, decrease Def 16% (2 turns).",
+    "levelUpList": "AAAAAA==",
+    "levelUpValue": "AAAAAA==",
+    "contentBG": "AAAAAA==",
+    "skillTag": "AAAAAA=="
+  },
+  {
+    "sn": "26144",
+    "name": "(SB)Heretical Hearings III",
+    "desc": "(SB)Increase Attack by 29.1%. At the start of battle, gain 2 God's Ear stacks. Lasts for 3 turns. Stacks up to 3 times. When an ally uses a Highlight, gain 1 God's Ear stack. When a Bless ally uses a Highlight, gain 1 more God's Ear stack. When using a unique skill, spend all God's Ear stacks, and increase foe's Bless damage taken by 6% for each stack. Also, when God's Ear reaches 3 stacks, when a foe takes Bless damage, decrease Defense by 25%.",
+    "descSimple": "(SB)Increase Atk 29.1%. At start of battle, gain 2 God's Ear (3 turns, max 3 stacks). When allies uses Highlight, gain 1 God's Ear. When Bless allies use Highlight, gain 1 more God's Ear. When using unique skill, spend all God's Ear, and increase foe's Bless dmg taken (6% per stack). Also, at 3 God's Ear, when foes take Bless damage, decrease Def 25% (2 turns).",
+    "levelUpList": "AAAAAA==",
+    "levelUpValue": "AAAAAA==",
+    "contentBG": "AAAAAA==",
+    "skillTag": "AAAAAA=="
+  },
+  {
+    "sn": "26411",
+    "name": "Dragonslayer's Sword",
+    "desc": "Deal Physical damage to all foes equal to <color=#FFFC40>^%s^</color> of Attack.\nIf user has no Dragon's Blood, gain Dragon's Blood.\nWhen gaining Dragon's Blood, reset duration, and enhance Dragon's Blood.",
+    "descSimple": "Phys dmg to all foes (%s Atk).\nIf no Dragon's Blood, gain Dragon's Blood.\nWhen gaining Dragon's Blood, reset duration, and enhance Dragon's Blood.",
+    "levelUpList": "Skill Multiplier",
+    "levelUpValue": "AAAAAA==",
+    "contentBG": "AAAAAA==",
+    "skillTag": "Multi-Target"
+  },
+  {
+    "sn": "26441",
+    "name": "Dragonblood Champion",
+    "desc": "Increase Attack by 29.1%. At the beginning of battle, gain Dragon's Blood.\nDragon's Blood: When dealing Physical Damage, increase Attack by 7%. Lasts for 3 turns.\nAlso, after using a unique skill, enhance the effect of Dragon's Blood: When using a Physical skill, increase the damage 18% more, and critical damage by 18%.",
+    "descSimple": "Increase Atk 29.1%. At start of battle, gain Dragon's Blood.\nDragon's Blood: When dealing Phys dmg, increase Attack 7% (3 turns).\nAlso, after using unique skill, enhance effect of Dragon's Blood: When using Phys skills, increase dmg 18% more, and crit dmg by 18%.",
+    "levelUpList": "AAAAAA==",
+    "levelUpValue": "AAAAAA==",
+    "contentBG": "AAAAAA==",
+    "skillTag": "AAAAAA=="
+  },
+  {
+    "sn": "26442",
+    "name": "Dragonblood Champion I",
+    "desc": "Increase Attack by 29.1%. At the beginning of battle, gain Dragon's Blood.\nDragon's Blood: When dealing Physical Damage, increase Attack by 10%. Lasts for 3 turns.\nAlso, after using a unique skill, enhance the effect of Dragon's Blood: When using a Physical skill, increase the damage 18% more, and critical damage by 18%.",
+    "descSimple": "Increase Atk 29.1%. At start of battle, gain Dragon's Blood.\nDragon's Blood: When dealing Phys dmg, increase Attack 10% (3 turns).\nAlso, after using unique skill, enhance effect of Dragon's Blood: When using Phys skills, increase dmg 18% more, and crit dmg by 18%.",
+    "levelUpList": "AAAAAA==",
+    "levelUpValue": "AAAAAA==",
+    "contentBG": "AAAAAA==",
+    "skillTag": "AAAAAA=="
+  },
+  {
+    "sn": "26443",
+    "name": "Dragonblood Champion II",
+    "desc": "Increase Attack by 29.1%. At the beginning of battle, gain Dragon's Blood.\nDragon's Blood: When dealing Physical Damage, increase Attack by 10%. Lasts for 3 turns.\nAlso, after using a unique skill, enhance the effect of Dragon's Blood: When using a Physical skill, increase the damage 28% more, and critical damage by 18%.",
+    "descSimple": "Increase Atk 29.1%. At start of battle, gain Dragon's Blood.\nDragon's Blood: When dealing Phys dmg, increase Attack 10% (3 turns).\nAlso, after using unique skill, enhance effect of Dragon's Blood: When using Phys skills, increase dmg 28% more, and crit dmg by 18%.",
+    "levelUpList": "AAAAAA==",
+    "levelUpValue": "AAAAAA==",
+    "contentBG": "AAAAAA==",
+    "skillTag": "AAAAAA=="
+  },
+  {
+    "sn": "26444",
+    "name": "Dragonblood Champion III",
+    "desc": "Increase Attack by 29.1%. At the beginning of battle, gain Dragon's Blood.\nDragon's Blood: When dealing Physical Damage, increase Attack by 10%. Lasts for 3 turns.\nAlso, after using a unique skill, enhance the effect of Dragon's Blood: When using a Physical skill, increase the damage 28% more, and critical damage by 28%.",
+    "descSimple": "Increase Atk 29.1%. At start of battle, gain Dragon's Blood.\nDragon's Blood: When dealing Phys dmg, increase Attack 10% (3 turns).\nAlso, after using unique skill, enhance effect of Dragon's Blood: When using Phys skills, increase dmg 28% more, and crit dmg by 28%.",
+    "levelUpList": "AAAAAA==",
+    "levelUpValue": "AAAAAA==",
+    "contentBG": "AAAAAA==",
+    "skillTag": "AAAAAA=="
+  },
+  {
+    "sn": "26511",
+    "name": "(SB)Gnawing Plague",
+    "desc": "(SB)Deal Curse damage to all foes equal to <color=#fffc40>^%s^</color> of Attack. Also, increase Defense by <color=#fffc40>^%s^</color> and continous damage taken by <color=#fffc40>^%s^</color>.",
+    "descSimple": "(SB)Curse dmg to all foes (%s Atk). Also, increase Def %s and continous dmg taken %s.",
+    "levelUpList": "Skill Multiplier",
+    "levelUpValue": "AAAAAA==",
+    "contentBG": "AAAAAA==",
+    "skillTag": "Multi-Target"
+  },
+  {
+    "sn": "26541",
+    "name": "AAAAAA==",
+    "desc": "AAAAAA==",
+    "descSimple": "AAAAAA==",
+    "levelUpList": "AAAAAA==",
+    "levelUpValue": "AAAAAA==",
+    "contentBG": "AAAAAA==",
+    "skillTag": "AAAAAA=="
+  },
+  {
+    "sn": "26542",
+    "name": "AAAAAA==",
+    "desc": "AAAAAA==",
+    "descSimple": "AAAAAA==",
+    "levelUpList": "AAAAAA==",
+    "levelUpValue": "AAAAAA==",
+    "contentBG": "AAAAAA==",
+    "skillTag": "AAAAAA=="
+  },
+  {
+    "sn": "26543",
+    "name": "AAAAAA==",
+    "desc": "AAAAAA==",
+    "descSimple": "AAAAAA==",
+    "levelUpList": "AAAAAA==",
+    "levelUpValue": "AAAAAA==",
+    "contentBG": "AAAAAA==",
+    "skillTag": "AAAAAA=="
+  },
+  {
+    "sn": "26544",
+    "name": "AAAAAA==",
+    "desc": "AAAAAA==",
+    "descSimple": "AAAAAA==",
+    "levelUpList": "AAAAAA==",
+    "levelUpValue": "AAAAAA==",
+    "contentBG": "AAAAAA==",
+    "skillTag": "AAAAAA=="
+  },
+  {
+    "sn": "26211",
+    "name": "Purifying Flames",
+    "desc": "Increase party's Attack by <color=#FFFC40>^%s^</color>. For every 500 of the user's Attack, increase allies' Attack by <color=#FFFC40>^%s^</color> more (up to 6%). Lasts for 3 turns.\nAlso, grant Purifying Flames to the main target for 3 turns.\nPurifying Flames: When dealing skill damage to foes, 75% chance to inflict Burn on 1 random foe.",
+    "descSimple": "Increase party's Atk %s + %s per 500 of user's Atk (max 4%, 3 turns).\nGrant Purifying Flames to main target.\nPurifying Flames: When dealing skill dmg, 75% chance to inflict Burn on 1 random foe.",
+    "levelUpList": "Skill Multiplier",
+    "levelUpValue": "AAAAAA==",
+    "contentBG": "AAAAAA==",
+    "skillTag": "Buff"
+  },
+  {
+    "sn": "26241",
+    "name": "Flaming Chariot",
+    "desc": "Increase Attack by 29.1%.\nAt the start of battle, gain 4 Holy Flame stacks, and every 2 turns, inflict Burn on 1 random foe.\nWhen allies inflict an elemental ailment, gain 1 Holy Flame stack for 3 turns. If the ailment inflicted is Burn, gain 1 more Holy Flame stack. Holy Flame stacks up to 10 times, and up to 2 stacks can be gained from 1 skill.\nWhen an ally uses a skill, if Holy Flame is at 4 or more stacks, spend all Holy Flame stacks to increase the party's damage by 1% per stack for 2 turns. Also, 50% chance to inflict Burn on 1 random foe.",
+    "descSimple": "Increase Atk 29.1%.At start of battle, gain 4 Holy Flame, and every 2 turns, inflict Burn on 1 random foe.\nWhen allies inflict elemental ailments, gain 1 Holy Flame (3 turns). If ailment is Burn, gain 1 more Holy Flame. Max 10 stacks, 2 stacks per skill.\nWhen ally uses skill, if Holy Flame is at 4+ stacks, spend all Holy Flame to increase party's dmg 1% per stack (2 turns). Also, 50% chance to inflict Burn on 1 random foe.",
+    "levelUpList": "AAAAAA==",
+    "levelUpValue": "AAAAAA==",
+    "contentBG": "AAAAAA==",
+    "skillTag": "AAAAAA=="
+  },
+  {
+    "sn": "26242",
+    "name": "Flaming Chariot I",
+    "desc": "Increase Attack by 29.1%.\nAt the start of battle, gain 8 Holy Flame stacks, and every 2 turns, inflict Burn on 1 random foe.\nWhen allies inflict an elemental ailment, gain 1 Holy Flame stack for 3 turns. If the ailment inflicted is Burn, gain 1 more Holy Flame stack. Holy Flame stacks up to 10 times, and up to 2 stacks can be gained from 1 skill.\nWhen an ally uses a skill, if Holy Flame is at 4 or more stacks, spend all Holy Flame stacks to increase the party's damage by 1% per stack for 2 turns. Also, 50% chance to inflict Burn on 1 random foe.",
+    "descSimple": "Increase Atk 29.1%.At start of battle, gain 8 Holy Flame, and every 2 turns, inflict Burn on 1 random foe.\nWhen allies inflict elemental ailments, gain 1 Holy Flame (3 turns). If ailment is Burn, gain 1 more Holy Flame. Max 10 stacks, 2 stacks per skill.\nWhen ally uses skill, if Holy Flame is at 4+ stacks, spend all Holy Flame to increase party's dmg 1% per stack (2 turns). Also, 50% chance to inflict Burn on 1 random foe.",
+    "levelUpList": "AAAAAA==",
+    "levelUpValue": "AAAAAA==",
+    "contentBG": "AAAAAA==",
+    "skillTag": "AAAAAA=="
+  },
+  {
+    "sn": "26243",
+    "name": "Flaming Chariot II",
+    "desc": "Increase Attack by 29.1%.\nAt the start of battle, gain 8 Holy Flame stacks, and every 2 turns, inflict Burn on 1 random foe.\nWhen allies inflict an elemental ailment, gain 1 Holy Flame stack for 3 turns. If the ailment inflicted is Burn, gain 1 more Holy Flame stack. Holy Flame stacks up to 10 times, and up to 2 stacks can be gained from 1 skill.\nWhen an ally uses a skill, if Holy Flame is at 4 or more stacks, spend all Holy Flame stacks to increase the party's damage by 1.5% per stack for 2 turns. Also, 50% chance to inflict Burn on 1 random foe.",
+    "descSimple": "Increase Atk 29.1%.At start of battle, gain 8 Holy Flame, and every 2 turns, inflict Burn on 1 random foe.\nWhen allies inflict elemental ailments, gain 1 Holy Flame (3 turns). If ailment is Burn, gain 1 more Holy Flame. Max 10 stacks, 2 stacks per skill.\nWhen ally uses skill, if Holy Flame is at 4+ stacks, spend all Holy Flame to increase party's dmg 1.5% per stack (2 turns). Also, 50% chance to inflict Burn on 1 random foe.",
+    "levelUpList": "AAAAAA==",
+    "levelUpValue": "AAAAAA==",
+    "contentBG": "AAAAAA==",
+    "skillTag": "AAAAAA=="
+  },
+  {
+    "sn": "26244",
+    "name": "Flaming Chariot III",
+    "desc": "Increase Attack by 29.1%.\nAt the start of battle, gain 8 Holy Flame stacks, and every 2 turns, inflict Burn on 1 random foe.\nWhen allies inflict an elemental ailment, gain 1 Holy Flame stack for 3 turns. If the ailment inflicted is Burn, gain 1 more Holy Flame stack. Holy Flame stacks up to 10 times, and up to 2 stacks can be gained from 1 skill.\nWhen an ally uses a skill, if Holy Flame is at 4 or more stacks, spend all Holy Flame stacks to increase the party's damage by 1.5% per stack for 2 turns. Also, 75% chance to inflict Burn on 1 random foe.",
+    "descSimple": "Increase Atk 29.1%.At start of battle, gain 8 Holy Flame, and every 2 turns, inflict Burn on 1 random foe.\nWhen allies inflict elemental ailments, gain 1 Holy Flame (3 turns). If ailment is Burn, gain 1 more Holy Flame. Max 10 stacks, 2 stacks per skill.\nWhen ally uses skill, if Holy Flame is at 4+ stacks, spend all Holy Flame to increase party's dmg 1.5% per stack (2 turns). Also, 75% chance to inflict Burn on 1 random foe.",
+    "levelUpList": "AAAAAA==",
+    "levelUpValue": "AAAAAA==",
+    "contentBG": "AAAAAA==",
+    "skillTag": "AAAAAA=="
+  },
+  {
     "sn": "40034",
     "name": "AAAAAA==",
     "desc": "When activating a single-target skill, ignore 30% of the foe's Defense.",
@@ -26650,6 +27950,46 @@
     "skillTag": "AAAAAA=="
   },
   {
+    "sn": "26140",
+    "name": "AAAAAA==",
+    "desc": "Increase Attack by 29.1%.",
+    "descSimple": "AAAAAA==",
+    "levelUpList": "AAAAAA==",
+    "levelUpValue": "AAAAAA==",
+    "contentBG": "AAAAAA==",
+    "skillTag": "AAAAAA=="
+  },
+  {
+    "sn": "26440",
+    "name": "AAAAAA==",
+    "desc": "Increase Attack by 29.1%.",
+    "descSimple": "AAAAAA==",
+    "levelUpList": "AAAAAA==",
+    "levelUpValue": "AAAAAA==",
+    "contentBG": "AAAAAA==",
+    "skillTag": "AAAAAA=="
+  },
+  {
+    "sn": "26540",
+    "name": "AAAAAA==",
+    "desc": "Increase Attack by 29.1%.",
+    "descSimple": "AAAAAA==",
+    "levelUpList": "AAAAAA==",
+    "levelUpValue": "AAAAAA==",
+    "contentBG": "AAAAAA==",
+    "skillTag": "AAAAAA=="
+  },
+  {
+    "sn": "26240",
+    "name": "AAAAAA==",
+    "desc": "Increase Attack by 29.1%.",
+    "descSimple": "AAAAAA==",
+    "levelUpList": "AAAAAA==",
+    "levelUpValue": "AAAAAA==",
+    "contentBG": "AAAAAA==",
+    "skillTag": "AAAAAA=="
+  },
+  {
     "sn": "6201",
     "name": "Hellfire",
     "desc": "Deal Fire damage to all foes and inflict Hellscorched if the target's HP is decreased by this attack. Hellscorched: Take damage equal to 35% of max HP each turn.",
@@ -27072,7 +28412,7 @@
   {
     "sn": "6257",
     "name": "Byakko's Claw",
-    "desc": "AAAAAA==",
+    "desc": "Deal Physical damage to 1 foe, and inflict Deep Wounds.",
     "descSimple": "AAAAAA==",
     "levelUpList": "AAAAAA==",
     "levelUpValue": "AAAAAA==",
@@ -27082,7 +28422,7 @@
   {
     "sn": "6258",
     "name": "Byakko's Fang",
-    "desc": "AAAAAA==",
+    "desc": "Deal Physical damage to all foes, and inflict Bite Marks.",
     "descSimple": "AAAAAA==",
     "levelUpList": "AAAAAA==",
     "levelUpValue": "AAAAAA==",
@@ -27140,6 +28480,116 @@
     "skillTag": "Multi-Target"
   },
   {
+    "sn": "6277",
+    "name": "Thunder Reign",
+    "desc": "Deal Electric damage to 1 foe equal to <color=#fffc40>^%s^</color> of Attack. <color=#fffc40>^%s^</color> chance to inflict <link=\"s|104\"><u>Shock</u></link> for 2 turns.",
+    "descSimple": "Elec dmg to 1 foe (%s% Atk). %s% chance to inflict Shock.",
+    "levelUpList": "Dmg Dealt",
+    "levelUpValue": "AAAAAA==",
+    "contentBG": "AAAAAA==",
+    "skillTag": "Single-Target"
+  },
+  {
+    "sn": "6278",
+    "name": "Wild Thunder",
+    "desc": "Deal Electric damage to all foes equal to <color=#fffc40>^%s^</color> of Attack. <color=#fffc40>^%s^</color> chance to inflict <link=\"s|104\"><u>Shock</u></link> for 2 turns.",
+    "descSimple": "Elec dmg to all foes (%s% Atk). %s% chance to inflict Shock.",
+    "levelUpList": "Dmg Dealt",
+    "levelUpValue": "AAAAAA==",
+    "contentBG": "AAAAAA==",
+    "skillTag": "Multi-Target"
+  },
+  {
+    "sn": "6280",
+    "name": "Norn's Protection",
+    "desc": "Grant shield to Thor.",
+    "descSimple": "AAAAAA==",
+    "levelUpList": "AAAAAA==",
+    "levelUpValue": "AAAAAA==",
+    "contentBG": "AAAAAA==",
+    "skillTag": "Shield"
+  },
+  {
+    "sn": "6281",
+    "name": "Skadi's Protection",
+    "desc": "Grant extra action to Thor.",
+    "descSimple": "AAAAAA==",
+    "levelUpList": "AAAAAA==",
+    "levelUpValue": "AAAAAA==",
+    "contentBG": "AAAAAA==",
+    "skillTag": "Buff"
+  },
+  {
+    "sn": "6282",
+    "name": "Mjolnir",
+    "desc": "AAAAAA==",
+    "descSimple": "AAAAAA==",
+    "levelUpList": "AAAAAA==",
+    "levelUpValue": "AAAAAA==",
+    "contentBG": "AAAAAA==",
+    "skillTag": "Buff"
+  },
+  {
+    "sn": "6283",
+    "name": "Mjolnir",
+    "desc": "AAAAAA==",
+    "descSimple": "AAAAAA==",
+    "levelUpList": "AAAAAA==",
+    "levelUpValue": "AAAAAA==",
+    "contentBG": "AAAAAA==",
+    "skillTag": "Buff"
+  },
+  {
+    "sn": "6284",
+    "name": "Ragnarok",
+    "desc": "Deal Fire damage to all foes, and increase user's final damage by 50%.",
+    "descSimple": "Fire dmg to all foes (%s% Atk). %s% chance to inflict Burn.",
+    "levelUpList": "Dmg Dealt",
+    "levelUpValue": "AAAAAA==",
+    "contentBG": "AAAAAA==",
+    "skillTag": "Multi-Target"
+  },
+  {
+    "sn": "6290",
+    "name": "Hateful Strike",
+    "desc": "AAAAAA==",
+    "descSimple": "AAAAAA==",
+    "levelUpList": "AAAAAA==",
+    "levelUpValue": "AAAAAA==",
+    "contentBG": "AAAAAA==",
+    "skillTag": "AAAAAA=="
+  },
+  {
+    "sn": "6300",
+    "name": "Sweet Punishment",
+    "desc": "Make 1 foe unable to act, and lose HP every turn.",
+    "descSimple": "AAAAAA==",
+    "levelUpList": "AAAAAA==",
+    "levelUpValue": "AAAAAA==",
+    "contentBG": "AAAAAA==",
+    "skillTag": "AAAAAA=="
+  },
+  {
+    "sn": "6301",
+    "name": "Broken Restraints",
+    "desc": "AAAAAA==",
+    "descSimple": "AAAAAA==",
+    "levelUpList": "AAAAAA==",
+    "levelUpValue": "AAAAAA==",
+    "contentBG": "AAAAAA==",
+    "skillTag": "AAAAAA=="
+  },
+  {
+    "sn": "6310",
+    "name": "Love Bomb",
+    "desc": "Deal Almighty damage to all foes, and change all affinities to Weak for 1 turn.",
+    "descSimple": "AAAAAA==",
+    "levelUpList": "AAAAAA==",
+    "levelUpValue": "AAAAAA==",
+    "contentBG": "AAAAAA==",
+    "skillTag": "AAAAAA=="
+  },
+  {
     "sn": "6313",
     "name": "Diarama",
     "desc": "Restore HP to 1 ally.",
@@ -27195,6 +28645,36 @@
     "desc": "Deal Curse damage to all foes equal to <color=#FFFC40>^%s^%</color> of Attack. Chance to inflict 1 <link=\"s|112\"><u>Curse</u></link> stack on foes.",
     "descSimple": "Curse damage to all foes (%s% Atk). Chance to inflict Curse.",
     "levelUpList": "Dmg Increase",
+    "levelUpValue": "AAAAAA==",
+    "contentBG": "AAAAAA==",
+    "skillTag": "Multi-Target"
+  },
+  {
+    "sn": "82000",
+    "name": "Muddy Armor",
+    "desc": "Grant Muddy Armor to all allies: Decrease damage by 20% for 3 turns. When inflicted with Burn, this effect is removed.",
+    "descSimple": "Grant Muddy Armor to all allies (3 turns).",
+    "levelUpList": "AAAAAA==",
+    "levelUpValue": "AAAAAA==",
+    "contentBG": "AAAAAA==",
+    "skillTag": "Buff"
+  },
+  {
+    "sn": "82001",
+    "name": "Melted Armor",
+    "desc": "Grant Melted Armor to all allies: Decrease damage by 40% for 3 turns. When Burn is removed, this effect is removed from all allies.",
+    "descSimple": "Grant Melted Armor to all allies (3 turns).",
+    "levelUpList": "AAAAAA==",
+    "levelUpValue": "AAAAAA==",
+    "contentBG": "AAAAAA==",
+    "skillTag": "Buff"
+  },
+  {
+    "sn": "82002",
+    "name": "Abyssal Gaze",
+    "desc": "Activates when Progress reaches 10. Deal heavy Almighty damage to all foes. For each Arahabaki summoned to the field, increase damage by 20%.",
+    "descSimple": "AAAAAA==",
+    "levelUpList": "AAAAAA==",
     "levelUpValue": "AAAAAA==",
     "contentBG": "AAAAAA==",
     "skillTag": "Multi-Target"
@@ -30530,6 +32010,16 @@
     "skillTag": "AAAAAA=="
   },
   {
+    "sn": "2456",
+    "name": "Fafnir's Curse",
+    "desc": "Inflict Fafnir's Curse on all foes and increase damage taken.\nWhen foes use a Strategist/Medic/Guardian skill, remove Fafnir's Curse and inflict 1 Curse Rebound stack: Decrease Defense (max 3 stacks). At 3 stacks, also increase damage taken from Fafnir's Highlight.",
+    "descSimple": "AAAAAA==",
+    "levelUpList": "AAAAAA==",
+    "levelUpValue": "AAAAAA==",
+    "contentBG": "AAAAAA==",
+    "skillTag": "Debuff"
+  },
+  {
     "sn": "2461",
     "name": "(Empty line)",
     "desc": "AAAAAA==",
@@ -30922,6 +32412,16 @@
   {
     "sn": "2517",
     "name": "(Empty line)",
+    "desc": "AAAAAA==",
+    "descSimple": "AAAAAA==",
+    "levelUpList": "AAAAAA==",
+    "levelUpValue": "AAAAAA==",
+    "contentBG": "AAAAAA==",
+    "skillTag": "AAAAAA=="
+  },
+  {
+    "sn": "2571",
+    "name": "Temp",
     "desc": "AAAAAA==",
     "descSimple": "AAAAAA==",
     "levelUpList": "AAAAAA==",
@@ -32870,6 +34370,206 @@
     "skillTag": "Multi-Target"
   },
   {
+    "sn": "2901",
+    "name": "1 MORE",
+    "desc": "Deal Nuclear damage to 1 foe.",
+    "descSimple": "AAAAAA==",
+    "levelUpList": "AAAAAA==",
+    "levelUpValue": "AAAAAA==",
+    "contentBG": "AAAAAA==",
+    "skillTag": "Single-Target"
+  },
+  {
+    "sn": "2902",
+    "name": "Ruinous Consulting",
+    "desc": "Deal Nuclear damage to all foes.",
+    "descSimple": "AAAAAA==",
+    "levelUpList": "AAAAAA==",
+    "levelUpValue": "AAAAAA==",
+    "contentBG": "AAAAAA==",
+    "skillTag": "Multi-Target"
+  },
+  {
+    "sn": "2903",
+    "name": "Extreme Exploitation",
+    "desc": "After defeating a foe, restore a large amount of energy and a small amount of HP.",
+    "descSimple": "AAAAAA==",
+    "levelUpList": "AAAAAA==",
+    "levelUpValue": "AAAAAA==",
+    "contentBG": "AAAAAA==",
+    "skillTag": "Passive,Heal"
+  },
+  {
+    "sn": "2904",
+    "name": "Targeting",
+    "desc": "Lock on to 1 foe.",
+    "descSimple": "AAAAAA==",
+    "levelUpList": "AAAAAA==",
+    "levelUpValue": "AAAAAA==",
+    "contentBG": "AAAAAA==",
+    "skillTag": "Support"
+  },
+  {
+    "sn": "2905",
+    "name": "Fierce Coaching",
+    "desc": "Spend 10 energy to deal heavy Physical damage to Locked On foes. When downing a foe with this skill, recover 60 energy and 10% of HP.",
+    "descSimple": "AAAAAA==",
+    "levelUpList": "AAAAAA==",
+    "levelUpValue": "AAAAAA==",
+    "contentBG": "AAAAAA==",
+    "skillTag": "Single-Target"
+  },
+  {
+    "sn": "2906",
+    "name": "Power Bank",
+    "desc": "Charge",
+    "descSimple": "AAAAAA==",
+    "levelUpList": "AAAAAA==",
+    "levelUpValue": "AAAAAA==",
+    "contentBG": "AAAAAA==",
+    "skillTag": "Support"
+  },
+  {
+    "sn": "2907",
+    "name": "Catastrophic Consulting",
+    "desc": "Deal severe Nuclear damage to all foes.",
+    "descSimple": "AAAAAA==",
+    "levelUpList": "AAAAAA==",
+    "levelUpValue": "AAAAAA==",
+    "contentBG": "AAAAAA==",
+    "skillTag": "Multi-Target"
+  },
+  {
+    "sn": "2908",
+    "name": "Catastrophic Consulting",
+    "desc": "Activates when energy reaches 100. Spend 60 energy to deal severe Nuke damage to all foes.",
+    "descSimple": "AAAAAA==",
+    "levelUpList": "AAAAAA==",
+    "levelUpValue": "AAAAAA==",
+    "contentBG": "AAAAAA==",
+    "skillTag": "Multi-Target"
+  },
+  {
+    "sn": "2909",
+    "name": "Ravenous Ruin",
+    "desc": "Deal Physical damage to all foes.",
+    "descSimple": "AAAAAA==",
+    "levelUpList": "AAAAAA==",
+    "levelUpValue": "AAAAAA==",
+    "contentBG": "AAAAAA==",
+    "skillTag": "Multi-Target"
+  },
+  {
+    "sn": "2910",
+    "name": "1 MORE",
+    "desc": "Deal Physical damage to 1 foe.",
+    "descSimple": "AAAAAA==",
+    "levelUpList": "AAAAAA==",
+    "levelUpValue": "AAAAAA==",
+    "contentBG": "AAAAAA==",
+    "skillTag": "Single-Target"
+  },
+  {
+    "sn": "2911",
+    "name": "Ray of Gluttony",
+    "desc": "Deal Nuclear damage to all foes.",
+    "descSimple": "AAAAAA==",
+    "levelUpList": "AAAAAA==",
+    "levelUpValue": "AAAAAA==",
+    "contentBG": "AAAAAA==",
+    "skillTag": "Multi-Target"
+  },
+  {
+    "sn": "2912",
+    "name": "Overindulgence",
+    "desc": "1 foe becomes unable to act. Also, absorb 60 SP to replenish energy canister.",
+    "descSimple": "AAAAAA==",
+    "levelUpList": "AAAAAA==",
+    "levelUpValue": "AAAAAA==",
+    "contentBG": "AAAAAA==",
+    "skillTag": "Support"
+  },
+  {
+    "sn": "2913",
+    "name": "Beam of Gluttony",
+    "desc": "Deal heavy Nuclear damage to all foes.",
+    "descSimple": "AAAAAA==",
+    "levelUpList": "AAAAAA==",
+    "levelUpValue": "AAAAAA==",
+    "contentBG": "AAAAAA==",
+    "skillTag": "Multi-Target"
+  },
+  {
+    "sn": "2914",
+    "name": "Ray of Rapacity",
+    "desc": "Spend HP to deal Nuclear damage to 1 foe.",
+    "descSimple": "AAAAAA==",
+    "levelUpList": "AAAAAA==",
+    "levelUpValue": "AAAAAA==",
+    "contentBG": "AAAAAA==",
+    "skillTag": "Single-Target"
+  },
+  {
+    "sn": "2915",
+    "name": "Cast of Rapacity",
+    "desc": "Spend HP to deal Nuclear damage to all foes.",
+    "descSimple": "AAAAAA==",
+    "levelUpList": "AAAAAA==",
+    "levelUpValue": "AAAAAA==",
+    "contentBG": "AAAAAA==",
+    "skillTag": "Multi-Target"
+  },
+  {
+    "sn": "2916",
+    "name": "Gluttonous Feast",
+    "desc": "Deal Almighty damage to all foes, ignoring their defense. Also, absorb 10 SP and restore a set amount of HP.",
+    "descSimple": "AAAAAA==",
+    "levelUpList": "AAAAAA==",
+    "levelUpValue": "AAAAAA==",
+    "contentBG": "AAAAAA==",
+    "skillTag": "Support"
+  },
+  {
+    "sn": "2917",
+    "name": "Gluttonous Strike",
+    "desc": "Spend HP to deal heavy Nuclear damage to all foes.",
+    "descSimple": "AAAAAA==",
+    "levelUpList": "AAAAAA==",
+    "levelUpValue": "AAAAAA==",
+    "contentBG": "AAAAAA==",
+    "skillTag": "Multi-Target"
+  },
+  {
+    "sn": "2918",
+    "name": "I'll Devour You!",
+    "desc": "Deal Nuclear damage to all foes.",
+    "descSimple": "AAAAAA==",
+    "levelUpList": "AAAAAA==",
+    "levelUpValue": "AAAAAA==",
+    "contentBG": "AAAAAA==",
+    "skillTag": "Multi-Target"
+  },
+  {
+    "sn": "2919",
+    "name": "Not Enough!",
+    "desc": "Sacrifice a set amount of HP to charge energy.",
+    "descSimple": "AAAAAA==",
+    "levelUpList": "AAAAAA==",
+    "levelUpValue": "AAAAAA==",
+    "contentBG": "AAAAAA==",
+    "skillTag": "Support"
+  },
+  {
+    "sn": "2920",
+    "name": "I'm Taking You Down!",
+    "desc": "Spend all energy to deal colossal Nuclear damage to all foes.",
+    "descSimple": "AAAAAA==",
+    "levelUpList": "AAAAAA==",
+    "levelUpValue": "AAAAAA==",
+    "contentBG": "AAAAAA==",
+    "skillTag": "Multi-Target"
+  },
+  {
     "sn": "2922",
     "name": "Heat Wave",
     "desc": "Deal Physical damage to all foes equal to <color=#fffc40>^%s^%</color> of Attack.",
@@ -34291,8 +35991,8 @@
   },
   {
     "sn": "3560",
-    "name": "Entry Effect",
-    "desc": "AAAAAA==",
+    "name": "tdxct-[Skill_name_3560]",
+    "desc": "(SB)When Nian is present, increase party's critical rate.",
     "descSimple": "AAAAAA==",
     "levelUpList": "AAAAAA==",
     "levelUpValue": "AAAAAA==",
@@ -34301,8 +36001,8 @@
   },
   {
     "sn": "3561",
-    "name": "Entry Effect",
-    "desc": "AAAAAA==",
+    "name": "tdxct-[Skill_name_3561]",
+    "desc": "(SB)When Nian is present, decrease party's critical damage taken.",
     "descSimple": "AAAAAA==",
     "levelUpList": "AAAAAA==",
     "levelUpValue": "AAAAAA==",
@@ -34311,27 +36011,187 @@
   },
   {
     "sn": "3562",
-    "name": "Entry Effect",
-    "desc": "AAAAAA==",
+    "name": "tdxct-[Skill_name_3562]",
+    "desc": "(SB)When Kohryu is defeated, deal severe Physical damage to all foes if able to act.",
     "descSimple": "AAAAAA==",
     "levelUpList": "AAAAAA==",
     "levelUpValue": "AAAAAA==",
     "contentBG": "AAAAAA==",
-    "skillTag": "AAAAAA=="
+    "skillTag": "Passive,Multi-Target"
   },
   {
     "sn": "3563",
-    "name": "Entry Effect",
-    "desc": "AAAAAA==",
+    "name": "tdxct-[Skill_name_3563]",
+    "desc": "(SB)Spend 1 Power of Nirvana when at verge of death to restore a set amount of HP.",
     "descSimple": "AAAAAA==",
     "levelUpList": "AAAAAA==",
     "levelUpValue": "AAAAAA==",
     "contentBG": "AAAAAA==",
-    "skillTag": "AAAAAA=="
+    "skillTag": "Passive,Heal"
   },
   {
     "sn": "3564",
-    "name": "Entry Effect",
+    "name": "tdxct-[Skill_name_3564]",
+    "desc": "(SB)Restore a set amount of HP to the ally with the lowest HP. Increase healing if Atk is higher.",
+    "descSimple": "AAAAAA==",
+    "levelUpList": "AAAAAA==",
+    "levelUpValue": "AAAAAA==",
+    "contentBG": "AAAAAA==",
+    "skillTag": "Single-Heal"
+  },
+  {
+    "sn": "3569",
+    "name": "Myriad Slashes",
+    "desc": "Deal Physical damage to 1 foe (2-3 hits).",
+    "descSimple": "AAAAAA==",
+    "levelUpList": "Dmg Dealt",
+    "levelUpValue": "AAAAAA==",
+    "contentBG": "AAAAAA==",
+    "skillTag": "Single-Target"
+  },
+  {
+    "sn": "3570",
+    "name": "Bloodbath",
+    "desc": "Deal Physical damage to all foes.",
+    "descSimple": "AAAAAA==",
+    "levelUpList": "AAAAAA==",
+    "levelUpValue": "AAAAAA==",
+    "contentBG": "AAAAAA==",
+    "skillTag": "Multi-Target"
+  },
+  {
+    "sn": "3571",
+    "name": "Spectral Lure",
+    "desc": "Sacrifices 1 minion and recovers a set percentage of the user's HP.",
+    "descSimple": "AAAAAA==",
+    "levelUpList": "AAAAAA==",
+    "levelUpValue": "AAAAAA==",
+    "contentBG": "AAAAAA==",
+    "skillTag": "Single-Heal"
+  },
+  {
+    "sn": "3572",
+    "name": "Punishing Whip",
+    "desc": "Deal Almighty damage to 1 foe, ignoring their Defense.",
+    "descSimple": "AAAAAA==",
+    "levelUpList": "Dmg Dealt",
+    "levelUpValue": "AAAAAA==",
+    "contentBG": "AAAAAA==",
+    "skillTag": "Single-Target"
+  },
+  {
+    "sn": "3573",
+    "name": "Brain Shake",
+    "desc": "Deal Physical damage to the foe with the lowest HP. Chance to inflict <link=\"s|158\"><u>Brainwash</u></link> for 2 turns.",
+    "descSimple": "AAAAAA==",
+    "levelUpList": "AAAAAA==",
+    "levelUpValue": "AAAAAA==",
+    "contentBG": "AAAAAA==",
+    "skillTag": "Single-Target"
+  },
+  {
+    "sn": "3574",
+    "name": "Deathbound",
+    "desc": "Deal Physical damage to all foes (1-2 hits).",
+    "descSimple": "AAAAAA==",
+    "levelUpList": "Dmg Dealt",
+    "levelUpValue": "AAAAAA==",
+    "contentBG": "AAAAAA==",
+    "skillTag": "Multi-Target"
+  },
+  {
+    "sn": "3575",
+    "name": "Call to Retreat",
+    "desc": "All foes' Highlight gauge fills 40% slower for 2 turns.",
+    "descSimple": "AAAAAA==",
+    "levelUpList": "AAAAAA==",
+    "levelUpValue": "AAAAAA==",
+    "contentBG": "AAAAAA==",
+    "skillTag": "Support"
+  },
+  {
+    "sn": "3576",
+    "name": "Rising Slash",
+    "desc": "Deal Physical damage to 1 foe.",
+    "descSimple": "AAAAAA==",
+    "levelUpList": "Dmg Dealt",
+    "levelUpValue": "AAAAAA==",
+    "contentBG": "AAAAAA==",
+    "skillTag": "Single-Target"
+  },
+  {
+    "sn": "3577",
+    "name": "Vicious Strike",
+    "desc": "Deal Physical damage to all foes.",
+    "descSimple": "AAAAAA==",
+    "levelUpList": "Dmg Dealt",
+    "levelUpValue": "AAAAAA==",
+    "contentBG": "AAAAAA==",
+    "skillTag": "Multi-Target"
+  },
+  {
+    "sn": "3578",
+    "name": "(SB)Cursed Corruption",
+    "desc": "Deal Curse damage to all foes.",
+    "descSimple": "AAAAAA==",
+    "levelUpList": "AAAAAA==",
+    "levelUpValue": "AAAAAA==",
+    "contentBG": "AAAAAA==",
+    "skillTag": "Multi-Target"
+  },
+  {
+    "sn": "3579",
+    "name": "(SB)Depraved Voice",
+    "desc": "Deal Curse damage to 1 foe.",
+    "descSimple": "AAAAAA==",
+    "levelUpList": "AAAAAA==",
+    "levelUpValue": "AAAAAA==",
+    "contentBG": "AAAAAA==",
+    "skillTag": "Single-Target"
+  },
+  {
+    "sn": "3580",
+    "name": "(SB)Winter Calamity",
+    "desc": "Deal Ice damage to all foes.",
+    "descSimple": "AAAAAA==",
+    "levelUpList": "AAAAAA==",
+    "levelUpValue": "AAAAAA==",
+    "contentBG": "AAAAAA==",
+    "skillTag": "Multi-Target"
+  },
+  {
+    "sn": "3581",
+    "name": "(SB)Ice Wave",
+    "desc": "Deal Ice damage to 1 foe.",
+    "descSimple": "AAAAAA==",
+    "levelUpList": "AAAAAA==",
+    "levelUpValue": "AAAAAA==",
+    "contentBG": "AAAAAA==",
+    "skillTag": "Single-Target"
+  },
+  {
+    "sn": "3582",
+    "name": "(SB)Thunderous Calamity",
+    "desc": "Deal Electric damage to all foes.",
+    "descSimple": "AAAAAA==",
+    "levelUpList": "AAAAAA==",
+    "levelUpValue": "AAAAAA==",
+    "contentBG": "AAAAAA==",
+    "skillTag": "Multi-Target"
+  },
+  {
+    "sn": "3583",
+    "name": "(SB)Thunderstrike",
+    "desc": "Deal Electric damage to 1 foe.",
+    "descSimple": "AAAAAA==",
+    "levelUpList": "AAAAAA==",
+    "levelUpValue": "AAAAAA==",
+    "contentBG": "AAAAAA==",
+    "skillTag": "Single-Target"
+  },
+  {
+    "sn": "3584",
+    "name": "(SB)Age of Grace",
     "desc": "AAAAAA==",
     "descSimple": "AAAAAA==",
     "levelUpList": "AAAAAA==",
@@ -34340,8 +36200,8 @@
     "skillTag": "AAAAAA=="
   },
   {
-    "sn": "3565",
-    "name": "Entry Effect",
+    "sn": "3585",
+    "name": "(SB)Frozen Embrace",
     "desc": "AAAAAA==",
     "descSimple": "AAAAAA==",
     "levelUpList": "AAAAAA==",
@@ -34350,8 +36210,8 @@
     "skillTag": "AAAAAA=="
   },
   {
-    "sn": "3566",
-    "name": "Entry Effect",
+    "sn": "3586",
+    "name": "(SB)Frozen Embrace",
     "desc": "AAAAAA==",
     "descSimple": "AAAAAA==",
     "levelUpList": "AAAAAA==",
@@ -34360,8 +36220,8 @@
     "skillTag": "AAAAAA=="
   },
   {
-    "sn": "3567",
-    "name": "Parasol of Chaos",
+    "sn": "3587",
+    "name": "(SB)Cleansing Fire",
     "desc": "AAAAAA==",
     "descSimple": "AAAAAA==",
     "levelUpList": "AAAAAA==",
@@ -34370,14 +36230,204 @@
     "skillTag": "AAAAAA=="
   },
   {
-    "sn": "3568",
-    "name": "Entry Effect",
+    "sn": "3588",
+    "name": "Ice Weakness",
+    "desc": "Change all foes' Ice affinity to Weak.",
+    "descSimple": "AAAAAA==",
+    "levelUpList": "AAAAAA==",
+    "levelUpValue": "AAAAAA==",
+    "contentBG": "AAAAAA==",
+    "skillTag": "Debuff"
+  },
+  {
+    "sn": "3589",
+    "name": "Physical Weakness",
+    "desc": "Change all foes' Physical affinity to Weak.",
+    "descSimple": "AAAAAA==",
+    "levelUpList": "AAAAAA==",
+    "levelUpValue": "AAAAAA==",
+    "contentBG": "AAAAAA==",
+    "skillTag": "Debuff"
+  },
+  {
+    "sn": "3590",
+    "name": "Nuclear Weakness",
+    "desc": "Change all foes' Nuclear affinity to Weak.",
+    "descSimple": "AAAAAA==",
+    "levelUpList": "AAAAAA==",
+    "levelUpValue": "AAAAAA==",
+    "contentBG": "AAAAAA==",
+    "skillTag": "Debuff"
+  },
+  {
+    "sn": "3591",
+    "name": "Psychokinesis Weakness",
+    "desc": "Change all foes' Psychokinesis affinity to Weak.",
+    "descSimple": "AAAAAA==",
+    "levelUpList": "AAAAAA==",
+    "levelUpValue": "AAAAAA==",
+    "contentBG": "AAAAAA==",
+    "skillTag": "Debuff"
+  },
+  {
+    "sn": "3592",
+    "name": "Curse Weakness",
+    "desc": "Change all foes' Curse affinity to Weak.",
+    "descSimple": "AAAAAA==",
+    "levelUpList": "AAAAAA==",
+    "levelUpValue": "AAAAAA==",
+    "contentBG": "AAAAAA==",
+    "skillTag": "Debuff"
+  },
+  {
+    "sn": "3593",
+    "name": "Suzaku's Pyre",
+    "desc": "Inflict all foes with Pyre for 2 turns.",
+    "descSimple": "AAAAAA==",
+    "levelUpList": "AAAAAA==",
+    "levelUpValue": "AAAAAA==",
+    "contentBG": "AAAAAA==",
+    "skillTag": "Debuff"
+  },
+  {
+    "sn": "3594",
+    "name": "Suzaku's Feathers",
+    "desc": "Make 1 ally untargetable for 2 turns.",
+    "descSimple": "AAAAAA==",
+    "levelUpList": "AAAAAA==",
+    "levelUpValue": "AAAAAA==",
+    "contentBG": "AAAAAA==",
+    "skillTag": "Buff"
+  },
+  {
+    "sn": "3595",
+    "name": "Seiryu",
     "desc": "AAAAAA==",
     "descSimple": "AAAAAA==",
     "levelUpList": "AAAAAA==",
     "levelUpValue": "AAAAAA==",
     "contentBG": "AAAAAA==",
     "skillTag": "AAAAAA=="
+  },
+  {
+    "sn": "3596",
+    "name": "Seiryu",
+    "desc": "AAAAAA==",
+    "descSimple": "AAAAAA==",
+    "levelUpList": "AAAAAA==",
+    "levelUpValue": "AAAAAA==",
+    "contentBG": "AAAAAA==",
+    "skillTag": "AAAAAA=="
+  },
+  {
+    "sn": "3597",
+    "name": "Byakko",
+    "desc": "AAAAAA==",
+    "descSimple": "AAAAAA==",
+    "levelUpList": "AAAAAA==",
+    "levelUpValue": "AAAAAA==",
+    "contentBG": "AAAAAA==",
+    "skillTag": "AAAAAA=="
+  },
+  {
+    "sn": "3598",
+    "name": "Suzaku",
+    "desc": "AAAAAA==",
+    "descSimple": "AAAAAA==",
+    "levelUpList": "AAAAAA==",
+    "levelUpValue": "AAAAAA==",
+    "contentBG": "AAAAAA==",
+    "skillTag": "AAAAAA=="
+  },
+  {
+    "sn": "3599",
+    "name": "Genbu",
+    "desc": "AAAAAA==",
+    "descSimple": "AAAAAA==",
+    "levelUpList": "AAAAAA==",
+    "levelUpValue": "AAAAAA==",
+    "contentBG": "AAAAAA==",
+    "skillTag": "AAAAAA=="
+  },
+  {
+    "sn": "3600",
+    "name": "Prey",
+    "desc": "AAAAAA==",
+    "descSimple": "AAAAAA==",
+    "levelUpList": "AAAAAA==",
+    "levelUpValue": "AAAAAA==",
+    "contentBG": "AAAAAA==",
+    "skillTag": "Single-Target"
+  },
+  {
+    "sn": "3601",
+    "name": "Bufu",
+    "desc": "Deal Ice damage to 1 foe equal to <color=#fffc40>^%s^%</color> of Attack, and inflict Chill.\nAlso, <color=#fffc40>^%s^%</color> chance to inflict <link=\"s|103\"><u>Freeze</u></link> for 2 turns.",
+    "descSimple": "Ice dmg to 1 foe (%s% Atk). %s% chance to inflict Freeze.",
+    "levelUpList": "Dmg Dealt",
+    "levelUpValue": "AAAAAA==",
+    "contentBG": "AAAAAA==",
+    "skillTag": "Single-Target"
+  },
+  {
+    "sn": "3602",
+    "name": "Mabufu",
+    "desc": "Deal Ice damage to all foes equal to <color=#fffc40>^%s^%</color> of Attack, and inflict Chill.\nAlso, <color=#fffc40>^%s^%</color> chance to inflict <link=\"s|103\"><u>Freeze</u></link> for 2 turns.",
+    "descSimple": "Ice dmg to all foes (%s% Atk). %s% chance to inflict Freeze.",
+    "levelUpList": "Dmg Dealt",
+    "levelUpValue": "AAAAAA==",
+    "contentBG": "AAAAAA==",
+    "skillTag": "Multi-Target"
+  },
+  {
+    "sn": "3603",
+    "name": "Ice Age",
+    "desc": "Deal Ice damage to all foes. If targets are inflicted with Chill, increase this damage by 20% one time.\nAlso, <color=#fffc40>^%s^%</color> chance to inflict <link=\"s|103\"><u>Freeze</u></link> for 2 turns.",
+    "descSimple": "Ice dmg to all foes (%s% Atk). %s% chance to inflict Freeze.",
+    "levelUpList": "Dmg Dealt",
+    "levelUpValue": "AAAAAA==",
+    "contentBG": "AAAAAA==",
+    "skillTag": "Multi-Target"
+  },
+  {
+    "sn": "3604",
+    "name": "Ice Age",
+    "desc": "Deal Ice damage to all foes. Inflict Chill. If targets are inflicted with Chill, increase this damage by 20% one time.\nAlso, <color=#fffc40>^%s^%</color> chance to inflict <link=\"s|103\"><u>Freeze</u></link> for 2 turns.",
+    "descSimple": "Ice dmg to all foes (%s% Atk). %s% chance to inflict Freeze.",
+    "levelUpList": "Dmg Dealt",
+    "levelUpValue": "AAAAAA==",
+    "contentBG": "AAAAAA==",
+    "skillTag": "Multi-Target"
+  },
+  {
+    "sn": "3605",
+    "name": "Bufu",
+    "desc": "Deal Ice damage to 1 foe equal to <color=#fffc40>^%s^%</color> of Attack, and inflict Chill.\nAlso, <color=#fffc40>^%s^%</color> chance to inflict <link=\"s|103\"><u>Freeze</u></link> for 2 turns.",
+    "descSimple": "Ice dmg to 1 foe (%s% Atk). %s% chance to inflict Freeze.",
+    "levelUpList": "Dmg Dealt",
+    "levelUpValue": "AAAAAA==",
+    "contentBG": "AAAAAA==",
+    "skillTag": "Single-Target"
+  },
+  {
+    "sn": "3606",
+    "name": "Mabufu",
+    "desc": "Deal Ice damage to all foes equal to <color=#fffc40>^%s^%</color> of Attack, and inflict Chill.\nAlso, <color=#fffc40>^%s^%</color> chance to inflict <link=\"s|103\"><u>Freeze</u></link> for 2 turns.",
+    "descSimple": "Ice dmg to all foes (%s% Atk). %s% chance to inflict Freeze.",
+    "levelUpList": "Dmg Dealt",
+    "levelUpValue": "AAAAAA==",
+    "contentBG": "AAAAAA==",
+    "skillTag": "Multi-Target"
+  },
+  {
+    "sn": "3607",
+    "name": "Ice Age",
+    "desc": "Deal Ice damage to all foes. Inflict Chill. If targets are inflicted with Chill, increase this damage by 20% one time.\nAlso, <color=#fffc40>^%s^%</color> chance to inflict <link=\"s|103\"><u>Freeze</u></link> for 2 turns.",
+    "descSimple": "Ice dmg to all foes (%s% Atk). %s% chance to inflict Freeze.",
+    "levelUpList": "Dmg Dealt",
+    "levelUpValue": "AAAAAA==",
+    "contentBG": "AAAAAA==",
+    "skillTag": "Multi-Target"
   },
   {
     "sn": "3708",
@@ -34948,6 +36998,186 @@
     "levelUpValue": "AAAAAA==",
     "contentBG": "AAAAAA==",
     "skillTag": "AAAAAA=="
+  },
+  {
+    "sn": "4701",
+    "name": "Roll Dice",
+    "desc": "Increase Ice damage by 25%.",
+    "descSimple": "AAAAAA==",
+    "levelUpList": "AAAAAA==",
+    "levelUpValue": "AAAAAA==",
+    "contentBG": "AAAAAA==",
+    "skillTag": "AAAAAA=="
+  },
+  {
+    "sn": "4710",
+    "name": "Roll Dice",
+    "desc": "Increase Ice dmg by 50%.",
+    "descSimple": "AAAAAA==",
+    "levelUpList": "AAAAAA==",
+    "levelUpValue": "AAAAAA==",
+    "contentBG": "AAAAAA==",
+    "skillTag": "AAAAAA=="
+  },
+  {
+    "sn": "4801",
+    "name": "Ice Weakness",
+    "desc": "Change all foes' Ice affinity to Weak.",
+    "descSimple": "AAAAAA==",
+    "levelUpList": "AAAAAA==",
+    "levelUpValue": "AAAAAA==",
+    "contentBG": "AAAAAA==",
+    "skillTag": "Debuff"
+  },
+  {
+    "sn": "4802",
+    "name": "Physical Weakness",
+    "desc": "Change all foes' Physical affinity to Weak.",
+    "descSimple": "AAAAAA==",
+    "levelUpList": "AAAAAA==",
+    "levelUpValue": "AAAAAA==",
+    "contentBG": "AAAAAA==",
+    "skillTag": "Debuff"
+  },
+  {
+    "sn": "4803",
+    "name": "Nuclear Weakness",
+    "desc": "Change all foes' Nuclear affinity to Weak.",
+    "descSimple": "AAAAAA==",
+    "levelUpList": "AAAAAA==",
+    "levelUpValue": "AAAAAA==",
+    "contentBG": "AAAAAA==",
+    "skillTag": "Debuff"
+  },
+  {
+    "sn": "4804",
+    "name": "Psychokinesis Weakness",
+    "desc": "Change all foes' Psychokinesis affinity to Weak.",
+    "descSimple": "AAAAAA==",
+    "levelUpList": "AAAAAA==",
+    "levelUpValue": "AAAAAA==",
+    "contentBG": "AAAAAA==",
+    "skillTag": "Debuff"
+  },
+  {
+    "sn": "4806",
+    "name": "Suzaku's Pyre",
+    "desc": "Inflict all foes with Pyre for 2 turns.",
+    "descSimple": "AAAAAA==",
+    "levelUpList": "AAAAAA==",
+    "levelUpValue": "AAAAAA==",
+    "contentBG": "AAAAAA==",
+    "skillTag": "Debuff"
+  },
+  {
+    "sn": "4807",
+    "name": "Suzaku's Feathers",
+    "desc": "Make 1 ally untargetable for 2 turns.",
+    "descSimple": "AAAAAA==",
+    "levelUpList": "AAAAAA==",
+    "levelUpValue": "AAAAAA==",
+    "contentBG": "AAAAAA==",
+    "skillTag": "Buff"
+  },
+  {
+    "sn": "4808",
+    "name": "Mementos Boss",
+    "desc": "Increase Ice dmg by 50%.",
+    "descSimple": "AAAAAA==",
+    "levelUpList": "AAAAAA==",
+    "levelUpValue": "AAAAAA==",
+    "contentBG": "AAAAAA==",
+    "skillTag": "AAAAAA=="
+  },
+  {
+    "sn": "4809",
+    "name": "Seiryu",
+    "desc": "AAAAAA==",
+    "descSimple": "AAAAAA==",
+    "levelUpList": "AAAAAA==",
+    "levelUpValue": "AAAAAA==",
+    "contentBG": "AAAAAA==",
+    "skillTag": "AAAAAA=="
+  },
+  {
+    "sn": "4810",
+    "name": "Kohryu",
+    "desc": "AAAAAA==",
+    "descSimple": "AAAAAA==",
+    "levelUpList": "AAAAAA==",
+    "levelUpValue": "AAAAAA==",
+    "contentBG": "AAAAAA==",
+    "skillTag": "AAAAAA=="
+  },
+  {
+    "sn": "4811",
+    "name": "Preparing",
+    "desc": "AAAAAA==",
+    "descSimple": "AAAAAA==",
+    "levelUpList": "AAAAAA==",
+    "levelUpValue": "AAAAAA==",
+    "contentBG": "AAAAAA==",
+    "skillTag": "Buff"
+  },
+  {
+    "sn": "4812",
+    "name": "Psycho Blast: Ultra",
+    "desc": "Deal severe Psychokinesis damage to all foes.",
+    "descSimple": "AAAAAA==",
+    "levelUpList": "Dmg Dealt",
+    "levelUpValue": "AAAAAA==",
+    "contentBG": "AAAAAA==",
+    "skillTag": "Multi-Target"
+  },
+  {
+    "sn": "4813",
+    "name": "Seiryu",
+    "desc": "AAAAAA==",
+    "descSimple": "AAAAAA==",
+    "levelUpList": "AAAAAA==",
+    "levelUpValue": "AAAAAA==",
+    "contentBG": "AAAAAA==",
+    "skillTag": "AAAAAA=="
+  },
+  {
+    "sn": "4814",
+    "name": "Byakko",
+    "desc": "AAAAAA==",
+    "descSimple": "AAAAAA==",
+    "levelUpList": "AAAAAA==",
+    "levelUpValue": "AAAAAA==",
+    "contentBG": "AAAAAA==",
+    "skillTag": "AAAAAA=="
+  },
+  {
+    "sn": "4815",
+    "name": "Suzaku",
+    "desc": "AAAAAA==",
+    "descSimple": "AAAAAA==",
+    "levelUpList": "AAAAAA==",
+    "levelUpValue": "AAAAAA==",
+    "contentBG": "AAAAAA==",
+    "skillTag": "AAAAAA=="
+  },
+  {
+    "sn": "4816",
+    "name": "Genbu",
+    "desc": "AAAAAA==",
+    "descSimple": "AAAAAA==",
+    "levelUpList": "AAAAAA==",
+    "levelUpValue": "AAAAAA==",
+    "contentBG": "AAAAAA==",
+    "skillTag": "AAAAAA=="
+  },
+  {
+    "sn": "4817",
+    "name": "Psycho Blast: Ultra",
+    "desc": "Deal severe Psychokinesis damage to all foes.",
+    "descSimple": "AAAAAA==",
+    "levelUpList": "Dmg Dealt",
+    "levelUpValue": "AAAAAA==",
+    "contentBG": "AAAAAA==",
+    "skillTag": "Multi-Target"
   },
   {
     "sn": "5011",
@@ -35702,7 +37932,7 @@
   {
     "sn": "5212",
     "name": "Power",
-    "desc": "From the start of battle, increase Attack by <color=%s>10%</color> every 6 turns. Stacks up to 3 times.",
+    "desc": "From the start of battle, increase Attack by <color=%s>10%</color> every 6 actions. Stacks up to 3 times.",
     "descSimple": "AAAAAA==",
     "levelUpList": "AAAAAA==",
     "levelUpValue": "AAAAAA==",
@@ -36070,6 +38300,46 @@
     "skillTag": "AAAAAA=="
   },
   {
+    "sn": "5401",
+    "name": "Futility",
+    "desc": "Increase Attack by <color=%s>12%</color>.",
+    "descSimple": "AAAAAA==",
+    "levelUpList": "AAAAAA==",
+    "levelUpValue": "AAAAAA==",
+    "contentBG": "AAAAAA==",
+    "skillTag": "AAAAAA=="
+  },
+  {
+    "sn": "5402",
+    "name": "Futility",
+    "desc": "Increase ailment accuracy by <color=%s>30%</color> for 2 turns. Reapply effect after dealing a Technical.",
+    "descSimple": "AAAAAA==",
+    "levelUpList": "AAAAAA==",
+    "levelUpValue": "AAAAAA==",
+    "contentBG": "AAAAAA==",
+    "skillTag": "AAAAAA=="
+  },
+  {
+    "sn": "5411",
+    "name": "Disappointment",
+    "desc": "Increase Attack by <color=%s>12%</color>.",
+    "descSimple": "AAAAAA==",
+    "levelUpList": "AAAAAA==",
+    "levelUpValue": "AAAAAA==",
+    "contentBG": "AAAAAA==",
+    "skillTag": "AAAAAA=="
+  },
+  {
+    "sn": "5412",
+    "name": "Disappointment",
+    "desc": "When dealing skill damage, if the attribute is different to the damage of the last used skill, increase the skill's damage dealt by <color=%s>25%</color>.",
+    "descSimple": "AAAAAA==",
+    "levelUpList": "AAAAAA==",
+    "levelUpValue": "AAAAAA==",
+    "contentBG": "AAAAAA==",
+    "skillTag": "AAAAAA=="
+  },
+  {
     "sn": "5701",
     "name": "Meditation & Opulence",
     "desc": "When activating a Resonance, increase critical damage by <color=%s>50%</color>.",
@@ -36403,6 +38673,26 @@
     "sn": "5734",
     "name": "Creation & Reconciliation",
     "desc": "At the start of battle, increase damage of the ally with the lowest Speed by <color=%s>12%</color>. This effect won't activate if stacked.",
+    "descSimple": "AAAAAA==",
+    "levelUpList": "AAAAAA==",
+    "levelUpValue": "AAAAAA==",
+    "contentBG": "AAAAAA==",
+    "skillTag": "AAAAAA=="
+  },
+  {
+    "sn": "5735",
+    "name": "Faith & Futility",
+    "desc": "Increase damage dealt by allies to foes inflicted with <link=\"s|232\"><u>technical ailments</u></link> by <color=%s>10%</color>. This effect won't activate if stacked.",
+    "descSimple": "AAAAAA==",
+    "levelUpList": "AAAAAA==",
+    "levelUpValue": "AAAAAA==",
+    "contentBG": "AAAAAA==",
+    "skillTag": "AAAAAA=="
+  },
+  {
+    "sn": "5736",
+    "name": "Freedom & Disappointment",
+    "desc": "When dealing Almighty damage, increase Attack by <color=%s>35%</color> and critical rate by <color=%s>12%</color>.",
     "descSimple": "AAAAAA==",
     "levelUpList": "AAAAAA==",
     "levelUpValue": "AAAAAA==",
@@ -39580,6 +41870,26 @@
     "skillTag": "AAAAAA=="
   },
   {
+    "sn": "59031",
+    "name": "(SB)Scorching Purgatory",
+    "desc": "(SB)Increase Attack by <color=#2899FF>^%s^</color>.\nBaptism of Nothingness (Aura): Gain following effects based on number of Purging Blaze stacks.\n1 stack: Increase user's Attack by <color=#2899FF>^%s^</color>, and increase all other allies' Attack by <color=#2899FF>^%s^</color>.\n2 stacks: Increase user's damage by <color=#2899FF>^%s^</color>, and increase all other allies' damage by <color=#2899FF>^%s^</color>.\n3 stacks: Increase party's Fire damage by <color=#2899FF>^%s^</color>.\nAt the start of battle, gain 2 Purging Blaze stacks. When party deals Fire damage to foes, gain 1 Purging Blaze stack. At the start of the user's turn, spend 1 Purging Blaze stack.",
+    "descSimple": "AAAAAA==",
+    "levelUpList": "AAAAAA==",
+    "levelUpValue": "AAAAAA==",
+    "contentBG": "AAAAAA==",
+    "skillTag": "AAAAAA=="
+  },
+  {
+    "sn": "59041",
+    "name": "(SB)Markovic Surge",
+    "desc": "(SB)Increase Attack by <color=#2899FF>^%s^</color>.\nAt the start of battle, or after any ally deals damage with an Almighty skill, activate Sympathy for 2 turns.\nSympathy: Based on the number of Flames of Desire effects active on the current party, activate the following effects.\n1 or more: Increase user's Attack by <color=#2899FF>^%s^</color> and Almighty damage by <color=#2899FF>^%s^</color>. Grant 50% of this effect to party.\n2 or more: Increase party's critical damage by <color=#2899FF>^%s^</color>.",
+    "descSimple": "AAAAAA==",
+    "levelUpList": "AAAAAA==",
+    "levelUpValue": "AAAAAA==",
+    "contentBG": "AAAAAA==",
+    "skillTag": "AAAAAA=="
+  },
+  {
     "sn": "51051",
     "name": "Symphonic Illusion",
     "desc": "AAAAAA==",
@@ -40183,6 +42493,166 @@
     "sn": "53451",
     "name": "Doggone Savage",
     "desc": "Increase ailment accuracy by <color=#2899FF>^%s^</color>.\nWhen an ally uses a Fire, Ice, Electric or Wind skill or activates a <link=\"s|100\"><u>Resonance</u></link>, increase Runa's ailment accuracy by <color=#2899FF>^%s^</color> for 2 turns. This effect does not stack.\nWhen using Woof Woof Blaze and activating the effect of Big Welcome, decrease the target's Defense by <color=#2899FF>^%s^</color> more for 3 turns. When the effect of Furrocious Follow-Up is activated, decrease the target's Defense by <color=#2899FF>^%s^</color> more for 3 turns. These 2 debuffs do not stack.",
+    "descSimple": "AAAAAA==",
+    "levelUpList": "AAAAAA==",
+    "levelUpValue": "AAAAAA==",
+    "contentBG": "AAAAAA==",
+    "skillTag": "AAAAAA=="
+  },
+  {
+    "sn": "53521",
+    "name": "tdxct-[Skill_name_53521]",
+    "desc": "tdxct-[Skill_desc_53521]",
+    "descSimple": "AAAAAA==",
+    "levelUpList": "AAAAAA==",
+    "levelUpValue": "AAAAAA==",
+    "contentBG": "AAAAAA==",
+    "skillTag": "AAAAAA=="
+  },
+  {
+    "sn": "53531",
+    "name": "tdxct-[Skill_name_53531]",
+    "desc": "tdxct-[Skill_desc_53531]",
+    "descSimple": "AAAAAA==",
+    "levelUpList": "AAAAAA==",
+    "levelUpValue": "AAAAAA==",
+    "contentBG": "AAAAAA==",
+    "skillTag": "AAAAAA=="
+  },
+  {
+    "sn": "53541",
+    "name": "tdxct-[Skill_name_53541]",
+    "desc": "tdxct-[Skill_desc_53541]",
+    "descSimple": "AAAAAA==",
+    "levelUpList": "AAAAAA==",
+    "levelUpValue": "AAAAAA==",
+    "contentBG": "AAAAAA==",
+    "skillTag": "AAAAAA=="
+  },
+  {
+    "sn": "53551",
+    "name": "tdxct-[Skill_name_53551]",
+    "desc": "tdxct-[Skill_desc_53551]",
+    "descSimple": "AAAAAA==",
+    "levelUpList": "AAAAAA==",
+    "levelUpValue": "AAAAAA==",
+    "contentBG": "AAAAAA==",
+    "skillTag": "AAAAAA=="
+  },
+  {
+    "sn": "50525",
+    "name": "Season of Rain",
+    "desc": "Increase Attack by <color=#2899FF>^%s^</color>.",
+    "descSimple": "AAAAAA==",
+    "levelUpList": "AAAAAA==",
+    "levelUpValue": "AAAAAA==",
+    "contentBG": "AAAAAA==",
+    "skillTag": "AAAAAA=="
+  },
+  {
+    "sn": "50535",
+    "name": "Season of Swarms",
+    "desc": "After using a skill, restore SP by <color=#2899FF>^%s^</color>.",
+    "descSimple": "AAAAAA==",
+    "levelUpList": "AAAAAA==",
+    "levelUpValue": "AAAAAA==",
+    "contentBG": "AAAAAA==",
+    "skillTag": "AAAAAA=="
+  },
+  {
+    "sn": "50545",
+    "name": "Season of Spring",
+    "desc": "Increase Attack by <color=#2899FF>^%s^</color>.\nWhen user restores SP with a skill, increase own critical damage by <color=#2899FF>^%s^</color> for 2 turns. Stacks up to 2 times.",
+    "descSimple": "AAAAAA==",
+    "levelUpList": "AAAAAA==",
+    "levelUpValue": "AAAAAA==",
+    "contentBG": "AAAAAA==",
+    "skillTag": "AAAAAA=="
+  },
+  {
+    "sn": "50555",
+    "name": "Season of Brightness",
+    "desc": "Increase critical damage by <color=#2899FF>^%s^</color>.\nAfter using a skill on an ally, increase all allies' critical damage by <color=#2899FF>^%s^</color> besides Tempest Riko for 2 turns. Also, when the main target deals damage with a skill, increase the damage by <color=#2899FF>^%s^</color>% for every 50 SP spent by that skill for 2 turns.",
+    "descSimple": "AAAAAA==",
+    "levelUpList": "AAAAAA==",
+    "levelUpValue": "AAAAAA==",
+    "contentBG": "AAAAAA==",
+    "skillTag": "AAAAAA=="
+  },
+  {
+    "sn": "50925",
+    "name": "tdxct-[Skill_name_50925]",
+    "desc": "tdxct-[Skill_desc_50925]",
+    "descSimple": "AAAAAA==",
+    "levelUpList": "AAAAAA==",
+    "levelUpValue": "AAAAAA==",
+    "contentBG": "AAAAAA==",
+    "skillTag": "AAAAAA=="
+  },
+  {
+    "sn": "50935",
+    "name": "tdxct-[Skill_name_50935]",
+    "desc": "tdxct-[Skill_desc_50935]",
+    "descSimple": "AAAAAA==",
+    "levelUpList": "AAAAAA==",
+    "levelUpValue": "AAAAAA==",
+    "contentBG": "AAAAAA==",
+    "skillTag": "AAAAAA=="
+  },
+  {
+    "sn": "50945",
+    "name": "tdxct-[Skill_name_50945]",
+    "desc": "tdxct-[Skill_desc_50945]",
+    "descSimple": "AAAAAA==",
+    "levelUpList": "AAAAAA==",
+    "levelUpValue": "AAAAAA==",
+    "contentBG": "AAAAAA==",
+    "skillTag": "AAAAAA=="
+  },
+  {
+    "sn": "50955",
+    "name": "tdxct-[Skill_name_50955]",
+    "desc": "tdxct-[Skill_desc_50955]",
+    "descSimple": "AAAAAA==",
+    "levelUpList": "AAAAAA==",
+    "levelUpValue": "AAAAAA==",
+    "contentBG": "AAAAAA==",
+    "skillTag": "AAAAAA=="
+  },
+  {
+    "sn": "53721",
+    "name": "Numbing Cold Water",
+    "desc": "Increase Attack by <color=#2899FF>^%s^</color>.",
+    "descSimple": "AAAAAA==",
+    "levelUpList": "AAAAAA==",
+    "levelUpValue": "AAAAAA==",
+    "contentBG": "AAAAAA==",
+    "skillTag": "AAAAAA=="
+  },
+  {
+    "sn": "53731",
+    "name": "Bone-Chilling Water",
+    "desc": "Each time an <link=\"s|229\"><u>Ice Technical</u></link> is activated, Natsukawa's Ice damage is increased by <color=#2899FF>^%s^</color>. Stacks up to 2 times.",
+    "descSimple": "AAAAAA==",
+    "levelUpList": "AAAAAA==",
+    "levelUpValue": "AAAAAA==",
+    "contentBG": "AAAAAA==",
+    "skillTag": "AAAAAA=="
+  },
+  {
+    "sn": "53741",
+    "name": "Fire-Quenching Water",
+    "desc": "Increase Attack by <color=#2899FF>^%s^</color>.\nFor each Extinguish stack, increase ailment accuracy by <color=#2899FF>^%s^</color>.",
+    "descSimple": "AAAAAA==",
+    "levelUpList": "AAAAAA==",
+    "levelUpValue": "AAAAAA==",
+    "contentBG": "AAAAAA==",
+    "skillTag": "AAAAAA=="
+  },
+  {
+    "sn": "53751",
+    "name": "Frigid Water",
+    "desc": "Increase ailment accuracy by <color=#2899FF>^%s^</color>.\nDuring battle, for every <color=#2899FF>^%s^</color> of Natsukawa's ailment accuracy, increase Attack.\nAlso, each time an <link=\"s|229\"><u>Ice Technical</u></link> is activated, decrease the target's Defense by <color=#2899FF>^%s^</color> more for 2 turns.",
     "descSimple": "AAAAAA==",
     "levelUpList": "AAAAAA==",
     "levelUpValue": "AAAAAA==",
@@ -41238,6 +43708,16 @@
     "levelUpValue": "AAAAAA==",
     "contentBG": "AAAAAA==",
     "skillTag": "Multi-Target"
+  },
+  {
+    "sn": "2921",
+    "name": "AAAAAA==",
+    "desc": "(SB)Remove certain stat buffs.",
+    "descSimple": "AAAAAA==",
+    "levelUpList": "AAAAAA==",
+    "levelUpValue": "AAAAAA==",
+    "contentBG": "AAAAAA==",
+    "skillTag": "Passive,Support"
   },
   {
     "sn": "3100",
@@ -42700,6 +45180,56 @@
     "skillTag": "AAAAAA=="
   },
   {
+    "sn": "59032",
+    "name": "AAAAAA==",
+    "desc": "(SB)Increase Atk by 28%/56%.",
+    "descSimple": "AAAAAA==",
+    "levelUpList": "AAAAAA==",
+    "levelUpValue": "AAAAAA==",
+    "contentBG": "AAAAAA==",
+    "skillTag": "AAAAAA=="
+  },
+  {
+    "sn": "59033",
+    "name": "AAAAAA==",
+    "desc": "Aura",
+    "descSimple": "AAAAAA==",
+    "levelUpList": "AAAAAA==",
+    "levelUpValue": "AAAAAA==",
+    "contentBG": "AAAAAA==",
+    "skillTag": "AAAAAA=="
+  },
+  {
+    "sn": "59034",
+    "name": "AAAAAA==",
+    "desc": "(SB)When allies deal Fire dmg with skills, gain 1 Purging Blaze stack.",
+    "descSimple": "AAAAAA==",
+    "levelUpList": "AAAAAA==",
+    "levelUpValue": "AAAAAA==",
+    "contentBG": "AAAAAA==",
+    "skillTag": "AAAAAA=="
+  },
+  {
+    "sn": "59035",
+    "name": "AAAAAA==",
+    "desc": "(SB)At the start of Wonder's turn, gain 2 Purging Blaze stacks.",
+    "descSimple": "AAAAAA==",
+    "levelUpList": "AAAAAA==",
+    "levelUpValue": "AAAAAA==",
+    "contentBG": "AAAAAA==",
+    "skillTag": "AAAAAA=="
+  },
+  {
+    "sn": "59036",
+    "name": "AAAAAA==",
+    "desc": "(SB)At the start of Wonder's turn, gain 1 Purging Blaze stack.",
+    "descSimple": "AAAAAA==",
+    "levelUpList": "AAAAAA==",
+    "levelUpValue": "AAAAAA==",
+    "contentBG": "AAAAAA==",
+    "skillTag": "AAAAAA=="
+  },
+  {
     "sn": "53142",
     "name": "AAAAAA==",
     "desc": "tnxotb-[Skill_desc_53142]",
@@ -42793,6 +45323,96 @@
     "sn": "51047",
     "name": "AAAAAA==",
     "desc": "tnxotb-[Skill_desc_51047]",
+    "descSimple": "AAAAAA==",
+    "levelUpList": "AAAAAA==",
+    "levelUpValue": "AAAAAA==",
+    "contentBG": "AAAAAA==",
+    "skillTag": "AAAAAA=="
+  },
+  {
+    "sn": "50546",
+    "name": "AAAAAA==",
+    "desc": "Increase critical damage.",
+    "descSimple": "AAAAAA==",
+    "levelUpList": "AAAAAA==",
+    "levelUpValue": "AAAAAA==",
+    "contentBG": "AAAAAA==",
+    "skillTag": "AAAAAA=="
+  },
+  {
+    "sn": "50547",
+    "name": "AAAAAA==",
+    "desc": "When user restores SP with a skill, increase own critical damage for 2 turns. Stacks up to 2 times.",
+    "descSimple": "AAAAAA==",
+    "levelUpList": "AAAAAA==",
+    "levelUpValue": "AAAAAA==",
+    "contentBG": "AAAAAA==",
+    "skillTag": "AAAAAA=="
+  },
+  {
+    "sn": "50556",
+    "name": "AAAAAA==",
+    "desc": "Increase critical damage.",
+    "descSimple": "AAAAAA==",
+    "levelUpList": "AAAAAA==",
+    "levelUpValue": "AAAAAA==",
+    "contentBG": "AAAAAA==",
+    "skillTag": "AAAAAA=="
+  },
+  {
+    "sn": "50557",
+    "name": "AAAAAA==",
+    "desc": "After using a skill on an ally, increase all allies' critical damage (besides self) for 2 turns.",
+    "descSimple": "AAAAAA==",
+    "levelUpList": "AAAAAA==",
+    "levelUpValue": "AAAAAA==",
+    "contentBG": "AAAAAA==",
+    "skillTag": "AAAAAA=="
+  },
+  {
+    "sn": "50558",
+    "name": "AAAAAA==",
+    "desc": "When the main target deals damage with a skill, increase the damage for every 10 SP spent for 2 turns.",
+    "descSimple": "AAAAAA==",
+    "levelUpList": "AAAAAA==",
+    "levelUpValue": "AAAAAA==",
+    "contentBG": "AAAAAA==",
+    "skillTag": "AAAAAA=="
+  },
+  {
+    "sn": "50946",
+    "name": "AAAAAA==",
+    "desc": "tdxct-[Skill_desc_50946]",
+    "descSimple": "AAAAAA==",
+    "levelUpList": "AAAAAA==",
+    "levelUpValue": "AAAAAA==",
+    "contentBG": "AAAAAA==",
+    "skillTag": "AAAAAA=="
+  },
+  {
+    "sn": "50947",
+    "name": "AAAAAA==",
+    "desc": "tdxct-[Skill_desc_50947]",
+    "descSimple": "AAAAAA==",
+    "levelUpList": "AAAAAA==",
+    "levelUpValue": "AAAAAA==",
+    "contentBG": "AAAAAA==",
+    "skillTag": "AAAAAA=="
+  },
+  {
+    "sn": "50956",
+    "name": "AAAAAA==",
+    "desc": "tdxct-[Skill_desc_50956]",
+    "descSimple": "AAAAAA==",
+    "levelUpList": "AAAAAA==",
+    "levelUpValue": "AAAAAA==",
+    "contentBG": "AAAAAA==",
+    "skillTag": "AAAAAA=="
+  },
+  {
+    "sn": "50957",
+    "name": "AAAAAA==",
+    "desc": "tdxct-[Skill_desc_50957]",
     "descSimple": "AAAAAA==",
     "levelUpList": "AAAAAA==",
     "levelUpValue": "AAAAAA==",

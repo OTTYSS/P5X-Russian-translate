@@ -3,60 +3,248 @@
     "sn": "3001",
     "title": "Merry Christmas!",
     "desc": "The Phantom Thieves have gathered for a Christmas party. Shun has even said he'll make something, but...",
-    "targetText1": "View story content"
+    "targetText1": "View story content",
+    "targetText2": "AAAAAA==",
+    "targetText3": "AAAAAA=="
   },
   {
     "sn": "3002",
     "title": "Virtual New Year's Underway",
     "desc": "Harvest World Online is hosting a comeback event for the holidays. Yui has been complaining about the proceedings, but it seems there will be some big changes this year...",
-    "targetText1": "View story content"
+    "targetText1": "View story content",
+    "targetText2": "AAAAAA==",
+    "targetText3": "AAAAAA=="
   },
   {
     "sn": "3003",
     "title": "Gifts for Always Doing Your Best",
     "desc": "Kotone is worried about how busy Tomoko is dealing with the holiday rush at her job at the drugstore. We decided to go buy Tomoko some gifts...",
-    "targetText1": "View story content"
+    "targetText1": "View story content",
+    "targetText2": "AAAAAA==",
+    "targetText3": "AAAAAA=="
   },
   {
     "sn": "3004",
     "title": "New Year's with the Miyashita Family",
     "desc": "As I was doing some year-end shopping, I bumped into Minami. It seems like Minami's store is busy with stocking up for customers buying things for their first shrine visits of the year...",
-    "targetText1": "View story content"
+    "targetText1": "View story content",
+    "targetText2": "AAAAAA==",
+    "targetText3": "AAAAAA=="
+  },
+  {
+    "sn": "1001",
+    "title": "Happy New Year",
+    "desc": "A month has passed since the new year began, and the New Year's atmosphere has completely died down. Just then, Yaoling came by to give me \"New Year's greetings...\"",
+    "targetText1": "Clear the chapter story",
+    "targetText2": "AAAAAA==",
+    "targetText3": "AAAAAA=="
+  },
+  {
+    "sn": "1002",
+    "title": "Lunar New Year Greetings",
+    "desc": "To celevrate Lunar New Year, I decided to go around my neighborhood with Yaoling. Although we couldn't visit Tomiyama since she was travelling, we were able to go to the Miyashita family's izakaya. Minami also showed interest in Lunar New Year...",
+    "targetText1": "Clear the chapter story",
+    "targetText2": "AAAAAA==",
+    "targetText3": "AAAAAA=="
+  },
+  {
+    "sn": "1003",
+    "title": "Chinatown Celebrations",
+    "desc": "Yaoling, Minami, and I decided to visit Chinatown, which should be busting with life Lunar New Year. Despite the beautiful decorations, however, people there don't seem to be very festive...",
+    "targetText1": "Clear the chapter story",
+    "targetText2": "AAAAAA==",
+    "targetText3": "AAAAAA=="
+  },
+  {
+    "sn": "1004",
+    "title": "Hero Show",
+    "desc": "A hero show was taking place at a nearby park in Chinatown. We spotted Kamiyama, who's trying to become a costumed stuntman...",
+    "targetText1": "Clear the chapter story",
+    "targetText2": "AAAAAA==",
+    "targetText3": "AAAAAA=="
+  },
+  {
+    "sn": "1005",
+    "title": "City of Stolen Desire",
+    "desc": "Lufel suspects that desires are being stolen from Chinatown. We decide to use the Metaverse Navigator and test his theory by checking out the situation in the Metaverse...",
+    "targetText1": "Defeat all the enemies",
+    "targetText2": "Clear with everyone's HP 50% or higher",
+    "targetText3": "Clear with 3 female party members"
+  },
+  {
+    "sn": "1006",
+    "title": "Anomalies in Mementos",
+    "desc": "The Shadows in Mementos are acting strange. Defeat the oncoming Shadows!",
+    "targetText1": "Defeat all the enemies",
+    "targetText2": "Clear with everyone's HP 50% or higher",
+    "targetText3": "Clear with 2 male party members"
+  },
+  {
+    "sn": "1007",
+    "title": "Return to Chinatown",
+    "desc": "We're running out of time.\nWe should defeat the Shadows and get back to everyone...",
+    "targetText1": "Win with everyone alive",
+    "targetText2": "Clear with only Fire or Bless party members",
+    "targetText3": "At the end of battle, have no allies inflicted with spiritual ailments"
+  },
+  {
+    "sn": "1008",
+    "title": "Shiina's Testimony",
+    "desc": "There's definitely been a decrease in the number of people at the festival. From talking to Shiina, who has been selling limited-edition Lunar New Year drinks at the venue, it sounds like the festival stalls have been really quiet this year...",
+    "targetText1": "Clear the chapter story",
+    "targetText2": "AAAAAA==",
+    "targetText3": "AAAAAA=="
+  },
+  {
+    "sn": "1009",
+    "title": "Save the Lion Dance",
+    "desc": "The event staff arrived in a panic, announcing the cancellation of the lion dance performance. Yaoling emphasized the importance of the dance for Lunar New Year, and even offered to perform, but...",
+    "targetText1": "Defeat all the enemies",
+    "targetText2": "Clear with everyone's HP 50% or higher",
+    "targetText3": "Use 3 or more Fire skills during battle"
+  },
+  {
+    "sn": "1010",
+    "title": "Head to Mementos",
+    "desc": "Lufel continues to suspect that the reason for everyone's stolen desire lies in Mementos. We need to defeat Shadows and find the true cause.",
+    "targetText1": "Defeat all the enemies",
+    "targetText2": "Clear with everyone's HP 50% or higher",
+    "targetText3": "Use 1 or more Fire skill during battle"
+  },
+  {
+    "sn": "1011",
+    "title": "Defeat the Shadow",
+    "desc": "I should get back to everyone after defeating the Shadows.",
+    "targetText1": "Win with everyone alive",
+    "targetText2": "Clear without a Saboteur party member",
+    "targetText3": "Use 2 or more Highlights during battle"
+  },
+  {
+    "sn": "1012",
+    "title": "Enjoy Lunar New Year",
+    "desc": "Kamiyama offers to take Yaoling's place, as the lion proves to be heavier than she can handle. The staff asks for our help for the performance, as well...",
+    "targetText1": "Clear the chapter story",
+    "targetText2": "AAAAAA==",
+    "targetText3": "AAAAAA=="
+  },
+  {
+    "sn": "1013",
+    "title": "To the Depths of Mementos",
+    "desc": "It seems the cause of everything is not in the real version of Chinatown. Let's head deeper into Mementos and continue our investigation.",
+    "targetText1": "Defeat all the enemies",
+    "targetText2": "Clear without a Strategist party member",
+    "targetText3": "Deal technical damage 1 or more times during battle"
+  },
+  {
+    "sn": "1014",
+    "title": "The True Cause...",
+    "desc": "We encountered a strangely upbeat Shadow in Mementos.\nFrom what we heard, it seems this \"strange Shadow\" is causing some trouble...",
+    "targetText1": "Win with everyone alive",
+    "targetText2": "Clear with everyone's HP 50% or higher",
+    "targetText3": "Deal weakness damage 4 or more times during battle"
+  },
+  {
+    "sn": "1015",
+    "title": "Nian",
+    "desc": "This \"Yearbeast\" seems to be the one stealing desires of people wanting to enjoy the festival.\nLet's defeat the Yearbeast and reclaim everyone's desire!",
+    "targetText1": "Win with everyone alive",
+    "targetText2": "Clear within 50 turns",
+    "targetText3": "Use 1 or more normal attacks during battle"
+  },
+  {
+    "sn": "1016",
+    "title": "Pacify the Nian",
+    "desc": "In the middle of battle, the Yearbeast suddenly changed colors. It seems like this isn't going to be an easy fight...",
+    "targetText1": "Win with everyone alive",
+    "targetText2": "Clear within 50 turns",
+    "targetText3": "At the end of battle, have no allies inflicted with elemental ailments"
+  },
+  {
+    "sn": "1017",
+    "title": "Defeat the Nian",
+    "desc": "The Yearbeast continues its rampage. Cattle tries to put an end to things with his Persona, but...",
+    "targetText1": "Win with everyone alive",
+    "targetText2": "Clear within 50 turns",
+    "targetText3": "At the end of battle, have no allies inflicted with spiritual ailments"
+  },
+  {
+    "sn": "1018",
+    "title": "Reclaim your Lunar Desire",
+    "desc": "The Year Beast is showing signs of fatigue.\nThis is our chance. Let's reclaim their Lunar New Year Desires!",
+    "targetText1": "Win with everyone alive",
+    "targetText2": "Clear within 50 turns",
+    "targetText3": "Use 1 or more 1 More during battle"
+  },
+  {
+    "sn": "1019",
+    "title": "Clad in Crimson",
+    "desc": "Coming back from Mementos, Yaoling greets me dressed in a stunning Lunar New Year outfit...",
+    "targetText1": "Clear the chapter story",
+    "targetText2": "AAAAAA==",
+    "targetText3": "AAAAAA=="
+  },
+  {
+    "sn": "1020",
+    "title": "A Big Success",
+    "desc": "The lion dance performance was a huge hit.\nLet's all have a celebration at Shiina's stall.",
+    "targetText1": "Clear the chapter story",
+    "targetText2": "AAAAAA==",
+    "targetText3": "AAAAAA=="
+  },
+  {
+    "sn": "1021",
+    "title": "The Way Back",
+    "desc": "As the festival comes to a close, we decide to part ways with Yaoling at Yongen-Jaya. On the way back, Yaoling speaks openly about her thoughts on the Lunar New Year festival that we all spent together...",
+    "targetText1": "Clear the chapter story",
+    "targetText2": "AAAAAA==",
+    "targetText3": "AAAAAA=="
   },
   {
     "sn": "3005",
     "title": "The Holidays with Big Bro",
     "desc": "Miyu has come to say goodbye to the New Year. It seems she's going to be doing a marionette show at theme park's New Year's event...",
-    "targetText1": "View story content"
+    "targetText1": "View story content",
+    "targetText2": "AAAAAA==",
+    "targetText3": "AAAAAA=="
   },
   {
     "sn": "3006",
     "title": "After Year-End Cleaning",
     "desc": "A bump into Tomiyama and Leo after finishing my year-end cleaning turned into a surprise inspection from Tomiyama to make sure I had cleaned everything properly...",
-    "targetText1": "View story content"
+    "targetText1": "View story content",
+    "targetText2": "AAAAAA==",
+    "targetText3": "AAAAAA=="
   },
   {
     "sn": "3007",
     "title": "New Year's Eve",
     "desc": "The Phantom Thieves gather to celebrate New Year's. After enjoying some handmade soba noodles, they reflect on the year that is to come...",
-    "targetText1": "View story content"
+    "targetText1": "View story content",
+    "targetText2": "AAAAAA==",
+    "targetText3": "AAAAAA=="
   },
   {
     "sn": "3008",
     "title": "Wishes for the Year's First Shrine Visit",
     "desc": "During their first shrine visit of the new year, the Phantom Thieves talked about the wishes they made. But then...",
-    "targetText1": "View story content"
+    "targetText1": "View story content",
+    "targetText2": "AAAAAA==",
+    "targetText3": "AAAAAA=="
   },
   {
     "sn": "3009",
     "title": "Japanese New Year's",
     "desc": "Yaoling and Yukimi visit to give well-wishes for the new year. It seems that Yukimi has taught Yaoling a lot about a \"Japanese\" New Year's...",
-    "targetText1": "View story content"
+    "targetText1": "View story content",
+    "targetText2": "AAAAAA==",
+    "targetText3": "AAAAAA=="
   },
   {
     "sn": "3010",
     "title": "Seeking the Holy Grail",
     "desc": "While out shopping by Shibuya Station during the holidays, I bump into Kurotani, who is on a quest to find \"a holy grail of sweetness desired by the gods.\" But then, Haruna also shows up...",
-    "targetText1": "View story content"
+    "targetText1": "View story content",
+    "targetText2": "AAAAAA==",
+    "targetText3": "AAAAAA=="
   }
 ]

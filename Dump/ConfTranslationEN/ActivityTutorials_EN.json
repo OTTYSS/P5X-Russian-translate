@@ -417,7 +417,7 @@
   {
     "sn": "1643",
     "title": "Firewall",
-    "text": "<color=#FF423F>Firewalls</color> are unable to be crossed.\nYou will need to go around the <color=#FF423F>Firewall</color> in order to proceed."
+    "text": "<color=#FF423F>Firewalls</color> cannot be crossed by any robot.\nYou will need to go around <color=#FF423F>Firewalls</color> in order to proceed."
   },
   {
     "sn": "1644",
@@ -588,5 +588,75 @@
     "sn": "4705",
     "title": "Support Skills",
     "text": "You can activate a support skill by tapping your teammate's icon on the bottom right.\nAfter using a skill, it will enter cooldown, and can be activated again once the cooldown is complete."
+  },
+  {
+    "sn": "4800",
+    "title": "Controls",
+    "text": "PC: Use the <color=#FF423F>mouse</color> to aim, <color=#FF423F>left click</color> to fire a single shot, and <color=#FF423F>hold down left click</color> to fire continuously.\nGamepad: Use the <color=#FF423F>Left Stick</color> to aim, <color=#FF423F>R2/RT</color> to fire a single shot, and hold down R2/RT to fire continuously.\nMobile devices: <color=#FF423F>Touch the screen</color> to aim and fire directly at targets. Switch to control stick mode to use the stick to aim."
+  },
+  {
+    "sn": "4801",
+    "title": "Destroying Targets",
+    "text": "When you hit a target, the number of hits required to destroy it will be displayed underneath.\nWhen the gauge reaches 0, the target will be destroyed.\nNormally, <color=#FF423F>One shot deals 1</color> point of damage, but there are various ways to increase the damage."
+  },
+  {
+    "sn": "4802",
+    "title": "Reloading",
+    "text": "When you run out of shots, you will be unable to fire.\n<color=#FF423F>Release the fire button</color> to automatically reload over time."
+  },
+  {
+    "sn": "4803",
+    "title": "Current Wave",
+    "text": "Each stage has multiple waves, and the current wave number is displayed at the top.\nWhen time runs out, all regular targets will automatically disappear, and a new wave of targets will appear."
+  },
+  {
+    "sn": "4804",
+    "title": "Combo Points",
+    "text": "Hitting targets will build up combo points, and when your combo gets higher, you will earn more points for defeating targets.\nYou can get up to <color=#FF423F>3x</color> points with a combo of <color=#FF423F>400</color> or more.\nYour combo will be broken if you do not hit a target."
+  },
+  {
+    "sn": "4805",
+    "title": "Support Skills",
+    "text": "You can activate a support skill by tapping your teammate's icon on the bottom right.\nAfter using a skill, it will enter cooldown, and can be activated again once the cooldown is complete."
+  },
+  {
+    "sn": "4810",
+    "title": "Dango Demon",
+    "text": "Dango Demons will appear on this stage.\nWhen defeated, they will split into 3 demons."
+  },
+  {
+    "sn": "4820",
+    "title": "Exorcising Firecrackers",
+    "text": "Exorcising Firecrackers will appear on this stage.\nWhen destroyed, they will deal heavy damage to surrounding targets."
+  },
+  {
+    "sn": "4830",
+    "title": "Dragon Carp",
+    "text": "Dragon Carp will appear on this stage.\nWhen defeated, it emits a plume of black smoke that obscures your view."
+  },
+  {
+    "sn": "4840",
+    "title": "Pack Rat",
+    "text": "Pack Rats will appear on this stage.\nWhen defeated, they will drop Exorcising Firecrackers.\nWhen destroyed, they will deal heavy damage to surrounding targets."
+  },
+  {
+    "sn": "4850",
+    "title": "Cat Burglar",
+    "text": "Cat Burglars will appear in this stage.\nThey move fast, but if destroyed they will award a large amount of points."
+  },
+  {
+    "sn": "4860",
+    "title": "Yearbeast Minions",
+    "text": "Yearbeast Minions will appear in this stage.\nWhen defeated, they will drop Exorcising Firecrackers."
+  },
+  {
+    "sn": "4870",
+    "title": "Yearbeast",
+    "text": "A Yearbeast will appear in this stage. It will appear when you have earned <color=#FF423F>800</color> points. When defeated, it awards a large amount of points and destroys all other targets onscreen. 3 Yearbeast Minions will appear along with the Yearbeast. The Yearbeast will be immune to damage until the minions have been defeated."
+  },
+  {
+    "sn": "4880",
+    "title": "Endless",
+    "text": "In Endless Mode, there is no limit to the number of waves, and the targets are changed for each wave. The game will not end until you fail to meet a stage's requirements."
   }
 ]

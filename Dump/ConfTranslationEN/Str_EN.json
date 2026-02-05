@@ -2094,7 +2094,7 @@
   },
   {
     "sn": "12301",
-    "strContent": "You cannot %s because you do not have enough %s.",
+    "strContent": "You cannot use %s because you do not have enough %s.",
     "option1": "AAAAAA==",
     "showName": "AAAAAA==",
     "option2": "AAAAAA=="
@@ -4930,6 +4930,69 @@
   {
     "sn": "19011",
     "strContent": "The current BGM cannot be changed.",
+    "option1": "AAAAAA==",
+    "showName": "AAAAAA==",
+    "option2": "AAAAAA=="
+  },
+  {
+    "sn": "20001",
+    "strContent": "Puzzle does not exist.",
+    "option1": "AAAAAA==",
+    "showName": "AAAAAA==",
+    "option2": "AAAAAA=="
+  },
+  {
+    "sn": "20002",
+    "strContent": "Puzzle locked.",
+    "option1": "AAAAAA==",
+    "showName": "AAAAAA==",
+    "option2": "AAAAAA=="
+  },
+  {
+    "sn": "20003",
+    "strContent": "The answer is incorrect.",
+    "option1": "AAAAAA==",
+    "showName": "AAAAAA==",
+    "option2": "AAAAAA=="
+  },
+  {
+    "sn": "20004",
+    "strContent": "Event period has ended.",
+    "option1": "AAAAAA==",
+    "showName": "AAAAAA==",
+    "option2": "AAAAAA=="
+  },
+  {
+    "sn": "20005",
+    "strContent": "Puzzle is already complete.",
+    "option1": "AAAAAA==",
+    "showName": "AAAAAA==",
+    "option2": "AAAAAA=="
+  },
+  {
+    "sn": "20101",
+    "strContent": "Please enter the correct phone number.",
+    "option1": "AAAAAA==",
+    "showName": "AAAAAA==",
+    "option2": "AAAAAA=="
+  },
+  {
+    "sn": "20102",
+    "strContent": "Please enter the correct postal code.",
+    "option1": "AAAAAA==",
+    "showName": "AAAAAA==",
+    "option2": "AAAAAA=="
+  },
+  {
+    "sn": "20201",
+    "strContent": "Upon opening, you will receive a message from the character.\nIt cannot be closed during their first confession. Open it?",
+    "option1": "Confirm",
+    "showName": "L<#000000,u,#FFFFFF>fel",
+    "option2": "Never mind."
+  },
+  {
+    "sn": "20202",
+    "strContent": "Cannot be closed during initial confession.",
     "option1": "AAAAAA==",
     "showName": "AAAAAA==",
     "option2": "AAAAAA=="
@@ -9310,6 +9373,13 @@
     "option2": "AAAAAA=="
   },
   {
+    "sn": "1014204",
+    "strContent": "At Synergy Rank %s with Riko Tanemura, unlock %s.",
+    "option1": "AAAAAA==",
+    "showName": "AAAAAA==",
+    "option2": "AAAAAA=="
+  },
+  {
     "sn": "1014301",
     "strContent": "A quiet residential area.\nThere are delicious cafés\nand a shady clinic.",
     "option1": "AAAAAA==",
@@ -9640,7 +9710,7 @@
   },
   {
     "sn": "1015027",
-    "strContent": "You cannot train or change Personas for this battle.",
+    "strContent": "You cannot train for this battle.",
     "option1": "AAAAAA==",
     "showName": "AAAAAA==",
     "option2": "AAAAAA=="
@@ -10157,6 +10227,20 @@
     "option2": "Never mind."
   },
   {
+    "sn": "1019075",
+    "strContent": "Error",
+    "option1": "Confirm",
+    "showName": "L<#000000,u,#FFFFFF>fel",
+    "option2": "Never mind."
+  },
+  {
+    "sn": "1019076",
+    "strContent": "Would you like to spend time with Shirai?",
+    "option1": "Sure.",
+    "showName": "L<#000000,u,#FFFFFF>fel",
+    "option2": "Come back later"
+  },
+  {
     "sn": "1019077",
     "strContent": "Do you want to work at the convenience store?\n(<color=#FF423F>You will use 1 Action Point.</color>)",
     "option1": "Let's go.",
@@ -10361,7 +10445,7 @@
   },
   {
     "sn": "1020102",
-    "strContent": "There's a <color=#FF423F>movie theater</color> on Shibuya's <color=#FF423F>Central\nStreet</color>. If you're interested, why not check\nit out?",
+    "strContent": "There seems to be all sorts of places\nto visit in Shibuya. If you're interested,\nwhy not check them out?",
     "option1": "Let's go.",
     "showName": "L<#000000,u,#FFFFFF>fel",
     "option2": "Never mind."
@@ -10647,6 +10731,118 @@
     "option2": "AAAAAA=="
   },
   {
+    "sn": "1019227",
+    "strContent": "How should I answer...?",
+    "option1": "Much appreciated.",
+    "showName": "AAAAAA==",
+    "option2": "Maybe next time."
+  },
+  {
+    "sn": "1019228",
+    "strContent": "Would you like to spend time with Riko?",
+    "option1": "Spend time with Riko",
+    "showName": "L<#000000,u,#FFFFFF>fel",
+    "option2": "I have plans today..."
+  },
+  {
+    "sn": "1019229",
+    "strContent": "Would you like to spend time with Riko?",
+    "option1": "Spend time with Riko",
+    "showName": "L<#000000,u,#FFFFFF>fel",
+    "option2": "I have plans today..."
+  },
+  {
+    "sn": "1019230",
+    "strContent": "Would you like to spend time with Runa?",
+    "option1": "Spend time with Runa",
+    "showName": "L<#000000,u,#FFFFFF>fel",
+    "option2": "I have plans today..."
+  },
+  {
+    "sn": "1019231",
+    "strContent": "Would you like to spend time with Runa?",
+    "option1": "Spend time with Runa",
+    "showName": "L<#000000,u,#FFFFFF>fel",
+    "option2": "I have plans today..."
+  },
+  {
+    "sn": "1019232",
+    "strContent": "How should I answer...?",
+    "option1": "Sure",
+    "showName": "AAAAAA==",
+    "option2": "Wait..."
+  },
+  {
+    "sn": "1019233",
+    "strContent": "Would you like to spend time with Natsukawa?",
+    "option1": "Spend time with Natsukawa",
+    "showName": "L<#000000,u,#FFFFFF>fel",
+    "option2": "I have plans today..."
+  },
+  {
+    "sn": "1019234",
+    "strContent": "Would you like to spend time with Natsukawa?",
+    "option1": "Spend time with Natsukawa",
+    "showName": "L<#000000,u,#FFFFFF>fel",
+    "option2": "I have plans today..."
+  },
+  {
+    "sn": "1019235",
+    "strContent": "Would you like to spend time with Natsukawa?",
+    "option1": "Spend time with Natsukawa",
+    "showName": "L<#000000,u,#FFFFFF>fel",
+    "option2": "I have plans today..."
+  },
+  {
+    "sn": "1019236",
+    "strContent": "Would you like to spend time with Natsukawa?",
+    "option1": "Spend time with Natsukawa",
+    "showName": "L<#000000,u,#FFFFFF>fel",
+    "option2": "I have plans today..."
+  },
+  {
+    "sn": "1019237",
+    "strContent": "Would you like to spend time with Natsukawa?",
+    "option1": "Spend time with Natsukawa",
+    "showName": "L<#000000,u,#FFFFFF>fel",
+    "option2": "I'm busy now."
+  },
+  {
+    "sn": "1019238",
+    "strContent": "Would you like to spend time with Natsukawa?",
+    "option1": "Spend time with Natsukawa",
+    "showName": "L<#000000,u,#FFFFFF>fel",
+    "option2": "I have plans today..."
+  },
+  {
+    "sn": "1019239",
+    "strContent": "Would you like to spend time with Natsukawa?",
+    "option1": "Spend time with Natsukawa",
+    "showName": "L<#000000,u,#FFFFFF>fel",
+    "option2": "I have plans today..."
+  },
+  {
+    "sn": "1019240",
+    "strContent": "How should I answer...?",
+    "option1": "Sounds good.",
+    "showName": "AAAAAA==",
+    "option2": "Maybe some other time..."
+  },
+  {
+    "sn": "1019241",
+    "strContent": "Would you like to spend time with Natsukawa?",
+    "option1": "Spend time with Natsukawa",
+    "showName": "L<#000000,u,#FFFFFF>fel",
+    "option2": "I have plans today..."
+  },
+  {
+    "sn": "1019242",
+    "strContent": "Would you like to spend time with Natsukawa?",
+    "option1": "Spend time with Natsukawa",
+    "showName": "L<#000000,u,#FFFFFF>fel",
+    "option2": "I have plans today..."
+  },
+  {
     "sn": "1019278",
     "strContent": "For the best gameplay experience, this event is recommended for players who have completed Merope's Synergy story content.",
     "option1": "AAAAAA==",
@@ -10718,7 +10914,7 @@
   },
   {
     "sn": "1020125",
-    "strContent": "There's a <color=#FF423F>movie theater</color> on Shibuya's\n<color=#FF423F>Central Street</color>. It may be a good way to pass\nthe time.",
+    "strContent": "There seems to be all sorts of places\nto visit in Shibuya. If you're interested,\nwhy not check them out?",
     "option1": "Let's go.",
     "showName": "L<#000000,u,#FFFFFF>fel",
     "option2": "Never mind."
@@ -10750,6 +10946,13 @@
     "option1": "Let's go.",
     "showName": "L<#000000,u,#FFFFFF>fel",
     "option2": "Never mind."
+  },
+  {
+    "sn": "1020130",
+    "strContent": "Shinagawa apparently has a famous <color=#ff0000>aquarium</color>.\nWould you like to go there?",
+    "option1": "Let's go.",
+    "showName": "L<#000000,u,#FFFFFF>fel",
+    "option2": "Never mind"
   },
   {
     "sn": "1020131",
@@ -11069,6 +11272,13 @@
   {
     "sn": "1023004",
     "strContent": "The prerequisite mission has not been unlocked. Do you want to unlock the mission and task-related functions now? (Unlocking early may impact your experience of the story, so please choose carefully.)",
+    "option1": "Confirm",
+    "showName": "L<#000000,u,#FFFFFF>fel",
+    "option2": "Not now"
+  },
+  {
+    "sn": "1023005",
+    "strContent": "Akihabara can now be unlocked. Do you want to do so now? Unlocking it may impact your experience of the story. *This won't affect the story content.",
     "option1": "Confirm",
     "showName": "L<#000000,u,#FFFFFF>fel",
     "option2": "Not now"
@@ -11620,6 +11830,27 @@
     "option2": "AAAAAA=="
   },
   {
+    "sn": "1023065",
+    "strContent": "City Life: Melting Point of Genius has been unlocked.",
+    "option1": "AAAAAA==",
+    "showName": "L<#000000,u,#FFFFFF>fel",
+    "option2": "AAAAAA=="
+  },
+  {
+    "sn": "1023066",
+    "strContent": "The mission Crane Game Fun has been unlocked.",
+    "option1": "AAAAAA==",
+    "showName": "AAAAAA==",
+    "option2": "AAAAAA=="
+  },
+  {
+    "sn": "1023067",
+    "strContent": "Clear 4 missions in City Life.",
+    "option1": "AAAAAA==",
+    "showName": "AAAAAA==",
+    "option2": "AAAAAA=="
+  },
+  {
     "sn": "1024001",
     "strContent": "Kotone Montagne's Synergy mission is currently locked. Do you want to unlock it now? (Unlocking it early may impact your experience of the story, so please choose carefully.)",
     "option1": "Confirm",
@@ -11643,6 +11874,34 @@
   {
     "sn": "1024004",
     "strContent": "Runa Dogenzaka's Synergy mission has been unlocked.",
+    "option1": "AAAAAA==",
+    "showName": "AAAAAA==",
+    "option2": "AAAAAA=="
+  },
+  {
+    "sn": "1024005",
+    "strContent": "Riko Tanemura's Synergy story occurs after the end of Chapter 3.\nDo you want to unlock it now? Unlocking it may impact your experience of the story.\n*This won't affect the story content.",
+    "option1": "Confirm",
+    "showName": "L<#000000,u,#FFFFFF>fel",
+    "option2": "Not now"
+  },
+  {
+    "sn": "1024006",
+    "strContent": "Riko Tanemura's Synergy mission has been unlocked.",
+    "option1": "AAAAAA==",
+    "showName": "AAAAAA==",
+    "option2": "AAAAAA=="
+  },
+  {
+    "sn": "1024007",
+    "strContent": "Mio Natsukawa's Synergy mission is currently locked. Do you want to unlock it now? (Unlocking it early may impact your experience of the story, so please choose carefully.)",
+    "option1": "Confirm",
+    "showName": "L<#000000,u,#FFFFFF>fel",
+    "option2": "Not now"
+  },
+  {
+    "sn": "1024008",
+    "strContent": "Mio Natsukawa's Synergy mission has been unlocked.",
     "option1": "AAAAAA==",
     "showName": "AAAAAA==",
     "option2": "AAAAAA=="
@@ -12705,6 +12964,48 @@
     "option2": "Never mind."
   },
   {
+    "sn": "1036114",
+    "strContent": "Would you like to become close friends with <color=#FFFC40>Runa Dogenzaka</color>?\n*Your choice will affect some aspects of the story and City Life.",
+    "option1": "Confirm",
+    "showName": "AAAAAA==",
+    "option2": "Never mind."
+  },
+  {
+    "sn": "1036115",
+    "strContent": "Would you like to become soulmates with <color=#FFFC40>Runa Dogenzaka</color>?\n*Your choice will affect some aspects of the story and City Life.",
+    "option1": "Confirm",
+    "showName": "AAAAAA==",
+    "option2": "Never mind."
+  },
+  {
+    "sn": "1036116",
+    "strContent": "Would you like to become close friends with <color=#FFFC40>Riko Tanemura</color>?\n*Your choice will affect some aspects of the story and City Life.",
+    "option1": "Confirm",
+    "showName": "AAAAAA==",
+    "option2": "Never mind."
+  },
+  {
+    "sn": "1036117",
+    "strContent": "Would you like to become soulmates with <color=#FFFC40>Riko Tanemura</color>?\n*Your choice will affect some aspects of the story and City Life.",
+    "option1": "Confirm",
+    "showName": "AAAAAA==",
+    "option2": "Never mind."
+  },
+  {
+    "sn": "1036118",
+    "strContent": "Would you like to become close friends with <color=#FFFC40>Mio Natsukawa</color>?\n*Your choice will affect some aspects of the story and City Life.",
+    "option1": "Confirm",
+    "showName": "AAAAAA==",
+    "option2": "Cancel"
+  },
+  {
+    "sn": "1036119",
+    "strContent": "Would you like to become soulmates with <color=#FFFC40>Mio Natsukawa</color>?\n*Your choice will affect some aspects of the story and City Life.",
+    "option1": "Confirm",
+    "showName": "AAAAAA==",
+    "option2": "Leave"
+  },
+  {
     "sn": "1037002",
     "strContent": "You must clear required episodes in order to participate in this trial.",
     "option1": "AAAAAA==",
@@ -12777,6 +13078,13 @@
   {
     "sn": "1037012",
     "strContent": "Wonder can't be sent until he's set with at least 1 Persona.",
+    "option1": "AAAAAA==",
+    "showName": "AAAAAA==",
+    "option2": "AAAAAA=="
+  },
+  {
+    "sn": "1037013",
+    "strContent": "Wonder can't be saved until he's set with a Persona.",
     "option1": "AAAAAA==",
     "showName": "AAAAAA==",
     "option2": "AAAAAA=="
@@ -14301,6 +14609,139 @@
     "option2": "Never mind."
   },
   {
+    "sn": "1047226",
+    "strContent": "When you arrive at this location, you will earn <color=#FFD145>a small amount of flower rewards</color>.",
+    "option1": "AAAAAA==",
+    "showName": "AAAAAA==",
+    "option2": "AAAAAA=="
+  },
+  {
+    "sn": "1047227",
+    "strContent": "When you arrive at this location, you will earn <color=#FFD145>a large amount of flower rewards</color>.",
+    "option1": "AAAAAA==",
+    "showName": "AAAAAA==",
+    "option2": "AAAAAA=="
+  },
+  {
+    "sn": "1047228",
+    "strContent": "When you arrive at this location, you will insta-kill weak Shadows and earn <color=#FFD145>flower rewards</color>.",
+    "option1": "AAAAAA==",
+    "showName": "AAAAAA==",
+    "option2": "AAAAAA=="
+  },
+  {
+    "sn": "1047229",
+    "strContent": "When you arrive at this location, you will enter a <color=#FFD145>battle challenge</color>, and if you win, you will earn flower rewards and a random blessing.",
+    "option1": "AAAAAA==",
+    "showName": "AAAAAA==",
+    "option2": "AAAAAA=="
+  },
+  {
+    "sn": "1047230",
+    "strContent": "When you arrive at this location, you will enter a <color=#FFD145>boss challenge</color>, and if you win, you will earn flower rewards and unlock the next route.",
+    "option1": "AAAAAA==",
+    "showName": "AAAAAA==",
+    "option2": "AAAAAA=="
+  },
+  {
+    "sn": "1047231",
+    "strContent": "If you abandon the battle, you will be able to proceed forward, but will not earn any rewards. Proceed?",
+    "option1": "Confirm",
+    "showName": "L<#000000,u,#FFFFFF>fel",
+    "option2": "Never mind."
+  },
+  {
+    "sn": "1047232",
+    "strContent": "Defeat the boss of the previous route to unlock.",
+    "option1": "AAAAAA==",
+    "showName": "AAAAAA==",
+    "option2": "AAAAAA=="
+  },
+  {
+    "sn": "1047233",
+    "strContent": "This route has not been unlocked yet.",
+    "option1": "AAAAAA==",
+    "showName": "AAAAAA==",
+    "option2": "AAAAAA=="
+  },
+  {
+    "sn": "1047234",
+    "strContent": "If you reset the route, <color=#ff3b37>your progress in the current route will be cleared</color>, and <color=#ff3b37>your spent items will not be returned</color>. Reset?",
+    "option1": "Confirm",
+    "showName": "L<#000000,u,#FFFFFF>fel",
+    "option2": "Never mind."
+  },
+  {
+    "sn": "1047235",
+    "strContent": "You don't have enough %s to proceed.",
+    "option1": "AAAAAA==",
+    "showName": "AAAAAA==",
+    "option2": "AAAAAA=="
+  },
+  {
+    "sn": "1047236",
+    "strContent": "Exchange complete.",
+    "option1": "AAAAAA==",
+    "showName": "AAAAAA==",
+    "option2": "AAAAAA=="
+  },
+  {
+    "sn": "1047237",
+    "strContent": "You do not have enough flowers to exchange.",
+    "option1": "AAAAAA==",
+    "showName": "AAAAAA==",
+    "option2": "AAAAAA=="
+  },
+  {
+    "sn": "1047238",
+    "strContent": "Crossroads of Fate: Laboratory Arc Part 1 unlocks after you complete the event %s.",
+    "option1": "Confirm",
+    "showName": "L<#000000,u,#FFFFFF>fel",
+    "option2": "Never mind."
+  },
+  {
+    "sn": "1047239",
+    "strContent": "When you arrive at this location, a <color=#FFD145>random reward event</color> will occur.",
+    "option1": "AAAAAA==",
+    "showName": "AAAAAA==",
+    "option2": "AAAAAA=="
+  },
+  {
+    "sn": "1047240",
+    "strContent": "When you arrive at this location, you will encounter a <color=#FFD145>throw point event</color>.",
+    "option1": "AAAAAA==",
+    "showName": "AAAAAA==",
+    "option2": "AAAAAA=="
+  },
+  {
+    "sn": "1047241",
+    "strContent": "When you arrive at this location, you will earn a <color=#FFD145>normal star blessing</color>.",
+    "option1": "AAAAAA==",
+    "showName": "AAAAAA==",
+    "option2": "AAAAAA=="
+  },
+  {
+    "sn": "1047242",
+    "strContent": "When you arrive at this location, you will earn a <color=#FFD145>rare star blessing</color>.",
+    "option1": "AAAAAA==",
+    "showName": "AAAAAA==",
+    "option2": "AAAAAA=="
+  },
+  {
+    "sn": "1047243",
+    "strContent": "When you arrive at this location, you will earn a <color=#FFD145>precious star blessing</color>.",
+    "option1": "AAAAAA==",
+    "showName": "AAAAAA==",
+    "option2": "AAAAAA=="
+  },
+  {
+    "sn": "1047244",
+    "strContent": "When you arrive at this location, you will enter a <color=#FFD145>boss challenge</color>.",
+    "option1": "AAAAAA==",
+    "showName": "AAAAAA==",
+    "option2": "AAAAAA=="
+  },
+  {
     "sn": "1047246",
     "strContent": "You have not yet cleared Episode 3-10 of the Bank Arc. This mode may impact your experience of the story. Do you still wish to continue?",
     "option1": "OK",
@@ -14467,6 +14908,41 @@
     "option1": "Confirm",
     "showName": "L<#000000,u,#FFFFFF>fel",
     "option2": "Never mind."
+  },
+  {
+    "sn": "1050607",
+    "strContent": "Added to favorites.",
+    "option1": "AAAAAA==",
+    "showName": "AAAAAA==",
+    "option2": "AAAAAA=="
+  },
+  {
+    "sn": "1050608",
+    "strContent": "Removed from favorites.",
+    "option1": "AAAAAA==",
+    "showName": "AAAAAA==",
+    "option2": "AAAAAA=="
+  },
+  {
+    "sn": "1050609",
+    "strContent": "This item cannot be purchased online.\n Would you like to go to <color=#FFC000>{1}</color> in <color=#FFC000>{0}</color> and purchase it offline?\n(Unlocks at Synergy Rank <color=#ff3b37>{2}</color> with <color=#ff3b37>Mio Natsukawa</color>)",
+    "option1": "Confirm",
+    "showName": "L<#000000,u,#FFFFFF>fel",
+    "option2": "Never mind."
+  },
+  {
+    "sn": "1050610",
+    "strContent": "You don't have enough <color=#FFC000>%s</color> to purchase this.",
+    "option1": "AAAAAA==",
+    "showName": "AAAAAA==",
+    "option2": "AAAAAA=="
+  },
+  {
+    "sn": "1050611",
+    "strContent": "You cannot purchase this because it is sold out.",
+    "option1": "AAAAAA==",
+    "showName": "AAAAAA==",
+    "option2": "AAAAAA=="
   },
   {
     "sn": "1050612",
@@ -16667,6 +17143,76 @@
     "option2": "AAAAAA=="
   },
   {
+    "sn": "1052613",
+    "strContent": "Darn, we weren't able\nto set a new record...\nLet's give it another shot!",
+    "option1": "AAAAAA==",
+    "showName": "AAAAAA==",
+    "option2": "AAAAAA=="
+  },
+  {
+    "sn": "1052614",
+    "strContent": "Hooray! A new record!\nCongratulations!",
+    "option1": "AAAAAA==",
+    "showName": "AAAAAA==",
+    "option2": "AAAAAA=="
+  },
+  {
+    "sn": "1052615",
+    "strContent": "Struggling to set a new record...?\nThen lemme help you train!\nSecret training... Teehee♪",
+    "option1": "AAAAAA==",
+    "showName": "AAAAAA==",
+    "option2": "AAAAAA=="
+  },
+  {
+    "sn": "1052616",
+    "strContent": "Congrats on setting a new high\nscore! To celebrate, I'll make\nyou whatever drink you like!",
+    "option1": "AAAAAA==",
+    "showName": "AAAAAA==",
+    "option2": "AAAAAA=="
+  },
+  {
+    "sn": "1052617",
+    "strContent": "I'm sure you'll get a good\nscore next time! Let's keep\ndoing our best!",
+    "option1": "AAAAAA==",
+    "showName": "AAAAAA==",
+    "option2": "AAAAAA=="
+  },
+  {
+    "sn": "1052618",
+    "strContent": "Whoa, a new record...!\nYou're amazing, {NAME1}!",
+    "option1": "AAAAAA==",
+    "showName": "AAAAAA==",
+    "option2": "AAAAAA=="
+  },
+  {
+    "sn": "1052619",
+    "strContent": "Darn, weren't able to get\nthe high score...! Let's give\nit another go!",
+    "option1": "AAAAAA==",
+    "showName": "AAAAAA==",
+    "option2": "AAAAAA=="
+  },
+  {
+    "sn": "1052620",
+    "strContent": "Wahoo! I'm as happy\nas if I'd done it myself!\nCongratulations!",
+    "option1": "AAAAAA==",
+    "showName": "AAAAAA==",
+    "option2": "AAAAAA=="
+  },
+  {
+    "sn": "1052621",
+    "strContent": "Hmm, I suppose it's a passable\nscore. Let's try to set our\nsights higher next time.",
+    "option1": "AAAAAA==",
+    "showName": "AAAAAA==",
+    "option2": "AAAAAA=="
+  },
+  {
+    "sn": "1052622",
+    "strContent": "Hoohoo! A new record!\nMost impressive.",
+    "option1": "AAAAAA==",
+    "showName": "AAAAAA==",
+    "option2": "AAAAAA=="
+  },
+  {
     "sn": "1060003",
     "strContent": "All right, we're here!",
     "option1": "AAAAAA==",
@@ -18102,6 +18648,153 @@
     "option2": "AAAAAA=="
   },
   {
+    "sn": "1064207",
+    "strContent": "You can now quick travel to the\n<color=#ff3b37>Mental Energy Water Tower Blockade Area: Lower Left 1F Office</color>.",
+    "option1": "AAAAAA==",
+    "showName": "AAAAAA==",
+    "option2": "AAAAAA=="
+  },
+  {
+    "sn": "1064208",
+    "strContent": "You can now quick travel to the\n<color=#ff3b37>Mental Energy Water Tower Blockade Area: South 1F Office</color>.",
+    "option1": "AAAAAA==",
+    "showName": "AAAAAA==",
+    "option2": "AAAAAA=="
+  },
+  {
+    "sn": "1064209",
+    "strContent": "You can now quick travel to the\n<color=#ff3b37>Mental Energy Water Tower Blockade Area: West 2F Office</color>.",
+    "option1": "AAAAAA==",
+    "showName": "AAAAAA==",
+    "option2": "AAAAAA=="
+  },
+  {
+    "sn": "1064210",
+    "strContent": "You can now quick travel to the\n<color=#ff3b37>Mental Energy Water Tower Blockade Area: 3F Conference Room Corridor</color>.",
+    "option1": "AAAAAA==",
+    "showName": "AAAAAA==",
+    "option2": "AAAAAA=="
+  },
+  {
+    "sn": "1064211",
+    "strContent": "You can now quick travel to the\n<color=#ff3b37>Mental Energy Water Tower Blockade Area: Southeast 3F Hallway</color>.",
+    "option1": "AAAAAA==",
+    "showName": "AAAAAA==",
+    "option2": "AAAAAA=="
+  },
+  {
+    "sn": "1064212",
+    "strContent": "You can now quick travel to the\n<color=#ff3b37>Mental Energy Water Tower Blockade Area: Northeast 4F Office</color>.",
+    "option1": "AAAAAA==",
+    "showName": "AAAAAA==",
+    "option2": "AAAAAA=="
+  },
+  {
+    "sn": "1064213",
+    "strContent": "You can now quick travel to the\n<color=#ff3b37>Mental Energy Water Tower Blockade Area: Northwest 4F Hallway</color>.",
+    "option1": "AAAAAA==",
+    "showName": "AAAAAA==",
+    "option2": "AAAAAA=="
+  },
+  {
+    "sn": "1064221",
+    "strContent": "You can now quick travel to the\n<color=#ff3b37>Thermal Tower Blockade Area: West Corridor</color>.",
+    "option1": "AAAAAA==",
+    "showName": "AAAAAA==",
+    "option2": "AAAAAA=="
+  },
+  {
+    "sn": "1064222",
+    "strContent": "You can now quick travel to the\n<color=#ff3b37>Thermal Tower Blockade Area: West Interior</color>.",
+    "option1": "AAAAAA==",
+    "showName": "AAAAAA==",
+    "option2": "AAAAAA=="
+  },
+  {
+    "sn": "1064223",
+    "strContent": "You can now quick travel to the\n<color=#ff3b37>Thermal Tower Blockade Area: Northeast Entrance</color>.",
+    "option1": "AAAAAA==",
+    "showName": "AAAAAA==",
+    "option2": "AAAAAA=="
+  },
+  {
+    "sn": "1064224",
+    "strContent": "You can now quick travel to the\n<color=#ff3b37>Thermal Tower Blockade Area: East Warehouse</color>.",
+    "option1": "AAAAAA==",
+    "showName": "AAAAAA==",
+    "option2": "AAAAAA=="
+  },
+  {
+    "sn": "1064225",
+    "strContent": "You can now quick travel to the\n<color=#ff3b37>Thermal Tower Blockade Area: East Corridor</color>.",
+    "option1": "AAAAAA==",
+    "showName": "AAAAAA==",
+    "option2": "AAAAAA=="
+  },
+  {
+    "sn": "1064226",
+    "strContent": "You can now quick travel to the\n<color=#ff3b37>Thermal Tower Blockade Area: Southeast Entrance</color>.",
+    "option1": "AAAAAA==",
+    "showName": "AAAAAA==",
+    "option2": "AAAAAA=="
+  },
+  {
+    "sn": "1064227",
+    "strContent": "You can now quick travel to the\n<color=#ff3b37>Thermal Tower Blockade Area: East Interior</color>.",
+    "option1": "AAAAAA==",
+    "showName": "AAAAAA==",
+    "option2": "AAAAAA=="
+  },
+  {
+    "sn": "1064231",
+    "strContent": "You can now quick travel to the\n<color=#ff3b37>Electric Tower Blockade: Hallway</color>.",
+    "option1": "AAAAAA==",
+    "showName": "AAAAAA==",
+    "option2": "AAAAAA=="
+  },
+  {
+    "sn": "1064232",
+    "strContent": "You can now quick travel to the\n<color=#ff3b37>Electric Tower Blockade Area: Rest Area</color>.",
+    "option1": "AAAAAA==",
+    "showName": "AAAAAA==",
+    "option2": "AAAAAA=="
+  },
+  {
+    "sn": "1064233",
+    "strContent": "You can now quick travel to the\n<color=#ff3b37>Electric Tower Blockade: Hallway</color>.",
+    "option1": "AAAAAA==",
+    "showName": "AAAAAA==",
+    "option2": "AAAAAA=="
+  },
+  {
+    "sn": "1064234",
+    "strContent": "You can now quick travel to the\n<color=#ff3b37>Electric Tower Blockade: Hallway</color>.",
+    "option1": "AAAAAA==",
+    "showName": "AAAAAA==",
+    "option2": "AAAAAA=="
+  },
+  {
+    "sn": "1064235",
+    "strContent": "You can now quick travel to the\n<color=#ff3b37>Electric Tower Blockade: Hallway</color>.",
+    "option1": "AAAAAA==",
+    "showName": "AAAAAA==",
+    "option2": "AAAAAA=="
+  },
+  {
+    "sn": "1064236",
+    "strContent": "You can now quick travel to the\n<color=#ff3b37>Electric Tower Blockade: Hallway</color>.",
+    "option1": "AAAAAA==",
+    "showName": "AAAAAA==",
+    "option2": "AAAAAA=="
+  },
+  {
+    "sn": "1064237",
+    "strContent": "You can now quick travel to the\n<color=#ff3b37>Electric Tower Blockade: Hallway</color>.",
+    "option1": "AAAAAA==",
+    "showName": "AAAAAA==",
+    "option2": "AAAAAA=="
+  },
+  {
     "sn": "1065165",
     "strContent": "You can now quick travel to the\n<color=#FF423F>Realm of Repression: Words of Bonds</color>.",
     "option1": "AAAAAA==",
@@ -18323,6 +19016,13 @@
     "strContent": "We've found a secret area!",
     "option1": "AAAAAA==",
     "showName": "Futaba Sakura",
+    "option2": "AAAAAA=="
+  },
+  {
+    "sn": "1065051",
+    "strContent": "Shortcut to the Recollections has been unlocked.",
+    "option1": "AAAAAA==",
+    "showName": "AAAAAA==",
     "option2": "AAAAAA=="
   },
   {
@@ -21515,6 +22215,510 @@
     "strContent": "I have an idea! What if we\ntook a little break?",
     "option1": "AAAAAA==",
     "showName": "Runa Dogenzaka",
+    "option2": "AAAAAA=="
+  },
+  {
+    "sn": "1153001",
+    "strContent": "AAAAAA==",
+    "option1": "AAAAAA==",
+    "showName": "Kasumi Yoshizawa",
+    "option2": "AAAAAA=="
+  },
+  {
+    "sn": "1153002",
+    "strContent": "AAAAAA==",
+    "option1": "AAAAAA==",
+    "showName": "Kasumi Yoshizawa",
+    "option2": "AAAAAA=="
+  },
+  {
+    "sn": "1153003",
+    "strContent": "AAAAAA==",
+    "option1": "AAAAAA==",
+    "showName": "Kasumi Yoshizawa",
+    "option2": "AAAAAA=="
+  },
+  {
+    "sn": "1153004",
+    "strContent": "AAAAAA==",
+    "option1": "AAAAAA==",
+    "showName": "Kasumi Yoshizawa",
+    "option2": "AAAAAA=="
+  },
+  {
+    "sn": "1153005",
+    "strContent": "AAAAAA==",
+    "option1": "AAAAAA==",
+    "showName": "Kasumi Yoshizawa",
+    "option2": "AAAAAA=="
+  },
+  {
+    "sn": "1153006",
+    "strContent": "AAAAAA==",
+    "option1": "AAAAAA==",
+    "showName": "Kasumi Yoshizawa",
+    "option2": "AAAAAA=="
+  },
+  {
+    "sn": "1153007",
+    "strContent": "AAAAAA==",
+    "option1": "AAAAAA==",
+    "showName": "Kasumi Yoshizawa",
+    "option2": "AAAAAA=="
+  },
+  {
+    "sn": "1153008",
+    "strContent": "AAAAAA==",
+    "option1": "AAAAAA==",
+    "showName": "Kasumi Yoshizawa",
+    "option2": "AAAAAA=="
+  },
+  {
+    "sn": "1153009",
+    "strContent": "AAAAAA==",
+    "option1": "AAAAAA==",
+    "showName": "Kasumi Yoshizawa",
+    "option2": "AAAAAA=="
+  },
+  {
+    "sn": "1153010",
+    "strContent": "AAAAAA==",
+    "option1": "AAAAAA==",
+    "showName": "Kasumi Yoshizawa",
+    "option2": "AAAAAA=="
+  },
+  {
+    "sn": "1153011",
+    "strContent": "AAAAAA==",
+    "option1": "AAAAAA==",
+    "showName": "Kasumi Yoshizawa",
+    "option2": "AAAAAA=="
+  },
+  {
+    "sn": "1153012",
+    "strContent": "AAAAAA==",
+    "option1": "AAAAAA==",
+    "showName": "Kasumi Yoshizawa",
+    "option2": "AAAAAA=="
+  },
+  {
+    "sn": "1153013",
+    "strContent": "AAAAAA==",
+    "option1": "AAAAAA==",
+    "showName": "Kasumi Yoshizawa",
+    "option2": "AAAAAA=="
+  },
+  {
+    "sn": "1153014",
+    "strContent": "AAAAAA==",
+    "option1": "AAAAAA==",
+    "showName": "Kasumi Yoshizawa",
+    "option2": "AAAAAA=="
+  },
+  {
+    "sn": "1153015",
+    "strContent": "AAAAAA==",
+    "option1": "AAAAAA==",
+    "showName": "Kasumi Yoshizawa",
+    "option2": "AAAAAA=="
+  },
+  {
+    "sn": "1153016",
+    "strContent": "AAAAAA==",
+    "option1": "AAAAAA==",
+    "showName": "Kasumi Yoshizawa",
+    "option2": "AAAAAA=="
+  },
+  {
+    "sn": "1153017",
+    "strContent": "AAAAAA==",
+    "option1": "AAAAAA==",
+    "showName": "Kasumi Yoshizawa",
+    "option2": "AAAAAA=="
+  },
+  {
+    "sn": "1153018",
+    "strContent": "AAAAAA==",
+    "option1": "AAAAAA==",
+    "showName": "Kasumi Yoshizawa",
+    "option2": "AAAAAA=="
+  },
+  {
+    "sn": "1154001",
+    "strContent": "Let's begin our search.",
+    "option1": "AAAAAA==",
+    "showName": "Riko Tanemura",
+    "option2": "AAAAAA=="
+  },
+  {
+    "sn": "1154002",
+    "strContent": "We've arrived.",
+    "option1": "AAAAAA==",
+    "showName": "Riko Tanemura",
+    "option2": "AAAAAA=="
+  },
+  {
+    "sn": "1154003",
+    "strContent": "Now then... How should we\nproceed?",
+    "option1": "AAAAAA==",
+    "showName": "Riko Tanemura",
+    "option2": "AAAAAA=="
+  },
+  {
+    "sn": "1154004",
+    "strContent": "There may be a hidden passage\nclose by...",
+    "option1": "AAAAAA==",
+    "showName": "Riko Tanemura",
+    "option2": "AAAAAA=="
+  },
+  {
+    "sn": "1154005",
+    "strContent": "Seems to be locked. Let's\nthink of a way to open it.",
+    "option1": "AAAAAA==",
+    "showName": "Riko Tanemura",
+    "option2": "AAAAAA=="
+  },
+  {
+    "sn": "1154006",
+    "strContent": "Appears we can't open\nthis door.",
+    "option1": "AAAAAA==",
+    "showName": "Riko Tanemura",
+    "option2": "AAAAAA=="
+  },
+  {
+    "sn": "1154007",
+    "strContent": "We've arrived at our\ndestination. Nicely\ndone, everyone.",
+    "option1": "AAAAAA==",
+    "showName": "Riko Tanemura",
+    "option2": "AAAAAA=="
+  },
+  {
+    "sn": "1154008",
+    "strContent": "There's a chest close by.\nShall we investigate?",
+    "option1": "AAAAAA==",
+    "showName": "Riko Tanemura",
+    "option2": "AAAAAA=="
+  },
+  {
+    "sn": "1154009",
+    "strContent": "Should we not take a moment to\nprepare? Continuing like this\nwould be dangerous.",
+    "option1": "AAAAAA==",
+    "showName": "Riko Tanemura",
+    "option2": "AAAAAA=="
+  },
+  {
+    "sn": "1154010",
+    "strContent": "Now, what's inside...",
+    "option1": "AAAAAA==",
+    "showName": "Riko Tanemura",
+    "option2": "AAAAAA=="
+  },
+  {
+    "sn": "1154011",
+    "strContent": "Quite a good find!",
+    "option1": "AAAAAA==",
+    "showName": "Riko Tanemura",
+    "option2": "AAAAAA=="
+  },
+  {
+    "sn": "1154012",
+    "strContent": "An enemy. Stay alert everyone.",
+    "option1": "AAAAAA==",
+    "showName": "Riko Tanemura",
+    "option2": "AAAAAA=="
+  },
+  {
+    "sn": "1154013",
+    "strContent": "A safe room. Shall we take a\nshort rest?",
+    "option1": "AAAAAA==",
+    "showName": "Riko Tanemura",
+    "option2": "AAAAAA=="
+  },
+  {
+    "sn": "1154014",
+    "strContent": "We can take a breath and\nrelax while we're here.",
+    "option1": "AAAAAA==",
+    "showName": "Riko Tanemura",
+    "option2": "AAAAAA=="
+  },
+  {
+    "sn": "1154015",
+    "strContent": "A satisfactory result.",
+    "option1": "AAAAAA==",
+    "showName": "Riko Tanemura",
+    "option2": "AAAAAA=="
+  },
+  {
+    "sn": "1154016",
+    "strContent": "Is this it?",
+    "option1": "AAAAAA==",
+    "showName": "Riko Tanemura",
+    "option2": "AAAAAA=="
+  },
+  {
+    "sn": "1154017",
+    "strContent": "Looks like a formidable foe...\nWe prepare before engaging\nwith it.",
+    "option1": "AAAAAA==",
+    "showName": "Riko Tanemura",
+    "option2": "AAAAAA=="
+  },
+  {
+    "sn": "1154018",
+    "strContent": "Is anyone tired? Should take\na rest soon?",
+    "option1": "AAAAAA==",
+    "showName": "Riko Tanemura",
+    "option2": "AAAAAA=="
+  },
+  {
+    "sn": "1155001",
+    "strContent": "Time for New Year's greetings!",
+    "option1": "AAAAAA==",
+    "showName": "Yaoling Li",
+    "option2": "AAAAAA=="
+  },
+  {
+    "sn": "1155002",
+    "strContent": "I'm coming over to your place!",
+    "option1": "AAAAAA==",
+    "showName": "Yaoling Li",
+    "option2": "AAAAAA=="
+  },
+  {
+    "sn": "1155003",
+    "strContent": "It's me! Open up!",
+    "option1": "AAAAAA==",
+    "showName": "Yaoling Li",
+    "option2": "AAAAAA=="
+  },
+  {
+    "sn": "1155004",
+    "strContent": "Hm... Is there a secret passage?",
+    "option1": "AAAAAA==",
+    "showName": "Yaoling Li",
+    "option2": "AAAAAA=="
+  },
+  {
+    "sn": "1155005",
+    "strContent": "Huh? We have to pay to pass?",
+    "option1": "AAAAAA==",
+    "showName": "Yaoling Li",
+    "option2": "AAAAAA=="
+  },
+  {
+    "sn": "1155006",
+    "strContent": "We can't get through here... Let's find another way!",
+    "option1": "AAAAAA==",
+    "showName": "Yaoling Li",
+    "option2": "AAAAAA=="
+  },
+  {
+    "sn": "1155007",
+    "strContent": "Mission complete! Yay! New Year money!",
+    "option1": "AAAAAA==",
+    "showName": "Yaoling Li",
+    "option2": "AAAAAA=="
+  },
+  {
+    "sn": "1155008",
+    "strContent": "Is there treasure around here?",
+    "option1": "AAAAAA==",
+    "showName": "Yaoling Li",
+    "option2": "AAAAAA=="
+  },
+  {
+    "sn": "1155009",
+    "strContent": "*yawn* I'm getting real tired. Wanna take a break?",
+    "option1": "AAAAAA==",
+    "showName": "Yaoling Li",
+    "option2": "AAAAAA=="
+  },
+  {
+    "sn": "1155010",
+    "strContent": "This is New Year money too... right?",
+    "option1": "AAAAAA==",
+    "showName": "Yaoling Li",
+    "option2": "AAAAAA=="
+  },
+  {
+    "sn": "1155011",
+    "strContent": "Yay! What a haul!",
+    "option1": "AAAAAA==",
+    "showName": "Yaoling Li",
+    "option2": "AAAAAA=="
+  },
+  {
+    "sn": "1155012",
+    "strContent": "There's a Shadow. Quick, before it sees us!",
+    "option1": "AAAAAA==",
+    "showName": "Yaoling Li",
+    "option2": "AAAAAA=="
+  },
+  {
+    "sn": "1155013",
+    "strContent": "Safe room! Should we take a break?",
+    "option1": "AAAAAA==",
+    "showName": "Yaoling Li",
+    "option2": "AAAAAA=="
+  },
+  {
+    "sn": "1155014",
+    "strContent": "I can finally relax.",
+    "option1": "AAAAAA==",
+    "showName": "Yaoling Li",
+    "option2": "AAAAAA=="
+  },
+  {
+    "sn": "1155015",
+    "strContent": "All done! It's our lucky day!",
+    "option1": "AAAAAA==",
+    "showName": "Yaoling Li",
+    "option2": "AAAAAA=="
+  },
+  {
+    "sn": "1155016",
+    "strContent": "Let's hang out some more this year!",
+    "option1": "AAAAAA==",
+    "showName": "Yaoling Li",
+    "option2": "AAAAAA=="
+  },
+  {
+    "sn": "1155017",
+    "strContent": "Looks tough... Let's be careful!",
+    "option1": "AAAAAA==",
+    "showName": "Yaoling Li",
+    "option2": "AAAAAA=="
+  },
+  {
+    "sn": "1155018",
+    "strContent": "If we stay too long, we'll get tired. We should probably take a break.",
+    "option1": "AAAAAA==",
+    "showName": "Yaoling Li",
+    "option2": "AAAAAA=="
+  },
+  {
+    "sn": "1156001",
+    "strContent": "Where are we headed today?",
+    "option1": "AAAAAA==",
+    "showName": "Mio Natsukawa",
+    "option2": "AAAAAA=="
+  },
+  {
+    "sn": "1156002",
+    "strContent": "We're here... I'll let you take charge.",
+    "option1": "AAAAAA==",
+    "showName": "Mio Natsukawa",
+    "option2": "AAAAAA=="
+  },
+  {
+    "sn": "1156003",
+    "strContent": "Make sure it's not dangerous.",
+    "option1": "AAAAAA==",
+    "showName": "Mio Natsukawa",
+    "option2": "AAAAAA=="
+  },
+  {
+    "sn": "1156004",
+    "strContent": "I got a whiff of something... Is there a path?",
+    "option1": "AAAAAA==",
+    "showName": "Mio Natsukawa",
+    "option2": "AAAAAA=="
+  },
+  {
+    "sn": "1156005",
+    "strContent": "It's locked... There must be a way to open it.",
+    "option1": "AAAAAA==",
+    "showName": "Mio Natsukawa",
+    "option2": "AAAAAA=="
+  },
+  {
+    "sn": "1156006",
+    "strContent": "It doesn't look like it'll open.",
+    "option1": "AAAAAA==",
+    "showName": "Mio Natsukawa",
+    "option2": "AAAAAA=="
+  },
+  {
+    "sn": "1156007",
+    "strContent": "Mission accomplished. Let's pack it up.",
+    "option1": "AAAAAA==",
+    "showName": "Mio Natsukawa",
+    "option2": "AAAAAA=="
+  },
+  {
+    "sn": "1156008",
+    "strContent": "There's something good around here... I can feel it.",
+    "option1": "AAAAAA==",
+    "showName": "Mio Natsukawa",
+    "option2": "AAAAAA=="
+  },
+  {
+    "sn": "1156009",
+    "strContent": "I'm just about at my limit...",
+    "option1": "AAAAAA==",
+    "showName": "Mio Natsukawa",
+    "option2": "AAAAAA=="
+  },
+  {
+    "sn": "1156010",
+    "strContent": "Mind if I take a look, too?",
+    "option1": "AAAAAA==",
+    "showName": "Mio Natsukawa",
+    "option2": "AAAAAA=="
+  },
+  {
+    "sn": "1156011",
+    "strContent": "Hm, not bad.",
+    "option1": "AAAAAA==",
+    "showName": "Mio Natsukawa",
+    "option2": "AAAAAA=="
+  },
+  {
+    "sn": "1156012",
+    "strContent": "Watch for enemies. Don't get careless.",
+    "option1": "AAAAAA==",
+    "showName": "Mio Natsukawa",
+    "option2": "AAAAAA=="
+  },
+  {
+    "sn": "1156013",
+    "strContent": "A safe room? Maybe we could take a break.",
+    "option1": "AAAAAA==",
+    "showName": "Mio Natsukawa",
+    "option2": "AAAAAA=="
+  },
+  {
+    "sn": "1156014",
+    "strContent": "Let's get our strength back up here.",
+    "option1": "AAAAAA==",
+    "showName": "Mio Natsukawa",
+    "option2": "AAAAAA=="
+  },
+  {
+    "sn": "1156015",
+    "strContent": "Let's take what we can get.",
+    "option1": "AAAAAA==",
+    "showName": "Mio Natsukawa",
+    "option2": "AAAAAA=="
+  },
+  {
+    "sn": "1156016",
+    "strContent": "Good work today. Call me back anytime.",
+    "option1": "AAAAAA==",
+    "showName": "Mio Natsukawa",
+    "option2": "AAAAAA=="
+  },
+  {
+    "sn": "1156017",
+    "strContent": "Smells like smoke... Watch out for that one.",
+    "option1": "AAAAAA==",
+    "showName": "Mio Natsukawa",
+    "option2": "AAAAAA=="
+  },
+  {
+    "sn": "1156018",
+    "strContent": "We might want to rest for a while.",
+    "option1": "AAAAAA==",
+    "showName": "Mio Natsukawa",
     "option2": "AAAAAA=="
   },
   {
@@ -24787,6 +25991,146 @@
     "option2": "AAAAAA=="
   },
   {
+    "sn": "1157351",
+    "strContent": "AAAAAA==",
+    "option1": "AAAAAA==",
+    "showName": "AAAAAA==",
+    "option2": "AAAAAA=="
+  },
+  {
+    "sn": "1157352",
+    "strContent": "AAAAAA==",
+    "option1": "AAAAAA==",
+    "showName": "AAAAAA==",
+    "option2": "AAAAAA=="
+  },
+  {
+    "sn": "1157353",
+    "strContent": "AAAAAA==",
+    "option1": "AAAAAA==",
+    "showName": "AAAAAA==",
+    "option2": "AAAAAA=="
+  },
+  {
+    "sn": "1157354",
+    "strContent": "AAAAAA==",
+    "option1": "AAAAAA==",
+    "showName": "AAAAAA==",
+    "option2": "AAAAAA=="
+  },
+  {
+    "sn": "1157355",
+    "strContent": "AAAAAA==",
+    "option1": "AAAAAA==",
+    "showName": "AAAAAA==",
+    "option2": "AAAAAA=="
+  },
+  {
+    "sn": "1157356",
+    "strContent": "AAAAAA==",
+    "option1": "AAAAAA==",
+    "showName": "AAAAAA==",
+    "option2": "AAAAAA=="
+  },
+  {
+    "sn": "1157357",
+    "strContent": "AAAAAA==",
+    "option1": "AAAAAA==",
+    "showName": "AAAAAA==",
+    "option2": "AAAAAA=="
+  },
+  {
+    "sn": "1157358",
+    "strContent": "AAAAAA==",
+    "option1": "AAAAAA==",
+    "showName": "AAAAAA==",
+    "option2": "AAAAAA=="
+  },
+  {
+    "sn": "1157359",
+    "strContent": "AAAAAA==",
+    "option1": "AAAAAA==",
+    "showName": "AAAAAA==",
+    "option2": "AAAAAA=="
+  },
+  {
+    "sn": "1157360",
+    "strContent": "AAAAAA==",
+    "option1": "AAAAAA==",
+    "showName": "AAAAAA==",
+    "option2": "AAAAAA=="
+  },
+  {
+    "sn": "1157361",
+    "strContent": "AAAAAA==",
+    "option1": "AAAAAA==",
+    "showName": "AAAAAA==",
+    "option2": "AAAAAA=="
+  },
+  {
+    "sn": "1157362",
+    "strContent": "AAAAAA==",
+    "option1": "AAAAAA==",
+    "showName": "AAAAAA==",
+    "option2": "AAAAAA=="
+  },
+  {
+    "sn": "1157363",
+    "strContent": "AAAAAA==",
+    "option1": "AAAAAA==",
+    "showName": "AAAAAA==",
+    "option2": "AAAAAA=="
+  },
+  {
+    "sn": "1157364",
+    "strContent": "AAAAAA==",
+    "option1": "AAAAAA==",
+    "showName": "AAAAAA==",
+    "option2": "AAAAAA=="
+  },
+  {
+    "sn": "1157365",
+    "strContent": "AAAAAA==",
+    "option1": "AAAAAA==",
+    "showName": "AAAAAA==",
+    "option2": "AAAAAA=="
+  },
+  {
+    "sn": "1157366",
+    "strContent": "AAAAAA==",
+    "option1": "AAAAAA==",
+    "showName": "AAAAAA==",
+    "option2": "AAAAAA=="
+  },
+  {
+    "sn": "1157367",
+    "strContent": "AAAAAA==",
+    "option1": "AAAAAA==",
+    "showName": "AAAAAA==",
+    "option2": "AAAAAA=="
+  },
+  {
+    "sn": "1157368",
+    "strContent": "AAAAAA==",
+    "option1": "AAAAAA==",
+    "showName": "AAAAAA==",
+    "option2": "AAAAAA=="
+  },
+  {
+    "sn": "1157369",
+    "strContent": "AAAAAA==",
+    "option1": "AAAAAA==",
+    "showName": "AAAAAA==",
+    "option2": "AAAAAA=="
+  },
+  {
+    "sn": "1157370",
+    "strContent": "AAAAAA==",
+    "option1": "AAAAAA==",
+    "showName": "AAAAAA==",
+    "option2": "AAAAAA=="
+  },
+  {
     "sn": "1200001",
     "strContent": "Unlocks at Synergy Rank 16 with <color=#FF423F>Merope</color>.",
     "option1": "AAAAAA==",
@@ -25447,6 +26791,48 @@
   {
     "sn": "1200055",
     "strContent": "Unlocks at Synergy Rank 19 with <color=#FF423F>Ayaka Sakai</color>.",
+    "option1": "AAAAAA==",
+    "showName": "AAAAAA==",
+    "option2": "AAAAAA=="
+  },
+  {
+    "sn": "1200091",
+    "strContent": "Unlocks at Synergy Rank 16 with <color=#FF423F>Mio Natsukawa</color>.",
+    "option1": "AAAAAA==",
+    "showName": "AAAAAA==",
+    "option2": "AAAAAA=="
+  },
+  {
+    "sn": "1200092",
+    "strContent": "Unlocks at Synergy Rank 16 with <color=#FF423F>Mio Natsukawa</color>.",
+    "option1": "AAAAAA==",
+    "showName": "AAAAAA==",
+    "option2": "AAAAAA=="
+  },
+  {
+    "sn": "1200093",
+    "strContent": "Unlocks at Synergy Rank 18 and close friends with <color=#FF423F>Mio Natsukawa</color>.",
+    "option1": "AAAAAA==",
+    "showName": "AAAAAA==",
+    "option2": "AAAAAA=="
+  },
+  {
+    "sn": "1200094",
+    "strContent": "Unlocks at Synergy Rank 18 and soulmates with <color=#FF423F>Mio Natsukawa</color>.",
+    "option1": "AAAAAA==",
+    "showName": "AAAAAA==",
+    "option2": "AAAAAA=="
+  },
+  {
+    "sn": "1200095",
+    "strContent": "Unlocks at Synergy Rank 19 with <color=#FF423F>Mio Natsukawa</color>.",
+    "option1": "AAAAAA==",
+    "showName": "AAAAAA==",
+    "option2": "AAAAAA=="
+  },
+  {
+    "sn": "1200103",
+    "strContent": "Unlock this stamp after completing Dancing with the Happy-Go-Lucky Lions.",
     "option1": "AAAAAA==",
     "showName": "AAAAAA==",
     "option2": "AAAAAA=="
@@ -27041,6 +28427,13 @@
     "option2": "AAAAAA=="
   },
   {
+    "sn": "1206014",
+    "strContent": "Error: Str_strContent_1206014",
+    "option1": "AAAAAA==",
+    "showName": "AAAAAA==",
+    "option2": "AAAAAA=="
+  },
+  {
     "sn": "1206020",
     "strContent": "You joined the <color=#ffc000>band club</color>.\nYou can participate in club activities from the Kokatsu Academy club bulletin board.",
     "option1": "AAAAAA==",
@@ -27064,6 +28457,20 @@
   {
     "sn": "1206051",
     "strContent": "You unlocked the City Life activity\n<color=#ffc000>Exploring with Haruna</color>.\nThere is a chance for it to appear each day.",
+    "option1": "AAAAAA==",
+    "showName": "AAAAAA==",
+    "option2": "AAAAAA=="
+  },
+  {
+    "sn": "1206052",
+    "strContent": "Error: tnxotb-[Str_strContent_1206052]",
+    "option1": "AAAAAA==",
+    "showName": "AAAAAA==",
+    "option2": "AAAAAA=="
+  },
+  {
+    "sn": "1206053",
+    "strContent": "You unlocked the City Life activity\n<color=#ffc000>Spend time with Shirai</color>. There is a chance for it to appear each day.",
     "option1": "AAAAAA==",
     "showName": "AAAAAA==",
     "option2": "AAAAAA=="
@@ -27902,6 +29309,83 @@
     "option2": "AAAAAA=="
   },
   {
+    "sn": "1209436",
+    "strContent": "Please progress through the main story and clear Unconditional Love missions.",
+    "option1": "AAAAAA==",
+    "showName": "AAAAAA==",
+    "option2": "AAAAAA=="
+  },
+  {
+    "sn": "1209437",
+    "strContent": "The box is empty. Please wait until the appropriate time.",
+    "option1": "AAAAAA==",
+    "showName": "AAAAAA==",
+    "option2": "AAAAAA=="
+  },
+  {
+    "sn": "1209438",
+    "strContent": "You don't have enough {0}. Do you want to obtain more now?",
+    "option1": "Confirm",
+    "showName": "L<#000000,u,#FFFFFF>fel",
+    "option2": "Never mind."
+  },
+  {
+    "sn": "1209439",
+    "strContent": "Gift Set is sold out. To obtain more, please go to the {0} event.",
+    "option1": "AAAAAA==",
+    "showName": "AAAAAA==",
+    "option2": "AAAAAA=="
+  },
+  {
+    "sn": "1209440",
+    "strContent": "Gift Set is sold out.",
+    "option1": "AAAAAA==",
+    "showName": "AAAAAA==",
+    "option2": "AAAAAA=="
+  },
+  {
+    "sn": "1209451",
+    "strContent": "Gift Set is sold out.",
+    "option1": "AAAAAA==",
+    "showName": "AAAAAA==",
+    "option2": "AAAAAA=="
+  },
+  {
+    "sn": "1209452",
+    "strContent": "Please enter the correct information.",
+    "option1": "AAAAAA==",
+    "showName": "AAAAAA==",
+    "option2": "AAAAAA=="
+  },
+  {
+    "sn": "1209453",
+    "strContent": "You won't be able to change your information after sending. Proceed?",
+    "option1": "Confirm",
+    "showName": "L<#000000,u,#FFFFFF>fel",
+    "option2": "Never mind."
+  },
+  {
+    "sn": "1209454",
+    "strContent": "Message sent.",
+    "option1": "AAAAAA==",
+    "showName": "AAAAAA==",
+    "option2": "AAAAAA=="
+  },
+  {
+    "sn": "1209455",
+    "strContent": "Your information has been successfully submitted. If you need to make any corrections, please contact customer support.",
+    "option1": "AAAAAA==",
+    "showName": "AAAAAA==",
+    "option2": "AAAAAA=="
+  },
+  {
+    "sn": "1209456",
+    "strContent": "Event has ended.",
+    "option1": "AAAAAA==",
+    "showName": "AAAAAA==",
+    "option2": "AAAAAA=="
+  },
+  {
     "sn": "1210241",
     "strContent": "Hey, this is no time to be\ngetting tipsy!",
     "option1": "AAAAAA==",
@@ -28037,6 +29521,13 @@
   {
     "sn": "1210317",
     "strContent": "You can now quick travel to the\n<color=#FF423F>Path of Chemdah Area 3</color>.",
+    "option1": "AAAAAA==",
+    "showName": "AAAAAA==",
+    "option2": "AAAAAA=="
+  },
+  {
+    "sn": "1210320",
+    "strContent": "You can now quick travel to the\n<color=#FF423F>Path of Chemdah Area 6</color>.",
     "option1": "AAAAAA==",
     "showName": "AAAAAA==",
     "option2": "AAAAAA=="
@@ -28637,8 +30128,78 @@
     "option2": "AAAAAA=="
   },
   {
+    "sn": "1212011",
+    "strContent": "Clear Dancing with the Happy-Go-Lucky Lions %s to unlock.",
+    "option1": "AAAAAA==",
+    "showName": "AAAAAA==",
+    "option2": "AAAAAA=="
+  },
+  {
+    "sn": "1212012",
+    "strContent": "You can watch fireworks with %s at the Fireworks Festival.",
+    "option1": "AAAAAA==",
+    "showName": "AAAAAA==",
+    "option2": "AAAAAA=="
+  },
+  {
+    "sn": "1215001",
+    "strContent": "Looks like that was wrong. Let's try again...",
+    "option1": "AAAAAA==",
+    "showName": "L<#000000,u,#FFFFFF>fel",
+    "option2": "AAAAAA=="
+  },
+  {
+    "sn": "1215002",
+    "strContent": "Please choose one answer and submit.",
+    "option1": "AAAAAA==",
+    "showName": "AAAAAA==",
+    "option2": "AAAAAA=="
+  },
+  {
+    "sn": "1216001",
+    "strContent": "Do you want to send a red envelope in chat?",
+    "option1": "Confirm",
+    "showName": "L<#000000,u,#FFFFFF>fel",
+    "option2": "Never mind."
+  },
+  {
+    "sn": "1216002",
+    "strContent": "Currently in battle. You can check after the battle is over.",
+    "option1": "AAAAAA==",
+    "showName": "AAAAAA==",
+    "option2": "AAAAAA=="
+  },
+  {
+    "sn": "1216003",
+    "strContent": "Progress in the main story to unlock the chat feature.",
+    "option1": "AAAAAA==",
+    "showName": "AAAAAA==",
+    "option2": "AAAAAA=="
+  },
+  {
+    "sn": "1216004",
+    "strContent": "Level up to unlock the event.",
+    "option1": "AAAAAA==",
+    "showName": "AAAAAA==",
+    "option2": "AAAAAA=="
+  },
+  {
     "sn": "1216005",
     "strContent": "After finishing the current play, you can join the event.",
+    "option1": "AAAAAA==",
+    "showName": "AAAAAA==",
+    "option2": "AAAAAA=="
+  },
+  {
+    "sn": "1217001",
+    "strContent": "Unlocks in %s",
+    "option1": "AAAAAA==",
+    "showName": "AAAAAA==",
+    "option2": "AAAAAA=="
+  },
+  {
+    "sn": "1217002",
+    "strContent": "Must clear %s.",
     "option1": "AAAAAA==",
     "showName": "AAAAAA==",
     "option2": "AAAAAA=="
@@ -30132,14 +31693,14 @@
     "strContent": "Return to the Mode Selection Screen?\n(You will lose all progress in the current mode after confirming.)",
     "option1": "Cancel",
     "showName": "L<#000000,u,#FFFFFF>fel",
-    "option2": "Never mind."
+    "option2": "Cancel"
   },
   {
     "sn": "1135005",
     "strContent": "Do you want to end the experience?\n(You will return to the login screen after confirming.)",
     "option1": "Cancel",
     "showName": "L<#000000,u,#FFFFFF>fel",
-    "option2": "Never mind."
+    "option2": "Cancel"
   },
   {
     "sn": "1131202",
@@ -32687,7 +34248,7 @@
     "strContent": "Do you want to retreat?\nYour Willpower and challenge attempts will be reverted to their state prior to battle.",
     "option1": "Confirm",
     "showName": "L<#000000,u,#FFFFFF>fel",
-    "option2": "Never mind."
+    "option2": "Cancel"
   },
   {
     "sn": "1301006",
@@ -32705,7 +34266,7 @@
   },
   {
     "sn": "1301008",
-    "strContent": "All passed Stellae must be <color=#FF423F>cleared</color> to take this on.",
+    "strContent": "Reset Stellae must be <color=#FF423F>cleared again</color>.",
     "option1": "AAAAAA==",
     "showName": "AAAAAA==",
     "option2": "AAAAAA=="
@@ -32747,7 +34308,7 @@
   },
   {
     "sn": "1302001",
-    "strContent": "Unlocks at Synergy Rank 17 with Kotone Montagne",
+    "strContent": "Get Kotone to Rank 17",
     "option1": "AAAAAA==",
     "showName": "AAAAAA==",
     "option2": "AAAAAA=="
@@ -32876,6 +34437,146 @@
     "strContent": "All right, all right. But we haven't finished yet.",
     "option1": "AAAAAA==",
     "showName": "Futaba Sakura",
+    "option2": "AAAAAA=="
+  },
+  {
+    "sn": "1133501",
+    "strContent": "AAAAAA==",
+    "option1": "AAAAAA==",
+    "showName": "Kasumi Yoshizawa",
+    "option2": "AAAAAA=="
+  },
+  {
+    "sn": "1133502",
+    "strContent": "AAAAAA==",
+    "option1": "AAAAAA==",
+    "showName": "Kasumi Yoshizawa",
+    "option2": "AAAAAA=="
+  },
+  {
+    "sn": "1133503",
+    "strContent": "AAAAAA==",
+    "option1": "AAAAAA==",
+    "showName": "Kasumi Yoshizawa",
+    "option2": "AAAAAA=="
+  },
+  {
+    "sn": "1133504",
+    "strContent": "AAAAAA==",
+    "option1": "AAAAAA==",
+    "showName": "Kasumi Yoshizawa",
+    "option2": "AAAAAA=="
+  },
+  {
+    "sn": "1133505",
+    "strContent": "AAAAAA==",
+    "option1": "AAAAAA==",
+    "showName": "Kasumi Yoshizawa",
+    "option2": "AAAAAA=="
+  },
+  {
+    "sn": "1133506",
+    "strContent": "AAAAAA==",
+    "option1": "AAAAAA==",
+    "showName": "Kasumi Yoshizawa",
+    "option2": "AAAAAA=="
+  },
+  {
+    "sn": "1133507",
+    "strContent": "AAAAAA==",
+    "option1": "AAAAAA==",
+    "showName": "Kasumi Yoshizawa",
+    "option2": "AAAAAA=="
+  },
+  {
+    "sn": "1133508",
+    "strContent": "AAAAAA==",
+    "option1": "AAAAAA==",
+    "showName": "Kasumi Yoshizawa",
+    "option2": "AAAAAA=="
+  },
+  {
+    "sn": "1133509",
+    "strContent": "AAAAAA==",
+    "option1": "AAAAAA==",
+    "showName": "Kasumi Yoshizawa",
+    "option2": "AAAAAA=="
+  },
+  {
+    "sn": "1133510",
+    "strContent": "AAAAAA==",
+    "option1": "AAAAAA==",
+    "showName": "Kasumi Yoshizawa",
+    "option2": "AAAAAA=="
+  },
+  {
+    "sn": "1133511",
+    "strContent": "AAAAAA==",
+    "option1": "AAAAAA==",
+    "showName": "Kasumi Yoshizawa",
+    "option2": "AAAAAA=="
+  },
+  {
+    "sn": "1133512",
+    "strContent": "AAAAAA==",
+    "option1": "AAAAAA==",
+    "showName": "Kasumi Yoshizawa",
+    "option2": "AAAAAA=="
+  },
+  {
+    "sn": "1133513",
+    "strContent": "AAAAAA==",
+    "option1": "AAAAAA==",
+    "showName": "Kasumi Yoshizawa",
+    "option2": "AAAAAA=="
+  },
+  {
+    "sn": "1133514",
+    "strContent": "AAAAAA==",
+    "option1": "AAAAAA==",
+    "showName": "Kasumi Yoshizawa",
+    "option2": "AAAAAA=="
+  },
+  {
+    "sn": "1133515",
+    "strContent": "AAAAAA==",
+    "option1": "AAAAAA==",
+    "showName": "Kasumi Yoshizawa",
+    "option2": "AAAAAA=="
+  },
+  {
+    "sn": "1133516",
+    "strContent": "AAAAAA==",
+    "option1": "AAAAAA==",
+    "showName": "Kasumi Yoshizawa",
+    "option2": "AAAAAA=="
+  },
+  {
+    "sn": "1133517",
+    "strContent": "AAAAAA==",
+    "option1": "AAAAAA==",
+    "showName": "Kasumi Yoshizawa",
+    "option2": "AAAAAA=="
+  },
+  {
+    "sn": "1133518",
+    "strContent": "AAAAAA==",
+    "option1": "AAAAAA==",
+    "showName": "Kasumi Yoshizawa",
+    "option2": "AAAAAA=="
+  },
+  {
+    "sn": "1133519",
+    "strContent": "AAAAAA==",
+    "option1": "AAAAAA==",
+    "showName": "Kasumi Yoshizawa",
+    "option2": "AAAAAA=="
+  },
+  {
+    "sn": "1133520",
+    "strContent": "AAAAAA==",
+    "option1": "AAAAAA==",
+    "showName": "Kasumi Yoshizawa",
     "option2": "AAAAAA=="
   },
   {
@@ -33642,6 +35343,426 @@
     "option2": "AAAAAA=="
   },
   {
+    "sn": "1133601",
+    "strContent": "You need my power... is\nthat right?",
+    "option1": "AAAAAA==",
+    "showName": "Tempest Riko",
+    "option2": "AAAAAA=="
+  },
+  {
+    "sn": "1133602",
+    "strContent": "Let your life shine bright.",
+    "option1": "AAAAAA==",
+    "showName": "Tempest Riko",
+    "option2": "AAAAAA=="
+  },
+  {
+    "sn": "1133603",
+    "strContent": "I'll be the wind at your\nback. Always.",
+    "option1": "AAAAAA==",
+    "showName": "Tempest Riko",
+    "option2": "AAAAAA=="
+  },
+  {
+    "sn": "1133604",
+    "strContent": "About our next steps... I'd\nlike to hear your thoughts.",
+    "option1": "AAAAAA==",
+    "showName": "Tempest Riko",
+    "option2": "AAAAAA=="
+  },
+  {
+    "sn": "1133605",
+    "strContent": "I'll take care of it.",
+    "option1": "AAAAAA==",
+    "showName": "Tempest Riko",
+    "option2": "AAAAAA=="
+  },
+  {
+    "sn": "1133606",
+    "strContent": "Let's begin our search.",
+    "option1": "AAAAAA==",
+    "showName": "Tempest Riko",
+    "option2": "AAAAAA=="
+  },
+  {
+    "sn": "1133607",
+    "strContent": "Now then... How should we\nproceed?",
+    "option1": "AAAAAA==",
+    "showName": "Tempest Riko",
+    "option2": "AAAAAA=="
+  },
+  {
+    "sn": "1133608",
+    "strContent": "Let's begin our search.",
+    "option1": "AAAAAA==",
+    "showName": "Tempest Riko",
+    "option2": "AAAAAA=="
+  },
+  {
+    "sn": "1133609",
+    "strContent": "We've arrived.",
+    "option1": "AAAAAA==",
+    "showName": "Tempest Riko",
+    "option2": "AAAAAA=="
+  },
+  {
+    "sn": "1133610",
+    "strContent": "Understood.",
+    "option1": "AAAAAA==",
+    "showName": "Tempest Riko",
+    "option2": "AAAAAA=="
+  },
+  {
+    "sn": "1133611",
+    "strContent": "That was a misstep...",
+    "option1": "AAAAAA==",
+    "showName": "Tempest Riko",
+    "option2": "AAAAAA=="
+  },
+  {
+    "sn": "1133612",
+    "strContent": "We need to do things\na bit cleaner next time...",
+    "option1": "AAAAAA==",
+    "showName": "Tempest Riko",
+    "option2": "AAAAAA=="
+  },
+  {
+    "sn": "1133613",
+    "strContent": "We need to rethink our\napproach...",
+    "option1": "AAAAAA==",
+    "showName": "Tempest Riko",
+    "option2": "AAAAAA=="
+  },
+  {
+    "sn": "1133614",
+    "strContent": "Looks like we've fallen\nbehind...",
+    "option1": "AAAAAA==",
+    "showName": "Tempest Riko",
+    "option2": "AAAAAA=="
+  },
+  {
+    "sn": "1133615",
+    "strContent": "Let's think about this\ncarefully.",
+    "option1": "AAAAAA==",
+    "showName": "Tempest Riko",
+    "option2": "AAAAAA=="
+  },
+  {
+    "sn": "1133616",
+    "strContent": "Quite a good find!",
+    "option1": "AAAAAA==",
+    "showName": "Tempest Riko",
+    "option2": "AAAAAA=="
+  },
+  {
+    "sn": "1133617",
+    "strContent": "A satisfactory result.",
+    "option1": "AAAAAA==",
+    "showName": "Tempest Riko",
+    "option2": "AAAAAA=="
+  },
+  {
+    "sn": "1133618",
+    "strContent": "Is this it?",
+    "option1": "AAAAAA==",
+    "showName": "Tempest Riko",
+    "option2": "AAAAAA=="
+  },
+  {
+    "sn": "1133619",
+    "strContent": "We've arrived at our\ndestination. Nicely\ndone, everyone.",
+    "option1": "AAAAAA==",
+    "showName": "Tempest Riko",
+    "option2": "AAAAAA=="
+  },
+  {
+    "sn": "1133620",
+    "strContent": "This sensation... Hm, not bad\nat all.",
+    "option1": "AAAAAA==",
+    "showName": "Tempest Riko",
+    "option2": "AAAAAA=="
+  },
+  {
+    "sn": "1133701",
+    "strContent": "AAAAAA==",
+    "option1": "AAAAAA==",
+    "showName": "Firecracker Yaoling",
+    "option2": "AAAAAA=="
+  },
+  {
+    "sn": "1133702",
+    "strContent": "AAAAAA==",
+    "option1": "AAAAAA==",
+    "showName": "Firecracker Yaoling",
+    "option2": "AAAAAA=="
+  },
+  {
+    "sn": "1133703",
+    "strContent": "AAAAAA==",
+    "option1": "AAAAAA==",
+    "showName": "Firecracker Yaoling",
+    "option2": "AAAAAA=="
+  },
+  {
+    "sn": "1133704",
+    "strContent": "AAAAAA==",
+    "option1": "AAAAAA==",
+    "showName": "Firecracker Yaoling",
+    "option2": "AAAAAA=="
+  },
+  {
+    "sn": "1133705",
+    "strContent": "AAAAAA==",
+    "option1": "AAAAAA==",
+    "showName": "Firecracker Yaoling",
+    "option2": "AAAAAA=="
+  },
+  {
+    "sn": "1133706",
+    "strContent": "AAAAAA==",
+    "option1": "AAAAAA==",
+    "showName": "Firecracker Yaoling",
+    "option2": "AAAAAA=="
+  },
+  {
+    "sn": "1133707",
+    "strContent": "AAAAAA==",
+    "option1": "AAAAAA==",
+    "showName": "Firecracker Yaoling",
+    "option2": "AAAAAA=="
+  },
+  {
+    "sn": "1133708",
+    "strContent": "AAAAAA==",
+    "option1": "AAAAAA==",
+    "showName": "Firecracker Yaoling",
+    "option2": "AAAAAA=="
+  },
+  {
+    "sn": "1133709",
+    "strContent": "AAAAAA==",
+    "option1": "AAAAAA==",
+    "showName": "Firecracker Yaoling",
+    "option2": "AAAAAA=="
+  },
+  {
+    "sn": "1133710",
+    "strContent": "AAAAAA==",
+    "option1": "AAAAAA==",
+    "showName": "Firecracker Yaoling",
+    "option2": "AAAAAA=="
+  },
+  {
+    "sn": "1133711",
+    "strContent": "AAAAAA==",
+    "option1": "AAAAAA==",
+    "showName": "Firecracker Yaoling",
+    "option2": "AAAAAA=="
+  },
+  {
+    "sn": "1133712",
+    "strContent": "AAAAAA==",
+    "option1": "AAAAAA==",
+    "showName": "Firecracker Yaoling",
+    "option2": "AAAAAA=="
+  },
+  {
+    "sn": "1133713",
+    "strContent": "AAAAAA==",
+    "option1": "AAAAAA==",
+    "showName": "Firecracker Yaoling",
+    "option2": "AAAAAA=="
+  },
+  {
+    "sn": "1133714",
+    "strContent": "AAAAAA==",
+    "option1": "AAAAAA==",
+    "showName": "Firecracker Yaoling",
+    "option2": "AAAAAA=="
+  },
+  {
+    "sn": "1133715",
+    "strContent": "AAAAAA==",
+    "option1": "AAAAAA==",
+    "showName": "Firecracker Yaoling",
+    "option2": "AAAAAA=="
+  },
+  {
+    "sn": "1133716",
+    "strContent": "AAAAAA==",
+    "option1": "AAAAAA==",
+    "showName": "Firecracker Yaoling",
+    "option2": "AAAAAA=="
+  },
+  {
+    "sn": "1133717",
+    "strContent": "AAAAAA==",
+    "option1": "AAAAAA==",
+    "showName": "Firecracker Yaoling",
+    "option2": "AAAAAA=="
+  },
+  {
+    "sn": "1133718",
+    "strContent": "AAAAAA==",
+    "option1": "AAAAAA==",
+    "showName": "Firecracker Yaoling",
+    "option2": "AAAAAA=="
+  },
+  {
+    "sn": "1133719",
+    "strContent": "AAAAAA==",
+    "option1": "AAAAAA==",
+    "showName": "Firecracker Yaoling",
+    "option2": "AAAAAA=="
+  },
+  {
+    "sn": "1133720",
+    "strContent": "AAAAAA==",
+    "option1": "AAAAAA==",
+    "showName": "Firecracker Yaoling",
+    "option2": "AAAAAA=="
+  },
+  {
+    "sn": "1133801",
+    "strContent": "I'll help you out.",
+    "option1": "AAAAAA==",
+    "showName": "Mio Natsukawa",
+    "option2": "AAAAAA=="
+  },
+  {
+    "sn": "1133802",
+    "strContent": "Ready for action.",
+    "option1": "AAAAAA==",
+    "showName": "Mio Natsukawa",
+    "option2": "AAAAAA=="
+  },
+  {
+    "sn": "1133803",
+    "strContent": "Okay, ready to move.",
+    "option1": "AAAAAA==",
+    "showName": "Mio Natsukawa",
+    "option2": "AAAAAA=="
+  },
+  {
+    "sn": "1133804",
+    "strContent": "Can I get your thoughts\non something?",
+    "option1": "AAAAAA==",
+    "showName": "Mio Natsukawa",
+    "option2": "AAAAAA=="
+  },
+  {
+    "sn": "1133805",
+    "strContent": "Where's the scene?",
+    "option1": "AAAAAA==",
+    "showName": "Mio Natsukawa",
+    "option2": "AAAAAA=="
+  },
+  {
+    "sn": "1133806",
+    "strContent": "Let's end this before the\nfire spreads.",
+    "option1": "AAAAAA==",
+    "showName": "Mio Natsukawa",
+    "option2": "AAAAAA=="
+  },
+  {
+    "sn": "1133807",
+    "strContent": "I've got this.",
+    "option1": "AAAAAA==",
+    "showName": "Mio Natsukawa",
+    "option2": "AAAAAA=="
+  },
+  {
+    "sn": "1133808",
+    "strContent": "I'll take this.",
+    "option1": "AAAAAA==",
+    "showName": "Mio Natsukawa",
+    "option2": "AAAAAA=="
+  },
+  {
+    "sn": "1133809",
+    "strContent": "Let's keep things cool.",
+    "option1": "AAAAAA==",
+    "showName": "Mio Natsukawa",
+    "option2": "AAAAAA=="
+  },
+  {
+    "sn": "1133810",
+    "strContent": "Where are we headed today?",
+    "option1": "AAAAAA==",
+    "showName": "Mio Natsukawa",
+    "option2": "AAAAAA=="
+  },
+  {
+    "sn": "1133811",
+    "strContent": "I think I need to train more...",
+    "option1": "AAAAAA==",
+    "showName": "Mio Natsukawa",
+    "option2": "AAAAAA=="
+  },
+  {
+    "sn": "1133812",
+    "strContent": "Let's head to the next\nspot, ASAP.",
+    "option1": "AAAAAA==",
+    "showName": "Mio Natsukawa",
+    "option2": "AAAAAA=="
+  },
+  {
+    "sn": "1133813",
+    "strContent": "We should wait and see...",
+    "option1": "AAAAAA==",
+    "showName": "Mio Natsukawa",
+    "option2": "AAAAAA=="
+  },
+  {
+    "sn": "1133814",
+    "strContent": "I want to help you any\nway that I can.",
+    "option1": "AAAAAA==",
+    "showName": "Mio Natsukawa",
+    "option2": "AAAAAA=="
+  },
+  {
+    "sn": "1133815",
+    "strContent": "Helpful to a fault, I see...",
+    "option1": "AAAAAA==",
+    "showName": "Mio Natsukawa",
+    "option2": "AAAAAA=="
+  },
+  {
+    "sn": "1133816",
+    "strContent": "Nice work.",
+    "option1": "AAAAAA==",
+    "showName": "Mio Natsukawa",
+    "option2": "AAAAAA=="
+  },
+  {
+    "sn": "1133817",
+    "strContent": "Hm, not bad.",
+    "option1": "AAAAAA==",
+    "showName": "Mio Natsukawa",
+    "option2": "AAAAAA=="
+  },
+  {
+    "sn": "1133818",
+    "strContent": "I'll be your strength!",
+    "option1": "AAAAAA==",
+    "showName": "Mio Natsukawa",
+    "option2": "AAAAAA=="
+  },
+  {
+    "sn": "1133819",
+    "strContent": "You can count on your \"big sis.\"",
+    "option1": "AAAAAA==",
+    "showName": "Mio Natsukawa",
+    "option2": "AAAAAA=="
+  },
+  {
+    "sn": "1133820",
+    "strContent": "We did it...!",
+    "option1": "AAAAAA==",
+    "showName": "Mio Natsukawa",
+    "option2": "AAAAAA=="
+  },
+  {
     "sn": "1301009",
     "strContent": "Do you want to reset?\nAll Stellae will be reset, and your <color=#ffc000>Willpower</color> and <color=#ffc000>challenge attempts</color> spent to battle will be restored. The Stellae will be reverted to an uncleared status, so you will need to clear them again in order to take on new Stellae.",
     "option1": "Confirm",
@@ -33664,7 +35785,7 @@
   },
   {
     "sn": "1301012",
-    "strContent": "The Fate Stella has good rewards, so passing through its route is recommended. Do you want to continue on your current route?",
+    "strContent": "The main route is recommended. Do you still want to continue on this route?",
     "option1": "Confirm",
     "showName": "L<#000000,u,#FFFFFF>fel",
     "option2": "Cancel"
@@ -33717,6 +35838,41 @@
     "option1": "AAAAAA==",
     "showName": "AAAAAA==",
     "option2": "AAAAAA=="
+  },
+  {
+    "sn": "1304001",
+    "strContent": "Are you sure you want to disassemble? <color=#ff3b37>(This cannot be reverted.)</color>",
+    "option1": "Yes",
+    "showName": "L<#000000,u,#FFFFFF>fel",
+    "option2": "No"
+  },
+  {
+    "sn": "1304002",
+    "strContent": "Selection currently contains a <color=#ff3b37>high-quality item</color>. Are you sure you want to disassemble? <color=#ff3b37>(This cannot be reverted.)</color>",
+    "option1": "Yes",
+    "showName": "L<#000000,u,#FFFFFF>fel",
+    "option2": "No"
+  },
+  {
+    "sn": "1304003",
+    "strContent": "This item is currently <color=#ff3b37>locked</color>. Unlock now?",
+    "option1": "Yes",
+    "showName": "L<#000000,u,#FFFFFF>fel",
+    "option2": "No"
+  },
+  {
+    "sn": "1304004",
+    "strContent": "Selection currently contains a <color=#ff3b37>Space</color> Revelation Card. Are you sure you want to disassemble? <color=#ff3b37>(This cannot be reverted.)</color>",
+    "option1": "Yes",
+    "showName": "L<#000000,u,#FFFFFF>fel",
+    "option2": "No"
+  },
+  {
+    "sn": "1304005",
+    "strContent": "Selection currently contains a <color=#ff3b37>high-quality</color>, <color=#ff3b37>Space</color> Revelation Card. Are you sure you want to disassemble? <color=#ff3b37>(This cannot be reverted.)</color>",
+    "option1": "Yes",
+    "showName": "L<#000000,u,#FFFFFF>fel",
+    "option2": "No"
   },
   {
     "sn": "1209464",
@@ -33899,6 +36055,783 @@
     "option1": "AAAAAA==",
     "showName": "AAAAAA==",
     "option2": "AAAAAA=="
+  },
+  {
+    "sn": "1304006",
+    "strContent": "Weapon is fully forged. View weapon now?",
+    "option1": "Yes",
+    "showName": "L<#000000,u,#FFFFFF>fel",
+    "option2": "No"
+  },
+  {
+    "sn": "1304007",
+    "strContent": "Colorful quality weapons cannot be disassembled.",
+    "option1": "AAAAAA==",
+    "showName": "AAAAAA==",
+    "option2": "AAAAAA=="
+  },
+  {
+    "sn": "1304008",
+    "strContent": "Weapon or Revelation Card disassembly only",
+    "option1": "AAAAAA==",
+    "showName": "AAAAAA==",
+    "option2": "AAAAAA=="
+  },
+  {
+    "sn": "1304009",
+    "strContent": "Equipped Revelation Cards cannot be disassembled. Please unequip before attempting disassembly.",
+    "option1": "AAAAAA==",
+    "showName": "AAAAAA==",
+    "option2": "AAAAAA=="
+  },
+  {
+    "sn": "1304010",
+    "strContent": "The selection limit for disassembly has been reached.",
+    "option1": "AAAAAA==",
+    "showName": "AAAAAA==",
+    "option2": "AAAAAA=="
+  },
+  {
+    "sn": "1305001",
+    "strContent": "Do you want to delete this message?\nUnclaimed rewards cannot be recovered, so please collect them before deletion.",
+    "option1": "Confirm",
+    "showName": "L<#000000,u,#FFFFFF>fel",
+    "option2": "Cancel"
+  },
+  {
+    "sn": "1305002",
+    "strContent": "This message is currently favorited. Would you like to delete it?\nThe email will no longer be in your favorites after deleting.",
+    "option1": "Confirm",
+    "showName": "L<#000000,u,#FFFFFF>fel",
+    "option2": "Cancel"
+  },
+  {
+    "sn": "1306001",
+    "strContent": "Please complete the requirements to continue the mission.",
+    "option1": "AAAAAA==",
+    "showName": "AAAAAA==",
+    "option2": "AAAAAA=="
+  },
+  {
+    "sn": "1306002",
+    "strContent": "You desire to give\nchocolate to someone?",
+    "option1": "AAAAAA==",
+    "showName": "AAAAAA==",
+    "option2": "AAAAAA=="
+  },
+  {
+    "sn": "1306003",
+    "strContent": "This is for me...?\nThen I humbly accept.",
+    "option1": "AAAAAA==",
+    "showName": "AAAAAA==",
+    "option2": "AAAAAA=="
+  },
+  {
+    "sn": "1306004",
+    "strContent": "Am I to give you\nsomething in return?",
+    "option1": "AAAAAA==",
+    "showName": "AAAAAA==",
+    "option2": "AAAAAA=="
+  },
+  {
+    "sn": "1306005",
+    "strContent": "I hope my chocolate\nwill meet your desires.",
+    "option1": "AAAAAA==",
+    "showName": "AAAAAA==",
+    "option2": "AAAAAA=="
+  },
+  {
+    "sn": "1306006",
+    "strContent": "I find your actions\ndeeply intriguing.",
+    "option1": "AAAAAA==",
+    "showName": "AAAAAA==",
+    "option2": "AAAAAA=="
+  },
+  {
+    "sn": "1306007",
+    "strContent": "The strength of your\ndesire is admirable.",
+    "option1": "AAAAAA==",
+    "showName": "AAAAAA==",
+    "option2": "AAAAAA=="
+  },
+  {
+    "sn": "1306008",
+    "strContent": "Chocolate? Thanks!\nI'll have it right now.",
+    "option1": "AAAAAA==",
+    "showName": "AAAAAA==",
+    "option2": "AAAAAA=="
+  },
+  {
+    "sn": "1306009",
+    "strContent": "Let's just say it's\na cheat day, yeah?",
+    "option1": "AAAAAA==",
+    "showName": "AAAAAA==",
+    "option2": "AAAAAA=="
+  },
+  {
+    "sn": "1306010",
+    "strContent": "I was just craving\nsome sweets! Thanks!",
+    "option1": "AAAAAA==",
+    "showName": "AAAAAA==",
+    "option2": "AAAAAA=="
+  },
+  {
+    "sn": "1306011",
+    "strContent": "So cute! Did you\nmake these yourself?",
+    "option1": "AAAAAA==",
+    "showName": "AAAAAA==",
+    "option2": "AAAAAA=="
+  },
+  {
+    "sn": "1306012",
+    "strContent": "Huh!? Chocolate...?\nAre you telling me...",
+    "option1": "AAAAAA==",
+    "showName": "AAAAAA==",
+    "option2": "AAAAAA=="
+  },
+  {
+    "sn": "1306013",
+    "strContent": "Th-These are for me?\nThen, um... Thanks!",
+    "option1": "AAAAAA==",
+    "showName": "AAAAAA==",
+    "option2": "AAAAAA=="
+  },
+  {
+    "sn": "1306014",
+    "strContent": "I can have this?\nThanks so much!",
+    "option1": "AAAAAA==",
+    "showName": "AAAAAA==",
+    "option2": "AAAAAA=="
+  },
+  {
+    "sn": "1306015",
+    "strContent": "Thanks! These would\ngo nicely with tea.",
+    "option1": "AAAAAA==",
+    "showName": "AAAAAA==",
+    "option2": "AAAAAA=="
+  },
+  {
+    "sn": "1306016",
+    "strContent": "Oh, I can tell these\nwill be delicious!",
+    "option1": "AAAAAA==",
+    "showName": "AAAAAA==",
+    "option2": "AAAAAA=="
+  },
+  {
+    "sn": "1306017",
+    "strContent": "Thanks. I'll tell you\nmy thoughts later.",
+    "option1": "AAAAAA==",
+    "showName": "AAAAAA==",
+    "option2": "AAAAAA=="
+  },
+  {
+    "sn": "1306018",
+    "strContent": "Thank you... You're\nalways so kind...",
+    "option1": "AAAAAA==",
+    "showName": "AAAAAA==",
+    "option2": "AAAAAA=="
+  },
+  {
+    "sn": "1306019",
+    "strContent": "I'll be sure to give\nyou something good.",
+    "option1": "AAAAAA==",
+    "showName": "AAAAAA==",
+    "option2": "AAAAAA=="
+  },
+  {
+    "sn": "1306020",
+    "strContent": "Xièxiè! But what's\nthis about, Sensei?",
+    "option1": "AAAAAA==",
+    "showName": "AAAAAA==",
+    "option2": "AAAAAA=="
+  },
+  {
+    "sn": "1306021",
+    "strContent": "Do all Japanese guys\ncarry around chocolate?",
+    "option1": "AAAAAA==",
+    "showName": "AAAAAA==",
+    "option2": "AAAAAA=="
+  },
+  {
+    "sn": "1306022",
+    "strContent": "Thank you so much!\nI love this chocolate!",
+    "option1": "AAAAAA==",
+    "showName": "AAAAAA==",
+    "option2": "AAAAAA=="
+  },
+  {
+    "sn": "1306023",
+    "strContent": "I was just in the\nmood for sweets!",
+    "option1": "AAAAAA==",
+    "showName": "AAAAAA==",
+    "option2": "AAAAAA=="
+  },
+  {
+    "sn": "1306024",
+    "strContent": "Huh? I've heard\nabout this tradition!",
+    "option1": "AAAAAA==",
+    "showName": "AAAAAA==",
+    "option2": "AAAAAA=="
+  },
+  {
+    "sn": "1306025",
+    "strContent": "Whoa! It looks and\nsmells so good!",
+    "option1": "AAAAAA==",
+    "showName": "AAAAAA==",
+    "option2": "AAAAAA=="
+  },
+  {
+    "sn": "1306026",
+    "strContent": "Thanks for the\nchocolate.",
+    "option1": "AAAAAA==",
+    "showName": "AAAAAA==",
+    "option2": "AAAAAA=="
+  },
+  {
+    "sn": "1306027",
+    "strContent": "U-Um... What's this\nall about?",
+    "option1": "AAAAAA==",
+    "showName": "AAAAAA==",
+    "option2": "AAAAAA=="
+  },
+  {
+    "sn": "1306028",
+    "strContent": "This is for me? Wow!\nIt looks so cute!",
+    "option1": "AAAAAA==",
+    "showName": "AAAAAA==",
+    "option2": "AAAAAA=="
+  },
+  {
+    "sn": "1306029",
+    "strContent": "Gifts from you will\nalways make me happy.",
+    "option1": "AAAAAA==",
+    "showName": "AAAAAA==",
+    "option2": "AAAAAA=="
+  },
+  {
+    "sn": "1306030",
+    "strContent": "If it's okay... Could\nwe eat it together?",
+    "option1": "AAAAAA==",
+    "showName": "AAAAAA==",
+    "option2": "AAAAAA=="
+  },
+  {
+    "sn": "1306031",
+    "strContent": "N-No...! Saying\n\"Ahh!\" is just too...!",
+    "option1": "AAAAAA==",
+    "showName": "AAAAAA==",
+    "option2": "AAAAAA=="
+  },
+  {
+    "sn": "1306032",
+    "strContent": "Where'd you find a\nrare drop like this?",
+    "option1": "AAAAAA==",
+    "showName": "AAAAAA==",
+    "option2": "AAAAAA=="
+  },
+  {
+    "sn": "1306033",
+    "strContent": "I didn't know we had\nthat in this game!",
+    "option1": "AAAAAA==",
+    "showName": "AAAAAA==",
+    "option2": "AAAAAA=="
+  },
+  {
+    "sn": "1306034",
+    "strContent": "Wow, those graphics!\nIt looks delicious!",
+    "option1": "AAAAAA==",
+    "showName": "AAAAAA==",
+    "option2": "AAAAAA=="
+  },
+  {
+    "sn": "1306035",
+    "strContent": "My! A thousand thanks\nfor your kind gift!",
+    "option1": "AAAAAA==",
+    "showName": "AAAAAA==",
+    "option2": "AAAAAA=="
+  },
+  {
+    "sn": "1306036",
+    "strContent": "Virtual chocolate is\nforever, after all!",
+    "option1": "AAAAAA==",
+    "showName": "AAAAAA==",
+    "option2": "AAAAAA=="
+  },
+  {
+    "sn": "1306037",
+    "strContent": "Yum! If only it\nwasn't virtual...",
+    "option1": "AAAAAA==",
+    "showName": "AAAAAA==",
+    "option2": "AAAAAA=="
+  },
+  {
+    "sn": "1306038",
+    "strContent": "Is that chocolate?\nHuh? For me...?",
+    "option1": "AAAAAA==",
+    "showName": "AAAAAA==",
+    "option2": "AAAAAA=="
+  },
+  {
+    "sn": "1306039",
+    "strContent": "Thanks! I was pretty\nhungry, actually.",
+    "option1": "AAAAAA==",
+    "showName": "AAAAAA==",
+    "option2": "AAAAAA=="
+  },
+  {
+    "sn": "1306040",
+    "strContent": "Getting chocolate\nreally feels good!",
+    "option1": "AAAAAA==",
+    "showName": "AAAAAA==",
+    "option2": "AAAAAA=="
+  },
+  {
+    "sn": "1306041",
+    "strContent": "You're making me\nblush... Ehehe...",
+    "option1": "AAAAAA==",
+    "showName": "AAAAAA==",
+    "option2": "AAAAAA=="
+  },
+  {
+    "sn": "1306042",
+    "strContent": "Thanks... I'll get\nyou some next time.",
+    "option1": "AAAAAA==",
+    "showName": "AAAAAA==",
+    "option2": "AAAAAA=="
+  },
+  {
+    "sn": "1306043",
+    "strContent": "Wow! Thanks,\n{NAME2}-kun!",
+    "option1": "AAAAAA==",
+    "showName": "AAAAAA==",
+    "option2": "AAAAAA=="
+  },
+  {
+    "sn": "1306044",
+    "strContent": "Oh, chocolate! What\na nice little treat.",
+    "option1": "AAAAAA==",
+    "showName": "AAAAAA==",
+    "option2": "AAAAAA=="
+  },
+  {
+    "sn": "1306045",
+    "strContent": "Wow! Been a few years\nsince I got chocolate.",
+    "option1": "AAAAAA==",
+    "showName": "AAAAAA==",
+    "option2": "AAAAAA=="
+  },
+  {
+    "sn": "1306046",
+    "strContent": "Mmm, so sweet! This\nmight pair with...",
+    "option1": "AAAAAA==",
+    "showName": "AAAAAA==",
+    "option2": "AAAAAA=="
+  },
+  {
+    "sn": "1306047",
+    "strContent": "Thanks! I'll make you\na mocktail later ♪",
+    "option1": "AAAAAA==",
+    "showName": "AAAAAA==",
+    "option2": "AAAAAA=="
+  },
+  {
+    "sn": "1306048",
+    "strContent": "Hehe! Why so nervous?\nBe proactive!",
+    "option1": "AAAAAA==",
+    "showName": "AAAAAA==",
+    "option2": "AAAAAA=="
+  },
+  {
+    "sn": "1306049",
+    "strContent": "So... Something you\nwanted to tell me?",
+    "option1": "AAAAAA==",
+    "showName": "AAAAAA==",
+    "option2": "AAAAAA=="
+  },
+  {
+    "sn": "1306050",
+    "strContent": "Thanks so much,\nBig Bro!",
+    "option1": "AAAAAA==",
+    "showName": "AAAAAA==",
+    "option2": "AAAAAA=="
+  },
+  {
+    "sn": "1306051",
+    "strContent": "Maybe I'll save some\nmoney on food today.",
+    "option1": "AAAAAA==",
+    "showName": "AAAAAA==",
+    "option2": "AAAAAA=="
+  },
+  {
+    "sn": "1306052",
+    "strContent": "That was so\ndelicious, Big Bro!",
+    "option1": "AAAAAA==",
+    "showName": "AAAAAA==",
+    "option2": "AAAAAA=="
+  },
+  {
+    "sn": "1306053",
+    "strContent": "This chocolate's amazing!\nThanks, Big Bro!",
+    "option1": "AAAAAA==",
+    "showName": "AAAAAA==",
+    "option2": "AAAAAA=="
+  },
+  {
+    "sn": "1306054",
+    "strContent": "If it's from you,\nI'll savor every bite!",
+    "option1": "AAAAAA==",
+    "showName": "AAAAAA==",
+    "option2": "AAAAAA=="
+  },
+  {
+    "sn": "1306055",
+    "strContent": "Could I give you\nsomething too?",
+    "option1": "AAAAAA==",
+    "showName": "AAAAAA==",
+    "option2": "AAAAAA=="
+  },
+  {
+    "sn": "1306056",
+    "strContent": "Thank you. But I need\nto log the calories.",
+    "option1": "AAAAAA==",
+    "showName": "AAAAAA==",
+    "option2": "AAAAAA=="
+  },
+  {
+    "sn": "1306057",
+    "strContent": "Thank you, mon ami.",
+    "option1": "AAAAAA==",
+    "showName": "AAAAAA==",
+    "option2": "AAAAAA=="
+  },
+  {
+    "sn": "1306058",
+    "strContent": "You really put a lot\nof care into this...",
+    "option1": "AAAAAA==",
+    "showName": "AAAAAA==",
+    "option2": "AAAAAA=="
+  },
+  {
+    "sn": "1306059",
+    "strContent": "Thank you. I\ngraciously accept.",
+    "option1": "AAAAAA==",
+    "showName": "AAAAAA==",
+    "option2": "AAAAAA=="
+  },
+  {
+    "sn": "1306060",
+    "strContent": "Receiving chocolate\nis such a joy.",
+    "option1": "AAAAAA==",
+    "showName": "AAAAAA==",
+    "option2": "AAAAAA=="
+  },
+  {
+    "sn": "1306061",
+    "strContent": "I'd like to give you\nsomething as well.",
+    "option1": "AAAAAA==",
+    "showName": "AAAAAA==",
+    "option2": "AAAAAA=="
+  },
+  {
+    "sn": "1306062",
+    "strContent": "Woah! This is for\nme!?Th-Thanks...",
+    "option1": "AAAAAA==",
+    "showName": "AAAAAA==",
+    "option2": "AAAAAA=="
+  },
+  {
+    "sn": "1306063",
+    "strContent": "Hehe, I never would\nhave expected this...",
+    "option1": "AAAAAA==",
+    "showName": "AAAAAA==",
+    "option2": "AAAAAA=="
+  },
+  {
+    "sn": "1306064",
+    "strContent": "Oh, I love sweets!\nHow did you know...?",
+    "option1": "AAAAAA==",
+    "showName": "AAAAAA==",
+    "option2": "AAAAAA=="
+  },
+  {
+    "sn": "1306065",
+    "strContent": "Thanks! Hey, wanna\neat it together?",
+    "option1": "AAAAAA==",
+    "showName": "AAAAAA==",
+    "option2": "AAAAAA=="
+  },
+  {
+    "sn": "1306066",
+    "strContent": "I'm happy... but\nkinda nervous, too!",
+    "option1": "AAAAAA==",
+    "showName": "AAAAAA==",
+    "option2": "AAAAAA=="
+  },
+  {
+    "sn": "1306067",
+    "strContent": "I kinda hoped for\nthis. Could you tell?",
+    "option1": "AAAAAA==",
+    "showName": "AAAAAA==",
+    "option2": "AAAAAA=="
+  },
+  {
+    "sn": "1306068",
+    "strContent": "Thanks! Can I share\nsome with the kids?",
+    "option1": "AAAAAA==",
+    "showName": "AAAAAA==",
+    "option2": "AAAAAA=="
+  },
+  {
+    "sn": "1306069",
+    "strContent": "Thanks, but I can't\neat too much...",
+    "option1": "AAAAAA==",
+    "showName": "AAAAAA==",
+    "option2": "AAAAAA=="
+  },
+  {
+    "sn": "1306070",
+    "strContent": "Thank you! I actually\nlove this kind. too!",
+    "option1": "AAAAAA==",
+    "showName": "AAAAAA==",
+    "option2": "AAAAAA=="
+  },
+  {
+    "sn": "1306071",
+    "strContent": "Mmmm... That was\nsooo good!",
+    "option1": "AAAAAA==",
+    "showName": "AAAAAA==",
+    "option2": "AAAAAA=="
+  },
+  {
+    "sn": "1306072",
+    "strContent": "Um... Would you like\nto eat some together?",
+    "option1": "AAAAAA==",
+    "showName": "AAAAAA==",
+    "option2": "AAAAAA=="
+  },
+  {
+    "sn": "1306073",
+    "strContent": "For me...? Well then,\nguess it's my turn.",
+    "option1": "AAAAAA==",
+    "showName": "AAAAAA==",
+    "option2": "AAAAAA=="
+  },
+  {
+    "sn": "1306074",
+    "strContent": "You don't have enough Chocolate Pieces to send this.",
+    "option1": "AAAAAA==",
+    "showName": "AAAAAA==",
+    "option2": "AAAAAA=="
+  },
+  {
+    "sn": "1306075",
+    "strContent": "Already at max Valentine's Points. Cannot send presents.",
+    "option1": "AAAAAA==",
+    "showName": "AAAAAA==",
+    "option2": "AAAAAA=="
+  },
+  {
+    "sn": "1306076",
+    "strContent": "Clear chapter 3 of the {0} side story to earn rewards.",
+    "option1": "AAAAAA==",
+    "showName": "AAAAAA==",
+    "option2": "AAAAAA=="
+  },
+  {
+    "sn": "1306077",
+    "strContent": "Do you want to spend Valentine's Day with <color=#FF91B9>{0}</color>?\nYou will receive special chocolate from the first person you chose, which you can display at home.\n<color=#FF91B9>(You will not be able to receive special chocolate from other people.)</color>",
+    "option1": "Confirm",
+    "showName": "L<#000000,u,#FFFFFF>fel",
+    "option2": "Cancel"
+  },
+  {
+    "sn": "1306078",
+    "strContent": "Do you want to spend Valentine's Day with <color=#FF91B9>{0}</color>?\nYou will receive friend chocolate from them, which you can display at home.\n<color=#75C6F4>(You will not be able to receive special chocolate from other people.)</color>",
+    "option1": "Confirm",
+    "showName": "L<#000000,u,#FFFFFF>fel",
+    "option2": "Cancel"
+  },
+  {
+    "sn": "1306079",
+    "strContent": "Available after completing your first confession.",
+    "option1": "AAAAAA==",
+    "showName": "AAAAAA==",
+    "option2": "AAAAAA=="
+  },
+  {
+    "sn": "1306080",
+    "strContent": "Your Chocolate Pieces exceeds the Valentine's Points limit.",
+    "option1": "AAAAAA==",
+    "showName": "AAAAAA==",
+    "option2": "AAAAAA=="
+  },
+  {
+    "sn": "1306081",
+    "strContent": "Soon.",
+    "option1": "AAAAAA==",
+    "showName": "AAAAAA==",
+    "option2": "AAAAAA=="
+  },
+  {
+    "sn": "1306082",
+    "strContent": "Unlocked by clearing the required stage.",
+    "option1": "AAAAAA==",
+    "showName": "AAAAAA==",
+    "option2": "AAAAAA=="
+  },
+  {
+    "sn": "1306083",
+    "strContent": "Good day.",
+    "option1": "AAAAAA==",
+    "showName": "AAAAAA==",
+    "option2": "AAAAAA=="
+  },
+  {
+    "sn": "1306084",
+    "strContent": "Let me in on the fun!",
+    "option1": "AAAAAA==",
+    "showName": "AAAAAA==",
+    "option2": "AAAAAA=="
+  },
+  {
+    "sn": "1306085",
+    "strContent": "Hello.",
+    "option1": "AAAAAA==",
+    "showName": "AAAAAA==",
+    "option2": "AAAAAA=="
+  },
+  {
+    "sn": "1306086",
+    "strContent": "Sensei!",
+    "option1": "AAAAAA==",
+    "showName": "AAAAAA==",
+    "option2": "AAAAAA=="
+  },
+  {
+    "sn": "1306087",
+    "strContent": "Uh... H-Hello.",
+    "option1": "AAAAAA==",
+    "showName": "AAAAAA==",
+    "option2": "AAAAAA=="
+  },
+  {
+    "sn": "1306088",
+    "strContent": "Payappa!",
+    "option1": "AAAAAA==",
+    "showName": "AAAAAA==",
+    "option2": "AAAAAA=="
+  },
+  {
+    "sn": "1306089",
+    "strContent": "Maybe me... too?",
+    "option1": "AAAAAA==",
+    "showName": "AAAAAA==",
+    "option2": "AAAAAA=="
+  },
+  {
+    "sn": "1306090",
+    "strContent": "Welcome in!",
+    "option1": "AAAAAA==",
+    "showName": "AAAAAA==",
+    "option2": "AAAAAA=="
+  },
+  {
+    "sn": "1306091",
+    "strContent": "Big Bro ♥",
+    "option1": "AAAAAA==",
+    "showName": "AAAAAA==",
+    "option2": "AAAAAA=="
+  },
+  {
+    "sn": "1306092",
+    "strContent": "Let's take our time.",
+    "option1": "AAAAAA==",
+    "showName": "AAAAAA==",
+    "option2": "AAAAAA=="
+  },
+  {
+    "sn": "1306093",
+    "strContent": "Hey!",
+    "option1": "AAAAAA==",
+    "showName": "AAAAAA==",
+    "option2": "AAAAAA=="
+  },
+  {
+    "sn": "1306094",
+    "strContent": "Good to see you.",
+    "option1": "AAAAAA==",
+    "showName": "AAAAAA==",
+    "option2": "AAAAAA=="
+  },
+  {
+    "sn": "1306095",
+    "strContent": "Yo!",
+    "option1": "AAAAAA==",
+    "showName": "AAAAAA==",
+    "option2": "AAAAAA=="
+  },
+  {
+    "sn": "1306096",
+    "strContent": "<color=#FFD145>{0} people</color> have invited you out. Would you like to spend time with <color=#FFD145>{1}</color>?\n*You will be shown in your loungewear during the scene. Please set your outfit beforehand.\n*Your choice will affect <color=#FFD145>event animations</color> and your chance of <color=#FFD145>acquiring special chocolate</color>.",
+    "option1": "Confirm",
+    "showName": "L<#000000,u,#FFFFFF>fel",
+    "option2": "Cancel"
+  },
+  {
+    "sn": "1306097",
+    "strContent": "Clear the required difficulty level to unlock.",
+    "option1": "AAAAAA==",
+    "showName": "AAAAAA==",
+    "option2": "AAAAAA=="
+  },
+  {
+    "sn": "1306098",
+    "strContent": "You currently have insufficient stamina. Please replenish your stamina.",
+    "option1": "AAAAAA==",
+    "showName": "AAAAAA==",
+    "option2": "AAAAAA=="
+  },
+  {
+    "sn": "1306099",
+    "strContent": "Can activate while Wonder is still alive.",
+    "option1": "AAAAAA==",
+    "showName": "AAAAAA==",
+    "option2": "AAAAAA=="
+  },
+  {
+    "sn": "1306100",
+    "strContent": "Not enough ChocoPower, cannot activate.",
+    "option1": "AAAAAA==",
+    "showName": "AAAAAA==",
+    "option2": "AAAAAA=="
+  },
+  {
+    "sn": "1306101",
+    "strContent": "Please open the confession.",
+    "option1": "AAAAAA==",
+    "showName": "AAAAAA==",
+    "option2": "AAAAAA=="
+  },
+  {
+    "sn": "1306102",
+    "strContent": "Unlocked by clearing the required difficulty level.",
+    "option1": "AAAAAA==",
+    "showName": "AAAAAA==",
+    "option2": "AAAAAA=="
+  },
+  {
+    "sn": "1306103",
+    "strContent": "Current quantity is 0.",
+    "option1": "AAAAAA==",
+    "showName": "AAAAAA==",
+    "option2": "AAAAAA=="
+  },
+  {
+    "sn": "1306104",
+    "strContent": "You currently have insufficient stamina. Do you want to replenish your stamina now?",
+    "option1": "Confirm",
+    "showName": "L<#000000,u,#FFFFFF>fel",
+    "option2": "Cancel"
   },
   {
     "sn": "1016004",
