@@ -1773,7 +1773,7 @@ Divine I=Божественный I
 Divine II=Божественный II
 Divine III=Божественный III
 Divine IV=Божественный IV
-Divine Judgment=Божественный суд
+Divine Judgment=«Божественный Суд»
 Divine Protection=Божественная защита
 Divine Spear of Baal=Божественное Копье Ваала
 Divine Spear of Baal is being prepared. Inflict 10 stacks of Decline to interrupt the charge.=Божественное Копье Ваала готовится. Наложите 10 стаков Убыли, чтобы прервать заряд.
@@ -1909,7 +1909,6 @@ r:"^Elec dmg to foes \((.+?) Atk\, 4 hits\)\.\nFrom second hit\, prioritize targ
 Накладывает Шокирование на основную цель."
 r:"^Elec dmg to foes \((.+?) Atk\, 4 hits\)\.\nFrom second hit\, prioritize targeting different foes and decrease dmg to 10% for hits on same target\.\nInflict Shock on main target\.$"="Электрический урон противникам ($1 от атаки, 4 удара).
 Начиная со второго удара, приоритет отдаётся разным противникам, и урон по одной и той же цели снижается до 10%.
-Накладывает Шокирование на основную цель."
 Elec Wall=Электрическая Стена
 Electric Bloodline=Электрическая Линия Крови
 Electric Bloodline I=Электрическая Линия Крови I
