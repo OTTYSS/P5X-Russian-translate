@@ -813,7 +813,7 @@
   },
   {
     "sn": "1018000",
-    "textContent": "Expires after %s"
+    "textContent": "Expires: %s"
   },
   {
     "sn": "1018001",
@@ -1357,7 +1357,7 @@
   },
   {
     "sn": "1020217",
-    "textContent": "Claim %s and tap screen to close."
+    "textContent": "Claim %s. Press to close."
   },
   {
     "sn": "1020218",
@@ -2185,7 +2185,7 @@
   },
   {
     "sn": "1028023",
-    "textContent": "<color=#FF423F>%s</color> was removed <color=#FF423F>%s</color> from the Companio."
+    "textContent": "<color=#FF423F>%s</color> has removed <color=#FF423F>%s</color> from the Companio."
   },
   {
     "sn": "1028024",
@@ -2509,7 +2509,7 @@
   },
   {
     "sn": "1033007",
-    "textContent": "Base Synergy +%s, with an extra +%s for preferred gifts, with an extra +%s for first-time preferred gifts."
+    "textContent": "Base Synergy +%s, with an extra +%s for preferred gifts, and an extra +%s for first-time preferred gifts."
   },
   {
     "sn": "1033008",
@@ -3057,15 +3057,15 @@
   },
   {
     "sn": "1034114",
-    "textContent": "Repression Medal II x%s"
+    "textContent": "Repression Medal I x%s"
   },
   {
     "sn": "1034115",
-    "textContent": "Repression Medal III x%s"
+    "textContent": "Repression Medal II x%s"
   },
   {
     "sn": "1034116",
-    "textContent": "Repression Medal IV x%s"
+    "textContent": "Repression Medal III x%s"
   },
   {
     "sn": "1034117",
@@ -3081,7 +3081,7 @@
   },
   {
     "sn": "1034120",
-    "textContent": "These skills will be learned at a fixed interval."
+    "textContent": "The following skill will be learned."
   },
   {
     "sn": "1034121",
@@ -3989,7 +3989,7 @@
   },
   {
     "sn": "1043115",
-    "textContent": "Unlocks after clearing the previous stage"
+    "textContent": "Clear previous stage"
   },
   {
     "sn": "1043116",
@@ -3997,7 +3997,7 @@
   },
   {
     "sn": "1043117",
-    "textContent": "{0} (Required power for stage {1}): {2}"
+    "textContent": "{0} (Requires {1} ChocoPower): {2}"
   },
   {
     "sn": "1043118",
@@ -4005,7 +4005,7 @@
   },
   {
     "sn": "1043119",
-    "textContent": "Obtained this stage: {0}"
+    "textContent": "\nObtained this stage: {0}"
   },
   {
     "sn": "1043120",
@@ -6753,7 +6753,7 @@
   },
   {
     "sn": "1090042",
-    "textContent": "Have: "
+    "textContent": "Coins required to enter: "
   },
   {
     "sn": "1090043",
@@ -7585,11 +7585,11 @@
   },
   {
     "sn": "2001200",
-    "textContent": "Capsule Type"
+    "textContent": "Capsule Series"
   },
   {
     "sn": "2001201",
-    "textContent": "Acquisition Time"
+    "textContent": "Date"
   },
   {
     "sn": "2001202",
@@ -11029,7 +11029,7 @@
   },
   {
     "sn": "2002244",
-    "textContent": "Do you want to spend {1}{0} to get {2}?"
+    "textContent": "Do you want to spend [{1}{0}] to get [{2}]?"
   },
   {
     "sn": "2002245",
@@ -11613,7 +11613,7 @@
   },
   {
     "sn": "2002276",
-    "textContent": "%s obtained %s."
+    "textContent": "Obtain {1} in {0}"
   },
   {
     "sn": "2002292",
@@ -11737,7 +11737,7 @@
   },
   {
     "sn": "2002296",
-    "textContent": "Stage Suspended"
+    "textContent": "Paused"
   },
   {
     "sn": "2002297",
@@ -11861,7 +11861,7 @@
   },
   {
     "sn": "2002337",
-    "textContent": "Watch alone"
+    "textContent": "<color=#ffffff>  </color>"
   },
   {
     "sn": "2002338",
@@ -11997,7 +11997,7 @@
   },
   {
     "sn": "2002364",
-    "textContent": "Abnormality Level"
+    "textContent": "Abnormality Lv."
   },
   {
     "sn": "2002365",
@@ -12245,7 +12245,7 @@
   },
   {
     "sn": "2002457",
-    "textContent": "obtain exclusive badges"
+    "textContent": "to obtain exclusive badges"
   },
   {
     "sn": "2002458",
@@ -12257,7 +12257,7 @@
   },
   {
     "sn": "2002460",
-    "textContent": "Your highest abnormality level difficulty cleared is shown."
+    "textContent": "Your highest abnormality lv. difficulty cleared is shown."
   },
   {
     "sn": "2002461",
@@ -12293,11 +12293,11 @@
   },
   {
     "sn": "2002463",
-    "textContent": "Abnormality Level"
+    "textContent": "Abnormality Lv."
   },
   {
     "sn": "2002464",
-    "textContent": "Complete goals to"
+    "textContent": "Complete goals"
   },
   {
     "sn": "2002468",
@@ -12677,7 +12677,7 @@
   },
   {
     "sn": "2002607",
-    "textContent": "Use Thieves for Hire"
+    "textContent": "Use Trial Thieves"
   },
   {
     "sn": "2002552",
@@ -13193,19 +13193,19 @@
   },
   {
     "sn": "2002699",
-    "textContent": "Explore Distance"
+    "textContent": "Move forward to challenge."
   },
   {
     "sn": "2002700",
-    "textContent": "Complete"
+    "textContent": "<color=#ffffff>  </color>"
   },
   {
     "sn": "2002701",
-    "textContent": "Can Challenge"
+    "textContent": "Squares"
   },
   {
     "sn": "2002702",
-    "textContent": "Owned"
+    "textContent": "Have"
   },
   {
     "sn": "2002703",
@@ -13217,7 +13217,7 @@
   },
   {
     "sn": "2002705",
-    "textContent": "Set dice score"
+    "textContent": "Roll"
   },
   {
     "sn": "2002706",
@@ -13305,7 +13305,7 @@
   },
   {
     "sn": "2002729",
-    "textContent": "Rank"
+    "textContent": "Square"
   },
   {
     "sn": "2002730",
@@ -13329,11 +13329,11 @@
   },
   {
     "sn": "2002735",
-    "textContent": "Spent"
+    "textContent": "Tries"
   },
   {
     "sn": "2002736",
-    "textContent": "Sales Time"
+    "textContent": "Date"
   },
   {
     "sn": "2002737",
@@ -13433,11 +13433,11 @@
   },
   {
     "sn": "2002764",
-    "textContent": "Get Blessing"
+    "textContent": "Special Effect"
   },
   {
     "sn": "2002765",
-    "textContent": "Battle Rewards"
+    "textContent": "Rewards"
   },
   {
     "sn": "2002766",
@@ -13445,11 +13445,11 @@
   },
   {
     "sn": "2002767",
-    "textContent": "One Flower"
+    "textContent": "Flowers"
   },
   {
     "sn": "2002768",
-    "textContent": " "
+    "textContent": "AAAAAA=="
   },
   {
     "sn": "2002769",
@@ -13489,27 +13489,27 @@
   },
   {
     "sn": "2002778",
-    "textContent": "Check receipt details>"
+    "textContent": "Check claim details"
   },
   {
     "sn": "2002779",
-    "textContent": "Today's number of receipts has been completed."
+    "textContent": "Today's maximum claims has been reached."
   },
   {
     "sn": "2002780",
-    "textContent": "Collected all money from the red envelope."
+    "textContent": "Collected all money from the gift envelope."
   },
   {
     "sn": "2002781",
-    "textContent": "Available receipts: "
+    "textContent": "Maximum claims: "
   },
   {
     "sn": "2002782",
-    "textContent": "Click the blank to close"
+    "textContent": "Press to close."
   },
   {
     "sn": "2002783",
-    "textContent": "Can be claimed via the following."
+    "textContent": "How to Get:"
   },
   {
     "sn": "2002784",
@@ -13517,11 +13517,11 @@
   },
   {
     "sn": "2002785",
-    "textContent": "Congratulations"
+    "textContent": "Claimed"
   },
   {
     "sn": "2002786",
-    "textContent": "Same"
+    "textContent": "<color=#ffffff>  </color>"
   },
   {
     "sn": "2002788",
@@ -13713,7 +13713,7 @@
   },
   {
     "sn": "2002790",
-    "textContent": "Tap to claim"
+    "textContent": "Press to claim"
   },
   {
     "sn": "2002791",
@@ -13721,15 +13721,15 @@
   },
   {
     "sn": "2002792",
-    "textContent": "Red Envelopes"
+    "textContent": "Gift Envelopes"
   },
   {
     "sn": "2002807",
-    "textContent": "Already Claimed"
+    "textContent": "All Claimed"
   },
   {
     "sn": "2002789",
-    "textContent": "Wishing you prosperity and good fortune!"
+    "textContent": "Happy New Year!\nBest wishes this year."
   },
   {
     "sn": "2002793",
@@ -13745,7 +13745,7 @@
   },
   {
     "sn": "2002796",
-    "textContent": "Shadow Incoming"
+    "textContent": "Enemy Intel"
   },
   {
     "sn": "2002797",
@@ -13753,7 +13753,7 @@
   },
   {
     "sn": "2002798",
-    "textContent": "Already Claimed"
+    "textContent": "Claimed"
   },
   {
     "sn": "2002799",
@@ -13785,11 +13785,11 @@
   },
   {
     "sn": "2002810",
-    "textContent": "Remaining claims today:"
+    "textContent": "Claims left today: "
   },
   {
     "sn": "2002811",
-    "textContent": "Sent"
+    "textContent": "Number Sent"
   },
   {
     "sn": "2002812",
@@ -13997,7 +13997,7 @@
   },
   {
     "sn": "2002873",
-    "textContent": "Once you have claimed it for the day, the message will no longer be displayed."
+    "textContent": "Hide gift envelopes in chat after daily limit has been reached."
   },
   {
     "sn": "2002874",
@@ -14005,11 +14005,11 @@
   },
   {
     "sn": "2002875",
-    "textContent": "(Total {0} Questions)"
+    "textContent": "({0} Total)"
   },
   {
     "sn": "2002876",
-    "textContent": "Answer all questions correctly to receive"
+    "textContent": "Answer all correctly to get"
   },
   {
     "sn": "2002877",
@@ -14037,7 +14037,7 @@
   },
   {
     "sn": "2002893",
-    "textContent": "After at most <color=#FEFE60> %s times</color>, you're guaranteed to get the secret item!"
+    "textContent": "Guaranteed to get the secret item within <color=#FEFE60> %s draws</color>!"
   },
   {
     "sn": "2002897",
@@ -14045,7 +14045,7 @@
   },
   {
     "sn": "2002898",
-    "textContent": "Ask someone special on a date!"
+    "textContent": "Heheheh... Welcome to the alluring world of Shady Commodities!"
   },
   {
     "sn": "2002899",
@@ -14121,7 +14121,7 @@
   },
   {
     "sn": "2002923",
-    "textContent": "You cannot select equipment quickly."
+    "textContent": "You cannot quick select an equipped Revelation Card."
   },
   {
     "sn": "2002924",
@@ -14189,7 +14189,7 @@
   },
   {
     "sn": "2303209",
-    "textContent": "Ren-only Outfit: "
+    "textContent": "Ren Outfit: "
   },
   {
     "sn": "2303210",
@@ -14201,7 +14201,7 @@
   },
   {
     "sn": "2303217",
-    "textContent": "Yusuke-only Outfit: "
+    "textContent": "Yusuke Outfit: "
   },
   {
     "sn": "2303279",
@@ -14249,7 +14249,7 @@
   },
   {
     "sn": "2303359",
-    "textContent": "Makoto-only Outfit:"
+    "textContent": "Makoto Outfit: "
   },
   {
     "sn": "2303281",
@@ -14261,7 +14261,7 @@
   },
   {
     "sn": "2303389",
-    "textContent": "Wonder-only Outfit:"
+    "textContent": "Wonder Outfit: "
   },
   {
     "sn": "2303390",
@@ -14329,7 +14329,7 @@
   },
   {
     "sn": "2303438",
-    "textContent": "Wonder-only Outfit: "
+    "textContent": "Wonder Outfit: "
   },
   {
     "sn": "2303439",
@@ -14337,7 +14337,7 @@
   },
   {
     "sn": "2303440",
-    "textContent": "Futaba-only Outfit:"
+    "textContent": "Futaba Outfit: "
   },
   {
     "sn": "2303462",
@@ -14401,7 +14401,7 @@
   },
   {
     "sn": "2303511",
-    "textContent": "Wonder-only Outfit: "
+    "textContent": "Wonder Outfit: "
   },
   {
     "sn": "2303052",
@@ -14421,7 +14421,7 @@
   },
   {
     "sn": "2303513",
-    "textContent": "Haru-only Outfit: "
+    "textContent": "Haru Outfit: "
   },
   {
     "sn": "2303539",
@@ -14505,11 +14505,15 @@
   },
   {
     "sn": "2303665",
-    "textContent": "Check details and accept>"
+    "textContent": "Check details to claim"
   },
   {
     "sn": "2303504",
     "textContent": "When you spend <link=\"itemTips|%s\"><u>%s</u></link>, you will be notified when activated. Held: %s"
+  },
+  {
+    "sn": "2303666",
+    "textContent": "Lunar New Year Outfit Set\n<color=#FFFC40>On sale for a limited time</color> in the Shop!"
   },
   {
     "sn": "2303564",

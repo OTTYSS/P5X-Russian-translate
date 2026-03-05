@@ -597,7 +597,7 @@
   {
     "sn": "4801",
     "title": "Destroying Targets",
-    "text": "When you hit a target, the number of hits required to destroy it will be displayed underneath.\nWhen the gauge reaches 0, the target will be destroyed.\nNormally, <color=#FF423F>One shot deals 1</color> point of damage, but there are various ways to increase the damage."
+    "text": "When you hit a target, the number of hits required to destroy it will be displayed underneath.\nWhen the gauge reaches 0, the target will be destroyed.\nNormally, <color=#FF423F>one shot deals 1</color> point of damage, but there are various ways to increase the damage."
   },
   {
     "sn": "4802",
@@ -626,8 +626,8 @@
   },
   {
     "sn": "4820",
-    "title": "Exorcising Firecrackers",
-    "text": "Exorcising Firecrackers will appear on this stage.\nWhen destroyed, they will deal heavy damage to surrounding targets."
+    "title": "Firecrackers",
+    "text": "Firecrackers will appear on this stage.\nWhen destroyed, they will deal heavy damage to surrounding targets."
   },
   {
     "sn": "4830",
@@ -636,8 +636,8 @@
   },
   {
     "sn": "4840",
-    "title": "Pack Rat",
-    "text": "Pack Rats will appear on this stage.\nWhen defeated, they will drop Exorcising Firecrackers.\nWhen destroyed, they will deal heavy damage to surrounding targets."
+    "title": "Wily Weasel",
+    "text": "Wily Weasels will appear on this stage.\nWhen defeated, they will drop Fireworks.\nWhen Fireworks are destroyed, they will deal heavy damage to surrounding targets."
   },
   {
     "sn": "4850",
@@ -646,17 +646,17 @@
   },
   {
     "sn": "4860",
-    "title": "Yearbeast Minions",
-    "text": "Yearbeast Minions will appear in this stage.\nWhen defeated, they will drop Exorcising Firecrackers."
+    "title": "Nian Shou Minions",
+    "text": "Nian Shou Minions will appear in this stage.\nWhen defeated, they will drop Firecrackers."
   },
   {
     "sn": "4870",
-    "title": "Yearbeast",
-    "text": "A Yearbeast will appear in this stage. It will appear when you have earned <color=#FF423F>800</color> points. When defeated, it awards a large amount of points and destroys all other targets onscreen. 3 Yearbeast Minions will appear along with the Yearbeast. The Yearbeast will be immune to damage until the minions have been defeated."
+    "title": "Nian Shou",
+    "text": "A Nian Shou will appear in this stage. It will appear when you have earned <color=#FF423F>800</color> points. When defeated, it awards a large amount of points and destroys all other targets onscreen. 3 Nian Shou Minions will appear along with the Nian Shou. The Nian Shou will be immune to damage until the minions have been defeated."
   },
   {
     "sn": "4880",
-    "title": "Endless",
-    "text": "In Endless Mode, there is no limit to the number of waves, and the targets are changed for each wave. The game will not end until you fail to meet a stage's requirements."
+    "title": "Endless Mode",
+    "text": "In Endless Mode, there is no limit to the number of waves, and the targets are changed for each wave. The game will not end until you meet the stage's failure condition."
   }
 ]

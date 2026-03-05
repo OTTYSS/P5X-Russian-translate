@@ -682,11 +682,11 @@
   {
     "sn": "222",
     "title": "<color=#72C5FF>Flaming Sword Dance</color>",
-    "desc": "For 1 turn, increase damage, and normal attack evolves to Flaming Flower Slash. Remove when Flaming Flower Slash is activated."
+    "desc": "Increase damage, and evolve melee attack to Yanhua Slash. Remove after activating Yanhua Slash or at end of turn."
   },
   {
     "sn": "223",
-    "title": "<color=#72C5FF>Flaming Flower Slash</color>",
+    "title": "<color=#72C5FF>Yanhua Slash</color>",
     "desc": "Deal Fire damage to all foes based on Attack, and can activate Fire Technicals. When activating a Technical on a Burning foe, effect is increased."
   },
   {
@@ -697,7 +697,7 @@
   {
     "sn": "225",
     "title": "<color=#72C5FF>Fire Technical</color>",
-    "desc": "Some Fire skills have other effects on foes in certain states.\nFireburn activates on Burning foes and increases damage dealt to the target by 2%.\n50% chance to activate Iceburn on Frozen foes, increasing the target's Fire and Ice damage taken by 5% for 2 turns.\nWindburn activates on Windswept foes and deals Fire damage as a follow-up equal to 1% of the target's max HP (1 time)."
+    "desc": "Some Fire skills have additional effects on foes with certain ailments.\nOn Burning foes, Fireburn activates and increases damage dealt to the target by 2%.\nOn Frozen foes, 50% chance to activate Iceburn, increasing the target's Fire and Ice damage taken by 5% for 2 turns.\nOn Windswept foes, Windburn activates and deals bonus Fire damage equal to 1% of the target's max HP (1 time)."
   },
   {
     "sn": "226",
@@ -717,7 +717,7 @@
   {
     "sn": "229",
     "title": "<color=#72C5FF>Ice Technical</color>",
-    "desc": "Some Ice skills have other effects on foes in certain states.\nShort Circuit activates on Shocked foes and increases damage dealt to the target by 2%.\n50% chance to activate Iceburn on Frozen foes, increasing the target's Fire and Ice damage taken by 5% for 2 turns.\n2% chance to activate Deepfreeze on Frozen foes, inflicting Icebound for 1 turn."
+    "desc": "Some Ice skills have additional effects on foes with certain ailments.\nOn Shocked foes, Short Circuit activates and increases damage dealt to the target by 2%.\nOn Burning foes, 50% chance to activate Iceburn, increasing the target's Fire and Ice damage taken by 5% for 2 turns.\nOn Frozen foes, Deepfreeze activates, with a 2% chance to inflict Icebound for 1 turn."
   },
   {
     "sn": "230",

@@ -9717,7 +9717,7 @@
   },
   {
     "sn": "1015028",
-    "strContent": "You cannot save a party formation that includes any <color=#FFF000>Tryout</color> or <color=#FFF000>Assist</color> Phantom Thieves.",
+    "strContent": "You cannot save a party formation that includes any <color=#FFF000>Trial</color> or <color=#FFF000>Assist</color> Phantom Thieves.",
     "option1": "AAAAAA==",
     "showName": "AAAAAA==",
     "option2": "AAAAAA=="
@@ -10179,10 +10179,10 @@
   },
   {
     "sn": "1019102",
-    "strContent": "Would you mind if I took\na moment of your time?",
+    "strContent": "Would you mind if I took a moment of your\ntime?",
     "option1": "Spend time with Merope",
     "showName": "M<#000000,e,#FFFFFF>rope",
-    "option2": "I have other plans..."
+    "option2": "Come back another time"
   },
   {
     "sn": "1019103",
@@ -11719,21 +11719,21 @@
   },
   {
     "sn": "1023060",
-    "strContent": "Once you have unlocked chapter 3 of the main story, go explore the third Palace.",
+    "strContent": "Once you have unlocked chapter 3 of the main story, go explore the fourth Palace.",
     "option1": "AAAAAA==",
     "showName": "AAAAAA==",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1023061",
-    "strContent": "Once you have unlocked chapter 3 of the main story, go explore the third Palace.",
+    "strContent": "Once you have unlocked chapter 3 of the main story, go explore the fourth Palace.",
     "option1": "AAAAAA==",
     "showName": "AAAAAA==",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1023062",
-    "strContent": "Once you have unlocked chapter 3 of the main story, go explore the third Palace.",
+    "strContent": "Once you have unlocked chapter 3 of the main story, go explore the fourth Palace.",
     "option1": "AAAAAA==",
     "showName": "AAAAAA==",
     "option2": "AAAAAA=="
@@ -12160,21 +12160,21 @@
   },
   {
     "sn": "1025247",
-    "strContent": "This is a new one. Luck's on your side today.",
+    "strContent": "This is a new one. Luck's on\nyour side today.",
     "option1": "AAAAAA==",
     "showName": "AAAAAA==",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1025248",
-    "strContent": "Hoom, we've seen this one before. I suppose\nthat's how the cookie crumbles...",
+    "strContent": "Hoom, we've seen this one\nbefore. I suppose that's how\nthe cookie crumbles...",
     "option1": "AAAAAA==",
     "showName": "AAAAAA==",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1025249",
-    "strContent": "This one looks familiar. Shall we try it again?",
+    "strContent": "This one looks familiar. Shall\nwe try it again?",
     "option1": "AAAAAA==",
     "showName": "AAAAAA==",
     "option2": "AAAAAA=="
@@ -12279,7 +12279,7 @@
   },
   {
     "sn": "1025505",
-    "strContent": "I regret to say this...\nbut you seem to lack\nthe necessary funds.",
+    "strContent": "I regret to say this... but you seem to lack\nthe necessary funds.",
     "option1": "AAAAAA==",
     "showName": "L<#000000,u,#FFFFFF>fel",
     "option2": "AAAAAA=="
@@ -14610,42 +14610,42 @@
   },
   {
     "sn": "1047226",
-    "strContent": "When you arrive at this location, you will earn <color=#FFD145>a small amount of flower rewards</color>.",
+    "strContent": "Obtain a small amount of <color=#FFD145>Flowers</color>.",
     "option1": "AAAAAA==",
     "showName": "AAAAAA==",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1047227",
-    "strContent": "When you arrive at this location, you will earn <color=#FFD145>a large amount of flower rewards</color>.",
+    "strContent": "Obtain a large amount of <color=#FFD145>Flowers</color>.",
     "option1": "AAAAAA==",
     "showName": "AAAAAA==",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1047228",
-    "strContent": "When you arrive at this location, you will insta-kill weak Shadows and earn <color=#FFD145>flower rewards</color>.",
+    "strContent": "Obtain <color=#FFD145>Flowers</color>.",
     "option1": "AAAAAA==",
     "showName": "AAAAAA==",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1047229",
-    "strContent": "When you arrive at this location, you will enter a <color=#FFD145>battle challenge</color>, and if you win, you will earn flower rewards and a random blessing.",
+    "strContent": "Defeat Shadows in <color=#FFD145>battle</color> to receive Flowers and random special effects.",
     "option1": "AAAAAA==",
     "showName": "AAAAAA==",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1047230",
-    "strContent": "When you arrive at this location, you will enter a <color=#FFD145>boss challenge</color>, and if you win, you will earn flower rewards and unlock the next route.",
+    "strContent": "Defeat the boss in <color=#FFD145>battle</color> to receive Flowers and unlock the next route.",
     "option1": "AAAAAA==",
     "showName": "AAAAAA==",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1047231",
-    "strContent": "If you abandon the battle, you will be able to proceed forward, but will not earn any rewards. Proceed?",
+    "strContent": "Do you want to retreat?\nYou will be able to proceed forward, but will not earn any rewards.",
     "option1": "Confirm",
     "showName": "L<#000000,u,#FFFFFF>fel",
     "option2": "Never mind."
@@ -14666,21 +14666,21 @@
   },
   {
     "sn": "1047234",
-    "strContent": "If you reset the route, <color=#ff3b37>your progress in the current route will be cleared</color>, and <color=#ff3b37>your spent items will not be returned</color>. Reset?",
+    "strContent": "Do you want to reset?\nIf you reset the route, <color=#ff3b37>you will return to the beginning of the route</color>, and <color=#ff3b37>used items will not be returned</color>.",
     "option1": "Confirm",
     "showName": "L<#000000,u,#FFFFFF>fel",
     "option2": "Never mind."
   },
   {
     "sn": "1047235",
-    "strContent": "You don't have enough %s to proceed.",
+    "strContent": "You don't have enough %s to move forward.",
     "option1": "AAAAAA==",
     "showName": "AAAAAA==",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1047236",
-    "strContent": "Exchange complete.",
+    "strContent": "Exchanged.",
     "option1": "AAAAAA==",
     "showName": "AAAAAA==",
     "option2": "AAAAAA=="
@@ -14701,42 +14701,42 @@
   },
   {
     "sn": "1047239",
-    "strContent": "When you arrive at this location, a <color=#FFD145>random reward event</color> will occur.",
+    "strContent": "You can obtain <color=#FFD145>rewards</color> based on your rolls.",
     "option1": "AAAAAA==",
     "showName": "AAAAAA==",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1047240",
-    "strContent": "When you arrive at this location, you will encounter a <color=#FFD145>throw point event</color>.",
+    "strContent": "You can obtain <color=#FFD145>rewards</color> based on your rolls.",
     "option1": "AAAAAA==",
     "showName": "AAAAAA==",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1047241",
-    "strContent": "When you arrive at this location, you will earn a <color=#FFD145>normal star blessing</color>.",
+    "strContent": "You can obtain <color=#FFD145>special effects</color>.",
     "option1": "AAAAAA==",
     "showName": "AAAAAA==",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1047242",
-    "strContent": "When you arrive at this location, you will earn a <color=#FFD145>rare star blessing</color>.",
+    "strContent": "You can obtain <color=#FFD145>special effects</color>.",
     "option1": "AAAAAA==",
     "showName": "AAAAAA==",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1047243",
-    "strContent": "When you arrive at this location, you will earn a <color=#FFD145>precious star blessing</color>.",
+    "strContent": "You can obtain <color=#FFD145>special effects</color>.",
     "option1": "AAAAAA==",
     "showName": "AAAAAA==",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1047244",
-    "strContent": "When you arrive at this location, you will enter a <color=#FFD145>boss challenge</color>.",
+    "strContent": "You are entering into a boss <color=#FFD145>battle</color>.",
     "option1": "AAAAAA==",
     "showName": "AAAAAA==",
     "option2": "AAAAAA=="
@@ -17179,7 +17179,7 @@
   },
   {
     "sn": "1052618",
-    "strContent": "Whoa, a new record...!\nYou're amazing, {NAME1}!",
+    "strContent": "Whoa, a new record...!\nYou're amazing!",
     "option1": "AAAAAA==",
     "showName": "AAAAAA==",
     "option2": "AAAAAA=="
@@ -17207,7 +17207,7 @@
   },
   {
     "sn": "1052622",
-    "strContent": "Hoohoo! A new record!\nMost impressive.",
+    "strContent": "Hoohoo! A new high score! Not bad!",
     "option1": "AAAAAA==",
     "showName": "AAAAAA==",
     "option2": "AAAAAA=="
@@ -22219,112 +22219,112 @@
   },
   {
     "sn": "1153001",
-    "strContent": "AAAAAA==",
+    "strContent": "*pant* *pant* I don't think I\ncan go any further...",
     "option1": "AAAAAA==",
     "showName": "Kasumi Yoshizawa",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1153002",
-    "strContent": "AAAAAA==",
+    "strContent": "Let's do our best today!",
     "option1": "AAAAAA==",
     "showName": "Kasumi Yoshizawa",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1153003",
-    "strContent": "AAAAAA==",
+    "strContent": "Made it, safe and sound.",
     "option1": "AAAAAA==",
     "showName": "Kasumi Yoshizawa",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1153004",
-    "strContent": "AAAAAA==",
+    "strContent": "It's a safe room—care to\ndrop in?",
     "option1": "AAAAAA==",
     "showName": "Kasumi Yoshizawa",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1153005",
-    "strContent": "AAAAAA==",
+    "strContent": "Let's take a little break.",
     "option1": "AAAAAA==",
     "showName": "Kasumi Yoshizawa",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1153006",
-    "strContent": "AAAAAA==",
+    "strContent": "Shadow spotted!",
     "option1": "AAAAAA==",
     "showName": "Kasumi Yoshizawa",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1153007",
-    "strContent": "AAAAAA==",
+    "strContent": "Looks like it doesn't open\nfrom this side.",
     "option1": "AAAAAA==",
     "showName": "Kasumi Yoshizawa",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1153008",
-    "strContent": "AAAAAA==",
+    "strContent": "Yes! We got the Treasure!",
     "option1": "AAAAAA==",
     "showName": "Kasumi Yoshizawa",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1153009",
-    "strContent": "AAAAAA==",
+    "strContent": "Hm... What could that be?",
     "option1": "AAAAAA==",
     "showName": "Kasumi Yoshizawa",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1153010",
-    "strContent": "AAAAAA==",
+    "strContent": "Cool!",
     "option1": "AAAAAA==",
     "showName": "Kasumi Yoshizawa",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1153011",
-    "strContent": "AAAAAA==",
+    "strContent": "This room feels strange. I'd\nbet there's a hidden passage\nin here.",
     "option1": "AAAAAA==",
     "showName": "Kasumi Yoshizawa",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1153012",
-    "strContent": "AAAAAA==",
+    "strContent": "Well, we made it—where\nto next?",
     "option1": "AAAAAA==",
     "showName": "Kasumi Yoshizawa",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1153013",
-    "strContent": "AAAAAA==",
+    "strContent": "I guess we can't open it.",
     "option1": "AAAAAA==",
     "showName": "Kasumi Yoshizawa",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1153014",
-    "strContent": "AAAAAA==",
+    "strContent": "I'm getting excited!",
     "option1": "AAAAAA==",
     "showName": "Kasumi Yoshizawa",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1153015",
-    "strContent": "AAAAAA==",
+    "strContent": "Great job!",
     "option1": "AAAAAA==",
     "showName": "Kasumi Yoshizawa",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1153016",
-    "strContent": "AAAAAA==",
+    "strContent": "Good work all around. Let's\nhead back.",
     "option1": "AAAAAA==",
     "showName": "Kasumi Yoshizawa",
     "option2": "AAAAAA=="
@@ -22506,7 +22506,7 @@
   },
   {
     "sn": "1155006",
-    "strContent": "We can't get through here... Let's find another way!",
+    "strContent": "We can't get through here...\nLet's find another way!",
     "option1": "AAAAAA==",
     "showName": "Yaoling Li",
     "option2": "AAAAAA=="
@@ -22527,7 +22527,7 @@
   },
   {
     "sn": "1155009",
-    "strContent": "*yawn* I'm getting real tired. Wanna take a break?",
+    "strContent": "*yawn* I'm getting real tired.\nWanna take a break?",
     "option1": "AAAAAA==",
     "showName": "Yaoling Li",
     "option2": "AAAAAA=="
@@ -22548,7 +22548,7 @@
   },
   {
     "sn": "1155012",
-    "strContent": "There's a Shadow. Quick, before it sees us!",
+    "strContent": "There's a Shadow. Quick,\nbefore it sees us!",
     "option1": "AAAAAA==",
     "showName": "Yaoling Li",
     "option2": "AAAAAA=="
@@ -22723,7 +22723,7 @@
   },
   {
     "sn": "1073000",
-    "strContent": "You already have a Tryout Phantom Thief. Do you want to replace them?",
+    "strContent": "You already have a Trial Phantom Thief. Do you want to replace them?",
     "option1": "OK",
     "showName": "L<#000000,u,#FFFFFF>fel",
     "option2": "Never mind."
@@ -30129,7 +30129,7 @@
   },
   {
     "sn": "1212011",
-    "strContent": "Clear Dancing with the Happy-Go-Lucky Lions %s to unlock.",
+    "strContent": "Clear Dancing with the Happy-Go-Lucky Lions: %s to unlock.",
     "option1": "AAAAAA==",
     "showName": "AAAAAA==",
     "option2": "AAAAAA=="
@@ -30157,7 +30157,7 @@
   },
   {
     "sn": "1216001",
-    "strContent": "Do you want to send a red envelope in chat?",
+    "strContent": "Do you want to send a gift envelope in chat?",
     "option1": "Confirm",
     "showName": "L<#000000,u,#FFFFFF>fel",
     "option2": "Never mind."
@@ -34441,140 +34441,140 @@
   },
   {
     "sn": "1133501",
-    "strContent": "AAAAAA==",
+    "strContent": "My turn!",
     "option1": "AAAAAA==",
     "showName": "Kasumi Yoshizawa",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1133502",
-    "strContent": "AAAAAA==",
+    "strContent": "I've been waiting for this!",
     "option1": "AAAAAA==",
     "showName": "Kasumi Yoshizawa",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1133503",
-    "strContent": "AAAAAA==",
+    "strContent": "I'll give it my best, Senpai!",
     "option1": "AAAAAA==",
     "showName": "Kasumi Yoshizawa",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1133504",
-    "strContent": "AAAAAA==",
+    "strContent": "Let's all do our best!",
     "option1": "AAAAAA==",
     "showName": "Kasumi Yoshizawa",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1133505",
-    "strContent": "AAAAAA==",
+    "strContent": "Violet, reporting for duty!",
     "option1": "AAAAAA==",
     "showName": "Kasumi Yoshizawa",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1133506",
-    "strContent": "AAAAAA==",
+    "strContent": "Let's fight together!",
     "option1": "AAAAAA==",
     "showName": "Kasumi Yoshizawa",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1133507",
-    "strContent": "AAAAAA==",
+    "strContent": "Ready or not, here we go!",
     "option1": "AAAAAA==",
     "showName": "Kasumi Yoshizawa",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1133508",
-    "strContent": "AAAAAA==",
+    "strContent": "Let's do this!",
     "option1": "AAAAAA==",
     "showName": "Kasumi Yoshizawa",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1133509",
-    "strContent": "AAAAAA==",
+    "strContent": "Let's do our best today!",
     "option1": "AAAAAA==",
     "showName": "Kasumi Yoshizawa",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1133510",
-    "strContent": "AAAAAA==",
+    "strContent": "I'm getting excited!",
     "option1": "AAAAAA==",
     "showName": "Kasumi Yoshizawa",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1133511",
-    "strContent": "AAAAAA==",
+    "strContent": "I'm sorry...",
     "option1": "AAAAAA==",
     "showName": "Kasumi Yoshizawa",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1133512",
-    "strContent": "AAAAAA==",
+    "strContent": "Good work all around. Let's\nhead back.",
     "option1": "AAAAAA==",
     "showName": "Kasumi Yoshizawa",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1133513",
-    "strContent": "AAAAAA==",
+    "strContent": "Let's take a little break.",
     "option1": "AAAAAA==",
     "showName": "Kasumi Yoshizawa",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1133514",
-    "strContent": "AAAAAA==",
+    "strContent": "*pant* *pant* I don't think I\ncan go any further...",
     "option1": "AAAAAA==",
     "showName": "Kasumi Yoshizawa",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1133515",
-    "strContent": "AAAAAA==",
+    "strContent": "That can't be...",
     "option1": "AAAAAA==",
     "showName": "Kasumi Yoshizawa",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1133516",
-    "strContent": "AAAAAA==",
+    "strContent": "A perfect victory!",
     "option1": "AAAAAA==",
     "showName": "Kasumi Yoshizawa",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1133517",
-    "strContent": "AAAAAA==",
+    "strContent": "That was a tough one.",
     "option1": "AAAAAA==",
     "showName": "Kasumi Yoshizawa",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1133518",
-    "strContent": "AAAAAA==",
+    "strContent": "Yes! We got the Treasure!",
     "option1": "AAAAAA==",
     "showName": "Kasumi Yoshizawa",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1133519",
-    "strContent": "AAAAAA==",
+    "strContent": "Cool!",
     "option1": "AAAAAA==",
     "showName": "Kasumi Yoshizawa",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1133520",
-    "strContent": "AAAAAA==",
+    "strContent": "Great job!",
     "option1": "AAAAAA==",
     "showName": "Kasumi Yoshizawa",
     "option2": "AAAAAA=="
@@ -35484,140 +35484,140 @@
   },
   {
     "sn": "1133701",
-    "strContent": "AAAAAA==",
+    "strContent": "Just leave it to me!",
     "option1": "AAAAAA==",
     "showName": "Firecracker Yaoling",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1133702",
-    "strContent": "AAAAAA==",
+    "strContent": "Oh, it's my turn?",
     "option1": "AAAAAA==",
     "showName": "Firecracker Yaoling",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1133703",
-    "strContent": "AAAAAA==",
+    "strContent": "This is my chance!",
     "option1": "AAAAAA==",
     "showName": "Firecracker Yaoling",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1133704",
-    "strContent": "AAAAAA==",
+    "strContent": "I'm gonna bust some heads!",
     "option1": "AAAAAA==",
     "showName": "Firecracker Yaoling",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1133705",
-    "strContent": "AAAAAA==",
+    "strContent": "I've been waiting for this!",
     "option1": "AAAAAA==",
     "showName": "Firecracker Yaoling",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1133706",
-    "strContent": "AAAAAA==",
+    "strContent": "All right, let's get going!",
     "option1": "AAAAAA==",
     "showName": "Firecracker Yaoling",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1133707",
-    "strContent": "AAAAAA==",
+    "strContent": "I feel like I could run a thousand miles!",
     "option1": "AAAAAA==",
     "showName": "Firecracker Yaoling",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1133708",
-    "strContent": "AAAAAA==",
+    "strContent": "No time like the present!",
     "option1": "AAAAAA==",
     "showName": "Firecracker Yaoling",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1133709",
-    "strContent": "AAAAAA==",
+    "strContent": "Okey dokey! Let's go!",
     "option1": "AAAAAA==",
     "showName": "Firecracker Yaoling",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1133710",
-    "strContent": "AAAAAA==",
+    "strContent": "Heheh! Easy as pie!",
     "option1": "AAAAAA==",
     "showName": "Firecracker Yaoling",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1133711",
-    "strContent": "AAAAAA==",
+    "strContent": "All righty. I'll head straight back!",
     "option1": "AAAAAA==",
     "showName": "Firecracker Yaoling",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1133712",
-    "strContent": "AAAAAA==",
+    "strContent": "Okay. Let's take a breather.",
     "option1": "AAAAAA==",
     "showName": "Firecracker Yaoling",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1133713",
-    "strContent": "AAAAAA==",
+    "strContent": "Yeah, now's probably a good time.",
     "option1": "AAAAAA==",
     "showName": "Firecracker Yaoling",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1133714",
-    "strContent": "AAAAAA==",
+    "strContent": "Can't let our guards down, right?",
     "option1": "AAAAAA==",
     "showName": "Firecracker Yaoling",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1133715",
-    "strContent": "AAAAAA==",
+    "strContent": "Gotcha. We have to put our safety first!",
     "option1": "AAAAAA==",
     "showName": "Firecracker Yaoling",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1133716",
-    "strContent": "AAAAAA==",
+    "strContent": "Makin' bank!",
     "option1": "AAAAAA==",
     "showName": "Firecracker Yaoling",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1133717",
-    "strContent": "AAAAAA==",
+    "strContent": "Whoooa, this is quite the bounty!",
     "option1": "AAAAAA==",
     "showName": "Firecracker Yaoling",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1133718",
-    "strContent": "AAAAAA==",
+    "strContent": "All right, let's go home.",
     "option1": "AAAAAA==",
     "showName": "Firecracker Yaoling",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1133719",
-    "strContent": "AAAAAA==",
+    "strContent": "The mission is complete!",
     "option1": "AAAAAA==",
     "showName": "Firecracker Yaoling",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1133720",
-    "strContent": "AAAAAA==",
+    "strContent": "Wow! This is great!",
     "option1": "AAAAAA==",
     "showName": "Firecracker Yaoling",
     "option2": "AAAAAA=="
@@ -36051,7 +36051,7 @@
   },
   {
     "sn": "1301016",
-    "strContent": "The next Trials of the Astrolabe will begin at 8 PM UTC.",
+    "strContent": "The next Trials of the Astrolabe will begin after maintenance.",
     "option1": "AAAAAA==",
     "showName": "AAAAAA==",
     "option2": "AAAAAA=="
@@ -36114,385 +36114,385 @@
   },
   {
     "sn": "1306002",
-    "strContent": "You desire to give\nchocolate to someone?",
+    "strContent": "You desire to give chocolate to someone?",
     "option1": "AAAAAA==",
     "showName": "AAAAAA==",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1306003",
-    "strContent": "This is for me...?\nThen I humbly accept.",
+    "strContent": "This is for me...? Then I humbly accept.",
     "option1": "AAAAAA==",
     "showName": "AAAAAA==",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1306004",
-    "strContent": "Am I to give you\nsomething in return?",
+    "strContent": "Am I to give you something in return?",
     "option1": "AAAAAA==",
     "showName": "AAAAAA==",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1306005",
-    "strContent": "I hope my chocolate\nwill meet your desires.",
+    "strContent": "I hope my chocolate will meet your desires.",
     "option1": "AAAAAA==",
     "showName": "AAAAAA==",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1306006",
-    "strContent": "I find your actions\ndeeply intriguing.",
+    "strContent": "I find your actions deeply intriguing.",
     "option1": "AAAAAA==",
     "showName": "AAAAAA==",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1306007",
-    "strContent": "The strength of your\ndesire is admirable.",
+    "strContent": "The strength of your desire is admirable.",
     "option1": "AAAAAA==",
     "showName": "AAAAAA==",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1306008",
-    "strContent": "Chocolate? Thanks!\nI'll have it right now.",
+    "strContent": "Chocolate? Thanks! I'll have it right now.",
     "option1": "AAAAAA==",
     "showName": "AAAAAA==",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1306009",
-    "strContent": "Let's just say it's\na cheat day, yeah?",
+    "strContent": "Let's just say it's a cheat day, yeah?",
     "option1": "AAAAAA==",
     "showName": "AAAAAA==",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1306010",
-    "strContent": "I was just craving\nsome sweets! Thanks!",
+    "strContent": "I was just craving some sweets! Thanks!",
     "option1": "AAAAAA==",
     "showName": "AAAAAA==",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1306011",
-    "strContent": "So cute! Did you\nmake these yourself?",
+    "strContent": "So cute! Did you make these yourself?",
     "option1": "AAAAAA==",
     "showName": "AAAAAA==",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1306012",
-    "strContent": "Huh!? Chocolate...?\nAre you telling me...",
+    "strContent": "Huh!? Chocolate...? Are you telling me...",
     "option1": "AAAAAA==",
     "showName": "AAAAAA==",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1306013",
-    "strContent": "Th-These are for me?\nThen, um... Thanks!",
+    "strContent": "Th-These are for me? Then, um... Thanks!",
     "option1": "AAAAAA==",
     "showName": "AAAAAA==",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1306014",
-    "strContent": "I can have this?\nThanks so much!",
+    "strContent": "I can have this? Thanks so much!",
     "option1": "AAAAAA==",
     "showName": "AAAAAA==",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1306015",
-    "strContent": "Thanks! These would\ngo nicely with tea.",
+    "strContent": "Thanks! These would go nicely with tea.",
     "option1": "AAAAAA==",
     "showName": "AAAAAA==",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1306016",
-    "strContent": "Oh, I can tell these\nwill be delicious!",
+    "strContent": "Oh, I can tell these will be delicious!",
     "option1": "AAAAAA==",
     "showName": "AAAAAA==",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1306017",
-    "strContent": "Thanks. I'll tell you\nmy thoughts later.",
+    "strContent": "Thanks. I'll tell you my thoughts later.",
     "option1": "AAAAAA==",
     "showName": "AAAAAA==",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1306018",
-    "strContent": "Thank you... You're\nalways so kind...",
+    "strContent": "Thank you... You're always so kind...",
     "option1": "AAAAAA==",
     "showName": "AAAAAA==",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1306019",
-    "strContent": "I'll be sure to give\nyou something good.",
+    "strContent": "I'll be sure to give you something good.",
     "option1": "AAAAAA==",
     "showName": "AAAAAA==",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1306020",
-    "strContent": "Xièxiè! But what's\nthis about, Sensei?",
+    "strContent": "Xièxiè! But what's this about, Sensei?",
     "option1": "AAAAAA==",
     "showName": "AAAAAA==",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1306021",
-    "strContent": "Do all Japanese guys\ncarry around chocolate?",
+    "strContent": "Do all Japanese guys carry around chocolate?",
     "option1": "AAAAAA==",
     "showName": "AAAAAA==",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1306022",
-    "strContent": "Thank you so much!\nI love this chocolate!",
+    "strContent": "Thank you so much! I love this chocolate!",
     "option1": "AAAAAA==",
     "showName": "AAAAAA==",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1306023",
-    "strContent": "I was just in the\nmood for sweets!",
+    "strContent": "I was just in the mood for sweets!",
     "option1": "AAAAAA==",
     "showName": "AAAAAA==",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1306024",
-    "strContent": "Huh? I've heard\nabout this tradition!",
+    "strContent": "Huh? I've heard about this tradition!",
     "option1": "AAAAAA==",
     "showName": "AAAAAA==",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1306025",
-    "strContent": "Whoa! It looks and\nsmells so good!",
+    "strContent": "Whoa! It looks and smells so good!",
     "option1": "AAAAAA==",
     "showName": "AAAAAA==",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1306026",
-    "strContent": "Thanks for the\nchocolate.",
+    "strContent": "Thanks for the chocolate.",
     "option1": "AAAAAA==",
     "showName": "AAAAAA==",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1306027",
-    "strContent": "U-Um... What's this\nall about?",
+    "strContent": "U-Um... What's this all about?",
     "option1": "AAAAAA==",
     "showName": "AAAAAA==",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1306028",
-    "strContent": "This is for me? Wow!\nIt looks so cute!",
+    "strContent": "This is for me? Wow! It looks so cute!",
     "option1": "AAAAAA==",
     "showName": "AAAAAA==",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1306029",
-    "strContent": "Gifts from you will\nalways make me happy.",
+    "strContent": "Gifts from you will always make me happy.",
     "option1": "AAAAAA==",
     "showName": "AAAAAA==",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1306030",
-    "strContent": "If it's okay... Could\nwe eat it together?",
+    "strContent": "If it's okay... Could we eat it together?",
     "option1": "AAAAAA==",
     "showName": "AAAAAA==",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1306031",
-    "strContent": "N-No...! Saying\n\"Ahh!\" is just too...!",
+    "strContent": "N-No...! Saying \"Ahh!\" is just too\nembarassing...!",
     "option1": "AAAAAA==",
     "showName": "AAAAAA==",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1306032",
-    "strContent": "Where'd you find a\nrare drop like this?",
+    "strContent": "Where'd you find a rare drop like this?",
     "option1": "AAAAAA==",
     "showName": "AAAAAA==",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1306033",
-    "strContent": "I didn't know we had\nthat in this game!",
+    "strContent": "I didn't know we had that in this game!",
     "option1": "AAAAAA==",
     "showName": "AAAAAA==",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1306034",
-    "strContent": "Wow, those graphics!\nIt looks delicious!",
+    "strContent": "Wow, those graphics! It looks delicious!",
     "option1": "AAAAAA==",
     "showName": "AAAAAA==",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1306035",
-    "strContent": "My! A thousand thanks\nfor your kind gift!",
+    "strContent": "My! A thousand thanks for your kind gift!",
     "option1": "AAAAAA==",
     "showName": "AAAAAA==",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1306036",
-    "strContent": "Virtual chocolate is\nforever, after all!",
+    "strContent": "Virtual chocolate is forever, after all!",
     "option1": "AAAAAA==",
     "showName": "AAAAAA==",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1306037",
-    "strContent": "Yum! If only it\nwasn't virtual...",
+    "strContent": "Yum! If only it wasn't virtual...",
     "option1": "AAAAAA==",
     "showName": "AAAAAA==",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1306038",
-    "strContent": "Is that chocolate?\nHuh? For me...?",
+    "strContent": "Is that chocolate? Huh? For me...?",
     "option1": "AAAAAA==",
     "showName": "AAAAAA==",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1306039",
-    "strContent": "Thanks! I was pretty\nhungry, actually.",
+    "strContent": "Thanks! I was pretty hungry, actually.",
     "option1": "AAAAAA==",
     "showName": "AAAAAA==",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1306040",
-    "strContent": "Getting chocolate\nreally feels good!",
+    "strContent": "Getting chocolate really feels good!",
     "option1": "AAAAAA==",
     "showName": "AAAAAA==",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1306041",
-    "strContent": "You're making me\nblush... Ehehe...",
+    "strContent": "You're making me blush... Ehehe...",
     "option1": "AAAAAA==",
     "showName": "AAAAAA==",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1306042",
-    "strContent": "Thanks... I'll get\nyou some next time.",
+    "strContent": "Thanks... I'll get you some next time.",
     "option1": "AAAAAA==",
     "showName": "AAAAAA==",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1306043",
-    "strContent": "Wow! Thanks,\n{NAME2}-kun!",
+    "strContent": "Wah...! Thank you, {NAME2}!",
     "option1": "AAAAAA==",
     "showName": "AAAAAA==",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1306044",
-    "strContent": "Oh, chocolate! What\na nice little treat.",
+    "strContent": "Oh, chocolate! What a nice little treat.",
     "option1": "AAAAAA==",
     "showName": "AAAAAA==",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1306045",
-    "strContent": "Wow! Been a few years\nsince I got chocolate.",
+    "strContent": "Wow! Been a few years since I got chocolate.",
     "option1": "AAAAAA==",
     "showName": "AAAAAA==",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1306046",
-    "strContent": "Mmm, so sweet! This\nmight pair with...",
+    "strContent": "Mmm, so sweet! This might pair with...",
     "option1": "AAAAAA==",
     "showName": "AAAAAA==",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1306047",
-    "strContent": "Thanks! I'll make you\na mocktail later ♪",
+    "strContent": "Thanks! I'll make you a mocktail later ♪",
     "option1": "AAAAAA==",
     "showName": "AAAAAA==",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1306048",
-    "strContent": "Hehe! Why so nervous?\nBe proactive!",
+    "strContent": "Hehe! Why so nervous? Be proactive!",
     "option1": "AAAAAA==",
     "showName": "AAAAAA==",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1306049",
-    "strContent": "So... Something you\nwanted to tell me?",
+    "strContent": "So... Something you wanted to tell me?",
     "option1": "AAAAAA==",
     "showName": "AAAAAA==",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1306050",
-    "strContent": "Thanks so much,\nBig Bro!",
+    "strContent": "Thanks so much, Big Bro!",
     "option1": "AAAAAA==",
     "showName": "AAAAAA==",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1306051",
-    "strContent": "Maybe I'll save some\nmoney on food today.",
+    "strContent": "Maybe I'll save some money on food today.",
     "option1": "AAAAAA==",
     "showName": "AAAAAA==",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1306052",
-    "strContent": "That was so\ndelicious, Big Bro!",
+    "strContent": "That was so delicious, Big Bro!",
     "option1": "AAAAAA==",
     "showName": "AAAAAA==",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1306053",
-    "strContent": "This chocolate's amazing!\nThanks, Big Bro!",
+    "strContent": "This chocolate's amazing! Thanks, Big Bro!",
     "option1": "AAAAAA==",
     "showName": "AAAAAA==",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1306054",
-    "strContent": "If it's from you,\nI'll savor every bite!",
+    "strContent": "If it's from you, I'll savor every bite!",
     "option1": "AAAAAA==",
     "showName": "AAAAAA==",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1306055",
-    "strContent": "Could I give you\nsomething too?",
+    "strContent": "Could I give you something too?",
     "option1": "AAAAAA==",
     "showName": "AAAAAA==",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1306056",
-    "strContent": "Thank you. But I need\nto log the calories.",
+    "strContent": "Thank you. I'll log the\ncalories for these as well.",
     "option1": "AAAAAA==",
     "showName": "AAAAAA==",
     "option2": "AAAAAA=="
@@ -36506,112 +36506,112 @@
   },
   {
     "sn": "1306058",
-    "strContent": "You really put a lot\nof care into this...",
+    "strContent": "You really put a lot of care into this...",
     "option1": "AAAAAA==",
     "showName": "AAAAAA==",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1306059",
-    "strContent": "Thank you. I\ngraciously accept.",
+    "strContent": "Thank you. I graciously accept.",
     "option1": "AAAAAA==",
     "showName": "AAAAAA==",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1306060",
-    "strContent": "Receiving chocolate\nis such a joy.",
+    "strContent": "Receiving chocolate is such a joy.",
     "option1": "AAAAAA==",
     "showName": "AAAAAA==",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1306061",
-    "strContent": "I'd like to give you\nsomething as well.",
+    "strContent": "I'd like to give you something as well.",
     "option1": "AAAAAA==",
     "showName": "AAAAAA==",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1306062",
-    "strContent": "Woah! This is for\nme!?Th-Thanks...",
+    "strContent": "Woah! This is for me!?\nTh-Thanks...",
     "option1": "AAAAAA==",
     "showName": "AAAAAA==",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1306063",
-    "strContent": "Hehe, I never would\nhave expected this...",
+    "strContent": "Hehe, I never would have expected this...",
     "option1": "AAAAAA==",
     "showName": "AAAAAA==",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1306064",
-    "strContent": "Oh, I love sweets!\nHow did you know...?",
+    "strContent": "Oh, I love sweets! How did you know...?",
     "option1": "AAAAAA==",
     "showName": "AAAAAA==",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1306065",
-    "strContent": "Thanks! Hey, wanna\neat it together?",
+    "strContent": "Thanks! Hey, wanna eat\nit together?",
     "option1": "AAAAAA==",
     "showName": "AAAAAA==",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1306066",
-    "strContent": "I'm happy... but\nkinda nervous, too!",
+    "strContent": "I'm happy... but kinda nervous, too!",
     "option1": "AAAAAA==",
     "showName": "AAAAAA==",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1306067",
-    "strContent": "I kinda hoped for\nthis. Could you tell?",
+    "strContent": "I kinda hoped for this. Could you tell?",
     "option1": "AAAAAA==",
     "showName": "AAAAAA==",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1306068",
-    "strContent": "Thanks! Can I share\nsome with the kids?",
+    "strContent": "Thanks! Can I share some with the kids?",
     "option1": "AAAAAA==",
     "showName": "AAAAAA==",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1306069",
-    "strContent": "Thanks, but I can't\neat too much...",
+    "strContent": "Thanks, but I can't eat too much...",
     "option1": "AAAAAA==",
     "showName": "AAAAAA==",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1306070",
-    "strContent": "Thank you! I actually\nlove this kind. too!",
+    "strContent": "Thank you! I actually love this kind. too!",
     "option1": "AAAAAA==",
     "showName": "AAAAAA==",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1306071",
-    "strContent": "Mmmm... That was\nsooo good!",
+    "strContent": "Mmmm... That was sooo good!",
     "option1": "AAAAAA==",
     "showName": "AAAAAA==",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1306072",
-    "strContent": "Um... Would you like\nto eat some together?",
+    "strContent": "Um... Would you like to eat some together?",
     "option1": "AAAAAA==",
     "showName": "AAAAAA==",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1306073",
-    "strContent": "For me...? Well then,\nguess it's my turn.",
+    "strContent": "For me...? Well then, guess it's my turn.",
     "option1": "AAAAAA==",
     "showName": "AAAAAA==",
     "option2": "AAAAAA=="
@@ -36625,14 +36625,14 @@
   },
   {
     "sn": "1306075",
-    "strContent": "Already at max Valentine's Points. Cannot send presents.",
+    "strContent": "Already at max Valentine's Points. Cannot give more Chocolate Pieces.",
     "option1": "AAAAAA==",
     "showName": "AAAAAA==",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1306076",
-    "strContent": "Clear chapter 3 of the {0} side story to earn rewards.",
+    "strContent": "Clear chapter 3 of {0}'s side story to earn rewards.",
     "option1": "AAAAAA==",
     "showName": "AAAAAA==",
     "option2": "AAAAAA=="
@@ -36772,7 +36772,7 @@
   },
   {
     "sn": "1306096",
-    "strContent": "<color=#FFD145>{0} people</color> have invited you out. Would you like to spend time with <color=#FFD145>{1}</color>?\n*You will be shown in your loungewear during the scene. Please set your outfit beforehand.\n*Your choice will affect <color=#FFD145>event animations</color> and your chance of <color=#FFD145>acquiring special chocolate</color>.",
+    "strContent": "<color=#FFD145>{0} people</color> have invited you out. Would you like to spend time with <color=#FFD145>{1}</color>?\n*You will be dressed in your loungewear. Please set your outfit beforehand.\n*Your choice will affect the <color=#FFD145>event direction</color> and the <color=#FFD145>special chocolate</color> you acquire.",
     "option1": "Confirm",
     "showName": "L<#000000,u,#FFFFFF>fel",
     "option2": "Cancel"
@@ -36832,6 +36832,13 @@
     "option1": "Confirm",
     "showName": "L<#000000,u,#FFFFFF>fel",
     "option2": "Cancel"
+  },
+  {
+    "sn": "1320006",
+    "strContent": "The event boss has changed. Please try again.",
+    "option1": "AAAAAA==",
+    "showName": "AAAAAA==",
+    "option2": "AAAAAA=="
   },
   {
     "sn": "1016004",
