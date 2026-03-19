@@ -390,6 +390,11 @@
     "desc": "When party runs out of ammo, fully reload after 1 turn."
   },
   {
+    "sn": "300",
+    "name": "Painting Effect",
+    "desc": "Painting Effect Active"
+  },
+  {
     "sn": "301",
     "name": "Statue Effect",
     "desc": "Statue Effect Active"
@@ -1637,7 +1642,7 @@
   {
     "sn": "1015",
     "name": "Special Effect",
-    "desc": "If an ally deals weakness damage, they gain 4 Charge Field stacks at the end of their action.\nCharge Field: Increase final damage by 5%. This effect lasts for turns and stacks up to 8 times."
+    "desc": "If an ally deals weakness damage, they gain 4 Charge Field stacks at the end of their action.\nCharge Field: Increase final damage by 5%. This effect lasts for 2 turns and stacks up to 8 times."
   },
   {
     "sn": "1016",
@@ -1667,7 +1672,7 @@
   {
     "sn": "1020",
     "name": "Special Effect",
-    "desc": "Each time Phantom Thieves spend a total of 40 SP, gain 1 Primal Instinct stack.\nEach time an ally activates a Highlight, that ally gains 2 Primal Instinct stacks.\nPrimal Instinct: Increase final damage by 5% for each stack. Lasts for 2 turns. Stacks up to 8 times."
+    "desc": "Each time an ally activates a Technical, all allies gain 1 Primal Instinct stack.\nEach time an ally activates a Highlight, that ally gains 2 Primal Instinct stacks.\nPrimal Instinct: Increase final damage by 10% for each stack. Lasts for 2 turns. Stacks up to 4 times."
   },
   {
     "sn": "1021",
@@ -2077,7 +2082,7 @@
   {
     "sn": "3053",
     "name": "Special Effect",
-    "desc": "Party's Almighty damage is increased by 50%."
+    "desc": "Party's <color=#E3E3E3>Almighty</color> damage is increased by 50%."
   },
   {
     "sn": "4514",
@@ -2452,7 +2457,7 @@
   {
     "sn": "7081",
     "name": "Special Effect",
-    "desc": "Dream Prancer's Punishing Whip decreases the target's Defense by 50% more for 2 turns."
+    "desc": "Dancer of Dreams's Punishing Whip decreases the target's Defense by 50% more for 2 turns."
   },
   {
     "sn": "7082",
@@ -2462,17 +2467,17 @@
   {
     "sn": "7083",
     "name": "Special Effect",
-    "desc": "Red Rider's Appeal to Retreat decreases the Highlight gauge by 80%, and defeating Red Rider will not restore the Highlight gauge."
+    "desc": "Red Rider's Appeal to Retreat decreases the Highlight gauge by 80% of its current amount, and defeating Red Rider will not restore the Highlight gauge."
   },
   {
     "sn": "7084",
     "name": "Special Effect",
-    "desc": "Dream Prancer's Ephemeral Sustenance restores more HP, and permanently increases Dream Prancer's final damage by 5%."
+    "desc": "Dancer of Dreams's Ephemeral Sustenance restores more HP, and permanently increases Dancer of Dreams's final damage by 5%."
   },
   {
     "sn": "7085",
     "name": "Special Effect",
-    "desc": "The interval between Dream Prancer summoning Shadows is decreased by 1 turn. Also, the interval between using Ephemeral Ephemeral Sustenance is decreased by 1 turn."
+    "desc": "The interval between Dancer of Dreams summoning Shadows is decreased by 1 turn. Also, the time taken for Ephemeral Sustenance to sacrifice a Shadow is decreased by 1 turn."
   },
   {
     "sn": "7091",

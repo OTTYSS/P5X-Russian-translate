@@ -4664,7 +4664,7 @@
   {
     "sn": "1341082",
     "title": "Station Square Superstar",
-    "desc": "Increase Fire/Ice/Electric/Wind dmg taken by %s.",
+    "desc": "Increase Fire, Ice, Electric, Wind dmg taken by %s.",
     "BuffDesc": "S<color=#000000>t</color>ation Square Superstar",
     "addText": "AAAAAA==",
     "removeText": "AAAAAA==",
@@ -4700,7 +4700,7 @@
   {
     "sn": "1341527",
     "title": "Enthusiastic Fuse",
-    "desc": "Spend 1 when taking Fire/Ice/Electric/Wind or Resonance dmg to increase the dmg by %s.",
+    "desc": "Spend 1 when taking Fire, Ice, Electric, Wind, or Resonance dmg to increase the dmg by %s.",
     "BuffDesc": "AAAAAA==",
     "addText": "AAAAAA==",
     "removeText": "AAAAAA==",
@@ -4727,7 +4727,7 @@
   {
     "sn": "1351021",
     "title": "Lead Step",
-    "desc": "tdxct-[SkillBuff_desc_1351021]",
+    "desc": "A Step that can stack up to a maximum of 3. With 2 or more Step stacks, Kasumi can use Spellbound Cinders to enter Masquerade mode.",
     "BuffDesc": "L<color=#000000>e</color>ad Step",
     "addText": "AAAAAA==",
     "removeText": "AAAAAA==",
@@ -4736,7 +4736,7 @@
   {
     "sn": "1351022",
     "title": "Follow Step",
-    "desc": "tdxct-[SkillBuff_desc_1351022]",
+    "desc": "A Step that does not stack. With 2 or more Step stacks, Kasumi can use Spellbound Cinders to enter Masquerade mode.",
     "BuffDesc": "F<color=#000000>o</color>llow Step",
     "addText": "AAAAAA==",
     "removeText": "AAAAAA==",
@@ -4745,7 +4745,7 @@
   {
     "sn": "1351024",
     "title": "Masked Ball",
-    "desc": "tdxct-[SkillBuff_desc_1351024]",
+    "desc": "Increase Atk by %s.",
     "BuffDesc": "M<color=#000000>a</color>sked Ball",
     "addText": "AAAAAA==",
     "removeText": "AAAAAA==",
@@ -4754,7 +4754,7 @@
   {
     "sn": "1351025",
     "title": "Masked Ball",
-    "desc": "tdxct-[SkillBuff_desc_1351025]",
+    "desc": "Increase critical rate by %s.",
     "BuffDesc": "M<color=#000000>a</color>sked Ball",
     "addText": "AAAAAA==",
     "removeText": "AAAAAA==",
@@ -4763,7 +4763,7 @@
   {
     "sn": "1351032",
     "title": "Charming Invite",
-    "desc": "tdxct-[SkillBuff_desc_1351032]",
+    "desc": "Increase critical rate by %s.",
     "BuffDesc": "C<color=#000000>h</color>arming Invite",
     "addText": "AAAAAA==",
     "removeText": "AAAAAA==",
@@ -4772,7 +4772,7 @@
   {
     "sn": "1351033",
     "title": "Charming Invite",
-    "desc": "tdxct-[SkillBuff_desc_1351033]",
+    "desc": "Increase critical rate by %s.",
     "BuffDesc": "C<color=#000000>h</color>arming Invite",
     "addText": "AAAAAA==",
     "removeText": "AAAAAA==",
@@ -4781,7 +4781,7 @@
   {
     "sn": "1351041",
     "title": "Blossoming Dance Floor",
-    "desc": "tdxct-[SkillBuff_desc_1351041]",
+    "desc": "Increase Atk by %s.",
     "BuffDesc": "AAAAAA==",
     "addText": "AAAAAA==",
     "removeText": "AAAAAA==",
@@ -4790,7 +4790,7 @@
   {
     "sn": "1351042",
     "title": "Blossoming Dance Floor",
-    "desc": "tdxct-[SkillBuff_desc_1351042]",
+    "desc": "Increase critical dmg by %s.",
     "BuffDesc": "AAAAAA==",
     "addText": "AAAAAA==",
     "removeText": "AAAAAA==",
@@ -4799,7 +4799,7 @@
   {
     "sn": "1351063",
     "title": "Stroke of Midnight",
-    "desc": "tdxct-[SkillBuff_desc_1351063]",
+    "desc": "Evade next damage taken (not activated by some skills).",
     "BuffDesc": "S<color=#000000>t</color>roke of Midnight",
     "addText": "AAAAAA==",
     "removeText": "AAAAAA==",
@@ -4808,7 +4808,7 @@
   {
     "sn": "1351121",
     "title": "Dance Partner",
-    "desc": "tdxct-[SkillBuff_desc_1351121]",
+    "desc": "When an ally with this condition uses a skill, Kasumi activates Cinderella Glow 1 time.",
     "BuffDesc": "AAAAAA==",
     "addText": "AAAAAA==",
     "removeText": "AAAAAA==",
@@ -4817,7 +4817,7 @@
   {
     "sn": "1351122",
     "title": "Invitation",
-    "desc": "tdxct-[SkillBuff_desc_1351122]",
+    "desc": "Increase Atk by %s.",
     "BuffDesc": "I<color=#000000>n</color>vitation",
     "addText": "AAAAAA==",
     "removeText": "AAAAAA==",
@@ -4826,7 +4826,7 @@
   {
     "sn": "1351123",
     "title": "Invitation",
-    "desc": "tdxct-[SkillBuff_desc_1351123]",
+    "desc": "Increase Atk by %s.",
     "BuffDesc": "I<color=#000000>n</color>vitation",
     "addText": "AAAAAA==",
     "removeText": "AAAAAA==",
@@ -4835,7 +4835,7 @@
   {
     "sn": "1351151",
     "title": "Masquerade",
-    "desc": "tdxct-[SkillBuff_desc_1351151]",
+    "desc": "Can activate Highlight 1 time. For each Step stack, increase Atk by 10% and critical rate by 4%.",
     "BuffDesc": "M<color=#000000>a</color>squerade",
     "addText": "AAAAAA==",
     "removeText": "AAAAAA==",
@@ -4844,7 +4844,7 @@
   {
     "sn": "1351155",
     "title": "Masquerade",
-    "desc": "tdxct-[SkillBuff_desc_1351155]",
+    "desc": "Can activate Highlight 1 time. For each Step stack, increase Atk by 10% and critical rate by 4%.",
     "BuffDesc": "M<color=#000000>a</color>squerade",
     "addText": "AAAAAA==",
     "removeText": "AAAAAA==",
@@ -4853,7 +4853,7 @@
   {
     "sn": "1351311",
     "title": "Rhythm Count",
-    "desc": "tdxct-[SkillBuff_desc_1351311]",
+    "desc": "Increase Bless dmg by %s.",
     "BuffDesc": "AAAAAA==",
     "addText": "AAAAAA==",
     "removeText": "AAAAAA==",
@@ -4862,7 +4862,7 @@
   {
     "sn": "1351321",
     "title": "Steps of Faith",
-    "desc": "tdxct-[SkillBuff_desc_1351321]",
+    "desc": "Increase Atk by %s.",
     "BuffDesc": "AAAAAA==",
     "addText": "AAAAAA==",
     "removeText": "AAAAAA==",
@@ -8839,7 +8839,7 @@
   },
   {
     "sn": "403041",
-    "title": "Down Null",
+    "title": "Null Down",
     "desc": "Nullify Down Point dmg.",
     "BuffDesc": "AAAAAA==",
     "addText": "AAAAAA==",
@@ -12764,7 +12764,7 @@
   {
     "sn": "261113",
     "title": "Sinful Listener",
-    "desc": "Decrease Defense by %s after taking Bless dmg.",
+    "desc": "Decrease Defense by %s when taking Bless dmg.",
     "BuffDesc": "S<color=#000000>i</color>nful Listener",
     "addText": "AAAAAA==",
     "removeText": "AAAAAA==",
@@ -21557,7 +21557,7 @@
   {
     "sn": "30032",
     "title": "Sudama's Blessing",
-    "desc": "All foes recover 30% SP when attacked.",
+    "desc": "Upon defeat, foes recover SP.",
     "BuffDesc": "S<color=#000000>u</color>dama's Blessing",
     "addText": "%s is trying to escape...",
     "removeText": "AAAAAA==",
@@ -21693,7 +21693,7 @@
     "sn": "30272",
     "title": "Damage Reduction",
     "desc": "Increase dmg taken by 50% per stack. When taking dmg, gain stack (max 5).",
-    "BuffDesc": "D<color=#000000>m</color>g Taken Down",
+    "BuffDesc": "D<color=#000000>a</color>mage Taken Down",
     "addText": "AAAAAA==",
     "removeText": "AAAAAA==",
     "calText": "AAAAAA=="
@@ -22406,6 +22406,15 @@
     "desc": "Increase dmg by 45%.",
     "BuffDesc": "AAAAAA==",
     "addText": "Gained Collapse Warning!",
+    "removeText": "AAAAAA==",
+    "calText": "AAAAAA=="
+  },
+  {
+    "sn": "31018",
+    "title": "Primal Instinct",
+    "desc": "For every stack, increase final dmg by %s. Stacks up to 4 times.",
+    "BuffDesc": "P<color=#000000>r</color>imal Instinct",
+    "addText": "Gained Primal Instinct!",
     "removeText": "AAAAAA==",
     "calText": "AAAAAA=="
   },
@@ -23924,7 +23933,7 @@
   {
     "sn": "35695",
     "title": "Ephemeral Sustenance",
-    "desc": "Sacrificed by Dream Prancer after 3 turns.",
+    "desc": "Sacrificed by Dancer of Dreams after 3 turns.",
     "BuffDesc": "AAAAAA==",
     "addText": "Sacrificed after 3 turns!",
     "removeText": "AAAAAA==",
@@ -23933,7 +23942,7 @@
   {
     "sn": "35696",
     "title": "Ephemeral Sustenance",
-    "desc": "Sacrificed by Dream Prancer after 2 turns.",
+    "desc": "Sacrificed by Dancer of Dreams after 2 turns.",
     "BuffDesc": "AAAAAA==",
     "addText": "Sacrificed after 2 turns!",
     "removeText": "AAAAAA==",
@@ -23942,7 +23951,7 @@
   {
     "sn": "35697",
     "title": "Ephemeral Sustenance",
-    "desc": "Sacrificed by Dream Prancer after 1 turn.",
+    "desc": "Sacrificed by Dancer of Dreams after 1 turn.",
     "BuffDesc": "AAAAAA==",
     "addText": "Sacrificed after 1 turn!",
     "removeText": "AAAAAA==",
@@ -23950,11 +23959,11 @@
   },
   {
     "sn": "35699",
-    "title": "Cavalier's Protection",
+    "title": "Damage Taken Down",
     "desc": "Decrease final dmg taken by %s.",
-    "BuffDesc": "C<color=#000000>a</color>valier's Protection",
-    "addText": "Gained Cavalier's Protection...",
-    "removeText": "Lost Cavalier's Protection...",
+    "BuffDesc": "D<color=#000000>a</color>mage Taken Down",
+    "addText": "Damage taken decreased...",
+    "removeText": "Damage taken reverted!",
     "calText": "AAAAAA=="
   },
   {
@@ -25032,7 +25041,7 @@
     "sn": "52621",
     "title": "Strife",
     "desc": "Increase Atk by 15%.",
-    "BuffDesc": "Strife",
+    "BuffDesc": "S<color=#000000>t</color>rife",
     "addText": "AAAAAA==",
     "removeText": "AAAAAA==",
     "calText": "AAAAAA=="
@@ -27839,7 +27848,7 @@
   {
     "sn": "5171011",
     "title": "Divine Protection",
-    "desc": "Decrease dmg by %s.",
+    "desc": "Decrease dmg taken by %s for each stack.",
     "BuffDesc": "D<color=#000000>i</color>vine Protection",
     "addText": "Gained 6 Divine Protection!",
     "removeText": "Destroyed 1 Divine Protection!",
@@ -27850,6 +27859,24 @@
     "title": "Divine Blessing",
     "desc": "Increase dmg by %s.",
     "BuffDesc": "D<color=#000000>i</color>vine Blessing",
+    "addText": "AAAAAA==",
+    "removeText": "AAAAAA==",
+    "calText": "AAAAAA=="
+  },
+  {
+    "sn": "5211011",
+    "title": "Tyranny Unleashed",
+    "desc": "Increase final Highlight dmg taken by %s.",
+    "BuffDesc": "AAAAAA==",
+    "addText": "AAAAAA==",
+    "removeText": "AAAAAA==",
+    "calText": "AAAAAA=="
+  },
+  {
+    "sn": "5211012",
+    "title": "Tyranny Unleashed",
+    "desc": "Decrease final non-Highlight dmg taken by %s.",
+    "BuffDesc": "AAAAAA==",
     "addText": "AAAAAA==",
     "removeText": "AAAAAA==",
     "calText": "AAAAAA=="

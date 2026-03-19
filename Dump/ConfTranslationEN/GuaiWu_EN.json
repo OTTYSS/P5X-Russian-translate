@@ -1593,36 +1593,18 @@
     "sn": "521101",
     "name": "Seth",
     "desc": "The Egyptian god of the desert, chaos, and evil. He murdered his brother, Osiris, and tried to become chief god, but he was castrated by Osiris's son, Horus.",
-    "strategy": "Baphomet will restore all Phantom Thieves' SP each turn, but also inflicts Demonic Curse on the Phantom Thief with the highest Attack, greatly decreasing their damage."
+    "strategy": "Increase Seth's final Highlight damage taken by 20%. Decrease all other final skill damage taken by 30%."
   },
   {
     "sn": "521111",
     "name": "Lilith",
     "desc": "Said to have been Adam's first wife, she desired to be his equal and refused to obey him. She was cast out of Eden and became a demon of the night. She is the mother of the demoness, Lilim.",
-    "strategy": "Quetzalcoatl shares a Soul Link with all Yurlungurs.\nSoul Link: Distributes all damage received between all Shadows who share this condition, based on the percentage of their current HP."
+    "strategy": "Shadows have different weaknesses and resistances than normal.\n1. At the start of battle, Lilith summons 4 Shadows.\nLilith and all Shadows are in the <color=#FF423F>Soul Link</color> state.\nSoul Link: Distribute all damage received between all Shadows who share this condition, based on the percentage of their current HP.\n2. Each turn, Lilith grants 1 <color=#FF423F>Cover of Night</color> stack to all Shadows.\nCover of Night: Decrease final damage taken by 15% for each stack. Stacks up to 2 times.\n3. When a Shadow with Cover of Night is inflicted with an elemental ailment, remove 1 Cover of Night stack."
   },
   {
     "sn": "521112",
-    "name": "Yurlungur",
-    "desc": "A snake with a rainbow body from Murngin lore. He is a fertility deity who controls the weather and resides in a holy pond filled with rainbow-colored water.",
-    "strategy": "AAAAAA=="
-  },
-  {
-    "sn": "521113",
-    "name": "Yurlungur",
-    "desc": "A snake with a rainbow body from Murngin lore. He is a fertility deity who controls the weather and resides in a holy pond filled with rainbow-colored water.",
-    "strategy": "AAAAAA=="
-  },
-  {
-    "sn": "521114",
-    "name": "Yurlungur",
-    "desc": "A snake with a rainbow body from Murngin lore. He is a fertility deity who controls the weather and resides in a holy pond filled with rainbow-colored water.",
-    "strategy": "AAAAAA=="
-  },
-  {
-    "sn": "521115",
-    "name": "Yurlungur",
-    "desc": "A snake with a rainbow body from Murngin lore. He is a fertility deity who controls the weather and resides in a holy pond filled with rainbow-colored water.",
+    "name": "Nue",
+    "desc": "A creature of Japanese lore with a monkey's head, tiger's legs, and snake's tail. The Tale of Heike says it hid behind a dark cloud each night to attack the Emperor.",
     "strategy": "AAAAAA=="
   },
   {
@@ -1687,14 +1669,14 @@
   },
   {
     "sn": "916012",
-    "name": "Valkyrie",
-    "desc": "\"Choosers of the slain\" in Norse lore. Armed with shining armor and swords, they look for brave warriors to take to Valhalla, so that they may fight in Ragnarok.",
+    "name": "Kumbhanda",
+    "desc": "A Buddhist demon said to drain human life energy. He has dark skin, stands three meters tall, and sometimes changes his shape to a gourd. Known to have once served Rudra, the god of storms.",
     "strategy": "AAAAAA=="
   },
   {
     "sn": "916013",
-    "name": "Valkyrie",
-    "desc": "\"Choosers of the slain\" in Norse lore. Armed with shining armor and swords, they look for brave warriors to take to Valhalla, so that they may fight in Ragnarok.",
+    "name": "Kumbhanda",
+    "desc": "A Buddhist demon said to drain human life energy. He has dark skin, stands three meters tall, and sometimes changes his shape to a gourd. Known to have once served Rudra, the god of storms.",
     "strategy": "AAAAAA=="
   },
   {
@@ -1755,7 +1737,7 @@
     "sn": "916051",
     "name": "Arahabaki",
     "desc": "A mysterious god of ancient Japan. Most famously worshipped by Nagasunehiko, who was defeated in battle against Emperor Jinmu, Arahabaki came to be treated as a symbol of rebellion and defiance.",
-    "strategy": "AAAAAA=="
+    "strategy": "Weaknesses and resistances are different than normal."
   },
   {
     "sn": "916061",
@@ -1773,19 +1755,19 @@
     "sn": "916071",
     "name": "Melchizedek",
     "desc": "An angel of Gnosticism, governing over peace and righteousness. Though said to be the savior of the angels, he used to be a human, the king of Salem.",
-    "strategy": "AAAAAA=="
+    "strategy": "Weaknesses and resistances are different than normal."
   },
   {
     "sn": "916501",
-    "name": "Dream Prancer",
+    "name": "Dancer of Dreams",
     "desc": "An evil spirit with the same name as the Death appearing in medieval oratorios. It is depicted as a skeleton with a black cloak and a sickle to reap humans. It dances the feared \"Dance of Death.\"",
-    "strategy": "1. In the first phase of battle, Dream Prancer alternates between summoning Pale Rider and Red Rider. When the summoned Shadows are defeated, it will summon them again 2 turns later.\n2. In the second phase of battle, Dream Prancer will summon Pale Rider and Red Rider at the same time. When both of the summoned Shadows are on the field, final damage against Dream Prancer is decreased by 50%. When the summoned Shadows are defeated, it will summon them again 2 turns later.\n3. When summoned Shadows are on the field, Dream Prancer will use <color=#FF423F>Ephemeral Sustenance</color> on 1 of the Shadows.\nEphemeral Sustenance: After 3 turns, that summoned Shadow will be sacrificed to restore a certain amount of Dream Prancer's HP.\n4. Pale Rider uses <color=#FF423F>Brain Shake</color>.\nBrain Shake: Deal Physical damage to the Phantom Thief with the lowest HP, with a chance to inflict Brainwash for 2 turns.\n5. Red Rider uses <color=#FF423F>Appeal to Retreat</color>.\nAppeal to Retreat: Decrease Highlight Gauge by 40%. When Red Rider is defeated, instantly increase Highlight Gauge by 50%."
+    "strategy": "1. In the first phase of battle, Dancer of Dreams alternates between summoning Pale Rider and Red Rider. When the summoned Shadows are defeated, it will summon them again 2 turns later.\n2. In the second phase of battle, Dancer of Dreams will summon Pale Rider and Red Rider at the same time. When both of the summoned Shadows are on the field, final damage against Dancer of Dreams is decreased by 50%. When the summoned Shadows are defeated, it will summon them again 2 turns later.\n3. When summoned Shadows are on the field, Dancer of Dreams will use <color=#FF423F>Ephemeral Sustenance</color> on 1 of the Shadows.\nEphemeral Sustenance: After 3 turns, that summoned Shadow will be sacrificed to restore a certain amount of Dancer of Dreams's HP.\n4. Pale Rider uses <color=#FF423F>Brain Shake</color>.\nBrain Shake: Deal Physical damage to the Phantom Thief with the lowest HP, with a chance to inflict Brainwash for 2 turns.\n5. Red Rider uses <color=#FF423F>Appeal to Retreat</color>.\nAppeal to Retreat: Decrease Highlight Gauge by 40% of its current amount. When Red Rider is defeated, instantly increase Highlight Gauge by 50%."
   },
   {
     "sn": "916502",
-    "name": "Dream Prancer",
+    "name": "Dancer of Dreams",
     "desc": "An evil spirit with the same name as the Death appearing in medieval oratorios. It is depicted as a skeleton with a black cloak and a sickle to reap humans. It dances the feared \"Dance of Death.\"",
-    "strategy": "1. In the first phase of battle, Dream Prancer alternates between summoning Pale Rider and Red Rider. When the summoned Shadows are defeated, it will summon them again 2 turns later.\n2. In the second phase of battle, Dream Prancer will summon Pale Rider and Red Rider at the same time. When both of the summoned Shadows are on the field, final damage against Dream Prancer is decreased by 50%. When the summoned Shadows are defeated, it will summon them again 2 turns later.\n3. When summoned Shadows are on the field, Dream Prancer will use <color=#FF423F>Ephemeral Sustenance</color> on 1 of the Shadows.\nEphemeral Sustenance: After 3 turns, that summoned Shadow will be sacrificed to restore a certain amount of Dream Prancer's HP.\n4. Pale Rider uses <color=#FF423F>Brain Shake</color>.\nBrain Shake: Deal Physical damage to the Phantom Thief with the lowest HP, with a chance to inflict Brainwash for 2 turns.\n5. Red Rider uses <color=#FF423F>Appeal to Retreat</color>.\nAppeal to Retreat: Decrease Highlight Gauge by 40%. When Red Rider is defeated, instantly increase Highlight Gauge by 50%."
+    "strategy": "1. In the first phase of battle, Dancer of Dreams alternates between summoning Pale Rider and Red Rider. When the summoned Shadows are defeated, it will summon them again 2 turns later.\n2. In the second phase of battle, Dancer of Dreams will summon Pale Rider and Red Rider at the same time. When both of the summoned Shadows are on the field, final damage against Dancer of Dreams is decreased by 50%. When the summoned Shadows are defeated, it will summon them again 2 turns later.\n3. When summoned Shadows are on the field, Dancer of Dreams will use <color=#FF423F>Ephemeral Sustenance</color> on 1 of the Shadows.\nEphemeral Sustenance: After 3 turns, that summoned Shadow will be sacrificed to restore a certain amount of Dancer of Dreams's HP.\n4. Pale Rider uses <color=#FF423F>Brain Shake</color>.\nBrain Shake: Deal Physical damage to the Phantom Thief with the lowest HP, with a chance to inflict Brainwash for 2 turns.\n5. Red Rider uses <color=#FF423F>Appeal to Retreat</color>.\nAppeal to Retreat: Decrease Highlight Gauge by 40% of its current amount. When Red Rider is defeated, instantly increase Highlight Gauge by 50%."
   },
   {
     "sn": "916503",
@@ -1893,18 +1875,18 @@
     "sn": "916361",
     "name": "Dionysus",
     "desc": "The Greek god of wine and theater. He was originally a god of life protecting the mountains of Thrace. He taught humans how to make wine.",
-    "strategy": "AAAAAA=="
+    "strategy": "Weaknesses and resistances are different than normal."
   },
   {
     "sn": "916362",
-    "name": "Valkyrie",
-    "desc": "\"Choosers of the slain\" in Norse lore. Armed with shining armor and swords, they look for brave warriors to take to Valhalla, so that they may fight in Ragnarok.",
+    "name": "Kumbhanda",
+    "desc": "A Buddhist demon said to drain human life energy. He has dark skin, stands three meters tall, and sometimes changes his shape to a gourd. Known to have once served Rudra, the god of storms.",
     "strategy": "AAAAAA=="
   },
   {
     "sn": "916363",
-    "name": "Valkyrie",
-    "desc": "\"Choosers of the slain\" in Norse lore. Armed with shining armor and swords, they look for brave warriors to take to Valhalla, so that they may fight in Ragnarok.",
+    "name": "Kumbhanda",
+    "desc": "A Buddhist demon said to drain human life energy. He has dark skin, stands three meters tall, and sometimes changes his shape to a gourd. Known to have once served Rudra, the god of storms.",
     "strategy": "AAAAAA=="
   },
   {
@@ -1957,14 +1939,14 @@
   },
   {
     "sn": "916531",
-    "name": "Valkyrie",
-    "desc": "\"Choosers of the slain\" in Norse lore. Armed with shining armor and swords, they look for brave warriors to take to Valhalla, so that they may fight in Ragnarok.",
+    "name": "Kumbhanda",
+    "desc": "A Buddhist demon said to drain human life energy. He has dark skin, stands three meters tall, and sometimes changes his shape to a gourd. Known to have once served Rudra, the god of storms.",
     "strategy": "AAAAAA=="
   },
   {
     "sn": "916532",
-    "name": "Valkyrie",
-    "desc": "\"Choosers of the slain\" in Norse lore. Armed with shining armor and swords, they look for brave warriors to take to Valhalla, so that they may fight in Ragnarok.",
+    "name": "Kumbhanda",
+    "desc": "A Buddhist demon said to drain human life energy. He has dark skin, stands three meters tall, and sometimes changes his shape to a gourd. Known to have once served Rudra, the god of storms.",
     "strategy": "AAAAAA=="
   },
   {
@@ -1987,14 +1969,14 @@
   },
   {
     "sn": "916542",
-    "name": "Valkyrie",
-    "desc": "\"Choosers of the slain\" in Norse lore. Armed with shining armor and swords, they look for brave warriors to take to Valhalla, so that they may fight in Ragnarok.",
+    "name": "Kumbhanda",
+    "desc": "A Buddhist demon said to drain human life energy. He has dark skin, stands three meters tall, and sometimes changes his shape to a gourd. Known to have once served Rudra, the god of storms.",
     "strategy": "AAAAAA=="
   },
   {
     "sn": "916543",
-    "name": "Valkyrie",
-    "desc": "\"Choosers of the slain\" in Norse lore. Armed with shining armor and swords, they look for brave warriors to take to Valhalla, so that they may fight in Ragnarok.",
+    "name": "Kumbhanda",
+    "desc": "A Buddhist demon said to drain human life energy. He has dark skin, stands three meters tall, and sometimes changes his shape to a gourd. Known to have once served Rudra, the god of storms.",
     "strategy": "AAAAAA=="
   },
   {
@@ -2029,14 +2011,14 @@
   },
   {
     "sn": "916562",
-    "name": "Valkyrie",
-    "desc": "\"Choosers of the slain\" in Norse lore. Armed with shining armor and swords, they look for brave warriors to take to Valhalla, so that they may fight in Ragnarok.",
+    "name": "Kumbhanda",
+    "desc": "A Buddhist demon said to drain human life energy. He has dark skin, stands three meters tall, and sometimes changes his shape to a gourd. Known to have once served Rudra, the god of storms.",
     "strategy": "AAAAAA=="
   },
   {
     "sn": "916563",
-    "name": "Valkyrie",
-    "desc": "\"Choosers of the slain\" in Norse lore. Armed with shining armor and swords, they look for brave warriors to take to Valhalla, so that they may fight in Ragnarok.",
+    "name": "Kumbhanda",
+    "desc": "A Buddhist demon said to drain human life energy. He has dark skin, stands three meters tall, and sometimes changes his shape to a gourd. Known to have once served Rudra, the god of storms.",
     "strategy": "AAAAAA=="
   },
   {
@@ -2113,14 +2095,14 @@
   },
   {
     "sn": "916602",
-    "name": "Valkyrie",
-    "desc": "\"Choosers of the slain\" in Norse lore. Armed with shining armor and swords, they look for brave warriors to take to Valhalla, so that they may fight in Ragnarok.",
+    "name": "Kumbhanda",
+    "desc": "A Buddhist demon said to drain human life energy. He has dark skin, stands three meters tall, and sometimes changes his shape to a gourd. Known to have once served Rudra, the god of storms.",
     "strategy": "AAAAAA=="
   },
   {
     "sn": "916603",
-    "name": "Valkyrie",
-    "desc": "\"Choosers of the slain\" in Norse lore. Armed with shining armor and swords, they look for brave warriors to take to Valhalla, so that they may fight in Ragnarok.",
+    "name": "Kumbhanda",
+    "desc": "A Buddhist demon said to drain human life energy. He has dark skin, stands three meters tall, and sometimes changes his shape to a gourd. Known to have once served Rudra, the god of storms.",
     "strategy": "AAAAAA=="
   },
   {
@@ -2371,15 +2353,15 @@
   },
   {
     "sn": "916911",
-    "name": "Dream Prancer",
+    "name": "Dancer of Dreams",
     "desc": "An evil spirit with the same name as the Death appearing in medieval oratorios. It is depicted as a skeleton with a black cloak and a sickle to reap humans. It dances the feared \"Dance of Death.\"",
-    "strategy": "1. In the first phase of battle, Dream Prancer alternates between summoning Pale Rider and Red Rider. When the summoned Shadows are defeated, it will summon them again 2 turns later.\n2. In the second phase of battle, Dream Prancer will summon Pale Rider and Red Rider at the same time. When both of the summoned Shadows are on the field, final damage against Dream Prancer is decreased by 50%. When the summoned Shadows are defeated, it will summon them again 2 turns later.\n3. When summoned Shadows are on the field, Dream Prancer will use <color=#FF423F>Ephemeral Sustenance</color> on 1 of the Shadows.\nEphemeral Sustenance: After 3 turns, that summoned Shadow will be sacrificed to restore a certain amount of Dream Prancer's HP.\n4. Pale Rider uses <color=#FF423F>Brain Shake</color>.\nBrain Shake: Deal Physical damage to the Phantom Thief with the lowest HP, with a chance to inflict Brainwash for 2 turns.\n5. Red Rider uses <color=#FF423F>Appeal to Retreat</color>.\nAppeal to Retreat: Decrease Highlight Gauge by 40%. When Red Rider is defeated, instantly increase Highlight Gauge by 50%."
+    "strategy": "1. In the first phase of battle, Dancer of Dreams alternates between summoning Pale Rider and Red Rider. When the summoned Shadows are defeated, it will summon them again 2 turns later.\n2. In the second phase of battle, Dancer of Dreams will summon Pale Rider and Red Rider at the same time. When both of the summoned Shadows are on the field, final damage against Dancer of Dreams is decreased by 50%. When the summoned Shadows are defeated, it will summon them again 2 turns later.\n3. When summoned Shadows are on the field, Dancer of Dreams will use <color=#FF423F>Ephemeral Sustenance</color> on 1 of the Shadows.\nEphemeral Sustenance: After 3 turns, that summoned Shadow will be sacrificed to restore a certain amount of Dancer of Dreams's HP.\n4. Pale Rider uses <color=#FF423F>Brain Shake</color>.\nBrain Shake: Deal Physical damage to the Phantom Thief with the lowest HP, with a chance to inflict Brainwash for 2 turns.\n5. Red Rider uses <color=#FF423F>Appeal to Retreat</color>.\nAppeal to Retreat: Decrease Highlight Gauge by 40% of its current amount. When Red Rider is defeated, instantly increase Highlight Gauge by 50%."
   },
   {
     "sn": "916912",
-    "name": "Dream Prancer",
+    "name": "Dancer of Dreams",
     "desc": "An evil spirit with the same name as the Death appearing in medieval oratorios. It is depicted as a skeleton with a black cloak and a sickle to reap humans. It dances the feared \"Dance of Death.\"",
-    "strategy": "1. In the first phase of battle, Dream Prancer alternates between summoning Pale Rider and Red Rider. When the summoned Shadows are defeated, it will summon them again 2 turns later.\n2. In the second phase of battle, Dream Prancer will summon Pale Rider and Red Rider at the same time. When both of the summoned Shadows are on the field, final damage against Dream Prancer is decreased by 50%. When the summoned Shadows are defeated, it will summon them again 2 turns later.\n3. When summoned Shadows are on the field, Dream Prancer will use <color=#FF423F>Ephemeral Sustenance</color> on 1 of the Shadows.\nEphemeral Sustenance: After 3 turns, that summoned Shadow will be sacrificed to restore a certain amount of Dream Prancer's HP.\n4. Pale Rider uses <color=#FF423F>Brain Shake</color>.\nBrain Shake: Deal Physical damage to the Phantom Thief with the lowest HP, with a chance to inflict Brainwash for 2 turns.\n5. Red Rider uses <color=#FF423F>Appeal to Retreat</color>.\nAppeal to Retreat: Decrease Highlight Gauge by 40%. When Red Rider is defeated, instantly increase Highlight Gauge by 50%."
+    "strategy": "1. In the first phase of battle, Dancer of Dreams alternates between summoning Pale Rider and Red Rider. When the summoned Shadows are defeated, it will summon them again 2 turns later.\n2. In the second phase of battle, Dancer of Dreams will summon Pale Rider and Red Rider at the same time. When both of the summoned Shadows are on the field, final damage against Dancer of Dreams is decreased by 50%. When the summoned Shadows are defeated, it will summon them again 2 turns later.\n3. When summoned Shadows are on the field, Dancer of Dreams will use <color=#FF423F>Ephemeral Sustenance</color> on 1 of the Shadows.\nEphemeral Sustenance: After 3 turns, that summoned Shadow will be sacrificed to restore a certain amount of Dancer of Dreams's HP.\n4. Pale Rider uses <color=#FF423F>Brain Shake</color>.\nBrain Shake: Deal Physical damage to the Phantom Thief with the lowest HP, with a chance to inflict Brainwash for 2 turns.\n5. Red Rider uses <color=#FF423F>Appeal to Retreat</color>.\nAppeal to Retreat: Decrease Highlight Gauge by 40% of its current amount. When Red Rider is defeated, instantly increase Highlight Gauge by 50%."
   },
   {
     "sn": "916913",
@@ -2395,15 +2377,15 @@
   },
   {
     "sn": "916921",
-    "name": "Dream Prancer",
+    "name": "Dancer of Dreams",
     "desc": "An evil spirit with the same name as the Death appearing in medieval oratorios. It is depicted as a skeleton with a black cloak and a sickle to reap humans. It dances the feared \"Dance of Death.\"",
-    "strategy": "1. In the first phase of battle, Dream Prancer alternates between summoning Pale Rider and Red Rider. When the summoned Shadows are defeated, it will summon them again 2 turns later.\n2. In the second phase of battle, Dream Prancer will summon Pale Rider and Red Rider at the same time. When both of the summoned Shadows are on the field, final damage against Dream Prancer is decreased by 50%. When the summoned Shadows are defeated, it will summon them again 2 turns later.\n3. When summoned Shadows are on the field, Dream Prancer will use <color=#FF423F>Ephemeral Sustenance</color> on 1 of the Shadows.\nEphemeral Sustenance: After 3 turns, that summoned Shadow will be sacrificed to restore a certain amount of Dream Prancer's HP.\n4. Pale Rider uses <color=#FF423F>Brain Shake</color>.\nBrain Shake: Deal Physical damage to the Phantom Thief with the lowest HP, with a chance to inflict Brainwash for 2 turns.\n5. Red Rider uses <color=#FF423F>Appeal to Retreat</color>.\nAppeal to Retreat: Decrease Highlight Gauge by 40%. When Red Rider is defeated, instantly increase Highlight Gauge by 50%."
+    "strategy": "1. In the first phase of battle, Dancer of Dreams alternates between summoning Pale Rider and Red Rider. When the summoned Shadows are defeated, it will summon them again 2 turns later.\n2. In the second phase of battle, Dancer of Dreams will summon Pale Rider and Red Rider at the same time. When both of the summoned Shadows are on the field, final damage against Dancer of Dreams is decreased by 50%. When the summoned Shadows are defeated, it will summon them again 2 turns later.\n3. When summoned Shadows are on the field, Dancer of Dreams will use <color=#FF423F>Ephemeral Sustenance</color> on 1 of the Shadows.\nEphemeral Sustenance: After 3 turns, that summoned Shadow will be sacrificed to restore a certain amount of Dancer of Dreams's HP.\n4. Pale Rider uses <color=#FF423F>Brain Shake</color>.\nBrain Shake: Deal Physical damage to the Phantom Thief with the lowest HP, with a chance to inflict Brainwash for 2 turns.\n5. Red Rider uses <color=#FF423F>Appeal to Retreat</color>.\nAppeal to Retreat: Decrease Highlight Gauge by 40% of its current amount. When Red Rider is defeated, instantly increase Highlight Gauge by 50%."
   },
   {
     "sn": "916922",
-    "name": "Dream Prancer",
+    "name": "Dancer of Dreams",
     "desc": "An evil spirit with the same name as the Death appearing in medieval oratorios. It is depicted as a skeleton with a black cloak and a sickle to reap humans. It dances the feared \"Dance of Death.\"",
-    "strategy": "1. In the first phase of battle, Dream Prancer alternates between summoning Pale Rider and Red Rider. When the summoned Shadows are defeated, it will summon them again 2 turns later.\n2. In the second phase of battle, Dream Prancer will summon Pale Rider and Red Rider at the same time. When both of the summoned Shadows are on the field, final damage against Dream Prancer is decreased by 50%. When the summoned Shadows are defeated, it will summon them again 2 turns later.\n3. When summoned Shadows are on the field, Dream Prancer will use <color=#FF423F>Ephemeral Sustenance</color> on 1 of the Shadows.\nEphemeral Sustenance: After 3 turns, that summoned Shadow will be sacrificed to restore a certain amount of Dream Prancer's HP.\n4. Pale Rider uses <color=#FF423F>Brain Shake</color>.\nBrain Shake: Deal Physical damage to the Phantom Thief with the lowest HP, with a chance to inflict Brainwash for 2 turns.\n5. Red Rider uses <color=#FF423F>Appeal to Retreat</color>.\nAppeal to Retreat: Decrease Highlight Gauge by 40%. When Red Rider is defeated, instantly increase Highlight Gauge by 50%."
+    "strategy": "1. In the first phase of battle, Dancer of Dreams alternates between summoning Pale Rider and Red Rider. When the summoned Shadows are defeated, it will summon them again 2 turns later.\n2. In the second phase of battle, Dancer of Dreams will summon Pale Rider and Red Rider at the same time. When both of the summoned Shadows are on the field, final damage against Dancer of Dreams is decreased by 50%. When the summoned Shadows are defeated, it will summon them again 2 turns later.\n3. When summoned Shadows are on the field, Dancer of Dreams will use <color=#FF423F>Ephemeral Sustenance</color> on 1 of the Shadows.\nEphemeral Sustenance: After 3 turns, that summoned Shadow will be sacrificed to restore a certain amount of Dancer of Dreams's HP.\n4. Pale Rider uses <color=#FF423F>Brain Shake</color>.\nBrain Shake: Deal Physical damage to the Phantom Thief with the lowest HP, with a chance to inflict Brainwash for 2 turns.\n5. Red Rider uses <color=#FF423F>Appeal to Retreat</color>.\nAppeal to Retreat: Decrease Highlight Gauge by 40% of its current amount. When Red Rider is defeated, instantly increase Highlight Gauge by 50%."
   },
   {
     "sn": "916923",
@@ -2419,15 +2401,15 @@
   },
   {
     "sn": "916931",
-    "name": "Dream Prancer",
+    "name": "Dancer of Dreams",
     "desc": "An evil spirit with the same name as the Death appearing in medieval oratorios. It is depicted as a skeleton with a black cloak and a sickle to reap humans. It dances the feared \"Dance of Death.\"",
-    "strategy": "1. In the first phase of battle, Dream Prancer alternates between summoning Pale Rider and Red Rider. When the summoned Shadows are defeated, it will summon them again 2 turns later.\n2. In the second phase of battle, Dream Prancer will summon Pale Rider and Red Rider at the same time. When both of the summoned Shadows are on the field, final damage against Dream Prancer is decreased by 50%. When the summoned Shadows are defeated, it will summon them again 2 turns later.\n3. When summoned Shadows are on the field, Dream Prancer will use <color=#FF423F>Ephemeral Sustenance</color> on 1 of the Shadows.\nEphemeral Sustenance: After 3 turns, that summoned Shadow will be sacrificed to restore a certain amount of Dream Prancer's HP.\n4. Pale Rider uses <color=#FF423F>Brain Shake</color>.\nBrain Shake: Deal Physical damage to the Phantom Thief with the lowest HP, with a chance to inflict Brainwash for 2 turns.\n5. Red Rider uses <color=#FF423F>Appeal to Retreat</color>.\nAppeal to Retreat: Decrease Highlight Gauge by 40%. When Red Rider is defeated, instantly increase Highlight Gauge by 50%."
+    "strategy": "1. In the first phase of battle, Dancer of Dreams alternates between summoning Pale Rider and Red Rider. When the summoned Shadows are defeated, it will summon them again 2 turns later.\n2. In the second phase of battle, Dancer of Dreams will summon Pale Rider and Red Rider at the same time. When both of the summoned Shadows are on the field, final damage against Dancer of Dreams is decreased by 50%. When the summoned Shadows are defeated, it will summon them again 2 turns later.\n3. When summoned Shadows are on the field, Dancer of Dreams will use <color=#FF423F>Ephemeral Sustenance</color> on 1 of the Shadows.\nEphemeral Sustenance: After 3 turns, that summoned Shadow will be sacrificed to restore a certain amount of Dancer of Dreams's HP.\n4. Pale Rider uses <color=#FF423F>Brain Shake</color>.\nBrain Shake: Deal Physical damage to the Phantom Thief with the lowest HP, with a chance to inflict Brainwash for 2 turns.\n5. Red Rider uses <color=#FF423F>Appeal to Retreat</color>.\nAppeal to Retreat: Decrease Highlight Gauge by 40% of its current amount. When Red Rider is defeated, instantly increase Highlight Gauge by 50%."
   },
   {
     "sn": "916932",
-    "name": "Dream Prancer",
+    "name": "Dancer of Dreams",
     "desc": "An evil spirit with the same name as the Death appearing in medieval oratorios. It is depicted as a skeleton with a black cloak and a sickle to reap humans. It dances the feared \"Dance of Death.\"",
-    "strategy": "1. In the first phase of battle, Dream Prancer alternates between summoning Pale Rider and Red Rider. When the summoned Shadows are defeated, it will summon them again 2 turns later.\n2. In the second phase of battle, Dream Prancer will summon Pale Rider and Red Rider at the same time. When both of the summoned Shadows are on the field, final damage against Dream Prancer is decreased by 50%. When the summoned Shadows are defeated, it will summon them again 2 turns later.\n3. When summoned Shadows are on the field, Dream Prancer will use <color=#FF423F>Ephemeral Sustenance</color> on 1 of the Shadows.\nEphemeral Sustenance: After 3 turns, that summoned Shadow will be sacrificed to restore a certain amount of Dream Prancer's HP.\n4. Pale Rider uses <color=#FF423F>Brain Shake</color>.\nBrain Shake: Deal Physical damage to the Phantom Thief with the lowest HP, with a chance to inflict Brainwash for 2 turns.\n5. Red Rider uses <color=#FF423F>Appeal to Retreat</color>.\nAppeal to Retreat: Decrease Highlight Gauge by 40%. When Red Rider is defeated, instantly increase Highlight Gauge by 50%."
+    "strategy": "1. In the first phase of battle, Dancer of Dreams alternates between summoning Pale Rider and Red Rider. When the summoned Shadows are defeated, it will summon them again 2 turns later.\n2. In the second phase of battle, Dancer of Dreams will summon Pale Rider and Red Rider at the same time. When both of the summoned Shadows are on the field, final damage against Dancer of Dreams is decreased by 50%. When the summoned Shadows are defeated, it will summon them again 2 turns later.\n3. When summoned Shadows are on the field, Dancer of Dreams will use <color=#FF423F>Ephemeral Sustenance</color> on 1 of the Shadows.\nEphemeral Sustenance: After 3 turns, that summoned Shadow will be sacrificed to restore a certain amount of Dancer of Dreams's HP.\n4. Pale Rider uses <color=#FF423F>Brain Shake</color>.\nBrain Shake: Deal Physical damage to the Phantom Thief with the lowest HP, with a chance to inflict Brainwash for 2 turns.\n5. Red Rider uses <color=#FF423F>Appeal to Retreat</color>.\nAppeal to Retreat: Decrease Highlight Gauge by 40% of its current amount. When Red Rider is defeated, instantly increase Highlight Gauge by 50%."
   },
   {
     "sn": "916933",
@@ -2443,15 +2425,15 @@
   },
   {
     "sn": "916941",
-    "name": "Dream Prancer",
+    "name": "Dancer of Dreams",
     "desc": "An evil spirit with the same name as the Death appearing in medieval oratorios. It is depicted as a skeleton with a black cloak and a sickle to reap humans. It dances the feared \"Dance of Death.\"",
-    "strategy": "1. In the first phase of battle, Dream Prancer alternates between summoning Pale Rider and Red Rider. When the summoned Shadows are defeated, it will summon them again 2 turns later.\n2. In the second phase of battle, Dream Prancer will summon Pale Rider and Red Rider at the same time. When both of the summoned Shadows are on the field, final damage against Dream Prancer is decreased by 50%. When the summoned Shadows are defeated, it will summon them again 2 turns later.\n3. When summoned Shadows are on the field, Dream Prancer will use <color=#FF423F>Ephemeral Sustenance</color> on 1 of the Shadows.\nEphemeral Sustenance: After 3 turns, that summoned Shadow will be sacrificed to restore a certain amount of Dream Prancer's HP.\n4. Pale Rider uses <color=#FF423F>Brain Shake</color>.\nBrain Shake: Deal Physical damage to the Phantom Thief with the lowest HP, with a chance to inflict Brainwash for 2 turns.\n5. Red Rider uses <color=#FF423F>Appeal to Retreat</color>.\nAppeal to Retreat: Decrease Highlight Gauge by 40%. When Red Rider is defeated, instantly increase Highlight Gauge by 50%."
+    "strategy": "1. In the first phase of battle, Dancer of Dreams alternates between summoning Pale Rider and Red Rider. When the summoned Shadows are defeated, it will summon them again 2 turns later.\n2. In the second phase of battle, Dancer of Dreams will summon Pale Rider and Red Rider at the same time. When both of the summoned Shadows are on the field, final damage against Dancer of Dreams is decreased by 50%. When the summoned Shadows are defeated, it will summon them again 2 turns later.\n3. When summoned Shadows are on the field, Dancer of Dreams will use <color=#FF423F>Ephemeral Sustenance</color> on 1 of the Shadows.\nEphemeral Sustenance: After 3 turns, that summoned Shadow will be sacrificed to restore a certain amount of Dancer of Dreams's HP.\n4. Pale Rider uses <color=#FF423F>Brain Shake</color>.\nBrain Shake: Deal Physical damage to the Phantom Thief with the lowest HP, with a chance to inflict Brainwash for 2 turns.\n5. Red Rider uses <color=#FF423F>Appeal to Retreat</color>.\nAppeal to Retreat: Decrease Highlight Gauge by 40% of its current amount. When Red Rider is defeated, instantly increase Highlight Gauge by 50%."
   },
   {
     "sn": "916942",
-    "name": "Dream Prancer",
+    "name": "Dancer of Dreams",
     "desc": "An evil spirit with the same name as the Death appearing in medieval oratorios. It is depicted as a skeleton with a black cloak and a sickle to reap humans. It dances the feared \"Dance of Death.\"",
-    "strategy": "1. In the first phase of battle, Dream Prancer alternates between summoning Pale Rider and Red Rider. When the summoned Shadows are defeated, it will summon them again 2 turns later.\n2. In the second phase of battle, Dream Prancer will summon Pale Rider and Red Rider at the same time. When both of the summoned Shadows are on the field, final damage against Dream Prancer is decreased by 50%. When the summoned Shadows are defeated, it will summon them again 2 turns later.\n3. When summoned Shadows are on the field, Dream Prancer will use <color=#FF423F>Ephemeral Sustenance</color> on 1 of the Shadows.\nEphemeral Sustenance: After 3 turns, that summoned Shadow will be sacrificed to restore a certain amount of Dream Prancer's HP.\n4. Pale Rider uses <color=#FF423F>Brain Shake</color>.\nBrain Shake: Deal Physical damage to the Phantom Thief with the lowest HP, with a chance to inflict Brainwash for 2 turns.\n5. Red Rider uses <color=#FF423F>Appeal to Retreat</color>.\nAppeal to Retreat: Decrease Highlight Gauge by 40%. When Red Rider is defeated, instantly increase Highlight Gauge by 50%."
+    "strategy": "1. In the first phase of battle, Dancer of Dreams alternates between summoning Pale Rider and Red Rider. When the summoned Shadows are defeated, it will summon them again 2 turns later.\n2. In the second phase of battle, Dancer of Dreams will summon Pale Rider and Red Rider at the same time. When both of the summoned Shadows are on the field, final damage against Dancer of Dreams is decreased by 50%. When the summoned Shadows are defeated, it will summon them again 2 turns later.\n3. When summoned Shadows are on the field, Dancer of Dreams will use <color=#FF423F>Ephemeral Sustenance</color> on 1 of the Shadows.\nEphemeral Sustenance: After 3 turns, that summoned Shadow will be sacrificed to restore a certain amount of Dancer of Dreams's HP.\n4. Pale Rider uses <color=#FF423F>Brain Shake</color>.\nBrain Shake: Deal Physical damage to the Phantom Thief with the lowest HP, with a chance to inflict Brainwash for 2 turns.\n5. Red Rider uses <color=#FF423F>Appeal to Retreat</color>.\nAppeal to Retreat: Decrease Highlight Gauge by 40% of its current amount. When Red Rider is defeated, instantly increase Highlight Gauge by 50%."
   },
   {
     "sn": "916943",
@@ -2467,15 +2449,15 @@
   },
   {
     "sn": "916951",
-    "name": "Dream Prancer",
+    "name": "Dancer of Dreams",
     "desc": "An evil spirit with the same name as the Death appearing in medieval oratorios. It is depicted as a skeleton with a black cloak and a sickle to reap humans. It dances the feared \"Dance of Death.\"",
-    "strategy": "1. In the first phase of battle, Dream Prancer alternates between summoning Pale Rider and Red Rider. When the summoned Shadows are defeated, it will summon them again 2 turns later.\n2. In the second phase of battle, Dream Prancer will summon Pale Rider and Red Rider at the same time. When both of the summoned Shadows are on the field, final damage against Dream Prancer is decreased by 50%. When the summoned Shadows are defeated, it will summon them again 2 turns later.\n3. When summoned Shadows are on the field, Dream Prancer will use <color=#FF423F>Ephemeral Sustenance</color> on 1 of the Shadows.\nEphemeral Sustenance: After 3 turns, that summoned Shadow will be sacrificed to restore a certain amount of Dream Prancer's HP.\n4. Pale Rider uses <color=#FF423F>Brain Shake</color>.\nBrain Shake: Deal Physical damage to the Phantom Thief with the lowest HP, with a chance to inflict Brainwash for 2 turns.\n5. Red Rider uses <color=#FF423F>Appeal to Retreat</color>.\nAppeal to Retreat: Decrease Highlight Gauge by 40%. When Red Rider is defeated, instantly increase Highlight Gauge by 50%."
+    "strategy": "1. In the first phase of battle, Dancer of Dreams alternates between summoning Pale Rider and Red Rider. When the summoned Shadows are defeated, it will summon them again 2 turns later.\n2. In the second phase of battle, Dancer of Dreams will summon Pale Rider and Red Rider at the same time. When both of the summoned Shadows are on the field, final damage against Dancer of Dreams is decreased by 50%. When the summoned Shadows are defeated, it will summon them again 2 turns later.\n3. When summoned Shadows are on the field, Dancer of Dreams will use <color=#FF423F>Ephemeral Sustenance</color> on 1 of the Shadows.\nEphemeral Sustenance: After 3 turns, that summoned Shadow will be sacrificed to restore a certain amount of Dancer of Dreams's HP.\n4. Pale Rider uses <color=#FF423F>Brain Shake</color>.\nBrain Shake: Deal Physical damage to the Phantom Thief with the lowest HP, with a chance to inflict Brainwash for 2 turns.\n5. Red Rider uses <color=#FF423F>Appeal to Retreat</color>.\nAppeal to Retreat: Decrease Highlight Gauge by 40% of its current amount. When Red Rider is defeated, instantly increase Highlight Gauge by 50%."
   },
   {
     "sn": "916952",
-    "name": "Dream Prancer",
+    "name": "Dancer of Dreams",
     "desc": "An evil spirit with the same name as the Death appearing in medieval oratorios. It is depicted as a skeleton with a black cloak and a sickle to reap humans. It dances the feared \"Dance of Death.\"",
-    "strategy": "1. In the first phase of battle, Dream Prancer alternates between summoning Pale Rider and Red Rider. When the summoned Shadows are defeated, it will summon them again 2 turns later.\n2. In the second phase of battle, Dream Prancer will summon Pale Rider and Red Rider at the same time. When both of the summoned Shadows are on the field, final damage against Dream Prancer is decreased by 50%. When the summoned Shadows are defeated, it will summon them again 2 turns later.\n3. When summoned Shadows are on the field, Dream Prancer will use <color=#FF423F>Ephemeral Sustenance</color> on 1 of the Shadows.\nEphemeral Sustenance: After 3 turns, that summoned Shadow will be sacrificed to restore a certain amount of Dream Prancer's HP.\n4. Pale Rider uses <color=#FF423F>Brain Shake</color>.\nBrain Shake: Deal Physical damage to the Phantom Thief with the lowest HP, with a chance to inflict Brainwash for 2 turns.\n5. Red Rider uses <color=#FF423F>Appeal to Retreat</color>.\nAppeal to Retreat: Decrease Highlight Gauge by 40%. When Red Rider is defeated, instantly increase Highlight Gauge by 50%."
+    "strategy": "1. In the first phase of battle, Dancer of Dreams alternates between summoning Pale Rider and Red Rider. When the summoned Shadows are defeated, it will summon them again 2 turns later.\n2. In the second phase of battle, Dancer of Dreams will summon Pale Rider and Red Rider at the same time. When both of the summoned Shadows are on the field, final damage against Dancer of Dreams is decreased by 50%. When the summoned Shadows are defeated, it will summon them again 2 turns later.\n3. When summoned Shadows are on the field, Dancer of Dreams will use <color=#FF423F>Ephemeral Sustenance</color> on 1 of the Shadows.\nEphemeral Sustenance: After 3 turns, that summoned Shadow will be sacrificed to restore a certain amount of Dancer of Dreams's HP.\n4. Pale Rider uses <color=#FF423F>Brain Shake</color>.\nBrain Shake: Deal Physical damage to the Phantom Thief with the lowest HP, with a chance to inflict Brainwash for 2 turns.\n5. Red Rider uses <color=#FF423F>Appeal to Retreat</color>.\nAppeal to Retreat: Decrease Highlight Gauge by 40% of its current amount. When Red Rider is defeated, instantly increase Highlight Gauge by 50%."
   },
   {
     "sn": "916953",
@@ -2491,15 +2473,15 @@
   },
   {
     "sn": "916961",
-    "name": "Dream Prancer",
+    "name": "Dancer of Dreams",
     "desc": "An evil spirit with the same name as the Death appearing in medieval oratorios. It is depicted as a skeleton with a black cloak and a sickle to reap humans. It dances the feared \"Dance of Death.\"",
-    "strategy": "1. In the first phase of battle, Dream Prancer alternates between summoning Pale Rider and Red Rider. When the summoned Shadows are defeated, it will summon them again 2 turns later.\n2. In the second phase of battle, Dream Prancer will summon Pale Rider and Red Rider at the same time. When both of the summoned Shadows are on the field, final damage against Dream Prancer is decreased by 50%. When the summoned Shadows are defeated, it will summon them again 2 turns later.\n3. When summoned Shadows are on the field, Dream Prancer will use <color=#FF423F>Ephemeral Sustenance</color> on 1 of the Shadows.\nEphemeral Sustenance: After 3 turns, that summoned Shadow will be sacrificed to restore a certain amount of Dream Prancer's HP.\n4. Pale Rider uses <color=#FF423F>Brain Shake</color>.\nBrain Shake: Deal Physical damage to the Phantom Thief with the lowest HP, with a chance to inflict Brainwash for 2 turns.\n5. Red Rider uses <color=#FF423F>Appeal to Retreat</color>.\nAppeal to Retreat: Decrease Highlight Gauge by 40%. When Red Rider is defeated, instantly increase Highlight Gauge by 50%."
+    "strategy": "1. In the first phase of battle, Dancer of Dreams alternates between summoning Pale Rider and Red Rider. When the summoned Shadows are defeated, it will summon them again 2 turns later.\n2. In the second phase of battle, Dancer of Dreams will summon Pale Rider and Red Rider at the same time. When both of the summoned Shadows are on the field, final damage against Dancer of Dreams is decreased by 50%. When the summoned Shadows are defeated, it will summon them again 2 turns later.\n3. When summoned Shadows are on the field, Dancer of Dreams will use <color=#FF423F>Ephemeral Sustenance</color> on 1 of the Shadows.\nEphemeral Sustenance: After 3 turns, that summoned Shadow will be sacrificed to restore a certain amount of Dancer of Dreams's HP.\n4. Pale Rider uses <color=#FF423F>Brain Shake</color>.\nBrain Shake: Deal Physical damage to the Phantom Thief with the lowest HP, with a chance to inflict Brainwash for 2 turns.\n5. Red Rider uses <color=#FF423F>Appeal to Retreat</color>.\nAppeal to Retreat: Decrease Highlight Gauge by 40% of its current amount. When Red Rider is defeated, instantly increase Highlight Gauge by 50%."
   },
   {
     "sn": "916962",
-    "name": "Dream Prancer",
+    "name": "Dancer of Dreams",
     "desc": "An evil spirit with the same name as the Death appearing in medieval oratorios. It is depicted as a skeleton with a black cloak and a sickle to reap humans. It dances the feared \"Dance of Death.\"",
-    "strategy": "1. In the first phase of battle, Dream Prancer alternates between summoning Pale Rider and Red Rider. When the summoned Shadows are defeated, it will summon them again 2 turns later.\n2. In the second phase of battle, Dream Prancer will summon Pale Rider and Red Rider at the same time. When both of the summoned Shadows are on the field, final damage against Dream Prancer is decreased by 50%. When the summoned Shadows are defeated, it will summon them again 2 turns later.\n3. When summoned Shadows are on the field, Dream Prancer will use <color=#FF423F>Ephemeral Sustenance</color> on 1 of the Shadows.\nEphemeral Sustenance: After 3 turns, that summoned Shadow will be sacrificed to restore a certain amount of Dream Prancer's HP.\n4. Pale Rider uses <color=#FF423F>Brain Shake</color>.\nBrain Shake: Deal Physical damage to the Phantom Thief with the lowest HP, with a chance to inflict Brainwash for 2 turns.\n5. Red Rider uses <color=#FF423F>Appeal to Retreat</color>.\nAppeal to Retreat: Decrease Highlight Gauge by 40%. When Red Rider is defeated, instantly increase Highlight Gauge by 50%."
+    "strategy": "1. In the first phase of battle, Dancer of Dreams alternates between summoning Pale Rider and Red Rider. When the summoned Shadows are defeated, it will summon them again 2 turns later.\n2. In the second phase of battle, Dancer of Dreams will summon Pale Rider and Red Rider at the same time. When both of the summoned Shadows are on the field, final damage against Dancer of Dreams is decreased by 50%. When the summoned Shadows are defeated, it will summon them again 2 turns later.\n3. When summoned Shadows are on the field, Dancer of Dreams will use <color=#FF423F>Ephemeral Sustenance</color> on 1 of the Shadows.\nEphemeral Sustenance: After 3 turns, that summoned Shadow will be sacrificed to restore a certain amount of Dancer of Dreams's HP.\n4. Pale Rider uses <color=#FF423F>Brain Shake</color>.\nBrain Shake: Deal Physical damage to the Phantom Thief with the lowest HP, with a chance to inflict Brainwash for 2 turns.\n5. Red Rider uses <color=#FF423F>Appeal to Retreat</color>.\nAppeal to Retreat: Decrease Highlight Gauge by 40% of its current amount. When Red Rider is defeated, instantly increase Highlight Gauge by 50%."
   },
   {
     "sn": "916963",
@@ -2553,85 +2535,85 @@
     "sn": "902331",
     "name": "Shiva",
     "desc": "One of the major Hindu gods, he is known as the Destroyer, but is also related to regeneration. His wife is Parvati.",
-    "strategy": "1. Shiva's skills Riot Gun and Karmic Alteration, as well as Parvati's skill Mother's Revelation, will grant Wisdom. Wisdom enhances the skill effects of Dance of Destruction and Divine Dancer's Leap.\nShiva's skill Divine Dancer's Leap and Parvati's skill Mother's Revelation will be used after the phase changes.\n2. Each time Shiva takes damage of a different attribute, it loses 1 Wisdom stack (1 time for each attribute, count resets at the start of Shiva's next turn).\n3. Every time a certain number of turns passes, Parvati will activate Qi Barrier, changing all of the Shadows' affinities to Null. It is removed when taking damage that is not a continuous effect.\n4. The first time that Shiva or Parvati reach 1 HP, they will enter a weakened state. During this time, they cannot act and cannot be targeted. When Shiva and Parvati enter their weakened states at the same time, they will recover HP and enter the next phase.\n5. When Parvati is defeated, Shiva will immediately activate Dance of Destruction, dealing damage to all Phantom Thieves.\n6. When Shiva is defeated, Parvati will transform into Kali."
+    "strategy": "1. Shiva's skills Riot Gun and Karmic Alteration, as well as Parvati's skill Mother's Revelation, will grant Wisdom. Wisdom enhances the skill effects of Dance of Destruction and Divine Dancer's Leap.\nShiva's skill Divine Dancer's Leap and Parvati's skill Mother's Revelation will be used after the phase changes.\n2. Each time Shiva takes damage of a different attribute, it loses 1 Wisdom stack (1 time for each attribute, count resets at the start of Shiva's next turn).\n3. Every time a certain number of turns passes, Parvati will activate Qi Barrier, changing all of the Shadows' affinities to Null for 1 turn. It is removed when taking damage that is not a continuous effect.\n4. The first time that Shiva or Parvati reach 1 HP, they will enter a weakened state. During this time, they cannot act and cannot be targeted. When Shiva and Parvati enter their weakened states at the same time, they will recover HP and enter the next phase.\n5. When Parvati is defeated, Shiva will immediately activate Dance of Destruction, dealing damage to all Phantom Thieves.\n6. When Shiva is defeated, Parvati will transform into Kali."
   },
   {
     "sn": "902332",
     "name": "Shiva",
     "desc": "One of the major Hindu gods, he is known as the Destroyer, but is also related to regeneration. His wife is Parvati.",
-    "strategy": "1. Shiva's skills Riot Gun and Karmic Alteration, as well as Parvati's skill Mother's Revelation, will grant Wisdom. Wisdom enhances the skill effects of Dance of Destruction and Divine Dancer's Leap.\nShiva's skill Divine Dancer's Leap and Parvati's skill Mother's Revelation will be used after the phase changes.\n2. Each time Shiva takes damage of a different attribute, it loses 1 Wisdom stack (1 time for each attribute, count resets at the start of Shiva's next turn).\n3. Every time a certain number of turns passes, Parvati will activate Qi Barrier, changing all of the Shadows' affinities to Null. It is removed when taking damage that is not a continuous effect.\n4. The first time that Shiva or Parvati reach 1 HP, they will enter a weakened state. During this time, they cannot act and cannot be targeted. When Shiva and Parvati enter their weakened states at the same time, they will recover HP and enter the next phase.\n5. When Parvati is defeated, Shiva will immediately activate Dance of Destruction, dealing damage to all Phantom Thieves.\n6. When Shiva is defeated, Parvati will transform into Kali."
+    "strategy": "1. Shiva's skills Riot Gun and Karmic Alteration, as well as Parvati's skill Mother's Revelation, will grant Wisdom. Wisdom enhances the skill effects of Dance of Destruction and Divine Dancer's Leap.\nShiva's skill Divine Dancer's Leap and Parvati's skill Mother's Revelation will be used after the phase changes.\n2. Each time Shiva takes damage of a different attribute, it loses 1 Wisdom stack (1 time for each attribute, count resets at the start of Shiva's next turn).\n3. Every time a certain number of turns passes, Parvati will activate Qi Barrier, changing all of the Shadows' affinities to Null for 1 turn. It is removed when taking damage that is not a continuous effect.\n4. The first time that Shiva or Parvati reach 1 HP, they will enter a weakened state. During this time, they cannot act and cannot be targeted. When Shiva and Parvati enter their weakened states at the same time, they will recover HP and enter the next phase.\n5. When Parvati is defeated, Shiva will immediately activate Dance of Destruction, dealing damage to all Phantom Thieves.\n6. When Shiva is defeated, Parvati will transform into Kali."
   },
   {
     "sn": "902341",
     "name": "Shiva",
     "desc": "One of the major Hindu gods, he is known as the Destroyer, but is also related to regeneration. His wife is Parvati.",
-    "strategy": "1. Shiva's skills Riot Gun and Karmic Alteration, as well as Parvati's skill Mother's Revelation, will grant Wisdom. Wisdom enhances the skill effects of Dance of Destruction and Divine Dancer's Leap.\nShiva's skill Divine Dancer's Leap and Parvati's skill Mother's Revelation will be used after the phase changes.\n2. Each time Shiva takes damage of a different attribute, it loses 1 Wisdom stack (1 time for each attribute, count resets at the start of Shiva's next turn).\n3. Every time a certain number of turns passes, Parvati will activate Qi Barrier, changing all of the Shadows' affinities to Null. It is removed when taking damage that is not a continuous effect.\n4. The first time that Shiva or Parvati reach 1 HP, they will enter a weakened state. During this time, they cannot act and cannot be targeted. When Shiva and Parvati enter their weakened states at the same time, they will recover HP and enter the next phase.\n5. When Parvati is defeated, Shiva will immediately activate Dance of Destruction, dealing damage to all Phantom Thieves.\n6. When Shiva is defeated, Parvati will transform into Kali."
+    "strategy": "1. Shiva's skills Riot Gun and Karmic Alteration, as well as Parvati's skill Mother's Revelation, will grant Wisdom. Wisdom enhances the skill effects of Dance of Destruction and Divine Dancer's Leap.\nShiva's skill Divine Dancer's Leap and Parvati's skill Mother's Revelation will be used after the phase changes.\n2. Each time Shiva takes damage of a different attribute, it loses 1 Wisdom stack (1 time for each attribute, count resets at the start of Shiva's next turn).\n3. Every time a certain number of turns passes, Parvati will activate Qi Barrier, changing all of the Shadows' affinities to Null for 1 turn. It is removed when taking damage that is not a continuous effect.\n4. The first time that Shiva or Parvati reach 1 HP, they will enter a weakened state. During this time, they cannot act and cannot be targeted. When Shiva and Parvati enter their weakened states at the same time, they will recover HP and enter the next phase.\n5. When Parvati is defeated, Shiva will immediately activate Dance of Destruction, dealing damage to all Phantom Thieves.\n6. When Shiva is defeated, Parvati will transform into Kali."
   },
   {
     "sn": "902342",
     "name": "Shiva",
     "desc": "One of the major Hindu gods, he is known as the Destroyer, but is also related to regeneration. His wife is Parvati.",
-    "strategy": "1. Shiva's skills Riot Gun and Karmic Alteration, as well as Parvati's skill Mother's Revelation, will grant Wisdom. Wisdom enhances the skill effects of Dance of Destruction and Divine Dancer's Leap.\nShiva's skill Divine Dancer's Leap and Parvati's skill Mother's Revelation will be used after the phase changes.\n2. Each time Shiva takes damage of a different attribute, it loses 1 Wisdom stack (1 time for each attribute, count resets at the start of Shiva's next turn).\n3. Every time a certain number of turns passes, Parvati will activate Qi Barrier, changing all of the Shadows' affinities to Null. It is removed when taking damage that is not a continuous effect.\n4. The first time that Shiva or Parvati reach 1 HP, they will enter a weakened state. During this time, they cannot act and cannot be targeted. When Shiva and Parvati enter their weakened states at the same time, they will recover HP and enter the next phase.\n5. When Parvati is defeated, Shiva will immediately activate Dance of Destruction, dealing damage to all Phantom Thieves.\n6. When Shiva is defeated, Parvati will transform into Kali."
+    "strategy": "1. Shiva's skills Riot Gun and Karmic Alteration, as well as Parvati's skill Mother's Revelation, will grant Wisdom. Wisdom enhances the skill effects of Dance of Destruction and Divine Dancer's Leap.\nShiva's skill Divine Dancer's Leap and Parvati's skill Mother's Revelation will be used after the phase changes.\n2. Each time Shiva takes damage of a different attribute, it loses 1 Wisdom stack (1 time for each attribute, count resets at the start of Shiva's next turn).\n3. Every time a certain number of turns passes, Parvati will activate Qi Barrier, changing all of the Shadows' affinities to Null for 1 turn. It is removed when taking damage that is not a continuous effect.\n4. The first time that Shiva or Parvati reach 1 HP, they will enter a weakened state. During this time, they cannot act and cannot be targeted. When Shiva and Parvati enter their weakened states at the same time, they will recover HP and enter the next phase.\n5. When Parvati is defeated, Shiva will immediately activate Dance of Destruction, dealing damage to all Phantom Thieves.\n6. When Shiva is defeated, Parvati will transform into Kali."
   },
   {
     "sn": "902351",
     "name": "Shiva",
     "desc": "One of the major Hindu gods, he is known as the Destroyer, but is also related to regeneration. His wife is Parvati.",
-    "strategy": "1. Shiva's skills Riot Gun and Karmic Alteration, as well as Parvati's skill Mother's Revelation, will grant Wisdom. Wisdom enhances the skill effects of Dance of Destruction and Divine Dancer's Leap.\nShiva's skill Divine Dancer's Leap and Parvati's skill Mother's Revelation will be used after the phase changes.\n2. Each time Shiva takes damage of a different attribute, it loses 1 Wisdom stack (1 time for each attribute, count resets at the start of Shiva's next turn).\n3. Every time a certain number of turns passes, Parvati will activate Qi Barrier, changing all of the Shadows' affinities to Null. It is removed when taking damage that is not a continuous effect.\n4. The first time that Shiva or Parvati reach 1 HP, they will enter a weakened state. During this time, they cannot act and cannot be targeted. When Shiva and Parvati enter their weakened states at the same time, they will recover HP and enter the next phase.\n5. When Parvati is defeated, Shiva will immediately activate Dance of Destruction, dealing damage to all Phantom Thieves.\n6. When Shiva is defeated, Parvati will transform into Kali."
+    "strategy": "1. Shiva's skills Riot Gun and Karmic Alteration, as well as Parvati's skill Mother's Revelation, will grant Wisdom. Wisdom enhances the skill effects of Dance of Destruction and Divine Dancer's Leap.\nShiva's skill Divine Dancer's Leap and Parvati's skill Mother's Revelation will be used after the phase changes.\n2. Each time Shiva takes damage of a different attribute, it loses 1 Wisdom stack (1 time for each attribute, count resets at the start of Shiva's next turn).\n3. Every time a certain number of turns passes, Parvati will activate Qi Barrier, changing all of the Shadows' affinities to Null for 1 turn. It is removed when taking damage that is not a continuous effect.\n4. The first time that Shiva or Parvati reach 1 HP, they will enter a weakened state. During this time, they cannot act and cannot be targeted. When Shiva and Parvati enter their weakened states at the same time, they will recover HP and enter the next phase.\n5. When Parvati is defeated, Shiva will immediately activate Dance of Destruction, dealing damage to all Phantom Thieves.\n6. When Shiva is defeated, Parvati will transform into Kali."
   },
   {
     "sn": "902352",
     "name": "Shiva",
     "desc": "One of the major Hindu gods, he is known as the Destroyer, but is also related to regeneration. His wife is Parvati.",
-    "strategy": "1. Shiva's skills Riot Gun and Karmic Alteration, as well as Parvati's skill Mother's Revelation, will grant Wisdom. Wisdom enhances the skill effects of Dance of Destruction and Divine Dancer's Leap.\nShiva's skill Divine Dancer's Leap and Parvati's skill Mother's Revelation will be used after the phase changes.\n2. Each time Shiva takes damage of a different attribute, it loses 1 Wisdom stack (1 time for each attribute, count resets at the start of Shiva's next turn).\n3. Every time a certain number of turns passes, Parvati will activate Qi Barrier, changing all of the Shadows' affinities to Null. It is removed when taking damage that is not a continuous effect.\n4. The first time that Shiva or Parvati reach 1 HP, they will enter a weakened state. During this time, they cannot act and cannot be targeted. When Shiva and Parvati enter their weakened states at the same time, they will recover HP and enter the next phase.\n5. When Parvati is defeated, Shiva will immediately activate Dance of Destruction, dealing damage to all Phantom Thieves.\n6. When Shiva is defeated, Parvati will transform into Kali."
+    "strategy": "1. Shiva's skills Riot Gun and Karmic Alteration, as well as Parvati's skill Mother's Revelation, will grant Wisdom. Wisdom enhances the skill effects of Dance of Destruction and Divine Dancer's Leap.\nShiva's skill Divine Dancer's Leap and Parvati's skill Mother's Revelation will be used after the phase changes.\n2. Each time Shiva takes damage of a different attribute, it loses 1 Wisdom stack (1 time for each attribute, count resets at the start of Shiva's next turn).\n3. Every time a certain number of turns passes, Parvati will activate Qi Barrier, changing all of the Shadows' affinities to Null for 1 turn. It is removed when taking damage that is not a continuous effect.\n4. The first time that Shiva or Parvati reach 1 HP, they will enter a weakened state. During this time, they cannot act and cannot be targeted. When Shiva and Parvati enter their weakened states at the same time, they will recover HP and enter the next phase.\n5. When Parvati is defeated, Shiva will immediately activate Dance of Destruction, dealing damage to all Phantom Thieves.\n6. When Shiva is defeated, Parvati will transform into Kali."
   },
   {
     "sn": "902361",
     "name": "Shiva",
     "desc": "One of the major Hindu gods, he is known as the Destroyer, but is also related to regeneration. His wife is Parvati.",
-    "strategy": "1. Shiva's skills Riot Gun and Karmic Alteration, as well as Parvati's skill Mother's Revelation, will grant Wisdom. Wisdom enhances the skill effects of Dance of Destruction and Divine Dancer's Leap.\nShiva's skill Divine Dancer's Leap and Parvati's skill Mother's Revelation will be used after the phase changes.\n2. Each time Shiva takes damage of a different attribute, it loses 1 Wisdom stack (1 time for each attribute, count resets at the start of Shiva's next turn).\n3. Every time a certain number of turns passes, Parvati will activate Qi Barrier, changing all of the Shadows' affinities to Null. It is removed when taking damage that is not a continuous effect.\n4. The first time that Shiva or Parvati reach 1 HP, they will enter a weakened state. During this time, they cannot act and cannot be targeted. When Shiva and Parvati enter their weakened states at the same time, they will recover HP and enter the next phase.\n5. When Parvati is defeated, Shiva will immediately activate Dance of Destruction, dealing damage to all Phantom Thieves.\n6. When Shiva is defeated, Parvati will transform into Kali."
+    "strategy": "1. Shiva's skills Riot Gun and Karmic Alteration, as well as Parvati's skill Mother's Revelation, will grant Wisdom. Wisdom enhances the skill effects of Dance of Destruction and Divine Dancer's Leap.\nShiva's skill Divine Dancer's Leap and Parvati's skill Mother's Revelation will be used after the phase changes.\n2. Each time Shiva takes damage of a different attribute, it loses 1 Wisdom stack (1 time for each attribute, count resets at the start of Shiva's next turn).\n3. Every time a certain number of turns passes, Parvati will activate Qi Barrier, changing all of the Shadows' affinities to Null for 1 turn. It is removed when taking damage that is not a continuous effect.\n4. The first time that Shiva or Parvati reach 1 HP, they will enter a weakened state. During this time, they cannot act and cannot be targeted. When Shiva and Parvati enter their weakened states at the same time, they will recover HP and enter the next phase.\n5. When Parvati is defeated, Shiva will immediately activate Dance of Destruction, dealing damage to all Phantom Thieves.\n6. When Shiva is defeated, Parvati will transform into Kali."
   },
   {
     "sn": "902362",
     "name": "Shiva",
     "desc": "One of the major Hindu gods, he is known as the Destroyer, but is also related to regeneration. His wife is Parvati.",
-    "strategy": "1. Shiva's skills Riot Gun and Karmic Alteration, as well as Parvati's skill Mother's Revelation, will grant Wisdom. Wisdom enhances the skill effects of Dance of Destruction and Divine Dancer's Leap.\nShiva's skill Divine Dancer's Leap and Parvati's skill Mother's Revelation will be used after the phase changes.\n2. Each time Shiva takes damage of a different attribute, it loses 1 Wisdom stack (1 time for each attribute, count resets at the start of Shiva's next turn).\n3. Every time a certain number of turns passes, Parvati will activate Qi Barrier, changing all of the Shadows' affinities to Null. It is removed when taking damage that is not a continuous effect.\n4. The first time that Shiva or Parvati reach 1 HP, they will enter a weakened state. During this time, they cannot act and cannot be targeted. When Shiva and Parvati enter their weakened states at the same time, they will recover HP and enter the next phase.\n5. When Parvati is defeated, Shiva will immediately activate Dance of Destruction, dealing damage to all Phantom Thieves.\n6. When Shiva is defeated, Parvati will transform into Kali."
+    "strategy": "1. Shiva's skills Riot Gun and Karmic Alteration, as well as Parvati's skill Mother's Revelation, will grant Wisdom. Wisdom enhances the skill effects of Dance of Destruction and Divine Dancer's Leap.\nShiva's skill Divine Dancer's Leap and Parvati's skill Mother's Revelation will be used after the phase changes.\n2. Each time Shiva takes damage of a different attribute, it loses 1 Wisdom stack (1 time for each attribute, count resets at the start of Shiva's next turn).\n3. Every time a certain number of turns passes, Parvati will activate Qi Barrier, changing all of the Shadows' affinities to Null for 1 turn. It is removed when taking damage that is not a continuous effect.\n4. The first time that Shiva or Parvati reach 1 HP, they will enter a weakened state. During this time, they cannot act and cannot be targeted. When Shiva and Parvati enter their weakened states at the same time, they will recover HP and enter the next phase.\n5. When Parvati is defeated, Shiva will immediately activate Dance of Destruction, dealing damage to all Phantom Thieves.\n6. When Shiva is defeated, Parvati will transform into Kali."
   },
   {
     "sn": "902371",
     "name": "Shiva",
     "desc": "One of the major Hindu gods, he is known as the Destroyer, but is also related to regeneration. His wife is Parvati.",
-    "strategy": "1. Shiva's skills Riot Gun and Karmic Alteration, as well as Parvati's skill Mother's Revelation, will grant Wisdom. Wisdom enhances the skill effects of Dance of Destruction and Divine Dancer's Leap.\nShiva's skill Divine Dancer's Leap and Parvati's skill Mother's Revelation will be used after the phase changes.\n2. Each time Shiva takes damage of a different attribute, it loses 1 Wisdom stack (1 time for each attribute, count resets at the start of Shiva's next turn).\n3. Every time a certain number of turns passes, Parvati will activate Qi Barrier, changing all of the Shadows' affinities to Null. It is removed when taking damage that is not a continuous effect.\n4. The first time that Shiva or Parvati reach 1 HP, they will enter a weakened state. During this time, they cannot act and cannot be targeted. When Shiva and Parvati enter their weakened states at the same time, they will recover HP and enter the next phase.\n5. When Parvati is defeated, Shiva will immediately activate Dance of Destruction, dealing damage to all Phantom Thieves.\n6. When Shiva is defeated, Parvati will transform into Kali."
+    "strategy": "1. Shiva's skills Riot Gun and Karmic Alteration, as well as Parvati's skill Mother's Revelation, will grant Wisdom. Wisdom enhances the skill effects of Dance of Destruction and Divine Dancer's Leap.\nShiva's skill Divine Dancer's Leap and Parvati's skill Mother's Revelation will be used after the phase changes.\n2. Each time Shiva takes damage of a different attribute, it loses 1 Wisdom stack (1 time for each attribute, count resets at the start of Shiva's next turn).\n3. Every time a certain number of turns passes, Parvati will activate Qi Barrier, changing all of the Shadows' affinities to Null for 1 turn. It is removed when taking damage that is not a continuous effect.\n4. The first time that Shiva or Parvati reach 1 HP, they will enter a weakened state. During this time, they cannot act and cannot be targeted. When Shiva and Parvati enter their weakened states at the same time, they will recover HP and enter the next phase.\n5. When Parvati is defeated, Shiva will immediately activate Dance of Destruction, dealing damage to all Phantom Thieves.\n6. When Shiva is defeated, Parvati will transform into Kali."
   },
   {
     "sn": "902372",
     "name": "Shiva",
     "desc": "One of the major Hindu gods, he is known as the Destroyer, but is also related to regeneration. His wife is Parvati.",
-    "strategy": "1. Shiva's skills Riot Gun and Karmic Alteration, as well as Parvati's skill Mother's Revelation, will grant Wisdom. Wisdom enhances the skill effects of Dance of Destruction and Divine Dancer's Leap.\nShiva's skill Divine Dancer's Leap and Parvati's skill Mother's Revelation will be used after the phase changes.\n2. Each time Shiva takes damage of a different attribute, it loses 1 Wisdom stack (1 time for each attribute, count resets at the start of Shiva's next turn).\n3. Every time a certain number of turns passes, Parvati will activate Qi Barrier, changing all of the Shadows' affinities to Null. It is removed when taking damage that is not a continuous effect.\n4. The first time that Shiva or Parvati reach 1 HP, they will enter a weakened state. During this time, they cannot act and cannot be targeted. When Shiva and Parvati enter their weakened states at the same time, they will recover HP and enter the next phase.\n5. When Parvati is defeated, Shiva will immediately activate Dance of Destruction, dealing damage to all Phantom Thieves.\n6. When Shiva is defeated, Parvati will transform into Kali."
+    "strategy": "1. Shiva's skills Riot Gun and Karmic Alteration, as well as Parvati's skill Mother's Revelation, will grant Wisdom. Wisdom enhances the skill effects of Dance of Destruction and Divine Dancer's Leap.\nShiva's skill Divine Dancer's Leap and Parvati's skill Mother's Revelation will be used after the phase changes.\n2. Each time Shiva takes damage of a different attribute, it loses 1 Wisdom stack (1 time for each attribute, count resets at the start of Shiva's next turn).\n3. Every time a certain number of turns passes, Parvati will activate Qi Barrier, changing all of the Shadows' affinities to Null for 1 turn. It is removed when taking damage that is not a continuous effect.\n4. The first time that Shiva or Parvati reach 1 HP, they will enter a weakened state. During this time, they cannot act and cannot be targeted. When Shiva and Parvati enter their weakened states at the same time, they will recover HP and enter the next phase.\n5. When Parvati is defeated, Shiva will immediately activate Dance of Destruction, dealing damage to all Phantom Thieves.\n6. When Shiva is defeated, Parvati will transform into Kali."
   },
   {
     "sn": "902381",
     "name": "Shiva",
     "desc": "One of the major Hindu gods, he is known as the Destroyer, but is also related to regeneration. His wife is Parvati.",
-    "strategy": "1. Shiva's skills Riot Gun and Karmic Alteration, as well as Parvati's skill Mother's Revelation, will grant Wisdom. Wisdom enhances the skill effects of Dance of Destruction and Divine Dancer's Leap.\nShiva's skill Divine Dancer's Leap and Parvati's skill Mother's Revelation will be used after the phase changes.\n2. Each time Shiva takes damage of a different attribute, it loses 1 Wisdom stack (1 time for each attribute, count resets at the start of Shiva's next turn).\n3. Every time a certain number of turns passes, Parvati will activate Qi Barrier, changing all of the Shadows' affinities to Null. It is removed when taking damage that is not a continuous effect.\n4. The first time that Shiva or Parvati reach 1 HP, they will enter a weakened state. During this time, they cannot act and cannot be targeted. When Shiva and Parvati enter their weakened states at the same time, they will recover HP and enter the next phase.\n5. When Parvati is defeated, Shiva will immediately activate Dance of Destruction, dealing damage to all Phantom Thieves.\n6. When Shiva is defeated, Parvati will transform into Kali."
+    "strategy": "1. Shiva's skills Riot Gun and Karmic Alteration, as well as Parvati's skill Mother's Revelation, will grant Wisdom. Wisdom enhances the skill effects of Dance of Destruction and Divine Dancer's Leap.\nShiva's skill Divine Dancer's Leap and Parvati's skill Mother's Revelation will be used after the phase changes.\n2. Each time Shiva takes damage of a different attribute, it loses 1 Wisdom stack (1 time for each attribute, count resets at the start of Shiva's next turn).\n3. Every time a certain number of turns passes, Parvati will activate Qi Barrier, changing all of the Shadows' affinities to Null for 1 turn. It is removed when taking damage that is not a continuous effect.\n4. The first time that Shiva or Parvati reach 1 HP, they will enter a weakened state. During this time, they cannot act and cannot be targeted. When Shiva and Parvati enter their weakened states at the same time, they will recover HP and enter the next phase.\n5. When Parvati is defeated, Shiva will immediately activate Dance of Destruction, dealing damage to all Phantom Thieves.\n6. When Shiva is defeated, Parvati will transform into Kali."
   },
   {
     "sn": "902382",
     "name": "Shiva",
     "desc": "One of the major Hindu gods, he is known as the Destroyer, but is also related to regeneration. His wife is Parvati.",
-    "strategy": "1. Shiva's skills Riot Gun and Karmic Alteration, as well as Parvati's skill Mother's Revelation, will grant Wisdom. Wisdom enhances the skill effects of Dance of Destruction and Divine Dancer's Leap.\nShiva's skill Divine Dancer's Leap and Parvati's skill Mother's Revelation will be used after the phase changes.\n2. Each time Shiva takes damage of a different attribute, it loses 1 Wisdom stack (1 time for each attribute, count resets at the start of Shiva's next turn).\n3. Every time a certain number of turns passes, Parvati will activate Qi Barrier, changing all of the Shadows' affinities to Null. It is removed when taking damage that is not a continuous effect.\n4. The first time that Shiva or Parvati reach 1 HP, they will enter a weakened state. During this time, they cannot act and cannot be targeted. When Shiva and Parvati enter their weakened states at the same time, they will recover HP and enter the next phase.\n5. When Parvati is defeated, Shiva will immediately activate Dance of Destruction, dealing damage to all Phantom Thieves.\n6. When Shiva is defeated, Parvati will transform into Kali."
+    "strategy": "1. Shiva's skills Riot Gun and Karmic Alteration, as well as Parvati's skill Mother's Revelation, will grant Wisdom. Wisdom enhances the skill effects of Dance of Destruction and Divine Dancer's Leap.\nShiva's skill Divine Dancer's Leap and Parvati's skill Mother's Revelation will be used after the phase changes.\n2. Each time Shiva takes damage of a different attribute, it loses 1 Wisdom stack (1 time for each attribute, count resets at the start of Shiva's next turn).\n3. Every time a certain number of turns passes, Parvati will activate Qi Barrier, changing all of the Shadows' affinities to Null for 1 turn. It is removed when taking damage that is not a continuous effect.\n4. The first time that Shiva or Parvati reach 1 HP, they will enter a weakened state. During this time, they cannot act and cannot be targeted. When Shiva and Parvati enter their weakened states at the same time, they will recover HP and enter the next phase.\n5. When Parvati is defeated, Shiva will immediately activate Dance of Destruction, dealing damage to all Phantom Thieves.\n6. When Shiva is defeated, Parvati will transform into Kali."
   },
   {
     "sn": "902391",
     "name": "Shiva",
     "desc": "One of the major Hindu gods, he is known as the Destroyer, but is also related to regeneration. His wife is Parvati.",
-    "strategy": "1. Shiva's skills Riot Gun and Karmic Alteration, as well as Parvati's skill Mother's Revelation, will grant Wisdom. Wisdom enhances the skill effects of Dance of Destruction and Divine Dancer's Leap.\nShiva's skill Divine Dancer's Leap and Parvati's skill Mother's Revelation will be used after the phase changes.\n2. Each time Shiva takes damage of a different attribute, it loses 1 Wisdom stack (1 time for each attribute, count resets at the start of Shiva's next turn).\n3. Every time a certain number of turns passes, Parvati will activate Qi Barrier, changing all of the Shadows' affinities to Null. It is removed when taking damage that is not a continuous effect.\n4. The first time that Shiva or Parvati reach 1 HP, they will enter a weakened state. During this time, they cannot act and cannot be targeted. When Shiva and Parvati enter their weakened states at the same time, they will recover HP and enter the next phase.\n5. When Parvati is defeated, Shiva will immediately activate Dance of Destruction, dealing damage to all Phantom Thieves.\n6. When Shiva is defeated, Parvati will transform into Kali."
+    "strategy": "1. Shiva's skills Riot Gun and Karmic Alteration, as well as Parvati's skill Mother's Revelation, will grant Wisdom. Wisdom enhances the skill effects of Dance of Destruction and Divine Dancer's Leap.\nShiva's skill Divine Dancer's Leap and Parvati's skill Mother's Revelation will be used after the phase changes.\n2. Each time Shiva takes damage of a different attribute, it loses 1 Wisdom stack (1 time for each attribute, count resets at the start of Shiva's next turn).\n3. Every time a certain number of turns passes, Parvati will activate Qi Barrier, changing all of the Shadows' affinities to Null for 1 turn. It is removed when taking damage that is not a continuous effect.\n4. The first time that Shiva or Parvati reach 1 HP, they will enter a weakened state. During this time, they cannot act and cannot be targeted. When Shiva and Parvati enter their weakened states at the same time, they will recover HP and enter the next phase.\n5. When Parvati is defeated, Shiva will immediately activate Dance of Destruction, dealing damage to all Phantom Thieves.\n6. When Shiva is defeated, Parvati will transform into Kali."
   },
   {
     "sn": "902392",
     "name": "Shiva",
     "desc": "One of the major Hindu gods, he is known as the Destroyer, but is also related to regeneration. His wife is Parvati.",
-    "strategy": "1. Shiva's skills Riot Gun and Karmic Alteration, as well as Parvati's skill Mother's Revelation, will grant Wisdom. Wisdom enhances the skill effects of Dance of Destruction and Divine Dancer's Leap.\nShiva's skill Divine Dancer's Leap and Parvati's skill Mother's Revelation will be used after the phase changes.\n2. Each time Shiva takes damage of a different attribute, it loses 1 Wisdom stack (1 time for each attribute, count resets at the start of Shiva's next turn).\n3. Every time a certain number of turns passes, Parvati will activate Qi Barrier, changing all of the Shadows' affinities to Null. It is removed when taking damage that is not a continuous effect.\n4. The first time that Shiva or Parvati reach 1 HP, they will enter a weakened state. During this time, they cannot act and cannot be targeted. When Shiva and Parvati enter their weakened states at the same time, they will recover HP and enter the next phase.\n5. When Parvati is defeated, Shiva will immediately activate Dance of Destruction, dealing damage to all Phantom Thieves.\n6. When Shiva is defeated, Parvati will transform into Kali."
+    "strategy": "1. Shiva's skills Riot Gun and Karmic Alteration, as well as Parvati's skill Mother's Revelation, will grant Wisdom. Wisdom enhances the skill effects of Dance of Destruction and Divine Dancer's Leap.\nShiva's skill Divine Dancer's Leap and Parvati's skill Mother's Revelation will be used after the phase changes.\n2. Each time Shiva takes damage of a different attribute, it loses 1 Wisdom stack (1 time for each attribute, count resets at the start of Shiva's next turn).\n3. Every time a certain number of turns passes, Parvati will activate Qi Barrier, changing all of the Shadows' affinities to Null for 1 turn. It is removed when taking damage that is not a continuous effect.\n4. The first time that Shiva or Parvati reach 1 HP, they will enter a weakened state. During this time, they cannot act and cannot be targeted. When Shiva and Parvati enter their weakened states at the same time, they will recover HP and enter the next phase.\n5. When Parvati is defeated, Shiva will immediately activate Dance of Destruction, dealing damage to all Phantom Thieves.\n6. When Shiva is defeated, Parvati will transform into Kali."
   },
   {
     "sn": "902333",
@@ -3075,7 +3057,7 @@
     "sn": "921711",
     "name": "Zaou-Gongen",
     "desc": "Repeller of evil found at Kinpusen by En-no-Ozunu. Believed to be a fusion of Buddha, Guanyin, and Maitreya, he's a god who originated from Japan rather than the Buddhavacana.",
-    "strategy": "AAAAAA=="
+    "strategy": "Weaknesses and resistances are different than normal."
   },
   {
     "sn": "921811",
@@ -5145,1039 +5127,1039 @@
     "sn": "640011",
     "name": "Daisoujou",
     "desc": "A monk who died while fasting, his spiritual power allows his body to continue to exist without rotting. It is said that he will appear before people on the day of salvation.",
-    "strategy": "AAAAAA=="
+    "strategy": "Weaknesses and resistances are different than normal."
   },
   {
     "sn": "640021",
     "name": "Take-Minakata",
     "desc": "A Japanese god of war, hunting and fertility. He fought Take-Mikazuchi for control of Japan and lost. He escaped to Suwa, but has been prohibited to leave since then.",
-    "strategy": "AAAAAA=="
+    "strategy": "Weaknesses and resistances are different than normal."
   },
   {
     "sn": "640111",
     "name": "Pazuzu",
     "desc": "The Babylonian lord of wind and scorching sands. He has the body of a man, a lion's head, the claws and wings of an eagle, and has a deadly poison. The diseases he spreads can only be cured with magic.",
-    "strategy": "AAAAAA=="
+    "strategy": "Weaknesses and resistances are different than normal."
   },
   {
     "sn": "640112",
     "name": "Rangda",
     "desc": "A wicked witch of Balinese lore, she represents evil and is Barong's eternal rival. Even if defeated, she will come back to life, and their battle will have no end.",
-    "strategy": "AAAAAA=="
+    "strategy": "Weaknesses and resistances are different than normal."
   },
   {
     "sn": "640121",
     "name": "Kumbhanda",
     "desc": "A Buddhist demon said to drain human life energy. He has dark skin, stands three meters tall, and sometimes changes his shape to a gourd. Known to have once served Rudra, the god of storms.",
-    "strategy": "AAAAAA=="
+    "strategy": "Weaknesses and resistances are different than normal."
   },
   {
     "sn": "640122",
     "name": "Rakshasa",
     "desc": "A Hindu demon. He is an enemy of the gods and attacks humans to feed off of them. His hideous appearance strikes fear into those who see him. Rakshasa shape-shifts to deceive his enemies.",
-    "strategy": "AAAAAA=="
+    "strategy": "Weaknesses and resistances are different than normal."
   },
   {
     "sn": "640211",
     "name": "Kikuri-Hime",
     "desc": "The goddess of life in Shinto myth. She once mediated between Izanagi and Izanami during their confrontation in Yomi, the land of the dead.",
-    "strategy": "AAAAAA=="
+    "strategy": "Weaknesses and resistances are different than normal."
   },
   {
     "sn": "640212",
     "name": "Kushinada",
     "desc": "A Japanese goddess. She governs fields and fertility. All of her sisters were sacrificed to Yamata-no-Orochi, but she was saved by Susano-o and became his wife.",
-    "strategy": "AAAAAA=="
+    "strategy": "Weaknesses and resistances are different than normal."
   },
   {
     "sn": "640213",
     "name": "Ame-no-Uzume",
     "desc": "Japanese goddess of entertainment, she governs many sacred dances. She is most famous for luring out Amaterasu, who had barricaded herself inside a cave.",
-    "strategy": "AAAAAA=="
+    "strategy": "Weaknesses and resistances are different than normal."
   },
   {
     "sn": "640221",
     "name": "Barong",
     "desc": "A mystical creature in Balinese lore, it represents good and is Rangda's eternal rival. Even if defeated, it will be reborn. The result is a never-ending struggle.",
-    "strategy": "AAAAAA=="
+    "strategy": "Weaknesses and resistances are different than normal."
   },
   {
     "sn": "640222",
     "name": "Barong",
     "desc": "A mystical creature in Balinese lore, it represents good and is Rangda's eternal rival. Even if defeated, it will be reborn. The result is a never-ending struggle.",
-    "strategy": "AAAAAA=="
+    "strategy": "Weaknesses and resistances are different than normal."
   },
   {
     "sn": "640223",
     "name": "Shiisaa",
     "desc": "A holy beast said to protect houses from evil and bring good fortune. They look similar to Shinto guardian dogs, but are actually modeled after a lion. There are many stories about it in Ryukyu lore.",
-    "strategy": "AAAAAA=="
+    "strategy": "Weaknesses and resistances are different than normal."
   },
   {
     "sn": "640224",
     "name": "Shiisaa",
     "desc": "A holy beast said to protect houses from evil and bring good fortune. They look similar to Shinto guardian dogs, but are actually modeled after a lion. There are many stories about it in Ryukyu lore.",
-    "strategy": "AAAAAA=="
+    "strategy": "Weaknesses and resistances are different than normal."
   },
   {
     "sn": "640225",
     "name": "Shiisaa",
     "desc": "A holy beast said to protect houses from evil and bring good fortune. They look similar to Shinto guardian dogs, but are actually modeled after a lion. There are many stories about it in Ryukyu lore.",
-    "strategy": "AAAAAA=="
+    "strategy": "Weaknesses and resistances are different than normal."
   },
   {
     "sn": "640311",
     "name": "Arahabaki",
     "desc": "A mysterious god of ancient Japan. Most famously worshipped by Nagasunehiko, who was defeated in battle against Emperor Jinmu, Arahabaki came to be treated as a symbol of rebellion and defiance.",
-    "strategy": "AAAAAA=="
+    "strategy": "Weaknesses and resistances are different than normal."
   },
   {
     "sn": "640321",
     "name": "Belphegor",
     "desc": "Demonic governor of the deadly sin of sloth. He also excels at invention and discovery. May be derived from Ba'al Pe'or, Syrian god of abundant crops.",
-    "strategy": "AAAAAA=="
+    "strategy": "Weaknesses and resistances are different than normal."
   },
   {
     "sn": "640411",
     "name": "Ganesha",
     "desc": "The Hindu elephant-headed god. He was originally created by Parvati in order to prevent anyone from watching her bathe. Shiva batted off his original head and replaced it with an elephant's head.",
-    "strategy": "AAAAAA=="
+    "strategy": "Weaknesses and resistances are different than normal."
   },
   {
     "sn": "640412",
     "name": "Girimehkala",
     "desc": "A giant elephant monster of Sri Lankan myth, it is typically portrayed as being ridden by the Evil One, Mara. Whoever looks into its evil eye is said to be met with misfortune.",
-    "strategy": "AAAAAA=="
+    "strategy": "Weaknesses and resistances are different than normal."
   },
   {
     "sn": "640421",
     "name": "Seth",
     "desc": "The Egyptian god of the desert, chaos, and evil. He murdered his brother, Osiris, and tried to become chief god, but he was castrated by Osiris's son, Horus.",
-    "strategy": "AAAAAA=="
+    "strategy": "Weaknesses and resistances are different than normal."
   },
   {
     "sn": "640422",
     "name": "Horus",
     "desc": "An ancient god of Egypt whose eyes are the sun and moon. Revered by some as the chief god, he is often depicted as a hawk or a falcon.",
-    "strategy": "AAAAAA=="
+    "strategy": "Weaknesses and resistances are different than normal."
   },
   {
     "sn": "640511",
     "name": "Raja Naga",
     "desc": "The king of the Naga, a half-man, half-snake tribe in Hindu lore. The dragon kings Nanda and Takshaka of Buddhist myth fall into this royal category.",
-    "strategy": "AAAAAA=="
+    "strategy": "Weaknesses and resistances are different than normal."
   },
   {
     "sn": "640512",
     "name": "Quetzalcoatl",
     "desc": "An Aztec deity known as the Feathered Serpent. He created humans with his own blood and taught them how to sustain themselves.",
-    "strategy": "AAAAAA=="
+    "strategy": "Weaknesses and resistances are different than normal."
   },
   {
     "sn": "640513",
     "name": "Yurlungur",
     "desc": "A snake with a rainbow body from Murngin lore. He is a fertility deity who controls the weather and resides in a holy pond filled with rainbow-colored water.",
-    "strategy": "AAAAAA=="
+    "strategy": "Weaknesses and resistances are different than normal."
   },
   {
     "sn": "640514",
     "name": "Yurlungur",
     "desc": "A snake with a rainbow body from Murngin lore. He is a fertility deity who controls the weather and resides in a holy pond filled with rainbow-colored water.",
-    "strategy": "AAAAAA=="
+    "strategy": "Weaknesses and resistances are different than normal."
   },
   {
     "sn": "640521",
     "name": "Power",
     "desc": "The sixth of the nine orders of angels. It is said that they were the first order to be created. Their duty is to protect human souls from demons.",
-    "strategy": "AAAAAA=="
+    "strategy": "Weaknesses and resistances are different than normal."
   },
   {
     "sn": "640522",
     "name": "Principality",
     "desc": "The seventh of the nine orders of angels. They guard cities and nations, and protect various religious figures.",
-    "strategy": "AAAAAA=="
+    "strategy": "Weaknesses and resistances are different than normal."
   },
   {
     "sn": "640523",
     "name": "Archangel",
     "desc": "The eighth of the nine orders of angels. Their duty is to minister to humans and deliver messages. They are warriors of Heaven and lead Heaven's forces during battle with the armies of evil.",
-    "strategy": "AAAAAA=="
+    "strategy": "Weaknesses and resistances are different than normal."
   },
   {
     "sn": "640524",
     "name": "Angel",
     "desc": "The ninth of the nine orders of angels. They are closest in nature to humans. They watch over individuals and warn those who stray from the path.",
-    "strategy": "AAAAAA=="
+    "strategy": "Weaknesses and resistances are different than normal."
   },
   {
     "sn": "640611",
     "name": "Thor",
     "desc": "The Norse thunder god and son of Odin, Thor owns the power-enhancing belt Megingjard and wields Mjolnir, a hammer that causes lightning to strike and returns to its owner if thrown.",
-    "strategy": "AAAAAA=="
+    "strategy": "Weaknesses and resistances are different than normal."
   },
   {
     "sn": "640621",
     "name": "Okuninushi",
     "desc": "A Kunitsu deity in Japanese mythology that governs agriculture and medicine. He's said to have built the country of Izumo with Susano-o's daughter, Suseri-Hime.",
-    "strategy": "AAAAAA=="
+    "strategy": "Weaknesses and resistances are different than normal."
   },
   {
     "sn": "640711",
     "name": "Queen Mab",
     "desc": "The fairy queen in Celtic myth. Often identified with Titania. She would offer mead mixed with her blood to her many consorts.",
-    "strategy": "AAAAAA=="
+    "strategy": "Weaknesses and resistances are different than normal."
   },
   {
     "sn": "640712",
     "name": "Queen Mab",
     "desc": "The fairy queen in Celtic myth. Often identified with Titania. She would offer mead mixed with her blood to her many consorts.",
-    "strategy": "AAAAAA=="
+    "strategy": "Weaknesses and resistances are different than normal."
   },
   {
     "sn": "640721",
     "name": "Jatayu",
     "desc": "The Hindu king of birds. In the Ramayana, he fought bravely against Ravana in an attempt to save Sita, Rama's wife and the seventh avatar of Vishnu, but lost.",
-    "strategy": "AAAAAA=="
+    "strategy": "Weaknesses and resistances are different than normal."
   },
   {
     "sn": "640722",
     "name": "Garuda",
     "desc": "A divine bird-man in Hindu lore, he once fought the gods and received immortality in exchange for becoming Vishnu's carrier.",
-    "strategy": "AAAAAA=="
+    "strategy": "Weaknesses and resistances are different than normal."
   },
   {
     "sn": "640811",
     "name": "Clotho",
     "desc": "The youngest of the three Moirae Sisters of Greek legend. She spins the threads of life with her spindle.",
-    "strategy": "AAAAAA=="
+    "strategy": "Weaknesses and resistances are different than normal."
   },
   {
     "sn": "640812",
     "name": "Lachesis",
     "desc": "The middle sister of the three Moirae Sisters of Greek legend. She is the apportioner, measuring the thread which determines each person's lifespan.",
-    "strategy": "AAAAAA=="
+    "strategy": "Weaknesses and resistances are different than normal."
   },
   {
     "sn": "640813",
     "name": "Atropos",
     "desc": "The eldest of the three Moirae Sisters of Greek mythology. She cuts the threads of life for those whose time has come.",
-    "strategy": "AAAAAA=="
+    "strategy": "Weaknesses and resistances are different than normal."
   },
   {
     "sn": "640821",
     "name": "Seiryu",
     "desc": "The noblest of the Ssu-Ling creatures of Chinese myth. It represents the direction east, the season of spring, and the element of wood. It dwells in a palace at the bottom of the ocean.",
-    "strategy": "AAAAAA=="
+    "strategy": "Weaknesses and resistances are different than normal."
   },
   {
     "sn": "640822",
     "name": "Byakko",
     "desc": "One of the Ssu-Ling, celestial creatures of Chinese myth. It represents the direction west, the season of autumn, and the element of metal. He is believed to be the king of all beasts.",
-    "strategy": "AAAAAA=="
+    "strategy": "Weaknesses and resistances are different than normal."
   },
   {
     "sn": "640823",
     "name": "Suzaku",
     "desc": "One of the Ssu-Ling, celestial creatures in Chinese myth. It is a giant bird that is said to chirp in five beautiful voices. It represents the direction south, the season of summer, and the element of fire.",
-    "strategy": "AAAAAA=="
+    "strategy": "Weaknesses and resistances are different than normal."
   },
   {
     "sn": "640824",
     "name": "Genbu",
     "desc": "One of the Ssu-Ling, celestial creatures of Chinese myth. It represents the direction north, the season of winter, and the element of water. Known to be a great warrior, it supports the Earth from below.",
-    "strategy": "AAAAAA=="
+    "strategy": "Weaknesses and resistances are different than normal."
   },
   {
     "sn": "641011",
     "name": "Moloch",
     "desc": "A Canaanite god of fire. A bronze statue of a man with a bull's head stands at his altar. The statue was heated and sacrificial children were thrown inside.",
-    "strategy": "AAAAAA=="
+    "strategy": "Weaknesses and resistances are different than normal."
   },
   {
     "sn": "641021",
     "name": "Yamata-no-Orochi",
     "desc": "A giant snake with eight heads that Susano-o defeated to save Kushinada-hime. The legendary sword Ame-no-Murakumo-no-Tsurugi, also known as the \"Sword of Kusanagi,\" emerged from its belly.",
-    "strategy": "AAAAAA=="
+    "strategy": "Weaknesses and resistances are different than normal."
   },
   {
     "sn": "641031",
     "name": "Surt",
     "desc": "A fire giant in Norse lore. He rules the fire realm, Muspelheim, and brandishes a burning sword. At Ragnarok, he will set the world ablaze.",
-    "strategy": "AAAAAA=="
+    "strategy": "Weaknesses and resistances are different than normal."
   },
   {
     "sn": "641041",
     "name": "Hecatoncheires",
     "desc": "Giants born from Uranus and Gaia. The name means \"those with a hundred arms.\" During the war of the Titans, Zeus freed them from the Underworld to help him obtain victory.",
-    "strategy": "AAAAAA=="
+    "strategy": "Weaknesses and resistances are different than normal."
   },
   {
     "sn": "641211",
     "name": "Melchizedek",
     "desc": "An angel of Gnosticism, governing over peace and righteousness. Though said to be the savior of the angels, he used to be a human, the king of Salem.",
-    "strategy": "AAAAAA=="
+    "strategy": "Weaknesses and resistances are different than normal."
   },
   {
     "sn": "641212",
     "name": "Melchizedek",
     "desc": "An angel of Gnosticism, governing over peace and righteousness. Though said to be the savior of the angels, he used to be a human, the king of Salem.",
-    "strategy": "AAAAAA=="
+    "strategy": "Weaknesses and resistances are different than normal."
   },
   {
     "sn": "641221",
     "name": "Nebiros",
     "desc": "The general of Hell. He keeps watch over other demons. One of Hell's greatest necromancers, he can control souls and corpses.",
-    "strategy": "AAAAAA=="
+    "strategy": "Weaknesses and resistances are different than normal."
   },
   {
     "sn": "641222",
     "name": "Nebiros",
     "desc": "The general of Hell. He keeps watch over other demons. One of Hell's greatest necromancers, he can control souls and corpses.",
-    "strategy": "AAAAAA=="
+    "strategy": "Weaknesses and resistances are different than normal."
   },
   {
     "sn": "641231",
     "name": "Oberon",
     "desc": "The king of the fairies and Titania's husband. He is quite old but, due to a curse, his looks are that of a young boy. He often flirts with human women, which sometimes earns him a scolding from his wife.",
-    "strategy": "AAAAAA=="
+    "strategy": "Weaknesses and resistances are different than normal."
   },
   {
     "sn": "641232",
     "name": "Titania",
     "desc": "The queen of the fairies and Oberon's wife. She is derived from the Roman goddess Diana. She was later immortalized in Shakespeare's play \"A Midsummer Night's Dream.\"",
-    "strategy": "AAAAAA=="
+    "strategy": "Weaknesses and resistances are different than normal."
   },
   {
     "sn": "641241",
     "name": "Baphomet",
     "desc": "A goat-headed demon that is worshipped in Black Sabbaths. His name can be used as a catch-all term for demons in general. He would become an object of worship for witches.",
-    "strategy": "AAAAAA=="
+    "strategy": "Weaknesses and resistances are different than normal."
   },
   {
     "sn": "641242",
     "name": "Baphomet",
     "desc": "A goat-headed demon that is worshipped in Black Sabbaths. His name can be used as a catch-all term for demons in general. He would become an object of worship for witches.",
-    "strategy": "AAAAAA=="
+    "strategy": "Weaknesses and resistances are different than normal."
   },
   {
     "sn": "641411",
     "name": "Byakko",
     "desc": "One of the Ssu-Ling, celestial creatures of Chinese myth. It represents the direction west, the season of autumn, and the element of metal. He is believed to be the king of all beasts.",
-    "strategy": "AAAAAA=="
+    "strategy": "Weaknesses and resistances are different than normal."
   },
   {
     "sn": "641412",
     "name": "Cerberus",
     "desc": "The guardian hound who prevents anyone from entering or exiting the underworld in Greek lore. It was born from Typhon and Echidna, and is the older brother of Orthrus.",
-    "strategy": "AAAAAA=="
+    "strategy": "Weaknesses and resistances are different than normal."
   },
   {
     "sn": "641413",
     "name": "Orthrus",
     "desc": "The two-headed pet dog belonging to the giant Geryon of Greek myth. He guarded a herd of red oxen but was killed by Hercules during one of his twelve labors.",
-    "strategy": "AAAAAA=="
+    "strategy": "Weaknesses and resistances are different than normal."
   },
   {
     "sn": "641421",
     "name": "Dionysus",
     "desc": "The Greek god of wine and theater. He was originally a god of life protecting the mountains of Thrace. He taught humans how to make wine.",
-    "strategy": "AAAAAA=="
+    "strategy": "Weaknesses and resistances are different than normal."
   },
   {
     "sn": "641422",
     "name": "Norn",
     "desc": "Goddesses of fate in Norse lore. They live below the roots of Yggdrasil and weave the threads of fate, which even the gods are bound by.",
-    "strategy": "AAAAAA=="
+    "strategy": "Weaknesses and resistances are different than normal."
   },
   {
     "sn": "641423",
     "name": "Norn",
     "desc": "Goddesses of fate in Norse lore. They live below the roots of Yggdrasil and weave the threads of fate, which even the gods are bound by.",
-    "strategy": "AAAAAA=="
+    "strategy": "Weaknesses and resistances are different than normal."
   },
   {
     "sn": "641431",
     "name": "Cu Chulainn",
     "desc": "A hero in Celtic folklore. He was called Setanta until he earned the name, \"Culann's Hound.\" There are many tales of his adventures. He received his spear, Gae Bolg, from his mentor, Scathach.",
-    "strategy": "AAAAAA=="
+    "strategy": "Weaknesses and resistances are different than normal."
   },
   {
     "sn": "641432",
     "name": "Scathach",
     "desc": "A warrior woman of the Land of Shadows in Celtic lore. She taught the hero, Cu Chulainn, the art of war and gave him the spear, Gae Bolg.",
-    "strategy": "AAAAAA=="
+    "strategy": "Weaknesses and resistances are different than normal."
   },
   {
     "sn": "641433",
     "name": "Narcissus",
     "desc": "A young man of Greek myth. He rejected the nymph Echo, who faded to a whisper out of despair. Cursed by Nemesis, he fell in love with his own reflection and wasted away.",
-    "strategy": "AAAAAA=="
+    "strategy": "Weaknesses and resistances are different than normal."
   },
   {
     "sn": "641434",
     "name": "Leanan Sidhe",
     "desc": "A beautiful fairy of Irish lore that yearns for the love of a human man. She drains the life of her lovers in return for granting them artistic inspiration.",
-    "strategy": "AAAAAA=="
+    "strategy": "Weaknesses and resistances are different than normal."
   },
   {
     "sn": "641511",
     "name": "Kohryu",
     "desc": "Known as the Gold Dragon, it reigns over the Ssu-Ling, celestial creatures of Chinese lore. It is located at the center of the four beasts.",
-    "strategy": "AAAAAA=="
+    "strategy": "Weaknesses and resistances are different than normal."
   },
   {
     "sn": "641521",
     "name": "Beelzebub",
     "desc": "Demonic Lord of the Flies whose insect minions carry souls for him to control. He is mentioned in the Bible as a leader of evil spirits and is seen as a powerful demon.",
-    "strategy": "AAAAAA=="
+    "strategy": "Weaknesses and resistances are different than normal."
   },
   {
     "sn": "641531",
     "name": "Zaou-Gongen",
     "desc": "Repeller of evil found at Kinpusen by En-no-Ozunu. Believed to be a fusion of Buddha, Guanyin, and Maitreya, he's a god who originated from Japan rather than the Buddhavacana.",
-    "strategy": "AAAAAA=="
+    "strategy": "Weaknesses and resistances are different than normal."
   },
   {
     "sn": "641541",
     "name": "Sraosha",
     "desc": "In Zoroastrian lore, Sraosha's duty is to listen to the cry of humans for Ahura Mazda. He is also known to descend after sunset to vanquish evil. His name literally means \"observance.\"",
-    "strategy": "AAAAAA=="
+    "strategy": "Weaknesses and resistances are different than normal."
   },
   {
     "sn": "641711",
     "name": "Cu Chulainn",
     "desc": "A hero in Celtic folklore. He was called Setanta until he earned the name, \"Culann's Hound.\" There are many tales of his adventures. He received his spear, Gae Bolg, from his mentor, Scathach.",
-    "strategy": "AAAAAA=="
+    "strategy": "Weaknesses and resistances are different than normal."
   },
   {
     "sn": "641712",
     "name": "Scathach",
     "desc": "A warrior woman of the Land of Shadows in Celtic lore. She taught the hero, Cu Chulainn, the art of war and gave him the spear, Gae Bolg.",
-    "strategy": "AAAAAA=="
+    "strategy": "Weaknesses and resistances are different than normal."
   },
   {
     "sn": "641721",
     "name": "Asura",
     "desc": "The Hindu king of Asuras is named Maha Vairocana, or \"One Who Shines On All.\" In Buddhism, he is known as Dainichi Nyorai.",
-    "strategy": "AAAAAA=="
+    "strategy": "Weaknesses and resistances are different than normal."
   },
   {
     "sn": "641722",
     "name": "Lakshmi",
     "desc": "The Hindu goddess of beauty and good fortune, Vishnu's wife, and Kama's mother. She is the goddess of love, believed to have been born from an ocean of milk.",
-    "strategy": "AAAAAA=="
+    "strategy": "Weaknesses and resistances are different than normal."
   },
   {
     "sn": "641731",
     "name": "Raphael",
     "desc": "One of the four major archangels, his name means \"healer.\" He recites the history of the fallen angels and the creation of Adam and Eve.",
-    "strategy": "AAAAAA=="
+    "strategy": "Weaknesses and resistances are different than normal."
   },
   {
     "sn": "641732",
     "name": "Uriel",
     "desc": "One of the four major archangels. His name means \"Flame of God,\" and he knows all the celestial phenomena. He is the first angel Satan met on earth.",
-    "strategy": "AAAAAA=="
+    "strategy": "Weaknesses and resistances are different than normal."
   },
   {
     "sn": "641911",
     "name": "King Frost",
     "desc": "The king of snow who rules over an infinite number of Jack Frosts. He has the power to freeze the entire world, but is unaware of it due to his naïve personality.",
-    "strategy": "AAAAAA=="
+    "strategy": "Weaknesses and resistances are different than normal."
   },
   {
     "sn": "641912",
     "name": "Black Frost",
-    "desc": "A Jack Frost that yearned for evil. This powerful demon is born when a cute Jack Frost remembers its nature as a demon.",
-    "strategy": "AAAAAA=="
+    "desc": "A Jack Frost that yearned for evil. This powerful demon is born when a cute Jack Frost remembers its demonic nature.",
+    "strategy": "Weaknesses and resistances are different than normal."
   },
   {
     "sn": "641913",
     "name": "Black Frost",
-    "desc": "A Jack Frost that yearned for evil. This powerful demon is born when a cute Jack Frost remembers its nature as a demon.",
-    "strategy": "AAAAAA=="
+    "desc": "A Jack Frost that yearned for evil. This powerful demon is born when a cute Jack Frost remembers its demonic nature.",
+    "strategy": "Weaknesses and resistances are different than normal."
   },
   {
     "sn": "641921",
     "name": "Jikokuten",
     "desc": "Also known as Dhritarashtra, he is the protector of the East, and is one of the four Heavenly Kings of Buddhist origin. He helps maintain the security of the nation.",
-    "strategy": "AAAAAA=="
+    "strategy": "Weaknesses and resistances are different than normal."
   },
   {
     "sn": "641922",
     "name": "Zouchouten",
     "desc": "Also known as Virudhaka, he is the protector of the South, and is one of the four Heavenly Kings of Buddhist origin. He is the god of the five grains, and was once the chief of the gods.",
-    "strategy": "AAAAAA=="
+    "strategy": "Weaknesses and resistances are different than normal."
   },
   {
     "sn": "641923",
     "name": "Koumokuten",
     "desc": "Also known as Virupaksha, he is the protector of the West, and is one of the four Heavenly Kings of Buddhist origin. He keeps a close watch on the world with his sharp gaze.",
-    "strategy": "AAAAAA=="
+    "strategy": "Weaknesses and resistances are different than normal."
   },
   {
     "sn": "641924",
     "name": "Bishamonten",
     "desc": "Also known as Tamonten and Vaishravana in Buddhist lore, he is the strongest of the Heavenly Kings. He protects the North and is the god of war.",
-    "strategy": "AAAAAA=="
+    "strategy": "Weaknesses and resistances are different than normal."
   },
   {
     "sn": "641931",
     "name": "White Rider",
     "desc": "One of the Four Horsemen of the Apocalypse, he rides a white horse with a bow in hand. A crown was granted to him, and he promises victory.",
-    "strategy": "AAAAAA=="
+    "strategy": "Weaknesses and resistances are different than normal."
   },
   {
     "sn": "641932",
     "name": "Black Rider",
     "desc": "One of the Four Horsemen of the Apocalypse, he rides a black horse and carries scales. He brings famine and has the right to end lives through suffering.",
-    "strategy": "AAAAAA=="
+    "strategy": "Weaknesses and resistances are different than normal."
   },
   {
     "sn": "641933",
     "name": "Pale Rider",
     "desc": "One of the Four Horsemen of the Apocalypse, he rides a pale horse and represents death. He has the power to destroy life.",
-    "strategy": "AAAAAA=="
+    "strategy": "Weaknesses and resistances are different than normal."
   },
   {
     "sn": "641934",
     "name": "Red Rider",
     "desc": "One of the Four Horsemen of the Apocalypse, he rides a red horse and carries a great sword. He has the power to destroy peace and make men slay one another.",
-    "strategy": "AAAAAA=="
+    "strategy": "Weaknesses and resistances are different than normal."
   },
   {
     "sn": "643011",
     "name": "Dominion",
     "desc": "The fourth of the nine orders of angels. Their duty is to oversee the other angels. Their actions are the manifestation of God's will.",
-    "strategy": "AAAAAA=="
+    "strategy": "Weaknesses and resistances are different than normal."
   },
   {
     "sn": "643012",
     "name": "Power",
     "desc": "The sixth of the nine orders of angels. It is said that they were the first order to be created. Their duty is to protect human souls from demons.",
-    "strategy": "AAAAAA=="
+    "strategy": "Weaknesses and resistances are different than normal."
   },
   {
     "sn": "643013",
     "name": "Principality",
     "desc": "The seventh of the nine orders of angels. They guard cities and nations, and protect various religious figures.",
-    "strategy": "AAAAAA=="
+    "strategy": "Weaknesses and resistances are different than normal."
   },
   {
     "sn": "643014",
     "name": "Archangel",
     "desc": "The eighth of the nine orders of angels. Their duty is to minister to humans and deliver messages. They are warriors of Heaven and lead Heaven's forces during battle with the armies of evil.",
-    "strategy": "AAAAAA=="
+    "strategy": "Weaknesses and resistances are different than normal."
   },
   {
     "sn": "643021",
     "name": "Asura",
     "desc": "The Hindu king of Asuras is named Maha Vairocana, or \"One Who Shines On All.\" In Buddhism, he is known as Dainichi Nyorai.",
-    "strategy": "AAAAAA=="
+    "strategy": "Weaknesses and resistances are different than normal."
   },
   {
     "sn": "643022",
     "name": "Lakshmi",
     "desc": "The Hindu goddess of beauty and good fortune, Vishnu's wife, and Kama's mother. She is the goddess of love, believed to have been born from an ocean of milk.",
-    "strategy": "AAAAAA=="
+    "strategy": "Weaknesses and resistances are different than normal."
   },
   {
     "sn": "643031",
     "name": "Mara",
     "desc": "A Buddhist demon that represents the fear of death. Also known as \"The Evil One,\" he sent his daughters to tempt Buddha during his meditations.",
-    "strategy": "AAAAAA=="
+    "strategy": "Weaknesses and resistances are different than normal."
   },
   {
     "sn": "644011",
     "name": "Yoshitsune",
     "desc": "A Japanese general of the Genpei War near the end of the Heian era and start of the Kamakura era. His bold ingenuity and ruthless skill with a blade are still praised in Japan today.",
-    "strategy": "AAAAAA=="
+    "strategy": "Weaknesses and resistances are different than normal."
   },
   {
     "sn": "644021",
     "name": "Futsunushi",
     "desc": "The Nihonshoki sword deity who pacified Ashihara-no-Nakatsukuni. His name comes from \"futsu,\" the fashion in which things are cut, and \"nushi,\" his nature as a god.",
-    "strategy": "AAAAAA=="
+    "strategy": "Weaknesses and resistances are different than normal."
   },
   {
     "sn": "644031",
     "name": "Mara",
     "desc": "A Buddhist demon that represents the fear of death. Also known as \"The Evil One,\" he sent his daughters to tempt Buddha during his meditations.",
-    "strategy": "AAAAAA=="
+    "strategy": "Weaknesses and resistances are different than normal."
   },
   {
     "sn": "644211",
     "name": "Shiva",
     "desc": "One of the major Hindu gods, he is known as the Destroyer, but is also related to regeneration. His wife is Parvati.",
-    "strategy": "AAAAAA=="
+    "strategy": "Weaknesses and resistances are different than normal."
   },
   {
     "sn": "644212",
     "name": "Vishnu",
     "desc": "One of the major Hindu gods, he is the preserver and protector of the universe. Legends claim that he will make ten appearances across time and space to strike down evil and uphold justice.",
-    "strategy": "AAAAAA=="
+    "strategy": "Weaknesses and resistances are different than normal."
   },
   {
     "sn": "644221",
     "name": "Beelzebub",
     "desc": "Demonic Lord of the Flies whose insect minions carry souls for him to control. He is mentioned in the Bible as a leader of evil spirits and is seen as a powerful demon.",
-    "strategy": "AAAAAA=="
+    "strategy": "Weaknesses and resistances are different than normal."
   },
   {
     "sn": "644222",
     "name": "Abaddon",
     "desc": "The \"Destroyer\" and \"Angel of the Bottomless Pit\" as described in ancient scriptures. He controls locusts, using them to cause massive destruction to villages.",
-    "strategy": "AAAAAA=="
+    "strategy": "Weaknesses and resistances are different than normal."
   },
   {
     "sn": "644231",
     "name": "Mada",
     "desc": "A giant Hindu monster. Its mouth is so enormous it can swallow the Earth and the heavens in one bite. Its name means \"He Who Intoxicates.\"",
-    "strategy": "AAAAAA=="
+    "strategy": "Weaknesses and resistances are different than normal."
   },
   {
     "sn": "644232",
     "name": "Moloch",
     "desc": "A Canaanite god of fire. A bronze statue of a man with a bull's head stands at his altar. The statue was heated and sacrificial children were thrown inside.",
-    "strategy": "AAAAAA=="
+    "strategy": "Weaknesses and resistances are different than normal."
   },
   {
     "sn": "644411",
     "name": "Raphael",
     "desc": "One of the four major archangels, his name means \"healer.\" He recites the history of the fallen angels and the creation of Adam and Eve.",
-    "strategy": "AAAAAA=="
+    "strategy": "Weaknesses and resistances are different than normal."
   },
   {
     "sn": "644412",
     "name": "Uriel",
     "desc": "One of the four major archangels. His name means \"Flame of God,\" and he knows all the celestial phenomena. He is the first angel Satan met on earth.",
-    "strategy": "AAAAAA=="
+    "strategy": "Weaknesses and resistances are different than normal."
   },
   {
     "sn": "644413",
     "name": "Michael",
     "desc": "One of the four major archangels, he is at the top of the angelic hierarchy. He carries a long spear that can cut through anything, and his name means \"one who is like God.\"",
-    "strategy": "AAAAAA=="
+    "strategy": "Weaknesses and resistances are different than normal."
   },
   {
     "sn": "644414",
     "name": "Gabriel",
     "desc": "One of the four major archangels. She is also the only female angel at this rank. Her name comes from the Sumerian word for \"governor.\" She is the angel who told Mary of her pregnancy.",
-    "strategy": "AAAAAA=="
+    "strategy": "Weaknesses and resistances are different than normal."
   },
   {
     "sn": "644421",
     "name": "Anubis",
     "desc": "The jackal-headed god of the dead and embalming from Egyptian myth. He weighs the hearts of the dead to determine their final destination.",
-    "strategy": "AAAAAA=="
+    "strategy": "Weaknesses and resistances are different than normal."
   },
   {
     "sn": "644422",
     "name": "Seth",
     "desc": "The Egyptian god of the desert, chaos, and evil. He murdered his brother, Osiris, and tried to become chief god, but he was castrated by Osiris's son, Horus.",
-    "strategy": "AAAAAA=="
+    "strategy": "Weaknesses and resistances are different than normal."
   },
   {
     "sn": "644423",
     "name": "Thoth",
     "desc": "Egyptian moon god that takes the form of a baboon, he is the one who measures time. He gave Isis the power to resurrect Osiris after he was killed by the evil god Seth.",
-    "strategy": "AAAAAA=="
+    "strategy": "Weaknesses and resistances are different than normal."
   },
   {
     "sn": "644424",
     "name": "Horus",
     "desc": "An ancient god of Egypt whose eyes are the sun and moon. Revered by some as the chief god, he is often depicted as a hawk or a falcon.",
-    "strategy": "AAAAAA=="
+    "strategy": "Weaknesses and resistances are different than normal."
   },
   {
     "sn": "645011",
     "name": "Atavaka",
     "desc": "One of the eight Yashaou. His domain is war and protection. Once a child-eating demon, he became one of the greatest of the Wisdom Kings after the Buddha converted him to good.",
-    "strategy": "When Atavaka takes damage from a skill, it gains a Mark based on that skill's <color=#FF423F>attribute</color>, up to 7 stacks.\nWhen it has collected 3 Marks of the same attribute, Atavaka spends all Marks to summon a Rakshasa.\nWhen Rakshasa is defeated, it increases all Phantom Thieves' damage for that attribute. Atavaka can summon Rakshasa up to 2 times."
+    "strategy": "Weaknesses and resistances are different than normal.\nWhen Atavaka takes damage from a skill, it gains a Mark based on that skill's <color=#FF423F>attribute</color>, up to 7 stacks.\nWhen it has collected 3 Marks of the same attribute, Atavaka spends all Marks to summon a Rakshasa.\nWhen Rakshasa is defeated, it increases all Phantom Thieves' damage for that attribute. Atavaka can summon Rakshasa up to 2 times."
   },
   {
     "sn": "645015",
     "name": "Rakshasa",
     "desc": "A Hindu demon. He is an enemy of the gods and attacks humans to feed off of them. His hideous appearance strikes fear into those who see him. Rakshasa shape-shifts to deceive his enemies.",
-    "strategy": "After being defeated, all Phantom Thieves' Physical damage increases."
+    "strategy": "Weaknesses and resistances are different than normal.\nAfter being defeated, all Phantom Thieves' Physical damage increases."
   },
   {
     "sn": "645016",
     "name": "Rakshasa",
     "desc": "A Hindu demon. He is an enemy of the gods and attacks humans to feed off of them. His hideous appearance strikes fear into those who see him. Rakshasa shape-shifts to deceive his enemies.",
-    "strategy": "After being defeated, all Phantom Thieves' Gun damage increases."
+    "strategy": "Weaknesses and resistances are different than normal.\nAfter being defeated, all Phantom Thieves' Gun damage increases."
   },
   {
     "sn": "645017",
     "name": "Rakshasa",
     "desc": "A Hindu demon. He is an enemy of the gods and attacks humans to feed off of them. His hideous appearance strikes fear into those who see him. Rakshasa shape-shifts to deceive his enemies.",
-    "strategy": "After being defeated, all Phantom Thieves' Fire damage increases."
+    "strategy": "Weaknesses and resistances are different than normal.\nAfter being defeated, all Phantom Thieves' Fire damage increases."
   },
   {
     "sn": "645018",
     "name": "Rakshasa",
     "desc": "A Hindu demon. He is an enemy of the gods and attacks humans to feed off of them. His hideous appearance strikes fear into those who see him. Rakshasa shape-shifts to deceive his enemies.",
-    "strategy": "After being defeated, all Phantom Thieves' Ice damage increases."
+    "strategy": "Weaknesses and resistances are different than normal.\nAfter being defeated, all Phantom Thieves' Ice damage increases."
   },
   {
     "sn": "645019",
     "name": "Rakshasa",
     "desc": "A Hindu demon. He is an enemy of the gods and attacks humans to feed off of them. His hideous appearance strikes fear into those who see him. Rakshasa shape-shifts to deceive his enemies.",
-    "strategy": "After being defeated, all Phantom Thieves' Electric damage increases."
+    "strategy": "Weaknesses and resistances are different than normal.\nAfter being defeated, all Phantom Thieves' Electric damage increases."
   },
   {
     "sn": "645020",
     "name": "Rakshasa",
     "desc": "A Hindu demon. He is an enemy of the gods and attacks humans to feed off of them. His hideous appearance strikes fear into those who see him. Rakshasa shape-shifts to deceive his enemies.",
-    "strategy": "After being defeated, all Phantom Thieves' Wind damage increases."
+    "strategy": "Weaknesses and resistances are different than normal.\nAfter being defeated, all Phantom Thieves' Wind damage increases."
   },
   {
     "sn": "645021",
     "name": "Rakshasa",
     "desc": "A Hindu demon. He is an enemy of the gods and attacks humans to feed off of them. His hideous appearance strikes fear into those who see him. Rakshasa shape-shifts to deceive his enemies.",
-    "strategy": "After being defeated, all Phantom Thieves' Psy damage increases."
+    "strategy": "Weaknesses and resistances are different than normal.\nAfter being defeated, all Phantom Thieves' Psy damage increases."
   },
   {
     "sn": "645022",
     "name": "Rakshasa",
     "desc": "A Hindu demon. He is an enemy of the gods and attacks humans to feed off of them. His hideous appearance strikes fear into those who see him. Rakshasa shape-shifts to deceive his enemies.",
-    "strategy": "After being defeated, all Phantom Thieves' Nuclear damage increases."
+    "strategy": "Weaknesses and resistances are different than normal.\nAfter being defeated, all Phantom Thieves' Nuclear damage increases."
   },
   {
     "sn": "645023",
     "name": "Rakshasa",
     "desc": "A Hindu demon. He is an enemy of the gods and attacks humans to feed off of them. His hideous appearance strikes fear into those who see him. Rakshasa shape-shifts to deceive his enemies.",
-    "strategy": "After being defeated, all Phantom Thieves' Bless damage increases."
+    "strategy": "Weaknesses and resistances are different than normal.\nAfter being defeated, all Phantom Thieves' Bless damage increases."
   },
   {
     "sn": "645024",
     "name": "Rakshasa",
     "desc": "A Hindu demon. He is an enemy of the gods and attacks humans to feed off of them. His hideous appearance strikes fear into those who see him. Rakshasa shape-shifts to deceive his enemies.",
-    "strategy": "After being defeated, all Phantom Thieves' Curse damage increases."
+    "strategy": "Weaknesses and resistances are different than normal.\nAfter being defeated, all Phantom Thieves' Curse damage increases."
   },
   {
     "sn": "645025",
     "name": "Rakshasa",
     "desc": "A Hindu demon. He is an enemy of the gods and attacks humans to feed off of them. His hideous appearance strikes fear into those who see him. Rakshasa shape-shifts to deceive his enemies.",
-    "strategy": "After being defeated, all Phantom Thieves' Almighty damage increases."
+    "strategy": "Weaknesses and resistances are different than normal.\nAfter being defeated, all Phantom Thieves' Almighty damage increases."
   },
   {
     "sn": "645111",
     "name": "Kohryu",
     "desc": "Known as the Gold Dragon, it reigns over the Ssu-Ling, celestial creatures of Chinese lore. It is located at the center of the four beasts.",
-    "strategy": "During battle, Kohryu will summon Seiryu, Byakko, Suzaku, and Genbu.\nWhen a Shadow is defeated, the Shadows lose that Might and it is granted to all Phantom Thieves instead.\nSeiryu's Might: Grants a shield equal to 3% of max HP every turn.\nByakko's Might: Increases Attack by 20%.\nSuzaku's Might: Increases damage dealt by 20%.\nGenbu's Might: Increases Defense by 20%."
+    "strategy": "Weaknesses and resistances are different than normal.\nDuring battle, Kohryu will summon Seiryu, Byakko, Suzaku, and Genbu.\nWhen a Shadow is defeated, the Shadows lose that Might and it is granted to all Phantom Thieves instead.\nSeiryu's Might: Grants a shield equal to 3% of max HP every turn.\nByakko's Might: Increases Attack by 20%.\nSuzaku's Might: Increases damage dealt by 20%.\nGenbu's Might: Increases Defense by 20%."
   },
   {
     "sn": "645112",
     "name": "Genbu",
     "desc": "One of the Ssu-Ling, celestial creatures of Chinese myth. It represents the direction north, the season of winter, and the element of water. Known to be a great warrior, it supports the Earth from below.",
-    "strategy": "AAAAAA=="
+    "strategy": "Weaknesses and resistances are different than normal."
   },
   {
     "sn": "645113",
     "name": "Suzaku",
     "desc": "One of the Ssu-Ling, celestial creatures of Chinese myth. It is a giant bird that is said to chirp in five beautiful voices. It represents the direction south, the season of summer, and the element of fire.",
-    "strategy": "AAAAAA=="
+    "strategy": "Weaknesses and resistances are different than normal."
   },
   {
     "sn": "645114",
     "name": "Byakko",
     "desc": "One of the Ssu-Ling, celestial creatures of Chinese myth. It represents the direction west, the season of autumn, and the element of metal. He is believed to be the king of all beasts.",
-    "strategy": "AAAAAA=="
+    "strategy": "Weaknesses and resistances are different than normal."
   },
   {
     "sn": "645115",
     "name": "Seiryu",
     "desc": "The noblest of the Ssu-Ling creatures of Chinese myth. It represents the direction east, the season of spring, and the element of wood. It dwells in a palace at the bottom of the ocean.",
-    "strategy": "AAAAAA=="
+    "strategy": "Weaknesses and resistances are different than normal."
   },
   {
     "sn": "645211",
     "name": "Jikokuten",
     "desc": "Also known as Dhritarashtra, he is the protector of the East, and is one of the four Heavenly Kings of Buddhist origin. He helps maintain the security of the nation.",
-    "strategy": "Jikokuten has <color=#ff3b37>Blade of Sanctuary</color>.\nBlade of Sanctuary: Each time damage is dealt, also grants a shield to 1 random Shadow."
+    "strategy": "Weaknesses and resistances are different than normal.\nJikokuten has <color=#ff3b37>Blade of Sanctuary</color>.\nBlade of Sanctuary: Each time damage is dealt, also grants a shield to 1 random Shadow."
   },
   {
     "sn": "645212",
     "name": "Zouchouten",
     "desc": "Also known as Virudhaka, he is the protector of the South, and is one of the four Heavenly Kings of Buddhist origin. He is the god of the five grains, and was once the chief of the gods.",
-    "strategy": "Zouchouten can activate <color=#ff3b37>Growth of All Things</color>.\nGrowth of All Things: Randomly increases Attack, Defense, or damage of all Shadows each turn."
+    "strategy": "Weaknesses and resistances are different than normal.\nZouchouten can activate <color=#ff3b37>Growth of All Things</color>.\nGrowth of All Things: Randomly increases Attack, Defense, or damage of all Shadows each turn."
   },
   {
     "sn": "645213",
     "name": "Koumokuten",
     "desc": "Also known as Virupaksha, he is the protector of the West, and is one of the four Heavenly Kings of Buddhist origin. He keeps a close watch on the world with his sharp gaze.",
-    "strategy": "Koumokuten can activate <color=#ff3b37>Eye of Heaven</color>.\nEye of Heaven: Select 1 Phantom Thief. Increase their damage taken, and have all Shadows focus attacks on them next turn.\nAfter activating Eye of Heaven, Koumokuten will summon 1 Makami."
+    "strategy": "Weaknesses and resistances are different than normal.\nKoumokuten can activate <color=#ff3b37>Eye of Heaven</color>.\nEye of Heaven: Select 1 Phantom Thief. Increase their damage taken, and have all Shadows focus attacks on them next turn.\nBefore activating Eye of Heaven, Koumokuten will summon 1 Makami."
   },
   {
     "sn": "645214",
     "name": "Bishamonten",
     "desc": "Also known as Tamonten and Vaishravana in Buddhist lore, he is the strongest of the Heavenly Kings. He protects the North and is the god of war.",
-    "strategy": "Bishamonten can activate <color=#ff3b37>Parasol of Chaos</color>.\nParasol of Chaos: Covers the Shadow with the lowest HP percentage, and changes all affinities to Resist. Lasts for 2 turns."
+    "strategy": "Weaknesses and resistances are different than normal.\nBishamonten can activate <color=#ff3b37>Parasol of Chaos</color>.\nParasol of Chaos: Covers the Shadow with the lowest HP percentage, and changes all affinities to Resist. Lasts for 2 turns."
   },
   {
     "sn": "645215",
     "name": "Asura",
     "desc": "The Hindu king of Asuras is named Maha Vairocana, or \"One Who Shines On All.\" In Buddhism, he is known as Dainichi Nyorai.",
-    "strategy": "Be warned, <color=#ff3b37>Asura possesses the skills of all of the Four Heavenly Kings</color>."
+    "strategy": "Weaknesses and resistances are different than normal.\nBe warned, <color=#ff3b37>Asura possesses the skills of all of the Four Heavenly Kings</color>."
   },
   {
     "sn": "645216",
     "name": "Makami",
     "desc": "A divine wolf god in Japanese folklore, also written as \"Oguchi-no-Magami.\" It is often drawn on prayer boards to prevent fires and thefts, but it is also feared as a human-eater.",
-    "strategy": "Koumokuten's loyal pet, who fights by his side."
+    "strategy": "Weaknesses and resistances are different than normal.\nKoumokuten's loyal pet, who fights by his side."
   },
   {
     "sn": "645311",
     "name": "Ongyo-Ki",
     "desc": "One of the four oni controlled by Fujiwara no Chikata. By eliminating its aura and preventing others from sensing its presence, it is able to surprise its enemies.",
-    "strategy": "1. Ongyo-Ki starts with 3 <color=#ff3b37>Damage Reduction</color> stacks, which increases the damage dealt to Phantom Thieves with elemental ailments.\n2. When Fuu-Ki, Sui-Ki, or Kin-Ki are defeated, Ongyo-Ki loses 1 <color=#ff3b37>Damage Reduction</color> stack. It then gains the Domain effect from the defeated Shadow, and its affinities change."
+    "strategy": "Weaknesses and resistances are different than normal.\n1. Ongyo-Ki starts with 3 <color=#ff3b37>Damage Reduction</color> stacks, which increases the damage dealt to Phantom Thieves with elemental ailments.\n2. When Fuu-Ki, Sui-Ki, or Kin-Ki are defeated, Ongyo-Ki loses 1 <color=#ff3b37>Damage Reduction</color> stack. It then gains the Domain effect from the defeated Shadow, and its affinities change."
   },
   {
     "sn": "645312",
     "name": "Fuu-Ki",
     "desc": "One of the four oni controlled by Fujiwara no Chikata, it sends hurricanes to blow away its enemies. Some say that Fuu-Ki is the original ninja.",
-    "strategy": "1. Fuu-Ki's <color=#FF423F>Wind Domain</color> gives it a base chance of 80% to inflict <color=#FF423F>Ultrawindswept</color> when attacking. Ultrawindswept lasts for 2 turns.\n<color=#FF423F>Ultrawindswept</color>: An enhanced version of Windswept inflicted by Fuu-Ki. Decreases Defense by 24%.\n2. Fuu-Ki deals increased damage to Phantom Thieves in the <color=#FF423F>Ultrawindswept</color> state."
+    "strategy": "Weaknesses and resistances are different than normal.\n1. Fuu-Ki's <color=#FF423F>Wind Domain</color> gives it a base chance of 80% to inflict <color=#FF423F>Ultrawindswept</color> when attacking. Ultrawindswept lasts for 2 turns.\n<color=#FF423F>Ultrawindswept</color>: An enhanced version of Windswept inflicted by Fuu-Ki. Decreases Defense by 24%.\n2. Fuu-Ki deals increased damage to Phantom Thieves in the <color=#FF423F>Ultrawindswept</color> state."
   },
   {
     "sn": "645313",
     "name": "Sui-Ki",
     "desc": "One of the four oni controlled by Fujiwara no Chikata, it can cause floods with the swing of its arms. In the Taiheiki, Ki no Tomoo expelled the oni by reading a Japanese poem.",
-    "strategy": "1. Sui-Ki's <color=#FF423F>Ice Domain</color> gives it a base chance of 80% to inflict <color=#FF423F>Ultrafreeze</color> when attacking. Ultrafreeze lasts for 2 turns.\n<color=#FF423F>Ultrafreeze</color>: An enhanced version of Frozen inflicted by Sui-Ki. Decreases Attack by 24%.\n2. Sui-Ki deals increased damage to Phantom Thieves in the <color=#FF423F>Ultrafreeze</color> state."
+    "strategy": "Weaknesses and resistances are different than normal.\n1. Sui-Ki's <color=#FF423F>Ice Domain</color> gives it a base chance of 80% to inflict <color=#FF423F>Ultrafreeze</color> when attacking. Ultrafreeze lasts for 2 turns.\n<color=#FF423F>Ultrafreeze</color>: An enhanced version of Frozen inflicted by Sui-Ki. Decreases Attack by 24%.\n2. Sui-Ki deals increased damage to Phantom Thieves in the <color=#FF423F>Ultrafreeze</color> state."
   },
   {
     "sn": "645314",
     "name": "Kin-Ki",
     "desc": "One of the four oni controlled by Fujiwara no Chikata, its body is so hard that no weapons can penetrate it. It and its comrades fell into hell through holes that can still be found in modern Iga.",
-    "strategy": "1. Kin-Ki's <color=#FF423F>Golden Domain</color> allows it to grant <color=#FF423F>Indestructible Vajra</color> to 1 random Shadow after dealing damage.\n<color=#FF423F>Indestructible Vajra</color>: Nullifies the next damage taken.\n2. When Kin-Ki has <color=#FF423F>Indestructible Vajra</color>, its damage increases."
+    "strategy": "Weaknesses and resistances are different than normal.\n1. Kin-Ki's <color=#FF423F>Golden Domain</color> allows it to grant <color=#FF423F>Indestructible Vajra</color> to 1 random Shadow after dealing damage.\n<color=#FF423F>Indestructible Vajra</color>: Nullifies the next damage taken.\n2. When Kin-Ki has <color=#FF423F>Indestructible Vajra</color>, its damage increases."
   },
   {
     "sn": "660011",
     "name": "Daisoujou",
     "desc": "A monk who died while fasting, his spiritual power allows his body to continue to exist without rotting. It is said that he will appear before people on the day of salvation.",
-    "strategy": "AAAAAA=="
+    "strategy": "Weaknesses and resistances are different than normal."
   },
   {
     "sn": "660021",
     "name": "Okuninushi",
     "desc": "A Kunitsu deity in Japanese mythology that governs agriculture and medicine. He's said to have built the country of Izumo with Susano-o's daughter, Suseri-Hime.",
-    "strategy": "AAAAAA=="
+    "strategy": "Weaknesses and resistances are different than normal."
   },
   {
     "sn": "660031",
     "name": "Arahabaki",
     "desc": "A mysterious god of ancient Japan. Most famously worshipped by Nagasunehiko, who was defeated in battle against Emperor Jinmu, Arahabaki came to be treated as a symbol of rebellion and defiance.",
-    "strategy": "AAAAAA=="
+    "strategy": "Weaknesses and resistances are different than normal."
   },
   {
     "sn": "660041",
     "name": "Belphegor",
     "desc": "Demonic governor of the deadly sin of sloth. He also excels at invention and discovery. May be derived from Ba'al Pe'or, Syrian god of abundant crops.",
-    "strategy": "AAAAAA=="
+    "strategy": "Weaknesses and resistances are different than normal."
   },
   {
     "sn": "660111",
     "name": "Pazuzu",
     "desc": "The Babylonian lord of wind and scorching sands. He has the body of a man, a lion's head, the claws and wings of an eagle, and has a deadly poison. The diseases he spreads can only be cured with magic.",
-    "strategy": "AAAAAA=="
+    "strategy": "Weaknesses and resistances are different than normal."
   },
   {
     "sn": "660112",
     "name": "Rangda",
     "desc": "A wicked witch of Balinese lore, she represents evil and is Barong's eternal rival. Even if defeated, she will come back to life, and their battle will have no end.",
-    "strategy": "AAAAAA=="
+    "strategy": "Weaknesses and resistances are different than normal."
   },
   {
     "sn": "660121",
     "name": "Kumbhanda",
     "desc": "A Buddhist demon said to drain human life energy. He has dark skin, stands three meters tall, and sometimes changes his shape to a gourd. Known to have once served Rudra, the god of storms.",
-    "strategy": "AAAAAA=="
+    "strategy": "Weaknesses and resistances are different than normal."
   },
   {
     "sn": "660122",
     "name": "Rakshasa",
     "desc": "A Hindu demon. He is an enemy of the gods and attacks humans to feed off of them. His hideous appearance strikes fear into those who see him. Rakshasa shape-shifts to deceive his enemies.",
-    "strategy": "AAAAAA=="
+    "strategy": "Weaknesses and resistances are different than normal."
   },
   {
     "sn": "660131",
     "name": "Ganesha",
     "desc": "The Hindu elephant-headed god. He was originally created by Parvati in order to prevent anyone from watching her bathe. Shiva batted off his original head and replaced it with an elephant's head.",
-    "strategy": "AAAAAA=="
+    "strategy": "Weaknesses and resistances are different than normal."
   },
   {
     "sn": "660132",
     "name": "Girimehkala",
     "desc": "A giant elephant monster of Sri Lankan myth, it is typically portrayed as being ridden by the Evil One, Mara. Whoever looks into its evil eye is said to be met with misfortune.",
-    "strategy": "AAAAAA=="
+    "strategy": "Weaknesses and resistances are different than normal."
   },
   {
     "sn": "660141",
     "name": "Seth",
     "desc": "The Egyptian god of the desert, chaos, and evil. He murdered his brother, Osiris, and tried to become chief god, but he was castrated by Osiris's son, Horus.",
-    "strategy": "AAAAAA=="
+    "strategy": "Weaknesses and resistances are different than normal."
   },
   {
     "sn": "660142",
     "name": "Horus",
     "desc": "An ancient god of Egypt whose eyes are the sun and moon. Revered by some as the chief god, he is often depicted as a hawk or a falcon.",
-    "strategy": "AAAAAA=="
+    "strategy": "Weaknesses and resistances are different than normal."
   },
   {
     "sn": "660211",
     "name": "Kikuri-Hime",
     "desc": "The goddess of life in Shinto myth. She once mediated between Izanagi and Izanami during their confrontation in Yomi, the land of the dead.",
-    "strategy": "AAAAAA=="
+    "strategy": "Weaknesses and resistances are different than normal."
   },
   {
     "sn": "660212",
     "name": "Kushinada",
     "desc": "A Japanese goddess. She governs fields and fertility. All of her sisters were sacrificed to Yamata-no-Orochi, but she was saved by Susano-o and became his wife.",
-    "strategy": "AAAAAA=="
+    "strategy": "Weaknesses and resistances are different than normal."
   },
   {
     "sn": "660213",
     "name": "Ame-no-Uzume",
     "desc": "Japanese goddess of entertainment, she governs many sacred dances. She is most famous for luring out Amaterasu, who had barricaded herself inside a cave.",
-    "strategy": "AAAAAA=="
+    "strategy": "Weaknesses and resistances are different than normal."
   },
   {
     "sn": "660221",
     "name": "Barong",
     "desc": "A mystical creature in Balinese lore, it represents good and is Rangda's eternal rival. Even if defeated, it will be reborn. The result is a never-ending struggle.",
-    "strategy": "AAAAAA=="
+    "strategy": "Weaknesses and resistances are different than normal."
   },
   {
     "sn": "660222",
     "name": "Barong",
     "desc": "A mystical creature in Balinese lore, it represents good and is Rangda's eternal rival. Even if defeated, it will be reborn. The result is a never-ending struggle.",
-    "strategy": "AAAAAA=="
+    "strategy": "Weaknesses and resistances are different than normal."
   },
   {
     "sn": "660223",
     "name": "Shiisaa",
     "desc": "A holy beast said to protect houses from evil and bring good fortune. They look similar to Shinto guardian dogs, but are actually modeled after a lion. There are many stories about it in Ryukyu lore.",
-    "strategy": "AAAAAA=="
+    "strategy": "Weaknesses and resistances are different than normal."
   },
   {
     "sn": "660224",
     "name": "Shiisaa",
     "desc": "A holy beast said to protect houses from evil and bring good fortune. They look similar to Shinto guardian dogs, but are actually modeled after a lion. There are many stories about it in Ryukyu lore.",
-    "strategy": "AAAAAA=="
+    "strategy": "Weaknesses and resistances are different than normal."
   },
   {
     "sn": "660225",
     "name": "Shiisaa",
     "desc": "A holy beast said to protect houses from evil and bring good fortune. They look similar to Shinto guardian dogs, but are actually modeled after a lion. There are many stories about it in Ryukyu lore.",
-    "strategy": "AAAAAA=="
+    "strategy": "Weaknesses and resistances are different than normal."
   },
   {
     "sn": "660231",
     "name": "Raja Naga",
     "desc": "The king of the Naga, a half-man, half-snake tribe in Hindu lore. The dragon kings Nanda and Takshaka of Buddhist myth fall into this royal category.",
-    "strategy": "AAAAAA=="
+    "strategy": "Weaknesses and resistances are different than normal."
   },
   {
     "sn": "660232",
     "name": "Quetzalcoatl",
     "desc": "An Aztec deity known as the Feathered Serpent. He created humans with his own blood and taught them how to sustain themselves.",
-    "strategy": "AAAAAA=="
+    "strategy": "Weaknesses and resistances are different than normal."
   },
   {
     "sn": "660233",
     "name": "Yurlungur",
     "desc": "A snake with a rainbow body from Murngin lore. He is a fertility deity who controls the weather and resides in a holy pond filled with rainbow-colored water.",
-    "strategy": "AAAAAA=="
+    "strategy": "Weaknesses and resistances are different than normal."
   },
   {
     "sn": "660234",
     "name": "Yurlungur",
     "desc": "A snake with a rainbow body from Murngin lore. He is a fertility deity who controls the weather and resides in a holy pond filled with rainbow-colored water.",
-    "strategy": "AAAAAA=="
+    "strategy": "Weaknesses and resistances are different than normal."
   },
   {
     "sn": "660241",
     "name": "Power",
     "desc": "The sixth of the nine orders of angels. It is said that they were the first order to be created. Their duty is to protect human souls from demons.",
-    "strategy": "AAAAAA=="
+    "strategy": "Weaknesses and resistances are different than normal."
   },
   {
     "sn": "660242",
     "name": "Principality",
     "desc": "The seventh of the nine orders of angels. They guard cities and nations, and protect various religious figures.",
-    "strategy": "AAAAAA=="
+    "strategy": "Weaknesses and resistances are different than normal."
   },
   {
     "sn": "660243",
     "name": "Archangel",
     "desc": "The eighth of the nine orders of angels. Their duty is to minister to humans and deliver messages. They are warriors of Heaven and lead Heaven's forces during battle with the armies of evil.",
-    "strategy": "AAAAAA=="
+    "strategy": "Weaknesses and resistances are different than normal."
   },
   {
     "sn": "660244",
     "name": "Angel",
     "desc": "The ninth of the nine orders of angels. They are closest in nature to humans. They watch over individuals and warn those who stray from the path.",
-    "strategy": "AAAAAA=="
+    "strategy": "Weaknesses and resistances are different than normal."
   },
   {
     "sn": "660311",
     "name": "Kin-Ki",
     "desc": "One of the four oni controlled by Fujiwara no Chikata, its body is so hard that no weapons can penetrate it. It and its comrades fell into hell through holes that can still be found in modern Iga.",
-    "strategy": "1. Kin-Ki's <color=#ffd700>Golden Domain</color> allows it to grant <color=#ffd700>Indestructible Vajra</color> to 1 random Shadow after dealing damage.\n<color=#ffd700>Indestructible Vajra</color>: Nullifies the next damage taken.\n2. When Kin-Ki has <color=#ffd700>Indestructible Vajra</color>, its damage increases."
+    "strategy": "Weaknesses and resistances are different than normal.\n1. Kin-Ki's <color=#ff423f>Golden Domain</color> allows it to grant <color=#ff423f>Indestructible Vajra</color> to 1 random Shadow after dealing damage.\n<color=#ff423f>Indestructible Vajra</color>: Nullifies the next damage taken.\n2. When Kin-Ki has <color=#ff423f>Indestructible Vajra</color>, its damage increases."
   },
   {
     "sn": "660321",
     "name": "Kin-Ki",
     "desc": "One of the four oni controlled by Fujiwara no Chikata, its body is so hard that no weapons can penetrate it. It and its comrades fell into hell through holes that can still be found in modern Iga.",
-    "strategy": "1. Kin-Ki's <color=#ffd700>Golden Domain</color> allows it to grant <color=#ffd700>Indestructible Vajra</color> to 1 random Shadow after dealing damage.\n<color=#ffd700>Indestructible Vajra</color>: Nullifies the next damage taken.\n2. When Kin-Ki has <color=#ffd700>Indestructible Vajra</color>, its damage increases."
+    "strategy": "Weaknesses and resistances are different than normal.\n1. Kin-Ki's <color=#ff423f>Golden Domain</color> allows it to grant <color=#ff423f>Indestructible Vajra</color> to 1 random Shadow after dealing damage.\n<color=#ff423f>Indestructible Vajra</color>: Nullifies the next damage taken.\n2. When Kin-Ki has <color=#ff423f>Indestructible Vajra</color>, its damage increases."
   },
   {
     "sn": "660322",
     "name": "Fuu-Ki",
     "desc": "One of the four oni controlled by Fujiwara no Chikata, it sends hurricanes to blow away its enemies. Some say that Fuu-Ki is the original ninja.",
-    "strategy": "1. Fuu-Ki's <color=#81ea2c>Wind Domain</color> gives it a base chance of 80% to inflict <color=#81ea2c>Ultrawindswept</color> when attacking. Ultrawindswept lasts for 2 turns.\n<color=#81ea2c>Ultrawindswept</color>: An enhanced version of Windswept inflicted by Fuu-Ki. Decreases Defense by 24%.\n2. Fuu-Ki deals increased damage to Phantom Thieves in the <color=#81ea2c>Ultrawindswept</color> state."
+    "strategy": "Weaknesses and resistances are different than normal.\n1. Fuu-Ki's <color=#ff423f>Wind Domain</color> gives it a base chance of 80% to inflict <color=#ff423f>Ultrawindswept</color> when attacking. Ultrawindswept lasts for 2 turns.\n<color=#ff423f>Ultrawindswept</color>: An enhanced version of Windswept inflicted by Fuu-Ki. Decreases Defense by 24%.\n2. Fuu-Ki deals increased damage to Phantom Thieves in the <color=#ff423f>Ultrawindswept</color> state."
   },
   {
     "sn": "660331",
     "name": "Kin-Ki",
     "desc": "One of the four oni controlled by Fujiwara no Chikata, its body is so hard that no weapons can penetrate it. It and its comrades fell into hell through holes that can still be found in modern Iga.",
-    "strategy": "1. Kin-Ki's <color=#ffd700>Golden Domain</color> allows it to grant <color=#ffd700>Indestructible Vajra</color> to 1 random Shadow after dealing damage.\n<color=#ffd700>Indestructible Vajra</color>: Nullifies the next damage taken.\n2. When Kin-Ki has <color=#ffd700>Indestructible Vajra</color>, its damage increases."
+    "strategy": "Weaknesses and resistances are different than normal.\n1. Kin-Ki's <color=#ff423f>Golden Domain</color> allows it to grant <color=#ff423f>Indestructible Vajra</color> to 1 random Shadow after dealing damage.\n<color=#ff423f>Indestructible Vajra</color>: Nullifies the next damage taken.\n2. When Kin-Ki has <color=#ff423f>Indestructible Vajra</color>, its damage increases."
   },
   {
     "sn": "660332",
     "name": "Fuu-Ki",
     "desc": "One of the four oni controlled by Fujiwara no Chikata, it sends hurricanes to blow away its enemies. Some say that Fuu-Ki is the original ninja.",
-    "strategy": "1. Fuu-Ki's <color=#81ea2c>Wind Domain</color> gives it a base chance of 80% to inflict <color=#81ea2c>Ultrawindswept</color> when attacking. Ultrawindswept lasts for 2 turns.\n<color=#81ea2c>Ultrawindswept</color>: An enhanced version of Windswept inflicted by Fuu-Ki. Decreases Defense by 24%.\n2. Fuu-Ki deals increased damage to Phantom Thieves in the <color=#81ea2c>Ultrawindswept</color> state."
+    "strategy": "Weaknesses and resistances are different than normal.\n1. Fuu-Ki's <color=#ff423f>Wind Domain</color> gives it a base chance of 80% to inflict <color=#ff423f>Ultrawindswept</color> when attacking. Ultrawindswept lasts for 2 turns.\n<color=#ff423f>Ultrawindswept</color>: An enhanced version of Windswept inflicted by Fuu-Ki. Decreases Defense by 24%.\n2. Fuu-Ki deals increased damage to Phantom Thieves in the <color=#ff423f>Ultrawindswept</color> state."
   },
   {
     "sn": "660333",
     "name": "Sui-Ki",
     "desc": "One of the four oni controlled by Fujiwara no Chikata, it can cause floods with the swing of its arms. In the Taiheiki, Ki no Tomoo expelled the oni by reading a Japanese poem.",
-    "strategy": "1. Sui-Ki's <color=#00aeff>Ice Domain</color> gives it a base chance of 80% to inflict <color=#00aeff>Ultrafreeze</color> when attacking. Ultrafreeze lasts for 2 turns.\n<color=#00aeff>Ultrafreeze</color>: An enhanced version of Frozen inflicted by Sui-Ki. Decreases Attack by 24%.\n2. Sui-Ki deals increased damage to Phantom Thieves in the <color=#00aeff>Ultrafreeze</color> state."
+    "strategy": "Weaknesses and resistances are different than normal.\n1. Sui-Ki's <color=#ff423f>Ice Domain</color> gives it a base chance of 80% to inflict <color=#ff423f>Ultrafreeze</color> when attacking. Ultrafreeze lasts for 2 turns.\n<color=#ff423f>Ultrafreeze</color>: An enhanced version of Frozen inflicted by Sui-Ki. Decreases Attack by 24%.\n2. Sui-Ki deals increased damage to Phantom Thieves in the <color=#ff423f>Ultrafreeze</color> state."
   },
   {
     "sn": "660341",
     "name": "Ongyo-Ki",
     "desc": "One of the four oni controlled by Fujiwara no Chikata. By eliminating its aura and preventing others from sensing its presence, it is able to surprise its enemies.",
-    "strategy": "1. Ongyo-Ki starts with 3 <color=#ff3b37>Damage Reduction</color> stacks, which increases the damage dealt to Phantom Thieves with elemental ailments.\n2. When Fuu-Ki, Sui-Ki, or Kin-Ki are defeated, Ongyo-Ki loses 1 <color=#ff3b37>Damage Reduction</color> stack. It then gains the Domain effect from the defeated Shadow, and its affinities change."
+    "strategy": "Weaknesses and resistances are different than normal.\n1. Ongyo-Ki starts with 3 <color=#ff423f>Damage Reduction</color> stacks, which increases the damage dealt to Phantom Thieves with elemental ailments.\n2. When Fuu-Ki, Sui-Ki, or Kin-Ki are defeated, Ongyo-Ki loses 1 <color=#ff423f>Damage Reduction</color> stack. It then gains the Domain effect from the defeated Shadow, and its affinities change."
   },
   {
     "sn": "660342",
     "name": "Fuu-Ki",
     "desc": "One of the four oni controlled by Fujiwara no Chikata, it sends hurricanes to blow away its enemies. Some say that Fuu-Ki is the original ninja.",
-    "strategy": "1. Fuu-Ki's <color=#81ea2c>Wind Domain</color> gives it a base chance of 80% to inflict <color=#81ea2c>Ultrawindswept</color> when attacking. Ultrawindswept lasts for 2 turns.\n<color=#81ea2c>Ultrawindswept</color>: An enhanced version of Windswept inflicted by Fuu-Ki. Decreases Defense by 24%.\n2. Fuu-Ki deals increased damage to Phantom Thieves in the <color=#81ea2c>Ultrawindswept</color> state."
+    "strategy": "Weaknesses and resistances are different than normal.\n1. Fuu-Ki's <color=#ff423f>Wind Domain</color> gives it a base chance of 80% to inflict <color=#ff423f>Ultrawindswept</color> when attacking. Ultrawindswept lasts for 2 turns.\n<color=#ff423f>Ultrawindswept</color>: An enhanced version of Windswept inflicted by Fuu-Ki. Decreases Defense by 24%.\n2. Fuu-Ki deals increased damage to Phantom Thieves in the <color=#ff423f>Ultrawindswept</color> state."
   },
   {
     "sn": "660343",
     "name": "Sui-Ki",
     "desc": "One of the four oni controlled by Fujiwara no Chikata, it can cause floods with the swing of its arms. In the Taiheiki, Ki no Tomoo expelled the oni by reading a Japanese poem.",
-    "strategy": "1. Sui-Ki's <color=#00aeff>Ice Domain</color> gives it a base chance of 80% to inflict <color=#00aeff>Ultrafreeze</color> when attacking. Ultrafreeze lasts for 2 turns.\n<color=#00aeff>Ultrafreeze</color>: An enhanced version of Frozen inflicted by Sui-Ki. Decreases Attack by 24%.\n2. Sui-Ki deals increased damage to Phantom Thieves in the <color=#00aeff>Ultrafreeze</color> state."
+    "strategy": "Weaknesses and resistances are different than normal.\n1. Sui-Ki's <color=#ff423f>Ice Domain</color> gives it a base chance of 80% to inflict <color=#ff423f>Ultrafreeze</color> when attacking. Ultrafreeze lasts for 2 turns.\n<color=#ff423f>Ultrafreeze</color>: An enhanced version of Frozen inflicted by Sui-Ki. Decreases Attack by 24%.\n2. Sui-Ki deals increased damage to Phantom Thieves in the <color=#ff423f>Ultrafreeze</color> state."
   },
   {
     "sn": "660344",
     "name": "Kin-Ki",
     "desc": "One of the four oni controlled by Fujiwara no Chikata, its body is so hard that no weapons can penetrate it. It and its comrades fell into hell through holes that can still be found in modern Iga.",
-    "strategy": "1. Kin-Ki's <color=#ffd700>Golden Domain</color> allows it to grant <color=#ffd700>Indestructible Vajra</color> to 1 random Shadow after dealing damage.\n<color=#ffd700>Indestructible Vajra</color>: Nullifies the next damage taken.\n2. When Kin-Ki has <color=#ffd700>Indestructible Vajra</color>, its damage increases."
+    "strategy": "Weaknesses and resistances are different than normal.\n1. Kin-Ki's <color=#ff423f>Golden Domain</color> allows it to grant <color=#ff423f>Indestructible Vajra</color> to 1 random Shadow after dealing damage.\n<color=#ff423f>Indestructible Vajra</color>: Nullifies the next damage taken.\n2. When Kin-Ki has <color=#ff423f>Indestructible Vajra</color>, its damage increases."
   },
   {
     "sn": "730111",
@@ -6939,43 +6921,43 @@
     "sn": "738111",
     "name": "Nidhoggr",
     "desc": "An evil dragon that gnaws on the roots of Yggdrasil, the World Tree. It rules over the evil snakes that live there. Capable of surviving Ragnarok by feeding on the slain corpses that drift to it.",
-    "strategy": "Nidhoggr and Yurlungur have different weaknesses and resistances than usual.\n1. Nidhoggr and other Shadows are always in the <color=#72C5FF>Soul Link</color> state.\nSoul Link: Distributes all damage received between all Shadows who share this condition, based on the percentage of their current HP.\n2. Whenever Nidhoggr and other Shadows use skills, all skill targets are inflicted with 1 <color=#72C5FF>Poison</color> stack.\nPoison: Cannot be removed. At the end of a turn, the Phantom Thieves lose a certain amount of HP for each stack, but also have their Attack increased by 10%. Stacks up to 3 times."
+    "strategy": "Nidhoggr and Yurlungur have different weaknesses and resistances than normal.\n1. Nidhoggr and other Shadows are always in the <color=#72C5FF>Soul Link</color> state.\nSoul Link: Distributes all damage received between all Shadows who share this condition, based on the percentage of their current HP.\n2. Whenever Nidhoggr and other Shadows use skills, all skill targets are inflicted with 1 <color=#72C5FF>Poison</color> stack.\nPoison: Cannot be removed. At the end of a turn, the Phantom Thieves lose a certain amount of HP for each stack, but also have their Attack increased by 10%. Stacks up to 3 times."
   },
   {
     "sn": "738112",
     "name": "Nidhoggr",
     "desc": "An evil dragon that gnaws on the roots of Yggdrasil, the World Tree. It rules over the evil snakes that live there. Capable of surviving Ragnarok by feeding on the slain corpses that drift to it.",
-    "strategy": "Nidhoggr and Yurlungur have different weaknesses and resistances than usual.\n1. Nidhoggr and other Shadows are always in the <color=#72C5FF>Soul Link</color> state.\nSoul Link: Distributes all damage received between all Shadows who share this condition, based on the percentage of their current HP.\n2. Whenever Nidhoggr and other Shadows use skills, all skill targets are inflicted with 1 <color=#72C5FF>Poison</color> stack.\nPoison: Cannot be removed. At the end of a turn, the Phantom Thieves lose a certain amount of HP for each stack, but also have their Attack increased by 10%. Stacks up to 3 times."
+    "strategy": "Nidhoggr and Yurlungur have different weaknesses and resistances than normal.\n1. Nidhoggr and other Shadows are always in the <color=#72C5FF>Soul Link</color> state.\nSoul Link: Distributes all damage received between all Shadows who share this condition, based on the percentage of their current HP.\n2. Whenever Nidhoggr and other Shadows use skills, all skill targets are inflicted with 1 <color=#72C5FF>Poison</color> stack.\nPoison: Cannot be removed. At the end of a turn, the Phantom Thieves lose a certain amount of HP for each stack, but also have their Attack increased by 10%. Stacks up to 3 times."
   },
   {
     "sn": "738121",
     "name": "Yurlungur",
     "desc": "A snake with a rainbow body from Murngin lore. He is a fertility deity who controls the weather and resides in a holy pond filled with rainbow-colored water.",
-    "strategy": "Nidhoggr and Yurlungur have different weaknesses and resistances than usual.\n1. Nidhoggr and other Shadows are always in the <color=#72C5FF>Soul Link</color> state.\nSoul Link: Distributes all damage received between all Shadows who share this condition, based on the percentage of their current HP.\n2. Whenever Nidhoggr and other Shadows use skills, all skill targets are inflicted with 1 <color=#72C5FF>Poison</color> stack.\nPoison: Cannot be removed. At the end of a turn, the Phantom Thieves lose a certain amount of HP for each stack, but also have their Attack increased by 10%. Stacks up to 3 times."
+    "strategy": "Nidhoggr and Yurlungur have different weaknesses and resistances than normal.\n1. Nidhoggr and other Shadows are always in the <color=#72C5FF>Soul Link</color> state.\nSoul Link: Distributes all damage received between all Shadows who share this condition, based on the percentage of their current HP.\n2. Whenever Nidhoggr and other Shadows use skills, all skill targets are inflicted with 1 <color=#72C5FF>Poison</color> stack.\nPoison: Cannot be removed. At the end of a turn, the Phantom Thieves lose a certain amount of HP for each stack, but also have their Attack increased by 10%. Stacks up to 3 times."
   },
   {
     "sn": "738122",
     "name": "Yurlungur",
     "desc": "A snake with a rainbow body from Murngin lore. He is a fertility deity who controls the weather and resides in a holy pond filled with rainbow-colored water.",
-    "strategy": "Nidhoggr and Yurlungur have different weaknesses and resistances than usual.\n1. Nidhoggr and other Shadows are always in the <color=#72C5FF>Soul Link</color> state.\nSoul Link: Distributes all damage received between all Shadows who share this condition, based on the percentage of their current HP.\n2. Whenever Nidhoggr and other Shadows use skills, all skill targets are inflicted with 1 <color=#72C5FF>Poison</color> stack.\nPoison: Cannot be removed. At the end of a turn, the Phantom Thieves lose a certain amount of HP for each stack, but also have their Attack increased by 10%. Stacks up to 3 times."
+    "strategy": "Nidhoggr and Yurlungur have different weaknesses and resistances than normal.\n1. Nidhoggr and other Shadows are always in the <color=#72C5FF>Soul Link</color> state.\nSoul Link: Distributes all damage received between all Shadows who share this condition, based on the percentage of their current HP.\n2. Whenever Nidhoggr and other Shadows use skills, all skill targets are inflicted with 1 <color=#72C5FF>Poison</color> stack.\nPoison: Cannot be removed. At the end of a turn, the Phantom Thieves lose a certain amount of HP for each stack, but also have their Attack increased by 10%. Stacks up to 3 times."
   },
   {
     "sn": "738123",
     "name": "Yurlungur",
     "desc": "A snake with a rainbow body from Murngin lore. He is a fertility deity who controls the weather and resides in a holy pond filled with rainbow-colored water.",
-    "strategy": "Nidhoggr and Yurlungur have different weaknesses and resistances than usual.\n1. Nidhoggr and other Shadows are always in the <color=#72C5FF>Soul Link</color> state.\nSoul Link: Distributes all damage received between all Shadows who share this condition, based on the percentage of their current HP.\n2. Whenever Nidhoggr and other Shadows use skills, all skill targets are inflicted with 1 <color=#72C5FF>Poison</color> stack.\nPoison: Cannot be removed. At the end of a turn, the Phantom Thieves lose a certain amount of HP for each stack, but also have their Attack increased by 10%. Stacks up to 3 times."
+    "strategy": "Nidhoggr and Yurlungur have different weaknesses and resistances than normal.\n1. Nidhoggr and other Shadows are always in the <color=#72C5FF>Soul Link</color> state.\nSoul Link: Distributes all damage received between all Shadows who share this condition, based on the percentage of their current HP.\n2. Whenever Nidhoggr and other Shadows use skills, all skill targets are inflicted with 1 <color=#72C5FF>Poison</color> stack.\nPoison: Cannot be removed. At the end of a turn, the Phantom Thieves lose a certain amount of HP for each stack, but also have their Attack increased by 10%. Stacks up to 3 times."
   },
   {
     "sn": "738124",
     "name": "Yurlungur",
     "desc": "A snake with a rainbow body from Murngin lore. He is a fertility deity who controls the weather and resides in a holy pond filled with rainbow-colored water.",
-    "strategy": "Nidhoggr and Yurlungur have different weaknesses and resistances than usual.\n1. Nidhoggr and other Shadows are always in the <color=#72C5FF>Soul Link</color> state.\nSoul Link: Distributes all damage received between all Shadows who share this condition, based on the percentage of their current HP.\n2. Whenever Nidhoggr and other Shadows use skills, all skill targets are inflicted with 1 <color=#72C5FF>Poison</color> stack.\nPoison: Cannot be removed. At the end of a turn, the Phantom Thieves lose a certain amount of HP for each stack, but also have their Attack increased by 10%. Stacks up to 3 times."
+    "strategy": "Nidhoggr and Yurlungur have different weaknesses and resistances than normal.\n1. Nidhoggr and other Shadows are always in the <color=#72C5FF>Soul Link</color> state.\nSoul Link: Distributes all damage received between all Shadows who share this condition, based on the percentage of their current HP.\n2. Whenever Nidhoggr and other Shadows use skills, all skill targets are inflicted with 1 <color=#72C5FF>Poison</color> stack.\nPoison: Cannot be removed. At the end of a turn, the Phantom Thieves lose a certain amount of HP for each stack, but also have their Attack increased by 10%. Stacks up to 3 times."
   },
   {
     "sn": "738126",
     "name": "Yurlungur",
     "desc": "A snake with a rainbow body from Murngin lore. He is a fertility deity who controls the weather and resides in a holy pond filled with rainbow-colored water.",
-    "strategy": "Nidhoggr and Yurlungur have different weaknesses and resistances than usual.\n1. Nidhoggr and other Shadows are always in the <color=#72C5FF>Soul Link</color> state.\nSoul Link: Distributes all damage received between all Shadows who share this condition, based on the percentage of their current HP.\n2. Whenever Nidhoggr and other Shadows use skills, all skill targets are inflicted with 1 <color=#72C5FF>Poison</color> stack.\nPoison: Cannot be removed. At the end of a turn, the Phantom Thieves lose a certain amount of HP for each stack, but also have their Attack increased by 10%. Stacks up to 3 times."
+    "strategy": "Nidhoggr and Yurlungur have different weaknesses and resistances than normal.\n1. Nidhoggr and other Shadows are always in the <color=#72C5FF>Soul Link</color> state.\nSoul Link: Distributes all damage received between all Shadows who share this condition, based on the percentage of their current HP.\n2. Whenever Nidhoggr and other Shadows use skills, all skill targets are inflicted with 1 <color=#72C5FF>Poison</color> stack.\nPoison: Cannot be removed. At the end of a turn, the Phantom Thieves lose a certain amount of HP for each stack, but also have their Attack increased by 10%. Stacks up to 3 times."
   },
   {
     "sn": "738611",
@@ -22701,7 +22683,7 @@
     "sn": "218221",
     "name": "Arahabaki",
     "desc": "A mysterious god of ancient Japan. Most famously worshipped by Nagasunehiko, who was defeated in battle against Emperor Jinmu, Arahabaki came to be treated as a symbol of rebellion and defiance.",
-    "strategy": "1. Arahabaki summons a variety of Dogu. When Dogu are on the field, Arahabaki is granted various effects.\n2. At the start of Arahabaki's turn, Arahabaki's Progress increases for each Dogu on the field. When Progress reaches 10, Arahabaki activates Abyssal Gaze and inflicts all Phantom Thieves with <color=#FF423F>Despair</color>.\n3. At the start of the battle or when its HP falls below 50%, Arahabaki summons 1 of each of the 4 types of Dogu.\nWeakness Dogu: Protects Arahabaki's weakness. When defeated, several of Arahabaki's affinities change to Weak.\nSP Dogu: Causes the Phantom Thieves to lose SP each turn. When defeated, the Phantom Thieves regain SP.\nHP Dogu: Restores Arahabkaki's HP each turn. When defeated, the Phantom Thieves regain HP.\nProgress Dogu: Increases Arahabaki's Progress each turn. When defeated, Arahabaki's Progress decreases."
+    "strategy": "1. Arahabaki summons a variety of Dogu. When Dogu are on the field, Arahabaki is granted various effects.\n2. At the start of Arahabaki's turn, Arahabaki's Progress increases by 1 for each Dogu on the field. When Progress reaches 10, Arahabaki activates Abyssal Gaze and inflicts all Phantom Thieves with <color=#FF423F>Despair</color>.\n3. At the start of the battle or when its HP falls below 50%, Arahabaki summons 1 of each of the 4 types of Dogu.\nWeakness Dogu: Protects Arahabaki's weakness. When defeated, several of Arahabaki's affinities change to Weak.\nSP Dogu: Causes the Phantom Thieves to lose SP each turn. When defeated, the Phantom Thieves regain SP.\nHP Dogu: Restores Arahabkaki's HP each turn. When defeated, the Phantom Thieves regain HP.\nProgress Dogu: Increases Arahabaki's Progress each turn. When defeated, Arahabaki's Progress decreases."
   },
   {
     "sn": "218222",
@@ -22731,7 +22713,7 @@
     "sn": "218231",
     "name": "Arahabaki",
     "desc": "A mysterious god of ancient Japan. Most famously worshipped by Nagasunehiko, who was defeated in battle against Emperor Jinmu, Arahabaki came to be treated as a symbol of rebellion and defiance.",
-    "strategy": "1. Arahabaki summons a variety of Dogu. When Dogu are on the field, Arahabaki is granted various effects.\n2. At the start of Arahabaki's turn, Arahabaki's Progress increases for each Dogu on the field. When Progress reaches 10, Arahabaki activates Abyssal Gaze and inflicts all Phantom Thieves with <color=#FF423F>Despair</color>.\n3. Each turn, Arahabaki summons 1 random Dogu which remains on the field for 2 turns. When Arahabaki's HP falls below 50% the first time, it summons 1 more Dogu.\nWeakness Dogu: Protects Arahabaki's weakness. When defeated, several of Arahabaki's affinities change to Weak.\nSP Dogu: Causes the Phantom Thieves to lose SP each turn. When defeated, the Phantom Thieves regain SP.\nHP Dogu: Restores Arahabkaki's HP each turn. When defeated, the Phantom Thieves regain HP.\nProgress Dogu: Increases Arahabaki's Progress each turn. When defeated, Arahabaki's Progress decreases."
+    "strategy": "1. Arahabaki summons a variety of Dogu. When Dogu are on the field, Arahabaki is granted various effects.\n2. At the start of Arahabaki's turn, Arahabaki's Progress increases by 1 for each Dogu on the field. When Progress reaches 10, Arahabaki activates Abyssal Gaze and inflicts all Phantom Thieves with <color=#FF423F>Despair</color>.\n3. Each turn, Arahabaki summons 1 random Dogu which remains on the field for 2 turns. When Arahabaki's HP falls below 50% the first time, it summons 1 more Dogu.\nWeakness Dogu: Protects Arahabaki's weakness. When defeated, several of Arahabaki's affinities change to Weak.\nSP Dogu: Causes the Phantom Thieves to lose SP each turn. When defeated, the Phantom Thieves regain SP.\nHP Dogu: Restores Arahabkaki's HP each turn. When defeated, the Phantom Thieves regain HP.\nProgress Dogu: Increases Arahabaki's Progress each turn. When defeated, Arahabaki's Progress decreases."
   },
   {
     "sn": "218232",
@@ -22761,7 +22743,7 @@
     "sn": "218241",
     "name": "Arahabaki",
     "desc": "A mysterious god of ancient Japan. Most famously worshipped by Nagasunehiko, who was defeated in battle against Emperor Jinmu, Arahabaki came to be treated as a symbol of rebellion and defiance.",
-    "strategy": "1. Arahabaki summons a variety of Dogu. When Dogu are on the field, Arahabaki is granted various effects.\n2. At the start of Arahabaki's turn, Arahabaki's Progress increases for each Dogu on the field. When Progress reaches 10, Arahabaki activates Abyssal Gaze and inflicts all Phantom Thieves with <color=#ff3b37>Despair</color>.\n3. There is always a Metamorphosis Dogu on the field. This Dogu cannot be attacked, and will change to a different type of Dogu every turn with the corresponding effects.\n4. When Arahabaki's HP falls below 50% the first time, it summons 1 additional Metamorphosis Dogu.\nWeakness Dogu: Protects Arahabaki's weakness.\nSP Dogu: Causes the Phantom Thieves to lose SP each turn.\nHP Dogu: Restores Arahabkaki's HP each turn.\nProgress Dogu: Increases Arahabaki's Progress each turn."
+    "strategy": "1. Arahabaki summons a variety of Dogu. When Dogu are on the field, Arahabaki is granted various effects.\n2. At the start of Arahabaki's turn, Arahabaki's Progress increases by 1 for each Dogu on the field. When Progress reaches 10, Arahabaki activates Abyssal Gaze and inflicts all Phantom Thieves with <color=#ff3b37>Despair</color>.\n3. There is always a Metamorphosis Dogu on the field. This Dogu cannot be attacked, and will change to a different type of Dogu every turn with the corresponding effects.\n4. When Arahabaki's HP falls below 50% the first time, it summons 1 additional Metamorphosis Dogu.\nWeakness Dogu: Protects Arahabaki's weakness.\nSP Dogu: Causes the Phantom Thieves to lose SP each turn.\nHP Dogu: Restores Arahabkaki's HP each turn.\nProgress Dogu: Increases Arahabaki's Progress each turn."
   },
   {
     "sn": "218242",
@@ -41049,7 +41031,7 @@
     "sn": "819131",
     "name": "Koumokuten",
     "desc": "Also known as Virupaksha, he is the protector of the West, and is one of the four Heavenly Kings of Buddhist origin. He keeps a close watch on the world with his sharp gaze.",
-    "strategy": "Koumokuten can activate <color=#72C5FF>Eye of Heaven</color>.\nEye of Heaven: Select 1 Phantom Thief. Increase their damage taken, and have all Shadows focus attacks on them next turn.\nAfter activating Eye of Heaven, Koumokuten will summon 1 Makami."
+    "strategy": "Koumokuten can activate <color=#72C5FF>Eye of Heaven</color>.\nEye of Heaven: Select 1 Phantom Thief. Increase their damage taken, and have all Shadows focus attacks on them next turn.\nBefore activating Eye of Heaven, Koumokuten will summon 1 Makami."
   },
   {
     "sn": "819132",
@@ -41097,7 +41079,7 @@
     "sn": "819153",
     "name": "Koumokuten",
     "desc": "Also known as Virupaksha, he is the protector of the West, and is one of the four Heavenly Kings of Buddhist origin. He keeps a close watch on the world with his sharp gaze.",
-    "strategy": "Koumokuten can activate <color=#72C5FF>Eye of Heaven</color>.\nEye of Heaven: Select 1 Phantom Thief. Increase the target's damage taken, and have all Shadows focus attacks on them next turn.\nAfter activating Eye of Heaven, Koumokuten will summon 1 Makami."
+    "strategy": "Koumokuten can activate <color=#72C5FF>Eye of Heaven</color>.\nEye of Heaven: Select 1 Phantom Thief. Increase their damage taken, and have all Shadows focus attacks on them next turn.\nBefore activating Eye of Heaven, Koumokuten will summon 1 Makami."
   },
   {
     "sn": "819154",
@@ -43953,7 +43935,7 @@
     "sn": "829731",
     "name": "Trumpeter",
     "desc": "Angels that sound the trumpets at the time of the apocalypse. As each trumpet sounds, the more plagues and disasters will occur, turning the earth into a land of death and suffering.",
-    "strategy": "1. Trumpeter cannot be targeted by the Phantom Thieves and will not attack.\n2. Trumpeter uses <color=#72C5FF>Horn of the End</color> to instantly activate ally Shadows' skills.\n3. If all other Shadows are defeated, Trumpeter becomes targetable and activates<color=#72C5FF>Horn of Ruin</color> after 2 turns of Aria.\nHorn of Ruin: Sacrifices user to resummon all defeated Shadows, greatly strengthening their abilities and dealing heavy damage to all Phantom Thieves."
+    "strategy": "1. Trumpeter cannot be targeted by the Phantom Thieves and will not attack.\n2. Trumpeter uses <color=#72C5FF>Horn of the End</color> to instantly activate ally Shadows' skills.\n3. If all other Shadows are defeated, Trumpeter becomes targetable and activates <color=#72C5FF>Horn of Ruin</color> after 2 turns of Aria.\nHorn of Ruin: Sacrifices user to resummon all defeated Shadows, greatly strengthening their abilities and dealing heavy damage to all Phantom Thieves."
   },
   {
     "sn": "829732",
@@ -44007,7 +43989,7 @@
     "sn": "829751",
     "name": "Trumpeter",
     "desc": "Angels that sound the trumpets at the time of the apocalypse. As each trumpet sounds, the more plagues and disasters will occur, turning the earth into a land of death and suffering.",
-    "strategy": "1. Trumpeter cannot be targeted by the Phantom Thieves and will not attack.\n2. Trumpeter uses <color=#72C5FF>Horn of the End</color> to instantly activate ally Shadows' skills.\n3. If all other Shadows are defeated, Trumpeter becomes targetable and activates<color=#72C5FF>Horn of Ruin</color> after 2 turns of Aria.\nHorn of Ruin: Sacrifices user to resummon all defeated Shadows, greatly strengthening their abilities and dealing heavy damage to all Phantom Thieves."
+    "strategy": "1. Trumpeter cannot be targeted by the Phantom Thieves and will not attack.\n2. Trumpeter uses <color=#72C5FF>Horn of the End</color> to instantly activate ally Shadows' skills.\n3. If all other Shadows are defeated, Trumpeter becomes targetable and activates <color=#72C5FF>Horn of Ruin</color> after 2 turns of Aria.\nHorn of Ruin: Sacrifices user to resummon all defeated Shadows, greatly strengthening their abilities and dealing heavy damage to all Phantom Thieves."
   },
   {
     "sn": "829752",
@@ -45897,7 +45879,7 @@
     "sn": "900611",
     "name": "Kin-Ki",
     "desc": "One of the four oni controlled by Fujiwara no Chikata, its body is so hard that no weapons can penetrate it. It and its comrades fell into hell through holes that can still be found in modern Iga.",
-    "strategy": "When Kin-Ki takes damage, it will <color=#72C5FF>Counterattack</color>, dealing heavy damage to multiple Phantom Thieves.\n2. When <color=#FF423F>Saki Mitama</color> is defeated, Phantom Thieves can restore a large amount of HP."
+    "strategy": "1. When Kin-Ki takes damage, it will <color=#72C5FF>Counterattack</color>, dealing heavy damage to multiple Phantom Thieves.\n2. When <color=#FF423F>Saki Mitama</color> is defeated, Phantom Thieves can restore a large amount of HP."
   },
   {
     "sn": "900612",
@@ -47151,7 +47133,7 @@
     "sn": "901613",
     "name": "Genbu",
     "desc": "One of the Ssu-Ling, celestial creatures of Chinese myth. It represents the direction north, the season of winter, and the element of water. Known to be a great warrior, it supports the Earth from below.",
-    "strategy": "Weaknesses and resistances are different than normal.\nGenbu will continuously grant stacks of <color=#ff3b37>Black Tortoiseshell</color> to all Shadows.\nBlack Tortoiseshell: Decreases final damage taken. Stackable, but lowering Genbu's Down Points will remove 1 stack."
+    "strategy": "Weaknesses and resistances are different than normal.\nGenbu will continuously grant stacks of <color=#FF423F>Black Tortoiseshell</color> to all Shadows.\nBlack Tortoiseshell: Decreases final damage taken. Stackable, but lowering Genbu's Down Points will remove 1 stack."
   },
   {
     "sn": "901614",

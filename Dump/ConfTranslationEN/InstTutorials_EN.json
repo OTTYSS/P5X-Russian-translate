@@ -342,7 +342,7 @@
   {
     "sn": "501101",
     "title": "Special Effect",
-    "text": "1. Cerberus will summon servants during the battle.\nWhen a servant is defeated, Cerberus takes Almighty damage.\n2. When Cerberus has taken a certain amount of damage, it moves to the next phase, and all Phantom Thieves' SP is restored."
+    "text": "1. Cerberus will summon servants during the battle.\nWhen a servant is defeated, Cerberus takes Almighty damage.\n2. After a certain number of turns, Cerberus moves to the next phase, and all Phantom Thieves' SP is restored."
   },
   {
     "sn": "501111",
@@ -450,9 +450,14 @@
     "text": "Baphomet will restore all Phantom Thieves' SP each turn, but also inflicts Demonic Curse on the Phantom Thief with the highest Attack, greatly decreasing their damage."
   },
   {
-    "sn": "522101",
+    "sn": "521101",
     "title": "Special Effects",
-    "text": "1. At the start of battle, Lilith summons 4 servants.\nLilith and all servants are in the <color=#ff3b37>Soul Link</color> state.\nSoul Link: Distributes all damage received between all Shadows who share this condition, based on the percentage of their current HP.\n2. Each turn, Lilith grants 1 <color=#ff3b37>Cover of Night</color> stack to all Shadows.\nCover of Night: Decrease final damage taken by 15% for each stack. Stacks up to 2 times.\n3. When a Shadow with Cover of Night is inflicted with an elemental ailment, remove 1 Cover of Night stack."
+    "text": "Increase Seth's final Highlight damage taken by 20%. Decrease all other final skill damage taken by 30%."
+  },
+  {
+    "sn": "522101",
+    "title": "Special Effect",
+    "text": "Weaknesses and resistances are different than normal.\n1. At the start of battle, Lilith summons 4 servants.\nLilith and all servants are in the <color=#ff3b37>Soul Link</color> state.\nSoul Link: Distributes all damage received between all Shadows who share this condition, based on the percentage of their current HP.\n2. Each turn, Lilith grants 1 <color=#ff3b37>Cover of Night</color> stack to all Shadows.\nCover of Night: Decrease final damage taken by 15% for each stack. Stacks up to 2 times.\n3. When a Shadow with Cover of Night is inflicted with an elemental ailment, remove 1 Cover of Night stack."
   },
   {
     "sn": "523111",
@@ -982,17 +987,17 @@
   {
     "sn": "218221",
     "title": "Unique Shadow Abilities",
-    "text": "1. Arahabaki summons a variety of Dogu.\nWhen Dogu are on the field, Arahabaki is granted various effects.\n2. At the start of Arahabaki's turn, Arahabaki's Progress increases for each Dogu on the field.\nWhen Progress reaches 10, Arahabaki activates <color=#FF423F>Abyssal Gaze</color> and inflicts all Phantom Thieves with <color=#FF423F>Despair</color>.\n3. At the start of the battle or when its HP falls below 50%, Arahabaki summons 1 of each of the 4 types of Dogu.\nWeakness Dogu: Protects Arahabaki's weakness\nWhen defeated, several of Arahabaki's affinities change to Weak.\nSP Dogu: Causes the Phantom Thieves to lose SP each turn.\nWhen defeated, the Phantom Thieves regain SP.\nHP Dogu: Restores Arahabkaki's HP each turn. When defeated, the Phantom Thieves regain HP.\nProgress Dogu: Increases Arahabaki's Progress each turn.\nWhen defeated, Arahabaki's Progress decreases."
+    "text": "1. Arahabaki summons a variety of Dogu.\nWhen Dogu are on the field, Arahabaki is granted various effects.\n2. At the start of Arahabaki's turn, Arahabaki's Progress increases by 1 for each Dogu on the field.\nWhen Progress reaches 10, Arahabaki activates <color=#FF423F>Abyssal Gaze</color> and inflicts all Phantom Thieves with <color=#FF423F>Despair</color>.\n3. At the start of the battle or when its HP falls below 50%, Arahabaki summons 1 of each of the 4 types of Dogu.\nWeakness Dogu: Protects Arahabaki's weakness\nWhen defeated, several of Arahabaki's affinities change to Weak.\nSP Dogu: Causes the Phantom Thieves to lose SP each turn.\nWhen defeated, the Phantom Thieves regain SP.\nHP Dogu: Restores Arahabkaki's HP each turn. When defeated, the Phantom Thieves regain HP.\nProgress Dogu: Increases Arahabaki's Progress each turn.\nWhen defeated, Arahabaki's Progress decreases."
   },
   {
     "sn": "218231",
     "title": "Unique Shadow Abilities",
-    "text": "1. Arahabaki summons a variety of Dogu.\nWhen Dogu are on the field, Arahabaki is granted various effects.\n2. At the start of Arahabaki's turn, Arahabaki's Progress increases for each Dogu on the field.\nWhen Progress reaches 10, Arahabaki activates <color=#FF423F>Abyssal Gaze</color> and inflicts all Phantom Thieves with <color=#FF423F>Despair</color>.\n3. Arahabaki will randomly summon 2 Dogu each turn.\nWhen its HP falls below 50%, Arahabaki summons an additional of Dogu.\nWeakness Dogu: Protects Arahabaki's weakness\nWhen defeated, several of Arahabaki's affinities change to Weak.\nSP Dogu: Causes the Phantom Thieves to lose SP each turn.\nWhen defeated, the Phantom Thieves regain SP.\nHP Dogu: Restores Arahabkaki's HP each turn. When defeated, the Phantom Thieves regain HP.\nProgress Dogu: Increases Arahabaki's Progress each turn.\nWhen defeated, Arahabaki's Progress decreases."
+    "text": "1. Arahabaki summons a variety of Dogu.\nWhen Dogu are on the field, Arahabaki is granted various effects.\n2. At the start of Arahabaki's turn, Arahabaki's Progress increases by 1 for each Dogu on the field.\nWhen Progress reaches 10, Arahabaki activates <color=#FF423F>Abyssal Gaze</color> and inflicts all Phantom Thieves with <color=#FF423F>Despair</color>.\n3. Arahabaki will randomly summon 2 Dogu each turn.\nWhen its HP falls below 50%, Arahabaki summons an additional of Dogu.\nWeakness Dogu: Protects Arahabaki's weakness\nWhen defeated, several of Arahabaki's affinities change to Weak.\nSP Dogu: Causes the Phantom Thieves to lose SP each turn.\nWhen defeated, the Phantom Thieves regain SP.\nHP Dogu: Restores Arahabkaki's HP each turn. When defeated, the Phantom Thieves regain HP.\nProgress Dogu: Increases Arahabaki's Progress each turn.\nWhen defeated, Arahabaki's Progress decreases."
   },
   {
     "sn": "218241",
     "title": "Unique Shadow Abilities",
-    "text": "1. Arahabaki summons a variety of Dogu. When Dogu are on the field, Arahabaki is granted various effects.\n2. At the start of Arahabaki's turn, Arahabaki's Progress increases for each Dogu on the field. When Progress reaches 10, Arahabaki activates Abyssal Gaze and inflicts all Phantom Thieves with <color=#ff3b37>Despair</color>.\n3. There is always a Metamorphosis Dogu on the field. This Dogu cannot be attacked, and it will transform into another Dogu randomly every turn, activating its corresponding ability.\n4. When it HP falls below 50% for the first time, Arahabaki summons an additional Metamorphosis Dogu.\nWeakness Dogu: Protects Arahabaki's weakness.\nSP Dogu: Causes the Phantom Thieves to lose SP each turn.\nHP Dogu: Restores Arahabkaki's HP each turn.\nProgress Dogu: Increases Arahabaki's Progress each turn."
+    "text": "1. Arahabaki summons a variety of Dogu. When Dogu are on the field, Arahabaki is granted various effects.\n2. At the start of Arahabaki's turn, Arahabaki's Progress increases by 1 for each Dogu on the field. When Progress reaches 10, Arahabaki activates Abyssal Gaze and inflicts all Phantom Thieves with <color=#ff3b37>Despair</color>.\n3. There is always a Metamorphosis Dogu on the field. This Dogu cannot be attacked, and it will transform into another Dogu randomly every turn, activating its corresponding ability.\n4. When it HP falls below 50% for the first time, Arahabaki summons an additional Metamorphosis Dogu.\nWeakness Dogu: Protects Arahabaki's weakness.\nSP Dogu: Causes the Phantom Thieves to lose SP each turn.\nHP Dogu: Restores Arahabkaki's HP each turn.\nProgress Dogu: Increases Arahabaki's Progress each turn."
   },
   {
     "sn": "818011",
@@ -1052,7 +1057,7 @@
   {
     "sn": "819131",
     "title": "Unique Shadow Abilities",
-    "text": "Koumokuten can activate <color=#FF423F>Eye of Heaven</color>.\nEye of Heaven: Selects 1 Phantom Thief. Increases their damage taken and has Shadows focus attacks on them next turn.\n2. After activating Eye of Heaven, Koumokuten will summon 1 Makami."
+    "text": "1. Koumokuten can activate <color=#FF423F>Eye of Heaven</color>.\nEye of Heaven: Selects 1 Phantom Thief. Increases their damage taken and has Shadows focus attacks on them next turn.\n2. Before activating Eye of Heaven, Koumokuten will summon 1 Makami."
   },
   {
     "sn": "819141",
@@ -1062,7 +1067,7 @@
   {
     "sn": "819151",
     "title": "Unique Shadow Abilities",
-    "text": "1. Jikokuten has <color=#FF423F>Blade of Sanctuary</color>.\nBlade of Sanctuary: Each time damage is dealt, also grants a shield to 1 random Shadow.\n2. Zouchouten can activate <color=#FF423F>Growth of All Things</color>.\nGrowth of All Things: Randomly increases Attack, Defense, or damage of all Shadows each turn.\n3. Koumokuten can activate <color=#FF423F>Eye of Heaven</color>.\nEye of Heaven: Selects 1 Phantom Thief.\nIncreases their damage taken and has Shadows focus attacks on them next turn.\n4. Bishamonten has <color=#FF423F>Parasol of Chaos</color>.\nParasol of Chaos: Covers the Shadow with the lowest HP, and changes all elemental affinities to Drain.\nLasts for 2 turns."
+    "text": "1. Jikokuten has <color=#FF423F>Blade of Sanctuary</color>.\nBlade of Sanctuary: Each time damage is dealt, also grants a shield to 1 random Shadow.\n2. Zouchouten can activate <color=#FF423F>Growth of All Things</color>.\nGrowth of All Things: Randomly increases Attack, Defense, or damage of all Shadows each turn.\n3. Koumokuten can activate <color=#FF423F>Eye of Heaven</color>.\nEye of Heaven: Selects 1 Phantom Thief.\nIncreases their damage taken and has Shadows focus attacks on them next turn.\nBefore activating Eye of Heaven, Koumokuten will summon 1 Makami.\n4. Bishamonten has <color=#FF423F>Parasol of Chaos</color>.\nParasol of Chaos: Covers the Shadow with the lowest HP, and changes all elemental affinities to Drain.\nLasts for 2 turns."
   },
   {
     "sn": "819152",
@@ -1157,7 +1162,7 @@
   {
     "sn": "742111",
     "title": "Unique Shadow Abilities",
-    "text": "Fafnir inflicts <color=#FF423F>Fafnir's Curse</color> on all Phantom Thieves.\nFafnir's Curse: Increase damage taken by 20%. When a Phantom Thief uses a Buff, Healing, or Defense skill, Fafnir's Curse is removed, and Fafnir is inflicted with 1 <color=#FF423F>Curse's Remnant</color> stack.\nCurse's Remnant: Decrease Defense by 12%. Stacks up to 3 times. At 3 stacks, increase Fafnir's Highlight damage taken by 30%."
+    "text": "Fafnir inflicts <color=#FF423F>Fafnir's Curse</color> on all Phantom Thieves.\nFafnir's Curse: Increase damage taken by 20%. When a Phantom Thief uses a Buff, Healing, or Defense skill, Fafnir's Curse is removed, and Fafnir is inflicted with 1 Curse's Remnant</color> stack.\nCurse's Remnant: Decrease Defense by 12%. Stacks up to 3 times. At 3 stacks, increase Fafnir's Highlight damage taken by 30%."
   },
   {
     "sn": "228011",
@@ -1392,7 +1397,7 @@
   {
     "sn": "902331",
     "title": "Shiva and Parvati",
-    "text": "1. Shiva's skills Riot Gun and Karmic Alteration, as well as Parvati's skill Mother's Revelation, will grant Wisdom. Wisdom enhances the skill effects of Dance of Destruction and Divine Dancer's Leap.\nShiva's skill Divine Dancer's Leap and Parvati's skill Mother's Revelation will be used after the phase changes.\n2. Each time Shiva takes damage of a different attribute, it loses 1 Wisdom stack (1 time for each attribute, count resets at the start of Shiva's next turn).\n3. Every time a certain number of turns passes, Parvati will activate Qi Barrier, changing all of the Shadows' affinities to Null. It is removed when taking damage that is not a continuous effect.\n4. The first time that Shiva or Parvati reach 1 HP, they will enter a weakened state. During this time, they cannot act and cannot be targeted. When Shiva and Parvati enter their weakened states at the same time, they will recover HP and enter the next phase.\n5. When Parvati is defeated, Shiva will immediately activate Dance of Destruction, dealing damage to all Phantom Thieves.\n6. When Shiva is defeated, Parvati will transform into Kali."
+    "text": "1. Shiva's skills Riot Gun and Karmic Alteration, as well as Parvati's skill Mother's Revelation, will grant Wisdom. Wisdom enhances the skill effects of Dance of Destruction and Divine Dancer's Leap.\nShiva's skill Divine Dancer's Leap and Parvati's skill Mother's Revelation will be used after the phase changes.\n2. Each time Shiva takes damage of a different attribute, it loses 1 Wisdom stack (1 time for each attribute, count resets at the start of Shiva's next turn).\n3. Every time a certain number of turns passes, Parvati will activate Qi Barrier, changing all of the Shadows' affinities to Null for 1 turn. It is removed when taking damage that is not a continuous effect.\n4. The first time that Shiva or Parvati reach 1 HP, they will enter a weakened state. During this time, they cannot act and cannot be targeted. When Shiva and Parvati enter their weakened states at the same time, they will recover HP and enter the next phase.\n5. When Parvati is defeated, Shiva will immediately activate Dance of Destruction, dealing damage to all Phantom Thieves.\n6. When Shiva is defeated, Parvati will transform into Kali."
   },
   {
     "sn": "921011",
@@ -1417,17 +1422,17 @@
   {
     "sn": "228081",
     "title": "Unique Shadow Abilities",
-    "text": "1. Every turn, Kumbhanda will attack Phantom Thieves who have a <color=#FF423F>Grudge</color> stack.\nIf no Phantom Thieves have a Grudge, it will attack all Phantom Thieves.\n2. Whenever Kumbhanda attacks, it reduces the target's SP by 20%, and restores 10 SP to 1 random Agathion.\n3. When Agathion is hit by an attack, the attacker is inflicted with 1 Grudge stack for 1 turn.\n4. If an Agathion's SP is less than 40% at the start of its turn, it transforms into Kumbhanda.\nIf it is defeated, it restores the SP of all Shadows by 40%."
+    "text": "1. Every turn, Kumbhanda will attack Phantom Thieves who have a <color=#FF423F>Grudge</color> stack.\nIf no Phantom Thieves have a Grudge, it will attack all Phantom Thieves.\n2. Whenever Kumbhanda attacks, it reduces the target's SP by 20, and restores 10 SP to 1 random Agathion.\n3. When Agathion is hit by an attack, the attacker is inflicted with 1 Grudge stack for 1 turn.\n4. If an Agathion's SP is less than 40 at the start of its turn, it transforms into Kumbhanda.\nIf it is defeated, it restores the SP of all Shadows by 20."
   },
   {
     "sn": "228091",
     "title": "Unique Shadow Abilities",
-    "text": "1. Each turn, Girimehkala inflicts a <color=#FF423F>Mark of Calamity</color> on 2 Phantom Thieves.\nThis effect lasts for 2 turns.\n2. When a Phantom Thief or Shadow with Mark of Calamity deals damage with a skill, <color=#FF423F>Calamity's Descent</color> is activated.\nCalamity's Descent: Deals multi-target damage based on the user's Attack and transfers a Mark of Calamity to the main target.\n3. All Shadows' final damage (excluding that from Calamity's Descent) is decreased by 60%.\n4. After taking damage from Calamity's Descent, damage taken is greatly increased.\nThis effect lasts for 1 turn."
+    "text": "1. Each turn, Girimehkala inflicts a <color=#FF423F>Mark of Calamity</color> on 2 Phantom Thieves.\nThis effect lasts for 2 turns.\n2. When a Phantom Thief or Shadow with Mark of Calamity deals damage with a skill, <color=#FF423F>Calamity's Descent</color> is activated 1 time.\nCalamity's Descent: Deals multi-target damage based on the user's Attack and transfers a Mark of Calamity to the main target.\n3. All Shadows' final damage (excluding that from Calamity's Descent) is decreased by 60%.\n4. After taking damage from Calamity's Descent, damage taken is greatly increased.\nThis effect lasts for 1 turn."
   },
   {
     "sn": "228101",
     "title": "Unique Shadow Abilities",
-    "text": "1. Each turn, Girimehkala inflicts a <color=#FF423F>Mark of Calamity</color> on 2 Phantom Thieves.\nThis effect lasts for 2 turns.\n2. When a Phantom Thief or Shadow with Mark of Calamity deals damage with a skill, <color=#FF423F>Calamity's Descent</color> is activated.\nCalamity's Descent: Deals multi-target damage based on the user's Attack and transfers a Mark of Calamity to the main target.\n3. All Shadows' final damage (excluding that from Calamity's Descent) is decreased by 60%.\n4. Mark of Calamity can stack up to 2 times.\nAt 2 Mark of Calamity stacks, both will be spent to turn Mark of Calamity into <color=#FF423F>Ruinous Calamity</color>, dealing severe damage."
+    "text": "1. Each turn, Girimehkala inflicts a <color=#FF423F>Mark of Calamity</color> on 2 Phantom Thieves.\nThis effect lasts for 2 turns.\n2. When a Phantom Thief or Shadow with Mark of Calamity deals damage with a skill, <color=#FF423F>Calamity's Descent</color> is activated 1 time.\nCalamity's Descent: Deals multi-target damage based on the user's Attack and transfers a Mark of Calamity to the main target.\n3. All Shadows' final damage (excluding that from Calamity's Descent) is decreased by 60%.\n4. Mark of Calamity can stack up to 2 times.\nAt 2 Mark of Calamity stacks, both will be spent to turn Mark of Calamity into <color=#FF423F>Ruinous Calamity</color>, dealing severe damage."
   },
   {
     "sn": "228111",
@@ -1542,7 +1547,7 @@
   {
     "sn": "921411",
     "title": "Haru's Skills",
-    "text": "1. Haru specializes in <color=#FF423F>multi-target attacks</color>.\nBy using certain skills, she gains <color=#FF423F>Thoughtful Round</color>, allowing her to deal powerful Psychokinesis damage with long-range attacks.\n2. Each skill Haru activates will give different types of Thoughtful Round effects.\nEach one will <color=#FF423F>enhance her long-range attacks</color> in different ways.\n3. By increasing Haru's ailment accuracy, she can not only gain increased Attack and critical damage, she can also improve the accuracy of her <color=#FF423F>Target Audience</color> effect."
+    "text": "1. Haru specializes in <color=#FF423F>multi-target attacks</color>.\nBy using certain skills, she gains <color=#FF423F>Thoughtful Round</color>, allowing her to deal powerful Psychokinesis damage with long-range attacks.\n2. Each skill Haru activates will give different types of Thoughtful Round effects.\nEach one will <color=#FF423F>enhance her long-range attacks</color> in different ways.\n3. By increasing Haru's ailment accuracy, she can not only gain increased Attack and critical damage, but also improve the accuracy of her <color=#FF423F>Target Audience</color> effect."
   },
   {
     "sn": "915501",
@@ -1552,7 +1557,7 @@
   {
     "sn": "916501",
     "title": "Macabre's Skills",
-    "text": "1. In the first phase of battle, Dream Prancer alternates between summoning Pale Rider and Red Rider. When the summoned Shadows are defeated, it will summon them again 2 turns later.\n2. In the second phase of battle, Dream Prancer will summon Pale Rider and Red Rider at the same time. When both of the summoned Shadows are on the field, final damage against Dream Prancer is decreased by 50%. When the summoned Shadows are defeated, it will summon them again 2 turns later.\n3. When summoned Shadows are on the field, Dream Prancer will use <color=#FF423F>Ephemeral Sustenance</color> on 1 of the Shadows.\nEphemeral Sustenance: After 3 turns, that summoned Shadow will be sacrificed to restore a certain amount of Dream Prancer's HP.\n4. Pale Rider uses <color=#FF423F>Brain Shake</color>.\nBrain Shake: Deal Physical damage to the Phantom Thief with the lowest HP, with a chance to inflict Brainwash for 2 turns.\n5. Red Rider uses <color=#FF423F>Appeal to Retreat</color>.\nAppeal to Retreat: Decrease Highlight Gauge by 40%. When Red Rider is defeated, instantly increase Highlight Gauge by 50%."
+    "text": "1. In the first phase of battle, Dancer of Dreams alternates between summoning Pale Rider and Red Rider. When the summoned Shadows are defeated, it will summon them again 2 turns later.\n2. In the second phase of battle, Dancer of Dreams will summon Pale Rider and Red Rider at the same time. When both of the summoned Shadows are on the field, final damage against Dancer of Dreams is decreased by 50%. When the summoned Shadows are defeated, it will summon them again 2 turns later.\n3. When summoned Shadows are on the field, Dancer of Dreams will use <color=#FF423F>Ephemeral Sustenance</color> on 1 of the Shadows.\nEphemeral Sustenance: After 3 turns, that summoned Shadow will be sacrificed to restore a certain amount of Dancer of Dreams's HP.\n4. Pale Rider uses <color=#FF423F>Brain Shake</color>.\nBrain Shake: Deal Physical damage to the Phantom Thief with the lowest HP, with a chance to inflict Brainwash for 2 turns.\n5. Red Rider uses <color=#FF423F>Appeal to Retreat</color>.\nAppeal to Retreat: Decrease Highlight Gauge by 40% of its current amount. When Red Rider is defeated, instantly increase Highlight Gauge by 50%."
   },
   {
     "sn": "921511",
@@ -1627,7 +1632,7 @@
   {
     "sn": "645211",
     "title": "Unique Shadow Abilities",
-    "text": "1. Jikokuten has <color=#ff3b37>Blade of Sanctuary</color>.\nBlade of Sanctuary: Each time damage is dealt, also grants a shield to 1 random Shadow.\n2. Zouchouten can activate <color=#ff3b37>Growth of All Things</color>.\nGrowth of All Things: Randomly increases Attack, Defense, or damage of all Shadows each turn.\n3. Koumokuten can activate <color=#ff3b37>Eye of Heaven</color>.\nEye of Heaven: Selects 1 Phantom Thief.\nIncreases their damage taken and has Shadows focus attacks on them next turn.\n4. Bishamonten has <color=#ff3b37>Parasol of Chaos</color>.\nParasol of Chaos: Covers the Shadow with the lowest HP, and changes all elemental affinities to Resist.\nLasts for 2 turns."
+    "text": "1. Jikokuten has <color=#ff3b37>Blade of Sanctuary</color>.\nBlade of Sanctuary: Each time damage is dealt, also grants a shield to 1 random Shadow.\n2. Zouchouten can activate <color=#ff3b37>Growth of All Things</color>.\nGrowth of All Things: Randomly increases Attack, Defense, or damage of all Shadows each turn.\n3. Koumokuten can activate <color=#ff3b37>Eye of Heaven</color>.\nEye of Heaven: Selects 1 Phantom Thief.\nIncreases their damage taken and has Shadows focus attacks on them next turn.\nBefore activating Eye of Heaven, Koumokuten will summon 1 Makami.\n4. Bishamonten has <color=#ff3b37>Parasol of Chaos</color>.\nParasol of Chaos: Covers the Shadow with the lowest HP, and changes all elemental affinities to Resist.\nLasts for 2 turns."
   },
   {
     "sn": "645311",
@@ -1637,32 +1642,52 @@
   {
     "sn": "660311",
     "title": "Unique Shadow Abilities",
-    "text": "1. Kin-Ki's <color=#ffd700>Golden Domain</color> allows it to grant <color=#ffd700>Indestructible Vajra</color> to 1 random Shadow after dealing damage.\nIndestructible Vajra: Nullifies the next damage taken.\n2. Shadows gain the following abilities as turns progress.\nStarting on turn 3, Shadows gain 1 <color=#ff381d>Berserk</color> stack every turn.\nStarting on turn 5, Shadows gain 2 <color=#ff381d>Berserk</color> stack every turn.\nBerserk: Damage increases by 10%. Stacks up to 20 times."
+    "text": "1. Kin-Ki's <color=#ff423f>Golden Domain</color> allows it to grant <color=#ff423f>Indestructible Vajra</color> to 1 random Shadow after dealing damage.\nIndestructible Vajra: Nullifies the next damage taken.\n2. Shadows gain the following abilities as turns progress.\nStarting on turn 3, Shadows gain 1 <color=#ff423f>Berserk</color> stack every turn.\nStarting on turn 5, Shadows gain 2 <color=#ff423f>Berserk</color> stack every turn.\nBerserk: Damage increases by 10%. Stacks up to 20 times."
   },
   {
     "sn": "660321",
     "title": "Unique Shadow Abilities",
-    "text": "1. Fuu-Ki's <color=#81ea2c>Wind Domain</color> gives it a base chance of 80% to put the target in an <color=#81ea2c>Ultrawindswept</color> state when attacking. Ultrawindswept lasts for 2 turns.\nUltrawindswept: An enhanced version of Windswept inflicted by Fuu-Ki. Decreases Defense by 24%.\n2. Kin-Ki's <color=#ffd700>Golden Domain</color> allows it to grant <color=#ffd700>Indestructible Vajra</color> to 1 random Shadow after dealing damage.\nIndestructible Vajra: Nullifies the next damage taken.\n3. Shadows gain the following abilities as turns progress.\nStarting on turn 3, Shadows gain 1 <color=#ff381d>Berserk</color> stack every turn.\nStarting on turn 5, Shadows gain 2 <color=#ff381d>Berserk</color> stack every turn.\nBerserk: Damage increases by 10%. Stacks up to 20 times."
+    "text": "1. Fuu-Ki's <color=#ff423f>Wind Domain</color> gives it a base chance of 80% to put the target in an <color=#ff423f>Ultrawindswept</color> state when attacking. Ultrawindswept lasts for 2 turns.\nUltrawindswept: An enhanced version of Windswept inflicted by Fuu-Ki. Decreases Defense by 24%.\n2. Kin-Ki's <color=#ff423f>Golden Domain</color> allows it to grant <color=#ff423f>Indestructible Vajra</color> to 1 random Shadow after dealing damage.\nIndestructible Vajra: Nullifies the next damage taken.\n3. Shadows gain the following abilities as turns progress.\nStarting on turn 3, Shadows gain 1 <color=#ff423f>Berserk</color> stack every turn.\nStarting on turn 5, Shadows gain 2 <color=#ff423f>Berserk</color> stack every turn.\nBerserk: Damage increases by 10%. Stacks up to 20 times."
   },
   {
     "sn": "660331",
     "title": "Unique Shadow Abilities",
-    "text": "1. Fuu-Ki's <color=#81ea2c>Wind Domain</color> gives it a base chance of 80% to put the target in an <color=#81ea2c>Ultrawindswept</color> state when attacking. Ultrawindswept lasts for 2 turns.\nUltrawindswept: An enhanced version of Windswept inflicted by Fuu-Ki. Decreases Defense by 24%.\n2. Sui-Ki's <color=#00aeff>Ice Domain</color> gives it a base chance of 80% to inflict <color=#00aeff>Ultrafreeze</color> when attacking. Ultrafreeze lasts for 2 turns.\nUltrafreeze: An enhanced version of Frozen inflicted by Sui-Ki. Decreases Attack Power by 24%.\n3. Kin-Ki's <color=#ffd700>Golden Domain</color> allows it to grant <color=#ffd700>Indestructible Vajra</color> to 1 random Shadow after dealing damage.\nIndestructible Vajra: Nullifies the next damage taken.\n4. Shadows gain the following abilities as turns progress.\nStarting on turn 3, Shadows gain 1 <color=#ff381d>Berserk</color> stack every turn.\nStarting on turn 5, Shadows gain 2 <color=#ff381d>Berserk</color> stack every turn.\nBerserk: Damage increases by 10%. Stacks up to 20 times."
+    "text": "1. Fuu-Ki's <color=#ff423f>Wind Domain</color> gives it a base chance of 80% to put the target in an <color=#ff423f>Ultrawindswept</color> state when attacking. Ultrawindswept lasts for 2 turns.\nUltrawindswept: An enhanced version of Windswept inflicted by Fuu-Ki. Decreases Defense by 24%.\n2. Sui-Ki's <color=#ff423f>Ice Domain</color> gives it a base chance of 80% to inflict <color=#ff423f>Ultrafreeze</color> when attacking. Ultrafreeze lasts for 2 turns.\nUltrafreeze: An enhanced version of Frozen inflicted by Sui-Ki. Decreases Attack Power by 24%.\n3. Kin-Ki's <color=#ff423f>Golden Domain</color> allows it to grant <color=#ff423f>Indestructible Vajra</color> to 1 random Shadow after dealing damage.\nIndestructible Vajra: Nullifies the next damage taken.\n4. Shadows gain the following abilities as turns progress.\nStarting on turn 3, Shadows gain 1 <color=#ff423f>Berserk</color> stack every turn.\nStarting on turn 5, Shadows gain 2 <color=#ff423f>Berserk</color> stack every turn.\nBerserk: Damage increases by 10%. Stacks up to 20 times."
   },
   {
     "sn": "660341",
     "title": "Unique Shadow Abilities",
-    "text": "1. Fuu-Ki's <color=#81ea2c>Wind Domain</color> gives it a base chance of 80% to put the target in an <color=#81ea2c>Ultrawindswept</color> state when attacking. Ultrawindswept lasts for 2 turns.\nUltrawindswept: An enhanced version of Windswept inflicted by Fuu-Ki. Decreases Defense by 24%.\n2. Sui-Ki's <color=#00aeff>Ice Domain</color> gives it a base chance of 80% to inflict <color=#00aeff>Ultrafreeze</color> when attacking. Ultrafreeze lasts for 2 turns.\nUltrafreeze: An enhanced version of Frozen inflicted by Sui-Ki. Decreases Attack Power by 24%.\n3. Kin-Ki's <color=#ffd700>Golden Domain</color> allows it to grant <color=#ffd700>Indestructible Vajra</color> to 1 random Shadow after dealing damage.\nIndestructible Vajra: Nullifies the next damage taken.\n4. Ongyo-Ki starts with 3 <color=#ff3b37>Damage Reduction</color> stacks, which increases the damage dealt to Phantom Thieves with elemental ailments.\n5. When Fuu-Ki, Sui-Ki, or Kin-Ki are defeated, Ongyo-Ki loses 1 <color=#ff3b37>Damage Reduction</color> stack. It then gains the Domain effect from the defeated Shadow, and its affinities change.\nOnce Fuu-Ki, Sui-Ki, and Kin-Ki have all been defeated, Ongyo-ki becomes enraged, increasing its final damage.\n6. Shadows gain the following abilities as turns progress.\nStarting on turn 3, Shadows gain 1 <color=#ff381d>Berserk</color> stack every turn.\nStarting on turn 5, Shadows gain 2 <color=#ff381d>Berserk</color> stack every turn.\nBerserk: Damage increases by 10%. Stacks up to 20 times."
+    "text": "1. Fuu-Ki's <color=#ff423f>Wind Domain</color> gives it a base chance of 80% to put the target in an <color=#ff423f>Ultrawindswept</color> state when attacking. Ultrawindswept lasts for 2 turns.\nUltrawindswept: An enhanced version of Windswept inflicted by Fuu-Ki. Decreases Defense by 24%.\n2. Sui-Ki's <color=#ff423f>Ice Domain</color> gives it a base chance of 80% to inflict <color=#ff423f>Ultrafreeze</color> when attacking. Ultrafreeze lasts for 2 turns.\nUltrafreeze: An enhanced version of Frozen inflicted by Sui-Ki. Decreases Attack Power by 24%.\n3. Kin-Ki's <color=#ff423f>Golden Domain</color> allows it to grant <color=#ff423f>Indestructible Vajra</color> to 1 random Shadow after dealing damage.\nIndestructible Vajra: Nullifies the next damage taken.\n4. Ongyo-Ki starts with 3 <color=#ff423f>Damage Reduction</color> stacks, which increases the damage dealt to Phantom Thieves with elemental ailments.\n5. When Fuu-Ki, Sui-Ki, or Kin-Ki are defeated, Ongyo-Ki loses 1 <color=#ff423f>Damage Reduction</color> stack. It then gains the Domain effect from the defeated Shadow, and its affinities change.\nOnce Fuu-Ki, Sui-Ki, and Kin-Ki have all been defeated, Ongyo-ki becomes enraged, increasing its final damage.\n6. Shadows gain the following abilities as turns progress.\nStarting on turn 3, Shadows gain 1 <color=#ff423f>Berserk</color> stack every turn.\nStarting on turn 5, Shadows gain 2 <color=#ff423f>Berserk</color> stack every turn.\nBerserk: Damage increases by 10%. Stacks up to 20 times."
+  },
+  {
+    "sn": "660411",
+    "title": "Unique Shadow Abilities",
+    "text": "1. Jikokuten will activate <color=#FF423F>Blade of Sanctuary</color>.\nBlade of Sanctuary: Each time damage is dealt, grant a shield to 1 random Shadow.\n2. Shadows gain the following abilities as turns progress.\nStarting on turn 3, Shadows gain 1 <color=#FF423F>Berserk</color> stack every turn.\nStarting on turn 5, Shadows gain 2 Berserk stack every turn.\nBerserk: Damage increases by 10%.\nStacks up to 20 times."
+  },
+  {
+    "sn": "660421",
+    "title": "Unique Shadow Abilities",
+    "text": "1. Jikokuten will activate <color=#FF423F>Blade of Sanctuary</color>.\nBlade of Sanctuary: Each time damage is dealt, grant a shield to 1 random Shadow.\n2. Zouchouten will activate <color=#FF423F>Growth of All Things</color>.\nGrowth of All Things: Randomly increases Attack, Defense, or damage of all Shadows each turn.\n3. Shadows gain the following abilities as turns progress.\nStarting on turn 3, Shadows gain 1 <color=#FF423F>Berserk</color> stack every turn.\nStarting on turn 5, Shadows gain 2 Berserk stack every turn.\nBerserk: Damage increases by 10%.\nStacks up to 20 times."
+  },
+  {
+    "sn": "660431",
+    "title": "Unique Shadow Abilities",
+    "text": "1. Jikokuten will activate <color=#FF423F>Blade of Sanctuary</color>.\nBlade of Sanctuary: Each time damage is dealt, grant a shield to 1 random Shadow.\n2. Zouchouten will activate <color=#FF423F>Growth of All Things</color>.\nGrowth of All Things: Randomly increases Attack, Defense, or damage of all Shadows each turn.\n3. Koumokuten will activate <color=#FF423F>Eye of Heaven</color>.\nEye of Heaven: Select 1 Phantom Thief. Increase their damage taken, and have all Shadows focus attacks on them next turn.\nBefore activating Eye of Heaven, Koumokuten will summon 1 Makami.\nBefore using Eye of Heaven, Koumokuten will summon 1 Makami.\n4. Shadows gain the following abilities as turns progress.\nStarting on turn 3, Shadows gain 1 <color=#FF423F>Berserk</color> stack every turn.\nStarting on turn 5, Shadows gain 2 Berserk stack every turn.\nBerserk: Damage increases by 10%.\nStacks up to 20 times."
+  },
+  {
+    "sn": "660441",
+    "title": "Unique Shadow Abilities",
+    "text": "1. Jikokuten will activate <color=#FF423F>Blade of Sanctuary</color>.\nBlade of Sanctuary: Each time damage is dealt, grant a shield to 1 random Shadow.\n2. Zouchouten will activate <color=#FF423F>Growth of All Things</color>.\nGrowth of All Things: Randomly increases Attack, Defense, or damage of all Shadows each turn.\n3. Koumokuten will activate <color=#FF423F>Eye of Heaven</color>.\nEye of Heaven: Select 1 Phantom Thief. Increase their damage taken, and have all Shadows focus attacks on them next turn.\nBefore using Eye of Heaven, Koumokuten will summon 1 Makami.\n4. Bishamonten will activate <color=#FF423F>Parasol of Chaos</color>.\nParasol of Chaos: Covers the Shadow with the lowest HP percentage, and changes all affinities to Drain. Lasts for 2 turns.\n5. When only 1 Shadow remains, it will be replaced with <color=#FF423F>Asura</color> and recover 30% of its HP.\n6. Be warned, <color=#FF423F>Asura possesses the skills of all of the Four Heavenly Kings</color>.\n7. Shadows gain the following abilities as turns progress.\nStarting on turn 3, Shadows gain 1 <color=#FF423F>Berserk</color> stack every turn.\nStarting on turn 5, Shadows gain 2 Berserk stack every turn.\nBerserk: Damage increases by 10%.\nStacks up to 20 times."
   },
   {
     "sn": "921711",
     "title": "Kasumi Yoshizawa's Skills",
-    "text": "tdxct-[InstTutorials_text_921711]"
+    "text": "1. Kasumi specializes in <color=#FF423F>single-target attacks</color>. When activating her Highlight, she <color=#FF423F>does not spend the Highlight gauge</color>. Her Highlight can also activate <color=#FF423F>critical hits</color> to deal greater damage.\n2. During battle, when Kasumi gains 2 <color=#FF423F>Step</color> stacks, press her Phantom Thief icon to activate <color=#FF423F>Spellbound Cinders</color> to enter <color=#FF423F>Masquerade</color> mode. This grants buffs and allows her to activate her Highlight."
   },
   {
     "sn": "921712",
     "title": "Kasumi Yoshizawa's Skills",
-    "text": "tdxct-[InstTutorials_text_921712]"
+    "text": "3. Also, she can choose 1 ally to be her <color=#FF423F>Dance Partner</color>, strengthening her and her Dance Partner's abilities. When an ally chosen as Kasumi's Dance Partner uses a skill, she can gain Step stacks more efficiently."
   },
   {
     "sn": "936211",
@@ -1757,6 +1782,6 @@
   {
     "sn": "937211",
     "title": "Unique Shadow Abilities",
-    "text": "Shadows have different weaknesses and resistances than usual.\n1. When Surt is on the field, it will summon 1 additional Surt.\n2. At the start of Surt's turn, Surt's <color=#FF423F>Progress</color> increases for each summoned Surt on the field.\nWhen Progress reaches 10, Surt activates <color=#FF423F>Abyssal Gaze</color>. This skill's damage increases according to the number of summoned Surt on the field.\n3. While Surt is on the field, all Shadows gain <color=#FF423F>Muddy Armor</color> and <color=#FF423F>Melted Armor</color> every 2 turns.\nMuddy Armor: Decrease final damage taken by 20%. When inflicted with Burn, this effect is removed.\nMelted Armor: Decrease final damage taken by 40%. When Burn is removed, Muddy Armor and Melted Armor are removed from all Shadows."
+    "text": "Shadows have different weaknesses and resistances than normal.\n1. When Surt is on the field, it will summon 1 additional Surt.\n2. At the start of Surt's turn, Surt's <color=#FF423F>Progress</color> increases for each summoned Surt on the field.\nWhen Progress reaches 10, Surt activates <color=#FF423F>Abyssal Gaze</color>. This skill's damage increases according to the number of summoned Surt on the field.\n3. While Surt is on the field, all Shadows gain <color=#FF423F>Muddy Armor</color> and <color=#FF423F>Melted Armor</color> every 2 turns.\nMuddy Armor: Decrease final damage taken by 20%. When inflicted with Burn, this effect is removed.\nMelted Armor: Decrease final damage taken by 40%. When Burn is removed, Muddy Armor and Melted Armor are removed from all Shadows."
   }
 ]

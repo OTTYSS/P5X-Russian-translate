@@ -4533,7 +4533,7 @@
   },
   {
     "sn": "1050054",
-    "textContent": "<sprite=0 tint=1>During the trial period, Player A purchased a {1}{0} Premium Pass. As this {1}{0} <color=#EADE10>will be regarded as the amount charged</color>, Player A will have Cognition Crystals returned after release in accordance with [Rule 1], and receive a free Premium Pass.\n<sprite=0 tint=1>During the trial period, Player B used a {1}{0} Premium Pass and purchased a Premium Pass + for {1}{0}. As the amount charged equals <color=#EADE10>{1}{0}</color>, Player B will have Cognition Crystals returned after release in accordance with [Rule 1] and <color=#EADE10>receive a free</color> Premium Pass +.\n\nAbove are details on the Phantom Thief Trial Return Rules."
+    "textContent": "<sprite=0 tint=1>During the trial period, Player A purchased a {1}{0} Premium Pass. As this {1}{0} <color=#EADE10>will be regarded as the amount charged</color>, Player A will have Cognition Crystals returned after release in accordance with [Rule 1], and receive a free Premium Pass.\n<sprite=0 tint=1>During the trial period, Player B used a {1}{0} Premium Pass and purchased a Premium+ Pass for {1}{0}. As the amount charged equals <color=#EADE10>{1}{0}</color>, Player B will have Cognition Crystals returned after release in accordance with [Rule 1] and <color=#EADE10>receive a free</color> Premium+ Pass.\n\nAbove are details on the Phantom Thief Trial Return Rules."
   },
   {
     "sn": "1050055",
@@ -5661,7 +5661,7 @@
   },
   {
     "sn": "1081018",
-    "textContent": "Select on of the following Space Revelation Cards"
+    "textContent": "Select one of the following Space Revelation Cards"
   },
   {
     "sn": "1081024",
@@ -6513,7 +6513,7 @@
   },
   {
     "sn": "1090020",
-    "textContent": "Friend Requests"
+    "textContent": "Friend Request"
   },
   {
     "sn": "1090021",
@@ -7677,7 +7677,7 @@
   },
   {
     "sn": "2001223",
-    "textContent": "Event Ends in: "
+    "textContent": "Ends in: "
   },
   {
     "sn": "2001224",
@@ -11045,7 +11045,7 @@
   },
   {
     "sn": "2002124",
-    "textContent": "Exclusive Outfit, Avatar Frame & Player Card"
+    "textContent": "Exclusive Outfit, Profile Frame & Player Card"
   },
   {
     "sn": "2002125",
@@ -11801,7 +11801,7 @@
   },
   {
     "sn": "2002315",
-    "textContent": "Teammates not selected"
+    "textContent": "Teammates have not been selected."
   },
   {
     "sn": "2002316",
@@ -12549,7 +12549,7 @@
   },
   {
     "sn": "2002547",
-    "textContent": "Season 3 <size=40>on Now</size>!"
+    "textContent": "Season 4 <size=40>on Now</size>!"
   },
   {
     "sn": "2002548",
@@ -12993,7 +12993,7 @@
   },
   {
     "sn": "2002718",
-    "textContent": "You must use Willpower and challenge attempts to take on Stellae.\nFrom the start of each trial period, your Willpower and challenge attempts will increase every 7 days, for a total of 3 times.\nMax Willpower: <color=#FFC000>%s</color>\nMax challenge attempts: <color=#FFC000>%s</color>"
+    "textContent": "You must use Willpower and challenge attempts to take on Stellae.\nFrom the start of each trial period, your Willpower and challenge attempts will increase every 7 days.\nMax Willpower: <color=#FFC000>%s</color>\nMax challenge attempts: <color=#FFC000>%s</color>"
   },
   {
     "sn": "2002719",
@@ -13061,7 +13061,7 @@
   },
   {
     "sn": "2002660",
-    "textContent": "{0} missions completed."
+    "textContent": "Completed missions: {0}"
   },
   {
     "sn": "2002661",
@@ -13193,7 +13193,7 @@
   },
   {
     "sn": "2002699",
-    "textContent": "Move forward to challenge."
+    "textContent": "A challenge awaits in:"
   },
   {
     "sn": "2002700",
@@ -13217,7 +13217,7 @@
   },
   {
     "sn": "2002705",
-    "textContent": "Roll"
+    "textContent": "Rolled \n"
   },
   {
     "sn": "2002706",
@@ -13305,7 +13305,7 @@
   },
   {
     "sn": "2002729",
-    "textContent": "Square"
+    "textContent": "Squares"
   },
   {
     "sn": "2002730",
@@ -13413,7 +13413,7 @@
   },
   {
     "sn": "2002759",
-    "textContent": "Flowers gained each time"
+    "textContent": "Flowers obtained"
   },
   {
     "sn": "2002760",
@@ -13449,7 +13449,7 @@
   },
   {
     "sn": "2002768",
-    "textContent": "AAAAAA=="
+    "textContent": "Flowers"
   },
   {
     "sn": "2002769",
@@ -13533,7 +13533,7 @@
   },
   {
     "sn": "2002809",
-    "textContent": "Visitor"
+    "textContent": "Visitors"
   },
   {
     "sn": "2002815",
@@ -13733,7 +13733,7 @@
   },
   {
     "sn": "2002793",
-    "textContent": "%s has been unlocked."
+    "textContent": "%s unlocked"
   },
   {
     "sn": "2002794",
@@ -13782,6 +13782,10 @@
   {
     "sn": "2002806",
     "textContent": "Check the route and roll again"
+  },
+  {
+    "sn": "2002808",
+    "textContent": "What'll\nit be?"
   },
   {
     "sn": "2002810",
@@ -13933,7 +13937,7 @@
   },
   {
     "sn": "2002857",
-    "textContent": "Lunar New Year Items Now Available"
+    "textContent": "Lunar New Year Items Now Available! "
   },
   {
     "sn": "2002858",
@@ -14037,7 +14041,7 @@
   },
   {
     "sn": "2002893",
-    "textContent": "Guaranteed to get the secret item within <color=#FEFE60> %s draws</color>!"
+    "textContent": "Guaranteed to get a super rare within <color=#FEFE60>%s draws</color>!"
   },
   {
     "sn": "2002897",
@@ -14522,5 +14526,9 @@
   {
     "sn": "2303565",
     "textContent": "Check the preview."
+  },
+  {
+    "sn": "2303411",
+    "textContent": "Unlocked after obtaining %s"
   }
 ]

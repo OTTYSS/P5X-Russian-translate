@@ -1713,7 +1713,7 @@
     "sn": "116113",
     "name": "Keen Eye",
     "desc": "Evolve the next activated <link=\"s|123\"><u>Inspiration</u></link> to <link=\"s|172\"><u>Imagination</u></link>. \nImagination: Increase chance of counterattack to 100%, increase damage by <color=#FFFC40>^%s^</color> of Defense, and change target to all foes. If the effect is not activated by the start of Yusuke's next action, automatically activate it.\nFor 2 turns, gain a shield equal to <color=#FFFC40>^%s^</color> of Yusuke's Defense + <color=#FFFC40>^%s^</color>, increase Fire resistance, and nullify spiritual ailments.\nAlso inflict <link=\"s|143\"><u>Taunt</u></link> on all foes for 2 turns.\nCooldown Time: 1 turn.",
-    "descSimple": "Evolve next activated Inspiration to Imagination.\n100% chance to counterattack, increase dmg (%s Def), and target all foes. Gain shield (%s Def + %s, 2 turns), increase Fire resistance, and nullify spiritual ailments (2 turns).\nTaunt all foes (2 turns).",
+    "descSimple": "Evolve next activated Inspiration to Imagination.\n100% chance to counterattack, increase dmg (%s Def), and target all foes. Gain shield (%s Def + %s, 2 turns), increase Fire resistance, and nullify spiritual ailments.\nTaunt all foes (2 turns).",
     "levelUpList": "Dmg Increase,Shield Multiplier,Base Shield",
     "levelUpValue": "AAAAAA==",
     "contentBG": "His extaordinary artist's eye allows him to assess his surroundings, steeling himself.",
@@ -1883,7 +1883,7 @@
     "sn": "117114",
     "name": "Data Link Established!",
     "desc": "Usable when allies have Data Storm. For 2 turns, increase all allies' Attack by <color=#FFFC40>^%s^</color>; increase Attack by 21.7 more for every 100 points of Futaba's Attack (up to <color=#FFFC40>^%s^</color> of Attack).\nInflict Virus on all foes for 1 turn, based on all allies' attributes.\nVirus: Change affinities of the foe this is inflicted upon. (Null, Reflect, and Drain become Resist. Resist becomes Normal. Normal becomes Weak. Weak attributes take 25% more weakness damage.)",
-    "descSimple": "Usable when allies have Data Storm. For 2 turns, increase 1 ally's Atk by %s; increase Atk 21.7 more per 100 points of Futaba's Atk (up to %s of Atk). Inflict Virus on all foes (1 turn), based on targeted ally's attribute.",
+    "descSimple": "Usable when allies have Data Storm. For 2 turns, increase all allies' Atk by %s; increase Atk 21.7 more per 100 points of Futaba's Atk (up to %s of Atk). Inflict Virus on all foes (1 turn), based on all allies' attributes.",
     "levelUpList": "Atk Increase Multiplier,Atk Increase Cap",
     "levelUpValue": "AAAAAA==",
     "contentBG": "Compile data collected on friends and foes alike to turn the situation in your favor, allowing allies to exploit enemies' weaknesses.",
@@ -3932,7 +3932,7 @@
   {
     "sn": "110113",
     "name": "Spirit's Lullaby",
-    "desc": "Spend 2 <link=\"s|131\"><u>Greenleaf</u></link> stacks for<color=#FFFC40>^%s^</color> chance to inflict <link=\"s|109\"><u>Sleep</u></link> on 1 foe for 1 turn. On success, increase foe's next attack damage taken by <color=#FFFC40>^%s^</color>. On failure, increase next damage taken by <color=#FFFC40>^%s^</color>.",
+    "desc": "Spend 2 <link=\"s|131\"><u>Greenleaf</u></link> stacks for <color=#FFFC40>^%s^</color> chance to inflict <link=\"s|109\"><u>Sleep</u></link> on 1 foe for 1 turn. On success, increase foe's next attack damage taken by <color=#FFFC40>^%s^</color> for 1 turn. On failure, increase next damage taken by <color=#FFFC40>^%s^</color> for 1 turn.",
     "descSimple": "Spend 2 Greenleaf stacks for %s chance to inflict Sleep on 1 foe (1 turn).\nOn success, increase foe's next attack dmg taken %s.\nOn failure, increase next dmg taken %s.",
     "levelUpList": "Accuracy,Dmg Taken Increase,Dmg Taken Increase",
     "levelUpValue": "AAAAAA==",
@@ -4823,7 +4823,7 @@
     "sn": "131113",
     "name": "Invigorating Blend",
     "desc": "Spend all <link=\"s|180\"><u>Cocktails</u></link> to increase the party's attribute damage based on the targeted ally's attribute for 2 turns.\nAttribute damage will increase by 1% for every 230 of Yumi's Attack (up to <color=#FFFC40>^%s^</color> of Attack). Each <link=\"s|182\"><u>Tailor-Made</u></link>, <link=\"s|183\"><u>Standard</u></link>, and <link=\"s|184\"><u>Basic</u></link> Cocktail spent will change this effect by 120%, 100%, and 50% respectively.\nIncrease these effects for the targeted ally by 1.2 times. If 2+ Standard or better Cocktails are spent, also increase the targeted ally's critical damage by <color=#FFFC40>^%s^</color>.\nCooldown Time: 8 ally actions. (This skill requires Cocktails.)",
-    "descSimple": "Spend all Cocktails to increase party's attribute dmg based on targeted ally's attribute (2 turns).\nAttribute dmg will increase 1% per 230 of Yumi's Atk (up to %s of Atk). Each Tailor-Made, Standard, or Basic Cocktail spent will change effect 120%/100%/50%, respectively.\nIncrease effects on targeted ally 1.2 times (2 turns).\nIf 2+ Standard or better Cocktails are spent, also increase targeted ally's crit dmg %s.",
+    "descSimple": "Spend all Cocktails to increase party's attribute dmg based on targeted ally's attribute (2 turns).\nAttribute dmg will increase 1% per 230 of Yumi's Atk (up to %s of Atk). Each Tailor-Made, Standard, or Basic Cocktail spent will change effect 120%/100%/50%, respectively.\nIncrease effects on targeted ally 1.2 times.\nIf 2+ Standard or better Cocktails are spent, also increase targeted ally's crit dmg %s.",
     "levelUpList": "Atk Increase Cap,Crit Dmg Increase",
     "levelUpValue": "AAAAAA==",
     "contentBG": "Shakes up a mellow cocktail, powering up all allies.",
@@ -6592,9 +6592,9 @@
   {
     "sn": "135111",
     "name": "Cinderella Glow",
-    "desc": "tdxct-[Skill_desc_135111]",
-    "descSimple": "tdxct-[Skill_descSimple_135111]",
-    "levelUpList": "tdxct-[Skill_levelUpList_135111]",
+    "desc": "Deal Bless damage to 1 foe equal to <color=#FFFC40>^%s^</color> of Attack, and gain Lead <link=\"s|215\"><u>Step</u></link>.\nIf this skill is activated by an ally with Dance Partner, deal Bless damage to 1 foe equal to <color=#FFFC40>^%s^</color>, and gain 1 Lead Step.\nLead Step stacks up to 3 times.",
+    "descSimple": "Bless damage to 1 foe equal to %s of Atk, and gain Lead Step.\nIf this skill is activated by an ally with Dance Partner, deal Bless dmg to 1 foe equal to %s, and gain 1 Lead Step.\nLead Step stacks up to 3 times.",
+    "levelUpList": "Skill Multiplier,Skill Multiplier",
     "levelUpValue": "AAAAAA==",
     "contentBG": "A dazzling light is cast at an enemy, dealing Bless damage.",
     "skillTag": "Single-Target"
@@ -6602,9 +6602,9 @@
   {
     "sn": "135112",
     "name": "Invitation",
-    "desc": "tdxct-[Skill_desc_135112]",
-    "descSimple": "tdxct-[Skill_descSimple_135112]",
-    "levelUpList": "tdxct-[Skill_levelUpList_135112]",
+    "desc": "Grant Dance Partner to 1 ally for 1 turn. Only 1 ally may have Dance Partner at one time.\nIncrease Attack of Kasumi and the selected ally by <color=#FFFC40>^%s^</color> for 3 turns. Also, Kasumi gains Follow <link=\"s|215\"><u>Step</u></link>. This effect does not stack.\nWhen an ally with Dance Partner uses a skill, immediately activate Cinderella Glow 1 time on 1 random foe (if the skill is activated on a foe, activate Cinderella Glow 1 time on that foe).",
+    "descSimple": "Grant Dance Partner to 1 ally for 1 turn. Only 1 ally may have Dance Partner at one time.\nIncrease Atk of Kasumi and the selected ally by %s for 3 turns. Also, Kasumi gains Follow Step. This effect does not stack.\nWhen an ally with Dance Partner uses a skill, immediately activate Cinderella Glow 1 time on 1 random foe (if the skill is activated on a foe, activate Cinderella Glow 1 time on that foe).",
+    "levelUpList": "Atk Increase",
     "levelUpValue": "AAAAAA==",
     "contentBG": "An ally is invited to dance, increasing the Attack of both dance partners.",
     "skillTag": "Buff"
@@ -6612,9 +6612,9 @@
   {
     "sn": "135113",
     "name": "Midnight Magic",
-    "desc": "tdxct-[Skill_desc_135113]",
-    "descSimple": "tdxct-[Skill_descSimple_135113]",
-    "levelUpList": "tdxct-[Skill_levelUpList_135113]",
+    "desc": "Deal Bless damage to 1 foe equal to <color=#FFFC40>^%s^</color> of Attack.\nWhen using this skill while in <link=\"s|217\"><u>Masquerade</u></link> mode, increase skill damage by 30%, and critical damage by <color=#FFFC40>^%s^</color>.",
+    "descSimple": "Bless dmg to 1 foe equal to %s of Atk.\nWhen using this skill in Masquerade mode, increase skill dmg by 30%, and crit dmg by %s.",
+    "levelUpList": "Skill Multiplier,Crit Dmg Increase",
     "levelUpValue": "AAAAAA==",
     "contentBG": "A sacred light blinds the enemy, dealing Bless damage.",
     "skillTag": "Single-Target"
@@ -6631,8 +6631,8 @@
   },
   {
     "sn": "135115",
-    "name": "Masked Ball",
-    "desc": "tdxct-[Skill_desc_135115]",
+    "name": "Spellbound Cinders",
+    "desc": "Enter <link=\"s|217\"><u>Masquerade</u></link> mode, and can activate Highlight 1 time. This effect lasts until the start of Kasumi's second turn after entering Masquerade (or if Spellbound Cinders is used, until the end of the following turn).\nAlso, for every Step stack gained while in Masquerade mode, increase Attack by 10% and critical rate by 4%.\nWhen Masquerade ends, lose all Step stacks. If Masquerade ends and Highlight has not been used, activate Highlight on 1 random foe.",
     "descSimple": "AAAAAA==",
     "levelUpList": "AAAAAA==",
     "levelUpValue": "AAAAAA==",
@@ -6642,7 +6642,7 @@
   {
     "sn": "135131",
     "name": "Rhythm Count",
-    "desc": "tdxct-[Skill_desc_135131]",
+    "desc": "For every <link=\"s|215\"><u>Step</u></link> stack, increase Bless damage by <color=#FFFC40>^%s^</color> (up to <color=#FFFC40>^%s^</color>).",
     "descSimple": "AAAAAA==",
     "levelUpList": "AAAAAA==",
     "levelUpValue": "AAAAAA==",
@@ -6652,7 +6652,7 @@
   {
     "sn": "135132",
     "name": "Steps of Faith",
-    "desc": "tdxct-[Skill_desc_135132]",
+    "desc": "When an ally other than Kasumi uses a Highlight, increase Kasumi's Attack by <color=#FFFC40>^%s^</color> for 2 turns. Stacks up to 2 times.",
     "descSimple": "AAAAAA==",
     "levelUpList": "AAAAAA==",
     "levelUpValue": "AAAAAA==",
@@ -6662,7 +6662,7 @@
   {
     "sn": "135140",
     "name": "Masked Ball",
-    "desc": "tdxct-[Skill_desc_135140]",
+    "desc": "Kasumi's Highlight does not deplete the Highlight gauge, and can activate critical hits.\nOn an ally's action, with 2 or more <link=\"s|215\"><u>Step</u></link> stacks, can use <link=\"s|216\"><u>Spellbound Cinders</u></link> to enter <link=\"s|217\"><u>Masquerade</u></link> mode, and can activate Highlight 1 time (Spellbound Cinders has a cooldown time of 3 turns). This effect lasts until the start of Kasumi's second turn after entering Masquerade (or if Spellbound Cinders is used during her own turn, until the end of the following turn).\nAlso, for every Step stack gained while in Masquerade mode, increase Attack by 10% and critical rate by 4%.\nWhen Masquerade ends, lose all Step stacks. If Masquerade ends and Highlight has not been used, activate Highlight on 1 random foe.",
     "descSimple": "tnxotb-[Skill_descSimple_135140]",
     "levelUpList": "AAAAAA==",
     "levelUpValue": "AAAAAA==",
@@ -6672,7 +6672,7 @@
   {
     "sn": "135141",
     "name": "Charming Invite",
-    "desc": "tdxct-[Skill_desc_135141]",
+    "desc": "Extend the duration of Dance Partner by 1 turn.\nWhen using Invitation, increase critical rate of Kasumi and her Dance Partner by 15% for 3 turns.",
     "descSimple": "AAAAAA==",
     "levelUpList": "AAAAAA==",
     "levelUpValue": "AAAAAA==",
@@ -6682,7 +6682,7 @@
   {
     "sn": "135142",
     "name": "Blossoming Dance Floor",
-    "desc": "tdxct-[Skill_desc_135142]",
+    "desc": "With 2 <link=\"s|215\"><u>Step</u></link> stacks, increase Attack by 33%. With 3 or more stacks, increase critical damage by 33%. These effects are permanent.",
     "descSimple": "AAAAAA==",
     "levelUpList": "AAAAAA==",
     "levelUpValue": "AAAAAA==",
@@ -6692,7 +6692,7 @@
   {
     "sn": "135143",
     "name": "Glittering Night",
-    "desc": "tdxct-[Skill_desc_135143]",
+    "desc": "Increase the skill levels of Cinderella Glow and Thief Tactics by 3.",
     "descSimple": "AAAAAA==",
     "levelUpList": "AAAAAA==",
     "levelUpValue": "AAAAAA==",
@@ -6702,7 +6702,7 @@
   {
     "sn": "135144",
     "name": "Toll the Hour",
-    "desc": "tdxct-[Skill_desc_135144]",
+    "desc": "When activating a Highlight, gain 1 Stroke of Midnight stack. Spend 1 Stroke of Midnight stack when taking damage, and evade that damage (not activated by some skills).\nAlso, with 4 <link=\"s|215\"><u>Step</u></link> stacks, increase Highlight damage by 50%.",
     "descSimple": "AAAAAA==",
     "levelUpList": "AAAAAA==",
     "levelUpValue": "AAAAAA==",
@@ -6712,7 +6712,7 @@
   {
     "sn": "135145",
     "name": "Neverending Dream",
-    "desc": "tdxct-[Skill_desc_135145]",
+    "desc": "Increase the skill levels of Invitation and Midnight Magic by 3.",
     "descSimple": "AAAAAA==",
     "levelUpList": "AAAAAA==",
     "levelUpValue": "AAAAAA==",
@@ -6722,7 +6722,7 @@
   {
     "sn": "135146",
     "name": "Unmasked Ball",
-    "desc": "tdxct-[Skill_desc_135146]",
+    "desc": "After Kasumi activates her Highlight, she can activate her Highlight 1 more time while in <link=\"s|217\"><u>Masquerade</u></link> mode. This Highlight has 80% of its normal damage, and can be activated 1 time each time Masquerade mode is entered. Also, it will not activate automatically when Masquerade mode ends.",
     "descSimple": "AAAAAA==",
     "levelUpList": "AAAAAA==",
     "levelUpValue": "AAAAAA==",
@@ -6734,7 +6734,7 @@
     "name": "1 MORE",
     "desc": "Deal Bless damage to 1 foe.",
     "descSimple": "AAAAAA==",
-    "levelUpList": "tdxct-[Skill_levelUpList_135151]",
+    "levelUpList": "1 More Dmg",
     "levelUpValue": "6.7%,13.3%,20.0%,26.7%,33.3%,40.0%,46.7%,51.3%,56.0%,59.3%,62.7%,66.0%,69.3%,72.7%",
     "contentBG": "AAAAAA==",
     "skillTag": "AAAAAA=="
@@ -6742,9 +6742,9 @@
   {
     "sn": "135152",
     "name": "Highlight",
-    "desc": "tdxct-[Skill_desc_135152]",
-    "descSimple": "tdxct-[Skill_descSimple_135152]",
-    "levelUpList": "tdxct-[Skill_levelUpList_135152]",
+    "desc": "Can be activated in <link=\"s|217\"><u>Masquerade</u></link> mode. Deal Bless damage to 1 foe equal to <color=#FFFC40>^%s^</color> of Attack. Also, with <link=\"s|215\"><u>Step</u></link> stacks, gain additional effects accordingly.\nLead Step: Increase Highlight damage by 15% for each stack.\nFollow Step: Increase Highlight critical rate by 10%, and critical damage by 20%.",
+    "descSimple": "Bless dmg to 1 foe (%s Atk). Also, with Step, gain additional effects accordingly.\nLead Step: Increase Highlight dmg 15% per stack.\nFollow Step: Increase Highlight crit rate 10%, and crit dmg 20%.",
+    "levelUpList": "Highlight Skill Multiplier",
     "levelUpValue": "AAAAAA==",
     "contentBG": "AAAAAA==",
     "skillTag": "AAAAAA=="
@@ -6752,9 +6752,9 @@
   {
     "sn": "135153",
     "name": "Highlight",
-    "desc": "tdxct-[Skill_desc_135153]",
-    "descSimple": "tdxct-[Skill_descSimple_135153]",
-    "levelUpList": "tdxct-[Skill_levelUpList_135153]",
+    "desc": "Can be activated in <link=\"s|217\"><u>Masquerade</u></link> mode. Deal Bless damage to 1 foe equal to <color=#FFFC40>^%s^</color> of Attack. Also, with <link=\"s|215\"><u>Step</u></link> stacks, gain additional effects accordingly.\nLead Step: Increase Highlight damage by 15% for each stack.\nFollow Step: Increase Highlight critical rate by 10%, and critical damage by 20%.",
+    "descSimple": "Bless dmg to 1 foe (%s Atk). Also, with Step, gain additional effects accordingly.\nLead Step: Increase Highlight dmg 15% per stack.\nFollow Step: Increase Highlight crit rate 10%, and crit dmg 20%.",
+    "levelUpList": "Highlight Skill Multiplier",
     "levelUpValue": "AAAAAA==",
     "contentBG": "AAAAAA==",
     "skillTag": "AAAAAA=="
@@ -6764,7 +6764,7 @@
     "name": "Ranged Attack",
     "desc": "Deal Gun damage to 1 foe. Can fire until out of ammo.",
     "descSimple": "AAAAAA==",
-    "levelUpList": "tdxct-[Skill_levelUpList_135161]",
+    "levelUpList": "Ranged Dmg",
     "levelUpValue": "6.7%,13.3%,20.0%,26.7%,33.3%,40.0%,46.7%,51.3%,56.0%,59.3%,62.7%,66.0%,69.3%,72.7%",
     "contentBG": "AAAAAA==",
     "skillTag": "AAAAAA=="
@@ -7512,7 +7512,7 @@
   {
     "sn": "137146",
     "name": "Firefighter's Soul",
-    "desc": "If foes are Burning on Natsukawa's action, activate Sub-Zero Torrent on that foe 1 time (this effect will not be activated by Scald).\nAlso, when the same foe is attacked repeatedly with Extinguishing Guidance or Requiem Guidance, increase the target's damage taken by 25% more for 1 turn.\nThe maximum number of Damnation stacks becomes 6.",
+    "desc": "If foes have Burn or Scald on Natsukawa's action, activate Sub-Zero Torrent on that foe 1 time.\nAlso, when the same foe is attacked repeatedly with Extinguishing Guidance or Requiem Guidance, increase the target's damage taken by 25% more for 1 turn.\nThe maximum number of Damnation stacks becomes 6.",
     "descSimple": "AAAAAA==",
     "levelUpList": "AAAAAA==",
     "levelUpValue": "AAAAAA==",
@@ -10973,7 +10973,7 @@
     "sn": "811",
     "name": "Mamudo",
     "desc": "Deal Curse damage to all foes equal to <color=#fffc40>^%s^%</color> of Attack. Low chance to deal Curse insta-kill effect to foes with 50% or less HP. Increase chance based on foe's missing HP.",
-    "descSimple": "Curse dmg to 1 foe. Chance to insta-kill foes with low HP.",
+    "descSimple": "Curse dmg to all foes. Chance to insta-kill foes with low HP.",
     "levelUpList": "Dmg Increase",
     "levelUpValue": "AAAAAA==",
     "contentBG": "AAAAAA==",
@@ -10983,7 +10983,7 @@
     "sn": "812",
     "name": "Mamudoon",
     "desc": "Deal Curse damage to all foes equal to <color=#fffc40>^%s^%</color> of Attack. Low chance to deal Curse insta-kill effect to foes with 50% or less HP. Increase chance based on foe's missing HP.",
-    "descSimple": "Curse dmg to 1 foe. Chance to insta-kill foes with low HP.",
+    "descSimple": "Curse dmg to all foes. Chance to insta-kill foes with low HP.",
     "levelUpList": "Dmg Increase",
     "levelUpValue": "AAAAAA==",
     "contentBG": "AAAAAA==",
@@ -20032,7 +20032,7 @@
   {
     "sn": "40259",
     "name": "Special Debuff: 4 Set",
-    "desc": "When a foe with a debuff takes damage from a skill, increase damage based on number of debuffs on the foe. Increase damage by 5.5 for each debuff. Stacks up to 15 times.",
+    "desc": "When a foe with a debuff takes damage from a skill, increase damage based on number of debuffs on the foe. Increase damage by 5.5% for each debuff. Stacks up to 15 times.",
     "descSimple": "AAAAAA==",
     "levelUpList": "AAAAAA==",
     "levelUpValue": "AAAAAA==",
@@ -21083,7 +21083,7 @@
     "sn": "23442",
     "name": "Herald of Conquest II",
     "desc": "Increase ailment accuracy by 20%. After using a skill on a foe, increase its Curse damage taken by 6.7% for each <link=\"s|112\"><u>Curse</u></link> stack on target for 1 turn. Stacks up to 4 times.",
-    "descSimple": "Increase ailment accuracy 20%. After using skill on foe, increase Curse dmg taken 6.7% per stack of Curse (1 turn, max 4 stacks).",
+    "descSimple": "Increase ailment accuracy 20%. After using skill on foes, increase Curse dmg taken 6.7% per stack of Curse (1 turn, max 4 stacks).",
     "levelUpList": "AAAAAA==",
     "levelUpValue": "AAAAAA==",
     "contentBG": "AAAAAA==",
@@ -26873,7 +26873,7 @@
     "sn": "26111",
     "name": "Absolute Obedience",
     "desc": "Bless dmg to 1 foe (<color=#fffc40>^%s^</color> Atk). Increase target's Highlight dmg taken <color=#fffc40>^%s^</color> (1 turn).",
-    "descSimple": "Bless dmg to all foes (%s Atk). Increase main target's Highlight dmg taken %s (1 turn).",
+    "descSimple": "Bless dmg to 1 foe (%s Atk). Increase target's Highlight dmg taken %s (1 turn).",
     "levelUpList": "Skill Multiplier",
     "levelUpValue": "AAAAAA==",
     "contentBG": "AAAAAA==",
@@ -26882,8 +26882,8 @@
   {
     "sn": "26141",
     "name": "Sinful Listener",
-    "desc": "Increase Attack by 29.1%.\nAt the start of battle, gain 1 God's Ear stack. Lasts for 3 turns. Stacks up to 3 times. When an ally uses a Highlight, gain 1 God's Ear stack. If a Bless ally uses a Highlight, gain 1 more God's Ear stack.\nWhen using a unique skill, spend all God's Ear stacks, and increase foe's Bless damage taken by 4% for each stack. If God's Ear reaches 3 stacks, when a foe takes Bless damage, also decrease Defense by 16%. These debuffs last for 2 turns.",
-    "descSimple": "Increase Atk 29.1%.\nAt start of battle, gain 1 God's Ear (3 turns, max 3 stacks). When ally uses Highlight, gain 1 God's Ear. If Bless ally uses Highlight, gain 1 more God's Ear.\nWhen using unique skill, spend all God's Ear, and increase foe's Bless dmg taken 4% per stack. If God's Ear reaches 3 stacks, when foe takes Bless dmg, also decrease Def 16%. Debuffs last 2 turns.",
+    "desc": "Increase Attack by 29.1%.\nAt the start of battle, gain 1 God's Ear stack. When an ally uses a Highlight, gain 1 God's Ear stack. When a Bless ally uses a Highlight, gain 1 more God's Ear stack.\nGod's Ear lasts for 3 turns and stacks up to 3 times. Can also gain stacks while in reserve.\nWhen using a unique skill, spend all God's Ear stacks, and increase target's Bless damage taken by 4% for each stack for 2 turns. Also, when spending 3 God's Ear stacks, when the target takes Bless damage, decrease Defense by 16% more for 2 turns.",
+    "descSimple": "Increase Atk 29.1%.\nAt start of battle, gain 1 God's Ear. When ally uses Highlight, gain 1 God's Ear. When Bless ally uses Highlight, gain 1 more God's Ear.\nLasts 3 turns, max 3 stacks. Can also gain stacks while in reserve.\nWhen using unique skill, spend all God's Ear, and increase target's Bless dmg taken 4% per stack (2 turns). Also, when spending 3 God's Ear, when target takes Bless dmg, decrease Def 16% more (2 turns).",
     "levelUpList": "AAAAAA==",
     "levelUpValue": "AAAAAA==",
     "contentBG": "AAAAAA==",
@@ -26892,8 +26892,8 @@
   {
     "sn": "26142",
     "name": "Sinful Listener I",
-    "desc": "Increase Attack by 29.1%.\nAt the start of battle, gain 2 God's Ear stacks. Lasts for 3 turns. Stacks up to 3 times. When an ally uses a Highlight, gain 1 God's Ear stack. If a Bless ally uses a Highlight, gain 1 more God's Ear stack.\nWhen using a unique skill, spend all God's Ear stacks, and increase foe's Bless damage taken by 4% for each stack. If God's Ear reaches 3 stacks, when a foe takes Bless damage, also decrease Defense by 16%. These debuffs last for 2 turns.",
-    "descSimple": "Increase Atk 29.1%.\nAt start of battle, gain 2 God's Ear (3 turns, max 3 stacks). When ally uses Highlight, gain 1 God's Ear. If Bless ally uses Highlight, gain 1 more God's Ear.\nWhen using unique skill, spend all God's Ear, and increase foe's Bless dmg taken 4% per stack. If God's Ear reaches 3 stacks, when foe takes Bless dmg, also decrease Def 16%. Debuffs last 2 turns.",
+    "desc": "Increase Attack by 29.1%.\nAt the start of battle, gain 2 God's Ear stacks. When an ally uses a Highlight, gain 1 God's Ear stack. When a Bless ally uses a Highlight, gain 1 more God's Ear stack.\nGod's Ear lasts for 3 turns and stacks up to 3 times. Can also gain stacks while in reserve.\nWhen using a unique skill, spend all God's Ear stacks, and increase target's Bless damage taken by 4% for each stack for 2 turns. Also, when spending 3 God's Ear stacks, when the target takes Bless damage, decrease Defense by 16% more for 2 turns.",
+    "descSimple": "Increase Atk 29.1%.\nAt start of battle, gain 2 God's Ear. When ally uses Highlight, gain 1 God's Ear. When Bless ally uses Highlight, gain 1 more God's Ear.\nLasts 3 turns, max 3 stacks. Can also gain stacks while in reserve.\nWhen using unique skill, spend all God's Ear, and increase target's Bless dmg taken 4% per stack (2 turns). Also, when spending 3 God's Ear, when target takes Bless dmg, decrease Def 16% more (2 turns).",
     "levelUpList": "AAAAAA==",
     "levelUpValue": "AAAAAA==",
     "contentBG": "AAAAAA==",
@@ -26902,8 +26902,8 @@
   {
     "sn": "26143",
     "name": "Sinful Listener II",
-    "desc": "Increase Attack by 29.1%.\nAt the start of battle, gain 2 God's Ear stacks. Lasts for 3 turns. Stacks up to 3 times. When an ally uses a Highlight, gain 1 God's Ear stack. If a Bless ally uses a Highlight, gain 1 more God's Ear stack.\nWhen using a unique skill, spend all God's Ear stacks, and increase foe's Bless damage taken by 6% for each stack. If God's Ear reaches 3 stacks, when a foe takes Bless damage, also decrease Defense by 16%. These debuffs last for 2 turns.",
-    "descSimple": "Increase Atk 29.1%.\nAt start of battle, gain 2 God's Ear (3 turns, max 3 stacks). When ally uses Highlight, gain 1 God's Ear. If Bless ally uses Highlight, gain 1 more God's Ear.\nWhen using unique skill, spend all God's Ear, and increase foe's Bless dmg taken 6% per stack. If God's Ear reaches 3 stacks, when foe takes Bless dmg, also decrease Def 16%. Debuffs last 2 turns.",
+    "desc": "Increase Attack by 29.1%.\nAt the start of battle, gain 2 God's Ear stacks. When an ally uses a Highlight, gain 1 God's Ear stack. When a Bless ally uses a Highlight, gain 1 more God's Ear stack.\nGod's Ear lasts for 3 turns and stacks up to 3 times. Can also gain stacks while in reserve.\nWhen using a unique skill, spend all God's Ear stacks, and increase target's Bless damage taken by 6% for each stack for 2 turns. Also, when spending 3 God's Ear stacks, when the target takes Bless damage, decrease Defense by 16% more for 2 turns.",
+    "descSimple": "Increase Atk 29.1%.\nAt start of battle, gain 2 God's Ear. When ally uses Highlight, gain 1 God's Ear. When Bless ally uses Highlight, gain 1 more God's Ear.\nLasts 3 turns, max 3 stacks. Can also gain stacks while in reserve.\nWhen using unique skill, spend all God's Ear, and increase target's Bless dmg taken 6% per stack (2 turns). Also, when spending 3 God's Ear, when target takes Bless dmg, decrease Def 16% more (2 turns).",
     "levelUpList": "AAAAAA==",
     "levelUpValue": "AAAAAA==",
     "contentBG": "AAAAAA==",
@@ -26912,8 +26912,8 @@
   {
     "sn": "26144",
     "name": "Sinful Listener III",
-    "desc": "Increase Attack by 29.1%.\nAt the start of battle, gain 2 God's Ear stacks. Lasts for 3 turns. Stacks up to 3 times. When an ally uses a Highlight, gain 1 God's Ear stack. If a Bless ally uses a Highlight, gain 1 more God's Ear stack.\nWhen using a unique skill, spend all God's Ear stacks, and increase foe's Bless damage taken by 6% for each stack. If God's Ear reaches 3 stacks, when a foe takes Bless damage, also decrease Defense by 25%. These debuffs last for 2 turns.",
-    "descSimple": "Increase Atk 29.1%.\nAt start of battle, gain 2 God's Ear (3 turns, max 3 stacks). When ally uses Highlight, gain 1 God's Ear. If Bless ally uses Highlight, gain 1 more God's Ear.\nWhen using unique skill, spend all God's Ear, and increase foe's Bless dmg taken 6% per stack. If God's Ear reaches 3 stacks, when foe takes Bless dmg, also decrease Def 25%. Debuffs last 2 turns.",
+    "desc": "Increase Attack by 29.1%.\nAt the start of battle, gain 2 God's Ear stacks. When an ally uses a Highlight, gain 1 God's Ear stack. When a Bless ally uses a Highlight, gain 1 more God's Ear stack.\nGod's Ear lasts for 3 turns and stacks up to 3 times. Can also gain stacks while in reserve.\nWhen using a unique skill, spend all God's Ear stacks, and increase target's Bless damage taken by 6% for each stack for 2 turns. Also, when spending 3 God's Ear stacks, when the target takes Bless damage, decrease Defense by 25% more for 2 turns.",
+    "descSimple": "Increase Atk 29.1%.\nAt start of battle, gain 2 God's Ear. When ally uses Highlight, gain 1 God's Ear. When Bless ally uses Highlight, gain 1 more God's Ear.\nLasts 3 turns, max 3 stacks. Can also gain stacks while in reserve.\nWhen using unique skill, spend all God's Ear, and increase target's Bless dmg taken 6% per stack (2 turns). Also, when spending 3 God's Ear, when target takes Bless dmg, decrease Def 25% more (2 turns).",
     "levelUpList": "AAAAAA==",
     "levelUpValue": "AAAAAA==",
     "contentBG": "AAAAAA==",
@@ -26972,7 +26972,7 @@
   {
     "sn": "26511",
     "name": "Disaster Ward",
-    "desc": "Deal Curse damage to all foes equal to <color=#fffc40>^%s^</color> of Attack. Also, decrease Defense by <color=#fffc40>^%s^</color> and increase continous damage taken by <color=#fffc40>^%s^</color>.",
+    "desc": "Deal Curse damage to all foes equal to <color=#fffc40>^%s^</color> of Attack. Also, decrease Defense by <color=#fffc40>^%s^</color> and increase continuous damage taken by <color=#fffc40>^%s^</color> for 2 turns.",
     "descSimple": "Curse dmg to all foes (%s Atk). Also, decrease Def %s and increase continous dmg taken %s (2 turns).",
     "levelUpList": "Skill Multiplier",
     "levelUpValue": "AAAAAA==",
@@ -27032,8 +27032,8 @@
   {
     "sn": "26241",
     "name": "Flaming Chariot",
-    "desc": "Increase Attack by 29.1%.\nAt the start of battle, gain 4 Holy Flame stacks, and every 2 turns, inflict Burn on 1 random foe.\nWhen allies inflict an elemental ailment, gain 1 Holy Flame stack for 3 turns. If the ailment inflicted is Burn, gain 1 more Holy Flame stack. Holy Flame stacks up to 10 times, and up to 2 stacks can be gained from 1 skill.\nWhen an ally uses a skill, if Holy Flame is at 4 or more stacks, spend all Holy Flame stacks to increase the party's damage by 1% per stack for 2 turns. Also, 50% chance to inflict Burn on 1 random foe.",
-    "descSimple": "Increase Atk 29.1%.At start of battle, gain 4 Holy Flame, and every 2 turns, inflict Burn on 1 random foe.\nWhen allies inflict elemental ailments, gain 1 Holy Flame (3 turns). If ailment is Burn, gain 1 more Holy Flame. Max 10 stacks, 2 stacks per skill.\nWhen ally uses skill, if Holy Flame is at 4+ stacks, spend all Holy Flame to increase party's dmg 1% per stack (2 turns). Also, 50% chance to inflict Burn on 1 random foe.",
+    "desc": "Increase Attack by 29.1%.\nAt the start of battle, gain 4 Holy Flame stacks, and inflict Burn on 1 random foe for 2 turns. When allies inflict an elemental ailment, gain 1 Holy Flame stack for 3 turns. If the ailment inflicted is Burn, gain 1 more Holy Flame stack. Holy Flame stacks up to 10 times, and up to 2 stacks can be gained from 1 skill. These effects activate even in reserve.\nWhen an ally uses a skill, if Holy Flame is at 4 or more stacks, spend all Holy Flame stacks to increase the party's damage by 1% per stack for 2 turns. Also, 50% chance to inflict Burn on 1 random foe.",
+    "descSimple": "Increase Atk 29.1%.At start of battle, gain 4 Holy Flame, and inflict Burn on 1 random foe (2 turns). When allies inflict elemental ailments, gain 1 Holy Flame (3 turns). If ailment is Burn, gain 1 more Holy Flame. Max 10 stacks, 2 stacks per skill. Effects activate even in reserve.\nWhen ally uses skill, if Holy Flame is at 4+ stacks, spend all Holy Flame to increase party's dmg 1% per stack (2 turns). Also, 50% chance to inflict Burn on 1 random foe.",
     "levelUpList": "AAAAAA==",
     "levelUpValue": "AAAAAA==",
     "contentBG": "AAAAAA==",
@@ -27042,8 +27042,8 @@
   {
     "sn": "26242",
     "name": "Flaming Chariot I",
-    "desc": "Increase Attack by 29.1%.\nAt the start of battle, gain 8 Holy Flame stacks, and every 2 turns, inflict Burn on 1 random foe.\nWhen allies inflict an elemental ailment, gain 1 Holy Flame stack for 3 turns. If the ailment inflicted is Burn, gain 1 more Holy Flame stack. Holy Flame stacks up to 10 times, and up to 2 stacks can be gained from 1 skill.\nWhen an ally uses a skill, if Holy Flame is at 4 or more stacks, spend all Holy Flame stacks to increase the party's damage by 1% per stack for 2 turns. Also, 50% chance to inflict Burn on 1 random foe.",
-    "descSimple": "Increase Atk 29.1%.At start of battle, gain 8 Holy Flame, and every 2 turns, inflict Burn on 1 random foe.\nWhen allies inflict elemental ailments, gain 1 Holy Flame (3 turns). If ailment is Burn, gain 1 more Holy Flame. Max 10 stacks, 2 stacks per skill.\nWhen ally uses skill, if Holy Flame is at 4+ stacks, spend all Holy Flame to increase party's dmg 1% per stack (2 turns). Also, 50% chance to inflict Burn on 1 random foe.",
+    "desc": "Increase Attack by 29.1%.\nAt the start of battle, gain 8 Holy Flame stacks, and inflict Burn on 1 random foe for 2 turns. When allies inflict an elemental ailment, gain 1 Holy Flame stack for 3 turns. If the ailment inflicted is Burn, gain 1 more Holy Flame stack. Holy Flame stacks up to 10 times, and up to 2 stacks can be gained from 1 skill. These effects activate even in reserve.\nWhen an ally uses a skill, if Holy Flame is at 4 or more stacks, spend all Holy Flame stacks to increase the party's damage by 1% per stack for 2 turns. Also, 50% chance to inflict Burn on 1 random foe.",
+    "descSimple": "Increase Atk 29.1%.At start of battle, gain 8 Holy Flame, and inflict Burn on 1 random foe (2 turns). When allies inflict elemental ailments, gain 1 Holy Flame (3 turns). If ailment is Burn, gain 1 more Holy Flame. Max 10 stacks, 2 stacks per skill. Effects activate even in reserve.\nWhen ally uses skill, if Holy Flame is at 4+ stacks, spend all Holy Flame to increase party's dmg 1% per stack (2 turns). Also, 50% chance to inflict Burn on 1 random foe.",
     "levelUpList": "AAAAAA==",
     "levelUpValue": "AAAAAA==",
     "contentBG": "AAAAAA==",
@@ -27052,8 +27052,8 @@
   {
     "sn": "26243",
     "name": "Flaming Chariot II",
-    "desc": "Increase Attack by 29.1%.\nAt the start of battle, gain 8 Holy Flame stacks, and every 2 turns, inflict Burn on 1 random foe.\nWhen allies inflict an elemental ailment, gain 1 Holy Flame stack for 3 turns. If the ailment inflicted is Burn, gain 1 more Holy Flame stack. Holy Flame stacks up to 10 times, and up to 2 stacks can be gained from 1 skill.\nWhen an ally uses a skill, if Holy Flame is at 4 or more stacks, spend all Holy Flame stacks to increase the party's damage by 1.5% per stack for 2 turns. Also, 50% chance to inflict Burn on 1 random foe.",
-    "descSimple": "Increase Atk 29.1%.At start of battle, gain 8 Holy Flame, and every 2 turns, inflict Burn on 1 random foe.\nWhen allies inflict elemental ailments, gain 1 Holy Flame (3 turns). If ailment is Burn, gain 1 more Holy Flame. Max 10 stacks, 2 stacks per skill.\nWhen ally uses skill, if Holy Flame is at 4+ stacks, spend all Holy Flame to increase party's dmg 1.5% per stack (2 turns). Also, 50% chance to inflict Burn on 1 random foe.",
+    "desc": "Increase Attack by 29.1%.\nAt the start of battle, gain 8 Holy Flame stacks, and inflict Burn on 1 random foe for 2 turns. When allies inflict an elemental ailment, gain 1 Holy Flame stack for 3 turns. If the ailment inflicted is Burn, gain 1 more Holy Flame stack. Holy Flame stacks up to 10 times, and up to 2 stacks can be gained from 1 skill. These effects activate even in reserve.\nWhen an ally uses a skill, if Holy Flame is at 4 or more stacks, spend all Holy Flame stacks to increase the party's damage by 1.5% per stack for 2 turns. Also, 50% chance to inflict Burn on 1 random foe.",
+    "descSimple": "Increase Atk 29.1%.At start of battle, gain 8 Holy Flame, and inflict Burn on 1 random foe (2 turns). When allies inflict elemental ailments, gain 1 Holy Flame (3 turns). If ailment is Burn, gain 1 more Holy Flame. Max 10 stacks, 2 stacks per skill. Effects activate even in reserve.\nWhen ally uses skill, if Holy Flame is at 4+ stacks, spend all Holy Flame to increase party's dmg 1.5% per stack (2 turns). Also, 50% chance to inflict Burn on 1 random foe.",
     "levelUpList": "AAAAAA==",
     "levelUpValue": "AAAAAA==",
     "contentBG": "AAAAAA==",
@@ -27062,8 +27062,8 @@
   {
     "sn": "26244",
     "name": "Flaming Chariot III",
-    "desc": "Increase Attack by 29.1%.\nAt the start of battle, gain 8 Holy Flame stacks, and every 2 turns, inflict Burn on 1 random foe.\nWhen allies inflict an elemental ailment, gain 1 Holy Flame stack for 3 turns. If the ailment inflicted is Burn, gain 1 more Holy Flame stack. Holy Flame stacks up to 10 times, and up to 2 stacks can be gained from 1 skill.\nWhen an ally uses a skill, if Holy Flame is at 4 or more stacks, spend all Holy Flame stacks to increase the party's damage by 1.5% per stack for 2 turns. Also, 75% chance to inflict Burn on 1 random foe.",
-    "descSimple": "Increase Atk 29.1%.At start of battle, gain 8 Holy Flame, and every 2 turns, inflict Burn on 1 random foe.\nWhen allies inflict elemental ailments, gain 1 Holy Flame (3 turns). If ailment is Burn, gain 1 more Holy Flame. Max 10 stacks, 2 stacks per skill.\nWhen ally uses skill, if Holy Flame is at 4+ stacks, spend all Holy Flame to increase party's dmg 1.5% per stack (2 turns). Also, 75% chance to inflict Burn on 1 random foe.",
+    "desc": "Increase Attack by 29.1%.\nAt the start of battle, gain 8 Holy Flame stacks, and inflict Burn on 1 random foe for 2 turns. When allies inflict an elemental ailment, gain 1 Holy Flame stack for 3 turns. If the ailment inflicted is Burn, gain 1 more Holy Flame stack. Holy Flame stacks up to 10 times, and up to 2 stacks can be gained from 1 skill. These effects activate even in reserve.\nWhen an ally uses a skill, if Holy Flame is at 4 or more stacks, spend all Holy Flame stacks to increase the party's damage by 1.5% per stack for 2 turns. Also, 75% chance to inflict Burn on 1 random foe.",
+    "descSimple": "Increase Atk 29.1%.At start of battle, gain 8 Holy Flame, and inflict Burn on 1 random foe (2 turns). When allies inflict elemental ailments, gain 1 Holy Flame (3 turns). If ailment is Burn, gain 1 more Holy Flame. Max 10 stacks, 2 stacks per skill. Effects activate even in reserve.\nWhen ally uses skill, if Holy Flame is at 4+ stacks, spend all Holy Flame to increase party's dmg 1.5% per stack (2 turns). Also, 75% chance to inflict Burn on 1 random foe.",
     "levelUpList": "AAAAAA==",
     "levelUpValue": "AAAAAA==",
     "contentBG": "AAAAAA==",
@@ -33682,7 +33682,7 @@
   {
     "sn": "2802",
     "name": "Red War",
-    "desc": "Permanently increase party's damage. 40% chance to inflict <link=\"s|156\"><u>Rage</u></link> on 2 random foes for 2 turns.",
+    "desc": "Permanently increase party's damage. 40% chance to inflict <link=\"s|110\"><u>Rage</u></link> on 2 random foes for 2 turns.",
     "descSimple": "AAAAAA==",
     "levelUpList": "AAAAAA==",
     "levelUpValue": "AAAAAA==",
@@ -35932,12 +35932,12 @@
   {
     "sn": "3554",
     "name": "Parasol of Chaos",
-    "desc": "Change all attributes to Resist for the ally with the lowest HP for 2 turns.",
+    "desc": "Change all attributes to Resist for the ally with the lowest HP percentage for 2 turns.",
     "descSimple": "AAAAAA==",
     "levelUpList": "AAAAAA==",
     "levelUpValue": "AAAAAA==",
     "contentBG": "AAAAAA==",
-    "skillTag": "Multi-Target"
+    "skillTag": "Buff"
   },
   {
     "sn": "3555",
@@ -36062,7 +36062,7 @@
   {
     "sn": "3571",
     "name": "Ephemeral Sustenance",
-    "desc": "Sacrifices 1 minion and recovers a set percentage of the user's HP.",
+    "desc": "Sacrifice 1 summoned Shadow, and recovers a set percentage of the user's HP.",
     "descSimple": "AAAAAA==",
     "levelUpList": "AAAAAA==",
     "levelUpValue": "AAAAAA==",
@@ -41872,7 +41872,7 @@
   {
     "sn": "59031",
     "name": "Inferno of Nothingness",
-    "desc": "Increase Attack by <color=#2899FF>^%s^</color>.\nAt the start of battle, gain 2 Trial by Fire stacks. When an ally deals Fire damage to a foe, gain 1 Trial by Fire stack. At the start of the user's turn, lose 1 Trial by Fire stack.\nInferno of Nothingness (Aura): Gain following effects based on number of Trial by Fire stacks. Stacks up to 3 times.\n1 stack: Increase user's Attack by <color=#2899FF>^%s^</color>, and increase all other allies' Attack by <color=#2899FF>^%s^</color>.\n2 stacks: Increase user's damage by <color=#2899FF>^%s^</color>, and increase all other allies' damage by <color=#2899FF>^%s^</color>.\n3 stacks: Increase party's Fire damage by <color=#2899FF>^%s^</color>.",
+    "desc": "Increase Attack by <color=#2899FF>^%s^</color>.\nAt the start of battle, gain 2 Trial by Fire stacks. When an ally deals Fire skill damage to a foe, gain 1 Trial by Fire stack. Trial by Fire lasts 3 turns, and stacks up to 3 times.\nInferno of Nothingness (Aura): Gain following effects based on number of Trial by Fire stacks.\n1 stack: Increase user's Attack by <color=#2899FF>^%s^</color>, and increase all other allies' Attack by <color=#2899FF>^%s^</color>.\n2 stacks: Increase user's damage by <color=#2899FF>^%s^</color>, and increase all other allies' damage by <color=#2899FF>^%s^</color>.\n3 stacks: Increase party's Fire damage by <color=#2899FF>^%s^</color>.",
     "descSimple": "AAAAAA==",
     "levelUpList": "AAAAAA==",
     "levelUpValue": "AAAAAA==",
@@ -42512,7 +42512,7 @@
   {
     "sn": "53531",
     "name": "Banishing Sword",
-    "desc": "tdxct-[Skill_desc_53531]",
+    "desc": "When Kasumi activates her Highlight, increase Bless damage by <color=#2899FF>^%s^</color> for 2 turns.",
     "descSimple": "AAAAAA==",
     "levelUpList": "AAAAAA==",
     "levelUpValue": "AAAAAA==",
@@ -42522,7 +42522,7 @@
   {
     "sn": "53541",
     "name": "Inscribed Sword",
-    "desc": "tdxct-[Skill_desc_53541]",
+    "desc": "Increase Attack by <color=#2899FF>^%s^</color>.\nWith 2 or more Step stacks, increase damage by <color=#2899FF>^%s^</color>.",
     "descSimple": "AAAAAA==",
     "levelUpList": "AAAAAA==",
     "levelUpValue": "AAAAAA==",
@@ -42532,7 +42532,7 @@
   {
     "sn": "53551",
     "name": "Majestic Sword",
-    "desc": "tdxct-[Skill_desc_53551]",
+    "desc": "Increase critical damage by <color=#2899FF>^%s^</color>.\nWhen gaining a Step stack, increase Attack by <color=#2899FF>^%s^</color> for 2 turns. This effect does not stack.\nWhen an ally activates a Highlight, gain 1 Glass Slipper stack, and increase Kasumi's damage by <color=#2899FF>^%s^</color> for 3 turns. Stacks up to 2 times.\nWhen Glass Slipper is at 2 stacks, increase Kasumi's Highlight damage by <color=#2899FF>^%s^</color> more.",
     "descSimple": "AAAAAA==",
     "levelUpList": "AAAAAA==",
     "levelUpValue": "AAAAAA==",
@@ -45212,7 +45212,7 @@
   {
     "sn": "59035",
     "name": "AAAAAA==",
-    "desc": "At the start of battle, gain 1 Trial by Fire stack.",
+    "desc": "At the start of battle, gain 2 Trial by Fire stack.",
     "descSimple": "AAAAAA==",
     "levelUpList": "AAAAAA==",
     "levelUpValue": "AAAAAA==",

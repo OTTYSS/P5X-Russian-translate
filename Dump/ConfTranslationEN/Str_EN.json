@@ -5909,7 +5909,7 @@
   },
   {
     "sn": "1000424",
-    "strContent": "Do you want to spend <color=#f1b500>{0} x{1}</color> to reset the Revelation Card?\nAfter the reset, the following changes will occur:\nThe level of the Revelation Card will be reset to 0.\nThe main and sub-attributes will return to their initial states.\nAll experience materials spent to reach the current level will be returned (in the form of generic materials).",
+    "strContent": "Do you want to spend <color=#f1b500>{0} x{1}</color> to reset the Revelation Card?\nAfter the reset, the following changes will occur:\n• The level of the Revelation Card will be reset to 0.\n• The main and sub-attributes will return to their initial states.\n• All experience materials spent to reach the current level will be returned (in the form of generic materials).",
     "option1": "Confirm",
     "showName": "Reset Revelations",
     "option2": "Never mind."
@@ -7309,7 +7309,7 @@
   },
   {
     "sn": "1010726",
-    "strContent": "If you turn off VSync, the frame rate limit will automatically be set to 60. Are you sure?",
+    "strContent": "VSync will be turned on when the frame rate is not limited. Do you want to continue?",
     "option1": "Cancel",
     "showName": "L<#000000,u,#FFFFFF>fel",
     "option2": "Never mind."
@@ -10843,6 +10843,20 @@
     "option2": "I have plans today..."
   },
   {
+    "sn": "1019243",
+    "strContent": "Would you like to spend time with Mayumi?",
+    "option1": "Spend time with Mayumi",
+    "showName": "L<#000000,u,#FFFFFF>fel",
+    "option2": "I have plans today..."
+  },
+  {
+    "sn": "1019244",
+    "strContent": "Would you like to spend time with Mayumi?",
+    "option1": "Spend time with Mayumi",
+    "showName": "L<#000000,u,#FFFFFF>fel",
+    "option2": "I have plans today..."
+  },
+  {
     "sn": "1019278",
     "strContent": "For the best gameplay experience, this event is recommended for players who have completed Merope's Synergy story content.",
     "option1": "AAAAAA==",
@@ -11845,7 +11859,7 @@
   },
   {
     "sn": "1023067",
-    "strContent": "Clear 4 missions in City Life.",
+    "strContent": "Clear 4 City Adventure missions to claim rewards.",
     "option1": "AAAAAA==",
     "showName": "AAAAAA==",
     "option2": "AAAAAA=="
@@ -11916,6 +11930,20 @@
   {
     "sn": "1024010",
     "strContent": "Yui's Synergy mission has been unlocked.",
+    "option1": "AAAAAA==",
+    "showName": "AAAAAA==",
+    "option2": "AAAAAA=="
+  },
+  {
+    "sn": "1024011",
+    "strContent": "Mayumi Hashimoto's Synergy mission is currently locked. Do you want to unlock it now? (Unlocking it early may impact your experience of the story.)",
+    "option1": "Confirm",
+    "showName": "L<#000000,u,#FFFFFF>fel",
+    "option2": "Not now"
+  },
+  {
+    "sn": "1024012",
+    "strContent": "Mayumi Hashimoto's Synergy mission has been unlocked.",
     "option1": "AAAAAA==",
     "showName": "AAAAAA==",
     "option2": "AAAAAA=="
@@ -12958,7 +12986,7 @@
   },
   {
     "sn": "1036113",
-    "strContent": "Would you like to become soulmates with <color=#FFFC40><color=#FFFC40>Kotone Montagne</color>?\n*Your choice will affect some aspects of the story and City Life.",
+    "strContent": "Would you like to become soulmates with <color=#FFFC40>Kotone Montagne</color>?\n*Your choice will affect some aspects of the story and City Life.",
     "option1": "Confirm",
     "showName": "AAAAAA==",
     "option2": "Never mind."
@@ -13004,6 +13032,20 @@
     "option1": "Confirm",
     "showName": "AAAAAA==",
     "option2": "Leave"
+  },
+  {
+    "sn": "1036120",
+    "strContent": "Would you like to become \"Close Friends\" with<color=#F7F95C>Mayumi Hashimoto</color>? *Depending on your choice, some aspects of the story and City Life will be different.",
+    "option1": "Confirm",
+    "showName": "AAAAAA==",
+    "option2": "Maybe some other time..."
+  },
+  {
+    "sn": "1036121",
+    "strContent": "Would you like to become \"Soulmates\" with<color=#F7F95C>Mayumi Hashimoto</color>? *Depending on your choice, some aspects of the story and City Life will be different.",
+    "option1": "Confirm",
+    "showName": "AAAAAA==",
+    "option2": "Maybe some other time..."
   },
   {
     "sn": "1037002",
@@ -25992,140 +26034,140 @@
   },
   {
     "sn": "1157351",
-    "strContent": "AAAAAA==",
+    "strContent": "What are you doing here!?",
     "option1": "AAAAAA==",
     "showName": "AAAAAA==",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1157352",
-    "strContent": "AAAAAA==",
+    "strContent": "Found you...",
     "option1": "AAAAAA==",
     "showName": "AAAAAA==",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1157353",
-    "strContent": "AAAAAA==",
+    "strContent": "Sleep forever!",
     "option1": "AAAAAA==",
     "showName": "AAAAAA==",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1157354",
-    "strContent": "AAAAAA==",
+    "strContent": "Lose yourself in dreams!",
     "option1": "AAAAAA==",
     "showName": "AAAAAA==",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1157355",
-    "strContent": "AAAAAA==",
+    "strContent": "Accept salvation...",
     "option1": "AAAAAA==",
     "showName": "AAAAAA==",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1157356",
-    "strContent": "AAAAAA==",
+    "strContent": "Accept it!",
     "option1": "AAAAAA==",
     "showName": "AAAAAA==",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1157357",
-    "strContent": "AAAAAA==",
+    "strContent": "Just try to escape!",
     "option1": "AAAAAA==",
     "showName": "AAAAAA==",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1157358",
-    "strContent": "AAAAAA==",
+    "strContent": "Accept this...",
     "option1": "AAAAAA==",
     "showName": "AAAAAA==",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1157359",
-    "strContent": "AAAAAA==",
+    "strContent": "You're wasting your time!",
     "option1": "AAAAAA==",
     "showName": "AAAAAA==",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1157360",
-    "strContent": "AAAAAA==",
+    "strContent": "They vanished...?",
     "option1": "AAAAAA==",
     "showName": "AAAAAA==",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1157361",
-    "strContent": "AAAAAA==",
+    "strContent": "Where did they go?",
     "option1": "AAAAAA==",
     "showName": "AAAAAA==",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1157362",
-    "strContent": "AAAAAA==",
+    "strContent": "Why not just sleep forever...",
     "option1": "AAAAAA==",
     "showName": "AAAAAA==",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1157363",
-    "strContent": "AAAAAA==",
+    "strContent": "They must've gotten away...",
     "option1": "AAAAAA==",
     "showName": "AAAAAA==",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1157364",
-    "strContent": "AAAAAA==",
+    "strContent": "Fools... You know nothing of\nthe bliss of escape...",
     "option1": "AAAAAA==",
     "showName": "AAAAAA==",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1157365",
-    "strContent": "AAAAAA==",
+    "strContent": "My master's ideals are also my own.",
     "option1": "AAAAAA==",
     "showName": "AAAAAA==",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1157366",
-    "strContent": "AAAAAA==",
+    "strContent": "Isn't happiness for all... the most important thing?",
     "option1": "AAAAAA==",
     "showName": "AAAAAA==",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1157367",
-    "strContent": "AAAAAA==",
+    "strContent": "I hope this peace can last...",
     "option1": "AAAAAA==",
     "showName": "AAAAAA==",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1157368",
-    "strContent": "AAAAAA==",
+    "strContent": "My heart is uneasy... Could this be some omen?",
     "option1": "AAAAAA==",
     "showName": "AAAAAA==",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1157369",
-    "strContent": "AAAAAA==",
+    "strContent": "Accept it... Let your dreams last forever...",
     "option1": "AAAAAA==",
     "showName": "AAAAAA==",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1157370",
-    "strContent": "AAAAAA==",
+    "strContent": "You shall not interfere in dreams...",
     "option1": "AAAAAA==",
     "showName": "AAAAAA==",
     "option2": "AAAAAA=="
@@ -26832,7 +26874,7 @@
   },
   {
     "sn": "1200103",
-    "strContent": "Unlock this stamp after completing Dancing with the Happy-Go-Lucky Lions.",
+    "strContent": "Unlock this stamp after completing the limited-time event Dancing with the Happy-Go-Lucky Lions.",
     "option1": "AAAAAA==",
     "showName": "AAAAAA==",
     "option2": "AAAAAA=="
