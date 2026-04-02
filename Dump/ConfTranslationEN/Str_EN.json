@@ -3178,6 +3178,27 @@
     "option2": "AAAAAA=="
   },
   {
+    "sn": "13008",
+    "strContent": "At Synergy Rank 9 with Manaka Nagao, unlock the ability to earn social stat level up rewards.",
+    "option1": "AAAAAA==",
+    "showName": "AAAAAA==",
+    "option2": "AAAAAA=="
+  },
+  {
+    "sn": "13009",
+    "strContent": "At Synergy Rank 17 with Manaka Nagao, unlock social stat EXP conversion.",
+    "option1": "AAAAAA==",
+    "showName": "AAAAAA==",
+    "option2": "AAAAAA=="
+  },
+  {
+    "sn": "13010",
+    "strContent": "You don't have enough Social Stats that can be converted.",
+    "option1": "AAAAAA==",
+    "showName": "AAAAAA==",
+    "option2": "AAAAAA=="
+  },
+  {
     "sn": "13100",
     "strContent": "It seems I can't give any more gifts today.",
     "option1": "AAAAAA==",
@@ -3775,6 +3796,13 @@
   {
     "sn": "13802",
     "strContent": "The maximum number of Phantom Thieves for deployment has been reached.",
+    "option1": "AAAAAA==",
+    "showName": "AAAAAA==",
+    "option2": "AAAAAA=="
+  },
+  {
+    "sn": "13803",
+    "strContent": "Your current party includes a locked Phantom Thief.\nUnlock the Phantom Thief to use this party.",
     "option1": "AAAAAA==",
     "showName": "AAAAAA==",
     "option2": "AAAAAA=="
@@ -6966,7 +6994,7 @@
   },
   {
     "sn": "1010407",
-    "strContent": "Copied",
+    "strContent": "ID copied.",
     "option1": "AAAAAA==",
     "showName": "AAAAAA==",
     "option2": "AAAAAA=="
@@ -10857,6 +10885,41 @@
     "option2": "I have plans today..."
   },
   {
+    "sn": "1019245",
+    "strContent": "How should I answer...?",
+    "option1": "Sure.",
+    "showName": "AAAAAA==",
+    "option2": "I haven't tidied up..."
+  },
+  {
+    "sn": "1019246",
+    "strContent": "Would you like to spend time with Manaka\nand Chizuko?",
+    "option1": "Spend time with Manaka and Chizuko.",
+    "showName": "L<#000000,u,#FFFFFF>fel",
+    "option2": "I have plans today..."
+  },
+  {
+    "sn": "1019247",
+    "strContent": "Would you like to spend time with Manaka?",
+    "option1": "Spend time with Manaka",
+    "showName": "L<#000000,u,#FFFFFF>fel",
+    "option2": "I have plans today..."
+  },
+  {
+    "sn": "1019248",
+    "strContent": "Would you like to spend time with Manaka?",
+    "option1": "Of course I'll go.",
+    "showName": "AAAAAA==",
+    "option2": "Sorry, I have plans."
+  },
+  {
+    "sn": "1019249",
+    "strContent": "How should I answer...?",
+    "option1": "Sure.",
+    "showName": "AAAAAA==",
+    "option2": "I haven't tidied up..."
+  },
+  {
     "sn": "1019278",
     "strContent": "For the best gameplay experience, this event is recommended for players who have completed Merope's Synergy story content.",
     "option1": "AAAAAA==",
@@ -11949,6 +12012,20 @@
     "option2": "AAAAAA=="
   },
   {
+    "sn": "1024013",
+    "strContent": "Manaka Nagao's Synergy mission is currently locked. Do you want to unlock it now? (Unlocking it early may impact your experience of the story, so please choose carefully.)",
+    "option1": "Confirm",
+    "showName": "L<#000000,u,#FFFFFF>fel",
+    "option2": "Not now"
+  },
+  {
+    "sn": "1024014",
+    "strContent": "Manaka Nagao's Synergy mission has been unlocked.",
+    "option1": "AAAAAA==",
+    "showName": "AAAAAA==",
+    "option2": "AAAAAA=="
+  },
+  {
     "sn": "1024019",
     "strContent": "Kiyoshi Kurotani's Synergy mission is currently locked. Do you want to unlock it now? (Unlocking it early may impact your experience of the story.)",
     "option1": "Confirm",
@@ -13035,17 +13112,31 @@
   },
   {
     "sn": "1036120",
-    "strContent": "Would you like to become \"Close Friends\" with<color=#F7F95C>Mayumi Hashimoto</color>? *Depending on your choice, some aspects of the story and City Life will be different.",
+    "strContent": "Would you like to become \"Close Friends\" with <color=#F7F95C>Mayumi Hashimoto</color>? *Depending on your choice, some aspects of the story and City Life will be different.",
     "option1": "Confirm",
     "showName": "AAAAAA==",
     "option2": "Maybe some other time..."
   },
   {
     "sn": "1036121",
-    "strContent": "Would you like to become \"Soulmates\" with<color=#F7F95C>Mayumi Hashimoto</color>? *Depending on your choice, some aspects of the story and City Life will be different.",
+    "strContent": "Would you like to become \"Soulmates\" with <color=#F7F95C>Mayumi Hashimoto</color>? *Depending on your choice, some aspects of the story and City Life will be different.",
     "option1": "Confirm",
     "showName": "AAAAAA==",
     "option2": "Maybe some other time..."
+  },
+  {
+    "sn": "1036122",
+    "strContent": "Would you like to become \"Close Friends\" with <color=#F7F95C>Manaka Nagao</color>? *Depending on your choice, some aspects of the story and City Life will be different.",
+    "option1": "Confirm",
+    "showName": "AAAAAA==",
+    "option2": "Cancel"
+  },
+  {
+    "sn": "1036123",
+    "strContent": "Would you like to become \"Soulmates\" with <color=#F7F95C>Manaka Nagao</color>? *Depending on your choice, some aspects of the story and City Life will be different.",
+    "option1": "Confirm",
+    "showName": "AAAAAA==",
+    "option2": "Cancel"
   },
   {
     "sn": "1037002",
@@ -14098,6 +14189,13 @@
     "option2": "AAAAAA=="
   },
   {
+    "sn": "1047113",
+    "strContent": "Some challenge goals are incomplete. If you advance to the next rank you won't be able to complete them anymore. Advance anyway?",
+    "option1": "Confirm",
+    "showName": "AAAAAA==",
+    "option2": "Never mind."
+  },
+  {
     "sn": "1047201",
     "strContent": "Unlocked by clearing the required stage.",
     "option1": "AAAAAA==",
@@ -14158,7 +14256,7 @@
     "strContent": "Clearing <color=#FF423F>%s</color> will unlock Crossroads of Fate: Museum and Bank Arcs.\nDo you want to  track this now?",
     "option1": "Confirm",
     "showName": "L<#000000,u,#FFFFFF>fel",
-    "option2": "Never mind."
+    "option2": "Cancel"
   },
   {
     "sn": "1047210",
@@ -14179,7 +14277,7 @@
     "strContent": "You have not yet cleared Episode 2-10 of the Museum Arc. This mode may impact your experience of the story. Do you still wish to continue?",
     "option1": "Confirm",
     "showName": "L<#000000,u,#FFFFFF>fel",
-    "option2": "Cancel"
+    "option2": "Never mind."
   },
   {
     "sn": "1047214",
@@ -14743,35 +14841,35 @@
   },
   {
     "sn": "1047239",
-    "strContent": "You can obtain <color=#FFD145>rewards</color> based on your rolls.",
+    "strContent": "Obtain <color=#FFD145>rewards</color> based on your rolls.",
     "option1": "AAAAAA==",
     "showName": "AAAAAA==",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1047240",
-    "strContent": "You can obtain <color=#FFD145>rewards</color> based on your rolls.",
+    "strContent": "Obtain <color=#FFD145>rewards</color> based on your rolls.",
     "option1": "AAAAAA==",
     "showName": "AAAAAA==",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1047241",
-    "strContent": "You can obtain <color=#FFD145>special effects</color>.",
+    "strContent": "Obtain <color=#FFD145>special effects</color>.",
     "option1": "AAAAAA==",
     "showName": "AAAAAA==",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1047242",
-    "strContent": "You can obtain <color=#FFD145>special effects</color>.",
+    "strContent": "Obtain <color=#FFD145>special effects</color>.",
     "option1": "AAAAAA==",
     "showName": "AAAAAA==",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1047243",
-    "strContent": "You can obtain <color=#FFD145>special effects</color>.",
+    "strContent": "Obtain <color=#FFD145>special effects</color>.",
     "option1": "AAAAAA==",
     "showName": "AAAAAA==",
     "option2": "AAAAAA=="
@@ -14779,6 +14877,13 @@
   {
     "sn": "1047244",
     "strContent": "You are entering into a boss <color=#FFD145>battle</color>.",
+    "option1": "AAAAAA==",
+    "showName": "AAAAAA==",
+    "option2": "AAAAAA=="
+  },
+  {
+    "sn": "1047245",
+    "strContent": "Auto Launch Cancelled",
     "option1": "AAAAAA==",
     "showName": "AAAAAA==",
     "option2": "AAAAAA=="
@@ -19559,7 +19664,7 @@
   },
   {
     "sn": "1070003",
-    "strContent": "So, this is our destination.",
+    "strContent": "Hey, this the place?",
     "option1": "AAAAAA==",
     "showName": "Akechi",
     "option2": "AAAAAA=="
@@ -19629,7 +19734,7 @@
   },
   {
     "sn": "1070013",
-    "strContent": "Hmm... Seems like we can't get in this way.",
+    "strContent": "It seems this door won't open.",
     "option1": "AAAAAA==",
     "showName": "Akechi",
     "option2": "AAAAAA=="
@@ -22761,6 +22866,132 @@
     "strContent": "We might want to rest for a while.",
     "option1": "AAAAAA==",
     "showName": "Mio Natsukawa",
+    "option2": "AAAAAA=="
+  },
+  {
+    "sn": "1158001",
+    "strContent": "I'll take the wheel any time!",
+    "option1": "AAAAAA==",
+    "showName": "Mayumi Hashimoto",
+    "option2": "AAAAAA=="
+  },
+  {
+    "sn": "1158002",
+    "strContent": "Oh, we're there already? We made good time!",
+    "option1": "AAAAAA==",
+    "showName": "Mayumi Hashimoto",
+    "option2": "AAAAAA=="
+  },
+  {
+    "sn": "1158003",
+    "strContent": "Here we are. So, where next?",
+    "option1": "AAAAAA==",
+    "showName": "Mayumi Hashimoto",
+    "option2": "AAAAAA=="
+  },
+  {
+    "sn": "1158004",
+    "strContent": "I think there's a shortcut around here...",
+    "option1": "AAAAAA==",
+    "showName": "Mayumi Hashimoto",
+    "option2": "AAAAAA=="
+  },
+  {
+    "sn": "1158005",
+    "strContent": "Think it's locked... Maybe we need a key.",
+    "option1": "AAAAAA==",
+    "showName": "Mayumi Hashimoto",
+    "option2": "AAAAAA=="
+  },
+  {
+    "sn": "1158006",
+    "strContent": "No good. It won't open.",
+    "option1": "AAAAAA==",
+    "showName": "Mayumi Hashimoto",
+    "option2": "AAAAAA=="
+  },
+  {
+    "sn": "1158007",
+    "strContent": "That's it for today. Let's get ready for tomorrow!",
+    "option1": "AAAAAA==",
+    "showName": "Mayumi Hashimoto",
+    "option2": "AAAAAA=="
+  },
+  {
+    "sn": "1158008",
+    "strContent": "Ooh! What do you think's inside?",
+    "option1": "AAAAAA==",
+    "showName": "Mayumi Hashimoto",
+    "option2": "AAAAAA=="
+  },
+  {
+    "sn": "1158009",
+    "strContent": "Ah... It's getting a bit tough...",
+    "option1": "AAAAAA==",
+    "showName": "Mayumi Hashimoto",
+    "option2": "AAAAAA=="
+  },
+  {
+    "sn": "1158010",
+    "strContent": "Hey, let me see!",
+    "option1": "AAAAAA==",
+    "showName": "Mayumi Hashimoto",
+    "option2": "AAAAAA=="
+  },
+  {
+    "sn": "1158011",
+    "strContent": "Ooh, that looks pretty good!",
+    "option1": "AAAAAA==",
+    "showName": "Mayumi Hashimoto",
+    "option2": "AAAAAA=="
+  },
+  {
+    "sn": "1158012",
+    "strContent": "There's a Shadow! Watch out.",
+    "option1": "AAAAAA==",
+    "showName": "Mayumi Hashimoto",
+    "option2": "AAAAAA=="
+  },
+  {
+    "sn": "1158013",
+    "strContent": "A Safe Room! Time for a pit stop.",
+    "option1": "AAAAAA==",
+    "showName": "Mayumi Hashimoto",
+    "option2": "AAAAAA=="
+  },
+  {
+    "sn": "1158014",
+    "strContent": "Man, I'm beat. Let's take a break.",
+    "option1": "AAAAAA==",
+    "showName": "Mayumi Hashimoto",
+    "option2": "AAAAAA=="
+  },
+  {
+    "sn": "1158015",
+    "strContent": "I think that went well!",
+    "option1": "AAAAAA==",
+    "showName": "Mayumi Hashimoto",
+    "option2": "AAAAAA=="
+  },
+  {
+    "sn": "1158016",
+    "strContent": "We did great again today. Good work, crew!",
+    "option1": "AAAAAA==",
+    "showName": "Mayumi Hashimoto",
+    "option2": "AAAAAA=="
+  },
+  {
+    "sn": "1158017",
+    "strContent": "There's something good here... Make sure you don't miss your signal!",
+    "option1": "AAAAAA==",
+    "showName": "Mayumi Hashimoto",
+    "option2": "AAAAAA=="
+  },
+  {
+    "sn": "1158018",
+    "strContent": "We'd better take a break soon before they have to send out a safety car...",
+    "option1": "AAAAAA==",
+    "showName": "Mayumi Hashimoto",
     "option2": "AAAAAA=="
   },
   {
@@ -26880,6 +27111,41 @@
     "option2": "AAAAAA=="
   },
   {
+    "sn": "1200200",
+    "strContent": "Unlocks at Synergy Rank 16 with <color=#FF423F>Manaka Nagao</color>.",
+    "option1": "AAAAAA==",
+    "showName": "AAAAAA==",
+    "option2": "AAAAAA=="
+  },
+  {
+    "sn": "1200201",
+    "strContent": "Unlocks at Synergy Rank 16 with <color=#FF423F>Manaka Nagao</color>.",
+    "option1": "AAAAAA==",
+    "showName": "AAAAAA==",
+    "option2": "AAAAAA=="
+  },
+  {
+    "sn": "1200202",
+    "strContent": "Unlocks at Synergy Rank 18 and close friends with <color=#FF423F>Manaka Nagao</color>.",
+    "option1": "AAAAAA==",
+    "showName": "AAAAAA==",
+    "option2": "AAAAAA=="
+  },
+  {
+    "sn": "1200203",
+    "strContent": "Unlocks at Synergy Rank 18 and soulmates with <color=#FF423F>Manaka Nagao</color>.",
+    "option1": "AAAAAA==",
+    "showName": "AAAAAA==",
+    "option2": "AAAAAA=="
+  },
+  {
+    "sn": "1200204",
+    "strContent": "Unlocks at Synergy Rank 19 with <color=#FF423F>Manaka Nagao</color>.",
+    "option1": "AAAAAA==",
+    "showName": "AAAAAA==",
+    "option2": "AAAAAA=="
+  },
+  {
     "sn": "1201093",
     "strContent": "Someone is in critical\ncondition. Be careful!",
     "option1": "AAAAAA==",
@@ -29423,6 +29689,13 @@
   {
     "sn": "1209456",
     "strContent": "Event has ended.",
+    "option1": "AAAAAA==",
+    "showName": "AAAAAA==",
+    "option2": "AAAAAA=="
+  },
+  {
+    "sn": "1209457",
+    "strContent": "Collect rewards from this page after 8:00 PM (UTC) on the day of the 1st Anniversary.",
     "option1": "AAAAAA==",
     "showName": "AAAAAA==",
     "option2": "AAAAAA=="
@@ -35735,6 +36008,286 @@
     "option2": "AAAAAA=="
   },
   {
+    "sn": "1133901",
+    "strContent": "Sup. Need something?",
+    "option1": "AAAAAA==",
+    "showName": "Mayumi Hashimoto",
+    "option2": "AAAAAA=="
+  },
+  {
+    "sn": "1133902",
+    "strContent": "I'll see what I can do for you.",
+    "option1": "AAAAAA==",
+    "showName": "Mayumi Hashimoto",
+    "option2": "AAAAAA=="
+  },
+  {
+    "sn": "1133903",
+    "strContent": "Ready to roll!",
+    "option1": "AAAAAA==",
+    "showName": "Mayumi Hashimoto",
+    "option2": "AAAAAA=="
+  },
+  {
+    "sn": "1133904",
+    "strContent": "Green to go!",
+    "option1": "AAAAAA==",
+    "showName": "Mayumi Hashimoto",
+    "option2": "AAAAAA=="
+  },
+  {
+    "sn": "1133905",
+    "strContent": "I got this!",
+    "option1": "AAAAAA==",
+    "showName": "Mayumi Hashimoto",
+    "option2": "AAAAAA=="
+  },
+  {
+    "sn": "1133906",
+    "strContent": "Heading out!",
+    "option1": "AAAAAA==",
+    "showName": "Mayumi Hashimoto",
+    "option2": "AAAAAA=="
+  },
+  {
+    "sn": "1133907",
+    "strContent": "Let's shift into high gear!",
+    "option1": "AAAAAA==",
+    "showName": "Mayumi Hashimoto",
+    "option2": "AAAAAA=="
+  },
+  {
+    "sn": "1133908",
+    "strContent": "Leave it to me!",
+    "option1": "AAAAAA==",
+    "showName": "Mayumi Hashimoto",
+    "option2": "AAAAAA=="
+  },
+  {
+    "sn": "1133909",
+    "strContent": "Pedal to the metal! Try and keep up!",
+    "option1": "AAAAAA==",
+    "showName": "Mayumi Hashimoto",
+    "option2": "AAAAAA=="
+  },
+  {
+    "sn": "1133910",
+    "strContent": "Time to floor it!",
+    "option1": "AAAAAA==",
+    "showName": "Mayumi Hashimoto",
+    "option2": "AAAAAA=="
+  },
+  {
+    "sn": "1133911",
+    "strContent": "Okay, time for a pit stop!",
+    "option1": "AAAAAA==",
+    "showName": "Mayumi Hashimoto",
+    "option2": "AAAAAA=="
+  },
+  {
+    "sn": "1133912",
+    "strContent": "Anyway, nice work.",
+    "option1": "AAAAAA==",
+    "showName": "Mayumi Hashimoto",
+    "option2": "AAAAAA=="
+  },
+  {
+    "sn": "1133913",
+    "strContent": "Yup, got it.",
+    "option1": "AAAAAA==",
+    "showName": "Mayumi Hashimoto",
+    "option2": "AAAAAA=="
+  },
+  {
+    "sn": "1133914",
+    "strContent": "We're just getting started,\nright? Let's go full throttle.",
+    "option1": "AAAAAA==",
+    "showName": "Mayumi Hashimoto",
+    "option2": "AAAAAA=="
+  },
+  {
+    "sn": "1133915",
+    "strContent": "Alright! Next, please!",
+    "option1": "AAAAAA==",
+    "showName": "Mayumi Hashimoto",
+    "option2": "AAAAAA=="
+  },
+  {
+    "sn": "1133916",
+    "strContent": "That checkered flag is mine.",
+    "option1": "AAAAAA==",
+    "showName": "Mayumi Hashimoto",
+    "option2": "AAAAAA=="
+  },
+  {
+    "sn": "1133917",
+    "strContent": "Phew, passed the finish line!",
+    "option1": "AAAAAA==",
+    "showName": "Mayumi Hashimoto",
+    "option2": "AAAAAA=="
+  },
+  {
+    "sn": "1133918",
+    "strContent": "Crossed the finish line!",
+    "option1": "AAAAAA==",
+    "showName": "Mayumi Hashimoto",
+    "option2": "AAAAAA=="
+  },
+  {
+    "sn": "1133919",
+    "strContent": "Not a bad run, right?",
+    "option1": "AAAAAA==",
+    "showName": "Mayumi Hashimoto",
+    "option2": "AAAAAA=="
+  },
+  {
+    "sn": "1133920",
+    "strContent": "Finish! Man, I live for this\nmoment!",
+    "option1": "AAAAAA==",
+    "showName": "Mayumi Hashimoto",
+    "option2": "AAAAAA=="
+  },
+  {
+    "sn": "1134001",
+    "strContent": "AAAAAA==",
+    "option1": "AAAAAA==",
+    "showName": "Goro Akechi",
+    "option2": "AAAAAA=="
+  },
+  {
+    "sn": "1134002",
+    "strContent": "AAAAAA==",
+    "option1": "AAAAAA==",
+    "showName": "Goro Akechi",
+    "option2": "AAAAAA=="
+  },
+  {
+    "sn": "1134003",
+    "strContent": "AAAAAA==",
+    "option1": "AAAAAA==",
+    "showName": "Goro Akechi",
+    "option2": "AAAAAA=="
+  },
+  {
+    "sn": "1134004",
+    "strContent": "AAAAAA==",
+    "option1": "AAAAAA==",
+    "showName": "Goro Akechi",
+    "option2": "AAAAAA=="
+  },
+  {
+    "sn": "1134005",
+    "strContent": "AAAAAA==",
+    "option1": "AAAAAA==",
+    "showName": "Goro Akechi",
+    "option2": "AAAAAA=="
+  },
+  {
+    "sn": "1134006",
+    "strContent": "AAAAAA==",
+    "option1": "AAAAAA==",
+    "showName": "Goro Akechi",
+    "option2": "AAAAAA=="
+  },
+  {
+    "sn": "1134007",
+    "strContent": "AAAAAA==",
+    "option1": "AAAAAA==",
+    "showName": "Goro Akechi",
+    "option2": "AAAAAA=="
+  },
+  {
+    "sn": "1134008",
+    "strContent": "AAAAAA==",
+    "option1": "AAAAAA==",
+    "showName": "Goro Akechi",
+    "option2": "AAAAAA=="
+  },
+  {
+    "sn": "1134009",
+    "strContent": "AAAAAA==",
+    "option1": "AAAAAA==",
+    "showName": "Goro Akechi",
+    "option2": "AAAAAA=="
+  },
+  {
+    "sn": "1134010",
+    "strContent": "AAAAAA==",
+    "option1": "AAAAAA==",
+    "showName": "Goro Akechi",
+    "option2": "AAAAAA=="
+  },
+  {
+    "sn": "1134011",
+    "strContent": "AAAAAA==",
+    "option1": "AAAAAA==",
+    "showName": "Goro Akechi",
+    "option2": "AAAAAA=="
+  },
+  {
+    "sn": "1134012",
+    "strContent": "AAAAAA==",
+    "option1": "AAAAAA==",
+    "showName": "Goro Akechi",
+    "option2": "AAAAAA=="
+  },
+  {
+    "sn": "1134013",
+    "strContent": "AAAAAA==",
+    "option1": "AAAAAA==",
+    "showName": "Goro Akechi",
+    "option2": "AAAAAA=="
+  },
+  {
+    "sn": "1134014",
+    "strContent": "AAAAAA==",
+    "option1": "AAAAAA==",
+    "showName": "Goro Akechi",
+    "option2": "AAAAAA=="
+  },
+  {
+    "sn": "1134015",
+    "strContent": "AAAAAA==",
+    "option1": "AAAAAA==",
+    "showName": "Goro Akechi",
+    "option2": "AAAAAA=="
+  },
+  {
+    "sn": "1134016",
+    "strContent": "AAAAAA==",
+    "option1": "AAAAAA==",
+    "showName": "Goro Akechi",
+    "option2": "AAAAAA=="
+  },
+  {
+    "sn": "1134017",
+    "strContent": "AAAAAA==",
+    "option1": "AAAAAA==",
+    "showName": "Goro Akechi",
+    "option2": "AAAAAA=="
+  },
+  {
+    "sn": "1134018",
+    "strContent": "AAAAAA==",
+    "option1": "AAAAAA==",
+    "showName": "Goro Akechi",
+    "option2": "AAAAAA=="
+  },
+  {
+    "sn": "1134019",
+    "strContent": "AAAAAA==",
+    "option1": "AAAAAA==",
+    "showName": "Goro Akechi",
+    "option2": "AAAAAA=="
+  },
+  {
+    "sn": "1134020",
+    "strContent": "AAAAAA==",
+    "option1": "AAAAAA==",
+    "showName": "Goro Akechi",
+    "option2": "AAAAAA=="
+  },
+  {
     "sn": "1133811",
     "strContent": "I think I need to train more...",
     "option1": "AAAAAA==",
@@ -36874,6 +37427,90 @@
     "option1": "Confirm",
     "showName": "L<#000000,u,#FFFFFF>fel",
     "option2": "Cancel"
+  },
+  {
+    "sn": "1307001",
+    "strContent": "Deleting the resource package may cause data errors. Please move to Shibuya Station Square before deleting.",
+    "option1": "Confirm",
+    "showName": "L<#000000,u,#FFFFFF>fel",
+    "option2": "Leave"
+  },
+  {
+    "sn": "1307002",
+    "strContent": "The current resource pack is in use and cannot be deleted.",
+    "option1": "AAAAAA==",
+    "showName": "AAAAAA==",
+    "option2": "AAAAAA=="
+  },
+  {
+    "sn": "1307003",
+    "strContent": "Palace Progress--%s\n, Current Progress: %s\nWould you like to delete?",
+    "option1": "Confirm",
+    "showName": "AAAAAA==",
+    "option2": "Leave"
+  },
+  {
+    "sn": "1307004",
+    "strContent": "%s Current goal progress: %s/%s\nWould you like to delete?",
+    "option1": "Confirm",
+    "showName": "AAAAAA==",
+    "option2": "Leave"
+  },
+  {
+    "sn": "1307005",
+    "strContent": "In order to experience the game, you will need to download the following: %s\nData size: %s\nCurrent connection: %s\nDo you want to download now?",
+    "option1": "Confirm",
+    "showName": "AAAAAA==",
+    "option2": "Leave"
+  },
+  {
+    "sn": "1307006",
+    "strContent": "%s data pack is now downloading. Please wait.",
+    "option1": "AAAAAA==",
+    "showName": "AAAAAA==",
+    "option2": "AAAAAA=="
+  },
+  {
+    "sn": "1307007",
+    "strContent": "%s data pack has finished downloading.",
+    "option1": "AAAAAA==",
+    "showName": "AAAAAA==",
+    "option2": "AAAAAA=="
+  },
+  {
+    "sn": "1307008",
+    "strContent": "To switch to the selected voices, the %s voice files must be downloaded first.\nData size: %s\nCurrent connection: %s\nDo you want to download now?",
+    "option1": "Confirm",
+    "showName": "AAAAAA==",
+    "option2": "Leave"
+  },
+  {
+    "sn": "1307010",
+    "strContent": "Downloading only the current required data pack.",
+    "option1": "AAAAAA==",
+    "showName": "AAAAAA==",
+    "option2": "AAAAAA=="
+  },
+  {
+    "sn": "1307021",
+    "strContent": "After Deletion\nThe next time you enter %s, the required data will need to be downloaded first.\nSelect \"Yes\" to proceed with deletion. Is this OK?",
+    "option1": "Confirm",
+    "showName": "AAAAAA==",
+    "option2": "Leave"
+  },
+  {
+    "sn": "1307022",
+    "strContent": "After Deletion\nThe next time you enter %s, the required data will need to be downloaded first.\nSelect \"Yes\" to proceed with deletion. Is this OK?",
+    "option1": "Confirm",
+    "showName": "AAAAAA==",
+    "option2": "Leave"
+  },
+  {
+    "sn": "1307023",
+    "strContent": "After Deletion\nThe next time you recall stories related to %s, the required resource package will need to be downloaded first.\nSelect \"Yes\" to proceed with deletion. Is this OK?",
+    "option1": "Confirm",
+    "showName": "AAAAAA==",
+    "option2": "Leave"
   },
   {
     "sn": "1320006",

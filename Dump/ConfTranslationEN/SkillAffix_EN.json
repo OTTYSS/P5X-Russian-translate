@@ -1210,6 +1210,36 @@
     "desc": "Painting Effect Active"
   },
   {
+    "sn": "482",
+    "name": "Painting Effect",
+    "desc": "Painting Effect Active"
+  },
+  {
+    "sn": "483",
+    "name": "Painting Effect",
+    "desc": "Painting Effect Active"
+  },
+  {
+    "sn": "484",
+    "name": "Painting Effect",
+    "desc": "Painting Effect Active"
+  },
+  {
+    "sn": "485",
+    "name": "Painting Effect",
+    "desc": "Painting Effect Active"
+  },
+  {
+    "sn": "486",
+    "name": "Painting Effect",
+    "desc": "Painting Effect Active"
+  },
+  {
+    "sn": "487",
+    "name": "Painting Effect",
+    "desc": "Painting Effect Active"
+  },
+  {
     "sn": "446",
     "name": "Painting Effect",
     "desc": "Painting Effect Active"
@@ -1921,8 +1951,8 @@
   },
   {
     "sn": "2016",
-    "name": "Special Effect",
-    "desc": "Party's <color=#FFFC40>Highlight</color> final damage is increased by 24%."
+    "name": "tnxct-[SkillAffix_name_2016]",
+    "desc": "tnxct-[SkillAffix_desc_2016]"
   },
   {
     "sn": "744",
@@ -1952,12 +1982,27 @@
   {
     "sn": "1024",
     "name": "Special Effect",
-    "desc": "Each time a Technical is activated, gain 2 Furious Impulse stacks, and grant 1 Furious Impulse stack to all other allies.\nFurious Impulse: Increase final damage by 8% for each stack. Lasts for 2 turns. Stacks up to 5 times."
+    "desc": "When an ally besides Wonder deals Physical or Psychokinesis damage with skills, other allies gain Furious Impulse.\nFurious Impulse: Increase final damage by 40% for 2 turns."
+  },
+  {
+    "sn": "1025",
+    "name": "Special Effect",
+    "desc": "Each time the user deals damage of a different attribute with skills, all allies gain 4 Crimson Delirium stacks. Also, each time a Technical is activated, all allies gain 1 Crimson Delirium stack.\nCrimson Delirium: Increase final damage by 10% per stack for 2 turns. Stacks up to 4 times."
+  },
+  {
+    "sn": "1026",
+    "name": "Special Effect",
+    "desc": "When allies other than Wonder deal Physical or Almighty damage with skills, all allies gain Cellular Crystallization.\nCellular Crystallization: Increase final damage by 40% for 2 turns."
   },
   {
     "sn": "2018",
     "name": "Special Effect",
     "desc": "When the party activates a <color=#FFFC40>Technical</color>, Attack is increased by 25% and critical damage by 25%."
+  },
+  {
+    "sn": "2019",
+    "name": "Special Effect",
+    "desc": "When the party deals <color=#FFFC40>Almighty dmg</color>, increase dmg by 25%, and critical dmg by 25%."
   },
   {
     "sn": "4513",
@@ -1998,6 +2043,11 @@
     "sn": "4533",
     "name": "Special Effect",
     "desc": "The Highlight gauge fills 20% slower, but allies' <color=#FFFC40>Highlight</color> final damage is increased by 100%."
+  },
+  {
+    "sn": "4537",
+    "name": "Special Effect",
+    "desc": "When an ally activates an <color=#FFFC40>All-Out Attack</color>, increase final dmg by 100%."
   },
   {
     "sn": "4541",
@@ -2582,12 +2632,12 @@
   {
     "sn": "8005",
     "name": "Special Effect",
-    "desc": "All foes' max HP is increased by 50%."
+    "desc": "All foes' max HP is increased by 55%."
   },
   {
     "sn": "8006",
     "name": "Special Effect",
-    "desc": "All foes' max HP is increased by 100%."
+    "desc": "All foes' max HP is increased by 120%."
   },
   {
     "sn": "8007",
@@ -2602,7 +2652,7 @@
   {
     "sn": "8009",
     "name": "Special Effect",
-    "desc": "Party's Attack is decreased by 50%."
+    "desc": "Party's Attack is decreased by 55%."
   },
   {
     "sn": "8010",
@@ -2827,12 +2877,12 @@
   {
     "sn": "8202",
     "name": "Special Effect",
-    "desc": "The shield from Jikokuten's Blade of Sanctuary is increased by 55%, and Jikokuten's max HP is increased by 50%."
+    "desc": "The shield from Jikokuten's Blade of Sanctuary is increased by 55%, and Jikokuten's max HP is increased by 55%."
   },
   {
     "sn": "8203",
     "name": "Special Effect",
-    "desc": "The shield from Jikokuten's Blade of Sanctuary is increased by 100%, and Jikokuten's max HP is increased by 100%."
+    "desc": "The shield from Jikokuten's Blade of Sanctuary is increased by 100%, and Jikokuten's max HP is increased by 120%."
   },
   {
     "sn": "8204",
@@ -2847,7 +2897,7 @@
   {
     "sn": "8206",
     "name": "Special Effect",
-    "desc": "Targets with a shield from Jikokuten's Blade of Sanctuary gain 60% increased Attack. Jikokuten's Attack is increased by 40%."
+    "desc": "Targets with a shield from Jikokuten's Blade of Sanctuary gain 60% increased Attack. Jikokuten's Attack is increased by 45%."
   },
   {
     "sn": "8207",
@@ -2862,7 +2912,7 @@
   {
     "sn": "8209",
     "name": "Special Effect",
-    "desc": "The damage increase from Zouchouten's Growth of All Things is increased by 100%. Zouchouten's Attack is increased by 40%."
+    "desc": "The damage increase from Zouchouten's Growth of All Things is increased by 100%. Zouchouten's Attack is increased by 45%."
   },
   {
     "sn": "8210",
@@ -2872,12 +2922,12 @@
   {
     "sn": "8211",
     "name": "Special Effect",
-    "desc": "Zouchouten's Growth of All Things also decreases damage taken by 12.5%. Zouchouten's max HP is increased by 20%."
+    "desc": "Zouchouten's Growth of All Things also decreases damage taken by 12.5%. Zouchouten's max HP is increased by 55%."
   },
   {
     "sn": "8212",
     "name": "Special Effect",
-    "desc": "Zouchouten's Growth of All Things also decreases damage taken by 20%. Zouchouten's max HP is increased by 100%."
+    "desc": "Zouchouten's Growth of All Things also decreases damage taken by 20%. Zouchouten's max HP is increased by 120%."
   },
   {
     "sn": "4515",
@@ -2905,6 +2955,31 @@
     "desc": "Increase final damage by 10%."
   },
   {
+    "sn": "7121",
+    "name": "Special Effect",
+    "desc": "AAAAAA=="
+  },
+  {
+    "sn": "7122",
+    "name": "Special Effect",
+    "desc": "AAAAAA=="
+  },
+  {
+    "sn": "7123",
+    "name": "Special Effect",
+    "desc": "AAAAAA=="
+  },
+  {
+    "sn": "7124",
+    "name": "Special Effect",
+    "desc": "AAAAAA=="
+  },
+  {
+    "sn": "7125",
+    "name": "Special Effect",
+    "desc": "AAAAAA=="
+  },
+  {
     "sn": "8213",
     "name": "Special Effect",
     "desc": "Targets marked by Koumokuten's Eye of Heaven take 10% increased damage. Koumokuten's Attack is increased by 10%."
@@ -2917,12 +2992,12 @@
   {
     "sn": "8215",
     "name": "Special Effect",
-    "desc": "Targets marked by Koumokuten's Eye of Heaven take 50% increased damage. Koumokuten's Attack is increased by 40%."
+    "desc": "Targets marked by Koumokuten's Eye of Heaven take 50% increased damage. Koumokuten's Attack is increased by 45%."
   },
   {
     "sn": "8216",
     "name": "Special Effect",
-    "desc": "The number of targets marked by Koumokuten's Eye of Heaven changes to 2. Koumokuten's max HP is increased by 100%."
+    "desc": "The number of targets marked by Koumokuten's Eye of Heaven changes to 2. Koumokuten's max HP is increased by 120%."
   },
   {
     "sn": "8217",
@@ -2932,12 +3007,12 @@
   {
     "sn": "8218",
     "name": "Special Effect",
-    "desc": "Bishamonten's Parasol of Chaos changes allies' affinities to Drain. Bishamonten's Attack is increased by 40%."
+    "desc": "Bishamonten's Parasol of Chaos changes allies' affinities to Drain. Bishamonten's Attack is increased by 45%."
   },
   {
     "sn": "8219",
     "name": "Special Effect",
-    "desc": "Bishamonten's Parasol of Chaos will target the 2 Shadows with the lowest HP. Bishamonten's max HP increases by 100%."
+    "desc": "Bishamonten's Parasol of Chaos will target the 2 Shadows with the lowest HP. Bishamonten's max HP increases by 120%."
   },
   {
     "sn": "8301",
@@ -2952,7 +3027,7 @@
   {
     "sn": "8303",
     "name": "Special Effect",
-    "desc": "Horn of Pestilence's max HP down effects are increased by 30%. White Rider's Attack is increased by 40%."
+    "desc": "Horn of Pestilence's max HP down effects are increased by 30%. White Rider's Attack is increased by 45%."
   },
   {
     "sn": "8304",
@@ -2962,12 +3037,12 @@
   {
     "sn": "8305",
     "name": "Special Effect",
-    "desc": "The target of Horn of Pestilence changes to 3 random foes. White Rider's max HP is increased by 50%."
+    "desc": "The target of Horn of Pestilence changes to 3 random foes. White Rider's max HP is increased by 55%."
   },
   {
     "sn": "8306",
     "name": "Special Effect",
-    "desc": "Horn of Pestilence now targets all Phantom Thieves, and White Rider's max HP increases by 100%."
+    "desc": "Horn of Pestilence now targets all Phantom Thieves, and White Rider's max HP increases by 120%."
   },
   {
     "sn": "8307",
@@ -2982,7 +3057,7 @@
   {
     "sn": "8309",
     "name": "Special Effect",
-    "desc": "Horn of Famine increases foes' SP costs by 50% more. Black Rider's Attack is increased by 40%."
+    "desc": "Horn of Famine increases foes' SP costs by 50% more. Black Rider's Attack is increased by 45%."
   },
   {
     "sn": "8310",
@@ -2992,12 +3067,12 @@
   {
     "sn": "8311",
     "name": "Special Effect",
-    "desc": "The target of Horn of Famine changes to 3 random foes. Black Rider's max HP is increased by 50%."
+    "desc": "The target of Horn of Famine changes to 3 random foes. Black Rider's max HP is increased by 55%."
   },
   {
     "sn": "8312",
     "name": "Special Effect",
-    "desc": "Horn of Famine now targets all Phantom Thieves, and Black Rider's max HP increases by 100%."
+    "desc": "Horn of Famine now targets all Phantom Thieves, and Black Rider's max HP increases by 120%."
   },
   {
     "sn": "8313",
@@ -3012,7 +3087,7 @@
   {
     "sn": "8315",
     "name": "Special Effect",
-    "desc": "Horn of Death decreases skill healing by 80% more. Pale Rider's Attack is increased by 40%."
+    "desc": "Horn of Death decreases skill healing by 80% more. Pale Rider's Attack is increased by 45%."
   },
   {
     "sn": "8316",
@@ -3022,12 +3097,12 @@
   {
     "sn": "8317",
     "name": "Special Effect",
-    "desc": "Horn of Death's damage up effect is increased by 25%. Pale Rider's max HP is increased by 50%."
+    "desc": "Horn of Death's damage up effect is increased by 25%. Pale Rider's max HP is increased by 55%."
   },
   {
     "sn": "8318",
     "name": "Special Effect",
-    "desc": "Horn of Death's damage up effect is increased by 40%. Pale Rider's max HP is increased by 100%."
+    "desc": "Horn of Death's damage up effect is increased by 40%. Pale Rider's max HP is increased by 120%."
   },
   {
     "sn": "8319",
@@ -3037,7 +3112,7 @@
   {
     "sn": "8320",
     "name": "Special Effect",
-    "desc": "While Horn of War is active, all allies will counter when taking an attack. Red Rider's counterattack damage is increased by 50% and its Attack is increased by 40%."
+    "desc": "While Horn of War is active, all allies will counter when taking an attack. Red Rider's counterattack damage is increased by 50% and its Attack is increased by 45%."
   },
   {
     "sn": "8322",
@@ -3052,7 +3127,7 @@
   {
     "sn": "8321",
     "name": "Special Effect",
-    "desc": "Horn of War's duration is increased by 1 turn. Red Rider's max HP is increased by 100%."
+    "desc": "Horn of War's duration is increased by 1 turn. Red Rider's max HP is increased by 120%."
   },
   {
     "sn": "8401",
@@ -3623,5 +3698,125 @@
     "sn": "8648",
     "name": "Special Effect",
     "desc": "The final damage increase from True Dragon's Might is increased by 50%. Nian Shou's final Attack is increased by 40%."
+  },
+  {
+    "sn": "8801",
+    "name": "Special Effect",
+    "desc": "The shield from Michael's Stronghold is increased by 20%, and Michael's final Attack is increased by 10%."
+  },
+  {
+    "sn": "8802",
+    "name": "Special Effect",
+    "desc": "The shield from Michael's Stronghold is increased by 50%, and Michael's final Attack is increased by 25%."
+  },
+  {
+    "sn": "8803",
+    "name": "Special Effect",
+    "desc": "The shield from Michael's Stronghold is increased by 100%, and Michael's final Attack is increased by 45%."
+  },
+  {
+    "sn": "8804",
+    "name": "Special Effect",
+    "desc": "The final damage decrease effect from Michael's Stronghold is increased by 10%. Michael's max HP is increased by 20%, and it gains 1 more Down Point."
+  },
+  {
+    "sn": "8805",
+    "name": "Special Effect",
+    "desc": "The final damage decrease effect from Michael's Stronghold is increased by 20%. Michael's max HP is increased by 55%, and it gains 2 more Down Points."
+  },
+  {
+    "sn": "8806",
+    "name": "Special Effect",
+    "desc": "The final damage decrease effect from Michael's Stronghold is increased by 40%. Michael's max HP is increased by 120%, and it gains 3 more Down Points."
+  },
+  {
+    "sn": "8807",
+    "name": "Special Effect",
+    "desc": "The final damage taken increase effect from Gabriel's Annunciation is increased by 10%, and Gabriel's final Attack is increased by 10%."
+  },
+  {
+    "sn": "8808",
+    "name": "Special Effect",
+    "desc": "The final damage taken increase effect from Gabriel's Annunciation is increased by 20%, and Gabriel's final Attack is increased by 25%."
+  },
+  {
+    "sn": "8809",
+    "name": "Special Effect",
+    "desc": "The final damage taken increase effect from Gabriel's Annunciation is increased by 40%, and Gabriel's final Attack is increased by 45%."
+  },
+  {
+    "sn": "8810",
+    "name": "Special Effect",
+    "desc": "The rate of inflicting Forget from Gabriel's Annunciation is increased. Gabriel's max HP is increased by 20%, and it gains 1 more Down Point."
+  },
+  {
+    "sn": "8811",
+    "name": "Special Effect",
+    "desc": "The rate of inflicting Forget from Gabriel's Annunciation is increased more. Gabriel's max HP is increased by 55%, and it gains 2 more Down Points."
+  },
+  {
+    "sn": "8812",
+    "name": "Special Effect",
+    "desc": "Gabriel's Annunciation inflicts Forget on the target. Gabriel's max HP is increased by 120%, and it gains 3 more Down Points."
+  },
+  {
+    "sn": "8813",
+    "name": "Special Effect",
+    "desc": "The final damage taken increase effect from Raphael's Balm is increased by 10%, and Raphael's final Attack is increased by 10%."
+  },
+  {
+    "sn": "8814",
+    "name": "Special Effect",
+    "desc": "The final damage taken increase effect from Raphael's Balm is increased by 20%, and Raphael's final Attack is increased by 25%."
+  },
+  {
+    "sn": "8815",
+    "name": "Special Effect",
+    "desc": "The final damage taken increase effect from Raphael's Balm is increased by 40%, and Raphael's final Attack is increased by 45%."
+  },
+  {
+    "sn": "8816",
+    "name": "Special Effect",
+    "desc": "The healing from Raphael's Balm is increased by 20%. Raphael's max HP is increased by 20%, and it gains 1 more Down Point."
+  },
+  {
+    "sn": "8817",
+    "name": "Special Effect",
+    "desc": "The healing from Raphael's Balm is increased by 50%. Raphael's max HP is increased by 55%, and it gains 2 more Down Points."
+  },
+  {
+    "sn": "8818",
+    "name": "Special Effect",
+    "desc": "The healing from Raphael's Balm is increased by 100%. Raphael's max HP is increased by 120%, and it gains 3 more Down Points."
+  },
+  {
+    "sn": "8819",
+    "name": "Special Effect",
+    "desc": "The damage dealt to targets with elemental ailments from Uriel's Judgement is increased by 10%, and Uriel's final Attack is increased by 10%."
+  },
+  {
+    "sn": "8820",
+    "name": "Special Effect",
+    "desc": "The damage dealt to targets with elemental ailments from Uriel's Judgement is increased by 15%, and Uriel's final Attack is increased by 25%."
+  },
+  {
+    "sn": "8821",
+    "name": "Special Effect",
+    "desc": "The damage dealt to targets with elemental ailments from Uriel's Judgement is increased by 25%, and Uriel's final Attack is increased by 45%."
+  },
+  {
+    "sn": "8822",
+    "name": "Special Effect",
+    "desc": "The damage of Uriel's Judgement is increased by 10%. Uriel's max HP is increased by 20%, and it gains 1 more Down Point."
+  },
+  {
+    "sn": "8823",
+    "name": "Special Effect",
+    "desc": "The damage of Uriel's Judgement is increased by 15%. Uriel's max HP is increased by 55%, and it gains 2 more Down Points."
+  },
+  {
+    "sn": "8824",
+    "name": "Special Effect",
+    "desc": "The damage of Uriel's Judgement is increased by 25%. Uriel's max HP is increased by 120%, and it gains 3 more Down Points."
   }
 ]

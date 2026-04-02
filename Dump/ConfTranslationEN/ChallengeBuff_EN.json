@@ -122,6 +122,16 @@
   {
     "sn": "24",
     "buffName": "Ritual Artifacts",
-    "buffDesc": "Each time a Technical is activated, gain 2 Furious Impulse stacks, and grant 1 Furious Impulse stack to all other allies.\nFurious Impulse: Increase final damage by 8% for each stack. Lasts for 2 turns. Stacks up to 5 times."
+    "buffDesc": "When an ally besides Wonder deals Physical or Psychokinesis damage with skills, other allies gain Furious Impulse.\nFurious Impulse: Increase final damage by 40% for 2 turns."
+  },
+  {
+    "sn": "25",
+    "buffName": "Crimson Contagion",
+    "buffDesc": "Each time the user deals damage of differing attribute with skills, all allies gain 4 Crimson Delirium stacks. Also, each time a Technical is activated, all allies gain 1 Crimson Delirium stack.\nCrimson Delirium: Increase final damage by 10% per stack for 2 turns. Stacks up to 4 times."
+  },
+  {
+    "sn": "26",
+    "buffName": "Crystal Chorus",
+    "buffDesc": "When allies other than Wonder deal Physical or Almighty damage with skills, all allies gain Cellular Crystallization.\nCellular Crystallization: Increase final damage by 40% for 2 turns."
   }
 ]

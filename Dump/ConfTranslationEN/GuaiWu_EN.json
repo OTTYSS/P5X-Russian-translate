@@ -1645,21 +1645,105 @@
   },
   {
     "sn": "524101",
-    "name": "Lilith",
-    "desc": "Said to have been Adam's first wife, she desired to be his equal and refused to obey him. She was cast out of Eden and became a demon of the night. She is the mother of the demoness, Lilim.",
-    "strategy": "1. At the start of battle, Lilith summons 4 servants.\nLilith and all servants are in the <color=#ff3b37>Soul Link</color> state.\nSoul Link: Distribute all damage received between all Shadows who share this condition, based on the percentage of their current HP.\n2. Each turn, Lilith grants 1 <color=#ff3b37>Cover of Night</color> stack to all Shadows.\nCover of Night: Decrease final damage taken by 15% for each stack. Stacks up to 2 times.\n3. When a Shadow with Cover of Night is inflicted with an elemental ailment, remove 1 Cover of Night stack."
+    "name": "Seth",
+    "desc": "The Egyptian god of the desert, chaos, and evil. He murdered his brother, Osiris, and tried to become chief god, but he was castrated by Osiris's son, Horus.",
+    "strategy": "Increase Seth's final Highlight damage taken by 20%. Decrease all other final skill damage taken by 30%."
   },
   {
-    "sn": "524102",
+    "sn": "524111",
+    "name": "Quetzalcoatl",
+    "desc": "An Aztec deity known as the Feathered Serpent. He created humans with his own blood and taught them how to sustain themselves.",
+    "strategy": "Weaknesses and resistances are different than normal.\n1. Quetzalcoatl and all Yurlungurs are in the Soul Link state.\nSoul Link: Distributes all damage received between all Shadows who share this condition, based on the percentage of their current HP.\n2. All Shadows take 20% increased damage from ranged attacks."
+  },
+  {
+    "sn": "524112",
+    "name": "Yurlungur",
+    "desc": "A snake with a rainbow body from Murngin lore. He is a fertility deity who controls the weather and resides in a holy pond filled with rainbow-colored water.",
+    "strategy": "AAAAAA=="
+  },
+  {
+    "sn": "524113",
+    "name": "Yurlungur",
+    "desc": "A snake with a rainbow body from Murngin lore. He is a fertility deity who controls the weather and resides in a holy pond filled with rainbow-colored water.",
+    "strategy": "AAAAAA=="
+  },
+  {
+    "sn": "524114",
+    "name": "Yurlungur",
+    "desc": "A snake with a rainbow body from Murngin lore. He is a fertility deity who controls the weather and resides in a holy pond filled with rainbow-colored water.",
+    "strategy": "AAAAAA=="
+  },
+  {
+    "sn": "524115",
+    "name": "Yurlungur",
+    "desc": "A snake with a rainbow body from Murngin lore. He is a fertility deity who controls the weather and resides in a holy pond filled with rainbow-colored water.",
+    "strategy": "AAAAAA=="
+  },
+  {
+    "sn": "525101",
+    "name": "Oberon",
+    "desc": "The king of the fairies and Titania's husband. He is quite old but, due to a curse, his looks are that of a young boy. He often flirts with human women, which sometimes earns him a scolding from his wife.",
+    "strategy": "1. At the start of battle, Oberon and Titania each gain 5 Fairy Power stacks, decreasing final damage by 4% per stack.\n2. Each time Oberon or Titania is defeated, the other will spend 1 Fairy Power to summon them again.\n3. When their Fairy Power is depleted, Oberon and Titania will be weakened, greatly increasing their damage taken.\nLasts for 2 turns, after which they regain 5 Fairy Power."
+  },
+  {
+    "sn": "525102",
+    "name": "Titania",
+    "desc": "The queen of the fairies and Oberon's wife. She is derived from the Roman goddess Diana. She was later immortalized in Shakespeare's play \"A Midsummer Night's Dream.\"",
+    "strategy": "1. At the start of battle, Oberon and Titania each gain 5 Fairy Power stacks, decreasing final damage by 4% per stack.\n2. Each time Oberon or Titania is defeated, the other will spend 1 Fairy Power to summon them again.\n3. When their Fairy Power is depleted, Oberon and Titania will be weakened, greatly increasing their damage taken.\nLasts for 2 turns, after which they regain 5 Fairy Power."
+  },
+  {
+    "sn": "525103",
+    "name": "Leanan Sidhe",
+    "desc": "A beautiful fairy of Irish lore that yearns for the love of a human man. She drains the life of her lovers in return for granting them artistic inspiration.",
+    "strategy": "AAAAAA=="
+  },
+  {
+    "sn": "525104",
+    "name": "High Pixie",
+    "desc": "The leader of a swarm of pixies. Any pixie in a leadership role or with remarkable power is called by this name.",
+    "strategy": "AAAAAA=="
+  },
+  {
+    "sn": "525111",
+    "name": "Lilith",
+    "desc": "Said to have been Adam's first wife, she desired to be his equal and refused to obey him. She was cast out of Eden and became a demon of the night. She is the mother of the demoness, Lilim.",
+    "strategy": "1. At the start of battle, Lilith summons 4 Shadows.\nLilith and all Shadows are in the <color=#FF423F>Soul Link</color> state.\nSoul Link: Distribute all damage received between all Shadows who share this condition, based on the percentage of their current HP.\n2. Each turn, Lilith grants 1 <color=#FF423F>Cover of Night</color> stack to all Shadows.\nCover of Night: Decrease final damage taken by 15% for each stack. Stacks up to 2 times.\n3. When a Shadow with Cover of Night is inflicted with an elemental ailment, remove 1 Cover of Night stack."
+  },
+  {
+    "sn": "525112",
     "name": "Nue",
     "desc": "A creature of Japanese lore with a monkey's head, tiger's legs, and snake's tail. The Tale of Heike says it hid behind a dark cloud each night to attack the Emperor.",
     "strategy": "AAAAAA=="
   },
   {
-    "sn": "524111",
-    "name": "Seiryu",
-    "desc": "The noblest of the Ssu-Ling creatures of Chinese myth. It represents the direction east, the season of spring, and the element of wood. It dwells in a palace at the bottom of the ocean.",
-    "strategy": "1. At the start of battle, Seiryu gains 2 Azure Scales stacks, and gains 1 more stack every turn. Each stack decreases final damage taken by 10%.\n2. When Seiryu takes weakness damage, it loses 1 Azure Scales stack.\n3. When Seiryu loses all Azure Scales stacks, all Phantom Thieves gain Seiryu's Might, increasing their final damage dealt."
+    "sn": "526101",
+    "name": "Vishnu",
+    "desc": "One of the major Hindu gods, he is the preserver of order in the universe, and the incarnation of sunlight. Legends claim that he will make ten appearances across time and space to deliver justice and strike down evil.",
+    "strategy": "1. At the start of battle, Vishnu summons 4 Shadows. Vishnu and the summoned Shadows are in the <color=#FF423F>Soul Link</color> state.\nSoul Link: Distributes all damage received between all Shadows who share this condition, based on the percentage of their current HP.\n2. When Vishnu or the summoned Shadows take skill damage, they gain Guardian's Preservation based on the attribute, and that affinity is changed to Resist. This effect lasts for 2 turns."
+  },
+  {
+    "sn": "526102",
+    "name": "Garuda",
+    "desc": "A divine bird-man in Hindu lore, he once fought the gods and received immortality in exchange for becoming Vishnu's carrier.",
+    "strategy": "AAAAAA=="
+  },
+  {
+    "sn": "526111",
+    "name": "Sraosha",
+    "desc": "In Zoroastrian lore, Sraosha's duty is to listen to the cry of humans for Ahura Mazda. He is also known to descend after sunset to vanquish evil. His name literally means \"observance.\"",
+    "strategy": "1. Sraosha will summon Shadows during the battle.\n2. Sraosha will restore all Phantom Thieves' SP each turn.\n3. When a summoned Shadow's Down Points are decreased, all Phantom Thieves' damage is increased by 15% for 1 turn."
+  },
+  {
+    "sn": "526112",
+    "name": "Apsaras",
+    "desc": "Hindu water spirits, they are beautiful young women who dance for the gods. They also guide heroes fallen in battle to paradise.",
+    "strategy": "AAAAAA=="
+  },
+  {
+    "sn": "526113",
+    "name": "Apsaras",
+    "desc": "Hindu water spirits, they are beautiful young women who dance for the gods. They also guide heroes fallen in battle to paradise.",
+    "strategy": "AAAAAA=="
   },
   {
     "sn": "916011",
@@ -2496,6 +2580,1188 @@
     "strategy": "AAAAAA=="
   },
   {
+    "sn": "917011",
+    "name": "Bugs",
+    "desc": "A Welsh creature commonly known as \"Bugbear\" or the \"Boogeyman.\" Its existence is often used by mothers to scare children into behaving.",
+    "strategy": "AAAAAA=="
+  },
+  {
+    "sn": "917012",
+    "name": "Nebiros",
+    "desc": "The general of Hell. He keeps watch over other demons. One of Hell's greatest necromancers, he can control souls and corpses.",
+    "strategy": "AAAAAA=="
+  },
+  {
+    "sn": "917013",
+    "name": "Nebiros",
+    "desc": "The general of Hell. He keeps watch over other demons. One of Hell's greatest necromancers, he can control souls and corpses.",
+    "strategy": "AAAAAA=="
+  },
+  {
+    "sn": "917021",
+    "name": "Cerberus",
+    "desc": "The guardian hound who prevents anyone from entering or exiting the underworld in Greek lore. It was born from Typhon and Echidna, and is the older brother of Orthrus.",
+    "strategy": "AAAAAA=="
+  },
+  {
+    "sn": "917022",
+    "name": "Dakini",
+    "desc": "Hindu deities of passion and relations. They are Kali's attendants. They eat human flesh and gather at graveyards and crematories each night. Their name means \"sky dancer.\"",
+    "strategy": "AAAAAA=="
+  },
+  {
+    "sn": "917023",
+    "name": "Dakini",
+    "desc": "Hindu deities of passion and relations. They are Kali's attendants. They eat human flesh and gather at graveyards and crematories each night. Their name means \"sky dancer.\"",
+    "strategy": "AAAAAA=="
+  },
+  {
+    "sn": "917031",
+    "name": "Kali",
+    "desc": "A goddess of death and destruction. She is said to be another face of Parvati. She is violent, wears a string of skulls, and carries bloody weapons, but she also blesses her followers.",
+    "strategy": "AAAAAA=="
+  },
+  {
+    "sn": "917032",
+    "name": "Bugs",
+    "desc": "A Welsh creature commonly known as \"Bugbear\" or the \"Boogeyman.\" Its existence is often used by mothers to scare children into behaving.",
+    "strategy": "AAAAAA=="
+  },
+  {
+    "sn": "917033",
+    "name": "Bugs",
+    "desc": "A Welsh creature commonly known as \"Bugbear\" or the \"Boogeyman.\" Its existence is often used by mothers to scare children into behaving.",
+    "strategy": "AAAAAA=="
+  },
+  {
+    "sn": "917041",
+    "name": "Chernobog",
+    "desc": "A cursed god of death, evil, and the night in Slavic lore. His name means \"Black God,\" and he is the counterpart of the \"White God,\" Belobog. Despite being feared, he was also worshipped.",
+    "strategy": "AAAAAA=="
+  },
+  {
+    "sn": "917042",
+    "name": "Cerberus",
+    "desc": "The guardian hound who prevents anyone from entering or exiting the underworld in Greek lore. It was born from Typhon and Echidna, and is the older brother of Orthrus.",
+    "strategy": "AAAAAA=="
+  },
+  {
+    "sn": "917043",
+    "name": "Cerberus",
+    "desc": "The guardian hound who prevents anyone from entering or exiting the underworld in Greek lore. It was born from Typhon and Echidna, and is the older brother of Orthrus.",
+    "strategy": "AAAAAA=="
+  },
+  {
+    "sn": "917051",
+    "name": "Baphomet",
+    "desc": "A goat-headed demon that is worshipped in Black Sabbaths. His name can be used as a catch-all term for demons in general. He would become an object of worship for witches.",
+    "strategy": "AAAAAA=="
+  },
+  {
+    "sn": "917052",
+    "name": "Nebiros",
+    "desc": "The general of Hell. He keeps watch over other demons. One of Hell's greatest necromancers, he can control souls and corpses.",
+    "strategy": "AAAAAA=="
+  },
+  {
+    "sn": "917053",
+    "name": "Nebiros",
+    "desc": "The general of Hell. He keeps watch over other demons. One of Hell's greatest necromancers, he can control souls and corpses.",
+    "strategy": "AAAAAA=="
+  },
+  {
+    "sn": "917061",
+    "name": "Cu Chulainn",
+    "desc": "A hero in Celtic folklore. He was called Setanta until he earned the name, \"Culann's Hound.\" There are many tales of his adventures. He received his spear, Gae Bolg, from his mentor, Scathach.",
+    "strategy": "AAAAAA=="
+  },
+  {
+    "sn": "917062",
+    "name": "Dakini",
+    "desc": "Hindu deities of passion and relations. They are Kali's attendants. They eat human flesh and gather at graveyards and crematories each night. Their name means \"sky dancer.\"",
+    "strategy": "AAAAAA=="
+  },
+  {
+    "sn": "917063",
+    "name": "Dakini",
+    "desc": "Hindu deities of passion and relations. They are Kali's attendants. They eat human flesh and gather at graveyards and crematories each night. Their name means \"sky dancer.\"",
+    "strategy": "AAAAAA=="
+  },
+  {
+    "sn": "917071",
+    "name": "Alilat",
+    "desc": "The Arabian mother goddess also known as Allat. She was thought to reside in the Black Stone at the Kaaba. She and her son, Dusura, were worshipped there by desert nomads.",
+    "strategy": "AAAAAA=="
+  },
+  {
+    "sn": "917072",
+    "name": "Mot",
+    "desc": "The Canaanite god of death. Every year he attempts to kill Baal, the god of fertility, only to see him raised from the dead with the help of Baal's sister, Anat.",
+    "strategy": "AAAAAA=="
+  },
+  {
+    "sn": "917073",
+    "name": "Mot",
+    "desc": "The Canaanite god of death. Every year he attempts to kill Baal, the god of fertility, only to see him raised from the dead with the help of Baal's sister, Anat.",
+    "strategy": "AAAAAA=="
+  },
+  {
+    "sn": "917081",
+    "name": "Baal",
+    "desc": "The chief Semitic god who governs over fertility. He is the god of Canaan and brother and consort to the goddess Anat, who saved him from Mot.",
+    "strategy": "AAAAAA=="
+  },
+  {
+    "sn": "917082",
+    "name": "Kali",
+    "desc": "A goddess of death and destruction. She is said to be another face of Parvati. She is violent, wears a string of skulls, and carries bloody weapons, but she also blesses her followers.",
+    "strategy": "AAAAAA=="
+  },
+  {
+    "sn": "917083",
+    "name": "Kali",
+    "desc": "A goddess of death and destruction. She is said to be another face of Parvati. She is violent, wears a string of skulls, and carries bloody weapons, but she also blesses her followers.",
+    "strategy": "AAAAAA=="
+  },
+  {
+    "sn": "917091",
+    "name": "Chernobog",
+    "desc": "A cursed god of death, evil, and the night in Slavic lore. His name means \"Black God,\" and he is the counterpart of the \"White God,\" Belobog. Despite being feared, he was also worshipped.",
+    "strategy": "AAAAAA=="
+  },
+  {
+    "sn": "917092",
+    "name": "Cu Chulainn",
+    "desc": "A hero in Celtic folklore. He was called Setanta until he earned the name, \"Culann's Hound.\" There are many tales of his adventures. He received his spear, Gae Bolg, from his mentor, Scathach.",
+    "strategy": "AAAAAA=="
+  },
+  {
+    "sn": "917093",
+    "name": "Cu Chulainn",
+    "desc": "A hero in Celtic folklore. He was called Setanta until he earned the name, \"Culann's Hound.\" There are many tales of his adventures. He received his spear, Gae Bolg, from his mentor, Scathach.",
+    "strategy": "AAAAAA=="
+  },
+  {
+    "sn": "917101",
+    "name": "Dionysus",
+    "desc": "The Greek god of wine and theater. He was originally a god of life protecting the mountains of Thrace. He taught humans how to make wine.",
+    "strategy": "AAAAAA=="
+  },
+  {
+    "sn": "917102",
+    "name": "Baphomet",
+    "desc": "A goat-headed demon that is worshipped in Black Sabbaths. His name can be used as a catch-all term for demons in general. He would become an object of worship for witches.",
+    "strategy": "AAAAAA=="
+  },
+  {
+    "sn": "917103",
+    "name": "Baphomet",
+    "desc": "A goat-headed demon that is worshipped in Black Sabbaths. His name can be used as a catch-all term for demons in general. He would become an object of worship for witches.",
+    "strategy": "AAAAAA=="
+  },
+  {
+    "sn": "917111",
+    "name": "Yamata-no-Orochi",
+    "desc": "A giant snake with eight heads that Susano-o defeated to save Kushinada-hime. The legendary sword Ame-no-Murakumo-no-Tsurugi, also known as the \"Sword of Kusanagi,\" emerged from its belly.",
+    "strategy": "AAAAAA=="
+  },
+  {
+    "sn": "917121",
+    "name": "Surt",
+    "desc": "A fire giant in Norse lore. He rules the fire realm, Muspelheim, and brandishes a burning sword. At Ragnarok, he will set the world ablaze.",
+    "strategy": "AAAAAA=="
+  },
+  {
+    "sn": "917122",
+    "name": "Bugs",
+    "desc": "A Welsh creature commonly known as \"Bugbear\" or the \"Boogeyman.\" Its existence is often used by mothers to scare children into behaving.",
+    "strategy": "AAAAAA=="
+  },
+  {
+    "sn": "917123",
+    "name": "Bugs",
+    "desc": "A Welsh creature commonly known as \"Bugbear\" or the \"Boogeyman.\" Its existence is often used by mothers to scare children into behaving.",
+    "strategy": "AAAAAA=="
+  },
+  {
+    "sn": "917131",
+    "name": "Fafnir",
+    "desc": "An evil dragon of Norse lore, it was vanquished by the hero, Siegfried. According to the Völsunga saga, it was venomous, had legs like snakes, and shook the ground with every step.",
+    "strategy": "AAAAAA=="
+  },
+  {
+    "sn": "917501",
+    "name": "Monstrous Entity",
+    "desc": "AAAAAA==",
+    "strategy": "AAAAAA=="
+  },
+  {
+    "sn": "917502",
+    "name": "Monstrous Entity",
+    "desc": "AAAAAA==",
+    "strategy": "AAAAAA=="
+  },
+  {
+    "sn": "917503",
+    "name": "Calm Monstrous Entity",
+    "desc": "AAAAAA==",
+    "strategy": "AAAAAA=="
+  },
+  {
+    "sn": "917504",
+    "name": "Calm Monstrous Entity",
+    "desc": "AAAAAA==",
+    "strategy": "AAAAAA=="
+  },
+  {
+    "sn": "917505",
+    "name": "Enraged Monstrous Entity",
+    "desc": "AAAAAA==",
+    "strategy": "AAAAAA=="
+  },
+  {
+    "sn": "917506",
+    "name": "Enraged Monstrous Entity",
+    "desc": "AAAAAA==",
+    "strategy": "AAAAAA=="
+  },
+  {
+    "sn": "917311",
+    "name": "Bugs",
+    "desc": "A Welsh creature commonly known as \"Bugbear\" or the \"Boogeyman.\" Its existence is often used by mothers to scare children into behaving.",
+    "strategy": "AAAAAA=="
+  },
+  {
+    "sn": "917312",
+    "name": "Dakini",
+    "desc": "Hindu deities of passion and relations. They are Kali's attendants. They eat human flesh and gather at graveyards and crematories each night. Their name means \"sky dancer.\"",
+    "strategy": "AAAAAA=="
+  },
+  {
+    "sn": "917313",
+    "name": "Dakini",
+    "desc": "Hindu deities of passion and relations. They are Kali's attendants. They eat human flesh and gather at graveyards and crematories each night. Their name means \"sky dancer.\"",
+    "strategy": "AAAAAA=="
+  },
+  {
+    "sn": "917321",
+    "name": "Cerberus",
+    "desc": "The guardian hound who prevents anyone from entering or exiting the underworld in Greek lore. It was born from Typhon and Echidna, and is the older brother of Orthrus.",
+    "strategy": "AAAAAA=="
+  },
+  {
+    "sn": "917322",
+    "name": "Nebiros",
+    "desc": "The general of Hell. He keeps watch over other demons. One of Hell's greatest necromancers, he can control souls and corpses.",
+    "strategy": "AAAAAA=="
+  },
+  {
+    "sn": "917323",
+    "name": "Nebiros",
+    "desc": "The general of Hell. He keeps watch over other demons. One of Hell's greatest necromancers, he can control souls and corpses.",
+    "strategy": "AAAAAA=="
+  },
+  {
+    "sn": "917331",
+    "name": "Baphomet",
+    "desc": "A goat-headed demon that is worshipped in Black Sabbaths. His name can be used as a catch-all term for demons in general. He would become an object of worship for witches.",
+    "strategy": "AAAAAA=="
+  },
+  {
+    "sn": "917332",
+    "name": "Bugs",
+    "desc": "A Welsh creature commonly known as \"Bugbear\" or the \"Boogeyman.\" Its existence is often used by mothers to scare children into behaving.",
+    "strategy": "AAAAAA=="
+  },
+  {
+    "sn": "917333",
+    "name": "Bugs",
+    "desc": "A Welsh creature commonly known as \"Bugbear\" or the \"Boogeyman.\" Its existence is often used by mothers to scare children into behaving.",
+    "strategy": "AAAAAA=="
+  },
+  {
+    "sn": "917341",
+    "name": "Alilat",
+    "desc": "The Arabian mother goddess also known as Allat. She was thought to reside in the Black Stone at the Kaaba. She and her son, Dusura, were worshipped there by desert nomads.",
+    "strategy": "AAAAAA=="
+  },
+  {
+    "sn": "917342",
+    "name": "Mot",
+    "desc": "The Canaanite god of death. Every year he attempts to kill Baal, the god of fertility, only to see him raised from the dead with the help of Baal's sister, Anat.",
+    "strategy": "AAAAAA=="
+  },
+  {
+    "sn": "917343",
+    "name": "Mot",
+    "desc": "The Canaanite god of death. Every year he attempts to kill Baal, the god of fertility, only to see him raised from the dead with the help of Baal's sister, Anat.",
+    "strategy": "AAAAAA=="
+  },
+  {
+    "sn": "917511",
+    "name": "Nebiros",
+    "desc": "The general of Hell. He keeps watch over other demons. One of Hell's greatest necromancers, he can control souls and corpses.",
+    "strategy": "AAAAAA=="
+  },
+  {
+    "sn": "917512",
+    "name": "Nebiros",
+    "desc": "The general of Hell. He keeps watch over other demons. One of Hell's greatest necromancers, he can control souls and corpses.",
+    "strategy": "AAAAAA=="
+  },
+  {
+    "sn": "917513",
+    "name": "Dakini",
+    "desc": "Hindu deities of passion and relations. They are Kali's attendants. They eat human flesh and gather at graveyards and crematories each night. Their name means \"sky dancer.\"",
+    "strategy": "AAAAAA=="
+  },
+  {
+    "sn": "917514",
+    "name": "Dakini",
+    "desc": "Hindu deities of passion and relations. They are Kali's attendants. They eat human flesh and gather at graveyards and crematories each night. Their name means \"sky dancer.\"",
+    "strategy": "AAAAAA=="
+  },
+  {
+    "sn": "917521",
+    "name": "Dakini",
+    "desc": "Hindu deities of passion and relations. They are Kali's attendants. They eat human flesh and gather at graveyards and crematories each night. Their name means \"sky dancer.\"",
+    "strategy": "AAAAAA=="
+  },
+  {
+    "sn": "917522",
+    "name": "Dakini",
+    "desc": "Hindu deities of passion and relations. They are Kali's attendants. They eat human flesh and gather at graveyards and crematories each night. Their name means \"sky dancer.\"",
+    "strategy": "AAAAAA=="
+  },
+  {
+    "sn": "917523",
+    "name": "Baphomet",
+    "desc": "A goat-headed demon that is worshipped in Black Sabbaths. His name can be used as a catch-all term for demons in general. He would become an object of worship for witches.",
+    "strategy": "AAAAAA=="
+  },
+  {
+    "sn": "917524",
+    "name": "Baphomet",
+    "desc": "A goat-headed demon that is worshipped in Black Sabbaths. His name can be used as a catch-all term for demons in general. He would become an object of worship for witches.",
+    "strategy": "AAAAAA=="
+  },
+  {
+    "sn": "917531",
+    "name": "Baphomet",
+    "desc": "A goat-headed demon that is worshipped in Black Sabbaths. His name can be used as a catch-all term for demons in general. He would become an object of worship for witches.",
+    "strategy": "AAAAAA=="
+  },
+  {
+    "sn": "917532",
+    "name": "Baphomet",
+    "desc": "A goat-headed demon that is worshipped in Black Sabbaths. His name can be used as a catch-all term for demons in general. He would become an object of worship for witches.",
+    "strategy": "AAAAAA=="
+  },
+  {
+    "sn": "917533",
+    "name": "Nebiros",
+    "desc": "The general of Hell. He keeps watch over other demons. One of Hell's greatest necromancers, he can control souls and corpses.",
+    "strategy": "AAAAAA=="
+  },
+  {
+    "sn": "917534",
+    "name": "Nebiros",
+    "desc": "The general of Hell. He keeps watch over other demons. One of Hell's greatest necromancers, he can control souls and corpses.",
+    "strategy": "AAAAAA=="
+  },
+  {
+    "sn": "917541",
+    "name": "Bugs",
+    "desc": "A Welsh creature commonly known as \"Bugbear\" or the \"Boogeyman.\" Its existence is often used by mothers to scare children into behaving.",
+    "strategy": "AAAAAA=="
+  },
+  {
+    "sn": "917542",
+    "name": "Bugs",
+    "desc": "A Welsh creature commonly known as \"Bugbear\" or the \"Boogeyman.\" Its existence is often used by mothers to scare children into behaving.",
+    "strategy": "AAAAAA=="
+  },
+  {
+    "sn": "917543",
+    "name": "Nebiros",
+    "desc": "The general of Hell. He keeps watch over other demons. One of Hell's greatest necromancers, he can control souls and corpses.",
+    "strategy": "AAAAAA=="
+  },
+  {
+    "sn": "917544",
+    "name": "Nebiros",
+    "desc": "The general of Hell. He keeps watch over other demons. One of Hell's greatest necromancers, he can control souls and corpses.",
+    "strategy": "AAAAAA=="
+  },
+  {
+    "sn": "917551",
+    "name": "Baphomet",
+    "desc": "A goat-headed demon that is worshipped in Black Sabbaths. His name can be used as a catch-all term for demons in general. He would become an object of worship for witches.",
+    "strategy": "AAAAAA=="
+  },
+  {
+    "sn": "917552",
+    "name": "Baphomet",
+    "desc": "A goat-headed demon that is worshipped in Black Sabbaths. His name can be used as a catch-all term for demons in general. He would become an object of worship for witches.",
+    "strategy": "AAAAAA=="
+  },
+  {
+    "sn": "917553",
+    "name": "Bugs",
+    "desc": "A Welsh creature commonly known as \"Bugbear\" or the \"Boogeyman.\" Its existence is often used by mothers to scare children into behaving.",
+    "strategy": "AAAAAA=="
+  },
+  {
+    "sn": "917554",
+    "name": "Bugs",
+    "desc": "A Welsh creature commonly known as \"Bugbear\" or the \"Boogeyman.\" Its existence is often used by mothers to scare children into behaving.",
+    "strategy": "AAAAAA=="
+  },
+  {
+    "sn": "917561",
+    "name": "Cu Chulainn",
+    "desc": "A hero in Celtic folklore. He was called Setanta until he earned the name, \"Culann's Hound.\" There are many tales of his adventures. He received his spear, Gae Bolg, from his mentor, Scathach.",
+    "strategy": "AAAAAA=="
+  },
+  {
+    "sn": "917562",
+    "name": "Cu Chulainn",
+    "desc": "A hero in Celtic folklore. He was called Setanta until he earned the name, \"Culann's Hound.\" There are many tales of his adventures. He received his spear, Gae Bolg, from his mentor, Scathach.",
+    "strategy": "AAAAAA=="
+  },
+  {
+    "sn": "917563",
+    "name": "Chernobog",
+    "desc": "A cursed god of death, evil, and the night in Slavic lore. His name means \"Black God,\" and he is the counterpart of the \"White God,\" Belobog. Despite being feared, he was also worshipped.",
+    "strategy": "AAAAAA=="
+  },
+  {
+    "sn": "917564",
+    "name": "Chernobog",
+    "desc": "A cursed god of death, evil, and the night in Slavic lore. His name means \"Black God,\" and he is the counterpart of the \"White God,\" Belobog. Despite being feared, he was also worshipped.",
+    "strategy": "AAAAAA=="
+  },
+  {
+    "sn": "917571",
+    "name": "Baphomet",
+    "desc": "A goat-headed demon that is worshipped in Black Sabbaths. His name can be used as a catch-all term for demons in general. He would become an object of worship for witches.",
+    "strategy": "AAAAAA=="
+  },
+  {
+    "sn": "917572",
+    "name": "Baphomet",
+    "desc": "A goat-headed demon that is worshipped in Black Sabbaths. His name can be used as a catch-all term for demons in general. He would become an object of worship for witches.",
+    "strategy": "AAAAAA=="
+  },
+  {
+    "sn": "917573",
+    "name": "Cerberus",
+    "desc": "The guardian hound who prevents anyone from entering or exiting the underworld in Greek lore. It was born from Typhon and Echidna, and is the older brother of Orthrus.",
+    "strategy": "AAAAAA=="
+  },
+  {
+    "sn": "917574",
+    "name": "Cerberus",
+    "desc": "The guardian hound who prevents anyone from entering or exiting the underworld in Greek lore. It was born from Typhon and Echidna, and is the older brother of Orthrus.",
+    "strategy": "AAAAAA=="
+  },
+  {
+    "sn": "917581",
+    "name": "Mot",
+    "desc": "The Canaanite god of death. Every year he attempts to kill Baal, the god of fertility, only to see him raised from the dead with the help of Baal's sister, Anat.",
+    "strategy": "AAAAAA=="
+  },
+  {
+    "sn": "917582",
+    "name": "Mot",
+    "desc": "The Canaanite god of death. Every year he attempts to kill Baal, the god of fertility, only to see him raised from the dead with the help of Baal's sister, Anat.",
+    "strategy": "AAAAAA=="
+  },
+  {
+    "sn": "917583",
+    "name": "Mot",
+    "desc": "The Canaanite god of death. Every year he attempts to kill Baal, the god of fertility, only to see him raised from the dead with the help of Baal's sister, Anat.",
+    "strategy": "AAAAAA=="
+  },
+  {
+    "sn": "917584",
+    "name": "Mot",
+    "desc": "The Canaanite god of death. Every year he attempts to kill Baal, the god of fertility, only to see him raised from the dead with the help of Baal's sister, Anat.",
+    "strategy": "AAAAAA=="
+  },
+  {
+    "sn": "917591",
+    "name": "Cerberus",
+    "desc": "The guardian hound who prevents anyone from entering or exiting the underworld in Greek lore. It was born from Typhon and Echidna, and is the older brother of Orthrus.",
+    "strategy": "AAAAAA=="
+  },
+  {
+    "sn": "917592",
+    "name": "Cerberus",
+    "desc": "The guardian hound who prevents anyone from entering or exiting the underworld in Greek lore. It was born from Typhon and Echidna, and is the older brother of Orthrus.",
+    "strategy": "AAAAAA=="
+  },
+  {
+    "sn": "917593",
+    "name": "Cerberus",
+    "desc": "The guardian hound who prevents anyone from entering or exiting the underworld in Greek lore. It was born from Typhon and Echidna, and is the older brother of Orthrus.",
+    "strategy": "AAAAAA=="
+  },
+  {
+    "sn": "917594",
+    "name": "Cerberus",
+    "desc": "The guardian hound who prevents anyone from entering or exiting the underworld in Greek lore. It was born from Typhon and Echidna, and is the older brother of Orthrus.",
+    "strategy": "AAAAAA=="
+  },
+  {
+    "sn": "917601",
+    "name": "Bugs",
+    "desc": "A Welsh creature commonly known as \"Bugbear\" or the \"Boogeyman.\" Its existence is often used by mothers to scare children into behaving.",
+    "strategy": "AAAAAA=="
+  },
+  {
+    "sn": "917602",
+    "name": "Bugs",
+    "desc": "A Welsh creature commonly known as \"Bugbear\" or the \"Boogeyman.\" Its existence is often used by mothers to scare children into behaving.",
+    "strategy": "AAAAAA=="
+  },
+  {
+    "sn": "917603",
+    "name": "Bugs",
+    "desc": "A Welsh creature commonly known as \"Bugbear\" or the \"Boogeyman.\" Its existence is often used by mothers to scare children into behaving.",
+    "strategy": "AAAAAA=="
+  },
+  {
+    "sn": "917604",
+    "name": "Bugs",
+    "desc": "A Welsh creature commonly known as \"Bugbear\" or the \"Boogeyman.\" Its existence is often used by mothers to scare children into behaving.",
+    "strategy": "AAAAAA=="
+  },
+  {
+    "sn": "917611",
+    "name": "Dakini",
+    "desc": "Hindu deities of passion and relations. They are Kali's attendants. They eat human flesh and gather at graveyards and crematories each night. Their name means \"sky dancer.\"",
+    "strategy": "AAAAAA=="
+  },
+  {
+    "sn": "917612",
+    "name": "Dakini",
+    "desc": "Hindu deities of passion and relations. They are Kali's attendants. They eat human flesh and gather at graveyards and crematories each night. Their name means \"sky dancer.\"",
+    "strategy": "AAAAAA=="
+  },
+  {
+    "sn": "917613",
+    "name": "Dakini",
+    "desc": "Hindu deities of passion and relations. They are Kali's attendants. They eat human flesh and gather at graveyards and crematories each night. Their name means \"sky dancer.\"",
+    "strategy": "AAAAAA=="
+  },
+  {
+    "sn": "917614",
+    "name": "Dakini",
+    "desc": "Hindu deities of passion and relations. They are Kali's attendants. They eat human flesh and gather at graveyards and crematories each night. Their name means \"sky dancer.\"",
+    "strategy": "AAAAAA=="
+  },
+  {
+    "sn": "917621",
+    "name": "Cerberus",
+    "desc": "The guardian hound who prevents anyone from entering or exiting the underworld in Greek lore. It was born from Typhon and Echidna, and is the older brother of Orthrus.",
+    "strategy": "AAAAAA=="
+  },
+  {
+    "sn": "917622",
+    "name": "Cerberus",
+    "desc": "The guardian hound who prevents anyone from entering or exiting the underworld in Greek lore. It was born from Typhon and Echidna, and is the older brother of Orthrus.",
+    "strategy": "AAAAAA=="
+  },
+  {
+    "sn": "917623",
+    "name": "Kali",
+    "desc": "A goddess of death and destruction. She is said to be another face of Parvati. She is violent, wears a string of skulls, and carries bloody weapons, but she also blesses her followers.",
+    "strategy": "AAAAAA=="
+  },
+  {
+    "sn": "917624",
+    "name": "Kali",
+    "desc": "A goddess of death and destruction. She is said to be another face of Parvati. She is violent, wears a string of skulls, and carries bloody weapons, but she also blesses her followers.",
+    "strategy": "AAAAAA=="
+  },
+  {
+    "sn": "917631",
+    "name": "Kali",
+    "desc": "A goddess of death and destruction. She is said to be another face of Parvati. She is violent, wears a string of skulls, and carries bloody weapons, but she also blesses her followers.",
+    "strategy": "AAAAAA=="
+  },
+  {
+    "sn": "917632",
+    "name": "Kali",
+    "desc": "A goddess of death and destruction. She is said to be another face of Parvati. She is violent, wears a string of skulls, and carries bloody weapons, but she also blesses her followers.",
+    "strategy": "AAAAAA=="
+  },
+  {
+    "sn": "917633",
+    "name": "Nebiros",
+    "desc": "The general of Hell. He keeps watch over other demons. One of Hell's greatest necromancers, he can control souls and corpses.",
+    "strategy": "AAAAAA=="
+  },
+  {
+    "sn": "917634",
+    "name": "Nebiros",
+    "desc": "The general of Hell. He keeps watch over other demons. One of Hell's greatest necromancers, he can control souls and corpses.",
+    "strategy": "AAAAAA=="
+  },
+  {
+    "sn": "917641",
+    "name": "Chernobog",
+    "desc": "A cursed god of death, evil, and the night in Slavic lore. His name means \"Black God,\" and he is the counterpart of the \"White God,\" Belobog. Despite being feared, he was also worshipped.",
+    "strategy": "AAAAAA=="
+  },
+  {
+    "sn": "917642",
+    "name": "Chernobog",
+    "desc": "A cursed god of death, evil, and the night in Slavic lore. His name means \"Black God,\" and he is the counterpart of the \"White God,\" Belobog. Despite being feared, he was also worshipped.",
+    "strategy": "AAAAAA=="
+  },
+  {
+    "sn": "917643",
+    "name": "Kali",
+    "desc": "A goddess of death and destruction. She is said to be another face of Parvati. She is violent, wears a string of skulls, and carries bloody weapons, but she also blesses her followers.",
+    "strategy": "AAAAAA=="
+  },
+  {
+    "sn": "917644",
+    "name": "Kali",
+    "desc": "A goddess of death and destruction. She is said to be another face of Parvati. She is violent, wears a string of skulls, and carries bloody weapons, but she also blesses her followers.",
+    "strategy": "AAAAAA=="
+  },
+  {
+    "sn": "917651",
+    "name": "Baphomet",
+    "desc": "A goat-headed demon that is worshipped in Black Sabbaths. His name can be used as a catch-all term for demons in general. He would become an object of worship for witches.",
+    "strategy": "AAAAAA=="
+  },
+  {
+    "sn": "917652",
+    "name": "Baphomet",
+    "desc": "A goat-headed demon that is worshipped in Black Sabbaths. His name can be used as a catch-all term for demons in general. He would become an object of worship for witches.",
+    "strategy": "AAAAAA=="
+  },
+  {
+    "sn": "917653",
+    "name": "Baphomet",
+    "desc": "A goat-headed demon that is worshipped in Black Sabbaths. His name can be used as a catch-all term for demons in general. He would become an object of worship for witches.",
+    "strategy": "AAAAAA=="
+  },
+  {
+    "sn": "917654",
+    "name": "Baphomet",
+    "desc": "A goat-headed demon that is worshipped in Black Sabbaths. His name can be used as a catch-all term for demons in general. He would become an object of worship for witches.",
+    "strategy": "AAAAAA=="
+  },
+  {
+    "sn": "917661",
+    "name": "Cu Chulainn",
+    "desc": "A hero in Celtic folklore. He was called Setanta until he earned the name, \"Culann's Hound.\" There are many tales of his adventures. He received his spear, Gae Bolg, from his mentor, Scathach.",
+    "strategy": "AAAAAA=="
+  },
+  {
+    "sn": "917662",
+    "name": "Cu Chulainn",
+    "desc": "A hero in Celtic folklore. He was called Setanta until he earned the name, \"Culann's Hound.\" There are many tales of his adventures. He received his spear, Gae Bolg, from his mentor, Scathach.",
+    "strategy": "AAAAAA=="
+  },
+  {
+    "sn": "917663",
+    "name": "Nebiros",
+    "desc": "The general of Hell. He keeps watch over other demons. One of Hell's greatest necromancers, he can control souls and corpses.",
+    "strategy": "AAAAAA=="
+  },
+  {
+    "sn": "917664",
+    "name": "Nebiros",
+    "desc": "The general of Hell. He keeps watch over other demons. One of Hell's greatest necromancers, he can control souls and corpses.",
+    "strategy": "AAAAAA=="
+  },
+  {
+    "sn": "917671",
+    "name": "Alilat",
+    "desc": "The Arabian mother goddess also known as Allat. She was thought to reside in the Black Stone at the Kaaba. She and her son, Dusura, were worshipped there by desert nomads.",
+    "strategy": "AAAAAA=="
+  },
+  {
+    "sn": "917672",
+    "name": "Alilat",
+    "desc": "The Arabian mother goddess also known as Allat. She was thought to reside in the Black Stone at the Kaaba. She and her son, Dusura, were worshipped there by desert nomads.",
+    "strategy": "AAAAAA=="
+  },
+  {
+    "sn": "917673",
+    "name": "Kali",
+    "desc": "A goddess of death and destruction. She is said to be another face of Parvati. She is violent, wears a string of skulls, and carries bloody weapons, but she also blesses her followers.",
+    "strategy": "AAAAAA=="
+  },
+  {
+    "sn": "917674",
+    "name": "Kali",
+    "desc": "A goddess of death and destruction. She is said to be another face of Parvati. She is violent, wears a string of skulls, and carries bloody weapons, but she also blesses her followers.",
+    "strategy": "AAAAAA=="
+  },
+  {
+    "sn": "917681",
+    "name": "Kali",
+    "desc": "A goddess of death and destruction. She is said to be another face of Parvati. She is violent, wears a string of skulls, and carries bloody weapons, but she also blesses her followers.",
+    "strategy": "AAAAAA=="
+  },
+  {
+    "sn": "917682",
+    "name": "Kali",
+    "desc": "A goddess of death and destruction. She is said to be another face of Parvati. She is violent, wears a string of skulls, and carries bloody weapons, but she also blesses her followers.",
+    "strategy": "AAAAAA=="
+  },
+  {
+    "sn": "917683",
+    "name": "Dakini",
+    "desc": "Hindu deities of passion and relations. They are Kali's attendants. They eat human flesh and gather at graveyards and crematories each night. Their name means \"sky dancer.\"",
+    "strategy": "AAAAAA=="
+  },
+  {
+    "sn": "917684",
+    "name": "Dakini",
+    "desc": "Hindu deities of passion and relations. They are Kali's attendants. They eat human flesh and gather at graveyards and crematories each night. Their name means \"sky dancer.\"",
+    "strategy": "AAAAAA=="
+  },
+  {
+    "sn": "917691",
+    "name": "Mot",
+    "desc": "The Canaanite god of death. Every year he attempts to kill Baal, the god of fertility, only to see him raised from the dead with the help of Baal's sister, Anat.",
+    "strategy": "AAAAAA=="
+  },
+  {
+    "sn": "917692",
+    "name": "Mot",
+    "desc": "The Canaanite god of death. Every year he attempts to kill Baal, the god of fertility, only to see him raised from the dead with the help of Baal's sister, Anat.",
+    "strategy": "AAAAAA=="
+  },
+  {
+    "sn": "917693",
+    "name": "Mot",
+    "desc": "The Canaanite god of death. Every year he attempts to kill Baal, the god of fertility, only to see him raised from the dead with the help of Baal's sister, Anat.",
+    "strategy": "AAAAAA=="
+  },
+  {
+    "sn": "917694",
+    "name": "Mot",
+    "desc": "The Canaanite god of death. Every year he attempts to kill Baal, the god of fertility, only to see him raised from the dead with the help of Baal's sister, Anat.",
+    "strategy": "AAAAAA=="
+  },
+  {
+    "sn": "917701",
+    "name": "Cu Chulainn",
+    "desc": "A hero in Celtic folklore. He was called Setanta until he earned the name, \"Culann's Hound.\" There are many tales of his adventures. He received his spear, Gae Bolg, from his mentor, Scathach.",
+    "strategy": "AAAAAA=="
+  },
+  {
+    "sn": "917702",
+    "name": "Cu Chulainn",
+    "desc": "A hero in Celtic folklore. He was called Setanta until he earned the name, \"Culann's Hound.\" There are many tales of his adventures. He received his spear, Gae Bolg, from his mentor, Scathach.",
+    "strategy": "AAAAAA=="
+  },
+  {
+    "sn": "917703",
+    "name": "Baphomet",
+    "desc": "A goat-headed demon that is worshipped in Black Sabbaths. His name can be used as a catch-all term for demons in general. He would become an object of worship for witches.",
+    "strategy": "AAAAAA=="
+  },
+  {
+    "sn": "917704",
+    "name": "Baphomet",
+    "desc": "A goat-headed demon that is worshipped in Black Sabbaths. His name can be used as a catch-all term for demons in general. He would become an object of worship for witches.",
+    "strategy": "AAAAAA=="
+  },
+  {
+    "sn": "917711",
+    "name": "Alilat",
+    "desc": "The Arabian mother goddess also known as Allat. She was thought to reside in the Black Stone at the Kaaba. She and her son, Dusura, were worshipped there by desert nomads.",
+    "strategy": "AAAAAA=="
+  },
+  {
+    "sn": "917712",
+    "name": "Alilat",
+    "desc": "The Arabian mother goddess also known as Allat. She was thought to reside in the Black Stone at the Kaaba. She and her son, Dusura, were worshipped there by desert nomads.",
+    "strategy": "AAAAAA=="
+  },
+  {
+    "sn": "917713",
+    "name": "Mot",
+    "desc": "The Canaanite god of death. Every year he attempts to kill Baal, the god of fertility, only to see him raised from the dead with the help of Baal's sister, Anat.",
+    "strategy": "AAAAAA=="
+  },
+  {
+    "sn": "917714",
+    "name": "Mot",
+    "desc": "The Canaanite god of death. Every year he attempts to kill Baal, the god of fertility, only to see him raised from the dead with the help of Baal's sister, Anat.",
+    "strategy": "AAAAAA=="
+  },
+  {
+    "sn": "917721",
+    "name": "Chernobog",
+    "desc": "A cursed god of death, evil, and the night in Slavic lore. His name means \"Black God,\" and he is the counterpart of the \"White God,\" Belobog. Despite being feared, he was also worshipped.",
+    "strategy": "AAAAAA=="
+  },
+  {
+    "sn": "917722",
+    "name": "Chernobog",
+    "desc": "A cursed god of death, evil, and the night in Slavic lore. His name means \"Black God,\" and he is the counterpart of the \"White God,\" Belobog. Despite being feared, he was also worshipped.",
+    "strategy": "AAAAAA=="
+  },
+  {
+    "sn": "917723",
+    "name": "Baal",
+    "desc": "The chief Semitic god who governs over fertility. He is the god of Canaan and brother and consort to the goddess Anat, who saved him from Mot.",
+    "strategy": "AAAAAA=="
+  },
+  {
+    "sn": "917724",
+    "name": "Baal",
+    "desc": "The chief Semitic god who governs over fertility. He is the god of Canaan and brother and consort to the goddess Anat, who saved him from Mot.",
+    "strategy": "AAAAAA=="
+  },
+  {
+    "sn": "917731",
+    "name": "Dionysus",
+    "desc": "The Greek god of wine and theater. He was originally a god of life protecting the mountains of Thrace. He taught humans how to make wine.",
+    "strategy": "AAAAAA=="
+  },
+  {
+    "sn": "917732",
+    "name": "Dionysus",
+    "desc": "The Greek god of wine and theater. He was originally a god of life protecting the mountains of Thrace. He taught humans how to make wine.",
+    "strategy": "AAAAAA=="
+  },
+  {
+    "sn": "917733",
+    "name": "Cu Chulainn",
+    "desc": "A hero in Celtic folklore. He was called Setanta until he earned the name, \"Culann's Hound.\" There are many tales of his adventures. He received his spear, Gae Bolg, from his mentor, Scathach.",
+    "strategy": "AAAAAA=="
+  },
+  {
+    "sn": "917734",
+    "name": "Cu Chulainn",
+    "desc": "A hero in Celtic folklore. He was called Setanta until he earned the name, \"Culann's Hound.\" There are many tales of his adventures. He received his spear, Gae Bolg, from his mentor, Scathach.",
+    "strategy": "AAAAAA=="
+  },
+  {
+    "sn": "917741",
+    "name": "Baal",
+    "desc": "The chief Semitic god who governs over fertility. He is the god of Canaan and brother and consort to the goddess Anat, who saved him from Mot.",
+    "strategy": "AAAAAA=="
+  },
+  {
+    "sn": "917742",
+    "name": "Baal",
+    "desc": "The chief Semitic god who governs over fertility. He is the god of Canaan and brother and consort to the goddess Anat, who saved him from Mot.",
+    "strategy": "AAAAAA=="
+  },
+  {
+    "sn": "917743",
+    "name": "Kali",
+    "desc": "A goddess of death and destruction. She is said to be another face of Parvati. She is violent, wears a string of skulls, and carries bloody weapons, but she also blesses her followers.",
+    "strategy": "AAAAAA=="
+  },
+  {
+    "sn": "917744",
+    "name": "Kali",
+    "desc": "A goddess of death and destruction. She is said to be another face of Parvati. She is violent, wears a string of skulls, and carries bloody weapons, but she also blesses her followers.",
+    "strategy": "AAAAAA=="
+  },
+  {
+    "sn": "917751",
+    "name": "Dionysus",
+    "desc": "The Greek god of wine and theater. He was originally a god of life protecting the mountains of Thrace. He taught humans how to make wine.",
+    "strategy": "AAAAAA=="
+  },
+  {
+    "sn": "917752",
+    "name": "Dionysus",
+    "desc": "The Greek god of wine and theater. He was originally a god of life protecting the mountains of Thrace. He taught humans how to make wine.",
+    "strategy": "AAAAAA=="
+  },
+  {
+    "sn": "917753",
+    "name": "Baal",
+    "desc": "The chief Semitic god who governs over fertility. He is the god of Canaan and brother and consort to the goddess Anat, who saved him from Mot.",
+    "strategy": "AAAAAA=="
+  },
+  {
+    "sn": "917754",
+    "name": "Baal",
+    "desc": "The chief Semitic god who governs over fertility. He is the god of Canaan and brother and consort to the goddess Anat, who saved him from Mot.",
+    "strategy": "AAAAAA=="
+  },
+  {
+    "sn": "917761",
+    "name": "Yamata-no-Orochi",
+    "desc": "A giant snake with eight heads that Susano-o defeated to save Kushinada-hime. The legendary sword Ame-no-Murakumo-no-Tsurugi, also known as the \"Sword of Kusanagi,\" emerged from its belly.",
+    "strategy": "AAAAAA=="
+  },
+  {
+    "sn": "917762",
+    "name": "Yamata-no-Orochi",
+    "desc": "A giant snake with eight heads that Susano-o defeated to save Kushinada-hime. The legendary sword Ame-no-Murakumo-no-Tsurugi, also known as the \"Sword of Kusanagi,\" emerged from its belly.",
+    "strategy": "AAAAAA=="
+  },
+  {
+    "sn": "917763",
+    "name": "Chernobog",
+    "desc": "A cursed god of death, evil, and the night in Slavic lore. His name means \"Black God,\" and he is the counterpart of the \"White God,\" Belobog. Despite being feared, he was also worshipped.",
+    "strategy": "AAAAAA=="
+  },
+  {
+    "sn": "917764",
+    "name": "Chernobog",
+    "desc": "A cursed god of death, evil, and the night in Slavic lore. His name means \"Black God,\" and he is the counterpart of the \"White God,\" Belobog. Despite being feared, he was also worshipped.",
+    "strategy": "AAAAAA=="
+  },
+  {
+    "sn": "917771",
+    "name": "Surt",
+    "desc": "A fire giant in Norse lore. He rules the fire realm, Muspelheim, and brandishes a burning sword. At Ragnarok, he will set the world ablaze.",
+    "strategy": "AAAAAA=="
+  },
+  {
+    "sn": "917772",
+    "name": "Surt",
+    "desc": "A fire giant in Norse lore. He rules the fire realm, Muspelheim, and brandishes a burning sword. At Ragnarok, he will set the world ablaze.",
+    "strategy": "AAAAAA=="
+  },
+  {
+    "sn": "917773",
+    "name": "Cerberus",
+    "desc": "The guardian hound who prevents anyone from entering or exiting the underworld in Greek lore. It was born from Typhon and Echidna, and is the older brother of Orthrus.",
+    "strategy": "AAAAAA=="
+  },
+  {
+    "sn": "917774",
+    "name": "Cerberus",
+    "desc": "The guardian hound who prevents anyone from entering or exiting the underworld in Greek lore. It was born from Typhon and Echidna, and is the older brother of Orthrus.",
+    "strategy": "AAAAAA=="
+  },
+  {
+    "sn": "917911",
+    "name": "Monstrous Entity",
+    "desc": "AAAAAA==",
+    "strategy": "AAAAAA=="
+  },
+  {
+    "sn": "917912",
+    "name": "Monstrous Entity",
+    "desc": "AAAAAA==",
+    "strategy": "AAAAAA=="
+  },
+  {
+    "sn": "917913",
+    "name": "Calm Monstrous Entity",
+    "desc": "AAAAAA==",
+    "strategy": "AAAAAA=="
+  },
+  {
+    "sn": "917914",
+    "name": "Calm Monstrous Entity",
+    "desc": "AAAAAA==",
+    "strategy": "AAAAAA=="
+  },
+  {
+    "sn": "917915",
+    "name": "Enraged Monstrous Entity",
+    "desc": "AAAAAA==",
+    "strategy": "AAAAAA=="
+  },
+  {
+    "sn": "917916",
+    "name": "Enraged Monstrous Entity",
+    "desc": "AAAAAA==",
+    "strategy": "AAAAAA=="
+  },
+  {
+    "sn": "917921",
+    "name": "Monstrous Entity",
+    "desc": "AAAAAA==",
+    "strategy": "AAAAAA=="
+  },
+  {
+    "sn": "917922",
+    "name": "Monstrous Entity",
+    "desc": "AAAAAA==",
+    "strategy": "AAAAAA=="
+  },
+  {
+    "sn": "917923",
+    "name": "Calm Monstrous Entity",
+    "desc": "AAAAAA==",
+    "strategy": "AAAAAA=="
+  },
+  {
+    "sn": "917924",
+    "name": "Calm Monstrous Entity",
+    "desc": "AAAAAA==",
+    "strategy": "AAAAAA=="
+  },
+  {
+    "sn": "917925",
+    "name": "Enraged Monstrous Entity",
+    "desc": "AAAAAA==",
+    "strategy": "AAAAAA=="
+  },
+  {
+    "sn": "917926",
+    "name": "Enraged Monstrous Entity",
+    "desc": "AAAAAA==",
+    "strategy": "AAAAAA=="
+  },
+  {
+    "sn": "917931",
+    "name": "Monstrous Entity",
+    "desc": "AAAAAA==",
+    "strategy": "AAAAAA=="
+  },
+  {
+    "sn": "917932",
+    "name": "Monstrous Entity",
+    "desc": "AAAAAA==",
+    "strategy": "AAAAAA=="
+  },
+  {
+    "sn": "917933",
+    "name": "Calm Monstrous Entity",
+    "desc": "AAAAAA==",
+    "strategy": "AAAAAA=="
+  },
+  {
+    "sn": "917934",
+    "name": "Calm Monstrous Entity",
+    "desc": "AAAAAA==",
+    "strategy": "AAAAAA=="
+  },
+  {
+    "sn": "917935",
+    "name": "Enraged Monstrous Entity",
+    "desc": "AAAAAA==",
+    "strategy": "AAAAAA=="
+  },
+  {
+    "sn": "917936",
+    "name": "Enraged Monstrous Entity",
+    "desc": "AAAAAA==",
+    "strategy": "AAAAAA=="
+  },
+  {
+    "sn": "917941",
+    "name": "Monstrous Entity",
+    "desc": "AAAAAA==",
+    "strategy": "AAAAAA=="
+  },
+  {
+    "sn": "917942",
+    "name": "Monstrous Entity",
+    "desc": "AAAAAA==",
+    "strategy": "AAAAAA=="
+  },
+  {
+    "sn": "917943",
+    "name": "Calm Monstrous Entity",
+    "desc": "AAAAAA==",
+    "strategy": "AAAAAA=="
+  },
+  {
+    "sn": "917944",
+    "name": "Calm Monstrous Entity",
+    "desc": "AAAAAA==",
+    "strategy": "AAAAAA=="
+  },
+  {
+    "sn": "917945",
+    "name": "Enraged Monstrous Entity",
+    "desc": "AAAAAA==",
+    "strategy": "AAAAAA=="
+  },
+  {
+    "sn": "917946",
+    "name": "Enraged Monstrous Entity",
+    "desc": "AAAAAA==",
+    "strategy": "AAAAAA=="
+  },
+  {
+    "sn": "917951",
+    "name": "Monstrous Entity",
+    "desc": "AAAAAA==",
+    "strategy": "AAAAAA=="
+  },
+  {
+    "sn": "917952",
+    "name": "Monstrous Entity",
+    "desc": "AAAAAA==",
+    "strategy": "AAAAAA=="
+  },
+  {
+    "sn": "917953",
+    "name": "Calm Monstrous Entity",
+    "desc": "AAAAAA==",
+    "strategy": "AAAAAA=="
+  },
+  {
+    "sn": "917954",
+    "name": "Calm Monstrous Entity",
+    "desc": "AAAAAA==",
+    "strategy": "AAAAAA=="
+  },
+  {
+    "sn": "917955",
+    "name": "Enraged Monstrous Entity",
+    "desc": "AAAAAA==",
+    "strategy": "AAAAAA=="
+  },
+  {
+    "sn": "917956",
+    "name": "Enraged Monstrous Entity",
+    "desc": "AAAAAA==",
+    "strategy": "AAAAAA=="
+  },
+  {
+    "sn": "917961",
+    "name": "Monstrous Entity",
+    "desc": "AAAAAA==",
+    "strategy": "AAAAAA=="
+  },
+  {
+    "sn": "917962",
+    "name": "Monstrous Entity",
+    "desc": "AAAAAA==",
+    "strategy": "AAAAAA=="
+  },
+  {
+    "sn": "917963",
+    "name": "Calm Monstrous Entity",
+    "desc": "AAAAAA==",
+    "strategy": "AAAAAA=="
+  },
+  {
+    "sn": "917964",
+    "name": "Calm Monstrous Entity",
+    "desc": "AAAAAA==",
+    "strategy": "AAAAAA=="
+  },
+  {
+    "sn": "917965",
+    "name": "Enraged Monstrous Entity",
+    "desc": "AAAAAA==",
+    "strategy": "AAAAAA=="
+  },
+  {
+    "sn": "917966",
+    "name": "Enraged Monstrous Entity",
+    "desc": "AAAAAA==",
+    "strategy": "AAAAAA=="
+  },
+  {
     "sn": "902311",
     "name": "Ganesha",
     "desc": "The Hindu elephant-headed god. He was originally created by Parvati in order to prevent anyone from watching her bathe. Shiva batted off his original head and replaced it with an elephant's head.",
@@ -2739,6 +4005,54 @@
     "sn": "902395",
     "name": "Kali",
     "desc": "A goddess of death and destruction. She is said to be another face of Parvati. She is violent, wears a string of skulls, and carries bloody weapons, but she also blesses her followers.",
+    "strategy": "AAAAAA=="
+  },
+  {
+    "sn": "902211",
+    "name": "Michael",
+    "desc": "One of the four major archangels, he is at the top of the angelic hierarchy. He carries a long spear that can cut through anything, and his name means \"one who is like God.\"",
+    "strategy": "1. At the start of battle, Michael summons 3 Shadows. Each Shadow has their own unique skill.\nMichael's Stronghold: Grant all Shadows a shield and decrease final damage taken by 5% for 2 turns.\nGabriel's Annunciation: Increase all Phantom Thieves' final damage taken by 5% for 1 turn. Also, 40% chance to inflict Forget on the Phantom Thief with the highest Attack for 2 turns.\nRaphael's Healing: Restore all Shadows HP, and increase final damage dealt by 5% for 1 turn.\nUriel's Judgement: Deal Almighty damage to all Phantom Thieves, ignoring their defense. Increase damage by 5% on Phantom Thieves with elemental ailments.\n2. At the start of battle, Michael uses Michael's Stronghold.\n3. When all the Shadows have been defeated in the first phase, the battle will proceed to the second phase, and 4 Shadows in the Soul Link state will be summoned.\n4. Each time a certain number of turns pass, each Shadow will start preparing their unique skills, and activate them on the following turn. If a Shadow is downed while preparing, their skill will be interrupted. During the second phase, if a Shadow's skill is interrupted, they will start preparing on the next turn, and cannot be downed.\n5. During the first phase, when a Shadow is defeated for the first time, the Phantom Thief that defeated them will gain that Shadow's unique skill, as well as an Abnormality buff. The first two Shadows defeated during the first phase will gain an additional Down Point during the second phase."
+  },
+  {
+    "sn": "902212",
+    "name": "Gabriel",
+    "desc": "One of the four major archangels. She is also the only female angel at this rank. Her name comes from the Sumerian word for \"governor.\" She is the angel who told Mary of her pregnancy.",
+    "strategy": "AAAAAA=="
+  },
+  {
+    "sn": "902213",
+    "name": "Raphael",
+    "desc": "One of the four major archangels, his name means \"healer.\" He recites the history of the fallen angels and the creation of Adam and Eve.",
+    "strategy": "AAAAAA=="
+  },
+  {
+    "sn": "902214",
+    "name": "Uriel",
+    "desc": "One of the four major archangels. His name means \"Flame of God,\" and he knows all the celestial phenomena. He is the first angel Satan met on earth.",
+    "strategy": "AAAAAA=="
+  },
+  {
+    "sn": "902215",
+    "name": "Michael",
+    "desc": "One of the four major archangels, he is at the top of the angelic hierarchy. He carries a long spear that can cut through anything, and his name means \"one who is like God.\"",
+    "strategy": "1. At the start of battle, Michael summons 3 Shadows. Each Shadow has their own unique skill.\nMichael's Stronghold: Grant all Shadows a shield and decrease final damage taken by 5% for 2 turns.\nGabriel's Annunciation: Increase all Phantom Thieves' final damage taken by 5% for 1 turn. Also, 40% chance to inflict Forget on the Phantom Thief with the highest Attack for 2 turns.\nRaphael's Healing: Restore all Shadows HP, and increase final damage dealt by 5% for 1 turn.\nUriel's Judgement: Deal Almighty damage to all Phantom Thieves, ignoring their defense. Increase damage by 5% on Phantom Thieves with elemental ailments.\n2. At the start of battle, Michael uses Michael's Stronghold.\n3. When all the Shadows have been defeated in the first phase, the battle will proceed to the second phase, and 4 Shadows in the Soul Link state will be summoned.\n4. Each time a certain number of turns pass, each Shadow will start preparing their unique skills, and activate them on the following turn. If a Shadow is downed while preparing, their skill will be interrupted. During the second phase, if a Shadow's skill is interrupted, they will start preparing on the next turn, and cannot be downed.\n5. During the first phase, when a Shadow is defeated for the first time, the Phantom Thief that defeated them will gain that Shadow's unique skill, as well as an Abnormality buff. The first two Shadows defeated during the first phase will gain an additional Down Point during the second phase."
+  },
+  {
+    "sn": "902216",
+    "name": "Gabriel",
+    "desc": "One of the four major archangels. She is also the only female angel at this rank. Her name comes from the Sumerian word for \"governor.\" She is the angel who told Mary of her pregnancy.",
+    "strategy": "AAAAAA=="
+  },
+  {
+    "sn": "902217",
+    "name": "Raphael",
+    "desc": "One of the four major archangels, his name means \"healer.\" He recites the history of the fallen angels and the creation of Adam and Eve.",
+    "strategy": "AAAAAA=="
+  },
+  {
+    "sn": "902218",
+    "name": "Uriel",
+    "desc": "One of the four major archangels. His name means \"Flame of God,\" and he knows all the celestial phenomena. He is the first angel Satan met on earth.",
     "strategy": "AAAAAA=="
   },
   {
@@ -3093,6 +4407,36 @@
     "sn": "922012",
     "name": "Ara Mitama",
     "desc": "One of the four aspects of Shinto thought, it has the power to grant ferocity. It is said to aid in one's bravery, growth, and endeavors, though it can lead in a negative direction.",
+    "strategy": "AAAAAA=="
+  },
+  {
+    "sn": "922111",
+    "name": "Bicorn",
+    "desc": "An evil creature with two curving horns from European folklore. It represents impurity, unlike the Unicorn. Said to be derived from Re'em in the Bible. Another legend says that it feeds off of loyal husbands.",
+    "strategy": "AAAAAA=="
+  },
+  {
+    "sn": "922112",
+    "name": "Slime",
+    "desc": "A primitive monster with a viscous body. There are various theories as to its origin, but it is still under debate. Said to compulsively collect shiny objects.",
+    "strategy": "AAAAAA=="
+  },
+  {
+    "sn": "922211",
+    "name": "Archangel",
+    "desc": "The eighth of the nine orders of angels. Their duty is to minister to humans and deliver messages. They are warriors of Heaven and lead Heaven's forces during battle with the armies of evil.",
+    "strategy": "AAAAAA=="
+  },
+  {
+    "sn": "922212",
+    "name": "Unicorn",
+    "desc": "A legendary white horse with a single spiral horn. It can only be tamed by a pure maiden, and its horn supposedly has miraculous healing capabilities.",
+    "strategy": "AAAAAA=="
+  },
+  {
+    "sn": "922213",
+    "name": "Jack Frost",
+    "desc": "A winter fairy of European descent. He leaves ice patterns on windows and nips people's noses. Though normally an innocent creature, he will freeze his victims to death if provoked.",
     "strategy": "AAAAAA=="
   },
   {
@@ -4956,6 +6300,252 @@
     "strategy": "For each summoned Surt on the field, Surt's <color=#FF423F>Progress</color> increases by 1, and the damage of <color=#FF423F>Abyssal Gaze</color> increases."
   },
   {
+    "sn": "938011",
+    "name": "Jack Frost",
+    "desc": "A winter fairy of European descent. He leaves ice patterns on windows and nips people's noses. Though normally an innocent creature, he will freeze his victims to death if provoked.",
+    "strategy": "Weaknesses and resistances are different than normal."
+  },
+  {
+    "sn": "938012",
+    "name": "Jack Frost",
+    "desc": "A winter fairy of European descent. He leaves ice patterns on windows and nips people's noses. Though normally an innocent creature, he will freeze his victims to death if provoked.",
+    "strategy": "Weaknesses and resistances are different than normal."
+  },
+  {
+    "sn": "938013",
+    "name": "Jack Frost",
+    "desc": "A winter fairy of European descent. He leaves ice patterns on windows and nips people's noses. Though normally an innocent creature, he will freeze his victims to death if provoked.",
+    "strategy": "Weaknesses and resistances are different than normal."
+  },
+  {
+    "sn": "938021",
+    "name": "Silky",
+    "desc": "A fairy of England and Scotland. She carries out household chores while everyone sleeps and is a welcome spirit. It is said you can hear her silk skirt rustle as she works.",
+    "strategy": "Weaknesses and resistances are different than normal."
+  },
+  {
+    "sn": "938031",
+    "name": "Sui-Ki",
+    "desc": "One of the four oni controlled by Fujiwara no Chikata, it can cause floods with the swing of its arms. In the Taiheiki, Ki no Tomoo expelled the oni by reading a Japanese poem.",
+    "strategy": "Weaknesses and resistances are different than normal."
+  },
+  {
+    "sn": "938032",
+    "name": "Kodama",
+    "desc": "Japanese plant spirits born from trees that have lived for a hundred years. Cutting down one of these trees is said to cause misfortune.",
+    "strategy": "Weaknesses and resistances are different than normal."
+  },
+  {
+    "sn": "938033",
+    "name": "Kodama",
+    "desc": "Japanese plant spirits born from trees that have lived for a hundred years. Cutting down one of these trees is said to cause misfortune.",
+    "strategy": "Weaknesses and resistances are different than normal."
+  },
+  {
+    "sn": "938034",
+    "name": "Kodama",
+    "desc": "Japanese plant spirits born from trees that have lived for a hundred years. Cutting down one of these trees is said to cause misfortune.",
+    "strategy": "Weaknesses and resistances are different than normal."
+  },
+  {
+    "sn": "938035",
+    "name": "Kodama",
+    "desc": "Japanese plant spirits born from trees that have lived for a hundred years. Cutting down one of these trees is said to cause misfortune.",
+    "strategy": "Weaknesses and resistances are different than normal."
+  },
+  {
+    "sn": "938041",
+    "name": "Pixie",
+    "desc": "Friendly fairies of the forest that tend to hide from humans. They like to play tricks on lazy people. It is said they are the souls of dead, unbaptized children.",
+    "strategy": "Weaknesses and resistances are different than normal."
+  },
+  {
+    "sn": "938042",
+    "name": "Decarabia",
+    "desc": "One of the 72 demons of the Goetia, this demon appears as a pentacle. Keeper of jewels and herbal lore, Decarabia is said to have the ability to shape-shift at will.",
+    "strategy": "AAAAAA=="
+  },
+  {
+    "sn": "938043",
+    "name": "Decarabia",
+    "desc": "One of the 72 demons of the Goetia, this demon appears as a pentacle. Keeper of jewels and herbal lore, Decarabia is said to have the ability to shape-shift at will.",
+    "strategy": "AAAAAA=="
+  },
+  {
+    "sn": "938051",
+    "name": "Inugami",
+    "desc": "A dog spirit said to possess people in Japanese lore. Those possessed are in a state of \"inu-tsuki\" and lose consciousness. Onmyoji use Inugami as familiars.",
+    "strategy": "Weaknesses and resistances are different than normal."
+  },
+  {
+    "sn": "938052",
+    "name": "Saki Mitama",
+    "desc": "One of the four aspects of Shinto thought, it brings great bounty from the hunt. It is said to aid in love, profit, and growth, and can create new paths.",
+    "strategy": "AAAAAA=="
+  },
+  {
+    "sn": "938053",
+    "name": "Inugami",
+    "desc": "A dog spirit said to possess people in Japanese lore. Those possessed are in a state of \"inu-tsuki\" and lose consciousness. Onmyoji use Inugami as familiars.",
+    "strategy": "Weaknesses and resistances are different than normal."
+  },
+  {
+    "sn": "938054",
+    "name": "Saki Mitama",
+    "desc": "One of the four aspects of Shinto thought, it brings great bounty from the hunt. It is said to aid in love, profit, and growth, and can create new paths.",
+    "strategy": "AAAAAA=="
+  },
+  {
+    "sn": "938061",
+    "name": "Decarabia",
+    "desc": "One of the 72 demons of the Goetia, this demon appears as a pentacle. Keeper of jewels and herbal lore, Decarabia is said to have the ability to shape-shift at will.",
+    "strategy": "AAAAAA=="
+  },
+  {
+    "sn": "938111",
+    "name": "Naga",
+    "desc": "Half-snake, half-human divine beings in Hindu lore, worshipped as bringers of rain. They live in the bottoms of lakes and seas, singing and dancing when they are not fighting.",
+    "strategy": "Weaknesses and resistances are different than normal."
+  },
+  {
+    "sn": "938112",
+    "name": "Lamia",
+    "desc": "A half-human, half-snake female monster of Greek myth, she was once the queen of Libya. Zeus's jealous wife, Hera, killed her children, causing her to go mad and transform into a monster.",
+    "strategy": "Weaknesses and resistances are different than normal."
+  },
+  {
+    "sn": "938121",
+    "name": "Ose",
+    "desc": "One of the 72 demons of the Goetia, he is known as the President of Hell. He can shape-shift from leopard to human and reveal the truth behind divine mysteries.",
+    "strategy": "Weaknesses and resistances are different than normal."
+  },
+  {
+    "sn": "938122",
+    "name": "Nekomata",
+    "desc": "Long-lived cats are said to become these malevolent cat demons. Their powers vary according to how long they have lived, ranging from shape-shifting to controlling the dead.",
+    "strategy": "Weaknesses and resistances are different than normal."
+  },
+  {
+    "sn": "938123",
+    "name": "Nekomata",
+    "desc": "Long-lived cats are said to become these malevolent cat demons. Their powers vary according to how long they have lived, ranging from shape-shifting to controlling the dead.",
+    "strategy": "Weaknesses and resistances are different than normal."
+  },
+  {
+    "sn": "938124",
+    "name": "Nekomata",
+    "desc": "Long-lived cats are said to become these malevolent cat demons. Their powers vary according to how long they have lived, ranging from shape-shifting to controlling the dead.",
+    "strategy": "Weaknesses and resistances are different than normal."
+  },
+  {
+    "sn": "938131",
+    "name": "King Frost",
+    "desc": "The king of snow who rules over an infinite number of Jack Frosts. He has the power to freeze the entire world, but is unaware of it due to his naïve personality.",
+    "strategy": "Weaknesses and resistances are different than normal."
+  },
+  {
+    "sn": "938132",
+    "name": "Black Frost",
+    "desc": "A Jack Frost that yearned for evil. This powerful demon is born when a cute Jack Frost remembers its demonic nature.",
+    "strategy": "Weaknesses and resistances are different than normal."
+  },
+  {
+    "sn": "938133",
+    "name": "Black Frost",
+    "desc": "A Jack Frost that yearned for evil. This powerful demon is born when a cute Jack Frost remembers its demonic nature.",
+    "strategy": "Weaknesses and resistances are different than normal."
+  },
+  {
+    "sn": "938211",
+    "name": "Yamata-no-Orochi",
+    "desc": "A giant snake with eight heads that Susano-o defeated to save Kushinada-hime. The legendary sword Ame-no-Murakumo-no-Tsurugi, also known as the \"Sword of Kusanagi,\" emerged from its belly.",
+    "strategy": "Yamata-no-Orochi has extremely high HP, and gains Berserk each time a certain number of turns pass. After a Phantom Thief takes an extra action, it will summon 1 Yurlungur. It can perform summoning up to 5 times, and on the 5th time, it will summon 1 Makami."
+  },
+  {
+    "sn": "938212",
+    "name": "Yurlungur",
+    "desc": "A snake with a rainbow body from Murngin lore. He is a fertility deity who controls the weather and resides in a holy pond filled with rainbow-colored water.",
+    "strategy": "When Yurlungur is on the field, Yamata-no-Orochi's final damage taken increases by 150%. After Yamata-no-Orochi ends its turn, Yurlungur will be KO'd."
+  },
+  {
+    "sn": "938213",
+    "name": "Makami",
+    "desc": "A divine wolf god in Japanese folklore, also written as \"Oguchi-no-Magami.\" It is often drawn on prayer boards to prevent fires and thefts, but it is also feared as a human-eater.",
+    "strategy": "When defeated, all Phantom Thieves will gain Ame-no-Murakumo.\nAme-no-Murakumo: Increase final damage by 25%."
+  },
+  {
+    "sn": "938221",
+    "name": "Yamata-no-Orochi",
+    "desc": "A giant snake with eight heads that Susano-o defeated to save Kushinada-hime. The legendary sword Ame-no-Murakumo-no-Tsurugi, also known as the \"Sword of Kusanagi,\" emerged from its belly.",
+    "strategy": "Yamata-no-Orochi has extremely high HP, and gains Berserk each time a certain number of turns pass. After a Phantom Thief takes an extra action, it will summon 1 Yurlungur. It can perform summoning up to 5 times, and on the 5th time, it will summon 1 Makami."
+  },
+  {
+    "sn": "938222",
+    "name": "Yurlungur",
+    "desc": "A snake with a rainbow body from Murngin lore. He is a fertility deity who controls the weather and resides in a holy pond filled with rainbow-colored water.",
+    "strategy": "When Yurlungur is on the field, Yamata-no-Orochi's final damage taken increases by 150%. After Yamata-no-Orochi ends its turn, Yurlungur will be KO'd."
+  },
+  {
+    "sn": "938223",
+    "name": "Makami",
+    "desc": "A divine wolf god in Japanese folklore, also written as \"Oguchi-no-Magami.\" It is often drawn on prayer boards to prevent fires and thefts, but it is also feared as a human-eater.",
+    "strategy": "When defeated, all Phantom Thieves will gain Ame-no-Murakumo.\nAme-no-Murakumo: Increase final damage by 25%."
+  },
+  {
+    "sn": "938231",
+    "name": "Yamata-no-Orochi",
+    "desc": "A giant snake with eight heads that Susano-o defeated to save Kushinada-hime. The legendary sword Ame-no-Murakumo-no-Tsurugi, also known as the \"Sword of Kusanagi,\" emerged from its belly.",
+    "strategy": "Yamata-no-Orochi has extremely high HP, and gains Berserk each time a certain number of turns pass. After a Phantom Thief takes an extra action, it will summon 1 Yurlungur. It can perform summoning up to 5 times, and on the 5th time, it will summon 1 Makami."
+  },
+  {
+    "sn": "938232",
+    "name": "Yurlungur",
+    "desc": "A snake with a rainbow body from Murngin lore. He is a fertility deity who controls the weather and resides in a holy pond filled with rainbow-colored water.",
+    "strategy": "When Yurlungur is on the field, Yamata-no-Orochi's final damage taken increases by 150%. After Yamata-no-Orochi ends its turn, Yurlungur will be KO'd."
+  },
+  {
+    "sn": "938233",
+    "name": "Makami",
+    "desc": "A divine wolf god in Japanese folklore, also written as \"Oguchi-no-Magami.\" It is often drawn on prayer boards to prevent fires and thefts, but it is also feared as a human-eater.",
+    "strategy": "When defeated, all Phantom Thieves will gain Ame-no-Murakumo.\nAme-no-Murakumo: Increase final damage by 25%."
+  },
+  {
+    "sn": "938241",
+    "name": "Yamata-no-Orochi",
+    "desc": "A giant snake with eight heads that Susano-o defeated to save Kushinada-hime. The legendary sword Ame-no-Murakumo-no-Tsurugi, also known as the \"Sword of Kusanagi,\" emerged from its belly.",
+    "strategy": "Yamata-no-Orochi has extremely high HP, and gains Berserk each time a certain number of turns pass. After a Phantom Thief takes an extra action, it will summon 1 Yurlungur. It can perform summoning up to 5 times, and on the 5th time, it will summon 1 Makami."
+  },
+  {
+    "sn": "938242",
+    "name": "Yurlungur",
+    "desc": "A snake with a rainbow body from Murngin lore. He is a fertility deity who controls the weather and resides in a holy pond filled with rainbow-colored water.",
+    "strategy": "When Yurlungur is on the field, Yamata-no-Orochi's final damage taken increases by 150%. After Yamata-no-Orochi ends its turn, Yurlungur will be KO'd."
+  },
+  {
+    "sn": "938243",
+    "name": "Makami",
+    "desc": "A divine wolf god in Japanese folklore, also written as \"Oguchi-no-Magami.\" It is often drawn on prayer boards to prevent fires and thefts, but it is also feared as a human-eater.",
+    "strategy": "When defeated, all Phantom Thieves will gain Ame-no-Murakumo.\nAme-no-Murakumo: Increase final damage by 25%."
+  },
+  {
+    "sn": "938251",
+    "name": "Yamata-no-Orochi",
+    "desc": "A giant snake with eight heads that Susano-o defeated to save Kushinada-hime. The legendary sword Ame-no-Murakumo-no-Tsurugi, also known as the \"Sword of Kusanagi,\" emerged from its belly.",
+    "strategy": "Yamata-no-Orochi has extremely high HP, and gains Berserk each time a certain number of turns pass. After a Phantom Thief takes an extra action, it will summon 1 Yurlungur. It can perform summoning up to 5 times, and on the 5th time, it will summon 1 Makami."
+  },
+  {
+    "sn": "938252",
+    "name": "Yurlungur",
+    "desc": "A snake with a rainbow body from Murngin lore. He is a fertility deity who controls the weather and resides in a holy pond filled with rainbow-colored water.",
+    "strategy": "When Yurlungur is on the field, Yamata-no-Orochi's final damage taken increases by 150%. After Yamata-no-Orochi ends its turn, Yurlungur will be KO'd."
+  },
+  {
+    "sn": "938253",
+    "name": "Makami",
+    "desc": "A divine wolf god in Japanese folklore, also written as \"Oguchi-no-Magami.\" It is often drawn on prayer boards to prevent fires and thefts, but it is also feared as a human-eater.",
+    "strategy": "When defeated, all Phantom Thieves will gain Ame-no-Murakumo.\nAme-no-Murakumo: Increase final damage by 25%."
+  },
+  {
     "sn": "960011",
     "name": "Inugami",
     "desc": "A dog spirit said to possess people in Japanese lore. Those possessed are in a state of \"inu-tsuki\" and lose consciousness. Onmyoji use Inugami as familiars.",
@@ -6162,6 +7752,84 @@
     "strategy": "Weaknesses and resistances are different than normal.\n1. Kin-Ki's <color=#ff423f>Golden Domain</color> allows it to grant <color=#ff423f>Indestructible Vajra</color> to 1 random Shadow after dealing damage.\n<color=#ff423f>Indestructible Vajra</color>: Nullifies the next damage taken.\n2. When Kin-Ki has <color=#ff423f>Indestructible Vajra</color>, its damage increases."
   },
   {
+    "sn": "660411",
+    "name": "Jikokuten",
+    "desc": "Also known as Dhritarashtra, he is the protector of the East, and is one of the four Heavenly Kings of Buddhist origin. He helps maintain the security of the nation.",
+    "strategy": "Jikokuten has <color=#ff3b37>Blade of Sanctuary</color>.\nBlade of Sanctuary: Each time damage is dealt, also grants a shield to 1 random Shadow."
+  },
+  {
+    "sn": "660421",
+    "name": "Jikokuten",
+    "desc": "Also known as Dhritarashtra, he is the protector of the East, and is one of the four Heavenly Kings of Buddhist origin. He helps maintain the security of the nation.",
+    "strategy": "Jikokuten has <color=#ff3b37>Blade of Sanctuary</color>.\nBlade of Sanctuary: Each time damage is dealt, also grants a shield to 1 random Shadow."
+  },
+  {
+    "sn": "660422",
+    "name": "Zouchouten",
+    "desc": "Also known as Virudhaka, he is the protector of the South, and is one of the four Heavenly Kings of Buddhist origin. He is the god of the five grains, and was once the chief of the gods.",
+    "strategy": "Zouchouten can activate <color=#ff3b37>Growth of All Things</color>.\nGrowth of All Things: Randomly increases Attack, Defense, or damage of all Shadows each turn."
+  },
+  {
+    "sn": "660431",
+    "name": "Jikokuten",
+    "desc": "Also known as Dhritarashtra, he is the protector of the East, and is one of the four Heavenly Kings of Buddhist origin. He helps maintain the security of the nation.",
+    "strategy": "Jikokuten has <color=#ff3b37>Blade of Sanctuary</color>.\nBlade of Sanctuary: Each time damage is dealt, also grants a shield to 1 random Shadow."
+  },
+  {
+    "sn": "660432",
+    "name": "Zouchouten",
+    "desc": "Also known as Virudhaka, he is the protector of the South, and is one of the four Heavenly Kings of Buddhist origin. He is the god of the five grains, and was once the chief of the gods.",
+    "strategy": "Zouchouten can activate <color=#FF423F>Growth of All Things</color>.\nGrowth of All Things: Randomly increases Attack, Defense, or damage of all Shadows each turn."
+  },
+  {
+    "sn": "660433",
+    "name": "Koumokuten",
+    "desc": "Also known as Virupaksha, he is the protector of the West, and is one of the four Heavenly Kings of Buddhist origin. He keeps a close watch on the world with his sharp gaze.",
+    "strategy": "Koumokuten can activate <color=#FF423F>Eye of Heaven</color>.\nEye of Heaven: Select 1 Phantom Thief. Increase their damage taken, and have all Shadows focus attacks on them next turn.\nBefore activating Eye of Heaven, Koumokuten will summon 1 Makami."
+  },
+  {
+    "sn": "660436",
+    "name": "Makami",
+    "desc": "A divine wolf god in Japanese folklore, also written as \"Oguchi-no-Magami.\" It is often drawn on prayer boards to prevent fires and thefts, but it is also feared as a human-eater.",
+    "strategy": "Summoned by Koumokuten to fight by his side."
+  },
+  {
+    "sn": "660441",
+    "name": "Jikokuten",
+    "desc": "Also known as Dhritarashtra, he is the protector of the East, and is one of the four Heavenly Kings of Buddhist origin. He helps maintain the security of the nation.",
+    "strategy": "Jikokuten has <color=#FF423F>Blade of Sanctuary</color>.\nBlade of Sanctuary: Each time damage is dealt, also grants a shield to 1 random Shadow."
+  },
+  {
+    "sn": "660442",
+    "name": "Zouchouten",
+    "desc": "Also known as Virudhaka, he is the protector of the South, and is one of the four Heavenly Kings of Buddhist origin. He is the god of the five grains, and was once the chief of the gods.",
+    "strategy": "Zouchouten can activate <color=#FF423F>Growth of All Things</color>.\nGrowth of All Things: Randomly increases Attack, Defense, or damage of all Shadows each turn."
+  },
+  {
+    "sn": "660443",
+    "name": "Koumokuten",
+    "desc": "Also known as Virupaksha, he is the protector of the West, and is one of the four Heavenly Kings of Buddhist origin. He keeps a close watch on the world with his sharp gaze.",
+    "strategy": "Koumokuten can activate <color=#FF423F>Eye of Heaven</color>.\nEye of Heaven: Select 1 Phantom Thief. Increase their damage taken, and have all Shadows focus attacks on them next turn.\nBefore activating Eye of Heaven, Koumokuten will summon 1 Makami."
+  },
+  {
+    "sn": "660444",
+    "name": "Bishamonten",
+    "desc": "Also known as Tamonten and Vaishravana in Buddhist lore, he is the strongest of the Heavenly Kings. He protects the North and is the god of war.",
+    "strategy": "Bishamonten can activate <color=#FF423F>Parasol of Chaos</color>.\nParasol of Chaos: Covers the Shadow with the lowest HP percentage, and changes all affinities to Drain. Lasts for 2 turns."
+  },
+  {
+    "sn": "660445",
+    "name": "Asura",
+    "desc": "The Hindu king of Asuras is named Maha Vairocana, or \"One Who Shines On All.\" In Buddhism, he is known as Dainichi Nyorai.",
+    "strategy": "Be warned, <color=#FF423F>Asura possesses some of Jikokuten, Zouchouten, Koumokuten and Bishamonten's skills</color>."
+  },
+  {
+    "sn": "660446",
+    "name": "Makami",
+    "desc": "A divine wolf god in Japanese folklore, also written as \"Oguchi-no-Magami.\" It is often drawn on prayer boards to prevent fires and thefts, but it is also feared as a human-eater.",
+    "strategy": "Summoned by Koumokuten to fight by his side."
+  },
+  {
     "sn": "730111",
     "name": "Dominion",
     "desc": "The fourth of the nine orders of angels. Their duty is to oversee the other angels. Their actions are the manifestation of God's will.",
@@ -6963,7 +8631,7 @@
     "sn": "738611",
     "name": "Nidhoggr",
     "desc": "An evil dragon that gnaws on the roots of Yggdrasil, the World Tree. It rules over the evil snakes that live there. Capable of surviving Ragnarok by feeding on the slain corpses that drift to it.",
-    "strategy": "When Nidhoggr and other Shadows use skills, all skill targets are inflicted with 1 <color=#72C5FF>Poison</color> stack.\nPoison: Cannot be dispelled. At the end of a turn, Phantom Thieves lose a certain amount of HP for each stack, but also increase their Attack by 10%. Stacks up to 3 times."
+    "strategy": "Nidhoggr and Yurlungur have different weaknesses and resistances than normal.\nWhen Nidhoggr and other Shadows use skills, all skill targets are inflicted with 1 <color=#FF423F>Poison</color> stack.\nPoison: Cannot be dispelled. At the end of a turn, Phantom Thieves lose a certain amount of HP for each stack, but also increase their Attack by 10%. Stacks up to 3 times."
   },
   {
     "sn": "738621",
@@ -7693,14 +9361,14 @@
   },
   {
     "sn": "2031",
-    "name": "Lamia",
-    "desc": "A half-human, half-snake female monster of Greek myth, she was once the queen of Libya. Zeus's jealous wife, Hera, killed her children, causing her to go mad and transform into a monster.",
+    "name": "Jack-o'-Lantern",
+    "desc": "A drunkard who tricked the Devil out of taking him to Hell. When refused entry to Heaven, he was forced to wander the earth with only an ember as a light.",
     "strategy": "AAAAAA=="
   },
   {
     "sn": "2032",
-    "name": "Lamia",
-    "desc": "A half-human, half-snake female monster of Greek myth, she was once the queen of Libya. Zeus's jealous wife, Hera, killed her children, causing her to go mad and transform into a monster.",
+    "name": "Jack-o'-Lantern",
+    "desc": "The Arabian mother goddess also known as Allat. She was thought to reside in the Black Stone at the Kaaba. She and her son, Dusura, were worshipped there by desert nomads.",
     "strategy": "AAAAAA=="
   },
   {
@@ -32042,7 +33710,7 @@
   {
     "sn": "513102",
     "name": "Uriel",
-    "desc": "One of the fourmajor archangels. His name means \"Flame of God,\" and he knows all the celestial phenomena. He is the first angel Satan met on earth.",
+    "desc": "One of the four major archangels. His name means \"Flame of God,\" and he knows all the celestial phenomena. He is the first angel Satan met on earth.",
     "strategy": "AAAAAA=="
   },
   {

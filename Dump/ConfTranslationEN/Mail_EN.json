@@ -128,7 +128,7 @@
   {
     "sn": "23",
     "title": "Unclaimed Trials from the Sea of Souls Mission Rewards",
-    "detail": "This season of Trials from the Sea of Souls has ended.\nThe unclaimed mission rewards have been delivered to you via this message.",
+    "detail": "As the mission rewards from the Trials from the Sea of Souls were not claimed, they have been delivered to you via this message.",
     "sender": "Persona5: The Phantom X Operations Team"
   },
   {
@@ -246,6 +246,12 @@
     "sender": "Marthym"
   },
   {
+    "sn": "48",
+    "title": "Event Ranking Rewards",
+    "detail": "This season's Trials from the Sea of Souls challenge has ended.\nYour rank was %s%%, and the rank rewards have been delivered to you via this message.",
+    "sender": "Persona5: The Phantom X Operations Team"
+  },
+  {
     "sn": "1001",
     "title": "NB[mai][001]",
     "detail": "Error: tnxotb-[Mail_detail_1001]",
@@ -361,7 +367,7 @@
   },
   {
     "sn": "2017",
-    "title": "Happy-Go-Lucky Lions: Boss Battle End Notice",
+    "title": "Trial of Thorns Boss Challenge End Notice",
     "detail": "The %s boss challenge will be ending soon.",
     "sender": "Persona5: The Phantom X Operations Team"
   },

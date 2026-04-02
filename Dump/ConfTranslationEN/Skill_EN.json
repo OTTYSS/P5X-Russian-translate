@@ -1491,37 +1491,47 @@
   },
   {
     "sn": "115111",
-    "name": "tdxct-[Skill_name_115111]",
+    "name": "Flash of Intuition",
     "desc": "tdxct-[Skill_desc_115111]",
     "descSimple": "tdxct-[Skill_descSimple_115111]",
-    "levelUpList": "Skill Multiplier",
+    "levelUpList": "tdxct-[Skill_levelUpList_115111]",
     "levelUpValue": "AAAAAA==",
-    "contentBG": "tdxct-[Skill_contentBG_115111]",
-    "skillTag": "Single-Target"
+    "contentBG": "Unparalleled deductive reasoning illuminates all, dealing Bless damage to all enemies and healing all allies.",
+    "skillTag": "Multi-Target"
   },
   {
     "sn": "115112",
-    "name": "tdxct-[Skill_name_115112]",
+    "name": "Decisive Scheme",
     "desc": "tdxct-[Skill_desc_115112]",
     "descSimple": "tdxct-[Skill_descSimple_115112]",
-    "levelUpList": "Skill Multiplier,Skill Multiplier",
+    "levelUpList": "tdxct-[Skill_levelUpList_115112]",
     "levelUpValue": "AAAAAA==",
-    "contentBG": "tdxct-[Skill_contentBG_115112]",
-    "skillTag": "Buff"
+    "contentBG": "A meticulously planned scheme catches all enemies unaware, dealing Curse damage.",
+    "skillTag": "Multi-Target"
   },
   {
     "sn": "115113",
-    "name": "tdxct-[Skill_name_115113]",
+    "name": "Rain of Justice",
     "desc": "tdxct-[Skill_desc_115113]",
     "descSimple": "tdxct-[Skill_descSimple_115113]",
-    "levelUpList": "Skill Multiplier,Skill Multiplier",
+    "levelUpList": "tdxct-[Skill_levelUpList_115113]",
     "levelUpValue": "AAAAAA==",
-    "contentBG": "tdxct-[Skill_contentBG_115113]",
-    "skillTag": "Single-Target"
+    "contentBG": "Let loose a barrage of arrows imbued with conviction, dealing Almighty damage to all foes.",
+    "skillTag": "Multi-Target"
+  },
+  {
+    "sn": "115114",
+    "name": "Supporting Role",
+    "desc": "tdxct-[Skill_desc_115114]",
+    "descSimple": "tdxct-[Skill_descSimple_115114]",
+    "levelUpList": "tdxct-[Skill_levelUpList_115114]",
+    "levelUpValue": "AAAAAA==",
+    "contentBG": "AAAAAA==",
+    "skillTag": "AAAAAA=="
   },
   {
     "sn": "115131",
-    "name": "tdxct-[Skill_name_115131]",
+    "name": "Rival's Pride",
     "desc": "tdxct-[Skill_desc_115131]",
     "descSimple": "AAAAAA==",
     "levelUpList": "AAAAAA==",
@@ -1531,7 +1541,7 @@
   },
   {
     "sn": "115132",
-    "name": "tdxct-[Skill_name_115132]",
+    "name": "Rending Arrow",
     "desc": "tdxct-[Skill_desc_115132]",
     "descSimple": "AAAAAA==",
     "levelUpList": "AAAAAA==",
@@ -1541,9 +1551,9 @@
   },
   {
     "sn": "115140",
-    "name": "tdxct-[Skill_name_115140]",
+    "name": "High School Detective",
     "desc": "tdxct-[Skill_desc_115140]",
-    "descSimple": "tdxct-[Skill_descSimple_115140]",
+    "descSimple": "AAAAAA==",
     "levelUpList": "AAAAAA==",
     "levelUpValue": "AAAAAA==",
     "contentBG": "AAAAAA==",
@@ -1551,7 +1561,7 @@
   },
   {
     "sn": "115141",
-    "name": "tdxct-[Skill_name_115141]",
+    "name": "Detective Profile",
     "desc": "tdxct-[Skill_desc_115141]",
     "descSimple": "AAAAAA==",
     "levelUpList": "AAAAAA==",
@@ -1561,7 +1571,7 @@
   },
   {
     "sn": "115142",
-    "name": "tdxct-[Skill_name_115142]",
+    "name": "Detective Advice",
     "desc": "tdxct-[Skill_desc_115142]",
     "descSimple": "AAAAAA==",
     "levelUpList": "AAAAAA==",
@@ -1571,7 +1581,7 @@
   },
   {
     "sn": "115143",
-    "name": "tdxct-[Skill_name_115143]",
+    "name": "Detective Style",
     "desc": "tdxct-[Skill_desc_115143]",
     "descSimple": "AAAAAA==",
     "levelUpList": "AAAAAA==",
@@ -1581,7 +1591,7 @@
   },
   {
     "sn": "115144",
-    "name": "tdxct-[Skill_name_115144]",
+    "name": "Detective Trick",
     "desc": "tdxct-[Skill_desc_115144]",
     "descSimple": "AAAAAA==",
     "levelUpList": "AAAAAA==",
@@ -1591,7 +1601,7 @@
   },
   {
     "sn": "115145",
-    "name": "tdxct-[Skill_name_115145]",
+    "name": "Detective Logic",
     "desc": "tdxct-[Skill_desc_115145]",
     "descSimple": "AAAAAA==",
     "levelUpList": "AAAAAA==",
@@ -1601,7 +1611,7 @@
   },
   {
     "sn": "115146",
-    "name": "tdxct-[Skill_name_115146]",
+    "name": "Masked Detective",
     "desc": "tdxct-[Skill_desc_115146]",
     "descSimple": "AAAAAA==",
     "levelUpList": "AAAAAA==",
@@ -1612,7 +1622,7 @@
   {
     "sn": "115151",
     "name": "1 MORE",
-    "desc": "Deal Bless damage to 1 foe.",
+    "desc": "tdxct-[Skill_desc_115151]",
     "descSimple": "AAAAAA==",
     "levelUpList": "1 More Dmg",
     "levelUpValue": "6.7%,13.3%,20.0%,26.7%,33.3%,40.0%,46.7%,51.3%,56.0%,59.3%,62.7%,66.0%,69.3%,72.7%",
@@ -1624,7 +1634,7 @@
     "name": "Highlight",
     "desc": "tdxct-[Skill_desc_115152]",
     "descSimple": "tdxct-[Skill_descSimple_115152]",
-    "levelUpList": "Highlight Dmg,Highlight Extra Dmg",
+    "levelUpList": "tdxct-[Skill_levelUpList_115152]",
     "levelUpValue": "AAAAAA==",
     "contentBG": "AAAAAA==",
     "skillTag": "AAAAAA=="
@@ -2913,7 +2923,7 @@
     "sn": "125113",
     "name": "Mindful Release",
     "desc": "Deal Psychokinesis damage to all foes equal to <color=#FFFC40>^%s^</color> of Attack. When Haru has <link=\"s|114\"><u>Target Audience</u></link>, increase this skill's critical rate by <color=#FFFC40>^%s^</color> and gain 1 Spillover Round stack.\nSpillover Round: When using a ranged attack, also deal Psychokinesis damage to all foes equal to <color=#FFFC40>^%s^</color> of Attack (can gain skill damage increases from Focused Round).",
-    "descSimple": "Psy dmg to all foes (%s Atk) When Haru has Target Audience, increase this skill's critical rate by %s and gain 1 Spillover Round.\nSpillover Round: When using ranged attack, also deal Psy dmg to all foes (%s Atk, can gain skill dmg increases from Focused Round).",
+    "descSimple": "Psy dmg to all foes (%s Atk) When Haru has Target Audience, increase this skill's crit rate by %s and gain 1 Spillover Round.\nSpillover Round: When using ranged attack, also deal Psy dmg to all foes (%s Atk, can gain skill dmg increases from Focused Round).",
     "levelUpList": "Skill Multiplier,Crit Rate Up,Bonus Dmg Multiplier",
     "levelUpValue": "AAAAAA==",
     "contentBG": "Unleashes your thoughts at targets in your sights, dealing Psychokinesis damage to all foes.",
@@ -6752,7 +6762,7 @@
   {
     "sn": "135153",
     "name": "Highlight",
-    "desc": "Can be activated in <link=\"s|217\"><u>Masquerade</u></link> mode. Deal Bless damage to 1 foe equal to <color=#FFFC40>^%s^</color> of Attack. Also, with <link=\"s|215\"><u>Step</u></link> stacks, gain additional effects accordingly.\nLead Step: Increase Highlight damage by 15% for each stack.\nFollow Step: Increase Highlight critical rate by 10%, and critical damage by 20%.",
+    "desc": "Can be activated in <link=\"s|217\"><u>Masquerade</u></link> mode. Deal Bless damage to 1 foe equal to <color=#FFFC40>^%s^</color> of Attack. Also, with <link=\"s|215\"><u>Step</u></link> stacks, gain additional effects accordingly.\nLead Step: Increase Highlight damage by 20% for each stack.\nFollow Step: Increase Highlight critical rate by 10%, and critical damage by 20%.",
     "descSimple": "Bless dmg to 1 foe (%s Atk). Also, with Step, gain additional effects accordingly.\nLead Step: Increase Highlight dmg 15% per stack.\nFollow Step: Increase Highlight crit rate 10%, and crit dmg 20%.",
     "levelUpList": "Highlight Skill Multiplier",
     "levelUpValue": "AAAAAA==",
@@ -7543,6 +7553,276 @@
     "sn": "137161",
     "name": "Ranged Attack",
     "desc": "Deal Gun damage to 1 foe. Fire 4 shots at once, and can fire until out of ammo.",
+    "descSimple": "AAAAAA==",
+    "levelUpList": "Ranged Dmg",
+    "levelUpValue": "6.7%,13.3%,20.0%,26.7%,33.3%,40.0%,46.7%,51.3%,56.0%,59.3%,62.7%,66.0%,69.3%,72.7%",
+    "contentBG": "AAAAAA==",
+    "skillTag": "AAAAAA=="
+  },
+  {
+    "sn": "136101",
+    "name": "Melee Attack",
+    "desc": "Deal Physical damage to 1 foe.",
+    "descSimple": "AAAAAA==",
+    "levelUpList": "Melee Dmg",
+    "levelUpValue": "6.7%,13.3%,20.0%,26.7%,33.3%,40.0%,46.7%,51.3%,56.0%,59.3%,62.7%,66.0%,69.3%,72.7%",
+    "contentBG": "AAAAAA==",
+    "skillTag": "AAAAAA=="
+  },
+  {
+    "sn": "136102",
+    "name": "tnxotb-[Skill_name_136102]",
+    "desc": "AAAAAA==",
+    "descSimple": "AAAAAA==",
+    "levelUpList": "AAAAAA==",
+    "levelUpValue": "AAAAAA==",
+    "contentBG": "AAAAAA==",
+    "skillTag": "AAAAAA=="
+  },
+  {
+    "sn": "136103",
+    "name": "tnxotb-[Skill_name_136103]",
+    "desc": "AAAAAA==",
+    "descSimple": "AAAAAA==",
+    "levelUpList": "AAAAAA==",
+    "levelUpValue": "AAAAAA==",
+    "contentBG": "AAAAAA==",
+    "skillTag": "AAAAAA=="
+  },
+  {
+    "sn": "136121",
+    "name": "Racing Game Lover",
+    "desc": "AAAAAA==",
+    "descSimple": "AAAAAA==",
+    "levelUpList": "AAAAAA==",
+    "levelUpValue": "AAAAAA==",
+    "contentBG": "AAAAAA==",
+    "skillTag": "AAAAAA=="
+  },
+  {
+    "sn": "136104",
+    "name": "tnxotb-[Skill_name_136104]",
+    "desc": "AAAAAA==",
+    "descSimple": "AAAAAA==",
+    "levelUpList": "AAAAAA==",
+    "levelUpValue": "AAAAAA==",
+    "contentBG": "AAAAAA==",
+    "skillTag": "AAAAAA=="
+  },
+  {
+    "sn": "136105",
+    "name": "tnxotb-[Skill_name_136105]",
+    "desc": "AAAAAA==",
+    "descSimple": "AAAAAA==",
+    "levelUpList": "AAAAAA==",
+    "levelUpValue": "AAAAAA==",
+    "contentBG": "AAAAAA==",
+    "skillTag": "AAAAAA=="
+  },
+  {
+    "sn": "136106",
+    "name": "tnxotb-[Skill_name_136106]",
+    "desc": "AAAAAA==",
+    "descSimple": "AAAAAA==",
+    "levelUpList": "AAAAAA==",
+    "levelUpValue": "AAAAAA==",
+    "contentBG": "AAAAAA==",
+    "skillTag": "AAAAAA=="
+  },
+  {
+    "sn": "136107",
+    "name": "tnxotb-[Skill_name_136107]",
+    "desc": "AAAAAA==",
+    "descSimple": "AAAAAA==",
+    "levelUpList": "AAAAAA==",
+    "levelUpValue": "AAAAAA==",
+    "contentBG": "AAAAAA==",
+    "skillTag": "AAAAAA=="
+  },
+  {
+    "sn": "136108",
+    "name": "tnxotb-[Skill_name_136108]",
+    "desc": "AAAAAA==",
+    "descSimple": "AAAAAA==",
+    "levelUpList": "AAAAAA==",
+    "levelUpValue": "AAAAAA==",
+    "contentBG": "AAAAAA==",
+    "skillTag": "AAAAAA=="
+  },
+  {
+    "sn": "136109",
+    "name": "tnxotb-[Skill_name_136109]",
+    "desc": "AAAAAA==",
+    "descSimple": "AAAAAA==",
+    "levelUpList": "AAAAAA==",
+    "levelUpValue": "AAAAAA==",
+    "contentBG": "AAAAAA==",
+    "skillTag": "AAAAAA=="
+  },
+  {
+    "sn": "136110",
+    "name": "tnxotb-[Skill_name_136110]",
+    "desc": "AAAAAA==",
+    "descSimple": "AAAAAA==",
+    "levelUpList": "AAAAAA==",
+    "levelUpValue": "AAAAAA==",
+    "contentBG": "AAAAAA==",
+    "skillTag": "AAAAAA=="
+  },
+  {
+    "sn": "136122",
+    "name": "tnxotb-[Skill_name_136122]",
+    "desc": "AAAAAA==",
+    "descSimple": "AAAAAA==",
+    "levelUpList": "AAAAAA==",
+    "levelUpValue": "AAAAAA==",
+    "contentBG": "AAAAAA==",
+    "skillTag": "AAAAAA=="
+  },
+  {
+    "sn": "136111",
+    "name": "Shockwave",
+    "desc": "Deal Physical damage to all foes equal to <color=#FFFC40>^%s^</color> of Attack.\nAlso, increase party's damage by <color=#FFFC40>^%s^</color> for 2 turns (for every 10 points of Speed, increase by 2% more, up to a maximum of <color=#FFFC40>^%s^</color>).\nWhen used on an extra action, increase skill damage by 50%, and activate a guaranteed critical hit on the main target.",
+    "descSimple": "Phys dmg to all foes (%s Atk).\nAlso, increase party's dmg %s + bonus 2% per 10 Speed (max bonus %s, 2 turns).\nWhen used on extra action, increase skill dmg 50%, and guaranteed crit hit on main target.",
+    "levelUpList": "Skill Multiplier,Dmg Increase, Extra Dmg Increase Cap",
+    "levelUpValue": "AAAAAA==",
+    "contentBG": "Plant a flag in the ground, creating a shockwave to deal Physical damage to all foes.",
+    "skillTag": "Multi-Target"
+  },
+  {
+    "sn": "136112",
+    "name": "Aero Setup",
+    "desc": "Increase party's Attack by <color=#FFFC40>^%s^</color> for 2 turns (for every 10 points of Speed, increase by 2% more, up to a maximum of <color=#FFFC40>^%s^</color>). Also, increase party's Defense by <color=#FFFC40>^%s^</color> for 2 turns (for every 10 points of Speed, increase by 2.22% more, up to a maximum of <color=#FFFC40>^%s^</color>).\nWhen used on an extra action, grant a shield to all allies equal to <color=#FFFC40>^%s^</color>. This effect lasts for 2 turns.",
+    "descSimple": "Increase party's Atk %s + bonus 2% per 10 Speed (max bonus %s, 2 turns). Also increase party's Def %s + bonus 2.22% per 10 Speed (max bonus %s, 2 turns).\nWhen used on extra action, grant shield to all allies (%s, 2 turns).",
+    "levelUpList": "Atk Increase,Extra Atk Increase Cap,Def Increase,Extra Def Increase Cap,Shield",
+    "levelUpValue": "AAAAAA==",
+    "contentBG": "Increase the team's aerodynamic performance, raising their Attack and Defense.",
+    "skillTag": "Buff"
+  },
+  {
+    "sn": "136113",
+    "name": "Power Setup",
+    "desc": "Increase party's pierce rate by <color=#FFFC40>^%s^</color> for 2 turns (for every 10 points of Speed, increase by 0.22% more, up to a maximum of <color=#FFFC40>^%s^</color>). Also, increase party's Attack by <color=#FFFC40>^%s^</color> for 2 turns (for every 10 points of Speed, increase by 2.89% more, up to a maximum of <color=#FFFC40>^%s^</color>).\nWhen used on an extra action, also increase the main target's pierce rate by <color=#FFFC40>^%s^</color> for 1 turn (for every 10 points of Speed, increase by 0.44% more, up to a maximum of <color=#FFFC40>^%s^</color>).",
+    "descSimple": "Increase party's pierce rate %s + bonus 0.22% per 10 Speed (max bonus %s, 2 turns). Also, increase party's Atk %s + bonus 2.89% per 10 Speed (max bonus %s, 2 turns).\nWhen used on extra action, also increase main target's pierce rate %s + bonus 0.44% per 10 Speed (max bonus %s, 1 turn).",
+    "levelUpList": "Pierce Rate Increase,Extra Pierce Rate Increase Cap,Atk Increase,Extra Atk Increase Cap,Selected Target Pierce Rate Increase,Selected Target Extra Pierce Rate Increase Cap",
+    "levelUpValue": "AAAAAA==",
+    "contentBG": "Increase the team's output performance, raising their pierce rate and Attack.",
+    "skillTag": "Buff"
+  },
+  {
+    "sn": "136131",
+    "name": "Team Ambassador",
+    "desc": "When Mayumi is present, increase party's damage during extra actions by <color=#FFFC40>^%s^</color>.",
+    "descSimple": "AAAAAA==",
+    "levelUpList": "AAAAAA==",
+    "levelUpValue": "AAAAAA==",
+    "contentBG": "AAAAAA==",
+    "skillTag": "Talent"
+  },
+  {
+    "sn": "136132",
+    "name": "Overtaking",
+    "desc": "When Mayumi is present, increase party's damage dealt to downed foes by <color=#FFFC40>^%s^</color>. Also, when Mayumi knocks down a foe, deal more Physical damage equal to <color=#FFFC40>^%s^</color> of Attack.",
+    "descSimple": "AAAAAA==",
+    "levelUpList": "AAAAAA==",
+    "levelUpValue": "AAAAAA==",
+    "contentBG": "AAAAAA==",
+    "skillTag": "Talent"
+  },
+  {
+    "sn": "136140",
+    "name": "Racing Game Lover",
+    "desc": "At the start of battle, Mayumi gains 90 Velocity stacks. At the end of each ally's action, gain 4 Velocity stacks (if Mayumi's Speed is over 100, gain 1 more Velocity stack for every 10 points of Speed over 100; up to 6 stacks).\nAt the start of Mayumi's turn, if Velocity is over 120 stacks, can spend Velocity to gain an extra action at the end of her current action (cooldown: 1 turn). When total Velocity stacks gained during battle reach 100/220/350 stacks, activate level 1/2/3 of Torque Boost.\nTorque Boost: Increase party's pierce rate by 5%/10%/15%.",
+    "descSimple": "tnxotb-[Skill_descSimple_136140]",
+    "levelUpList": "AAAAAA==",
+    "levelUpValue": "AAAAAA==",
+    "contentBG": "AAAAAA==",
+    "skillTag": "AAAAAA=="
+  },
+  {
+    "sn": "136141",
+    "name": "Tire Change",
+    "desc": "At the end of each ally's action, gain 10 more Velocity stacks.\nOn an extra action, when using a skill different from the one used immediately before, activate the following additional effects.\nShockwave: When activating a skill, increase critical damage by 50%.\nAero Setup: Increase shield by 30%. Also, increase party's Defense by 30% more.\nPower Setup: Increase main target's pierce rate by 10% more.",
+    "descSimple": "AAAAAA==",
+    "levelUpList": "AAAAAA==",
+    "levelUpValue": "AAAAAA==",
+    "contentBG": "AAAAAA==",
+    "skillTag": "AAAAAA=="
+  },
+  {
+    "sn": "136142",
+    "name": "High-Spec Engine",
+    "desc": "When activating Torque Boost, activate the following additional effects.\nLevel 1: Increase party's critical damage by 20%.\nLevel 2: Increase party's damage by 20%.\nLevel 3: Increase party's Attack by 30%.",
+    "descSimple": "AAAAAA==",
+    "levelUpList": "AAAAAA==",
+    "levelUpValue": "AAAAAA==",
+    "contentBG": "AAAAAA==",
+    "skillTag": "AAAAAA=="
+  },
+  {
+    "sn": "136143",
+    "name": "Output Control",
+    "desc": "Increase the skill levels of Power Setup and Thief Tactics by 3.",
+    "descSimple": "AAAAAA==",
+    "levelUpList": "AAAAAA==",
+    "levelUpValue": "AAAAAA==",
+    "contentBG": "AAAAAA==",
+    "skillTag": "AAAAAA=="
+  },
+  {
+    "sn": "136144",
+    "name": "Pole Position",
+    "desc": "Highlight Enhanced: Increase party's damage by 10% more. Also, extend the duration of the Highlight's buffs by 1 turn.",
+    "descSimple": "AAAAAA==",
+    "levelUpList": "AAAAAA==",
+    "levelUpValue": "AAAAAA==",
+    "contentBG": "AAAAAA==",
+    "skillTag": "AAAAAA=="
+  },
+  {
+    "sn": "136145",
+    "name": "Aerodynamic Control",
+    "desc": "Increase the skill levels of Shockwave and Aero Setup by 3.",
+    "descSimple": "AAAAAA==",
+    "levelUpList": "AAAAAA==",
+    "levelUpValue": "AAAAAA==",
+    "contentBG": "AAAAAA==",
+    "skillTag": "AAAAAA=="
+  },
+  {
+    "sn": "136146",
+    "name": "Circuit Queen",
+    "desc": "The amount of Velocity stacks gained at the start of battle becomes 120. On Mayumi's extra action, spend 40 or 80 Velocity stacks, and activate the following additional effects the next time a skill is activated.\n40 Velocity spent\nShockwave: When activating a skill, increase Mayumi's critical rate by 20%. If the target is knocked down, increase party's Attack by 25% for 2 turns.\nAero Setup: Increase shield by 20%. Also, extend the shield duration by 1 turn.\nPower Setup: When used on an extra turn, change buff target from main target to all allies.\n80 Velocity spent\nShockwave: Increase party's damage dealt to downed foes by 15% for 1 turn.\nAero Setup: Decrease party's damage taken by 20% for 1 turn.\nPower Setup: Increase party's damage dealt by 25% for 1 turn.",
+    "descSimple": "AAAAAA==",
+    "levelUpList": "AAAAAA==",
+    "levelUpValue": "AAAAAA==",
+    "contentBG": "AAAAAA==",
+    "skillTag": "AAAAAA=="
+  },
+  {
+    "sn": "136151",
+    "name": "1 MORE",
+    "desc": "Deal Physical damage to 1 foe.",
+    "descSimple": "AAAAAA==",
+    "levelUpList": "1 More Dmg",
+    "levelUpValue": "6.7%,13.3%,20.0%,26.7%,33.3%,40.0%,46.7%,51.3%,56.0%,59.3%,62.7%,66.0%,69.3%,72.7%",
+    "contentBG": "AAAAAA==",
+    "skillTag": "AAAAAA=="
+  },
+  {
+    "sn": "136152",
+    "name": "Highlight",
+    "desc": "Increase party's Attack by <color=#FFFC40>^%s^</color> for 2 turns (for every 10 points of Speed, increase by 1.33% more, up to a maximum of <color=#FFFC40>^%s^</color>). Also, increase party's damage by <color=#FFFC40>^%s^</color> for 2 turns (for every 10 points of Speed, increase by 1.33% more, up to a maximum of <color=#FFFC40>^%s^</color>). Also, when the selected ally of this Highlight next deals direct damage to foes, decrease the selected foe's Down Points by 1 more.",
+    "descSimple": "Increase party's Atk %s + bonus 1.33% per 10 Speed (max bonus %s, 2 turns). Also increase party's dmg %s + bonus 1.33% per 10 Speed (max bonus %s, 2 turns). Also, when selected ally next deals direct dmg to foes, decrease selected foe's Down Points by 1 more.",
+    "levelUpList": "Highlight Atk Increase,Highlight Extra Atk Increase Cap,Highlight Dmg Increase,Highlight Extra Dmg Increase Cap",
+    "levelUpValue": "AAAAAA==",
+    "contentBG": "AAAAAA==",
+    "skillTag": "AAAAAA=="
+  },
+  {
+    "sn": "136161",
+    "name": "Ranged Attack",
+    "desc": "Deal Gun damage to 1 foe. Can fire until out of ammo.",
     "descSimple": "AAAAAA==",
     "levelUpList": "Ranged Dmg",
     "levelUpValue": "6.7%,13.3%,20.0%,26.7%,33.3%,40.0%,46.7%,51.3%,56.0%,59.3%,62.7%,66.0%,69.3%,72.7%",
@@ -8650,19 +8930,9 @@
     "skillTag": "AAAAAA=="
   },
   {
-    "sn": "115102",
+    "sn": "115109",
     "name": "AAAAAA==",
-    "desc": "tdxct-[Skill_desc_115102]",
-    "descSimple": "tdxct-[Skill_descSimple_115102]",
-    "levelUpList": "AAAAAA==",
-    "levelUpValue": "AAAAAA==",
-    "contentBG": "AAAAAA==",
-    "skillTag": "AAAAAA=="
-  },
-  {
-    "sn": "115103",
-    "name": "AAAAAA==",
-    "desc": "tdxct-[Skill_desc_115103]",
+    "desc": "tnxct-[Skill_desc_115109]",
     "descSimple": "AAAAAA==",
     "levelUpList": "AAAAAA==",
     "levelUpValue": "AAAAAA==",
@@ -8670,9 +8940,9 @@
     "skillTag": "AAAAAA=="
   },
   {
-    "sn": "115104",
+    "sn": "115110",
     "name": "AAAAAA==",
-    "desc": "tdxct-[Skill_desc_115104]",
+    "desc": "tnxct-[Skill_desc_115110]",
     "descSimple": "AAAAAA==",
     "levelUpList": "AAAAAA==",
     "levelUpValue": "AAAAAA==",
@@ -8680,9 +8950,9 @@
     "skillTag": "AAAAAA=="
   },
   {
-    "sn": "115105",
+    "sn": "115121",
     "name": "AAAAAA==",
-    "desc": "tdxct-[Skill_desc_115105]",
+    "desc": "tnxct-[Skill_desc_115121]",
     "descSimple": "AAAAAA==",
     "levelUpList": "AAAAAA==",
     "levelUpValue": "AAAAAA==",
@@ -8690,9 +8960,9 @@
     "skillTag": "AAAAAA=="
   },
   {
-    "sn": "115106",
+    "sn": "115122",
     "name": "AAAAAA==",
-    "desc": "tdxct-[Skill_desc_115106]",
+    "desc": "tnxct-[Skill_desc_115122]",
     "descSimple": "AAAAAA==",
     "levelUpList": "AAAAAA==",
     "levelUpValue": "AAAAAA==",
@@ -8700,9 +8970,9 @@
     "skillTag": "AAAAAA=="
   },
   {
-    "sn": "115107",
+    "sn": "115123",
     "name": "AAAAAA==",
-    "desc": "tdxct-[Skill_desc_115107]",
+    "desc": "tnxct-[Skill_desc_115123]",
     "descSimple": "AAAAAA==",
     "levelUpList": "AAAAAA==",
     "levelUpValue": "AAAAAA==",
@@ -8710,9 +8980,9 @@
     "skillTag": "AAAAAA=="
   },
   {
-    "sn": "115108",
+    "sn": "115124",
     "name": "AAAAAA==",
-    "desc": "tdxct-[Skill_desc_115108]",
+    "desc": "tnxct-[Skill_desc_115124]",
     "descSimple": "AAAAAA==",
     "levelUpList": "AAAAAA==",
     "levelUpValue": "AAAAAA==",
@@ -20443,7 +20713,7 @@
     "sn": "15311",
     "name": "Salvo",
     "desc": "Deal Gun damage to 1 foe equal to <color=#fffc40>^%s^</color> of Attack. On a critical hit, remove 1 more Down Point.",
-    "descSimple": "Gun dmg to 1 foe (%s Atk). On critical, remove 1 more Down Point.",
+    "descSimple": "Gun dmg to 1 foe (%s Atk). On crit, remove 1 more Down Point.",
     "levelUpList": "AAAAAA==",
     "levelUpValue": "AAAAAA==",
     "contentBG": "AAAAAA==",
@@ -20653,7 +20923,7 @@
     "sn": "11240",
     "name": "Knight's Glare",
     "desc": "Increase critical damage by 10%. When dealing Physical damage to 1 foe, increase Attack by 17% and increase critical rate by 10%.",
-    "descSimple": "Increase critical damage by 10%. When dealing Physical damage to 1 foe, increase Attack by 17% and increase critical rate by 10%.",
+    "descSimple": "Increase crit dmg by 10%. When dealing Phys dmg to 1 foe, increase Attack by 17% and increase crit rate by 10%.",
     "levelUpList": "AAAAAA==",
     "levelUpValue": "AAAAAA==",
     "contentBG": "AAAAAA==",
@@ -20663,7 +20933,7 @@
     "sn": "11241",
     "name": "Knight's Glare I",
     "desc": "Increase critical damage by 10%. When dealing Physical damage to 1 foe, increase Attack by 20% and increase critical rate by 12%.",
-    "descSimple": "Increase critical damage by 10%. When dealing Physical damage to 1 foe, increase Attack by 20% and increase critical rate by 12%.",
+    "descSimple": "Increase crit dmg by 10%. When dealing Phys dmg to 1 foe, increase Attack by 20% and increase crit rate by 12%.",
     "levelUpList": "AAAAAA==",
     "levelUpValue": "AAAAAA==",
     "contentBG": "AAAAAA==",
@@ -23673,7 +23943,7 @@
     "sn": "18841",
     "name": "Burning Wheel I",
     "desc": "Increase critical rate by 7%. Increase Physical damage taken by 10%, and increase Fire damage dealt by 38%.",
-    "descSimple": "Increase critical rate 7%. Increase Phys dmg taken 10% and Fire dmg dealt 38%.",
+    "descSimple": "Increase crit rate 7%. Increase Phys dmg taken 10% and Fire dmg dealt 38%.",
     "levelUpList": "AAAAAA==",
     "levelUpValue": "AAAAAA==",
     "contentBG": "AAAAAA==",
@@ -23683,7 +23953,7 @@
     "sn": "18842",
     "name": "Burning Wheel II",
     "desc": "Increase critical rate by 7%. Increase Physical damage taken by 10%, and increase Fire damage dealt by 42%.",
-    "descSimple": "Increase critical rate 7%. Increase Phys dmg taken 10% and Fire dmg dealt 42%.",
+    "descSimple": "Increase crit rate 7%. Increase Phys dmg taken 10% and Fire dmg dealt 42%.",
     "levelUpList": "AAAAAA==",
     "levelUpValue": "AAAAAA==",
     "contentBG": "AAAAAA==",
@@ -24943,7 +25213,7 @@
     "sn": "21640",
     "name": "Wrathful Thunder",
     "desc": "Increase critical rate by 10.5%. After using an Electric skill on 1 foe, deal bonus Electric damage equal to 37% of Attack.",
-    "descSimple": "Increase critical rate 10.5%. After using Elec skill on 1 foe, bonus Elec dmg (37% Atk).",
+    "descSimple": "Increase crit rate 10.5%. After using Elec skill on 1 foe, bonus Elec dmg (37% Atk).",
     "levelUpList": "AAAAAA==",
     "levelUpValue": "AAAAAA==",
     "contentBG": "AAAAAA==",
@@ -24953,7 +25223,7 @@
     "sn": "21641",
     "name": "Wrathful Thunder I",
     "desc": "Increase critical rate by 10.5%. After using an Electric skill on 1 foe, deal bonus Electric damage equal to 42% of Attack.",
-    "descSimple": "Increase critical rate 10.5%. After using Elec skill on 1 foe, bonus Elec dmg (42% Atk).",
+    "descSimple": "Increase crit rate 10.5%. After using Elec skill on 1 foe, bonus Elec dmg (42% Atk).",
     "levelUpList": "AAAAAA==",
     "levelUpValue": "AAAAAA==",
     "contentBG": "AAAAAA==",
@@ -24963,7 +25233,7 @@
     "sn": "21642",
     "name": "Wrathful Thunder II",
     "desc": "Increase critical rate by 10.5%. After using an Electric skill on 1 foe, deal bonus Electric damage equal to 47% of Attack.",
-    "descSimple": "Increase critical rate 10.5%. After using Elec skill on 1 foe, bonus Elec dmg (47% Atk).",
+    "descSimple": "Increase crit rate 10.5%. After using Elec skill on 1 foe, bonus Elec dmg (47% Atk).",
     "levelUpList": "AAAAAA==",
     "levelUpValue": "AAAAAA==",
     "contentBG": "AAAAAA==",
@@ -24973,7 +25243,7 @@
     "sn": "21643",
     "name": "Wrathful Thunder III",
     "desc": "Increase critical rate by 10.5%. After using an Electric skill on 1 foe, deal bonus Electric damage equal to 51% of Attack.",
-    "descSimple": "Increase critical rate 10.5%. After using Elec skill on 1 foe, bonus Elec dmg (51% Atk).",
+    "descSimple": "Increase crit rate 10.5%. After using Elec skill on 1 foe, bonus Elec dmg (51% Atk).",
     "levelUpList": "AAAAAA==",
     "levelUpValue": "AAAAAA==",
     "contentBG": "AAAAAA==",
@@ -25663,7 +25933,7 @@
     "sn": "16141",
     "name": "Goodwill to All",
     "desc": "Increase critical rate by 17.5%. Increase <link=\"s|105\"><u>Windswept</u></link> accuracy by 13%. Increase damage to Windswept foes by 13%. When inflicting or resetting Windswept, decrease the target's Defense by 32% for 2 turns.",
-    "descSimple": "Increase critical rate 17.5%. Increase chance to inflict Windswept 13%. Windswept foes take 13% more dmg. When inflicting or extending Windswept, decrease target's Def 32% (2 turns).",
+    "descSimple": "Increase crit rate 17.5%. Increase chance to inflict Windswept 13%. Windswept foes take 13% more dmg. When inflicting or extending Windswept, decrease target's Def 32% (2 turns).",
     "levelUpList": "AAAAAA==",
     "levelUpValue": "AAAAAA==",
     "contentBG": "AAAAAA==",
@@ -25673,7 +25943,7 @@
     "sn": "16142",
     "name": "Goodwill to All I",
     "desc": "Increase critical rate by 17.5%. Increase <link=\"s|105\"><u>Windswept</u></link> accuracy by 20%. Increase damage to Windswept foes by 13%. When inflicting or resetting Windswept, decrease the target's Defense by 32% for 2 turns.",
-    "descSimple": "Increase critical rate 17.5%. Increase chance to inflict Windswept 20%. Windswept foes take 13% more dmg. When inflicting or extending Windswept, decrease target's Def 32% (2 turns).",
+    "descSimple": "Increase crit rate 17.5%. Increase chance to inflict Windswept 20%. Windswept foes take 13% more dmg. When inflicting or extending Windswept, decrease target's Def 32% (2 turns).",
     "levelUpList": "AAAAAA==",
     "levelUpValue": "AAAAAA==",
     "contentBG": "AAAAAA==",
@@ -25683,7 +25953,7 @@
     "sn": "16143",
     "name": "Goodwill to All II",
     "desc": "Increase critical rate by 17.5%. Increase <link=\"s|105\"><u>Windswept</u></link> accuracy by 20%. Increase damage to Windswept foes by 20%. When inflicting or resetting Windswept, decrease the target's Defense by 32% for 2 turns.",
-    "descSimple": "Increase critical rate 17.5%. Increase chance to inflict Windswept 20%. Windswept foes take 20% more dmg. When inflicting or extending Windswept, decrease target's Def 32% (2 turns).",
+    "descSimple": "Increase crit rate 17.5%. Increase chance to inflict Windswept 20%. Windswept foes take 20% more dmg. When inflicting or extending Windswept, decrease target's Def 32% (2 turns).",
     "levelUpList": "AAAAAA==",
     "levelUpValue": "AAAAAA==",
     "contentBG": "AAAAAA==",
@@ -25693,7 +25963,7 @@
     "sn": "16144",
     "name": "Goodwill to All III",
     "desc": "Increase critical rate by 17.5%. Increase <link=\"s|105\"><u>Windswept</u></link> accuracy by 20%. Increase damage to Windswept foes by 20%. When inflicting or resetting Windswept, decrease the target's Defense by 48% for 2 turns.",
-    "descSimple": "Increase critical rate 17.5%. Increase chance to inflict Windswept 20%. Windswept foes take 20% more dmg. When inflicting or extending Windswept, decrease target's Def 48% (2 turns).",
+    "descSimple": "Increase crit rate 17.5%. Increase chance to inflict Windswept 20%. Windswept foes take 20% more dmg. When inflicting or extending Windswept, decrease target's Def 48% (2 turns).",
     "levelUpList": "AAAAAA==",
     "levelUpValue": "AAAAAA==",
     "contentBG": "AAAAAA==",
@@ -26103,7 +26373,7 @@
     "sn": "15913",
     "name": "Playful Barrage",
     "desc": "Deal Gun damage to 1 foe equal to <color=#fffc40>^%s^%</color> of Attack. When dealing a critical hit, increase critical damage by 30%.",
-    "descSimple": "Light Gun dmg with increased critical dmg to 1 foe.",
+    "descSimple": "Light Gun dmg with increased crit dmg to 1 foe.",
     "levelUpList": "Skill Multiplier",
     "levelUpValue": "AAAAAA==",
     "contentBG": "AAAAAA==",
@@ -28680,6 +28950,36 @@
     "skillTag": "Multi-Target"
   },
   {
+    "sn": "82011",
+    "name": "Double Fangs",
+    "desc": "Deal Physical damage to 1 foe equal to <color=#fffc40>^%s^%</color> of Attack (2 hits).",
+    "descSimple": "Phys dmg to 1 foe (%s% Atk, 2 hits).",
+    "levelUpList": "Dmg Increase",
+    "levelUpValue": "AAAAAA==",
+    "contentBG": "AAAAAA==",
+    "skillTag": "Single-Target"
+  },
+  {
+    "sn": "82014",
+    "name": "Diarahan",
+    "desc": "Restore 50% of max HP to Narcissus.",
+    "descSimple": "Restore 50% max HP to Narcissus.",
+    "levelUpList": "HP Recovery",
+    "levelUpValue": "AAAAAA==",
+    "contentBG": "AAAAAA==",
+    "skillTag": "Single-Heal"
+  },
+  {
+    "sn": "82015",
+    "name": "Dazzler",
+    "desc": "<color=#fffc40>^%s^%</color> chance to inflict <link=\"s|107\"><u>Dizzy</u></link> on 1 foe for 2 turns.",
+    "descSimple": "%s% chance to inflict Dizzy on 1 foe (2 turns).",
+    "levelUpList": "Accuracy",
+    "levelUpValue": "AAAAAA==",
+    "contentBG": "AAAAAA==",
+    "skillTag": "Control"
+  },
+  {
     "sn": "6335",
     "name": "Maeigaon",
     "desc": "Deal Curse damage to all foes equal to <color=#fffc40>^%s^%</color> of Attack. Chance to inflict 1 <link=\"s|112\"><u>Curse</u></link> stack on foes.",
@@ -30921,7 +31221,7 @@
   },
   {
     "sn": "2314",
-    "name": "Power of the Heavenly Kings",
+    "name": "Asura's Manifestation",
     "desc": "AAAAAA==",
     "descSimple": "AAAAAA==",
     "levelUpList": "AAAAAA==",
@@ -35832,12 +36132,112 @@
   {
     "sn": "3494",
     "name": "Psio",
-    "desc": "Deal Psychokinesis damage to 1 foe equal to <color=#fffc40>^%s^%</color> of Attack. If foe has an <link=\"s|106\"><u>elemental ailment</u></link>, increase damage by 40%.",
-    "descSimple": "Psy dmg to 1 foe (%s% Atk). Increase dmg to foe with spiritual ailment 40%.",
+    "desc": "Deal Psychokinesis damage to 1 foe. If foe has an <link=\"s|106\"><u>elemental ailment</u></link>, increase damage by 40%.",
+    "descSimple": "AAAAAA==",
     "levelUpList": "Dmg Dealt",
     "levelUpValue": "AAAAAA==",
     "contentBG": "AAAAAA==",
     "skillTag": "Single-Target"
+  },
+  {
+    "sn": "3495",
+    "name": "AAAAAA==",
+    "desc": "AAAAAA==",
+    "descSimple": "AAAAAA==",
+    "levelUpList": "AAAAAA==",
+    "levelUpValue": "AAAAAA==",
+    "contentBG": "AAAAAA==",
+    "skillTag": "Multi-Target"
+  },
+  {
+    "sn": "3496",
+    "name": "AAAAAA==",
+    "desc": "AAAAAA==",
+    "descSimple": "AAAAAA==",
+    "levelUpList": "AAAAAA==",
+    "levelUpValue": "AAAAAA==",
+    "contentBG": "AAAAAA==",
+    "skillTag": "Support"
+  },
+  {
+    "sn": "3497",
+    "name": "AAAAAA==",
+    "desc": "AAAAAA==",
+    "descSimple": "AAAAAA==",
+    "levelUpList": "AAAAAA==",
+    "levelUpValue": "AAAAAA==",
+    "contentBG": "AAAAAA==",
+    "skillTag": "Support"
+  },
+  {
+    "sn": "3498",
+    "name": "AAAAAA==",
+    "desc": "AAAAAA==",
+    "descSimple": "AAAAAA==",
+    "levelUpList": "AAAAAA==",
+    "levelUpValue": "AAAAAA==",
+    "contentBG": "AAAAAA==",
+    "skillTag": "Multi-Target"
+  },
+  {
+    "sn": "3499",
+    "name": "Freidyne",
+    "desc": "Deal Nuclear damage to 1 foe.",
+    "descSimple": "AAAAAA==",
+    "levelUpList": "Dmg Increase",
+    "levelUpValue": "AAAAAA==",
+    "contentBG": "AAAAAA==",
+    "skillTag": "Single-Target Attack"
+  },
+  {
+    "sn": "3500",
+    "name": "Maragidyne",
+    "desc": "Deal Fire damage to all foes.",
+    "descSimple": "AAAAAA==",
+    "levelUpList": "Dmg Increase",
+    "levelUpValue": "AAAAAA==",
+    "contentBG": "AAAAAA==",
+    "skillTag": "Multi-Target"
+  },
+  {
+    "sn": "3507",
+    "name": "Matarukaja",
+    "desc": "Increase party's Attack for 3 turns.",
+    "descSimple": "AAAAAA==",
+    "levelUpList": "Skill Cost",
+    "levelUpValue": "AAAAAA==",
+    "contentBG": "AAAAAA==",
+    "skillTag": "Buff"
+  },
+  {
+    "sn": "3508",
+    "name": "Marakukaja",
+    "desc": "Increase party's Defense for 3 turns.",
+    "descSimple": "AAAAAA==",
+    "levelUpList": "Skill Cost",
+    "levelUpValue": "AAAAAA==",
+    "contentBG": "AAAAAA==",
+    "skillTag": "Buff"
+  },
+  {
+    "sn": "3509",
+    "name": "Maragidyne",
+    "desc": "Deal Fire damage to all foes.",
+    "descSimple": "AAAAAA==",
+    "levelUpList": "Dmg Increase",
+    "levelUpValue": "AAAAAA==",
+    "contentBG": "AAAAAA==",
+    "skillTag": "Multi-Target"
+  },
+  {
+    "sn": "3510",
+    "name": "Diarahan",
+    "desc": "AAAAAA==",
+    "descSimple": "AAAAAA==",
+    "levelUpList": "AAAAAA==",
+    "levelUpValue": "AAAAAA==",
+    "contentBG": "AAAAAA==",
+    "skillTag": "Passive,Single-Heal"
   },
   {
     "sn": "3501",
@@ -35927,7 +36327,7 @@
     "levelUpList": "AAAAAA==",
     "levelUpValue": "AAAAAA==",
     "contentBG": "AAAAAA==",
-    "skillTag": "Multi-Target"
+    "skillTag": "Single-Target"
   },
   {
     "sn": "3554",
@@ -36425,6 +36825,126 @@
     "desc": "Deal Ice damage to all foes. Inflict Chill. If targets are inflicted with Chill, increase this damage by 20% one time.\nAlso, <color=#fffc40>^%s^%</color> chance to inflict <link=\"s|103\"><u>Freeze</u></link> for 2 turns.",
     "descSimple": "Ice dmg to all foes (%s% Atk). %s% chance to inflict Freeze.",
     "levelUpList": "Dmg Dealt",
+    "levelUpValue": "AAAAAA==",
+    "contentBG": "AAAAAA==",
+    "skillTag": "Multi-Target"
+  },
+  {
+    "sn": "3674",
+    "name": "Michael's Stronghold",
+    "desc": "Grant shield to party, and decrease final damage taken by 5% for 2 turns.",
+    "descSimple": "AAAAAA==",
+    "levelUpList": "AAAAAA==",
+    "levelUpValue": "AAAAAA==",
+    "contentBG": "AAAAAA==",
+    "skillTag": "Shield"
+  },
+  {
+    "sn": "3675",
+    "name": "Gabriel's Annunciation",
+    "desc": "Increase all foes' final damage taken by 5% for 1 turn. Also, 40% chance to inflict Forget on the foe with the highest Attack for 2 turns.",
+    "descSimple": "AAAAAA==",
+    "levelUpList": "AAAAAA==",
+    "levelUpValue": "AAAAAA==",
+    "contentBG": "AAAAAA==",
+    "skillTag": "Debuff"
+  },
+  {
+    "sn": "3676",
+    "name": "Raphael's Balm",
+    "desc": "Restore party's HP and increase final damage dealt by 5% for 1 turn.",
+    "descSimple": "AAAAAA==",
+    "levelUpList": "AAAAAA==",
+    "levelUpValue": "AAAAAA==",
+    "contentBG": "AAAAAA==",
+    "skillTag": "Multi-Heal"
+  },
+  {
+    "sn": "3677",
+    "name": "Uriel's Judgement",
+    "desc": "Deal Almighty damage to all foes, ignoring their Defense. Increase damage by 5% on foes with elemental ailments.",
+    "descSimple": "AAAAAA==",
+    "levelUpList": "AAAAAA==",
+    "levelUpValue": "AAAAAA==",
+    "contentBG": "AAAAAA==",
+    "skillTag": "Multi-Target"
+  },
+  {
+    "sn": "3678",
+    "name": "Marakukaja",
+    "desc": "Increase party's Defense for 3 turns.",
+    "descSimple": "AAAAAA==",
+    "levelUpList": "AAAAAA==",
+    "levelUpValue": "AAAAAA==",
+    "contentBG": "AAAAAA==",
+    "skillTag": "Buff"
+  },
+  {
+    "sn": "3679",
+    "name": "Mabufudyne",
+    "desc": "Deal Ice damage to all foes, with a chance to inflict <link=\"s|103\"><u>Freeze</u></link> for 2 turns.",
+    "descSimple": "AAAAAA==",
+    "levelUpList": "AAAAAA==",
+    "levelUpValue": "AAAAAA==",
+    "contentBG": "AAAAAA==",
+    "skillTag": "Multi-Target"
+  },
+  {
+    "sn": "3680",
+    "name": "Masukukaja",
+    "desc": "Increase party's ailment accuracy and ailment resistance for 3 turns.",
+    "descSimple": "AAAAAA==",
+    "levelUpList": "AAAAAA==",
+    "levelUpValue": "AAAAAA==",
+    "contentBG": "AAAAAA==",
+    "skillTag": "Buff"
+  },
+  {
+    "sn": "3681",
+    "name": "Maziodyne",
+    "desc": "Deal Electric damage to all foes, with a chance to inflict <link=\"s|104\"><u>Shock</u></link> for 2 turns.",
+    "descSimple": "AAAAAA==",
+    "levelUpList": "AAAAAA==",
+    "levelUpValue": "AAAAAA==",
+    "contentBG": "AAAAAA==",
+    "skillTag": "Multi-Target"
+  },
+  {
+    "sn": "3682",
+    "name": "Magarudyne",
+    "desc": "Deal Wind damage to all foes, with a chance to inflict <link=\"s|105\"><u>Windswept</u></link> for 2 turns.",
+    "descSimple": "AAAAAA==",
+    "levelUpList": "AAAAAA==",
+    "levelUpValue": "AAAAAA==",
+    "contentBG": "AAAAAA==",
+    "skillTag": "Multi-Target"
+  },
+  {
+    "sn": "3683",
+    "name": "Megidolaon",
+    "desc": "Deal Almighty damage to all foes, ignoring their Defense.",
+    "descSimple": "AAAAAA==",
+    "levelUpList": "AAAAAA==",
+    "levelUpValue": "AAAAAA==",
+    "contentBG": "AAAAAA==",
+    "skillTag": "Multi-Target"
+  },
+  {
+    "sn": "3684",
+    "name": "Maragidyne",
+    "desc": "Deal Fire damage to all foes, with a chance to inflict <link=\"s|105\"><u>Burn</u></link> for 2 turns.",
+    "descSimple": "AAAAAA==",
+    "levelUpList": "AAAAAA==",
+    "levelUpValue": "AAAAAA==",
+    "contentBG": "AAAAAA==",
+    "skillTag": "Multi-Target"
+  },
+  {
+    "sn": "3685",
+    "name": "Deathbound",
+    "desc": "Deal Physical damage to all foes (1-2 hits).",
+    "descSimple": "AAAAAA==",
+    "levelUpList": "AAAAAA==",
     "levelUpValue": "AAAAAA==",
     "contentBG": "AAAAAA==",
     "skillTag": "Multi-Target"
@@ -41121,7 +41641,7 @@
   },
   {
     "sn": "51521",
-    "name": "tdxct-[Skill_name_51521]",
+    "name": "All in Order",
     "desc": "Increase Attack by <color=#2899FF>^%s^</color>.",
     "descSimple": "AAAAAA==",
     "levelUpList": "AAAAAA==",
@@ -41131,7 +41651,7 @@
   },
   {
     "sn": "51531",
-    "name": "tdxct-[Skill_name_51531]",
+    "name": "Tranquility",
     "desc": "tdxct-[Skill_desc_51531]",
     "descSimple": "AAAAAA==",
     "levelUpList": "AAAAAA==",
@@ -41141,7 +41661,7 @@
   },
   {
     "sn": "51541",
-    "name": "tdxct-[Skill_name_51541]",
+    "name": "Severing Slash",
     "desc": "tdxct-[Skill_desc_51541]",
     "descSimple": "AAAAAA==",
     "levelUpList": "AAAAAA==",
@@ -41151,7 +41671,7 @@
   },
   {
     "sn": "51552",
-    "name": "tdxct-[Skill_name_51552]",
+    "name": "Kaito Ranma",
     "desc": "tdxct-[Skill_desc_51552]",
     "descSimple": "AAAAAA==",
     "levelUpList": "AAAAAA==",
@@ -41881,8 +42401,8 @@
   },
   {
     "sn": "59041",
-    "name": "tdxct-[Skill_name_59041]",
-    "desc": "tdxct-[Skill_desc_59041]",
+    "name": "Harmonic Element",
+    "desc": "Increase Attack by <color=#2899FF>^%s^</color>.\nAt the start of battle, or when an ally deals damage with an Almighty skill, activate Harmonic Element for 2 turns.\nHarmonic Element: Based on the number of Flames of Desire effects active on the current party, activate the following effects.\n1 or more: Increase user's Attack by <color=#2899FF>^%s^</color> and Almighty damage by <color=#2899FF>^%s^</color>. Grant 50% of these effects to other allies.\n2 or more: Increase party's critical damage by <color=#2899FF>^%s^</color>.",
     "descSimple": "AAAAAA==",
     "levelUpList": "AAAAAA==",
     "levelUpValue": "AAAAAA==",
@@ -42660,6 +43180,46 @@
     "skillTag": "AAAAAA=="
   },
   {
+    "sn": "53621",
+    "name": "The Flag of Outcomes",
+    "desc": "Increase Attack by <color=#2899FF>^%s^</color>.",
+    "descSimple": "AAAAAA==",
+    "levelUpList": "AAAAAA==",
+    "levelUpValue": "AAAAAA==",
+    "contentBG": "AAAAAA==",
+    "skillTag": "AAAAAA=="
+  },
+  {
+    "sn": "53631",
+    "name": "The Flag of Victors",
+    "desc": "At the start of battle, for each Sweeper or Assassin ally, increase damage by <color=#2899FF>^%s^</color> (up to a maximum of <color=#2899FF>^%s^</color>).",
+    "descSimple": "AAAAAA==",
+    "levelUpList": "AAAAAA==",
+    "levelUpValue": "AAAAAA==",
+    "contentBG": "AAAAAA==",
+    "skillTag": "AAAAAA=="
+  },
+  {
+    "sn": "53641",
+    "name": "The Spear of Breakthroughs",
+    "desc": "Increase Attack by <color=#2899FF>^%s^</color>.\nWhen activating Torque Boost, increase damage by <color=#2899FF>^%s^</color>.",
+    "descSimple": "AAAAAA==",
+    "levelUpList": "AAAAAA==",
+    "levelUpValue": "AAAAAA==",
+    "contentBG": "AAAAAA==",
+    "skillTag": "AAAAAA=="
+  },
+  {
+    "sn": "53651",
+    "name": "The Spear of Triumph",
+    "desc": "Increase Speed by <color=#2899FF>^%s^</color>. When Mayumi's Speed is over 100, for every 10 points of Speed above 100, increase Attack by <color=#2899FF>^%s^</color> (up to a maximum of <color=#2899FF>^%s^</color>).\nAfter activating a skill, for every 40 stacks of total Velocity, increase party's damage by <color=#2899FF>^%s^</color> for 2 turns (up to a maximum of <color=#2899FF>^%s^</color>).",
+    "descSimple": "AAAAAA==",
+    "levelUpList": "AAAAAA==",
+    "levelUpValue": "AAAAAA==",
+    "contentBG": "AAAAAA==",
+    "skillTag": "AAAAAA=="
+  },
+  {
     "sn": "54621",
     "name": "Warden's Warning",
     "desc": "Increase Attack by <color=#2899FF>^%s^</color>.",
@@ -42782,7 +43342,7 @@
   {
     "sn": "28",
     "name": "AAAAAA==",
-    "desc": "Grant shield equal to 50% of own HP.",
+    "desc": "Grant a shield equal to 50% of own HP.",
     "descSimple": "AAAAAA==",
     "levelUpList": "AAAAAA==",
     "levelUpValue": "AAAAAA==",

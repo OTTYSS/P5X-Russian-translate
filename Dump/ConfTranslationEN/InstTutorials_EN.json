@@ -1,5 +1,10 @@
 [
   {
+    "sn": "10001",
+    "title": "Traits",
+    "text": "Shadows have different weaknesses and resistances than normal."
+  },
+  {
     "sn": "9851",
     "title": "Genbu I",
     "text": "1. Genbu gains Black Tortoiseshell stacks equal to its <color=#FF423F>Down Points</color>, increasing its Defense and damage reduction.\n2. When Genbu is hit by an attack other than its weakness or a critical, it gains 1 <color=#FF423F>Down Point</color> and 1 Black Tortoiseshell stack.\n3. At the start of its action, if Genbu has 8 Black Tortoiseshell stacks, it will activate Genbu's Rage and deal heavy damage to all Phantom Thieves."
@@ -357,7 +362,7 @@
   {
     "sn": "502111",
     "title": "Special Effect",
-    "text": "1. At the start of battle, Oberon and Titania each gain 5 Fairy Power stacks, decreasing damage taken by 4% per stack.\n2. Each time Oberon or Titania is defeated, the other will spend 1 Fairy Power stack to summon them again.\n3. When their Fairy Power is depleted, Oberon and Titania will be weakened, greatly increasing their damage taken.\nLasts for 2 turns, after which they regain 5 Fairy Power stacks."
+    "text": "1. At the start of battle, Oberon and Titania each gain 5 Fairy Power stacks, decreasing final damage taken by 4% per stack.\n2. Each time Oberon or Titania is defeated, the other will spend 1 Fairy Power stack to summon them again.\n3. When their Fairy Power is depleted, Oberon and Titania will be weakened, greatly increasing their damage taken.\nLasts for 2 turns, after which they regain 5 Fairy Power stacks."
   },
   {
     "sn": "503101",
@@ -463,6 +468,11 @@
     "sn": "523111",
     "title": "Special Effect",
     "text": "1. At the start of battle, Seiryu gains 2 Azure Scales stacks, and gains 1 more stack every turn. Each stack decreases final damage taken by 10%.\n2. When Seiryu takes weakness damage, it loses 1 Azure Scales stack.\n3. When Seiryu loses all Azure Scales stacks, all Phantom Thieves gain Seiryu's Might, increasing their final damage dealt."
+  },
+  {
+    "sn": "526101",
+    "title": "Special Effect",
+    "text": "1. Cerberus continuously summons waves of Shadows. When a Shadow is defeated, Cerberus takes Almighty damage based on the total damage taken by the defeated Shadow.\n2. Shadows summoned by Cerberus have greatly increased Defense and increased final damage taken."
   },
   {
     "sn": "539101",
@@ -1142,7 +1152,7 @@
   {
     "sn": "738611",
     "title": "Unique Shadow Abilities",
-    "text": "Nidhoggr and Yurlungur have different weaknesses and resistances than normal.\n1. Nidhoggr and all other Shadows are in the <color=#FF423F>Soul Link</color> state.\nSoul Link: Distributes all damage received between all Shadows who share this condition, based on the percentage of their current HP.\n2. When Nidhoggr and other Shadows use skills, all skill targets are inflicted with 1 stack of <color=#FF423F>Poison</color>.\nPoison: At the end of a turn, Phantom thieves lose a certain amount of HP for each stack, but also increase their Attack by 10%.\nPoison cannot be dispelled and can stack up to 3 times."
+    "text": "Nidhoggr and Yurlungur have different weaknesses and resistances than normal.\nWhen Nidhoggr and other Shadows use skills, all skill targets are inflicted with 1 <color=#FF423F>Poison</color> stack.\nPoison: At the end of a turn, Phantom Thieves lose a certain amount of HP for each stack, but also increase their Attack by 10%.\nPoison cannot be dispelled, and stacks up to 3 times."
   },
   {
     "sn": "739111",
@@ -1162,7 +1172,7 @@
   {
     "sn": "742111",
     "title": "Unique Shadow Abilities",
-    "text": "Fafnir inflicts <color=#FF423F>Fafnir's Curse</color> on all Phantom Thieves.\nFafnir's Curse: Increase damage taken by 20%. When a Phantom Thief uses a Buff, Healing, or Defense skill, Fafnir's Curse is removed, and Fafnir is inflicted with 1 Curse's Remnant</color> stack.\nCurse's Remnant: Decrease Defense by 12%. Stacks up to 3 times. At 3 stacks, increase Fafnir's Highlight damage taken by 30%."
+    "text": "Fafnir inflicts <color=#FF423F>Fafnir's Curse</color> on all Phantom Thieves.\nFafnir's Curse: Increase damage taken by 20%. When a Phantom Thief uses a Buff, Healing, or Defense skill, Fafnir's Curse is removed, and Fafnir is inflicted with 1 <color=#FF423F>Curse's Remnant</color> stack.\nCurse's Remnant: Decrease Defense by 12%. Stacks up to 3 times. At 3 stacks, increase Fafnir's Highlight damage taken by 30%."
   },
   {
     "sn": "228011",
@@ -1343,6 +1353,11 @@
     "sn": "902011",
     "title": "Dire Seth",
     "text": "Shadows have different weaknesses and resistances than normal.\n1. Seth controls day and night, and switches the status of Dazzling Daylight and Obscuring Darkness each turn.\n2. When Dazzling Daylight is active, final damage dealt by Isis and Horus increases by 25%, and their final damage taken decreases by 25%. When Obscuring Darkness is active, their final damage dealt decreases by 25%, and their final damage taken increases by 25%.\n3. When Dazzling Daylight is active, final damage dealt by Thoth and Anubis decreases by 25%, and their final damage taken increases by 25%. When Obscuring Darkness is active, their final damage dealt increases by 25%, and their final damage taken decreases by 25%.\n4. While Dazzling Daylight is active, Isis uses Diarama, healing the Shadow with the lowest HP percentage. Each turn, Isis grants Amulet of Rebirth to Seth. At 4 Amulet of Rebirth stacks, they are exchanged for 1 Power of Rebirth stack. When a Shadow with Power of Rebirth is at low HP, it spends 1 Power of Rebirth to restore 25% of its max HP.\n5. While Dazzling Daylight is active, Horus grants Sun God's Blessing to Seth every turn. At 4 Sun God's Blessing stacks, they are exchanged for 1 Sun God's Power stack. When a Shadow has Sun God's Power, its final damage dealt is increased by 20%.\n6. While Obscuring Darkness is active, Thoth alternates between using Wisdom Theurgy and Shield Theurgy.\nWisdom Theurgy: Select the Shadow with the lowest HP and change all of that target's affinities to Resist for 2 turns.\nShield Theurgy: Grant a shield to all allies for 2 turns.\n7. While Obscuring Darkness is active, Anubis inflicts Curse of Annihilation on 1 random Phantom Thief each turn, after which it inflicts it on the Phantom Thief with the most Curse of Annihilation stacks. Curse of Annihilation insta-kills when it reaches 4 stacks and can be prioritized for removal. When Anubis is defeated, it deals Curse damage to all Phantom Thieves.\n8. When at the verge of death, Seth will defeat all Shadows present and change to Dire Seth. When it does, if Horus is present, it will change to always Dazzling Daylight state and summon Isis and Horus. If Horus is not present, it will change to always Obscuring Darkness state and summon Thoth and Anubis."
+  },
+  {
+    "sn": "902211",
+    "title": "Michael",
+    "text": "1. At the start of battle, Michael summons 3 Shadows. Each Shadow has their own unique skill.\nMichael's Stronghold: Grant all Shadows a shield and decrease final damage taken by 5% for 2 turns.\nGabriel's Annunciation: Increase all Phantom Thieves' final damage taken by 5% for 1 turn. Also, 40% chance to inflict Forget on the Phantom Thief with the highest Attack for 2 turns.\nRaphael's Balm: Restore all Shadows' HP, and increase final damage dealt by 5% for 1 turn.\nUriel's Judgement: Deal Almighty damage to all Phantom Thieves, ignoring their defense. Increase damage by 5% on Phantom Thieves with elemental ailments.\n2. At the start of battle, Michael uses Michael's Stronghold.\n3. When all the Shadows have been defeated in the first phase, the battle will proceed to the second phase, and 4 Shadows in the Soul Link state will be summoned.\n4. Each time a certain number of turns pass, each Shadow will start preparing their unique skills, and activate them on the following turn. If a Shadow is downed while preparing, their skill will be interrupted. During the second phase, if a Shadow's skill is interrupted, they will start preparing on the next turn, and cannot be downed.\n5. During the first phase, when a Shadow is defeated for the first time, the Phantom Thief that defeated them will gain that Shadow's unique skill, as well as an Abnormality buff. The first two Shadows defeated during the first phase will gain an additional Down Point during the second phase."
   },
   {
     "sn": "920011",
@@ -1560,9 +1575,14 @@
     "text": "1. In the first phase of battle, Dancer of Dreams alternates between summoning Pale Rider and Red Rider. When the summoned Shadows are defeated, it will summon them again 2 turns later.\n2. In the second phase of battle, Dancer of Dreams will summon Pale Rider and Red Rider at the same time. When both of the summoned Shadows are on the field, final damage against Dancer of Dreams is decreased by 50%. When the summoned Shadows are defeated, it will summon them again 2 turns later.\n3. When summoned Shadows are on the field, Dancer of Dreams will use <color=#FF423F>Ephemeral Sustenance</color> on 1 of the Shadows.\nEphemeral Sustenance: After 3 turns, that summoned Shadow will be sacrificed to restore a certain amount of Dancer of Dreams's HP.\n4. Pale Rider uses <color=#FF423F>Brain Shake</color>.\nBrain Shake: Deal Physical damage to the Phantom Thief with the lowest HP, with a chance to inflict Brainwash for 2 turns.\n5. Red Rider uses <color=#FF423F>Appeal to Retreat</color>.\nAppeal to Retreat: Decrease Highlight Gauge by 40% of its current amount. When Red Rider is defeated, instantly increase Highlight Gauge by 50%."
   },
   {
+    "sn": "917501",
+    "title": "AAAAAA==",
+    "text": "AAAAAA=="
+  },
+  {
     "sn": "921511",
     "title": "Frostgale Kotone's Skills",
-    "text": "1. Frostgale Kotone specializes in <color=#FF423F>single-target attacks</color>. During battle, she can switch between <color=#FF423F>Spring Form</color> and <color=#FF423F>Winter Form</color>, allowing her to change the attribute of her skills and Highlight accordingly.\n2. During battle, she can create a <color=#FFFC40>barrier</color> to collect <color=#FFFC40>Vestiges</color>, and then spend those Vestiges to shatter the barrier and unleash a powerful <color=#FFFC40>Resonance</color> on enemies.\n3. While the barrier is open and a Phantom Thief with the same attribute uses skills, more Vestiges can be collected, and Frostgale Kotone will deal more damage."
+    "text": "1. Frostgale Kotone specializes in <color=#FF423F>single-target attacks</color>. During battle, she can switch between <color=#FF423F>Spring Form</color> and <color=#FF423F>Winter Form</color>, allowing her to change the attribute of her skills and Highlight accordingly.\n2. During battle, she can create a <color=#FF423F>barrier</color> to collect <color=#FF423F>Vestiges</color>, and then spend those Vestiges to shatter the barrier and unleash a powerful <color=#FF423F>Resonance</color> on enemies.\n3. While the barrier is open and a Phantom Thief with the same attribute uses skills, more Vestiges can be collected, and Frostgale Kotone will deal more damage."
   },
   {
     "sn": "934211",
@@ -1677,7 +1697,7 @@
   {
     "sn": "660441",
     "title": "Unique Shadow Abilities",
-    "text": "1. Jikokuten will activate <color=#FF423F>Blade of Sanctuary</color>.\nBlade of Sanctuary: Each time damage is dealt, grant a shield to 1 random Shadow.\n2. Zouchouten will activate <color=#FF423F>Growth of All Things</color>.\nGrowth of All Things: Randomly increases Attack, Defense, or damage of all Shadows each turn.\n3. Koumokuten will activate <color=#FF423F>Eye of Heaven</color>.\nEye of Heaven: Select 1 Phantom Thief. Increase their damage taken, and have all Shadows focus attacks on them next turn.\nBefore using Eye of Heaven, Koumokuten will summon 1 Makami.\n4. Bishamonten will activate <color=#FF423F>Parasol of Chaos</color>.\nParasol of Chaos: Covers the Shadow with the lowest HP percentage, and changes all affinities to Drain. Lasts for 2 turns.\n5. When only 1 Shadow remains, it will be replaced with <color=#FF423F>Asura</color> and recover 30% of its HP.\n6. Be warned, <color=#FF423F>Asura possesses the skills of all of the Four Heavenly Kings</color>.\n7. Shadows gain the following abilities as turns progress.\nStarting on turn 3, Shadows gain 1 <color=#FF423F>Berserk</color> stack every turn.\nStarting on turn 5, Shadows gain 2 Berserk stack every turn.\nBerserk: Damage increases by 10%.\nStacks up to 20 times."
+    "text": "1. Jikokuten will activate <color=#FF423F>Blade of Sanctuary</color>.\nBlade of Sanctuary: Each time damage is dealt, grant a shield to 1 random Shadow.\n2. Zouchouten will activate <color=#FF423F>Growth of All Things</color>.\nGrowth of All Things: Randomly increases Attack, Defense, or damage of all Shadows each turn.\n3. Koumokuten will activate <color=#FF423F>Eye of Heaven</color>.\nEye of Heaven: Select 1 Phantom Thief. Increase their damage taken, and have all Shadows focus attacks on them next turn.\nBefore using Eye of Heaven, Koumokuten will summon 1 Makami.\n4. Bishamonten will activate <color=#FF423F>Parasol of Chaos</color>.\nParasol of Chaos: Covers the Shadow with the lowest HP percentage, and changes all affinities to Drain. Lasts for 2 turns.\n5. When only 1 Shadow remains, it will be replaced with <color=#FF423F>Asura</color> and recover 30% of its HP.\n6. Be warned, <color=#FF423F>Asura possesses some of Jikokuten, Zouchouten, Koumokuten and Bishamonten's skills</color>.\n7. Shadows gain the following abilities as turns progress.\nStarting on turn 3, Shadows gain 1 <color=#FF423F>Berserk</color> stack every turn.\nStarting on turn 5, Shadows gain 2 Berserk stack every turn.\nBerserk: Damage increases by 10%.\nStacks up to 20 times."
   },
   {
     "sn": "921711",
@@ -1740,6 +1760,16 @@
     "text": "1. Mio possesses powerful <color=#FF423F>support capabilities</color>. During battle, she can inflict debuffs on foes that <color=#FF423F>decrease Defense</color>, <color=#FF423F>increase damage taken</color>, and make them <color=#FF423F>unable to act</color>.\n2. During battle, she can activate <color=#FF423F>Ice Technicals</color>. With Scald, she can increase <color=#FF423F>Technical Precision</color> when allies attack, and strengthen technicals with additional effects.\n3. She can grant light shields, raising her allies' <color=#FF423F>survivability</color>."
   },
   {
+    "sn": "922111",
+    "title": "Akechi's Skills",
+    "text": "tdxct-[InstTutorials_text_922111]"
+  },
+  {
+    "sn": "922211",
+    "title": "Mayumi Hashimoto's Skills",
+    "text": "1. Mayumi possesses powerful <color=#FF423F>support capabilities</color>, granting the party increased pierce rate, Attack and damage dealt.\n2. Based on the total Velocity she accumulates during battle, she can activate Torque Boost, increasing the party's pierce rate.\n3. Each time her Velocity reaches a certain amount, Mayumi can gain an <color=#FF423F>extra action</color>. Each of her skills have additional effects when used during her extra action."
+  },
+  {
     "sn": "923411",
     "title": "Justine & Caroline's Skills",
     "text": "1. As a <color=#FF423F>Virtuoso</color> unit, Justine & Caroline can freely combine multiple sets of Personas before battle to create <color=#FF423F>6 different</color> role-based fighting styles.\n2. By combining Mask of Mischief & Innocence and Mask of Absurdity & Nonsense, the twins will gain <color=#FF423F>Strategist abilities</color>. By using each of these skills, they can use Two Masks as One.\n3. By granting allies <color=#FF423F>Skill Amplification</color>, they can strengthen allies' <color=#FF423F>skill effects when they are enhanced</color>, as well as improve their attack, support, and recovery abilities simultaneously."
@@ -1783,5 +1813,10 @@
     "sn": "937211",
     "title": "Unique Shadow Abilities",
     "text": "Shadows have different weaknesses and resistances than normal.\n1. When Surt is on the field, it will summon 1 additional Surt.\n2. At the start of Surt's turn, Surt's <color=#FF423F>Progress</color> increases for each summoned Surt on the field.\nWhen Progress reaches 10, Surt activates <color=#FF423F>Abyssal Gaze</color>. This skill's damage increases according to the number of summoned Surt on the field.\n3. While Surt is on the field, all Shadows gain <color=#FF423F>Muddy Armor</color> and <color=#FF423F>Melted Armor</color> every 2 turns.\nMuddy Armor: Decrease final damage taken by 20%. When inflicted with Burn, this effect is removed.\nMelted Armor: Decrease final damage taken by 40%. When Burn is removed, Muddy Armor and Melted Armor are removed from all Shadows."
+  },
+  {
+    "sn": "938211",
+    "title": "Unique Shadow Abilities",
+    "text": "1. Yamata-no-Orochi has extremely high HP, and gains Berserk each time a certain number of turns pass. After a Phantom Thief takes an extra action, it will summon 1 Yurlungur. It can perform summoning up to 5 times, and on the 5th time, it will summon 1 Makami.\n2. When Yurlungur is on the field, Yamata-no-Orochi's final damage taken increases by 150%. After Yamata-no-Orochi ends its turn, Yurlungur will be KO'd.\n3. When Makami is defeated, all Phantom Thieves will gain Ame-no-Murakumo.\nAme-no-Murakumo: Increase final damage by 25%."
   }
 ]
