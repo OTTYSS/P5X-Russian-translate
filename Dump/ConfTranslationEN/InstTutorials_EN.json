@@ -397,7 +397,7 @@
   {
     "sn": "508111",
     "title": "Special Effect",
-    "text": "1. Sraosha will summon servants during the battle.\nWhen a servant is defeated, Sraosha takes Almighty damage based on the servant's max HP.\n2. Sraosha will restore all Phantom Thieves' SP each turn, but also uses Debilitate on the Phantom Thief with the highest Attack, greatly decreasing their damage.\n3. When a servant loses a Down Point, all Phantom Thieves' damage is increased by 15%. Lasts for 1 turn."
+    "text": "Shadows have different weaknesses and resistances than normal.\n1. Sraosha will summon Shadows during the battle. Damage that exceeds a summoned Shadow's HP will not apply to your score. When a Shadow is defeated, Sraosha will take Almighty damage based on the damage taken by that Shadow.\n2. Sraosha will restore all Phantom Thieves' SP each turn.\n3. When a summoned Shadow's Down Points are decreased, all Phantom Thieves' damage is increased by 15% for 1 turn."
   },
   {
     "sn": "509101",
@@ -442,7 +442,7 @@
   {
     "sn": "515101",
     "title": "Special Effect",
-    "text": "1. Quetzalcoatl and all Yurlungurs are in the Soul Link state.\nSoul Link: Distributes all damage received between all Shadows who share this condition, based on the percentage of their current HP.\n2. All Shadows take 20% increased damage from ranged attacks."
+    "text": "Shadows have different weaknesses and resistances than normal.\n1. Quetzalcoatl and all Yurlungurs are in the <color=#FF423F>Soul Link</color> state.\nSoul Link: Distributes all damage received between all Shadows who share this condition, based on the percentage of their current HP.\n2. All Shadows take 20% increased damage from ranged attacks."
   },
   {
     "sn": "517101",
@@ -457,12 +457,12 @@
   {
     "sn": "521101",
     "title": "Special Effects",
-    "text": "Increase Seth's final Highlight damage taken by 20%. Decrease all other final skill damage taken by 30%."
+    "text": "Shadows have different weaknesses and resistances than normal.\nIncrease Seth's final Highlight damage taken by 20%. Decrease all other final skill damage taken by 30%."
   },
   {
     "sn": "522101",
     "title": "Special Effect",
-    "text": "Weaknesses and resistances are different than normal.\n1. At the start of battle, Lilith summons 4 servants.\nLilith and all servants are in the <color=#ff3b37>Soul Link</color> state.\nSoul Link: Distributes all damage received between all Shadows who share this condition, based on the percentage of their current HP.\n2. Each turn, Lilith grants 1 <color=#ff3b37>Cover of Night</color> stack to all Shadows.\nCover of Night: Decrease final damage taken by 15% for each stack. Stacks up to 2 times.\n3. When a Shadow with Cover of Night is inflicted with an elemental ailment, remove 1 Cover of Night stack."
+    "text": "Weaknesses and resistances are different than normal.\n1. At the start of battle, Lilith summons 4 Shadows.\nLilith and all Shadows are in the <color=#ff3b37>Soul Link</color> state.\nSoul Link: Distributes all damage received between all Shadows who share this condition, based on the percentage of their current HP.\n2. Each turn, Lilith grants 1 <color=#ff3b37>Cover of Night</color> stack to all Shadows.\nCover of Night: Decrease final damage taken by 15% for each stack. Stacks up to 2 times.\n3. When a Shadow with Cover of Night is inflicted with an elemental ailment, remove 1 Cover of Night stack."
   },
   {
     "sn": "523111",
@@ -477,7 +477,7 @@
   {
     "sn": "539101",
     "title": "Guardian's Preservation",
-    "text": "1. At the start of battle, Vishnu summons 4 servants. Vishnu and all servants are in the <color=#FF423F>Soul Link</color> state.\nSoul Link: Distributes all damage received between all Shadows who share this condition, based on the percentage of their current HP.\n2. When Vishnu and its servants take skill damage, they gain Guardian's Preservation based on the attribute, and that affinity is changed to Resist. This effect lasts for 2 turns."
+    "text": "Shadows have different weaknesses and resistances than normal.\n1. At the start of battle, Vishnu summons 4 servants. Vishnu and all servants are in the <color=#FF423F>Soul Link</color> state.\nSoul Link: Distributes all damage received between all Shadows who share this condition, based on the percentage of their current HP.\n2. When Vishnu and its servants take skill damage, they gain Guardian's Preservation based on the attribute, and that affinity is changed to Resist. This effect lasts for 2 turns."
   },
   {
     "sn": "701011",
@@ -727,12 +727,12 @@
   {
     "sn": "808211",
     "title": "Unique Shadow Abilities",
-    "text": "1. When Decarabia takes <color=#FF423F>weakness damage</color>, it will permanently gain 1 <color=#FF423F>Weakness</color> stack.\nEach stack increases Decarabia's damage taken.\n2. When Decarabia takes damage from an attribute other than its weakness, it will immediately use <color=#FF423F>Agilao</color> against the attacker."
+    "text": "1. When Decarabia takes <color=#FF423F>weakness damage</color>, it will permanently gain 1 <color=#FF423F>Weakness</color> stack.\nEach Weakness stack increases Decarabia's damage taken.\n2. When Decarabia takes damage from an attribute other than its weakness, it will immediately use <color=#FF423F>Agilao</color> on the attacker."
   },
   {
     "sn": "808221",
     "title": "Unique Shadow Abilities",
-    "text": "1. When Decarabia takes <color=#FF423F>weak point damage</color>, it will permanently gain 1 <color=#FF423F>weakness</color>.\nEach weakness increases Decarabia's damage taken.\n2. When Decarabia takes damage from an attribute other than its weaknesses, it will immediately use <color=#FF423F>Agilao</color> on the attacker."
+    "text": "1. When Decarabia takes <color=#FF423F>weakness damage</color>, it will permanently gain 1 <color=#FF423F>Weakness</color> stack.\nEach Weakness stack increases Decarabia's damage taken.\n2. When Decarabia takes damage from an attribute other than its weakness, it will immediately use <color=#FF423F>Agilao</color> on the attacker."
   },
   {
     "sn": "808222",
@@ -952,12 +952,12 @@
   {
     "sn": "218101",
     "title": "Unique Shadow Abilities",
-    "text": "1. Jikokuten starts the battle with 20 Down Points, and gains 4 Down Points every turn.\nWhen Jikokuten's Down Points reach 36, it transforms into <color=#FF423F>Asura</color>, greatly increasing its stats.\n2. Jikokuten summons 4 Mitama every 3 turns.\nThe Mitama will flee after 1 turn.\nWhen a Mitama is defeated, Jikokuten's Down Points are reduced by 3, and one of its affinities becomes Weak for 3 turns: Fire, Ice, Electric, or Wind.\n3. Victory is acheived by reducing Jikokuten's Down Points to 0, or by defeating all foes."
+    "text": "1. Jikokuten starts the battle with 20 Down Points, and gains 4 Down Points every turn.\nWhen Jikokuten's Down Points reach 36, it transforms into <color=#FF423F>Asura</color>, greatly increasing its stats.\n2. Jikokuten summons 4 Mitama every 3 turns.\nThe Mitama will flee after 1 turn.\nWhen a Mitama is defeated, Jikokuten's Down Points are reduced by 3, and one of its affinities becomes Weak for 3 turns: Fire, Ice, Electric, or Wind.\n3. Victory is achieved by reducing Jikokuten's Down Points to 0, or by defeating all foes."
   },
   {
     "sn": "218111",
     "title": "Unique Shadow Abilities",
-    "text": "1. Jikokuten starts the battle with 30 Down Points, all affinities set to Null, and gains 3 extra Down Points every turn.\nWhen Jikokuten's Down Points reach 36, it transforms into <color=#FF423F>Asura</color>, greatly increasing its stats.\n2. At the start of battle, Jikokuten spends 6 Down Points to summon Jikokuten's Spirit.\n3. Jikokuten's Spirit has 4 Down Points. Each turn, 4 of its weaknesses change.\nIf it is knocked down or defeated, it is affected by Soul Break: Jikokuten loses 10 Down Points, and all its affinities change to Weak (excluding Physical and Gun).\nAfter some time, Jikokuten then resummons Jikokuten's Spirit.\n4. Victory is acheived by reducing Jikokuten's Down Points to 0, or by defeating all foes."
+    "text": "1. Jikokuten starts the battle with 30 Down Points, all affinities set to Null, and gains 3 extra Down Points every turn.\nWhen Jikokuten's Down Points reach 36, it transforms into <color=#FF423F>Asura</color>, greatly increasing its stats.\n2. At the start of battle, Jikokuten spends 6 Down Points to summon Jikokuten's Spirit.\n3. Jikokuten's Spirit has 4 Down Points. Each turn, 4 of its weaknesses change.\nIf it is knocked down or defeated, it is affected by Soul Break: Jikokuten loses 10 Down Points, and all its affinities change to Weak (excluding Physical and Gun).\nAfter some time, Jikokuten then resummons Jikokuten's Spirit.\n4. Victory is achieved by reducing Jikokuten's Down Points to 0, or by defeating all foes."
   },
   {
     "sn": "218191",
@@ -982,7 +982,7 @@
   {
     "sn": "218161",
     "title": "Unique Shadow Abilities",
-    "text": "1. Zouchouten has <color=#FF423F>Growth of All Things</color>, which grants Growth to 2 random Shadows each turn.\nEach stack of Growth increases Attack by 30%.\n2. Zouchouten will absorb Growth from the Shadows every 3 turns. When it reaches 4 stacks of Growth, it will unleash a powerful attack.\n3. When a Shadow with Growth is defeated, its stack of Growth disappears."
+    "text": "1. Zouchouten has <color=#FF423F>Growth of All Things</color>, which grants Growth to 2 random Shadows each turn.\nEach Growth stack increases Attack by 30%.\n2. Zouchouten will absorb Growth from the Shadows every 3 turns. When it reaches 4 Growth stacks, it will unleash a powerful attack.\n3. When a Shadow with Growth is defeated, its Growth stacks disappears."
   },
   {
     "sn": "218171",
@@ -1576,8 +1576,8 @@
   },
   {
     "sn": "917501",
-    "title": "AAAAAA==",
-    "text": "AAAAAA=="
+    "title": "Monstrous Entity's Skills",
+    "text": "1. Monstrous Entity will summon waves of Nightmare Incarnations. For each Nightmare Incarnation summoned, Monstrous Entity's HP decreases by a set amount.\n2. When Calm Nightmare Incarnation is defeated, Monstrous Entity gains 1 Composure stack. When Wild Nightmare Incarnation is defeated, Monstrous Entity gains 1 Frenzy stack. Composure and Frenzy cancel each other out.\n3. When Monstrous Entity reaches 4 Composure stacks, it can cast an additional Diarahan at the end of its turn, restoring its HP by a set amount. When it reaches 4 Frenzy stacks, it can cast an additional Maragidyne at the end of its turn.\n4. Monstrous Entity alternates between using Scattered Dreams and Denial Wave.\nScattered Dreams: All Nightmare Incarnations gain Dreaming Desire, decreasing their final damage taken. When Nightmare Incarnation takes an attack, lose Dreaming Desire.\nDenial Wave: Spend all Nightmare Incarnations' Dreaming Desire to deal Almighty damage to all Phantom Thieves, ignoring Defense. Increase damage based on number of Dreaming Desire stacks spent.\n5. When Monstrous Entity enters its second phase, after using Scattered Dreams, it will use Accept Change, changing the affinities of all Nightmare Incarnations."
   },
   {
     "sn": "921511",
@@ -1682,17 +1682,17 @@
   {
     "sn": "660411",
     "title": "Unique Shadow Abilities",
-    "text": "1. Jikokuten will activate <color=#FF423F>Blade of Sanctuary</color>.\nBlade of Sanctuary: Each time damage is dealt, grant a shield to 1 random Shadow.\n2. Shadows gain the following abilities as turns progress.\nStarting on turn 3, Shadows gain 1 <color=#FF423F>Berserk</color> stack every turn.\nStarting on turn 5, Shadows gain 2 Berserk stack every turn.\nBerserk: Damage increases by 10%.\nStacks up to 20 times."
+    "text": "Shadows have different weaknesses and resistances than normal.\n1. Jikokuten will activate <color=#FF423F>Blade of Sanctuary</color>.\nBlade of Sanctuary: Each time damage is dealt, grant a shield to 1 random Shadow.\n2. Shadows gain the following abilities as turns progress.\nStarting on turn 3, Shadows gain 1 <color=#FF423F>Berserk</color> stack every turn.\nStarting on turn 5, Shadows gain 2 Berserk stack every turn.\nBerserk: Damage increases by 10%.\nStacks up to 20 times."
   },
   {
     "sn": "660421",
     "title": "Unique Shadow Abilities",
-    "text": "1. Jikokuten will activate <color=#FF423F>Blade of Sanctuary</color>.\nBlade of Sanctuary: Each time damage is dealt, grant a shield to 1 random Shadow.\n2. Zouchouten will activate <color=#FF423F>Growth of All Things</color>.\nGrowth of All Things: Randomly increases Attack, Defense, or damage of all Shadows each turn.\n3. Shadows gain the following abilities as turns progress.\nStarting on turn 3, Shadows gain 1 <color=#FF423F>Berserk</color> stack every turn.\nStarting on turn 5, Shadows gain 2 Berserk stack every turn.\nBerserk: Damage increases by 10%.\nStacks up to 20 times."
+    "text": "Shadows have different weaknesses and resistances than normal.\n1. Jikokuten will activate <color=#FF423F>Blade of Sanctuary</color>.\nBlade of Sanctuary: Each time damage is dealt, grant a shield to 1 random Shadow.\n2. Zouchouten will activate <color=#FF423F>Growth of All Things</color>.\nGrowth of All Things: Randomly increases Attack, Defense, or damage of all Shadows each turn.\n3. Shadows gain the following abilities as turns progress.\nStarting on turn 3, Shadows gain 1 <color=#FF423F>Berserk</color> stack every turn.\nStarting on turn 5, Shadows gain 2 Berserk stack every turn.\nBerserk: Damage increases by 10%.\nStacks up to 20 times."
   },
   {
     "sn": "660431",
     "title": "Unique Shadow Abilities",
-    "text": "1. Jikokuten will activate <color=#FF423F>Blade of Sanctuary</color>.\nBlade of Sanctuary: Each time damage is dealt, grant a shield to 1 random Shadow.\n2. Zouchouten will activate <color=#FF423F>Growth of All Things</color>.\nGrowth of All Things: Randomly increases Attack, Defense, or damage of all Shadows each turn.\n3. Koumokuten will activate <color=#FF423F>Eye of Heaven</color>.\nEye of Heaven: Select 1 Phantom Thief. Increase their damage taken, and have all Shadows focus attacks on them next turn.\nBefore activating Eye of Heaven, Koumokuten will summon 1 Makami.\nBefore using Eye of Heaven, Koumokuten will summon 1 Makami.\n4. Shadows gain the following abilities as turns progress.\nStarting on turn 3, Shadows gain 1 <color=#FF423F>Berserk</color> stack every turn.\nStarting on turn 5, Shadows gain 2 Berserk stack every turn.\nBerserk: Damage increases by 10%.\nStacks up to 20 times."
+    "text": "Shadows have different weaknesses and resistances than normal.\n1. Jikokuten will activate <color=#FF423F>Blade of Sanctuary</color>.\nBlade of Sanctuary: Each time damage is dealt, grant a shield to 1 random Shadow.\n2. Zouchouten will activate <color=#FF423F>Growth of All Things</color>.\nGrowth of All Things: Randomly increases Attack, Defense, or damage of all Shadows each turn.\n3. Koumokuten will activate <color=#FF423F>Eye of Heaven</color>.\nEye of Heaven: Select 1 Phantom Thief. Increase their damage taken, and have all Shadows focus attacks on them next turn.\nBefore activating Eye of Heaven, Koumokuten will summon 1 Makami.\nBefore using Eye of Heaven, Koumokuten will summon 1 Makami.\n4. Shadows gain the following abilities as turns progress.\nStarting on turn 3, Shadows gain 1 <color=#FF423F>Berserk</color> stack every turn.\nStarting on turn 5, Shadows gain 2 Berserk stack every turn.\nBerserk: Damage increases by 10%.Stacks up to 20 times."
   },
   {
     "sn": "660441",
@@ -1762,7 +1762,7 @@
   {
     "sn": "922111",
     "title": "Akechi's Skills",
-    "text": "tdxct-[InstTutorials_text_922111]"
+    "text": "1. Akechi has high <color=#FF423F>Attack power</color>. He can deal <color=#FF423F>Almighty damage</color>, ignoring enemy affinities and Defense.\n2. By granting the <color=#FF423F>Mastermind</color> state to <color=#FF423F>Sweeper or Assassin</color> allies, Akechi can record the damage dealt by an ally with Mastermind, and deal damage based on the recorded amount. If there are no Sweeper or Assassin allies, Akechi can gain Mastermind to strengthen himself.\n3. He can provide <color=#FF423F>buffs</color> and <color=#FF423F>healing</color> to allies, as well as inflict <color=#FF423F>debuffs</color> on foes, allowing utility in a variety of situations."
   },
   {
     "sn": "922211",

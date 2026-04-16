@@ -1550,7 +1550,7 @@
   {
     "sn": "1151121",
     "title": "Stratagem",
-    "desc": "tdxct-[SkillBuff_desc_1151121]",
+    "desc": "Decrease all foes' Defense. Deal 1 more hit with Arrow of Perjury, and increase dmg.",
     "BuffDesc": "S<color=#000000>t</color>ratagem",
     "addText": "AAAAAA==",
     "removeText": "AAAAAA==",
@@ -1559,7 +1559,7 @@
   {
     "sn": "1151021",
     "title": "Arrow of Truth",
-    "desc": "tdxct-[SkillBuff_desc_1151021]",
+    "desc": "Affects Rain of Justice dmg.",
     "BuffDesc": "A<color=#000000>r</color>row of Truth",
     "addText": "AAAAAA==",
     "removeText": "AAAAAA==",
@@ -1568,7 +1568,7 @@
   {
     "sn": "1151062",
     "title": "Detective Trick",
-    "desc": "tdxct-[SkillBuff_desc_1151062]",
+    "desc": "Increase Arrow of Perjury dmg by %s.",
     "BuffDesc": "D<color=#000000>e</color>tective Trick",
     "addText": "AAAAAA==",
     "removeText": "AAAAAA==",
@@ -1577,7 +1577,7 @@
   {
     "sn": "1151032",
     "title": "Detective Profile",
-    "desc": "tdxct-[SkillBuff_desc_1151032]",
+    "desc": "Increase crit rate by %s.",
     "BuffDesc": "D<color=#000000>e</color>tective Profile",
     "addText": "AAAAAA==",
     "removeText": "AAAAAA==",
@@ -1586,7 +1586,7 @@
   {
     "sn": "1151033",
     "title": "Detective Profile",
-    "desc": "tdxct-[SkillBuff_desc_1151033]",
+    "desc": "Increase dmg by %s.",
     "BuffDesc": "AAAAAA==",
     "addText": "AAAAAA==",
     "removeText": "AAAAAA==",
@@ -1595,7 +1595,7 @@
   {
     "sn": "1151034",
     "title": "Detective Profile",
-    "desc": "tdxct-[SkillBuff_desc_1151034]",
+    "desc": "Increase dmg by %s.",
     "BuffDesc": "AAAAAA==",
     "addText": "AAAAAA==",
     "removeText": "AAAAAA==",
@@ -1604,7 +1604,7 @@
   {
     "sn": "1151043",
     "title": "Detective Advice",
-    "desc": "tdxct-[SkillBuff_desc_1151043]",
+    "desc": "Increase Atk by %s.",
     "BuffDesc": "D<color=#000000>e</color>tective Advice",
     "addText": "AAAAAA==",
     "removeText": "AAAAAA==",
@@ -1613,7 +1613,7 @@
   {
     "sn": "1151044",
     "title": "Detective Advice",
-    "desc": "tdxct-[SkillBuff_desc_1151044]",
+    "desc": "Increase crit dmg by %s.",
     "BuffDesc": "D<color=#000000>e</color>tective Advice",
     "addText": "AAAAAA==",
     "removeText": "AAAAAA==",
@@ -1621,17 +1621,17 @@
   },
   {
     "sn": "1151091",
-    "title": "Attack Up",
-    "desc": "tdxct-[SkillBuff_desc_1151091]",
-    "BuffDesc": "A<color=#000000>t</color>tack Up",
+    "title": "High School Detective",
+    "desc": "Increase Atk by %s.",
+    "BuffDesc": "H<color=#000000>i</color>gh School Detective",
     "addText": "AAAAAA==",
     "removeText": "AAAAAA==",
     "calText": "AAAAAA=="
   },
   {
     "sn": "1151092",
-    "title": "Supporting Role",
-    "desc": "tdxct-[SkillBuff_desc_1151092]",
+    "title": "Mastermind",
+    "desc": "Akechi records a portion of ally's dmg. If Akechi is in this state, he can strengthen himself.",
     "BuffDesc": "AAAAAA==",
     "addText": "AAAAAA==",
     "removeText": "AAAAAA==",
@@ -1639,8 +1639,8 @@
   },
   {
     "sn": "1151094",
-    "title": "Supporting Role",
-    "desc": "tdxct-[SkillBuff_desc_1151094]",
+    "title": "Mastermind",
+    "desc": "Akechi records a portion of ally's dmg. If Akechi is in this state, he can strengthen himself.",
     "BuffDesc": "AAAAAA==",
     "addText": "AAAAAA==",
     "removeText": "AAAAAA==",
@@ -1649,7 +1649,7 @@
   {
     "sn": "1151095",
     "title": "Masked Detective",
-    "desc": "tdxct-[SkillBuff_desc_1151095]",
+    "desc": "Increase crit rate by %s.",
     "BuffDesc": "M<color=#000000>a</color>sked Detective",
     "addText": "AAAAAA==",
     "removeText": "AAAAAA==",
@@ -1658,7 +1658,7 @@
   {
     "sn": "1151096",
     "title": "Masked Detective",
-    "desc": "tdxct-[SkillBuff_desc_1151096]",
+    "desc": "Increase crit dmg by %s.",
     "BuffDesc": "M<color=#000000>a</color>sked Detective",
     "addText": "AAAAAA==",
     "removeText": "AAAAAA==",
@@ -1667,7 +1667,7 @@
   {
     "sn": "1151111",
     "title": "Deduction",
-    "desc": "tdxct-[SkillBuff_desc_1151111]",
+    "desc": "Increase party's dmg dealt.",
     "BuffDesc": "D<color=#000000>e</color>duction",
     "addText": "AAAAAA==",
     "removeText": "AAAAAA==",
@@ -1676,7 +1676,7 @@
   {
     "sn": "1151112",
     "title": "Blessing",
-    "desc": "tdxct-[SkillBuff_desc_1151112]",
+    "desc": "Continuously restore HP.",
     "BuffDesc": "Bless<color=#000000>i</color>ng",
     "addText": "AAAAAA==",
     "removeText": "AAAAAA==",
@@ -1685,7 +1685,7 @@
   {
     "sn": "1151113",
     "title": "Damage Up",
-    "desc": "tdxct-[SkillBuff_desc_1151113]",
+    "desc": "Increase dmg by %s.",
     "BuffDesc": "D<color=#000000>a</color>mage Up",
     "addText": "AAAAAA==",
     "removeText": "AAAAAA==",
@@ -1694,7 +1694,7 @@
   {
     "sn": "1151124",
     "title": "Defense Down",
-    "desc": "tdxct-[SkillBuff_desc_1151124]",
+    "desc": "Decrease Def by %s.",
     "BuffDesc": "D<color=#000000>e</color>fense Down",
     "addText": "AAAAAA==",
     "removeText": "AAAAAA==",
@@ -1703,7 +1703,7 @@
   {
     "sn": "1151131",
     "title": "Suspicion",
-    "desc": "tdxct-[SkillBuff_desc_1151131]",
+    "desc": "Activate Rain of Justice.",
     "BuffDesc": "S<color=#000000>u</color>spicion",
     "addText": "AAAAAA==",
     "removeText": "AAAAAA==",
@@ -1712,7 +1712,7 @@
   {
     "sn": "1151311",
     "title": "Rival's Pride",
-    "desc": "tdxct-[SkillBuff_desc_1151311]",
+    "desc": "Increase dmg by %s.",
     "BuffDesc": "AAAAAA==",
     "addText": "AAAAAA==",
     "removeText": "AAAAAA==",
@@ -1720,8 +1720,8 @@
   },
   {
     "sn": "1151321",
-    "title": "Rending Arrow",
-    "desc": "tdxct-[SkillBuff_desc_1151321]",
+    "title": "tnxct-[SkillBuff_title_1151321]",
+    "desc": "tnxct-[SkillBuff_desc_1151321]",
     "BuffDesc": "AAAAAA==",
     "addText": "AAAAAA==",
     "removeText": "AAAAAA==",
@@ -1729,8 +1729,8 @@
   },
   {
     "sn": "1151322",
-    "title": "Rending Arrow",
-    "desc": "tdxct-[SkillBuff_desc_1151322]",
+    "title": "tnxct-[SkillBuff_title_1151322]",
+    "desc": "tnxct-[SkillBuff_desc_1151322]",
     "BuffDesc": "AAAAAA==",
     "addText": "AAAAAA==",
     "removeText": "AAAAAA==",
@@ -1739,7 +1739,7 @@
   {
     "sn": "1151521",
     "title": "Highlight",
-    "desc": "tdxct-[SkillBuff_desc_1151521]",
+    "desc": "Deal 2 more hits with Arrow of Perjury.",
     "BuffDesc": "AAAAAA==",
     "addText": "AAAAAA==",
     "removeText": "AAAAAA==",
@@ -22060,7 +22060,7 @@
   },
   {
     "sn": "30272",
-    "title": "Damage Reduction",
+    "title": "Damage Taken Down",
     "desc": "Increase dmg taken by 50% per stack. When taking dmg, gain stack (max 5).",
     "BuffDesc": "D<color=#000000>a</color>mage Taken Down",
     "addText": "AAAAAA==",
@@ -24175,17 +24175,17 @@
   },
   {
     "sn": "34961",
-    "title": "AAAAAA==",
-    "desc": "AAAAAA==",
-    "BuffDesc": "AAAAAA==",
-    "addText": "AAAAAA==",
-    "removeText": "AAAAAA==",
+    "title": "Dreaming Desire",
+    "desc": "Decrease final damage taken by %s, and enhance the damage of Denial Wave. Remove after taking damage (other than continuous damage effects).",
+    "BuffDesc": "D<color=#000000>r</color>eaming Desire",
+    "addText": "Gained Dreaming Desire...",
+    "removeText": "Lost Dreaming Desire!",
     "calText": "AAAAAA=="
   },
   {
     "sn": "34962",
-    "title": "AAAAAA==",
-    "desc": "AAAAAA==",
+    "title": "Calm Nightmare Incarnation",
+    "desc": "When defeated, Monstrous Entity gains 1 Composure stack.",
     "BuffDesc": "AAAAAA==",
     "addText": "AAAAAA==",
     "removeText": "AAAAAA==",
@@ -24193,8 +24193,8 @@
   },
   {
     "sn": "34963",
-    "title": "AAAAAA==",
-    "desc": "AAAAAA==",
+    "title": "Wild Nightmare Incarnation",
+    "desc": "When defeated, Monstrous Entity gains 1 Frenzy stack.",
     "BuffDesc": "AAAAAA==",
     "addText": "AAAAAA==",
     "removeText": "AAAAAA==",
@@ -24202,8 +24202,8 @@
   },
   {
     "sn": "34966",
-    "title": "AAAAAA==",
-    "desc": "AAAAAA==",
+    "title": "Composure",
+    "desc": "Current Composure stacks: %s",
     "BuffDesc": "AAAAAA==",
     "addText": "AAAAAA==",
     "removeText": "AAAAAA==",
@@ -24211,8 +24211,8 @@
   },
   {
     "sn": "34967",
-    "title": "AAAAAA==",
-    "desc": "AAAAAA==",
+    "title": "Frenzy",
+    "desc": "Current Frenzy stacks: %s",
     "BuffDesc": "AAAAAA==",
     "addText": "AAAAAA==",
     "removeText": "AAAAAA==",
@@ -24220,11 +24220,11 @@
   },
   {
     "sn": "34971",
-    "title": "AAAAAA==",
-    "desc": "AAAAAA==",
-    "BuffDesc": "AAAAAA==",
-    "addText": "AAAAAA==",
-    "removeText": "AAAAAA==",
+    "title": "Accept Change",
+    "desc": "Change all affinities to Null. Remove after taking damage (other than continuous damage effects).",
+    "BuffDesc": "A<color=#000000>c</color>cept Change",
+    "addText": "All affinities changed to Null...",
+    "removeText": "Affinities reverted!",
     "calText": "AAAAAA=="
   },
   {
@@ -27713,7 +27713,7 @@
   {
     "sn": "515411",
     "title": "Severing Slash",
-    "desc": "tdxct-[SkillBuff_desc_515411]",
+    "desc": "Increase Atk by %s.",
     "BuffDesc": "S<color=#000000>e</color>vering Slash",
     "addText": "AAAAAA==",
     "removeText": "AAAAAA==",
@@ -27722,7 +27722,7 @@
   {
     "sn": "515521",
     "title": "Kaito Ranma",
-    "desc": "tdxct-[SkillBuff_desc_515521]",
+    "desc": "Increase Atk by %s.",
     "BuffDesc": "K<color=#000000>a</color>ito Ranma",
     "addText": "AAAAAA==",
     "removeText": "AAAAAA==",
@@ -27731,7 +27731,7 @@
   {
     "sn": "515531",
     "title": "Kaito Ranma",
-    "desc": "tdxct-[SkillBuff_desc_515531]",
+    "desc": "Increase critical dmg by %s.",
     "BuffDesc": "K<color=#000000>a</color>ito Ranma",
     "addText": "AAAAAA==",
     "removeText": "AAAAAA==",

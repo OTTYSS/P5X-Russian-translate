@@ -1492,9 +1492,9 @@
   {
     "sn": "115111",
     "name": "Flash of Intuition",
-    "desc": "tdxct-[Skill_desc_115111]",
-    "descSimple": "tdxct-[Skill_descSimple_115111]",
-    "levelUpList": "tdxct-[Skill_levelUpList_115111]",
+    "desc": "Deal Bless damage to all foes equal to <color=#FFFC40>^%s^</color> of Attack. Also, restore all allies' HP by <color=#FFFC40>^%s^</color> and grant 1 <link=\"s|111\"><u>Blessing</u></link> stack.\nAlso, gain Suspicion, and gain Deduction for 2 turns. With Deduction, increase party's damage by <color=#FFFC40>^%s^</color>.",
+    "descSimple": "Bless dmg to all foes (%s Atk). Also, restore all allies' HP %s and grant 1 Blessing.\nAlso, gain Suspicion and Deduction (2 turns). With Deduction, increase party's dmg %s.",
+    "levelUpList": "Skill Multiplier,Base Healing,Dmg Increase",
     "levelUpValue": "AAAAAA==",
     "contentBG": "Unparalleled deductive reasoning illuminates all, dealing Bless damage to all enemies and healing all allies.",
     "skillTag": "Multi-Target"
@@ -1502,9 +1502,9 @@
   {
     "sn": "115112",
     "name": "Decisive Scheme",
-    "desc": "tdxct-[Skill_desc_115112]",
-    "descSimple": "tdxct-[Skill_descSimple_115112]",
-    "levelUpList": "tdxct-[Skill_levelUpList_115112]",
+    "desc": "Deal Curse damage to all foes equal to <color=#FFFC40>^%s^</color> of Attack.\nAlso, gain Suspicion, and gain Stratagem for 2 turns. With Stratagem, decrease all foes' Defense by <color=#FFFC40>^%s^</color>. Also increase Arrow of Perjury's number of hits by 1, and increase damage dealt by <color=#FFFC40>^%s^</color>.",
+    "descSimple": "Curse dmg to all foes (%s Atk).\nAlso, gain Suspicion and Stratagem (2 turns). With Stratagem, decrease all foes' Def %s. Also increase Arrow of Perjury's hits by 1, and increase dmg dealt %s.",
+    "levelUpList": "Skill Multiplier,Def Decrease,Dmg Increase",
     "levelUpValue": "AAAAAA==",
     "contentBG": "A meticulously planned scheme catches all enemies unaware, dealing Curse damage.",
     "skillTag": "Multi-Target"
@@ -1512,19 +1512,19 @@
   {
     "sn": "115113",
     "name": "Rain of Justice",
-    "desc": "tdxct-[Skill_desc_115113]",
-    "descSimple": "tdxct-[Skill_descSimple_115113]",
-    "levelUpList": "tdxct-[Skill_levelUpList_115113]",
+    "desc": "Usable with Suspicion.\nSpend all Arrow of Truth stacks, deal a fixed amount of Almighty damage to all foes equal to <color=#FFFC40>^%s^</color> of the damage recorded by each Arrow of Truth stack, and lose Suspicion.\nThen, activate Arrow of Perjury on random foes, dealing Almighty damage equal to <color=#FFFC40>^%s^</color> (4 hits). From the second hit, prioritize new targets, and decrease damage to 15% for hits on the same target.\nIf Akechi has Mastermind, Arrow of Truth gains 240% of the Almighty damage of Arrow of Perjury.",
+    "descSimple": "Usable with Suspicion.\nSpend all Arrow of Truth, deal fixed Almighty dmg to all foes (%s recorded dmg of each Arrow of Truth), and lose Suspicion.\nThen, activate Arrow of Perjury on random foes, dealing Almighty dmg (%s, 4 hits). From second hit, prioritize new targets and decrease dmg to 15% for hits on same target.\nIf Akechi has Mastermind, Arrow of Truth gains 240% of Arrow of Perjury's Almighty dmg.",
+    "levelUpList": "Arrow of Truth Multiplier,Arrow of Perjury Multiplier",
     "levelUpValue": "AAAAAA==",
     "contentBG": "Let loose a barrage of arrows imbued with conviction, dealing Almighty damage to all foes.",
     "skillTag": "Multi-Target"
   },
   {
     "sn": "115114",
-    "name": "Supporting Role",
-    "desc": "tdxct-[Skill_desc_115114]",
-    "descSimple": "tdxct-[Skill_descSimple_115114]",
-    "levelUpList": "tdxct-[Skill_levelUpList_115114]",
+    "name": "Mastermind",
+    "desc": "Grant Mastermind to 1 ally. When an ally besides Akechi has Mastermind and deals damage to all foes with an attack skill, Highlight, or <link=\"s|100\"><u>Resonance</u></link>, record the average damage dealt to all foes (if targeting 1 foe, record 40% of the damage dealt). At the start of Akechi's turn, gain 1 Arrow of Truth stack based on the amount of damage recorded, and reset the recorded damage. Arrow of Truth can be held for 2 turns.",
+    "descSimple": "Grant Mastermind to 1 ally. When ally besides Akechi has Mastermind and deals dmg to all foes with attack skill, Highlight, or Resonance, record average dmg dealt to all foes (if targeting 1 foe, record 40% of dmg dealt). At start of Akechi's turn, gain 1 Arrow of Truth (2 turns) based on amount of dmg recorded, and reset recorded dmg.",
+    "levelUpList": "tnxct-[Skill_levelUpList_115114]",
     "levelUpValue": "AAAAAA==",
     "contentBG": "AAAAAA==",
     "skillTag": "AAAAAA=="
@@ -1532,7 +1532,7 @@
   {
     "sn": "115131",
     "name": "Rival's Pride",
-    "desc": "tdxct-[Skill_desc_115131]",
+    "desc": "Can activate Flames of Desire effects with all allies in the party. At the start of battle, for each Flames of Desire effect activated, increase Akechi's damage by <color=#FFFC40>^%s^</color>.",
     "descSimple": "AAAAAA==",
     "levelUpList": "AAAAAA==",
     "levelUpValue": "AAAAAA==",
@@ -1542,7 +1542,7 @@
   {
     "sn": "115132",
     "name": "Rending Arrow",
-    "desc": "tdxct-[Skill_desc_115132]",
+    "desc": "When dealing Almighty damage, for every 1% of the target's decreased Defense, increase Akechi's damage dealt by <color=#FFFC40>^%s^</color> (up to a maximum of <color=#FFFC40>^%s^</color>).",
     "descSimple": "AAAAAA==",
     "levelUpList": "AAAAAA==",
     "levelUpValue": "AAAAAA==",
@@ -1552,7 +1552,7 @@
   {
     "sn": "115140",
     "name": "High School Detective",
-    "desc": "tdxct-[Skill_desc_115140]",
+    "desc": "At the start of battle, grant Mastermind to the ally with the highest Attack (prioritizing Sweepers or Assassins, select Akechi if no target found). At the start of each turn, can manually reselect a target to grant Mastermind. Only 1 ally can have Mastermind at one time (reselecting has a cooldown of 1 turn).\nAlso, increase Akechi's Attack by 25% of the Mastermind ally's Attack (up to a maximum of 500/750/1000, at level 1/50/70, respectively).\nWhen an ally besides Akechi has Mastermind and deals damage to all foes with an attack skill, Highlight, or <link=\"s|100\"><u>Resonance</u></link>, record the average damage dealt to all foes (if targeting 1 foe, record 40% of the damage dealt). At the start of Akechi's turn, gain 1 Arrow of Truth stack based on the amount of damage recorded, and reset the recorded damage. Arrow of Truth can be held for 2 turns.\nWhen Akechi has Mastermind, the effect of Rain of Justice changes, and Arrow of Truth deals Almighty damage based on the skill multiplier or Arrow of Perjury.",
     "descSimple": "AAAAAA==",
     "levelUpList": "AAAAAA==",
     "levelUpValue": "AAAAAA==",
@@ -1562,7 +1562,7 @@
   {
     "sn": "115141",
     "name": "Detective Profile",
-    "desc": "tdxct-[Skill_desc_115141]",
+    "desc": "At the start of battle, gain Deduction, and the durations of Deduction and Stratagem are extended to 4 turns.\nAlso, when Deduction and Stratagem are both active, increase Akechi's critical rate by 16%, and increase the damage dealt by Akechi and allies with Mastermind by 25%.",
     "descSimple": "AAAAAA==",
     "levelUpList": "AAAAAA==",
     "levelUpValue": "AAAAAA==",
@@ -1572,7 +1572,7 @@
   {
     "sn": "115142",
     "name": "Detective Advice",
-    "desc": "tdxct-[Skill_desc_115142]",
+    "desc": "When dealing damage with a skill, if the attribute of the last skill used was different, increase the Attack of Akechi and allies with Mastermind by 25%, and their critical damage by 30%. Lasts for 1 turn.",
     "descSimple": "AAAAAA==",
     "levelUpList": "AAAAAA==",
     "levelUpValue": "AAAAAA==",
@@ -1582,7 +1582,7 @@
   {
     "sn": "115143",
     "name": "Detective Style",
-    "desc": "tdxct-[Skill_desc_115143]",
+    "desc": "Increase the skill levels of Rain of Justice and Thief Tactics by 3.",
     "descSimple": "AAAAAA==",
     "levelUpList": "AAAAAA==",
     "levelUpValue": "AAAAAA==",
@@ -1592,7 +1592,7 @@
   {
     "sn": "115144",
     "name": "Detective Trick",
-    "desc": "tdxct-[Skill_desc_115144]",
+    "desc": "Highlight Enhanced: Increase the damage of Arrow of Perjury by 30% more for 4 turns.",
     "descSimple": "AAAAAA==",
     "levelUpList": "AAAAAA==",
     "levelUpValue": "AAAAAA==",
@@ -1602,7 +1602,7 @@
   {
     "sn": "115145",
     "name": "Detective Logic",
-    "desc": "tdxct-[Skill_desc_115145]",
+    "desc": "Increase the skill levels of Flash of Intuition and Decisive Scheme by 3.",
     "descSimple": "AAAAAA==",
     "levelUpList": "AAAAAA==",
     "levelUpValue": "AAAAAA==",
@@ -1612,7 +1612,7 @@
   {
     "sn": "115146",
     "name": "Masked Detective",
-    "desc": "tdxct-[Skill_desc_115146]",
+    "desc": "When using Rain of Justice, increase the effect of Arrow of Truth by 50%.\nAkechi and all allies are considered to have the Mastermind effect (the Attack increase from High School Detective is based on the ally with the highest Attack). During battle, increase Akechi's critical rate and critical damage more. This additional increase is equal to 40% of the critical rate of the Mastermind ally with the highest critical rate, and 40% of the highest critical multiplier exceeding 100% (up to a maximum of 20% and 40%, respectively).",
     "descSimple": "AAAAAA==",
     "levelUpList": "AAAAAA==",
     "levelUpValue": "AAAAAA==",
@@ -1622,7 +1622,7 @@
   {
     "sn": "115151",
     "name": "1 MORE",
-    "desc": "tdxct-[Skill_desc_115151]",
+    "desc": "Deal Almighty damage to 1 foe.",
     "descSimple": "AAAAAA==",
     "levelUpList": "1 More Dmg",
     "levelUpValue": "6.7%,13.3%,20.0%,26.7%,33.3%,40.0%,46.7%,51.3%,56.0%,59.3%,62.7%,66.0%,69.3%,72.7%",
@@ -1632,9 +1632,9 @@
   {
     "sn": "115152",
     "name": "Highlight",
-    "desc": "tdxct-[Skill_desc_115152]",
-    "descSimple": "tdxct-[Skill_descSimple_115152]",
-    "levelUpList": "tdxct-[Skill_levelUpList_115152]",
+    "desc": "Deal Bless damage to all foes equal to <color=#FFFC40>^%s^</color> of Attack, and Curse damage equal to <color=#FFFC40>^%s^</color> of Attack (1 hit each).\nAlso, for 4 turns, increase Arrow of Perjury's number of hits by 2.",
+    "descSimple": "Bless dmg to all foes (%s Atk), and Curse damage (%s Atk), 1 hit each.\nIncrease Arrow of Perjury's hits by 2 (4 turns).",
+    "levelUpList": "Highlight: Bless Skill Multiplier,Highlight: Curse Skill Multiplier",
     "levelUpValue": "AAAAAA==",
     "contentBG": "AAAAAA==",
     "skillTag": "AAAAAA=="
@@ -7651,7 +7651,7 @@
   },
   {
     "sn": "136109",
-    "name": "tnxotb-[Skill_name_136109]",
+    "name": "Circuit Queen",
     "desc": "AAAAAA==",
     "descSimple": "AAAAAA==",
     "levelUpList": "AAAAAA==",
@@ -7661,7 +7661,7 @@
   },
   {
     "sn": "136110",
-    "name": "tnxotb-[Skill_name_136110]",
+    "name": "Circuit Queen",
     "desc": "AAAAAA==",
     "descSimple": "AAAAAA==",
     "levelUpList": "AAAAAA==",
@@ -7671,7 +7671,7 @@
   },
   {
     "sn": "136122",
-    "name": "tnxotb-[Skill_name_136122]",
+    "name": "Circuit Queen",
     "desc": "AAAAAA==",
     "descSimple": "AAAAAA==",
     "levelUpList": "AAAAAA==",
@@ -36141,8 +36141,8 @@
   },
   {
     "sn": "3495",
-    "name": "AAAAAA==",
-    "desc": "AAAAAA==",
+    "name": "Denial Wave",
+    "desc": "Spend all allies' Dreaming Desire stacks, and deal Almighty damage to all foes, ignoring Defense. Increase damage based on Dreaming Desire stacks spent.",
     "descSimple": "AAAAAA==",
     "levelUpList": "AAAAAA==",
     "levelUpValue": "AAAAAA==",
@@ -36151,8 +36151,8 @@
   },
   {
     "sn": "3496",
-    "name": "AAAAAA==",
-    "desc": "AAAAAA==",
+    "name": "Scattered Dreams",
+    "desc": "Grant 1 Dreaming Desire stack to all allies.",
     "descSimple": "AAAAAA==",
     "levelUpList": "AAAAAA==",
     "levelUpValue": "AAAAAA==",
@@ -36161,8 +36161,8 @@
   },
   {
     "sn": "3497",
-    "name": "AAAAAA==",
-    "desc": "AAAAAA==",
+    "name": "Accept Change",
+    "desc": "Grant Accept Change to all allies, and change all affinities to Null.",
     "descSimple": "AAAAAA==",
     "levelUpList": "AAAAAA==",
     "levelUpValue": "AAAAAA==",
@@ -36171,8 +36171,8 @@
   },
   {
     "sn": "3498",
-    "name": "AAAAAA==",
-    "desc": "AAAAAA==",
+    "name": "Denial Wave",
+    "desc": "Spend all allies' Dreaming Desire stacks, and deal Almighty damage to all foes, ignoring Defense. Increase damage based on Dreaming Desire stacks spent.",
     "descSimple": "AAAAAA==",
     "levelUpList": "AAAAAA==",
     "levelUpValue": "AAAAAA==",
@@ -36187,7 +36187,7 @@
     "levelUpList": "Dmg Increase",
     "levelUpValue": "AAAAAA==",
     "contentBG": "AAAAAA==",
-    "skillTag": "Single-Target Attack"
+    "skillTag": "Single-Target"
   },
   {
     "sn": "3500",
@@ -36232,7 +36232,7 @@
   {
     "sn": "3510",
     "name": "Diarahan",
-    "desc": "AAAAAA==",
+    "desc": "At the end of the turn, if Composure is at 4 stacks, recover a set amount of user's HP.",
     "descSimple": "AAAAAA==",
     "levelUpList": "AAAAAA==",
     "levelUpValue": "AAAAAA==",
@@ -41652,7 +41652,7 @@
   {
     "sn": "51531",
     "name": "Tranquility",
-    "desc": "tdxct-[Skill_desc_51531]",
+    "desc": "When dealing Almighty damage, increase damage by <color=#2899FF>^%s^</color>.",
     "descSimple": "AAAAAA==",
     "levelUpList": "AAAAAA==",
     "levelUpValue": "AAAAAA==",
@@ -41662,7 +41662,7 @@
   {
     "sn": "51541",
     "name": "Severing Slash",
-    "desc": "tdxct-[Skill_desc_51541]",
+    "desc": "Increase Almighty damage by <color=#2899FF>^%s^</color>.\nWhen gaining Suspicion, increase Attack by <color=#2899FF>^%s^</color>.",
     "descSimple": "AAAAAA==",
     "levelUpList": "AAAAAA==",
     "levelUpValue": "AAAAAA==",
@@ -41672,7 +41672,7 @@
   {
     "sn": "51552",
     "name": "Kaito Ranma",
-    "desc": "tdxct-[Skill_desc_51552]",
+    "desc": "Increase Attack by <color=#2899FF>^%s^</color>.\nWhen Deduction or Stratagem are active, increase party's Attack by <color=#2899FF>^%s^</color> for 2 turns.\nAlso, when an ally with Mastermind activates a skill, Highlight, or <link=\"s|100\"><u>Resonance</u></link>, increase Akechi's critical damage by <color=#2899FF>^%s^</color> for 2 turns. Stacks up to 2 times.",
     "descSimple": "AAAAAA==",
     "levelUpList": "AAAAAA==",
     "levelUpValue": "AAAAAA==",
