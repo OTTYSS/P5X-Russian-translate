@@ -1694,6 +1694,20 @@
     "option2": "AAAAAA=="
   },
   {
+    "sn": "12017",
+    "strContent": "Invalid Background.",
+    "option1": "AAAAAA==",
+    "showName": "AAAAAA==",
+    "option2": "AAAAAA=="
+  },
+  {
+    "sn": "12018",
+    "strContent": "Invalid message.",
+    "option1": "AAAAAA==",
+    "showName": "AAAAAA==",
+    "option2": "AAAAAA=="
+  },
+  {
     "sn": "12100",
     "strContent": "That room does not exist.",
     "option1": "AAAAAA==",
@@ -2448,6 +2462,34 @@
     "option1": "Use",
     "showName": "L<#000000,u,#FFFFFF>fel",
     "option2": "Ignore for now"
+  },
+  {
+    "sn": "12522",
+    "strContent": "Hoom... I don't think we can\nmanage this in ant form...",
+    "option1": "AAAAAA==",
+    "showName": "L<#000000,u,#FFFFFF>fel",
+    "option2": "AAAAAA=="
+  },
+  {
+    "sn": "12523",
+    "strContent": "You cannot enter shooting mode\nin your current state.",
+    "option1": "AAAAAA==",
+    "showName": "AAAAAA==",
+    "option2": "AAAAAA=="
+  },
+  {
+    "sn": "12524",
+    "strContent": "Hoom... Those pheromones don't\nseem to have an effect.",
+    "option1": "AAAAAA==",
+    "showName": "L<#000000,u,#FFFFFF>fel",
+    "option2": "AAAAAA=="
+  },
+  {
+    "sn": "12525",
+    "strContent": "Darn... It appears to have\nbeen reset...",
+    "option1": "AAAAAA==",
+    "showName": "L<#000000,u,#FFFFFF>fel",
+    "option2": "AAAAAA=="
   },
   {
     "sn": "12600",
@@ -5593,6 +5635,20 @@
     "option2": "Never mind."
   },
   {
+    "sn": "1000190",
+    "strContent": "You don't have enough items.",
+    "option1": "AAAAAA==",
+    "showName": "AAAAAA==",
+    "option2": "AAAAAA=="
+  },
+  {
+    "sn": "1000191",
+    "strContent": "Number selected.",
+    "option1": "AAAAAA==",
+    "showName": "AAAAAA==",
+    "option2": "AAAAAA=="
+  },
+  {
     "sn": "1000427",
     "strContent": "Equipped weapons can't be scrapped. Unequip the weapon to scrap it.",
     "option1": "AAAAAA==",
@@ -7246,7 +7302,7 @@
   },
   {
     "sn": "1010713",
-    "strContent": "The necessary resources have not been downloaded. Do you want to download it now? (Data Size: %s. This will take a few minutes to complete.)",
+    "strContent": "The necessary resources have not been downloaded. Do you want to download them now? (Resources: %s. This will take a few minutes to complete.)",
     "option1": "Cancel",
     "showName": "L<#000000,u,#FFFFFF>fel",
     "option2": "AAAAAA=="
@@ -11923,6 +11979,62 @@
   {
     "sn": "1023067",
     "strContent": "Clear 4 City Adventure missions to claim rewards.",
+    "option1": "AAAAAA==",
+    "showName": "AAAAAA==",
+    "option2": "AAAAAA=="
+  },
+  {
+    "sn": "1023068",
+    "strContent": "Progress in the main story to unlock the related scene.",
+    "option1": "AAAAAA==",
+    "showName": "AAAAAA==",
+    "option2": "AAAAAA=="
+  },
+  {
+    "sn": "1023069",
+    "strContent": "Cannot challenge. Continue through the main story and complete <color=#FF423F>The Masks We Wear</color>.",
+    "option1": "AAAAAA==",
+    "showName": "AAAAAA==",
+    "option2": "AAAAAA=="
+  },
+  {
+    "sn": "1023070",
+    "strContent": "Path of Kaitul is still locked. Do you want to unlock it now and continue?",
+    "option1": "Confirm",
+    "showName": "L<#000000,u,#FFFFFF>fel",
+    "option2": "Not now"
+  },
+  {
+    "sn": "1023071",
+    "strContent": "Akihabara can now be unlocked. Do you want to do so now? Unlocking it may impact your experience of the story. *This won't affect the story content.",
+    "option1": "Confirm",
+    "showName": "L<#000000,u,#FFFFFF>fel",
+    "option2": "Not now"
+  },
+  {
+    "sn": "1023072",
+    "strContent": "The Path of Kaitul in Mementos has been unlocked. Select \"Go\" to move to the entrance of the area.",
+    "option1": "AAAAAA==",
+    "showName": "L<#000000,u,#FFFFFF>fel",
+    "option2": "AAAAAA=="
+  },
+  {
+    "sn": "1023073",
+    "strContent": "Akihabara unlocked",
+    "option1": "AAAAAA==",
+    "showName": "L<#000000,u,#FFFFFF>fel",
+    "option2": "AAAAAA=="
+  },
+  {
+    "sn": "1023074",
+    "strContent": "Manaka Nagao's Synergy mission has been unlocked.",
+    "option1": "AAAAAA==",
+    "showName": "L<#000000,u,#FFFFFF>fel",
+    "option2": "AAAAAA=="
+  },
+  {
+    "sn": "1023075",
+    "strContent": "After unlocking the Chapter 4 Main Story, please explore the Chapter 4 Palace.",
     "option1": "AAAAAA==",
     "showName": "AAAAAA==",
     "option2": "AAAAAA=="
@@ -16619,7 +16731,7 @@
   },
   {
     "sn": "1056015",
-    "strContent": "It's impossible to do that\nfrom this position. No use\nin wasting our effort.",
+    "strContent": "Seems like no use...",
     "option1": "AAAAAA==",
     "showName": "L<#000000,u,#FFFFFF>fel",
     "option2": "AAAAAA=="
@@ -18937,6 +19049,118 @@
   {
     "sn": "1064237",
     "strContent": "You can now quick travel to the\n<color=#ff3b37>Electric Tower Blockade: Hallway</color>.",
+    "option1": "AAAAAA==",
+    "showName": "AAAAAA==",
+    "option2": "AAAAAA=="
+  },
+  {
+    "sn": "1064301",
+    "strContent": "You can now quick travel to the\n<color=#ff3b37>Shadow Swarm Area: Southeast Side</color>.",
+    "option1": "AAAAAA==",
+    "showName": "AAAAAA==",
+    "option2": "AAAAAA=="
+  },
+  {
+    "sn": "1064302",
+    "strContent": "You can now quick travel to the\n<color=#ff3b37>Shadow Swarm Area: North Side</color>.",
+    "option1": "AAAAAA==",
+    "showName": "AAAAAA==",
+    "option2": "AAAAAA=="
+  },
+  {
+    "sn": "1064303",
+    "strContent": "You can now quick travel to the\n<color=#ff3b37>Shadow Swarm Area: Southwest Side</color>.",
+    "option1": "AAAAAA==",
+    "showName": "AAAAAA==",
+    "option2": "AAAAAA=="
+  },
+  {
+    "sn": "1064304",
+    "strContent": "You can now quick travel to the\n<color=#ff3b37>Shadow Swarm Area: Northwest Side</color>.",
+    "option1": "AAAAAA==",
+    "showName": "AAAAAA==",
+    "option2": "AAAAAA=="
+  },
+  {
+    "sn": "1064305",
+    "strContent": "You can now quick travel to the\n<color=#ff3b37>Shadow Swarm Area: Northwest Side</color>.",
+    "option1": "AAAAAA==",
+    "showName": "AAAAAA==",
+    "option2": "AAAAAA=="
+  },
+  {
+    "sn": "1064306",
+    "strContent": "You can now quick travel to the\n<color=#ff3b37>The Underground B1: North Side</color>.",
+    "option1": "AAAAAA==",
+    "showName": "AAAAAA==",
+    "option2": "AAAAAA=="
+  },
+  {
+    "sn": "1064307",
+    "strContent": "You can now quick travel to the\n<color=#ff3b37>The Underground B1: Center</color>.",
+    "option1": "AAAAAA==",
+    "showName": "AAAAAA==",
+    "option2": "AAAAAA=="
+  },
+  {
+    "sn": "1064308",
+    "strContent": "You can now quick travel to the\n<color=#ff3b37>The Underground B1: South Side</color>.",
+    "option1": "AAAAAA==",
+    "showName": "AAAAAA==",
+    "option2": "AAAAAA=="
+  },
+  {
+    "sn": "1064309",
+    "strContent": "You can now quick travel to the\n<color=#ff3b37>The Underground B1: West Side</color>.",
+    "option1": "AAAAAA==",
+    "showName": "AAAAAA==",
+    "option2": "AAAAAA=="
+  },
+  {
+    "sn": "1064310",
+    "strContent": "You can now quick travel to the\n<color=#ff3b37>The Underground B1: East Side</color>.",
+    "option1": "AAAAAA==",
+    "showName": "AAAAAA==",
+    "option2": "AAAAAA=="
+  },
+  {
+    "sn": "1064311",
+    "strContent": "You can now quick travel to the\n<color=#ff3b37>The Underground B2: West Side</color>.",
+    "option1": "AAAAAA==",
+    "showName": "AAAAAA==",
+    "option2": "AAAAAA=="
+  },
+  {
+    "sn": "1064312",
+    "strContent": "You can now quick travel to the\n<color=#ff3b37>The Underground B2: Center</color>.",
+    "option1": "AAAAAA==",
+    "showName": "AAAAAA==",
+    "option2": "AAAAAA=="
+  },
+  {
+    "sn": "1064313",
+    "strContent": "You can now quick travel to the\n<color=#ff3b37>The Underground B2: East Side</color>.",
+    "option1": "AAAAAA==",
+    "showName": "AAAAAA==",
+    "option2": "AAAAAA=="
+  },
+  {
+    "sn": "1064314",
+    "strContent": "You can now quick travel to the\n<color=#ff3b37>The Underground B2: South Side</color>.",
+    "option1": "AAAAAA==",
+    "showName": "AAAAAA==",
+    "option2": "AAAAAA=="
+  },
+  {
+    "sn": "1064315",
+    "strContent": "You can now quick travel to the\n<color=#ff3b37>The Underground B2: North Side</color>.",
+    "option1": "AAAAAA==",
+    "showName": "AAAAAA==",
+    "option2": "AAAAAA=="
+  },
+  {
+    "sn": "1064316",
+    "strContent": "You can now quick travel to the\n<color=#ff3b37>The Underground B2: East Side</color>.",
     "option1": "AAAAAA==",
     "showName": "AAAAAA==",
     "option2": "AAAAAA=="
@@ -21994,6 +22218,13 @@
     "option2": "AAAAAA=="
   },
   {
+    "sn": "1072009",
+    "strContent": "Setup complete.",
+    "option1": "AAAAAA==",
+    "showName": "AAAAAA==",
+    "option2": "AAAAAA=="
+  },
+  {
     "sn": "1073001",
     "strContent": "You have an Assist Phantom Thief in your party. Do you want to edit your party?",
     "option1": "Confirm",
@@ -22992,6 +23223,272 @@
     "strContent": "We'd better take a break soon before they have to send out a safety car...",
     "option1": "AAAAAA==",
     "showName": "Mayumi Hashimoto",
+    "option2": "AAAAAA=="
+  },
+  {
+    "sn": "1159001",
+    "strContent": "Let's get started, shall we?",
+    "option1": "AAAAAA==",
+    "showName": "Shoki Ikenami",
+    "option2": "AAAAAA=="
+  },
+  {
+    "sn": "1159002",
+    "strContent": "Let's get going",
+    "option1": "AAAAAA==",
+    "showName": "Shoki Ikenami",
+    "option2": "AAAAAA=="
+  },
+  {
+    "sn": "1159003",
+    "strContent": "We're here.",
+    "option1": "AAAAAA==",
+    "showName": "Shoki Ikenami",
+    "option2": "AAAAAA=="
+  },
+  {
+    "sn": "1159004",
+    "strContent": "Judging from the structure...\nit looks like there might be\nsome kind of hidden path.",
+    "option1": "AAAAAA==",
+    "showName": "Shoki Ikenami",
+    "option2": "AAAAAA=="
+  },
+  {
+    "sn": "1159005",
+    "strContent": "Hmm... I wonder if there's\nsome way to get through.",
+    "option1": "AAAAAA==",
+    "showName": "Shoki Ikenami",
+    "option2": "AAAAAA=="
+  },
+  {
+    "sn": "1159006",
+    "strContent": "Doesn't look like we can get\nthrough here.",
+    "option1": "AAAAAA==",
+    "showName": "Shoki Ikenami",
+    "option2": "AAAAAA=="
+  },
+  {
+    "sn": "1159007",
+    "strContent": "All right, mission complete.\nGreat work!",
+    "option1": "AAAAAA==",
+    "showName": "Shoki Ikenami",
+    "option2": "AAAAAA=="
+  },
+  {
+    "sn": "1159008",
+    "strContent": "Hey, there's a treasure chest\nover there.",
+    "option1": "AAAAAA==",
+    "showName": "Shoki Ikenami",
+    "option2": "AAAAAA=="
+  },
+  {
+    "sn": "1159009",
+    "strContent": "Sorry... We might need to\nrest up...",
+    "option1": "AAAAAA==",
+    "showName": "Shoki Ikenami",
+    "option2": "AAAAAA=="
+  },
+  {
+    "sn": "1159010",
+    "strContent": "Now then, let's see what's\ninside...",
+    "option1": "AAAAAA==",
+    "showName": "Shoki Ikenami",
+    "option2": "AAAAAA=="
+  },
+  {
+    "sn": "1159011",
+    "strContent": "Hey, not bad! Congratulazioni!",
+    "option1": "AAAAAA==",
+    "showName": "Shoki Ikenami",
+    "option2": "AAAAAA=="
+  },
+  {
+    "sn": "1159012",
+    "strContent": "Careful, there's an enemy\nup ahead...!",
+    "option1": "AAAAAA==",
+    "showName": "Shoki Ikenami",
+    "option2": "AAAAAA=="
+  },
+  {
+    "sn": "1159013",
+    "strContent": "Hey, there's a safe room.\nWanna take a break?",
+    "option1": "AAAAAA==",
+    "showName": "Shoki Ikenami",
+    "option2": "AAAAAA=="
+  },
+  {
+    "sn": "1159014",
+    "strContent": "Making sure to get plenty of\nrest is all part of an actor's\nwork.",
+    "option1": "AAAAAA==",
+    "showName": "Shoki Ikenami",
+    "option2": "AAAAAA=="
+  },
+  {
+    "sn": "1159015",
+    "strContent": "All right, time for the\ncurtain call.",
+    "option1": "AAAAAA==",
+    "showName": "Shoki Ikenami",
+    "option2": "AAAAAA=="
+  },
+  {
+    "sn": "1159016",
+    "strContent": "I think we'd better fall back.",
+    "option1": "AAAAAA==",
+    "showName": "Shoki Ikenami",
+    "option2": "AAAAAA=="
+  },
+  {
+    "sn": "1159017",
+    "strContent": "Oh boy... This one looks like\nit's gonna be trouble.",
+    "option1": "AAAAAA==",
+    "showName": "Shoki Ikenami",
+    "option2": "AAAAAA=="
+  },
+  {
+    "sn": "1159018",
+    "strContent": "How about we take a break?\nYou're looking pretty worn\nout.",
+    "option1": "AAAAAA==",
+    "showName": "Shoki Ikenami",
+    "option2": "AAAAAA=="
+  },
+  {
+    "sn": "1160001",
+    "strContent": "Commencing... exploration!",
+    "option1": "AAAAAA==",
+    "showName": "Manaka Nagao",
+    "option2": "AAAAAA=="
+  },
+  {
+    "sn": "1160002",
+    "strContent": "This looks like the place.",
+    "option1": "AAAAAA==",
+    "showName": "Manaka Nagao",
+    "option2": "AAAAAA=="
+  },
+  {
+    "sn": "1160003",
+    "strContent": "We made it! Err... What do we\ndo next?",
+    "option1": "AAAAAA==",
+    "showName": "Manaka Nagao",
+    "option2": "AAAAAA=="
+  },
+  {
+    "sn": "1160004",
+    "strContent": "It seems like there would be a secret passage around here!",
+    "option1": "AAAAAA==",
+    "showName": "Manaka Nagao",
+    "option2": "AAAAAA=="
+  },
+  {
+    "sn": "1160005",
+    "strContent": "H-Huh...? It's locked...",
+    "option1": "AAAAAA==",
+    "showName": "Manaka Nagao",
+    "option2": "AAAAAA=="
+  },
+  {
+    "sn": "1160006",
+    "strContent": "Aww, it won't open... Let's\nfind another way around.",
+    "option1": "AAAAAA==",
+    "showName": "Manaka Nagao",
+    "option2": "AAAAAA=="
+  },
+  {
+    "sn": "1160007",
+    "strContent": "All right, mission accomplished!",
+    "option1": "AAAAAA==",
+    "showName": "Manaka Nagao",
+    "option2": "AAAAAA=="
+  },
+  {
+    "sn": "1160008",
+    "strContent": "A treasure chest! Oooh...\nI'm so excited...!",
+    "option1": "AAAAAA==",
+    "showName": "Manaka Nagao",
+    "option2": "AAAAAA=="
+  },
+  {
+    "sn": "1160009",
+    "strContent": "You're looking pretty beat\nup... Shouldn't we stop and\ntake a break?",
+    "option1": "AAAAAA==",
+    "showName": "Manaka Nagao",
+    "option2": "AAAAAA=="
+  },
+  {
+    "sn": "1160010",
+    "strContent": "It's a safe room! C'mon,\nlet's go, let's go!",
+    "option1": "AAAAAA==",
+    "showName": "Manaka Nagao",
+    "option2": "AAAAAA=="
+  },
+  {
+    "sn": "1160011",
+    "strContent": "There's a tough looking foe...\nand it's coming this way!",
+    "option1": "AAAAAA==",
+    "showName": "Manaka Nagao",
+    "option2": "AAAAAA=="
+  },
+  {
+    "sn": "1160012",
+    "strContent": "I'm worried you're pushing\nyourself too hard. Why don't\nwe take a short rest?",
+    "option1": "AAAAAA==",
+    "showName": "Manaka Nagao",
+    "option2": "AAAAAA=="
+  },
+  {
+    "sn": "1160013",
+    "strContent": "Eeek...! This place is\ncrawling with foes!",
+    "option1": "AAAAAA==",
+    "showName": "Manaka Nagao",
+    "option2": "AAAAAA=="
+  },
+  {
+    "sn": "1160014",
+    "strContent": "Looks like the coast is clear...\nNow's our chance!",
+    "option1": "AAAAAA==",
+    "showName": "Manaka Nagao",
+    "option2": "AAAAAA=="
+  },
+  {
+    "sn": "1160015",
+    "strContent": "Hmm, something doesn't feel\nright... Maybe there's a trap.",
+    "option1": "AAAAAA==",
+    "showName": "Manaka Nagao",
+    "option2": "AAAAAA=="
+  },
+  {
+    "sn": "1160016",
+    "strContent": "Eheheh, we managed to\nunlock it!",
+    "option1": "AAAAAA==",
+    "showName": "Manaka Nagao",
+    "option2": "AAAAAA=="
+  },
+  {
+    "sn": "1160017",
+    "strContent": "Nice work! Let's keep this up...!",
+    "option1": "AAAAAA==",
+    "showName": "Manaka Nagao",
+    "option2": "AAAAAA=="
+  },
+  {
+    "sn": "1160018",
+    "strContent": "Looks like we've explored this\narea. Whew... I'm beat!",
+    "option1": "AAAAAA==",
+    "showName": "Manaka Nagao",
+    "option2": "AAAAAA=="
+  },
+  {
+    "sn": "1160019",
+    "strContent": "You've got a lot of Train\nTickets there. Maybe we should\nstop by a Fare Machine...",
+    "option1": "AAAAAA==",
+    "showName": "Manaka Nagao",
+    "option2": "AAAAAA=="
+  },
+  {
+    "sn": "1160020",
+    "strContent": "Oh, what's this...?",
+    "option1": "AAAAAA==",
+    "showName": "Manaka Nagao",
     "option2": "AAAAAA=="
   },
   {
@@ -26399,6 +26896,531 @@
   {
     "sn": "1157370",
     "strContent": "You shall not interfere in dreams...",
+    "option1": "AAAAAA==",
+    "showName": "AAAAAA==",
+    "option2": "AAAAAA=="
+  },
+  {
+    "sn": "1157371",
+    "strContent": "What was that? Am I\nimagining things?",
+    "option1": "AAAAAA==",
+    "showName": "AAAAAA==",
+    "option2": "AAAAAA=="
+  },
+  {
+    "sn": "1157372",
+    "strContent": "Something smells\nsuspicious...",
+    "option1": "AAAAAA==",
+    "showName": "AAAAAA==",
+    "option2": "AAAAAA=="
+  },
+  {
+    "sn": "1157373",
+    "strContent": "What!? Who's there!?",
+    "option1": "AAAAAA==",
+    "showName": "AAAAAA==",
+    "option2": "AAAAAA=="
+  },
+  {
+    "sn": "1157374",
+    "strContent": "Who is that? Someone\nslackin' off?",
+    "option1": "AAAAAA==",
+    "showName": "AAAAAA==",
+    "option2": "AAAAAA=="
+  },
+  {
+    "sn": "1157375",
+    "strContent": "I thought I saw\nsomeone...",
+    "option1": "AAAAAA==",
+    "showName": "AAAAAA==",
+    "option2": "AAAAAA=="
+  },
+  {
+    "sn": "1157376",
+    "strContent": "Stop where you are!",
+    "option1": "AAAAAA==",
+    "showName": "AAAAAA==",
+    "option2": "AAAAAA=="
+  },
+  {
+    "sn": "1157377",
+    "strContent": "Intruders!?",
+    "option1": "AAAAAA==",
+    "showName": "AAAAAA==",
+    "option2": "AAAAAA=="
+  },
+  {
+    "sn": "1157378",
+    "strContent": "Alert! Intruders\nspotted!",
+    "option1": "AAAAAA==",
+    "showName": "AAAAAA==",
+    "option2": "AAAAAA=="
+  },
+  {
+    "sn": "1157379",
+    "strContent": "Found you! Stop\nright there!",
+    "option1": "AAAAAA==",
+    "showName": "AAAAAA==",
+    "option2": "AAAAAA=="
+  },
+  {
+    "sn": "1157380",
+    "strContent": "Think you can run!?",
+    "option1": "AAAAAA==",
+    "showName": "AAAAAA==",
+    "option2": "AAAAAA=="
+  },
+  {
+    "sn": "1157381",
+    "strContent": "I lost them...\nForgive me,\nShimotsuna-sama...",
+    "option1": "AAAAAA==",
+    "showName": "AAAAAA==",
+    "option2": "AAAAAA=="
+  },
+  {
+    "sn": "1157382",
+    "strContent": "Unbelievable...\nShimotsuna-sama will\nbe furious!",
+    "option1": "AAAAAA==",
+    "showName": "AAAAAA==",
+    "option2": "AAAAAA=="
+  },
+  {
+    "sn": "1157383",
+    "strContent": "Where'd they go?\nThey were just\nhere...",
+    "option1": "AAAAAA==",
+    "showName": "AAAAAA==",
+    "option2": "AAAAAA=="
+  },
+  {
+    "sn": "1157384",
+    "strContent": "They're gone?\nHow odd...",
+    "option1": "AAAAAA==",
+    "showName": "AAAAAA==",
+    "option2": "AAAAAA=="
+  },
+  {
+    "sn": "1157385",
+    "strContent": "I was so close...",
+    "option1": "AAAAAA==",
+    "showName": "AAAAAA==",
+    "option2": "AAAAAA=="
+  },
+  {
+    "sn": "1157386",
+    "strContent": "My life for\nShimotsuna-sama!",
+    "option1": "AAAAAA==",
+    "showName": "AAAAAA==",
+    "option2": "AAAAAA=="
+  },
+  {
+    "sn": "1157387",
+    "strContent": "Shimotsuna-sama...\nOur most beautiful\nqueen...",
+    "option1": "AAAAAA==",
+    "showName": "AAAAAA==",
+    "option2": "AAAAAA=="
+  },
+  {
+    "sn": "1157388",
+    "strContent": "Shimotsuna-sama, let\nme show you my\ndevotion!",
+    "option1": "AAAAAA==",
+    "showName": "AAAAAA==",
+    "option2": "AAAAAA=="
+  },
+  {
+    "sn": "1157389",
+    "strContent": "If I fail here,\nShimotsuna-sama will\ncast me aside...!",
+    "option1": "AAAAAA==",
+    "showName": "AAAAAA==",
+    "option2": "AAAAAA=="
+  },
+  {
+    "sn": "1157390",
+    "strContent": "Ngh... I wish\nShimotsuna-sama would\nglare at me...",
+    "option1": "AAAAAA==",
+    "showName": "AAAAAA==",
+    "option2": "AAAAAA=="
+  },
+  {
+    "sn": "1157391",
+    "strContent": "They'd definitely\nnotice if I took that\nportrait home...",
+    "option1": "AAAAAA==",
+    "showName": "AAAAAA==",
+    "option2": "AAAAAA=="
+  },
+  {
+    "sn": "1157392",
+    "strContent": "When am I going to\nget promoted?",
+    "option1": "AAAAAA==",
+    "showName": "AAAAAA==",
+    "option2": "AAAAAA=="
+  },
+  {
+    "sn": "1157393",
+    "strContent": "Serving my beloved\nShimotsuna-sama every\nday is heaven...",
+    "option1": "AAAAAA==",
+    "showName": "AAAAAA==",
+    "option2": "AAAAAA=="
+  },
+  {
+    "sn": "1157394",
+    "strContent": "It is my duty\nto protect\nShimotsuna-sama.",
+    "option1": "AAAAAA==",
+    "showName": "AAAAAA==",
+    "option2": "AAAAAA=="
+  },
+  {
+    "sn": "1157395",
+    "strContent": "If Shimotsuna-sama\nabandons me, my\nlife is over...",
+    "option1": "AAAAAA==",
+    "showName": "AAAAAA==",
+    "option2": "AAAAAA=="
+  },
+  {
+    "sn": "1157396",
+    "strContent": "Hm? What's that?",
+    "option1": "AAAAAA==",
+    "showName": "AAAAAA==",
+    "option2": "AAAAAA=="
+  },
+  {
+    "sn": "1157397",
+    "strContent": "I got a strange\nfeeling just now...",
+    "option1": "AAAAAA==",
+    "showName": "AAAAAA==",
+    "option2": "AAAAAA=="
+  },
+  {
+    "sn": "1157398",
+    "strContent": "Some suspicious\nindividuals...?",
+    "option1": "AAAAAA==",
+    "showName": "AAAAAA==",
+    "option2": "AAAAAA=="
+  },
+  {
+    "sn": "1157399",
+    "strContent": "Is someone there?",
+    "option1": "AAAAAA==",
+    "showName": "AAAAAA==",
+    "option2": "AAAAAA=="
+  },
+  {
+    "sn": "1157400",
+    "strContent": "Who's that!? Someone\nmakin' noise over\nthere!?",
+    "option1": "AAAAAA==",
+    "showName": "AAAAAA==",
+    "option2": "AAAAAA=="
+  },
+  {
+    "sn": "1157401",
+    "strContent": "I smell hot guys!\nGet them!",
+    "option1": "AAAAAA==",
+    "showName": "AAAAAA==",
+    "option2": "AAAAAA=="
+  },
+  {
+    "sn": "1157402",
+    "strContent": "Stay right there!\nYou're my ticket to\na promotion!",
+    "option1": "AAAAAA==",
+    "showName": "AAAAAA==",
+    "option2": "AAAAAA=="
+  },
+  {
+    "sn": "1157403",
+    "strContent": "Intruders! How did\nthey get in!?",
+    "option1": "AAAAAA==",
+    "showName": "AAAAAA==",
+    "option2": "AAAAAA=="
+  },
+  {
+    "sn": "1157404",
+    "strContent": "There! I see the\nintruders!",
+    "option1": "AAAAAA==",
+    "showName": "AAAAAA==",
+    "option2": "AAAAAA=="
+  },
+  {
+    "sn": "1157405",
+    "strContent": "You've got nowhere\nto run, you damn\nbrats!",
+    "option1": "AAAAAA==",
+    "showName": "AAAAAA==",
+    "option2": "AAAAAA=="
+  },
+  {
+    "sn": "1157406",
+    "strContent": "Ow, my back...\nGotta take a break...",
+    "option1": "AAAAAA==",
+    "showName": "AAAAAA==",
+    "option2": "AAAAAA=="
+  },
+  {
+    "sn": "1157407",
+    "strContent": "Tch, where do you\nthink you're going?",
+    "option1": "AAAAAA==",
+    "showName": "AAAAAA==",
+    "option2": "AAAAAA=="
+  },
+  {
+    "sn": "1157408",
+    "strContent": "*gasp* *pant*\nThey're too fast...",
+    "option1": "AAAAAA==",
+    "showName": "AAAAAA==",
+    "option2": "AAAAAA=="
+  },
+  {
+    "sn": "1157409",
+    "strContent": "Tch, if I caught\nthem, I could've\ngotten a reward...",
+    "option1": "AAAAAA==",
+    "showName": "AAAAAA==",
+    "option2": "AAAAAA=="
+  },
+  {
+    "sn": "1157410",
+    "strContent": "I lost them... Hope\nShimotsuna-sama\ndidn't see that...",
+    "option1": "AAAAAA==",
+    "showName": "AAAAAA==",
+    "option2": "AAAAAA=="
+  },
+  {
+    "sn": "1157411",
+    "strContent": "I want to serve by\nShimotsuna-sama's\nside...",
+    "option1": "AAAAAA==",
+    "showName": "AAAAAA==",
+    "option2": "AAAAAA=="
+  },
+  {
+    "sn": "1157412",
+    "strContent": "Hmph, you won't\nescape me!",
+    "option1": "AAAAAA==",
+    "showName": "AAAAAA==",
+    "option2": "AAAAAA=="
+  },
+  {
+    "sn": "1157413",
+    "strContent": "For Shimotsuna-sama,\nI will protect this\nplace with my life!",
+    "option1": "AAAAAA==",
+    "showName": "AAAAAA==",
+    "option2": "AAAAAA=="
+  },
+  {
+    "sn": "1157414",
+    "strContent": "All praise to our\nbenevolent\nShimotsuna-sama!",
+    "option1": "AAAAAA==",
+    "showName": "AAAAAA==",
+    "option2": "AAAAAA=="
+  },
+  {
+    "sn": "1157415",
+    "strContent": "If I was more\nhandsome, I could\nget promoted...",
+    "option1": "AAAAAA==",
+    "showName": "AAAAAA==",
+    "option2": "AAAAAA=="
+  },
+  {
+    "sn": "1157416",
+    "strContent": "I need to find some\nhot guys to please\nShimotsuna-sama...",
+    "option1": "AAAAAA==",
+    "showName": "AAAAAA==",
+    "option2": "AAAAAA=="
+  },
+  {
+    "sn": "1157417",
+    "strContent": "Not much going on\ntoday...",
+    "option1": "AAAAAA==",
+    "showName": "AAAAAA==",
+    "option2": "AAAAAA=="
+  },
+  {
+    "sn": "1157418",
+    "strContent": "For Shimotsuna-sama...\nI'll give it my all\ntoday.",
+    "option1": "AAAAAA==",
+    "showName": "AAAAAA==",
+    "option2": "AAAAAA=="
+  },
+  {
+    "sn": "1157419",
+    "strContent": "I shall be the one\nto earn the queen's\nlove!",
+    "option1": "AAAAAA==",
+    "showName": "AAAAAA==",
+    "option2": "AAAAAA=="
+  },
+  {
+    "sn": "1157420",
+    "strContent": "If I can do this,\nShimotsuna-sama will\npraise me...!",
+    "option1": "AAAAAA==",
+    "showName": "AAAAAA==",
+    "option2": "AAAAAA=="
+  },
+  {
+    "sn": "1157421",
+    "strContent": "Who's that!? Raise\nthe alarm!",
+    "option1": "AAAAAA==",
+    "showName": "AAAAAA==",
+    "option2": "AAAAAA=="
+  },
+  {
+    "sn": "1157422",
+    "strContent": "How'd trash like\nyou get in here?",
+    "option1": "AAAAAA==",
+    "showName": "AAAAAA==",
+    "option2": "AAAAAA=="
+  },
+  {
+    "sn": "1157423",
+    "strContent": "Someone's sneaking\naround...",
+    "option1": "AAAAAA==",
+    "showName": "AAAAAA==",
+    "option2": "AAAAAA=="
+  },
+  {
+    "sn": "1157424",
+    "strContent": "Looks like some\ninvaders got in...",
+    "option1": "AAAAAA==",
+    "showName": "AAAAAA==",
+    "option2": "AAAAAA=="
+  },
+  {
+    "sn": "1157425",
+    "strContent": "Seems like we've got\nsome unauthorized\nindividuals...",
+    "option1": "AAAAAA==",
+    "showName": "AAAAAA==",
+    "option2": "AAAAAA=="
+  },
+  {
+    "sn": "1157426",
+    "strContent": "I'll crush you!",
+    "option1": "AAAAAA==",
+    "showName": "AAAAAA==",
+    "option2": "AAAAAA=="
+  },
+  {
+    "sn": "1157427",
+    "strContent": "I'll tear you to pieces!",
+    "option1": "AAAAAA==",
+    "showName": "AAAAAA==",
+    "option2": "AAAAAA=="
+  },
+  {
+    "sn": "1157428",
+    "strContent": "You scum! Don't try\nto escape!",
+    "option1": "AAAAAA==",
+    "showName": "AAAAAA==",
+    "option2": "AAAAAA=="
+  },
+  {
+    "sn": "1157429",
+    "strContent": "Hahaha, we'll\ndevour you!",
+    "option1": "AAAAAA==",
+    "showName": "AAAAAA==",
+    "option2": "AAAAAA=="
+  },
+  {
+    "sn": "1157430",
+    "strContent": "You fools must have\na death wish!",
+    "option1": "AAAAAA==",
+    "showName": "AAAAAA==",
+    "option2": "AAAAAA=="
+  },
+  {
+    "sn": "1157431",
+    "strContent": "They got away for\nnow... But they can't\nrun forever...",
+    "option1": "AAAAAA==",
+    "showName": "AAAAAA==",
+    "option2": "AAAAAA=="
+  },
+  {
+    "sn": "1157432",
+    "strContent": "Filthy trash! Think\nyou can run away?",
+    "option1": "AAAAAA==",
+    "showName": "AAAAAA==",
+    "option2": "AAAAAA=="
+  },
+  {
+    "sn": "1157433",
+    "strContent": "Lost them...! M-Maybe\nI can pin this on my\nsubordinates...",
+    "option1": "AAAAAA==",
+    "showName": "AAAAAA==",
+    "option2": "AAAAAA=="
+  },
+  {
+    "sn": "1157434",
+    "strContent": "They ran off...\nCowards!",
+    "option1": "AAAAAA==",
+    "showName": "AAAAAA==",
+    "option2": "AAAAAA=="
+  },
+  {
+    "sn": "1157435",
+    "strContent": "They're too fast...\nI won't lose them\nnext time.",
+    "option1": "AAAAAA==",
+    "showName": "AAAAAA==",
+    "option2": "AAAAAA=="
+  },
+  {
+    "sn": "1157436",
+    "strContent": "You're coming right\ntowards me...\nYou fools.",
+    "option1": "AAAAAA==",
+    "showName": "AAAAAA==",
+    "option2": "AAAAAA=="
+  },
+  {
+    "sn": "1157437",
+    "strContent": "You won't get\nthrough!",
+    "option1": "AAAAAA==",
+    "showName": "AAAAAA==",
+    "option2": "AAAAAA=="
+  },
+  {
+    "sn": "1157438",
+    "strContent": "I'll show you my\nmight!",
+    "option1": "AAAAAA==",
+    "showName": "AAAAAA==",
+    "option2": "AAAAAA=="
+  },
+  {
+    "sn": "1157439",
+    "strContent": "For Shimotsuna-sama!",
+    "option1": "AAAAAA==",
+    "showName": "AAAAAA==",
+    "option2": "AAAAAA=="
+  },
+  {
+    "sn": "1157440",
+    "strContent": "I'll show you the\npower of the queen's\nlove!",
+    "option1": "AAAAAA==",
+    "showName": "AAAAAA==",
+    "option2": "AAAAAA=="
+  },
+  {
+    "sn": "1157441",
+    "strContent": "I won't betray\nShimotsuna-sama's\ntrust!",
+    "option1": "AAAAAA==",
+    "showName": "AAAAAA==",
+    "option2": "AAAAAA=="
+  },
+  {
+    "sn": "1157442",
+    "strContent": "Those worthless\nunderlings... Were\nthey slacking off?",
+    "option1": "AAAAAA==",
+    "showName": "AAAAAA==",
+    "option2": "AAAAAA=="
+  },
+  {
+    "sn": "1157443",
+    "strContent": "Ooh, I want to be\nmore useful to\nShimotsuna-sama...",
+    "option1": "AAAAAA==",
+    "showName": "AAAAAA==",
+    "option2": "AAAAAA=="
+  },
+  {
+    "sn": "1157444",
+    "strContent": "If I capture these\nhot studs, she will\nbe pleased...",
+    "option1": "AAAAAA==",
+    "showName": "AAAAAA==",
+    "option2": "AAAAAA=="
+  },
+  {
+    "sn": "1157445",
+    "strContent": "You fools need to\nlearn your place...",
     "option1": "AAAAAA==",
     "showName": "AAAAAA==",
     "option2": "AAAAAA=="
@@ -29848,6 +30870,48 @@
     "option2": "AAAAAA=="
   },
   {
+    "sn": "1210325",
+    "strContent": "You can now quick travel to the\n<color=#ff3b37>Path of Kaitul Area 1</color>.",
+    "option1": "AAAAAA==",
+    "showName": "AAAAAA==",
+    "option2": "AAAAAA=="
+  },
+  {
+    "sn": "1210326",
+    "strContent": "You can now quick travel to the\n<color=#ff3b37>Path of Kaitul Area 2</color>.",
+    "option1": "AAAAAA==",
+    "showName": "AAAAAA==",
+    "option2": "AAAAAA=="
+  },
+  {
+    "sn": "1210327",
+    "strContent": "You can now quick travel to the\n<color=#ff3b37>Path of Kaitul Area 3</color>.",
+    "option1": "AAAAAA==",
+    "showName": "AAAAAA==",
+    "option2": "AAAAAA=="
+  },
+  {
+    "sn": "1210328",
+    "strContent": "You can now quick travel to the\n<color=#ff3b37>Path of Kaitul Area 4</color>.",
+    "option1": "AAAAAA==",
+    "showName": "AAAAAA==",
+    "option2": "AAAAAA=="
+  },
+  {
+    "sn": "1210329",
+    "strContent": "You can now quick travel to the\n<color=#ff3b37>Path of Kaitul Area 5</color>.",
+    "option1": "AAAAAA==",
+    "showName": "AAAAAA==",
+    "option2": "AAAAAA=="
+  },
+  {
+    "sn": "1210330",
+    "strContent": "You can now quick travel to the\n<color=#ff3b37>Path of Kaitul Area 6</color>.",
+    "option1": "AAAAAA==",
+    "showName": "AAAAAA==",
+    "option2": "AAAAAA=="
+  },
+  {
     "sn": "1211011",
     "strContent": "A surprise attack!? Let's get\nback in formation!",
     "option1": "AAAAAA==",
@@ -30520,6 +31584,97 @@
     "option2": "AAAAAA=="
   },
   {
+    "sn": "1218001",
+    "strContent": "If you choose a preset or random selection, your current settings will be reset.\nDo you want to use this?",
+    "option1": "Confirm",
+    "showName": "L<#000000,u,#FFFFFF>fel",
+    "option2": "Never mind."
+  },
+  {
+    "sn": "1218002",
+    "strContent": "Do you want to select this option?\nIt cannot be changed later.",
+    "option1": "Confirm",
+    "showName": "L<#000000,u,#FFFFFF>fel",
+    "option2": "Never mind."
+  },
+  {
+    "sn": "1218003",
+    "strContent": "Please select the content you want.",
+    "option1": "AAAAAA==",
+    "showName": "AAAAAA==",
+    "option2": "AAAAAA=="
+  },
+  {
+    "sn": "1218004",
+    "strContent": "When the server-wide party energy reaches a certain amount, this story will be unlocked.",
+    "option1": "AAAAAA==",
+    "showName": "AAAAAA==",
+    "option2": "AAAAAA=="
+  },
+  {
+    "sn": "1218005",
+    "strContent": "This style has not been unlocked.\nComplete the mission to unlock it.",
+    "option1": "AAAAAA==",
+    "showName": "AAAAAA==",
+    "option2": "AAAAAA=="
+  },
+  {
+    "sn": "1218006",
+    "strContent": "By obtaining many cake styles, you can unlock preset plans.",
+    "option1": "AAAAAA==",
+    "showName": "AAAAAA==",
+    "option2": "AAAAAA=="
+  },
+  {
+    "sn": "1218007",
+    "strContent": "Saved.",
+    "option1": "AAAAAA==",
+    "showName": "AAAAAA==",
+    "option2": "AAAAAA=="
+  },
+  {
+    "sn": "1218008",
+    "strContent": "The current server energy is at maximum.",
+    "option1": "AAAAAA==",
+    "showName": "AAAAAA==",
+    "option2": "AAAAAA=="
+  },
+  {
+    "sn": "1218009",
+    "strContent": "Do you want to save these changes?",
+    "option1": "Save",
+    "showName": "L<#000000,u,#FFFFFF>fel",
+    "option2": "Don't save"
+  },
+  {
+    "sn": "1218010",
+    "strContent": "Changes confirmed.",
+    "option1": "AAAAAA==",
+    "showName": "AAAAAA==",
+    "option2": "AAAAAA=="
+  },
+  {
+    "sn": "1219001",
+    "strContent": "Do you want to send 1 scratch-off pack?",
+    "option1": "Confirm",
+    "showName": "L<#000000,u,#FFFFFF>fel",
+    "option2": "Cancel"
+  },
+  {
+    "sn": "1219002",
+    "strContent": "You currently don't have enough scratch cards to open a gift. You can earn more scratch cards by sharing or opening a scratch-off pack.",
+    "option1": "AAAAAA==",
+    "showName": "AAAAAA==",
+    "option2": "AAAAAA=="
+  },
+  {
+    "sn": "1219003",
+    "strContent": "The gift list is empty.",
+    "option1": "AAAAAA==",
+    "showName": "AAAAAA==",
+    "option2": "AAAAAA=="
+  },
+  {
     "sn": "1130116",
     "strContent": "Hoom, not bad.",
     "option1": "AAAAAA==",
@@ -30606,6 +31761,370 @@
   {
     "sn": "1230002",
     "strContent": "You can reupload your log after 10 minutes. Please wait.",
+    "option1": "AAAAAA==",
+    "showName": "AAAAAA==",
+    "option2": "AAAAAA=="
+  },
+  {
+    "sn": "1241011",
+    "strContent": "We're in a bit of a bind\nhere... Let's try to push\nthrough!",
+    "option1": "AAAAAA==",
+    "showName": "AAAAAA==",
+    "option2": "AAAAAA=="
+  },
+  {
+    "sn": "1241021",
+    "strContent": "We should be able to take them\non without breaking a sweat!",
+    "option1": "AAAAAA==",
+    "showName": "AAAAAA==",
+    "option2": "AAAAAA=="
+  },
+  {
+    "sn": "1241031",
+    "strContent": "Let's keep up the good work!",
+    "option1": "AAAAAA==",
+    "showName": "AAAAAA==",
+    "option2": "AAAAAA=="
+  },
+  {
+    "sn": "1241041",
+    "strContent": "They look pretty tough...\nBest keep our wits about us.",
+    "option1": "AAAAAA==",
+    "showName": "AAAAAA==",
+    "option2": "AAAAAA=="
+  },
+  {
+    "sn": "1241051",
+    "strContent": "Whoa, a rare enemy...\nLet's take them down!",
+    "option1": "AAAAAA==",
+    "showName": "AAAAAA==",
+    "option2": "AAAAAA=="
+  },
+  {
+    "sn": "1241061",
+    "strContent": "I'm sorry...\nIt's all my fault...",
+    "option1": "AAAAAA==",
+    "showName": "AAAAAA==",
+    "option2": "AAAAAA=="
+  },
+  {
+    "sn": "1241071",
+    "strContent": "A-Are you all right!?",
+    "option1": "AAAAAA==",
+    "showName": "AAAAAA==",
+    "option2": "AAAAAA=="
+  },
+  {
+    "sn": "1241072",
+    "strContent": "Oh no... How are we going\nto make it...?",
+    "option1": "AAAAAA==",
+    "showName": "AAAAAA==",
+    "option2": "AAAAAA=="
+  },
+  {
+    "sn": "1241073",
+    "strContent": "T-This is serious!\nWe need help, quick!",
+    "option1": "AAAAAA==",
+    "showName": "AAAAAA==",
+    "option2": "AAAAAA=="
+  },
+  {
+    "sn": "1241091",
+    "strContent": "Wonder! Please be careful!",
+    "option1": "AAAAAA==",
+    "showName": "AAAAAA==",
+    "option2": "AAAAAA=="
+  },
+  {
+    "sn": "1241101",
+    "strContent": "Hang in there... You'll be\nhealed up soon...!",
+    "option1": "AAAAAA==",
+    "showName": "AAAAAA==",
+    "option2": "AAAAAA=="
+  },
+  {
+    "sn": "1241102",
+    "strContent": "Please, we need urgent\nhealing!",
+    "option1": "AAAAAA==",
+    "showName": "AAAAAA==",
+    "option2": "AAAAAA=="
+  },
+  {
+    "sn": "1241103",
+    "strContent": "Right now, let's focus on\nhealing...!",
+    "option1": "AAAAAA==",
+    "showName": "AAAAAA==",
+    "option2": "AAAAAA=="
+  },
+  {
+    "sn": "1241111",
+    "strContent": "T-They're down!?\nW-What do I do...?",
+    "option1": "AAAAAA==",
+    "showName": "AAAAAA==",
+    "option2": "AAAAAA=="
+  },
+  {
+    "sn": "1241112",
+    "strContent": "Ally down! We can't let the\nenemies get the upper hand!",
+    "option1": "AAAAAA==",
+    "showName": "AAAAAA==",
+    "option2": "AAAAAA=="
+  },
+  {
+    "sn": "1241113",
+    "strContent": "We're in a real pinch here...\nBut there's only one way out!",
+    "option1": "AAAAAA==",
+    "showName": "AAAAAA==",
+    "option2": "AAAAAA=="
+  },
+  {
+    "sn": "1241121",
+    "strContent": "Phew, I'm glad we're safe...!",
+    "option1": "AAAAAA==",
+    "showName": "AAAAAA==",
+    "option2": "AAAAAA=="
+  },
+  {
+    "sn": "1241131",
+    "strContent": "Whoa! One fell swoop...!",
+    "option1": "AAAAAA==",
+    "showName": "AAAAAA==",
+    "option2": "AAAAAA=="
+  },
+  {
+    "sn": "1241132",
+    "strContent": "Whoa! Took them all down\nin one...!",
+    "option1": "AAAAAA==",
+    "showName": "AAAAAA==",
+    "option2": "AAAAAA=="
+  },
+  {
+    "sn": "1241133",
+    "strContent": "Wow, that was super cool...!",
+    "option1": "AAAAAA==",
+    "showName": "AAAAAA==",
+    "option2": "AAAAAA=="
+  },
+  {
+    "sn": "1241141",
+    "strContent": "Wonder, you're incredible...!",
+    "option1": "AAAAAA==",
+    "showName": "AAAAAA==",
+    "option2": "AAAAAA=="
+  },
+  {
+    "sn": "1241151",
+    "strContent": "Way to go, Wonder! We can\nalways count on you!",
+    "option1": "AAAAAA==",
+    "showName": "AAAAAA==",
+    "option2": "AAAAAA=="
+  },
+  {
+    "sn": "1241161",
+    "strContent": "Hey, congratulations!",
+    "option1": "AAAAAA==",
+    "showName": "AAAAAA==",
+    "option2": "AAAAAA=="
+  },
+  {
+    "sn": "1241162",
+    "strContent": "All right! We've got this in\nthe bag!",
+    "option1": "AAAAAA==",
+    "showName": "AAAAAA==",
+    "option2": "AAAAAA=="
+  },
+  {
+    "sn": "1241163",
+    "strContent": "Let's keep this up!",
+    "option1": "AAAAAA==",
+    "showName": "AAAAAA==",
+    "option2": "AAAAAA=="
+  },
+  {
+    "sn": "1241171",
+    "strContent": "W-Whoa, amazing...!",
+    "option1": "AAAAAA==",
+    "showName": "AAAAAA==",
+    "option2": "AAAAAA=="
+  },
+  {
+    "sn": "1241181",
+    "strContent": "Argh! So close...!",
+    "option1": "AAAAAA==",
+    "showName": "AAAAAA==",
+    "option2": "AAAAAA=="
+  },
+  {
+    "sn": "1241191",
+    "strContent": "Sometimes it's best to\nretreat!",
+    "option1": "AAAAAA==",
+    "showName": "AAAAAA==",
+    "option2": "AAAAAA=="
+  },
+  {
+    "sn": "1241201",
+    "strContent": "All right, let's get started...!",
+    "option1": "AAAAAA==",
+    "showName": "AAAAAA==",
+    "option2": "AAAAAA=="
+  },
+  {
+    "sn": "1241202",
+    "strContent": "I'll sing a song to ignite\nyour fighting spirit!",
+    "option1": "AAAAAA==",
+    "showName": "AAAAAA==",
+    "option2": "AAAAAA=="
+  },
+  {
+    "sn": "1241203",
+    "strContent": "Heheh, giving up already?",
+    "option1": "AAAAAA==",
+    "showName": "AAAAAA==",
+    "option2": "AAAAAA=="
+  },
+  {
+    "sn": "1241211",
+    "strContent": "Wow...! We won! We really won!",
+    "option1": "AAAAAA==",
+    "showName": "AAAAAA==",
+    "option2": "AAAAAA=="
+  },
+  {
+    "sn": "1241212",
+    "strContent": "Eheheh... I hope I could be\nof help.",
+    "option1": "AAAAAA==",
+    "showName": "AAAAAA==",
+    "option2": "AAAAAA=="
+  },
+  {
+    "sn": "1241221",
+    "strContent": "They can't keep fighting like\nthis... We need to heal them\nquick!",
+    "option1": "AAAAAA==",
+    "showName": "AAAAAA==",
+    "option2": "AAAAAA=="
+  },
+  {
+    "sn": "1241231",
+    "strContent": "That looked bad... We can't keep going like this!",
+    "option1": "AAAAAA==",
+    "showName": "AAAAAA==",
+    "option2": "AAAAAA=="
+  },
+  {
+    "sn": "1241241",
+    "strContent": "Stay calm, everybody!\nTry to keep it together!",
+    "option1": "AAAAAA==",
+    "showName": "AAAAAA==",
+    "option2": "AAAAAA=="
+  },
+  {
+    "sn": "1241251",
+    "strContent": "Let's just take a deep\nbreath! In... and out...!",
+    "option1": "AAAAAA==",
+    "showName": "AAAAAA==",
+    "option2": "AAAAAA=="
+  },
+  {
+    "sn": "1241261",
+    "strContent": "There, you're all healed up!\nLet's keep going!",
+    "option1": "AAAAAA==",
+    "showName": "AAAAAA==",
+    "option2": "AAAAAA=="
+  },
+  {
+    "sn": "1241271",
+    "strContent": "Thank goodness, you're back\nwith us...!",
+    "option1": "AAAAAA==",
+    "showName": "AAAAAA==",
+    "option2": "AAAAAA=="
+  },
+  {
+    "sn": "1241281",
+    "strContent": "Uhh, umm... Okay!\nI'm all set!",
+    "option1": "AAAAAA==",
+    "showName": "AAAAAA==",
+    "option2": "AAAAAA=="
+  },
+  {
+    "sn": "1241282",
+    "strContent": "We're fighting right\nalongside you!",
+    "option1": "AAAAAA==",
+    "showName": "AAAAAA==",
+    "option2": "AAAAAA=="
+  },
+  {
+    "sn": "1241283",
+    "strContent": "Listen... to my song...!",
+    "option1": "AAAAAA==",
+    "showName": "AAAAAA==",
+    "option2": "AAAAAA=="
+  },
+  {
+    "sn": "1241291",
+    "strContent": "Wonder! Hey, don't leave me\nbehind...!",
+    "option1": "AAAAAA==",
+    "showName": "AAAAAA==",
+    "option2": "AAAAAA=="
+  },
+  {
+    "sn": "1241292",
+    "strContent": "Wonder... Please answer me!",
+    "option1": "AAAAAA==",
+    "showName": "AAAAAA==",
+    "option2": "AAAAAA=="
+  },
+  {
+    "sn": "1241293",
+    "strContent": "Everyone, let's do what we\ncan to protect Wonder!",
+    "option1": "AAAAAA==",
+    "showName": "AAAAAA==",
+    "option2": "AAAAAA=="
+  },
+  {
+    "sn": "1241301",
+    "strContent": "We're ready for a Highlight!",
+    "option1": "AAAAAA==",
+    "showName": "AAAAAA==",
+    "option2": "AAAAAA=="
+  },
+  {
+    "sn": "1241302",
+    "strContent": "I'll... try to turn things\naround...!",
+    "option1": "AAAAAA==",
+    "showName": "AAAAAA==",
+    "option2": "AAAAAA=="
+  },
+  {
+    "sn": "1241303",
+    "strContent": "May my song rise... No, soar!",
+    "option1": "AAAAAA==",
+    "showName": "AAAAAA==",
+    "option2": "AAAAAA=="
+  },
+  {
+    "sn": "1241311",
+    "strContent": "Oh, thank goodness! I'm just so happy!",
+    "option1": "AAAAAA==",
+    "showName": "AAAAAA==",
+    "option2": "AAAAAA=="
+  },
+  {
+    "sn": "1241312",
+    "strContent": "Are you all right? Please\ndon't push yourself too hard.",
+    "option1": "AAAAAA==",
+    "showName": "AAAAAA==",
+    "option2": "AAAAAA=="
+  },
+  {
+    "sn": "1241313",
+    "strContent": "Welcome back. I'm so glad we\ncan be together again!",
+    "option1": "AAAAAA==",
+    "showName": "AAAAAA==",
+    "option2": "AAAAAA=="
+  },
+  {
+    "sn": "1241314",
+    "strContent": "As long as you keep fighting,\nWonder, I'll be right there\nby your side!",
     "option1": "AAAAAA==",
     "showName": "AAAAAA==",
     "option2": "AAAAAA=="
@@ -32001,7 +33520,7 @@
     "strContent": "Select City Life mode",
     "option1": "Cancel",
     "showName": "L<#000000,u,#FFFFFF>fel",
-    "option2": "Never mind."
+    "option2": "Cancel"
   },
   {
     "sn": "1135004",
@@ -36358,6 +37877,426 @@
     "option2": "AAAAAA=="
   },
   {
+    "sn": "1134101",
+    "strContent": "Thanks. Will do.",
+    "option1": "AAAAAA==",
+    "showName": "Manaka Nagao",
+    "option2": "AAAAAA=="
+  },
+  {
+    "sn": "1134102",
+    "strContent": "Y-You mean me?",
+    "option1": "AAAAAA==",
+    "showName": "Manaka Nagao",
+    "option2": "AAAAAA=="
+  },
+  {
+    "sn": "1134103",
+    "strContent": "So, what should we do?",
+    "option1": "AAAAAA==",
+    "showName": "Manaka Nagao",
+    "option2": "AAAAAA=="
+  },
+  {
+    "sn": "1134104",
+    "strContent": "I'll do my best!",
+    "option1": "AAAAAA==",
+    "showName": "Manaka Nagao",
+    "option2": "AAAAAA=="
+  },
+  {
+    "sn": "1134105",
+    "strContent": "Let's keep it up!",
+    "option1": "AAAAAA==",
+    "showName": "Manaka Nagao",
+    "option2": "AAAAAA=="
+  },
+  {
+    "sn": "1134106",
+    "strContent": "Okay. I'm going!",
+    "option1": "AAAAAA==",
+    "showName": "Manaka Nagao",
+    "option2": "AAAAAA=="
+  },
+  {
+    "sn": "1134107",
+    "strContent": "Let's stay focused.",
+    "option1": "AAAAAA==",
+    "showName": "Manaka Nagao",
+    "option2": "AAAAAA=="
+  },
+  {
+    "sn": "1134108",
+    "strContent": "Let's begin the mission!",
+    "option1": "AAAAAA==",
+    "showName": "Manaka Nagao",
+    "option2": "AAAAAA=="
+  },
+  {
+    "sn": "1134109",
+    "strContent": "My heart is pounding...",
+    "option1": "AAAAAA==",
+    "showName": "Manaka Nagao",
+    "option2": "AAAAAA=="
+  },
+  {
+    "sn": "1134110",
+    "strContent": "I'll do my best. Just wait for me!",
+    "option1": "AAAAAA==",
+    "showName": "Manaka Nagao",
+    "option2": "AAAAAA=="
+  },
+  {
+    "sn": "1134111",
+    "strContent": "Understood.",
+    "option1": "AAAAAA==",
+    "showName": "Manaka Nagao",
+    "option2": "AAAAAA=="
+  },
+  {
+    "sn": "1134112",
+    "strContent": "Everything will be okay.",
+    "option1": "AAAAAA==",
+    "showName": "Manaka Nagao",
+    "option2": "AAAAAA=="
+  },
+  {
+    "sn": "1134113",
+    "strContent": "I'll be there right away.",
+    "option1": "AAAAAA==",
+    "showName": "Manaka Nagao",
+    "option2": "AAAAAA=="
+  },
+  {
+    "sn": "1134114",
+    "strContent": "In that case...!",
+    "option1": "AAAAAA==",
+    "showName": "Manaka Nagao",
+    "option2": "AAAAAA=="
+  },
+  {
+    "sn": "1134115",
+    "strContent": "Understood. Then I'll come back.",
+    "option1": "AAAAAA==",
+    "showName": "Manaka Nagao",
+    "option2": "AAAAAA=="
+  },
+  {
+    "sn": "1134116",
+    "strContent": "We did it!",
+    "option1": "AAAAAA==",
+    "showName": "Manaka Nagao",
+    "option2": "AAAAAA=="
+  },
+  {
+    "sn": "1134117",
+    "strContent": "All right, mission accomplished!",
+    "option1": "AAAAAA==",
+    "showName": "Manaka Nagao",
+    "option2": "AAAAAA=="
+  },
+  {
+    "sn": "1134118",
+    "strContent": "Nice work! Let's keep this up...!",
+    "option1": "AAAAAA==",
+    "showName": "Manaka Nagao",
+    "option2": "AAAAAA=="
+  },
+  {
+    "sn": "1134119",
+    "strContent": "This is so amazing!",
+    "option1": "AAAAAA==",
+    "showName": "Manaka Nagao",
+    "option2": "AAAAAA=="
+  },
+  {
+    "sn": "1134120",
+    "strContent": "Eheheh... I hope I could be\nof help.",
+    "option1": "AAAAAA==",
+    "showName": "Manaka Nagao",
+    "option2": "AAAAAA=="
+  },
+  {
+    "sn": "1134201",
+    "strContent": "I'm ready any time!",
+    "option1": "AAAAAA==",
+    "showName": "Makoto Yuki",
+    "option2": "AAAAAA=="
+  },
+  {
+    "sn": "1134202",
+    "strContent": "Hm? What's wrong?",
+    "option1": "AAAAAA==",
+    "showName": "Makoto Yuki",
+    "option2": "AAAAAA=="
+  },
+  {
+    "sn": "1134203",
+    "strContent": "Something up?",
+    "option1": "AAAAAA==",
+    "showName": "Makoto Yuki",
+    "option2": "AAAAAA=="
+  },
+  {
+    "sn": "1134204",
+    "strContent": "Sure.",
+    "option1": "AAAAAA==",
+    "showName": "Makoto Yuki",
+    "option2": "AAAAAA=="
+  },
+  {
+    "sn": "1134205",
+    "strContent": "You got it.",
+    "option1": "AAAAAA==",
+    "showName": "Makoto Yuki",
+    "option2": "AAAAAA=="
+  },
+  {
+    "sn": "1134206",
+    "strContent": "Be back soon.",
+    "option1": "AAAAAA==",
+    "showName": "Makoto Yuki",
+    "option2": "AAAAAA=="
+  },
+  {
+    "sn": "1134207",
+    "strContent": "I got this.",
+    "option1": "AAAAAA==",
+    "showName": "Makoto Yuki",
+    "option2": "AAAAAA=="
+  },
+  {
+    "sn": "1134208",
+    "strContent": "I'm on it.",
+    "option1": "AAAAAA==",
+    "showName": "Makoto Yuki",
+    "option2": "AAAAAA=="
+  },
+  {
+    "sn": "1134209",
+    "strContent": "Let's begin.",
+    "option1": "AAAAAA==",
+    "showName": "Makoto Yuki",
+    "option2": "AAAAAA=="
+  },
+  {
+    "sn": "1134210",
+    "strContent": "Let's do our best.",
+    "option1": "AAAAAA==",
+    "showName": "Makoto Yuki",
+    "option2": "AAAAAA=="
+  },
+  {
+    "sn": "1134211",
+    "strContent": "Got it.",
+    "option1": "AAAAAA==",
+    "showName": "Makoto Yuki",
+    "option2": "AAAAAA=="
+  },
+  {
+    "sn": "1134212",
+    "strContent": "You sure?",
+    "option1": "AAAAAA==",
+    "showName": "Makoto Yuki",
+    "option2": "AAAAAA=="
+  },
+  {
+    "sn": "1134213",
+    "strContent": "If you insist.",
+    "option1": "AAAAAA==",
+    "showName": "Makoto Yuki",
+    "option2": "AAAAAA=="
+  },
+  {
+    "sn": "1134214",
+    "strContent": "I'll be back.",
+    "option1": "AAAAAA==",
+    "showName": "Makoto Yuki",
+    "option2": "AAAAAA=="
+  },
+  {
+    "sn": "1134215",
+    "strContent": "Back before you know it.",
+    "option1": "AAAAAA==",
+    "showName": "Makoto Yuki",
+    "option2": "AAAAAA=="
+  },
+  {
+    "sn": "1134216",
+    "strContent": "Nice work.",
+    "option1": "AAAAAA==",
+    "showName": "Makoto Yuki",
+    "option2": "AAAAAA=="
+  },
+  {
+    "sn": "1134217",
+    "strContent": "Feels good.",
+    "option1": "AAAAAA==",
+    "showName": "Makoto Yuki",
+    "option2": "AAAAAA=="
+  },
+  {
+    "sn": "1134218",
+    "strContent": "Things're going pretty good.",
+    "option1": "AAAAAA==",
+    "showName": "Makoto Yuki",
+    "option2": "AAAAAA=="
+  },
+  {
+    "sn": "1134219",
+    "strContent": "It might be more than I thought.",
+    "option1": "AAAAAA==",
+    "showName": "Makoto Yuki",
+    "option2": "AAAAAA=="
+  },
+  {
+    "sn": "1134220",
+    "strContent": "Hehe.",
+    "option1": "AAAAAA==",
+    "showName": "Makoto Yuki",
+    "option2": "AAAAAA=="
+  },
+  {
+    "sn": "1134501",
+    "strContent": "Shall we begin the rehearsal?",
+    "option1": "AAAAAA==",
+    "showName": "Shoki Ikenami",
+    "option2": "AAAAAA=="
+  },
+  {
+    "sn": "1134502",
+    "strContent": "I won't betray your expectations.",
+    "option1": "AAAAAA==",
+    "showName": "Shoki Ikenami",
+    "option2": "AAAAAA=="
+  },
+  {
+    "sn": "1134503",
+    "strContent": "Now then, where to next?",
+    "option1": "AAAAAA==",
+    "showName": "Shoki Ikenami",
+    "option2": "AAAAAA=="
+  },
+  {
+    "sn": "1134504",
+    "strContent": "I can perform on any stage.",
+    "option1": "AAAAAA==",
+    "showName": "Shoki Ikenami",
+    "option2": "AAAAAA=="
+  },
+  {
+    "sn": "1134505",
+    "strContent": "Preparations are complete.",
+    "option1": "AAAAAA==",
+    "showName": "Shoki Ikenami",
+    "option2": "AAAAAA=="
+  },
+  {
+    "sn": "1134506",
+    "strContent": "Time to start the show.",
+    "option1": "AAAAAA==",
+    "showName": "Shoki Ikenami",
+    "option2": "AAAAAA=="
+  },
+  {
+    "sn": "1134507",
+    "strContent": "That's my cue. Let's go!",
+    "option1": "AAAAAA==",
+    "showName": "Shoki Ikenami",
+    "option2": "AAAAAA=="
+  },
+  {
+    "sn": "1134508",
+    "strContent": "I look forward to your return.",
+    "option1": "AAAAAA==",
+    "showName": "Shoki Ikenami",
+    "option2": "AAAAAA=="
+  },
+  {
+    "sn": "1134509",
+    "strContent": "I'll show you a performance you won't forget.",
+    "option1": "AAAAAA==",
+    "showName": "Shoki Ikenami",
+    "option2": "AAAAAA=="
+  },
+  {
+    "sn": "1134510",
+    "strContent": "My heart is racing. I'm off!",
+    "option1": "AAAAAA==",
+    "showName": "Shoki Ikenami",
+    "option2": "AAAAAA=="
+  },
+  {
+    "sn": "1134511",
+    "strContent": "Understood.",
+    "option1": "AAAAAA==",
+    "showName": "Shoki Ikenami",
+    "option2": "AAAAAA=="
+  },
+  {
+    "sn": "1134512",
+    "strContent": "Oh, are you heading back?",
+    "option1": "AAAAAA==",
+    "showName": "Shoki Ikenami",
+    "option2": "AAAAAA=="
+  },
+  {
+    "sn": "1134513",
+    "strContent": "Got it. I'll go back.",
+    "option1": "AAAAAA==",
+    "showName": "Shoki Ikenami",
+    "option2": "AAAAAA=="
+  },
+  {
+    "sn": "1134514",
+    "strContent": "I'm retreating.",
+    "option1": "AAAAAA==",
+    "showName": "Shoki Ikenami",
+    "option2": "AAAAAA=="
+  },
+  {
+    "sn": "1134515",
+    "strContent": "Okay. I'll be right back.",
+    "option1": "AAAAAA==",
+    "showName": "Shoki Ikenami",
+    "option2": "AAAAAA=="
+  },
+  {
+    "sn": "1134516",
+    "strContent": "Not a bad result.",
+    "option1": "AAAAAA==",
+    "showName": "Shoki Ikenami",
+    "option2": "AAAAAA=="
+  },
+  {
+    "sn": "1134517",
+    "strContent": "Mission complete.",
+    "option1": "AAAAAA==",
+    "showName": "Shoki Ikenami",
+    "option2": "AAAAAA=="
+  },
+  {
+    "sn": "1134518",
+    "strContent": "It was a flawless performance.",
+    "option1": "AAAAAA==",
+    "showName": "Shoki Ikenami",
+    "option2": "AAAAAA=="
+  },
+  {
+    "sn": "1134519",
+    "strContent": "Fantastico! Simply perfect!",
+    "option1": "AAAAAA==",
+    "showName": "Shoki Ikenami",
+    "option2": "AAAAAA=="
+  },
+  {
+    "sn": "1134520",
+    "strContent": "Everyone seemed great. Nice work.",
+    "option1": "AAAAAA==",
+    "showName": "Shoki Ikenami",
+    "option2": "AAAAAA=="
+  },
+  {
     "sn": "1301009",
     "strContent": "Do you want to reset?\nAll Stellae will be reset, and your <color=#ffc000>Willpower</color> and <color=#ffc000>challenge attempts</color> spent to battle will be restored. The Stellae will be reverted to an uncleared status, so you will need to clear them again in order to take on new Stellae.",
     "option1": "Confirm",
@@ -36846,6 +38785,13 @@
     "option1": "AAAAAA==",
     "showName": "AAAAAA==",
     "option2": "AAAAAA=="
+  },
+  {
+    "sn": "1307020",
+    "strContent": "After Deletion\nThe next time you switch to %s, the required data will need to be downloaded first.\nSelect \"Yes\" to proceed with deletion. Is this OK?",
+    "option1": "Confirm",
+    "showName": "AAAAAA==",
+    "option2": "Leave"
   },
   {
     "sn": "1306022",
@@ -37511,6 +39457,27 @@
     "option1": "Confirm",
     "showName": "AAAAAA==",
     "option2": "Leave"
+  },
+  {
+    "sn": "1307024",
+    "strContent": "This feature is not yet available. Stay tuned!",
+    "option1": "AAAAAA==",
+    "showName": "AAAAAA==",
+    "option2": "AAAAAA=="
+  },
+  {
+    "sn": "1309001",
+    "strContent": "Progress in the main story and explore more of the Metaverse.",
+    "option1": "AAAAAA==",
+    "showName": "AAAAAA==",
+    "option2": "AAAAAA=="
+  },
+  {
+    "sn": "1309002",
+    "strContent": "Explore the Palace to unlock the corresponding area.",
+    "option1": "AAAAAA==",
+    "showName": "AAAAAA==",
+    "option2": "AAAAAA=="
   },
   {
     "sn": "1320006",

@@ -1731,12 +1731,30 @@
     "sn": "526111",
     "name": "Sraosha",
     "desc": "In Zoroastrian lore, Sraosha's duty is to listen to the cry of humans for Ahura Mazda. He is also known to descend after sunset to vanquish evil. His name literally means \"observance.\"",
-    "strategy": "Weaknesses and resistances are different than normal.\n1. Sraosha will summon Shadows during the battle. Damage that exceeds a summoned Shadow's HP will not apply to your score. When a Shadow is defeated, Sraosha will take Almighty damage based on the damage taken by that Shadow.\n2. Sraosha will restore all Phantom Thieves' SP each turn.\n3. When a summoned Shadow's Down Points are decreased, all Phantom Thieves' damage is increased by 15% for 1 turn."
+    "strategy": "Weaknesses and resistances are different than normal.\n1. Sraosha will summon Shadows during the battle. Damage that exceeds a summoned Shadow's HP will not apply to your score. When a Shadow is defeated, Sraosha will take Almighty damage based on that Shadow's damage taken.\n2. Sraosha will restore all Phantom Thieves' SP each turn.\n3. When a summoned Shadow's Down Points are decreased, all Phantom Thieves' damage is increased by 15% for 1 turn."
   },
   {
     "sn": "526112",
     "name": "Apsaras",
     "desc": "Hindu water spirits, they are beautiful young women who dance for the gods. They also guide heroes fallen in battle to paradise.",
+    "strategy": "AAAAAA=="
+  },
+  {
+    "sn": "527101",
+    "name": "Melchizedek",
+    "desc": "An angel of Gnosticism, governing over peace and righteousness. Though said to be the savior of the angels, he used to be a human, the king of Salem.",
+    "strategy": "Weaknesses and resistances are different than normal.\n1. Melchizedek gains 6 stacks of Divine Protection each turn. Each stack decreases final damage taken by 5%.\n2. Each time Melchizedek takes damage from a skill or Resonance, it loses 1 Divine Protection.\n3. When Melchizedek has lost all stacks of Divine Protection, all Phantom Thieves will receive Divine Blessing, increasing final damage dealt."
+  },
+  {
+    "sn": "527111",
+    "name": "Lilith",
+    "desc": "Said to have been Adam's first wife, she desired to be his equal and refused to obey him. She was cast out of Eden and became a demon of the night. She is the mother of the demoness, Lilim.",
+    "strategy": "Shadows have different weaknesses and resistances than normal.\n1. At the start of battle, Lilith summons 4 Shadows.\nLilith and all Shadows are in the <color=#FF423F>Soul Link</color> state.\nSoul Link: Distribute all damage received between all Shadows who share this condition, based on the percentage of their current HP.\n2. Each turn, Lilith grants 1 <color=#FF423F>Cover of Night</color> stack to all Shadows.\nCover of Night: Decrease final damage taken by 15% for each stack. Stacks up to 2 times.\n3. When a Shadow with Cover of Night is inflicted with an elemental ailment, remove 1 Cover of Night stack."
+  },
+  {
+    "sn": "527112",
+    "name": "Nue",
+    "desc": "A creature of Japanese lore with a monkey's head, tiger's legs, and snake's tail. The Tale of Heike says it hid behind a dark cloud each night to attack the Emperor.",
     "strategy": "AAAAAA=="
   },
   {
@@ -4440,6 +4458,18 @@
     "strategy": "AAAAAA=="
   },
   {
+    "sn": "922311",
+    "name": "Nebiros",
+    "desc": "The general of Hell. He keeps watch over other demons. One of Hell's greatest necromancers, he can control souls and corpses.",
+    "strategy": "AAAAAA=="
+  },
+  {
+    "sn": "922312",
+    "name": "Rakshasa",
+    "desc": "A Hindu demon. He is an enemy of the gods and attacks humans to feed off of them. His hideous appearance strikes fear into those who see him. Rakshasa shape-shifts to deceive his enemies.",
+    "strategy": "AAAAAA=="
+  },
+  {
     "sn": "930011",
     "name": "Sui-Ki",
     "desc": "One of the four oni controlled by Fujiwara no Chikata, it can cause floods with the swing of its arms. In the Taiheiki, Ki no Tomoo expelled the oni by reading a Japanese poem.",
@@ -6696,6 +6726,18 @@
     "strategy": "AAAAAA=="
   },
   {
+    "sn": "248011",
+    "name": "Cerberus",
+    "desc": "The guardian hound who prevents anyone from entering or exiting the underworld in Greek lore. It was born from Typhon and Echidna, and is the older brother of Orthrus.",
+    "strategy": "When Cerberus ends its turn, it is replaced by Orthrus."
+  },
+  {
+    "sn": "248012",
+    "name": "Orthrus",
+    "desc": "The two-headed pet dog belonging to the giant Geryon of Greek myth. He guarded a herd of red oxen but was killed by Hercules during one of his twelve labors.",
+    "strategy": "When Orthrus takes an attack, it counterattacks with <color=#FF423F>Double Fangs</color>, increasing the Phantom Thief's final damage taken. At the end of its turn, it is replaced by Cerberus, and gains 1 <color=#FF423F>Guard Dog's Gaze</color> stack."
+  },
+  {
     "sn": "960091",
     "name": "Incubus",
     "desc": "A male demon of European lore in medieval times. They visit sleeping women and have sexual intercourse with them. The resulting children become witches or wizards.",
@@ -6712,6 +6754,834 @@
     "name": "Nekomata",
     "desc": "Long-lived cats are said to become these malevolent cat demons. Their powers vary according to how long they have lived, ranging from shape-shifting to controlling the dead.",
     "strategy": "AAAAAA=="
+  },
+  {
+    "sn": "248021",
+    "name": "Cerberus",
+    "desc": "The guardian hound who prevents anyone from entering or exiting the underworld in Greek lore. It was born from Typhon and Echidna, and is the older brother of Orthrus.",
+    "strategy": "1. If Cerberus takes damage 3 times in 1 turn, it will be replaced by Orthrus.\n2. Each time Cerberus is replaced, it gains 1 <color=#FF423F>Guard Dog's Gaze</color> stack."
+  },
+  {
+    "sn": "248023",
+    "name": "Orthrus",
+    "desc": "The two-headed pet dog belonging to the giant Geryon of Greek myth. He guarded a herd of red oxen but was killed by Hercules during one of his twelve labors.",
+    "strategy": "1. Orthrus has an effect that decreases final damage. When it takes an attack, it counterattacks with <color=#FF423F>Double Fangs</color>, increasing the Phantom Thief's final damage taken.\n2. At the end of Orthrus's turn, it is replaced by Cerberus.\n3. When Cerberus has 3 <color=#FF423F>Guard Dog's Gaze</color> stacks, at the start of its turn, it uses <color=#FF423F>Abyssal Gaze</color>, <color=#FF423F>inflicting all Phantom Thieves with Despair</color>."
+  },
+  {
+    "sn": "248031",
+    "name": "Cerberus",
+    "desc": "The guardian hound who prevents anyone from entering or exiting the underworld in Greek lore. It was born from Typhon and Echidna, and is the older brother of Orthrus.",
+    "strategy": "1. When Cerberus takes damage 3 times during 1 turn, Cerberus is replaced with Orthrus. Each time Cerberus is replaced, <color=#FF423F>Guard Dog's Gaze</color> is gained.\n2. When Cerberus inflicts a spiritual ailment on a Phantom Thief, they become permanently inflicted with <color=#FF423F>Unease</color>. Unease does not stack, and can be removed with healing skills. If 2 or more Phantom Thieves are inflicted with Unease, at the start of Cerberus's turn, its HP will be fully restored."
+  },
+  {
+    "sn": "248033",
+    "name": "Orthrus",
+    "desc": "The two-headed pet dog belonging to the giant Geryon of Greek myth. He guarded a herd of red oxen but was killed by Hercules during one of his twelve labors.",
+    "strategy": "1. Orthrus has an effect that decreases final damage. When it takes an attack, it counterattacks with <color=#FF423F>Double Fangs</color>, increasing the Phantom Thief's final damage taken.\n2. At the end of Orthrus's turn, it is replaced by Cerberus.\n3. If 4 or more Phantom Thieves are inflicted with Unease, at the start of Orthrus's turn, it will deal a set amount of damage based on its max HP.\n4. When Cerberus has 3 <color=#FF423F>Guard Dog's Gaze</color> stacks, at the start of its turn, it uses <color=#FF423F>Abyssal Gaze</color>, <color=#FF423F>inflicting all Phantom Thieves with Despair</color>."
+  },
+  {
+    "sn": "248111",
+    "name": "Narcissus",
+    "desc": "A young man of Greek myth. He rejected the nymph Echo, who faded to a whisper out of despair. Cursed by Nemesis, he fell in love with his own reflection and wasted away.",
+    "strategy": "Weaknesses and resistances are different than normal.\n1. At the end of Narcissus's turn, if a summoned <color=#FF423F>Narcissus</color> is present, Narcissus has a high chance to inflict 1 random Phantom Thief with Dizzy.\n2. When a summoned Narcissus is defeated, Narcissus recovers 50% of its max HP."
+  },
+  {
+    "sn": "248112",
+    "name": "Narcissus",
+    "desc": "A young man of Greek myth. He rejected the nymph Echo, who faded to a whisper out of despair. Cursed by Nemesis, he fell in love with his own reflection and wasted away.",
+    "strategy": "1. When a summoned <color=#FF423F>Narcissus</color> takes an attack, it loses 1 <color=#FF423F>Shackles of Reflection</color> stack. When all of its Shackles of Reflection stacks are removed, the summoned Narcissus will be KO'd.\n2. When a summoned Narcissus is defeated, Narcissus recovers 50% of its max HP."
+  },
+  {
+    "sn": "248113",
+    "name": "Leanan Sidhe",
+    "desc": "A beautiful fairy of Irish lore that yearns for the love of a human man. She drains the life of her lovers in return for granting them artistic inspiration.",
+    "strategy": "At the start of Narcissus's turn, if there are no summoned <color=#FF423F>Narcissus</color> present, it will summon 1 Narcissus."
+  },
+  {
+    "sn": "248121",
+    "name": "Narcissus",
+    "desc": "A young man of Greek myth. He rejected the nymph Echo, who faded to a whisper out of despair. Cursed by Nemesis, he fell in love with his own reflection and wasted away.",
+    "strategy": "Weaknesses and resistances are different than normal.\n1. Narcissus has extremely high HP.\n2. At the end of Narcissus's turn, if a summoned <color=#FF423F>Narcissus</color> is not present, Narcissus recovers 18% of its max HP.\n3. When a summoned Narcissus is present, Narcissus loses 18% of its max HP."
+  },
+  {
+    "sn": "248122",
+    "name": "Narcissus",
+    "desc": "A young man of Greek myth. He rejected the nymph Echo, who faded to a whisper out of despair. Cursed by Nemesis, he fell in love with his own reflection and wasted away.",
+    "strategy": "1. When a summoned <color=#FF423F>Narcissus</color> takes an attack, it loses 1 <color=#FF423F>Shackles of Reflection</color> stack. When all of its Shackles of Reflection stacks are removed, the summoned Narcissus will be KO'd."
+  },
+  {
+    "sn": "248123",
+    "name": "Leanan Sidhe",
+    "desc": "A beautiful fairy of Irish lore that yearns for the love of a human man. She drains the life of her lovers in return for granting them artistic inspiration.",
+    "strategy": "1. At the start of Narcissus's turn, if there are no summoned <color=#FF423F>Narcissus</color> present, it will summon 1 Narcissus.\n2. Leanan Sidhe uses <color=#FF423F>Shadow Reversal</color>, which inflicts all Phantom Thieves with an effect that reduces their HP by 10% each time they take an action."
+  },
+  {
+    "sn": "248131",
+    "name": "Narcissus",
+    "desc": "A young man of Greek myth. He rejected the nymph Echo, who faded to a whisper out of despair. Cursed by Nemesis, he fell in love with his own reflection and wasted away.",
+    "strategy": "Weaknesses and resistances are different than normal.\nNarcissus gains a final damage lowering effect and additional skill activation counts depending on the number of summoned <color=#FF423F>Narcissus</color> present."
+  },
+  {
+    "sn": "248132",
+    "name": "Narcissus",
+    "desc": "A young man of Greek myth. He rejected the nymph Echo, who faded to a whisper out of despair. Cursed by Nemesis, he fell in love with his own reflection and wasted away.",
+    "strategy": "1. A summoned <color=#FF423F>Narcissus</color> gains 3 <color=#FF423F>Shackles of Reflection</color> stacks per turn, and when it takes an attack, it loses 1 Shackles of Reflection stack. When all of its Shackles of Reflection stacks are removed, the summoned Narcissus will be KO'd.\n2. For every summoned Narcissus present, Shadows are granted 1 <color=#FF423F>Spirit Away</color> stack, lowering their damage taken by 20%.\n3. For every summoned Narcissus present, Narcissus and Leanan Sidhe <color=#FF423F>gain additional skill activation counts</color>."
+  },
+  {
+    "sn": "248133",
+    "name": "Leanan Sidhe",
+    "desc": "A beautiful fairy of Irish lore that yearns for the love of a human man. She drains the life of her lovers in return for granting them artistic inspiration.",
+    "strategy": "1. At the start of the turn, if there are fewer than 4 summoned <color=#FF423F>Narcissus</color>, it will summon 1 Narcissus.\n2. Leanan Sidhe uses <color=#FF423F>Shadow Reversal</color>, which inflicts all Phantom Thieves with an effect that reduces their HP by 10% each time they take an action.\n3. Depending on the number of Narcissus present, gains a reduction to final damage taken and skill activation count."
+  },
+  {
+    "sn": "829161",
+    "name": "Lilith",
+    "desc": "Said to have been Adam's first wife, she desired to be his equal and refused to obey him. She was cast out of Eden and became a demon of the night. She is the mother of the demoness, Lilim.",
+    "strategy": "When Lilim is defeated, it will be resummoned at the beginning of Lilith's turn."
+  },
+  {
+    "sn": "829162",
+    "name": "Lilim",
+    "desc": "A demon who tempts sleeping men and attacks infants. She is the daughter of the demoness, Lilith. Like her mother, she drains men of their essence.",
+    "strategy": "Restores 50 SP to the Phantom Thief that defeats Lilim."
+  },
+  {
+    "sn": "829171",
+    "name": "Lilith",
+    "desc": "Said to have been Adam's first wife, she desired to be his equal and refused to obey him. She was cast out of Eden and became a demon of the night. She is the mother of the demoness, Lilim.",
+    "strategy": "1. When Lilim is defeated, Lilith will resummon Lilim.\n2. When using a skill that absorbs SP, Lilith gains <color=#FF423F>Devouring Vortex</color> and increases damage dealt by 10%. This effect stacks."
+  },
+  {
+    "sn": "829172",
+    "name": "Lilim",
+    "desc": "A demon who tempts sleeping men and attacks infants. She is the daughter of the demoness, Lilith. Like her mother, she drains men of their essence.",
+    "strategy": "Restores 50 SP to the Phantom Thief that defeats Lilim."
+  },
+  {
+    "sn": "829173",
+    "name": "Lamia",
+    "desc": "A half-human, half-snake female monster of Greek myth, she was once the queen of Libya. Zeus's jealous wife, Hera, killed her children, causing her to go mad and transform into a monster.",
+    "strategy": "Uses a skill to deal continuous damage on Phantom Thieves."
+  },
+  {
+    "sn": "829181",
+    "name": "Lilith",
+    "desc": "Said to have been Adam's first wife, she desired to be his equal and refused to obey him. She was cast out of Eden and became a demon of the night. She is the mother of the demoness, Lilim.",
+    "strategy": "1. When using a skill that absorbs SP, gain <color=#FF423F>Devouring Vortex</color> and increase damage dealt by 10%.\n2. When Lamia and Succubus are defeated, Lilith will spend Devouring Vortex stacks to summon them again at the end of its turn.\n3. When Lilith takes <color=#FF423F>fatal damage</color>, it survives with 1 HP, gains 3 Devouring Vortex stacks, and summons Succubus. If Lilim and Lamia are not present, Lilith spends Devouring Vortex stacks to summon them. During this stage, Shadows will not be KO'd and will no longer gain Devouring Vortex, and 1 Devouring Vortex stack is removed each turn. When all Devouring Vortex stacks are removed, you will win the battle."
+  },
+  {
+    "sn": "829182",
+    "name": "Lilim",
+    "desc": "A demon who tempts sleeping men and attacks infants. She is the daughter of the demoness, Lilith. Like her mother, she drains men of their essence.",
+    "strategy": "Restores 50 SP to the Phantom Thief that defeats Lilim."
+  },
+  {
+    "sn": "829183",
+    "name": "Lamia",
+    "desc": "A half-human, half-snake female monster of Greek myth, she was once the queen of Libya. Zeus's jealous wife, Hera, killed her children, causing her to go mad and transform into a monster.",
+    "strategy": "Uses a skill to deal continuous damage on Phantom Thieves."
+  },
+  {
+    "sn": "829184",
+    "name": "Succubus",
+    "desc": "A female demon of European lore in medieval times. They visit sleeping men and have sexual intercourse with them. The victims don't wake up but may dream of the encounter.",
+    "strategy": "AAAAAA=="
+  },
+  {
+    "sn": "829185",
+    "name": "Lilith",
+    "desc": "Said to have been Adam's first wife, she desired to be his equal and refused to obey him. She was cast out of Eden and became a demon of the night. She is the mother of the demoness, Lilim.",
+    "strategy": "When Lilith takes <color=#FF423F>fatal damage</color>, it survives with 1 HP, gains 3 <color=#FF423F>Devouring Vortex</color> stacks, and summons Succubus. If Lilim and Lamia are not present, spend Devouring Vortex stacks and summon them. During this stage, Shadows will not be KO'd and will no longer gain Devouring Vortex, and one Devouring Vortex stack is removed each turn. When all Devouring Vortex stacks are removed, you will win the battle."
+  },
+  {
+    "sn": "829186",
+    "name": "Lilim",
+    "desc": "A demon who tempts sleeping men and attacks infants. She is the daughter of the demoness, Lilith. Like her mother, she drains men of their essence.",
+    "strategy": "Restores 50 SP to the Phantom Thief that defeats Lilim."
+  },
+  {
+    "sn": "829187",
+    "name": "Lamia",
+    "desc": "A half-human, half-snake female monster of Greek myth, she was once the queen of Libya. Zeus's jealous wife, Hera, killed her children, causing her to go mad and transform into a monster.",
+    "strategy": "Uses a skill to deal continuous damage on Phantom Thieves."
+  },
+  {
+    "sn": "831011",
+    "name": "Cu Chulainn",
+    "desc": "A hero in Celtic folklore. He was called Setanta until he earned the name, \"Culann's Hound.\" There are many tales of his adventures. He received his spear, Gae Bolg, from his mentor, Scathach.",
+    "strategy": "AAAAAA=="
+  },
+  {
+    "sn": "831012",
+    "name": "Oberon",
+    "desc": "The king of the fairies and Titania's husband. He is quite old but, due to a curse, his looks are that of a young boy. He often flirts with human women, which sometimes earns him a scolding from his wife.",
+    "strategy": "AAAAAA=="
+  },
+  {
+    "sn": "831021",
+    "name": "Setanta",
+    "desc": "A brave young man in Celtic myth. After defeating a fierce guard dog, he volunteered to take its place, earning him the nickname \"Hound of Culann.\"",
+    "strategy": "AAAAAA=="
+  },
+  {
+    "sn": "831031",
+    "name": "Thoth",
+    "desc": "Egyptian moon god that takes the form of a baboon, he is the one who measures time. He gave Isis the power to resurrect Osiris after he was killed by the evil god Seth.",
+    "strategy": "AAAAAA=="
+  },
+  {
+    "sn": "831032",
+    "name": "Thoth",
+    "desc": "Egyptian moon god that takes the form of a baboon, he is the one who measures time. He gave Isis the power to resurrect Osiris after he was killed by the evil god Seth.",
+    "strategy": "AAAAAA=="
+  },
+  {
+    "sn": "831033",
+    "name": "Oberon",
+    "desc": "The king of the fairies and Titania's husband. He is quite old but, due to a curse, his looks are that of a young boy. He often flirts with human women, which sometimes earns him a scolding from his wife.",
+    "strategy": "AAAAAA=="
+  },
+  {
+    "sn": "831034",
+    "name": "Oberon",
+    "desc": "The king of the fairies and Titania's husband. He is quite old but, due to a curse, his looks are that of a young boy. He often flirts with human women, which sometimes earns him a scolding from his wife.",
+    "strategy": "AAAAAA=="
+  },
+  {
+    "sn": "831041",
+    "name": "Pazuzu",
+    "desc": "The Babylonian lord of wind and scorching sands. He has the body of a man, a lion's head, the claws and wings of an eagle, and has a deadly poison. The diseases he spreads can only be cured with magic.",
+    "strategy": "AAAAAA=="
+  },
+  {
+    "sn": "831042",
+    "name": "Dakini",
+    "desc": "Hindu deities of passion and relations. They are Kali's attendants. They eat human flesh and gather at graveyards and crematories each night. Their name means \"sky dancer.\"",
+    "strategy": "AAAAAA=="
+  },
+  {
+    "sn": "831043",
+    "name": "Dakini",
+    "desc": "Hindu deities of passion and relations. They are Kali's attendants. They eat human flesh and gather at graveyards and crematories each night. Their name means \"sky dancer.\"",
+    "strategy": "AAAAAA=="
+  },
+  {
+    "sn": "831051",
+    "name": "Pazuzu",
+    "desc": "The Babylonian lord of wind and scorching sands. He has the body of a man, a lion's head, the claws and wings of an eagle, and has a deadly poison. The diseases he spreads can only be cured with magic.",
+    "strategy": "AAAAAA=="
+  },
+  {
+    "sn": "831052",
+    "name": "Melchizedek",
+    "desc": "An angel of Gnosticism, governing over peace and righteousness. Though said to be the savior of the angels, he used to be a human, the king of Salem.",
+    "strategy": "AAAAAA=="
+  },
+  {
+    "sn": "831061",
+    "name": "Cu Chulainn",
+    "desc": "A hero in Celtic folklore. He was called Setanta until he earned the name, \"Culann's Hound.\" There are many tales of his adventures. He received his spear, Gae Bolg, from his mentor, Scathach.",
+    "strategy": "AAAAAA=="
+  },
+  {
+    "sn": "831062",
+    "name": "Oberon",
+    "desc": "The king of the fairies and Titania's husband. He is quite old but, due to a curse, his looks are that of a young boy. He often flirts with human women, which sometimes earns him a scolding from his wife.",
+    "strategy": "AAAAAA=="
+  },
+  {
+    "sn": "831071",
+    "name": "Setanta",
+    "desc": "A brave young man in Celtic myth. After defeating a fierce guard dog, he volunteered to take its place, earning him the nickname \"Hound of Culann.\"",
+    "strategy": "AAAAAA=="
+  },
+  {
+    "sn": "831081",
+    "name": "Thoth",
+    "desc": "Egyptian moon god that takes the form of a baboon, he is the one who measures time. He gave Isis the power to resurrect Osiris after he was killed by the evil god Seth.",
+    "strategy": "AAAAAA=="
+  },
+  {
+    "sn": "831082",
+    "name": "Thoth",
+    "desc": "Egyptian moon god that takes the form of a baboon, he is the one who measures time. He gave Isis the power to resurrect Osiris after he was killed by the evil god Seth.",
+    "strategy": "AAAAAA=="
+  },
+  {
+    "sn": "831083",
+    "name": "Oberon",
+    "desc": "The king of the fairies and Titania's husband. He is quite old but, due to a curse, his looks are that of a young boy. He often flirts with human women, which sometimes earns him a scolding from his wife.",
+    "strategy": "AAAAAA=="
+  },
+  {
+    "sn": "831084",
+    "name": "Oberon",
+    "desc": "The king of the fairies and Titania's husband. He is quite old but, due to a curse, his looks are that of a young boy. He often flirts with human women, which sometimes earns him a scolding from his wife.",
+    "strategy": "AAAAAA=="
+  },
+  {
+    "sn": "831091",
+    "name": "Pazuzu",
+    "desc": "The Babylonian lord of wind and scorching sands. He has the body of a man, a lion's head, the claws and wings of an eagle, and has a deadly poison. The diseases he spreads can only be cured with magic.",
+    "strategy": "AAAAAA=="
+  },
+  {
+    "sn": "831092",
+    "name": "Dakini",
+    "desc": "Hindu deities of passion and relations. They are Kali's attendants. They eat human flesh and gather at graveyards and crematories each night. Their name means \"sky dancer.\"",
+    "strategy": "AAAAAA=="
+  },
+  {
+    "sn": "831093",
+    "name": "Dakini",
+    "desc": "Hindu deities of passion and relations. They are Kali's attendants. They eat human flesh and gather at graveyards and crematories each night. Their name means \"sky dancer.\"",
+    "strategy": "AAAAAA=="
+  },
+  {
+    "sn": "831101",
+    "name": "Pazuzu",
+    "desc": "The Babylonian lord of wind and scorching sands. He has the body of a man, a lion's head, the claws and wings of an eagle, and has a deadly poison. The diseases he spreads can only be cured with magic.",
+    "strategy": "AAAAAA=="
+  },
+  {
+    "sn": "831102",
+    "name": "Melchizedek",
+    "desc": "An angel of Gnosticism, governing over peace and righteousness. Though said to be the savior of the angels, he used to be a human, the king of Salem.",
+    "strategy": "AAAAAA=="
+  },
+  {
+    "sn": "831111",
+    "name": "Okuninushi",
+    "desc": "A Kunitsu deity in Japanese mythology that governs agriculture and medicine. He's said to have built the country of Izumo with Susano-o's daughter, Suseri-Hime.",
+    "strategy": "AAAAAA=="
+  },
+  {
+    "sn": "831121",
+    "name": "Melchizedek",
+    "desc": "An angel of Gnosticism, governing over peace and righteousness. Though said to be the savior of the angels, he used to be a human, the king of Salem.",
+    "strategy": "AAAAAA=="
+  },
+  {
+    "sn": "831122",
+    "name": "Take-Minakata",
+    "desc": "A Japanese god of war, hunting and fertility. He fought Take-Mikazuchi for control of Japan and lost. He escaped to Suwa, but has been prohibited to leave since then.",
+    "strategy": "AAAAAA=="
+  },
+  {
+    "sn": "831131",
+    "name": "Melchizedek",
+    "desc": "An angel of Gnosticism, governing over peace and righteousness. Though said to be the savior of the angels, he used to be a human, the king of Salem.",
+    "strategy": "AAAAAA=="
+  },
+  {
+    "sn": "831132",
+    "name": "Melchizedek",
+    "desc": "An angel of Gnosticism, governing over peace and righteousness. Though said to be the savior of the angels, he used to be a human, the king of Salem.",
+    "strategy": "AAAAAA=="
+  },
+  {
+    "sn": "831133",
+    "name": "Take-Minakata",
+    "desc": "A Japanese god of war, hunting and fertility. He fought Take-Mikazuchi for control of Japan and lost. He escaped to Suwa, but has been prohibited to leave since then.",
+    "strategy": "AAAAAA=="
+  },
+  {
+    "sn": "831134",
+    "name": "Take-Minakata",
+    "desc": "A Japanese god of war, hunting and fertility. He fought Take-Mikazuchi for control of Japan and lost. He escaped to Suwa, but has been prohibited to leave since then.",
+    "strategy": "AAAAAA=="
+  },
+  {
+    "sn": "831141",
+    "name": "Baphomet",
+    "desc": "A goat-headed demon that is worshipped in Black Sabbaths. His name can be used as a catch-all term for demons in general. He would become an object of worship for witches.",
+    "strategy": "AAAAAA=="
+  },
+  {
+    "sn": "831142",
+    "name": "Melchizedek",
+    "desc": "An angel of Gnosticism, governing over peace and righteousness. Though said to be the savior of the angels, he used to be a human, the king of Salem.",
+    "strategy": "AAAAAA=="
+  },
+  {
+    "sn": "831143",
+    "name": "Melchizedek",
+    "desc": "An angel of Gnosticism, governing over peace and righteousness. Though said to be the savior of the angels, he used to be a human, the king of Salem.",
+    "strategy": "AAAAAA=="
+  },
+  {
+    "sn": "831151",
+    "name": "Zouchouten",
+    "desc": "Also known as Virudhaka, he is the protector of the South, and is one of the four Heavenly Kings of Buddhist origin. He is the god of the five grains, and was once the chief of the gods.",
+    "strategy": "AAAAAA=="
+  },
+  {
+    "sn": "831152",
+    "name": "Zouchouten",
+    "desc": "Also known as Virudhaka, he is the protector of the South, and is one of the four Heavenly Kings of Buddhist origin. He is the god of the five grains, and was once the chief of the gods.",
+    "strategy": "AAAAAA=="
+  },
+  {
+    "sn": "831161",
+    "name": "Setanta",
+    "desc": "A brave young man in Celtic myth. After defeating a fierce guard dog, he volunteered to take its place, earning him the nickname \"Hound of Culann.\"",
+    "strategy": "AAAAAA=="
+  },
+  {
+    "sn": "831162",
+    "name": "Cu Chulainn",
+    "desc": "A hero in Celtic folklore. He was called Setanta until he earned the name, \"Culann's Hound.\" There are many tales of his adventures. He received his spear, Gae Bolg, from his mentor, Scathach.",
+    "strategy": "AAAAAA=="
+  },
+  {
+    "sn": "831171",
+    "name": "Pazuzu",
+    "desc": "The Babylonian lord of wind and scorching sands. He has the body of a man, a lion's head, the claws and wings of an eagle, and has a deadly poison. The diseases he spreads can only be cured with magic.",
+    "strategy": "AAAAAA=="
+  },
+  {
+    "sn": "831172",
+    "name": "Thoth",
+    "desc": "Egyptian moon god that takes the form of a baboon, he is the one who measures time. He gave Isis the power to resurrect Osiris after he was killed by the evil god Seth.",
+    "strategy": "AAAAAA=="
+  },
+  {
+    "sn": "831181",
+    "name": "Cu Chulainn",
+    "desc": "A hero in Celtic folklore. He was called Setanta until he earned the name, \"Culann's Hound.\" There are many tales of his adventures. He received his spear, Gae Bolg, from his mentor, Scathach.",
+    "strategy": "AAAAAA=="
+  },
+  {
+    "sn": "831182",
+    "name": "Cu Chulainn",
+    "desc": "A hero in Celtic folklore. He was called Setanta until he earned the name, \"Culann's Hound.\" There are many tales of his adventures. He received his spear, Gae Bolg, from his mentor, Scathach.",
+    "strategy": "AAAAAA=="
+  },
+  {
+    "sn": "831183",
+    "name": "Oberon",
+    "desc": "The king of the fairies and Titania's husband. He is quite old but, due to a curse, his looks are that of a young boy. He often flirts with human women, which sometimes earns him a scolding from his wife.",
+    "strategy": "AAAAAA=="
+  },
+  {
+    "sn": "831184",
+    "name": "Oberon",
+    "desc": "The king of the fairies and Titania's husband. He is quite old but, due to a curse, his looks are that of a young boy. He often flirts with human women, which sometimes earns him a scolding from his wife.",
+    "strategy": "AAAAAA=="
+  },
+  {
+    "sn": "831191",
+    "name": "Setanta",
+    "desc": "A brave young man in Celtic myth. After defeating a fierce guard dog, he volunteered to take its place, earning him the nickname \"Hound of Culann.\"",
+    "strategy": "AAAAAA=="
+  },
+  {
+    "sn": "831192",
+    "name": "Dakini",
+    "desc": "Hindu deities of passion and relations. They are Kali's attendants. They eat human flesh and gather at graveyards and crematories each night. Their name means \"sky dancer.\"",
+    "strategy": "AAAAAA=="
+  },
+  {
+    "sn": "831201",
+    "name": "Cu Chulainn",
+    "desc": "A hero in Celtic folklore. He was called Setanta until he earned the name, \"Culann's Hound.\" There are many tales of his adventures. He received his spear, Gae Bolg, from his mentor, Scathach.",
+    "strategy": "AAAAAA=="
+  },
+  {
+    "sn": "831202",
+    "name": "Dakini",
+    "desc": "Hindu deities of passion and relations. They are Kali's attendants. They eat human flesh and gather at graveyards and crematories each night. Their name means \"sky dancer.\"",
+    "strategy": "AAAAAA=="
+  },
+  {
+    "sn": "831203",
+    "name": "Dakini",
+    "desc": "Hindu deities of passion and relations. They are Kali's attendants. They eat human flesh and gather at graveyards and crematories each night. Their name means \"sky dancer.\"",
+    "strategy": "AAAAAA=="
+  },
+  {
+    "sn": "831211",
+    "name": "Setanta",
+    "desc": "A brave young man in Celtic myth. After defeating a fierce guard dog, he volunteered to take its place, earning him the nickname \"Hound of Culann.\"",
+    "strategy": "AAAAAA=="
+  },
+  {
+    "sn": "832011",
+    "name": "Baphomet",
+    "desc": "A goat-headed demon that is worshipped in Black Sabbaths. His name can be used as a catch-all term for demons in general. He would become an object of worship for witches.",
+    "strategy": "AAAAAA=="
+  },
+  {
+    "sn": "832012",
+    "name": "Dakini",
+    "desc": "Hindu deities of passion and relations. They are Kali's attendants. They eat human flesh and gather at graveyards and crematories each night. Their name means \"sky dancer.\"",
+    "strategy": "AAAAAA=="
+  },
+  {
+    "sn": "832013",
+    "name": "Dakini",
+    "desc": "Hindu deities of passion and relations. They are Kali's attendants. They eat human flesh and gather at graveyards and crematories each night. Their name means \"sky dancer.\"",
+    "strategy": "AAAAAA=="
+  },
+  {
+    "sn": "832021",
+    "name": "Melchizedek",
+    "desc": "An angel of Gnosticism, governing over peace and righteousness. Though said to be the savior of the angels, he used to be a human, the king of Salem.",
+    "strategy": "AAAAAA=="
+  },
+  {
+    "sn": "832022",
+    "name": "Baphomet",
+    "desc": "A goat-headed demon that is worshipped in Black Sabbaths. His name can be used as a catch-all term for demons in general. He would become an object of worship for witches.",
+    "strategy": "AAAAAA=="
+  },
+  {
+    "sn": "832031",
+    "name": "Baphomet",
+    "desc": "A goat-headed demon that is worshipped in Black Sabbaths. His name can be used as a catch-all term for demons in general. He would become an object of worship for witches.",
+    "strategy": "AAAAAA=="
+  },
+  {
+    "sn": "832032",
+    "name": "Melchizedek",
+    "desc": "An angel of Gnosticism, governing over peace and righteousness. Though said to be the savior of the angels, he used to be a human, the king of Salem.",
+    "strategy": "AAAAAA=="
+  },
+  {
+    "sn": "832033",
+    "name": "Melchizedek",
+    "desc": "An angel of Gnosticism, governing over peace and righteousness. Though said to be the savior of the angels, he used to be a human, the king of Salem.",
+    "strategy": "AAAAAA=="
+  },
+  {
+    "sn": "832041",
+    "name": "Moloch",
+    "desc": "A Canaanite god of fire. A bronze statue of a man with a bull's head stands at his altar. The statue was heated and sacrificial children were thrown inside.",
+    "strategy": "AAAAAA=="
+  },
+  {
+    "sn": "832042",
+    "name": "Melchizedek",
+    "desc": "An angel of Gnosticism, governing over peace and righteousness. Though said to be the savior of the angels, he used to be a human, the king of Salem.",
+    "strategy": "AAAAAA=="
+  },
+  {
+    "sn": "832051",
+    "name": "Baphomet",
+    "desc": "A goat-headed demon that is worshipped in Black Sabbaths. His name can be used as a catch-all term for demons in general. He would become an object of worship for witches.",
+    "strategy": "AAAAAA=="
+  },
+  {
+    "sn": "832052",
+    "name": "Dakini",
+    "desc": "Hindu deities of passion and relations. They are Kali's attendants. They eat human flesh and gather at graveyards and crematories each night. Their name means \"sky dancer.\"",
+    "strategy": "AAAAAA=="
+  },
+  {
+    "sn": "832053",
+    "name": "Dakini",
+    "desc": "Hindu deities of passion and relations. They are Kali's attendants. They eat human flesh and gather at graveyards and crematories each night. Their name means \"sky dancer.\"",
+    "strategy": "AAAAAA=="
+  },
+  {
+    "sn": "832061",
+    "name": "Melchizedek",
+    "desc": "An angel of Gnosticism, governing over peace and righteousness. Though said to be the savior of the angels, he used to be a human, the king of Salem.",
+    "strategy": "AAAAAA=="
+  },
+  {
+    "sn": "832062",
+    "name": "Baphomet",
+    "desc": "A goat-headed demon that is worshipped in Black Sabbaths. His name can be used as a catch-all term for demons in general. He would become an object of worship for witches.",
+    "strategy": "AAAAAA=="
+  },
+  {
+    "sn": "832071",
+    "name": "Baphomet",
+    "desc": "A goat-headed demon that is worshipped in Black Sabbaths. His name can be used as a catch-all term for demons in general. He would become an object of worship for witches.",
+    "strategy": "AAAAAA=="
+  },
+  {
+    "sn": "832072",
+    "name": "Melchizedek",
+    "desc": "An angel of Gnosticism, governing over peace and righteousness. Though said to be the savior of the angels, he used to be a human, the king of Salem.",
+    "strategy": "AAAAAA=="
+  },
+  {
+    "sn": "832073",
+    "name": "Melchizedek",
+    "desc": "An angel of Gnosticism, governing over peace and righteousness. Though said to be the savior of the angels, he used to be a human, the king of Salem.",
+    "strategy": "AAAAAA=="
+  },
+  {
+    "sn": "832081",
+    "name": "Moloch",
+    "desc": "A Canaanite god of fire. A bronze statue of a man with a bull's head stands at his altar. The statue was heated and sacrificial children were thrown inside.",
+    "strategy": "AAAAAA=="
+  },
+  {
+    "sn": "832082",
+    "name": "Melchizedek",
+    "desc": "An angel of Gnosticism, governing over peace and righteousness. Though said to be the savior of the angels, he used to be a human, the king of Salem.",
+    "strategy": "AAAAAA=="
+  },
+  {
+    "sn": "832091",
+    "name": "Setanta",
+    "desc": "A brave young man in Celtic myth. After defeating a fierce guard dog, he volunteered to take its place, earning him the nickname \"Hound of Culann.\"",
+    "strategy": "AAAAAA=="
+  },
+  {
+    "sn": "832092",
+    "name": "Dakini",
+    "desc": "Hindu deities of passion and relations. They are Kali's attendants. They eat human flesh and gather at graveyards and crematories each night. Their name means \"sky dancer.\"",
+    "strategy": "AAAAAA=="
+  },
+  {
+    "sn": "832101",
+    "name": "Baphomet",
+    "desc": "A goat-headed demon that is worshipped in Black Sabbaths. His name can be used as a catch-all term for demons in general. He would become an object of worship for witches.",
+    "strategy": "AAAAAA=="
+  },
+  {
+    "sn": "832102",
+    "name": "Oberon",
+    "desc": "The king of the fairies and Titania's husband. He is quite old but, due to a curse, his looks are that of a young boy. He often flirts with human women, which sometimes earns him a scolding from his wife.",
+    "strategy": "AAAAAA=="
+  },
+  {
+    "sn": "832111",
+    "name": "Dakini",
+    "desc": "Hindu deities of passion and relations. They are Kali's attendants. They eat human flesh and gather at graveyards and crematories each night. Their name means \"sky dancer.\"",
+    "strategy": "AAAAAA=="
+  },
+  {
+    "sn": "832112",
+    "name": "Dakini",
+    "desc": "Hindu deities of passion and relations. They are Kali's attendants. They eat human flesh and gather at graveyards and crematories each night. Their name means \"sky dancer.\"",
+    "strategy": "AAAAAA=="
+  },
+  {
+    "sn": "832121",
+    "name": "Setanta",
+    "desc": "A brave young man in Celtic myth. After defeating a fierce guard dog, he volunteered to take its place, earning him the nickname \"Hound of Culann.\"",
+    "strategy": "AAAAAA=="
+  },
+  {
+    "sn": "832122",
+    "name": "Setanta",
+    "desc": "A brave young man in Celtic myth. After defeating a fierce guard dog, he volunteered to take its place, earning him the nickname \"Hound of Culann.\"",
+    "strategy": "AAAAAA=="
+  },
+  {
+    "sn": "832123",
+    "name": "Oberon",
+    "desc": "The king of the fairies and Titania's husband. He is quite old but, due to a curse, his looks are that of a young boy. He often flirts with human women, which sometimes earns him a scolding from his wife.",
+    "strategy": "AAAAAA=="
+  },
+  {
+    "sn": "832124",
+    "name": "Oberon",
+    "desc": "The king of the fairies and Titania's husband. He is quite old but, due to a curse, his looks are that of a young boy. He often flirts with human women, which sometimes earns him a scolding from his wife.",
+    "strategy": "AAAAAA=="
+  },
+  {
+    "sn": "832131",
+    "name": "Baphomet",
+    "desc": "A goat-headed demon that is worshipped in Black Sabbaths. His name can be used as a catch-all term for demons in general. He would become an object of worship for witches.",
+    "strategy": "AAAAAA=="
+  },
+  {
+    "sn": "832132",
+    "name": "Oberon",
+    "desc": "The king of the fairies and Titania's husband. He is quite old but, due to a curse, his looks are that of a young boy. He often flirts with human women, which sometimes earns him a scolding from his wife.",
+    "strategy": "AAAAAA=="
+  },
+  {
+    "sn": "832133",
+    "name": "Oberon",
+    "desc": "The king of the fairies and Titania's husband. He is quite old but, due to a curse, his looks are that of a young boy. He often flirts with human women, which sometimes earns him a scolding from his wife.",
+    "strategy": "AAAAAA=="
+  },
+  {
+    "sn": "832141",
+    "name": "Baphomet",
+    "desc": "A goat-headed demon that is worshipped in Black Sabbaths. His name can be used as a catch-all term for demons in general. He would become an object of worship for witches.",
+    "strategy": "AAAAAA=="
+  },
+  {
+    "sn": "832142",
+    "name": "Setanta",
+    "desc": "A brave young man in Celtic myth. After defeating a fierce guard dog, he volunteered to take its place, earning him the nickname \"Hound of Culann.\"",
+    "strategy": "AAAAAA=="
+  },
+  {
+    "sn": "832151",
+    "name": "Melchizedek",
+    "desc": "An angel of Gnosticism, governing over peace and righteousness. Though said to be the savior of the angels, he used to be a human, the king of Salem.",
+    "strategy": "AAAAAA=="
+  },
+  {
+    "sn": "832161",
+    "name": "Okuninushi",
+    "desc": "A Kunitsu deity in Japanese mythology that governs agriculture and medicine. He's said to have built the country of Izumo with Susano-o's daughter, Suseri-Hime.",
+    "strategy": "AAAAAA=="
+  },
+  {
+    "sn": "832162",
+    "name": "Take-Minakata",
+    "desc": "A Japanese god of war, hunting and fertility. He fought Take-Mikazuchi for control of Japan and lost. He escaped to Suwa, but has been prohibited to leave since then.",
+    "strategy": "AAAAAA=="
+  },
+  {
+    "sn": "832171",
+    "name": "Okuninushi",
+    "desc": "A Kunitsu deity in Japanese mythology that governs agriculture and medicine. He's said to have built the country of Izumo with Susano-o's daughter, Suseri-Hime.",
+    "strategy": "AAAAAA=="
+  },
+  {
+    "sn": "832172",
+    "name": "Dakini",
+    "desc": "Hindu deities of passion and relations. They are Kali's attendants. They eat human flesh and gather at graveyards and crematories each night. Their name means \"sky dancer.\"",
+    "strategy": "AAAAAA=="
+  },
+  {
+    "sn": "832181",
+    "name": "Melchizedek",
+    "desc": "An angel of Gnosticism, governing over peace and righteousness. Though said to be the savior of the angels, he used to be a human, the king of Salem.",
+    "strategy": "AAAAAA=="
+  },
+  {
+    "sn": "832182",
+    "name": "Take-Minakata",
+    "desc": "A Japanese god of war, hunting and fertility. He fought Take-Mikazuchi for control of Japan and lost. He escaped to Suwa, but has been prohibited to leave since then.",
+    "strategy": "AAAAAA=="
+  },
+  {
+    "sn": "832183",
+    "name": "Take-Minakata",
+    "desc": "A Japanese god of war, hunting and fertility. He fought Take-Mikazuchi for control of Japan and lost. He escaped to Suwa, but has been prohibited to leave since then.",
+    "strategy": "AAAAAA=="
+  },
+  {
+    "sn": "832191",
+    "name": "Baphomet",
+    "desc": "A goat-headed demon that is worshipped in Black Sabbaths. His name can be used as a catch-all term for demons in general. He would become an object of worship for witches.",
+    "strategy": "AAAAAA=="
+  },
+  {
+    "sn": "832192",
+    "name": "Dakini",
+    "desc": "Hindu deities of passion and relations. They are Kali's attendants. They eat human flesh and gather at graveyards and crematories each night. Their name means \"sky dancer.\"",
+    "strategy": "AAAAAA=="
+  },
+  {
+    "sn": "832193",
+    "name": "Dakini",
+    "desc": "Hindu deities of passion and relations. They are Kali's attendants. They eat human flesh and gather at graveyards and crematories each night. Their name means \"sky dancer.\"",
+    "strategy": "AAAAAA=="
+  },
+  {
+    "sn": "832201",
+    "name": "Take-Minakata",
+    "desc": "A Japanese god of war, hunting and fertility. He fought Take-Mikazuchi for control of Japan and lost. He escaped to Suwa, but has been prohibited to leave since then.",
+    "strategy": "AAAAAA=="
+  },
+  {
+    "sn": "832202",
+    "name": "Melchizedek",
+    "desc": "An angel of Gnosticism, governing over peace and righteousness. Though said to be the savior of the angels, he used to be a human, the king of Salem.",
+    "strategy": "AAAAAA=="
+  },
+  {
+    "sn": "832211",
+    "name": "Setanta",
+    "desc": "A brave young man in Celtic myth. After defeating a fierce guard dog, he volunteered to take its place, earning him the nickname \"Hound of Culann.\"",
+    "strategy": "AAAAAA=="
+  },
+  {
+    "sn": "832212",
+    "name": "Setanta",
+    "desc": "A brave young man in Celtic myth. After defeating a fierce guard dog, he volunteered to take its place, earning him the nickname \"Hound of Culann.\"",
+    "strategy": "AAAAAA=="
+  },
+  {
+    "sn": "832221",
+    "name": "Oberon",
+    "desc": "The king of the fairies and Titania's husband. He is quite old but, due to a curse, his looks are that of a young boy. He often flirts with human women, which sometimes earns him a scolding from his wife.",
+    "strategy": "AAAAAA=="
+  },
+  {
+    "sn": "832222",
+    "name": "Setanta",
+    "desc": "A brave young man in Celtic myth. After defeating a fierce guard dog, he volunteered to take its place, earning him the nickname \"Hound of Culann.\"",
+    "strategy": "AAAAAA=="
+  },
+  {
+    "sn": "832223",
+    "name": "Setanta",
+    "desc": "A brave young man in Celtic myth. After defeating a fierce guard dog, he volunteered to take its place, earning him the nickname \"Hound of Culann.\"",
+    "strategy": "AAAAAA=="
+  },
+  {
+    "sn": "832231",
+    "name": "Oberon",
+    "desc": "The king of the fairies and Titania's husband. He is quite old but, due to a curse, his looks are that of a young boy. He often flirts with human women, which sometimes earns him a scolding from his wife.",
+    "strategy": "AAAAAA=="
+  },
+  {
+    "sn": "832232",
+    "name": "Cu Chulainn",
+    "desc": "A hero in Celtic folklore. He was called Setanta until he earned the name, \"Culann's Hound.\" There are many tales of his adventures. He received his spear, Gae Bolg, from his mentor, Scathach.",
+    "strategy": "AAAAAA=="
+  },
+  {
+    "sn": "832233",
+    "name": "Cu Chulainn",
+    "desc": "A hero in Celtic folklore. He was called Setanta until he earned the name, \"Culann's Hound.\" There are many tales of his adventures. He received his spear, Gae Bolg, from his mentor, Scathach.",
+    "strategy": "AAAAAA=="
+  },
+  {
+    "sn": "839711",
+    "name": "Principality",
+    "desc": "The seventh of the nine orders of angels. They guard cities and nations, and protect various religious figures.",
+    "strategy": "1. Principality randomly grants 1 of the following buffs to all Shadows except itself: Fully restore HP, nullify damage 1 time, or change affinities to Resist.\n2. At the start of its turn, Principality uses a skill with an affinity corresponding to other Shadows present.\n3. 1 turn after a summoned Shadow is defeated, Principality will resummon that Shadow at the end of its own turn."
+  },
+  {
+    "sn": "839712",
+    "name": "Jack-o'-Lantern",
+    "desc": "A drunkard who tricked the Devil out of taking him to Hell. When refused entry to Heaven, he was forced to wander the earth with only an ember as a light.",
+    "strategy": "Weaknesses and resistances are different than normal."
+  },
+  {
+    "sn": "839713",
+    "name": "Jack Frost",
+    "desc": "A winter fairy of European descent. He leaves ice patterns on windows and nips people's noses. Though normally an innocent creature, he will freeze his victims to death if provoked.",
+    "strategy": "AAAAAA=="
+  },
+  {
+    "sn": "839714",
+    "name": "Agathion",
+    "desc": "A general term for familiars used by Judeo-Christian magicians, they are usually sealed away in bottles, rings, or talismans. They torment the target selected by the conjuror.",
+    "strategy": "AAAAAA=="
+  },
+  {
+    "sn": "839721",
+    "name": "Hell Biker",
+    "desc": "A motorcyclist whose violent nature turned him into a demon. His anger with himself and the world causes him to lash out, that everyone else would suffer as well.",
+    "strategy": "1. Every turn, Hell Biker will inflict Hellscorched on 2 random Phantom Thieves.\nHellscorched: Lose a significant amount of HP at the end of each turn. Stacks up to 3 times. Can be removed after taking <color=#FF423F>Ice</color> damage.\n2. Victory is achieved when Hell Biker is defeated."
+  },
+  {
+    "sn": "839722",
+    "name": "Jack Frost",
+    "desc": "A winter fairy of European descent. He leaves ice patterns on windows and nips people's noses. Though normally an innocent creature, he will freeze his victims to death if provoked.",
+    "strategy": "Jack Frost will not attack unprovoked. When damaged, it will immediately use <color=#FF423F>Bufu</color> on the Phantom Thief that attacked it, dealing a small amount of <color=#FF423F>Ice</color> damage. Jack Frost will be KO'd at the start of its turn."
+  },
+  {
+    "sn": "839723",
+    "name": "Koropokguru",
+    "desc": "Small human-like creatures that have kind, calm personalities. Once coexisting with the Ainu people of Japan, there was a falling out at some point, and they disappeared.",
+    "strategy": "Koropokguru will not attack unprovoked. When defeated, it will immediately deal a small amount of <color=#FF423F>Ice</color> damage to all Phantom Thieves."
   },
   {
     "sn": "640011",
@@ -9361,14 +10231,26 @@
   },
   {
     "sn": "2031",
-    "name": "Jack-o'-Lantern",
-    "desc": "A drunkard who tricked the Devil out of taking him to Hell. When refused entry to Heaven, he was forced to wander the earth with only an ember as a light.",
+    "name": "King Frost",
+    "desc": "The king of snow who rules over an infinite number of Jack Frosts. He has the power to freeze the entire world, but is unaware of it due to his naïve personality.",
     "strategy": "AAAAAA=="
   },
   {
     "sn": "2032",
-    "name": "Jack-o'-Lantern",
+    "name": "Angel",
     "desc": "The Arabian mother goddess also known as Allat. She was thought to reside in the Black Stone at the Kaaba. She and her son, Dusura, were worshipped there by desert nomads.",
+    "strategy": "AAAAAA=="
+  },
+  {
+    "sn": "2035",
+    "name": "Melchizedek",
+    "desc": "An angel of Gnosticism, governing over peace and righteousness. Though said to be the savior of the angels, he used to be a human, the king of Salem.",
+    "strategy": "AAAAAA=="
+  },
+  {
+    "sn": "2036",
+    "name": "Melchizedek",
+    "desc": "An angel of Gnosticism, governing over peace and righteousness. Though said to be the savior of the angels, he used to be a human, the king of Salem.",
     "strategy": "AAAAAA=="
   },
   {
@@ -29040,6 +29922,684 @@
     "strategy": "AAAAAA=="
   },
   {
+    "sn": "241011",
+    "name": "Thoth",
+    "desc": "Egyptian moon god that takes the form of a baboon, he is the one who measures time. He gave Isis the power to resurrect Osiris after he was killed by the evil god Seth.",
+    "strategy": "AAAAAA=="
+  },
+  {
+    "sn": "241012",
+    "name": "Thoth",
+    "desc": "Egyptian moon god that takes the form of a baboon, he is the one who measures time. He gave Isis the power to resurrect Osiris after he was killed by the evil god Seth.",
+    "strategy": "AAAAAA=="
+  },
+  {
+    "sn": "241021",
+    "name": "Zouchouten",
+    "desc": "Also known as Virudhaka, he is the protector of the South, and is one of the four Heavenly Kings of Buddhist origin. He is the god of the five grains, and was once the chief of the gods.",
+    "strategy": "AAAAAA=="
+  },
+  {
+    "sn": "241022",
+    "name": "Oberon",
+    "desc": "The king of the fairies and Titania's husband. He is quite old but, due to a curse, his looks are that of a young boy. He often flirts with human women, which sometimes earns him a scolding from his wife.",
+    "strategy": "AAAAAA=="
+  },
+  {
+    "sn": "241023",
+    "name": "Oberon",
+    "desc": "The king of the fairies and Titania's husband. He is quite old but, due to a curse, his looks are that of a young boy. He often flirts with human women, which sometimes earns him a scolding from his wife.",
+    "strategy": "AAAAAA=="
+  },
+  {
+    "sn": "241031",
+    "name": "Cu Chulainn",
+    "desc": "A hero in Celtic folklore. He was called Setanta until he earned the name, \"Culann's Hound.\" There are many tales of his adventures. He received his spear, Gae Bolg, from his mentor, Scathach.",
+    "strategy": "AAAAAA=="
+  },
+  {
+    "sn": "241032",
+    "name": "Oberon",
+    "desc": "The king of the fairies and Titania's husband. He is quite old but, due to a curse, his looks are that of a young boy. He often flirts with human women, which sometimes earns him a scolding from his wife.",
+    "strategy": "AAAAAA=="
+  },
+  {
+    "sn": "241041",
+    "name": "Setanta",
+    "desc": "A brave young man in Celtic myth. After defeating a fierce guard dog, he volunteered to take its place, earning him the nickname \"Hound of Culann.\"",
+    "strategy": "AAAAAA=="
+  },
+  {
+    "sn": "241051",
+    "name": "Thoth",
+    "desc": "Egyptian moon god that takes the form of a baboon, he is the one who measures time. He gave Isis the power to resurrect Osiris after he was killed by the evil god Seth.",
+    "strategy": "AAAAAA=="
+  },
+  {
+    "sn": "241052",
+    "name": "Thoth",
+    "desc": "Egyptian moon god that takes the form of a baboon, he is the one who measures time. He gave Isis the power to resurrect Osiris after he was killed by the evil god Seth.",
+    "strategy": "AAAAAA=="
+  },
+  {
+    "sn": "241053",
+    "name": "Oberon",
+    "desc": "The king of the fairies and Titania's husband. He is quite old but, due to a curse, his looks are that of a young boy. He often flirts with human women, which sometimes earns him a scolding from his wife.",
+    "strategy": "AAAAAA=="
+  },
+  {
+    "sn": "241054",
+    "name": "Oberon",
+    "desc": "The king of the fairies and Titania's husband. He is quite old but, due to a curse, his looks are that of a young boy. He often flirts with human women, which sometimes earns him a scolding from his wife.",
+    "strategy": "AAAAAA=="
+  },
+  {
+    "sn": "241071",
+    "name": "Setanta",
+    "desc": "A brave young man in Celtic myth. After defeating a fierce guard dog, he volunteered to take its place, earning him the nickname \"Hound of Culann.\"",
+    "strategy": "AAAAAA=="
+  },
+  {
+    "sn": "241072",
+    "name": "Dakini",
+    "desc": "Hindu deities of passion and relations. They are Kali's attendants. They eat human flesh and gather at graveyards and crematories each night. Their name means \"sky dancer.\"",
+    "strategy": "AAAAAA=="
+  },
+  {
+    "sn": "241081",
+    "name": "Cu Chulainn",
+    "desc": "A hero in Celtic folklore. He was called Setanta until he earned the name, \"Culann's Hound.\" There are many tales of his adventures. He received his spear, Gae Bolg, from his mentor, Scathach.",
+    "strategy": "AAAAAA=="
+  },
+  {
+    "sn": "241082",
+    "name": "Dakini",
+    "desc": "Hindu deities of passion and relations. They are Kali's attendants. They eat human flesh and gather at graveyards and crematories each night. Their name means \"sky dancer.\"",
+    "strategy": "AAAAAA=="
+  },
+  {
+    "sn": "241083",
+    "name": "Dakini",
+    "desc": "Hindu deities of passion and relations. They are Kali's attendants. They eat human flesh and gather at graveyards and crematories each night. Their name means \"sky dancer.\"",
+    "strategy": "AAAAAA=="
+  },
+  {
+    "sn": "241091",
+    "name": "Setanta",
+    "desc": "A brave young man in Celtic myth. After defeating a fierce guard dog, he volunteered to take its place, earning him the nickname \"Hound of Culann.\"",
+    "strategy": "AAAAAA=="
+  },
+  {
+    "sn": "241101",
+    "name": "Pazuzu",
+    "desc": "The Babylonian lord of wind and scorching sands. He has the body of a man, a lion's head, the claws and wings of an eagle, and has a deadly poison. The diseases he spreads can only be cured with magic.",
+    "strategy": "AAAAAA=="
+  },
+  {
+    "sn": "241102",
+    "name": "Dakini",
+    "desc": "Hindu deities of passion and relations. They are Kali's attendants. They eat human flesh and gather at graveyards and crematories each night. Their name means \"sky dancer.\"",
+    "strategy": "AAAAAA=="
+  },
+  {
+    "sn": "241103",
+    "name": "Dakini",
+    "desc": "Hindu deities of passion and relations. They are Kali's attendants. They eat human flesh and gather at graveyards and crematories each night. Their name means \"sky dancer.\"",
+    "strategy": "AAAAAA=="
+  },
+  {
+    "sn": "241111",
+    "name": "Pazuzu",
+    "desc": "The Babylonian lord of wind and scorching sands. He has the body of a man, a lion's head, the claws and wings of an eagle, and has a deadly poison. The diseases he spreads can only be cured with magic.",
+    "strategy": "AAAAAA=="
+  },
+  {
+    "sn": "241112",
+    "name": "Thoth",
+    "desc": "Egyptian moon god that takes the form of a baboon, he is the one who measures time. He gave Isis the power to resurrect Osiris after he was killed by the evil god Seth.",
+    "strategy": "AAAAAA=="
+  },
+  {
+    "sn": "241121",
+    "name": "Baphomet",
+    "desc": "A goat-headed demon that is worshipped in Black Sabbaths. His name can be used as a catch-all term for demons in general. He would become an object of worship for witches.",
+    "strategy": "AAAAAA=="
+  },
+  {
+    "sn": "241122",
+    "name": "Dakini",
+    "desc": "Hindu deities of passion and relations. They are Kali's attendants. They eat human flesh and gather at graveyards and crematories each night. Their name means \"sky dancer.\"",
+    "strategy": "AAAAAA=="
+  },
+  {
+    "sn": "241123",
+    "name": "Dakini",
+    "desc": "Hindu deities of passion and relations. They are Kali's attendants. They eat human flesh and gather at graveyards and crematories each night. Their name means \"sky dancer.\"",
+    "strategy": "AAAAAA=="
+  },
+  {
+    "sn": "241131",
+    "name": "Melchizedek",
+    "desc": "An angel of Gnosticism, governing over peace and righteousness. Though said to be the savior of the angels, he used to be a human, the king of Salem.",
+    "strategy": "AAAAAA=="
+  },
+  {
+    "sn": "241132",
+    "name": "Take-Minakata",
+    "desc": "A Japanese god of war, hunting and fertility. He fought Take-Mikazuchi for control of Japan and lost. He escaped to Suwa, but has been prohibited to leave since then.",
+    "strategy": "AAAAAA=="
+  },
+  {
+    "sn": "241141",
+    "name": "Okuninushi",
+    "desc": "A Kunitsu deity in Japanese mythology that governs agriculture and medicine. He's said to have built the country of Izumo with Susano-o's daughter, Suseri-Hime.",
+    "strategy": "AAAAAA=="
+  },
+  {
+    "sn": "241151",
+    "name": "Melchizedek",
+    "desc": "An angel of Gnosticism, governing over peace and righteousness. Though said to be the savior of the angels, he used to be a human, the king of Salem.",
+    "strategy": "AAAAAA=="
+  },
+  {
+    "sn": "241152",
+    "name": "Take-Minakata",
+    "desc": "A Japanese god of war, hunting and fertility. He fought Take-Mikazuchi for control of Japan and lost. He escaped to Suwa, but has been prohibited to leave since then.",
+    "strategy": "AAAAAA=="
+  },
+  {
+    "sn": "241161",
+    "name": "Melchizedek",
+    "desc": "An angel of Gnosticism, governing over peace and righteousness. Though said to be the savior of the angels, he used to be a human, the king of Salem.",
+    "strategy": "AAAAAA=="
+  },
+  {
+    "sn": "241162",
+    "name": "Melchizedek",
+    "desc": "An angel of Gnosticism, governing over peace and righteousness. Though said to be the savior of the angels, he used to be a human, the king of Salem.",
+    "strategy": "AAAAAA=="
+  },
+  {
+    "sn": "241163",
+    "name": "Take-Minakata",
+    "desc": "A Japanese god of war, hunting and fertility. He fought Take-Mikazuchi for control of Japan and lost. He escaped to Suwa, but has been prohibited to leave since then.",
+    "strategy": "AAAAAA=="
+  },
+  {
+    "sn": "241164",
+    "name": "Take-Minakata",
+    "desc": "A Japanese god of war, hunting and fertility. He fought Take-Mikazuchi for control of Japan and lost. He escaped to Suwa, but has been prohibited to leave since then.",
+    "strategy": "AAAAAA=="
+  },
+  {
+    "sn": "241171",
+    "name": "Baphomet",
+    "desc": "A goat-headed demon that is worshipped in Black Sabbaths. His name can be used as a catch-all term for demons in general. He would become an object of worship for witches.",
+    "strategy": "AAAAAA=="
+  },
+  {
+    "sn": "241172",
+    "name": "Melchizedek",
+    "desc": "An angel of Gnosticism, governing over peace and righteousness. Though said to be the savior of the angels, he used to be a human, the king of Salem.",
+    "strategy": "AAAAAA=="
+  },
+  {
+    "sn": "241173",
+    "name": "Melchizedek",
+    "desc": "An angel of Gnosticism, governing over peace and righteousness. Though said to be the savior of the angels, he used to be a human, the king of Salem.",
+    "strategy": "AAAAAA=="
+  },
+  {
+    "sn": "241181",
+    "name": "Moloch",
+    "desc": "A Canaanite god of fire. A bronze statue of a man with a bull's head stands at his altar. The statue was heated and sacrificial children were thrown inside.",
+    "strategy": "AAAAAA=="
+  },
+  {
+    "sn": "241191",
+    "name": "Zouchouten",
+    "desc": "Also known as Virudhaka, he is the protector of the South, and is one of the four Heavenly Kings of Buddhist origin. He is the god of the five grains, and was once the chief of the gods.",
+    "strategy": "AAAAAA=="
+  },
+  {
+    "sn": "241192",
+    "name": "Zouchouten",
+    "desc": "Also known as Virudhaka, he is the protector of the South, and is one of the four Heavenly Kings of Buddhist origin. He is the god of the five grains, and was once the chief of the gods.",
+    "strategy": "AAAAAA=="
+  },
+  {
+    "sn": "241201",
+    "name": "Setanta",
+    "desc": "A brave young man in Celtic myth. After defeating a fierce guard dog, he volunteered to take its place, earning him the nickname \"Hound of Culann.\"",
+    "strategy": "AAAAAA=="
+  },
+  {
+    "sn": "241202",
+    "name": "Cu Chulainn",
+    "desc": "A hero in Celtic folklore. He was called Setanta until he earned the name, \"Culann's Hound.\" There are many tales of his adventures. He received his spear, Gae Bolg, from his mentor, Scathach.",
+    "strategy": "AAAAAA=="
+  },
+  {
+    "sn": "241211",
+    "name": "Pazuzu",
+    "desc": "The Babylonian lord of wind and scorching sands. He has the body of a man, a lion's head, the claws and wings of an eagle, and has a deadly poison. The diseases he spreads can only be cured with magic.",
+    "strategy": "AAAAAA=="
+  },
+  {
+    "sn": "241212",
+    "name": "Thoth",
+    "desc": "Egyptian moon god that takes the form of a baboon, he is the one who measures time. He gave Isis the power to resurrect Osiris after he was killed by the evil god Seth.",
+    "strategy": "AAAAAA=="
+  },
+  {
+    "sn": "241221",
+    "name": "Cu Chulainn",
+    "desc": "A hero in Celtic folklore. He was called Setanta until he earned the name, \"Culann's Hound.\" There are many tales of his adventures. He received his spear, Gae Bolg, from his mentor, Scathach.",
+    "strategy": "AAAAAA=="
+  },
+  {
+    "sn": "241222",
+    "name": "Cu Chulainn",
+    "desc": "A hero in Celtic folklore. He was called Setanta until he earned the name, \"Culann's Hound.\" There are many tales of his adventures. He received his spear, Gae Bolg, from his mentor, Scathach.",
+    "strategy": "AAAAAA=="
+  },
+  {
+    "sn": "241223",
+    "name": "Oberon",
+    "desc": "The king of the fairies and Titania's husband. He is quite old but, due to a curse, his looks are that of a young boy. He often flirts with human women, which sometimes earns him a scolding from his wife.",
+    "strategy": "AAAAAA=="
+  },
+  {
+    "sn": "241224",
+    "name": "Oberon",
+    "desc": "The king of the fairies and Titania's husband. He is quite old but, due to a curse, his looks are that of a young boy. He often flirts with human women, which sometimes earns him a scolding from his wife.",
+    "strategy": "AAAAAA=="
+  },
+  {
+    "sn": "241231",
+    "name": "Setanta",
+    "desc": "A brave young man in Celtic myth. After defeating a fierce guard dog, he volunteered to take its place, earning him the nickname \"Hound of Culann.\"",
+    "strategy": "AAAAAA=="
+  },
+  {
+    "sn": "241232",
+    "name": "Setanta",
+    "desc": "A brave young man in Celtic myth. After defeating a fierce guard dog, he volunteered to take its place, earning him the nickname \"Hound of Culann.\"",
+    "strategy": "AAAAAA=="
+  },
+  {
+    "sn": "241241",
+    "name": "Oberon",
+    "desc": "The king of the fairies and Titania's husband. He is quite old but, due to a curse, his looks are that of a young boy. He often flirts with human women, which sometimes earns him a scolding from his wife.",
+    "strategy": "AAAAAA=="
+  },
+  {
+    "sn": "241242",
+    "name": "Setanta",
+    "desc": "A brave young man in Celtic myth. After defeating a fierce guard dog, he volunteered to take its place, earning him the nickname \"Hound of Culann.\"",
+    "strategy": "AAAAAA=="
+  },
+  {
+    "sn": "241243",
+    "name": "Setanta",
+    "desc": "A brave young man in Celtic myth. After defeating a fierce guard dog, he volunteered to take its place, earning him the nickname \"Hound of Culann.\"",
+    "strategy": "AAAAAA=="
+  },
+  {
+    "sn": "241251",
+    "name": "Oberon",
+    "desc": "The king of the fairies and Titania's husband. He is quite old but, due to a curse, his looks are that of a young boy. He often flirts with human women, which sometimes earns him a scolding from his wife.",
+    "strategy": "AAAAAA=="
+  },
+  {
+    "sn": "241252",
+    "name": "Cu Chulainn",
+    "desc": "A hero in Celtic folklore. He was called Setanta until he earned the name, \"Culann's Hound.\" There are many tales of his adventures. He received his spear, Gae Bolg, from his mentor, Scathach.",
+    "strategy": "AAAAAA=="
+  },
+  {
+    "sn": "241253",
+    "name": "Cu Chulainn",
+    "desc": "A hero in Celtic folklore. He was called Setanta until he earned the name, \"Culann's Hound.\" There are many tales of his adventures. He received his spear, Gae Bolg, from his mentor, Scathach.",
+    "strategy": "AAAAAA=="
+  },
+  {
+    "sn": "241261",
+    "name": "Zouchouten",
+    "desc": "Also known as Virudhaka, he is the protector of the South, and is one of the four Heavenly Kings of Buddhist origin. He is the god of the five grains, and was once the chief of the gods.",
+    "strategy": "AAAAAA=="
+  },
+  {
+    "sn": "241262",
+    "name": "Thoth",
+    "desc": "Egyptian moon god that takes the form of a baboon, he is the one who measures time. He gave Isis the power to resurrect Osiris after he was killed by the evil god Seth.",
+    "strategy": "AAAAAA=="
+  },
+  {
+    "sn": "241263",
+    "name": "Thoth",
+    "desc": "Egyptian moon god that takes the form of a baboon, he is the one who measures time. He gave Isis the power to resurrect Osiris after he was killed by the evil god Seth.",
+    "strategy": "AAAAAA=="
+  },
+  {
+    "sn": "241271",
+    "name": "Setanta",
+    "desc": "A brave young man in Celtic myth. After defeating a fierce guard dog, he volunteered to take its place, earning him the nickname \"Hound of Culann.\"",
+    "strategy": "AAAAAA=="
+  },
+  {
+    "sn": "241272",
+    "name": "Dakini",
+    "desc": "Hindu deities of passion and relations. They are Kali's attendants. They eat human flesh and gather at graveyards and crematories each night. Their name means \"sky dancer.\"",
+    "strategy": "AAAAAA=="
+  },
+  {
+    "sn": "241281",
+    "name": "Baphomet",
+    "desc": "A goat-headed demon that is worshipped in Black Sabbaths. His name can be used as a catch-all term for demons in general. He would become an object of worship for witches.",
+    "strategy": "AAAAAA=="
+  },
+  {
+    "sn": "241282",
+    "name": "Oberon",
+    "desc": "The king of the fairies and Titania's husband. He is quite old but, due to a curse, his looks are that of a young boy. He often flirts with human women, which sometimes earns him a scolding from his wife.",
+    "strategy": "AAAAAA=="
+  },
+  {
+    "sn": "241291",
+    "name": "Dakini",
+    "desc": "Hindu deities of passion and relations. They are Kali's attendants. They eat human flesh and gather at graveyards and crematories each night. Their name means \"sky dancer.\"",
+    "strategy": "AAAAAA=="
+  },
+  {
+    "sn": "241292",
+    "name": "Dakini",
+    "desc": "Hindu deities of passion and relations. They are Kali's attendants. They eat human flesh and gather at graveyards and crematories each night. Their name means \"sky dancer.\"",
+    "strategy": "AAAAAA=="
+  },
+  {
+    "sn": "241301",
+    "name": "Setanta",
+    "desc": "A brave young man in Celtic myth. After defeating a fierce guard dog, he volunteered to take its place, earning him the nickname \"Hound of Culann.\"",
+    "strategy": "AAAAAA=="
+  },
+  {
+    "sn": "241302",
+    "name": "Setanta",
+    "desc": "A brave young man in Celtic myth. After defeating a fierce guard dog, he volunteered to take its place, earning him the nickname \"Hound of Culann.\"",
+    "strategy": "AAAAAA=="
+  },
+  {
+    "sn": "241303",
+    "name": "Oberon",
+    "desc": "The king of the fairies and Titania's husband. He is quite old but, due to a curse, his looks are that of a young boy. He often flirts with human women, which sometimes earns him a scolding from his wife.",
+    "strategy": "AAAAAA=="
+  },
+  {
+    "sn": "241304",
+    "name": "Oberon",
+    "desc": "The king of the fairies and Titania's husband. He is quite old but, due to a curse, his looks are that of a young boy. He often flirts with human women, which sometimes earns him a scolding from his wife.",
+    "strategy": "AAAAAA=="
+  },
+  {
+    "sn": "241311",
+    "name": "Baphomet",
+    "desc": "A goat-headed demon that is worshipped in Black Sabbaths. His name can be used as a catch-all term for demons in general. He would become an object of worship for witches.",
+    "strategy": "AAAAAA=="
+  },
+  {
+    "sn": "241312",
+    "name": "Oberon",
+    "desc": "The king of the fairies and Titania's husband. He is quite old but, due to a curse, his looks are that of a young boy. He often flirts with human women, which sometimes earns him a scolding from his wife.",
+    "strategy": "AAAAAA=="
+  },
+  {
+    "sn": "241313",
+    "name": "Oberon",
+    "desc": "The king of the fairies and Titania's husband. He is quite old but, due to a curse, his looks are that of a young boy. He often flirts with human women, which sometimes earns him a scolding from his wife.",
+    "strategy": "AAAAAA=="
+  },
+  {
+    "sn": "241321",
+    "name": "Baphomet",
+    "desc": "A goat-headed demon that is worshipped in Black Sabbaths. His name can be used as a catch-all term for demons in general. He would become an object of worship for witches.",
+    "strategy": "AAAAAA=="
+  },
+  {
+    "sn": "241322",
+    "name": "Setanta",
+    "desc": "A brave young man in Celtic myth. After defeating a fierce guard dog, he volunteered to take its place, earning him the nickname \"Hound of Culann.\"",
+    "strategy": "AAAAAA=="
+  },
+  {
+    "sn": "241331",
+    "name": "Melchizedek",
+    "desc": "An angel of Gnosticism, governing over peace and righteousness. Though said to be the savior of the angels, he used to be a human, the king of Salem.",
+    "strategy": "AAAAAA=="
+  },
+  {
+    "sn": "241341",
+    "name": "Okuninushi",
+    "desc": "A Kunitsu deity in Japanese mythology that governs agriculture and medicine. He's said to have built the country of Izumo with Susano-o's daughter, Suseri-Hime.",
+    "strategy": "AAAAAA=="
+  },
+  {
+    "sn": "241342",
+    "name": "Take-Minakata",
+    "desc": "A Japanese god of war, hunting and fertility. He fought Take-Mikazuchi for control of Japan and lost. He escaped to Suwa, but has been prohibited to leave since then.",
+    "strategy": "AAAAAA=="
+  },
+  {
+    "sn": "241351",
+    "name": "Okuninushi",
+    "desc": "A Kunitsu deity in Japanese mythology that governs agriculture and medicine. He's said to have built the country of Izumo with Susano-o's daughter, Suseri-Hime.",
+    "strategy": "AAAAAA=="
+  },
+  {
+    "sn": "241352",
+    "name": "Dakini",
+    "desc": "Hindu deities of passion and relations. They are Kali's attendants. They eat human flesh and gather at graveyards and crematories each night. Their name means \"sky dancer.\"",
+    "strategy": "AAAAAA=="
+  },
+  {
+    "sn": "241361",
+    "name": "Melchizedek",
+    "desc": "An angel of Gnosticism, governing over peace and righteousness. Though said to be the savior of the angels, he used to be a human, the king of Salem.",
+    "strategy": "AAAAAA=="
+  },
+  {
+    "sn": "241362",
+    "name": "Take-Minakata",
+    "desc": "A Japanese god of war, hunting and fertility. He fought Take-Mikazuchi for control of Japan and lost. He escaped to Suwa, but has been prohibited to leave since then.",
+    "strategy": "AAAAAA=="
+  },
+  {
+    "sn": "241363",
+    "name": "Take-Minakata",
+    "desc": "A Japanese god of war, hunting and fertility. He fought Take-Mikazuchi for control of Japan and lost. He escaped to Suwa, but has been prohibited to leave since then.",
+    "strategy": "AAAAAA=="
+  },
+  {
+    "sn": "241371",
+    "name": "Melchizedek",
+    "desc": "An angel of Gnosticism, governing over peace and righteousness. Though said to be the savior of the angels, he used to be a human, the king of Salem.",
+    "strategy": "AAAAAA=="
+  },
+  {
+    "sn": "241372",
+    "name": "Okuninushi",
+    "desc": "A Kunitsu deity in Japanese mythology that governs agriculture and medicine. He's said to have built the country of Izumo with Susano-o's daughter, Suseri-Hime.",
+    "strategy": "AAAAAA=="
+  },
+  {
+    "sn": "241373",
+    "name": "Okuninushi",
+    "desc": "A Kunitsu deity in Japanese mythology that governs agriculture and medicine. He's said to have built the country of Izumo with Susano-o's daughter, Suseri-Hime.",
+    "strategy": "AAAAAA=="
+  },
+  {
+    "sn": "241381",
+    "name": "Baphomet",
+    "desc": "A goat-headed demon that is worshipped in Black Sabbaths. His name can be used as a catch-all term for demons in general. He would become an object of worship for witches.",
+    "strategy": "AAAAAA=="
+  },
+  {
+    "sn": "241382",
+    "name": "Dakini",
+    "desc": "Hindu deities of passion and relations. They are Kali's attendants. They eat human flesh and gather at graveyards and crematories each night. Their name means \"sky dancer.\"",
+    "strategy": "AAAAAA=="
+  },
+  {
+    "sn": "241383",
+    "name": "Dakini",
+    "desc": "Hindu deities of passion and relations. They are Kali's attendants. They eat human flesh and gather at graveyards and crematories each night. Their name means \"sky dancer.\"",
+    "strategy": "AAAAAA=="
+  },
+  {
+    "sn": "241391",
+    "name": "Take-Minakata",
+    "desc": "A Japanese god of war, hunting and fertility. He fought Take-Mikazuchi for control of Japan and lost. He escaped to Suwa, but has been prohibited to leave since then.",
+    "strategy": "AAAAAA=="
+  },
+  {
+    "sn": "241392",
+    "name": "Melchizedek",
+    "desc": "An angel of Gnosticism, governing over peace and righteousness. Though said to be the savior of the angels, he used to be a human, the king of Salem.",
+    "strategy": "AAAAAA=="
+  },
+  {
+    "sn": "241401",
+    "name": "Moloch",
+    "desc": "A Canaanite god of fire. A bronze statue of a man with a bull's head stands at his altar. The statue was heated and sacrificial children were thrown inside.",
+    "strategy": "AAAAAA=="
+  },
+  {
+    "sn": "241402",
+    "name": "Okuninushi",
+    "desc": "A Kunitsu deity in Japanese mythology that governs agriculture and medicine. He's said to have built the country of Izumo with Susano-o's daughter, Suseri-Hime.",
+    "strategy": "AAAAAA=="
+  },
+  {
+    "sn": "246011",
+    "name": "Cu Chulainn",
+    "desc": "A hero in Celtic folklore. He was called Setanta until he earned the name, \"Culann's Hound.\" There are many tales of his adventures. He received his spear, Gae Bolg, from his mentor, Scathach.",
+    "strategy": "AAAAAA=="
+  },
+  {
+    "sn": "246012",
+    "name": "Oberon",
+    "desc": "The king of the fairies and Titania's husband. He is quite old but, due to a curse, his looks are that of a young boy. He often flirts with human women, which sometimes earns him a scolding from his wife.",
+    "strategy": "AAAAAA=="
+  },
+  {
+    "sn": "246013",
+    "name": "Oberon",
+    "desc": "The king of the fairies and Titania's husband. He is quite old but, due to a curse, his looks are that of a young boy. He often flirts with human women, which sometimes earns him a scolding from his wife.",
+    "strategy": "AAAAAA=="
+  },
+  {
+    "sn": "246021",
+    "name": "Okuninushi",
+    "desc": "A Kunitsu deity in Japanese mythology that governs agriculture and medicine. He's said to have built the country of Izumo with Susano-o's daughter, Suseri-Hime.",
+    "strategy": "AAAAAA=="
+  },
+  {
+    "sn": "246022",
+    "name": "Setanta",
+    "desc": "A brave young man in Celtic myth. After defeating a fierce guard dog, he volunteered to take its place, earning him the nickname \"Hound of Culann.\"",
+    "strategy": "AAAAAA=="
+  },
+  {
+    "sn": "246031",
+    "name": "Moloch",
+    "desc": "A Canaanite god of fire. A bronze statue of a man with a bull's head stands at his altar. The statue was heated and sacrificial children were thrown inside.",
+    "strategy": "AAAAAA=="
+  },
+  {
+    "sn": "246032",
+    "name": "Take-Minakata",
+    "desc": "A Japanese god of war, hunting and fertility. He fought Take-Mikazuchi for control of Japan and lost. He escaped to Suwa, but has been prohibited to leave since then.",
+    "strategy": "AAAAAA=="
+  },
+  {
+    "sn": "246033",
+    "name": "Take-Minakata",
+    "desc": "A Japanese god of war, hunting and fertility. He fought Take-Mikazuchi for control of Japan and lost. He escaped to Suwa, but has been prohibited to leave since then.",
+    "strategy": "AAAAAA=="
+  },
+  {
+    "sn": "246041",
+    "name": "Melchizedek",
+    "desc": "An angel of Gnosticism, governing over peace and righteousness. Though said to be the savior of the angels, he used to be a human, the king of Salem.",
+    "strategy": "AAAAAA=="
+  },
+  {
+    "sn": "246042",
+    "name": "Dakini",
+    "desc": "Hindu deities of passion and relations. They are Kali's attendants. They eat human flesh and gather at graveyards and crematories each night. Their name means \"sky dancer.\"",
+    "strategy": "AAAAAA=="
+  },
+  {
+    "sn": "246043",
+    "name": "Dakini",
+    "desc": "Hindu deities of passion and relations. They are Kali's attendants. They eat human flesh and gather at graveyards and crematories each night. Their name means \"sky dancer.\"",
+    "strategy": "AAAAAA=="
+  },
+  {
+    "sn": "246044",
+    "name": "Dakini",
+    "desc": "Hindu deities of passion and relations. They are Kali's attendants. They eat human flesh and gather at graveyards and crematories each night. Their name means \"sky dancer.\"",
+    "strategy": "AAAAAA=="
+  },
+  {
+    "sn": "246051",
+    "name": "Baphomet",
+    "desc": "A goat-headed demon that is worshipped in Black Sabbaths. His name can be used as a catch-all term for demons in general. He would become an object of worship for witches.",
+    "strategy": "AAAAAA=="
+  },
+  {
+    "sn": "246052",
+    "name": "Pale Rider",
+    "desc": "One of the Four Horsemen of the Apocalypse, he rides a pale horse and represents death. He has the power to destroy life.",
+    "strategy": "AAAAAA=="
+  },
+  {
+    "sn": "246053",
+    "name": "Pale Rider",
+    "desc": "One of the Four Horsemen of the Apocalypse, he rides a pale horse and represents death. He has the power to destroy life.",
+    "strategy": "AAAAAA=="
+  },
+  {
+    "sn": "246061",
+    "name": "Chernobog",
+    "desc": "A cursed god of death, evil, and the night in Slavic lore. His name means \"Black God,\" and he is the counterpart of the \"White God,\" Belobog. Despite being feared, he was also worshipped.",
+    "strategy": "AAAAAA=="
+  },
+  {
+    "sn": "249011",
+    "name": "Shadow Shimotsuna",
+    "desc": "Takami Shimotsuna's form in the cognitive world. Her appearance reflects her distorted desires.",
+    "strategy": "AAAAAA=="
+  },
+  {
+    "sn": "249012",
+    "name": "Soldier Ant Shadow",
+    "desc": "A Soldier Ant Shadow guarding Shimotsuna's Palace.",
+    "strategy": "AAAAAA=="
+  },
+  {
+    "sn": "249013",
+    "name": "Worker Ant Shadow",
+    "desc": "A Worker Ant Shadow residing in Shimotsuna's Palace.",
+    "strategy": "AAAAAA=="
+  },
+  {
+    "sn": "249014",
+    "name": "Worker Ant Shadow",
+    "desc": "A Worker Ant Shadow residing in Shimotsuna's Palace.",
+    "strategy": "AAAAAA=="
+  },
+  {
     "sn": "400002",
     "name": "Queen's Necklace",
     "desc": "The diamond necklace that Jeanne de la Motte swindled from jewelers in 1785 by claiming it was on behalf of the Queen of France, Marie Antoinette.",
@@ -29847,6 +31407,30 @@
     "sn": "450142",
     "name": "Queen Mab",
     "desc": "The fairy queen in Celtic myth. Often identified with Titania. She would offer mead mixed with her blood to her many consorts.",
+    "strategy": "AAAAAA=="
+  },
+  {
+    "sn": "451111",
+    "name": "Oberon",
+    "desc": "The king of the fairies and Titania's husband. He is quite old but, due to a curse, his looks are that of a young boy. He often flirts with human women, which sometimes earns him a scolding from his wife.",
+    "strategy": "AAAAAA=="
+  },
+  {
+    "sn": "451112",
+    "name": "Titania",
+    "desc": "The queen of the fairies and Oberon's wife. She is derived from the Roman goddess Diana. She was later immortalized in Shakespeare's play \"A Midsummer Night's Dream.\"",
+    "strategy": "AAAAAA=="
+  },
+  {
+    "sn": "451141",
+    "name": "Setanta",
+    "desc": "A brave young man in Celtic myth. After defeating a fierce guard dog, he volunteered to take its place, earning him the nickname \"Hound of Culann.\"",
+    "strategy": "AAAAAA=="
+  },
+  {
+    "sn": "451142",
+    "name": "Leanan Sidhe",
+    "desc": "A beautiful fairy of Irish lore that yearns for the love of a human man. She drains the life of her lovers in return for granting them artistic inspiration.",
     "strategy": "AAAAAA=="
   },
   {
@@ -32613,7 +34197,7 @@
     "sn": "508111",
     "name": "Sraosha",
     "desc": "In Zoroastrian lore, Sraosha's duty is to listen to the cry of humans for Ahura Mazda. He is also known to descend after sunset to vanquish evil. His name literally means \"observance.\"",
-    "strategy": "1. Sraosha will summon servants during the battle. When a servant is defeated, Sraosha takes Almighty damage based on the servant's max HP.\n2. Sraosha will restore all Phantom Thieves' SP each turn, but also uses Debilitate on the Phantom Thief with the highest Attack, greatly decreasing their damage.\n3. When a servant loses a Down Point, all Phantom Thieves' damage is increased by 15%. Lasts for 1 turn."
+    "strategy": "Weaknesses and resistances are different than normal.\n1. Sraosha will summon Shadows during the battle.\n2. Sraosha will restore all Phantom Thieves' SP each turn.\n3. When a summoned Shadow's Down Points are decreased, all Phantom Thieves' damage is increased by 15% for 1 turn."
   },
   {
     "sn": "508112",
@@ -45218,7 +46802,7 @@
   {
     "sn": "827061",
     "name": "Stone of Scone",
-    "desc": "One of the 72 demons of the Goetia, this demon appears as a pentacle. Keeper of jewels and herbal lore, Decarabia is said to have the ability to shape-shift at will.",
+    "desc": "Also known as the Stone of Destiny, it is a stone used in the coronations of Scotland's monarchs. Legends say the stone is linked to angels.",
     "strategy": "AAAAAA=="
   },
   {
@@ -54279,6 +55863,24 @@
     "sn": "915813",
     "name": "Kaiwan",
     "desc": "A god in Assyrian legend, his name is interchangeable with Sakkut, another incarnation of the star-god, Saturn.",
+    "strategy": "AAAAAA=="
+  },
+  {
+    "sn": "200051",
+    "name": "Bicorn",
+    "desc": "An evil creature with two curving horns from European folklore. It represents impurity, unlike the Unicorn. Said to be derived from Re'em in the Bible. Another legend says that it feeds off of loyal husbands.",
+    "strategy": "AAAAAA=="
+  },
+  {
+    "sn": "200052",
+    "name": "Jack-o'-Lantern",
+    "desc": "A drunkard who tricked the Devil out of taking him to Hell. When refused entry to Heaven, he was forced to wander the earth with only an ember as a light.",
+    "strategy": "AAAAAA=="
+  },
+  {
+    "sn": "200053",
+    "name": "Pixie",
+    "desc": "Friendly fairies of the forest that tend to hide from humans. They like to play tricks on lazy people. It is said they are the souls of dead, unbaptized children.",
     "strategy": "AAAAAA=="
   },
   {

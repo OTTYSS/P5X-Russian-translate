@@ -582,7 +582,7 @@
   {
     "sn": "106140",
     "name": "Wild Runner",
-    "desc": "Increase chance of being targeted by attacks, and when attacked, activate <link=\"s|151\"><u>Desperado</u></link>.\nAt the end of Shun's action, Desperado ends, and he restores 30% HP.",
+    "desc": "Increase chance of being targeted by attacks, and when attacked, activate <link=\"s|151\"><u>Desperado</u></link>.\nAt the end of Shun's turn, Desperado ends, and he restores 30% HP.",
     "descSimple": "Increase chance of being targeted by attacks, and when attacked, activate Desperado.\nAt end of Shun's action, Desperado ends, and he restores 30% HP.",
     "levelUpList": "AAAAAA==",
     "levelUpValue": "AAAAAA==",
@@ -1722,7 +1722,7 @@
   {
     "sn": "116113",
     "name": "Keen Eye",
-    "desc": "Evolve the next activated <link=\"s|123\"><u>Inspiration</u></link> to <link=\"s|172\"><u>Imagination</u></link>. \nImagination: Increase chance of counterattack to 100%, increase damage by <color=#FFFC40>^%s^</color> of Defense, and change target to all foes. If the effect is not activated by the start of Yusuke's next action, automatically activate it.\nFor 2 turns, gain a shield equal to <color=#FFFC40>^%s^</color> of Yusuke's Defense + <color=#FFFC40>^%s^</color>, increase Fire resistance, and nullify spiritual ailments.\nAlso inflict <link=\"s|143\"><u>Taunt</u></link> on all foes for 2 turns.\nCooldown Time: 1 turn.",
+    "desc": "Evolve the next activated <link=\"s|123\"><u>Inspiration</u></link> to <link=\"s|172\"><u>Imagination</u></link>. \nImagination: Increase chance of counterattack to 100%, increase damage by <color=#FFFC40>^%s^</color> of Defense, and change target to all foes. If the effect is not activated by Yusuke's next action, automatically activate it.\nFor 2 turns, gain a shield equal to <color=#FFFC40>^%s^</color> of Yusuke's Defense + <color=#FFFC40>^%s^</color>, increase Fire resistance, and nullify spiritual ailments.\nAlso inflict <link=\"s|143\"><u>Taunt</u></link> on all foes for 2 turns.\nCooldown Time: 1 turn.",
     "descSimple": "Evolve next activated Inspiration to Imagination.\n100% chance to counterattack, increase dmg (%s Def), and target all foes. Gain shield (%s Def + %s, 2 turns), increase Fire resistance, and nullify spiritual ailments.\nTaunt all foes (2 turns).",
     "levelUpList": "Dmg Increase,Shield Multiplier,Base Shield",
     "levelUpValue": "AAAAAA==",
@@ -2242,7 +2242,7 @@
   {
     "sn": "119140",
     "name": "Passion",
-    "desc": "When dealing Fire damage to a foe with a skill, gain 1 Passion. Gain up to 4 stacks of Passion with 1 skill.\nIf Passion is at 4 or more stacks at the start of the user's turn, spend all Passion stacks to gain La Vie en Rose for 1 turn.\nLa Vie en Rose: Increase user's Attack by 30%/40%/50% (effect changes at level 1/50/70).\n*Cannot gain La Vie en Rose consecutively on the user's next action.",
+    "desc": "When dealing Fire damage to a foe with a skill, gain 1 Passion. Gain up to 4 stacks of Passion with 1 skill.\nIf Passion is at 4 or more stacks on Ann's action, spend all Passion stacks to gain La Vie en Rose for 1 turn.\nLa Vie en Rose: Increase Ann's Attack by 30%/40%/50% (effect changes at level 1/50/70).\n*Cannot gain La Vie en Rose consecutively on Ann's next action.",
     "descSimple": "When dealing Fire dmg to foes, gain 1 Passion.\nWhen Passion reaches 4, gain La Vie en Rose, and increase Atk (1 turn).",
     "levelUpList": "AAAAAA==",
     "levelUpValue": "AAAAAA==",
@@ -2422,7 +2422,7 @@
   {
     "sn": "120140",
     "name": "Enraged Usurper",
-    "desc": "When attacking a foe with a skill, gain 1 <link=\"s|177\"><u>Tenacity</u></link> stack. If <link=\"s|178\"><u>Crash Out</u></link> is not active, at the end of the turn, gain more Tenacity stacks based on the number of elemental ailments inflicted on foes (including foes defeated during the turn).\nIf Makoto has 5 Tenacity stacks at the start of her turn, she can activate Crash Out, increasing Attack by 40% and Defense by 20%, and evolving Nuclear Fury to Thermonuclear Fury for 2 turns. When Crash Out ends, lose all Tenacity stacks.",
+    "desc": "When attacking a foe with a skill, gain 1 <link=\"s|177\"><u>Tenacity</u></link> stack. If <link=\"s|178\"><u>Crash Out</u></link> is not active, at the end of the action, gain more Tenacity stacks based on the number of elemental ailments inflicted on foes (including foes defeated during the turn).\nIf Makoto has 5 Tenacity stacks at the start of her turn, she can activate Crash Out, increasing Attack by 40% and Defense by 20%, and evolving Nuclear Fury to Thermonuclear Fury for 2 turns. When Crash Out ends, lose all Tenacity stacks.",
     "descSimple": "When attacking foes with skills, gain 1 Tenacity. For each different elemental ailment on foes, gain more Tenacity.\nWhen Tenacity reaches 5, change to Crash Out.",
     "levelUpList": "AAAAAA==",
     "levelUpValue": "AAAAAA==",
@@ -2612,7 +2612,7 @@
   {
     "sn": "121141",
     "name": "Camel Spin",
-    "desc": "At the end of Kotone's action, gain a shield equal to 15% of Attack for 1 turn.",
+    "desc": "At the end of Kotone's turn, gain a shield equal to 15% of Attack for 1 turn.",
     "descSimple": "AAAAAA==",
     "levelUpList": "AAAAAA==",
     "levelUpValue": "AAAAAA==",
@@ -3972,8 +3972,8 @@
   {
     "sn": "110140",
     "name": "Self-Renewal",
-    "desc": "At the start of battle, gain 4 <link=\"s|131\"><u>Greenleaf</u></link> stacks. Stacks up to 5 times. Every 2 turns, gain 1 Greenleaf stack.",
-    "descSimple": "At start of battle, gain 4 Greenleaf. Gain 1 stack every 2 turns. Max 5 stacks.",
+    "desc": "At the start of battle, gain 4 <link=\"s|131\"><u>Greenleaf</u></link> stacks. Stacks up to 5 times. Every 2 actions, gain 1 Greenleaf stack.",
+    "descSimple": "At start of battle, gain 4 Greenleaf. Gain 1 stack every 2 actions. Max 5 stacks.",
     "levelUpList": "AAAAAA==",
     "levelUpValue": "AAAAAA==",
     "contentBG": "AAAAAA==",
@@ -3992,7 +3992,7 @@
   {
     "sn": "110142",
     "name": "Shift Change",
-    "desc": "The effect of Self-Renewal now grants 1 <link=\"s|131\"><u>Greenleaf</u></link> stack each turn.",
+    "desc": "The effect of Self-Renewal now grants 1 <link=\"s|131\"><u>Greenleaf</u></link> stack each action.",
     "descSimple": "AAAAAA==",
     "levelUpList": "AAAAAA==",
     "levelUpValue": "AAAAAA==",
@@ -5512,7 +5512,7 @@
   {
     "sn": "103241",
     "name": "Exciting Summer!",
-    "desc": "When <link=\"s|192\"><u>Summer Hype</u></link> is active, increase critical rate by 10% and critical damage by 25%.\nAt the start of each turn, increase Tropical Heart's healing counter by 1 and gain 1 <link=\"s|111\"><u>Blessing</u></link>.",
+    "desc": "When <link=\"s|192\"><u>Summer Hype</u></link> is active, increase critical rate by 10% and critical damage by 25%.\nOn Tropical Motoha's action, increase Tropical Heart's healing counter by 1 and gain 1 <link=\"s|111\"><u>Blessing</u></link>.",
     "descSimple": "AAAAAA==",
     "levelUpList": "AAAAAA==",
     "levelUpValue": "AAAAAA==",
@@ -7732,7 +7732,7 @@
   {
     "sn": "136140",
     "name": "Racing Game Lover",
-    "desc": "At the start of battle, Mayumi gains 90 Velocity stacks. At the end of each ally's action, gain 4 Velocity stacks (if Mayumi's Speed is over 100, gain 1 more Velocity stack for every 10 points of Speed over 100; up to 6 stacks).\nAt the start of Mayumi's turn, if Velocity is over 120 stacks, can spend Velocity to gain an extra action at the end of her current action (cooldown: 1 turn). When total Velocity stacks gained during battle reach 100/220/350 stacks, activate level 1/2/3 of Torque Boost.\nTorque Boost: Increase party's pierce rate by 5%/10%/15%.",
+    "desc": "At the start of battle, Mayumi gains 90 Velocity stacks. At the end of each action by an ally, gain 4 Velocity stacks (if Mayumi's Speed is over 100, gain 1 more Velocity stack for every 10 points of Speed over 100; up to 6 stacks).\nAt the start of Mayumi's turn, if Velocity is over 120 stacks, can spend Velocity to gain an extra action at the end of her current action (cooldown: 1 turn). When total Velocity stacks gained during battle reach 100/220/350 stacks, activate level 1/2/3 of Torque Boost.\nTorque Boost: Increase party's pierce rate by 5%/10%/15%.",
     "descSimple": "tnxotb-[Skill_descSimple_136140]",
     "levelUpList": "AAAAAA==",
     "levelUpValue": "AAAAAA==",
@@ -7742,7 +7742,7 @@
   {
     "sn": "136141",
     "name": "Tire Change",
-    "desc": "At the end of each ally's action, gain 10 more Velocity stacks.\nOn an extra action, when using a skill different from the one used immediately before, activate the following additional effects.\nShockwave: When activating a skill, increase critical damage by 50%.\nAero Setup: Increase shield by 30%. Also, increase party's Defense by 30% more.\nPower Setup: Increase main target's pierce rate by 10% more.",
+    "desc": "At the end of each action by an ally, gain 10 more Velocity stacks.\nOn an extra action, when using a skill different from the one used immediately before, activate the following additional effects.\nShockwave: When activating a skill, increase critical damage by 50%.\nAero Setup: Increase shield by 30%. Also, increase party's Defense by 30% more.\nPower Setup: Increase main target's pierce rate by 10% more.",
     "descSimple": "AAAAAA==",
     "levelUpList": "AAAAAA==",
     "levelUpValue": "AAAAAA==",
@@ -7821,6 +7821,406 @@
   },
   {
     "sn": "136161",
+    "name": "Ranged Attack",
+    "desc": "Deal Gun damage to 1 foe. Can fire until out of ammo.",
+    "descSimple": "AAAAAA==",
+    "levelUpList": "Ranged Dmg",
+    "levelUpValue": "6.7%,13.3%,20.0%,26.7%,33.3%,40.0%,46.7%,51.3%,56.0%,59.3%,62.7%,66.0%,69.3%,72.7%",
+    "contentBG": "AAAAAA==",
+    "skillTag": "AAAAAA=="
+  },
+  {
+    "sn": "138102",
+    "name": "Andante",
+    "desc": "tnxct-[Skill_desc_138102]",
+    "descSimple": "AAAAAA==",
+    "levelUpList": "AAAAAA==",
+    "levelUpValue": "AAAAAA==",
+    "contentBG": "AAAAAA==",
+    "skillTag": "AAAAAA=="
+  },
+  {
+    "sn": "138103",
+    "name": "Allegro",
+    "desc": "tnxct-[Skill_desc_138103]",
+    "descSimple": "AAAAAA==",
+    "levelUpList": "AAAAAA==",
+    "levelUpValue": "AAAAAA==",
+    "contentBG": "AAAAAA==",
+    "skillTag": "AAAAAA=="
+  },
+  {
+    "sn": "138104",
+    "name": "Fortissimo",
+    "desc": "tnxct-[Skill_desc_138104]",
+    "descSimple": "AAAAAA==",
+    "levelUpList": "AAAAAA==",
+    "levelUpValue": "AAAAAA==",
+    "contentBG": "AAAAAA==",
+    "skillTag": "AAAAAA=="
+  },
+  {
+    "sn": "138105",
+    "name": "Vibrato",
+    "desc": "tnxct-[Skill_desc_138105]",
+    "descSimple": "AAAAAA==",
+    "levelUpList": "AAAAAA==",
+    "levelUpValue": "AAAAAA==",
+    "contentBG": "AAAAAA==",
+    "skillTag": "AAAAAA=="
+  },
+  {
+    "sn": "138106",
+    "name": "Symphonia",
+    "desc": "tnxct-[Skill_desc_138106]",
+    "descSimple": "AAAAAA==",
+    "levelUpList": "AAAAAA==",
+    "levelUpValue": "AAAAAA==",
+    "contentBG": "AAAAAA==",
+    "skillTag": "AAAAAA=="
+  },
+  {
+    "sn": "138107",
+    "name": "Molto Vivace",
+    "desc": "tnxct-[Skill_desc_138107]",
+    "descSimple": "AAAAAA==",
+    "levelUpList": "AAAAAA==",
+    "levelUpValue": "AAAAAA==",
+    "contentBG": "AAAAAA==",
+    "skillTag": "AAAAAA=="
+  },
+  {
+    "sn": "138108",
+    "name": "Con Anima",
+    "desc": "tnxct-[Skill_desc_138108]",
+    "descSimple": "AAAAAA==",
+    "levelUpList": "AAAAAA==",
+    "levelUpValue": "AAAAAA==",
+    "contentBG": "AAAAAA==",
+    "skillTag": "AAAAAA=="
+  },
+  {
+    "sn": "138111",
+    "name": "Winged Canon",
+    "desc": "Increase party's damage by <color=#FFFC40>^%s^</color> for 2 turns (for every 164 points of Manaka's Attack, increase by 1% more, up to a maximum of <color=#FFFC40>^%s^</color>).\nAlso, gain 4 <link=\"s|235\"><u>Musical Note</u></link> stacks.\nCooldown Time: 4 ally actions",
+    "descSimple": "Increase party's dmg %s + bonus 1% per 164 of Manaka's Atk (max bonus %s, 2 turns).\nAlso, gain 4 Musical Note.",
+    "levelUpList": "Dmg Increase, Extra Dmg Increase Cap",
+    "levelUpValue": "AAAAAA==",
+    "contentBG": "A melodic voice, ringing from the skies above, increasing all allies' damage dealt.",
+    "skillTag": "Buff"
+  },
+  {
+    "sn": "138112",
+    "name": "Prayer Refrain",
+    "desc": "Restore HP to party equal to <color=#FFFC40>^%s^</color> of Manaka's Attack + <color=#FFFC40>^%s^</color>, and remove 1 debuff.\nWhen Manaka has <link=\"s|235\"><u>Musical Note</u></link>, spend 1 Musical Note stack, and reduce skill cooldown by 1 action. (this effect can reduce cooldowns by up to 4 actions).\nIf this skill is selected and used, increase healing by 50%.\nCooldown Time: 8 ally actions\nAutomatic Effect: For every 12 Musical Note stacks gained during battle, activate this skill's healing effect 1 time.",
+    "descSimple": "Restore HP to party (%s of Manaka's Atk + %s), and remove 1 debuff.\nWith Musical Note, spend 1 Musical Note, and reduce skill cooldown by 1 action (up to 4 actions).\nIf this skill is selected and used, increase healing 50%.\nAutomatic Effect: For every 12 Musical Note gained during battle, activate this skill's healing effect 1 time.",
+    "levelUpList": "Healing Multiplier,Base Healing",
+    "levelUpValue": "AAAAAA==",
+    "contentBG": "A beautiful hymn, cast towards the heavens, healing all allies.",
+    "skillTag": "Healing"
+  },
+  {
+    "sn": "138116",
+    "name": "Prayer Refrain",
+    "desc": "AAAAAA==",
+    "descSimple": "AAAAAA==",
+    "levelUpList": "AAAAAA==",
+    "levelUpValue": "AAAAAA==",
+    "contentBG": "AAAAAA==",
+    "skillTag": "Buff"
+  },
+  {
+    "sn": "138113",
+    "name": "Melody of Steps",
+    "desc": "Increase party's Attack by 11% of Manaka's Attack + <color=#FFFC40>^%s^</color> for 2 turns.\nSpend all <link=\"s|235\"><u>Musical Note</u></link> stacks, and for each stack spent, increase party's pierce rate by 0.1% for every 460 points of Manaka's Attack, and increase party's Attack by 0.1% for every 460 points of Manaka's Attack. Lasts for 2 turns.\nThis skill applies up to <color=#FFFC40>^%s^</color> of Manaka's Attack.\nCooldown Time: 4 ally actions",
+    "descSimple": "Increase party's Attack (11% of Manaka's Atk + %s, 2 turns).\nSpend all Musical Note, and per stack spent, increase party's pierce rate 0.1% per 460 of Manaka's Atk, and increase party's Atk 0.1% per 460 of Manaka's Atk (2 turns).\nApplies up to %s of Manaka's Atk.",
+    "levelUpList": "Atk Increase,Atk Increase Cap",
+    "levelUpValue": "AAAAAA==",
+    "contentBG": "A confident chorus, sung with the will to push forward, increasing all allies' Attack.",
+    "skillTag": "Buff"
+  },
+  {
+    "sn": "138114",
+    "name": "Da Capo",
+    "desc": "Remove 1 debuff effect from 1 ally. At the end of the target's next action, grant a special additional action. When in this state, the target's HP, SP, buff/debuff effects, and skill cooldowns are reset to their state at the start of the previous action.",
+    "descSimple": "Remove 1 debuff effect from 1 ally. At the end of the target's next action, grant a special additional action. When in this state, the target's HP, SP, buff/debuff effects, and skill cooldowns are reset to their state at the start of the previous action.",
+    "levelUpList": "AAAAAA==",
+    "levelUpValue": "AAAAAA==",
+    "contentBG": "AAAAAA==",
+    "skillTag": "Support"
+  },
+  {
+    "sn": "138115",
+    "name": "tnxct-[Skill_name_138115]",
+    "desc": "tnxct-[Skill_desc_138115]",
+    "descSimple": "AAAAAA==",
+    "levelUpList": "AAAAAA==",
+    "levelUpValue": "AAAAAA==",
+    "contentBG": "AAAAAA==",
+    "skillTag": "AAAAAA=="
+  },
+  {
+    "sn": "138131",
+    "name": "Crescendo",
+    "desc": "Increase Attack of allies with <link=\"s|239\"><u>Da Capo</u></link> by <color=#FFFC40>^%s^</color>.",
+    "descSimple": "AAAAAA==",
+    "levelUpList": "AAAAAA==",
+    "levelUpValue": "AAAAAA==",
+    "contentBG": "AAAAAA==",
+    "skillTag": "Talent"
+  },
+  {
+    "sn": "138132",
+    "name": "Heavenly Voice",
+    "desc": "Based on the total number of <link=\"s|235\"><u>Musical Note</u></link> stacks gained, increase party's pierce rate by <color=#FFFC40>^%s^</color> for each stack. Counts up to 12 stacks.",
+    "descSimple": "AAAAAA==",
+    "levelUpList": "AAAAAA==",
+    "levelUpValue": "AAAAAA==",
+    "contentBG": "AAAAAA==",
+    "skillTag": "Talent"
+  },
+  {
+    "sn": "138140",
+    "name": "Andante",
+    "desc": "On each ally's action, gain 1 <link=\"s|235\"><u>Musical Note</u></link> stack, up to a maximum of 12 stacks.\nBefore any ally's action, Manaka can activate Da Capo (the initial use count in each battle is 1). After activating Da Capo, when Wonder takes 7 actions other than additional actions, restore the use count by 1 (this effect activates only 1 time per battle).\nDa Capo: Remove 1 debuff effect from 1 ally. At the end of the target's next action, grant a special additional action. When in this state, the target's HP, SP, buff/debuff effects, and skill cooldowns are reset to their state at the start of the previous action.",
+    "descSimple": "AAAAAA==",
+    "levelUpList": "AAAAAA==",
+    "levelUpValue": "AAAAAA==",
+    "contentBG": "AAAAAA==",
+    "skillTag": "AAAAAA=="
+  },
+  {
+    "sn": "138141",
+    "name": "Allegro",
+    "desc": "At the start of battle, gain the maximum number of <link=\"s|235\"><u>Musical Note</u></link> stacks, and reduce the first cooldown time by 4 actions.\nAlso, when using Melody of Steps, also increase party's critical rate by 12% for 2 turns.",
+    "descSimple": "AAAAAA==",
+    "levelUpList": "AAAAAA==",
+    "levelUpValue": "AAAAAA==",
+    "contentBG": "AAAAAA==",
+    "skillTag": "AAAAAA=="
+  },
+  {
+    "sn": "138142",
+    "name": "Fortissimo",
+    "desc": "Increase <link=\"s|236\"><u>final damage amplification</u></link> of allies with extra actions from <link=\"s|239\"><u>Da Capo</u></link> by 12%.\nWhen an ally is KO'd, restore their HP equal to 20% of Manaka's Attack + 2000. This effect can be activated once per battle.",
+    "descSimple": "AAAAAA==",
+    "levelUpList": "AAAAAA==",
+    "levelUpValue": "AAAAAA==",
+    "contentBG": "AAAAAA==",
+    "skillTag": "AAAAAA=="
+  },
+  {
+    "sn": "138143",
+    "name": "Vibrato",
+    "desc": "Increase the skill levels of Prayer Refrain and Melody of Steps by 3.",
+    "descSimple": "AAAAAA==",
+    "levelUpList": "AAAAAA==",
+    "levelUpValue": "AAAAAA==",
+    "contentBG": "AAAAAA==",
+    "skillTag": "AAAAAA=="
+  },
+  {
+    "sn": "138144",
+    "name": "Symphonia",
+    "desc": "At the start of battle, or when an ally activates a Highlight, gain 2 <link=\"s|235\"><u>Musical Note</u></link> stacks. Stacks gained from this effect can exceed the maximum limit up to 2 times.",
+    "descSimple": "AAAAAA==",
+    "levelUpList": "AAAAAA==",
+    "levelUpValue": "AAAAAA==",
+    "contentBG": "AAAAAA==",
+    "skillTag": "AAAAAA=="
+  },
+  {
+    "sn": "138145",
+    "name": "Molto Vivace",
+    "desc": "Increase the skill level of Winged Canon by 3.",
+    "descSimple": "AAAAAA==",
+    "levelUpList": "AAAAAA==",
+    "levelUpValue": "AAAAAA==",
+    "contentBG": "AAAAAA==",
+    "skillTag": "AAAAAA=="
+  },
+  {
+    "sn": "138146",
+    "name": "Con Anima",
+    "desc": "Increase the initial use count of <link=\"s|239\"><u>Da Capo</u></link> by 1.",
+    "descSimple": "AAAAAA==",
+    "levelUpList": "AAAAAA==",
+    "levelUpValue": "AAAAAA==",
+    "contentBG": "AAAAAA==",
+    "skillTag": "AAAAAA=="
+  },
+  {
+    "sn": "138151",
+    "name": "Stats Up",
+    "desc": "Increase party's stats by 20% of Manaka's stats.",
+    "descSimple": "AAAAAA==",
+    "levelUpList": "AAAAAA==",
+    "levelUpValue": "AAAAAA==",
+    "contentBG": "AAAAAA==",
+    "skillTag": "AAAAAA=="
+  },
+  {
+    "sn": "122101",
+    "name": "Melee Attack",
+    "desc": "Deal Physical damage to 1 foe.",
+    "descSimple": "AAAAAA==",
+    "levelUpList": "Melee Dmg",
+    "levelUpValue": "6.7%,13.3%,20.0%,26.7%,33.3%,40.0%,46.7%,51.3%,56.0%,59.3%,62.7%,66.0%,69.3%,72.7%",
+    "contentBG": "AAAAAA==",
+    "skillTag": "AAAAAA=="
+  },
+  {
+    "sn": "122111",
+    "name": "Followspot",
+    "desc": "Deal Bless damage to 1 foe equal to <color=#FFFC40>^%s^</color> of Attack.\nAlso, grant 2 <link=\"s|111\"><u>Blessing</u></link> stacks to all allies, and for 2 turns, increase damage by 0.8% for every 100 points of Shoki's Attack (up to a maximum of <color=#FFFC40>^%s^</color>).",
+    "descSimple": "Bless dmg to 1 foe (%s Atk).\nAlso, grant 2 Blessing to all allies, and increase dmg 0.8% per 100 of Shoki's Attack (max %s, 2 turns).",
+    "levelUpList": "Skill Multiplier,Dmg Increase Cap",
+    "levelUpValue": "AAAAAA==",
+    "contentBG": "A blinding beam of light shines like a spear, dealing Bless damage to a single enemy.",
+    "skillTag": "Single-Target"
+  },
+  {
+    "sn": "122112",
+    "name": "Adlib",
+    "desc": "Increase Defense of 1 ally except Shoki by 0.83% for every 100 points of Shoki's Attack (up to a maximum of <color=#FFFC40>^%s^</color>), and nullify Dizzy, Sleep, Confuse, and Forget. Lasts for 2 turns.\nCooldown: 2 turns.",
+    "descSimple": "Increase Def of 1 ally except Shoki 0.83% per 100 of Shoki's Atk (max %s) and null Dizzy, Sleep, Confuse, and Forget (2 turns).\nCooldown: 2 turns.",
+    "levelUpList": "Def Increase Cap",
+    "levelUpValue": "AAAAAA==",
+    "contentBG": "An ad-libbed performance helps your costars respond to any situation, strengthening their Defense.",
+    "skillTag": "Buff"
+  },
+  {
+    "sn": "122113",
+    "name": "Improvise",
+    "desc": "Increase party's Attack by 15% of Shoki's Attack (up to a maximum of <color=#FFFC40>^%s^</color>) for 2 turns.\nAlso, based on Shoki's Improv state, grant the following additional effect to the main target.\nBlazing Passion: Increase the main target's continuous damage effect by <color=#FFFC40>^%s^</color>, and increase ailment accuracy by 30% for 2 turns.\nChilling Intensity: Increase the main target's Technical Precision by <color=#FFFC40>^%s^</color> for 2 turns. Also, when activating a technical, increase Attack by 20%.\nElectrifying Performance: Increase the main target's critical damage by <color=#FFFC40>^%s^</color> for 2 turns.\nTempestuous Drama: Increase the main target's pierce rate by <color=#FFFC40>^%s^</color> for 2 turns.",
+    "descSimple": "Increase party's Atk (15% of Shoki's Atk, max %s, 2 turns).\nAlso, based on Improv, grant additional effect to main target.\nBlazing Passion: Increase main target's continuous dmg %s, and increase ailment accuracy 30% (2 turns).\nChilling Intensity: Increase main target's Technical Precision %s. Also, when activating technical, increase Atk 20% (2 turns).\nElectrifying Performance: Increase main target's crit dmg %s (2 turns).\nTempestuous Drama: Increase main target's pierce rate %s (2 turns).",
+    "levelUpList": "Atk Increase Cap,Cont Dmg Increase,Technical Precision Increase,Crit Dmg Increase,Pierce Rate Increase",
+    "levelUpValue": "AAAAAA==",
+    "contentBG": "Play off your allies' actions to create the most fitting response, raising the whole team's Attack.",
+    "skillTag": "Buff"
+  },
+  {
+    "sn": "122114",
+    "name": "Improv",
+    "desc": "Change Shoki's Improv state.",
+    "descSimple": "AAAAAA==",
+    "levelUpList": "Skill Multiplier",
+    "levelUpValue": "AAAAAA==",
+    "contentBG": "AAAAAA==",
+    "skillTag": "AAAAAA=="
+  },
+  {
+    "sn": "122131",
+    "name": "Supporting Role",
+    "desc": "When allies gain a <link=\"s|111\"><u>Blessing</u></link>, increase damage by 5% for each Blessing stack (up to a maximum of <color=#FFFC40>^%s^</color>).",
+    "descSimple": "AAAAAA==",
+    "levelUpList": "AAAAAA==",
+    "levelUpValue": "AAAAAA==",
+    "contentBG": "AAAAAA==",
+    "skillTag": "Talent"
+  },
+  {
+    "sn": "122132",
+    "name": "Method Acting",
+    "desc": "Increase Attack by 0.72% for every 1% of Shoki's ailment accuracy (up to a maximum of <color=#FFFC40>^%s^</color>).",
+    "descSimple": "AAAAAA==",
+    "levelUpList": "AAAAAA==",
+    "levelUpValue": "AAAAAA==",
+    "contentBG": "AAAAAA==",
+    "skillTag": "Talent"
+  },
+  {
+    "sn": "122140",
+    "name": "High School Heartthrob",
+    "desc": "Shoki has 4 types of Improv states: Blazing Passion, Chilling Intensity, Electrifying Performance, and Tempestuous Drama. During battle, he can switch between states at the start of each turn.\nWhen dealing damage with a skill, there is a 75% chance to inflict all foes with an elemental ailment based on his current Improv state (Burn, Freeze, Shock, or Windswept).",
+    "descSimple": "tnxotb-[Skill_descSimple_122140]",
+    "levelUpList": "AAAAAA==",
+    "levelUpValue": "AAAAAA==",
+    "contentBG": "AAAAAA==",
+    "skillTag": "AAAAAA=="
+  },
+  {
+    "sn": "122141",
+    "name": "In the Limelight",
+    "desc": "When using a skill on an ally, for each <link=\"s|111\"><u>Blessing</u></link> stack on the target, increase the target's damage dealt by 3% (up to a maximum of 15%) for 2 turns.",
+    "descSimple": "AAAAAA==",
+    "levelUpList": "AAAAAA==",
+    "levelUpValue": "AAAAAA==",
+    "contentBG": "AAAAAA==",
+    "skillTag": "AAAAAA=="
+  },
+  {
+    "sn": "122142",
+    "name": "Flawless Performance",
+    "desc": "When using Adlib, also grant an additional effect: When the target next takes skill damage, decrease their final damage taken by 35% for 1 turn.",
+    "descSimple": "AAAAAA==",
+    "levelUpList": "AAAAAA==",
+    "levelUpValue": "AAAAAA==",
+    "contentBG": "AAAAAA==",
+    "skillTag": "AAAAAA=="
+  },
+  {
+    "sn": "122143",
+    "name": "Heroic Climax",
+    "desc": "Increase the skill levels of Followspot and Adlib by 2.",
+    "descSimple": "AAAAAA==",
+    "levelUpList": "AAAAAA==",
+    "levelUpValue": "AAAAAA==",
+    "contentBG": "AAAAAA==",
+    "skillTag": "AAAAAA=="
+  },
+  {
+    "sn": "122144",
+    "name": "Standing Ovation",
+    "desc": "Highlight Enhanced: Increase the main target's Attack by 10% for 2 turns, and grant 2 more <link=\"s|111\"><u>Blessing</u></link> stacks to all allies.",
+    "descSimple": "AAAAAA==",
+    "levelUpList": "AAAAAA==",
+    "levelUpValue": "AAAAAA==",
+    "contentBG": "AAAAAA==",
+    "skillTag": "AAAAAA=="
+  },
+  {
+    "sn": "122145",
+    "name": "Flowers on the Stage",
+    "desc": "Increase the skill levels of Improvise and Thief Tactics by 2.",
+    "descSimple": "AAAAAA==",
+    "levelUpList": "AAAAAA==",
+    "levelUpValue": "AAAAAA==",
+    "contentBG": "AAAAAA==",
+    "skillTag": "AAAAAA=="
+  },
+  {
+    "sn": "122146",
+    "name": "Bright Future",
+    "desc": "When the additional effects of Improvise are activated based on Improv state, extend the duration of the additional effects to 4 turns.",
+    "descSimple": "AAAAAA==",
+    "levelUpList": "AAAAAA==",
+    "levelUpValue": "AAAAAA==",
+    "contentBG": "AAAAAA==",
+    "skillTag": "AAAAAA=="
+  },
+  {
+    "sn": "122151",
+    "name": "1 MORE",
+    "desc": "Deal Bless damage to 1 foe.",
+    "descSimple": "AAAAAA==",
+    "levelUpList": "1 More Dmg",
+    "levelUpValue": "6.7%,13.3%,20.0%,26.7%,33.3%,40.0%,46.7%,51.3%,56.0%,59.3%,62.7%,66.0%,69.3%,72.7%",
+    "contentBG": "AAAAAA==",
+    "skillTag": "AAAAAA=="
+  },
+  {
+    "sn": "122152",
+    "name": "Highlight",
+    "desc": "Increase party's Attack by 6.5% of Shoki's Attack (up to a maximum of <color=#FFFC40>^%s^</color>), and increase ailment resistance by <color=#FFFC40>^%s^</color> for 2 turns.\nAlso, grant 1 <link=\"s|111\"><u>Blessing</u></link> stack.",
+    "descSimple": "Increase party's Atk (6.5% of Shoki's Atk, max %s), and increase ailment resistance %s (2 turns).\nAlso, grant 1 Blessing.",
+    "levelUpList": "Highlight Atk Increase Cap,Highlight Ailment Accuracy Cap",
+    "levelUpValue": "AAAAAA==",
+    "contentBG": "AAAAAA==",
+    "skillTag": "AAAAAA=="
+  },
+  {
+    "sn": "122161",
     "name": "Ranged Attack",
     "desc": "Deal Gun damage to 1 foe. Can fire until out of ammo.",
     "descSimple": "AAAAAA==",
@@ -7992,7 +8392,7 @@
   {
     "sn": "146141",
     "name": "Strict Tolerance",
-    "desc": "At the start of battle, depending on the selected Personas, gain 2 types of <link=\"s|273\"><u>Facade</u></link>.\nAt the start or end of Justine & Caroline's turn, if they have 2 types of Facade, automatically activate Two Masks as One on a random target 1 time (prioritizing the target of the previous skill attack used).",
+    "desc": "At the start of battle, depending on the selected Personas, gain 2 types of <link=\"s|273\"><u>Facade</u></link>.\nAt the start of Justine & Caroline's turn or end of their action, if they have 2 types of Facade, automatically activate Two Masks as One on a random target 1 time (prioritizing the target of the previous skill attack used).",
     "descSimple": "AAAAAA==",
     "levelUpList": "AAAAAA==",
     "levelUpValue": "AAAAAA==",
@@ -8042,7 +8442,7 @@
   {
     "sn": "146146",
     "name": "Power to Resist Ruin",
-    "desc": "When this Awareness is unlocked, during battle, increase Wonder's skill and Thief Tactics levels by 1 (takes effect even when Justine & Caroline are not in battle). Also, increase <link=\"s|271\"><u>Desire Level</u></link> by 20%.\nAt the start of battle, gain True Desire. Afterwards, regain True Desire every 8 turns if it has been spent.\nDuring Justine & Caroline's turn, they can spend 1 True Desire stack to enhance the next activated Two Masks as One.\nEnhanced effect: Activate all <link=\"s|273\"><u>Facade</u></link> effects for Two Masks as One. Also, deal bonus damage to the main target equal to 40% of Attack (8 hits. Increase this skill's effect by 1% for every 1 point of Desire Level. These bonus hits deal 1 hit of Fire, Ice, Electric, Wind, Psychokinesis, Nuclear, Bless, and Curse damage each.)",
+    "desc": "When this Awareness is unlocked, during battle, increase Wonder's skill and Thief Tactics levels by 1 (takes effect even when Justine & Caroline are not in battle). Also, increase <link=\"s|271\"><u>Desire Level</u></link> by 20%.\nAt the start of battle, gain True Desire. Afterwards, regain True Desire every 8 actions if it has been spent.\nAt the start of Justine & Caroline's turn, they can spend 1 True Desire stack to enhance the next activated Two Masks as One.\nEnhanced effect: Activate all <link=\"s|273\"><u>Facade</u></link> effects for Two Masks as One. Also, deal bonus damage to the main target equal to 40% of Attack (8 hits. Increase this skill's effect by 1% for every 1 point of Desire Level. These bonus hits deal 1 hit of Fire, Ice, Electric, Wind, Psychokinesis, Nuclear, Bless, and Curse damage each.)",
     "descSimple": "AAAAAA==",
     "levelUpList": "AAAAAA==",
     "levelUpValue": "AAAAAA==",
@@ -16138,6 +16538,16 @@
     "levelUpValue": "AAAAAA==",
     "contentBG": "AAAAAA==",
     "skillTag": "Debuff"
+  },
+  {
+    "sn": "9261",
+    "name": "Universal Theoria",
+    "desc": "Increase party's Attack by <color=#fffc40>^%s^</color>, and also increase the main target's damage by <color=#fffc40>^%s^</color> for 2 turns.",
+    "descSimple": "Increase party's Atk %s, and also increase main target's dmg %s (2 turns).",
+    "levelUpList": "AAAAAA==",
+    "levelUpValue": "AAAAAA==",
+    "contentBG": "AAAAAA==",
+    "skillTag": "Buff"
   },
   {
     "sn": "8441",
@@ -28950,10 +29360,80 @@
     "skillTag": "Multi-Target"
   },
   {
+    "sn": "82006",
+    "name": "Taunt",
+    "desc": "High chance to inflict Rage on 1 foe for 1 turn.",
+    "descSimple": "AAAAAA==",
+    "levelUpList": "AAAAAA==",
+    "levelUpValue": "AAAAAA==",
+    "contentBG": "AAAAAA==",
+    "skillTag": "Control"
+  },
+  {
+    "sn": "82007",
+    "name": "Taunt",
+    "desc": "High chance to inflict Rage on 2 foes for 1 turn.",
+    "descSimple": "AAAAAA==",
+    "levelUpList": "AAAAAA==",
+    "levelUpValue": "AAAAAA==",
+    "contentBG": "AAAAAA==",
+    "skillTag": "Control"
+  },
+  {
+    "sn": "82008",
+    "name": "Rending Fangs",
+    "desc": "Deal medium Physical damage and inflict Deep Wounds to all foes.\nDeep Wounds: For 3 turns, foes will have reduced defense and lose HP each turn.",
+    "descSimple": "AAAAAA==",
+    "levelUpList": "AAAAAA==",
+    "levelUpValue": "AAAAAA==",
+    "contentBG": "AAAAAA==",
+    "skillTag": "Multi-Target"
+  },
+  {
+    "sn": "82009",
+    "name": "Shock to the Soul",
+    "desc": "Deal set amount of damage based on current HP to all foes.",
+    "descSimple": "AAAAAA==",
+    "levelUpList": "AAAAAA==",
+    "levelUpValue": "AAAAAA==",
+    "contentBG": "AAAAAA==",
+    "skillTag": "Multi-Target"
+  },
+  {
+    "sn": "82010",
+    "name": "Abyssal Gaze",
+    "desc": "Deal set amount of damage based on current HP to all foes. Also, inflict <link=\"s|155\"><u>Despair</u></link> for 3 turns.",
+    "descSimple": "AAAAAA==",
+    "levelUpList": "AAAAAA==",
+    "levelUpValue": "AAAAAA==",
+    "contentBG": "AAAAAA==",
+    "skillTag": "Multi-Target"
+  },
+  {
     "sn": "82011",
     "name": "Double Fangs",
     "desc": "Deal Physical damage to 1 foe equal to <color=#fffc40>^%s^%</color> of Attack (2 hits).",
     "descSimple": "Phys dmg to 1 foe (%s% Atk, 2 hits).",
+    "levelUpList": "Dmg Increase",
+    "levelUpValue": "AAAAAA==",
+    "contentBG": "AAAAAA==",
+    "skillTag": "Single-Target"
+  },
+  {
+    "sn": "82012",
+    "name": "Taunt",
+    "desc": "High chance to inflict Rage on 1 foe for 1 turn.",
+    "descSimple": "AAAAAA==",
+    "levelUpList": "AAAAAA==",
+    "levelUpValue": "AAAAAA==",
+    "contentBG": "AAAAAA==",
+    "skillTag": "Control"
+  },
+  {
+    "sn": "82013",
+    "name": "Dispersion",
+    "desc": "AAAAAA==",
+    "descSimple": "AAAAAA==",
     "levelUpList": "Dmg Increase",
     "levelUpValue": "AAAAAA==",
     "contentBG": "AAAAAA==",
@@ -28978,6 +29458,76 @@
     "levelUpValue": "AAAAAA==",
     "contentBG": "AAAAAA==",
     "skillTag": "Control"
+  },
+  {
+    "sn": "82016",
+    "name": "Shadow Reversal",
+    "desc": "Inflict Shadow Reversal on all foes for 2 turns.",
+    "descSimple": "AAAAAA==",
+    "levelUpList": "AAAAAA==",
+    "levelUpValue": "AAAAAA==",
+    "contentBG": "AAAAAA==",
+    "skillTag": "Debuff"
+  },
+  {
+    "sn": "82017",
+    "name": "Spirit Away",
+    "desc": "Change all of the target's affinities to Null for 1 turn.",
+    "descSimple": "AAAAAA==",
+    "levelUpList": "AAAAAA==",
+    "levelUpValue": "AAAAAA==",
+    "contentBG": "AAAAAA==",
+    "skillTag": "Buff"
+  },
+  {
+    "sn": "82019",
+    "name": "Spirit Leech",
+    "desc": "Drain a set amount of SP from 1 foe.",
+    "descSimple": "AAAAAA==",
+    "levelUpList": "SP Drain",
+    "levelUpValue": "AAAAAA==",
+    "contentBG": "AAAAAA==",
+    "skillTag": "Special"
+  },
+  {
+    "sn": "82020",
+    "name": "Forbidden Incantation",
+    "desc": "Deal Curse damage to all foes. Increase damage based on how low the target's SP is. Also, inflict 1 <link=\"s|112\"><u>Curse</u></link> stack.",
+    "descSimple": "Curse dmg to all foes (%s Atk). Also, inflict 1 Curse.",
+    "levelUpList": "Dmg Increase",
+    "levelUpValue": "AAAAAA==",
+    "contentBG": "AAAAAA==",
+    "skillTag": "Multi-Target"
+  },
+  {
+    "sn": "82021",
+    "name": "Lullaby",
+    "desc": "<color=#fffc40>^%s^%</color> chance to inflict <link=\"s|109\"><u>Sleep</u></link> on all foes for 2 turns.",
+    "descSimple": "%s% chance to inflict Sleep on all foes (2 turns).",
+    "levelUpList": "Accuracy",
+    "levelUpValue": "AAAAAA==",
+    "contentBG": "AAAAAA==",
+    "skillTag": "Control"
+  },
+  {
+    "sn": "82022",
+    "name": "Spirit Drain",
+    "desc": "Drain ^%s^ SP from all foes.",
+    "descSimple": "AAAAAA==",
+    "levelUpList": "SP Drain",
+    "levelUpValue": "AAAAAA==",
+    "contentBG": "AAAAAA==",
+    "skillTag": "Special"
+  },
+  {
+    "sn": "82023",
+    "name": "Dream Eater",
+    "desc": "Deal Almighty damage to foes, and inflict Sleep. Also, heal allies.",
+    "descSimple": "AAAAAA==",
+    "levelUpList": "Dmg Increase",
+    "levelUpValue": "AAAAAA==",
+    "contentBG": "AAAAAA==",
+    "skillTag": "Special"
   },
   {
     "sn": "6335",
@@ -29038,6 +29588,36 @@
     "levelUpValue": "AAAAAA==",
     "contentBG": "AAAAAA==",
     "skillTag": "Shield"
+  },
+  {
+    "sn": "82025",
+    "name": "Azure Brand",
+    "desc": "For 2 turns, each time a foe takes an action, inflict an HP decrease effect.",
+    "descSimple": "AAAAAA==",
+    "levelUpList": "AAAAAA==",
+    "levelUpValue": "AAAAAA==",
+    "contentBG": "AAAAAA==",
+    "skillTag": "Debuff"
+  },
+  {
+    "sn": "82026",
+    "name": "Seraph's Gift",
+    "desc": "Randomly grant 1 of the following buffs to an ally: Restore HP every turn, nullify damage 1 time, or change affinities to Resist.",
+    "descSimple": "AAAAAA==",
+    "levelUpList": "AAAAAA==",
+    "levelUpValue": "AAAAAA==",
+    "contentBG": "AAAAAA==",
+    "skillTag": "Buff"
+  },
+  {
+    "sn": "82027",
+    "name": "Hellscorched",
+    "desc": "Inflict Hellscorched on 2 random foes.",
+    "descSimple": "AAAAAA==",
+    "levelUpList": "AAAAAA==",
+    "levelUpValue": "AAAAAA==",
+    "contentBG": "AAAAAA==",
+    "skillTag": "Debuff"
   },
   {
     "sn": "8001",
@@ -29138,6 +29718,16 @@
     "levelUpValue": "AAAAAA==",
     "contentBG": "AAAAAA==",
     "skillTag": "Passive,Single-Target"
+  },
+  {
+    "sn": "84010",
+    "name": "Garu",
+    "desc": "Deal Wind damage to 1 foe equal to <color=#fffc40>^%s^%</color> of Attack. <color=#fffc40>^%s^%</color> chance to inflict <link=\"s|105\"><u>Windswept</u></link> for 2 turns.",
+    "descSimple": "Wind dmg to 1 foe (%s% of Atk). %s% chance to inflict Windswept (2 turns).",
+    "levelUpList": "Damage Up",
+    "levelUpValue": "AAAAAA==",
+    "contentBG": "AAAAAA==",
+    "skillTag": "Single-Target"
   },
   {
     "sn": "2001",
@@ -36830,6 +37420,96 @@
     "skillTag": "Multi-Target"
   },
   {
+    "sn": "3608",
+    "name": "Mobilization Order",
+    "desc": "Light Psychokinesis damage to all foes. Summon Shadows.",
+    "descSimple": "AAAAAA==",
+    "levelUpList": "AAAAAA==",
+    "levelUpValue": "AAAAAA==",
+    "contentBG": "AAAAAA==",
+    "skillTag": "Multi-Target"
+  },
+  {
+    "sn": "3609",
+    "name": "Thousand-Faced Curse",
+    "desc": "Deal Psychokinesis damage to 1 foe, with a chance to inflict Sleep.",
+    "descSimple": "AAAAAA==",
+    "levelUpList": "AAAAAA==",
+    "levelUpValue": "AAAAAA==",
+    "contentBG": "AAAAAA==",
+    "skillTag": "Single-Target"
+  },
+  {
+    "sn": "3610",
+    "name": "Generous Favor",
+    "desc": "Increase party's Attack for 2 turns.",
+    "descSimple": "AAAAAA==",
+    "levelUpList": "AAAAAA==",
+    "levelUpValue": "AAAAAA==",
+    "contentBG": "AAAAAA==",
+    "skillTag": "Buff"
+  },
+  {
+    "sn": "3611",
+    "name": "Queen's Decree",
+    "desc": "Deal heavy Psychokinesis damage to all foes. Increase party's damage for 2 turns.",
+    "descSimple": "AAAAAA==",
+    "levelUpList": "AAAAAA==",
+    "levelUpValue": "AAAAAA==",
+    "contentBG": "AAAAAA==",
+    "skillTag": "Multi-Target"
+  },
+  {
+    "sn": "3613",
+    "name": "Diarama",
+    "desc": "Restore a set amount of HP to the ally with the lowest HP.",
+    "descSimple": "AAAAAA==",
+    "levelUpList": "AAAAAA==",
+    "levelUpValue": "AAAAAA==",
+    "contentBG": "AAAAAA==",
+    "skillTag": "Single-Heal"
+  },
+  {
+    "sn": "3614",
+    "name": "Marakukaja",
+    "desc": "Increase party's Defense for 2 turns.",
+    "descSimple": "AAAAAA==",
+    "levelUpList": "AAAAAA==",
+    "levelUpValue": "AAAAAA==",
+    "contentBG": "AAAAAA==",
+    "skillTag": "Buff"
+  },
+  {
+    "sn": "3615",
+    "name": "Power Slash",
+    "desc": "Deal Physical damage to 1 foe. Attack will prioritize marked foes.",
+    "descSimple": "AAAAAA==",
+    "levelUpList": "AAAAAA==",
+    "levelUpValue": "AAAAAA==",
+    "contentBG": "AAAAAA==",
+    "skillTag": "Single-Target"
+  },
+  {
+    "sn": "3616",
+    "name": "Evil Eye's Gaze",
+    "desc": "Mark 1 foe. Inflict Dizzy for 2 turns when the target takes damage.",
+    "descSimple": "AAAAAA==",
+    "levelUpList": "AAAAAA==",
+    "levelUpValue": "AAAAAA==",
+    "contentBG": "AAAAAA==",
+    "skillTag": "Buff"
+  },
+  {
+    "sn": "3617",
+    "name": "Sledgehammer",
+    "desc": "Deal Physical damage to 1 foe. Attack will prioritize marked foes.",
+    "descSimple": "AAAAAA==",
+    "levelUpList": "AAAAAA==",
+    "levelUpValue": "AAAAAA==",
+    "contentBG": "AAAAAA==",
+    "skillTag": "Single-Target"
+  },
+  {
     "sn": "3674",
     "name": "Michael's Stronghold",
     "desc": "Grant shield to party, and decrease final damage taken by 5% for 2 turns.",
@@ -38860,6 +39540,46 @@
     "skillTag": "AAAAAA=="
   },
   {
+    "sn": "5421",
+    "name": "Prudence",
+    "desc": "Decrease Speed by <color=%s>3</color>, but increase Attack by <color=%s>18%</color>.",
+    "descSimple": "AAAAAA==",
+    "levelUpList": "AAAAAA==",
+    "levelUpValue": "AAAAAA==",
+    "contentBG": "AAAAAA==",
+    "skillTag": "AAAAAA=="
+  },
+  {
+    "sn": "5422",
+    "name": "Prudence",
+    "desc": "Increase damage by 16%.",
+    "descSimple": "AAAAAA==",
+    "levelUpList": "AAAAAA==",
+    "levelUpValue": "AAAAAA==",
+    "contentBG": "AAAAAA==",
+    "skillTag": "AAAAAA=="
+  },
+  {
+    "sn": "5431",
+    "name": "Ruin",
+    "desc": "Increase Attack by <color=%s>12%</color>.",
+    "descSimple": "AAAAAA==",
+    "levelUpList": "AAAAAA==",
+    "levelUpValue": "AAAAAA==",
+    "contentBG": "AAAAAA==",
+    "skillTag": "AAAAAA=="
+  },
+  {
+    "sn": "5432",
+    "name": "Ruin",
+    "desc": "Increase Attack by <color=%s>25%</color> for 3 turns. After using a Theurgy, gain the same effect again.",
+    "descSimple": "AAAAAA==",
+    "levelUpList": "AAAAAA==",
+    "levelUpValue": "AAAAAA==",
+    "contentBG": "AAAAAA==",
+    "skillTag": "AAAAAA=="
+  },
+  {
     "sn": "5701",
     "name": "Meditation & Opulence",
     "desc": "When activating a Resonance, increase critical damage by <color=%s>50%</color>.",
@@ -39213,6 +39933,46 @@
     "sn": "5736",
     "name": "Freedom & Disappointment",
     "desc": "When dealing Almighty damage, increase Attack by <color=%s>35%</color> and critical rate by <color=%s>12%</color>.",
+    "descSimple": "AAAAAA==",
+    "levelUpList": "AAAAAA==",
+    "levelUpValue": "AAAAAA==",
+    "contentBG": "AAAAAA==",
+    "skillTag": "AAAAAA=="
+  },
+  {
+    "sn": "5737",
+    "name": "Hope & Labor",
+    "desc": "When equipped by an Elucidator Phantom Thief: When granting buffs to allies with a skill, increase the main target's pierce rate by <color=%s>5%</color> for 1 turn.",
+    "descSimple": "AAAAAA==",
+    "levelUpList": "AAAAAA==",
+    "levelUpValue": "AAAAAA==",
+    "contentBG": "AAAAAA==",
+    "skillTag": "AAAAAA=="
+  },
+  {
+    "sn": "5738",
+    "name": "Resolve & Prudence",
+    "desc": "At the start of battle, if the user is the 3rd/4th ally in the turn order, increase Attack by 24%/30%.",
+    "descSimple": "AAAAAA==",
+    "levelUpList": "AAAAAA==",
+    "levelUpValue": "AAAAAA==",
+    "contentBG": "AAAAAA==",
+    "skillTag": "AAAAAA=="
+  },
+  {
+    "sn": "5739",
+    "name": "Hope & Ruin",
+    "desc": "Each time damage is dealt with a skill, increase the user's Fire damage by 3%. This effect lasts 3 turns and stacks up to 8 times. When at 8 stacks, also increase user's critical rate by 6%.",
+    "descSimple": "AAAAAA==",
+    "levelUpList": "AAAAAA==",
+    "levelUpValue": "AAAAAA==",
+    "contentBG": "AAAAAA==",
+    "skillTag": "AAAAAA=="
+  },
+  {
+    "sn": "5740",
+    "name": "Integrity & Ruin",
+    "desc": "After using a Theurgy, increase party's damage by 10% for 3 turns.",
     "descSimple": "AAAAAA==",
     "levelUpList": "AAAAAA==",
     "levelUpValue": "AAAAAA==",
@@ -42410,6 +43170,16 @@
     "skillTag": "AAAAAA=="
   },
   {
+    "sn": "59051",
+    "name": "Infestation",
+    "desc": "Increase ailment accuracy by <color=#2899FF>^%s^</color>, and increase the user's chance of inflicting elemental or spiritual ailments on foes by <color=#2899FF>^%s^</color>.\nAlso, when a foe is inflicted with any elemental or spiritual ailment, also inflict Infestation, and increase the target's damage taken by <color=#2899FF>^%s^</color> for 3 turns.\nWhen a foe with Infestation is present, increase ailment accuracy by <color=#2899FF>^%s^</color> and Attack by <color=#2899FF>^%s^</color>.",
+    "descSimple": "AAAAAA==",
+    "levelUpList": "AAAAAA==",
+    "levelUpValue": "AAAAAA==",
+    "contentBG": "AAAAAA==",
+    "skillTag": "AAAAAA=="
+  },
+  {
     "sn": "51051",
     "name": "Symphonic Illusion",
     "desc": "AAAAAA==",
@@ -43213,6 +43983,96 @@
     "sn": "53651",
     "name": "The Spear of Triumph",
     "desc": "Increase Speed by <color=#2899FF>^%s^</color>. When Mayumi's Speed is over 100, for every 10 points of Speed above 100, increase Attack by <color=#2899FF>^%s^</color> (up to a maximum of <color=#2899FF>^%s^</color>).\nAfter activating a skill, for every 40 stacks of total Velocity, increase party's damage by <color=#2899FF>^%s^</color> for 2 turns (up to a maximum of <color=#2899FF>^%s^</color>).",
+    "descSimple": "AAAAAA==",
+    "levelUpList": "AAAAAA==",
+    "levelUpValue": "AAAAAA==",
+    "contentBG": "AAAAAA==",
+    "skillTag": "AAAAAA=="
+  },
+  {
+    "sn": "52221",
+    "name": "Applause",
+    "desc": "Increase Attack by <color=#2899FF>^%s^</color>.",
+    "descSimple": "AAAAAA==",
+    "levelUpList": "AAAAAA==",
+    "levelUpValue": "AAAAAA==",
+    "contentBG": "AAAAAA==",
+    "skillTag": "AAAAAA=="
+  },
+  {
+    "sn": "52231",
+    "name": "Thunderous Applause",
+    "desc": "When Shoki inflicts an elemental ailment, increase Bless damage by <color=#2899FF>^%s^</color> for 2 turns.",
+    "descSimple": "AAAAAA==",
+    "levelUpList": "AAAAAA==",
+    "levelUpValue": "AAAAAA==",
+    "contentBG": "AAAAAA==",
+    "skillTag": "AAAAAA=="
+  },
+  {
+    "sn": "52241",
+    "name": "Rave Review",
+    "desc": "Increase Attack by <color=#2899FF>^%s^</color>. When Shoki grants <link=\"s|111\"><u>Blessing</u></link> stacks, increase his Attack by <color=#2899FF>^%s^</color> and ailment accuracy by <color=#2899FF>^%s^</color> for 2 turns. Stacks up to 3 times.",
+    "descSimple": "AAAAAA==",
+    "levelUpList": "AAAAAA==",
+    "levelUpValue": "AAAAAA==",
+    "contentBG": "AAAAAA==",
+    "skillTag": "AAAAAA=="
+  },
+  {
+    "sn": "52251",
+    "name": "Limelight",
+    "desc": "Increase Attack by <color=#2899FF>^%s^</color>.\nWhen using a skill on an ally, if the target has <link=\"s|111\"><u>Blessing</u></link> stacks, increase damage by <color=#2899FF>^%s^</color> for 2 turns.\nEach time Followspot or Improvise is activated with a different Improv state, permanently increase Shoki's Attack by <color=#2899FF>^%s^</color>. This effect stacks up to 3 times. Also, allies besides Shoki gain 50% of this effect.",
+    "descSimple": "AAAAAA==",
+    "levelUpList": "AAAAAA==",
+    "levelUpValue": "AAAAAA==",
+    "contentBG": "AAAAAA==",
+    "skillTag": "AAAAAA=="
+  },
+  {
+    "sn": "52261",
+    "name": "Curtain Call",
+    "desc": "Increase Attack by <color=#2899FF>^%s^</color>.\nWhen using a skill on an ally, increase Shoki's ailment accuracy by <color=#2899FF>^%s^</color> and grant 60% of this effect to all allies besides Shoki for 2 turns.",
+    "descSimple": "AAAAAA==",
+    "levelUpList": "AAAAAA==",
+    "levelUpValue": "AAAAAA==",
+    "contentBG": "AAAAAA==",
+    "skillTag": "AAAAAA=="
+  },
+  {
+    "sn": "53821",
+    "name": "Compression",
+    "desc": "Increase Attack by <color=#2899FF>^%s^</color>.",
+    "descSimple": "AAAAAA==",
+    "levelUpList": "AAAAAA==",
+    "levelUpValue": "AAAAAA==",
+    "contentBG": "AAAAAA==",
+    "skillTag": "AAAAAA=="
+  },
+  {
+    "sn": "53831",
+    "name": "Harmonize",
+    "desc": "At the start of battle, gain 2 <link=\"s|235\"><u>Musical Note</u></link> stacks. <color=#2899FF>^%s^</color> chance to gain 2 more stacks.",
+    "descSimple": "AAAAAA==",
+    "levelUpList": "AAAAAA==",
+    "levelUpValue": "AAAAAA==",
+    "contentBG": "AAAAAA==",
+    "skillTag": "AAAAAA=="
+  },
+  {
+    "sn": "53841",
+    "name": "Equalizing",
+    "desc": "Increase Attack by <color=#2899FF>^%s^</color>.\nAfter using a skill, permanently increase Manaka's Attack by <color=#2899FF>^%s^</color>. Stacks up to 2 times.",
+    "descSimple": "AAAAAA==",
+    "levelUpList": "AAAAAA==",
+    "levelUpValue": "AAAAAA==",
+    "contentBG": "AAAAAA==",
+    "skillTag": "AAAAAA=="
+  },
+  {
+    "sn": "53851",
+    "name": "Maximize",
+    "desc": "Increase Attack by <color=#2899FF>^%s^</color>.\nFor each <link=\"s|235\"><u>Musical Note</u></link> gained, grant 1 Angelic Chorus stack to all allies.\nAngelic Chorus: Permanently increase damage by <color=#2899FF>^%s^</color>. Stacks up to 12 times. At 12 stacks, increase critical damage by <color=#2899FF>^%s^</color>.",
     "descSimple": "AAAAAA==",
     "levelUpList": "AAAAAA==",
     "levelUpValue": "AAAAAA==",
@@ -45978,6 +46838,16 @@
     "levelUpValue": "AAAAAA==",
     "contentBG": "AAAAAA==",
     "skillTag": "AAAAAA=="
+  },
+  {
+    "sn": "3612",
+    "name": "AAAAAA==",
+    "desc": "AAAAAA==",
+    "descSimple": "AAAAAA==",
+    "levelUpList": "AAAAAA==",
+    "levelUpValue": "AAAAAA==",
+    "contentBG": "AAAAAA==",
+    "skillTag": "Buff"
   },
   {
     "sn": "3461",

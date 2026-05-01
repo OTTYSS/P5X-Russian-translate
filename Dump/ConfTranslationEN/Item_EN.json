@@ -295,9 +295,9 @@
   },
   {
     "sn": "43",
-    "name": "[NB][IT][043]",
+    "name": "Fragment of Pride",
     "typeName": "Apocryphal Seal",
-    "tips": "Unlocks chapters of Phantom Thief Memories.",
+    "tips": "Obtainable from Shimotsuna's Palace. Use to view Memories.",
     "contentBG": "<color=#ffffff>  </color>"
   },
   {
@@ -826,6 +826,20 @@
     "contentBG": "AAAAAA=="
   },
   {
+    "sn": "1058",
+    "name": "Radiant Lily",
+    "typeName": "Event Currency",
+    "tips": "Obtainable by playing The Masks We Wear: Phase 1. Can be exchanged for rewards.",
+    "contentBG": "<color=#ffffff>  </color>"
+  },
+  {
+    "sn": "1059",
+    "name": "Shining Badge",
+    "typeName": "Commemorative Coin",
+    "tips": "Can be exchanged for 100 Konpaku Gems.",
+    "contentBG": "<color=#ffffff>  </color>"
+  },
+  {
     "sn": "1060",
     "name": "Special Effect",
     "typeName": "Event Item",
@@ -834,7 +848,7 @@
   },
   {
     "sn": "1061",
-    "name": "Anniversary Countdown Ticket",
+    "name": "Special Exchange Ticket",
     "typeName": "Event Currency",
     "tips": "Obtainable from Anniversary Countdown. Can be exchanged for various items at the Exchange Shop.",
     "contentBG": "AAAAAA=="
@@ -880,6 +894,20 @@
     "typeName": "Commemorative Item",
     "tips": "Coins obtained from Crossroads of Fate: Twins Arc can be exchanged for 100 Konpaku Gems.",
     "contentBG": "<color=#ffffff>  </color>"
+  },
+  {
+    "sn": "1132",
+    "name": "Lucky Ticket",
+    "typeName": "Event Currency",
+    "tips": "For use in Marthym's Lucky 5. Can be used when selecting a number.",
+    "contentBG": "AAAAAA=="
+  },
+  {
+    "sn": "1133",
+    "name": "Lucky Ticket",
+    "typeName": "Commemorative Item",
+    "tips": "The item has expired.",
+    "contentBG": "AAAAAA=="
   },
   {
     "sn": "10000",
@@ -1661,6 +1689,13 @@
   {
     "sn": "100413",
     "name": "5★ Phantom Thief Chance 4",
+    "typeName": "Gift Set",
+    "tips": "Can be used to draw and obtain one Phantom Thief from certain Phantom Thieves.",
+    "contentBG": "AAAAAA=="
+  },
+  {
+    "sn": "100414",
+    "name": "5★ Phantom Idol Contract 6",
     "typeName": "Gift Set",
     "tips": "Can be used to draw and obtain one Phantom Thief from certain Phantom Thieves.",
     "contentBG": "AAAAAA=="
@@ -2479,17 +2514,115 @@
   },
   {
     "sn": "190105",
-    "name": "5★ Phantom Thief Select Ticket",
+    "name": "Gift 5★ Thief Select Ticket",
     "typeName": "Gift Set",
     "tips": "Can be used to select and obtain one Phantom Thief from certain Phantom Thieves.",
     "contentBG": "<color=#ffffff>  </color>"
   },
   {
     "sn": "190106",
-    "name": "3 Anniversary Countdown Tickets",
+    "name": "Special Exchange Ticket x3",
     "typeName": "Event Currency",
     "tips": "Obtainable from Anniversary Countdown. Can be exchanged for various items at the Exchange Shop.",
     "contentBG": "AAAAAA=="
+  },
+  {
+    "sn": "190107",
+    "name": "Limited 4★ Weapon Case",
+    "typeName": "Gift Set",
+    "tips": "Can be used to select and obtain one weapon from certain weapons.",
+    "contentBG": "<color=#ffffff>  </color>"
+  },
+  {
+    "sn": "190108",
+    "name": "Mysterious Weapon Kit",
+    "typeName": "Weapon",
+    "tips": "Mystery Phantom Thief-only weapon.",
+    "contentBG": "<color=#ffffff>  </color>"
+  },
+  {
+    "sn": "190109",
+    "name": "Butler Suit",
+    "typeName": "Outfit",
+    "tips": "Changes Wonder's appearance to his Lunar New Year outfit.\nCan be obtained by purchasing the Lunar New Year Wonder Set in the Shop.",
+    "contentBG": "<color=#ffffff>  </color>"
+  },
+  {
+    "sn": "190110",
+    "name": "Reward 5★ Weapon Case 2",
+    "typeName": "Gift Set",
+    "tips": "Can be used to select and obtain one weapon from certain weapons.",
+    "contentBG": "<color=#ffffff>  </color>"
+  },
+  {
+    "sn": "190111",
+    "name": "Wishing Gift: Mindscape",
+    "typeName": "Gift Set",
+    "tips": "Can be used to obtain Venus Bottle x16 and Venus Gem x4.",
+    "contentBG": "<color=#ffffff>  </color>"
+  },
+  {
+    "sn": "190112",
+    "name": "Wishing Gift: Flow of Time",
+    "typeName": "Gift Set",
+    "tips": "Can be used to obtain Vicissitude Ink x1 and Retrograde Card x5.",
+    "contentBG": "<color=#ffffff>  </color>"
+  },
+  {
+    "sn": "190113",
+    "name": "Wishing Gift: Revelation",
+    "typeName": "Gift Set",
+    "tips": "Can be used to obtain Cosmic Echo x3 and Cosmic Phrase x12.",
+    "contentBG": "<color=#ffffff>  </color>"
+  },
+  {
+    "sn": "190114",
+    "name": "Wishing Gift: Unlock",
+    "typeName": "Gift Set",
+    "tips": "Can be used to obtain Rainbow Liberty Medal x400 and Echoes of Fate x800.",
+    "contentBG": "<color=#ffffff>  </color>"
+  },
+  {
+    "sn": "190115",
+    "name": "Cake Base",
+    "typeName": "Event Item",
+    "tips": "A cute-looking cake box.",
+    "contentBG": "<color=#ffffff>  </color>"
+  },
+  {
+    "sn": "190116",
+    "name": "Cake Decoration",
+    "typeName": "Event Item",
+    "tips": "A cute-looking cake box.",
+    "contentBG": "<color=#ffffff>  </color>"
+  },
+  {
+    "sn": "190117",
+    "name": "Decoration I",
+    "typeName": "Event Item",
+    "tips": "A cute-looking cake box.",
+    "contentBG": "<color=#ffffff>  </color>"
+  },
+  {
+    "sn": "190118",
+    "name": "Candles",
+    "typeName": "Event Item",
+    "tips": "A cute-looking cake box.",
+    "contentBG": "<color=#ffffff>  </color>"
+  },
+  {
+    "sn": "190119",
+    "name": "Decoration II",
+    "typeName": "Event Item",
+    "tips": "A cute-looking cake box.",
+    "contentBG": "<color=#ffffff>  </color>"
+  },
+  {
+    "sn": "190120",
+    "name": "5★ Phantom Idol Select Ticket",
+    "typeName": "Gift Set",
+    "tips": "Can be used to draw and obtain one Phantom Thief from certain Phantom Thieves.",
+    "contentBG": "<color=#ffffff>  </color>"
   },
   {
     "sn": "190142",
@@ -2865,84 +2998,84 @@
   {
     "sn": "190214",
     "name": "Eternal Love: Ichigo",
-    "typeName": "Preview",
+    "typeName": "Commemorative Item",
     "tips": "Gift from Ichigo",
     "contentBG": "<color=#ffffff>  </color>"
   },
   {
     "sn": "190215",
     "name": "Eternal Love: Minami",
-    "typeName": "Preview",
+    "typeName": "Commemorative Item",
     "tips": "Gift from Minami",
     "contentBG": "<color=#ffffff>  </color>"
   },
   {
     "sn": "190216",
     "name": "Eternal Love: Kumi",
-    "typeName": "Preview",
+    "typeName": "Commemorative Item",
     "tips": "Gift from Katayama",
     "contentBG": "<color=#ffffff>  </color>"
   },
   {
     "sn": "190217",
     "name": "Eternal Love: Musubi",
-    "typeName": "Preview",
+    "typeName": "Commemorative Item",
     "tips": "Gift from Musubi",
     "contentBG": "<color=#ffffff>  </color>"
   },
   {
     "sn": "190218",
     "name": "Eternal Love: Ikenami",
-    "typeName": "Preview",
+    "typeName": "Commemorative Item",
     "tips": "Gift from Shoki",
     "contentBG": "<color=#ffffff>  </color>"
   },
   {
     "sn": "190219",
     "name": "Eternal Love: Nashimoto",
-    "typeName": "Preview",
+    "typeName": "Commemorative Item",
     "tips": "Gift from Narumi",
     "contentBG": "<color=#ffffff>  </color>"
   },
   {
     "sn": "190220",
     "name": "Eternal Love: Ichigo",
-    "typeName": "Preview",
+    "typeName": "Commemorative Item",
     "tips": "Gift from Ichigo",
     "contentBG": "<color=#ffffff>  </color>"
   },
   {
     "sn": "190221",
     "name": "Eternal Love: Minami",
-    "typeName": "Preview",
+    "typeName": "Commemorative Item",
     "tips": "Gift from Minami",
     "contentBG": "<color=#ffffff>  </color>"
   },
   {
     "sn": "190222",
     "name": "Eternal Love: Kumi",
-    "typeName": "Preview",
+    "typeName": "Commemorative Item",
     "tips": "Gift from Katayama",
     "contentBG": "<color=#ffffff>  </color>"
   },
   {
     "sn": "190223",
     "name": "Eternal Love: Musubi",
-    "typeName": "Preview",
+    "typeName": "Commemorative Item",
     "tips": "Gift from Musubi",
     "contentBG": "<color=#ffffff>  </color>"
   },
   {
     "sn": "190224",
     "name": "Eternal Love: Ikenami",
-    "typeName": "Preview",
+    "typeName": "Commemorative Item",
     "tips": "Gift from Shoki",
     "contentBG": "<color=#ffffff>  </color>"
   },
   {
     "sn": "190225",
     "name": "Eternal Love: Nashimoto",
-    "typeName": "Preview",
+    "typeName": "Commemorative Item",
     "tips": "Gift from Narumi",
     "contentBG": "<color=#ffffff>  </color>"
   },
@@ -3014,6 +3147,27 @@
     "name": "Special 5★ Thief Select Ticket",
     "typeName": "Gift Set",
     "tips": "Can be used to select and obtain one Phantom Thief from certain Phantom Thieves.",
+    "contentBG": "<color=#ffffff>  </color>"
+  },
+  {
+    "sn": "190289",
+    "name": "Mysterious Weapon Kit",
+    "typeName": "Weapon",
+    "tips": "Mystery Phantom Thief-only weapon.",
+    "contentBG": "AAAAAA=="
+  },
+  {
+    "sn": "190290",
+    "name": "Gift 5★ Weapons Select Ticket",
+    "typeName": "Gift Set",
+    "tips": "Can be used to select and obtain one weapon from certain weapons.",
+    "contentBG": "<color=#ffffff>  </color>"
+  },
+  {
+    "sn": "200114",
+    "name": "Pheromone Sting",
+    "typeName": "Dagger",
+    "tips": "Wonder-only melee weapon.",
     "contentBG": "<color=#ffffff>  </color>"
   },
   {
@@ -3703,6 +3857,41 @@
     "contentBG": "<color=#ffffff>  </color>"
   },
   {
+    "sn": "212201",
+    "name": "Palcoscenico",
+    "typeName": "AAAAAA==",
+    "tips": "Shoki-only melee weapon.",
+    "contentBG": "<color=#ffffff>  </color>"
+  },
+  {
+    "sn": "212202",
+    "name": "Primattore",
+    "typeName": "AAAAAA==",
+    "tips": "Shoki-only melee weapon.",
+    "contentBG": "<color=#ffffff>  </color>"
+  },
+  {
+    "sn": "212203",
+    "name": "Mattatóre",
+    "typeName": "AAAAAA==",
+    "tips": "Shoki-only melee weapon.",
+    "contentBG": "<color=#ffffff>  </color>"
+  },
+  {
+    "sn": "212204",
+    "name": "Ribalta",
+    "typeName": "AAAAAA==",
+    "tips": "Shoki-only melee weapon.",
+    "contentBG": "<color=#ffffff>  </color>"
+  },
+  {
+    "sn": "212205",
+    "name": "Sipario",
+    "typeName": "AAAAAA==",
+    "tips": "Shoki-only melee weapon.",
+    "contentBG": "<color=#ffffff>  </color>"
+  },
+  {
     "sn": "212301",
     "name": "Medkit",
     "typeName": "Medkit",
@@ -4093,6 +4282,118 @@
     "typeName": "AAAAAA==",
     "tips": "Mio-only melee weapon.",
     "contentBG": "<color=#ffffff>  </color>"
+  },
+  {
+    "sn": "213801",
+    "name": "Vocal Mic",
+    "typeName": "AAAAAA==",
+    "tips": "Manaka-only melee weapon.",
+    "contentBG": "<color=#ffffff>  </color>"
+  },
+  {
+    "sn": "213802",
+    "name": "Stage Mic",
+    "typeName": "AAAAAA==",
+    "tips": "Manaka-only melee weapon.",
+    "contentBG": "<color=#ffffff>  </color>"
+  },
+  {
+    "sn": "213803",
+    "name": "Divine Muse",
+    "typeName": "AAAAAA==",
+    "tips": "Manaka-only melee weapon.",
+    "contentBG": "<color=#ffffff>  </color>"
+  },
+  {
+    "sn": "213804",
+    "name": "Angel's Hymn",
+    "typeName": "AAAAAA==",
+    "tips": "Manaka-only melee weapon.",
+    "contentBG": "<color=#ffffff>  </color>"
+  },
+  {
+    "sn": "213901",
+    "name": "SEES Sword",
+    "typeName": "AAAAAA==",
+    "tips": "Makoto-only melee weapon.",
+    "contentBG": "Makoto-only melee weapon."
+  },
+  {
+    "sn": "213902",
+    "name": "Shishiou",
+    "typeName": "AAAAAA==",
+    "tips": "Makoto-only melee weapon.",
+    "contentBG": "Makoto-only melee weapon."
+  },
+  {
+    "sn": "213903",
+    "name": "Translucent Blade",
+    "typeName": "AAAAAA==",
+    "tips": "Makoto-only melee weapon.",
+    "contentBG": "Makoto-only melee weapon."
+  },
+  {
+    "sn": "213904",
+    "name": "Deus Xiphos",
+    "typeName": "AAAAAA==",
+    "tips": "Makoto-only melee weapon.",
+    "contentBG": "Makoto-only melee weapon."
+  },
+  {
+    "sn": "214001",
+    "name": "AAAAAA==",
+    "typeName": "AAAAAA==",
+    "tips": "Yukari-only melee weapon.",
+    "contentBG": "Yukari-only melee weapon."
+  },
+  {
+    "sn": "214002",
+    "name": "Magic Bow",
+    "typeName": "AAAAAA==",
+    "tips": "Yukari-only melee weapon.",
+    "contentBG": "Yukari-only melee weapon."
+  },
+  {
+    "sn": "214003",
+    "name": "Kishin Bow",
+    "typeName": "AAAAAA==",
+    "tips": "Yukari-only melee weapon.",
+    "contentBG": "Yukari-only melee weapon."
+  },
+  {
+    "sn": "214004",
+    "name": "Sarnga",
+    "typeName": "AAAAAA==",
+    "tips": "Yukari-only melee weapon.",
+    "contentBG": "Yukari-only melee weapon."
+  },
+  {
+    "sn": "214101",
+    "name": "AAAAAA==",
+    "typeName": "AAAAAA==",
+    "tips": "Akihiko-only melee weapon.",
+    "contentBG": "Akihiko-only melee weapon."
+  },
+  {
+    "sn": "214102",
+    "name": "AAAAAA==",
+    "typeName": "AAAAAA==",
+    "tips": "Akihiko-only melee weapon.",
+    "contentBG": "Akihiko-only melee weapon."
+  },
+  {
+    "sn": "214103",
+    "name": "AAAAAA==",
+    "typeName": "AAAAAA==",
+    "tips": "Akihiko-only melee weapon.",
+    "contentBG": "Akihiko-only melee weapon."
+  },
+  {
+    "sn": "214104",
+    "name": "AAAAAA==",
+    "typeName": "AAAAAA==",
+    "tips": "Akihiko-only melee weapon.",
+    "contentBG": "Akihiko-only melee weapon."
   },
   {
     "sn": "214601",
@@ -6839,6 +7140,454 @@
     "contentBG": "<color=#ffffff>  </color>"
   },
   {
+    "sn": "222521",
+    "name": "Abundance: Sun",
+    "typeName": "Revelation",
+    "tips": "A revelation card symbolizing abundance. Equipping it grants various effects.",
+    "contentBG": "<color=#ffffff>  </color>"
+  },
+  {
+    "sn": "222522",
+    "name": "Abundance: Moon",
+    "typeName": "Revelation",
+    "tips": "A revelation card symbolizing abundance. Equipping it grants various effects.",
+    "contentBG": "<color=#ffffff>  </color>"
+  },
+  {
+    "sn": "222523",
+    "name": "Abundance: Star",
+    "typeName": "Revelation",
+    "tips": "A revelation card symbolizing abundance. Equipping it grants various effects.",
+    "contentBG": "<color=#ffffff>  </color>"
+  },
+  {
+    "sn": "222524",
+    "name": "Abundance: Sky",
+    "typeName": "Revelation",
+    "tips": "A revelation card symbolizing abundance. Equipping it grants various effects.",
+    "contentBG": "<color=#ffffff>  </color>"
+  },
+  {
+    "sn": "222531",
+    "name": "Abundance: Sun",
+    "typeName": "Revelation",
+    "tips": "A revelation card symbolizing abundance. Equipping it grants various effects.",
+    "contentBG": "<color=#ffffff>  </color>"
+  },
+  {
+    "sn": "222532",
+    "name": "Abundance: Moon",
+    "typeName": "Revelation",
+    "tips": "A revelation card symbolizing abundance. Equipping it grants various effects.",
+    "contentBG": "<color=#ffffff>  </color>"
+  },
+  {
+    "sn": "222533",
+    "name": "Abundance: Star",
+    "typeName": "Revelation",
+    "tips": "A revelation card symbolizing abundance. Equipping it grants various effects.",
+    "contentBG": "<color=#ffffff>  </color>"
+  },
+  {
+    "sn": "222534",
+    "name": "Abundance: Sky",
+    "typeName": "Revelation",
+    "tips": "A revelation card symbolizing abundance. Equipping it grants various effects.",
+    "contentBG": "<color=#ffffff>  </color>"
+  },
+  {
+    "sn": "222541",
+    "name": "Abundance: Sun",
+    "typeName": "Revelation",
+    "tips": "A revelation card symbolizing abundance. Equipping it grants various effects.",
+    "contentBG": "<color=#ffffff>  </color>"
+  },
+  {
+    "sn": "222542",
+    "name": "Abundance: Moon",
+    "typeName": "Revelation",
+    "tips": "A revelation card symbolizing abundance. Equipping it grants various effects.",
+    "contentBG": "<color=#ffffff>  </color>"
+  },
+  {
+    "sn": "222543",
+    "name": "Abundance: Star",
+    "typeName": "Revelation",
+    "tips": "A revelation card symbolizing abundance. Equipping it grants various effects.",
+    "contentBG": "<color=#ffffff>  </color>"
+  },
+  {
+    "sn": "222544",
+    "name": "Abundance: Sky",
+    "typeName": "Revelation",
+    "tips": "A revelation card symbolizing abundance. Equipping it grants various effects.",
+    "contentBG": "<color=#ffffff>  </color>"
+  },
+  {
+    "sn": "222551",
+    "name": "Abundance: Sun",
+    "typeName": "Revelation",
+    "tips": "A revelation card symbolizing abundance. Equipping it grants various effects.",
+    "contentBG": "<color=#ffffff>  </color>"
+  },
+  {
+    "sn": "222552",
+    "name": "Abundance: Moon",
+    "typeName": "Revelation",
+    "tips": "A revelation card symbolizing abundance. Equipping it grants various effects.",
+    "contentBG": "<color=#ffffff>  </color>"
+  },
+  {
+    "sn": "222553",
+    "name": "Abundance: Star",
+    "typeName": "Revelation",
+    "tips": "A revelation card symbolizing abundance. Equipping it grants various effects.",
+    "contentBG": "<color=#ffffff>  </color>"
+  },
+  {
+    "sn": "222554",
+    "name": "Abundance: Sky",
+    "typeName": "Revelation",
+    "tips": "A revelation card symbolizing abundance. Equipping it grants various effects.",
+    "contentBG": "<color=#ffffff>  </color>"
+  },
+  {
+    "sn": "222621",
+    "name": "Prudence: Sun",
+    "typeName": "Revelation",
+    "tips": "A revelation card symbolizing prudence. Equipping it grants various effects.",
+    "contentBG": "<color=#ffffff>  </color>"
+  },
+  {
+    "sn": "222622",
+    "name": "Prudence: Moon",
+    "typeName": "Revelation",
+    "tips": "A revelation card symbolizing prudence. Equipping it grants various effects.",
+    "contentBG": "<color=#ffffff>  </color>"
+  },
+  {
+    "sn": "222623",
+    "name": "Prudence: Star",
+    "typeName": "Revelation",
+    "tips": "A revelation card symbolizing prudence. Equipping it grants various effects.",
+    "contentBG": "<color=#ffffff>  </color>"
+  },
+  {
+    "sn": "222624",
+    "name": "Prudence: Sky",
+    "typeName": "Revelation",
+    "tips": "A revelation card symbolizing prudence. Equipping it grants various effects.",
+    "contentBG": "<color=#ffffff>  </color>"
+  },
+  {
+    "sn": "222631",
+    "name": "Prudence: Sun",
+    "typeName": "Revelation",
+    "tips": "A revelation card symbolizing prudence. Equipping it grants various effects.",
+    "contentBG": "<color=#ffffff>  </color>"
+  },
+  {
+    "sn": "222632",
+    "name": "Prudence: Moon",
+    "typeName": "Revelation",
+    "tips": "A revelation card symbolizing prudence. Equipping it grants various effects.",
+    "contentBG": "<color=#ffffff>  </color>"
+  },
+  {
+    "sn": "222633",
+    "name": "Prudence: Star",
+    "typeName": "Revelation",
+    "tips": "A revelation card symbolizing prudence. Equipping it grants various effects.",
+    "contentBG": "<color=#ffffff>  </color>"
+  },
+  {
+    "sn": "222634",
+    "name": "Prudence: Sky",
+    "typeName": "Revelation",
+    "tips": "A revelation card symbolizing prudence. Equipping it grants various effects.",
+    "contentBG": "<color=#ffffff>  </color>"
+  },
+  {
+    "sn": "222641",
+    "name": "Prudence: Sun",
+    "typeName": "Revelation",
+    "tips": "A revelation card symbolizing prudence. Equipping it grants various effects.",
+    "contentBG": "<color=#ffffff>  </color>"
+  },
+  {
+    "sn": "222642",
+    "name": "Prudence: Moon",
+    "typeName": "Revelation",
+    "tips": "A revelation card symbolizing prudence. Equipping it grants various effects.",
+    "contentBG": "<color=#ffffff>  </color>"
+  },
+  {
+    "sn": "222643",
+    "name": "Prudence: Star",
+    "typeName": "Revelation",
+    "tips": "A revelation card symbolizing prudence. Equipping it grants various effects.",
+    "contentBG": "<color=#ffffff>  </color>"
+  },
+  {
+    "sn": "222644",
+    "name": "Prudence: Sky",
+    "typeName": "Revelation",
+    "tips": "A revelation card symbolizing prudence. Equipping it grants various effects.",
+    "contentBG": "<color=#ffffff>  </color>"
+  },
+  {
+    "sn": "222651",
+    "name": "Prudence: Sun",
+    "typeName": "Revelation",
+    "tips": "A revelation card symbolizing prudence. Equipping it grants various effects.",
+    "contentBG": "<color=#ffffff>  </color>"
+  },
+  {
+    "sn": "222652",
+    "name": "Prudence: Moon",
+    "typeName": "Revelation",
+    "tips": "A revelation card symbolizing prudence. Equipping it grants various effects.",
+    "contentBG": "<color=#ffffff>  </color>"
+  },
+  {
+    "sn": "222653",
+    "name": "Prudence: Star",
+    "typeName": "Revelation",
+    "tips": "A revelation card symbolizing prudence. Equipping it grants various effects.",
+    "contentBG": "<color=#ffffff>  </color>"
+  },
+  {
+    "sn": "222654",
+    "name": "Prudence: Sky",
+    "typeName": "Revelation",
+    "tips": "A revelation card symbolizing prudence. Equipping it grants various effects.",
+    "contentBG": "<color=#ffffff>  </color>"
+  },
+  {
+    "sn": "222721",
+    "name": "Happiness: Sun",
+    "typeName": "Revelation",
+    "tips": "A revelation card symbolizing happiness. Equipping it grants various effects.",
+    "contentBG": "<color=#ffffff>  </color>"
+  },
+  {
+    "sn": "222722",
+    "name": "Happiness: Moon",
+    "typeName": "Revelation",
+    "tips": "A revelation card symbolizing happiness. Equipping it grants various effects.",
+    "contentBG": "<color=#ffffff>  </color>"
+  },
+  {
+    "sn": "222723",
+    "name": "Happiness: Star",
+    "typeName": "Revelation",
+    "tips": "A revelation card symbolizing happiness. Equipping it grants various effects.",
+    "contentBG": "<color=#ffffff>  </color>"
+  },
+  {
+    "sn": "222724",
+    "name": "Happiness: Sky",
+    "typeName": "Revelation",
+    "tips": "A revelation card symbolizing happiness. Equipping it grants various effects.",
+    "contentBG": "<color=#ffffff>  </color>"
+  },
+  {
+    "sn": "222731",
+    "name": "Happiness: Sun",
+    "typeName": "Revelation",
+    "tips": "A revelation card symbolizing happiness. Equipping it grants various effects.",
+    "contentBG": "<color=#ffffff>  </color>"
+  },
+  {
+    "sn": "222732",
+    "name": "Happiness: Moon",
+    "typeName": "Revelation",
+    "tips": "A revelation card symbolizing happiness. Equipping it grants various effects.",
+    "contentBG": "<color=#ffffff>  </color>"
+  },
+  {
+    "sn": "222733",
+    "name": "Happiness: Star",
+    "typeName": "Revelation",
+    "tips": "A revelation card symbolizing happiness. Equipping it grants various effects.",
+    "contentBG": "<color=#ffffff>  </color>"
+  },
+  {
+    "sn": "222734",
+    "name": "Happiness: Sky",
+    "typeName": "Revelation",
+    "tips": "A revelation card symbolizing happiness. Equipping it grants various effects.",
+    "contentBG": "<color=#ffffff>  </color>"
+  },
+  {
+    "sn": "222741",
+    "name": "Happiness: Sun",
+    "typeName": "Revelation",
+    "tips": "A revelation card symbolizing happiness. Equipping it grants various effects.",
+    "contentBG": "<color=#ffffff>  </color>"
+  },
+  {
+    "sn": "222742",
+    "name": "Happiness: Moon",
+    "typeName": "Revelation",
+    "tips": "A revelation card symbolizing happiness. Equipping it grants various effects.",
+    "contentBG": "<color=#ffffff>  </color>"
+  },
+  {
+    "sn": "222743",
+    "name": "Happiness: Star",
+    "typeName": "Revelation",
+    "tips": "A revelation card symbolizing happiness. Equipping it grants various effects.",
+    "contentBG": "<color=#ffffff>  </color>"
+  },
+  {
+    "sn": "222744",
+    "name": "Happiness: Sky",
+    "typeName": "Revelation",
+    "tips": "A revelation card symbolizing happiness. Equipping it grants various effects.",
+    "contentBG": "<color=#ffffff>  </color>"
+  },
+  {
+    "sn": "222751",
+    "name": "Happiness: Sun",
+    "typeName": "Revelation",
+    "tips": "A revelation card symbolizing happiness. Equipping it grants various effects.",
+    "contentBG": "<color=#ffffff>  </color>"
+  },
+  {
+    "sn": "222752",
+    "name": "Happiness: Moon",
+    "typeName": "Revelation",
+    "tips": "A revelation card symbolizing happiness. Equipping it grants various effects.",
+    "contentBG": "<color=#ffffff>  </color>"
+  },
+  {
+    "sn": "222753",
+    "name": "Happiness: Star",
+    "typeName": "Revelation",
+    "tips": "A revelation card symbolizing happiness. Equipping it grants various effects.",
+    "contentBG": "<color=#ffffff>  </color>"
+  },
+  {
+    "sn": "222754",
+    "name": "Happiness: Sky",
+    "typeName": "Revelation",
+    "tips": "A revelation card symbolizing happiness. Equipping it grants various effects.",
+    "contentBG": "<color=#ffffff>  </color>"
+  },
+  {
+    "sn": "222821",
+    "name": "Ruin: Sun",
+    "typeName": "Revelation",
+    "tips": "A revelation card symbolizing ruin. Equipping it grants various effects.",
+    "contentBG": "<color=#ffffff>  </color>"
+  },
+  {
+    "sn": "222822",
+    "name": "Ruin: Moon",
+    "typeName": "Revelation",
+    "tips": "A revelation card symbolizing ruin. Equipping it grants various effects.",
+    "contentBG": "<color=#ffffff>  </color>"
+  },
+  {
+    "sn": "222823",
+    "name": "Ruin: Star",
+    "typeName": "Revelation",
+    "tips": "A revelation card symbolizing ruin. Equipping it grants various effects.",
+    "contentBG": "<color=#ffffff>  </color>"
+  },
+  {
+    "sn": "222824",
+    "name": "Ruin: Sky",
+    "typeName": "Revelation",
+    "tips": "A revelation card symbolizing ruin. Equipping it grants various effects.",
+    "contentBG": "<color=#ffffff>  </color>"
+  },
+  {
+    "sn": "222831",
+    "name": "Ruin: Sun",
+    "typeName": "Revelation",
+    "tips": "A revelation card symbolizing ruin. Equipping it grants various effects.",
+    "contentBG": "<color=#ffffff>  </color>"
+  },
+  {
+    "sn": "222832",
+    "name": "Ruin: Moon",
+    "typeName": "Revelation",
+    "tips": "A revelation card symbolizing ruin. Equipping it grants various effects.",
+    "contentBG": "<color=#ffffff>  </color>"
+  },
+  {
+    "sn": "222833",
+    "name": "Ruin: Star",
+    "typeName": "Revelation",
+    "tips": "A revelation card symbolizing ruin. Equipping it grants various effects.",
+    "contentBG": "<color=#ffffff>  </color>"
+  },
+  {
+    "sn": "222834",
+    "name": "Ruin: Sky",
+    "typeName": "Revelation",
+    "tips": "A revelation card symbolizing ruin. Equipping it grants various effects.",
+    "contentBG": "<color=#ffffff>  </color>"
+  },
+  {
+    "sn": "222841",
+    "name": "Ruin: Sun",
+    "typeName": "Revelation",
+    "tips": "A revelation card symbolizing ruin. Equipping it grants various effects.",
+    "contentBG": "<color=#ffffff>  </color>"
+  },
+  {
+    "sn": "222842",
+    "name": "Ruin: Moon",
+    "typeName": "Revelation",
+    "tips": "A revelation card symbolizing ruin. Equipping it grants various effects.",
+    "contentBG": "<color=#ffffff>  </color>"
+  },
+  {
+    "sn": "222843",
+    "name": "Ruin: Star",
+    "typeName": "Revelation",
+    "tips": "A revelation card symbolizing ruin. Equipping it grants various effects.",
+    "contentBG": "<color=#ffffff>  </color>"
+  },
+  {
+    "sn": "222844",
+    "name": "Ruin: Sky",
+    "typeName": "Revelation",
+    "tips": "A revelation card symbolizing ruin. Equipping it grants various effects.",
+    "contentBG": "<color=#ffffff>  </color>"
+  },
+  {
+    "sn": "222851",
+    "name": "Ruin: Sun",
+    "typeName": "Revelation",
+    "tips": "A revelation card symbolizing ruin. Equipping it grants various effects.",
+    "contentBG": "<color=#ffffff>  </color>"
+  },
+  {
+    "sn": "222852",
+    "name": "Ruin: Moon",
+    "typeName": "Revelation",
+    "tips": "A revelation card symbolizing ruin. Equipping it grants various effects.",
+    "contentBG": "<color=#ffffff>  </color>"
+  },
+  {
+    "sn": "222853",
+    "name": "Ruin: Star",
+    "typeName": "Revelation",
+    "tips": "A revelation card symbolizing ruin. Equipping it grants various effects.",
+    "contentBG": "<color=#ffffff>  </color>"
+  },
+  {
+    "sn": "222854",
+    "name": "Ruin: Sky",
+    "typeName": "Revelation",
+    "tips": "A revelation card symbolizing ruin. Equipping it grants various effects.",
+    "contentBG": "<color=#ffffff>  </color>"
+  },
+  {
     "sn": "230101",
     "name": "Creation",
     "typeName": "Revelation",
@@ -8340,28 +9089,28 @@
     "sn": "232001",
     "name": "Return",
     "typeName": "Revelation",
-    "tips": "AAAAAA==",
+    "tips": "A revelation card symbolizing return. Equipping it grants various effects.",
     "contentBG": "AAAAAA=="
   },
   {
     "sn": "232002",
     "name": "Return",
     "typeName": "Revelation",
-    "tips": "AAAAAA==",
+    "tips": "A revelation card symbolizing return. Equipping it grants various effects.",
     "contentBG": "AAAAAA=="
   },
   {
     "sn": "232003",
     "name": "Return",
     "typeName": "Revelation",
-    "tips": "AAAAAA==",
+    "tips": "A revelation card symbolizing return. Equipping it grants various effects.",
     "contentBG": "AAAAAA=="
   },
   {
     "sn": "232004",
     "name": "Return",
     "typeName": "Revelation",
-    "tips": "AAAAAA==",
+    "tips": "A revelation card symbolizing return. Equipping it grants various effects.",
     "contentBG": "AAAAAA=="
   },
   {
@@ -8369,6 +9118,34 @@
     "name": "Unknown Orange Revelation S",
     "typeName": "Revelation Card",
     "tips": "Use to receive a random Space Revelation Card of the same color.",
+    "contentBG": "<color=#ffffff>  </color>"
+  },
+  {
+    "sn": "241041",
+    "name": "Abundance - Orange",
+    "typeName": "Revelation",
+    "tips": "Grants an orange-rarity Abundance Revelation Card.",
+    "contentBG": "<color=#ffffff>  </color>"
+  },
+  {
+    "sn": "241042",
+    "name": "Prudence - Orange",
+    "typeName": "Revelation",
+    "tips": "Grants an orange-rarity Prudence Revelation Card.",
+    "contentBG": "<color=#ffffff>  </color>"
+  },
+  {
+    "sn": "241043",
+    "name": "Happiness - Orange",
+    "typeName": "Revelation",
+    "tips": "Grants an orange-rarity Happiness Revelation Card.",
+    "contentBG": "<color=#ffffff>  </color>"
+  },
+  {
+    "sn": "241044",
+    "name": "Ruin - Orange",
+    "typeName": "Revelation",
+    "tips": "Grants an orange-rarity Ruin Revelation Card.",
     "contentBG": "<color=#ffffff>  </color>"
   },
   {
@@ -8691,6 +9468,62 @@
     "name": "The Self Revelation - Blue",
     "typeName": "Revelation",
     "tips": "Grants a blue-rarity The Self Revelation Card.",
+    "contentBG": "<color=#ffffff>  </color>"
+  },
+  {
+    "sn": "241181",
+    "name": "Abundance - Purple",
+    "typeName": "Revelation",
+    "tips": "Grants a purple-rarity Abundance Revelation Card.",
+    "contentBG": "<color=#ffffff>  </color>"
+  },
+  {
+    "sn": "241182",
+    "name": "Prudence - Purple",
+    "typeName": "Revelation",
+    "tips": "Grants a purple-rarity Prudence Revelation Card.",
+    "contentBG": "<color=#ffffff>  </color>"
+  },
+  {
+    "sn": "241183",
+    "name": "Happiness - Purple",
+    "typeName": "Revelation",
+    "tips": "Grants a purple-rarity Happiness Revelation Card.",
+    "contentBG": "<color=#ffffff>  </color>"
+  },
+  {
+    "sn": "241184",
+    "name": "Ruin - Purple",
+    "typeName": "Revelation",
+    "tips": "Grants a purple-rarity Ruin Revelation Card.",
+    "contentBG": "<color=#ffffff>  </color>"
+  },
+  {
+    "sn": "241185",
+    "name": "Abundance - Blue",
+    "typeName": "Revelation",
+    "tips": "Grants a blue-rarity Abundance Revelation Card.",
+    "contentBG": "<color=#ffffff>  </color>"
+  },
+  {
+    "sn": "241186",
+    "name": "Prudence - Blue",
+    "typeName": "Revelation",
+    "tips": "Grants a blue-rarity Prudence Revelation Card.",
+    "contentBG": "<color=#ffffff>  </color>"
+  },
+  {
+    "sn": "241187",
+    "name": "Happiness - Blue",
+    "typeName": "Revelation",
+    "tips": "Grants a blue-rarity Happiness Revelation Card.",
+    "contentBG": "<color=#ffffff>  </color>"
+  },
+  {
+    "sn": "241188",
+    "name": "Ruin - Blue",
+    "typeName": "Revelation",
+    "tips": "Grants a blue-rarity Ruin Revelation Card.",
     "contentBG": "<color=#ffffff>  </color>"
   },
   {
@@ -11795,6 +12628,13 @@
     "contentBG": "<color=#ffffff>  </color>"
   },
   {
+    "sn": "301221",
+    "name": "Shoki's Cognitite",
+    "typeName": "Lingering Thoughts",
+    "tips": "Can be used in certain areas to raise Shoki's Awareness Level.",
+    "contentBG": "<color=#ffffff>  </color>"
+  },
+  {
     "sn": "261501",
     "name": "Integrity",
     "typeName": "Revelation",
@@ -11897,6 +12737,27 @@
     "name": "Outfit Chance 1",
     "typeName": "Outfit Chance",
     "tips": "Can be used to draw an outfit during the event.",
+    "contentBG": "<color=#ffffff>  </color>"
+  },
+  {
+    "sn": "301391",
+    "name": "Makoto's Cognitite",
+    "typeName": "Lingering Thoughts",
+    "tips": "Can be used in certain areas to raise Makoto's Awareness Level.",
+    "contentBG": "<color=#ffffff>  </color>"
+  },
+  {
+    "sn": "301401",
+    "name": "Yukari's Cognitite",
+    "typeName": "Lingering Thoughts",
+    "tips": "Can be used in certain areas to raise Yukari's Awareness Level.",
+    "contentBG": "<color=#ffffff>  </color>"
+  },
+  {
+    "sn": "301411",
+    "name": "Akihiko's Cognitite",
+    "typeName": "Lingering Thoughts",
+    "tips": "Can be used in certain areas to raise Akihiko's Awareness Level.",
     "contentBG": "<color=#ffffff>  </color>"
   },
   {
@@ -12905,6 +13766,20 @@
     "name": "Plasma Blade Shard",
     "typeName": "Material",
     "tips": "A special crystal used to forge Plasma Blade.",
+    "contentBG": "<color=#ffffff>  </color>"
+  },
+  {
+    "sn": "302924",
+    "name": "Pheromone Sting Shard",
+    "typeName": "Material",
+    "tips": "A special crystal used to forge Pheromone Sting.",
+    "contentBG": "<color=#ffffff>  </color>"
+  },
+  {
+    "sn": "302925",
+    "name": "Sipario Shard",
+    "typeName": "Material",
+    "tips": "A special crystal used to forge Sipario.",
     "contentBG": "<color=#ffffff>  </color>"
   },
   {
@@ -17101,6 +17976,13 @@
     "contentBG": "<color=#ffffff>  </color>"
   },
   {
+    "sn": "305625",
+    "name": "Proud Treasure Detector",
+    "typeName": "Infiltration Tool",
+    "tips": "When used in the Metaverse, displays destroyable objects in the area used on the map. Can be crafted at the workbench with proud chips, retro game consoles, and stabilizers.",
+    "contentBG": "<color=#ffffff>  </color>"
+  },
+  {
     "sn": "305701",
     "name": "Destructive Firecracker",
     "typeName": "Battle Item",
@@ -17784,6 +18666,13 @@
     "name": "Gluttony Chip",
     "typeName": "Material",
     "tips": "Can be combined with Retro Game Consoles and Stabilizer at the workbench to craft Gluttony Treasure Detectors.",
+    "contentBG": "<color=#ffffff>  </color>"
+  },
+  {
+    "sn": "305967",
+    "name": "Proud Chip",
+    "typeName": "Material",
+    "tips": "Proud Treasure Detectors can be crafted at the workbench with retro game consoles and stabilizer.",
     "contentBG": "<color=#ffffff>  </color>"
   },
   {
@@ -20021,7 +20910,7 @@
   },
   {
     "sn": "306887",
-    "name": "Classic Icon Frame 35",
+    "name": "Eighth Scarf",
     "typeName": "Frame",
     "tips": "Can be set as your profile frame.",
     "contentBG": "AAAAAA=="
@@ -20037,7 +20926,7 @@
     "sn": "306889",
     "name": "Classic Icon Frame 37",
     "typeName": "Frame",
-    "tips": "Frame.\nWill be updated after logging in again.",
+    "tips": "Can be set as your profile frame.",
     "contentBG": "AAAAAA=="
   },
   {
@@ -20058,7 +20947,7 @@
     "sn": "306892",
     "name": "Classic Icon Frame 40",
     "typeName": "Frame",
-    "tips": "Frame.\nWill be updated after logging in again.",
+    "tips": "Can be set as your profile frame.",
     "contentBG": "AAAAAA=="
   },
   {
@@ -20107,7 +20996,7 @@
     "sn": "306899",
     "name": "Classic Icon Frame 47",
     "typeName": "Frame",
-    "tips": "Frame.\nWill be updated after logging in again.",
+    "tips": "AAAAAA==",
     "contentBG": "AAAAAA=="
   },
   {
@@ -20490,7 +21379,7 @@
   },
   {
     "sn": "306956",
-    "name": "Classic Profile Card Design 30",
+    "name": "Freshly-Picked Persimmon",
     "typeName": "Profile Design",
     "tips": "Can be set as your profile card.",
     "contentBG": "AAAAAA=="
@@ -20527,7 +21416,7 @@
     "sn": "306961",
     "name": "Classic Profile Card Design 35",
     "typeName": "Profile Design",
-    "tips": "Profile card design.\nWill be updated after logging in again.",
+    "tips": "Can be set as your profile avatar.",
     "contentBG": "AAAAAA=="
   },
   {
@@ -20657,6 +21546,27 @@
     "contentBG": "AAAAAA=="
   },
   {
+    "sn": "306984",
+    "name": "AAAAAA==",
+    "typeName": "Profile Design",
+    "tips": "Can be set as your profile avatar.",
+    "contentBG": "AAAAAA=="
+  },
+  {
+    "sn": "306986",
+    "name": "AAAAAA==",
+    "typeName": "Profile Design",
+    "tips": "Can be set as your profile avatar.",
+    "contentBG": "AAAAAA=="
+  },
+  {
+    "sn": "306987",
+    "name": "AAAAAA==",
+    "typeName": "Profile Design",
+    "tips": "Can be set as your profile avatar.",
+    "contentBG": "AAAAAA=="
+  },
+  {
     "sn": "307001",
     "name": "Kokatsu Academy Emblem",
     "typeName": "Badge",
@@ -20674,7 +21584,7 @@
     "sn": "307004",
     "name": "Baseball Pro",
     "typeName": "Badge",
-    "tips": "Earn rewards from exchanging Batting Points.",
+    "tips": "Earned from exchanging Batting Points.",
     "contentBG": "AAAAAA=="
   },
   {
@@ -21413,6 +22323,13 @@
     "contentBG": "AAAAAA=="
   },
   {
+    "sn": "317500",
+    "name": "Ange Badge",
+    "typeName": "Badge",
+    "tips": "Awarded for raising Manaka's Awareness Level to 6.",
+    "contentBG": "AAAAAA=="
+  },
+  {
     "sn": "311005",
     "name": "Personal Avatar",
     "typeName": "Avatar",
@@ -21735,6 +22652,20 @@
     "contentBG": "AAAAAA=="
   },
   {
+    "sn": "311040",
+    "name": "Shoki Avatar",
+    "typeName": "Avatar",
+    "tips": "Can be set as your profile avatar.",
+    "contentBG": "AAAAAA=="
+  },
+  {
+    "sn": "311041",
+    "name": "Luce Avatar",
+    "typeName": "Avatar",
+    "tips": "Can be set as your profile avatar.",
+    "contentBG": "AAAAAA=="
+  },
+  {
     "sn": "311038",
     "name": "Friend Manaka Avatar",
     "typeName": "Avatar",
@@ -21752,14 +22683,14 @@
     "sn": "311042",
     "name": "Manaka Avatar",
     "typeName": "Avatar",
-    "tips": "AAAAAA==",
+    "tips": "Can be set as your profile avatar.",
     "contentBG": "AAAAAA=="
   },
   {
     "sn": "311043",
     "name": "Ange Avatar",
     "typeName": "Avatar",
-    "tips": "AAAAAA==",
+    "tips": "Can be set as your profile avatar.",
     "contentBG": "AAAAAA=="
   },
   {
@@ -21882,6 +22813,13 @@
     "contentBG": "AAAAAA=="
   },
   {
+    "sn": "312031",
+    "name": "AAAAAA==",
+    "typeName": "Frame",
+    "tips": "Can be set as your profile frame.",
+    "contentBG": "AAAAAA=="
+  },
+  {
     "sn": "312016",
     "name": "[NB][It][016]",
     "typeName": "Frame",
@@ -21900,6 +22838,20 @@
     "name": "[NB][It][017]",
     "typeName": "Frame",
     "tips": "Will be updated after logging in again.",
+    "contentBG": "AAAAAA=="
+  },
+  {
+    "sn": "312034",
+    "name": "AAAAAA==",
+    "typeName": "Frame",
+    "tips": "Can be set as your profile frame.",
+    "contentBG": "AAAAAA=="
+  },
+  {
+    "sn": "312035",
+    "name": "AAAAAA==",
+    "typeName": "Frame",
+    "tips": "Can be set as your profile frame.",
     "contentBG": "AAAAAA=="
   },
   {
@@ -22137,14 +23089,14 @@
     "sn": "314141",
     "name": "An Icy Wind Encountered",
     "typeName": "Badge",
-    "tips": "Awarded for clearing Challenge: Stage 1 of Mont's Special Mission in Thieves' Secrets.",
+    "tips": "Awarded for clearing Challenge Stage 1 of Mont's Special Missions in Thieves' Secrets.",
     "contentBG": "AAAAAA=="
   },
   {
     "sn": "314142",
     "name": "An Icy Wind Understood",
     "typeName": "Badge",
-    "tips": "Awarded for clearing Challenge: Stage 4 of Mont's Special Mission in Thieves' Secrets.",
+    "tips": "Awarded for clearing Challenge Stage 4 of Mont's Special Missions in Thieves' Secrets.",
     "contentBG": "AAAAAA=="
   },
   {
@@ -22228,7 +23180,7 @@
     "sn": "314143",
     "name": "An Icy Wind Bonded",
     "typeName": "Badge",
-    "tips": "Awarded for clearing Challenge: Stage 5 of Mont's Special Mission in Thieves' Secrets.",
+    "tips": "Awarded for clearing Challenge Stage 5 of Mont's Special Missions in Thieves' Secrets.",
     "contentBG": "AAAAAA=="
   },
   {
@@ -22270,21 +23222,21 @@
     "sn": "314178",
     "name": "An Engine Encountered",
     "typeName": "Badge",
-    "tips": "Awarded for clearing Challenge: Stage 1 of Turbo's Special Missions in Thieves' Secrets.",
+    "tips": "Awarded for clearing Challenge Stage 1 of Turbo's Special Missions in Thieves' Secrets.",
     "contentBG": "AAAAAA=="
   },
   {
     "sn": "314179",
     "name": "An Engine Understood",
     "typeName": "Badge",
-    "tips": "Awarded for clearing Challenge: Stage 4 of Turbo's Special Missions in Thieves' Secrets.",
+    "tips": "Awarded for clearing Challenge Stage 4 of Turbo's Special Missions in Thieves' Secrets.",
     "contentBG": "AAAAAA=="
   },
   {
     "sn": "314180",
     "name": "An Engine Bonded",
     "typeName": "Badge",
-    "tips": "Awarded for clearing Challenge: Stage 5 of Turbo's Special Missions in Thieves' Secrets.",
+    "tips": "Awarded for clearing Challenge Stage 5 of Turbo's Special Missions in Thieves' Secrets.",
     "contentBG": "AAAAAA=="
   },
   {
@@ -22417,7 +23369,7 @@
     "sn": "314114",
     "name": "Daybreak: Silver",
     "typeName": "Badge",
-    "tips": "Awarded to all players who participated during a set period after a Gates of the Nightmare Catcher season starts.",
+    "tips": "Awarded to players who ranked within the top 50% during a set period after a Gates of the Nightmare Catcher season starts.",
     "contentBG": "AAAAAA=="
   },
   {
@@ -22445,7 +23397,7 @@
     "sn": "314118",
     "name": "Starry Night: Silver",
     "typeName": "Badge",
-    "tips": "Awarded to all players who participated during a set period after a Gates of the Nightmare Catcher season starts.",
+    "tips": "Awarded to players who ranked within the top 50% during a set period after a Gates of the Nightmare Catcher season starts.",
     "contentBG": "AAAAAA=="
   },
   {
@@ -22459,7 +23411,7 @@
     "sn": "314120",
     "name": "Starry Night: Rainbow",
     "typeName": "Badge",
-    "tips": "Awarded to players who ranked within the top 6%–20% during a set period after a Gates of the Nightmare Catcher season starts.",
+    "tips": "Awarded to players who ranked within the top 50% during a set period after a Gates of the Nightmare Catcher season starts.",
     "contentBG": "AAAAAA=="
   },
   {
@@ -22529,7 +23481,7 @@
     "sn": "314130",
     "name": "Lead for the Day",
     "typeName": "Badge",
-    "tips": "Commemorative Half-Year Anniversary Badge.",
+    "tips": "Receive from Half-Year Anniversary event.",
     "contentBG": "AAAAAA=="
   },
   {
@@ -22641,21 +23593,21 @@
     "sn": "314158",
     "name": "A Storm Encountered",
     "typeName": "Badge",
-    "tips": "Awarded for clearing Challenge: Stage 1 of Wind's Special Mission in Thieves' Secrets.",
+    "tips": "Awarded for clearing Challenge Stage 1 of Wind's Special Missions in Thieves' Secrets.",
     "contentBG": "AAAAAA=="
   },
   {
     "sn": "314159",
     "name": "A Storm Understood",
     "typeName": "Badge",
-    "tips": "Awarded for clearing Challenge: Stage 4 of Wind's Special Mission in Thieves' Secrets.",
+    "tips": "Awarded for clearing Challenge Stage 4 of Wind's Special Missions in Thieves' Secrets.",
     "contentBG": "AAAAAA=="
   },
   {
     "sn": "314160",
     "name": "A Storm Bonded",
     "typeName": "Badge",
-    "tips": "Awarded for clearing Challenge: Stage 5 of Wind's Special Mission in Thieves' Secrets.",
+    "tips": "Awarded for clearing Challenge Stage 5 of Wind's Special Missions in Thieves' Secrets.",
     "contentBG": "AAAAAA=="
   },
   {
@@ -22750,6 +23702,13 @@
     "contentBG": "AAAAAA=="
   },
   {
+    "sn": "314199",
+    "name": "1st Anniversary",
+    "typeName": "Badge",
+    "tips": "Awarded for participating in the 1st Anniversary event.",
+    "contentBG": "AAAAAA=="
+  },
+  {
     "sn": "314201",
     "name": "1★ C1",
     "typeName": "Badge",
@@ -22830,21 +23789,21 @@
     "sn": "314144",
     "name": "A Pawprint Encountered",
     "typeName": "Badge",
-    "tips": "Awarded for clearing Challenge: Stage 1 of Howler's Special Mission in Thieves' Secrets.",
+    "tips": "Awarded for clearing Challenge Stage 1 of Howler's Special Missions in Thieves' Secrets.",
     "contentBG": "AAAAAA=="
   },
   {
     "sn": "314145",
     "name": "A Pawprint Understood",
     "typeName": "Badge",
-    "tips": "Awarded for clearing Challenge: Stage 4 of Howler's Special Mission in Thieves' Secrets.",
+    "tips": "Awarded for clearing Challenge Stage 4 of Howler's Special Missions in Thieves' Secrets.",
     "contentBG": "AAAAAA=="
   },
   {
     "sn": "314146",
     "name": "A Pawprint Bonded",
     "typeName": "Badge",
-    "tips": "Awarded for clearing Challenge: Stage 5 of Howler's Special Mission in Thieves' Secrets.",
+    "tips": "Awarded for clearing Challenge Stage 5 of Howler's Special Missions in Thieves' Secrets.",
     "contentBG": "AAAAAA=="
   },
   {
@@ -22886,21 +23845,21 @@
     "sn": "314192",
     "name": "A Plume of Smoke Encountered",
     "typeName": "Badge",
-    "tips": "Awarded for clearing Challenge: Stage 1 of Matoi's Special Missions in Thieves' Secrets.",
+    "tips": "Awarded for clearing Challenge Stage 1 of Matoi's Special Missions in Thieves' Secrets.",
     "contentBG": "AAAAAA=="
   },
   {
     "sn": "314193",
     "name": "A Plume of Smoke Understood",
     "typeName": "Badge",
-    "tips": "Awarded for clearing Challenge: Stage 4 of Matoi's Special Missions in Thieves' Secrets.",
+    "tips": "Awarded for clearing Challenge Stage 4 of Matoi's Special Missions in Thieves' Secrets.",
     "contentBG": "AAAAAA=="
   },
   {
     "sn": "314194",
     "name": "A Plume of Smoke Bonded",
     "typeName": "Badge",
-    "tips": "Awarded for clearing Challenge: Stage 5 of Matoi's Special Missions in Thieves' Secrets.",
+    "tips": "Awarded for clearing Challenge Stage 5 of Matoi's Special Missions in Thieves' Secrets.",
     "contentBG": "AAAAAA=="
   },
   {
@@ -22928,7 +23887,7 @@
     "sn": "314153",
     "name": "Starry Night: Silver",
     "typeName": "Badge",
-    "tips": "Awarded to all players who participated during a set period after a Gates of the Nightmare Catcher season starts.",
+    "tips": "Awarded to players who ranked within the top 50% during a set period after a Gates of the Nightmare Catcher season starts.",
     "contentBG": "AAAAAA=="
   },
   {
@@ -22949,21 +23908,21 @@
     "sn": "314181",
     "name": "Dr. Love",
     "typeName": "Badge",
-    "tips": "A limited commemorative badge awarded for receiving confessions from 2 or more female characters in Take Your Love.",
+    "tips": "Awarded for receiving confessions from 2 or more female characters in Take Your Love.",
     "contentBG": "<color=#ffffff>  </color>"
   },
   {
     "sn": "314182",
     "name": "My One and Only",
     "typeName": "Badge",
-    "tips": "A limited commemorative badge awarded for receiving a confession from a female character in Take Your Love.",
+    "tips": "Awarded for receiving a confession from a female character in Take Your Love.",
     "contentBG": "<color=#ffffff>  </color>"
   },
   {
     "sn": "314183",
     "name": "Got Your Back",
     "typeName": "Badge",
-    "tips": "A limited commemorative badge awarded for choosing to hang out with Shun Kano in Take Your Love.",
+    "tips": "Awarded for choosing to hang out with Shun Kano in Take Your Love.",
     "contentBG": "<color=#ffffff>  </color>"
   },
   {
@@ -22998,7 +23957,7 @@
     "sn": "314188",
     "name": "Venus: Silver",
     "typeName": "Badge",
-    "tips": "Awarded to all players who participated during a set period after a Gates of the Nightmare Catcher season starts.",
+    "tips": "Awarded to players who ranked within the top 50% during a set period after a Gates of the Nightmare Catcher season starts.",
     "contentBG": "AAAAAA=="
   },
   {
@@ -23224,6 +24183,13 @@
     "typeName": "Badge",
     "tips": "Awarded for holding 7★ Class 1 when the Trials from the Sea of Souls ends.",
     "contentBG": "<color=#ffffff>  </color>"
+  },
+  {
+    "sn": "314265",
+    "name": "Celestial Cage",
+    "typeName": "Badge",
+    "tips": "Awarded for playing The Masks We Wear: Phase 1 in chapter 4 of the main story.",
+    "contentBG": "AAAAAA=="
   },
   {
     "sn": "314232",
@@ -23800,6 +24766,160 @@
     "contentBG": "<color=#ffffff>  </color>"
   },
   {
+    "sn": "318000",
+    "name": "AAAAAA==",
+    "typeName": "Chatbox",
+    "tips": "AAAAAA==",
+    "contentBG": "AAAAAA=="
+  },
+  {
+    "sn": "318001",
+    "name": "AAAAAA==",
+    "typeName": "Chatbox",
+    "tips": "AAAAAA==",
+    "contentBG": "AAAAAA=="
+  },
+  {
+    "sn": "318002",
+    "name": "AAAAAA==",
+    "typeName": "Chatbox",
+    "tips": "AAAAAA==",
+    "contentBG": "AAAAAA=="
+  },
+  {
+    "sn": "318003",
+    "name": "AAAAAA==",
+    "typeName": "Chatbox",
+    "tips": "AAAAAA==",
+    "contentBG": "AAAAAA=="
+  },
+  {
+    "sn": "318004",
+    "name": "AAAAAA==",
+    "typeName": "Chatbox",
+    "tips": "AAAAAA==",
+    "contentBG": "AAAAAA=="
+  },
+  {
+    "sn": "318005",
+    "name": "AAAAAA==",
+    "typeName": "Chatbox",
+    "tips": "AAAAAA==",
+    "contentBG": "AAAAAA=="
+  },
+  {
+    "sn": "318006",
+    "name": "AAAAAA==",
+    "typeName": "Chatbox",
+    "tips": "AAAAAA==",
+    "contentBG": "AAAAAA=="
+  },
+  {
+    "sn": "318007",
+    "name": "AAAAAA==",
+    "typeName": "Chatbox",
+    "tips": "AAAAAA==",
+    "contentBG": "AAAAAA=="
+  },
+  {
+    "sn": "318008",
+    "name": "AAAAAA==",
+    "typeName": "Chatbox",
+    "tips": "AAAAAA==",
+    "contentBG": "AAAAAA=="
+  },
+  {
+    "sn": "318009",
+    "name": "AAAAAA==",
+    "typeName": "Chatbox",
+    "tips": "AAAAAA==",
+    "contentBG": "AAAAAA=="
+  },
+  {
+    "sn": "318010",
+    "name": "AAAAAA==",
+    "typeName": "Chatbox",
+    "tips": "AAAAAA==",
+    "contentBG": "AAAAAA=="
+  },
+  {
+    "sn": "319000",
+    "name": "AAAAAA==",
+    "typeName": "Background",
+    "tips": "AAAAAA==",
+    "contentBG": "AAAAAA=="
+  },
+  {
+    "sn": "319001",
+    "name": "AAAAAA==",
+    "typeName": "Background",
+    "tips": "AAAAAA==",
+    "contentBG": "AAAAAA=="
+  },
+  {
+    "sn": "319002",
+    "name": "AAAAAA==",
+    "typeName": "Background",
+    "tips": "AAAAAA==",
+    "contentBG": "AAAAAA=="
+  },
+  {
+    "sn": "319003",
+    "name": "AAAAAA==",
+    "typeName": "Background",
+    "tips": "AAAAAA==",
+    "contentBG": "AAAAAA=="
+  },
+  {
+    "sn": "319004",
+    "name": "AAAAAA==",
+    "typeName": "Background",
+    "tips": "AAAAAA==",
+    "contentBG": "AAAAAA=="
+  },
+  {
+    "sn": "319005",
+    "name": "AAAAAA==",
+    "typeName": "Background",
+    "tips": "AAAAAA==",
+    "contentBG": "AAAAAA=="
+  },
+  {
+    "sn": "319006",
+    "name": "AAAAAA==",
+    "typeName": "Background",
+    "tips": "AAAAAA==",
+    "contentBG": "AAAAAA=="
+  },
+  {
+    "sn": "319007",
+    "name": "AAAAAA==",
+    "typeName": "Background",
+    "tips": "AAAAAA==",
+    "contentBG": "AAAAAA=="
+  },
+  {
+    "sn": "319008",
+    "name": "AAAAAA==",
+    "typeName": "Background",
+    "tips": "AAAAAA==",
+    "contentBG": "AAAAAA=="
+  },
+  {
+    "sn": "319009",
+    "name": "AAAAAA==",
+    "typeName": "Background",
+    "tips": "AAAAAA==",
+    "contentBG": "AAAAAA=="
+  },
+  {
+    "sn": "319010",
+    "name": "AAAAAA==",
+    "typeName": "Background",
+    "tips": "AAAAAA==",
+    "contentBG": "AAAAAA=="
+  },
+  {
     "sn": "316031",
     "name": "7★ C1",
     "typeName": "Frame",
@@ -24350,6 +25470,20 @@
     "name": "Handmade Shichi-kun Bag",
     "typeName": "Casualwear",
     "tips": "Available only through the Akihabara event.\nCan be put on at the closet in your bedroom.",
+    "contentBG": "<color=#ffffff>  </color>"
+  },
+  {
+    "sn": "307528",
+    "name": "AAAAAA==",
+    "typeName": "Casualwear",
+    "tips": "AAAAAA==",
+    "contentBG": "<color=#ffffff>  </color>"
+  },
+  {
+    "sn": "307529",
+    "name": "AAAAAA==",
+    "typeName": "Casualwear",
+    "tips": "AAAAAA==",
     "contentBG": "<color=#ffffff>  </color>"
   },
   {
@@ -25644,133 +26778,133 @@
     "sn": "308071",
     "name": "[NB][IT][071]",
     "typeName": "Casualwear",
-    "tips": "Error: tnxotb-[Item_tips_308071]",
+    "tips": "Can be put on at the closet in your bedroom.",
     "contentBG": "AAAAAA=="
   },
   {
     "sn": "308072",
     "name": "[NB][IT][072]",
     "typeName": "Casualwear",
-    "tips": "Error: tnxotb-[Item_tips_308072]",
+    "tips": "Can be put on at the closet in your bedroom.",
     "contentBG": "AAAAAA=="
   },
   {
     "sn": "308073",
     "name": "[NB][IT][073]",
     "typeName": "Casualwear",
-    "tips": "Error: tnxotb-[Item_tips_308073]",
+    "tips": "Can be put on at the closet in your bedroom.",
     "contentBG": "AAAAAA=="
   },
   {
     "sn": "308081",
     "name": "[NB][IT][081]",
     "typeName": "Casualwear",
-    "tips": "Error: tnxotb-[Item_tips_308081]",
+    "tips": "Can be put on at the closet in your bedroom.",
     "contentBG": "<color=#ffffff>  </color>"
   },
   {
     "sn": "308082",
     "name": "[NB][IT][082]",
     "typeName": "Casualwear",
-    "tips": "Error: tnxotb-[Item_tips_308082]",
+    "tips": "Can be put on at the closet in your bedroom.",
     "contentBG": "AAAAAA=="
   },
   {
     "sn": "308083",
     "name": "[NB][IT][083]",
     "typeName": "Casualwear",
-    "tips": "Error: tnxotb-[Item_tips_308083]",
+    "tips": "Can be put on at the closet in your bedroom.",
     "contentBG": "AAAAAA=="
   },
   {
     "sn": "308084",
     "name": "[NB][IT][084]",
     "typeName": "Casualwear",
-    "tips": "Error: tnxotb-[Item_tips_308084]",
+    "tips": "Can be put on at the closet in your bedroom.",
     "contentBG": "AAAAAA=="
   },
   {
     "sn": "308171",
-    "name": "AAAAAA==",
+    "name": "Gray Duffle Coat",
     "typeName": "Casualwear",
-    "tips": "Error: tnxotb-[Item_tips_308084]",
+    "tips": "Can be put on at the closet in your bedroom.",
     "contentBG": "<color=#ffffff>  </color>"
   },
   {
     "sn": "308172",
-    "name": "AAAAAA==",
+    "name": "Black Retro Denim",
     "typeName": "Casualwear",
-    "tips": "Error: tnxotb-[Item_tips_308084]",
+    "tips": "Can be put on at the closet in your bedroom.",
     "contentBG": "<color=#ffffff>  </color>"
   },
   {
     "sn": "308173",
-    "name": "AAAAAA==",
+    "name": "Retro Boots",
     "typeName": "Casualwear",
-    "tips": "Error: tnxotb-[Item_tips_308084]",
+    "tips": "Can be put on at the closet in your bedroom.",
     "contentBG": "<color=#ffffff>  </color>"
   },
   {
     "sn": "308181",
-    "name": "AAAAAA==",
+    "name": "Brown Duffle Coat",
     "typeName": "Casualwear",
-    "tips": "Error: tnxotb-[Item_tips_308084]",
+    "tips": "Can be put on at the closet in your bedroom.",
     "contentBG": "<color=#ffffff>  </color>"
   },
   {
     "sn": "308182",
-    "name": "AAAAAA==",
+    "name": "Grey Retro Denim",
     "typeName": "Casualwear",
-    "tips": "Error: tnxotb-[Item_tips_308084]",
+    "tips": "Can be put on at the closet in your bedroom.",
     "contentBG": "<color=#ffffff>  </color>"
   },
   {
     "sn": "308183",
-    "name": "AAAAAA==",
+    "name": "Orange Retro Denim",
     "typeName": "Casualwear",
-    "tips": "Error: tnxotb-[Item_tips_308084]",
+    "tips": "Can be put on at the closet in your bedroom.",
     "contentBG": "<color=#ffffff>  </color>"
   },
   {
     "sn": "308191",
-    "name": "AAAAAA==",
+    "name": "Duffle Coat",
     "typeName": "Casualwear",
-    "tips": "Error: tnxotb-[Item_tips_308084]",
+    "tips": "Can be put on at the closet in your bedroom.",
     "contentBG": "<color=#ffffff>  </color>"
   },
   {
     "sn": "308192",
-    "name": "AAAAAA==",
+    "name": "Retro Denim",
     "typeName": "Casualwear",
-    "tips": "Error: tnxotb-[Item_tips_308084]",
+    "tips": "Can be put on at the closet in your bedroom.",
     "contentBG": "<color=#ffffff>  </color>"
   },
   {
     "sn": "308193",
-    "name": "AAAAAA==",
+    "name": "Green Retro Boots",
     "typeName": "Casualwear",
-    "tips": "Error: tnxotb-[Item_tips_308084]",
+    "tips": "Can be put on at the closet in your bedroom.",
     "contentBG": "<color=#ffffff>  </color>"
   },
   {
     "sn": "308201",
-    "name": "AAAAAA==",
+    "name": "Red Duffle Coat",
     "typeName": "Casualwear",
-    "tips": "Error: tnxotb-[Item_tips_308084]",
+    "tips": "Can be put on at the closet in your bedroom.",
     "contentBG": "<color=#ffffff>  </color>"
   },
   {
     "sn": "308202",
-    "name": "AAAAAA==",
+    "name": "Light Blue Retro Denim",
     "typeName": "Casualwear",
-    "tips": "Error: tnxotb-[Item_tips_308084]",
+    "tips": "Can be put on at the closet in your bedroom.",
     "contentBG": "<color=#ffffff>  </color>"
   },
   {
     "sn": "308203",
-    "name": "AAAAAA==",
+    "name": "Yellow Retro Boots",
     "typeName": "Casualwear",
-    "tips": "Error: tnxotb-[Item_tips_308084]",
+    "tips": "Can be put on at the closet in your bedroom.",
     "contentBG": "<color=#ffffff>  </color>"
   },
   {
@@ -26045,6 +27179,90 @@
     "typeName": "Casualwear",
     "tips": "A coordinated outfit that can be put on at the closet in your bedroom.",
     "contentBG": "<color=#ffffff>  </color>"
+  },
+  {
+    "sn": "400057",
+    "name": "AAAAAA==",
+    "typeName": "Event Item",
+    "tips": "AAAAAA==",
+    "contentBG": "<color=#ffffff>  </color>"
+  },
+  {
+    "sn": "400061",
+    "name": "Cherry Cream",
+    "typeName": "Event Item",
+    "tips": "You can change the flavor of cake.",
+    "contentBG": "AAAAAA=="
+  },
+  {
+    "sn": "400062",
+    "name": "Coffee Cream",
+    "typeName": "Event Item",
+    "tips": "You can change the flavor of cake.",
+    "contentBG": "AAAAAA=="
+  },
+  {
+    "sn": "400063",
+    "name": "Peach Cream",
+    "typeName": "Event Item",
+    "tips": "AAAAAA==",
+    "contentBG": "AAAAAA=="
+  },
+  {
+    "sn": "400064",
+    "name": "Blueberry Cream",
+    "typeName": "Event Item",
+    "tips": "AAAAAA==",
+    "contentBG": "AAAAAA=="
+  },
+  {
+    "sn": "400065",
+    "name": "Mango Cream",
+    "typeName": "Event Item",
+    "tips": "AAAAAA==",
+    "contentBG": "AAAAAA=="
+  },
+  {
+    "sn": "400066",
+    "name": "Melon Cream",
+    "typeName": "Event Item",
+    "tips": "AAAAAA==",
+    "contentBG": "AAAAAA=="
+  },
+  {
+    "sn": "400067",
+    "name": "Chocolate Drip",
+    "typeName": "Event Item",
+    "tips": "AAAAAA==",
+    "contentBG": "AAAAAA=="
+  },
+  {
+    "sn": "400068",
+    "name": "Decorative Icing",
+    "typeName": "Event Item",
+    "tips": "AAAAAA==",
+    "contentBG": "AAAAAA=="
+  },
+  {
+    "sn": "400069",
+    "name": "Buttercream Piping",
+    "typeName": "Event Item",
+    "tips": "AAAAAA==",
+    "contentBG": "AAAAAA=="
+  },
+  {
+    "sn": "400070",
+    "name": "Cream Piping",
+    "typeName": "Event Item",
+    "tips": "AAAAAA==",
+    "contentBG": "AAAAAA=="
+  },
+  {
+    "sn": "400071",
+    "name": "Ganache",
+    "typeName": "Event Item",
+    "tips": "You can put decorations on a cake.",
+    "contentBG": "AAAAAA=="
   },
   {
     "sn": "309028",
@@ -26391,37 +27609,37 @@
   },
   {
     "sn": "309077",
-    "name": "AAAAAA==",
+    "name": "Gray Duffle Coat",
     "typeName": "Casualwear",
     "tips": "A coordinated outfit that can be put on at the closet in your bedroom.",
     "contentBG": "<color=#ffffff>  </color>"
   },
   {
     "sn": "309078",
-    "name": "AAAAAA==",
+    "name": "Dark Brown Duffle Coat",
     "typeName": "Casualwear",
-    "tips": "Can be put on at the closet in your bedroom.",
+    "tips": "A coordinated outfit that can be put on at the closet in your bedroom.",
     "contentBG": "<color=#ffffff>  </color>"
   },
   {
     "sn": "309079",
-    "name": "AAAAAA==",
+    "name": "Dark Blue Duffle Coat",
     "typeName": "Casualwear",
-    "tips": "Can be put on at the closet in your bedroom.",
+    "tips": "A coordinated outfit that can be put on at the closet in your bedroom.",
     "contentBG": "<color=#ffffff>  </color>"
   },
   {
     "sn": "309080",
-    "name": "AAAAAA==",
+    "name": "Red Duffle Coat",
     "typeName": "Casualwear",
-    "tips": "Can be put on at the closet in your bedroom.",
+    "tips": "A coordinated outfit that can be put on at the closet in your bedroom.",
     "contentBG": "<color=#ffffff>  </color>"
   },
   {
     "sn": "309081",
     "name": "Sakura Snowflakes",
     "typeName": "Casualwear",
-    "tips": "Can be put on at the closet in your bedroom.",
+    "tips": "A coordinated outfit that can be put on at the closet in your bedroom.",
     "contentBG": "<color=#ffffff>  </color>"
   },
   {
@@ -26891,6 +28109,62 @@
     "name": "Drummer Shichi-kun",
     "typeName": "Capsule Toy",
     "tips": "Obtained from a Shibuya-exclusive capsule machine. Can be displayed in your display case at home.",
+    "contentBG": "<color=#ffffff>  </color>"
+  },
+  {
+    "sn": "310321",
+    "name": "Let's get this chocolate party started!",
+    "typeName": "Capsule Toy",
+    "tips": "Obtained from an Akihabara-exclusive capsule machine. Can be displayed in your display case at home.",
+    "contentBG": "<color=#ffffff>  </color>"
+  },
+  {
+    "sn": "310322",
+    "name": "Celebrate victory",
+    "typeName": "Capsule Toy",
+    "tips": "Obtained from an Akihabara-exclusive capsule machine. Can be displayed in your display case at home.",
+    "contentBG": "<color=#ffffff>  </color>"
+  },
+  {
+    "sn": "310323",
+    "name": "Departure",
+    "typeName": "Capsule Toy",
+    "tips": "Obtained from an Akihabara-exclusive capsule machine. Can be displayed in your display case at home.",
+    "contentBG": "<color=#ffffff>  </color>"
+  },
+  {
+    "sn": "310324",
+    "name": "Preset",
+    "typeName": "Capsule Toy",
+    "tips": "Obtained from an Akihabara-exclusive capsule machine. Can be displayed in your display case at home.",
+    "contentBG": "<color=#ffffff>  </color>"
+  },
+  {
+    "sn": "310325",
+    "name": "Pleasant Surprise",
+    "typeName": "Capsule Toy",
+    "tips": "Obtained from an Akihabara-exclusive capsule machine. Can be displayed in your display case at home.",
+    "contentBG": "<color=#ffffff>  </color>"
+  },
+  {
+    "sn": "310326",
+    "name": "Circuit Belle",
+    "typeName": "Capsule Toy",
+    "tips": "A rare capsule obtained from an Akihabara-exclusive capsule machine. Can be displayed in your display case at home.",
+    "contentBG": "<color=#ffffff>  </color>"
+  },
+  {
+    "sn": "310327",
+    "name": "Ballroom Outfit",
+    "typeName": "Capsule Toy",
+    "tips": "A rare capsule obtained from an Akihabara-exclusive capsule machine. Can be displayed in your display case at home.",
+    "contentBG": "<color=#ffffff>  </color>"
+  },
+  {
+    "sn": "310328",
+    "name": "Anniversary Cake Tower",
+    "typeName": "Capsule Toy",
+    "tips": "A super rare capsule obtained from an Akihabara-exclusive capsule machine. Can be displayed in your display case at home.",
     "contentBG": "<color=#ffffff>  </color>"
   },
   {
@@ -27615,11 +28889,25 @@
     "contentBG": "<color=#ffffff>  </color>"
   },
   {
+    "sn": "310816",
+    "name": "Anniversary Party",
+    "typeName": "Display Case Background",
+    "tips": "A background for your capsule toy display case.",
+    "contentBG": "<color=#ffffff>  </color>"
+  },
+  {
     "sn": "310808",
     "name": "Party Background",
     "typeName": "Display Case Background",
     "tips": "A background for your capsule toy display case.",
     "contentBG": "<color=#ffffff>  </color>"
+  },
+  {
+    "sn": "320702",
+    "name": "Scratch-Off Pack",
+    "typeName": "Scratch-Off Pack",
+    "tips": "AAAAAA==",
+    "contentBG": "AAAAAA=="
   },
   {
     "sn": "310809",
@@ -27718,6 +29006,48 @@
     "typeName": "Crane Game",
     "tips": "Obtainable from crane games in Akihabara. Can be displayed in your home.",
     "contentBG": "<color=#ffffff>  </color>"
+  },
+  {
+    "sn": "320902",
+    "name": "Anniversary Scratch-Off Pack",
+    "typeName": "Normal Item",
+    "tips": "AAAAAA==",
+    "contentBG": "AAAAAA=="
+  },
+  {
+    "sn": "320903",
+    "name": "Lufel Scratch-Off Card",
+    "typeName": "Event Item",
+    "tips": "AAAAAA==",
+    "contentBG": "AAAAAA=="
+  },
+  {
+    "sn": "320904",
+    "name": "Motoha Scratch-Off Card",
+    "typeName": "Event Item",
+    "tips": "AAAAAA==",
+    "contentBG": "AAAAAA=="
+  },
+  {
+    "sn": "320905",
+    "name": "Shun Scratch-Off Card",
+    "typeName": "Event Item",
+    "tips": "AAAAAA==",
+    "contentBG": "AAAAAA=="
+  },
+  {
+    "sn": "320906",
+    "name": "Riko Scratch-Off Card",
+    "typeName": "Event Item",
+    "tips": "AAAAAA==",
+    "contentBG": "AAAAAA=="
+  },
+  {
+    "sn": "320907",
+    "name": "Shoki Scratch-Off Card",
+    "typeName": "Event Item",
+    "tips": "AAAAAA==",
+    "contentBG": "AAAAAA=="
   },
   {
     "sn": "320012",
@@ -28378,6 +29708,13 @@
     "contentBG": "<color=#ffffff>  </color>"
   },
   {
+    "sn": "400058",
+    "name": "Mini Cake Box",
+    "typeName": "Event Item",
+    "tips": "AAAAAA==",
+    "contentBG": "<color=#ffffff>  </color>"
+  },
+  {
     "sn": "360002",
     "name": "Morgana's Invite",
     "typeName": "Invitation",
@@ -28460,6 +29797,237 @@
     "typeName": "Invitation",
     "tips": "Allows Minami Miyashita to play Tycoon.",
     "contentBG": "<color=#ffffff>  </color>"
+  },
+  {
+    "sn": "360018",
+    "name": "Akechi's Invite",
+    "typeName": "Invitation",
+    "tips": "Allows Goro Akechi to play Tycoon.",
+    "contentBG": "<color=#ffffff>  </color>"
+  },
+  {
+    "sn": "400072",
+    "name": "Cupcake",
+    "typeName": "Event Item",
+    "tips": "You can put decorations on a cake.",
+    "contentBG": "AAAAAA=="
+  },
+  {
+    "sn": "400073",
+    "name": "Blueberry Mousse",
+    "typeName": "Event Item",
+    "tips": "You can put decorations on a cake.",
+    "contentBG": "AAAAAA=="
+  },
+  {
+    "sn": "400074",
+    "name": "Big Anniversary Gift",
+    "typeName": "Event Item",
+    "tips": "You can put decorations on a cake.",
+    "contentBG": "AAAAAA=="
+  },
+  {
+    "sn": "400075",
+    "name": "Colorful Star Balloons",
+    "typeName": "Event Item",
+    "tips": "You can put decorations on a cake.",
+    "contentBG": "AAAAAA=="
+  },
+  {
+    "sn": "400076",
+    "name": "Curly Balloons",
+    "typeName": "Event Item",
+    "tips": "You can put decorations on a cake.",
+    "contentBG": "AAAAAA=="
+  },
+  {
+    "sn": "400077",
+    "name": "Cocoa Star Sticks",
+    "typeName": "Event Item",
+    "tips": "You can put decorations on a cake.",
+    "contentBG": "AAAAAA=="
+  },
+  {
+    "sn": "400078",
+    "name": "Strawberry Macaron",
+    "typeName": "Event Item",
+    "tips": "You can put decorations on a cake.",
+    "contentBG": "AAAAAA=="
+  },
+  {
+    "sn": "400079",
+    "name": "Star",
+    "typeName": "Event Item",
+    "tips": "You can put decorations on a cake.",
+    "contentBG": "AAAAAA=="
+  },
+  {
+    "sn": "400080",
+    "name": "Mint Chocolate Candy Jar",
+    "typeName": "Event Item",
+    "tips": "You can put decorations on a cake.",
+    "contentBG": "AAAAAA=="
+  },
+  {
+    "sn": "400081",
+    "name": "Orange Ice Cream",
+    "typeName": "Event Item",
+    "tips": "You can put decorations on a cake.",
+    "contentBG": "AAAAAA=="
+  },
+  {
+    "sn": "400082",
+    "name": "Colored Star Garland",
+    "typeName": "Event Item",
+    "tips": "You can put decorations on a cake.",
+    "contentBG": "AAAAAA=="
+  },
+  {
+    "sn": "400083",
+    "name": "Small Anniversary Gift",
+    "typeName": "Event Item",
+    "tips": "AAAAAA==",
+    "contentBG": "AAAAAA=="
+  },
+  {
+    "sn": "400084",
+    "name": "Jelly Balloon Clusters",
+    "typeName": "Event Item",
+    "tips": "AAAAAA==",
+    "contentBG": "AAAAAA=="
+  },
+  {
+    "sn": "400085",
+    "name": "Crunchy Truffle Stars",
+    "typeName": "Event Item",
+    "tips": "AAAAAA==",
+    "contentBG": "AAAAAA=="
+  },
+  {
+    "sn": "400086",
+    "name": "Two-Toned Tart",
+    "typeName": "Event Item",
+    "tips": "AAAAAA==",
+    "contentBG": "AAAAAA=="
+  },
+  {
+    "sn": "400087",
+    "name": "Caramel Star Trail",
+    "typeName": "Event Item",
+    "tips": "AAAAAA==",
+    "contentBG": "AAAAAA=="
+  },
+  {
+    "sn": "400088",
+    "name": "Shining Starry Night",
+    "typeName": "Event Item",
+    "tips": "AAAAAA==",
+    "contentBG": "AAAAAA=="
+  },
+  {
+    "sn": "400089",
+    "name": "Starlight Oath",
+    "typeName": "Event Item",
+    "tips": "AAAAAA==",
+    "contentBG": "AAAAAA=="
+  },
+  {
+    "sn": "400090",
+    "name": "Cocoa Meteors",
+    "typeName": "Event Item",
+    "tips": "AAAAAA==",
+    "contentBG": "AAAAAA=="
+  },
+  {
+    "sn": "400091",
+    "name": "Light and Shadow",
+    "typeName": "Event Item",
+    "tips": "AAAAAA==",
+    "contentBG": "AAAAAA=="
+  },
+  {
+    "sn": "400092",
+    "name": "Gilded Crown",
+    "typeName": "Event Item",
+    "tips": "AAAAAA==",
+    "contentBG": "AAAAAA=="
+  },
+  {
+    "sn": "400093",
+    "name": "Gift of Time",
+    "typeName": "Event Item",
+    "tips": "AAAAAA==",
+    "contentBG": "AAAAAA=="
+  },
+  {
+    "sn": "400094",
+    "name": "Radiant Future",
+    "typeName": "Event Item",
+    "tips": "AAAAAA==",
+    "contentBG": "AAAAAA=="
+  },
+  {
+    "sn": "400095",
+    "name": "Sumi Decoration",
+    "typeName": "Event Item",
+    "tips": "You can put character decorations on a cake.",
+    "contentBG": "AAAAAA=="
+  },
+  {
+    "sn": "400096",
+    "name": "Wonder Decoration",
+    "typeName": "Event Item",
+    "tips": "You can put character decorations on a cake.",
+    "contentBG": "AAAAAA=="
+  },
+  {
+    "sn": "400097",
+    "name": "Motoha Decoration",
+    "typeName": "Event Item",
+    "tips": "You can put character decorations on a cake.",
+    "contentBG": "AAAAAA=="
+  },
+  {
+    "sn": "400098",
+    "name": "Wonder Decoration",
+    "typeName": "Event Item",
+    "tips": "You can put character decorations on a cake.",
+    "contentBG": "AAAAAA=="
+  },
+  {
+    "sn": "400099",
+    "name": "Shiratori Decoration",
+    "typeName": "Event Item",
+    "tips": "You can put character decorations on a cake.",
+    "contentBG": "AAAAAA=="
+  },
+  {
+    "sn": "501221",
+    "name": "Shoki Ikenami",
+    "typeName": "Phantom Thief",
+    "tips": "<color=#eade10>★★★★</color>\nMain Attribute/Role: Bless, Strategist\nPersona: Ghino\n\nA third-year high school student. He is a stage actor and a member of Kiga Academy's drama club\nHis code name is Luce.",
+    "contentBG": "AAAAAA=="
+  },
+  {
+    "sn": "501391",
+    "name": "Makoto Yuki",
+    "typeName": "Phantom Thief",
+    "tips": "AAAAAA==",
+    "contentBG": "AAAAAA=="
+  },
+  {
+    "sn": "501401",
+    "name": "Yukari Takeba",
+    "typeName": "Phantom Thief",
+    "tips": "AAAAAA==",
+    "contentBG": "AAAAAA=="
+  },
+  {
+    "sn": "501411",
+    "name": "Akihiko Sanada",
+    "typeName": "Phantom Thief",
+    "tips": "AAAAAA==",
+    "contentBG": "AAAAAA=="
   },
   {
     "sn": "510263",
@@ -28578,6 +30146,27 @@
     "name": "Yaoling's Invite",
     "typeName": "Invitation",
     "tips": "Allows Yaoling Li to play Tycoon.",
+    "contentBG": "<color=#ffffff>  </color>"
+  },
+  {
+    "sn": "360114",
+    "name": "Akechi ♦K",
+    "typeName": "Card Sleeve",
+    "tips": "Changes the king of diamonds in Tycoon to a custom design.",
+    "contentBG": "<color=#ffffff>  </color>"
+  },
+  {
+    "sn": "360115",
+    "name": "Tomoko ♥3",
+    "typeName": "Card Sleeve",
+    "tips": "Changes the 3 of hearts in Tycoon to a custom design.",
+    "contentBG": "<color=#ffffff>  </color>"
+  },
+  {
+    "sn": "360116",
+    "name": "Yaoling ♥10",
+    "typeName": "Card Sleeve",
+    "tips": "Changes the 10 of hearts in Tycoon to a custom design.",
     "contentBG": "<color=#ffffff>  </color>"
   },
   {
@@ -28994,6 +30583,293 @@
     "contentBG": "AAAAAA=="
   },
   {
+    "sn": "400100",
+    "name": "Tomiyama Decoration",
+    "typeName": "Event Item",
+    "tips": "You can put character decorations on a cake.",
+    "contentBG": "AAAAAA=="
+  },
+  {
+    "sn": "400101",
+    "name": "Yaoling Decoration",
+    "typeName": "Event Item",
+    "tips": "You can put character decorations on a cake.",
+    "contentBG": "AAAAAA=="
+  },
+  {
+    "sn": "400102",
+    "name": "Kotone Decoration",
+    "typeName": "Event Item",
+    "tips": "You can put character decorations on a cake.",
+    "contentBG": "AAAAAA=="
+  },
+  {
+    "sn": "400103",
+    "name": "Kamiyama Decoration",
+    "typeName": "Event Item",
+    "tips": "You can put character decorations on a cake.",
+    "contentBG": "AAAAAA=="
+  },
+  {
+    "sn": "400104",
+    "name": "Tomoko Decoration",
+    "typeName": "Event Item",
+    "tips": "You can put character decorations on a cake.",
+    "contentBG": "AAAAAA=="
+  },
+  {
+    "sn": "400105",
+    "name": "Yukimi Decoration",
+    "typeName": "Event Item",
+    "tips": "You can put character decorations on a cake.",
+    "contentBG": "AAAAAA=="
+  },
+  {
+    "sn": "400106",
+    "name": "Shun Decoration",
+    "typeName": "Event Item",
+    "tips": "You can put character decorations on a cake.",
+    "contentBG": "AAAAAA=="
+  },
+  {
+    "sn": "400107",
+    "name": "Akechi Decoration",
+    "typeName": "Event Item",
+    "tips": "You can put character decorations on a cake.",
+    "contentBG": "AAAAAA=="
+  },
+  {
+    "sn": "400108",
+    "name": "Haru Decoration",
+    "typeName": "Event Item",
+    "tips": "You can put character decorations on a cake.",
+    "contentBG": "AAAAAA=="
+  },
+  {
+    "sn": "400109",
+    "name": "Futaba Decoration",
+    "typeName": "Event Item",
+    "tips": "You can put character decorations on a cake.",
+    "contentBG": "AAAAAA=="
+  },
+  {
+    "sn": "400110",
+    "name": "Makoto Decoration",
+    "typeName": "Event Item",
+    "tips": "You can put character decorations on a cake.",
+    "contentBG": "AAAAAA=="
+  },
+  {
+    "sn": "400111",
+    "name": "Yusuke Decoration",
+    "typeName": "Event Item",
+    "tips": "You can put character decorations on a cake.",
+    "contentBG": "AAAAAA=="
+  },
+  {
+    "sn": "400112",
+    "name": "Ann Decoration",
+    "typeName": "Event Item",
+    "tips": "You can put character decorations on a cake.",
+    "contentBG": "AAAAAA=="
+  },
+  {
+    "sn": "400113",
+    "name": "Ryuji Decoration",
+    "typeName": "Event Item",
+    "tips": "You can put character decorations on a cake.",
+    "contentBG": "AAAAAA=="
+  },
+  {
+    "sn": "400114",
+    "name": "Ren Decoration",
+    "typeName": "Event Item",
+    "tips": "AAAAAA==",
+    "contentBG": "AAAAAA=="
+  },
+  {
+    "sn": "400115",
+    "name": "Lufel & Morgana Decoration",
+    "typeName": "Event Item",
+    "tips": "AAAAAA==",
+    "contentBG": "AAAAAA=="
+  },
+  {
+    "sn": "400116",
+    "name": "Wonder & Ren Decoration",
+    "typeName": "Event Item",
+    "tips": "You can put character decorations on a cake.",
+    "contentBG": "AAAAAA=="
+  },
+  {
+    "sn": "400117",
+    "name": "Runa Decoration",
+    "typeName": "Event Item",
+    "tips": "You can put character decorations on a cake.",
+    "contentBG": "AAAAAA=="
+  },
+  {
+    "sn": "400120",
+    "name": "Motoha Decoration",
+    "typeName": "Event Item",
+    "tips": "You can put character decorations on a cake.",
+    "contentBG": "AAAAAA=="
+  },
+  {
+    "sn": "400121",
+    "name": "Ayaka Decoration",
+    "typeName": "Event Item",
+    "tips": "You can put character decorations on a cake.",
+    "contentBG": "AAAAAA=="
+  },
+  {
+    "sn": "400122",
+    "name": "Ayaka Decoration",
+    "typeName": "Event Item",
+    "tips": "You can put character decorations on a cake.",
+    "contentBG": "AAAAAA=="
+  },
+  {
+    "sn": "400123",
+    "name": "Runa Decoration",
+    "typeName": "Event Item",
+    "tips": "You can put character decorations on a cake.",
+    "contentBG": "AAAAAA=="
+  },
+  {
+    "sn": "400124",
+    "name": "Riko Decoration",
+    "typeName": "Event Item",
+    "tips": "You can put character decorations on a cake.",
+    "contentBG": "AAAAAA=="
+  },
+  {
+    "sn": "400125",
+    "name": "Riko Decoration",
+    "typeName": "Event Item",
+    "tips": "You can put character decorations on a cake.",
+    "contentBG": "AAAAAA=="
+  },
+  {
+    "sn": "400126",
+    "name": "Yaoling Decoration",
+    "typeName": "Event Item",
+    "tips": "You can put character decorations on a cake.",
+    "contentBG": "AAAAAA=="
+  },
+  {
+    "sn": "400127",
+    "name": "Tomoko Decoration",
+    "typeName": "Event Item",
+    "tips": "You can put character decorations on a cake.",
+    "contentBG": "AAAAAA=="
+  },
+  {
+    "sn": "400128",
+    "name": "Mayumi Decoration",
+    "typeName": "Event Item",
+    "tips": "You can put character decorations on a cake.",
+    "contentBG": "AAAAAA=="
+  },
+  {
+    "sn": "400129",
+    "name": "Kotone Decoration",
+    "typeName": "Event Item",
+    "tips": "You can put character decorations on a cake.",
+    "contentBG": "AAAAAA=="
+  },
+  {
+    "sn": "400130",
+    "name": "Kotone Decoration",
+    "typeName": "Event Item",
+    "tips": "You can put character decorations on a cake.",
+    "contentBG": "AAAAAA=="
+  },
+  {
+    "sn": "400131",
+    "name": "Miyu Decoration",
+    "typeName": "Event Item",
+    "tips": "You can put character decorations on a cake.",
+    "contentBG": "AAAAAA=="
+  },
+  {
+    "sn": "400132",
+    "name": "Miyu Decoration",
+    "typeName": "Event Item",
+    "tips": "You can put character decorations on a cake.",
+    "contentBG": "AAAAAA=="
+  },
+  {
+    "sn": "400133",
+    "name": "Ashiya Decoration",
+    "typeName": "Event Item",
+    "tips": "You can put character decorations on a cake.",
+    "contentBG": "AAAAAA=="
+  },
+  {
+    "sn": "400134",
+    "name": "Kira Decoration",
+    "typeName": "Event Item",
+    "tips": "You can put character decorations on a cake.",
+    "contentBG": "AAAAAA=="
+  },
+  {
+    "sn": "400135",
+    "name": "Mio Decoration",
+    "typeName": "Event Item",
+    "tips": "You can put character decorations on a cake.",
+    "contentBG": "AAAAAA=="
+  },
+  {
+    "sn": "400136",
+    "name": "Manaka Decoration",
+    "typeName": "Event Item",
+    "tips": "You can put character decorations on a cake.",
+    "contentBG": "AAAAAA=="
+  },
+  {
+    "sn": "400137",
+    "name": "Manaka Decoration",
+    "typeName": "Event Item",
+    "tips": "You can put character decorations on a cake.",
+    "contentBG": "AAAAAA=="
+  },
+  {
+    "sn": "400138",
+    "name": "Kurotani Decoration",
+    "typeName": "Event Item",
+    "tips": "You can put character decorations on a cake.",
+    "contentBG": "AAAAAA=="
+  },
+  {
+    "sn": "400139",
+    "name": "Yumi Decoration",
+    "typeName": "Event Item",
+    "tips": "AAAAAA==",
+    "contentBG": "AAAAAA=="
+  },
+  {
+    "sn": "400140",
+    "name": "Shun Decoration",
+    "typeName": "Event Item",
+    "tips": "AAAAAA==",
+    "contentBG": "AAAAAA=="
+  },
+  {
+    "sn": "400141",
+    "name": "Yui Decoration",
+    "typeName": "Event Item",
+    "tips": "AAAAAA==",
+    "contentBG": "AAAAAA=="
+  },
+  {
+    "sn": "400142",
+    "name": "Yui Decoration",
+    "typeName": "Event Item",
+    "tips": "AAAAAA==",
+    "contentBG": "AAAAAA=="
+  },
+  {
     "sn": "410000",
     "name": "Treasure Chest Key",
     "typeName": "Stage",
@@ -29281,6 +31157,20 @@
     "contentBG": "AAAAAA=="
   },
   {
+    "sn": "400118",
+    "name": "Plain Cake",
+    "typeName": "Event Item",
+    "tips": "AAAAAA==",
+    "contentBG": "AAAAAA=="
+  },
+  {
+    "sn": "400119",
+    "name": "Plain Stand",
+    "typeName": "Event Item",
+    "tips": "AAAAAA==",
+    "contentBG": "AAAAAA=="
+  },
+  {
     "sn": "410516",
     "name": "Jail Key",
     "typeName": "Stage",
@@ -29536,7 +31426,7 @@
     "sn": "500092",
     "name": "Premium+ Special",
     "typeName": "Preview",
-    "tips": "The following items can be obtained after purchasing a Premium+ Phantom Pass:\n• Exclusive Outfit: <link=\"fashion|309077\"><u><color=#29b6ff>Beige Knit Outfit</color></u></link>\n• Exclusive Profile Card: <link=\"display|306956\"><u><color=#29b6ff>Bonbon Button</color></u></link>\n• Exclusive Frame: <link=\"display|306887\"><u><color=#29b6ff>Consideration</color></u></link>\n\n• Plus, Spray-On Dye x1 as a bonus.\nNew outfit colors will also unlock after you obtain your exclusive outfit and go to the in-game closet on the second floor of your home.\nThese colors include <link=\"fashion|309078\"><u><color=#ffce09>Light Blue Knit Outfit</color></u></link>, <link=\"fashion|309079\"><u><color=#00aeff>Green Knit Outfit</color></u></link>, and <link=\"fashion|309080\"><u><color=#ff381d>Aqua Knit Outfit</color></u></link>.",
+    "tips": "The following items can be obtained after purchasing a Premium+ Phantom Pass:\n• Exclusive Outfit: <link=\"fashion|309077\"><u><color=#29b6ff>Gray Duffle Coat</color></u></link>\n• Exclusive Profile Card: <link=\"display|306956\"><u><color=#29b6ff>Freshly-Picked Persimmon</color></u></link>\n• Exclusive Frame: <link=\"display|306887\"><u><color=#29b6ff>Eighth Scarf</color></u></link>\n\n• Plus, Spray-On Dye x1 as a bonus.\nNew outfit colors will also unlock after you obtain your exclusive outfit and go to the in-game closet on the second floor of your home.\nThese colors include <link=\"fashion|309078\"><u><color=#ffce09>Dark Brown Duffle Coat</color></u></link>, <link=\"fashion|309079\"><u><color=#00aeff>Dark Blue Duffle Coat</color></u></link>, and <link=\"fashion|309080\"><u><color=#ff381d>Red Duffle Coat</color></u></link>.",
     "contentBG": "<color=#ffffff>  </color>"
   },
   {
@@ -29790,6 +31680,13 @@
     "typeName": "Battle Item",
     "tips": "Test Item",
     "contentBG": "AAAAAA=="
+  },
+  {
+    "sn": "500090",
+    "name": "Error: tdxct-[Item_name_500091]    DC[SK][091]",
+    "typeName": "Preview",
+    "tips": "AAAAAA==",
+    "contentBG": "<color=#ffffff>  </color>"
   },
   {
     "sn": "500091",
@@ -30068,14 +31965,14 @@
     "sn": "501371",
     "name": "Mio Natsukawa",
     "typeName": "Phantom Thief",
-    "tips": "<color=#eade10>★★★★★</color>\nMain Attribute/Role: Ice, Saboteur\nPersona Duo: Minthe\n\nA woman who serves as a firefighter for the Zoshigaya fire department.\nHer awkward personality makes it hard for her to deal with people, but whenever she sees people in danger at the scene of a fire, she rushes into to save them with no regard for her own safety.Her codename is Matoi.",
+    "tips": "<color=#eade10>★★★★★</color>\nMain Attribute/Role: Ice, Saboteur\nPersona Duo: Minthe\nA firefighter for the Zoshigaya fire department. When there's someone in danger at the scene of a fire, she will rush in to save them without any regard for her own safety.\nHer codename is Matoi.",
     "contentBG": "AAAAAA=="
   },
   {
     "sn": "501381",
     "name": "Manaka Nagao",
     "typeName": "Phantom Thief",
-    "tips": "AAAAAA==",
+    "tips": "<color=#eade10>★★★★★</color>\nMain Attribute/Role: Support, Elucidator\nPersona: Euterpe\n\nA first-year high school student. She has posted many videos of her singing covers of songs online, with people saying she has \"the voice of an angel.\"\nHer code name is Ange.",
     "contentBG": "AAAAAA=="
   },
   {
@@ -33516,13 +35413,6 @@
     "contentBG": "AAAAAA=="
   },
   {
-    "sn": "600107",
-    "name": "Red Rider",
-    "typeName": "Thieves Den Statue",
-    "tips": "A statue of a Shadow born from the Sea of Souls.",
-    "contentBG": "AAAAAA=="
-  },
-  {
     "sn": "600108",
     "name": "Bishamonten",
     "typeName": "Thieves Den Statue",
@@ -33532,13 +35422,6 @@
   {
     "sn": "600109",
     "name": "Principality",
-    "typeName": "Thieves Den Statue",
-    "tips": "A statue of a Shadow born from the Sea of Souls.",
-    "contentBG": "AAAAAA=="
-  },
-  {
-    "sn": "600110",
-    "name": "Black Rider",
     "typeName": "Thieves Den Statue",
     "tips": "A statue of a Shadow born from the Sea of Souls.",
     "contentBG": "AAAAAA=="
@@ -33616,13 +35499,6 @@
   {
     "sn": "600121",
     "name": "Sarasvati",
-    "typeName": "Thieves Den Statue",
-    "tips": "A statue of a Shadow born from the Sea of Souls.",
-    "contentBG": "AAAAAA=="
-  },
-  {
-    "sn": "600122",
-    "name": "Pale Rider",
     "typeName": "Thieves Den Statue",
     "tips": "A statue of a Shadow born from the Sea of Souls.",
     "contentBG": "AAAAAA=="
@@ -33881,7 +35757,7 @@
   },
   {
     "sn": "600601",
-    "name": "Default Theme",
+    "name": "Décor",
     "typeName": "Thieves Den Theme",
     "tips": "Thieves Den",
     "contentBG": "AAAAAA=="
@@ -35119,6 +36995,13 @@
     "contentBG": "<color=#ffffff>  </color>"
   },
   {
+    "sn": "600602",
+    "name": "Décor",
+    "typeName": "Thieves Den Theme",
+    "tips": "A model based on Crossroads of Fate: Castle Arc.",
+    "contentBG": "AAAAAA=="
+  },
+  {
     "sn": "530196",
     "name": "Applause!",
     "typeName": "Emote",
@@ -35210,60 +37093,116 @@
     "contentBG": "<color=#ffffff>  </color>"
   },
   {
-    "sn": "600144",
-    "name": "Leanan Sidhe",
-    "typeName": "Thieves Den Statue",
-    "tips": "A statue of a Shadow born from the Sea of Souls.",
-    "contentBG": "AAAAAA=="
+    "sn": "540089",
+    "name": "Abundance",
+    "typeName": "Revelation Set",
+    "tips": "AAAAAA==",
+    "contentBG": "<color=#ffffff>  </color>"
   },
   {
-    "sn": "600145",
-    "name": "Apsaras",
-    "typeName": "Thieves Den Statue",
-    "tips": "A statue of a Shadow born from the Sea of Souls.",
-    "contentBG": "AAAAAA=="
+    "sn": "540090",
+    "name": "Abundance",
+    "typeName": "Revelation Set",
+    "tips": "AAAAAA==",
+    "contentBG": "<color=#ffffff>  </color>"
   },
   {
-    "sn": "600146",
-    "name": "Isis",
-    "typeName": "Thieves Den Statue",
-    "tips": "A statue of a Shadow born from the Sea of Souls.",
-    "contentBG": "AAAAAA=="
+    "sn": "540091",
+    "name": "Abundance",
+    "typeName": "Revelation Set",
+    "tips": "AAAAAA==",
+    "contentBG": "<color=#ffffff>  </color>"
   },
   {
-    "sn": "600147",
-    "name": "Shiki-Ouji",
-    "typeName": "Thieves Den Statue",
-    "tips": "A statue of a Shadow born from the Sea of Souls.",
-    "contentBG": "AAAAAA=="
+    "sn": "540092",
+    "name": "Abundance",
+    "typeName": "Revelation Set",
+    "tips": "AAAAAA==",
+    "contentBG": "<color=#ffffff>  </color>"
   },
   {
-    "sn": "600148",
-    "name": "Hell Biker",
-    "typeName": "Thieves Den Statue",
-    "tips": "A statue of a Shadow born from the Sea of Souls.",
-    "contentBG": "AAAAAA=="
+    "sn": "540093",
+    "name": "Prudence",
+    "typeName": "Revelation Set",
+    "tips": "AAAAAA==",
+    "contentBG": "<color=#ffffff>  </color>"
   },
   {
-    "sn": "600149",
-    "name": "Mothman",
-    "typeName": "Thieves Den Statue",
-    "tips": "A statue of a Shadow born from the Sea of Souls.",
-    "contentBG": "AAAAAA=="
+    "sn": "540094",
+    "name": "Prudence",
+    "typeName": "Revelation Set",
+    "tips": "AAAAAA==",
+    "contentBG": "<color=#ffffff>  </color>"
   },
   {
-    "sn": "600150",
-    "name": "Horus",
-    "typeName": "Thieves Den Statue",
-    "tips": "A statue of a Shadow born from the Sea of Souls.",
-    "contentBG": "AAAAAA=="
+    "sn": "540095",
+    "name": "Prudence",
+    "typeName": "Revelation Set",
+    "tips": "AAAAAA==",
+    "contentBG": "<color=#ffffff>  </color>"
   },
   {
-    "sn": "600151",
-    "name": "Moloch",
-    "typeName": "Thieves Den Statue",
-    "tips": "A statue of a Shadow born from the Sea of Souls.",
-    "contentBG": "AAAAAA=="
+    "sn": "540096",
+    "name": "Prudence",
+    "typeName": "Revelation Set",
+    "tips": "AAAAAA==",
+    "contentBG": "<color=#ffffff>  </color>"
+  },
+  {
+    "sn": "540097",
+    "name": "Happiness",
+    "typeName": "Revelation Set",
+    "tips": "AAAAAA==",
+    "contentBG": "<color=#ffffff>  </color>"
+  },
+  {
+    "sn": "540098",
+    "name": "Happiness",
+    "typeName": "Revelation Set",
+    "tips": "AAAAAA==",
+    "contentBG": "<color=#ffffff>  </color>"
+  },
+  {
+    "sn": "540099",
+    "name": "Happiness",
+    "typeName": "Revelation Set",
+    "tips": "AAAAAA==",
+    "contentBG": "<color=#ffffff>  </color>"
+  },
+  {
+    "sn": "540100",
+    "name": "Happiness",
+    "typeName": "Revelation Set",
+    "tips": "AAAAAA==",
+    "contentBG": "<color=#ffffff>  </color>"
+  },
+  {
+    "sn": "540101",
+    "name": "Ruin",
+    "typeName": "Revelation Set",
+    "tips": "AAAAAA==",
+    "contentBG": "<color=#ffffff>  </color>"
+  },
+  {
+    "sn": "540102",
+    "name": "Ruin",
+    "typeName": "Revelation Set",
+    "tips": "AAAAAA==",
+    "contentBG": "<color=#ffffff>  </color>"
+  },
+  {
+    "sn": "540103",
+    "name": "Ruin",
+    "typeName": "Revelation Set",
+    "tips": "AAAAAA==",
+    "contentBG": "<color=#ffffff>  </color>"
+  },
+  {
+    "sn": "540104",
+    "name": "Ruin",
+    "typeName": "Revelation Set",
+    "tips": "AAAAAA==",
+    "contentBG": "<color=#ffffff>  </color>"
   },
   {
     "sn": "560017",
@@ -35294,6 +37233,20 @@
     "contentBG": "<color=#ffffff>  </color>"
   },
   {
+    "sn": "600218",
+    "name": "Fortress Guard",
+    "typeName": "Thieves Den Statue",
+    "tips": "A statue of a Shadow from a Palace. Takes the form of an fortress guard.",
+    "contentBG": "AAAAAA=="
+  },
+  {
+    "sn": "600219",
+    "name": "<color=#ffffff>  </color>",
+    "typeName": "Thieves Den Statue",
+    "tips": "AAAAAA==",
+    "contentBG": "AAAAAA=="
+  },
+  {
     "sn": "560021",
     "name": "Healing Boost IV",
     "typeName": "Skill Card",
@@ -35322,6 +37275,13 @@
     "contentBG": "<color=#ffffff>  </color>"
   },
   {
+    "sn": "600305",
+    "name": "Raga",
+    "typeName": "Thieves Den Statue",
+    "tips": "AAAAAA==",
+    "contentBG": "AAAAAA=="
+  },
+  {
     "sn": "560025",
     "name": "Windsweep Boost IV",
     "typeName": "Skill Card",
@@ -35348,6 +37308,20 @@
     "typeName": "Skill Card",
     "tips": "AAAAAA==",
     "contentBG": "<color=#ffffff>  </color>"
+  },
+  {
+    "sn": "600702",
+    "name": "1st Anniversary Cake",
+    "typeName": "Thieves Den Statue",
+    "tips": "AAAAAA==",
+    "contentBG": "AAAAAA=="
+  },
+  {
+    "sn": "600801",
+    "name": "Anniversary Illustration",
+    "typeName": "Thieves Den Illustration",
+    "tips": "AAAAAA==",
+    "contentBG": "AAAAAA=="
   },
   {
     "sn": "3010000",
@@ -35816,6 +37790,13 @@
     "name": "New Year's Blessings!",
     "typeName": "Thieves Den Illustration",
     "tips": "The illustration used for New Year's Blessings!",
+    "contentBG": "AAAAAA=="
+  },
+  {
+    "sn": "400442",
+    "name": "Tycoon Medal",
+    "typeName": "Event Item",
+    "tips": "Awarded for playing Tycoon.",
     "contentBG": "AAAAAA=="
   }
 ]

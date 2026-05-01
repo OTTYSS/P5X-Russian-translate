@@ -2100,6 +2100,34 @@
     "textContent": "In the Gates of the Nightmare Catcher, Companios have banded together to battle against powerful foes.\nAs of Version 2.5, the highest-scoring Companio reached a combined score of \n<color=#FF423F>12,960,907,848</color>."
   },
   {
+    "sn": "1027060",
+    "textContent": "Select your numbers. Numbers cannot be changed after they have been submitted."
+  },
+  {
+    "sn": "1027061",
+    "textContent": "*You can select up to five numbers for each drawing. Numbers cannot be repeated."
+  },
+  {
+    "sn": "1027062",
+    "textContent": "<color=#FF0000>{0}</color> left"
+  },
+  {
+    "sn": "1027063",
+    "textContent": "Winning numbers will be announced on the official YouTube channel!"
+  },
+  {
+    "sn": "1027064",
+    "textContent": "Remaining: {0}"
+  },
+  {
+    "sn": "1027065",
+    "textContent": "<color=#ffffff>  </color>"
+  },
+  {
+    "sn": "1027066",
+    "textContent": "<color=#ffffff>  </color>"
+  },
+  {
     "sn": "1028001",
     "textContent": "Cannot find Companio."
   },
@@ -3017,7 +3045,7 @@
   },
   {
     "sn": "1034104",
-    "textContent": "Weapons with the same star level can be used as materials."
+    "textContent": "Weapons with the same star level can be used as material."
   },
   {
     "sn": "1034105",
@@ -3025,11 +3053,11 @@
   },
   {
     "sn": "1034106",
-    "textContent": "Weapons with the same star level or\n%scan be used as materials."
+    "textContent": "Weapons with the same star level or\n%scan be used as material."
   },
   {
     "sn": "1034107",
-    "textContent": "Only %s can be used as materials."
+    "textContent": "Only the %s can be used as material."
   },
   {
     "sn": "1034108",
@@ -3349,7 +3377,7 @@
   },
   {
     "sn": "1040017",
-    "textContent": "Ally %s Attack Score (besides Wonder)"
+    "textContent": "Ally %s Attack Score"
   },
   {
     "sn": "1040018",
@@ -3829,7 +3857,7 @@
   },
   {
     "sn": "1043086",
-    "textContent": "Total number of main rewards collected during the event\nShow as: Collected/Total"
+    "textContent": "Total number of main rewards collected during the event.\nShown as: Collected/Total"
   },
   {
     "sn": "1043072",
@@ -4733,7 +4761,7 @@
   },
   {
     "sn": "1057020",
-    "textContent": "Bonus Social Stats"
+    "textContent": "Bonus Social Stat EXP"
   },
   {
     "sn": "1057021",
@@ -6213,7 +6241,7 @@
   },
   {
     "sn": "1086005",
-    "textContent": "Auto-download when Wi-Fi is available <color=#FF423F>(Recommended)</color>"
+    "textContent": "Auto-download on Wi-Fi <color=#FF423F>(Recommended)</color>"
   },
   {
     "sn": "1086006",
@@ -12577,7 +12605,7 @@
   },
   {
     "sn": "2002547",
-    "textContent": "Season 4 <size=40>on Now</size>!"
+    "textContent": "Season 5 <size=40>on Now</size>!"
   },
   {
     "sn": "2002548",
@@ -13720,10 +13748,6 @@
     "textContent": "Obtain Qualia EXP when\nPhantom Thief Rating increases."
   },
   {
-    "sn": "2303020",
-    "textContent": "Level Up Rewards"
-  },
-  {
     "sn": "2303022",
     "textContent": "Challenge Mode hasn't been cleared yet."
   },
@@ -13845,11 +13869,11 @@
   },
   {
     "sn": "2002818",
-    "textContent": "If you enter {0} times, you are guaranteed to receive the special cosume <color=#FFF900>{1}</color>."
+    "textContent": "If you enter <color=#FFF900>{0}</color> times, you are guaranteed to receive the special cosume ."
   },
   {
     "sn": "2002819",
-    "textContent": "Obtained the special costume {0}."
+    "textContent": "Wonder Outfit: "
   },
   {
     "sn": "2002820",
@@ -13969,7 +13993,7 @@
   },
   {
     "sn": "2002857",
-    "textContent": "Lunar New Year Items Now Available! "
+    "textContent": "On sale for a limited time"
   },
   {
     "sn": "2002858",
@@ -14249,7 +14273,7 @@
   },
   {
     "sn": "2002949",
-    "textContent": "To support the Phantom Thieves' future operations, we have prepared the following."
+    "textContent": "Special Login Bonus"
   },
   {
     "sn": "2002950",
@@ -14300,12 +14324,76 @@
     "textContent": "Deleting"
   },
   {
+    "sn": "2002974",
+    "textContent": "Daily scratch cards remaining:"
+  },
+  {
+    "sn": "2002975",
+    "textContent": "Hide scratch cards in chat after daily limit has been reached."
+  },
+  {
+    "sn": "2002976",
+    "textContent": "Open a gift to obtain 3 of the following rewards at random"
+  },
+  {
+    "sn": "2002977",
+    "textContent": "Share Scratch-Off Pack"
+  },
+  {
+    "sn": "2002978",
+    "textContent": "Claim up to 5 times"
+  },
+  {
+    "sn": "2002979",
+    "textContent": "You have no Scratch-Off Packs that can be shared."
+  },
+  {
+    "sn": "2002980",
+    "textContent": "Scratch-Off Packs can be obtained by the following methods."
+  },
+  {
+    "sn": "2002981",
+    "textContent": "All Scratch Cards claimed."
+  },
+  {
+    "sn": "2002982",
+    "textContent": "Today's maximum claims have been reached."
+  },
+  {
+    "sn": "2002983",
+    "textContent": "You have reached the limit for this event."
+  },
+  {
     "sn": "2002984",
     "textContent": "Available after %s"
   },
   {
+    "sn": "2002985",
+    "textContent": "Change Background"
+  },
+  {
+    "sn": "2002986",
+    "textContent": "Change Message Frame"
+  },
+  {
+    "sn": "2002987",
+    "textContent": "How to Get:"
+  },
+  {
+    "sn": "2002988",
+    "textContent": "Hello!"
+  },
+  {
+    "sn": "2002989",
+    "textContent": "After obtaining items, they can be placed in the Thieves Den!"
+  },
+  {
+    "sn": "2002990",
+    "textContent": "After obtaining items, they can be placed in the Thieves Den!"
+  },
+  {
     "sn": "2002991",
-    "textContent": "Support Rank is based on your protagonist's current level and the number of days you have logged in over the past year. Based on your rank, you can earn rewards such as protagonist experience points and training materials. If your protagonist's level is at the maximum, you will not be able to receive experience from this event. Also, players within the same rank may receive different rewards based on the number of days logged in. (*The number of days refers to the total number of days logged into the game since the service began, even if you had not created an account yet.)"
+    "textContent": "\nIf you log in during the event period, a special login bonus will start for 60 days from the first day you log in.\nLog in every day to get fantastic rewards!"
   },
   {
     "sn": "2002993",
@@ -14313,7 +14401,7 @@
   },
   {
     "sn": "2002994",
-    "textContent": "Unequip All"
+    "textContent": "Delete All"
   },
   {
     "sn": "2002995",
@@ -14321,7 +14409,7 @@
   },
   {
     "sn": "2002996",
-    "textContent": "Laboratory Arc Part 1"
+    "textContent": "Laboratory Arc Part 2"
   },
   {
     "sn": "2002997",
@@ -14329,7 +14417,7 @@
   },
   {
     "sn": "2003007",
-    "textContent": "Log in every day to receive <color=#FFEB40>protagonist level increases</color>, <color=#FFEB40>lots of training materials</color>, and <color=#FFEB40>5★ limited characters</color>"
+    "textContent": "Log in every day to receive various rewards."
   },
   {
     "sn": "2003008",
@@ -14345,19 +14433,115 @@
   },
   {
     "sn": "2003011",
-    "textContent": "Your total number of login days is %s. For reaching %s, you will receive the following."
+    "textContent": "I have high hopes for your efforts going forward.\n• Total number of login days is %s.\n• %s."
+  },
+  {
+    "sn": "2003012",
+    "textContent": "This style has not been unlocked."
+  },
+  {
+    "sn": "2003014",
+    "textContent": "Use"
+  },
+  {
+    "sn": "2003015",
+    "textContent": "Tap to scratch off"
+  },
+  {
+    "sn": "2003016",
+    "textContent": "<color=#ffffff>  </color>"
+  },
+  {
+    "sn": "2003017",
+    "textContent": "<color=#ffffff>  </color>"
   },
   {
     "sn": "2003019",
-    "textContent": "Welcome! To help you get into fighting shape quickly, we've prepared this support plan for you."
+    "textContent": "I have high hopes for your efforts going forward."
+  },
+  {
+    "sn": "2003021",
+    "textContent": "<color=#FF423F>%s</color>, the young man who awakened to the power of Persona. As the Phantom Thief \"Wonder\", you resolved to return the desire that had been stolen from the world.\nSince then, it has been <color=#FF423F>%s days</color>... As the leader of the Phantom Thieves, you have reached Level <color=#FF423F>%s</color>. To date, you have spent\n<color=#FF423F>%s Stamina, %s Action Points, and %s yen</color>... And you continue to give it your all as you balance your double life as a regular student and a Phantom Thief."
+  },
+  {
+    "sn": "2003022",
+    "textContent": "So far you have forged contracts with <color=#FF423F>%s Phantom Thieves and Phantom Idols</color>.\nAmong them, <color=#FF423F>%s</color> have become your most powerful allies, with total ratings of <color=#FF423F>%s</color>.\nNo matter what dangers may come, you know these allies will have your back."
+  },
+  {
+    "sn": "2003023",
+    "textContent": "In this world where desires have been stolen...\nYou have formed bonds with <color=#FF423F>%s Accomplices</color>. Among them, you became <color=#FF423F>Close Friends</color> with <color=#FF423F>%s</color> and <color=#FF423F>Soulmates</color> with <color=#FF423F>%s</color>.Your deepest bonds are with\n<color=#FF423F>%s</color>...\nYou have forged powerful connections at <color=#FF423F>Ranks %s</color>."
+  },
+  {
+    "sn": "2003024",
+    "textContent": "(1st Anni Rewind) Akashi's Change of Heart"
+  },
+  {
+    "sn": "2003025",
+    "textContent": "(1st Anni Rewind) City Life"
+  },
+  {
+    "sn": "2003026",
+    "textContent": "(1st Anni Rewind) Crane Games"
+  },
+  {
+    "sn": "2003027",
+    "textContent": "(1st Anni Rewind) Tycoon"
+  },
+  {
+    "sn": "2003028",
+    "textContent": "(1st Anni Rewind) Akihabara Mystery Map"
+  },
+  {
+    "sn": "2003029",
+    "textContent": "(1st Anni Rewind) P5R Event"
+  },
+  {
+    "sn": "2003030",
+    "textContent": "(1st Anni Rewind) Lunar New Year Event"
+  },
+  {
+    "sn": "2003031",
+    "textContent": "(1st Anni Rewind) Valentine's Event"
+  },
+  {
+    "sn": "2003032",
+    "textContent": "Error: tnxotb-[Text_textContent_2003032]"
+  },
+  {
+    "sn": "2003033",
+    "textContent": "After <color=#FEC431>%s</color> awakened his abilities as a Persona-user, <color=#FF423F>%s</color> days have passed...\nStill, he continues to fight for a world being sapped of desire with <color=#FEC431>%s</color> accomplices at his side."
+  },
+  {
+    "sn": "2003034",
+    "textContent": "Place"
+  },
+  {
+    "sn": "2003035",
+    "textContent": "Scratch-Off Packs"
   },
   {
     "sn": "2003036",
-    "textContent": "Resource Management"
+    "textContent": "Resources"
   },
   {
     "sn": "2003037",
     "textContent": "Mayumi Hashimoto"
+  },
+  {
+    "sn": "2003040",
+    "textContent": "Would you like to use this design to create the 1st Anniversary Cake?\nAfter creating your cake, it can be placed in the Thieves Den.\nPlease note, you can only create one cake during the event."
+  },
+  {
+    "sn": "2003041",
+    "textContent": "Data Collected: {0}"
+  },
+  {
+    "sn": "2003042",
+    "textContent": "You can now place this in the Thieves Den."
+  },
+  {
+    "sn": "2003043",
+    "textContent": "{1}/{2}/{0}"
   },
   {
     "sn": "2303207",
@@ -14386,6 +14570,78 @@
   {
     "sn": "2303279",
     "textContent": " x"
+  },
+  {
+    "sn": "2003062",
+    "textContent": "Cake Base"
+  },
+  {
+    "sn": "2003063",
+    "textContent": "Cake Decoration"
+  },
+  {
+    "sn": "2003064",
+    "textContent": "Plain Cake"
+  },
+  {
+    "sn": "2003065",
+    "textContent": "Plain Stand"
+  },
+  {
+    "sn": "2003066",
+    "textContent": "Candles"
+  },
+  {
+    "sn": "2003067",
+    "textContent": "Download"
+  },
+  {
+    "sn": "2003068",
+    "textContent": "Today"
+  },
+  {
+    "sn": "2003069",
+    "textContent": "On The Day"
+  },
+  {
+    "sn": "2003070",
+    "textContent": "Check Gifts"
+  },
+  {
+    "sn": "2003071",
+    "textContent": "Check Gifts"
+  },
+  {
+    "sn": "2003072",
+    "textContent": "Select a reward"
+  },
+  {
+    "sn": "2003073",
+    "textContent": "After making a wish, please collect the rewards from your Inbox."
+  },
+  {
+    "sn": "2003074",
+    "textContent": "Voting results will be sent to your Inbox within 1 week after the event ends."
+  },
+  {
+    "sn": "2003075",
+    "textContent": "Take the Cake"
+  },
+  {
+    "sn": "2003076",
+    "textContent": "Would you like to receive the cake with the current customizations?"
+  },
+  {
+    "sn": "2003077",
+    "textContent": "Once customization is finished, no further changes can be made."
+  },
+  {
+    "sn": "2003079",
+    "textContent": "Log in for 7 days to receive <size=66><sprite=19></size> x10"
+  },
+  {
+    "sn": "2003080",
+    "textContent": "Please select a character you would like to be added."
   },
   {
     "sn": "2003082",
@@ -14676,12 +14932,16 @@
     "textContent": "<color=#ffffff>  </color>"
   },
   {
+    "sn": "2303020",
+    "textContent": "Level Up Rewards"
+  },
+  {
     "sn": "2303392",
     "textContent": "Selections: <color=#D70100>%s</color>/%s"
   },
   {
     "sn": "2303280",
-    "textContent": "Can use weapons of the same name"
+    "textContent": "Weapons of the same name can be used as material."
   },
   {
     "sn": "2303610",
@@ -14722,5 +14982,9 @@
   {
     "sn": "2303411",
     "textContent": "Unlocked after obtaining %s"
+  },
+  {
+    "sn": "2303878",
+    "textContent": "Resources"
   }
 ]

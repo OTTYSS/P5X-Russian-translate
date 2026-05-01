@@ -285,6 +285,16 @@
     "gamePadText": "Spend 100 ChocoPower points to use <color=#FF423F>Love Bomb</color>\nand deal heavy damage to foes."
   },
   {
+    "sn": "771",
+    "text": "<color=#ff3b37>Manaka</color> has special support skills.",
+    "gamePadText": "<color=#ff3b37>Manaka</color> has special support skills."
+  },
+  {
+    "sn": "772",
+    "text": "Press to grant an <color=#ff3b37>extra action</color>.",
+    "gamePadText": "Press to grant an <color=#ff3b37>extra action</color>."
+  },
+  {
     "sn": "1111",
     "text": "Press <color=#FF423F>Sign 1</color>.",
     "gamePadText": "Press <color=#FF423F>Sign 1</color>."
@@ -681,8 +691,8 @@
   },
   {
     "sn": "1092",
-    "text": "<color=#FF423F>Two Masks as One</color> spends <color=#FF423F>Facade of Mischief & Innocence</color> and <color=#FF423F>Facade of Absurdity & Nonsense</color> to activate,\ngranting allies <color=#FF423F>Skill Amplification</color> and increased <color=#FF423F>critical damage</color>.",
-    "gamePadText": "<color=#FF423F>Two Masks as One</color> spends <color=#FF423F>Facade of Mischief & Innocence</color> and <color=#FF423F>Facade of Absurdity & Nonsense</color> to activate,\ngranting allies <color=#FF423F>Skill Amplification</color> and increased <color=#FF423F>critical damage</color>."
+    "text": "<color=#FF423F>Two Masks as One</color> spends <color=#FF423F>Facade of Mischief & Innocence</color> and\n<color=#FF423F>Facade of Absurdity & Nonsense</color> to activate, granting allies\n<color=#FF423F>Skill Amplification</color> and increased <color=#FF423F>critical damage</color>.",
+    "gamePadText": "<color=#FF423F>Two Masks as One</color> spends <color=#FF423F>Facade of Mischief & Innocence</color> and\n<color=#FF423F>Facade of Absurdity & Nonsense</color> to activate, granting allies\n<color=#FF423F>Skill Amplification</color> and increased <color=#FF423F>critical damage</color>."
   },
   {
     "sn": "1093",
@@ -1097,7 +1107,7 @@
   {
     "sn": "2181",
     "text": "Select <color=#FF423F>Info</color>.",
-    "gamePadText": "<size=56><keySn>53</keySn></size> View <color=#FF423F>Palace Intel</color>."
+    "gamePadText": "Select <color=#FF423F>Info</color>."
   },
   {
     "sn": "2191",
@@ -1142,7 +1152,12 @@
   {
     "sn": "2231",
     "text": "Select <color=#FF423F>Collection</color>.",
-    "gamePadText": "<size=56><keySn>54</keySn></size> Select <color=#FF423F>Collection</color>."
+    "gamePadText": "Select <color=#FF423F>Collection</color>."
+  },
+  {
+    "sn": "2501",
+    "text": "Check your <color=#ff3b37>Thief Training Level</color>",
+    "gamePadText": "Check your <color=#ff3b37>Thief Training Level</color>"
   },
   {
     "sn": "2241",
@@ -1251,13 +1266,78 @@
   },
   {
     "sn": "2411",
-    "text": "Claim <color=#FF423F>rewards</color>.",
-    "gamePadText": "Claim <color=#FF423F>rewards</color>."
+    "text": "<color=#FF423F>Claim</color> rewards.",
+    "gamePadText": "<color=#FF423F>Claim</color> rewards."
   },
   {
     "sn": "2416",
-    "text": "View <color=#FF423F>Support Reward Rules</color>.",
-    "gamePadText": "View <color=#FF423F>Support Reward Rules</color>."
+    "text": "View <color=#FF423F>Rewards</color>.",
+    "gamePadText": "View <color=#FF423F>Rewards</color>."
+  },
+  {
+    "sn": "2421",
+    "text": "<color=#ff3b37>Drill</color> a path through the dirt.",
+    "gamePadText": "<color=#ff3b37>Drill</color> a path through the dirt."
+  },
+  {
+    "sn": "2431",
+    "text": "Activate <color=#ff3b37>Shooting Mode</color>.",
+    "gamePadText": "Activate <color=#ff3b37>Shooting Mode</color>"
+  },
+  {
+    "sn": "2441",
+    "text": "Aim and <color=#ff3b37>shoot</color>.",
+    "gamePadText": "Aim and <color=#ff3b37>shoot</color>"
+  },
+  {
+    "sn": "2452",
+    "text": "<color=#ff3b37>Switch ammo</color> with  <size=56><keySn>431</keySn> and <keySn>432</keySn></size> keys.",
+    "gamePadText": "<color=#ff3b37>Switch ammo</color> using <size=56><keySn>1015</keySn><keySn>1016</keySn></size>"
+  },
+  {
+    "sn": "2461",
+    "text": "Check <color=#ff3b37>Anniversary</color>.",
+    "gamePadText": "Check <color=#ff3b37>Anniversary</color>."
+  },
+  {
+    "sn": "2471",
+    "text": "Check <color=#ff3b37>Wish Gift</color>.",
+    "gamePadText": "Check <color=#ff3b37>Wish Gift</color>."
+  },
+  {
+    "sn": "2472",
+    "text": "Check <color=#ff3b37>Wish Item</color>.",
+    "gamePadText": "Check <color=#ff3b37>Wish Item</color>."
+  },
+  {
+    "sn": "2473",
+    "text": "Confirm <color=#ff3b37>Wish</color>.",
+    "gamePadText": "Confirm <color=#ff3b37>Wish</color>."
+  },
+  {
+    "sn": "2481",
+    "text": "<color=#ff3b37>Make a Cake</color>.",
+    "gamePadText": "<color=#ff3b37>Make a Cake</color>"
+  },
+  {
+    "sn": "2491",
+    "text": "<color=#ff3b37>Decorate</color>.",
+    "gamePadText": "<color=#ff3b37>Decorate</color>"
+  },
+  {
+    "sn": "2492",
+    "text": "<color=#ff3b37>Change Decorations</color>.",
+    "gamePadText": "<color=#ff3b37>Change Decorations</color>"
+  },
+  {
+    "sn": "2493",
+    "text": "You can have it made by <color=#ff3b37>random</color>.",
+    "gamePadText": "You can have it made by <color=#ff3b37>random</color>"
+  },
+  {
+    "sn": "2494",
+    "text": "<color=#ff3b37>Save</color> Cake Design.",
+    "gamePadText": "<color=#ff3b37>Save</color> Cake Design"
   },
   {
     "sn": "9993",
