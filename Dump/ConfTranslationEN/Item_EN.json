@@ -455,6 +455,76 @@
     "contentBG": "<color=#ffffff>  </color>"
   },
   {
+    "sn": "69",
+    "name": "Clock Gears",
+    "typeName": "Tartarus Item",
+    "tips": "A currency found in Tartarus. Resets after each challenge.",
+    "contentBG": "<color=#ffffff>  </color>"
+  },
+  {
+    "sn": "70",
+    "name": "Dawn Fragment",
+    "typeName": "Tartarus Item",
+    "tips": "A valuable currency found in Tartarus. Resets after each challenge.",
+    "contentBG": "<color=#ffffff>  </color>"
+  },
+  {
+    "sn": "71",
+    "name": "Tarnished Gold Coin",
+    "typeName": "Tartarus Item",
+    "tips": "A valuable currency found in Tartarus. Can be used to unlock antiques at Mayoido, and is gained after exploration is finished.",
+    "contentBG": "<color=#ffffff>  </color>"
+  },
+  {
+    "sn": "72",
+    "name": "Tarnished Silver Coin",
+    "typeName": "Tartarus Item",
+    "tips": "A valuable currency found in Tartarus. Can be used to enhance antiques and Mastery, and is gained after exploration is finished.",
+    "contentBG": "<color=#ffffff>  </color>"
+  },
+  {
+    "sn": "73",
+    "name": "Soul Fragment",
+    "typeName": "Tartarus Item",
+    "tips": "A valuable currency found in Tartarus. Can be used to unlock Phantom Thieves for party deployment, and is gained after exploration is finished.",
+    "contentBG": "<color=#ffffff>  </color>"
+  },
+  {
+    "sn": "74",
+    "name": "Dream Fragment",
+    "typeName": "Tartarus Item",
+    "tips": "A valuable currency found in Tartarus. Can be used to unlock Dream Chapters for some special characters, and is gained after exploration is finished.",
+    "contentBG": "<color=#ffffff>  </color>"
+  },
+  {
+    "sn": "75",
+    "name": "Old Gemstone",
+    "typeName": "Tartarus Item",
+    "tips": "A valuable currency that can be found after 3 runs of Tartarus. Can be used to enhance Mastery, and is gained after exploration is finished.",
+    "contentBG": "<color=#ffffff>  </color>"
+  },
+  {
+    "sn": "76",
+    "name": "Bond Fragment S",
+    "typeName": "Tartarus Item",
+    "tips": "An item to enhance Moonlit Bonds in Tartarus.",
+    "contentBG": "<color=#ffffff>  </color>"
+  },
+  {
+    "sn": "77",
+    "name": "Bond Fragment L",
+    "typeName": "Tartarus Item",
+    "tips": "A valuable item to enhance Moonlit Bonds in Tartarus.",
+    "contentBG": "<color=#ffffff>  </color>"
+  },
+  {
+    "sn": "78",
+    "name": "Ancient Fossil",
+    "typeName": "Tartarus Item",
+    "tips": "A valuable item to enhance antiques in Tartarus.",
+    "contentBG": "<color=#ffffff>  </color>"
+  },
+  {
     "sn": "1000",
     "name": "P Medal",
     "typeName": "Item",
@@ -785,7 +855,7 @@
   },
   {
     "sn": "1052",
-    "name": "Abnormal Rebel Coin",
+    "name": "Unusual Rebel Coin",
     "typeName": "Commemorative Item",
     "tips": "Coins obtained from Crossroads of Fate: Laboratory Arc Part 2. Can be exchanged for 100 Konpaku Gems.",
     "contentBG": "<color=#ffffff>  </color>"
@@ -861,11 +931,95 @@
     "contentBG": "AAAAAA=="
   },
   {
+    "sn": "1064",
+    "name": "Wheel of Time: New Moon",
+    "typeName": "Event Currency",
+    "tips": "Can be gained by participating in the Luminous Island event, and can be exchanged for items in the event shop.",
+    "contentBG": "<color=#ffffff>  </color>"
+  },
+  {
+    "sn": "1065",
+    "name": "Wheel of Time: New Moon",
+    "typeName": "Commemorative Item",
+    "tips": "An item obtained in the Luminous Island event. Each Wheel of Time: New Moon can be exchanged for 100 Konpaku Gems.",
+    "contentBG": "<color=#ffffff>  </color>"
+  },
+  {
+    "sn": "1066",
+    "name": "Wheel of Time: Crescent Moon",
+    "typeName": "Event Currency",
+    "tips": "Can be gained by participating in the Pierce the Night Sky event, and can be exchanged for items in the event shop.",
+    "contentBG": "<color=#ffffff>  </color>"
+  },
+  {
+    "sn": "1067",
+    "name": "Wheel of Time: Crescent Moon",
+    "typeName": "Commemorative Item",
+    "tips": "An item obtained in the Luminous Island event. Each Wheel of Time: Crescent Moon can be exchanged for 100 Konpaku Gems.",
+    "contentBG": "<color=#ffffff>  </color>"
+  },
+  {
+    "sn": "1068",
+    "name": "Wheel of Time: Waxing Gibbous",
+    "typeName": "Event Currency",
+    "tips": "Can be gained by participating in the Strike like Lightning event, and can be exchanged for items in the event shop.",
+    "contentBG": "<color=#ffffff>  </color>"
+  },
+  {
+    "sn": "1069",
+    "name": "Wheel of Time: Waxing Gibbous",
+    "typeName": "Commemorative Item",
+    "tips": "An item obtained in the Strike like Lightning event. Each Wheel of Time: Waxing Gibbous can be exchanged for 100 Konpaku Gems.",
+    "contentBG": "<color=#ffffff>  </color>"
+  },
+  {
+    "sn": "1078",
+    "name": "Wheel of Time: Full Moon",
+    "typeName": "Event Currency",
+    "tips": "Can be gained by participating in the Piercing Cold event, and can be exchanged for items in the event shop.",
+    "contentBG": "<color=#ffffff>  </color>"
+  },
+  {
+    "sn": "1079",
+    "name": "Wheel of Time: Full Moon",
+    "typeName": "Commemorative Item",
+    "tips": "An item obtained in the Piercing Cold event. Each Wheel of Time: Full Moon can be exchanged for 100 Konpaku Gems.",
+    "contentBG": "<color=#ffffff>  </color>"
+  },
+  {
+    "sn": "1082",
+    "name": "Wheel of Time: Hesitant Moon",
+    "typeName": "Event Currency",
+    "tips": "Can be gained by participating in the All-Seeing Eye event, and can be exchanged for items in the event shop.",
+    "contentBG": "<color=#ffffff>  </color>"
+  },
+  {
+    "sn": "1083",
+    "name": "Wheel of Time: Hesitant Moon",
+    "typeName": "Commemorative Item",
+    "tips": "An item obtained in the All-Seeing Eye event. Each Wheel of Time: Hesitant Moon can be exchanged for 100 Konpaku Gems.",
+    "contentBG": "<color=#ffffff>  </color>"
+  },
+  {
     "sn": "1085",
     "name": "Marthym's Stamp",
     "typeName": "Event Currency",
     "tips": "Obtainable by purchasing items at the Shop. After earning a certain number, you can get Purchase Rewards.",
     "contentBG": "AAAAAA=="
+  },
+  {
+    "sn": "1090",
+    "name": "Wheel of Time: Wavering Moon",
+    "typeName": "Event Currency",
+    "tips": "Can be gained by participating in the Crushing Blade event, and can be exchanged for items in the event shop.",
+    "contentBG": "<color=#ffffff>  </color>"
+  },
+  {
+    "sn": "1091",
+    "name": "Wheel of Time: Wavering Moon",
+    "typeName": "Commemorative Item",
+    "tips": "An item obtained in the Crushing Blade event. Each Wheel of Time: Wavering Moon can be exchanged for 100 Konpaku Gems.",
+    "contentBG": "<color=#ffffff>  </color>"
   },
   {
     "sn": "1092",
@@ -893,6 +1047,20 @@
     "name": "Emblem of Fate: Butterfly",
     "typeName": "Commemorative Item",
     "tips": "Coins obtained from Crossroads of Fate: Twins Arc can be exchanged for 100 Konpaku Gems.",
+    "contentBG": "<color=#ffffff>  </color>"
+  },
+  {
+    "sn": "1117",
+    "name": "Wheel of Time: Waning Gibbous",
+    "typeName": "Event Currency",
+    "tips": "Can be gained by participating in the Howl of Loyalty event, and can be exchanged for items in the event shop.",
+    "contentBG": "<color=#ffffff>  </color>"
+  },
+  {
+    "sn": "1118",
+    "name": "Wheel of Time: Waning Gibbous",
+    "typeName": "Commemorative Item",
+    "tips": "An item obtained in the Howl of Loyalty event. Each Wheel of Time: Waning Gibbous can be exchanged for 100 Konpaku Gems.",
     "contentBG": "<color=#ffffff>  </color>"
   },
   {
@@ -1696,6 +1864,13 @@
   {
     "sn": "100414",
     "name": "5★ Phantom Idol Contract 6",
+    "typeName": "Gift Set",
+    "tips": "Can be used to draw and obtain one Phantom Thief from certain Phantom Thieves.",
+    "contentBG": "AAAAAA=="
+  },
+  {
+    "sn": "100415",
+    "name": "5★ Phantom Thief Chance 05",
     "typeName": "Gift Set",
     "tips": "Can be used to draw and obtain one Phantom Thief from certain Phantom Thieves.",
     "contentBG": "AAAAAA=="
@@ -2625,6 +2800,13 @@
     "contentBG": "<color=#ffffff>  </color>"
   },
   {
+    "sn": "190121",
+    "name": "Butler Makoto Set",
+    "typeName": "Outfit",
+    "tips": "Changes Makoto's appearance to his butler suit.\nCan be obtained by purchasing the Butler Makoto Set in the Shop.",
+    "contentBG": "<color=#ffffff>  </color>"
+  },
+  {
     "sn": "190142",
     "name": "Limited 4★ Weapon Case",
     "typeName": "Gift Set",
@@ -3158,7 +3340,7 @@
   },
   {
     "sn": "190290",
-    "name": "Gift 5★ Weapons Select Ticket",
+    "name": "Gift 5★ Weapon Case",
     "typeName": "Gift Set",
     "tips": "Can be used to select and obtain one weapon from certain weapons.",
     "contentBG": "<color=#ffffff>  </color>"
@@ -4316,28 +4498,28 @@
     "name": "SEES Sword",
     "typeName": "AAAAAA==",
     "tips": "Makoto-only melee weapon.",
-    "contentBG": "Makoto-only melee weapon."
+    "contentBG": "<color=#ffffff>  </color>"
   },
   {
     "sn": "213902",
     "name": "Shishiou",
     "typeName": "AAAAAA==",
     "tips": "Makoto-only melee weapon.",
-    "contentBG": "Makoto-only melee weapon."
+    "contentBG": "<color=#ffffff>  </color>"
   },
   {
     "sn": "213903",
     "name": "Translucent Blade",
     "typeName": "AAAAAA==",
     "tips": "Makoto-only melee weapon.",
-    "contentBG": "Makoto-only melee weapon."
+    "contentBG": "<color=#ffffff>  </color>"
   },
   {
     "sn": "213904",
     "name": "Deus Xiphos",
     "typeName": "AAAAAA==",
     "tips": "Makoto-only melee weapon.",
-    "contentBG": "Makoto-only melee weapon."
+    "contentBG": "<color=#ffffff>  </color>"
   },
   {
     "sn": "214001",
@@ -7588,6 +7770,230 @@
     "contentBG": "<color=#ffffff>  </color>"
   },
   {
+    "sn": "222921",
+    "name": "Gain: Sun",
+    "typeName": "Revelation",
+    "tips": "Cards collected represent your character's growth, and equipping them enhances your stats.",
+    "contentBG": "<color=#ffffff>  </color>"
+  },
+  {
+    "sn": "222922",
+    "name": "Gain: Moon",
+    "typeName": "Revelation",
+    "tips": "Cards collected represent your character's growth, and equipping them enhances your stats.",
+    "contentBG": "<color=#ffffff>  </color>"
+  },
+  {
+    "sn": "222923",
+    "name": "Gain: Star",
+    "typeName": "Revelation",
+    "tips": "Cards collected represent your character's growth, and equipping them enhances your stats.",
+    "contentBG": "<color=#ffffff>  </color>"
+  },
+  {
+    "sn": "222924",
+    "name": "Gain: Sky",
+    "typeName": "Revelation",
+    "tips": "Cards collected represent your character's growth, and equipping them enhances your stats.",
+    "contentBG": "<color=#ffffff>  </color>"
+  },
+  {
+    "sn": "222931",
+    "name": "Gain: Sun",
+    "typeName": "Revelation",
+    "tips": "Cards collected represent your character's growth, and equipping them enhances your stats.",
+    "contentBG": "<color=#ffffff>  </color>"
+  },
+  {
+    "sn": "222932",
+    "name": "Gain: Moon",
+    "typeName": "Revelation",
+    "tips": "Cards collected represent your character's growth, and equipping them enhances your stats.",
+    "contentBG": "<color=#ffffff>  </color>"
+  },
+  {
+    "sn": "222933",
+    "name": "Gain: Star",
+    "typeName": "Revelation",
+    "tips": "Cards collected represent your character's growth, and equipping them enhances your stats.",
+    "contentBG": "<color=#ffffff>  </color>"
+  },
+  {
+    "sn": "222934",
+    "name": "Gain: Sky",
+    "typeName": "Revelation",
+    "tips": "Cards collected represent your character's growth, and equipping them enhances your stats.",
+    "contentBG": "<color=#ffffff>  </color>"
+  },
+  {
+    "sn": "222941",
+    "name": "Gain: Sun",
+    "typeName": "Revelation",
+    "tips": "Cards collected represent your character's growth, and equipping them enhances your stats.",
+    "contentBG": "<color=#ffffff>  </color>"
+  },
+  {
+    "sn": "222942",
+    "name": "Gain: Moon",
+    "typeName": "Revelation",
+    "tips": "Cards collected represent your character's growth, and equipping them enhances your stats.",
+    "contentBG": "<color=#ffffff>  </color>"
+  },
+  {
+    "sn": "222943",
+    "name": "Gain: Star",
+    "typeName": "Revelation",
+    "tips": "Cards collected represent your character's growth, and equipping them enhances your stats.",
+    "contentBG": "<color=#ffffff>  </color>"
+  },
+  {
+    "sn": "222944",
+    "name": "Gain: Sky",
+    "typeName": "Revelation",
+    "tips": "Cards collected represent your character's growth, and equipping them enhances your stats.",
+    "contentBG": "<color=#ffffff>  </color>"
+  },
+  {
+    "sn": "222951",
+    "name": "Gain: Sun",
+    "typeName": "Revelation",
+    "tips": "Cards collected represent your character's growth, and equipping them enhances your stats.",
+    "contentBG": "<color=#ffffff>  </color>"
+  },
+  {
+    "sn": "222952",
+    "name": "Gain: Moon",
+    "typeName": "Revelation",
+    "tips": "Cards collected represent your character's growth, and equipping them enhances your stats.",
+    "contentBG": "<color=#ffffff>  </color>"
+  },
+  {
+    "sn": "222953",
+    "name": "Gain: Star",
+    "typeName": "Revelation",
+    "tips": "Cards collected represent your character's growth, and equipping them enhances your stats.",
+    "contentBG": "<color=#ffffff>  </color>"
+  },
+  {
+    "sn": "222954",
+    "name": "Gain: Sky",
+    "typeName": "Revelation",
+    "tips": "Cards collected represent your character's growth, and equipping them enhances your stats.",
+    "contentBG": "<color=#ffffff>  </color>"
+  },
+  {
+    "sn": "223021",
+    "name": "Depression: Sun",
+    "typeName": "Revelation",
+    "tips": "Cards collected represent your character's growth, and equipping them enhances your stats.",
+    "contentBG": "<color=#ffffff>  </color>"
+  },
+  {
+    "sn": "223022",
+    "name": "Depression: Moon",
+    "typeName": "Revelation",
+    "tips": "Cards collected represent your character's growth, and equipping them enhances your stats.",
+    "contentBG": "<color=#ffffff>  </color>"
+  },
+  {
+    "sn": "223023",
+    "name": "Depression: Star",
+    "typeName": "Revelation",
+    "tips": "Cards collected represent your character's growth, and equipping them enhances your stats.",
+    "contentBG": "<color=#ffffff>  </color>"
+  },
+  {
+    "sn": "223024",
+    "name": "Depression: Sky",
+    "typeName": "Revelation",
+    "tips": "Cards collected represent your character's growth, and equipping them enhances your stats.",
+    "contentBG": "<color=#ffffff>  </color>"
+  },
+  {
+    "sn": "223031",
+    "name": "Depression: Sun",
+    "typeName": "Revelation",
+    "tips": "Cards collected represent your character's growth, and equipping them enhances your stats.",
+    "contentBG": "<color=#ffffff>  </color>"
+  },
+  {
+    "sn": "223032",
+    "name": "Depression: Moon",
+    "typeName": "Revelation",
+    "tips": "Cards collected represent your character's growth, and equipping them enhances your stats.",
+    "contentBG": "<color=#ffffff>  </color>"
+  },
+  {
+    "sn": "223033",
+    "name": "Depression: Star",
+    "typeName": "Revelation",
+    "tips": "Cards collected represent your character's growth, and equipping them enhances your stats.",
+    "contentBG": "<color=#ffffff>  </color>"
+  },
+  {
+    "sn": "223034",
+    "name": "Depression: Sky",
+    "typeName": "Revelation",
+    "tips": "Cards collected represent your character's growth, and equipping them enhances your stats.",
+    "contentBG": "<color=#ffffff>  </color>"
+  },
+  {
+    "sn": "223041",
+    "name": "Depression: Sun",
+    "typeName": "Revelation",
+    "tips": "Cards collected represent your character's growth, and equipping them enhances your stats.",
+    "contentBG": "<color=#ffffff>  </color>"
+  },
+  {
+    "sn": "223042",
+    "name": "Depression: Moon",
+    "typeName": "Revelation",
+    "tips": "Cards collected represent your character's growth, and equipping them enhances your stats.",
+    "contentBG": "<color=#ffffff>  </color>"
+  },
+  {
+    "sn": "223043",
+    "name": "Depression: Star",
+    "typeName": "Revelation",
+    "tips": "Cards collected represent your character's growth, and equipping them enhances your stats.",
+    "contentBG": "<color=#ffffff>  </color>"
+  },
+  {
+    "sn": "223044",
+    "name": "Depression: Sky",
+    "typeName": "Revelation",
+    "tips": "Cards collected represent your character's growth, and equipping them enhances your stats.",
+    "contentBG": "<color=#ffffff>  </color>"
+  },
+  {
+    "sn": "223051",
+    "name": "Depression: Sun",
+    "typeName": "Revelation",
+    "tips": "Cards collected represent your character's growth, and equipping them enhances your stats.",
+    "contentBG": "<color=#ffffff>  </color>"
+  },
+  {
+    "sn": "223052",
+    "name": "Depression: Moon",
+    "typeName": "Revelation",
+    "tips": "Cards collected represent your character's growth, and equipping them enhances your stats.",
+    "contentBG": "<color=#ffffff>  </color>"
+  },
+  {
+    "sn": "223053",
+    "name": "Depression: Star",
+    "typeName": "Revelation",
+    "tips": "Cards collected represent your character's growth, and equipping them enhances your stats.",
+    "contentBG": "<color=#ffffff>  </color>"
+  },
+  {
+    "sn": "223054",
+    "name": "Depression: Sky",
+    "typeName": "Revelation",
+    "tips": "Cards collected represent your character's growth, and equipping them enhances your stats.",
+    "contentBG": "<color=#ffffff>  </color>"
+  },
+  {
     "sn": "230101",
     "name": "Creation",
     "typeName": "Revelation",
@@ -8011,28 +8417,28 @@
     "sn": "231601",
     "name": "The Self",
     "typeName": "Revelation",
-    "tips": "A revelation card symbolizing the self. Equipping it grants various effects.",
+    "tips": "A revelation card symbolizing integrity. Equipping it grants various effects.",
     "contentBG": "<color=#ffffff>  </color>"
   },
   {
     "sn": "231602",
     "name": "The Self",
     "typeName": "Revelation",
-    "tips": "A revelation card symbolizing the self. Equipping it grants various effects.",
+    "tips": "A revelation card symbolizing integrity. Equipping it grants various effects.",
     "contentBG": "<color=#ffffff>  </color>"
   },
   {
     "sn": "231603",
     "name": "The Self",
     "typeName": "Revelation",
-    "tips": "A revelation card symbolizing freedom. Equipping it grants various effects.",
+    "tips": "A revelation card symbolizing integrity. Equipping it grants various effects.",
     "contentBG": "<color=#ffffff>  </color>"
   },
   {
     "sn": "231604",
     "name": "The Self",
     "typeName": "Revelation",
-    "tips": "A revelation card symbolizing freedom. Equipping it grants various effects.",
+    "tips": "A revelation card symbolizing integrity. Equipping it grants various effects.",
     "contentBG": "<color=#ffffff>  </color>"
   },
   {
@@ -8552,6 +8958,34 @@
     "typeName": "Revelation",
     "tips": "A revelation card symbolizing resolution. Equipping it grants various effects.",
     "contentBG": "AAAAAA=="
+  },
+  {
+    "sn": "231701",
+    "name": "Swiftness",
+    "typeName": "Revelation",
+    "tips": "A revelation card symbolizing nativity. Equipping it grants various effects.",
+    "contentBG": "<color=#ffffff>  </color>"
+  },
+  {
+    "sn": "231702",
+    "name": "Swiftness",
+    "typeName": "Revelation",
+    "tips": "A revelation card symbolizing nativity. Equipping it grants various effects.",
+    "contentBG": "<color=#ffffff>  </color>"
+  },
+  {
+    "sn": "231703",
+    "name": "Swiftness",
+    "typeName": "Revelation",
+    "tips": "A revelation card symbolizing nativity. Equipping it grants various effects.",
+    "contentBG": "<color=#ffffff>  </color>"
+  },
+  {
+    "sn": "231704",
+    "name": "Swiftness",
+    "typeName": "Revelation",
+    "tips": "A revelation card symbolizing nativity. Equipping it grants various effects.",
+    "contentBG": "<color=#ffffff>  </color>"
   },
   {
     "sn": "241003",
@@ -13307,6 +13741,20 @@
     "contentBG": "<color=#ffffff>  </color>"
   },
   {
+    "sn": "302311",
+    "name": "Elysian Ink",
+    "typeName": "Material",
+    "tips": "Affixes a sub-attribute to a Revelation Card.",
+    "contentBG": "<color=#ffffff>  </color>"
+  },
+  {
+    "sn": "302312",
+    "name": "Ink of Prophecy",
+    "typeName": "Material",
+    "tips": "Re-affixes a sub-attribute to a Revelation Card.",
+    "contentBG": "<color=#ffffff>  </color>"
+  },
+  {
     "sn": "302401",
     "name": "Skill Incense S",
     "typeName": "Material",
@@ -13353,6 +13801,20 @@
     "name": "Ephemeral Incense",
     "typeName": "Material",
     "tips": "Raises an ally's skill level (up to 10).",
+    "contentBG": "<color=#ffffff>  </color>"
+  },
+  {
+    "sn": "302415",
+    "name": "Incense of Bondage",
+    "typeName": "Material",
+    "tips": "Raises a skill level between Lv. 7 to Lv. 10.",
+    "contentBG": "<color=#ffffff>  </color>"
+  },
+  {
+    "sn": "302416",
+    "name": "Incense of Delusions",
+    "typeName": "Material",
+    "tips": "Raises a skill level between Lv. 7 to Lv. 10.",
     "contentBG": "<color=#ffffff>  </color>"
   },
   {
@@ -15249,70 +15711,70 @@
     "sn": "303326",
     "name": "Basic Barbel Steed",
     "typeName": "Material",
-    "tips": "Can be exchanged for 39 points at the Catch 'n' Trade.",
+    "tips": "Can be exchanged for 28 points at the Catch 'n' Trade.",
     "contentBG": "Known as Ayu in Japan, this fish is a special summer delicacy. It's usually prepared using a unique cooking method."
   },
   {
     "sn": "303327",
     "name": "Good Barbel Steed",
     "typeName": "Material",
-    "tips": "Can be exchanged for 50 points at the Catch 'n' Trade.",
+    "tips": "Can be exchanged for 36 points at the Catch 'n' Trade.",
     "contentBG": "Specially cultivated barbel steed. It has a stronger aroma and a richer taste than other barbel steed."
   },
   {
     "sn": "303328",
     "name": "Great Barbel Steed",
     "typeName": "Material",
-    "tips": "Can be exchanged for 56 points at the Catch 'n' Trade.",
+    "tips": "Can be exchanged for 40 points at the Catch 'n' Trade.",
     "contentBG": "A wild barbel steed caught in a lake with clean water. It's especially delicious."
   },
   {
     "sn": "303329",
     "name": "Prime Barbel Steed",
     "typeName": "Material",
-    "tips": "Can be exchanged for 61 points at the Catch 'n' Trade.",
+    "tips": "Can be exchanged for 44 points at the Catch 'n' Trade.",
     "contentBG": "For some reason, this barbel steed has a tag on it. It seems the fish market has taken an interest in it."
   },
   {
     "sn": "303330",
     "name": "Best Barbel Steed",
     "typeName": "Material",
-    "tips": "Can be exchanged for 72 points at the Catch 'n' Trade.",
+    "tips": "Can be exchanged for 52 points at the Catch 'n' Trade.",
     "contentBG": "For some reason, this barbel steed has a tag on it. It seems the fish market has taken an interest in it."
   },
   {
     "sn": "303331",
     "name": "Basic Japanese Carp",
     "typeName": "Material",
-    "tips": "Can be exchanged for 30 points at the Catch 'n' Trade.",
+    "tips": "Can be exchanged for 28 points at the Catch 'n' Trade.",
     "contentBG": "A medium fish. Grilled, boiled, or fried, it's perfect for all kinds of cooking."
   },
   {
     "sn": "303332",
     "name": "Good Japanese Carp",
     "typeName": "Material",
-    "tips": "Can be exchanged for 39 points at the Catch 'n' Trade.",
+    "tips": "Can be exchanged for 36 points at the Catch 'n' Trade.",
     "contentBG": "A more fatty Japanese carp. It's more suitable for raw consumption than common varieties."
   },
   {
     "sn": "303333",
     "name": "Great Japanese Carp",
     "typeName": "Material",
-    "tips": "Can be exchanged for 44 points at the Catch 'n' Trade.",
+    "tips": "Can be exchanged for 40 points at the Catch 'n' Trade.",
     "contentBG": "A fish that has been specially cultivated to have no fishy smell. It is extremely expensive."
   },
   {
     "sn": "303334",
     "name": "Prime Japanese Carp",
     "typeName": "Material",
-    "tips": "Can be exchanged for 48 points at the Catch 'n' Trade.",
+    "tips": "Can be exchanged for 44 points at the Catch 'n' Trade.",
     "contentBG": "For some reason, this Japanese carp has a tag on it. It seems the fish market has taken an interest in it."
   },
   {
     "sn": "303335",
     "name": "Best Japanese Carp",
     "typeName": "Material",
-    "tips": "Can be exchanged for 57 points at the Catch 'n' Trade.",
+    "tips": "Can be exchanged for 52 points at the Catch 'n' Trade.",
     "contentBG": "For some reason, this Japanese carp has a tag on it. It seems the fish market has taken an interest in it."
   },
   {
@@ -15354,35 +15816,35 @@
     "sn": "303341",
     "name": "Basic Eel",
     "typeName": "Material",
-    "tips": "Can be exchanged for 46 points at the Catch 'n' Trade.",
+    "tips": "Can be exchanged for 50 points at the Catch 'n' Trade.",
     "contentBG": "A fish sometimes used in medicine. It is popular for its tender texture and rich aroma."
   },
   {
     "sn": "303342",
     "name": "Good Eel",
     "typeName": "Material",
-    "tips": "Can be exchanged for 59 points at the Catch 'n' Trade.",
+    "tips": "Can be exchanged for 64 points at the Catch 'n' Trade.",
     "contentBG": "Thick-fleshed eel. Generally bought by high-end restaurants to make eel rice bowls."
   },
   {
     "sn": "303343",
     "name": "Great Eel",
     "typeName": "Material",
-    "tips": "Can be exchanged for 66 points at the Catch 'n' Trade.",
+    "tips": "Can be exchanged for 72 points at the Catch 'n' Trade.",
     "contentBG": "A giant eel far exceeding the usual size. It will probably cause a bidding war at the fish market."
   },
   {
     "sn": "303344",
     "name": "Prime Eel",
     "typeName": "Material",
-    "tips": "Can be exchanged for 72 points at the Catch 'n' Trade.",
+    "tips": "Can be exchanged for 79 points at the Catch 'n' Trade.",
     "contentBG": "For some reason, this eel has a tag on it. It seems the fish market has taken an interest in it."
   },
   {
     "sn": "303345",
     "name": "Best Eel",
     "typeName": "Material",
-    "tips": "Can be exchanged for 85 points at the Catch 'n' Trade.",
+    "tips": "Can be exchanged for 93 points at the Catch 'n' Trade.",
     "contentBG": "For some reason, this eel has a tag on it. It seems the fish market has taken an interest in it."
   },
   {
@@ -15599,105 +16061,105 @@
     "sn": "303376",
     "name": "Basic Masu Salmon",
     "typeName": "Material",
-    "tips": "Can be exchanged for 192 points at the Catch 'n' Trade.",
+    "tips": "Can be exchanged for 157 points at the Catch 'n' Trade.",
     "contentBG": "One of the most common types of trout in Japan. It is often released into fishing ponds as a popular catch."
   },
   {
     "sn": "303377",
     "name": "Good Masu Salmon",
     "typeName": "Material",
-    "tips": "Can be exchanged for 247 points at the Catch 'n' Trade.",
+    "tips": "Can be exchanged for 202 points at the Catch 'n' Trade.",
     "contentBG": "A masu salmon with uniquely colored scales. It prefers artificial bait and is highly valued for both ornamental viewing and fishing."
   },
   {
     "sn": "303378",
     "name": "Great Masu Salmon",
     "typeName": "Material",
-    "tips": "Can be exchanged for 275 points at the Catch 'n' Trade.",
+    "tips": "Can be exchanged for 225 points at the Catch 'n' Trade.",
     "contentBG": "A mature specimen weighing almost two pounds. Extremely rare and can even substitute for premium trout."
   },
   {
     "sn": "303379",
     "name": "Prime Masu Salmon",
     "typeName": "Material",
-    "tips": "Can be exchanged for 302 points at the Catch 'n' Trade.",
+    "tips": "Can be exchanged for 247 points at the Catch 'n' Trade.",
     "contentBG": "For some reason, this masu salmon has a tag on it. It seems the fish market has taken an interest in it."
   },
   {
     "sn": "303380",
     "name": "Best Masu Salmon",
     "typeName": "Material",
-    "tips": "Can be exchanged for 357 points at the Catch 'n' Trade.",
+    "tips": "Can be exchanged for 292 points at the Catch 'n' Trade.",
     "contentBG": "For some reason, this masu salmon has a tag on it. It seems the fish market has taken an interest in it."
   },
   {
     "sn": "303381",
     "name": "Basic Rockfish",
     "typeName": "Material",
-    "tips": "Can be exchanged for 210 points at the Catch 'n' Trade.",
+    "tips": "Can be exchanged for 192 points at the Catch 'n' Trade.",
     "contentBG": "A widely distributed freshwater fish, also known as Chinese perch. It has few bones and is easy to eat."
   },
   {
     "sn": "303382",
     "name": "Good Rockfish",
     "typeName": "Material",
-    "tips": "Can be exchanged for 270 points at the Catch 'n' Trade.",
+    "tips": "Can be exchanged for 247 points at the Catch 'n' Trade.",
     "contentBG": "A rockfish raised with high-quality shrimp and crab. Tastier than regular rockfish."
   },
   {
     "sn": "303383",
     "name": "Great Rockfish",
     "typeName": "Material",
-    "tips": "Can be exchanged for 300 points at the Catch 'n' Trade.",
+    "tips": "Can be exchanged for 275 points at the Catch 'n' Trade.",
     "contentBG": "A delicacy that can only be caught in a specific season. Said to be used in exquisite fermented dishes."
   },
   {
     "sn": "303384",
     "name": "Prime Rockfish",
     "typeName": "Material",
-    "tips": "Can be exchanged for 330 points at the Catch 'n' Trade.",
+    "tips": "Can be exchanged for 302 points at the Catch 'n' Trade.",
     "contentBG": "For some reason, this rockfish has a tag on it. It seems the fish market has taken an interest in it."
   },
   {
     "sn": "303385",
     "name": "Best Rockfish",
     "typeName": "Material",
-    "tips": "Can be exchanged for 390 points at the Catch 'n' Trade.",
+    "tips": "Can be exchanged for 357 points at the Catch 'n' Trade.",
     "contentBG": "For some reason, this rockfish has a tag on it. It seems the fish market has taken an interest in it."
   },
   {
     "sn": "303386",
     "name": "Basic Sturgeon",
     "typeName": "Material",
-    "tips": "Can be exchanged for 227 points at the Catch 'n' Trade.",
+    "tips": "Can be exchanged for 210 points at the Catch 'n' Trade.",
     "contentBG": "Migratory fish. Also known as living fossils of the water. They have only cartilage in their bodies and are delicious."
   },
   {
     "sn": "303387",
     "name": "Good Sturgeon",
     "typeName": "Material",
-    "tips": "Can be exchanged for 292 points at the Catch 'n' Trade.",
+    "tips": "Can be exchanged for 270 points at the Catch 'n' Trade.",
     "contentBG": "A large sturgeon rarely found in fishing ponds. Generally only found in high-difficulty ponds."
   },
   {
     "sn": "303388",
     "name": "Great Sturgeon",
     "typeName": "Material",
-    "tips": "Can be exchanged for 325 points at the Catch 'n' Trade.",
+    "tips": "Can be exchanged for 300 points at the Catch 'n' Trade.",
     "contentBG": "A sturgeon cultivated for over 10 years. It has eggs in its belly, which can be used to make caviar."
   },
   {
     "sn": "303389",
     "name": "Prime Sturgeon",
     "typeName": "Material",
-    "tips": "Can be exchanged for 357 points at the Catch 'n' Trade.",
+    "tips": "Can be exchanged for 330 points at the Catch 'n' Trade.",
     "contentBG": "For some reason, this sturgeon has a tag on it. It seems the fish market has taken an interest in it."
   },
   {
     "sn": "303390",
     "name": "Best Sturgeon",
     "typeName": "Material",
-    "tips": "Can be exchanged for 422 points at the Catch 'n' Trade.",
+    "tips": "Can be exchanged for 390 points at the Catch 'n' Trade.",
     "contentBG": "For some reason, this sturgeon has a tag on it. It seems the fish market has taken an interest in it."
   },
   {
@@ -19398,7 +19860,7 @@
   },
   {
     "sn": "306444",
-    "name": "Featherman: A Corpus",
+    "name": "Soaring Swordsman Saga",
     "typeName": "Book",
     "tips": "Increases your Guts when read.",
     "contentBG": "A magazine that provides an in-depth explanation of the popular action drama series \"Phoenix Ranger Featherman.\"\nIt covers everything from the earliest films to its latest releases!"
@@ -21567,6 +22029,27 @@
     "contentBG": "AAAAAA=="
   },
   {
+    "sn": "306988",
+    "name": "Cloudy Travelogue",
+    "typeName": "Profile Design",
+    "tips": "Can be set as your profile card.",
+    "contentBG": "AAAAAA=="
+  },
+  {
+    "sn": "306989",
+    "name": "Tea Time",
+    "typeName": "Profile Design",
+    "tips": "Can be set as your profile card.",
+    "contentBG": "AAAAAA=="
+  },
+  {
+    "sn": "306990",
+    "name": "Fluffy Forest",
+    "typeName": "Profile Design",
+    "tips": "Can be set as your profile card.",
+    "contentBG": "AAAAAA=="
+  },
+  {
     "sn": "307001",
     "name": "Kokatsu Academy Emblem",
     "typeName": "Badge",
@@ -21966,6 +22449,13 @@
     "contentBG": "AAAAAA=="
   },
   {
+    "sn": "317501",
+    "name": "Makoto Badge",
+    "typeName": "Badge",
+    "tips": "Awarded for raising Makoto's Awareness Level to 6.",
+    "contentBG": "AAAAAA=="
+  },
+  {
     "sn": "317005",
     "name": "Auto Sports Magazine",
     "typeName": "Daily Life Item",
@@ -21992,6 +22482,286 @@
     "typeName": "Daily Life Item",
     "tips": "Can increase Synergy levels with an accomplice.",
     "contentBG": "<color=#ffffff>  </color>"
+  },
+  {
+    "sn": "321001",
+    "name": "Makoto's Dream Fragment",
+    "typeName": "Dream Fragment",
+    "tips": "Obtained from Tartarus. Can be used to unlock Makoto Yuki's side story.",
+    "contentBG": "<color=#ffffff>  </color>"
+  },
+  {
+    "sn": "321002",
+    "name": "Umiushi Beef Bowl",
+    "typeName": "Dream Item",
+    "tips": "Used to unlock Makoto Yuki's character story.",
+    "contentBG": "<color=#ffffff>  </color>"
+  },
+  {
+    "sn": "321003",
+    "name": "Potent Medicine",
+    "typeName": "Dream Item",
+    "tips": "Used to unlock Makoto Yuki's character story.",
+    "contentBG": "<color=#ffffff>  </color>"
+  },
+  {
+    "sn": "321004",
+    "name": "Pretty Seashell",
+    "typeName": "Dream Item",
+    "tips": "Used to unlock Makoto Yuki's character story.",
+    "contentBG": "<color=#ffffff>  </color>"
+  },
+  {
+    "sn": "321005",
+    "name": "Yukari's Dream Fragment",
+    "typeName": "Dream Fragment",
+    "tips": "Obtained from Tartarus. Can be used to unlock Yukari Takeba's side story.",
+    "contentBG": "<color=#ffffff>  </color>"
+  },
+  {
+    "sn": "321006",
+    "name": "Chilled Taiyaki",
+    "typeName": "Dream Item",
+    "tips": "Used to unlock Yukari Takeba's character story.",
+    "contentBG": "<color=#ffffff>  </color>"
+  },
+  {
+    "sn": "321007",
+    "name": "Student Album",
+    "typeName": "Dream Item",
+    "tips": "Used to unlock Yukari Takeba's character story.",
+    "contentBG": "<color=#ffffff>  </color>"
+  },
+  {
+    "sn": "321008",
+    "name": "Poinsettia",
+    "typeName": "Dream Item",
+    "tips": "Used to unlock Yukari Takeba's character story.",
+    "contentBG": "<color=#ffffff>  </color>"
+  },
+  {
+    "sn": "321009",
+    "name": "Junpei's Dream Fragment",
+    "typeName": "Dream Fragment",
+    "tips": "Obtained from Tartarus. Can be used to unlock Junpei Iori's side story.",
+    "contentBG": "<color=#ffffff>  </color>"
+  },
+  {
+    "sn": "321010",
+    "name": "Japanese Doll",
+    "typeName": "Dream Item",
+    "tips": "Used to unlock Junpei Iori's character story.",
+    "contentBG": "<color=#ffffff>  </color>"
+  },
+  {
+    "sn": "321011",
+    "name": "Book Cover",
+    "typeName": "Dream Item",
+    "tips": "Used to unlock Junpei Iori's character story.",
+    "contentBG": "<color=#ffffff>  </color>"
+  },
+  {
+    "sn": "321012",
+    "name": "Rose Bouquet",
+    "typeName": "Dream Item",
+    "tips": "Used to unlock Junpei Iori's character story.",
+    "contentBG": "<color=#ffffff>  </color>"
+  },
+  {
+    "sn": "321013",
+    "name": "Mitsuru's Dream Fragment",
+    "typeName": "Dream Fragment",
+    "tips": "Obtained from Tartarus. Can be used to unlock Mitsuru Kirijo's side story.",
+    "contentBG": "<color=#ffffff>  </color>"
+  },
+  {
+    "sn": "321014",
+    "name": "Fencing Épée",
+    "typeName": "Dream Item",
+    "tips": "Used to unlock Mitsuru Kirijo's character story.",
+    "contentBG": "<color=#ffffff>  </color>"
+  },
+  {
+    "sn": "321015",
+    "name": "Fancy Nails",
+    "typeName": "Dream Item",
+    "tips": "Used to unlock Mitsuru Kirijo's character story.",
+    "contentBG": "<color=#ffffff>  </color>"
+  },
+  {
+    "sn": "321016",
+    "name": "Goggle-Eyed Idol",
+    "typeName": "Dream Item",
+    "tips": "Used to unlock Mitsuru Kirijo's character story.",
+    "contentBG": "<color=#ffffff>  </color>"
+  },
+  {
+    "sn": "321017",
+    "name": "Sanada's Dream Fragment",
+    "typeName": "Dream Fragment",
+    "tips": "Obtained from Tartarus. Can be used to unlock Akihiko Sanada's side story.",
+    "contentBG": "<color=#ffffff>  </color>"
+  },
+  {
+    "sn": "321018",
+    "name": "Amateur Protein",
+    "typeName": "Dream Item",
+    "tips": "Used to unlock Akihiko Sanada's character story.",
+    "contentBG": "<color=#ffffff>  </color>"
+  },
+  {
+    "sn": "321019",
+    "name": "Gekkoukan Boogie",
+    "typeName": "Dream Item",
+    "tips": "Used to unlock Akihiko Sanada's character story.",
+    "contentBG": "<color=#ffffff>  </color>"
+  },
+  {
+    "sn": "321020",
+    "name": "Muscle Drink",
+    "typeName": "Dream Item",
+    "tips": "Used to unlock Akihiko Sanada's character story.",
+    "contentBG": "<color=#ffffff>  </color>"
+  },
+  {
+    "sn": "321021",
+    "name": "Fuuka's Dream Fragment",
+    "typeName": "Dream Fragment",
+    "tips": "Obtained from Tartarus. Can be used to unlock Fuuka Yamagishi's side story.",
+    "contentBG": "<color=#ffffff>  </color>"
+  },
+  {
+    "sn": "321022",
+    "name": "Glass Vase",
+    "typeName": "Dream Item",
+    "tips": "Used to unlock Fuuka Yamagishi's character story.",
+    "contentBG": "<color=#ffffff>  </color>"
+  },
+  {
+    "sn": "321023",
+    "name": "Turtleneck",
+    "typeName": "Dream Item",
+    "tips": "Used to unlock Fuuka Yamagishi's character story.",
+    "contentBG": "<color=#ffffff>  </color>"
+  },
+  {
+    "sn": "321024",
+    "name": "Buff Potato Sprout",
+    "typeName": "Dream Item",
+    "tips": "Used to unlock Fuuka Yamagishi's character story.",
+    "contentBG": "<color=#ffffff>  </color>"
+  },
+  {
+    "sn": "321025",
+    "name": "Aigis' Dream Fragment",
+    "typeName": "Dream Fragment",
+    "tips": "Obtained from Tartarus. Can be used to unlock Aigis's side story.",
+    "contentBG": "<color=#ffffff>  </color>"
+  },
+  {
+    "sn": "321026",
+    "name": "Aigis",
+    "typeName": "Dream Item",
+    "tips": "AAAAAA==",
+    "contentBG": "AAAAAA=="
+  },
+  {
+    "sn": "321027",
+    "name": "Aigis",
+    "typeName": "Dream Item",
+    "tips": "AAAAAA==",
+    "contentBG": "AAAAAA=="
+  },
+  {
+    "sn": "321028",
+    "name": "Aigis",
+    "typeName": "Dream Item",
+    "tips": "AAAAAA==",
+    "contentBG": "AAAAAA=="
+  },
+  {
+    "sn": "321029",
+    "name": "Amada's Dream Fragment",
+    "typeName": "Dream Fragment",
+    "tips": "Obtained from Tartarus. Can be used to unlock Ken Amada's side story.",
+    "contentBG": "<color=#ffffff>  </color>"
+  },
+  {
+    "sn": "321030",
+    "name": "Ken Amada",
+    "typeName": "Dream Item",
+    "tips": "AAAAAA==",
+    "contentBG": "AAAAAA=="
+  },
+  {
+    "sn": "321031",
+    "name": "Ken Amada",
+    "typeName": "Dream Item",
+    "tips": "AAAAAA==",
+    "contentBG": "AAAAAA=="
+  },
+  {
+    "sn": "321032",
+    "name": "Ken Amada",
+    "typeName": "Dream Item",
+    "tips": "AAAAAA==",
+    "contentBG": "AAAAAA=="
+  },
+  {
+    "sn": "321033",
+    "name": "Koromaru's Dream Fragment",
+    "typeName": "Dream Fragment",
+    "tips": "Obtained from Tartarus. Can be used to unlock Koromaru's side story.",
+    "contentBG": "<color=#ffffff>  </color>"
+  },
+  {
+    "sn": "321034",
+    "name": "Fruit Knife",
+    "typeName": "Dream Item",
+    "tips": "Used to unlock Koromaru's character story.",
+    "contentBG": "<color=#ffffff>  </color>"
+  },
+  {
+    "sn": "321035",
+    "name": "Lucky Charm",
+    "typeName": "Dream Item",
+    "tips": "Used to unlock Koromaru's character story.",
+    "contentBG": "<color=#ffffff>  </color>"
+  },
+  {
+    "sn": "321036",
+    "name": "Dog Suit",
+    "typeName": "Dream Item",
+    "tips": "Used to unlock Koromaru's character story.",
+    "contentBG": "<color=#ffffff>  </color>"
+  },
+  {
+    "sn": "321037",
+    "name": "Aragaki's Dream Fragment",
+    "typeName": "Dream Fragment",
+    "tips": "Obtained from Tartarus. Can be used to unlock Shinjiro Aragaki's side story.",
+    "contentBG": "<color=#ffffff>  </color>"
+  },
+  {
+    "sn": "321038",
+    "name": "Shinjiro Aragaki",
+    "typeName": "Dream Item",
+    "tips": "AAAAAA==",
+    "contentBG": "AAAAAA=="
+  },
+  {
+    "sn": "321039",
+    "name": "Shinjiro Aragaki",
+    "typeName": "Dream Item",
+    "tips": "AAAAAA==",
+    "contentBG": "AAAAAA=="
+  },
+  {
+    "sn": "321040",
+    "name": "Shinjiro Aragaki",
+    "typeName": "Dream Item",
+    "tips": "AAAAAA==",
+    "contentBG": "AAAAAA=="
   },
   {
     "sn": "307055",
@@ -22316,6 +23086,27 @@
     "contentBG": "AAAAAA=="
   },
   {
+    "sn": "311046",
+    "name": "Butler Makoto Avatar",
+    "typeName": "Avatar",
+    "tips": "Can be set as your profile avatar.",
+    "contentBG": "AAAAAA=="
+  },
+  {
+    "sn": "311047",
+    "name": "Makoto Avatar",
+    "typeName": "Avatar",
+    "tips": "Can be set as your profile avatar.",
+    "contentBG": "AAAAAA=="
+  },
+  {
+    "sn": "311048",
+    "name": "Makoto Avatar",
+    "typeName": "Avatar",
+    "tips": "Can be set as your profile avatar.",
+    "contentBG": "AAAAAA=="
+  },
+  {
     "sn": "307100",
     "name": "Turbo Badge",
     "typeName": "Badge",
@@ -22568,6 +23359,20 @@
     "contentBG": "AAAAAA=="
   },
   {
+    "sn": "312037",
+    "name": "Blue Moon Glory",
+    "typeName": "Frame",
+    "tips": "Can be set as your profile frame.",
+    "contentBG": "AAAAAA=="
+  },
+  {
+    "sn": "312038",
+    "name": "Candy Conundrum",
+    "typeName": "Frame",
+    "tips": "Can be set as your profile frame.",
+    "contentBG": "AAAAAA=="
+  },
+  {
     "sn": "311019",
     "name": "Soulmate Runa Avatar",
     "typeName": "Avatar",
@@ -22586,6 +23391,13 @@
     "name": "Howler Avatar",
     "typeName": "Avatar",
     "tips": "Can be set as your profile avatar.",
+    "contentBG": "AAAAAA=="
+  },
+  {
+    "sn": "312036",
+    "name": "Blue Sky Vista",
+    "typeName": "Frame",
+    "tips": "Can be set as your profile frame.",
     "contentBG": "AAAAAA=="
   },
   {
@@ -23919,6 +24731,34 @@
     "contentBG": "<color=#ffffff>  </color>"
   },
   {
+    "sn": "314266",
+    "name": "Barbaric Beast Wheel: New Moon",
+    "typeName": "Badge",
+    "tips": "Awarded for clearing Recollections Under Moonlight on difficulty 10 in Luminous Island.",
+    "contentBG": "AAAAAA=="
+  },
+  {
+    "sn": "314267",
+    "name": "Barbaric Beast Wheel: Crescent Moon",
+    "typeName": "Badge",
+    "tips": "Awarded for clearing Recollections Under Moonlight on difficulty 20 in Luminous Island.",
+    "contentBG": "AAAAAA=="
+  },
+  {
+    "sn": "314268",
+    "name": "Barbaric Beast Wheel: Half Moon",
+    "typeName": "Badge",
+    "tips": "Awarded for clearing Recollections Under Moonlight on difficulty 25 in Luminous Island.",
+    "contentBG": "AAAAAA=="
+  },
+  {
+    "sn": "314269",
+    "name": "Barbaric Beast Wheel: Full Moon",
+    "typeName": "Badge",
+    "tips": "Awarded for clearing Recollections Under Moonlight on difficulty 30 in Luminous Island.",
+    "contentBG": "AAAAAA=="
+  },
+  {
     "sn": "314183",
     "name": "Got Your Back",
     "typeName": "Badge",
@@ -23937,6 +24777,97 @@
     "name": "Tough Love",
     "typeName": "Badge",
     "tips": "Awarded for clearing Boss Battle: Stage 3 in Take Your Love.",
+    "contentBG": "AAAAAA=="
+  },
+  {
+    "sn": "314292",
+    "name": "Special Event 3 Battle Badge",
+    "typeName": "Badge",
+    "tips": "Achieve 100% exploration progress in Strike like Lightning. ",
+    "contentBG": "AAAAAA=="
+  },
+  {
+    "sn": "314270",
+    "name": "Tartarus: Arbiter",
+    "typeName": "Badge",
+    "tips": "The highest floor you've reached during Tartarus exploration will be recorded.",
+    "contentBG": "AAAAAA=="
+  },
+  {
+    "sn": "314271",
+    "name": "New Moon of the Dark Hour",
+    "typeName": "Badge",
+    "tips": "Awarded for playing Met by Moonlight: Luminous Island.",
+    "contentBG": "AAAAAA=="
+  },
+  {
+    "sn": "314272",
+    "name": "Lascivious Lady: New Moon",
+    "typeName": "Badge",
+    "tips": "Awarded for clearing Sinner of Delusion on difficulty 10 in Recollections of Fate.",
+    "contentBG": "AAAAAA=="
+  },
+  {
+    "sn": "314273",
+    "name": "Lascivious Lady: Crescent Moon",
+    "typeName": "Badge",
+    "tips": "Awarded for clearing Sinner of Delusion on difficulty 20 in Recollections of Fate.",
+    "contentBG": "AAAAAA=="
+  },
+  {
+    "sn": "314274",
+    "name": "Lascivious Lady: Half Moon",
+    "typeName": "Badge",
+    "tips": "Awarded for clearing Sinner of Delusion on difficulty 25 in Recollections of Fate.",
+    "contentBG": "AAAAAA=="
+  },
+  {
+    "sn": "314275",
+    "name": "Lascivious Lady: Full Moon",
+    "typeName": "Badge",
+    "tips": "Awarded for clearing Sinner of Delusion on difficulty 30 in Recollections of Fate.",
+    "contentBG": "AAAAAA=="
+  },
+  {
+    "sn": "314276",
+    "name": "Lascivious Lady: Blood Moon",
+    "typeName": "Badge",
+    "tips": "Awarded for clearing Sinner of Delusion on the highest difficulty in Recollections of Fate.",
+    "contentBG": "AAAAAA=="
+  },
+  {
+    "sn": "314277",
+    "name": "Luminous Island",
+    "typeName": "Badge",
+    "tips": "Play the Wish Line in Metro of Desire.",
+    "contentBG": "AAAAAA=="
+  },
+  {
+    "sn": "314278",
+    "name": "High Priestess: New Moon",
+    "typeName": "Badge",
+    "tips": "Awarded for clearing Boss Battle on difficulty 10 in Recollections by Moonlight.",
+    "contentBG": "AAAAAA=="
+  },
+  {
+    "sn": "314279",
+    "name": "High Priestess: Waning Crescent",
+    "typeName": "Badge",
+    "tips": "Awarded for clearing Boss Battle on difficulty 20 in Recollections by Moonlight.",
+    "contentBG": "AAAAAA=="
+  },
+  {
+    "sn": "314280",
+    "name": "High Priestess: Waxing Crescent",
+    "typeName": "Badge",
+    "tips": "Awarded for clearing Boss Battle on difficulty 25 in Recollections by Moonlight.",
+    "contentBG": "AAAAAA=="
+  },
+  {
+    "sn": "314281",
+    "name": "High Priestess: Full Moon",
+    "typeName": "Badge",
+    "tips": "Awarded for clearing Boss Battle on difficulty 30 in Recollections by Moonlight.",
     "contentBG": "AAAAAA=="
   },
   {
@@ -24197,6 +25128,41 @@
     "typeName": "Badge",
     "tips": "Awarded for holding 7★ Class 2 when the Trials from the Sea of Souls ends.",
     "contentBG": "<color=#ffffff>  </color>"
+  },
+  {
+    "sn": "314287",
+    "name": "Full Moon High Priestess: 1st Run",
+    "typeName": "Badge",
+    "tips": "Awarded for defeating Priestess in Tartarus on your 1st run or later.",
+    "contentBG": "AAAAAA=="
+  },
+  {
+    "sn": "314288",
+    "name": "Full Moon High Priestess: 5th Run",
+    "typeName": "Badge",
+    "tips": "Awarded for defeating Priestess in Tartarus on your 5th run or later.",
+    "contentBG": "AAAAAA=="
+  },
+  {
+    "sn": "314289",
+    "name": "Full Moon High Priestess: 8th Run",
+    "typeName": "Badge",
+    "tips": "Awarded for defeating Priestess in Tartarus on your 8th run or later.",
+    "contentBG": "AAAAAA=="
+  },
+  {
+    "sn": "314290",
+    "name": "Full Moon High Priestess: 10th Run",
+    "typeName": "Badge",
+    "tips": "Awarded for defeating Priestess in Tartarus on your 10th run or later.",
+    "contentBG": "AAAAAA=="
+  },
+  {
+    "sn": "314291",
+    "name": "Full Moon High Priestess: 12th Run",
+    "typeName": "Badge",
+    "tips": "Awarded for defeating Priestess in Tartarus on your 12th run or later.",
+    "contentBG": "AAAAAA=="
   },
   {
     "sn": "314233",
@@ -24521,6 +25487,48 @@
     "contentBG": "<color=#ffffff>  </color>"
   },
   {
+    "sn": "314446",
+    "name": "Tartarus: Control",
+    "typeName": "Badge",
+    "tips": "The highest floor you've reached during Tartarus exploration will be recorded.",
+    "contentBG": "AAAAAA=="
+  },
+  {
+    "sn": "314459",
+    "name": "Dark Hunter's Moon: First Meeting",
+    "typeName": "Badge",
+    "tips": "Awarded for encountering the Reaper for the first time during Tartarus exploration.",
+    "contentBG": "AAAAAA=="
+  },
+  {
+    "sn": "314460",
+    "name": "Dark Hunter's Moon: 1st Run",
+    "typeName": "Badge",
+    "tips": "Awarded for defeating the Reaper in Tartarus on your 1st run or later.",
+    "contentBG": "AAAAAA=="
+  },
+  {
+    "sn": "314461",
+    "name": "Dark Hunter's Moon: 2nd Run",
+    "typeName": "Badge",
+    "tips": "Awarded for defeating the Reaper in Tartarus on your 2nd run or later.",
+    "contentBG": "AAAAAA=="
+  },
+  {
+    "sn": "314462",
+    "name": "Dark Hunter's Moon: 3rd Run",
+    "typeName": "Badge",
+    "tips": "Awarded for defeating the Reaper in Tartarus on your 3rd run or later.",
+    "contentBG": "AAAAAA=="
+  },
+  {
+    "sn": "314463",
+    "name": "Dark Hunter's Moon: 4th Run",
+    "typeName": "Badge",
+    "tips": "Awarded for defeating the Reaper in Tartarus on your 4th run or later.",
+    "contentBG": "AAAAAA=="
+  },
+  {
     "sn": "314999",
     "name": "Error: tnxotb-[Item_name_314999]",
     "typeName": "Badge",
@@ -24776,14 +25784,14 @@
     "sn": "318001",
     "name": "AAAAAA==",
     "typeName": "Chatbox",
-    "tips": "AAAAAA==",
+    "tips": "Can be set as your profile frame.",
     "contentBG": "AAAAAA=="
   },
   {
     "sn": "318002",
     "name": "AAAAAA==",
     "typeName": "Chatbox",
-    "tips": "AAAAAA==",
+    "tips": "Can be set as your profile frame.",
     "contentBG": "AAAAAA=="
   },
   {
@@ -27545,6 +28553,20 @@
     "contentBG": "<color=#ffffff>  </color>"
   },
   {
+    "sn": "309506",
+    "name": "Combat Gear",
+    "typeName": "Outfit",
+    "tips": "Changes Makoto's appearance to his SEES attire.",
+    "contentBG": "<color=#ffffff>  </color>"
+  },
+  {
+    "sn": "309507",
+    "name": "Butler Suit",
+    "typeName": "Outfit",
+    "tips": "Changes Makoto's appearance to his butler suit.\nCan be obtained by purchasing the Butler Makoto Set in the Shop.",
+    "contentBG": "<color=#ffffff>  </color>"
+  },
+  {
     "sn": "309048",
     "name": "Orange Athleisure Outfit",
     "typeName": "Casualwear",
@@ -28567,6 +29589,13 @@
     "contentBG": "<color=#ffffff>  </color>"
   },
   {
+    "sn": "314535",
+    "name": "Tartarus: Sweep",
+    "typeName": "Badge",
+    "tips": "The highest floor you've reached during Tartarus exploration will be recorded.",
+    "contentBG": "AAAAAA=="
+  },
+  {
     "sn": "310317",
     "name": "Pharaoh Fever",
     "typeName": "Capsule Toy",
@@ -29351,6 +30380,20 @@
     "contentBG": "<color=#ffffff>  </color>"
   },
   {
+    "sn": "351391",
+    "name": "Makoto's Cognitite Shard",
+    "typeName": "Cognitite Shard",
+    "tips": "Collect 60 to obtain one Makoto's Cognitite.",
+    "contentBG": "<color=#ffffff>  </color>"
+  },
+  {
+    "sn": "360025",
+    "name": "AAAAAA==",
+    "typeName": "AAAAAA==",
+    "tips": "AAAAAA==",
+    "contentBG": "<color=#ffffff>  </color>"
+  },
+  {
     "sn": "320042",
     "name": "Mini Brown Hedgehog",
     "typeName": "Crane Game",
@@ -30049,6 +31092,41 @@
     "typeName": "Badge",
     "tips": "Clear all Stellae within 1 season of Trial of the Astrolabe using the minimum amount of Willpower.",
     "contentBG": "<color=#ffffff>  </color>"
+  },
+  {
+    "sn": "316047",
+    "name": "Ethereal Hunter's Moon: First Meeting",
+    "typeName": "Badge",
+    "tips": "Awarded for encountering the Reaper for the first time during Tartarus exploration.",
+    "contentBG": "AAAAAA=="
+  },
+  {
+    "sn": "316048",
+    "name": "Ethereal Hunter's Moon: 1st Run",
+    "typeName": "Badge",
+    "tips": "Awarded for defeating the Reaper in Tartarus on your 1st run or later.",
+    "contentBG": "AAAAAA=="
+  },
+  {
+    "sn": "316049",
+    "name": "Ethereal Hunter's Moon: 2nd Run",
+    "typeName": "Badge",
+    "tips": "Awarded for defeating the Reaper in Tartarus on your 2nd run or later.",
+    "contentBG": "AAAAAA=="
+  },
+  {
+    "sn": "316050",
+    "name": "Ethereal Hunter's Moon: 3rd Run",
+    "typeName": "Badge",
+    "tips": "Awarded for defeating the Reaper in Tartarus on your 3rd run or later.",
+    "contentBG": "AAAAAA=="
+  },
+  {
+    "sn": "316051",
+    "name": "Ethereal Hunter's Moon: 4th Run",
+    "typeName": "Badge",
+    "tips": "Awarded for defeating the Reaper in Tartarus on your 4th run or later.",
+    "contentBG": "AAAAAA=="
   },
   {
     "sn": "360014",
@@ -31087,6 +32165,13 @@
     "contentBG": "<color=#ffffff>  </color>"
   },
   {
+    "sn": "410541",
+    "name": "Twilight Fragment",
+    "typeName": "Key Item",
+    "tips": "Used to open treasure chests.",
+    "contentBG": "AAAAAA=="
+  },
+  {
     "sn": "410509",
     "name": "Empty Item for Logic",
     "typeName": "Key Item",
@@ -31426,7 +32511,7 @@
     "sn": "500092",
     "name": "Premium+ Special",
     "typeName": "Preview",
-    "tips": "The following items can be obtained after purchasing a Premium+ Phantom Pass:\n• Exclusive Outfit: <link=\"fashion|309077\"><u><color=#29b6ff>Gray Duffle Coat</color></u></link>\n• Exclusive Profile Card: <link=\"display|306956\"><u><color=#29b6ff>Freshly-Picked Persimmon</color></u></link>\n• Exclusive Frame: <link=\"display|306887\"><u><color=#29b6ff>Eighth Scarf</color></u></link>\n\n• Plus, Spray-On Dye x1 as a bonus.\nNew outfit colors will also unlock after you obtain your exclusive outfit and go to the in-game closet on the second floor of your home.\nThese colors include <link=\"fashion|309078\"><u><color=#ffce09>Dark Brown Duffle Coat</color></u></link>, <link=\"fashion|309079\"><u><color=#00aeff>Dark Blue Duffle Coat</color></u></link>, and <link=\"fashion|309080\"><u><color=#ff381d>Red Duffle Coat</color></u></link>.",
+    "tips": "The following items can be obtained after purchasing a Premium+ Phantom Pass:\n• Exclusive Outfit: <link=\"fashion|309077\"><u><color=#29b6ff>Gray Duffle Coat</color></u></link>\n• Exclusive Profile Card: <link=\"display|306956\"><u><color=#29b6ff>Freshly-Picked Persimmon</u></link>\n• Exclusive Frame: <link=\"display|306887\"><u><color=#29b6ff>Eighth Scarf</color></u></link>\n\n• Plus, Spray-On Dye x1 as a bonus.\nNew outfit colors will also unlock after you obtain your exclusive outfit and go to the in-game closet on the second floor of your home.\nThese colors include <link=\"fashion|309078\"><u><color=#ffce09>Dark Brown Duffle Coat</color></u></link>, <link=\"fashion|309079\"><u><color=#00aeff>Dark Blue Duffle Coat</color></u></link>, and <link=\"fashion|309080\"><u><color=#ff381d>Red Duffle Coat</color></u></link>.",
     "contentBG": "<color=#ffffff>  </color>"
   },
   {
@@ -37016,6 +38101,62 @@
     "contentBG": "AAAAAA=="
   },
   {
+    "sn": "540105",
+    "name": "Gain",
+    "typeName": "Revelation Set",
+    "tips": "AAAAAA==",
+    "contentBG": "<color=#ffffff>  </color>"
+  },
+  {
+    "sn": "540106",
+    "name": "Gain",
+    "typeName": "Revelation Set",
+    "tips": "AAAAAA==",
+    "contentBG": "<color=#ffffff>  </color>"
+  },
+  {
+    "sn": "540107",
+    "name": "Gain",
+    "typeName": "Revelation Set",
+    "tips": "AAAAAA==",
+    "contentBG": "<color=#ffffff>  </color>"
+  },
+  {
+    "sn": "540108",
+    "name": "Gain",
+    "typeName": "Revelation Set",
+    "tips": "AAAAAA==",
+    "contentBG": "<color=#ffffff>  </color>"
+  },
+  {
+    "sn": "540109",
+    "name": "Depression",
+    "typeName": "Revelation Set",
+    "tips": "AAAAAA==",
+    "contentBG": "<color=#ffffff>  </color>"
+  },
+  {
+    "sn": "540110",
+    "name": "Depression",
+    "typeName": "Revelation Set",
+    "tips": "AAAAAA==",
+    "contentBG": "<color=#ffffff>  </color>"
+  },
+  {
+    "sn": "540111",
+    "name": "Depression",
+    "typeName": "Revelation Set",
+    "tips": "AAAAAA==",
+    "contentBG": "<color=#ffffff>  </color>"
+  },
+  {
+    "sn": "540112",
+    "name": "Depression",
+    "typeName": "Revelation Set",
+    "tips": "AAAAAA==",
+    "contentBG": "<color=#ffffff>  </color>"
+  },
+  {
     "sn": "530198",
     "name": "Thud!",
     "typeName": "Emote",
@@ -37678,6 +38819,13 @@
     "name": "Twins' Cognitite Shard",
     "typeName": "Cognitite Shard",
     "tips": "Collect 60 to obtain one Twins' Cognitite.",
+    "contentBG": "<color=#ffffff>  </color>"
+  },
+  {
+    "sn": "410542",
+    "name": "Lost Jack Frost Plushie",
+    "typeName": "Key Item",
+    "tips": "AAAAAA==",
     "contentBG": "<color=#ffffff>  </color>"
   },
   {

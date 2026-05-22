@@ -1,0 +1,416 @@
+[
+  {
+    "sn": "10011",
+    "name": "HP",
+    "desc": "Increase HP by 400.",
+    "typeName": "Basic Abilities"
+  },
+  {
+    "sn": "10012",
+    "name": "HP",
+    "desc": "Increase HP by 400.",
+    "typeName": "Basic Abilities"
+  },
+  {
+    "sn": "10013",
+    "name": "HP",
+    "desc": "Increase HP by 500.",
+    "typeName": "Basic Abilities"
+  },
+  {
+    "sn": "10014",
+    "name": "HP",
+    "desc": "Increase HP by 600.",
+    "typeName": "Basic Abilities"
+  },
+  {
+    "sn": "10015",
+    "name": "HP",
+    "desc": "Increase HP by 600.",
+    "typeName": "Basic Abilities"
+  },
+  {
+    "sn": "10021",
+    "name": "Attack",
+    "desc": "Increase Attack by 150.",
+    "typeName": "Basic Abilities"
+  },
+  {
+    "sn": "10022",
+    "name": "Attack",
+    "desc": "Increase Attack by 150.",
+    "typeName": "Basic Abilities"
+  },
+  {
+    "sn": "10023",
+    "name": "Attack",
+    "desc": "Increase Attack by 200.",
+    "typeName": "Basic Abilities"
+  },
+  {
+    "sn": "10024",
+    "name": "Attack",
+    "desc": "Increase Attack by 250.",
+    "typeName": "Basic Abilities"
+  },
+  {
+    "sn": "10031",
+    "name": "Defense",
+    "desc": "Increase Defense by 150.",
+    "typeName": "Basic Abilities"
+  },
+  {
+    "sn": "10032",
+    "name": "Defense",
+    "desc": "Increase Defense by 150.",
+    "typeName": "Basic Abilities"
+  },
+  {
+    "sn": "10033",
+    "name": "Defense",
+    "desc": "Increase Defense by 200.",
+    "typeName": "Basic Abilities"
+  },
+  {
+    "sn": "10034",
+    "name": "Defense",
+    "desc": "Increase Defense by 250.",
+    "typeName": "Basic Abilities"
+  },
+  {
+    "sn": "10041",
+    "name": "HP Percentage",
+    "desc": "Increase HP by 5%.",
+    "typeName": "Basic Abilities"
+  },
+  {
+    "sn": "10042",
+    "name": "HP Percentage",
+    "desc": "Increase HP by 5%.",
+    "typeName": "Basic Abilities"
+  },
+  {
+    "sn": "10043",
+    "name": "HP Percentage",
+    "desc": "Increase HP by 10%.",
+    "typeName": "Basic Abilities"
+  },
+  {
+    "sn": "10044",
+    "name": "HP Percentage",
+    "desc": "Increase HP by 10%.",
+    "typeName": "Basic Abilities"
+  },
+  {
+    "sn": "10051",
+    "name": "Attack Percentage",
+    "desc": "Increase Attack by 5%.",
+    "typeName": "Basic Abilities"
+  },
+  {
+    "sn": "10052",
+    "name": "Attack Percentage",
+    "desc": "Increase Attack by 5%.",
+    "typeName": "Basic Abilities"
+  },
+  {
+    "sn": "10053",
+    "name": "Attack Percentage",
+    "desc": "Increase Attack by 10%.",
+    "typeName": "Basic Abilities"
+  },
+  {
+    "sn": "10054",
+    "name": "Attack Percentage",
+    "desc": "Increase Attack by 10%.",
+    "typeName": "Basic Abilities"
+  },
+  {
+    "sn": "10061",
+    "name": "Defense Percentage",
+    "desc": "Increase Defense by 10%.",
+    "typeName": "Basic Abilities"
+  },
+  {
+    "sn": "10062",
+    "name": "Defense Percentage",
+    "desc": "Increase Defense by 10%.",
+    "typeName": "Basic Abilities"
+  },
+  {
+    "sn": "10063",
+    "name": "Defense Percentage",
+    "desc": "Increase Defense by 10%.",
+    "typeName": "Basic Abilities"
+  },
+  {
+    "sn": "10064",
+    "name": "Defense Percentage",
+    "desc": "Increase Defense by 10%.",
+    "typeName": "Basic Abilities"
+  },
+  {
+    "sn": "10071",
+    "name": "Damage Mult. +",
+    "desc": "Increase damage bonus by 10%. Increase HP by 10%.",
+    "typeName": "Basic Abilities"
+  },
+  {
+    "sn": "10072",
+    "name": "Damage Mult. +",
+    "desc": "Increase damage bonus by 10%. Increase HP by 10%.",
+    "typeName": "Basic Abilities"
+  },
+  {
+    "sn": "10073",
+    "name": "Damage Mult. +",
+    "desc": "Increase damage bonus by 10%. Increase HP by 10%.",
+    "typeName": "Basic Abilities"
+  },
+  {
+    "sn": "10081",
+    "name": "HP Recovery",
+    "desc": "Increase HP recovery by 10%. Increase Attack by 150.",
+    "typeName": "Basic Abilities"
+  },
+  {
+    "sn": "10082",
+    "name": "HP Recovery",
+    "desc": "Increase HP recovery by 10%. Increase Attack by 200.",
+    "typeName": "Basic Abilities"
+  },
+  {
+    "sn": "10091",
+    "name": "Shield",
+    "desc": "Increase shield by 10%. Increase Attack by 200.",
+    "typeName": "Basic Abilities"
+  },
+  {
+    "sn": "10092",
+    "name": "Shield",
+    "desc": "Increase shield by 10%. Increase Attack by 250.",
+    "typeName": "Basic Abilities"
+  },
+  {
+    "sn": "10101",
+    "name": "Ailment Accuracy",
+    "desc": "Increase ailment accuracy by 10%. Increase Defense by 20%.",
+    "typeName": "Basic Abilities"
+  },
+  {
+    "sn": "10102",
+    "name": "Ailment Accuracy",
+    "desc": "Increase ailment accuracy by 5%. Increase Attack by 10%.",
+    "typeName": "Basic Abilities"
+  },
+  {
+    "sn": "10103",
+    "name": "Ailment Accuracy",
+    "desc": "Increase ailment accuracy by 10%. Increase Attack by 10%.",
+    "typeName": "Basic Abilities"
+  },
+  {
+    "sn": "10111",
+    "name": "Ailment Resistance",
+    "desc": "Increase ailment resistance by 10%. Increase Attack by 5%.",
+    "typeName": "Basic Abilities"
+  },
+  {
+    "sn": "10112",
+    "name": "Ailment Resistance",
+    "desc": "Increase ailment resistance by 10%. Increase Attack by 10%.",
+    "typeName": "Basic Abilities"
+  },
+  {
+    "sn": "10121",
+    "name": "Critical Rate",
+    "desc": "Increase critical rate by 5%. Increase HP by 800.",
+    "typeName": "Basic Abilities"
+  },
+  {
+    "sn": "10122",
+    "name": "Critical Rate",
+    "desc": "Increase critical rate by 5%. Increase HP by 1000.",
+    "typeName": "Basic Abilities"
+  },
+  {
+    "sn": "10131",
+    "name": "Critical Damage",
+    "desc": "Increase critical damage by 10%. Increase Defense by 300.",
+    "typeName": "Basic Abilities"
+  },
+  {
+    "sn": "10132",
+    "name": "Critical Damage",
+    "desc": "Increase critical damage by 10%. Increase Defense by 250.",
+    "typeName": "Basic Abilities"
+  },
+  {
+    "sn": "10141",
+    "name": "Speed",
+    "desc": "Increase Speed by 2. Increase HP by 800.",
+    "typeName": "Basic Abilities"
+  },
+  {
+    "sn": "10142",
+    "name": "Speed",
+    "desc": "Increase Speed by 3. Increase Defense by 200.",
+    "typeName": "Basic Abilities"
+  },
+  {
+    "sn": "10151",
+    "name": "SP Recovery",
+    "desc": "Increase SP recovery by 20%. Increase Defense by 10%.",
+    "typeName": "Basic Abilities"
+  },
+  {
+    "sn": "10152",
+    "name": "SP Recovery",
+    "desc": "Increase SP recovery by 20%. Increase Defense by 10%.",
+    "typeName": "Basic Abilities"
+  },
+  {
+    "sn": "20011",
+    "name": "Ally Buff",
+    "desc": "Enhance allies' attributes.",
+    "typeName": "Attribute"
+  },
+  {
+    "sn": "20012",
+    "name": "Ally Buff",
+    "desc": "Enhance allies' attributes.",
+    "typeName": "Attribute"
+  },
+  {
+    "sn": "20013",
+    "name": "Ally Buff",
+    "desc": "Enhance allies' attributes.",
+    "typeName": "Attribute"
+  },
+  {
+    "sn": "20014",
+    "name": "Ally Buff",
+    "desc": "Enhance allies' attributes.",
+    "typeName": "Attribute"
+  },
+  {
+    "sn": "20015",
+    "name": "Ally Buff",
+    "desc": "Enhance allies' attributes.",
+    "typeName": "Attribute"
+  },
+  {
+    "sn": "30011",
+    "name": "Persona",
+    "desc": "Increase level of the equipped Persona's base active skill by 2.",
+    "typeName": "Schema Skill"
+  },
+  {
+    "sn": "30012",
+    "name": "Persona",
+    "desc": "Increase level of the equipped Persona's base active skill by 2.",
+    "typeName": "Schema Skill"
+  },
+  {
+    "sn": "30013",
+    "name": "Persona",
+    "desc": "Increase level of the equipped Persona's base active skill by 1.",
+    "typeName": "Schema Skill"
+  },
+  {
+    "sn": "30021",
+    "name": "Persona",
+    "desc": "Increase level of the equipped Persona's learned active skills by 2.",
+    "typeName": "Schema Skill"
+  },
+  {
+    "sn": "30022",
+    "name": "Persona",
+    "desc": "Increase level of the equipped Persona's learned active skills by 2.",
+    "typeName": "Schema Skill"
+  },
+  {
+    "sn": "30023",
+    "name": "Persona",
+    "desc": "Increase level of the equipped Persona's learned active skills by 1.",
+    "typeName": "Schema Skill"
+  },
+  {
+    "sn": "30031",
+    "name": "Wonder Buff",
+    "desc": "Increase level of Wonder's 1 More, Highlight, melee and ranged attacks by 2.",
+    "typeName": "Schema Skill"
+  },
+  {
+    "sn": "30032",
+    "name": "Wonder Buff",
+    "desc": "Increase level of Wonder's 1 More, Highlight, melee and ranged attacks by 2.",
+    "typeName": "Schema Skill"
+  },
+  {
+    "sn": "30033",
+    "name": "Wonder Buff",
+    "desc": "Increase level of Wonder's 1 More, Highlight, melee and ranged attacks by 1.",
+    "typeName": "Schema Skill"
+  },
+  {
+    "sn": "30041",
+    "name": "Weapon Forging",
+    "desc": "Increase level of Wonder's weapon forging by 2.",
+    "typeName": "Weapon Forging"
+  },
+  {
+    "sn": "30042",
+    "name": "Weapon Forging",
+    "desc": "Increase level of Wonder's weapon forging by 2.",
+    "typeName": "Weapon Forging"
+  },
+  {
+    "sn": "30043",
+    "name": "Weapon Forging",
+    "desc": "Increase level of Wonder's weapon forging by 2.",
+    "typeName": "Weapon Forging"
+  },
+  {
+    "sn": "40001",
+    "name": "Get Item",
+    "desc": "When starting Tartarus exploration, obtain 300 Clock Gears.",
+    "typeName": "Exploration Skill"
+  },
+  {
+    "sn": "40002",
+    "name": "Get Item",
+    "desc": "When starting Tartarus exploration, gain 1 Dawn Fragment.",
+    "typeName": "Exploration Skill"
+  },
+  {
+    "sn": "40003",
+    "name": "Enhance Great Clock",
+    "desc": "Decrease Clock Gears needed to refresh cards at the Great Clock by 30%.",
+    "typeName": "Exploration Skill"
+  },
+  {
+    "sn": "40004",
+    "name": "Insta-kill Level",
+    "desc": "Increase insta-kill level.",
+    "typeName": "Exploration Skill"
+  },
+  {
+    "sn": "40005",
+    "name": "Enhance Great Clock",
+    "desc": "Increase the number of cards that can be selected at the Great Clock by 1.",
+    "typeName": "Exploration Skill"
+  },
+  {
+    "sn": "40006",
+    "name": "Get Item",
+    "desc": "When starting Tartarus exploration, obtain 300 Clock Gears.",
+    "typeName": "Exploration Skill"
+  },
+  {
+    "sn": "40007",
+    "name": "Increase EXP Gained",
+    "desc": "Increase EXP gained in battle by 10%.",
+    "typeName": "Exploration Skill"
+  }
+]

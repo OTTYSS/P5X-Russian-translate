@@ -452,7 +452,7 @@
   {
     "sn": "519101",
     "title": "Special Effects",
-    "text": "Baphomet will restore all Phantom Thieves' SP each turn, but also inflicts Demonic Curse on the Phantom Thief with the highest Attack, greatly decreasing their damage."
+    "text": "Shadows have different weaknesses and resistances than normal.\nBaphomet will restore all Phantom Thieves' SP each turn, but also inflicts Demonic Curse on the Phantom Thief with the highest Attack, greatly decreasing their damage."
   },
   {
     "sn": "521101",
@@ -478,6 +478,11 @@
     "sn": "527101",
     "title": "Special Effect",
     "text": "Shadows have different weaknesses and resistances than normal.\n1. Melchizedek gains 6 stacks of Divine Protection each turn. Each stack decreases final damage taken by 5%.\n2. Each time Melchizedek takes damage from a skill or Resonance, it loses 1 Divine Protection.\n3. When Melchizedek has lost all stacks of Divine Protection, all Phantom Thieves will receive Divine Blessing, increasing final damage dealt."
+  },
+  {
+    "sn": "528101",
+    "title": "Special Effect",
+    "text": "Shadows have different weaknesses and resistances than normal.\n1. Each turn, Lilith gains 1 <color=#FF423F>Cover of Night</color> stack.\nCover of Night: Decrease final damage taken by 15% for each stack. Stacks up to 2 times.\n2. When a Shadow with Cover of Night takes damage from a skill, remove 1 Cover of Night stack."
   },
   {
     "sn": "539101",
@@ -1282,7 +1287,7 @@
   {
     "sn": "839721",
     "title": "Unique Shadow Abilities",
-    "text": "1. Every turn, Hell Biker will inflict Hellscorched on 2 random Phantom Thieves.\nHellscorched: Lose a significant amount of HP at the end of each turn. Stacks up to 3 times. Can be removed after taking <color=#FF423F>Ice</color> damage.\n2. Every odd-numbered turn, 1 Jack Frost will be summoned. Jack Frost will not attack unprovoked. When damaged, it will immediately use <color=#FF423F>Bufu</color> on the Phantom Thief that attacked it, dealing a small amount of <color=#FF423F>Ice</color> damage. Jack Frost will be KO'd at the start of its turn.\n3. Every even-numbered turn, 1 Koropokguru will be summoned. Koropokguru will not attack unprovoked. When defeated, it will immediately deal a small amount of <color=#FF423F>Ice</color> damage to all Phantom Thieves.\n4. When Hell Biker is defeated, you win the battle."
+    "text": "1. Every turn, Hell Biker will inflict Hellscorched on 2 random Phantom Thieves.\nHellscorched: Lose a significant amount of HP at the end of each turn. Stacks up to 3 times. Can be removed after taking <color=#FF423F>Ice damage</color>.\n2. Every odd-numbered turn, 1 Jack Frost will be summoned. Jack Frost will not attack unprovoked. When damaged, it will immediately use <color=#FF423F>Bufu</color> on the Phantom Thief that attacked it, dealing a small amount of <color=#FF423F>Ice</color> damage. Jack Frost will be KO'd at the start of its turn.\n3. Every even-numbered turn, 1 Koropokguru will be summoned. Koropokguru will not attack unprovoked. When defeated, it will immediately deal a small amount of <color=#FF423F>Ice</color> damage to all Phantom Thieves.\n4. When Hell Biker is defeated, you win the battle."
   },
   {
     "sn": "901311",
@@ -1587,12 +1592,27 @@
   {
     "sn": "916501",
     "title": "Macabre's Skills",
-    "text": "1. In the first phase of battle, Dancer of Dreams alternates between summoning Pale Rider and Red Rider. When the summoned Shadows are defeated, it will summon them again 2 turns later.\n2. In the second phase of battle, Dancer of Dreams will summon Pale Rider and Red Rider at the same time. When both of the summoned Shadows are on the field, final damage against Dancer of Dreams is decreased by 50%. When the summoned Shadows are defeated, it will summon them again 2 turns later.\n3. When summoned Shadows are on the field, Dancer of Dreams will use <color=#FF423F>Ephemeral Sustenance</color> on 1 of the Shadows.\nEphemeral Sustenance: After 3 turns, that summoned Shadow will be sacrificed to restore a certain amount of Dancer of Dreams's HP.\n4. Pale Rider uses <color=#FF423F>Brain Shake</color>.\nBrain Shake: Deal Physical damage to the Phantom Thief with the lowest HP, with a chance to inflict Brainwash for 2 turns.\n5. Red Rider uses <color=#FF423F>Appeal to Retreat</color>.\nAppeal to Retreat: Decrease Highlight Gauge by 40% of its current amount. When Red Rider is defeated, instantly increase Highlight Gauge by 50%."
+    "text": "1. In the first phase of battle, Dancer of Dreams alternates between summoning Pale Rider and Red Rider. When the summoned Shadows are defeated, it will summon them again 2 turns later.\n2. In the second phase of battle, Dancer of Dreams will summon Pale Rider and Red Rider at the same time. When both of the summoned Shadows are on the field, final damage against Dancer of Dreams is decreased by 50%. When the summoned Shadows are defeated, it will summon them again 2 turns later.\n3. When summoned Shadows are on the field, Dancer of Dreams will use <color=#FF423F>Ephemeral Sustenance</color> on 1 of the Shadows.\nEphemeral Sustenance: After 3 turns, that summoned Shadow will be sacrificed to restore a certain amount of Dancer of Dreams's HP.\n4. Pale Rider uses <color=#FF423F>Brain Shake</color>.\nBrain Shake: Deal Physical damage to the Phantom Thief with the lowest HP, with a chance to inflict Brainwash for 2 turns.\n5. Red Rider uses <color=#FF423F>Appeal to Retreat</color>.\nAppeal to Retreat: Decrease Highlight gauge by 40% of its current amount. When Red Rider is defeated, instantly increase Highlight gauge by 50%."
   },
   {
     "sn": "917501",
     "title": "Monstrous Entity's Skills",
     "text": "1. Monstrous Entity will summon waves of Nightmare Incarnations. For each Nightmare Incarnation summoned, Monstrous Entity's HP decreases by a set amount.\n2. When Calm Nightmare Incarnation is defeated, Monstrous Entity gains 1 Composure stack. When Wild Nightmare Incarnation is defeated, Monstrous Entity gains 1 Frenzy stack. Composure and Frenzy cancel each other out.\n3. When Monstrous Entity reaches 4 Composure stacks, it can cast an additional Diarahan at the end of its turn, restoring its HP by a set amount. When it reaches 4 Frenzy stacks, it can cast an additional Maragidyne at the end of its turn.\n4. Monstrous Entity alternates between using Scattered Dreams and Denial Wave.\nScattered Dreams: All Nightmare Incarnations gain Dreaming Desire, decreasing their final damage taken. When Nightmare Incarnation takes an attack, lose Dreaming Desire.\nDenial Wave: Spend all Nightmare Incarnations' Dreaming Desire to deal Almighty damage to all Phantom Thieves, ignoring Defense. Increase damage based on number of Dreaming Desire stacks spent.\n5. When Monstrous Entity enters its second phase, after using Scattered Dreams, it will use Accept Change, changing the affinities of all Nightmare Incarnations."
+  },
+  {
+    "sn": "918501",
+    "title": "Barbaric Beast Wheel's Skills",
+    "text": "1. Barbaric Beast Wheel gains a small amount of Power at the end of each turn.\n2. Each time a Phantom Thief deals damage to Barbaric Beast Wheel, it loses a certain amount of Power.\n3. At the start of the second phase, Barbaric Beast Wheel's Power gain rate is doubled and it gains Shifting Gears. When Power reaches 80, final damage increases and it gains the Irreversible state, preventing Power from dropping below 80. If Barbaric Beast Wheel has gained a certain amount of Power in this state, it will use Rolling Pursuit 1 more time every 2 turns.\n4. At the start of the third phase, Barbaric Beast Wheel's final damage greatly increases and it gains Maximum Output, maintaining Power at 100. When Barbaric Beast Wheel spends Power to use a skill in this state, its final damage taken increases and it gains Overload for 2 turns.\n5. At the start of the third phase, Barbaric Beast Wheel summons 2 Wheel's Afterimages. When Wheel's Afterimage is defeated, Barbaric Beast Wheel will be Weakened and unable to act for 1 turn."
+  },
+  {
+    "sn": "919501",
+    "title": "Lascivious Lady's Skills",
+    "text": "AAAAAA=="
+  },
+  {
+    "sn": "1201501",
+    "title": "Priestess' Skills",
+    "text": "tdxct-[InstTutorials_text_1201501]"
   },
   {
     "sn": "921511",
@@ -1608,6 +1628,51 @@
     "sn": "935211",
     "title": "Unique Shadow Abilities",
     "text": "Shadows have different weaknesses and resistances than normal.\n1. Belphegor is always Asleep. After being attacked, it will wake up, deal heavy damage to all Phantom Thieves and heal 15% of its max HP.\n2. At the start of Belphegor's turn, if it is not Asleep, it will summon 2 Sandmen.\n3. When Sandman is summoned, or at the start of its turn, it gains 1 Eternal Slumber stack.\n4. At the start of each Phantom Thief's turn, if Belphegor is awake, Sandman will spend Eternal Slumber to put it to Sleep. This effect activates once every turn."
+  },
+  {
+    "sn": "1017011",
+    "title": "Avenger Knight's Skills",
+    "text": "1. Avenger Knight will continuously summon Shadows, and grants Steel Pride. For every 1 Steel Pride stack, Defense increases by 5%.\n2. Avenger Knight and summoned Shadows gain 1 Steel Pride at the end of their turn.\n3. When a summoned Shadow is defeated, all Steel Pride stacks are removed.\n4. Avenger Knight will spend Steel Pride granted to Shadows to enhance the effect of Condemnation of Pride."
+  },
+  {
+    "sn": "1017021",
+    "title": "AAAAAA==",
+    "text": "tdxct-[InstTutorials_text_1017021]"
+  },
+  {
+    "sn": "1017111",
+    "title": "Harmony Giant's Skills",
+    "text": "1. Harmony Giant will Lock On to 1 Phantom Thief, significantly increasing their rate of being targeted.\n2. At the start of the second phase, Harmony Giant will summon 2 Justice Swords. When each Justice Sword is defeated, Harmony Giant will Lock On to 1 more Phantom Thief, and summon Justice Sword after 1 turn.\n3. When multiple Phantom Thieves are under Lock On, all Locked On Phantom Thieves will be targeted by Harmony Giant, who'll deal heavy critical damage with Heaven's Blade, and Justice Sword, who'll deal damage with Myriad Slashes."
+  },
+  {
+    "sn": "1017121",
+    "title": "Stasis Giant's Skills",
+    "text": "1. At the start of battle, Stasis Giant will summon 2 Conviction Swords. Stasis Giant will buff summoned Shadows, allowing them to use additional skills.\n2. At the start of the second phase, all Conviction Swords present will be destroyed, and 4 new Conviction Swords will be summoned.\n3. At the start of the turn, when the number of Conviction Swords destroyed reaches 2 or more for the first time, World Balance will be summoned. World Balance's damage taken is increased by 40%, and Stasis Giant is in the Soul Link state. World Balance will continuously summon Conviction Sword every odd-numbered turn."
+  },
+  {
+    "sn": "1017211",
+    "title": "Kaiden Musha's Skills",
+    "text": "1. When Kaiden Musha uses certain skills, it gains Warrior's Way, and spends Warrior's Way to strengthen Zangetsu Flash.\nWarrior's Way: Increase Shadow's Attack by 10%, critical rate by 5%, and final damage taken by 3% per stack. Stacks up to 5 times.\n2. At the start of battle, Kaiden Musha uses Musha's Gathering to summon Musha. While Musha are present, Kaiden Musha's final damage taken is decreased.\n3. At the end of a Musha's turn, Kaiden Musha has a 50% chance to gain 1 Warrior's Way stack. If it doesn't, the Musha will enter Counter Form for 1 turn. If it is attacked while in this form, it will counterattack, dealing Physical damage, and grant 1 Warrior's Way stack to Kaiden Musha.\n4. At the start of the second phase, Kaiden Musha enters State of Carnage, doubling its rate of gaining Warrior's Way. At 5 Warrior's Way stacks, its final damage taken increases by 25% more."
+  },
+  {
+    "sn": "1017221",
+    "title": "Hakurou Musha's Skills",
+    "text": "1. When Hakurou Musha uses certain skills, it gains Warrior's Way, and spends Warrior's Way to strengthen Requiem of Thunder.\nWarrior's Way: Increase Shadow's Attack by 10%, critical rate by 5%, and final damage taken by 3% per stack. Stacks up to 5 times.\n2. At the start of Hakurou Musha's turn, it inflicts Sigil of Lightning on 1 random Phantom Thief, changing their Electric affinity to Weak. Sigil of Lightning cannot be inflicted on multiple Phantom Thieves at the same time. When a Phantom Thief with Sigil of Lightning is knocked down, Hakurou Musha gains 3 Warrior's Way stacks.\n3. At the start of battle, Hakurou Musha summons 2 Sky Balances.\n4. At the start of the second phase, Hakurou Musha summons 2 Heat Balances, and gains State of Supremacy. In this state, it gains 1 Warrior's Way stack every turn (when all summoned Shadows have been defeated, it gains 2 stacks every turn). At 5 stacks, its final damage taken increases by 25% more.\n5. Heat Balance changes between Fire Form and Ice Form each turn.\nFire Form: At the end of each turn, grant 1 Warrior's Way stack to Hakurou Musha. When defeated, grant 5 Warrior's Way stacks to Hakurou Musha.\nIce Form: When defeated, remove all Warrior's Way stacks from Hakurou Musha."
+  },
+  {
+    "sn": "1017311",
+    "title": "Spiritual Castle's Skills",
+    "text": "1. Blessing and Curse stacks from Haunted Castle and Spiritual Castle are not removed over time.\n2. At the start of battle, 1 Magic Hand and 1 Dancing Hand are summoned. When Spiritual Castle is present, if Magic Hand or Dancing Hand are defeated, 1 Magic Hand or Dancing Hand will be summoned.\n3. At the end of each turn, Spiritual Castle grants 3 Blessing stacks to all Shadows. At the end of each turn, Haunted Castle inflicts 3 Curse stacks on all Phantom Thieves.\n4. At the start of Spiritual Castle's turn, if there are 10 Blessing stacks, it will use Divine Judgment. At the start of Haunted Castle's turn, if any Phantom Thieves have 10 Curse stacks, it will use Nihilistic Art.\n5. When Magic Hand is summoned, all Shadows gain 3 Blessing stacks, and at the end of each turn it grants 1 Blessing stack to all Shadows. When it is defeated, 5 Blessing stacks are removed from all Shadows, and all Phantom Thieves gain 1 Blessing stack.\n6. When Dancing Hand is summoned, all Phantom Thieves are inflicted with 3 Curse stacks, and at the end of each turn it inflicts 1 Curse stack on all Phantom Thieves. When it is defeated, 5 Curse stacks are removed from all Phantom Thieves, and all Shadows take 1 Curse stack.\n7. When Spiritual Castle is near death, all Shadows present are defeated, and it moves to the second phase. In this phae, it summons 2 Magic Hands or Dancing Hands at a time."
+  },
+  {
+    "sn": "1017411",
+    "title": "Hecatoncheires's Skills",
+    "text": "1. At the start of battle, Hecatoncheires has 99 Arms of Strength stacks.\nArms of Strength: Decrease damage taken by 3% for each stack.\n2. Hecatoncheires will continuously summon Amorous Snake. When Amorous Snake is defeated, Hecatoncheires loses 10 Arms of Strength stacks.\n3. Hecatoncheires will Lock On to 1 Phantom Thief, increasing their final damage taken by 15%. Also, on the next turn, it will use Nihilistic Art on the target. The damage of Nihilistic Art increases by 1% more for each Arms of Strength stack.\n4. When Hecatoncheires has fewer than 50 Arms of Strength stacks, it moves to the second phase. The details of the second phases are as follows.\n(1) At the end of each turn, it summons 2 more Amorous Snakes.\n(2) Each time it takes damage, it loses 1 Arms of Strength stack.\n(3) Final damage dealt is increased more."
+  },
+  {
+    "sn": "1017421",
+    "title": "Hecatoncheires's Skills",
+    "text": "1. At the start of battle, Jotun of Blood has 99 Arms of Strength stacks.\nArms of Strength: Decrease damage taken by 3% for each stack.\n2. Jotun of Blood will continuously summon Amorous Snake. When Amorous Snake is defeated, Jotun of Blood loses 10 Arms of Strength stacks.\n3. Jotun of Blood will Lock On to 1 Phantom Thief, increasing their final damage taken by 15%. Also, on the next turn, it will use Nihilistic Art on the target. The damage of Nihilistic Art increases by 1% more for each Arms of Strength stack.\n4. When Jotun of Blood has fewer than 50 Arms of Strength stacks, it moves to the second phase. The details of the second phases are as follows.\n(1) At the end of each turn, it summons 2 more Amorous Snakes.\n(2) Each time it takes damage, it loses 1 Arms of Strength stack.\n(3) Final damage dealt is increased more."
   },
   {
     "sn": "238011",
@@ -1835,6 +1900,11 @@
     "text": "1. Manaka has excellent <color=#FF423F>full-party support capability</color>, and can raise the entire team's Attack and damage, as well as their pierce rate.\n2. Manaka can gain <color=#FF423F>Musical Note</color> stacks from her skills and at the beginning of each ally's action. Musical Note enhances <color=#FF423F>Melody of Steps</color>, or can reduce the cooldown time of <color=#FF423F>Prayer Refrain</color>. 3. She can grant special extra actions to allies. On this extra action, the target's status will be <color=#FF423F>reverted</color> to their condition before the previous action, and their <color=#FF423F>Attack will be increased</color>."
   },
   {
+    "sn": "922411",
+    "title": "Makoto Yuki's Skills",
+    "text": "1. Makoto specializes in <color=#FF423F>single-target attacks</color>. He can deal powerful fire damage to foes with multi-hit attacks.\n2. He possesses <color=#FF423F>two Theurgies</color>, Cadenza or Ardhanari, and can freely select and activate them during battle.\n3. Activating <color=#FF423F>Cadenza</color> significantly enhances the attack capabilities of all allies."
+  },
+  {
     "sn": "923411",
     "title": "Justine & Caroline's Skills",
     "text": "1. As a <color=#FF423F>Virtuoso</color> unit, Justine & Caroline can freely combine multiple sets of Personas before battle to create <color=#FF423F>6 different</color> role-based fighting styles.\n2. By combining Mask of Mischief & Innocence and Mask of Absurdity & Nonsense, the twins will gain <color=#FF423F>Strategist abilities</color>. By using each of these skills, they can use Two Masks as One.\n3. By granting allies <color=#FF423F>Skill Amplification</color>, they can strengthen allies' <color=#FF423F>skill effects when they are enhanced</color>, as well as improve their attack, support, and recovery abilities simultaneously."
@@ -1883,5 +1953,30 @@
     "sn": "938211",
     "title": "Unique Shadow Abilities",
     "text": "1. Yamata-no-Orochi has extremely high HP, and gains Berserk each time a certain number of turns pass. After a Phantom Thief takes an extra action, it will summon 1 Yurlungur. It can perform summoning up to 5 times, and on the 5th time, it will summon 1 Makami.\n2. When Yurlungur is on the field, Yamata-no-Orochi's final damage taken increases by 150%. After Yamata-no-Orochi ends its turn, Yurlungur will be KO'd.\n3. When Makami is defeated, all Phantom Thieves will gain Ame-no-Murakumo.\nAme-no-Murakumo: Increase final damage by 25%."
+  },
+  {
+    "sn": "1019911",
+    "title": "AAAAAA==",
+    "text": "1. Each turn, the Reaper uses an attack skill and auxiliary skill 1 time each. It will use the auxiliary skills <color=#FF423F>Heat Riser</color>, <color=#FF423F>Debilitate</color>, <color=#FF423F>Ominous Words</color>, and <color=#FF423F>Concentrate</color> in order.\n2. Heat Riser increases the Reaper's Attack, Defense, ailment accuracy, and final damage reduction by a fixed amount for 2 turns. During this effect, the enhancement effect changes based on the number of debuffs on the Reaper. At 15 or more debuffs, Heat Riser's effect is removed.\nUnder 5: Increase Attack, Defense, ailment accuracy, and final damage reduction by 80%.\nUnder 10: Increase Attack, Defense, ailment accuracy, and final damage reduction by 60%.\nUnder 15: Increase Attack, Defense, ailment accuracy, and final damage reduction by 40%."
+  },
+  {
+    "sn": "1019912",
+    "title": "AAAAAA==",
+    "text": "3. Debilitate decreases the Attack, Defense, and ailment accuracy of 1 Phantom Thief, and also reduces their HP by 40% of their max HP every turn for 2 turns. <color=#FF423F>After receiving buff skills 3 times</color>, this effect is removed.\n4. Ominous Words inflicts Despair on the Phantom Thief with the highest Attack for 2 turns. <color=#FF423F>After receiving healing skills 2 times</color>, this effect is removed.\n5. Concentrate greatly increases the final damage of the Reaper's magic skills for 2 turns. <color=#FF423F>After taking damage 12 times</color>, this effect is removed."
+  },
+  {
+    "sn": "1019913",
+    "title": "AAAAAA==",
+    "text": "6. In the following conditions, the Reaper gains 1 <color=#FF423F>extra action</color> after its next action. On an extra action, the Reaper will use an attack skill, but will not use an auxiliary skill.\n• When an auxiliary skill effect is removed\n• When the Reaper knocks down any 3 Phantom Thieves\n• When the Reaper is knocked down or inflicted with a spiritual ailment\n• When a Highlight or Theurgy is not activated before the Reaper uses its next auxiliary skill"
+  },
+  {
+    "sn": "1019914",
+    "title": "AAAAAA==",
+    "text": "7. In the following conditions, the Reaper will use <color=#FF423F>Megidolaon</color> 1 time at the start of its next turn, dealing heavy Almighty damage to all Phantom Thieves.\n• When any ally is KO'd\n• When a total of 2 auxiliary skill effects have been removed\n• When the Reaper has not been knocked down or inflicted with a spiritual ailment for 3 turns\n• When the Reaper's HP falls below 80%/60% for the first time"
+  },
+  {
+    "sn": "1019915",
+    "title": "AAAAAA==",
+    "text": "8. When the Reaper is knocked down or inflicted with a spiritual ailment, it becomes immune to knockdown and spiritual ailments for 4 turns.\n9. When the Reaper's HP falls below 60%, for each turn that passes, the Reaper's damage dealt increases by 10%. Also, when the Reaper's HP falls below 80%/60%, the Phantom Thieves restore 50 SP.\n10. When the Reaper's HP falls below 50%, you win the battle."
   }
 ]

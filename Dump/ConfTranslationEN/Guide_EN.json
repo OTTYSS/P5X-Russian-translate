@@ -76,8 +76,8 @@
   },
   {
     "sn": "231",
-    "text": "Each Phantom Thief has their own <color=#FF423F>Highlight</color> skill,\nwhich can be used when the <color=#FF423F>Highlight Gauge</color> is full.",
-    "gamePadText": "Each Phantom Thief has their own <color=#FF423F>Highlight</color> skill,\nwhich can be used when the <color=#FF423F>Highlight Gauge</color> is full. <size=56><keySn>1001</keySn></size>"
+    "text": "Each Phantom Thief has their own <color=#FF423F>Highlight</color> skill,\nwhich can be used when the <color=#FF423F>Highlight gauge</color> is full.",
+    "gamePadText": "Each Phantom Thief has their own <color=#FF423F>Highlight</color> skill,\nwhich can be used when the <color=#FF423F>Highlight gauge</color> is full. <size=56><keySn>1001</keySn></size>"
   },
   {
     "sn": "232",
@@ -245,6 +245,11 @@
     "gamePadText": "Use a <color=#FF423F>Support</color> skill."
   },
   {
+    "sn": "10701",
+    "text": "Use a <color=#FF423F>Support</color> skill.",
+    "gamePadText": "Use a <color=#FF423F>Support</color> skill."
+  },
+  {
     "sn": "711",
     "text": "Call for <color=#FF423F>Support</color>.",
     "gamePadText": "Call for <color=#FF423F>Support</color>."
@@ -293,6 +298,21 @@
     "sn": "772",
     "text": "Press to grant an <color=#ff3b37>extra action</color>.",
     "gamePadText": "Press to grant an <color=#ff3b37>extra action</color>."
+  },
+  {
+    "sn": "781",
+    "text": "Activate an <color=#FF423F>Assist</color> to strengthen Makoto and allies in battle.",
+    "gamePadText": "Activate an <color=#FF423F>Assist</color> to strengthen Makoto and allies in battle."
+  },
+  {
+    "sn": "791",
+    "text": "<color=#FF423F>Makoto Yuki</color> has unique Theurgies.",
+    "gamePadText": "<color=#FF423F>Makoto Yuki</color> has unique Theurgies."
+  },
+  {
+    "sn": "792",
+    "text": "Select Ardhanari to activate.",
+    "gamePadText": "Select Ardhanari to activate."
   },
   {
     "sn": "1111",
@@ -1291,8 +1311,8 @@
   },
   {
     "sn": "2452",
-    "text": "<color=#ff3b37>Switch ammo</color> with  <size=56><keySn>431</keySn> and <keySn>432</keySn></size> keys.",
-    "gamePadText": "<color=#ff3b37>Switch ammo</color> using <size=56><keySn>1015</keySn><keySn>1016</keySn></size>"
+    "text": "<color=#ff3b37>Switch ammo</color> using <size=56><keySn>431</keySn><keySn>432</keySn></size>.",
+    "gamePadText": "<color=#ff3b37>Switch ammo</color> using <size=56><keySn>1015</keySn><keySn>1016</keySn></size>."
   },
   {
     "sn": "2461",
@@ -1340,6 +1360,106 @@
     "gamePadText": "<color=#ff3b37>Save</color> Cake Design"
   },
   {
+    "sn": "2511",
+    "text": "<color=#FF423F>Return</color> to the Event Screen.",
+    "gamePadText": "<size=56><keySn>1002</keySn></size> <color=#FF423F>Return</color> to the Event Screen."
+  },
+  {
+    "sn": "2521",
+    "text": "Enter <color=#FF423F>Tartarus</color>.",
+    "gamePadText": "Enter <color=#FF423F>Tartarus</color>."
+  },
+  {
+    "sn": "2531",
+    "text": "View <color=#FF423F>Dream Chapters</color>.",
+    "gamePadText": "View <color=#FF423F>Dream Chapters</color>."
+  },
+  {
+    "sn": "2541",
+    "text": "View <color=#FF423F>Story</color>.",
+    "gamePadText": "View <color=#FF423F>Story</color>."
+  },
+  {
+    "sn": "2542",
+    "text": "Use <color=#FF423F>Dream Fragments</color> to unlock Dream Chapters.",
+    "gamePadText": "Use <color=#FF423F>Dream Fragments</color> to unlock Dream Chapters."
+  },
+  {
+    "sn": "2543",
+    "text": "Collect the corresponding items to unlock the <color=#FF423F>ending story</color>.",
+    "gamePadText": "Collect the corresponding items to unlock the <color=#FF423F>ending story</color>."
+  },
+  {
+    "sn": "2551",
+    "text": "View <color=#FF423F>Mayoido Antiques</color>.",
+    "gamePadText": "View <color=#FF423F>Mayoido Antiques</color>."
+  },
+  {
+    "sn": "2561",
+    "text": "Use <color=#FF423F>Tarnished Gold Coins</color> to unlock <color=#FF423F>antiques</color>.",
+    "gamePadText": "Use <color=#FF423F>Tarnished Gold Coins</color> to unlock <color=#FF423F>antiques</color>."
+  },
+  {
+    "sn": "2571",
+    "text": "Press Yes to <color=#FF423F>unlock</color>.",
+    "gamePadText": "Press Yes to <color=#FF423F>unlock</color>."
+  },
+  {
+    "sn": "2581",
+    "text": "Equipping <color=#FF423F>antiques</color> provides various benefits as you explore.",
+    "gamePadText": "Equipping <color=#FF423F>antiques</color> provides various benefits as you explore."
+  },
+  {
+    "sn": "2582",
+    "text": "<color=#FF423F>Enhance</color> to increase its effect.",
+    "gamePadText": "<color=#FF423F>Enhance</color> to increase its effect."
+  },
+  {
+    "sn": "2591",
+    "text": "Press to assign a <color=#FF423F>teammate</color>.",
+    "gamePadText": "<size=56><keySn>1001</keySn></size> Press to assign a <color=#FF423F>teammate</color>."
+  },
+  {
+    "sn": "2601",
+    "text": "Select a <color=#FF423F>teammate</color>.",
+    "gamePadText": "<size=56><keySn>1001</keySn></size>Select a <color=#FF423F>teammate</color>."
+  },
+  {
+    "sn": "2602",
+    "text": "Select <color=#FF423F>Confirm</color>.",
+    "gamePadText": "Select <color=#FF423F>Confirm</color>."
+  },
+  {
+    "sn": "2603",
+    "text": "Use <color=#FF423F>Auto Select</color> to assign recommended team.",
+    "gamePadText": "Use <color=#FF423F>Auto Select</color> to assign recommended team."
+  },
+  {
+    "sn": "2604",
+    "text": "Select <color=#FF423F>Confirm</color> to start exploring.",
+    "gamePadText": "Select <color=#FF423F>Confirm</color> to start exploring."
+  },
+  {
+    "sn": "2611",
+    "text": "Review Current <color=#FF423F>Team</color>",
+    "gamePadText": "Review Current <color=#FF423F>Team</color>"
+  },
+  {
+    "sn": "2621",
+    "text": "Review Current <color=#FF423F>Rewards</color>",
+    "gamePadText": "Review Current <color=#FF423F>Rewards</color>"
+  },
+  {
+    "sn": "2631",
+    "text": "Check your exploration <color=#FF423F>status</color>.",
+    "gamePadText": "Check your exploration <color=#FF423F>status</color>."
+  },
+  {
+    "sn": "2641",
+    "text": "Check the boss's <color=#FF423F>details</color>.",
+    "gamePadText": "Check the boss's <color=#FF423F>details</color>."
+  },
+  {
     "sn": "9993",
     "text": "<color=#FF423F>Thieves' Alliance</color>\nReceive rewards when you reach certain levels.",
     "gamePadText": "<size=56><keySn>1001</keySn></size> <color=#FF423F>Thieves' Alliance</color>\nReceive rewards when you reach certain levels."
@@ -1358,5 +1478,10 @@
     "sn": "9982",
     "text": "<color=#FF423F>Thieves Boot Camp</color>\nIt's been a while since we had a mission. Your efforts shall certainly be rewarded.\nSign in for 7 consecutive days and a <color=#FF423F>powerful Phantom Thief</color> will appear.",
     "gamePadText": "<color=#FF423F>Thieves Boot Camp</color>\nIt's been a while since we had a mission. Your efforts shall certainly be rewarded.\nSign in for 7 consecutive days and a <color=#FF423F>powerful Phantom Thief</color> will appear."
+  },
+  {
+    "sn": "2991",
+    "text": "Using Fuuka's <color=#FF423F>navigation skill</color> consumes <color=#FF423F>SP</color>.",
+    "gamePadText": "Using Fuuka's <color=#FF423F>navigation skill</color> consumes <color=#FF423F>SP</color>."
   }
 ]
