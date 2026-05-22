@@ -482,7 +482,7 @@
   {
     "sn": "181",
     "title": "<color=#72C5FF>Mixer</color>",
-    "desc": "[Count] Gain 1 Mixer when allies deal damage to foes with skills, Resonances, or Highlights. After reaching 3 stacks, create a Cocktail based on the types of Mixers."
+    "desc": "[Count] Gain 1 Mixer when allies deal damage to foes with skills, Resonances, Highlights, or Theurgy. After reaching 3 stacks, create a Cocktail based on the types of Mixers."
   },
   {
     "sn": "182",
@@ -768,6 +768,16 @@
     "sn": "239",
     "title": "<color=#72C5FF>Da Capo</color>",
     "desc": "Remove 1 debuff effect from 1 ally. At the end of the target's next action, grant a special additional action. When in this state, the target's HP, SP, buff/debuff effects, and skill cooldowns are reset to their state at the start of the previous action."
+  },
+  {
+    "sn": "240",
+    "title": "<color=#72C5FF>Moon Phase</color>",
+    "desc": "When activating Scarlet Hades, deal dmg 1 time per Moon Phase stack."
+  },
+  {
+    "sn": "241",
+    "title": "<color=#72C5FF>Full Moon</color>",
+    "desc": "When activating Scarlet Hades, deal dmg 1 time per Full Moon stack."
   },
   {
     "sn": "245",

@@ -1065,7 +1065,7 @@
   },
   {
     "sn": "11312",
-    "strContent": "You have favorited this Phantom Thief.",
+    "strContent": "Added to favorites.",
     "option1": "AAAAAA==",
     "showName": "AAAAAA==",
     "option2": "AAAAAA=="
@@ -2492,6 +2492,13 @@
     "option2": "AAAAAA=="
   },
   {
+    "sn": "12526",
+    "strContent": "This requires <color=#FF423F>{1}</color> x<color=#FF423F>{0}</color>.\nYou currently have <color=#FF423F>{2}</color>. Do you want to use them?",
+    "option1": "Use",
+    "showName": "O<#000000,p,#FFFFFF>en Chest",
+    "option2": "Ignore for now"
+  },
+  {
     "sn": "12600",
     "strContent": "Infiltration mode has ended.",
     "option1": "AAAAAA==",
@@ -3767,7 +3774,7 @@
   },
   {
     "sn": "13606",
-    "strContent": "It seems this area will be unlocked at %s Ticket Lv. %d. We should\nsubmit more tickets in the Fare Machine.",
+    "strContent": "It seems this area will be unlocked at %s Ticket Lv. %d. We should submit more tickets in the Fare Machine.",
     "option1": "AAAAAA==",
     "showName": "L<#000000,u,#FFFFFF>fel",
     "option2": "AAAAAA=="
@@ -5068,6 +5075,195 @@
     "option2": "AAAAAA=="
   },
   {
+    "sn": "20301",
+    "strContent": "You do not have enough Soul Fragments to unlock this. Find more by exploring Tartarus.",
+    "option1": "AAAAAA==",
+    "showName": "AAAAAA==",
+    "option2": "AAAAAA=="
+  },
+  {
+    "sn": "20302",
+    "strContent": "Do you want to spend %s Soul Fragments to unlock this teammate in Tartarus?",
+    "option1": "Confirm",
+    "showName": "L<#000000,u,#FFFFFF>fel",
+    "option2": "Cancel"
+  },
+  {
+    "sn": "20303",
+    "strContent": "You do not have enough people assigned to begin exploration.",
+    "option1": "AAAAAA==",
+    "showName": "AAAAAA==",
+    "option2": "AAAAAA=="
+  },
+  {
+    "sn": "20304",
+    "strContent": "Do you want to end exploration?",
+    "option1": "Confirm",
+    "showName": "L<#000000,u,#FFFFFF>fel",
+    "option2": "Cancel"
+  },
+  {
+    "sn": "20305",
+    "strContent": "Do you want to retreat?\nIf you retreat, the Will you spent won't be refunded, and you will return to the entrance of the current area.",
+    "option1": "Confirm",
+    "showName": "L<#000000,u,#FFFFFF>fel",
+    "option2": "Cancel"
+  },
+  {
+    "sn": "20306",
+    "strContent": "Empty team slots have been automatically assigned.\nThe selected teammates will join your team once acquired through Shuffle Time.",
+    "option1": "AAAAAA==",
+    "showName": "AAAAAA==",
+    "option2": "AAAAAA=="
+  },
+  {
+    "sn": "20307",
+    "strContent": "You have reached the maximum number of allies you can deploy.",
+    "option1": "AAAAAA==",
+    "showName": "AAAAAA==",
+    "option2": "AAAAAA=="
+  },
+  {
+    "sn": "20308",
+    "strContent": "This can't be selected as you don't have enough items.",
+    "option1": "AAAAAA==",
+    "showName": "AAAAAA==",
+    "option2": "AAAAAA=="
+  },
+  {
+    "sn": "20309",
+    "strContent": "You don't have enough Clock Gears to purchase this.",
+    "option1": "AAAAAA==",
+    "showName": "AAAAAA==",
+    "option2": "AAAAAA=="
+  },
+  {
+    "sn": "20310",
+    "strContent": "You don't have enough Clock Gears to purchase this.",
+    "option1": "AAAAAA==",
+    "showName": "AAAAAA==",
+    "option2": "AAAAAA=="
+  },
+  {
+    "sn": "20311",
+    "strContent": "Unlock the Phantom Thief system to begin the challenge.",
+    "option1": "AAAAAA==",
+    "showName": "AAAAAA==",
+    "option2": "AAAAAA=="
+  },
+  {
+    "sn": "20312",
+    "strContent": "Due to the difficulty level of repeated runs, you can no longer manifest cards at the Great Clock.",
+    "option1": "AAAAAA==",
+    "showName": "AAAAAA==",
+    "option2": "AAAAAA=="
+  },
+  {
+    "sn": "20321",
+    "strContent": "Cannot be changed while there is an incomplete exploration in progress.",
+    "option1": "AAAAAA==",
+    "showName": "AAAAAA==",
+    "option2": "AAAAAA=="
+  },
+  {
+    "sn": "20322",
+    "strContent": "You don't have enough items to unlock this antique.",
+    "option1": "AAAAAA==",
+    "showName": "AAAAAA==",
+    "option2": "AAAAAA=="
+  },
+  {
+    "sn": "20323",
+    "strContent": "Teammate currently locked.",
+    "option1": "AAAAAA==",
+    "showName": "AAAAAA==",
+    "option2": "AAAAAA=="
+  },
+  {
+    "sn": "20324",
+    "strContent": "You lack the necessary items.",
+    "option1": "AAAAAA==",
+    "showName": "AAAAAA==",
+    "option2": "AAAAAA=="
+  },
+  {
+    "sn": "20325",
+    "strContent": "Unlocked.",
+    "option1": "AAAAAA==",
+    "showName": "AAAAAA==",
+    "option2": "AAAAAA=="
+  },
+  {
+    "sn": "20326",
+    "strContent": "Do you want to reset all of %s's bonds?",
+    "option1": "Confirm",
+    "showName": "L<#000000,u,#FFFFFF>fel",
+    "option2": "Cancel"
+  },
+  {
+    "sn": "20327",
+    "strContent": "A powerful unknown entity is following us...",
+    "option1": "AAAAAA==",
+    "showName": "AAAAAA==",
+    "option2": "AAAAAA=="
+  },
+  {
+    "sn": "20328",
+    "strContent": "Changed to Tower of Darkness.",
+    "option1": "AAAAAA==",
+    "showName": "AAAAAA==",
+    "option2": "AAAAAA=="
+  },
+  {
+    "sn": "20329",
+    "strContent": "Changed to Tower of Darkness.",
+    "option1": "AAAAAA==",
+    "showName": "AAAAAA==",
+    "option2": "AAAAAA=="
+  },
+  {
+    "sn": "20330",
+    "strContent": "Successfully leveled up bond.",
+    "option1": "AAAAAA==",
+    "showName": "AAAAAA==",
+    "option2": "AAAAAA=="
+  },
+  {
+    "sn": "20331",
+    "strContent": "Coming soon.",
+    "option1": "AAAAAA==",
+    "showName": "AAAAAA==",
+    "option2": "AAAAAA=="
+  },
+  {
+    "sn": "20332",
+    "strContent": "You currently have an exploration of %s incomplete.\nDo you want to end the challenge and tally results?",
+    "option1": "Confirm",
+    "showName": "L<#000000,u,#FFFFFF>fel",
+    "option2": "Cancel"
+  },
+  {
+    "sn": "20334",
+    "strContent": "Cannot be activated as you have reached the limit of navigation skills used during this challenge.",
+    "option1": "AAAAAA==",
+    "showName": "AAAAAA==",
+    "option2": "AAAAAA=="
+  },
+  {
+    "sn": "20335",
+    "strContent": "AAAAAA==",
+    "option1": "AAAAAA==",
+    "showName": "AAAAAA==",
+    "option2": "AAAAAA=="
+  },
+  {
+    "sn": "20336",
+    "strContent": "Changed to Tower of Darkness.",
+    "option1": "AAAAAA==",
+    "showName": "AAAAAA==",
+    "option2": "AAAAAA=="
+  },
+  {
     "sn": "1000000",
     "strContent": "Feature under development.",
     "option1": "AAAAAA==",
@@ -5682,6 +5878,20 @@
     "option1": "Confirm",
     "showName": "Delete Account",
     "option2": "Never mind."
+  },
+  {
+    "sn": "1000230",
+    "strContent": "AAAAAA==",
+    "option1": "AAAAAA==",
+    "showName": "Fuuka Yamagishi",
+    "option2": "AAAAAA=="
+  },
+  {
+    "sn": "1000232",
+    "strContent": "AAAAAA==",
+    "option1": "AAAAAA==",
+    "showName": "Shun Kano",
+    "option2": "AAAAAA=="
   },
   {
     "sn": "1000301",
@@ -6651,7 +6861,7 @@
   },
   {
     "sn": "1010155",
-    "strContent": "You must be at least level %d to level up.",
+    "strContent": "Must be at level %d to enhance.",
     "option1": "AAAAAA==",
     "showName": "AAAAAA==",
     "option2": "AAAAAA=="
@@ -9821,6 +10031,13 @@
     "option2": "Not now"
   },
   {
+    "sn": "1015032",
+    "strContent": "AAAAAA==",
+    "option1": "Confirm",
+    "showName": "AAAAAA==",
+    "option2": "Cancel"
+  },
+  {
     "sn": "1015034",
     "strContent": "The Persona combination does not meet role requirements, and must be changed in order to deploy.",
     "option1": "AAAAAA==",
@@ -11096,7 +11313,7 @@
   },
   {
     "sn": "1020132",
-    "strContent": "This costume is for {0}, but you haven't obtained them yet. Do you still want to purchase this outfit?",
+    "strContent": "This costume is for {0}, but you haven't obtained them yet. Do you still want to purchase this costume?",
     "option1": "Yes",
     "showName": "AAAAAA==",
     "option2": "No"
@@ -12040,6 +12257,20 @@
     "option2": "AAAAAA=="
   },
   {
+    "sn": "1023076",
+    "strContent": "AAAAAA==",
+    "option1": "Confirm",
+    "showName": "L<#000000,u,#FFFFFF>fel",
+    "option2": "Not now"
+  },
+  {
+    "sn": "1023077",
+    "strContent": "Unlocked the quest Luminous Island.",
+    "option1": "AAAAAA==",
+    "showName": "L<#000000,u,#FFFFFF>fel",
+    "option2": "AAAAAA=="
+  },
+  {
     "sn": "1024001",
     "strContent": "Kotone Montagne's Synergy mission is currently locked. Do you want to unlock it now? (Unlocking it early may impact your experience of the story, so please choose carefully.)",
     "option1": "Confirm",
@@ -12311,6 +12542,34 @@
     "option1": "AAAAAA==",
     "showName": "AAAAAA==",
     "option2": "AAAAAA=="
+  },
+  {
+    "sn": "1024118",
+    "strContent": "Clear Luminous Island to unlock.",
+    "option1": "AAAAAA==",
+    "showName": "AAAAAA==",
+    "option2": "AAAAAA=="
+  },
+  {
+    "sn": "1024119",
+    "strContent": "Complete the mission Luminous Island to unlock. Do you want to track it now?",
+    "option1": "Confirm",
+    "showName": "L<#000000,u,#FFFFFF>fel",
+    "option2": "Not now"
+  },
+  {
+    "sn": "1024120",
+    "strContent": "You cannot take on this mission yet. Please clear <color=#FF423F>Luminous Island</color> missions first.",
+    "option1": "AAAAAA==",
+    "showName": "AAAAAA==",
+    "option2": "AAAAAA=="
+  },
+  {
+    "sn": "1024121",
+    "strContent": "{0} is locked. Do you want to track it now?",
+    "option1": "Confirm",
+    "showName": "AAAAAA==",
+    "option2": "Cancel"
   },
   {
     "sn": "1025224",
@@ -16024,7 +16283,7 @@
   },
   {
     "sn": "1052078",
-    "strContent": "<color=#FFDE00>{0}</color> is part your team. Exchange for their Awareness?\nAwareness can only be used if the corresponding Phantom Thief has joined you. It will be stored in your bag as an item until ready to use.",
+    "strContent": "<color=#FFDE00>{0}</color> is currently part of your team. Exchange for their Awareness?\nAwareness can only be used if the corresponding Phantom Thief has joined you. It will be stored in your bag as an item until ready to use.",
     "option1": "Confirm",
     "showName": "L<#000000,u,#FFFFFF>fel",
     "option2": "Never mind."
@@ -23276,7 +23535,7 @@
   },
   {
     "sn": "1159008",
-    "strContent": "Hey, there's a treasure chest\nover there.",
+    "strContent": "Hey, there's a treasure\nchest over there.",
     "option1": "AAAAAA==",
     "showName": "Shoki Ikenami",
     "option2": "AAAAAA=="
@@ -23489,6 +23748,132 @@
     "strContent": "Oh, what's this...?",
     "option1": "AAAAAA==",
     "showName": "Manaka Nagao",
+    "option2": "AAAAAA=="
+  },
+  {
+    "sn": "1161001",
+    "strContent": "Let's begin the investigation.",
+    "option1": "AAAAAA==",
+    "showName": "Makoto Yuki",
+    "option2": "AAAAAA=="
+  },
+  {
+    "sn": "1161002",
+    "strContent": "Looks like we're here.",
+    "option1": "AAAAAA==",
+    "showName": "Makoto Yuki",
+    "option2": "AAAAAA=="
+  },
+  {
+    "sn": "1161003",
+    "strContent": "We made it to our target.",
+    "option1": "AAAAAA==",
+    "showName": "Makoto Yuki",
+    "option2": "AAAAAA=="
+  },
+  {
+    "sn": "1161004",
+    "strContent": "There's a breeze. Might be a\nsecret passage.",
+    "option1": "AAAAAA==",
+    "showName": "Makoto Yuki",
+    "option2": "AAAAAA=="
+  },
+  {
+    "sn": "1161005",
+    "strContent": "Seems to be locked...",
+    "option1": "AAAAAA==",
+    "showName": "Makoto Yuki",
+    "option2": "AAAAAA=="
+  },
+  {
+    "sn": "1161006",
+    "strContent": "Let's find another way.",
+    "option1": "AAAAAA==",
+    "showName": "Makoto Yuki",
+    "option2": "AAAAAA=="
+  },
+  {
+    "sn": "1161007",
+    "strContent": "Guess that's that. Nice work.",
+    "option1": "AAAAAA==",
+    "showName": "Makoto Yuki",
+    "option2": "AAAAAA=="
+  },
+  {
+    "sn": "1161008",
+    "strContent": "Looks like a treasure chest here. Should we open it?",
+    "option1": "AAAAAA==",
+    "showName": "Makoto Yuki",
+    "option2": "AAAAAA=="
+  },
+  {
+    "sn": "1161009",
+    "strContent": "Keep an eye on your physical and mental stamina.",
+    "option1": "AAAAAA==",
+    "showName": "Makoto Yuki",
+    "option2": "AAAAAA=="
+  },
+  {
+    "sn": "1161010",
+    "strContent": "Wonder what's inside...",
+    "option1": "AAAAAA==",
+    "showName": "Makoto Yuki",
+    "option2": "AAAAAA=="
+  },
+  {
+    "sn": "1161011",
+    "strContent": "I'm glad it was something good.",
+    "option1": "AAAAAA==",
+    "showName": "Makoto Yuki",
+    "option2": "AAAAAA=="
+  },
+  {
+    "sn": "1161012",
+    "strContent": "There's an enemy. Be careful.",
+    "option1": "AAAAAA==",
+    "showName": "Makoto Yuki",
+    "option2": "AAAAAA=="
+  },
+  {
+    "sn": "1161013",
+    "strContent": "A safe room... Nice, let's take a rest.",
+    "option1": "AAAAAA==",
+    "showName": "Makoto Yuki",
+    "option2": "AAAAAA=="
+  },
+  {
+    "sn": "1161014",
+    "strContent": "It'd be nice if we had these in Tartarus...",
+    "option1": "AAAAAA==",
+    "showName": "Makoto Yuki",
+    "option2": "AAAAAA=="
+  },
+  {
+    "sn": "1161015",
+    "strContent": "We made some good progress.",
+    "option1": "AAAAAA==",
+    "showName": "Makoto Yuki",
+    "option2": "AAAAAA=="
+  },
+  {
+    "sn": "1161016",
+    "strContent": "Good work.",
+    "option1": "AAAAAA==",
+    "showName": "Makoto Yuki",
+    "option2": "AAAAAA=="
+  },
+  {
+    "sn": "1161017",
+    "strContent": "That enemy looks pretty strong...",
+    "option1": "AAAAAA==",
+    "showName": "Makoto Yuki",
+    "option2": "AAAAAA=="
+  },
+  {
+    "sn": "1161018",
+    "strContent": "Let's take a quick break. Rest is important, too.",
+    "option1": "AAAAAA==",
+    "showName": "Makoto Yuki",
     "option2": "AAAAAA=="
   },
   {
@@ -36190,6 +36575,13 @@
     "option2": "AAAAAA=="
   },
   {
+    "sn": "1209489",
+    "strContent": "For the best experience, play through {0}: Phase 1 and Riko Tanemura's Synergy ({1}) before playing this story.",
+    "option1": "Confirm",
+    "showName": "L<#000000,u,#FFFFFF>fel",
+    "option2": "Cancel"
+  },
+  {
     "sn": "1303001",
     "strContent": "Mindscape expansions will be unlocked in a future update.",
     "option1": "AAAAAA==",
@@ -38717,6 +39109,34 @@
     "option2": "AAAAAA=="
   },
   {
+    "sn": "1308001",
+    "strContent": "Do you want to spend {0} x{1} to unlock the story?",
+    "option1": "Confirm",
+    "showName": "AAAAAA==",
+    "option2": "Leave"
+  },
+  {
+    "sn": "1308002",
+    "strContent": "You don't have enough {0} to unlock this.",
+    "option1": "AAAAAA==",
+    "showName": "AAAAAA==",
+    "option2": "AAAAAA=="
+  },
+  {
+    "sn": "1308003",
+    "strContent": "Do you want to go to Tatsumi East Police Station to check the missing person missions?",
+    "option1": "Confirm",
+    "showName": "AAAAAA==",
+    "option2": "Cancel"
+  },
+  {
+    "sn": "1308004",
+    "strContent": "You cannot change Antiques while exploring Tartarus.",
+    "option1": "AAAAAA==",
+    "showName": "AAAAAA==",
+    "option2": "AAAAAA=="
+  },
+  {
     "sn": "1306012",
     "strContent": "Huh!? Chocolate...? Are you telling me...",
     "option1": "AAAAAA==",
@@ -39375,6 +39795,139 @@
     "option2": "Cancel"
   },
   {
+    "sn": "1308005",
+    "strContent": "Unlocked after watching the prologue.",
+    "option1": "AAAAAA==",
+    "showName": "AAAAAA==",
+    "option2": "AAAAAA=="
+  },
+  {
+    "sn": "1308006",
+    "strContent": "You don't have enough required items to unlock this.",
+    "option1": "AAAAAA==",
+    "showName": "AAAAAA==",
+    "option2": "AAAAAA=="
+  },
+  {
+    "sn": "1308007",
+    "strContent": "You cannot remove Antiques while exploring Tartarus.",
+    "option1": "AAAAAA==",
+    "showName": "AAAAAA==",
+    "option2": "AAAAAA=="
+  },
+  {
+    "sn": "1308008",
+    "strContent": "You cannot equip Antiques while exploring Tartarus.",
+    "option1": "AAAAAA==",
+    "showName": "AAAAAA==",
+    "option2": "AAAAAA=="
+  },
+  {
+    "sn": "1308009",
+    "strContent": "You cannot enhance Antiques while exploring Tartarus.",
+    "option1": "AAAAAA==",
+    "showName": "AAAAAA==",
+    "option2": "AAAAAA=="
+  },
+  {
+    "sn": "1308010",
+    "strContent": "You are currently exploring Tartarus. Please unlock power after completing exploration.",
+    "option1": "AAAAAA==",
+    "showName": "AAAAAA==",
+    "option2": "AAAAAA=="
+  },
+  {
+    "sn": "1308011",
+    "strContent": "Unlock in Mayoido to equip.",
+    "option1": "AAAAAA==",
+    "showName": "AAAAAA==",
+    "option2": "AAAAAA=="
+  },
+  {
+    "sn": "1308012",
+    "strContent": "The antique %s has been set.",
+    "option1": "AAAAAA==",
+    "showName": "AAAAAA==",
+    "option2": "AAAAAA=="
+  },
+  {
+    "sn": "1308013",
+    "strContent": "The antique %s has been unlocked.",
+    "option1": "AAAAAA==",
+    "showName": "AAAAAA==",
+    "option2": "AAAAAA=="
+  },
+  {
+    "sn": "1308014",
+    "strContent": "Team has been saved.\nSelect \"Enter\" from the Tartarus Entrance to begin exploring.",
+    "option1": "AAAAAA==",
+    "showName": "AAAAAA==",
+    "option2": "AAAAAA=="
+  },
+  {
+    "sn": "1308015",
+    "strContent": "You are currently exploring Tartarus. Please edit team after completing exploration.",
+    "option1": "AAAAAA==",
+    "showName": "AAAAAA==",
+    "option2": "AAAAAA=="
+  },
+  {
+    "sn": "1308016",
+    "strContent": "Do you want to spend {0} x{1} to unlock the antique {2}?",
+    "option1": "AAAAAA==",
+    "showName": "AAAAAA==",
+    "option2": "AAAAAA=="
+  },
+  {
+    "sn": "1308017",
+    "strContent": "You don't have enough Tarnished Silver Coins to enhance this.",
+    "option1": "AAAAAA==",
+    "showName": "AAAAAA==",
+    "option2": "AAAAAA=="
+  },
+  {
+    "sn": "1308018",
+    "strContent": "This character's story is not yet available.",
+    "option1": "AAAAAA==",
+    "showName": "AAAAAA==",
+    "option2": "AAAAAA=="
+  },
+  {
+    "sn": "1308019",
+    "strContent": "You don't have enough Tarnished Silver Coins to enhance this.",
+    "option1": "AAAAAA==",
+    "showName": "AAAAAA==",
+    "option2": "AAAAAA=="
+  },
+  {
+    "sn": "1308020",
+    "strContent": "Do you want to reset Mastery?\nIf reset, all Tarnished Silver Coins and Old Gemstones you spent will be returned.",
+    "option1": "Confirm",
+    "showName": "AAAAAA==",
+    "option2": "Leave"
+  },
+  {
+    "sn": "1308021",
+    "strContent": "Cannot be reset.",
+    "option1": "AAAAAA==",
+    "showName": "AAAAAA==",
+    "option2": "AAAAAA=="
+  },
+  {
+    "sn": "1308022",
+    "strContent": "You are currently exploring Tartarus. Please reset after completing exploration.",
+    "option1": "AAAAAA==",
+    "showName": "AAAAAA==",
+    "option2": "AAAAAA=="
+  },
+  {
+    "sn": "1308023",
+    "strContent": "You don't have enough Old Gemstones to enhance this.",
+    "option1": "AAAAAA==",
+    "showName": "AAAAAA==",
+    "option2": "AAAAAA=="
+  },
+  {
     "sn": "1307001",
     "strContent": "Deleting the resource package may cause data errors. Please move to Shibuya Station Square before deleting.",
     "option1": "Confirm",
@@ -39480,8 +40033,190 @@
     "option2": "AAAAAA=="
   },
   {
+    "sn": "2303057",
+    "strContent": "Confirming order. Please wait. (%s)",
+    "option1": "AAAAAA==",
+    "showName": "AAAAAA==",
+    "option2": "AAAAAA=="
+  },
+  {
+    "sn": "1310005",
+    "strContent": "Camera permission not enabled. Please enable it in the Settings menu.",
+    "option1": "Confirm",
+    "showName": "AAAAAA==",
+    "option2": "Cancel"
+  },
+  {
     "sn": "1320006",
     "strContent": "The event boss has changed. Please try again.",
+    "option1": "AAAAAA==",
+    "showName": "AAAAAA==",
+    "option2": "AAAAAA=="
+  },
+  {
+    "sn": "1308024",
+    "strContent": "You are currently exploring Tartarus. Please unlock Moonlit Bonds after exploration is complete.",
+    "option1": "AAAAAA==",
+    "showName": "AAAAAA==",
+    "option2": "AAAAAA=="
+  },
+  {
+    "sn": "1308025",
+    "strContent": "You are currently exploring Tartarus. Please unlock antiques after exploration is complete.",
+    "option1": "AAAAAA==",
+    "showName": "AAAAAA==",
+    "option2": "AAAAAA=="
+  },
+  {
+    "sn": "1308100",
+    "strContent": "Unlock Condition: Possess the Umiushi Beef Bowl. Obtained from Tartarus missions.",
+    "option1": "AAAAAA==",
+    "showName": "AAAAAA==",
+    "option2": "AAAAAA=="
+  },
+  {
+    "sn": "1308101",
+    "strContent": "Unlock condition: Possess the Potent Medicine. Obtained from Tartarus missions.",
+    "option1": "AAAAAA==",
+    "showName": "AAAAAA==",
+    "option2": "AAAAAA=="
+  },
+  {
+    "sn": "1308102",
+    "strContent": "Unlock condition: Possess the Pretty Seashell. Obtained from Tartarus missions.",
+    "option1": "AAAAAA==",
+    "showName": "AAAAAA==",
+    "option2": "AAAAAA=="
+  },
+  {
+    "sn": "1308103",
+    "strContent": "Unlock Condition: With Yukari Takeba in the party, complete any run of Tower of Darkness 1 time.",
+    "option1": "AAAAAA==",
+    "showName": "AAAAAA==",
+    "option2": "AAAAAA=="
+  },
+  {
+    "sn": "1308104",
+    "strContent": "Unlock Condition: With Yukari Takeba in the party, complete any run of Tower of Darkness 3 times.",
+    "option1": "AAAAAA==",
+    "showName": "AAAAAA==",
+    "option2": "AAAAAA=="
+  },
+  {
+    "sn": "1308105",
+    "strContent": "Unlock Condition: With Yukari Takeba at Transcended Awareness, complete any run of Tower of Darkness 1 time.",
+    "option1": "AAAAAA==",
+    "showName": "AAAAAA==",
+    "option2": "AAAAAA=="
+  },
+  {
+    "sn": "1308106",
+    "strContent": "Unlock Condition: With Akihiko Sanada in the party, complete any run of Tower of Darkness 1 time.",
+    "option1": "AAAAAA==",
+    "showName": "AAAAAA==",
+    "option2": "AAAAAA=="
+  },
+  {
+    "sn": "1308107",
+    "strContent": "Unlock Condition: With Akihiko Sanada in the party, complete any run of Tower of Darkness 3 times.",
+    "option1": "AAAAAA==",
+    "showName": "AAAAAA==",
+    "option2": "AAAAAA=="
+  },
+  {
+    "sn": "1308108",
+    "strContent": "Unlock Condition: With Akihiko Sanada at Transcended Awareness, complete any run of Tower of Darkness 1 time.",
+    "option1": "AAAAAA==",
+    "showName": "AAAAAA==",
+    "option2": "AAAAAA=="
+  },
+  {
+    "sn": "1308109",
+    "strContent": "Unlock Condition: With Mitsuru Kirijo in the party, complete any run of Tartarus: Tower of Eternal Night 5 times.",
+    "option1": "AAAAAA==",
+    "showName": "AAAAAA==",
+    "option2": "AAAAAA=="
+  },
+  {
+    "sn": "1308110",
+    "strContent": "Unlock Condition: With Mitsuru Kirijo in the party, complete any run of Tartarus: Tower of Eternal Night 10 times.",
+    "option1": "AAAAAA==",
+    "showName": "AAAAAA==",
+    "option2": "AAAAAA=="
+  },
+  {
+    "sn": "1308111",
+    "strContent": "Unlock Condition: With Mitsuru Kirijo in the party, complete any run of Tartarus: Tower of Eternal Night 15 times.",
+    "option1": "AAAAAA==",
+    "showName": "AAAAAA==",
+    "option2": "AAAAAA=="
+  },
+  {
+    "sn": "1308112",
+    "strContent": "Unlock Condition: With Fuuka Yamagishi in the party, complete any run of Tartarus: Tower of Eternal Night 5 times.",
+    "option1": "AAAAAA==",
+    "showName": "AAAAAA==",
+    "option2": "AAAAAA=="
+  },
+  {
+    "sn": "1308113",
+    "strContent": "Unlock Condition: With Fuuka Yamagishi in the party, complete any run of Tartarus: Tower of Eternal Night 10 times.",
+    "option1": "AAAAAA==",
+    "showName": "AAAAAA==",
+    "option2": "AAAAAA=="
+  },
+  {
+    "sn": "1308114",
+    "strContent": "Unlock Condition: With Fuuka Yamagishi in the party, complete any run of Tartarus: Tower of Eternal Night 15 times.",
+    "option1": "AAAAAA==",
+    "showName": "AAAAAA==",
+    "option2": "AAAAAA=="
+  },
+  {
+    "sn": "1308115",
+    "strContent": "Unlock Condition: With Junpei Iori in the party, complete any run of Tartarus: Tower of Eternal Night 5 times.",
+    "option1": "AAAAAA==",
+    "showName": "AAAAAA==",
+    "option2": "AAAAAA=="
+  },
+  {
+    "sn": "1308116",
+    "strContent": "Unlock Condition: With Junpei Iori in the party, complete any run of Tartarus: Tower of Eternal Night 10 times.",
+    "option1": "AAAAAA==",
+    "showName": "AAAAAA==",
+    "option2": "AAAAAA=="
+  },
+  {
+    "sn": "1308117",
+    "strContent": "Unlock Condition: With Junpei Iori in the party, complete any run of Tartarus: Tower of Eternal Night 15 times.",
+    "option1": "AAAAAA==",
+    "showName": "AAAAAA==",
+    "option2": "AAAAAA=="
+  },
+  {
+    "sn": "1308118",
+    "strContent": "Unlock Condition: With Koromaru in the party, complete any run of Tartarus: Tower of Endless Night 5 times.",
+    "option1": "AAAAAA==",
+    "showName": "AAAAAA==",
+    "option2": "AAAAAA=="
+  },
+  {
+    "sn": "1308119",
+    "strContent": "Unlock Condition: With Koromaru in the party, complete any run of Tartarus: Tower of Endless Night 10 times.",
+    "option1": "AAAAAA==",
+    "showName": "AAAAAA==",
+    "option2": "AAAAAA=="
+  },
+  {
+    "sn": "1308120",
+    "strContent": "Unlock Condition: With Koromaru in the party, complete any run of Tartarus: Tower of Endless Night 15 times.",
+    "option1": "AAAAAA==",
+    "showName": "AAAAAA==",
+    "option2": "AAAAAA=="
+  },
+  {
+    "sn": "1308026",
+    "strContent": "No bonds can currently be reset.",
     "option1": "AAAAAA==",
     "showName": "AAAAAA==",
     "option2": "AAAAAA=="

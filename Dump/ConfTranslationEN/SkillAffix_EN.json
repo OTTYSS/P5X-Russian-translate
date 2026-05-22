@@ -112,7 +112,7 @@
   {
     "sn": "25",
     "name": "Special Effect",
-    "desc": "Foes inflicted with Elemental Ailments take 20% increased damage."
+    "desc": "Foes inflicted with elemental ailments take 20% increased damage."
   },
   {
     "sn": "26",
@@ -1275,6 +1275,21 @@
     "desc": "Painting Effect Active"
   },
   {
+    "sn": "495",
+    "name": "Painting Effect",
+    "desc": "Painting Effect Active"
+  },
+  {
+    "sn": "496",
+    "name": "Painting Effect",
+    "desc": "Painting Effect Active"
+  },
+  {
+    "sn": "497",
+    "name": "Painting Effect",
+    "desc": "Painting Effect Active"
+  },
+  {
     "sn": "446",
     "name": "Painting Effect",
     "desc": "Painting Effect Active"
@@ -2057,7 +2072,12 @@
   {
     "sn": "1027",
     "name": "Special Effect",
-    "desc": "Gain Stable Domain. When the user deals weakness damage, grant Pursuing Maelstrom to party.\nPursuing Maelstrom: Increase final damage by 15% for 1 turn, and on an extra action, increase final damage by 25% more."
+    "desc": "When dealing weakness damage, Pursuing Maelstrom is granted to all allies.\nPursuing Maelstrom: Increase final damage by 15% for 1 turn, and on an extra action, increase final damage by 25% more."
+  },
+  {
+    "sn": "1028",
+    "name": "Special Effect",
+    "desc": "Final Highlight damage is increase by 40%. When activating a Theurgy, user's final damage is increased by 40% for 3 turns."
   },
   {
     "sn": "2018",
@@ -2068,6 +2088,11 @@
     "sn": "2019",
     "name": "Special Effect",
     "desc": "When the party deals <color=#FFFC40>Almighty dmg</color>, increase dmg by 25%, and critical dmg by 25%."
+  },
+  {
+    "sn": "2020",
+    "name": "Special Effect",
+    "desc": "Allies' <color=#FFFC40>Theurgy</color> damage is increased by 30%. After using a Theurgy, user's final damage is increased by 30% more for 3 turns."
   },
   {
     "sn": "4513",
@@ -2428,6 +2453,16 @@
     "sn": "4601",
     "name": "Special Effect",
     "desc": "When an enemy is <color=#FFFC40>knocked down</color>, increase final damage taken by 100%."
+  },
+  {
+    "sn": "5901",
+    "name": "tnxct-[SkillAffix_name_5901]",
+    "desc": "tnxct-[SkillAffix_desc_5901]"
+  },
+  {
+    "sn": "5902",
+    "name": "tnxct-[SkillAffix_name_5902]",
+    "desc": "tnxct-[SkillAffix_desc_5902]"
   },
   {
     "sn": "7014",
@@ -3058,6 +3093,31 @@
     "sn": "7125",
     "name": "Special Effect",
     "desc": "At the end of Monstrous Entity's turn, the Composure or Frenzy stacks required to activate additional skills are decreased by 2."
+  },
+  {
+    "sn": "7131",
+    "name": "Special Effect",
+    "desc": "When an ally deals damage to Barbaric Beast Wheel, the amount of Power lost is halved."
+  },
+  {
+    "sn": "7132",
+    "name": "Special Effect",
+    "desc": "For every 1 Power, Barbaric Beast Wheel's Attack is increased by 0.5% and Defense is increased by 0.5%."
+  },
+  {
+    "sn": "7133",
+    "name": "Special Effect",
+    "desc": "When Barbaric Beast Wheel gains Irreversible or Maximum Output, its final damage dealt is doubled."
+  },
+  {
+    "sn": "7134",
+    "name": "Special Effect",
+    "desc": "Damage from Rolling Pursuit is increased by 20%, and Wild Assault deals guaranteed criticals."
+  },
+  {
+    "sn": "7135",
+    "name": "Special Effect",
+    "desc": "When Wheel's Afterimage is present, Barbaric Beast Wheel's affinities are changed."
   },
   {
     "sn": "8213",
@@ -3898,5 +3958,1575 @@
     "sn": "8824",
     "name": "Special Effect",
     "desc": "The damage of Uriel's Judgement is increased by 25%. Uriel's max HP is increased by 120%, and it gains 3 more Down Points."
+  },
+  {
+    "sn": "10021",
+    "name": "High Priestess",
+    "desc": "When an ally deals damage with a skill, also decrease the main target's Down Points by 1, and increase all foes' All-Out Attack damage taken by 100%-1500% (based on number of stacks)."
+  },
+  {
+    "sn": "10031",
+    "name": "Empress",
+    "desc": "All female allies' Attack, Defense, and max HP are increased by 20%, and final damage is increased by 30%. When the Major Arcana Card Emperor is obtained, the effect is doubled."
+  },
+  {
+    "sn": "10041",
+    "name": "Emperor",
+    "desc": "All male allies' Attack, Defense, and max HP are increased by 20%, and final damage is increased by 30%. When the Major Arcana Card Empress is obtained, the effect is doubled."
+  },
+  {
+    "sn": "10051",
+    "name": "Hierophant",
+    "desc": "When an ally uses a single-target attack skill, deal damage to all other foes equal to 20% of the damage dealt to the target. When activating a single-target Resonance, Highlight or Theurgy, deal damage to all other foes equal to 40% of the damage dealt to the target."
+  },
+  {
+    "sn": "10071",
+    "name": "Chariot",
+    "desc": "Allies' Highlights and Theurgies can deal critical hits."
+  },
+  {
+    "sn": "10091",
+    "name": "Hermit",
+    "desc": "When an item is used during battle, increase final damage by 1500%. After using the item, the user gains an extra action."
+  },
+  {
+    "sn": "10101",
+    "name": "Fortune",
+    "desc": "Increase ally's max HP by 20% and HP recovery by 20%. When a skill heals beyond max HP, deal damage to 1 random foe equal to 500% of surplus healing."
+  },
+  {
+    "sn": "10111",
+    "name": "Strength",
+    "desc": "Increase all allies' max SP by 200 and SP Recovery by 600%, but increase SP cost by 200%. When a skill is used, for every 10 SP spent, increase all allies' final damage by 1% for 1 turn."
+  },
+  {
+    "sn": "10121",
+    "name": "Hanged Man",
+    "desc": "Increase allies' continuous damage effect by 100%. Also, when damage is dealt by a skill, Resonance, Highlight, or Theurgy, immediately activate the continuous damage effect inflicted on the main target."
+  },
+  {
+    "sn": "10161",
+    "name": "Tower",
+    "desc": "Increase Wonder's Attack, Defense and max HP by 30%, and final damage by 50%"
+  },
+  {
+    "sn": "10171",
+    "name": "Star",
+    "desc": "Increase allies' HP recovery taken by 100%, and nullify spiritual ailments, becoming unable to act, and being downed. Also, the first time fatal damage is taken, survive with 1 HP. Also, when the Major Arcana card Fortune is obtained, the target of Fortune's damage effect changes to all foes."
+  },
+  {
+    "sn": "10181",
+    "name": "The Moon",
+    "desc": "Decrease Will spent in battle by 2. When Will is over 50, also increase allies' final damage by 10%."
+  },
+  {
+    "sn": "10191",
+    "name": "Sun",
+    "desc": "At the start of battle and every 5 turns, deal damage equal to 16% of maximum HP to all foes, and 16% of current HP to all allies."
+  },
+  {
+    "sn": "10200",
+    "name": "Judgement",
+    "desc": "Each time allies use normal attacks, grant 5 Might of Judgement stacks to all allies. Each time allies use ranged attacks, grant 1 Might of Judgement stack to all allies.\nMight of Judgement: Permanently increase normal and ranged attack damage by 10% per stack. Stacks up to 50 times."
+  },
+  {
+    "sn": "12421",
+    "name": "High Priestess",
+    "desc": "Allies who aren't in your party are counted in All-Out Attacks."
+  },
+  {
+    "sn": "12431",
+    "name": "Empress",
+    "desc": "All female allies' Attack, Defense, and max HP are increased by 20%, and final damage is increased by 30%. When the Major Arcana Card Emperor is obtained, the effect is doubled."
+  },
+  {
+    "sn": "12441",
+    "name": "Emperor",
+    "desc": "All male allies' Attack, Defense, and max HP are increased by 20%, and final damage is increased by 30%. When the Major Arcana Card Empress is obtained, the effect is doubled."
+  },
+  {
+    "sn": "12451",
+    "name": "Hierophant",
+    "desc": "When an ally uses a single-target attack skill, deal damage to all other foes equal to 20% of the damage dealt to the target. When activating a single-target Resonance, Highlight or Theurgy, deal damage to all other foes equal to 40% of the damage dealt to the target."
+  },
+  {
+    "sn": "12471",
+    "name": "Chariot",
+    "desc": "Allies' Highlights and Theurgies can deal critical hits. Increase Highlight and Theurgy's critical rate by 25% and critical damage by 50%."
+  },
+  {
+    "sn": "12501",
+    "name": "Fortune",
+    "desc": "Healing allies can deal critical hits. When a skill heals beyond max HP, deal damage to 1 random foe equal to 500% of surplus healing."
+  },
+  {
+    "sn": "12511",
+    "name": "Strength",
+    "desc": "Increase all allies' max SP by 200 and SP recovery by 600%, but increase SP cost by 200%. When a skill is used, for every 10 SP spent, increase all allies' final damage by 1% for 1 turn."
+  },
+  {
+    "sn": "12521",
+    "name": "Hanged Man",
+    "desc": "Increase allies' continuous damage effect by 100%. Also, when damage is dealt by a skill, Resonance, Highlight, or Theurgy, immediately activate the continuous damage effect inflicted on the main target."
+  },
+  {
+    "sn": "12561",
+    "name": "Tower",
+    "desc": "Increase Wonder's final damage by 0.5% for every Persona obtained. If over 150 Persona have been obtained, the effect is doubled."
+  },
+  {
+    "sn": "12571",
+    "name": "Star",
+    "desc": "Allies are in the Soul Link state. Increase allies' HP recovery Taken by 100%, and nullify spiritual ailments, becoming unable to act, and being downed. Also, the first time fatal damage is taken, survive with 1 HP. Also, when the Major Arcana card Fortune is obtained, the target of Fortune's damage effect changes to all foes."
+  },
+  {
+    "sn": "10201",
+    "name": "Swords",
+    "desc": "When Wonder has acted 2 times (excluding extra actions), gain an extra action."
+  },
+  {
+    "sn": "10202",
+    "name": "Swords",
+    "desc": "Increase Wonder's damage dealt by 30%. When the Major Arcana Card Tower is obtained, increase final damage by 10% more."
+  },
+  {
+    "sn": "10203",
+    "name": "Swords",
+    "desc": "Allies' 1 Mores can deal critical hits."
+  },
+  {
+    "sn": "10204",
+    "name": "Swords",
+    "desc": "Every 12 turns, grant an extra action to 1 random ally at the end of their turn."
+  },
+  {
+    "sn": "10205",
+    "name": "Swords",
+    "desc": "Elucidator allies' stat buff effects are increased by 10% more."
+  },
+  {
+    "sn": "10206",
+    "name": "Swords",
+    "desc": "After an ally uses a Highlight, 10% chance to immediately reset their Highlight cooldown time and fill Highlight gauge by 100%. Cannot activate repeatedly on the same turn."
+  },
+  {
+    "sn": "10207",
+    "name": "Swords",
+    "desc": "When an ally uses a single-target skill, deal damage equal to 20% of the damage taken by the main target 1 time."
+  },
+  {
+    "sn": "10208",
+    "name": "Swords",
+    "desc": "Allies are in the Soul Link state.\nSoul Link: Distributes all damage received between all allies who share this condition, based on the percentage of their current HP."
+  },
+  {
+    "sn": "10209",
+    "name": "Swords",
+    "desc": "At the start of each ally's turn, gain a shield equal to 10% of their max HP, but lose 10% of their current HP."
+  },
+  {
+    "sn": "10210",
+    "name": "Swords",
+    "desc": "Increase all allies' final damage based on how high current Will is. The effect is maximized at 80 Will, increasing final damage by 24%."
+  },
+  {
+    "sn": "10211",
+    "name": "Swords",
+    "desc": "Increase all allies' final damage based on how low current Will is. The effect is maximized at -50 Will, increasing final damage by 24%."
+  },
+  {
+    "sn": "10212",
+    "name": "Swords",
+    "desc": "For every ally not in the current party, increase party's damage dealt by 10%."
+  },
+  {
+    "sn": "10213",
+    "name": "Swords",
+    "desc": "Increase allies' damage dealt by 5% per current Exploration Level. At Exploration Level 8, also increase final damage by 10%."
+  },
+  {
+    "sn": "10214",
+    "name": "Swords",
+    "desc": "For every search object destroyed during the current exploration, increase damage dealt by 0.3%."
+  },
+  {
+    "sn": "10215",
+    "name": "Swords",
+    "desc": "For every 100 Clock Gears in your possession, increase damage by 3%."
+  },
+  {
+    "sn": "10216",
+    "name": "Swords",
+    "desc": "For every treasure chest opened during the current exploration, increase damage by 1.5%."
+  },
+  {
+    "sn": "10217",
+    "name": "Swords",
+    "desc": "For every battle won during the current exploration (including Insta-kills), increase all allies' Attack by 0.5% and Defense by 0.5%."
+  },
+  {
+    "sn": "10218",
+    "name": "Swords",
+    "desc": "For each elemental ailment inflicted on foes, increase their damage taken by 5% (stacks up to 5 times). Also, if a foe has 4 or more elemental ailments, increase their final damage taken by 10% more."
+  },
+  {
+    "sn": "10219",
+    "name": "Swords",
+    "desc": "When entering battle against Formidable Shadows or Sentinels, increases final dmg taken by 20% and decreases final dmg dealt by 10% for all foes."
+  },
+  {
+    "sn": "10220",
+    "name": "Swords",
+    "desc": "For every card obtained at the Great Clock, increase Attack by 3%."
+  },
+  {
+    "sn": "10221",
+    "name": "Swords",
+    "desc": "When a multi-target attack skill is used, increase main target's damage dealt by 50%."
+  },
+  {
+    "sn": "10222",
+    "name": "Swords",
+    "desc": "When an ally deals damage, for every 1% of their critical rate that exceeds 100%, increase that damage's critical multiplier by 1%."
+  },
+  {
+    "sn": "10223",
+    "name": "Swords",
+    "desc": "For each Rare Shadow defeated during the current exploration, increase Attack by 15%."
+  },
+  {
+    "sn": "12491",
+    "name": "Hermit",
+    "desc": "Increase allies' shield received by 99%, and at the end of their turn, grant a shield equal to 9% of their max HP. When an ally takes damage from a skill, the target that used the skill will receive a counterattack that deals fixed damage equal to 9999% of the total shield value of all allies."
+  },
+  {
+    "sn": "10224",
+    "name": "Swords",
+    "desc": "For each Formidable Shadow defeated during the current exploration, increase critical damage by 5%."
+  },
+  {
+    "sn": "10225",
+    "name": "Swords",
+    "desc": "Each time foes take an All-Out Attack, increase All-Out Attack damage taken by 100%. Stacks up to 10 times."
+  },
+  {
+    "sn": "10301",
+    "name": "Swords",
+    "desc": "When Wonder has acted 2 times (excluding extra actions), gain an extra action."
+  },
+  {
+    "sn": "10302",
+    "name": "Swords",
+    "desc": "Increase Wonder's damage dealt by 30%. When the Major Arcana Card Tower is obtained, increase final damage by 10% more."
+  },
+  {
+    "sn": "10303",
+    "name": "Swords",
+    "desc": "Allies' 1 Mores can deal critical hits."
+  },
+  {
+    "sn": "12581",
+    "name": "The Moon",
+    "desc": "Decrease Will spent in battle by 2. When Will is over 50, also increase allies' final damage by 10%."
+  },
+  {
+    "sn": "12591",
+    "name": "The Sun",
+    "desc": "At the start of battle and every 5 turns, deal damage equal to 16% of maximum HP to all foes, and 16% of current HP to all allies."
+  },
+  {
+    "sn": "12600",
+    "name": "Judgement",
+    "desc": "Each time allies use normal attacks, grant 5 Might of Judgement stacks to all allies. Each time allies use ranged attacks, grant 1 Might of Judgement stack to all allies.\nMight of Judgement: Permanently increase normal and ranged attack damage by 10% per stack. Stacks up to 50 times."
+  },
+  {
+    "sn": "10304",
+    "name": "Swords",
+    "desc": "Every 12 turns, grant an extra action to 1 random ally at the end of their turn."
+  },
+  {
+    "sn": "10305",
+    "name": "Swords",
+    "desc": "Elucidator allies' stat buff effects are increased by 20% more."
+  },
+  {
+    "sn": "10306",
+    "name": "Swords",
+    "desc": "After an ally uses a Highlight, 20% chance to immediately reset their Highlight cooldown time and fill Highlight gauge by 100%. Cannot activate repeatedly on the same turn."
+  },
+  {
+    "sn": "10307",
+    "name": "Swords",
+    "desc": "When an ally uses a single-target skill, deal damage equal to 20% of the damage taken by the main target 1 time."
+  },
+  {
+    "sn": "10308",
+    "name": "Swords",
+    "desc": "Allies are in the Soul Link state.\nSoul Link: Distributes all damage received between all allies who share this condition, based on the percentage of their current HP."
+  },
+  {
+    "sn": "10309",
+    "name": "Swords",
+    "desc": "At the start of each ally's turn, gain a shield equal to 10% of their max HP, but lose 10% of their current HP."
+  },
+  {
+    "sn": "10310",
+    "name": "Swords",
+    "desc": "Increase all allies' final damage based on how high current Will is. The effect is maximized at 80 Will, increasing final damage by 24%."
+  },
+  {
+    "sn": "10311",
+    "name": "Swords",
+    "desc": "Increase all allies' final damage based on how low current Will is. The effect is maximized at -50 Will, increasing final damage by 24%."
+  },
+  {
+    "sn": "10312",
+    "name": "Swords",
+    "desc": "For every ally not in the current party, increase party's damage dealt by 5%."
+  },
+  {
+    "sn": "10313",
+    "name": "Swords",
+    "desc": "Increase allies' damage dealt by 5% per current Exploration Level. At Exploration Level 8, also increase final damage by 10%."
+  },
+  {
+    "sn": "10314",
+    "name": "Swords",
+    "desc": "For every search object destroyed during the current exploration, increase damage dealt by 0.5%."
+  },
+  {
+    "sn": "10315",
+    "name": "Swords",
+    "desc": "For every 100 Clock Gears in your possession, increase damage by 3%."
+  },
+  {
+    "sn": "10316",
+    "name": "Swords",
+    "desc": "For every treasure chest opened during the current exploration, increase damage by 1.5%."
+  },
+  {
+    "sn": "10317",
+    "name": "Swords",
+    "desc": "For every battle won during the current exploration (including Insta-kills), increase all allies' Attack by 0.5% and Defense by 0.5%."
+  },
+  {
+    "sn": "10318",
+    "name": "Swords",
+    "desc": "For each elemental ailment inflicted on foes, increase their damage taken by 5% (stacks up to 5 times). Also, if a foe has 4 or more elemental ailments, increase their final damage taken by 10% more."
+  },
+  {
+    "sn": "10319",
+    "name": "Swords",
+    "desc": "When entering battle against Formidable Shadows or Sentinels, increases final dmg taken by 20% and decreases final dmg dealt by 10% for all foes."
+  },
+  {
+    "sn": "10320",
+    "name": "Swords",
+    "desc": "For every card obtained at the Great Clock, increase Attack by 3%."
+  },
+  {
+    "sn": "10321",
+    "name": "Swords",
+    "desc": "When a multi-target attack skill is used, increase main target's damage dealt by 50%."
+  },
+  {
+    "sn": "10322",
+    "name": "Swords",
+    "desc": "When an ally deals damage, for every 1% of their critical rate that exceeds 100%, increase that damage's critical multiplier by 1%."
+  },
+  {
+    "sn": "10323",
+    "name": "Swords",
+    "desc": "For each Rare Shadow defeated during the current exploration, increase Attack by 15%."
+  },
+  {
+    "sn": "10324",
+    "name": "Swords",
+    "desc": "For each Formidable Shadow defeated during the current exploration, increase critical damage by 5%."
+  },
+  {
+    "sn": "10325",
+    "name": "Swords",
+    "desc": "Each time foes take an All-Out Attack, increase All-Out Attack damage taken by 100%. Stacks up to 10 times."
+  },
+  {
+    "sn": "10326",
+    "name": "Swords",
+    "desc": "For every 100 Clock Gears obtained, increase Highlight gauge and Theurgy gauge by 1%."
+  },
+  {
+    "sn": "10327",
+    "name": "Swords",
+    "desc": "For every 5 of current SP, increase ally's HP recovery by 1%."
+  },
+  {
+    "sn": "10328",
+    "name": "Swords",
+    "desc": "For every 3 of current SP, increase ally's damage dealt by 1%."
+  },
+  {
+    "sn": "10329",
+    "name": "Swords",
+    "desc": "For every 100 Clock Gears obtained, increase HP recovery by 1%."
+  },
+  {
+    "sn": "10330",
+    "name": "Swords",
+    "desc": "At the end of each ally's turn, 20% chance to activate an All-Out Attack."
+  },
+  {
+    "sn": "10331",
+    "name": "Swords",
+    "desc": "Increase Wonder's Attack by 70%. When the Silver Sake Cup is obtained, increase Wonder's Attack by 20% more."
+  },
+  {
+    "sn": "10332",
+    "name": "Swords",
+    "desc": "For every Accomplice at Synergy Rank 15 or higher, increase Wonder's Attack by 5%."
+  },
+  {
+    "sn": "10333",
+    "name": "Swords",
+    "desc": "Increase Wonder's Attack by 2% per Super Level."
+  },
+  {
+    "sn": "10334",
+    "name": "Swords",
+    "desc": "After an ally uses a ranged attack, permanently increase all allies' ranged attack final damage by 0.5%. Stacks up to 99 times."
+  },
+  {
+    "sn": "10335",
+    "name": "Swords",
+    "desc": "Increase allies' ranged attack damage to downed foes by 80%."
+  },
+  {
+    "sn": "10336",
+    "name": "Swords",
+    "desc": "At the start of an ally's turn, permanently increase their damage dealt by 8%. Stacks up to 10 times."
+  },
+  {
+    "sn": "10337",
+    "name": "Swords",
+    "desc": "When an ally uses a Highlight or Theurgy, 50% chance to gain an extra action at the end of their turn."
+  },
+  {
+    "sn": "10338",
+    "name": "Swords",
+    "desc": "When an ally activates a Resonance, 10% chance to gain an extra action at the end of their turn."
+  },
+  {
+    "sn": "10339",
+    "name": "Swords",
+    "desc": "At the end of a foe's turn, 30% chance to grant an extra action to a random ally at the end of their turn."
+  },
+  {
+    "sn": "10340",
+    "name": "Swords",
+    "desc": "After an ally activates a skill, Highlight, Theurgy, or Resonance, permanently increase all allies' final damage by 0.5%. Stacks up to 40 times."
+  },
+  {
+    "sn": "10341",
+    "name": "Swords",
+    "desc": "Increase allies' maximum Down Points by 6, and for every 1 of their current Down Points, decrease their final damage taken by 3%."
+  },
+  {
+    "sn": "10342",
+    "name": "Swords",
+    "desc": "Increase Antique Energy gauge by 15%."
+  },
+  {
+    "sn": "10343",
+    "name": "Swords",
+    "desc": "Increase Antique Skill final damage by 20%."
+  },
+  {
+    "sn": "10344",
+    "name": "Swords",
+    "desc": "Allies' continuous damage effect can deal critical hits."
+  },
+  {
+    "sn": "10345",
+    "name": "Swords",
+    "desc": "Changes foes' Gun affinity. Null, Repel, and Drain become Resist. Resist becomes Normal. Normal becomes Weak. Weak attribute takes 25% more weakness damage."
+  },
+  {
+    "sn": "10346",
+    "name": "Swords",
+    "desc": "When allies deal damage with a skill, Highlight, Theurgy, or Resonance, 50% chance to inflict 1-2 Curse stacks on the target."
+  },
+  {
+    "sn": "10401",
+    "name": "Swords",
+    "desc": "Increase Wonder's Attack by 50%. When the Major Arcana Card Tower is obtained, increase piece rate by 20% more."
+  },
+  {
+    "sn": "10402",
+    "name": "Swords",
+    "desc": "Increase Wonder's critical rate by 30%. When the Major Arcana Card Tower is obtained, increase Wonder's critical damage by 60% more."
+  },
+  {
+    "sn": "10403",
+    "name": "Swords",
+    "desc": "Increase Wonder's HP by 40%. When the Major Arcana Card Tower is obtained, apply this effect to the party."
+  },
+  {
+    "sn": "10404",
+    "name": "Swords",
+    "desc": "Increase allies' damage to knocked down foes by 40%."
+  },
+  {
+    "sn": "10405",
+    "name": "Swords",
+    "desc": "At the start of battle and at the end of each foe's turn, change 1 random affinity on the foe to Weak."
+  },
+  {
+    "sn": "10406",
+    "name": "Swords",
+    "desc": "At the start of battle, fill Highlight gauge by 50%."
+  },
+  {
+    "sn": "10407",
+    "name": "Swords",
+    "desc": "After an ally uses a Highlight, reduce the Highlight cooldown of other allies by 1 turn."
+  },
+  {
+    "sn": "10408",
+    "name": "Swords",
+    "desc": "Highlight gauge fills 25% faster."
+  },
+  {
+    "sn": "10409",
+    "name": "Swords",
+    "desc": "After an ally uses a Highlight, immediately fill Highlight gauge by 25%."
+  },
+  {
+    "sn": "10410",
+    "name": "Swords",
+    "desc": "Theurgy gauge fills 25% faster."
+  },
+  {
+    "sn": "10411",
+    "name": "Swords",
+    "desc": "After an ally uses a Highlight or Theurgy, increase party's damage by 15% for 2 turns. Stacks up to 2 times."
+  },
+  {
+    "sn": "10412",
+    "name": "Swords",
+    "desc": "After an Elucidator ally uses a skill, fill the Highlight gauge by 20%."
+  },
+  {
+    "sn": "10413",
+    "name": "Swords",
+    "desc": "After an Elucidator ally uses a skill, permanently increase the party's damage by 8%. Stacks up to 4 times."
+  },
+  {
+    "sn": "10414",
+    "name": "Swords",
+    "desc": "Increase allies' final Highlight damage by 12%."
+  },
+  {
+    "sn": "10415",
+    "name": "Swords",
+    "desc": "Increase allies' final Theurgy damage by 12%."
+  },
+  {
+    "sn": "10416",
+    "name": "Swords",
+    "desc": "Increase allies' final normal attack damage by 12%."
+  },
+  {
+    "sn": "10417",
+    "name": "Swords",
+    "desc": "Increase allies' final ranged attack damage by 12%."
+  },
+  {
+    "sn": "10418",
+    "name": "Swords",
+    "desc": "Increase allies' final Resonance damage by 10%."
+  },
+  {
+    "sn": "10419",
+    "name": "Swords",
+    "desc": "Increase allies' Technical Precision by 1000."
+  },
+  {
+    "sn": "10420",
+    "name": "Swords",
+    "desc": "Increase allies' continuous damage effect by 20%."
+  },
+  {
+    "sn": "10421",
+    "name": "Swords",
+    "desc": "Increase allies' weak point damage by 10%."
+  },
+  {
+    "sn": "10422",
+    "name": "Swords",
+    "desc": "Increase allies' resistance pierce by 12%."
+  },
+  {
+    "sn": "10423",
+    "name": "Swords",
+    "desc": "Sweeper and Assassin allies' damage is increased by 15% and critical rate is increased by 10%."
+  },
+  {
+    "sn": "10424",
+    "name": "Swords",
+    "desc": "Strategist and Saboteur characters' Speed is increased by 6, and ailment accuracy is increased by 24%."
+  },
+  {
+    "sn": "10425",
+    "name": "Swords",
+    "desc": "Medic and Guardian characters' Defense is increased by 25%, and max HP is increased by 20%."
+  },
+  {
+    "sn": "10426",
+    "name": "Swords",
+    "desc": "Elucidator characters' Attack, Defense, and max HP are increased by 20%."
+  },
+  {
+    "sn": "10427",
+    "name": "Swords",
+    "desc": "On an extra action, ally's damage is increased by 50%."
+  },
+  {
+    "sn": "10428",
+    "name": "Swords",
+    "desc": "When an ally receives healing, decrease damage taken by 15% for 3 turns."
+  },
+  {
+    "sn": "10429",
+    "name": "Swords",
+    "desc": "When an ally receives healing, increase pierce rate by 10% for 2 turns."
+  },
+  {
+    "sn": "10430",
+    "name": "Swords",
+    "desc": "When an ally receives healing from a Resonance, their critical damage is increased by 24%. Stacks up to 2 times."
+  },
+  {
+    "sn": "10431",
+    "name": "Swords",
+    "desc": "When an ally's current HP is low, damage taken is decreased. When HP is at 30%, gain maximum damage reduction of 36%."
+  },
+  {
+    "sn": "10432",
+    "name": "Swords",
+    "desc": "When an ally's current HP is low, their damage is decreased. When HP is at 30%, gain maximum damage reduction of 50%."
+  },
+  {
+    "sn": "10433",
+    "name": "Swords",
+    "desc": "When an ally's current HP is high, critical rate is increased. When HP is at 100%, gain maximum critical rate bonus of 20%."
+  },
+  {
+    "sn": "10434",
+    "name": "Swords",
+    "desc": "When an ally has a shield, increase pierce rate based on current shield amount. For every 1000 points of shield, increase pierce rate by 1%, up to a maximum of 18%."
+  },
+  {
+    "sn": "10435",
+    "name": "Swords",
+    "desc": "When an ally has a shield, damage taken is decreased by 15%."
+  },
+  {
+    "sn": "10436",
+    "name": "Swords",
+    "desc": "At the start of battle, for each ally with the same attribute, party's damage dealt is increased by 12%."
+  },
+  {
+    "sn": "10437",
+    "name": "Swords",
+    "desc": "Each time damage is dealt to a foe, their damage taken is increased by 4% for 3 turns. Stacks up to 10 times."
+  },
+  {
+    "sn": "10438",
+    "name": "Swords",
+    "desc": "Foes' damage taken is increased by 6% for each debuff they are inflicted with, up to 30%."
+  },
+  {
+    "sn": "10439",
+    "name": "Swords",
+    "desc": "For each Dawn Fragment in your possession, increase party's damage by 6%."
+  },
+  {
+    "sn": "10440",
+    "name": "Swords",
+    "desc": "If you are on floor 9 or lower, the party's final damage taken is increased by 8%. If you are on floor 10 or higher, the party's final damage taken is decreased by 8%."
+  },
+  {
+    "sn": "10441",
+    "name": "Swords",
+    "desc": "If you are on floor 9 or lower, the party's final damage is decreased by 10%. If you are on floor 10 or higher, the party's final damage is increased by 10%."
+  },
+  {
+    "sn": "10442",
+    "name": "Swords",
+    "desc": "At the start of battle against a Rare Shadow, all of the Rare Shadow's resistances are changed to Weak."
+  },
+  {
+    "sn": "10443",
+    "name": "Swords",
+    "desc": "At the start of battle at the Monad Doors, foes' final damage taken is increased by 30% and their final damage dealt is decreased by 30%."
+  },
+  {
+    "sn": "10444",
+    "name": "Swords",
+    "desc": "During this exploration, Attack is increased by 30% for each Monad Door you pass through."
+  },
+  {
+    "sn": "10445",
+    "name": "Swords",
+    "desc": "When an foe takes damage from an All-Out Attack, they recover from being knocked down."
+  },
+  {
+    "sn": "10501",
+    "name": "Swords",
+    "desc": "Wonder's Attack is increased by 70%. When the Silver Sake Cup is obtained, Wonder's pierce rate is increased 20%."
+  },
+  {
+    "sn": "10502",
+    "name": "Swords",
+    "desc": "Wonder's critical rate is increased by 30%. When the Silver Sake Cup is obtained, Wonder's critical damage is increased by 20%."
+  },
+  {
+    "sn": "10503",
+    "name": "Swords",
+    "desc": "Wonder's max HP is increased by 40%. When the Silver Sake Cup is obtained, this effect is applied to all allies."
+  },
+  {
+    "sn": "10504",
+    "name": "Swords",
+    "desc": "Allies' damage to knocked down foes is increased by 40%."
+  },
+  {
+    "sn": "10505",
+    "name": "Swords",
+    "desc": "At the start of battle and at the end of each foe's turn, 1 random affinity on the foe is changed to Weak."
+  },
+  {
+    "sn": "10506",
+    "name": "Swords",
+    "desc": "At the start of battle, Highlight gauge is filled by 50%."
+  },
+  {
+    "sn": "10507",
+    "name": "Swords",
+    "desc": "After an ally uses a Highlight, chance for the cooldown of other allies' to be reduced by 1 turn."
+  },
+  {
+    "sn": "10508",
+    "name": "Swords",
+    "desc": "Highlight gauge fills 25% faster."
+  },
+  {
+    "sn": "10509",
+    "name": "Swords",
+    "desc": "After an ally uses a Highlight, the Highlight gauge is immediately filled by 25%."
+  },
+  {
+    "sn": "10510",
+    "name": "Swords",
+    "desc": "Theurgy gauge is filled 25% faster."
+  },
+  {
+    "sn": "10511",
+    "name": "Swords",
+    "desc": "After an ally uses a Highlight or Theurgy, party's damage is increased by 15% for 2 turns. Stacks up to 2 times."
+  },
+  {
+    "sn": "10512",
+    "name": "Swords",
+    "desc": "After an Elucidator ally uses a skill, the Highlight gauge is filled by 20%."
+  },
+  {
+    "sn": "10513",
+    "name": "Swords",
+    "desc": "After an Elucidator ally uses a skill, the party's damage is permanently increased by 8%. Stacks up to 4 times."
+  },
+  {
+    "sn": "10514",
+    "name": "Swords",
+    "desc": "Allies' Highlight final damage is increased by 12%."
+  },
+  {
+    "sn": "10515",
+    "name": "Swords",
+    "desc": "Allies' Theurgy final damage is increased by 12%."
+  },
+  {
+    "sn": "10516",
+    "name": "Swords",
+    "desc": "Allies' normal attack final damage is increased by 12%."
+  },
+  {
+    "sn": "10517",
+    "name": "Swords",
+    "desc": "Allies' ranged attack final damage is increased by 12%."
+  },
+  {
+    "sn": "10518",
+    "name": "Swords",
+    "desc": "Allies' Resonance final dmg is increased by 10%."
+  },
+  {
+    "sn": "10519",
+    "name": "Swords",
+    "desc": "Allies' Technical Precision is increased by 1000."
+  },
+  {
+    "sn": "10520",
+    "name": "Swords",
+    "desc": "Allies continuous damage effect is increased by 20%."
+  },
+  {
+    "sn": "10521",
+    "name": "Swords",
+    "desc": "Allies' weak point damage is increased by 10%."
+  },
+  {
+    "sn": "10522",
+    "name": "Swords",
+    "desc": "Allies' resistance pierce is increased by 12%."
+  },
+  {
+    "sn": "10523",
+    "name": "Swords",
+    "desc": "Sweeper and Assassin allies' damage is increased by 15% and critical rate is increased by 10%."
+  },
+  {
+    "sn": "10524",
+    "name": "Swords",
+    "desc": "Strategist and Saboteur characters' Speed is increased by 6, and ailment accuracy is increased by 24%."
+  },
+  {
+    "sn": "10525",
+    "name": "Swords",
+    "desc": "Medic and Guardian characters' Defense is increased by 25%, and max HP is increased by 20%."
+  },
+  {
+    "sn": "10526",
+    "name": "Swords",
+    "desc": "Elucidator characters' Attack, Defense, and max HP are increased by 20%."
+  },
+  {
+    "sn": "10527",
+    "name": "Swords",
+    "desc": "On an extra action, ally's damage is increased by 40%."
+  },
+  {
+    "sn": "10528",
+    "name": "Swords",
+    "desc": "When an ally receives healing, decrease damage taken by 15% for 3 turns."
+  },
+  {
+    "sn": "10529",
+    "name": "Swords",
+    "desc": "When an ally receives healing, increase pierce rate by 10% for 2 turns."
+  },
+  {
+    "sn": "10530",
+    "name": "Swords",
+    "desc": "When an ally receives healing from a Resonance, their critical damage is increased by 24%. Stacks up to 2 times."
+  },
+  {
+    "sn": "10531",
+    "name": "Swords",
+    "desc": "When an ally's current HP is low, damage taken is decreased. When HP is at 30%, gain maximum damage reduction of 36%."
+  },
+  {
+    "sn": "10532",
+    "name": "Swords",
+    "desc": "When an ally's current HP is low, their damage is decreased. When HP is at 30%, gain maximum damage reduction of 50%."
+  },
+  {
+    "sn": "10533",
+    "name": "Swords",
+    "desc": "When an ally's current HP is high, critical rate is increased. When HP is at 100%, gain maximum critical rate bonus of 20%."
+  },
+  {
+    "sn": "10534",
+    "name": "Swords",
+    "desc": "When an ally has a shield, increase pierce rate based on current shield amount. For every 1000 points of shield, increase pierce rate by 1%, up to a maximum of 18%."
+  },
+  {
+    "sn": "10535",
+    "name": "Swords",
+    "desc": "When an ally has a shield, damage taken is decreased by 15%."
+  },
+  {
+    "sn": "10536",
+    "name": "Swords",
+    "desc": "At the start of battle, for each ally with the same attribute, party's damage dealt is increased by 12%."
+  },
+  {
+    "sn": "10537",
+    "name": "Swords",
+    "desc": "Each time damage is dealt to a foe, their damage taken is increased by 4% for 3 turns. Stacks up to 10 times."
+  },
+  {
+    "sn": "10538",
+    "name": "Swords",
+    "desc": "Foes' damage taken is increased by 6% for each debuff they are inflicted with, up to 30%."
+  },
+  {
+    "sn": "10539",
+    "name": "Swords",
+    "desc": "For each Dawn Fragment in your possession, increase party's damage by 6%."
+  },
+  {
+    "sn": "10540",
+    "name": "Swords",
+    "desc": "If you are on floor 9 or lower, the party's final damage taken is increased by 8%. If you are on floor 10 or higher, the party's final damage taken is decreased by 8%."
+  },
+  {
+    "sn": "10541",
+    "name": "Swords",
+    "desc": "If you are on floor 9 or lower, the party's final damage is decreased by 10%. If you are on floor 10 or higher, the party's final damage is increased by 10%."
+  },
+  {
+    "sn": "10542",
+    "name": "Swords",
+    "desc": "At the start of battle against a Rare Shadow, all of the Rare Shadow's resistances are changed to Weak."
+  },
+  {
+    "sn": "10543",
+    "name": "Swords",
+    "desc": "At the start of battle at the Monad Doors, foes' final damage taken is increased by 30% and their final damage dealt is decreased by 30%."
+  },
+  {
+    "sn": "10544",
+    "name": "Swords",
+    "desc": "During this exploration, Attack is increased by 30% for each Monad Door you pass through."
+  },
+  {
+    "sn": "10545",
+    "name": "Swords",
+    "desc": "When an foe takes damage from an All-Out Attack, they recover from being knocked down."
+  },
+  {
+    "sn": "10546",
+    "name": "Swords",
+    "desc": "On an extra action, allies' Attack is increased by 50%."
+  },
+  {
+    "sn": "10547",
+    "name": "Swords",
+    "desc": "On an extra action, allies' critical rate is increased by 30%."
+  },
+  {
+    "sn": "10548",
+    "name": "Swords",
+    "desc": "On an extra action, allies' critical damage is increased by 60%."
+  },
+  {
+    "sn": "10549",
+    "name": "Swords",
+    "desc": "On an extra action, allies' pierce rate is increased by 20%."
+  },
+  {
+    "sn": "10550",
+    "name": "Swords",
+    "desc": "Allies' All-Out Attack damage is increased by 8%."
+  },
+  {
+    "sn": "10551",
+    "name": "Swords",
+    "desc": "Foe's damage taken from All-Out Attacks is increased by 8%."
+  },
+  {
+    "sn": "10552",
+    "name": "Swords",
+    "desc": "Allies' damage dealt to downed foes is increased by 8%."
+  },
+  {
+    "sn": "10553",
+    "name": "Swords",
+    "desc": "Damage taken by downed foes is increased by 8%."
+  },
+  {
+    "sn": "10554",
+    "name": "Swords",
+    "desc": "2 extra allies are counted in your All-Out Attacks."
+  },
+  {
+    "sn": "10555",
+    "name": "Swords",
+    "desc": "After an ally activates a Highlight, the party's SP is restored by 10. This effect can restore SP beyond the limit, and the amount restored is affected by SP recovery."
+  },
+  {
+    "sn": "10556",
+    "name": "Swords",
+    "desc": "After an Elucidator ally activates a skill, the party's SP is restored by 5. This effect can restore SP beyond the limit, and the amount restored is affected by SP recovery."
+  },
+  {
+    "sn": "10557",
+    "name": "Swords",
+    "desc": "Allies' critical rate of ranged attacks is increased by 40%."
+  },
+  {
+    "sn": "10558",
+    "name": "Swords",
+    "desc": "Allies' critical damage is increased by 80%."
+  },
+  {
+    "sn": "10559",
+    "name": "Swords",
+    "desc": "Allies' ammo is fuilly restored."
+  },
+  {
+    "sn": "10560",
+    "name": "Swords",
+    "desc": "After an ally uses a ranged attack, there is a 20% that the Highlight gauge is filled by 20%."
+  },
+  {
+    "sn": "10561",
+    "name": "Swords",
+    "desc": "At the end of the turn, fully reload all ranged attack ammo."
+  },
+  {
+    "sn": "10562",
+    "name": "Swords",
+    "desc": "Allies' 1 Mores can deal critical hits."
+  },
+  {
+    "sn": "10563",
+    "name": "Swords",
+    "desc": "Allies' ranged attack accuracy is greatly increased."
+  },
+  {
+    "sn": "10564",
+    "name": "Swords",
+    "desc": "After an ally uses a Resonance, 25% chance that Elucidator allies' cooldown time is reduced by 1 turn."
+  },
+  {
+    "sn": "10565",
+    "name": "Swords",
+    "desc": "After an ally uses a Highlight or Theurgy, 25% chance that Elucidator allies' cooldown time is reduced by 1 turn."
+  },
+  {
+    "sn": "10601",
+    "name": "Swords",
+    "desc": "Allies' Attack is increased by 15%."
+  },
+  {
+    "sn": "10602",
+    "name": "Swords",
+    "desc": "Allies' Defense is increased by 22.5%."
+  },
+  {
+    "sn": "10603",
+    "name": "Swords",
+    "desc": "Allies' max HP is increased by 15%."
+  },
+  {
+    "sn": "10604",
+    "name": "Swords",
+    "desc": "Allies' Physical, Gun, and Almighty damage is increased by 12%."
+  },
+  {
+    "sn": "10605",
+    "name": "Swords",
+    "desc": "Allies' Fire, Ice, Electric, and Wind damage is increased by 12%."
+  },
+  {
+    "sn": "10606",
+    "name": "Swords",
+    "desc": "Allies' Psychokinesis, Nuclear, Bless, and Curse damage is increased by 12%."
+  },
+  {
+    "sn": "10607",
+    "name": "Swords",
+    "desc": "Allies' ailment accuracy is increased by 18%."
+  },
+  {
+    "sn": "10608",
+    "name": "Swords",
+    "desc": "Allies' HP recovery is increased by 10%."
+  },
+  {
+    "sn": "10609",
+    "name": "Swords",
+    "desc": "Allies' shield is increased by 10%."
+  },
+  {
+    "sn": "10610",
+    "name": "Swords",
+    "desc": "Allies' critical rate is increased by 6%."
+  },
+  {
+    "sn": "10611",
+    "name": "Swords",
+    "desc": "Allies' critical damage is increased by 12%."
+  },
+  {
+    "sn": "10612",
+    "name": "Swords",
+    "desc": "Allies' SP recovery is increased by 40%."
+  },
+  {
+    "sn": "10701",
+    "name": "Wands",
+    "desc": "Allies' final damage is increased by 12%."
+  },
+  {
+    "sn": "10702",
+    "name": "Wands",
+    "desc": "Allies' final damage taken is decreased by 8%."
+  },
+  {
+    "sn": "10703",
+    "name": "Wands",
+    "desc": "Allies' max HP is increased by 12%."
+  },
+  {
+    "sn": "10704",
+    "name": "Wands",
+    "desc": "Allies' Attack is increased by 12%."
+  },
+  {
+    "sn": "10705",
+    "name": "Wands",
+    "desc": "Allies' Defense is increased by 18%."
+  },
+  {
+    "sn": "10706",
+    "name": "Wands",
+    "desc": "Allies' critical rate is increased by 15%, and critical damage is increased by 30%."
+  },
+  {
+    "sn": "10707",
+    "name": "Wands",
+    "desc": "Change all allies' affinities to Null for 3 turns."
+  },
+  {
+    "sn": "10708",
+    "name": "Wands",
+    "desc": "Change all foe's affinities to Weak for 2 turns."
+  },
+  {
+    "sn": "10709",
+    "name": "Wands",
+    "desc": "Allies' final damage is increased by 25%."
+  },
+  {
+    "sn": "10710",
+    "name": "Wands",
+    "desc": "Allies' final damage taken is decreased by 15%."
+  },
+  {
+    "sn": "10711",
+    "name": "Wands",
+    "desc": "Allies' max HP is increased by 50%."
+  },
+  {
+    "sn": "10712",
+    "name": "Wands",
+    "desc": "Allies' Attack is increased by 50%."
+  },
+  {
+    "sn": "10713",
+    "name": "Wands",
+    "desc": "Allies' Defense is increased by 70%."
+  },
+  {
+    "sn": "10801",
+    "name": "Wands",
+    "desc": "Allies' final damage is increased by 12%."
+  },
+  {
+    "sn": "10802",
+    "name": "Wands",
+    "desc": "Allies' final damage taken is decreased by 8%."
+  },
+  {
+    "sn": "10803",
+    "name": "Wands",
+    "desc": "Allies' max HP is increased by 12%."
+  },
+  {
+    "sn": "10804",
+    "name": "Wands",
+    "desc": "Allies' Attack is increased by 12%."
+  },
+  {
+    "sn": "10805",
+    "name": "Wands",
+    "desc": "Allies' Defense is increased by 18%."
+  },
+  {
+    "sn": "10806",
+    "name": "Wands",
+    "desc": "Allies' critical rate is increased by 15%, and critical damage is increased by 30%."
+  },
+  {
+    "sn": "10807",
+    "name": "Wands",
+    "desc": "Highlight gauge is filled 30% faster."
+  },
+  {
+    "sn": "10808",
+    "name": "Wands",
+    "desc": "All allies' affinities are changed to Null for 3 turns."
+  },
+  {
+    "sn": "10809",
+    "name": "Wands",
+    "desc": "All foe's affinities are changed to Weak for 2 turns."
+  },
+  {
+    "sn": "10810",
+    "name": "Wands",
+    "desc": "1 random ally becomes untargetable."
+  },
+  {
+    "sn": "11701",
+    "name": "Will: Strong",
+    "desc": "Allies' Attack, Defense, max HP, and final damage is increased by 10%"
+  },
+  {
+    "sn": "11703",
+    "name": "Will: Shaken",
+    "desc": "Allies' Attack, Defense, max HP, and final damage is decreased by 20%"
+  },
+  {
+    "sn": "11704",
+    "name": "Will: Weak",
+    "desc": "Allies' Attack, Defense, max HP, and final damage is decreased by 50%, and final damage taken is increased by 50%."
+  },
+  {
+    "sn": "11705",
+    "name": "Will: Lost",
+    "desc": "Allies' Attack, Defense, max HP, and final damage is decreased by 90%, and final damage taken is increased by 90%."
+  },
+  {
+    "sn": "12001",
+    "name": "Unfettered Faith",
+    "desc": "At the start of each turn, Theurgy gauge is restored by an additional 15. When damage is dealt with a skill 3 or more times, final damage is increased by 30%."
+  },
+  {
+    "sn": "12005",
+    "name": "Desire to Save",
+    "desc": "tdxct-[SkillAffix_desc_12005]"
+  },
+  {
+    "sn": "12540",
+    "name": "Swords",
+    "desc": "If you are on floor 99 or lower, the party's final damage taken is increased by 8%. If you are on floor 100 or higher, the party's final damage taken is decreased by 8%."
+  },
+  {
+    "sn": "12541",
+    "name": "Swords",
+    "desc": "If you are on floor 99 or lower, the party's final damage is decreased by 10%. If you are on floor 100 or higher, the party's final damage is increased by 10%."
+  },
+  {
+    "sn": "11711",
+    "name": "Will: Strong",
+    "desc": "For every point of Will above 0, increase allies' Atk, Def, max HP, and final damage is increased by 0.1%."
+  },
+  {
+    "sn": "11712",
+    "name": "Will: Normal",
+    "desc": "Allies' Attack, Defense, max HP, and final damage is increased by 10%"
+  },
+  {
+    "sn": "11714",
+    "name": "Will: Shaken",
+    "desc": "Allies' Attack, Defense, max HP, and final damage is decreased by 20%"
+  },
+  {
+    "sn": "11715",
+    "name": "Will: Weak",
+    "desc": "Allies' Attack, Defense, max HP, and final damage is decreased by 50%, and final damage taken is increased by 50%."
+  },
+  {
+    "sn": "11716",
+    "name": "Will: Lost",
+    "desc": "For every point of Will below 0, allies' Attack, Defense, max HP, and final damage dealt are decreased by 0.75%, and final damage taken is increased by 0.75%."
+  },
+  {
+    "sn": "12401",
+    "name": "Charging Horn",
+    "desc": "Allies' Attack is increased by 5%."
+  },
+  {
+    "sn": "12402",
+    "name": "Persevering Horn",
+    "desc": "Allies'Defense is increased by 5%."
+  },
+  {
+    "sn": "12403",
+    "name": "Vivacious Horn",
+    "desc": "Allies' max HP is increased by 5%."
+  },
+  {
+    "sn": "12404",
+    "name": "Warrior's Horn",
+    "desc": "Allies' final damage is increased by 5%."
+  },
+  {
+    "sn": "12405",
+    "name": "Guardian's Horn",
+    "desc": "Allies' final damage taken is decreased by 5%."
+  },
+  {
+    "sn": "11506",
+    "name": "AAAAAA==",
+    "desc": "When entering battle against Strong Shadows or Sentinels, all foes' final dmg dealt is increased by 30% and their final dmg taken is decreased by 30%."
+  },
+  {
+    "sn": "11101",
+    "name": "AAAAAA==",
+    "desc": "Wonder's Attack is increased by 160.\nWonder's Defense is increased by 80.\nWonder's max HP is increased by 250.\nRyuji's damage is increased by 8%.\nRyuji's critical damage is increased by 6%.\nMorgana's Attack is increased by 10%.\nMorgana's critical rate is increased by 3%.\nMotoha's Attack is increased by 10%.\nMotoha's critical rate is increased by 3%.\nTropical Motoha's max HP is increased by 10%.\nTropical Motoha's critical damage is increased by 6%.\nLufel's max HP is increased by 10%.\nLufel's Attack is increased by 5%.\nRiko's Speed is increased by 7.5.\nTempest Riko's SP restoration is increased by 40%.\nTempest Riko's critical damage is increased by 12%.\nShun's max HP is increased by 15%.\nKamiyama's Attack is increased by 15%.\nTomiyama's Attack is increased by 15%.\nYaoling's Speed is increased by 7.5.\nFirecracker Yaoling's damage is increased by 8%.\nFirecracker Yaoling's critical damage is increased by 6%.\nTomoko's Attack is increased by 15%.\nSeaside Tomoko's Attack is increased by 15%.\nYui's Attack is increased by 10%.\nYui's critical rate is increased by 3%.\nKurotani's max HP is increased by 15%.\nYukimi's Defense is increased by 22.5%.\nShiratori's Attack is increased by 10%.\nShiratori's critical rate is increased by 3%.\nAkechi's Attack is increased by 10%.\nAkechi's critical rate is increased by 3%.\nYusuke's Defense is increased by 15%.\nYusuke's critical rate is increased by 3%.\nFutaba's Attack is increased by 15%.\nSumi's damage is increased by 8%.\nSumi's critical rate is increased by 3%.\nAnn's damage is increased by 8%.\nAnn's critical rate is increased by 3%.\nMakoto's Attack is increased by 10%.\nMakoto's critical rate is increased by 3%.\nKotone's Attack is increased by 10%.\nKotone's critical damage is increased by 6%.\nFrostgale Kotone's Attack is increased by 10%.\nFrostgale Kotone's critical damage is increased by 6%.\nMinami's max HP is increased by 15%.\nHaru's ailment accuracy is increased by 12%.\nHaru's critical damage is increased by 6%.\nRen's damage is increased by 8%.\nRen's critical rate is increased by 3%.\nMiyu's Defense is increased by 22.5%.\nHaruna's Attack is increased by 15%.\nKitazato's Attack is increased by 10%.\nKitazato's pierce rate is increased by 1.8%.\nChizuko's ailment accuracy is increased by 18%.\nYumi's Attack is increased by 15%.\nAyaka's Attack is increased by 15%.\nAshiya's Defense is increased by 22.5%.\nRuna's ailment accuracy is increased by 18%.\nKasumi's Attack is increased by 10%.\nKasumi's critical damage is increased by 6%.\nMio's ailment accuracy is increased by 18%.\nMayumi's Speed is increased by 7.5.\nShoki's ailment accuracy is increased by 18%.\nManaka's Attack is increased by 15%.\nMakoto's Attack is increased by 10%.\nMakoto's pierce rate is increased by 1.8%.\nJustine & Caroline's damage is increased by 8%.\nJustine & Caroline's critical damage is increased by 6%."
+  },
+  {
+    "sn": "12301",
+    "name": "AAAAAA==",
+    "desc": "Attack, Defense, and max HP are increased by 20%, and final damage is increased by 50%."
+  },
+  {
+    "sn": "12302",
+    "name": "AAAAAA==",
+    "desc": "Attack, Defense, and max HP are increased by 30%, and final damage is increased by 75%."
+  },
+  {
+    "sn": "12303",
+    "name": "AAAAAA==",
+    "desc": "Attack, Defense, and max HP are increased by 30%, and final damage is increased by 75%."
+  },
+  {
+    "sn": "12304",
+    "name": "AAAAAA==",
+    "desc": "Attack, Defense, and max HP are increased by 40%, and final damage is increased by 100%."
+  },
+  {
+    "sn": "12305",
+    "name": "AAAAAA==",
+    "desc": "Attack, Defense, and max HP are increased by 30%, and final damage is increased by 75%."
+  },
+  {
+    "sn": "12306",
+    "name": "AAAAAA==",
+    "desc": "Attack, Defense, and max HP are increased by 40%, and final damage is increased by 100%."
+  },
+  {
+    "sn": "12307",
+    "name": "AAAAAA==",
+    "desc": "Attack, Defense, and max HP are increased by 40%, and final damage is increased by 100%."
+  },
+  {
+    "sn": "12308",
+    "name": "AAAAAA==",
+    "desc": "Attack, Defense, and max HP are increased by 20%, and final damage is increased by 50%."
+  },
+  {
+    "sn": "12309",
+    "name": "AAAAAA==",
+    "desc": "Attack, Defense, and max HP are increased by 40%, and final damage is increased by 100%."
+  },
+  {
+    "sn": "12310",
+    "name": "AAAAAA==",
+    "desc": "Attack, Defense, and max HP are increased by 40%, and final damage is increased by 100%."
+  },
+  {
+    "sn": "12311",
+    "name": "AAAAAA==",
+    "desc": "Attack, Defense, and max HP are increased by 40%, and final damage is increased by 100%."
+  },
+  {
+    "sn": "12312",
+    "name": "AAAAAA==",
+    "desc": "Attack, Defense, and max HP are increased by 30%, and final damage is increased by 75%."
+  },
+  {
+    "sn": "12313",
+    "name": "AAAAAA==",
+    "desc": "Attack, Defense, and max HP are increased by 20%, and final damage is increased by 50%."
+  },
+  {
+    "sn": "12314",
+    "name": "AAAAAA==",
+    "desc": "Attack, Defense, and max HP are increased by 40%, and final damage is increased by 100%."
+  },
+  {
+    "sn": "12315",
+    "name": "AAAAAA==",
+    "desc": "Attack, Defense, and max HP are increased by 20%, and final damage is increased by 50%."
+  },
+  {
+    "sn": "12316",
+    "name": "AAAAAA==",
+    "desc": "Attack, Defense, and max HP are increased by 30%, and final damage is increased by 75%."
+  },
+  {
+    "sn": "12317",
+    "name": "AAAAAA==",
+    "desc": "Attack, Defense, and max HP are increased by 40%, and final damage is increased by 100%."
+  },
+  {
+    "sn": "12318",
+    "name": "AAAAAA==",
+    "desc": "Attack, Defense, and max HP are increased by 40%, and final damage is increased by 100%."
+  },
+  {
+    "sn": "12319",
+    "name": "AAAAAA==",
+    "desc": "Attack, Defense, and max HP are increased by 40%, and final damage is increased by 100%."
+  },
+  {
+    "sn": "12320",
+    "name": "AAAAAA==",
+    "desc": "Attack, Defense, and max HP are increased by 20%, and final damage is increased by 50%."
+  },
+  {
+    "sn": "12321",
+    "name": "AAAAAA==",
+    "desc": "Attack, Defense, and max HP are increased by 30%, and final damage is increased by 75%."
+  },
+  {
+    "sn": "12322",
+    "name": "AAAAAA==",
+    "desc": "Attack, Defense, and max HP are increased by 20%, and final damage is increased by 50%."
+  },
+  {
+    "sn": "12323",
+    "name": "AAAAAA==",
+    "desc": "Attack, Defense, and max HP are increased by 40%, and final damage is increased by 100%."
+  },
+  {
+    "sn": "12324",
+    "name": "AAAAAA==",
+    "desc": "Attack, Defense, and max HP are increased by 30%, and final damage is increased by 75%."
+  },
+  {
+    "sn": "12325",
+    "name": "AAAAAA==",
+    "desc": "Attack, Defense, and max HP are increased by 30%, and final damage is increased by 75%."
+  },
+  {
+    "sn": "12326",
+    "name": "AAAAAA==",
+    "desc": "Attack, Defense, and max HP are increased by 40%, and final damage is increased by 100%."
+  },
+  {
+    "sn": "12327",
+    "name": "AAAAAA==",
+    "desc": "Attack, Defense, and max HP are increased by 20%, and final damage is increased by 50%."
+  },
+  {
+    "sn": "12328",
+    "name": "AAAAAA==",
+    "desc": "Attack, Defense, and max HP are increased by 30%, and final damage is increased by 75%."
+  },
+  {
+    "sn": "12329",
+    "name": "AAAAAA==",
+    "desc": "Attack, Defense, and max HP are increased by 20%, and final damage is increased by 50%."
+  },
+  {
+    "sn": "12330",
+    "name": "AAAAAA==",
+    "desc": "Attack, Defense, and max HP are increased by 30%, and final damage is increased by 75%."
+  },
+  {
+    "sn": "12331",
+    "name": "AAAAAA==",
+    "desc": "Attack, Defense, and max HP are increased by 40%, and final damage is increased by 100%."
+  },
+  {
+    "sn": "12332",
+    "name": "AAAAAA==",
+    "desc": "Attack, Defense, and max HP are increased by 30%, and final damage is increased by 75%."
+  },
+  {
+    "sn": "12333",
+    "name": "AAAAAA==",
+    "desc": "Attack, Defense, and max HP are increased by 20%, and final damage is increased by 50%."
+  },
+  {
+    "sn": "12334",
+    "name": "AAAAAA==",
+    "desc": "Attack, Defense, and max HP are increased by 40%, and final damage is increased by 100%."
+  },
+  {
+    "sn": "12335",
+    "name": "AAAAAA==",
+    "desc": "Attack, Defense, and max HP are increased by 30%, and final damage is increased by 75%."
+  },
+  {
+    "sn": "12336",
+    "name": "AAAAAA==",
+    "desc": "Attack, Defense, and max HP are increased by 20%, and final damage is increased by 50%."
+  },
+  {
+    "sn": "12337",
+    "name": "AAAAAA==",
+    "desc": "Attack, Defense, and max HP are increased by 20%, and final damage is increased by 50%."
+  },
+  {
+    "sn": "12338",
+    "name": "AAAAAA==",
+    "desc": "Attack, Defense, and max HP are increased by 20%, and final damage is increased by 50%."
+  },
+  {
+    "sn": "12339",
+    "name": "AAAAAA==",
+    "desc": "Attack, Defense, and max HP are increased by 20%, and final damage is increased by 50%."
+  },
+  {
+    "sn": "12340",
+    "name": "AAAAAA==",
+    "desc": "Attack, Defense, and max HP are increased by 20%, and final damage is increased by 50%."
+  },
+  {
+    "sn": "12341",
+    "name": "AAAAAA==",
+    "desc": "Attack, Defense, and max HP are increased by 20%, and final damage is increased by 50%."
+  },
+  {
+    "sn": "12342",
+    "name": "AAAAAA==",
+    "desc": "Attack, Defense, and max HP are increased by 40%, and final damage is increased by 100%."
+  },
+  {
+    "sn": "12343",
+    "name": "AAAAAA==",
+    "desc": "Attack, Defense, and max HP are increased by 20%, and final damage is increased by 50%."
+  },
+  {
+    "sn": "12344",
+    "name": "AAAAAA==",
+    "desc": "Attack, Defense, and max HP are increased by 20%, and final damage is increased by 50%."
+  },
+  {
+    "sn": "12345",
+    "name": "AAAAAA==",
+    "desc": "Attack, Defense, and max HP are increased by 20%, and final damage is increased by 50%."
+  },
+  {
+    "sn": "12346",
+    "name": "AAAAAA==",
+    "desc": "Attack, Defense, and max HP are increased by 20%, and final damage is increased by 50%."
+  },
+  {
+    "sn": "11501",
+    "name": "AAAAAA==",
+    "desc": "Cannot be KO'd."
+  },
+  {
+    "sn": "11502",
+    "name": "AAAAAA==",
+    "desc": "Final damage dealt is increased by 50%, and final damage taken is decreased by 30%."
+  },
+  {
+    "sn": "11503",
+    "name": "AAAAAA==",
+    "desc": "At the start of each turn, foes gain 1 Berserk stack. After the 5th turn, they gain 1 more stack at the start of each turn.\nBerserk: Final damage is increased by 5%. Stacks up to 100 times."
+  },
+  {
+    "sn": "11513",
+    "name": "AAAAAA==",
+    "desc": "When entering battle against Strong Shadows or Sentinels, all foes' final damage dealt is increased by 30% and their final damage taken is decreased by 30%. The Reaper gains additional buffs, and uses control skills on its extra action."
   }
 ]

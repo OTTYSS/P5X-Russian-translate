@@ -242,7 +242,7 @@
   {
     "sn": "102140",
     "name": "Morgana's Favor",
-    "desc": "When using a different skill than the previous skill, gain 1 Chivalry stack. This can stack up to 3 times.\nWhen an ally with less than 70% HP remaining attacks with a skill or Highlight, activate a <link=\"s|100\"><u>Resonance</u></link>, spending 1 Chivalry stack to heal the party by 10% of Morgana's Attack + 150/225/300 (effect changes at Lv. 1/50/70, respectively).",
+    "desc": "When using a different skill than the previous skill, gain 1 Chivalry stack. This can stack up to 3 times.\nWhen an ally with less than 70% HP remaining attacks with a skill, Highlight, or Theurgy, activate a <link=\"s|100\"><u>Resonance</u></link>, spending 1 Chivalry stack to heal the party by 10% of Morgana's Attack + 150/225/300 (effect changes at Lv. 1/50/70, respectively).",
     "descSimple": "When using different skill from previous skill, gain 1 Chivalry (max 3 stacks). When ally below 70% HP attacks with skill, activate Resonance and spend 1 Chivalry to restore party's HP.",
     "levelUpList": "AAAAAA==",
     "levelUpValue": "AAAAAA==",
@@ -952,7 +952,7 @@
   {
     "sn": "108144",
     "name": "Queen of the Stage",
-    "desc": "When an ally uses a Highlight, 67% chance to gain 1 <link=\"s|141\"><u>Beat</u></link> stack.",
+    "desc": "When an ally uses a Highlight or Theurgy, 67% chance to gain 1 <link=\"s|141\"><u>Beat</u></link> stack.",
     "descSimple": "AAAAAA==",
     "levelUpList": "AAAAAA==",
     "levelUpValue": "AAAAAA==",
@@ -1552,7 +1552,7 @@
   {
     "sn": "115140",
     "name": "High School Detective",
-    "desc": "At the start of battle, grant Mastermind to the ally with the highest Attack (prioritizing Sweepers or Assassins, select Akechi if no target found). At the start of each turn, can manually reselect a target to grant Mastermind. Only 1 ally can have Mastermind at one time (reselecting has a cooldown of 1 turn).\nAlso, increase Akechi's Attack by 25% of the Mastermind ally's Attack (up to a maximum of 500/750/1000, at level 1/50/70, respectively).\nWhen an ally besides Akechi has Mastermind and deals damage to all foes with an attack skill, Highlight, or <link=\"s|100\"><u>Resonance</u></link>, record the average damage dealt to all foes (if targeting 1 foe, record 40% of the damage dealt). At the start of Akechi's turn, gain 1 Arrow of Truth stack based on the amount of damage recorded, and reset the recorded damage. Arrow of Truth can be held for 2 turns.\nWhen Akechi has Mastermind, the effect of Rain of Justice changes, and Arrow of Truth deals Almighty damage based on the skill multiplier or Arrow of Perjury.",
+    "desc": "At the start of battle, grant Mastermind to the ally with the highest Attack (prioritizing Sweepers or Assassins, select Akechi if no target found). At the start of each turn, can manually reselect a target to grant Mastermind. Only 1 ally can have Mastermind at one time (reselecting has a cooldown of 1 turn).\nAlso, increase Akechi's Attack by 25% of the Mastermind ally's Attack (up to a maximum of 500/750/1000, at level 1/50/70, respectively).\nWhen an ally besides Akechi has Mastermind and deals damage to all foes with an attack skill, Highlight, Theurgy, or <link=\"s|100\"><u>Resonance</u></link>, record the average damage dealt to all foes (if targeting 1 foe, record 40% of the damage dealt). At the start of Akechi's turn, gain 1 Arrow of Truth stack based on the amount of damage recorded, and reset the recorded damage. Arrow of Truth can be held for 2 turns.\nWhen Akechi has Mastermind, the effect of Rain of Justice changes, and Arrow of Truth deals Almighty damage based on the skill multiplier or Arrow of Perjury.",
     "descSimple": "AAAAAA==",
     "levelUpList": "AAAAAA==",
     "levelUpValue": "AAAAAA==",
@@ -1882,8 +1882,8 @@
   {
     "sn": "117113",
     "name": "Vulnerability Found!",
-    "desc": "For 3 turns, increase 1 foe's damage taken by 6%; increase damage taken by 0.57% more for every 100 points of Futaba's Attack (up to <color=#FFFC40>^%s^</color> of Attack).\nWhen an ally deals damage with a skill, Resonance, or Highlight to foes inflicted with this effect, gain 20% Analysis Progress.\nIf Futaba's Analysis Progress is at 100%, also grant Data Storm to all allies for 2 turns.",
-    "descSimple": "Increase 1 foe's dmg taken 6%; increase dmg taken 0.57% more per 100 of Futaba's Atk (3 turns, up to %s of Atk).\nWhen ally deals dmg to foe with this effect with skill, Resonance, or Highlight, gain 20% Analysis Progress.\nWhen at 100% Analysis Progress, also grant Data Storm to all allies (2 turns).",
+    "desc": "For 3 turns, increase 1 foe's damage taken by 6%; increase damage taken by 0.57% more for every 100 points of Futaba's Attack (up to <color=#FFFC40>^%s^</color> of Attack).\nWhen an ally deals damage with a skill, Resonance, Highlight, or Theurgy to foes inflicted with this effect, gain 20% Analysis Progress.\nIf Futaba's Analysis Progress is at 100%, also grant Data Storm to all allies for 2 turns.",
+    "descSimple": "Increase 1 foe's dmg taken 6%; increase dmg taken 0.57% more per 100 of Futaba's Atk (3 turns, up to %s of Atk).\nWhen ally deals dmg to foe with this effect with skill, Resonance, Highlight, or Theurgy, gain 20% Analysis Progress.\nWhen at 100% Analysis Progress, also grant Data Storm to all allies (2 turns).",
     "levelUpList": "Dmg Taken Increase Cap",
     "levelUpValue": "AAAAAA==",
     "contentBG": "Detect vulnerabilities in data logs to increase the enemy's damage taken.",
@@ -1922,7 +1922,7 @@
   {
     "sn": "117140",
     "name": "Data Scan",
-    "desc": "After an ally uses a skill, Futaba gains 5% to her Analysis Progress. Also when an ally deals weakness damage with a skill, Resonance or Highlight, Futaba gains 20% more to her Analysis Progress.\nWhen Data Storm is active, increase the party's damage by 10%/15%/20% based on Futaba's level (effect changes at Lv. 1/50/70, respectively); if dealing weakness damage, double this damage increase.",
+    "desc": "After an ally uses a skill, Futaba gains 5% to her Analysis Progress. Also when an ally deals weakness damage with a skill, Resonance, Highlight, or Theurgy, Futaba gains 20% more to her Analysis Progress.\nWhen Data Storm is active, increase the party's damage by 10%/15%/20% based on Futaba's level (effect changes at Lv. 1/50/70, respectively); if dealing weakness damage, double this damage increase.",
     "descSimple": "tdxct-[Skill_descSimple_117140]",
     "levelUpList": "AAAAAA==",
     "levelUpValue": "AAAAAA==",
@@ -1962,7 +1962,7 @@
   {
     "sn": "117144",
     "name": "Zero-Day Exploit",
-    "desc": "When an ally uses a Highlight, Futaba gains 1 Security Flaw stack. Stacks up to 2 times.\nWhen Futaba uses Pentest Complete! or Vulnerability Found!, spend all Security Flaw stacks to increase the effect by 8% for each stack.",
+    "desc": "When an ally uses a Highlight or Theurgy, Futaba gains 1 Security Flaw stack. Stacks up to 2 times.\nWhen Futaba uses Pentest Complete! or Vulnerability Found!, spend all Security Flaw stacks to increase the effect by 8% for each stack.",
     "descSimple": "AAAAAA==",
     "levelUpList": "AAAAAA==",
     "levelUpValue": "AAAAAA==",
@@ -3332,7 +3332,7 @@
   {
     "sn": "127144",
     "name": "Chasing Dreams",
-    "desc": "When an ally uses a Highlight, grant that ally a shield equal to 16% of Miyu's Defense + 480 for 2 turns.",
+    "desc": "When an ally uses a Highlight or Theurgy, grant that ally a shield equal to 16% of Miyu's Defense + 480 for 2 turns.",
     "descSimple": "AAAAAA==",
     "levelUpList": "AAAAAA==",
     "levelUpValue": "AAAAAA==",
@@ -4862,7 +4862,7 @@
   {
     "sn": "131140",
     "name": "Expert Bartender",
-    "desc": "When an ally deals damage with a skill, Resonance, or Highlight, Yumi gains 1 <link=\"s|181\"><u>Mixer</u></link> stack of the corresponding attribute.\nAfter gaining 3 Mixer stacks, change them to a <link=\"s|180\"><u>Cocktail</u></link> (max 3).\nIf the 3 Mixers have the same attribute, create a <link=\"s|182\"><u>Tailor-Made</u></link> Cocktail. If 2 are the same, create a <link=\"s|183\"><u>Standard</u></link> Cocktail. If all 3 are different, create a <link=\"s|184\"><u>Basic</u></link> Cocktail.\nWhen Yumi uses a skill, spend Cocktail stacks to activate various effects for the party and restore all allies' SP by 8.",
+    "desc": "When an ally deals damage with a skill, Resonance, Highlight, or Theurgy, Yumi gains 1 <link=\"s|181\"><u>Mixer</u></link> stack of the corresponding attribute.\nAfter gaining 3 Mixer stacks, change them to a <link=\"s|180\"><u>Cocktail</u></link> (max 3).\nIf the 3 Mixers have the same attribute, create a <link=\"s|182\"><u>Tailor-Made</u></link> Cocktail. If 2 are the same, create a <link=\"s|183\"><u>Standard</u></link> Cocktail. If all 3 are different, create a <link=\"s|184\"><u>Basic</u></link> Cocktail.\nWhen Yumi uses a skill, spend Cocktail stacks to activate various effects for the party and restore all allies' SP by 8.",
     "descSimple": "When an ally deals dmg with a skill, Resonance, or Highlight, Yumi gains 1 Mixer of same attribute. With 3+ Mixers, change to Cocktail. When Yumi uses a skill, spend Cocktail stacks to grant various effects and restore all allies' SP.",
     "levelUpList": "AAAAAA==",
     "levelUpValue": "AAAAAA==",
@@ -4902,7 +4902,7 @@
   {
     "sn": "131144",
     "name": "Bloody Mary",
-    "desc": "When an ally uses Highlight, increase their Attack by 10% for 1 turn.\nGain 1 <link=\"s|182\"><u>Tailor-Made</u></link> Cocktail.",
+    "desc": "When an ally uses Highlight or Theurgy, increase their Attack by 10% for 1 turn.\nAlso, gain 1 <link=\"s|182\"><u>Tailor-Made</u></link> Cocktail.",
     "descSimple": "AAAAAA==",
     "levelUpList": "AAAAAA==",
     "levelUpValue": "AAAAAA==",
@@ -5042,9 +5042,9 @@
   {
     "sn": "132113",
     "name": "Catchy Hook",
-    "desc": "Immediately activate the selected ally's Highlight and increase its damage by <color=#FFFC40>^%s^</color>.\nThis skill does not affect the target's Highlight cooldown time, even if it activates a Highlight.",
-    "descSimple": "Immediately activate selected ally's Highlight and increase its dmg %s.",
-    "levelUpList": "Dmg Increase",
+    "desc": "Immediately activate the selected ally's Highlight and increase its damage by <color=#FFFC40>^%s^</color>. This skill does not affect the target's Highlight cooldown time, even if it activates a Highlight.\nIf the selected character has a Theurgy, the next time they activate a Theurgy, increase final damage amplification by <color=#FFFC40>^%s^</color>.",
+    "descSimple": "Immediately activate the selected ally's Highlight and increase its damage by %s.\nIf the selected character has a Theurgy, the next time they activate a Theurgy, increase final damage amplification by %s.",
+    "levelUpList": "Dmg Increase,Theurgy Final Dmg Amp",
     "levelUpValue": "AAAAAA==",
     "contentBG": "Revs up the crowd with an exciting guitar solo, instantly activating an ally's Highlight.",
     "skillTag": "Buff"
@@ -5052,7 +5052,7 @@
   {
     "sn": "132131",
     "name": "Backing Track",
-    "desc": "When an ally uses a Highlight, increase target's Attack by <color=#FFFC40>^%s^</color> for 1 turn.\nWhen the target has <link=\"s|190\"><u>Costar</u></link>, increase effect by 1.5 times.",
+    "desc": "When an ally uses a Highlight or Theurgy, increase target's Attack by <color=#FFFC40>^%s^</color> for 1 turn.\nWhen the target has <link=\"s|190\"><u>Costar</u></link>, increase effect by 1.5 times.",
     "descSimple": "AAAAAA==",
     "levelUpList": "AAAAAA==",
     "levelUpValue": "AAAAAA==",
@@ -5062,7 +5062,7 @@
   {
     "sn": "132132",
     "name": "Chorus Effect",
-    "desc": "After an ally uses a Highlight, the ally with the lowest HP recovers HP equal to <color=#FFFC40>^%s^</color> of Ayaka's Attack + <color=#FFFC40>^%s^</color>.",
+    "desc": "After an ally uses a Highlight or Theurgy, the ally with the lowest HP recovers HP equal to <color=#FFFC40>^%s^</color> of Ayaka's Attack + <color=#FFFC40>^%s^</color>.",
     "descSimple": "AAAAAA==",
     "levelUpList": "AAAAAA==",
     "levelUpValue": "AAAAAA==",
@@ -6092,7 +6092,7 @@
   {
     "sn": "121213",
     "name": "Ailes au Vent / Frozen Wings",
-    "desc": "Spring mode: Activate Spring's Edge for 1 turn, and deal Wind damage to 1 foe equal to <color=#FFFC40>^%s^</color> of Attack (3 hits). While Spring's Edge is active, when allies deal Wind damage with a skill, Highlight, or <link=\"s|100\"><u>Resonance</u></link>, deal Wind damage to the selected target equal to 20% of Frostgale Kotone's Attack, and gain 1 <link=\"s|212\"><u>Spring's Vestige</u></link> stack. When Spring's Edge ends, spend all Spring's Vestige stacks, and deal Wind damage to the target selected that turn equal to (number of Spring's Vestige stacks + 4) x <color=#FFFC40>^%s^</color> of Attack. This damage is counted as a Resonance.\nWinter mode: Activate Winter's Edge for 1 turn, and deal Ice damage to 1 foe equal to <color=#FFFC40>^%s^</color> of Attack. While Winter's Edge is active, when an ally takes an attack, grant Glacial Heart to all allies for 2 turns, protecting them from up to <color=#FFFC40>^%s^</color> damage. This effect can be activated up to 2 times. Also, when allies deal Ice damage with a skill, Highlight, or Resonance, gain 1 <link=\"s|213\"><u>Winter's Vestige</u></link> stack. When Winter's Edge ends, spend all Winter's Vestige stacks, and deal Ice damage to the target selected that turn equal to (number of Winter's Vestige stacks + 4) x <color=#FFFC40>^%s^</color> of Attack. This damage is counted as a Resonance.",
+    "desc": "Spring mode: Activate Spring's Edge for 1 turn, and deal Wind damage to 1 foe equal to <color=#FFFC40>^%s^</color> of Attack (3 hits). While Spring's Edge is active, when allies deal Wind damage with a skill, Highlight, Theurgy or <link=\"s|100\"><u>Resonance</u></link>, deal Wind damage to the selected target equal to 20% of Frostgale Kotone's Attack, and gain 1 <link=\"s|212\"><u>Spring's Vestige</u></link> stack. When Spring's Edge ends, spend all Spring's Vestige stacks, and deal Wind damage to the target selected that turn equal to (number of Spring's Vestige stacks + 4) x <color=#FFFC40>^%s^</color> of Attack. This damage is counted as a Resonance.\nWinter mode: Activate Winter's Edge for 1 turn, and deal Ice damage to 1 foe equal to <color=#FFFC40>^%s^</color> of Attack. While Winter's Edge is active, when an ally takes an attack, grant Glacial Heart to all allies for 2 turns, protecting them from up to <color=#FFFC40>^%s^</color> damage. This effect can be activated up to 2 times. Also, when allies deal Ice damage with a skill, Highlight, Theurgy, or Resonance, gain 1 <link=\"s|213\"><u>Winter's Vestige</u></link> stack. When Winter's Edge ends, spend all Winter's Vestige stacks, and deal Ice damage to the target selected that turn equal to (number of Winter's Vestige stacks + 4) x <color=#FFFC40>^%s^</color> of Attack. This damage is counted as a Resonance.",
     "descSimple": "AAAAAA==",
     "levelUpList": "Spring Skill Multiplier,Resonance Multiplier,Winter Skill Multiplier,Base Shield,Resonance Multiplier",
     "levelUpValue": "AAAAAA==",
@@ -6132,8 +6132,8 @@
   {
     "sn": "121217",
     "name": "Frozen Wings",
-    "desc": "Activate Winter's Edge for 1 turn, and deal Ice damage to 1 foe equal to <color=#FFFC40>^%s^</color> of Attack. While Winter's Edge is active, when an ally takes an attack, grant Glacial Heart to all allies for 2 turns, protecting them from up to <color=#FFFC40>^%s^</color> damage. This effect can be activated up to 2 times. Also, when allies deal Ice damage with a skill, Highlight, or <link=\"s|100\"><u>Resonance</u></link>, gain 1 <link=\"s|213\"><u>Winter's Vestige</u></link> stack. When Winter's Edge ends, spend all Winter's Vestige stacks, and deal Ice damage to the target selected that turn equal to (number of Winter's Vestige stacks + 4) x <color=#FFFC40>^%s^</color> of Attack. This damage is counted as a Resonance.",
-    "descSimple": "Activate Winter's Edge (1 turn), and Ice dmg to 1 foe (%s Atk). While Winter's Edge is active, when ally is attacked, grant Glacial Heart to all allies, protecting from up to %s dmg (max 2 times, 2 turns). When allies deal Ice dmg with skill, Highlight, or Resonance, gain 1 Winter's Vestige. When Winter's Edge ends, spend all Winter's Vestige, and deal Ice dmg to target selected that turn ((number of Winter's Vestige + 4) x %s Atk). This damage is counted as a Resonance.",
+    "desc": "Activate Winter's Edge for 1 turn, and deal Ice damage to 1 foe equal to <color=#FFFC40>^%s^</color> of Attack. While Winter's Edge is active, when an ally takes an attack, grant Glacial Heart to all allies for 2 turns, protecting them from up to <color=#FFFC40>^%s^</color> damage. This effect can be activated up to 2 times. Also, when allies deal Ice damage with a skill, Highlight, Theurgy, or <link=\"s|100\"><u>Resonance</u></link>, gain 1 <link=\"s|213\"><u>Winter's Vestige</u></link> stack. When Winter's Edge ends, spend all Winter's Vestige stacks, and deal Ice damage to the target selected that turn equal to (number of Winter's Vestige stacks + 4) x <color=#FFFC40>^%s^</color> of Attack. This damage is counted as a Resonance.",
+    "descSimple": "Activate Winter's Edge (1 turn), and Ice dmg to 1 foe (%s Atk). While Winter's Edge is active, when ally is attacked, grant Glacial Heart to all allies, protecting from up to %s dmg (max 2 times, 2 turns). When allies deal Ice dmg with skill, Highlight, Theurgy, or Resonance, gain 1 Winter's Vestige. When Winter's Edge ends, spend all Winter's Vestige, and deal Ice dmg to target selected that turn ((number of Winter's Vestige + 4) x %s Atk). This damage is counted as a Resonance.",
     "levelUpList": "Winter Multiplier,Winter Shield Rate,Winter Resonance Multiplier",
     "levelUpValue": "AAAAAA==",
     "contentBG": "AAAAAA==",
@@ -6182,8 +6182,8 @@
   {
     "sn": "121221",
     "name": "Ailes au Vent",
-    "desc": "Activate Spring's Edge for 1 turn, and deal Wind damage to 1 foe equal to <color=#FFFC40>^%s^</color> of Attack (3 hits). While Spring's Edge is active, when allies deal Wind damage with a skill, Highlight, or <link=\"s|100\"><u>Resonance</u></link>, deal Wind damage to the selected target equal to 20% of Frostgale Kotone's Attack, and gain 1 <link=\"s|212\"><u>Spring's Vestige</u></link> stack. When Spring's Edge ends, spend all Spring's Vestige stacks, and deal Wind damage to the target selected that turn equal to (number of Spring's Vestige stacks + 4) x <color=#FFFC40>^%s^</color> of Attack. This damage is counted as a Resonance.",
-    "descSimple": "Activate Spring's Edge (1 turn), and Wind dmg to 1 foe (%s Atk, 3 hits). While Spring's Edge is active, when allies deal Wind dmg with skill, Highlight, or Resonance, deal Wind dmg to selected target (20% Atk), and gain 1 Spring's Vestige. When Spring's Edge ends, spend all Spring's Vestige, and deal Wind dmg to target selected that turn ((number of Spring's Vestige + 4) x %s Atk). This damage is counted as a Resonance.",
+    "desc": "Activate Spring's Edge for 1 turn, and deal Wind damage to 1 foe equal to <color=#FFFC40>^%s^</color> of Attack (3 hits). While Spring's Edge is active, when allies deal Wind damage with a skill, Highlight, Theurgy, or <link=\"s|100\"><u>Resonance</u></link>, deal Wind damage to the selected target equal to 20% of Frostgale Kotone's Attack, and gain 1 <link=\"s|212\"><u>Spring's Vestige</u></link> stack. When Spring's Edge ends, spend all Spring's Vestige stacks, and deal Wind damage to the target selected that turn equal to (number of Spring's Vestige stacks + 4) x <color=#FFFC40>^%s^</color> of Attack. This damage is counted as a Resonance.",
+    "descSimple": "Activate Spring's Edge (1 turn), and Wind dmg to 1 foe (%s Atk, 3 hits). While Spring's Edge is active, when allies deal Wind dmg with skill, Highlight, Theurgy, or Resonance, deal Wind dmg to selected target (20% Atk), and gain 1 Spring's Vestige. When Spring's Edge ends, spend all Spring's Vestige, and deal Wind dmg to target selected that turn ((number of Spring's Vestige + 4) x %s Atk). This damage is counted as a Resonance.",
     "levelUpList": "Spring Multiplier,Spring Resonance Multiplier",
     "levelUpValue": "AAAAAA==",
     "contentBG": "AAAAAA==",
@@ -6662,7 +6662,7 @@
   {
     "sn": "135132",
     "name": "Steps of Faith",
-    "desc": "When an ally other than Kasumi uses a Highlight, increase Kasumi's Attack by <color=#FFFC40>^%s^</color> for 2 turns. Stacks up to 2 times.",
+    "desc": "When an ally except Kasumi uses a Highlight or Theurgy, increase Kasumi's Attack by <color=#FFFC40>^%s^</color> for 2 turns. Stacks up to 2 times.",
     "descSimple": "AAAAAA==",
     "levelUpList": "AAAAAA==",
     "levelUpValue": "AAAAAA==",
@@ -6882,8 +6882,8 @@
   {
     "sn": "105212",
     "name": "Arrival of Spring",
-    "desc": "Increase party's Attack for 2 turns. The increase is equal to 12.8% of the portion of Tempest Riko's critical multiplier that exceeds 100% (up to <color=#FFFC40>^%s^</color> of critical multiplier). Also, restore party's SP by 4.\nFor one time only while this effect is active, when an ally deals damage with a skill, Resonance, or Highlight, restore Tempest Riko's SP by 12.",
-    "descSimple": "Increase party's Atk (2 turns). Increase is equal to 12.8% of Riko's crit mult above 100% (max %s of crit mult). Also, restore 4 SP.\nWhile this effect is active, when an ally deals dmg with a skill, Resonance, or Highlight, restore Riko's SP by 12 (1 time only).",
+    "desc": "Increase party's Attack for 2 turns. The increase is equal to 12.8% of the portion of Tempest Riko's critical multiplier that exceeds 100% (up to <color=#FFFC40>^%s^</color> of critical multiplier). Also, restore party's SP by 4.\nFor one time only while this effect is active, when an ally deals damage with a skill, Resonance, Highlight, or Theurgy, restore Tempest Riko's SP by 12.",
+    "descSimple": "Increase party's Atk (2 turns). Increase is equal to 12.8% of Riko's crit mult above 100% (max %s of crit mult). Also, restore 4 SP.\nWhile this effect is active, when an ally deals dmg with a skill, Resonance, Highlight, or Theurgy, restore Riko's SP by 12 (1 time only).",
     "levelUpList": "Applied Crit Mult Increase",
     "levelUpValue": "AAAAAA==",
     "contentBG": "A warm spring breeze surrounds your allies, increasing the party's Attack.",
@@ -8022,7 +8022,7 @@
   {
     "sn": "138144",
     "name": "Symphonia",
-    "desc": "At the start of battle, or when an ally activates a Highlight, gain 2 <link=\"s|235\"><u>Musical Note</u></link> stacks. Stacks gained from this effect can exceed the maximum limit up to 2 times.",
+    "desc": "At the start of battle, or when an ally activates a Highlight or Theurgy, gain 2 <link=\"s|235\"><u>Musical Note</u></link> stacks. Stacks gained from this effect can exceed the maximum limit up to 2 times.",
     "descSimple": "AAAAAA==",
     "levelUpList": "AAAAAA==",
     "levelUpValue": "AAAAAA==",
@@ -8226,6 +8226,206 @@
     "descSimple": "AAAAAA==",
     "levelUpList": "Ranged Dmg",
     "levelUpValue": "6.7%,13.3%,20.0%,26.7%,33.3%,40.0%,46.7%,51.3%,56.0%,59.3%,62.7%,66.0%,69.3%,72.7%",
+    "contentBG": "AAAAAA==",
+    "skillTag": "AAAAAA=="
+  },
+  {
+    "sn": "139101",
+    "name": "Melee Attack",
+    "desc": "Deal Physical damage to 1 foe.",
+    "descSimple": "Phys dmg to 1 foe.",
+    "levelUpList": "Melee Dmg",
+    "levelUpValue": "6.7%,13.3%,20.0%,26.7%,33.3%,40.0%,46.7%,51.3%,56.0%,59.3%,62.7%,66.0%,69.3%,72.7%",
+    "contentBG": "AAAAAA==",
+    "skillTag": "AAAAAA=="
+  },
+  {
+    "sn": "139111",
+    "name": "Melody of Flames",
+    "desc": "Deal Fire damage to 1 foe equal to <color=#FFFC40>^%s^</color> of Attack (3 hits). Also, gain 2 <link=\"s|240\"><u>Moon Phase</u></link> stacks. This effect lasts for 2 turns, and stacks up to 4 times.\nAlso, when spending Moon Phase to use Scarlet Hades, increase skill multiplier by <color=#FFFC40>^%s^</color> for 2 turns.",
+    "descSimple": "Fire dmg to 1 foe (%s Atk, 3 hits). Also, gain 2 Moon Phase (2 turns, max 4 stacks).\nAlso, when spending Moon Phase to use Scarlet Hades, increase skill multiplier %s (2 turns).",
+    "levelUpList": "Skill Multiplier,Moon Phase Bonus Skill Multiplier",
+    "levelUpValue": "AAAAAA==",
+    "contentBG": "Pluck the strings of the lyre to unleash the flames of the soul, dealing Fire damage to an enemy.",
+    "skillTag": "Single-Target"
+  },
+  {
+    "sn": "139112",
+    "name": "Nocturne of Battle",
+    "desc": "Increase party's critical damage by <color=#FFFC40>^%s^</color>, and increase Makoto's Attack by <color=#FFFC40>^%s^</color> for 2 turns.\nAlso, gain 2 <link=\"s|240\"><u>Moon Phase</u></link> stacks. This effect lasts for 2 turns, and stacks up to 4 times.",
+    "descSimple": "Increase party's crit dmg %s, and increase Makoto's Atk %s (2 turns).\nAlso, gain 2 Moon Phase (2 turns, max 4 stacks).",
+    "levelUpList": "Crit Dmg Increase,Atk Increase",
+    "levelUpValue": "AAAAAA==",
+    "contentBG": "Burn the fear that dwells within you to empower your allies, increasing the party's critical damage and your own Attack.",
+    "skillTag": "Buff"
+  },
+  {
+    "sn": "139113",
+    "name": "Scarlet Hades",
+    "desc": "Can be activated with 2 or more <link=\"s|240\"><u>Moon Phase</u></link> stacks. Spend all Moon Phase stacks, and deal Fire damage to 1 foe equal to <color=#FFFC40>^%s^</color> of Makoto's Attack (1 hit per stack spent). Afterwards, spend all <link=\"s|241\"><u>Full Moon</u></link> stacks, and deal Fire damage to 1 foe equal to <color=#FFFC40>^%s^</color> of Makoto's Attack (1 hit per stack spent).\nWhen this skill is activated with 4 Moon Phase stacks, increase Makoto's pierce rate by <color=#FFFC40>^%s^</color>, and increase damage by <color=#FFFC40>^%s^</color>.",
+    "descSimple": "Can be activated with 2+ Moon Phase. Spend all Moon Phase, and deal Fire dmg to 1 foe (%s Atk, 1 hit per stack spent). Then, spend all Full Moon, and deal Fire dmg to 1 foe (%s Atk, 1 hit per stack spent).\nWith 4 Moon Phase, increase Makoto's pierce rate %s, and increase dmg %s.",
+    "levelUpList": "Moon Phase Skill Multiplier,Full Moon Skill Multiplier,Pierce Rate Increase,Dmg Increase",
+    "levelUpValue": "AAAAAA==",
+    "contentBG": "The brilliance of each passing day becomes a blazing fireball, dealing Fire damage to an enemy.",
+    "skillTag": "Single-Target"
+  },
+  {
+    "sn": "139114",
+    "name": "Nocturne of Battle",
+    "desc": "Increase party's critical damage by <color=#FFFC40>^%s^</color>, and increase Makoto's Attack by <color=#FFFC40>^%s^</color> for 2 turns.\nAlso, gain 2 <link=\"s|240\"><u>Moon Phase</u></link> stacks. This effect lasts for 2 turns, and stacks up to 4 times.",
+    "descSimple": "Increase party's crit dmg %s, and increase Makoto's Atk %s (2 turns).\nAlso, gain 2 Moon Phase (2 turns, max 4 stacks).",
+    "levelUpList": "Crit Dmg Increase,Atk Increase",
+    "levelUpValue": "AAAAAA==",
+    "contentBG": "Burn the fear that dwells within you to empower your allies, increasing the party's critical damage and your own Attack.",
+    "skillTag": "Buff"
+  },
+  {
+    "sn": "139131",
+    "name": "On-Site Leader",
+    "desc": "After activating a Theurgy, increase party's Attack by <color=#FFFC40>^%s^</color> for 2 turns. Increase Attack of SEES members by <color=#FFFC40>^%s^</color> more.",
+    "descSimple": "AAAAAA==",
+    "levelUpList": "AAAAAA==",
+    "levelUpValue": "AAAAAA==",
+    "contentBG": "AAAAAA==",
+    "skillTag": "Talent"
+  },
+  {
+    "sn": "139132",
+    "name": "Entrusted Hope",
+    "desc": "When receiving buff, healing, or shield skill effects from an ally (excluding effects that also target foes), increase critical damage by <color=#FFFC40>^%s^</color> for 2 turns. Stacks up to 3 times.",
+    "descSimple": "AAAAAA==",
+    "levelUpList": "AAAAAA==",
+    "levelUpValue": "AAAAAA==",
+    "contentBG": "AAAAAA==",
+    "skillTag": "Talent"
+  },
+  {
+    "sn": "139140",
+    "name": "Pathfinder",
+    "desc": "Makoto has 2 Theurgy: Cadenza and Ardhanari. At the start of battle, if Makoto's Theurgy Gauge is below 35, fill up to 35.\nWhen receiving buff, healing, or shield skill effects from an ally (excluding effects that also target foes), gain 1 <link=\"s|240\"><u>Moon Phase</u></link> stack (up to 1 stack per turn). This effect lasts for 2 turns, and stacks up to 4 times.\nWith Moon Phase, increase pierce rate by 4%/8%/12% (effect changes at Lv. 1/50/70, respectively).",
+    "descSimple": "AAAAAA==",
+    "levelUpList": "AAAAAA==",
+    "levelUpValue": "AAAAAA==",
+    "contentBG": "AAAAAA==",
+    "skillTag": "AAAAAA=="
+  },
+  {
+    "sn": "139141",
+    "name": "Result of Coincidence",
+    "desc": "Additional effects are added to the following skills.\nMelody of Flames: This skill deals 1 more hit of Fire damage.\nNocturne of Battle: Increase party's pierce rate by 10% for 2 turns.\nScarlet Hades: When this skill is activated with 4 <link=\"s|240\"><u>Moon Phase</u></link> stacks, increase Makoto's critical rate by 16%.",
+    "descSimple": "AAAAAA==",
+    "levelUpList": "AAAAAA==",
+    "levelUpValue": "AAAAAA==",
+    "contentBG": "AAAAAA==",
+    "skillTag": "AAAAAA=="
+  },
+  {
+    "sn": "139142",
+    "name": "Immovable Soul",
+    "desc": "When Makoto has 4 <link=\"s|240\"><u>Moon Phase</u></link> stacks on his action, automatically activate Nocturne of Battle 1 time.\nCooldown time: 1 turn.",
+    "descSimple": "AAAAAA==",
+    "levelUpList": "AAAAAA==",
+    "levelUpValue": "AAAAAA==",
+    "contentBG": "AAAAAA==",
+    "skillTag": "AAAAAA=="
+  },
+  {
+    "sn": "139143",
+    "name": "Under the Full Moon",
+    "desc": "Increase the skill levels of Scarlet Hades and Combat Tactics by 3.",
+    "descSimple": "AAAAAA==",
+    "levelUpList": "AAAAAA==",
+    "levelUpValue": "AAAAAA==",
+    "contentBG": "AAAAAA==",
+    "skillTag": "AAAAAA=="
+  },
+  {
+    "sn": "139144",
+    "name": "Thorny Path",
+    "desc": "Additional effects are added to the following Theurgy.\nCadenza: Increase party's damage by 10% more for 2 turns.\nArdhanari: This skill deals 2 more hits of Fire damage.",
+    "descSimple": "AAAAAA==",
+    "levelUpList": "AAAAAA==",
+    "levelUpValue": "AAAAAA==",
+    "contentBG": "AAAAAA==",
+    "skillTag": "AAAAAA=="
+  },
+  {
+    "sn": "139145",
+    "name": "Soul Flames",
+    "desc": "Increase the skill levels of Melody of Flames and Nocturne of Battle by 3.",
+    "descSimple": "AAAAAA==",
+    "levelUpList": "AAAAAA==",
+    "levelUpValue": "AAAAAA==",
+    "contentBG": "AAAAAA==",
+    "skillTag": "AAAAAA=="
+  },
+  {
+    "sn": "139146",
+    "name": "Burn My Dread",
+    "desc": "When Makoto activates a Theurgy, the effects of the other Theurgy are activated at the same time.\nIncrease skill damage dealt by spending <link=\"s|241\"><u>Full Moon</u></link> stacks with Scarlet Hades by 35%.\nThe first time that Makoto takes fatal damage, he enters a special near-death state and survives with 1 HP, and will be KO'd at the end of the turn. If Makoto's HP is restored above 25%, this state is removed.",
+    "descSimple": "AAAAAA==",
+    "levelUpList": "AAAAAA==",
+    "levelUpValue": "AAAAAA==",
+    "contentBG": "AAAAAA==",
+    "skillTag": "AAAAAA=="
+  },
+  {
+    "sn": "139151",
+    "name": "1 More",
+    "desc": "Deal Fire damage to 1 foe.",
+    "descSimple": "AAAAAA==",
+    "levelUpList": "1 More Dmg",
+    "levelUpValue": "6.7%,13.3%,20.0%,26.7%,33.3%,40.0%,46.7%,51.3%,56.0%,59.3%,62.7%,66.0%,69.3%,72.7%",
+    "contentBG": "AAAAAA==",
+    "skillTag": "AAAAAA=="
+  },
+  {
+    "sn": "139152",
+    "name": "Ardhanari",
+    "desc": "Can be activated when Theurgy Gauge is at 100. Deal Fire damage to 1 foe equal to <color=#FFFC40>^%s^</color> of Makoto's Attack (4 hits).\nAlso, gain 1 <link=\"s|241\"><u>Full Moon</u></link> stack. This effect lasts 2 turns, and stacks up to 4 times.",
+    "descSimple": "Can be activated when Theurgy gauge is at 100. Fire dmg to 1 foe (%s Atk, 4 hits).\nAlso, gain 1 Full Moon (2 turns, max 4 stacks).",
+    "levelUpList": "Ardhanari: Skill Multiplier",
+    "levelUpValue": "AAAAAA==",
+    "contentBG": "AAAAAA==",
+    "skillTag": "AAAAAA=="
+  },
+  {
+    "sn": "139153",
+    "name": "Cadenza",
+    "desc": "Can be activated when Theurgy Gauge is at 100. Increase party's Attack by <color=#FFFC40>^%s^</color>, and increase damage by <color=#FFFC40>^%s^</color> for 2 turns. Also, gain 1 <link=\"s|241\"><u>Full Moon</u></link> stack. This effect lasts 2 turns, and stacks up to 4 times.",
+    "descSimple": "Can be activated when Theurgy gauge is at 100. Increase party's Atk %s, and increase dmg %s (2 turns). Also, gain 1 Full Moon (2 turns, max 4 stacks).",
+    "levelUpList": "Cadenza: Atk Increase,Cadenza: Dmg Increase",
+    "levelUpValue": "AAAAAA==",
+    "contentBG": "AAAAAA==",
+    "skillTag": "AAAAAA=="
+  },
+  {
+    "sn": "139154",
+    "name": "Ardhanari",
+    "desc": "Can be activated when Theurgy Gauge is at 100. Deal Fire damage to 1 foe equal to <color=#FFFC40>^%s^</color> of Makoto's Attack (4 hits).\nAlso, gain 1 <link=\"s|241\"><u>Full Moon</u></link> stack. This effect lasts 2 turns, and stacks up to 4 times.",
+    "descSimple": "Can be activated when Theurgy gauge is at 100. Fire dmg to 1 foe (%s Atk, 4 hits).\nAlso, gain 1 Full Moon (2 turns, max 4 stacks).",
+    "levelUpList": "Ardhanari: Skill Multiplier",
+    "levelUpValue": "AAAAAA==",
+    "contentBG": "AAAAAA==",
+    "skillTag": "AAAAAA=="
+  },
+  {
+    "sn": "139155",
+    "name": "Cadenza",
+    "desc": "Can be activated when Theurgy Gauge is at 100. Increase party's Attack by <color=#FFFC40>^%s^</color>, and increase damage by <color=#FFFC40>^%s^</color> for 2 turns. Also, gain 1 <link=\"s|241\"><u>Full Moon</u></link> stack. This effect lasts 2 turns, and stacks up to 4 times.",
+    "descSimple": "Can be activated when Theurgy gauge is at 100. Increase party's Atk %s, and increase dmg %s (2 turns). Also, gain 1 Full Moon (2 turns, max 4 stacks).",
+    "levelUpList": "Cadenza: Atk Increase,Cadenza: Dmg Increase",
+    "levelUpValue": "AAAAAA==",
+    "contentBG": "AAAAAA==",
+    "skillTag": "AAAAAA=="
+  },
+  {
+    "sn": "139171",
+    "name": "Assist",
+    "desc": "Increase 1 ally's Attack by 20% for 1 turn.",
+    "descSimple": "Increase 1 ally's Atk 20% (1 turn).",
+    "levelUpList": "AAAAAA==",
+    "levelUpValue": "AAAAAA==",
     "contentBG": "AAAAAA==",
     "skillTag": "AAAAAA=="
   },
@@ -8542,8 +8742,8 @@
   {
     "sn": "146512",
     "name": "Two Masks as One",
-    "desc": "Can be used when <link=\"s|273\"><u>Facade</u></link> of Mischief & Innocence and Facade of Service & Admonition are both held. Deal Almighty damage to 1 foe equal to <color=#FFFC40>^%s^</color> of Attack (increase this effect by 1% for every 1 point of <link=\"s|271\"><u>Desire Level</u></link>).\nSpend all Facade stacks to restore party's HP by <color=#FFFC40>^%s^</color> of Justine & Caroline's Attack + <color=#FFFC40>^%s^</color>. Also increase the party's damage dealt by <color=#FFFC40>^%s^</color> for every 100 points of Desire Level for 2 turns.",
-    "descSimple": "Can be used when Facade of Mischief & Innocence and Facade of Service & Admonition are both held. Almighty dmg to 1 foe (%s Atk; increase this effect 1% per 1 Desire Level).\nSpend all Facade stacks to restore party's HP (%s of Justine & Caroline's Atk + %s). Also increase party's dmg %s per 100 Desire Level (2 turns).",
+    "desc": "Can be used when <link=\"s|273\"><u>Facade</u></link> of Mischief & Innocence and Facade of Service & Admonition are both held. Deal Almighty damage to 1 foe equal to <color=#FFFC40>^%s^</color> of Attack (increase this effect by 1% for every 1 point of <link=\"s|271\"><u>Desire Level</u></link>).\nSpend all Facades to restore party's HP by <color=#FFFC40>^%s^</color> of Justine & Caroline's Attack + <color=#FFFC40>^%s^</color>. Also increase the party's damage dealt by <color=#FFFC40>^%s^</color> for every 100 points of Desire Level for 2 turns.",
+    "descSimple": "Can be used when Facade of Mischief & Innocence and Facade of Service & Admonition are both held. Almighty dmg to 1 foe (%s Atk; increase this effect 1% per 1 Desire Level).\nSpend all Facades to restore party's HP (%s of Justine & Caroline's Atk + %s). Also increase party's dmg %s per 100 Desire Level (2 turns).",
     "levelUpList": "AAAAAA==",
     "levelUpValue": "AAAAAA==",
     "contentBG": "AAAAAA==",
@@ -8552,8 +8752,8 @@
   {
     "sn": "146513",
     "name": "Two Masks as One",
-    "desc": "Can be used when <link=\"s|273\"><u>Facade</u></link> of Mischief & Innocence and Facade of Absurdity & Nonsense are both held. Deal Almighty damage to 1 foe equal to <color=#FFFC40>^%s^</color> of Attack (increase this skill effect by 1% for every 1 point of <link=\"s|271\"><u>Desire Level</u></link>).\nSpend all Facade stacks to grant Skill Amplification equal to <color=#FFFC40>^%s^</color> <link=\"s|272\"><u>Skill Amplification</u></link> stacks to other allies for 2 turns. Also, increase party's critical damage by <color=#FFFC40>^%s^</color> for every 100 points of Desire Level.\nSkill Amplification: Increase the values of skills and Thief Tactics that are increased when leveled up. This effect is calculated independently of other effects.",
-    "descSimple": "Can be used when Facade of Mischief & Innocence and Facade of Absurdity & Nonsense are both held. Almighty dmg to 1 foe (%s Atk; increase this effect 1% per 1 Desire Level).\nSpend all Facade stacks to grant Skill Amplification (%s) to all other allies. Also increase party's crit dmg %s per 100 Desire Level (2 turns). \nSkill Amplification: Increase values of skills and Thief Tactics that are increased when leveled up. This effect is calculated separately from other effects.",
+    "desc": "Can be used when <link=\"s|273\"><u>Facade</u></link> of Mischief & Innocence and Facade of Absurdity & Nonsense are both held. Deal Almighty damage to 1 foe equal to <color=#FFFC40>^%s^</color> of Attack (increase this skill effect by 1% for every 1 point of <link=\"s|271\"><u>Desire Level</u></link>).\nSpend all Facades to grant Skill Amplification equal to <color=#FFFC40>^%s^</color> <link=\"s|272\"><u>Skill Amplification</u></link> stacks to other allies for 2 turns. Also, increase party's critical damage by <color=#FFFC40>^%s^</color> for every 100 points of Desire Level.\nSkill Amplification: Increase the values of skills and Thief Tactics that are increased when leveled up. This effect is calculated independently of other effects.",
+    "descSimple": "Can be used when Facade of Mischief & Innocence and Facade of Absurdity & Nonsense are both held. Almighty dmg to 1 foe (%s Atk; increase this effect 1% per 1 Desire Level).\nSpend all Facades to grant Skill Amplification (%s) to all other allies. Also increase party's crit dmg %s per 100 Desire Level (2 turns). \nSkill Amplification: Increase values of skills and Thief Tactics that are increased when leveled up. This effect is calculated separately from other effects.",
     "levelUpList": "AAAAAA==",
     "levelUpValue": "AAAAAA==",
     "contentBG": "AAAAAA==",
@@ -8572,8 +8772,8 @@
   {
     "sn": "146515",
     "name": "Two Masks as One",
-    "desc": "Can be used when <link=\"s|273\"><u>Facade</u></link> of Service & Admonition and Facade of Absurdity & Nonsense are both held. Deal Almighty damage to 1 foe equal to <color=#FFFC40>^%s^</color> of Attack (increase this effect by 1% for every 1 point of <link=\"s|271\"><u>Desire Level</u></link>).\nSpend all Facade stacks to grant all allies a shield equal to <color=#FFFC40>^%s^</color> of Justine & Caroline's Attack + <color=#FFFC40>^%s^</color> and 1 Down Point for 2 turns; also, increase party's Defense by <color=#FFFC40>^%s^</color> for every 100 points of Desire Level.",
-    "descSimple": "Can be used when Facade of Service & Admonition and Facade of Absurdity & Nonsense are both held. Almighty dmg to 1 foe (%s Atk; increase this effect 1% per 1 Desire Level).\nSpend all Facade stacks to grant all allies a shield (%s Atk + %s) and 1 Down Point (2 turns). Also increase party's Def %s per 100 Desire Level (2 turns).",
+    "desc": "Can be used when <link=\"s|273\"><u>Facade</u></link> of Service & Admonition and Facade of Absurdity & Nonsense are both held. Deal Almighty damage to 1 foe equal to <color=#FFFC40>^%s^</color> of Attack (increase this effect by 1% for every 1 point of <link=\"s|271\"><u>Desire Level</u></link>).\nSpend all Facades to grant all allies a shield equal to <color=#FFFC40>^%s^</color> of Justine & Caroline's Attack + <color=#FFFC40>^%s^</color> and 1 Down Point for 2 turns; also, increase party's Defense by <color=#FFFC40>^%s^</color> for every 100 points of Desire Level.",
+    "descSimple": "Can be used when Facade of Service & Admonition and Facade of Absurdity & Nonsense are both held. Almighty dmg to 1 foe (%s Atk; increase this effect 1% per 1 Desire Level).\nSpend all Facades to grant all allies shield (%s Atk + %s) and 1 Down Point (2 turns). Also increase party's Def %s per 100 Desire Level (2 turns).",
     "levelUpList": "AAAAAA==",
     "levelUpValue": "AAAAAA==",
     "contentBG": "AAAAAA==",
@@ -8582,8 +8782,8 @@
   {
     "sn": "146516",
     "name": "Two Masks as One",
-    "desc": "Can be used when <link=\"s|273\"><u>Facade</u></link> of Service & Admonition and Facade of Luck & Loss are both held. Deal Almighty damage to 1 foe equal to <color=#FFFC40>^%s^</color> of Attack. Increase this effect by 1% for every 1 point of <link=\"s|271\"><u>Desire Level</u></link>.\nSpend all Facade stacks to inflict <link=\"s|104\"><u>Shock</u></link> and <link=\"s|105\"><u>Windswept</u></link> on the main target, then inflict 2 <link=\"s|112\"><u>Curse</u></link> stacks and gain 2 <link=\"s|111\"><u>Blessing</u></link> stacks. These effects last for 2 turns. Decrease all foes' Defense by <color=#FFFC40>^%s^</color> + <color=#FFFC40>^%s^</color> for every 100 points of Desire Level for 2 turns.",
-    "descSimple": "Can be used when Facade of Service & Admonition and Facade of Luck & Loss are both held. Almighty dmg to 1 foe (%s Atk; increase effect 1% per 1 Desire Level).\nSpend all Facade stacks to inflict Shock and Windswept on main target, then inflict 2 Curse and gain 2 Blessing (2 turns). Decrease all foes' Def %s + %s per 100 Desire Level (2 turns).",
+    "desc": "Can be used when <link=\"s|273\"><u>Facade</u></link> of Service & Admonition and Facade of Luck & Loss are both held. Deal Almighty damage to 1 foe equal to <color=#FFFC40>^%s^</color> of Attack. Increase this effect by 1% for every 1 point of <link=\"s|271\"><u>Desire Level</u></link>.\nSpend all Facades to inflict <link=\"s|104\"><u>Shock</u></link> and <link=\"s|105\"><u>Windswept</u></link> on the main target, then inflict 2 <link=\"s|112\"><u>Curse</u></link> stacks and gain 2 <link=\"s|111\"><u>Blessing</u></link> stacks. These effects last for 2 turns. Decrease all foes' Defense by <color=#FFFC40>^%s^</color> + <color=#FFFC40>^%s^</color> for every 100 points of Desire Level for 2 turns.",
+    "descSimple": "Can be used when Facade of Service & Admonition and Facade of Luck & Loss are both held. Almighty dmg to 1 foe (%s Atk; increase effect 1% per 1 Desire Level).\nSpend all Facades to inflict Shock and Windswept on main target, then inflict 2 Curse and gain 2 Blessing (2 turns). Decrease all foes' Def %s + %s per 100 Desire Level (2 turns).",
     "levelUpList": "AAAAAA==",
     "levelUpValue": "AAAAAA==",
     "contentBG": "AAAAAA==",
@@ -8622,6 +8822,16 @@
   {
     "sn": "146110",
     "name": "Power to Resist Ruin",
+    "desc": "AAAAAA==",
+    "descSimple": "AAAAAA==",
+    "levelUpList": "AAAAAA==",
+    "levelUpValue": "AAAAAA==",
+    "contentBG": "AAAAAA==",
+    "skillTag": "AAAAAA=="
+  },
+  {
+    "sn": "145110",
+    "name": "tdxct-[Skill_name_145110]",
     "desc": "AAAAAA==",
     "descSimple": "AAAAAA==",
     "levelUpList": "AAAAAA==",
@@ -11540,6 +11750,136 @@
     "skillTag": "Multi-Target"
   },
   {
+    "sn": "751",
+    "name": "Kouha",
+    "desc": "Deal Bless damage to 1 foe equal to <color=#fffc40>^%s^%</color> of Attack.",
+    "descSimple": "AAAAAA==",
+    "levelUpList": "Dmg Increase",
+    "levelUpValue": "AAAAAA==",
+    "contentBG": "AAAAAA==",
+    "skillTag": "Single-Target"
+  },
+  {
+    "sn": "752",
+    "name": "Kouga",
+    "desc": "Deal Bless damage to 1 foe equal to <color=#fffc40>^%s^%</color> of Attack.",
+    "descSimple": "AAAAAA==",
+    "levelUpList": "Dmg Increase",
+    "levelUpValue": "AAAAAA==",
+    "contentBG": "AAAAAA==",
+    "skillTag": "Single-Target"
+  },
+  {
+    "sn": "753",
+    "name": "Kougaon",
+    "desc": "Deal Bless damage to 1 foe equal to <color=#fffc40>^%s^%</color> of Attack.",
+    "descSimple": "AAAAAA==",
+    "levelUpList": "Dmg Increase",
+    "levelUpValue": "AAAAAA==",
+    "contentBG": "AAAAAA==",
+    "skillTag": "Single-Target"
+  },
+  {
+    "sn": "754",
+    "name": "Divine Judgment",
+    "desc": "Deal Bless damage to 1 foe equal to <color=#fffc40>^%s^%</color> of Attack.",
+    "descSimple": "AAAAAA==",
+    "levelUpList": "Dmg Increase",
+    "levelUpValue": "AAAAAA==",
+    "contentBG": "AAAAAA==",
+    "skillTag": "Single-Target"
+  },
+  {
+    "sn": "755",
+    "name": "Makouha",
+    "desc": "Deal Bless damage to all foes equal to <color=#fffc40>^%s^%</color> of Attack.",
+    "descSimple": "AAAAAA==",
+    "levelUpList": "Dmg Increase",
+    "levelUpValue": "AAAAAA==",
+    "contentBG": "AAAAAA==",
+    "skillTag": "Multi-Target"
+  },
+  {
+    "sn": "756",
+    "name": "Makouga",
+    "desc": "Deal Bless damage to all foes equal to <color=#fffc40>^%s^%</color> of Attack.",
+    "descSimple": "AAAAAA==",
+    "levelUpList": "Dmg Increase",
+    "levelUpValue": "AAAAAA==",
+    "contentBG": "AAAAAA==",
+    "skillTag": "Multi-Target"
+  },
+  {
+    "sn": "757",
+    "name": "Makougaon",
+    "desc": "Deal Bless damage to all foes equal to <color=#fffc40>^%s^%</color> of Attack.",
+    "descSimple": "AAAAAA==",
+    "levelUpList": "Dmg Increase",
+    "levelUpValue": "AAAAAA==",
+    "contentBG": "AAAAAA==",
+    "skillTag": "Multi-Target"
+  },
+  {
+    "sn": "758",
+    "name": "Shining Arrows",
+    "desc": "Deal Bless damage to all foes equal to <color=#fffc40>^%s^%</color> of Attack.",
+    "descSimple": "AAAAAA==",
+    "levelUpList": "Dmg Increase",
+    "levelUpValue": "AAAAAA==",
+    "contentBG": "AAAAAA==",
+    "skillTag": "Multi-Target"
+  },
+  {
+    "sn": "759",
+    "name": "Hama",
+    "desc": "Deal Bless damage to 1 foe equal to <color=#fffc40>^%s^%</color> of Attack.",
+    "descSimple": "AAAAAA==",
+    "levelUpList": "Dmg Increase",
+    "levelUpValue": "AAAAAA==",
+    "contentBG": "AAAAAA==",
+    "skillTag": "Single-Target"
+  },
+  {
+    "sn": "760",
+    "name": "Hamaon",
+    "desc": "Deal Bless damage to 1 foe equal to <color=#fffc40>^%s^%</color> of Attack.",
+    "descSimple": "AAAAAA==",
+    "levelUpList": "Dmg Increase",
+    "levelUpValue": "AAAAAA==",
+    "contentBG": "AAAAAA==",
+    "skillTag": "Single-Target"
+  },
+  {
+    "sn": "761",
+    "name": "Mahama",
+    "desc": "Deal Bless damage to all foes equal to <color=#fffc40>^%s^%</color> of Attack.",
+    "descSimple": "AAAAAA==",
+    "levelUpList": "Dmg Increase",
+    "levelUpValue": "AAAAAA==",
+    "contentBG": "AAAAAA==",
+    "skillTag": "Multi-Target"
+  },
+  {
+    "sn": "762",
+    "name": "Mahamaon",
+    "desc": "Deal Bless damage to all foes equal to <color=#fffc40>^%s^%</color> of Attack.",
+    "descSimple": "AAAAAA==",
+    "levelUpList": "Dmg Increase",
+    "levelUpValue": "AAAAAA==",
+    "contentBG": "AAAAAA==",
+    "skillTag": "Multi-Target"
+  },
+  {
+    "sn": "763",
+    "name": "Samsara",
+    "desc": "Deal Bless damage to all foes equal to <color=#fffc40>^%s^%</color> of Attack.",
+    "descSimple": "AAAAAA==",
+    "levelUpList": "Dmg Increase",
+    "levelUpValue": "AAAAAA==",
+    "contentBG": "AAAAAA==",
+    "skillTag": "Multi-Target"
+  },
+  {
     "sn": "801",
     "name": "Eiha",
     "desc": "Deal Curse damage to 1 foe equal to <color=#FFFC40>^%s^%</color> of Attack. Inflict 0 to 1 <link=\"s|112\"><u>Curse</u></link> stacks on the foe.",
@@ -11664,6 +12004,136 @@
     "name": "Die For Me!",
     "desc": "Deal Curse damage to all foes equal to <color=#fffc40>^%s^%</color> of Attack. Low chance to deal Curse insta-kill effect to foes with 50% or less HP. Increase chance based on foe's missing HP.",
     "descSimple": "Curse dmg to all foes (%s% Atk). Chance to insta-kill foes with low HP.",
+    "levelUpList": "Dmg Increase",
+    "levelUpValue": "AAAAAA==",
+    "contentBG": "AAAAAA==",
+    "skillTag": "Multi-Target"
+  },
+  {
+    "sn": "851",
+    "name": "Eiha",
+    "desc": "Deal Curse damage to 1 foe equal to <color=#fffc40>^%s^%</color> of Attack.",
+    "descSimple": "AAAAAA==",
+    "levelUpList": "Dmg Increase",
+    "levelUpValue": "AAAAAA==",
+    "contentBG": "AAAAAA==",
+    "skillTag": "Single-Target"
+  },
+  {
+    "sn": "852",
+    "name": "Eiga",
+    "desc": "Deal Curse damage to 1 foe equal to <color=#fffc40>^%s^%</color> of Attack.",
+    "descSimple": "AAAAAA==",
+    "levelUpList": "Dmg Increase",
+    "levelUpValue": "AAAAAA==",
+    "contentBG": "AAAAAA==",
+    "skillTag": "Single-Target"
+  },
+  {
+    "sn": "853",
+    "name": "Eigaon",
+    "desc": "Deal Curse damage to 1 foe equal to <color=#fffc40>^%s^%</color> of Attack.",
+    "descSimple": "AAAAAA==",
+    "levelUpList": "Dmg Increase",
+    "levelUpValue": "AAAAAA==",
+    "contentBG": "AAAAAA==",
+    "skillTag": "Single-Target"
+  },
+  {
+    "sn": "854",
+    "name": "Demonic Decree",
+    "desc": "Deal Curse damage to 1 foe equal to <color=#fffc40>^%s^%</color> of Attack.",
+    "descSimple": "AAAAAA==",
+    "levelUpList": "Dmg Increase",
+    "levelUpValue": "AAAAAA==",
+    "contentBG": "AAAAAA==",
+    "skillTag": "Single-Target"
+  },
+  {
+    "sn": "855",
+    "name": "Maeiha",
+    "desc": "Deal Curse damage to all foes equal to <color=#fffc40>^%s^%</color> of Attack.",
+    "descSimple": "AAAAAA==",
+    "levelUpList": "Dmg Increase",
+    "levelUpValue": "AAAAAA==",
+    "contentBG": "AAAAAA==",
+    "skillTag": "Multi-Target"
+  },
+  {
+    "sn": "856",
+    "name": "Maeiga",
+    "desc": "Deal Curse damage to all foes equal to <color=#fffc40>^%s^%</color> of Attack.",
+    "descSimple": "AAAAAA==",
+    "levelUpList": "Dmg Increase",
+    "levelUpValue": "AAAAAA==",
+    "contentBG": "AAAAAA==",
+    "skillTag": "Multi-Target"
+  },
+  {
+    "sn": "857",
+    "name": "Maeigaon",
+    "desc": "Deal Curse damage to all foes equal to <color=#fffc40>^%s^%</color> of Attack.",
+    "descSimple": "AAAAAA==",
+    "levelUpList": "Dmg Increase",
+    "levelUpValue": "AAAAAA==",
+    "contentBG": "AAAAAA==",
+    "skillTag": "Multi-Target"
+  },
+  {
+    "sn": "858",
+    "name": "Abyssal Wings",
+    "desc": "Deal Curse damage to all foes equal to <color=#fffc40>^%s^%</color> of Attack.",
+    "descSimple": "AAAAAA==",
+    "levelUpList": "Dmg Increase",
+    "levelUpValue": "AAAAAA==",
+    "contentBG": "AAAAAA==",
+    "skillTag": "Multi-Target"
+  },
+  {
+    "sn": "859",
+    "name": "Mudo",
+    "desc": "Deal Curse damage to 1 foe equal to <color=#fffc40>^%s^%</color> of Attack.",
+    "descSimple": "AAAAAA==",
+    "levelUpList": "Dmg Increase",
+    "levelUpValue": "AAAAAA==",
+    "contentBG": "AAAAAA==",
+    "skillTag": "Single-Target"
+  },
+  {
+    "sn": "860",
+    "name": "Mudoon",
+    "desc": "Deal Curse damage to 1 foe equal to <color=#fffc40>^%s^%</color> of Attack.",
+    "descSimple": "AAAAAA==",
+    "levelUpList": "Dmg Increase",
+    "levelUpValue": "AAAAAA==",
+    "contentBG": "AAAAAA==",
+    "skillTag": "Single-Target"
+  },
+  {
+    "sn": "861",
+    "name": "Mamudo",
+    "desc": "Deal Curse damage to all foes equal to <color=#fffc40>^%s^%</color> of Attack.",
+    "descSimple": "AAAAAA==",
+    "levelUpList": "Dmg Increase",
+    "levelUpValue": "AAAAAA==",
+    "contentBG": "AAAAAA==",
+    "skillTag": "Multi-Target"
+  },
+  {
+    "sn": "862",
+    "name": "Mamudoon",
+    "desc": "Deal Curse damage to all foes equal to <color=#fffc40>^%s^%</color> of Attack.",
+    "descSimple": "AAAAAA==",
+    "levelUpList": "Dmg Increase",
+    "levelUpValue": "AAAAAA==",
+    "contentBG": "AAAAAA==",
+    "skillTag": "Multi-Target"
+  },
+  {
+    "sn": "863",
+    "name": "Die For Me!",
+    "desc": "Deal Curse damage to all foes equal to <color=#fffc40>^%s^%</color> of Attack.",
+    "descSimple": "AAAAAA==",
     "levelUpList": "Dmg Increase",
     "levelUpValue": "AAAAAA==",
     "contentBG": "AAAAAA==",
@@ -19022,7 +19492,7 @@
   {
     "sn": "40289",
     "name": "Tranquil V",
-    "desc": "When hit by <link=\"s|170\"><u>Scarlet Tide</u></link>, fill Highlight Gauge by %s.",
+    "desc": "When hit by <link=\"s|170\"><u>Scarlet Tide</u></link>, fill Highlight gauge by %s.",
     "descSimple": "AAAAAA==",
     "levelUpList": "AAAAAA==",
     "levelUpValue": "AAAAAA==",
@@ -19232,7 +19702,7 @@
   {
     "sn": "40361",
     "name": "Astral I",
-    "desc": "At the start of battle, fill Highlight Gauge by %s.",
+    "desc": "At the start of battle, fill Highlight gauge by %s.",
     "descSimple": "AAAAAA==",
     "levelUpList": "AAAAAA==",
     "levelUpValue": "AAAAAA==",
@@ -19242,7 +19712,7 @@
   {
     "sn": "40362",
     "name": "Astral II",
-    "desc": "At the end of an ally's turn, fill Highlight Gauge by %s.",
+    "desc": "At the end of an ally's turn, fill Highlight gauge by %s.",
     "descSimple": "AAAAAA==",
     "levelUpList": "AAAAAA==",
     "levelUpValue": "AAAAAA==",
@@ -19262,7 +19732,7 @@
   {
     "sn": "40364",
     "name": "Astral IV",
-    "desc": "After an Elucidator acts, fill Highlight Gauge by %s.",
+    "desc": "After an Elucidator acts, fill Highlight gauge by %s.",
     "descSimple": "AAAAAA==",
     "levelUpList": "AAAAAA==",
     "levelUpValue": "AAAAAA==",
@@ -19302,7 +19772,7 @@
   {
     "sn": "40368",
     "name": "Astral: 4 Set",
-    "desc": "After an ally uses a Highlight, 50% chance to reset Highlight cooldown time and fill Highlight Gauge by 100%. This effect cannot activate repeatedly on the same turn.",
+    "desc": "After an ally uses a Highlight, 50% chance to reset Highlight cooldown time and fill Highlight gauge by 100%. This effect cannot activate repeatedly on the same turn.",
     "descSimple": "AAAAAA==",
     "levelUpList": "AAAAAA==",
     "levelUpValue": "AAAAAA==",
@@ -20472,7 +20942,7 @@
   {
     "sn": "40155",
     "name": "Divine I",
-    "desc": "At the start of battle, fill Highlight Gauge by %s.",
+    "desc": "At the start of battle, fill Highlight gauge by %s.",
     "descSimple": "AAAAAA==",
     "levelUpList": "AAAAAA==",
     "levelUpValue": "AAAAAA==",
@@ -20492,7 +20962,7 @@
   {
     "sn": "40157",
     "name": "Divine III",
-    "desc": "When a Highlight deals weakness damage, fill the Highlight Gauge by %s.",
+    "desc": "When a Highlight deals weakness damage, fill the Highlight gauge by %s.",
     "descSimple": "AAAAAA==",
     "levelUpList": "AAAAAA==",
     "levelUpValue": "AAAAAA==",
@@ -20502,7 +20972,7 @@
   {
     "sn": "40158",
     "name": "Divine IV",
-    "desc": "When a Highlight does not deal damage, fill the Highlight Gauge by %s.",
+    "desc": "When a Highlight does not deal damage, fill the Highlight gauge by %s.",
     "descSimple": "AAAAAA==",
     "levelUpList": "AAAAAA==",
     "levelUpValue": "AAAAAA==",
@@ -20522,7 +20992,7 @@
   {
     "sn": "40161",
     "name": "Divine VI",
-    "desc": "After defeating a foe, fill the Highlight Gauge by 35%. When defeating a foe with a Highlight, fill it 35% more.",
+    "desc": "After defeating a foe, fill the Highlight gauge by 35%. When defeating a foe with a Highlight, fill it 35% more.",
     "descSimple": "AAAAAA==",
     "levelUpList": "AAAAAA==",
     "levelUpValue": "AAAAAA==",
@@ -20532,7 +21002,7 @@
   {
     "sn": "40162",
     "name": "Highlight: 2 Set",
-    "desc": "When a foe acts, fill the Highlight Gauge by 5%.",
+    "desc": "When a foe acts, fill the Highlight gauge by 5%.",
     "descSimple": "AAAAAA==",
     "levelUpList": "AAAAAA==",
     "levelUpValue": "AAAAAA==",
@@ -20542,7 +21012,7 @@
   {
     "sn": "40163",
     "name": "Highlight: 4 Set",
-    "desc": "After an ally uses a Highlight, fill the Highlight Gauge by 30%.",
+    "desc": "After an ally uses a Highlight, fill the Highlight gauge by 30%.",
     "descSimple": "AAAAAA==",
     "levelUpList": "AAAAAA==",
     "levelUpValue": "AAAAAA==",
@@ -22482,8 +22952,8 @@
   {
     "sn": "11545",
     "name": "Thunder Lord's Majesty",
-    "desc": "<nobr>Increase critical damage by 34.9%. Each time an ally uses an Electric skill, Resonance, or Highlight, gain 1 Thunder Lord's Majesty stack. Stacks up to 3 times. Lasts for 1 turn. When user deals Electric damage, and Thunder Lord's Majesty is at 3 stacks, increase all foes' Electric damage taken by 8%, and Electric critical damage taken by 12%. Lasts for 2 turns.",
-    "descSimple": "<nobr>Increase crit dmg 34.9%. When allies use Elec skills, Resonance, or Highlights, gain 1 Thunder Lord's Majesty (max 3 stacks, 1 turn). After dealing Elec dmg and Thunder Lord's Majesty is at 3 stacks, increase all foes' Elec dmg taken 8% and Elec crit dmg taken 12% (2 turns).",
+    "desc": "<nobr>Increase critical damage by 34.9%. Each time an ally uses an Electric skill, Resonance, Highlight, or Theurgy, gain 1 Thunder Lord's Majesty stack. Stacks up to 3 times. Lasts for 1 turn. When user deals Electric damage, and Thunder Lord's Majesty is at 3 stacks, increase all foes' Electric damage taken by 8%, and Electric critical damage taken by 12%. Lasts for 2 turns.",
+    "descSimple": "<nobr>Increase crit dmg 34.9%. When allies use Elec skills, Resonance, Highlights, or Theurgy, gain 1 Thunder Lord's Majesty (max 3 stacks, 1 turn). After dealing Elec dmg and Thunder Lord's Majesty is at 3 stacks, increase all foes' Elec dmg taken 8% and Elec crit dmg taken 12% (2 turns).",
     "levelUpList": "AAAAAA==",
     "levelUpValue": "AAAAAA==",
     "contentBG": "AAAAAA==",
@@ -22492,8 +22962,8 @@
   {
     "sn": "11546",
     "name": "Thunder Lord's Majesty I",
-    "desc": "<nobr>Increase critical damage by 34.9%. Each time an ally uses an Electric skill, Resonance, or Highlight, gain 1 Thunder Lord's Majesty stack. Stacks up to 3 times. Lasts for 2 turns. When user deals Electric damage, and Thunder Lord's Majesty is at 3 stacks, increase all foes' Electric damage taken by 8%, and Electric critical damage taken by 12%. Lasts for 2 turns.",
-    "descSimple": "<nobr>Increase crit dmg 34.9%. When allies use Elec skills, Resonance, or Highlights, gain 1 Thunder Lord's Majesty (max 3 stacks, 2 turns). After dealing Elec dmg and Thunder Lord's Majesty is at 3 stacks, increase all foes' Elec dmg taken 8% and Elec crit dmg taken 12% (2 turns).",
+    "desc": "<nobr>Increase critical damage by 34.9%. Each time an ally uses an Electric skill, Resonance, Highlight, or Theurgy, gain 1 Thunder Lord's Majesty stack. Stacks up to 3 times. Lasts for 2 turns. When user deals Electric damage, and Thunder Lord's Majesty is at 3 stacks, increase all foes' Electric damage taken by 8%, and Electric critical damage taken by 12%. Lasts for 2 turns.",
+    "descSimple": "<nobr>Increase crit dmg 34.9%. When allies use Elec skills, Resonance, Highlights, or Theurgy, gain 1 Thunder Lord's Majesty (max 3 stacks, 2 turns). After dealing Elec dmg and Thunder Lord's Majesty is at 3 stacks, increase all foes' Elec dmg taken 8% and Elec crit dmg taken 12% (2 turns).",
     "levelUpList": "AAAAAA==",
     "levelUpValue": "AAAAAA==",
     "contentBG": "AAAAAA==",
@@ -22502,8 +22972,8 @@
   {
     "sn": "11547",
     "name": "Thunder Lord's Majesty II",
-    "desc": "<nobr>Increase critical damage by 34.9%. Each time an ally uses an Electric skill, Resonance, or Highlight, gain 1 Thunder Lord's Majesty stack. Stacks up to 3 times. Lasts for 2 turns. When user deals Electric damage, and Thunder Lord's Majesty is at 3 stacks, increase all foes' Electric damage taken by 12%, and Electric critical damage taken by 12%. Lasts for 2 turns.",
-    "descSimple": "<nobr>Increase crit dmg 34.9%. When allies use Elec skills, Resonance, or Highlights, gain 1 Thunder Lord's Majesty (max 3 stacks, 2 turns). After dealing Elec dmg, and Thunder Lord's Majesty is at 3 stacks, increase all foes' Elec dmg taken 12%, and Elec crit dmg taken 12% (2 turns).",
+    "desc": "<nobr>Increase critical damage by 34.9%. Each time an ally uses an Electric skill, Resonance, Highlight, or Theurgy, gain 1 Thunder Lord's Majesty stack. Stacks up to 3 times. Lasts for 2 turns. When user deals Electric damage, and Thunder Lord's Majesty is at 3 stacks, increase all foes' Electric damage taken by 12%, and Electric critical damage taken by 12%. Lasts for 2 turns.",
+    "descSimple": "<nobr>Increase crit dmg 34.9%. When allies use Elec skills, Resonance, Highlights, or Theurgy, gain 1 Thunder Lord's Majesty (max 3 stacks, 2 turns). After dealing Elec dmg and Thunder Lord's Majesty is at 3 stacks, increase all foes' Elec dmg taken 12% and Elec crit dmg taken 12% (2 turns).",
     "levelUpList": "AAAAAA==",
     "levelUpValue": "AAAAAA==",
     "contentBG": "AAAAAA==",
@@ -22512,8 +22982,8 @@
   {
     "sn": "11548",
     "name": "Thunder Lord's Majesty III",
-    "desc": "<nobr>Increase critical damage by 34.9%. Each time an ally uses an Electric skill, Resonance, or Highlight, gain 1 Thunder Lord's Majesty stack. Stacks up to 3 times. Lasts for 2 turns. When user deals Electric damage, and Thunder Lord's Majesty is at 3 stacks, increase all foes' Electric damage taken by 12%, and Electric critical damage taken by 20%. Lasts for 2 turns.",
-    "descSimple": "<nobr>Increase crit dmg 34.9%. When allies use Elec skills, Resonance, or Highlights, gain 1 Thunder Lord's Majesty (max 3 stacks, 2 turns). After dealing Elec dmg, and Thunder Lord's Majesty is at 3 stacks, increase all foes' Elec dmg taken 12%, and Elec crit dmg taken 20% (2 turns).",
+    "desc": "<nobr>Increase critical damage by 34.9%. Each time an ally uses an Electric skill, Resonance, Highlight, or Theurgy, gain 1 Thunder Lord's Majesty stack. Stacks up to 3 times. Lasts for 2 turns. When user deals Electric damage, and Thunder Lord's Majesty is at 3 stacks, increase all foes' Electric damage taken by 12%, and Electric critical damage taken by 20%. Lasts for 2 turns.",
+    "descSimple": "<nobr>Increase crit dmg 34.9%. When allies use Elec skills, Resonance, Highlights, or Theurgy, gain 1 Thunder Lord's Majesty (max 3 stacks, 2 turns). After dealing Elec dmg and Thunder Lord's Majesty is at 3 stacks, increase all foes' Elec dmg taken 12% and Elec crit dmg taken 20% (2 turns).",
     "levelUpList": "AAAAAA==",
     "levelUpValue": "AAAAAA==",
     "contentBG": "AAAAAA==",
@@ -23211,7 +23681,7 @@
   },
   {
     "sn": "15640",
-    "name": "Guide the Lost",
+    "name": "Advising Missing Persons",
     "desc": "Increase Attack by 2.9%. After knocking down a foe, increase party's Attack by 14.3% for 2 turns.",
     "descSimple": "Increase Atk 2.9%. After knocking down foe, increase party's Atk 14.3% (2 turns).",
     "levelUpList": "AAAAAA==",
@@ -23221,7 +23691,7 @@
   },
   {
     "sn": "15641",
-    "name": "Guide the Lost I",
+    "name": "Advising Missing Persons I",
     "desc": "Increase Attack by 2.9%. After knocking down a foe, increase party's Attack by 16.5% for 2 turns.",
     "descSimple": "Increase Atk 2.9%. After knocking down foe, increase party's Atk 16.5% (2 turns).",
     "levelUpList": "AAAAAA==",
@@ -27320,6 +27790,96 @@
     "skillTag": "AAAAAA=="
   },
   {
+    "sn": "42029",
+    "name": "Hermit",
+    "desc": "When an ally takes damage from a skill, the target that used the skill will receive a counterattack that deals fixed damage equal to 9999% of the total shield value of all allies.",
+    "descSimple": "AAAAAA==",
+    "levelUpList": "AAAAAA==",
+    "levelUpValue": "AAAAAA==",
+    "contentBG": "AAAAAA==",
+    "skillTag": "AAAAAA=="
+  },
+  {
+    "sn": "43811",
+    "name": "Old Earthenware",
+    "desc": "At the end of an ally's turn, gain a fixed amount of Antique Energy. If a skill, Resonance, Highlight, or Theurgy was used to apply a continuous effect, gain an extra fixed amount of Antique Energy.\nWhen Antique Energy is at max, you can activate the following Antique Skill: Deal a fixed amount of damage to all foes based on difficulty level and current Exploration Level, and also inflict 8 Cracked Pottery stacks.\nCracked Pottery: At the end of each turn, permanently deal a fixed amount of continuous damage based on difficulty level and current Exploration Level. Stacks up to 99 times.",
+    "descSimple": "AAAAAA==",
+    "levelUpList": "AAAAAA==",
+    "levelUpValue": "AAAAAA==",
+    "contentBG": "AAAAAA==",
+    "skillTag": "AAAAAA=="
+  },
+  {
+    "sn": "43821",
+    "name": "Antique Scissors",
+    "desc": "AAAAAA==",
+    "descSimple": "AAAAAA==",
+    "levelUpList": "AAAAAA==",
+    "levelUpValue": "AAAAAA==",
+    "contentBG": "AAAAAA==",
+    "skillTag": "AAAAAA=="
+  },
+  {
+    "sn": "43831",
+    "name": "Old Hourglass",
+    "desc": "At the end of an ally's turn, gain a fixed amount of Antique Energy. At the end of an extra action, gain an extra fixed amount of Antique Energy.\nWhen Antique Energy is at max, you can activate the following Antique Skill: At the end of 1 selected ally's next action, grant them 1 extra action.",
+    "descSimple": "AAAAAA==",
+    "levelUpList": "AAAAAA==",
+    "levelUpValue": "AAAAAA==",
+    "contentBG": "AAAAAA==",
+    "skillTag": "AAAAAA=="
+  },
+  {
+    "sn": "43841",
+    "name": "Vintage Gramophone",
+    "desc": "At the end of an ally's turn, gain a fixed amount of Antique Energy. If a skill, Resonance, Highlight, or Theurgy was used, gain an extra fixed amount of Antique Energy based on the amount of spent SP.\nWhen Antique Energy is at max, you can activate the following Antique Skill: Deal a fixed amount of damage to all foes based on your current difficulty and Exploration Level, and also increase party's Highlight and Theurgy gauges by 100%.",
+    "descSimple": "AAAAAA==",
+    "levelUpList": "AAAAAA==",
+    "levelUpValue": "AAAAAA==",
+    "contentBG": "AAAAAA==",
+    "skillTag": "AAAAAA=="
+  },
+  {
+    "sn": "43851",
+    "name": "Brass Lantern",
+    "desc": "At the end of an ally's turn, gain a fixed amount of Antique Energy. If SP was spent, gain an extra fixed amount of Antique Energy based on the amount of spent SP.\nWhen Antique Energy is at max, you can activate the following Antique Skill: Deal a fixed amount of damage to all foes based on your current difficulty and exploration level.",
+    "descSimple": "AAAAAA==",
+    "levelUpList": "AAAAAA==",
+    "levelUpValue": "AAAAAA==",
+    "contentBG": "AAAAAA==",
+    "skillTag": "AAAAAA=="
+  },
+  {
+    "sn": "43861",
+    "name": "Victory Charm",
+    "desc": "At the end of an ally's turn, gain a fixed amount of Antique Energy. If a healing skill was used, gain an extra fixed amount of Antique Energy.\nWhen Antique Energy is at max, you can activate the following Antique Skill: Deal a fixed amount of damage to all foes based on the total amount of HP recovered during battle, as well as your current difficulty and exploration level.",
+    "descSimple": "AAAAAA==",
+    "levelUpList": "AAAAAA==",
+    "levelUpValue": "AAAAAA==",
+    "contentBG": "AAAAAA==",
+    "skillTag": "AAAAAA=="
+  },
+  {
+    "sn": "43891",
+    "name": "Silver Sake Cup",
+    "desc": "At the end of an ally's turn, gain a fixed amount of Antique Energy. At the end of Wonder's turn, gain an extra fixed amount of Antique Energy.\nWhen Antique Energy is at max, you can activate the following Antique Skill: Deal a fixed amount of damage to all foes based on your current difficulty and exploration level. For every 100 of Wonder's Attack, increase damage by 1%. Also, increase Wonder's Attack by 50%.",
+    "descSimple": "AAAAAA==",
+    "levelUpList": "AAAAAA==",
+    "levelUpValue": "AAAAAA==",
+    "contentBG": "AAAAAA==",
+    "skillTag": "AAAAAA=="
+  },
+  {
+    "sn": "43931",
+    "name": "Bronze Mirror",
+    "desc": "At the end of an ally's turn, gain a fixed amount of Antique Energy. If a shield was granted, gain an extra fixed amount of Antique Energy.\nWhen Antique Energy is at max, you can activate the following Antique Skill: Deal a fixed amount of damage to all foes based on the current total Shield amount, as well as your current difficulty and exploration level.",
+    "descSimple": "AAAAAA==",
+    "levelUpList": "AAAAAA==",
+    "levelUpValue": "AAAAAA==",
+    "contentBG": "AAAAAA==",
+    "skillTag": "AAAAAA=="
+  },
+  {
     "sn": "25811",
     "name": "Verdict of Agony",
     "desc": "Deal Physical damage to 1 foe equal to <color=#FFFC40>^%s^</color> of Attack (3 hits) and inflict Nightmare. <color=#fffc40>^%s^</color> chance to inflict <link=\"s|157\"><u>Fear</u></link>.",
@@ -27744,6 +28304,66 @@
     "name": "Flaming Chariot III",
     "desc": "Increase Attack by 29.1%.\nAt the start of battle, gain 8 Holy Flame stacks, and inflict Burn on 1 random foe for 2 turns. When allies inflict an elemental ailment, gain 1 Holy Flame stack for 3 turns. If the ailment inflicted is Burn, gain 1 more Holy Flame stack. Holy Flame stacks up to 10 times, and up to 2 stacks can be gained from 1 skill. These effects activate even in reserve.\nWhen an ally uses a skill, if Holy Flame is at 4 or more stacks, spend all Holy Flame stacks to increase the party's damage by 1.5% per stack for 2 turns. Also, 75% chance to inflict Burn on 1 random foe.",
     "descSimple": "Increase Atk 29.1%.At start of battle, gain 8 Holy Flame, and inflict Burn on 1 random foe (2 turns). When allies inflict elemental ailments, gain 1 Holy Flame (3 turns). If ailment is Burn, gain 1 more Holy Flame. Max 10 stacks, 2 stacks per skill. Effects activate even in reserve.\nWhen ally uses skill, if Holy Flame is at 4+ stacks, spend all Holy Flame to increase party's dmg 1.5% per stack (2 turns). Also, 75% chance to inflict Burn on 1 random foe.",
+    "levelUpList": "AAAAAA==",
+    "levelUpValue": "AAAAAA==",
+    "contentBG": "AAAAAA==",
+    "skillTag": "AAAAAA=="
+  },
+  {
+    "sn": "26311",
+    "name": "Exorcising Flames",
+    "desc": "Deal Fire damage to 1 foe equal to <color=#fffc40>^%s^</color> of Attack (4 hits), and inflict Ascetic Ordeals for 3 turns.\nAscetic Ordeals: Each time 1 hit of Fire damage is taken, increase critical damage taken by 3%. Stacks up to 8 times.",
+    "descSimple": "Fire dmg to 1 foe (%s Atk, 4 hits), and inflict Ascetic Ordeals (3 turns).\nAscetic Ordeals: Increase critl dmg taken 3% per 1 hit of Fire dmg taken (2 turns, max 8 stacks).",
+    "levelUpList": "Skill Multiplier",
+    "levelUpValue": "AAAAAA==",
+    "contentBG": "AAAAAA==",
+    "skillTag": "Single-Target"
+  },
+  {
+    "sn": "26341",
+    "name": "Threefold Blessings",
+    "desc": "Increase Attack by 29.1%.\nAfter dealing damage with a skill, grant Threefold Transcendence to the user and the Sweeper or Assassin with the highest Attack for 2 turns.\nThreefold Transcendence: When dealing 4 or more hits of damage with a single skill, increase user's Attack by 8%, and damage by 7%.",
+    "descSimple": "Increase Atk 29.1%.\nAfter dealing dmg with skills, grant Threefold Transcendence to user and Sweeper or Assassin with highest Atk (2 turns).\nThreefold Transcendence: When dealing 4+ hits of dmg with single skill, increase user's Atk 8% and dmg 7%.",
+    "levelUpList": "AAAAAA==",
+    "levelUpValue": "AAAAAA==",
+    "contentBG": "AAAAAA==",
+    "skillTag": "AAAAAA=="
+  },
+  {
+    "sn": "26342",
+    "name": "Threefold Blessings I",
+    "desc": "Increase Attack by 29.1%.\nAfter dealing damage with a skill, grant Threefold Transcendence to the user and the Sweeper or Assassin with the highest Attack for 3 turns.\nThreefold Transcendence: When dealing 4 or more hits of damage with a single skill, increase user's Attack by 8%, and damage by 7%.",
+    "descSimple": "Increase Atk 29.1%.\nAfter dealing dmg with skills, grant Threefold Transcendence to user and Sweeper or Assassin with highest Atk (3 turns).\nThreefold Transcendence: When dealing 4+ hits of dmg with single skill, increase user's Atk 8% and dmg 7%.",
+    "levelUpList": "AAAAAA==",
+    "levelUpValue": "AAAAAA==",
+    "contentBG": "AAAAAA==",
+    "skillTag": "AAAAAA=="
+  },
+  {
+    "sn": "26343",
+    "name": "Threefold Blessings II",
+    "desc": "Increase Attack by 29.1%.\nAfter dealing damage with a skill, grant Threefold Transcendence to the user and the Sweeper or Assassin with the highest Attack for 3 turns.\nThreefold Transcendence: When dealing 4 or more hits of damage with a single skill, increase user's Attack by 12%, and damage by 7%.",
+    "descSimple": "Increase Atk 29.1%.\nAfter dealing dmg with skills, grant Threefold Transcendence to user and Sweeper or Assassin with highest Atk (3 turns).\nThreefold Transcendence: When dealing 4+ hits of dmg with single skill, increase user's Atk 12% and dmg 7%.",
+    "levelUpList": "AAAAAA==",
+    "levelUpValue": "AAAAAA==",
+    "contentBG": "AAAAAA==",
+    "skillTag": "AAAAAA=="
+  },
+  {
+    "sn": "26344",
+    "name": "Threefold Blessings III",
+    "desc": "Increase Attack by 29.1%.\nAfter dealing damage with a skill, grant Threefold Transcendence to the user and the Sweeper or Assassin with the highest Attack for 3 turns.\nThreefold Transcendence: When dealing 4 or more hits of damage with a single skill, increase user's Attack by 12%, and damage by 10%.",
+    "descSimple": "Increase Atk 29.1%.\nAfter dealing dmg with skills, grant Threefold Transcendence to user and Sweeper or Assassin with highest Atk (3 turns).\nThreefold Transcendence: When dealing 4+ hits of dmg with single skill, increase user's Atk 12% and dmg 10%.",
+    "levelUpList": "AAAAAA==",
+    "levelUpValue": "AAAAAA==",
+    "contentBG": "AAAAAA==",
+    "skillTag": "AAAAAA=="
+  },
+  {
+    "sn": "42019",
+    "name": "Sun",
+    "desc": "At the start of battle and every 5 turns, deal damage 1 time to everyone in battle. Deal damage equal to 16% of maximum HP to all foes, and 16% of current HP to all allies.",
+    "descSimple": "AAAAAA==",
     "levelUpList": "AAAAAA==",
     "levelUpValue": "AAAAAA==",
     "contentBG": "AAAAAA==",
@@ -28192,7 +28812,7 @@
   {
     "sn": "40221",
     "name": "AAAAAA==",
-    "desc": "Fully recover HP, SP, and Highlight Gauge before challenging the final boss.",
+    "desc": "Fully recover HP, SP, and Highlight gauge before challenging the final boss.",
     "descSimple": "AAAAAA==",
     "levelUpList": "AAAAAA==",
     "levelUpValue": "AAAAAA==",
@@ -28663,6 +29283,36 @@
     "sn": "26240",
     "name": "AAAAAA==",
     "desc": "Increase Attack by 29.1%.",
+    "descSimple": "AAAAAA==",
+    "levelUpList": "AAAAAA==",
+    "levelUpValue": "AAAAAA==",
+    "contentBG": "AAAAAA==",
+    "skillTag": "AAAAAA=="
+  },
+  {
+    "sn": "26340",
+    "name": "AAAAAA==",
+    "desc": "Increase Attack by 29.1%.",
+    "descSimple": "AAAAAA==",
+    "levelUpList": "AAAAAA==",
+    "levelUpValue": "AAAAAA==",
+    "contentBG": "AAAAAA==",
+    "skillTag": "AAAAAA=="
+  },
+  {
+    "sn": "42010",
+    "name": "AAAAAA==",
+    "desc": "When a skill heals beyond max HP, deal damage to 1 random foe equal to 500% of surplus healing.",
+    "descSimple": "AAAAAA==",
+    "levelUpList": "AAAAAA==",
+    "levelUpValue": "AAAAAA==",
+    "contentBG": "AAAAAA==",
+    "skillTag": "AAAAAA=="
+  },
+  {
+    "sn": "42436",
+    "name": "AAAAAA==",
+    "desc": "At the start of battle, for each ally with the same attribute, increase party's damage dealt by 12%.",
     "descSimple": "AAAAAA==",
     "levelUpList": "AAAAAA==",
     "levelUpValue": "AAAAAA==",
@@ -29533,7 +30183,7 @@
     "sn": "6335",
     "name": "Maeigaon",
     "desc": "Deal Curse damage to all foes equal to <color=#fffc40>^%s^%</color> of Attack. Chance to inflict 1 <link=\"s|112\"><u>Curse</u></link> stack on foes.",
-    "descSimple": "Curse damage to all foes (%s% Atk). Chance to inflict Curse.",
+    "descSimple": "Curse dmg to all foes (%s% Atk). Chance to inflict Curse.",
     "levelUpList": "Dmg Increase",
     "levelUpValue": "AAAAAA==",
     "contentBG": "AAAAAA==",
@@ -29590,6 +30240,276 @@
     "skillTag": "Shield"
   },
   {
+    "sn": "6350",
+    "name": "Makougaon",
+    "desc": "Deal Bless damage to all foes equal to <color=#fffc40>^%s^%</color> of Attack. Gain 1 <link=\"s|111\"><u>Blessing</u></link> stack.",
+    "descSimple": "AAAAAA==",
+    "levelUpList": "Damage Up",
+    "levelUpValue": "AAAAAA==",
+    "contentBG": "AAAAAA==",
+    "skillTag": "Multi-Target"
+  },
+  {
+    "sn": "6351",
+    "name": "Kouga",
+    "desc": "Deal Bless damage to 1 foe equal to <color=#fffc40>^%s^%</color> of Attack. Gain 1 <link=\"s|111\"><u>Blessing</u></link> stack.",
+    "descSimple": "AAAAAA==",
+    "levelUpList": "Damage Up",
+    "levelUpValue": "AAAAAA==",
+    "contentBG": "AAAAAA==",
+    "skillTag": "Single-Target"
+  },
+  {
+    "sn": "6352",
+    "name": "Kougaon",
+    "desc": "Deal Bless damage to 1 foe equal to <color=#fffc40>^%s^%</color> of Attack. Gain 1 <link=\"s|111\"><u>Blessing</u></link> stack.",
+    "descSimple": "AAAAAA==",
+    "levelUpList": "Damage Up",
+    "levelUpValue": "AAAAAA==",
+    "contentBG": "AAAAAA==",
+    "skillTag": "Single-Target"
+  },
+  {
+    "sn": "6353",
+    "name": "Makouga",
+    "desc": "Deal Bless damage to all foes equal to <color=#fffc40>^%s^%</color> of Attack. Gain 1-2 <link=\"s|111\"><u>Blessing</u></link> stacks.",
+    "descSimple": "AAAAAA==",
+    "levelUpList": "Damage Up",
+    "levelUpValue": "AAAAAA==",
+    "contentBG": "AAAAAA==",
+    "skillTag": "Multi-Target"
+  },
+  {
+    "sn": "6354",
+    "name": "Mudoon",
+    "desc": "Deal Curse damage to 1 foe equal to <color=#fffc40>^%s^%</color> of Attack. Low chance to deal Curse insta-kill effect to foes with 50% or less HP. Increase chance based on foe's missing HP.",
+    "descSimple": "AAAAAA==",
+    "levelUpList": "Damage Up",
+    "levelUpValue": "AAAAAA==",
+    "contentBG": "AAAAAA==",
+    "skillTag": "Single-Target"
+  },
+  {
+    "sn": "6355",
+    "name": "Maeiga",
+    "desc": "Deal Curse damage to all foes equal to <color=#fffc40>^%s^%</color> of Attack. Chance to inflict 1 <link=\"s|112\"><u>Curse</u></link> stack on foes.",
+    "descSimple": "AAAAAA==",
+    "levelUpList": "Damage Up",
+    "levelUpValue": "AAAAAA==",
+    "contentBG": "AAAAAA==",
+    "skillTag": "Multi-Target"
+  },
+  {
+    "sn": "6356",
+    "name": "Maeigaon",
+    "desc": "Deal Curse damage to all foes equal to <color=#fffc40>^%s^%</color> of Attack. Chance to inflict 1 <link=\"s|112\"><u>Curse</u></link> stack on foes.",
+    "descSimple": "AAAAAA==",
+    "levelUpList": "Damage Up",
+    "levelUpValue": "AAAAAA==",
+    "contentBG": "AAAAAA==",
+    "skillTag": "Multi-Target"
+  },
+  {
+    "sn": "6357",
+    "name": "Kouha",
+    "desc": "Deal Bless damage to 1 foe equal to <color=#fffc40>^%s^%</color> of Attack. Chance to gain 1 <link=\"s|111\"><u>Blessing</u></link> stack.",
+    "descSimple": "AAAAAA==",
+    "levelUpList": "Damage Up",
+    "levelUpValue": "AAAAAA==",
+    "contentBG": "AAAAAA==",
+    "skillTag": "Single-Target"
+  },
+  {
+    "sn": "6358",
+    "name": "Eiha",
+    "desc": "Deal Curse damage to 1 foe equal to <color=#fffc40>^%s^%</color> of Attack. Chance to inflict 1 <link=\"s|112\"><u>Curse</u></link> stack on foes.",
+    "descSimple": "AAAAAA==",
+    "levelUpList": "Damage Up",
+    "levelUpValue": "AAAAAA==",
+    "contentBG": "AAAAAA==",
+    "skillTag": "Single-Target"
+  },
+  {
+    "sn": "6359",
+    "name": "Divine Judgment",
+    "desc": "Deal Bless damage to 1 foe equal to <color=#fffc40>^%s^%</color> of Attack. Chance to gain 1 <link=\"s|111\"><u>Blessing</u></link> stack.",
+    "descSimple": "AAAAAA==",
+    "levelUpList": "Damage Up",
+    "levelUpValue": "AAAAAA==",
+    "contentBG": "AAAAAA==",
+    "skillTag": "Single-Target"
+  },
+  {
+    "sn": "6360",
+    "name": "Nihilistic Art",
+    "desc": "Deal Curse damage to 1 foe equal to <color=#fffc40>^%s^%</color> of Attack. Chance to inflict 1 <link=\"s|112\"><u>Curse</u></link> stack on foes.",
+    "descSimple": "AAAAAA==",
+    "levelUpList": "Damage Up",
+    "levelUpValue": "AAAAAA==",
+    "contentBG": "AAAAAA==",
+    "skillTag": "Single-Target"
+  },
+  {
+    "sn": "6391",
+    "name": "Agidyne",
+    "desc": "Deal Fire damage to 1 foe equal to <color=#fffc40>^%s^%</color> of Attack.",
+    "descSimple": "AAAAAA==",
+    "levelUpList": "Damage Up",
+    "levelUpValue": "AAAAAA==",
+    "contentBG": "AAAAAA==",
+    "skillTag": "Single-Target"
+  },
+  {
+    "sn": "6392",
+    "name": "Maragidyne",
+    "desc": "Deal Fire damage to all foes equal to <color=#fffc40>^%s^%</color> of Attack.",
+    "descSimple": "AAAAAA==",
+    "levelUpList": "Damage Up",
+    "levelUpValue": "AAAAAA==",
+    "contentBG": "AAAAAA==",
+    "skillTag": "Multi-Target"
+  },
+  {
+    "sn": "6393",
+    "name": "Bufudyne",
+    "desc": "Deal Ice damage to 1 foe equal to <color=#fffc40>^%s^%</color> of Attack.",
+    "descSimple": "AAAAAA==",
+    "levelUpList": "Damage Up",
+    "levelUpValue": "AAAAAA==",
+    "contentBG": "AAAAAA==",
+    "skillTag": "Single-Target"
+  },
+  {
+    "sn": "6394",
+    "name": "Mabufudyne",
+    "desc": "Deal Ice damage to all foes equal to <color=#fffc40>^%s^%</color> of Attack.",
+    "descSimple": "AAAAAA==",
+    "levelUpList": "Damage Up",
+    "levelUpValue": "AAAAAA==",
+    "contentBG": "AAAAAA==",
+    "skillTag": "Multi-Target"
+  },
+  {
+    "sn": "6395",
+    "name": "Ziodyne",
+    "desc": "Deal Electric damage to 1 foe equal to <color=#fffc40>^%s^%</color> of Attack.",
+    "descSimple": "AAAAAA==",
+    "levelUpList": "Damage Up",
+    "levelUpValue": "AAAAAA==",
+    "contentBG": "AAAAAA==",
+    "skillTag": "Single-Target"
+  },
+  {
+    "sn": "6396",
+    "name": "Maziodyne",
+    "desc": "Deal Electric damage to all foes equal to <color=#fffc40>^%s^%</color> of Attack.",
+    "descSimple": "AAAAAA==",
+    "levelUpList": "Damage Up",
+    "levelUpValue": "AAAAAA==",
+    "contentBG": "AAAAAA==",
+    "skillTag": "Multi-Target"
+  },
+  {
+    "sn": "6397",
+    "name": "Garudyne",
+    "desc": "Deal Wind damage to 1 foe equal to <color=#fffc40>^%s^%</color> of Attack.",
+    "descSimple": "AAAAAA==",
+    "levelUpList": "Damage Up",
+    "levelUpValue": "AAAAAA==",
+    "contentBG": "AAAAAA==",
+    "skillTag": "Single-Target"
+  },
+  {
+    "sn": "6398",
+    "name": "Magarudyne",
+    "desc": "Deal Wind damage to all foes equal to <color=#fffc40>^%s^%</color> of Attack.",
+    "descSimple": "AAAAAA==",
+    "levelUpList": "Damage Up",
+    "levelUpValue": "AAAAAA==",
+    "contentBG": "AAAAAA==",
+    "skillTag": "Multi-Target"
+  },
+  {
+    "sn": "6399",
+    "name": "Kougaon",
+    "desc": "Deal Bless damage to 1 foe equal to <color=#fffc40>^%s^%</color> of Attack.",
+    "descSimple": "AAAAAA==",
+    "levelUpList": "Damage Up",
+    "levelUpValue": "AAAAAA==",
+    "contentBG": "AAAAAA==",
+    "skillTag": "Single-Target"
+  },
+  {
+    "sn": "6400",
+    "name": "Makougaon",
+    "desc": "Deal Bless damage to all foes equal to <color=#fffc40>^%s^%</color> of Attack.",
+    "descSimple": "AAAAAA==",
+    "levelUpList": "Damage Up",
+    "levelUpValue": "AAAAAA==",
+    "contentBG": "AAAAAA==",
+    "skillTag": "Multi-Target"
+  },
+  {
+    "sn": "6401",
+    "name": "Eigaon",
+    "desc": "Deal Curse damage to 1 foe equal to <color=#fffc40>^%s^%</color> of Attack.",
+    "descSimple": "AAAAAA==",
+    "levelUpList": "Damage Up",
+    "levelUpValue": "AAAAAA==",
+    "contentBG": "AAAAAA==",
+    "skillTag": "Single-Target"
+  },
+  {
+    "sn": "6402",
+    "name": "Maeigaon",
+    "desc": "Deal Curse damage to all foes equal to <color=#fffc40>^%s^%</color> of Attack.",
+    "descSimple": "AAAAAA==",
+    "levelUpList": "Damage Up",
+    "levelUpValue": "AAAAAA==",
+    "contentBG": "AAAAAA==",
+    "skillTag": "Multi-Target"
+  },
+  {
+    "sn": "6403",
+    "name": "Megidolaon",
+    "desc": "Deal Almighty damage to all foes equal to <color=#fffc40>^%s^%</color> of Attack, ignoring their defense.",
+    "descSimple": "AAAAAA==",
+    "levelUpList": "Damage Up",
+    "levelUpValue": "AAAAAA==",
+    "contentBG": "AAAAAA==",
+    "skillTag": "Multi-Target"
+  },
+  {
+    "sn": "6404",
+    "name": "Heat Riser",
+    "desc": "Increase user's Attack, Defense, ailment accuracy, and final damage reduction by a fixed amount for 2 turns. During this effect, the enhancement effect changes based on the number of debuffs on the user. At 15 or more debuffs, Heat Riser's effect is removed.\nUnder 5: Increase Attack, Defense, ailment accuracy, and final damage reduction by 80%.\nUnder 10: Increase Attack, Defense, ailment accuracy, and final damage reduction by 60%.\nUnder 15: Increase Attack, Defense, ailment accuracy, and final damage reduction by 40%.",
+    "descSimple": "AAAAAA==",
+    "levelUpList": "Skill Cost",
+    "levelUpValue": "AAAAAA==",
+    "contentBG": "AAAAAA==",
+    "skillTag": "Buff"
+  },
+  {
+    "sn": "6405",
+    "name": "Debilitate",
+    "desc": "Decrease 1 foe's Attack, Defense, and ailment accuracy, and also reduces their HP by 40% of their max HP every turn for 2 turns. <color=#FF423F>After receiving buff skills 3 times</color>, this effect is removed.",
+    "descSimple": "AAAAAA==",
+    "levelUpList": "Skill Cost",
+    "levelUpValue": "AAAAAA==",
+    "contentBG": "AAAAAA==",
+    "skillTag": "Debuff"
+  },
+  {
+    "sn": "6407",
+    "name": "Concentrate",
+    "desc": "Greatly increase the final dmage of the user's magic skills for 2 turns. <color=#FF423F>After taking damage 12 times</color>, this effect is removed.",
+    "descSimple": "AAAAAA==",
+    "levelUpList": "AAAAAA==",
+    "levelUpValue": "AAAAAA==",
+    "contentBG": "AAAAAA==",
+    "skillTag": "Buff"
+  },
+  {
     "sn": "82025",
     "name": "Azure Brand",
     "desc": "For 2 turns, each time a foe takes an action, inflict an HP decrease effect.",
@@ -29618,6 +30538,126 @@
     "levelUpValue": "AAAAAA==",
     "contentBG": "AAAAAA==",
     "skillTag": "Debuff"
+  },
+  {
+    "sn": "82034",
+    "name": "Blade of Fury",
+    "desc": "Deal Physical damage to all foes based on Attack, and decrease Defense.",
+    "descSimple": "AAAAAA==",
+    "levelUpList": "Damage Up",
+    "levelUpValue": "AAAAAA==",
+    "contentBG": "AAAAAA==",
+    "skillTag": "Multi-Target"
+  },
+  {
+    "sn": "82035",
+    "name": "Myriad Slashes",
+    "desc": "Deal Physical damage to 1 foe equal to <color=#fffc40>^%s^%</color> of Attack (2 to 3 hits). Prioritize attacking locked on foes.",
+    "descSimple": "Phys dmg to 1 foe (%s% Atk, 2-3 hits).",
+    "levelUpList": "Damage Up",
+    "levelUpValue": "AAAAAA==",
+    "contentBG": "AAAAAA==",
+    "skillTag": "Single-Target"
+  },
+  {
+    "sn": "82036",
+    "name": "Order of Balance",
+    "desc": "Makes Conviction Sword and World Balance use a skill at random.",
+    "descSimple": "AAAAAA==",
+    "levelUpList": "AAAAAA==",
+    "levelUpValue": "AAAAAA==",
+    "contentBG": "AAAAAA==",
+    "skillTag": "Buff"
+  },
+  {
+    "sn": "82037",
+    "name": "Berserk Tendency",
+    "desc": "Inflict Berserk on the target, and increase damage dealt.",
+    "descSimple": "AAAAAA==",
+    "levelUpList": "AAAAAA==",
+    "levelUpValue": "AAAAAA==",
+    "contentBG": "AAAAAA==",
+    "skillTag": "Buff"
+  },
+  {
+    "sn": "82038",
+    "name": "Heaven's Blade",
+    "desc": "Deal severe Physical damage to 1 foe.",
+    "descSimple": "AAAAAA==",
+    "levelUpList": "AAAAAA==",
+    "levelUpValue": "AAAAAA==",
+    "contentBG": "AAAAAA==",
+    "skillTag": "Single-Target"
+  },
+  {
+    "sn": "82039",
+    "name": "Myriad Slashes",
+    "desc": "Deal Physical damage to 1 foe equal to <color=#fffc40>^%s^%</color> of Attack (2 to 3 hits). Also, inflict Deep Wounds for 3 turns, decreasing HP by a set amount each turn. Prioritize attacking locked on foes.",
+    "descSimple": "Phys dmg to 1 foe (%s% Atk, 2-3 hits).",
+    "levelUpList": "Damage Up",
+    "levelUpValue": "AAAAAA==",
+    "contentBG": "AAAAAA==",
+    "skillTag": "Single-Target"
+  },
+  {
+    "sn": "82028",
+    "name": "Peaceful Tendency",
+    "desc": "Grant a shield to all allies that protects against damage 1 time.",
+    "descSimple": "AAAAAA==",
+    "levelUpList": "AAAAAA==",
+    "levelUpValue": "AAAAAA==",
+    "contentBG": "AAAAAA==",
+    "skillTag": "Buff"
+  },
+  {
+    "sn": "82029",
+    "name": "Lock On",
+    "desc": "Inflict Lock On to 1 foe, significantly increasing their chance of being attacked.",
+    "descSimple": "AAAAAA==",
+    "levelUpList": "AAAAAA==",
+    "levelUpValue": "AAAAAA==",
+    "contentBG": "AAAAAA==",
+    "skillTag": "Special"
+  },
+  {
+    "sn": "82031",
+    "name": "Heaven's Blade",
+    "desc": "Deal severe Physical damage to 1 foe. Prioritize attacking locked on foes.",
+    "descSimple": "AAAAAA==",
+    "levelUpList": "AAAAAA==",
+    "levelUpValue": "AAAAAA==",
+    "contentBG": "AAAAAA==",
+    "skillTag": "Single-Target"
+  },
+  {
+    "sn": "82032",
+    "name": "Blade of Fury",
+    "desc": "Deal Physical damage to all foes based on Attack, and decrease Defense.",
+    "descSimple": "AAAAAA==",
+    "levelUpList": "Damage Up",
+    "levelUpValue": "AAAAAA==",
+    "contentBG": "AAAAAA==",
+    "skillTag": "Multi-Target"
+  },
+  {
+    "sn": "82033",
+    "name": "Myriad Slashes",
+    "desc": "Deal Physical damage to 1 foe equal to <color=#fffc40>^%s^%</color> of Attack (2 to 3 hits). Also, inflict Deep Wounds for 3 turns, decreasing HP by a set amount each turn. Prioritize attacking Locked On foes.",
+    "descSimple": "Phys dmg to 1 foe (%s% Atk, 2-3 hits).",
+    "levelUpList": "Damage Up",
+    "levelUpValue": "AAAAAA==",
+    "contentBG": "AAAAAA==",
+    "skillTag": "Single-Target"
+  },
+  {
+    "sn": "82041",
+    "name": "Lock On",
+    "desc": "Lock on to 1 foe.",
+    "descSimple": "AAAAAA==",
+    "levelUpList": "AAAAAA==",
+    "levelUpValue": "AAAAAA==",
+    "contentBG": "AAAAAA==",
+    "skillTag": "Special"
   },
   {
     "sn": "8001",
@@ -29718,6 +30758,56 @@
     "levelUpValue": "AAAAAA==",
     "contentBG": "AAAAAA==",
     "skillTag": "Passive,Single-Target"
+  },
+  {
+    "sn": "82072",
+    "name": "Waning Strength",
+    "desc": "When defeated, remove 10 Arms of Strength stacks.",
+    "descSimple": "AAAAAA==",
+    "levelUpList": "AAAAAA==",
+    "levelUpValue": "AAAAAA==",
+    "contentBG": "AAAAAA==",
+    "skillTag": "AAAAAA=="
+  },
+  {
+    "sn": "82073",
+    "name": "Arms of Strength",
+    "desc": "AAAAAA==",
+    "descSimple": "AAAAAA==",
+    "levelUpList": "Skill Cost",
+    "levelUpValue": "AAAAAA==",
+    "contentBG": "AAAAAA==",
+    "skillTag": "Passive,Buff"
+  },
+  {
+    "sn": "82074",
+    "name": "Hundred-Arms Focus",
+    "desc": "AAAAAA==",
+    "descSimple": "AAAAAA==",
+    "levelUpList": "AAAAAA==",
+    "levelUpValue": "AAAAAA==",
+    "contentBG": "AAAAAA==",
+    "skillTag": "Debuff"
+  },
+  {
+    "sn": "82075",
+    "name": "Heaven's Blade",
+    "desc": "Deal heavy Physical damage to 1 foe.",
+    "descSimple": "AAAAAA==",
+    "levelUpList": "Damage Up",
+    "levelUpValue": "AAAAAA==",
+    "contentBG": "AAAAAA==",
+    "skillTag": "Single-Target"
+  },
+  {
+    "sn": "82079",
+    "name": "Nihilistic Art",
+    "desc": "Deal heavy Physical damage to all foes.",
+    "descSimple": "AAAAAA==",
+    "levelUpList": "Damage Up",
+    "levelUpValue": "AAAAAA==",
+    "contentBG": "AAAAAA==",
+    "skillTag": "Multi-Target"
   },
   {
     "sn": "84010",
@@ -37510,6 +38600,326 @@
     "skillTag": "Single-Target"
   },
   {
+    "sn": "3618",
+    "name": "Steel Barrage",
+    "desc": "Deal Physical damage to all foes (1-3 hits).",
+    "descSimple": "AAAAAA==",
+    "levelUpList": "AAAAAA==",
+    "levelUpValue": "AAAAAA==",
+    "contentBG": "AAAAAA==",
+    "skillTag": "Multi-Target"
+  },
+  {
+    "sn": "3619",
+    "name": "Merciless Crush",
+    "desc": "Deal Physical damage to 1 foe.",
+    "descSimple": "AAAAAA==",
+    "levelUpList": "AAAAAA==",
+    "levelUpValue": "AAAAAA==",
+    "contentBG": "AAAAAA==",
+    "skillTag": "Single-Target"
+  },
+  {
+    "sn": "3620",
+    "name": "Charged Wave",
+    "desc": "Deal Physical damage to all foes after 1 turn. This skill is guaranteed to activate a critical. For each foe knocked down, gain a certain amount of Power.",
+    "descSimple": "AAAAAA==",
+    "levelUpList": "AAAAAA==",
+    "levelUpValue": "AAAAAA==",
+    "contentBG": "AAAAAA==",
+    "skillTag": "Multi-Target"
+  },
+  {
+    "sn": "3621",
+    "name": "Rolling Pursuit",
+    "desc": "Spend 30 Power stacks, and deal Physical damage to 1 foe.",
+    "descSimple": "AAAAAA==",
+    "levelUpList": "AAAAAA==",
+    "levelUpValue": "AAAAAA==",
+    "contentBG": "AAAAAA==",
+    "skillTag": "Single-Target"
+  },
+  {
+    "sn": "3622",
+    "name": "Wild Assault",
+    "desc": "Spend all Power stacks, and deal severe Physical damage to all foes.",
+    "descSimple": "AAAAAA==",
+    "levelUpList": "AAAAAA==",
+    "levelUpValue": "AAAAAA==",
+    "contentBG": "AAAAAA==",
+    "skillTag": "Multi-Target"
+  },
+  {
+    "sn": "3623",
+    "name": "Vestigial Crash",
+    "desc": "Deal Physical damage to all foes.",
+    "descSimple": "AAAAAA==",
+    "levelUpList": "Damage Up",
+    "levelUpValue": "AAAAAA==",
+    "contentBG": "AAAAAA==",
+    "skillTag": "Multi-Target"
+  },
+  {
+    "sn": "3624",
+    "name": "Preparing",
+    "desc": "AAAAAA==",
+    "descSimple": "AAAAAA==",
+    "levelUpList": "AAAAAA==",
+    "levelUpValue": "AAAAAA==",
+    "contentBG": "AAAAAA==",
+    "skillTag": "Buff"
+  },
+  {
+    "sn": "3625",
+    "name": "Musha's Gathering",
+    "desc": "Summon 2 Musha. When Musha are present, decrease user's final damage taken by 30%.",
+    "descSimple": "AAAAAA==",
+    "levelUpList": "AAAAAA==",
+    "levelUpValue": "AAAAAA==",
+    "contentBG": "AAAAAA==",
+    "skillTag": "Buff"
+  },
+  {
+    "sn": "3626",
+    "name": "Ghastly Wail",
+    "desc": "Deal Almighty damage to all foes, and gain 2 Warrior's Way stacks.",
+    "descSimple": "AAAAAA==",
+    "levelUpList": "AAAAAA==",
+    "levelUpValue": "AAAAAA==",
+    "contentBG": "AAAAAA==",
+    "skillTag": "Multi-Target"
+  },
+  {
+    "sn": "3627",
+    "name": "Zangetsu Flash",
+    "desc": "Spend all Warrior's Way stacks, and deal Physical damage to 1 foe. For each Warrior's Way stack spent, increase skill damage by 30%, and with 5 stacks, activate a guaranteed critical. If this skill knocks down a target, regain 1 Warrior's Way stack.",
+    "descSimple": "AAAAAA==",
+    "levelUpList": "AAAAAA==",
+    "levelUpValue": "AAAAAA==",
+    "contentBG": "AAAAAA==",
+    "skillTag": "Single-Target"
+  },
+  {
+    "sn": "3628",
+    "name": "State of Carnage",
+    "desc": "Enter State of Carnage.\nState of Carnage: Doubles rate of gaining Warrior's Way, but with 5 stacks, increase final damage taken by 25% more.",
+    "descSimple": "AAAAAA==",
+    "levelUpList": "AAAAAA==",
+    "levelUpValue": "AAAAAA==",
+    "contentBG": "AAAAAA==",
+    "skillTag": "Buff"
+  },
+  {
+    "sn": "3629",
+    "name": "Barrier Form",
+    "desc": "Decrease user's final damage by 50% for 1 turn. When taking an attack in this state, counterattack to deal Physical damage, and gain 1 Warrior's Way stack. Afterwards, remove this state.",
+    "descSimple": "AAAAAA==",
+    "levelUpList": "AAAAAA==",
+    "levelUpValue": "AAAAAA==",
+    "contentBG": "AAAAAA==",
+    "skillTag": "Passive,Single-Target"
+  },
+  {
+    "sn": "3630",
+    "name": "Kageuchi",
+    "desc": "Deal Physical damage to 1 foe.",
+    "descSimple": "AAAAAA==",
+    "levelUpList": "AAAAAA==",
+    "levelUpValue": "AAAAAA==",
+    "contentBG": "AAAAAA==",
+    "skillTag": "Single-Target"
+  },
+  {
+    "sn": "3631",
+    "name": "Counter Form",
+    "desc": "Enter Counter Form for 1 turn. When taking an attack in this state, counterattack to deal Physical damage, and also grant 1 Warrior's Way stack to Kaiden Musha.",
+    "descSimple": "AAAAAA==",
+    "levelUpList": "AAAAAA==",
+    "levelUpValue": "AAAAAA==",
+    "contentBG": "AAAAAA==",
+    "skillTag": "Passive,Single-Target"
+  },
+  {
+    "sn": "3632",
+    "name": "Sigil of Lightning",
+    "desc": "At the start of each turn, inflict 1 random foe with Sigil of Lightning, changing their Electric affinity to Weak. Sigil of Lightning cannot be inflicted on multiple foes at the same time. When a foe with Sigil of Lightning is knocked down, Hakurou Musha gains 3 Warrior's Way stacks.",
+    "descSimple": "AAAAAA==",
+    "levelUpList": "AAAAAA==",
+    "levelUpValue": "AAAAAA==",
+    "contentBG": "AAAAAA==",
+    "skillTag": "Debuff"
+  },
+  {
+    "sn": "3633",
+    "name": "Shiden Slash",
+    "desc": "Deal Electric damage to all foes. When dealing weakness damage, gain 1 Warrior's Way stack.",
+    "descSimple": "AAAAAA==",
+    "levelUpList": "AAAAAA==",
+    "levelUpValue": "AAAAAA==",
+    "contentBG": "AAAAAA==",
+    "skillTag": "Multi-Target"
+  },
+  {
+    "sn": "3634",
+    "name": "Requiem of Thunder",
+    "desc": "Spend all Warrior's Way stacks, and deal Electric damage to 1 foe (3 hits). For each Warrior's Way stack spent, deal 1 more hit of Electric damage, and with 5 stacks, increase damage by 50%. If this skill defeats a target, regain 3 Warrior's Way stacks.",
+    "descSimple": "AAAAAA==",
+    "levelUpList": "AAAAAA==",
+    "levelUpValue": "AAAAAA==",
+    "contentBG": "AAAAAA==",
+    "skillTag": "Single-Target"
+  },
+  {
+    "sn": "3635",
+    "name": "State of Supremacy",
+    "desc": "Enter State of Supremacy. In this state, gain 1 Warrior's Way stack every turn (when other allies are defeated, gain 2 stacks every turn), but at 5 Warrior's Way stacks, increase final damage taken by 25% more.",
+    "descSimple": "AAAAAA==",
+    "levelUpList": "AAAAAA==",
+    "levelUpValue": "AAAAAA==",
+    "contentBG": "AAAAAA==",
+    "skillTag": "Buff"
+  },
+  {
+    "sn": "3636",
+    "name": "Form Change",
+    "desc": "Change between Fire Form and Ice Form each turn.\nFire Form: At the end of the turn, grant 1 Warrior's Way stack to Hakurou Musha. When defeated, grant 5 Warrior's Way stacks to Hakurou Musha.\nIce Form: When defeated, remove all Warrior's Way stacks from Hakurou Musha.",
+    "descSimple": "AAAAAA==",
+    "levelUpList": "AAAAAA==",
+    "levelUpValue": "AAAAAA==",
+    "contentBG": "AAAAAA==",
+    "skillTag": "Passive,Buff"
+  },
+  {
+    "sn": "3637",
+    "name": "Form Change",
+    "desc": "Change between Fire Form and Ice Form each turn.\nFire Form: At the end of the turn, grant 1 Warrior's Way stack to Hakurou Musha. When defeated, grant 5 Warrior's Way stacks to Hakurou Musha.\nIce Form: When defeated, remove all Warrior's Way stacks from Hakurou Musha.",
+    "descSimple": "AAAAAA==",
+    "levelUpList": "AAAAAA==",
+    "levelUpValue": "AAAAAA==",
+    "contentBG": "AAAAAA==",
+    "skillTag": "Passive,Buff"
+  },
+  {
+    "sn": "3638",
+    "name": "Knight's Convocation",
+    "desc": "Summon up to 2 Shadows, and grant 1 Steel Pride stack to all Shadows.",
+    "descSimple": "AAAAAA==",
+    "levelUpList": "AAAAAA==",
+    "levelUpValue": "AAAAAA==",
+    "contentBG": "AAAAAA==",
+    "skillTag": "Summon"
+  },
+  {
+    "sn": "3639",
+    "name": "Knight's Anthem",
+    "desc": "Grant 2 Steel Pride stacks to all Shadows.",
+    "descSimple": "AAAAAA==",
+    "levelUpList": "AAAAAA==",
+    "levelUpValue": "AAAAAA==",
+    "contentBG": "AAAAAA==",
+    "skillTag": "Buff"
+  },
+  {
+    "sn": "3640",
+    "name": "Condemnation of Pride",
+    "desc": "Spend all allies' Steel Pride stacks, and deal Physical damage to all foes. For each Steel Pride stack spent, increase damage by 10%. For every 10 Steel Pride stacks spent, this attack activates a guaranteed critical.",
+    "descSimple": "AAAAAA==",
+    "levelUpList": "AAAAAA==",
+    "levelUpValue": "AAAAAA==",
+    "contentBG": "AAAAAA==",
+    "skillTag": "Multi-Target"
+  },
+  {
+    "sn": "3641",
+    "name": "Knight's Sweep",
+    "desc": "Deal Gun damage to all foes.",
+    "descSimple": "AAAAAA==",
+    "levelUpList": "AAAAAA==",
+    "levelUpValue": "AAAAAA==",
+    "contentBG": "AAAAAA==",
+    "skillTag": "Multi-Target"
+  },
+  {
+    "sn": "3651",
+    "name": "AAAAAA==",
+    "desc": "AAAAAA==",
+    "descSimple": "AAAAAA==",
+    "levelUpList": "AAAAAA==",
+    "levelUpValue": "AAAAAA==",
+    "contentBG": "AAAAAA==",
+    "skillTag": "AAAAAA=="
+  },
+  {
+    "sn": "3652",
+    "name": "AAAAAA==",
+    "desc": "AAAAAA==",
+    "descSimple": "AAAAAA==",
+    "levelUpList": "AAAAAA==",
+    "levelUpValue": "AAAAAA==",
+    "contentBG": "AAAAAA==",
+    "skillTag": "Multi-Target"
+  },
+  {
+    "sn": "3653",
+    "name": "Bufula",
+    "desc": "AAAAAA==",
+    "descSimple": "AAAAAA==",
+    "levelUpList": "AAAAAA==",
+    "levelUpValue": "AAAAAA==",
+    "contentBG": "AAAAAA==",
+    "skillTag": "Single-Target"
+  },
+  {
+    "sn": "3654",
+    "name": "Summon",
+    "desc": "AAAAAA==",
+    "descSimple": "AAAAAA==",
+    "levelUpList": "AAAAAA==",
+    "levelUpValue": "AAAAAA==",
+    "contentBG": "AAAAAA==",
+    "skillTag": "AAAAAA=="
+  },
+  {
+    "sn": "3655",
+    "name": "Media",
+    "desc": "AAAAAA==",
+    "descSimple": "AAAAAA==",
+    "levelUpList": "AAAAAA==",
+    "levelUpValue": "AAAAAA==",
+    "contentBG": "AAAAAA==",
+    "skillTag": "Multi-Heal"
+  },
+  {
+    "sn": "3656",
+    "name": "AAAAAA==",
+    "desc": "AAAAAA==",
+    "descSimple": "AAAAAA==",
+    "levelUpList": "AAAAAA==",
+    "levelUpValue": "AAAAAA==",
+    "contentBG": "AAAAAA==",
+    "skillTag": "Multi-Target"
+  },
+  {
+    "sn": "3661",
+    "name": "AAAAAA==",
+    "desc": "AAAAAA==",
+    "descSimple": "AAAAAA==",
+    "levelUpList": "AAAAAA==",
+    "levelUpValue": "AAAAAA==",
+    "contentBG": "AAAAAA==",
+    "skillTag": "Multi-Target"
+  },
+  {
+    "sn": "3662",
+    "name": "Summon",
+    "desc": "AAAAAA==",
+    "descSimple": "AAAAAA==",
+    "levelUpList": "AAAAAA==",
+    "levelUpValue": "AAAAAA==",
+    "contentBG": "AAAAAA==",
+    "skillTag": "AAAAAA=="
+  },
+  {
     "sn": "3674",
     "name": "Michael's Stronghold",
     "desc": "Grant shield to party, and decrease final damage taken by 5% for 2 turns.",
@@ -37628,6 +39038,16 @@
     "levelUpValue": "AAAAAA==",
     "contentBG": "AAAAAA==",
     "skillTag": "Multi-Target"
+  },
+  {
+    "sn": "3697",
+    "name": "tdxct-[Skill_name_3697]",
+    "desc": "AAAAAA==",
+    "descSimple": "AAAAAA==",
+    "levelUpList": "AAAAAA==",
+    "levelUpValue": "AAAAAA==",
+    "contentBG": "AAAAAA==",
+    "skillTag": "Buff"
   },
   {
     "sn": "3708",
@@ -40592,7 +42012,7 @@
   {
     "sn": "7210",
     "name": "Caramel Flan",
-    "desc": "At the start of battle, fill Highlight Gauge by 8%.",
+    "desc": "At the start of battle, fill Highlight gauge by 8%.",
     "descSimple": "AAAAAA==",
     "levelUpList": "AAAAAA==",
     "levelUpValue": "AAAAAA==",
@@ -40602,7 +42022,7 @@
   {
     "sn": "7211",
     "name": "Omelette Rice",
-    "desc": "At the start of battle, fill Highlight Gauge by 12%.",
+    "desc": "At the start of battle, fill Highlight gauge by 12%.",
     "descSimple": "AAAAAA==",
     "levelUpList": "AAAAAA==",
     "levelUpValue": "AAAAAA==",
@@ -40612,7 +42032,7 @@
   {
     "sn": "7212",
     "name": "Seafood Salad",
-    "desc": "At the start of battle, fill Highlight Gauge by 16%.",
+    "desc": "At the start of battle, fill Highlight gauge by 16%.",
     "descSimple": "AAAAAA==",
     "levelUpList": "AAAAAA==",
     "levelUpValue": "AAAAAA==",
@@ -40992,7 +42412,7 @@
   {
     "sn": "7310",
     "name": "Superb Flan",
-    "desc": "At the start of battle, fill Highlight Gauge by 10%.",
+    "desc": "At the start of battle, fill Highlight gauge by 10%.",
     "descSimple": "AAAAAA==",
     "levelUpList": "AAAAAA==",
     "levelUpValue": "AAAAAA==",
@@ -41002,7 +42422,7 @@
   {
     "sn": "7311",
     "name": "Superb Omelette Rice",
-    "desc": "At the start of battle, fill Highlight Gauge by 15%.",
+    "desc": "At the start of battle, fill Highlight gauge by 15%.",
     "descSimple": "AAAAAA==",
     "levelUpList": "AAAAAA==",
     "levelUpValue": "AAAAAA==",
@@ -41012,7 +42432,7 @@
   {
     "sn": "7312",
     "name": "Superb Seafood Salad",
-    "desc": "At the start of battle, fill Highlight Gauge by 20%.",
+    "desc": "At the start of battle, fill Highlight gauge by 20%.",
     "descSimple": "AAAAAA==",
     "levelUpList": "AAAAAA==",
     "levelUpValue": "AAAAAA==",
@@ -42432,7 +43852,7 @@
   {
     "sn": "51552",
     "name": "Kaito Ranma",
-    "desc": "Increase Attack by <color=#2899FF>^%s^</color>.\nWhen Deduction or Stratagem are active, increase party's Attack by <color=#2899FF>^%s^</color> for 2 turns.\nAlso, when an ally with Mastermind activates a skill, Highlight, or <link=\"s|100\"><u>Resonance</u></link>, increase Akechi's critical damage by <color=#2899FF>^%s^</color> for 2 turns. Stacks up to 2 times.",
+    "desc": "Increase Attack by <color=#2899FF>^%s^</color>.\nWhen Deduction or Stratagem are active, increase party's Attack by <color=#2899FF>^%s^</color> for 2 turns.\nAlso, when an ally with Mastermind activates a skill, Highlight, Theurgy, or <link=\"s|100\"><u>Resonance</u></link>, increase Akechi's critical damage by <color=#2899FF>^%s^</color> for 2 turns. Stacks up to 2 times.",
     "descSimple": "AAAAAA==",
     "levelUpList": "AAAAAA==",
     "levelUpValue": "AAAAAA==",
@@ -43472,7 +44892,7 @@
   {
     "sn": "53251",
     "name": "Groovy Session",
-    "desc": "Increase Attack by <color=#2899FF>^%s^</color>. At the start of battle, fill Highlight Gauge by <color=#2899FF>^%s^</color>.\nIncrease <link=\"s|190\"><u>Costar</u></link>'s Attack by <color=#2899FF>^%s^</color>. Each time an ally uses a Highlight, increase Costar's Attack by <color=#2899FF>^%s^</color>. Stacks up to 3 times.",
+    "desc": "Increase Attack by <color=#2899FF>^%s^</color>. At the start of battle, fill Highlight gauge by <color=#2899FF>^%s^</color>.\nIncrease <link=\"s|190\"><u>Costar</u></link>'s Attack by <color=#2899FF>^%s^</color>. Each time an ally uses a Highlight or Theurgy, increase Costar's Attack by <color=#2899FF>^%s^</color>. Stacks up to 3 times.",
     "descSimple": "AAAAAA==",
     "levelUpList": "AAAAAA==",
     "levelUpValue": "AAAAAA==",
@@ -43822,7 +45242,7 @@
   {
     "sn": "53551",
     "name": "Majestic Sword",
-    "desc": "Increase critical damage by <color=#2899FF>^%s^</color>.\nWhen gaining a Step stack, increase Attack by <color=#2899FF>^%s^</color> for 2 turns. This effect does not stack.\nWhen an ally activates a Highlight, gain 1 Glass Slipper stack, and increase Kasumi's damage by <color=#2899FF>^%s^</color> for 3 turns. Stacks up to 2 times.\nWhen Glass Slipper is at 2 stacks, increase Kasumi's Highlight damage by <color=#2899FF>^%s^</color> more.",
+    "desc": "Increase critical damage by <color=#2899FF>^%s^</color>.\nWhen gaining a Step stack, increase Attack by <color=#2899FF>^%s^</color> for 2 turns. This effect does not stack.\nWhen an ally activates a Highlight or Theurgy, gain 1 Glass Slipper stack, and increase Kasumi's damage by <color=#2899FF>^%s^</color> for 3 turns. Stacks up to 2 times.\nWhen Glass Slipper is at 2 stacks, increase Kasumi's Highlight damage by <color=#2899FF>^%s^</color> more.",
     "descSimple": "AAAAAA==",
     "levelUpList": "AAAAAA==",
     "levelUpValue": "AAAAAA==",
@@ -44073,6 +45493,46 @@
     "sn": "53851",
     "name": "Maximize",
     "desc": "Increase Attack by <color=#2899FF>^%s^</color>.\nFor each <link=\"s|235\"><u>Musical Note</u></link> gained, grant 1 Angelic Chorus stack to all allies.\nAngelic Chorus: Permanently increase damage by <color=#2899FF>^%s^</color>. Stacks up to 12 times. At 12 stacks, increase critical damage by <color=#2899FF>^%s^</color>.",
+    "descSimple": "AAAAAA==",
+    "levelUpList": "AAAAAA==",
+    "levelUpValue": "AAAAAA==",
+    "contentBG": "AAAAAA==",
+    "skillTag": "AAAAAA=="
+  },
+  {
+    "sn": "53921",
+    "name": "Midnight Silence",
+    "desc": "Increase Attack by <color=#2899FF>^%s^</color>.",
+    "descSimple": "AAAAAA==",
+    "levelUpList": "AAAAAA==",
+    "levelUpValue": "AAAAAA==",
+    "contentBG": "AAAAAA==",
+    "skillTag": "AAAAAA=="
+  },
+  {
+    "sn": "53931",
+    "name": "Heated Moonlight",
+    "desc": "When Moon Phase is at 4 stacks, increase Makoto's Fire damage by <color=#2899FF>^%s^</color>.",
+    "descSimple": "AAAAAA==",
+    "levelUpList": "AAAAAA==",
+    "levelUpValue": "AAAAAA==",
+    "contentBG": "AAAAAA==",
+    "skillTag": "AAAAAA=="
+  },
+  {
+    "sn": "53941",
+    "name": "Bond of Swordsmanship",
+    "desc": "Increase Attack by <color=#2899FF>^%s^</color>.\nWhen Makoto grants a buff to an ally, increase party's damage by <color=#2899FF>^%s^</color>, and also increase Makoto's damage by <color=#2899FF>^%s^</color> more for 2 turns.",
+    "descSimple": "AAAAAA==",
+    "levelUpList": "AAAAAA==",
+    "levelUpValue": "AAAAAA==",
+    "contentBG": "AAAAAA==",
+    "skillTag": "AAAAAA=="
+  },
+  {
+    "sn": "53951",
+    "name": "Radiance of Life",
+    "desc": "Increase Attack by <color=#2899FF>^%s^</color>.\nFor every 3 Moon Phase or Full Moon stacks gained, increase critical rate by <color=#2899FF>^%s^</color> for 2 turns.\nWhen Makoto deals 4 or more hits of damage with 1 skill or Theurgy, increase that skill or Theurgy's damage by <color=#2899FF>^%s^</color>.",
     "descSimple": "AAAAAA==",
     "levelUpList": "AAAAAA==",
     "levelUpValue": "AAAAAA==",
@@ -45332,7 +46792,7 @@
   {
     "sn": "3265",
     "name": "AAAAAA==",
-    "desc": "<color=#FF423F>Charging-O1</color>: When a <color=#fffc40>Combat Drone</color> attacks, fill the Highlight Gauge by <color=#fffc40>50%</color>.",
+    "desc": "<color=#FF423F>Charging-O1</color>: When a <color=#fffc40>Combat Drone</color> attacks, fill the Highlight gauge by <color=#fffc40>50%</color>.",
     "descSimple": "AAAAAA==",
     "levelUpList": "AAAAAA==",
     "levelUpValue": "AAAAAA==",

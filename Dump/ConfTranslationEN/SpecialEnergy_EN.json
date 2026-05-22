@@ -58,5 +58,59 @@
     "functionName": "Spark Powder",
     "progressDetails": "Gain <color=#FF423F>Spark Powder</color> when certain conditions are met. Once you have gained 1000 Spark Powder, you will automatically spend 1000 Spark Powder to activate <color=#FF423F>Banishing Fireworks</color> and inflict Nian Shou with <color=#FF423F>Terror</color> for 1 turn. When this ailment is active, Nian Shou will be unable to act, and its final damage taken is increased.",
     "progressName": "<color=#FF423F>Spark Powder</color>"
+  },
+  {
+    "sn": "11",
+    "functionName": "Power",
+    "progressDetails": "1. Barbaric Beast Wheel gains a small amount of Power at the end of each turn.\n2. Each time a Phantom Thief deals damage to Barbaric Beast Wheel, it loses a certain amount of Power.\n3. At the start of the second phase, Barbaric Beast Wheel's Power gain rate is doubled and it gains Shifting Gears. When Power reaches 80, final damage increases and it gains the Irreversible state, preventing Power from dropping below 80.\n4. At the start of the third phase, Barbaric Beast Wheel's final damage greatly increases and it gains Maximum Output, maintaining Power at 100.",
+    "progressName": "<color=#FF423F>Power</color>"
+  },
+  {
+    "sn": "12",
+    "functionName": "Energy",
+    "progressDetails": "AAAAAA==",
+    "progressName": "AAAAAA=="
+  },
+  {
+    "sn": "1001",
+    "functionName": "Old Earthenware",
+    "progressDetails": "Deal a fixed amount of damage to all foes based on difficulty level and current Exploration Level, and also inflict 8 Cracked Pottery stacks.\nCracked Pottery: At the end of each turn, permanently deal a fixed amount of continuous damage based on difficulty level and current Exploration Level. Stacks up to 99 times.",
+    "progressName": "<color=#FF423F>Old Earthenware</color>"
+  },
+  {
+    "sn": "1003",
+    "functionName": "Old Hourglass",
+    "progressDetails": "At the end of 1 selected ally's next action, grant them 1 extra action.",
+    "progressName": "<color=#FF423F>Old Hourglass</color>"
+  },
+  {
+    "sn": "1004",
+    "functionName": "Vintage Gramophone",
+    "progressDetails": "Deal a fixed amount of damage to all foes based on difficulty level and current Exploration Level, and fill party's Highlight and Theurgy gauges by 100%.",
+    "progressName": "<color=#FF423F>Vintage Gramophone</color>"
+  },
+  {
+    "sn": "1005",
+    "functionName": "Brass Lantern",
+    "progressDetails": "Deal a fixed amount of damage to all foes based on difficulty level and current Exploration Level.",
+    "progressName": "<color=#FF423F>Brass Lantern</color>"
+  },
+  {
+    "sn": "1006",
+    "functionName": "Victory Charm",
+    "progressDetails": "Deal a fixed amount of damage to all foes based on the total amount healed in this battle. This damage is affected by difficulty level and current Exploration Level.",
+    "progressName": "<color=#FF423F>Victory Charm</color>"
+  },
+  {
+    "sn": "1009",
+    "functionName": "Silver Sake Cup",
+    "progressDetails": "Deal a fixed amount of damage to all foes based on difficulty level and current Exploration Level (increase by 1% for every 100 points of Wonder's Attack). Also, increase Wonder's Attack by 50%.",
+    "progressName": "<color=#FF423F>Silver Sake Cup</color>"
+  },
+  {
+    "sn": "1010",
+    "functionName": "Bronze Mirror",
+    "progressDetails": "Deal a fixed amount of damage to all foes based on total current shield value. This attack is affected by difficulty level and current Exploration Level.",
+    "progressName": "<color=#FF423F>Bronze Mirror</color>"
   }
 ]

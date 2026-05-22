@@ -261,11 +261,11 @@
   },
   {
     "sn": "1000076",
-    "textContent": "Claim Tomorrow"
+    "textContent": "Tomorrow"
   },
   {
     "sn": "1000077",
-    "textContent": "Claimable"
+    "textContent": "Claim"
   },
   {
     "sn": "1000078",
@@ -753,11 +753,11 @@
   },
   {
     "sn": "1015029",
-    "textContent": "A Phantom Thief or Persona below is on another team and can't be added."
+    "textContent": "A teammate or Persona below is on another team and can't be added."
   },
   {
     "sn": "1015030",
-    "textContent": "A Phantom Thief or Persona below is locked and can't be added."
+    "textContent": "A teammate or Persona below is locked and can't be added."
   },
   {
     "sn": "1016001",
@@ -885,7 +885,7 @@
   },
   {
     "sn": "1020000",
-    "textContent": "Phantom Thief level cap increased to \n<color=#FFF000>Lv. %s</color>."
+    "textContent": "Level cap increased to <color=#FFF000>Lv. %s</color>."
   },
   {
     "sn": "1020002",
@@ -1065,7 +1065,7 @@
   },
   {
     "sn": "1020050",
-    "textContent": "Reach Talent level %d to further level up Phantom Thief."
+    "textContent": "Reach Talent level %d to level up further."
   },
   {
     "sn": "1020052",
@@ -1281,7 +1281,7 @@
   },
   {
     "sn": "1020106",
-    "textContent": "• SP recovery is the amount of SP a Phantom Thief recovers each turn.\n• Pierce rate shows how much of a foe's Defense is ignored when dealing damage.\n• Ailment accuracy is the rate of inflicting a debuff on a foe.\n• Ailment resistance is the rate of receiving debuffs."
+    "textContent": "• SP recovery is the amount of SP an ally recovers each turn.\n• Pierce rate shows how much of a foe's Defense is ignored when dealing damage.\n• Ailment accuracy is the rate of inflicting a debuff on a foe.\n• Ailment resistance is the rate of receiving debuffs."
   },
   {
     "sn": "1020107",
@@ -2121,11 +2121,11 @@
   },
   {
     "sn": "1027065",
-    "textContent": "<color=#ffffff>  </color>"
+    "textContent": "<color=#ffffff>\u00A0 </color>"
   },
   {
     "sn": "1027066",
-    "textContent": "<color=#ffffff>  </color>"
+    "textContent": "<color=#ffffff>\u00A0 </color>"
   },
   {
     "sn": "1028001",
@@ -2725,7 +2725,7 @@
   },
   {
     "sn": "1034023",
-    "textContent": "Thief Lv."
+    "textContent": "Level"
   },
   {
     "sn": "1034024",
@@ -2749,11 +2749,11 @@
   },
   {
     "sn": "1034029",
-    "textContent": "Can enhance more at Thief Lv. %d"
+    "textContent": "Can enhance more at Lv. %d"
   },
   {
     "sn": "1034030",
-    "textContent": "This skill is already at max level."
+    "textContent": "Skill Level Max"
   },
   {
     "sn": "1034031",
@@ -2877,7 +2877,7 @@
   },
   {
     "sn": "1034061",
-    "textContent": "Flames of Desire activates when the Phantom Thieves in\nyour party and Wonder's Persona share the same Attribute."
+    "textContent": "Flames of Desire activates when the allies in your party and Wonder's Persona share the same Attribute."
   },
   {
     "sn": "1034062",
@@ -2897,7 +2897,7 @@
   },
   {
     "sn": "1034066",
-    "textContent": "Unlocks at Thief Lv. %d"
+    "textContent": "Unlocks at level %d"
   },
   {
     "sn": "1034067",
@@ -3122,6 +3122,10 @@
   {
     "sn": "1034126",
     "textContent": "%s can learn all skills."
+  },
+  {
+    "sn": "1034128",
+    "textContent": "Combat Tactics"
   },
   {
     "sn": "1035001",
@@ -5329,11 +5333,11 @@
   },
   {
     "sn": "1075001",
-    "textContent": "You won't be able to change these <color=#FF423F>Thieves</color> and <color=#FF423F>Personas</color>. Proceed?"
+    "textContent": "You won't be able to change these <color=#FF423F>allies</color> and <color=#FF423F>Personas</color>. Proceed?"
   },
   {
     "sn": "1075002",
-    "textContent": "This <color=#FF423F>Phantom Thief</color> or <color=#FF423F>Persona</color> is locked. Please choose a different one."
+    "textContent": "This <color=#FF423F>ally</color> or <color=#FF423F>Persona</color> is locked. Please choose a different one."
   },
   {
     "sn": "1075003",
@@ -6657,7 +6661,7 @@
   },
   {
     "sn": "2001003",
-    "textContent": "Not cleared"
+    "textContent": "Locked"
   },
   {
     "sn": "2001004",
@@ -6914,6 +6918,586 @@
   {
     "sn": "1090161",
     "textContent": "Because there is a coin limit for the Rich and Tycoon, the amount paid by the Poor and Beggar is reduced. The Poor will pay <color=#87CEEB>%s coins</color>, and the Beggar will pay <color=#87CEEB>%s coins</color>."
+  },
+  {
+    "sn": "1091001",
+    "textContent": "%s has joined in Tartarus."
+  },
+  {
+    "sn": "1091002",
+    "textContent": "Base Effects"
+  },
+  {
+    "sn": "1091003",
+    "textContent": "Bonus Effects"
+  },
+  {
+    "sn": "1091004",
+    "textContent": "Effects"
+  },
+  {
+    "sn": "1091005",
+    "textContent": "Basic Training Material Bonus x%s"
+  },
+  {
+    "sn": "1091006",
+    "textContent": "Current Location: Tartarus Floor %s\nDo you want to save your current progress and return to the Tartarus entrance?"
+  },
+  {
+    "sn": "1091007",
+    "textContent": "Select Exploration Run"
+  },
+  {
+    "sn": "1091008",
+    "textContent": "Select %s/%s"
+  },
+  {
+    "sn": "1091009",
+    "textContent": "Base Collection Bonus: x%s"
+  },
+  {
+    "sn": "1091010",
+    "textContent": "Battle Members: %s/%s"
+  },
+  {
+    "sn": "1091011",
+    "textContent": "Elucidator Members: %s/%s"
+  },
+  {
+    "sn": "1091012",
+    "textContent": "Diff.: %s"
+  },
+  {
+    "sn": "1091013",
+    "textContent": "Floor: %sF"
+  },
+  {
+    "sn": "1091014",
+    "textContent": "Battle %s/%s Elucidator %s/%s"
+  },
+  {
+    "sn": "1091015",
+    "textContent": "Max Awareness reached. Any further gains will be converted to Dawn Fragments."
+  },
+  {
+    "sn": "1091016",
+    "textContent": "Will: <color=#FFF800><size=50>%s(%s)</size></color>"
+  },
+  {
+    "sn": "1091017",
+    "textContent": "Exploration Level: <color=#FFF800><size=50>ELv. %s</size></color>"
+  },
+  {
+    "sn": "1091018",
+    "textContent": "Tartarus Floor %s"
+  },
+  {
+    "sn": "1091019",
+    "textContent": "Head to next floor"
+  },
+  {
+    "sn": "1091020",
+    "textContent": "Appears on"
+  },
+  {
+    "sn": "1091021",
+    "textContent": "F"
+  },
+  {
+    "sn": "1091022",
+    "textContent": "Under the leadership of %s, the exploration was ended in %s on %s. Your exploration results are as follows:"
+  },
+  {
+    "sn": "1091023",
+    "textContent": "Under the leadership of %s, the exploration was ended in %s, reaching %s %sF.\nMore training will be required in order to progress further. Your exploration results are as follows:"
+  },
+  {
+    "sn": "1091024",
+    "textContent": "Joined exploration team."
+  },
+  {
+    "sn": "1091025",
+    "textContent": "Confirm"
+  },
+  {
+    "sn": "1091026",
+    "textContent": "Cancel"
+  },
+  {
+    "sn": "1091027",
+    "textContent": "Set Antique"
+  },
+  {
+    "sn": "1091028",
+    "textContent": "Set Dream Fragment"
+  },
+  {
+    "sn": "1091029",
+    "textContent": "Select Dream Fragments to collect."
+  },
+  {
+    "sn": "1091030",
+    "textContent": "Where will you go?"
+  },
+  {
+    "sn": "1091031",
+    "textContent": "Exploration Level"
+  },
+  {
+    "sn": "1091032",
+    "textContent": "Will"
+  },
+  {
+    "sn": "1091033",
+    "textContent": "Purchased"
+  },
+  {
+    "sn": "1091034",
+    "textContent": "New Awareness Gained: %s"
+  },
+  {
+    "sn": "1091035",
+    "textContent": "Joined current exploration team. Add to your active team via the Team menu."
+  },
+  {
+    "sn": "1091036",
+    "textContent": "Enhance Awareness %s"
+  },
+  {
+    "sn": "1091037",
+    "textContent": "Transcended Awareness: %s"
+  },
+  {
+    "sn": "1091038",
+    "textContent": "As their Awareness has reached its maximum, you have received a Max Awareness bonus."
+  },
+  {
+    "sn": "1091039",
+    "textContent": "Progress: "
+  },
+  {
+    "sn": "1091040",
+    "textContent": "Exploration: "
+  },
+  {
+    "sn": "1091041",
+    "textContent": "None"
+  },
+  {
+    "sn": "1091042",
+    "textContent": "Exploration Items"
+  },
+  {
+    "sn": "1091043",
+    "textContent": "Collected:"
+  },
+  {
+    "sn": "1091044",
+    "textContent": "Paused"
+  },
+  {
+    "sn": "1091045",
+    "textContent": "Cancel"
+  },
+  {
+    "sn": "1091046",
+    "textContent": "Select which antiques to bring into Tartarus. Antique effects remain active throughout your exploration."
+  },
+  {
+    "sn": "1091047",
+    "textContent": "Teammates will join your active team via Shuffle Time."
+  },
+  {
+    "sn": "1091048",
+    "textContent": "Awareness Bonus"
+  },
+  {
+    "sn": "1091049",
+    "textContent": "Max Bonus"
+  },
+  {
+    "sn": "1091050",
+    "textContent": "Tartarus"
+  },
+  {
+    "sn": "1091051",
+    "textContent": "Refresh %s times for free"
+  },
+  {
+    "sn": "1091052",
+    "textContent": "Reached new floor"
+  },
+  {
+    "sn": "1091053",
+    "textContent": "You obtained <color=#ffb400>{0}</color> for the first time during this exploration, but since <color=#ffb400>{2}</color>'s Awareness was already at {1}, you received Awareness bonus x{3}."
+  },
+  {
+    "sn": "1091054",
+    "textContent": "Explore Tartarus to earn <color=#ffb400>Max Awareness</color> rewards."
+  },
+  {
+    "sn": "1091055",
+    "textContent": "<color=#67FCFC>Clock Gears</color>\nCan be used to manifest cards at the Great Clock. Resets at the end of exploration."
+  },
+  {
+    "sn": "1091056",
+    "textContent": "<color=#67FCFC>Dawn Fragments</color>\nCan be used to restore Will at the Great Clock, select teammates, and open Monad Doors. Resets at the end of exploration."
+  },
+  {
+    "sn": "1091057",
+    "textContent": "<color=#67FCFC>Until %s, %s gains an attribute bonus.</color>\n<color=#FFFFFF>%s</color>"
+  },
+  {
+    "sn": "1091058",
+    "textContent": "Old Gemstone Collection Bonus x%s"
+  },
+  {
+    "sn": "1091059",
+    "textContent": "You cannot collect Old Gemstones on this run."
+  },
+  {
+    "sn": "1091060",
+    "textContent": "While exploring, some allies will gain buffs. Press and hold the icon for details."
+  },
+  {
+    "sn": "1091061",
+    "textContent": "Left: %s"
+  },
+  {
+    "sn": "1091062",
+    "textContent": "Effect ended."
+  },
+  {
+    "sn": "1091063",
+    "textContent": "Discarded."
+  },
+  {
+    "sn": "1091064",
+    "textContent": "(Current quantity: %s)"
+  },
+  {
+    "sn": "1091065",
+    "textContent": "Tartarus"
+  },
+  {
+    "sn": "1091102",
+    "textContent": "Coming Soon"
+  },
+  {
+    "sn": "1091103",
+    "textContent": "Unlocks at level %s."
+  },
+  {
+    "sn": "1091105",
+    "textContent": "Unlock"
+  },
+  {
+    "sn": "1091106",
+    "textContent": "Level Up"
+  },
+  {
+    "sn": "1091107",
+    "textContent": "Live an ordinary life"
+  },
+  {
+    "sn": "1091108",
+    "textContent": "Moonlit Bonds"
+  },
+  {
+    "sn": "1091109",
+    "textContent": "Party"
+  },
+  {
+    "sn": "1091110",
+    "textContent": "Core Antiques"
+  },
+  {
+    "sn": "1091111",
+    "textContent": "BONUS UP"
+  },
+  {
+    "sn": "1091112",
+    "textContent": "Select Core Strategy"
+  },
+  {
+    "sn": "1091113",
+    "textContent": "Initial Cards:"
+  },
+  {
+    "sn": "1091114",
+    "textContent": "Activate Buff (Effective next floor)"
+  },
+  {
+    "sn": "1091115",
+    "textContent": "Bond Details"
+  },
+  {
+    "sn": "1091116",
+    "textContent": "View Antiques"
+  },
+  {
+    "sn": "1091118",
+    "textContent": "Reconsider"
+  },
+  {
+    "sn": "1091119",
+    "textContent": "Active"
+  },
+  {
+    "sn": "1091120",
+    "textContent": "Left: %s"
+  },
+  {
+    "sn": "1091121",
+    "textContent": "Cannot use Navigator Skills this time"
+  },
+  {
+    "sn": "1091122",
+    "textContent": "Obtained: %s/%s"
+  },
+  {
+    "sn": "1091123",
+    "textContent": "%s Pts."
+  },
+  {
+    "sn": "1091201",
+    "textContent": "Floor Progress"
+  },
+  {
+    "sn": "1091202",
+    "textContent": "Floor Effects"
+  },
+  {
+    "sn": "1091203",
+    "textContent": "Move to %sF"
+  },
+  {
+    "sn": "1091204",
+    "textContent": "Current Floor: %s"
+  },
+  {
+    "sn": "1091205",
+    "textContent": "Complete Floor %s and reach %sF directly"
+  },
+  {
+    "sn": "1091206",
+    "textContent": "If you select %s more, your Will consumption will greatly increase."
+  },
+  {
+    "sn": "1091207",
+    "textContent": "Your Will is Shaken, and Will consumption is greatly increased."
+  },
+  {
+    "sn": "1091209",
+    "textContent": "Current Floor"
+  },
+  {
+    "sn": "1091210",
+    "textContent": "<color=#FA7FFF>Floor Effects:</color>"
+  },
+  {
+    "sn": "1091211",
+    "textContent": "Routes"
+  },
+  {
+    "sn": "1091212",
+    "textContent": "<color=#fff380>%s Route:</color> %s"
+  },
+  {
+    "sn": "1092001",
+    "textContent": "Obtain {0} to unlock"
+  },
+  {
+    "sn": "1092002",
+    "textContent": "Watch the prologue"
+  },
+  {
+    "sn": "1092003",
+    "textContent": "Increase EXP gained in each battle by <color=#3DE594>10%</color>."
+  },
+  {
+    "sn": "1092004",
+    "textContent": "Increase EXP gained in each battle by <color=#3DE594>15%</color>."
+  },
+  {
+    "sn": "1092005",
+    "textContent": "Increase EXP gained in each battle by <color=#3DE594>20%</color>."
+  },
+  {
+    "sn": "1092006",
+    "textContent": "Increase Clock Gears gained from battles, chests, and search objects by <color=#3DE594>10%</color>."
+  },
+  {
+    "sn": "1092007",
+    "textContent": "Increase Clock Gears gained from battles, chests, and search objects by <color=#3DE594>15%</color>."
+  },
+  {
+    "sn": "1092008",
+    "textContent": "Increase Clock Gears gained from battles, chests, and search objects by <color=#3DE594>20%</color>."
+  },
+  {
+    "sn": "1092009",
+    "textContent": "Increase Tarnished Silver Coins gained from battles and chests by <color=#3DE594>10%</color>."
+  },
+  {
+    "sn": "1092010",
+    "textContent": "Increase Tarnished Silver Coins gained from battles and chests by <color=#3DE594>15%</color>."
+  },
+  {
+    "sn": "1092011",
+    "textContent": "Increase Tarnished Silver Coins gained from battles and chests by <color=#3DE594>20%</color>."
+  },
+  {
+    "sn": "1092012",
+    "textContent": "When starting Tartarus exploration, select <color=#3DE594>1 more ally</color>."
+  },
+  {
+    "sn": "1092013",
+    "textContent": "When starting Tartarus exploration, increase Will by <color=#3DE594>10</color>, and decrease Will consumed after battle by <color=#3DE594>1</color>."
+  },
+  {
+    "sn": "1092015",
+    "textContent": "When starting Tartarus exploration, decrease Will by <color=#3DE594>30</color>, but gain <color=#3DE594>1 Major Arcana card</color> from the start."
+  },
+  {
+    "sn": "1092016",
+    "textContent": "When selecting cards from Shuffle Time: Normal or Shuffle Time: Rare, increase options by <color=#3DE594>1 card</color>."
+  },
+  {
+    "sn": "1092017",
+    "textContent": "Increase rate of finding treasure chests, and increase Clock Gears gained from chests by <color=#3DE594>5%</color>."
+  },
+  {
+    "sn": "1092018",
+    "textContent": "Increase rate of finding treasure chests, and increase Clock Gears gained from chests by <color=#3DE594>10%</color>."
+  },
+  {
+    "sn": "1092019",
+    "textContent": "Increase rate of finding treasure chests, and increase Clock Gears gained from chests by <color=#3DE594>15%</color>."
+  },
+  {
+    "sn": "1092020",
+    "textContent": "Increase rate of finding search objects, and increase Clock Gears gained from search objects by <color=#3DE594>10%</color>."
+  },
+  {
+    "sn": "1092021",
+    "textContent": "Increase rate of finding search objects, and increase Clock Gears gained from search objects by <color=#3DE594>15%</color>."
+  },
+  {
+    "sn": "1092022",
+    "textContent": "Increase rate of finding search objects, and increase Clock Gears gained from search objects by <color=#3DE594>20%</color>."
+  },
+  {
+    "sn": "1092023",
+    "textContent": "When starting Tartarus exploration, gain <color=#3DE594>1</color> Dawn Fragment."
+  },
+  {
+    "sn": "1092024",
+    "textContent": "When starting Tartarus exploration, gain <color=#3DE594>2</color> Dawn Fragments."
+  },
+  {
+    "sn": "1092025",
+    "textContent": "{0} Level {1}"
+  },
+  {
+    "sn": "1092026",
+    "textContent": "Details of points earned in this challenge are as follows."
+  },
+  {
+    "sn": "1092027",
+    "textContent": "Difficulty: "
+  },
+  {
+    "sn": "1092028",
+    "textContent": "Exploration Difficulty: "
+  },
+  {
+    "sn": "1092029",
+    "textContent": "Enemy Difficulty: "
+  },
+  {
+    "sn": "1092030",
+    "textContent": "Collection Bonus: "
+  },
+  {
+    "sn": "1092031",
+    "textContent": "First Clear"
+  },
+  {
+    "sn": "1092032",
+    "textContent": "Monad Doors will appear more often. Entering the Monad Door will not require <color=#3DE594>Dawn Fragments</color>."
+  },
+  {
+    "sn": "1092033",
+    "textContent": "Increased chance of Formidable Shadows appearing. Experience gained <color=#3DE594>increases by 5%</color>."
+  },
+  {
+    "sn": "1092034",
+    "textContent": "Increased chance of Formidable Shadows appearing. Experience gained <color=#3DE594>increases by 15%</color>."
+  },
+  {
+    "sn": "1092035",
+    "textContent": "Increased chance of rare Shadows appearing. Obtain <color=#3DE594>5% more</color> Clock Gears."
+  },
+  {
+    "sn": "1092036",
+    "textContent": "Increased chance of rare Shadows appearing. Obtain <color=#3DE594>15% more</color> Clock Gears."
+  },
+  {
+    "sn": "1092101",
+    "textContent": "AAAAAA=="
+  },
+  {
+    "sn": "1092102",
+    "textContent": "AAAAAA=="
+  },
+  {
+    "sn": "1092103",
+    "textContent": "Frequently gain an extra action."
+  },
+  {
+    "sn": "1092104",
+    "textContent": "AAAAAA=="
+  },
+  {
+    "sn": "1092105",
+    "textContent": "AAAAAA=="
+  },
+  {
+    "sn": "1092106",
+    "textContent": "AAAAAA=="
+  },
+  {
+    "sn": "1092107",
+    "textContent": "AAAAAA=="
+  },
+  {
+    "sn": "1092108",
+    "textContent": "AAAAAA=="
+  },
+  {
+    "sn": "1092109",
+    "textContent": "AAAAAA=="
+  },
+  {
+    "sn": "1092110",
+    "textContent": "Gain additional currency. Increased chance of the Great Clock appearing."
+  },
+  {
+    "sn": "1092111",
+    "textContent": "Increased search objects and treasure chests. Obtain more additional rewards."
+  },
+  {
+    "sn": "1092112",
+    "textContent": "Increased ammo and Gun damage, making allies' Gun attacks the main source of damage."
+  },
+  {
+    "sn": "1092113",
+    "textContent": "All counterattacks changed. Increase counterattack multiplier and counterattack damage."
+  },
+  {
+    "sn": "1092114",
+    "textContent": "Increase movement speed. During battle, grant additional effects based on movement speed (higher movement speed increases Speed, Evasion, and Damage)."
   },
   {
     "sn": "2001026",
@@ -7253,7 +7837,7 @@
   },
   {
     "sn": "2001103",
-    "textContent": "Most Wanted 5★ Phantom Thieves"
+    "textContent": "Most Wanted 5★"
   },
   {
     "sn": "2001104",
@@ -7285,7 +7869,7 @@
   },
   {
     "sn": "2001111",
-    "textContent": "Assigning Phantom Thieves with the same Attribute activates a Harmony Effect."
+    "textContent": "Deploying allies with the same Attribute activates a Flames of Desire effect."
   },
   {
     "sn": "2001112",
@@ -8801,7 +9385,7 @@
   },
   {
     "sn": "2001493",
-    "textContent": "Thief Filter"
+    "textContent": "Character Filter"
   },
   {
     "sn": "2001494",
@@ -9469,7 +10053,7 @@
   },
   {
     "sn": "2001664",
-    "textContent": "You won't be able to change your Phantom Thieves and Personas once you begin this challenge. Are you sure you want to lock them in?"
+    "textContent": "You won't be able to change your Characters and Personas once you begin this challenge. Are you sure you want to lock them in?"
   },
   {
     "sn": "2001665",
@@ -10037,7 +10621,7 @@
   },
   {
     "sn": "2001863",
-    "textContent": "Phantom Thief Awareness"
+    "textContent": "Awareness"
   },
   {
     "sn": "2001864",
@@ -10381,7 +10965,7 @@
   },
   {
     "sn": "2001949",
-    "textContent": "Before Battle"
+    "textContent": "Not Played"
   },
   {
     "sn": "2001950",
@@ -10921,7 +11505,7 @@
   },
   {
     "sn": "2002081",
-    "textContent": "Levels Unlocked: "
+    "textContent": "Unlocked: "
   },
   {
     "sn": "2002141",
@@ -10949,7 +11533,7 @@
   },
   {
     "sn": "2102144",
-    "textContent": "Don't miss it!"
+    "textContent": "Coming Soon"
   },
   {
     "sn": "2002085",
@@ -11161,7 +11745,7 @@
   },
   {
     "sn": "2002255",
-    "textContent": "Do you want to spend these items to reroll tasks?\n(Limited tasks and in-progress tasks won't be updated.)"
+    "textContent": "Do you want to spend these items to refresh tasks?\n(Limited tasks and in-progress tasks won't be refreshed.)"
   },
   {
     "sn": "2002256",
@@ -11385,7 +11969,7 @@
   },
   {
     "sn": "2002219",
-    "textContent": "Fewest actions: You haven't tried this difficulty."
+    "textContent": "Fewest actions: Difficulty level not yet attempted."
   },
   {
     "sn": "2002220",
@@ -11433,7 +12017,7 @@
   },
   {
     "sn": "2002196",
-    "textContent": "Claimable"
+    "textContent": "Claim"
   },
   {
     "sn": "2002197",
@@ -11741,7 +12325,7 @@
   },
   {
     "sn": "2002322",
-    "textContent": "Claim\nRewards"
+    "textContent": "Claim"
   },
   {
     "sn": "2002323",
@@ -12281,7 +12865,7 @@
   },
   {
     "sn": "2002429",
-    "textContent": "Thief Level"
+    "textContent": "Level"
   },
   {
     "sn": "2002438",
@@ -13145,19 +13729,19 @@
   },
   {
     "sn": "2002671",
-    "textContent": "Items Collected: {0}"
+    "textContent": "Collected: {0}"
   },
   {
     "sn": "2002672",
-    "textContent": "Illustrations Collected: {0}"
+    "textContent": "Collected: {0}"
   },
   {
     "sn": "2002673",
-    "textContent": "Songs Collected: {0}"
+    "textContent": "Collected: {0}"
   },
   {
     "sn": "2002674",
-    "textContent": "Tiles Collected: {0}"
+    "textContent": "Collected: {0}"
   },
   {
     "sn": "2002676",
@@ -13625,7 +14209,7 @@
   },
   {
     "sn": "2002827",
-    "textContent": "Phantom Thief Rating"
+    "textContent": "Thief Rating"
   },
   {
     "sn": "2002879",
@@ -13869,7 +14453,7 @@
   },
   {
     "sn": "2002818",
-    "textContent": "If you enter <color=#FFF900>{0}</color> times, you are guaranteed to receive the special cosume ."
+    "textContent": "If you enter <color=#FFF900>{0}</color> times, you are guaranteed to receive the special costume."
   },
   {
     "sn": "2002819",
@@ -14297,7 +14881,7 @@
   },
   {
     "sn": "2002962",
-    "textContent": "Daily Experience Rewards"
+    "textContent": "Experience Rewards"
   },
   {
     "sn": "2002963",
@@ -14305,7 +14889,7 @@
   },
   {
     "sn": "2002964",
-    "textContent": "Can claim tomorrow"
+    "textContent": "Log in tomorrow to claim."
   },
   {
     "sn": "2002966",
@@ -14313,7 +14897,7 @@
   },
   {
     "sn": "2002970",
-    "textContent": "Receive after completing all goals"
+    "textContent": "Complete all goals to receive"
   },
   {
     "sn": "2002971",
@@ -14416,8 +15000,32 @@
     "textContent": "The following resource package will be deleted. Is this OK?"
   },
   {
+    "sn": "2002998",
+    "textContent": "Stats"
+  },
+  {
+    "sn": "2002999",
+    "textContent": "Lv"
+  },
+  {
+    "sn": "2003000",
+    "textContent": "Attack"
+  },
+  {
+    "sn": "2003001",
+    "textContent": "Defense"
+  },
+  {
+    "sn": "2003004",
+    "textContent": "Thief Level Cap"
+  },
+  {
+    "sn": "2003005",
+    "textContent": "Persona Level Cap"
+  },
+  {
     "sn": "2003007",
-    "textContent": "Log in every day to receive various rewards."
+    "textContent": "Log in every day to receive various rewards!"
   },
   {
     "sn": "2003008",
@@ -14533,7 +15141,7 @@
   },
   {
     "sn": "2003041",
-    "textContent": "Data Collected: {0}"
+    "textContent": "Collected: {0}"
   },
   {
     "sn": "2003042",
@@ -14542,6 +15150,70 @@
   {
     "sn": "2003043",
     "textContent": "{1}/{2}/{0}"
+  },
+  {
+    "sn": "2003044",
+    "textContent": "Chests opened"
+  },
+  {
+    "sn": "2003045",
+    "textContent": "Cleared"
+  },
+  {
+    "sn": "2003046",
+    "textContent": "Not Played"
+  },
+  {
+    "sn": "2003047",
+    "textContent": "Locked"
+  },
+  {
+    "sn": "2003048",
+    "textContent": "Go to Port Island"
+  },
+  {
+    "sn": "2003049",
+    "textContent": "Enemy Party"
+  },
+  {
+    "sn": "2003050",
+    "textContent": "Rewards"
+  },
+  {
+    "sn": "2003051",
+    "textContent": "Luminous Island"
+  },
+  {
+    "sn": "2003052",
+    "textContent": "Tartarus"
+  },
+  {
+    "sn": "2003053",
+    "textContent": "Recollections"
+  },
+  {
+    "sn": "2003054",
+    "textContent": "Not cleared"
+  },
+  {
+    "sn": "2003055",
+    "textContent": "Claim"
+  },
+  {
+    "sn": "2003056",
+    "textContent": "Item Details"
+  },
+  {
+    "sn": "2003057",
+    "textContent": "Remaining"
+  },
+  {
+    "sn": "2003058",
+    "textContent": "Price"
+  },
+  {
+    "sn": "2003059",
+    "textContent": "Required"
   },
   {
     "sn": "2303207",
@@ -14646,6 +15318,146 @@
   {
     "sn": "2003082",
     "textContent": "For the best experience, complete A Heartfelt Message: Part 2 before playing this story."
+  },
+  {
+    "sn": "2003083",
+    "textContent": "You can only equip 1 antique in exploration."
+  },
+  {
+    "sn": "2003084",
+    "textContent": "Welcome! Feel free to browse."
+  },
+  {
+    "sn": "2003086",
+    "textContent": "Enhance"
+  },
+  {
+    "sn": "2003087",
+    "textContent": "Clear to unlock Stamina Mode"
+  },
+  {
+    "sn": "2003088",
+    "textContent": "Attribute Details"
+  },
+  {
+    "sn": "2003089",
+    "textContent": "Have"
+  },
+  {
+    "sn": "2003090",
+    "textContent": "Replay"
+  },
+  {
+    "sn": "2003091",
+    "textContent": "View"
+  },
+  {
+    "sn": "2003092",
+    "textContent": "Claim"
+  },
+  {
+    "sn": "2003093",
+    "textContent": "Unlock"
+  },
+  {
+    "sn": "2003094",
+    "textContent": "Rewards"
+  },
+  {
+    "sn": "2003095",
+    "textContent": "View Effect"
+  },
+  {
+    "sn": "2003096",
+    "textContent": "Unlock"
+  },
+  {
+    "sn": "2003100",
+    "textContent": "Level Rewards"
+  },
+  {
+    "sn": "2003101",
+    "textContent": "Equipped"
+  },
+  {
+    "sn": "2003102",
+    "textContent": "Locked"
+  },
+  {
+    "sn": "2003103",
+    "textContent": "Set"
+  },
+  {
+    "sn": "2003104",
+    "textContent": "Proceed"
+  },
+  {
+    "sn": "2003105",
+    "textContent": "Current Attribute: "
+  },
+  {
+    "sn": "2003106",
+    "textContent": "<color=#3DE594>Enhanced Attribute:</color> "
+  },
+  {
+    "sn": "2003110",
+    "textContent": "Maximum level"
+  },
+  {
+    "sn": "2003115",
+    "textContent": "What do you want?"
+  },
+  {
+    "sn": "2303000",
+    "textContent": " <color=#ffffff> </color>"
+  },
+  {
+    "sn": "2303001",
+    "textContent": "Duration: "
+  },
+  {
+    "sn": "2303002",
+    "textContent": " m"
+  },
+  {
+    "sn": "2303003",
+    "textContent": " s"
+  },
+  {
+    "sn": "2303006",
+    "textContent": "Next Level"
+  },
+  {
+    "sn": "2303007",
+    "textContent": "Restart"
+  },
+  {
+    "sn": "2303009",
+    "textContent": "Mission Info"
+  },
+  {
+    "sn": "2303011",
+    "textContent": "Special Mission"
+  },
+  {
+    "sn": "2303012",
+    "textContent": "Continue"
+  },
+  {
+    "sn": "2303013",
+    "textContent": "STORY"
+  },
+  {
+    "sn": "2303014",
+    "textContent": "Mission Details"
+  },
+  {
+    "sn": "2303015",
+    "textContent": "Special Missions"
+  },
+  {
+    "sn": "2303016",
+    "textContent": "Unlock previous ability"
   },
   {
     "sn": "2303329",
@@ -14936,6 +15748,90 @@
     "textContent": "Level Up Rewards"
   },
   {
+    "sn": "2303023",
+    "textContent": "Actions"
+  },
+  {
+    "sn": "2303024",
+    "textContent": "Treasure chest claim progress: "
+  },
+  {
+    "sn": "2303027",
+    "textContent": "Harness Merope's powers to"
+  },
+  {
+    "sn": "2303028",
+    "textContent": "give this character a trial run!"
+  },
+  {
+    "sn": "2303040",
+    "textContent": "Claim"
+  },
+  {
+    "sn": "2303041",
+    "textContent": "Purchase at Marthym's Shop"
+  },
+  {
+    "sn": "2303042",
+    "textContent": "Butler Makoto Set"
+  },
+  {
+    "sn": "2303043",
+    "textContent": "Theurgy"
+  },
+  {
+    "sn": "2303044",
+    "textContent": "World Map"
+  },
+  {
+    "sn": "2303046",
+    "textContent": "Proceed"
+  },
+  {
+    "sn": "2303048",
+    "textContent": "Where will you go?"
+  },
+  {
+    "sn": "2303054",
+    "textContent": "Go to Marthym's Big Sale to get Special Raffle Tickets"
+  },
+  {
+    "sn": "2303055",
+    "textContent": "Badges"
+  },
+  {
+    "sn": "2303056",
+    "textContent": "Unlocks at level     "
+  },
+  {
+    "sn": "2303057",
+    "textContent": "Unlocked"
+  },
+  {
+    "sn": "2303075",
+    "textContent": "Recent Missions"
+  },
+  {
+    "sn": "2303076",
+    "textContent": "Past Missions"
+  },
+  {
+    "sn": "2303081",
+    "textContent": "Pierce the Night Sky"
+  },
+  {
+    "sn": "2303082",
+    "textContent": "Recollections Under Moonlight"
+  },
+  {
+    "sn": "2303099",
+    "textContent": "Strike like Lightning"
+  },
+  {
+    "sn": "2303100",
+    "textContent": "Recollections of Fate"
+  },
+  {
     "sn": "2303392",
     "textContent": "Selections: <color=#D70100>%s</color>/%s"
   },
@@ -14982,6 +15878,50 @@
   {
     "sn": "2303411",
     "textContent": "Unlocked after obtaining %s"
+  },
+  {
+    "sn": "2303422",
+    "textContent": "Piercing Cold"
+  },
+  {
+    "sn": "2303428",
+    "textContent": "Challenge Lv. %s"
+  },
+  {
+    "sn": "2303468",
+    "textContent": "All-Seeing Eye"
+  },
+  {
+    "sn": "2303611",
+    "textContent": "Crushing Blade"
+  },
+  {
+    "sn": "2303699",
+    "textContent": "Howl of Loyalty"
+  },
+  {
+    "sn": "2303872",
+    "textContent": "Outfit Details: "
+  },
+  {
+    "sn": "2303873",
+    "textContent": "1. You can change a character's outfit on the Thieves screen.\n2. After changing, the character will have a new look in battle and in the Metaverse."
+  },
+  {
+    "sn": "2303874",
+    "textContent": "Makoto Outfit: Butler Suit"
+  },
+  {
+    "sn": "2303875",
+    "textContent": "Butler Makoto Set"
+  },
+  {
+    "sn": "2303876",
+    "textContent": "<color=#FFFFFF>On sale for a limited time</color> in the Shop!"
+  },
+  {
+    "sn": "2303877",
+    "textContent": "tdxct-[Text_textContent_2303877]"
   },
   {
     "sn": "2303878",

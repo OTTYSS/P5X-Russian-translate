@@ -121,7 +121,7 @@
   },
   {
     "sn": "125",
-    "strContent": "<color=#FFD145>Skill Details</color>\nSkills are used through Personas.\nUsable skills include skills, Talent skills, awareness skills, 1 Mores, Highlights, melee attacks, and ranged attacks.\nAwareness skills can be strengthened by raising a Phantom Thief's awareness level.\nTalent skills can strengthened by raising a Phantom Thief's Talent.\nAdditional skill effects have special conditions for activation in battle.\nYou can increase a skill's level up to 15.\n\n<color=#FFD145>Skills</color>\nPersonas have unique active skills which have skill effects that can be increased by enhancing that skill.\nLeveling up a skill requires skill enhancement materials and special drop materials from Shadows.\nSkill enhancement materials can be obtained in the Realm of Repression: Enlightenment.\n\n<color=#FFD145>Affinities</color>\nYou can view a Persona's Attribute Affinities from the Skill screen.\nAffinities will be displayed as: Wk = Weak, Dr = Drain, Str = Resist, Rpl = Repel, and Nul = Null.\nWeak: Increases damage dealt by 20%.\nDrain: Nullifies attack and target absorbs 20% of damage to heal.\nResist: Reduces damage dealt by 50%.\nRepel: Nullifies attack and reflects 20% of the damage back at attacker.\nNull: Nullifies attack and deals no damage.",
+    "strContent": "<color=#FFD145>Skills</color>\nPersonas' unique active skills can be levelled up to increase their effects.\nLevelling up requires skill materials and special drop materials from Shadows.\nSkill items can be gained in Realm of Repression: Enlightenment.\nIn addition to skills, Personas also have the following abilities.\nTalent: Unlocked and enhanced as your party members level up.\nAwareness: As Awareness level increases, effects are strengthened.\nResonance: Effects that activate when certain conditions occur in battle.\nHighlight: The Highlight gauge fills after each ally action, and can be used at any time when it reaches its maximum.\nTheurgy: At the start of the turn, the Theurgy gauge fills by 35. Each Theurgy can be used when its gauge reaches its maximum.\n\n<color=#FFD145>Affinities</color>\nOn the Skill screen, the Persona's affinity information is displayed.\nAffinities can display Wk, Dr, Str, Rpl, or Nul, corresponding to Weak, Drain, Strong, Repel, or Null.\n\nWeak: Target takes 20% increased damage.\nDrain: Damage is nullified, and target restores HP equal to 20% of the damage.\nStrong: Target takes 50% decreased damage.\nRepel: Damage to target is nullified, and the attacker takes 20% of the damage.\nNull: Damage to target is nullified.",
     "Title": "About Skills"
   },
   {
@@ -536,7 +536,7 @@
   },
   {
     "sn": "209",
-    "strContent": "<color=#FFD145>Basic Rules</color>\nDuring the event period, when you complete a part-time job,\nyou will earn extra money. Effective up to 5 times per day.\n\n<color=#FFD145>MaraThon Energy Supplies</color>\nDuring the event, you can obtain 1 MaraThon Energy\nfrom the Double Cash event screen\nwhen you log in to the game.\n\n<color=#FFD145>Other Explanations</color>\nSocial stat experience gained from part-time work is excluded from extra reward bonuses.\nPart-time cash bonus from reading is included in the extra reward bonus calculation. <color=#FF423F>Part-time cash bonus gained from Chihaya Mifune is not included in the calculation</color>.",
+    "strContent": "<color=#FFD145>Basic Rules</color>During the event period, when you complete a part-time job,you will earn extra money. Effective up to 5 times per day.<color=#FFD145>MaraThon Energy Supplies</color>During the event, you can obtain 1 MaraThon Energyfrom the Double Cash event screenwhen you log in to the game. <color=#FFD145>Other Explanations</color> Social stat experience gained from part-time work is excluded from extra reward bonuses. Part-time cash bonus from reading is included in the extra reward bonus calculation. Part-time cash bonus gained from Chihaya Mifune is not included in the calculation.",
     "Title": "About Wage Up"
   },
   {
@@ -591,7 +591,7 @@
   },
   {
     "sn": "220",
-    "strContent": "<color=#FFD145>Basic Rules</color>\nYou can obtain rewards from Marthym when you <color=#FF423F>dispatch Thieves</color> on <color=#FF423F>tasks</color> according to each task's requirements.\nYou can get more rewards by meeting <color=#FF423F>bonus</color> conditions.\n\n<color=#FFD145>Types of Tasks</color>\n<color=#FF423F>Regular</color>: These tasks are refreshed automatically upon completion.\n<color=#FF423F>Weekly/Daily</color>: These tasks can be refreshed once within their respective periods.\n<color=#FF423F>Limited</color>: These tasks appear when certain conditions are met.\n\n<color=#FFD145>Rerolling Tasks</color>\nYou can use Task Refresh Tickets to reroll your unclaimed, non-limited tasks.\n<color=#FF423F>The first reroll each day is free</color>.\nRegular tasks require Task Refresh Tickets to reroll.\n<color=#FF423F>Limited</color> tasks cannot be rerolled.\nTasks can be rerolled up to %s times in 1 day.\n\n<color=#FFD145>Task Level</color>\nCompleting tasks will accumulate task experience points, increasing your Task Level.\nWhen your level increases, the number of tasks you can claim simultaneously will increase, as well as the amount of regular tasks that appear at once.",
+    "strContent": "<color=#FFD145>Basic Rules</color>\nYou can obtain rewards from Marthym when you <color=#FF423F>dispatch Thieves</color> on <color=#FF423F>tasks</color> according to each task's requirements.\nYou can get more rewards by meeting <color=#FF423F>bonus</color> conditions.\n\n<color=#FFD145>Types of Tasks</color>\n<color=#FF423F>Regular</color>: These tasks are refreshed automatically upon completion.\n<color=#FF423F>Weekly/Daily</color>: These tasks can be refreshed once within their respective periods.\n<color=#FF423F>Limited</color>: These tasks appear when certain conditions are met.\n\n<color=#FFD145>Refreshing Tasks</color>\nYou can use Task Refresh Tickets to refresh your unclaimed, non-limited tasks.\n<color=#FF423F>The first refresh each day is free</color>.\nRegular tasks require Task Refresh Tickets to reroll.\n<color=#FF423F>Limited</color> tasks cannot be refreshed.\nTasks can be refreshed up to %s times in 1 day.\n\n<color=#FFD145>Task Level</color>\nCompleting tasks will accumulate task experience points, increasing your Task Level.\nWhen your level increases, the number of tasks you can claim simultaneously will increase, as well as the amount of regular tasks that appear at once.",
     "Title": "Task"
   },
   {
@@ -716,7 +716,7 @@
   },
   {
     "sn": "245",
-    "strContent": "Tycoon is a 4-player card game.\nTo win the game, you must get rid of all your cards before the other players.\n\n<color=#FFD145>Arena Mode</color>\nIn Solo Mode, you can play against a CPU with a customizable difficulty and choose to play either 1 or 3 games for each match.\n\nIn Ranked Match, play against other players, with every match consisting of three games.",
+    "strContent": "Tycoon is a 4-player card game.\nTo win the game, you must get rid of all your cards before the other players.\n\n<color=#FFD145>Arena Mode</color>\nIn Solo Mode, you can play against a CPU with a customizable difficulty and choose to play either 1 or 3 games for each match.\n\n In Ranked Match, play against other players, with every match consisting of three games.",
     "Title": "Tycoon"
   },
   {
@@ -776,7 +776,7 @@
   },
   {
     "sn": "257",
-    "strContent": "<color=#FFD145>Mindscape</color>\nWhen you train the Mindscape of an ally, you can strengthen their skills and stats and activate Mindscape skills.\n\n<color=#FFD145>Stat Strengthening</color>\nThis improves your ally's base stats.\nMaterials Required: Stardust Shards.\n\n<color=#FFD145>Basic Abilities</color>\nThis greatly improves your ally's basic abilities.\nMaterials Required: Stardust Bells.\n\n<color=#FFD145>Rank Strengthening</color>\nBy strengthening attribute ranks, you can strengthen the effects of your ally's corresponding attributes.\nMaterials Required: Stardust Bottles and Venus Bottles.\n\n<color=#FFD145>Skill Strengthening</color>\nThis improves the effects of your ally's Persona skills.\nMaterials Required: Stardust Gems and Venus Gems.",
+    "strContent": "<color=#FFD145>Mindscape</color>\nWhen you train the Mindscape of an ally, you can strengthen their skills and stats and activate Mindscape skills.\n\n<color=#FFD145>Stat Strengthening</color>\nThis improves your ally's base stats.\nMaterials Required: Stardust Shards.\n\n<color=#FFD145>Basic Abilities</color>\nThis greatly improves your ally's basic abilities.\nMaterials Required: Stardust Bells.\n\n<color=#FFD145>Rank Strengthening</color>\nBy strengthening attribute ranks, you can strengthen the effects of your ally's corresponding attributes.\nMaterials Required: Stardust Bottles and Venus Bottles.\n\n<color=#FFD145>Skill Strengthening</color>\nThis improves the effects of your ally's Persona skills.\nMaterials Required: Stardust Gems and Venus Gems.\n\n<color=#FFD145>Mindscape Strengthening</color>\nYou can use Stardust Shards and other items to unlock abilities.",
     "Title": "Mindscape"
   },
   {
@@ -1066,17 +1066,17 @@
   },
   {
     "sn": "308",
-    "strContent": "<color=#FFD145>Event Rules</color>\n• Log in to the game every day to receive that day's rewards. ",
+    "strContent": "<color=#FFD145>Event Rules</color>\nLog in to the game every day to receive that day's rewards.",
     "Title": "Anniversary Countdown"
   },
   {
     "sn": "309",
-    "strContent": "<color=#FFD145>Event Rules</color>\n• Log in to the game every day to receive that day's rewards. ",
+    "strContent": "<color=#FFD145>Event Rules</color>\nLog in to the game every day to receive that day's rewards.",
     "Title": "Anniversary Countdown"
   },
   {
     "sn": "310",
-    "strContent": "<color=#FFD145>Event Rules</color>\n• Log in to the game every day to receive that day's rewards. ",
+    "strContent": "<color=#FFD145>Event Rules</color>\nLog in to the game every day to receive that day's rewards.",
     "Title": "Anniversary Countdown"
   },
   {
@@ -1111,27 +1111,27 @@
   },
   {
     "sn": "317",
-    "strContent": "AAAAAA==",
+    "strContent": "<color=#FFD145>Event Rules</color>During the event, you can open your personalized Anniversary memories. After you're done viewing your rewind, you can share your Anniversary memories.<color=#FFD145>Event Rewards</color>During the event, you can obtain event rewards when you view and share your rewind.",
     "Title": "Rewind"
   },
   {
     "sn": "318",
-    "strContent": "AAAAAA==",
+    "strContent": "<color=#FFD145>Event Rules</color>\nDuring the event, you can win presents by collecting scratch cards. There are 5 kinds of scratch cards, featuring icons of Lufel, Motoha Arai, Shun Kano, Riko Tanemura, and Shoki Ikenami. You can check the list of presents using the Gift List. You can also earn rewards by completing limited-time missions that are available during the event.\n\n<color=#FFD145>Scratch Card Packs</color>\nDuring the event, you can send packs to other players via the chat or Companio channel. Each pack contains 5 random scratch cards. You can receive up to 5 packs per day, for a maximum of 40 packs total. Scratch-card-related items will become unusable after the event ends.",
     "Title": "Phantom Thief Scratch Cards"
   },
   {
     "sn": "319",
-    "strContent": "AAAAAA==",
+    "strContent": "<color=#FFD145>Event Rules</color>\nDuring the 1st Anniversary period, a limited-time reward event will be held at Marthym's Shop. You can participate in the event by purchasing any item, and you can obtain rewards when you reach a certain amount spent. Your spending progress will be reset after the event ends, so please pay attention to the event period.",
     "Title": "Purchase Rewards"
   },
   {
     "sn": "320",
-    "strContent": "AAAAAA==",
+    "strContent": "<color=#FFD145>Event Rules</color>\nDuring the 1st Anniversary period, a special anniversary shop will be available, featuring special limited-time items that can only be purchased once.",
     "Title": "Anniversary Shop"
   },
   {
     "sn": "321",
-    "strContent": "AAAAAA==",
+    "strContent": "<color=#FFD145>Event Introduction</color>\nComplete Party Planning missions to receive Whispered Wishes. Press the Celebrate button to spend Whispered Wishes, and complete Celebration goals to earn corresponding rewards.\n\n<color=#FFD145>Anniversary Wishes</color>\nDuring the event, you can set your own Anniversary Wishes. For Gift Wishes, gifts will be delivered to your Inbox when all players reach the target. For Bond Wishes, the results will be sent to your Inbox 1 week after the event ends.\nOnce your wish is confirmed, it cannot be changed. Please choose carefully.\n\n<color=#FFD145>Decorating Cakes</color>\nDuring the event, you can make cakes in the Decorating Cakes event. Choose your own base, decorations, toppings, stand, and candles to creates your own original creation. When all players have met the total goal, you will receive a statue of your original cake design that can be placed in your Thieves Den. Once completed, the design cannot be changed, so choose carefully.",
     "Title": "Anniversary Prayer Carnival"
   },
   {
@@ -1155,6 +1155,51 @@
     "Title": "About The Masks We Wear: Phase 1"
   },
   {
+    "sn": "326",
+    "strContent": "<color=#FFD145>Event Overview</color>\nWhen you defeat bosses, you will unlock their corresponding Distortion Level challenges.\n\n<color=#FFD145>Distortion Level</color>\nEach boss battle has multiple distortion levels.\nWhen you eliminate a boss at a certain level, a new level is unlocked, and you will receive rewards corresponding to the current distortion level.\nBosses become more powerful at higher distortion levels.\nYou can switch between challenge mode and stamina mode.\nClearing a difficulty level for the first time on challenge mode will unlock the difficulty on stamina mode.\nChallenging on stamina mode will expend stamina, but grants rewards for clearing.\nIn stamina mode, you will be granted special effects in order to support you in the boss challenge.\n\n<color=#FFD145>Challenge Record</color>\nYou will receive rewards and Wheels of Time: New Moon for challenge goals cleared before the end of the event period.\nWheels of Time can be exchanged for rewards through the Exchange Shop.",
+    "Title": "Recollections of Fate"
+  },
+  {
+    "sn": "327",
+    "strContent": "<color=#FFD145>Overview</color>\nThere are two kinds of character stories.\nSide Stories\nThese stories are unlocked with Dream Fragments. Dream Fragments are obtained from exploring Tartarus.\nItem Stories\nThese stories require certain items to unlock. Complete missions in Tartarus to obtain these items.\nYou can obtain rewards after viewing the stories.",
+    "Title": "Dream Chapters"
+  },
+  {
+    "sn": "328",
+    "strContent": "<color=#FFD145>Overview</color>\nIn Mastery, you can spend Tarnished Silver Coins and Old Gemstones to enhance your basic abilities and exploration skills in each panel.\nExplore Tartarus to obtain Tarnished Silver Coins. Old Gemstones can be obtained after exploring Tartarus three times.",
+    "Title": "Mastery"
+  },
+  {
+    "sn": "329",
+    "strContent": "<color=#FFD145>Overview</color>\nMayoido deals in ancient artifacts and antiques. You can equip one when you explore Tartarus to gain exploration buffs.\nYou can earn Tarnished Silver Coins and Tarnished Gold Coins from Tartarus exploration challenges. Use Tarnished Gold Coins to unlock new antiques, and use Tarnished Silver Coins to enhance certain antiques.\nBy unlocking and enhancing antiques, you can earn rewards.",
+    "Title": "Mayoido Antiques"
+  },
+  {
+    "sn": "330",
+    "strContent": "<color=#FFD145>Event Introduction</color>\nThe first new Persona 3 Reload special event Luminous Island includes 6 sub-events: Luminous Island, Tartarus, Recollections Under Moonlight, Login Bonus, Missions, and Exchange Shop.\n\n<color=#FFD145>Event Duration</color>\nThis is a limited-time event.\nWhen the event is over, Luminous Island can still be played in Past Events.\n\n<color=#FFD145>Tartarus</color>\nYou can earn rewards for exploring Tartarus. Tartarus is a permanent event and can still be played after the event ends.\n\n<color=#FFD145>Recollections Under Moonlight</color>\nDefeat the boss to earn rewards.\n\n<color=#FFD145>Login Bonus</color>\nLog in daily to claim login bonuses. Rewards will be unlocked sequentially according to your cumulative login days, and rewards for the day will refresh at 8 PM UTC.\n\n<color=#FFD145>Missions</color>\nComplete set goals to earn a variety of rewards.\n\n<color=#FFD145>Exchange Shop</color>\nTrade Wheels of Time: New Moon for a variety of items.\nWhen the event ends, the Exchange Shop will be closed and all unused Wheels of Time: New Moon will be converted into Konpaku Gems.",
+    "Title": "Met by Moonlight: Luminous Island"
+  },
+  {
+    "sn": "331",
+    "strContent": "Error: tnxotb-[StrUIPlayRule_strContent_331]",
+    "Title": "Outfit Renewals"
+  },
+  {
+    "sn": "332",
+    "strContent": "<color=#FFD145>Tartarus</color>\nTartarus is a mysterious tower that appears during the Dark Hour. You must form a team to explore Tartarus. The layout of the tower is randomized, presenting a new adventure each time you enter.\n\n<color=#FFD145>Forming a Team</color>\nTo explore Tartarus, you must confirm your Team Preset. The team includes 9 main members and 3 supports. These characters are not included in your initial active team, but will join you as you explore.\nCollect Soul Fragments to unlock characters for exploration, including characters you haven’t obtained yet.",
+    "Title": "Team Preset"
+  },
+  {
+    "sn": "336",
+    "strContent": "<color=#FFD145>Event Introduction</color>\nThe third Persona 3 Reload special event Strike like Lightning includes 6 sub-events: Strike like Lightning, Tartarus, Recollections Under Moonlight, Login Bonus, Missions, and Exchange Shop.\n\n<color=#FFD145>Event Duration</color>\nThis is a limited-time event.\nWhen the event is over, Strike like Lightning can still be played in Past Events.\n\n<color=#FFD145>Tartarus</color>\nYou can earn rewards for exploring Tartarus. Tartarus is a permanent event and can still be played after the event ends.\n\n<color=#FFD145>Recollections Under Moonlight</color>\nDefeat the boss to earn rewards.\n\n<color=#FFD145>Login Bonus</color>\nLog in daily to claim login bonuses. Rewards will be unlocked sequentially according to your cumulative login days, and rewards for the day will refresh at 8 PM UTC.\n\n<color=#FFD145>Missions</color>\nComplete set goals to earn a variety of rewards.\n\n<color=#FFD145>Exchange Shop</color>\nTrade Wheels of Time: Waxing Gibbous for a variety of items.\nWhen the event ends, the Exchange Shop will be closed and all unused Wheels of Time: Waxing Gibbous will be converted into Konpaku Gems.",
+    "Title": "Met by Moonlight: Strike like Lightning"
+  },
+  {
+    "sn": "338",
+    "strContent": "<color=#FFD145>Event Overview</color>\nWhen you defeat bosses, you will unlock the corresponding distortion level in challenge mode.\n\n<color=#FFD145>Distortion Level</color>\nEach boss battle has multiple distortion levels.\nWhen you defeat a boss at a certain level, a new level is unlocked, and you will receive rewards corresponding to the current distortion level.\nThe higher the distortion level, the tougher the boss and systems become.\nYou can switch between challenge mode and stamina mode.\nClearing a difficulty level for the first time in challenge mode will unlock that difficulty level and the previous difficulty levels in stamina mode.\nChallenges in stamina mode will expend stamina, but grants rewards upon clearing.\nIn stamina mode, you will be granted special effects in order to support you in the boss challenge.\n\n<color=#FFD145>Hardest Difficulty</color>\nIf you manage to clear Difficulty Lv. 30, you will be able to take on the Highest Difficulty from a certain date.\nOn the Highest Difficulty, you will be able to battle the boss up to three times, and the boss's HP will be recorded each time you fight it.\nEach Phantom Thief can only be used in battle a certain number of times, and once they've reached that battle count, they won't be able to battle again. By using the reset option, you can reset the thieves' battle count and the boss's HP.\nDuring the battle, when the boss has used all of its actions, the battle will end, and the number of actions for that battle will be recorded. If allies are defeated in battle, the number of turns will be added.\nAfter the event ends, all players who attempted the Hardest Difficulty will be awarded with a badge.\n\n<color=#FFD145>Challenge Record</color>\nClear challenge goals before the end of the event period to earn amazing mission rewards and Wheels of Time: Waxing Gibbous.\nYou can trade the Wheels of Time: Waxing Gibbous you've obtained for valuable limited-time items at the Exchange Shop.",
+    "Title": "Recollections Under Moonlight"
+  },
+  {
     "sn": "400",
     "strContent": "<color=#FFD145>Event Overview</color>\nYou can earn rewards for clearing each event mission.\nWhen all missions have been completed, you can earn a complete set that includes hidden items and exclusive rewards.",
     "Title": "Capsule Toys"
@@ -1165,8 +1210,33 @@
     "Title": "About Lufel's \"Business\" Plan EX"
   },
   {
+    "sn": "383",
+    "strContent": "<color=#FFD145>Event Introduction</color>\nThe fourth Persona 3 Reload special event Piercing Cold includes 6 sub-events: Piercing Cold, Tartarus, Recollections Under Moonlight, Login Bonus, Missions, and Exchange Shop.\n\n<color=#FFD145>Event Duration</color>\nThis is a limited-time event.\nWhen the event is over, Piercing Cold can still be played in Past Events.\n\n<color=#FFD145>Tartarus</color>\nYou can earn rewards for exploring Tartarus. Tartarus is a permanent event and can still be played after the event ends.\n\n<color=#FFD145>Recollections Under Moonlight</color>\nDefeat the boss to earn rewards.\n\n<color=#FFD145>Login Bonus</color>\nLog in daily to claim login bonuses. Rewards will be unlocked sequentially according to your cumulative login days, and rewards for the day will refresh at 8 PM UTC.\n\n<color=#FFD145>Missions</color>\nComplete set goals to earn a variety of rewards.\n\n<color=#FFD145>Exchange Shop</color>\nTrade Wheels of Time: Full Moon for a variety of items.\nWhen the event ends, the Exchange Shop will be closed and all unused Wheels of Time: Full Moon will be converted into Konpaku Gems.",
+    "Title": "Met by Moonlight: Piercing Cold"
+  },
+  {
+    "sn": "385",
+    "strContent": "<color=#FFD145>Overview</color>\nWhen you explore in Tower of Eternal Night or Tower of Darkness, you can obtain Bond Fragment S and Bond Fragment L.\nYou can spend these items in Moonlit Bonds to enhance basic abilities and skills during exploration.",
+    "Title": "Moonlit Bonds"
+  },
+  {
+    "sn": "386",
+    "strContent": "<color=#FFD145>Overview</color>\nWhen you explore Tartarus in Tower of Eternal Night or Tower of Darkness, you can select a Core Collection.\nCore Collections are core tactical items that can greatly enhance certain abilities.\nThe effects are continuously enhanced based on the current Exploration Level.",
+    "Title": "Core Antiques"
+  },
+  {
+    "sn": "393",
+    "strContent": "<color=#FFD145>Event Introduction</color>\nThe fifth Persona 3 Reload special event All-Seeing Eye includes 7 sub-events: All-Seeing Eye, Tartarus, Recollections Under Moonlight, Iwatodai Strip Mall, Login Bonus, Missions, and Exchange Shop.\n\n<color=#FFD145>Event Duration</color>\nThis is a limited-time event.\nWhen the event is over, All-Seeing Eye can still be played in Past Events.\n\n<color=#FFD145>Tartarus</color>\nYou can earn rewards for exploring Tartarus. Tartarus is a permanent event and can still be played after the event ends.\n\n<color=#FFD145>Recollections Under Moonlight</color>\nDefeat the boss to earn rewards.\n\n<color=#FFD145>Iwatodai Strip Mall</color>\nComplete goals related to Iwatodai Strip Mall to earn rewards.\n\n<color=#FFD145>Login Bonus</color>\nLog in daily to claim login bonuses. Rewards will be unlocked sequentially according to your cumulative login days, and rewards for the day will refresh at 8 PM UTC.\n\n<color=#FFD145>Missions</color>\nComplete set goals to earn a variety of rewards.\n\n<color=#FFD145>Exchange Shop</color>\nTrade Wheels of Time: Hesitant Moon for a variety of items.\nWhen the event ends, the Exchange Shop will be closed and all unused Wheels of Time: Hesitant Moon will be converted into Konpaku Gems.",
+    "Title": "Met by Moonlight: All-Seeing Eye"
+  },
+  {
+    "sn": "407",
+    "strContent": "<color=#FFD145>Event Introduction</color>\nThe sixth Persona 3 Reload special event Crushing Blade includes 6 sub-events: Crushing Blade, Tartarus, Recollections Under Moonlight, Login Bonus, Missions, and Exchange Shop.\n\n<color=#FFD145>Event Duration</color>\nThis is a limited-time event.\nWhen the event is over, Crushing Blade can still be played in Past Events.\n\n<color=#FFD145>Tartarus</color>\nYou can earn rewards for exploring Tartarus. Tartarus is a permanent event and can still be played after the event ends.\n\n<color=#FFD145>Recollections Under Moonlight</color>\nDefeat the boss to earn rewards.\n\n<color=#FFD145>Login Bonus</color>\nLog in daily to claim login bonuses. Rewards will be unlocked sequentially according to your cumulative login days, and rewards for the day will refresh at 8 PM UTC.\n\n<color=#FFD145>Missions</color>\nComplete set goals to earn a variety of rewards.\n\n<color=#FFD145>Exchange Shop</color>\nTrade Wheels of Time: Wavering Moon for a variety of items.\nWhen the event ends, the Exchange Shop will be closed and all unused Wheels of Time: Wavering Moon will be converted into Konpaku Gems.",
+    "Title": "Met by Moonlight: Crushing Blade"
+  },
+  {
     "sn": "447",
-    "strContent": "<color=#FFD145>Event Rules</color>\nPick any 5 lucky numbers out of 26 possible numbers, and earn rewards based on the winning numbers drawn.\n\n<color=#FFD145>Lucky Numbers</color>\n• Select 5 numbers between 1 - 26.\n• Rewards are based on how many of your selected numbers match with winning numbers.\n• <color=#ff3b37>Lucky Tickets</color> are required to select numbers.\n• Once a number has been submitted, it cannot be changed.\n• You can obtain <color=#ff3b37>Lucky Tickets</color> from completing certain missions.\n\n<color=#FFD145>Winning Numbers</color>\n• Winning numbers will be announced in a livestream on the official Youtube channel.\n• Rewards will be sent to your inbox.\n\n<color=#FFD145>Rewards</color>\n1st Prize: Meta Jewels x100,000 (shared among all winners)\n2nd Prize: Meta Jewels x5,000\n3rd Prize: Meta Jewels x500\n4th Prize: Meta Jewels x150\n5th Prize: Meta Jewels x50\nConsolation Prize: Meta Jewels x50\n* If there are no 1st prize winners, the prize will be carried over to the next drawing.",
+    "strContent": "<color=#FFD145>Event Rules</color>\nPick any 5 lucky numbers out of 26 possible numbers, and earn rewards based on the winning numbers drawn.\n<color=#FFD145>Lucky Numbers</color>\n• Select 5 numbers between 1 - 26.\n• Rewards are based on how many of your selected numbers match with winning numbers.\n• <color=#ff3b37>Lucky Tickets</color> are required to select numbers.\n• Once a number has been submitted, it cannot be changed.\n• You can obtain <color=#ff3b37>Lucky Tickets</color> from completing certain missions.\n*Please check the prediction period as displayed on the mission screen. Note that this period is different than the period displayed on the event page.\n\n<color=#FFD145>Winning Numbers</color>\n• Winning numbers will be announced in a livestream on the official Youtube channel.\n• Rewards will be sent to your inbox.\n<color=#FFD145>Rewards</color>\n1st Prize (all predicted numbers match the winning numbers): Meta Jewels x100,000 (shared among all winners)\n2nd Prize (4 predicted numbers match the winning numbers): Meta Jewels x5,000\n3rd Prize (3 predicted numbers match the winning numbers): Meta Jewels x500\n4th Prize (2 predicted numbers match the winning numbers): Meta Jewels x150\n5th Prize (1 predicted number matches the winning numbers): Meta Jewels x50\nConsolation Prize: Meta Jewels x30\n\n* If there are no 1st prize winners, the prize will be carried over to the next drawing.",
     "Title": "Marthym's Lucky 5"
   }
 ]
