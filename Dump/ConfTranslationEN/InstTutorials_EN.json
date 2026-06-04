@@ -397,7 +397,7 @@
   {
     "sn": "508111",
     "title": "Special Effect",
-    "text": "Shadows have different weaknesses and resistances than normal.\n1. Sraosha will summon Shadows during the battle. Damage that exceeds a summoned Shadow's HP will not apply to your score. When a Shadow is defeated, Sraosha will take Almighty damage based on that Shadow's damage taken.\n2. Sraosha will restore all Phantom Thieves' SP each turn.\n3. When a summoned Shadow's Down Points are decreased, all Phantom Thieves' damage is increased by 15% for 1 turn."
+    "text": "Shadows have different weaknesses and resistances than normal.\n1. Sraosha will summon Shadows during the battle.\n2. Sraosha will restore all Phantom Thieves' SP each turn.\n3. When a summoned Shadow's Down Points are decreased, all Phantom Thieves' damage is increased by 15% for 1 turn."
   },
   {
     "sn": "509101",
@@ -1607,11 +1607,16 @@
   {
     "sn": "919501",
     "title": "Lascivious Lady's Skills",
-    "text": "AAAAAA=="
+    "text": "1. Each time a certain number of turns pass, Lascivious Lady uses Temptation, inflicting all Phantom Thieves with Infatuation. Lose 1 Infatuation stack when healing is received.\n2. At the start of Lascivious Lady's turn, if any Phantom Thieves have reached 5, 10 or 15 total Infatuation stacks for the first time, select one of them, and spend 5 of the target's Infatuation stacks to use Spiral of Desire.\nSpiral of Desire: Become unable to act for 2 turns. This state is counted as a <color=#FF423F>spiritual ailment</color>.\n3. Each time a certain number of turns pass, Lascivious Lady inflicts Passionate Gaze on the Phantom Thieves, then uses Passionate Impulse on the next turn to deal Psychokinesis damage. Increase damage based on target's total Infatuation stacks.\n4. When Cowardly Maya is defeated, HP is restored to all Phantom Thieves."
+  },
+  {
+    "sn": "919971",
+    "title": "Lascivious Lady's Skills",
+    "text": "1. At the start of battle, Lascivious Lady inflicts all Phantom Thieves with 3 Infatuation stacks. Also, each time a certain number of turns pass, Lascivious Lady uses Temptation, inflicting all Phantom Thieves with Infatuation. Lose 1 Infatuation stack when healing is received.\n2. At the start of Lascivious Lady's turn, if any Phantom Thieves have reached 5, 10 or 15 total Infatuation stacks for the first time, select one of them, and spend 5 of the target's Infatuation stacks to use Spiral of Desire.\nSpiral of Desire: Become unable to act for 2 turns. This state is counted as a <color=#FF423F>spiritual ailment</color>.\n3. Each time a certain number of turns pass, Lascivious Lady inflicts Passionate Gaze on the Phantom Thieves, then uses Passionate Impulse on the next turn to deal Psychokinesis damage. Increase damage based on target's total Infatuation stacks.\n4. Lascivious Lady uses Garden of Paradise each turn, increasing final damage and decreasing final damage taken."
   },
   {
     "sn": "1201501",
-    "title": "Priestess' Skills",
+    "title": "Priestess of Desire's Skills",
     "text": "tdxct-[InstTutorials_text_1201501]"
   },
   {
@@ -1636,7 +1641,7 @@
   },
   {
     "sn": "1017021",
-    "title": "AAAAAA==",
+    "title": "Error: tnxotb-[1017021]",
     "text": "tdxct-[InstTutorials_text_1017021]"
   },
   {
@@ -1662,7 +1667,7 @@
   {
     "sn": "1017311",
     "title": "Spiritual Castle's Skills",
-    "text": "1. Blessing and Curse stacks from Haunted Castle and Spiritual Castle are not removed over time.\n2. At the start of battle, 1 Magic Hand and 1 Dancing Hand are summoned. When Spiritual Castle is present, if Magic Hand or Dancing Hand are defeated, 1 Magic Hand or Dancing Hand will be summoned.\n3. At the end of each turn, Spiritual Castle grants 3 Blessing stacks to all Shadows. At the end of each turn, Haunted Castle inflicts 3 Curse stacks on all Phantom Thieves.\n4. At the start of Spiritual Castle's turn, if there are 10 Blessing stacks, it will use Divine Judgment. At the start of Haunted Castle's turn, if any Phantom Thieves have 10 Curse stacks, it will use Nihilistic Art.\n5. When Magic Hand is summoned, all Shadows gain 3 Blessing stacks, and at the end of each turn it grants 1 Blessing stack to all Shadows. When it is defeated, 5 Blessing stacks are removed from all Shadows, and all Phantom Thieves gain 1 Blessing stack.\n6. When Dancing Hand is summoned, all Phantom Thieves are inflicted with 3 Curse stacks, and at the end of each turn it inflicts 1 Curse stack on all Phantom Thieves. When it is defeated, 5 Curse stacks are removed from all Phantom Thieves, and all Shadows take 1 Curse stack.\n7. When Spiritual Castle is near death, all Shadows present are defeated, and it moves to the second phase. In this phae, it summons 2 Magic Hands or Dancing Hands at a time."
+    "text": "1. Blessing and Curse stacks inflicted by Spiritual Castle and Haunted Castle are not removed as turns pass.\n2. At the start of battle, 1 Magic Hand and 1 Dancing Hand are summoned. While Spiritual Castle is present, if Magic Hand or Dancing Hand are defeated, 1 Magic Hand or Dancing Hand will be summoned.\n3. At the end of each of Spiritual Castle's turns, it grants 3 Blessing stacks to all Shadows. At the end of each of Haunted Castle's turns, it inflicts 3 Curse stacks on all Phantom Thieves.\n4. At the start of each of Spiritual Castle's turns, if it has 10 Blessing stacks, it will use Divine Judgment. At the start of each of Haunted Castle's turns, if any Phantom Thief has 10 Curse stacks, it will use Nihilistic Art.\n5. When Magic Hand is summoned, all Shadows gain 3 Blessing stacks, and at the end of every turn, all Shadows gain 1 Blessing stack. When it is defeated, all Shadows lose 5 Blessing stacks, and all Phantom Thieves gain 1 Blessing stack.\n6. When Dancing Hand is summoned, all Phantom Thieves are inflicted with 3 Curse stacks, and at the end of every turn, allPhantom Thieves are inflicted with 1 Curse stack. When it is defeated, all Phantom Thieves lose 5 Curse stacks, and all Shadows gain 1 Curse stack.\n7. When Spiritual Castle is near death, all Shadows present are defeated, and it moves to the second phase. In this phase, it summons 2 Magic Hands and Dancing Hands at a time."
   },
   {
     "sn": "1017411",
@@ -1903,6 +1908,11 @@
     "sn": "922411",
     "title": "Makoto Yuki's Skills",
     "text": "1. Makoto specializes in <color=#FF423F>single-target attacks</color>. He can deal powerful fire damage to foes with multi-hit attacks.\n2. He possesses <color=#FF423F>two Theurgies</color>, Cadenza or Ardhanari, and can freely select and activate them during battle.\n3. Activating <color=#FF423F>Cadenza</color> significantly enhances the attack capabilities of all allies."
+  },
+  {
+    "sn": "922511",
+    "title": "Yukari Takeba's Skills",
+    "text": "1. Yukari specializes in <color=#FF423F>healing</color> and <color=#FF423F>buffing</color> allies. She also has the power to increase allies' Theurgy gauge.\n2. She can increase the party's <color=#FF423F>Attack</color> and <color=#FF423F>damage dealt</color>, greatly enhancing their attack capabilities in battle.\n3. She can use Cyclone Arrow to <color=#FF423F>remove buffs from foes</color> and her Assist can <color=#FF423F>remove debuffs from allies</color>, making her helpful in a variety of situations."
   },
   {
     "sn": "923411",

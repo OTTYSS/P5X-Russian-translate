@@ -1290,6 +1290,21 @@
     "desc": "Painting Effect Active"
   },
   {
+    "sn": "498",
+    "name": "Painting Effect",
+    "desc": "Painting Effect Active"
+  },
+  {
+    "sn": "499",
+    "name": "Painting Effect",
+    "desc": "Painting Effect Active"
+  },
+  {
+    "sn": "500",
+    "name": "Painting Effect",
+    "desc": "Painting Effect Active"
+  },
+  {
     "sn": "446",
     "name": "Painting Effect",
     "desc": "Painting Effect Active"
@@ -1673,6 +1688,16 @@
     "sn": "645",
     "name": "Special Effect",
     "desc": "When the party deals <color=#FFFC40>continuous damage</color>, the damage is increased by 90%."
+  },
+  {
+    "sn": "701",
+    "name": "Painting Effect",
+    "desc": "Painting Effect Active"
+  },
+  {
+    "sn": "702",
+    "name": "Painting Effect",
+    "desc": "Painting Effect Active"
   },
   {
     "sn": "1001",
@@ -2080,6 +2105,11 @@
     "desc": "Final Highlight damage is increase by 40%. When activating a Theurgy, user's final damage is increased by 40% for 3 turns."
   },
   {
+    "sn": "1029",
+    "name": "Special Effect",
+    "desc": "Each time a Theurgy is activated, all allies gain 4 Celestial Fragment stacks. Also, each time an ally defeats a foe, the ally gains 2 Celestial Fragment stacks.\nCelestial Fragment: Increase final damage dealt by 2.5% per stack for 2 turns. Stacks up to 16 times."
+  },
+  {
     "sn": "2018",
     "name": "Special Effect",
     "desc": "When the party activates a <color=#FFFC40>Technical</color>, Attack is increased by 25% and critical damage by 25%."
@@ -2093,6 +2123,11 @@
     "sn": "2020",
     "name": "Special Effect",
     "desc": "Allies' <color=#FFFC40>Theurgy</color> damage is increased by 30%. After using a Theurgy, user's final damage is increased by 30% more for 3 turns."
+  },
+  {
+    "sn": "2021",
+    "name": "Special Effect",
+    "desc": "Allies' <color=#FFFC40>Theurgy</color> damage is increased by 30%. After using a Theurgy, user's damage is increased by 30% more for 3 turns."
   },
   {
     "sn": "4513",
@@ -2447,7 +2482,7 @@
   {
     "sn": "4591",
     "name": "Special Effect",
-    "desc": "Allies from the <color=#ff381d>Phantom Thieves of Hearts</color> deal 60% increased final damage."
+    "desc": "Allies from the <color=#ff381d>Phantom Thieves of Hearts</color> (Ren, Morgana, Ryuji, Ann, Yusuke, Makoto, Futaba, Haru) deal 60% increased final damage."
   },
   {
     "sn": "4601",
@@ -3118,6 +3153,36 @@
     "sn": "7135",
     "name": "Special Effect",
     "desc": "When Wheel's Afterimage is present, Barbaric Beast Wheel's affinities are changed."
+  },
+  {
+    "sn": "7141",
+    "name": "Special Effect",
+    "desc": "For every 1 Infatuation, decrease final damage dealt by 4%."
+  },
+  {
+    "sn": "7142",
+    "name": "Special Effect",
+    "desc": "Spiral of Desire is not removed over time. Also, decrease Defense of targets inflicted with Spiral of Desire for 2 turns."
+  },
+  {
+    "sn": "7143",
+    "name": "Special Effect",
+    "desc": "When Temptation is activated, inflict the last target that attacked the user with 1 stack of Infatuation."
+  },
+  {
+    "sn": "7144",
+    "name": "Special Effect",
+    "desc": "When Painful Pleasure is used, inflict 1 more Phantom Thief with Passionate Gaze. Also, increase final damage taken of targets inflicted with Passionate Gaze by 10%."
+  },
+  {
+    "sn": "7145",
+    "name": "Special Effect",
+    "desc": "The final damage increase effect for every Garden of Paradise is greatly enhanced."
+  },
+  {
+    "sn": "7146",
+    "name": "Special Effect",
+    "desc": "For every 1 Garden of Paradise, decrease final damage taken by 10%."
   },
   {
     "sn": "8213",
@@ -3992,7 +4057,7 @@
   {
     "sn": "10101",
     "name": "Fortune",
-    "desc": "Increase ally's max HP by 20% and HP recovery by 20%. When a skill heals beyond max HP, deal damage to 1 random foe equal to 500% of surplus healing."
+    "desc": "Increase ally's max HP by 20% and HP recovery by 20%. When a skill heals beyond max HP, deal damage to 1 random foe equal to 888% of surplus healing."
   },
   {
     "sn": "10111",
@@ -4755,6 +4820,11 @@
     "desc": "Allies' Theurgy final damage is increased by 12%."
   },
   {
+    "sn": "12002",
+    "name": "Defender's Conviction",
+    "desc": "When Whisperwind stacks are spent from Arrow of Life, the target of the additional effect changes to all allies."
+  },
+  {
     "sn": "10516",
     "name": "Swords",
     "desc": "Allies' normal attack final damage is increased by 12%."
@@ -5277,7 +5347,7 @@
   {
     "sn": "11101",
     "name": "AAAAAA==",
-    "desc": "Wonder's Attack is increased by 160.\nWonder's Defense is increased by 80.\nWonder's max HP is increased by 250.\nRyuji's damage is increased by 8%.\nRyuji's critical damage is increased by 6%.\nMorgana's Attack is increased by 10%.\nMorgana's critical rate is increased by 3%.\nMotoha's Attack is increased by 10%.\nMotoha's critical rate is increased by 3%.\nTropical Motoha's max HP is increased by 10%.\nTropical Motoha's critical damage is increased by 6%.\nLufel's max HP is increased by 10%.\nLufel's Attack is increased by 5%.\nRiko's Speed is increased by 7.5.\nTempest Riko's SP restoration is increased by 40%.\nTempest Riko's critical damage is increased by 12%.\nShun's max HP is increased by 15%.\nKamiyama's Attack is increased by 15%.\nTomiyama's Attack is increased by 15%.\nYaoling's Speed is increased by 7.5.\nFirecracker Yaoling's damage is increased by 8%.\nFirecracker Yaoling's critical damage is increased by 6%.\nTomoko's Attack is increased by 15%.\nSeaside Tomoko's Attack is increased by 15%.\nYui's Attack is increased by 10%.\nYui's critical rate is increased by 3%.\nKurotani's max HP is increased by 15%.\nYukimi's Defense is increased by 22.5%.\nShiratori's Attack is increased by 10%.\nShiratori's critical rate is increased by 3%.\nAkechi's Attack is increased by 10%.\nAkechi's critical rate is increased by 3%.\nYusuke's Defense is increased by 15%.\nYusuke's critical rate is increased by 3%.\nFutaba's Attack is increased by 15%.\nSumi's damage is increased by 8%.\nSumi's critical rate is increased by 3%.\nAnn's damage is increased by 8%.\nAnn's critical rate is increased by 3%.\nMakoto's Attack is increased by 10%.\nMakoto's critical rate is increased by 3%.\nKotone's Attack is increased by 10%.\nKotone's critical damage is increased by 6%.\nFrostgale Kotone's Attack is increased by 10%.\nFrostgale Kotone's critical damage is increased by 6%.\nMinami's max HP is increased by 15%.\nHaru's ailment accuracy is increased by 12%.\nHaru's critical damage is increased by 6%.\nRen's damage is increased by 8%.\nRen's critical rate is increased by 3%.\nMiyu's Defense is increased by 22.5%.\nHaruna's Attack is increased by 15%.\nKitazato's Attack is increased by 10%.\nKitazato's pierce rate is increased by 1.8%.\nChizuko's ailment accuracy is increased by 18%.\nYumi's Attack is increased by 15%.\nAyaka's Attack is increased by 15%.\nAshiya's Defense is increased by 22.5%.\nRuna's ailment accuracy is increased by 18%.\nKasumi's Attack is increased by 10%.\nKasumi's critical damage is increased by 6%.\nMio's ailment accuracy is increased by 18%.\nMayumi's Speed is increased by 7.5.\nShoki's ailment accuracy is increased by 18%.\nManaka's Attack is increased by 15%.\nMakoto's Attack is increased by 10%.\nMakoto's pierce rate is increased by 1.8%.\nJustine & Caroline's damage is increased by 8%.\nJustine & Caroline's critical damage is increased by 6%."
+    "desc": "Wonder's Attack is increased by 160.\nWonder's Defense is increased by 80.\nWonder's max HP is increased by 250.\nRyuji's damage is increased by 8%.\nRyuji's critical damage is increased by 6%.\nMorgana's Attack is increased by 10%.\nMorgana's critical rate is increased by 3%.\nMotoha's Attack is increased by 10%.\nMotoha's critical rate is increased by 3%.\nTropical Motoha's max HP is increased by 10%.\nTropical Motoha's critical damage is increased by 6%.\nLufel's max HP is increased by 10%.\nLufel's Attack is increased by 5%.\nRiko's Speed is increased by 7.5.\nTempest Riko's SP recovery is increased by 40%.\nTempest Riko's critical damage is increased by 12%.\nShun's max HP is increased by 15%.\nKamiyama's Attack is increased by 15%.\nTomiyama's Attack is increased by 15%.\nYaoling's Speed is increased by 7.5.\nFirecracker Yaoling's damage is increased by 8%.\nFirecracker Yaoling's critical damage is increased by 6%.\nTomoko's Attack is increased by 15%.\nSeaside Tomoko's Attack is increased by 15%.\nYui's Attack is increased by 10%.\nYui's critical rate is increased by 3%.\nKurotani's max HP is increased by 15%.\nYukimi's Defense is increased by 22.5%.\nShiratori's Attack is increased by 10%.\nShiratori's critical rate is increased by 3%.\nAkechi's Attack is increased by 10%.\nAkechi's critical rate is increased by 3%.\nYusuke's Defense is increased by 15%.\nYusuke's critical rate is increased by 3%.\nFutaba's Attack is increased by 15%.\nSumi's damage is increased by 8%.\nSumi's critical rate is increased by 3%.\nAnn's damage is increased by 8%.\nAnn's critical rate is increased by 3%.\nMakoto Niijima's Attack is increased by 10%.\nMakoto Niijima's critical rate is increased by 3%.\nKotone's Attack is increased by 10%.\nKotone's critical damage is increased by 6%.\nFrostgale Kotone's Attack is increased by 10%.\nFrostgale Kotone's critical damage is increased by 6%.\nMinami's max HP is increased by 15%.\nHaru's ailment accuracy is increased by 12%.\nHaru's critical damage is increased by 6%.\nRen's damage is increased by 8%.\nRen's critical rate is increased by 3%.\nMiyu's Defense is increased by 22.5%.\nHaruna's Attack is increased by 15%.\nKitazato's Attack is increased by 10%.\nKitazato's pierce rate is increased by 1.8%.\nChizuko's ailment accuracy is increased by 18%.\nYumi's Attack is increased by 15%.\nAyaka's Attack is increased by 15%.\nAshiya's Defense is increased by 22.5%.\nRuna's ailment accuracy is increased by 18%.\nKasumi's Attack is increased by 10%.\nKasumi's critical damage is increased by 6%.\nMio's ailment accuracy is increased by 18%.\nMayumi's Speed is increased by 7.5.\nShoki's ailment accuracy is increased by 18%.\nManaka's Attack is increased by 15%.\nMakoto Yuki's Attack is increased by 10%.\nMakoto Yuki's pierce rate is increased by 1.8%.\nYukari's Attack is increased by 15%.\nJustine & Caroline's damage is increased by 8%.\nJustine & Caroline's critical damage is increased by 6%."
   },
   {
     "sn": "12301",

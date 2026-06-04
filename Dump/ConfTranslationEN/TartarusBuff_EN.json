@@ -2,17 +2,7 @@
   {
     "sn": "350316",
     "name": "Cups",
-    "text": "Expand search object destruction range."
-  },
-  {
-    "sn": "40021",
-    "name": "Cups",
-    "text": "Increase Wonder's movement speed."
-  },
-  {
-    "sn": "40022",
-    "name": "Cups",
-    "text": "Expand search object destruction range."
+    "text": "Increase the range for destroying search objects."
   },
   {
     "sn": "2",
@@ -70,6 +60,26 @@
     "text": "When entering a new floor, increase all foes' max HP by 15%, and increase Attack by 6%."
   },
   {
+    "sn": "205",
+    "name": "Exploration Difficulty 5",
+    "text": "When entering a new floor, increase all foes' max HP by 20%, and increase Attack by 8%."
+  },
+  {
+    "sn": "206",
+    "name": "Exploration Difficulty 6",
+    "text": "When entering a new floor, increase all foes' max HP by 25%, and increase Attack by 10%."
+  },
+  {
+    "sn": "207",
+    "name": "Exploration Difficulty 7",
+    "text": "When entering a new floor, increase all foes' max HP by 30%, and increase Attack by 12%."
+  },
+  {
+    "sn": "208",
+    "name": "Exploration Difficulty 8",
+    "text": "When entering a new floor, increase all foes' max HP by 35%, and increase Attack by 14%."
+  },
+  {
     "sn": "391",
     "name": "Easy Exploration",
     "text": "AAAAAA=="
@@ -96,18 +106,53 @@
   },
   {
     "sn": "304",
-    "name": "Exploration Difficulty 4",
+    "name": "Exploration Difficulty 5",
     "text": "All battles consume 1 additional Will."
   },
   {
     "sn": "305",
     "name": "Exploration Difficulty 1",
-    "text": "All foes' max HP is increased by 50%."
+    "text": "Refresh cards at the Great Clock up to 8 times."
+  },
+  {
+    "sn": "306",
+    "name": "Exploration Difficulty 9",
+    "text": "When entering battle against Formidable Shadows or Sentinels, all foes' final damage dealt is increased by 30% and their final damage taken is decreased by 30%."
+  },
+  {
+    "sn": "307",
+    "name": "Exploration Difficulty 9",
+    "text": "Increase cost of battle against wandering Shadows by 1 Will."
+  },
+  {
+    "sn": "308",
+    "name": "Exploration Difficulty 6",
+    "text": "Increase Dawn Fragments used at clocks by 1."
+  },
+  {
+    "sn": "309",
+    "name": "Exploration Difficulty 4",
+    "text": "Increase Clock Gears needed to purchase Arcana cards at the Great Clock by 200%."
+  },
+  {
+    "sn": "310",
+    "name": "Exploration Difficulty 7",
+    "text": "[Test] When entering a Sentinel floor, decrease the number of Clock Gears in your possession by 10%."
+  },
+  {
+    "sn": "311",
+    "name": "Exploration Difficulty 6",
+    "text": "Increase cost of battle against Formidable Shadows by 1 Will."
+  },
+  {
+    "sn": "312",
+    "name": "Exploration Difficulty 12",
+    "text": "Decrease Will restored at clocks by 10."
   },
   {
     "sn": "20001",
     "name": "Fool",
-    "text": "Increase EXP gained in battle by 20%."
+    "text": "Increase EXP gained in battle by 30%."
   },
   {
     "sn": "11201",
@@ -190,6 +235,16 @@
     "text": "Increase Tarnished Silver Coins gained from search objects by 20%."
   },
   {
+    "sn": "11217",
+    "name": "Cups",
+    "text": "After winning a Monad Door battle, obtain 60 more Clock Gears."
+  },
+  {
+    "sn": "11218",
+    "name": "Cups",
+    "text": "Increase movement speed."
+  },
+  {
     "sn": "11301",
     "name": "Cups",
     "text": "Decrease Clock Gears needed to purchase cards at the Great Clock by 10%."
@@ -212,7 +267,7 @@
   {
     "sn": "11305",
     "name": "Cups",
-    "text": "When gaining party members, 10% chance to gain 1 additional Awareness."
+    "text": "When gaining party members, 10% chance to gain 1 additional Awareness for 5★ members, and 3 additional Awareness for 4★ members."
   },
   {
     "sn": "11306",
@@ -258,6 +313,16 @@
     "sn": "11314",
     "name": "Cups",
     "text": "Increase Tarnished Silver Coins gained from search objects by 40%."
+  },
+  {
+    "sn": "11315",
+    "name": "Cups",
+    "text": "Greatly increase insta-kill level."
+  },
+  {
+    "sn": "11316",
+    "name": "Cups",
+    "text": "Greatly increase movement speed."
   },
   {
     "sn": "12101",
@@ -530,6 +595,21 @@
     "text": "At the start of battle against a Rare Shadow, change all of the Rare Shadow's resistances to Weak."
   },
   {
+    "sn": "12243",
+    "name": "Swords",
+    "text": "At the start of battle at the Monad Doors, foes' final damage taken is increased by 30% and their final damage dealt is decreased by 30%."
+  },
+  {
+    "sn": "12244",
+    "name": "Swords",
+    "text": "During this exploration, Attack is increased by 30% for each Monad Door you pass through."
+  },
+  {
+    "sn": "12245",
+    "name": "Swords",
+    "text": "When a foe takes damage from an All-Out Attack, they recover from being knocked down."
+  },
+  {
     "sn": "12301",
     "name": "Swords",
     "text": "When Wonder has taken 2 actions (excluding extra actions), gain an extra action."
@@ -597,7 +677,7 @@
   {
     "sn": "12314",
     "name": "Swords",
-    "text": "For every search object destroyed during the current exploration, increase damage by 0.3%."
+    "text": "For every search object destroyed during this exploration, increase damage by 0.3%."
   },
   {
     "sn": "12315",
@@ -622,7 +702,37 @@
   {
     "sn": "12319",
     "name": "Swords",
-    "text": "When entering battle against Formidable Shadows or Sentinels, increases all foes' final damage taken by 20% and decreases final damage dealt by 10%."
+    "text": "When entering battle against Formidable Shadows or Sentinels, all foes' final damage dealt is increased by 10% and their final damage taken is decreased by 20%."
+  },
+  {
+    "sn": "12320",
+    "name": "Swords",
+    "text": "For every card obtained at the Great Clock, increase Attack by 3%."
+  },
+  {
+    "sn": "12321",
+    "name": "Swords",
+    "text": "When a multi-target attack skill is used, increase main target's damage dealt by 50%."
+  },
+  {
+    "sn": "12322",
+    "name": "Swords",
+    "text": "When an ally deals damage, for every 1% of their critical rate that exceeds 100%, increase that damage's critical multiplier by 1%."
+  },
+  {
+    "sn": "12323",
+    "name": "Swords",
+    "text": "For each Rare Shadow defeated during the current exploration, increase Attack by 15%."
+  },
+  {
+    "sn": "12324",
+    "name": "Swords",
+    "text": "For each Formidable Shadow defeated during the current exploration, increase critical damage by 5%."
+  },
+  {
+    "sn": "12325",
+    "name": "Swords",
+    "text": "Each time foes take an All-Out Attack, increase All-Out Attack damage taken by 100%. Stacks up to 10 times."
   },
   {
     "sn": "13201",
@@ -718,6 +828,21 @@
     "sn": "13309",
     "name": "Wands",
     "text": "Increase the number of cards that can be selected in Shuffle Time: Normal by 1 for the next 3 Shuffle Times."
+  },
+  {
+    "sn": "13310",
+    "name": "Wands",
+    "text": "A Monad Door will appear on the next floor."
+  },
+  {
+    "sn": "13311",
+    "name": "Wands",
+    "text": "The Great Clock will appear on the next floor."
+  },
+  {
+    "sn": "13312",
+    "name": "Wands",
+    "text": "A clock will appear on the next floor."
   },
   {
     "sn": "13501",
@@ -837,17 +962,17 @@
   {
     "sn": "20011",
     "name": "Magician",
-    "text": "Gain 100 Clock Gears, 2 Dawn Fragments, 1 Tarnished Gold Coin, and 100 Tarnished Silver Coins."
+    "text": "Gain 1500 Clock Gears, 4 Dawn Fragments, 1 Tarnished Gold Coin, and 100 Tarnished Silver Coins."
   },
   {
     "sn": "20012",
     "name": "Magician",
-    "text": "Gain 100 Clock Gears, 2 Dawn Fragments, 1 Tarnished Gold Coin, and 100 Tarnished Silver Coins."
+    "text": "Gain 1500 Clock Gears, 4 Dawn Fragments, 1 Tarnished Gold Coin, and 100 Tarnished Silver Coins."
   },
   {
     "sn": "20013",
     "name": "Magician",
-    "text": "Gain 100 Clock Gears, 2 Dawn Fragments, 1 Tarnished Gold Coin, and 100 Tarnished Silver Coins."
+    "text": "Gain 1500 Clock Gears, 4 Dawn Fragments, 1 Tarnished Gold Coin, and 100 Tarnished Silver Coins."
   },
   {
     "sn": "20021",
@@ -857,7 +982,7 @@
   {
     "sn": "20071",
     "name": "Chariot",
-    "text": "Allies' Highlights and Theurgies can deal critical hits, but decrease Highlight and Theurgy's gauge recovery rate by 50%."
+    "text": "Allies' Highlights and Theurgies can deal critical hits."
   },
   {
     "sn": "20081",
@@ -867,27 +992,57 @@
   {
     "sn": "20101",
     "name": "Fortune",
-    "text": "Increase allies' max HP by 20%. When a skill heals beyond max HP, deal damage to 1 random foe equal to 200% of surplus healing."
+    "text": "Increase ally's max HP by 20% and HP recovery by 20%. When a skill heals beyond max HP, deal damage to 1 random foe equal to 888% of surplus healing."
   },
   {
     "sn": "20111",
     "name": "Strength",
-    "text": "Increase all allies' max SP by 200 and SP recovery by 600%, but increase SP cost by 200%. When a skill is used, for every 15 SP spent, increase all allies' final damage by 1% for 1 turn."
+    "text": "Increase all allies' max SP by 200 and SP recovery by 600%, but increase SP cost by 200%. When a skill is used, for every 10 SP spent, increase all allies' final damage by 1% for 1 turn."
+  },
+  {
+    "sn": "20121",
+    "name": "Hanged Man",
+    "text": "Increase allies' continuous damage effect by 100%. Also, when damage is dealt by a skill, Resonance, Highlight, or Theurgy, immediately activate the continuous damage effect inflicted on the main target."
+  },
+  {
+    "sn": "20141",
+    "name": "Temperance",
+    "text": "Formidable Shadows and Rare Shadows will appear more often. Decrease Will lost in battles against Formidable Shadows and Rare Shadows by 1. Increase Will lost in battles against wandering Shadows by 1."
+  },
+  {
+    "sn": "20142",
+    "name": "Temperance",
+    "text": "Formidable Shadows and Rare Shadows will appear more often. Decrease Will lost in battles against Formidable Shadows and Rare Shadows by 1. Increase Will lost in battles against wandering Shadows by 1."
+  },
+  {
+    "sn": "20143",
+    "name": "Temperance",
+    "text": "Formidable Shadows and Rare Shadows will appear more often. Decrease Will lost in battles against Formidable Shadows and Rare Shadows by 1. Increase Will lost in battles against wandering Shadows by 1."
+  },
+  {
+    "sn": "20144",
+    "name": "Temperance",
+    "text": "Formidable Shadows and Rare Shadows will appear more often. Decrease Will lost in battles against Formidable Shadows and Rare Shadows by 1. Increase Will lost in battles against wandering Shadows by 1."
+  },
+  {
+    "sn": "20145",
+    "name": "Temperance",
+    "text": "Formidable Shadows and Rare Shadows will appear more often. Decrease Will lost in battles against Formidable Shadows and Rare Shadows by 1. Increase Will lost in battles against wandering Shadows by 1."
   },
   {
     "sn": "20151",
     "name": "Devil",
-    "text": "Increase rate of finding search objects on floors, and increase Clock Gears gained from search objects by 40%."
+    "text": "Increase rate of finding search objects on floors, and increase Clock Gears gained from search objects by 100%."
   },
   {
     "sn": "20152",
     "name": "Devil",
-    "text": "Increase rate of finding search objects on floors, and increase Clock Gears gained from search objects by 40%."
+    "text": "Increase rate of finding search objects on floors, and increase Clock Gears gained from search objects by 100%."
   },
   {
     "sn": "20161",
     "name": "Tower",
-    "text": "Increase Wonder's Attack, Defense and max HP by 20%, and final damage by 30%"
+    "text": "Increase Wonder's Attack, Defense and max HP by 30%, and final damage by 50%"
   },
   {
     "sn": "20181",
@@ -898,6 +1053,11 @@
     "sn": "20182",
     "name": "Moon",
     "text": "Decrease Will cost of battle by 2. When Will is over 50, also increase allies' final damage by 10%."
+  },
+  {
+    "sn": "20201",
+    "name": "Judgement",
+    "text": "Each time allies use normal attacks, grant 5 Might of Judgement stacks to all allies. Each time allies use ranged attacks, grant 1 Might of Judgement stack to all allies.\nMight of Judgement: Permanently increase normal and ranged attack damage by 10% per stack. Stacks up to 50 times."
   },
   {
     "sn": "40001",
@@ -912,7 +1072,7 @@
   {
     "sn": "40003",
     "name": "Enhance Great Clock",
-    "text": "Decrease Clock Gears needed to refresh cards at the Great Clock by 10%."
+    "text": "Decrease Clock Gears needed to refresh cards at the Great Clock by 30%."
   },
   {
     "sn": "30111",
@@ -981,6 +1141,11 @@
   },
   {
     "sn": "30612",
+    "name": "Wooden Tarot Cards",
+    "text": "When starting Tartarus exploration, decrease Will by 30, but gain 1 Major Arcana card."
+  },
+  {
+    "sn": "30613",
     "name": "Wooden Tarot Cards",
     "text": "When starting Tartarus exploration, decrease Will by 30, but gain 1 Major Arcana card."
   },
@@ -1060,6 +1225,16 @@
     "text": "When starting Tartarus exploration, gain 2 Dawn Fragments."
   },
   {
+    "sn": "31111",
+    "name": "Vintage Necklace",
+    "text": "Monad Doors will appear more often. Entering the Monad Door will not require Dawn Fragments."
+  },
+  {
+    "sn": "31112",
+    "name": "Vintage Necklace",
+    "text": "Monad Doors will appear more often. Entering the Monad Door will not require Dawn Fragments."
+  },
+  {
     "sn": "40004",
     "name": "Insta-kill Level",
     "text": "Increase Insta-kill Level."
@@ -1078,5 +1253,65 @@
     "sn": "40007",
     "name": "Increase EXP Gained",
     "text": "Increase EXP gained in battle by 10%."
+  },
+  {
+    "sn": "40008",
+    "name": "Purchase Cards",
+    "text": "Decrease Clock Gears needed to purchase cards at the Great Clock by 5%."
+  },
+  {
+    "sn": "40009",
+    "name": "Get Item",
+    "text": "When entering battle against Formidable Shadows or Sentinels, increases all foes' final damage taken by 20%."
+  },
+  {
+    "sn": "40010",
+    "name": "Shuffle Time",
+    "text": "After defeating a Rare Shadow, Shuffle Time: Normal becomes Shuffle Time: Rare."
+  },
+  {
+    "sn": "40011",
+    "name": "Movement Speed",
+    "text": "Increase movement speed."
+  },
+  {
+    "sn": "40021",
+    "name": "Cups",
+    "text": "Increase Wonder's movement speed."
+  },
+  {
+    "sn": "40022",
+    "name": "Cups",
+    "text": "Increase the range for destroying search objects."
+  },
+  {
+    "sn": "11",
+    "name": "AAAAAA==",
+    "text": "Error: tnxotb-[TartarusBuff_text_11]"
+  },
+  {
+    "sn": "12",
+    "name": "AAAAAA==",
+    "text": "Error: tnxotb-[TartarusBuff_text_12]"
+  },
+  {
+    "sn": "13",
+    "name": "AAAAAA==",
+    "text": "Error: tnxotb-[TartarusBuff_text_13]"
+  },
+  {
+    "sn": "14",
+    "name": "AAAAAA==",
+    "text": "Error: tnxotb-[TartarusBuff_text_14]"
+  },
+  {
+    "sn": "15",
+    "name": "AAAAAA==",
+    "text": "Error: tnxotb-[TartarusBuff_text_15]"
+  },
+  {
+    "sn": "16",
+    "name": "AAAAAA==",
+    "text": "Error: tnxotb-[TartarusBuff_text_16]"
   }
 ]

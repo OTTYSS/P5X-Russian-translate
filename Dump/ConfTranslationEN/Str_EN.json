@@ -1387,7 +1387,7 @@
   },
   {
     "sn": "11632",
-    "strContent": "Forgot how to use skills!",
+    "strContent": "%s can't move...",
     "option1": "AAAAAA==",
     "showName": "AAAAAA==",
     "option2": "AAAAAA=="
@@ -1450,7 +1450,7 @@
   },
   {
     "sn": "11641",
-    "strContent": "Do you want to lower the difficulty and try again? (Valid on a retry)",
+    "strContent": "Do you want to lower the difficulty and try again? (Beneficial effects will be activated.)",
     "option1": "Confirm",
     "showName": "Adjust Difficulty",
     "option2": "Never mind."
@@ -2228,6 +2228,13 @@
   {
     "sn": "12318",
     "strContent": "This Phantom Thief has been locked and cannot be changed.",
+    "option1": "AAAAAA==",
+    "showName": "AAAAAA==",
+    "option2": "AAAAAA=="
+  },
+  {
+    "sn": "12319",
+    "strContent": "Selected Phantom Thieves cannot be changed.",
     "option1": "AAAAAA==",
     "showName": "AAAAAA==",
     "option2": "AAAAAA=="
@@ -4593,7 +4600,7 @@
   },
   {
     "sn": "15803",
-    "strContent": "Progress in the main story and side stories to unlock this.",
+    "strContent": "Progress in the past event Luminous Island to unlock this.",
     "option1": "AAAAAA==",
     "showName": "AAAAAA==",
     "option2": "AAAAAA=="
@@ -5153,7 +5160,7 @@
   },
   {
     "sn": "20312",
-    "strContent": "Due to the difficulty level of repeated runs, you can no longer manifest cards at the Great Clock.",
+    "strContent": "Due to the difficulty level, you can no longer manifest cards at the Great Clock.",
     "option1": "AAAAAA==",
     "showName": "AAAAAA==",
     "option2": "AAAAAA=="
@@ -5251,7 +5258,7 @@
   },
   {
     "sn": "20335",
-    "strContent": "AAAAAA==",
+    "strContent": "Unlock Navigator Skill with Moonlit Bonds",
     "option1": "AAAAAA==",
     "showName": "AAAAAA==",
     "option2": "AAAAAA=="
@@ -5432,6 +5439,13 @@
     "option2": "Nah, I'm good."
   },
   {
+    "sn": "1000057",
+    "strContent": "You can set up to two Phantom Thieves at a time.",
+    "option1": "AAAAAA==",
+    "showName": "AAAAAA==",
+    "option2": "AAAAAA=="
+  },
+  {
     "sn": "1000058",
     "strContent": "Do you want to change the displayed Phantom Thief?",
     "option1": "Change",
@@ -5440,7 +5454,7 @@
   },
   {
     "sn": "1000059",
-    "strContent": "You can display up to three Phantom Thieves at a time.",
+    "strContent": "You can display up to two Phantom Thieves at a time.",
     "option1": "AAAAAA==",
     "showName": "AAAAAA==",
     "option2": "AAAAAA=="
@@ -5881,14 +5895,14 @@
   },
   {
     "sn": "1000230",
-    "strContent": "AAAAAA==",
+    "strContent": "Huh!? Persona abilities don't have any effect on this enemy. Try using physical attacks!",
     "option1": "AAAAAA==",
     "showName": "Fuuka Yamagishi",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1000232",
-    "strContent": "AAAAAA==",
+    "strContent": "Tch, looks like we'll just have to use brute force! In that case... Let's do it!",
     "option1": "AAAAAA==",
     "showName": "Shun Kano",
     "option2": "AAAAAA=="
@@ -8457,7 +8471,7 @@
   },
   {
     "sn": "1000009",
-    "strContent": "%s can't move!",
+    "strContent": "%s can't move...",
     "option1": "AAAAAA==",
     "showName": "AAAAAA==",
     "option2": "AAAAAA=="
@@ -9632,6 +9646,13 @@
     "option2": "AAAAAA=="
   },
   {
+    "sn": "1014032",
+    "strContent": "Looks like the\nstudent dormitory\nis closed right now...",
+    "option1": "AAAAAA==",
+    "showName": "AAAAAA==",
+    "option2": "AAAAAA=="
+  },
+  {
     "sn": "1014101",
     "strContent": "Please select a destination.",
     "option1": "AAAAAA==",
@@ -9773,7 +9794,7 @@
   },
   {
     "sn": "1014315",
-    "strContent": "The bustling area around\nSensoji Temple... The view\nfrom the Skytree is amazing.",
+    "strContent": "The bustling area around\nSensoji Temple... The view\nfrom the Sky Tower is amazing.",
     "option1": "AAAAAA==",
     "showName": "AAAAAA==",
     "option2": "AAAAAA=="
@@ -9871,7 +9892,7 @@
   },
   {
     "sn": "1014327",
-    "strContent": "Zoshigaya.\nIt's a neighborhood in Toshima Ward,\nwhere I live.",
+    "strContent": "Zoshigaya. It's a neighborhood\nin Toshima Ward, where I live.",
     "option1": "AAAAAA==",
     "showName": "AAAAAA==",
     "option2": "AAAAAA=="
@@ -10032,7 +10053,7 @@
   },
   {
     "sn": "1015032",
-    "strContent": "AAAAAA==",
+    "strContent": "Fuuka Yamagishi has not selected an Assist Character. Do you want to finish editing your party?",
     "option1": "Confirm",
     "showName": "AAAAAA==",
     "option2": "Cancel"
@@ -10154,7 +10175,7 @@
     "strContent": "Do you want to work here?",
     "option1": "Let's get to work.",
     "showName": "L<#000000,u,#FFFFFF>fel",
-    "option2": "Never mind"
+    "option2": "I think I'll pass."
   },
   {
     "sn": "1019010",
@@ -10182,6 +10203,27 @@
     "strContent": "Would you like to work at the concept café?",
     "option1": "Let's get to work.",
     "showName": "L<#000000,u,#FFFFFF>fel",
+    "option2": "Never mind"
+  },
+  {
+    "sn": "1019017",
+    "strContent": "Would you like to help at the police station?",
+    "option1": "Sure",
+    "showName": "L<#000000,u,#FFFFFF>fel",
+    "option2": "Never mind"
+  },
+  {
+    "sn": "1019018",
+    "strContent": "Would you like to help out with the aojiru\nsamples?",
+    "option1": "Sure",
+    "showName": "L<#000000,u,#FFFFFF>fel",
+    "option2": "Never mind"
+  },
+  {
+    "sn": "1019019",
+    "strContent": "Should I make a wish?",
+    "option1": "Make a wish",
+    "showName": "AAAAAA==",
     "option2": "Never mind"
   },
   {
@@ -12258,7 +12300,7 @@
   },
   {
     "sn": "1023076",
-    "strContent": "AAAAAA==",
+    "strContent": "The quest Luminous Island is currently locked. Do you want to unlock it now?",
     "option1": "Confirm",
     "showName": "L<#000000,u,#FFFFFF>fel",
     "option2": "Not now"
@@ -12269,6 +12311,13 @@
     "option1": "AAAAAA==",
     "showName": "L<#000000,u,#FFFFFF>fel",
     "option2": "AAAAAA=="
+  },
+  {
+    "sn": "1023094",
+    "strContent": "You have not yet cleared Luminous Island in the past P3R special event. This may impact your experience of the story. Do you still wish to continue?",
+    "option1": "Confirm",
+    "showName": "L<#000000,u,#FFFFFF>fel",
+    "option2": "Not now"
   },
   {
     "sn": "1024001",
@@ -12545,7 +12594,7 @@
   },
   {
     "sn": "1024118",
-    "strContent": "Clear Luminous Island to unlock.",
+    "strContent": "Clear the P3R Special Event Luminous Island in Past Events to unlock.",
     "option1": "AAAAAA==",
     "showName": "AAAAAA==",
     "option2": "AAAAAA=="
@@ -12559,17 +12608,24 @@
   },
   {
     "sn": "1024120",
-    "strContent": "You cannot take on this mission yet. Please clear <color=#FF423F>Luminous Island</color> missions first.",
+    "strContent": "This mission is not yet available. Complete the P3R Special Event <color=#FF423F>Pierce the Night Sky</color>.",
     "option1": "AAAAAA==",
     "showName": "AAAAAA==",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1024121",
-    "strContent": "{0} is locked. Do you want to track it now?",
+    "strContent": "{0} is not unlocked. Do you want to track it?",
     "option1": "Confirm",
     "showName": "AAAAAA==",
-    "option2": "Cancel"
+    "option2": "Never mind."
+  },
+  {
+    "sn": "1024122",
+    "strContent": "Clear the mission Pierce the Night Sky to unlock <color=#ffc000>Paulownia Mall</color>.",
+    "option1": "AAAAAA==",
+    "showName": "AAAAAA==",
+    "option2": "AAAAAA=="
   },
   {
     "sn": "1025224",
@@ -14567,8 +14623,15 @@
     "option2": "Never mind."
   },
   {
+    "sn": "1047200",
+    "strContent": "Clear chapter 1 in Met by Moonlight: Luminous Island and complete Luminous Island to unlock.",
+    "option1": "AAAAAA==",
+    "showName": "AAAAAA==",
+    "option2": "AAAAAA=="
+  },
+  {
     "sn": "1047201",
-    "strContent": "Unlocked by clearing the required stage.",
+    "strContent": "Unlocked by clearing the previous stage.",
     "option1": "AAAAAA==",
     "showName": "AAAAAA==",
     "option2": "AAAAAA=="
@@ -15331,7 +15394,7 @@
   },
   {
     "sn": "1050511",
-    "strContent": "This <color=#FFC000>Phantom Thief</color> is locked. They cannot be edited until you reset the challenge.",
+    "strContent": "<color=#FFC000>This Phantom Thief</color> is currently locked. They cannot be removed from the party or changed until you reset the challenge.",
     "option1": "AAAAAA==",
     "showName": "AAAAAA==",
     "option2": "AAAAAA=="
@@ -15471,7 +15534,7 @@
   },
   {
     "sn": "1050613",
-    "strContent": "You have run out of attempts for today. Please try again tomorrow.",
+    "strContent": "You have used up all challenge attempts. Reset to try again.",
     "option1": "AAAAAA==",
     "showName": "AAAAAA==",
     "option2": "AAAAAA=="
@@ -16675,7 +16738,7 @@
   },
   {
     "sn": "1052504",
-    "strContent": "Opens after unlocking %s.",
+    "strContent": "Unlocks after clearing %s.",
     "option1": "AAAAAA==",
     "showName": "AAAAAA==",
     "option2": "AAAAAA=="
@@ -19461,7 +19524,7 @@
   },
   {
     "sn": "1065170",
-    "strContent": "You can now quick travel to the\n<color=#FF423F>Realm of Repression: Words of Instincts</color>.",
+    "strContent": "You can now quick travel to the\n<color=#FF423F>Realm of Repression: Words of Perseverance</color>.",
     "option1": "AAAAAA==",
     "showName": "AAAAAA==",
     "option2": "AAAAAA=="
@@ -22968,14 +23031,14 @@
   },
   {
     "sn": "1153017",
-    "strContent": "AAAAAA==",
+    "strContent": "Error: tnxotb-[1153017]",
     "option1": "AAAAAA==",
     "showName": "Kasumi Yoshizawa",
     "option2": "AAAAAA=="
   },
   {
     "sn": "1153018",
-    "strContent": "AAAAAA==",
+    "strContent": "Error: tnxotb-[1153018]",
     "option1": "AAAAAA==",
     "showName": "Kasumi Yoshizawa",
     "option2": "AAAAAA=="
@@ -23874,6 +23937,132 @@
     "strContent": "Let's take a quick break. Rest is important, too.",
     "option1": "AAAAAA==",
     "showName": "Makoto Yuki",
+    "option2": "AAAAAA=="
+  },
+  {
+    "sn": "1162001",
+    "strContent": "All right, let's do this!",
+    "option1": "AAAAAA==",
+    "showName": "Yukari Takeba",
+    "option2": "AAAAAA=="
+  },
+  {
+    "sn": "1162002",
+    "strContent": "All right, let's get going.",
+    "option1": "AAAAAA==",
+    "showName": "Yukari Takeba",
+    "option2": "AAAAAA=="
+  },
+  {
+    "sn": "1162003",
+    "strContent": "Keep your eyes peeled moving forward.",
+    "option1": "AAAAAA==",
+    "showName": "Yukari Takeba",
+    "option2": "AAAAAA=="
+  },
+  {
+    "sn": "1162004",
+    "strContent": "A breeze... Is there a hidden passageway around here?",
+    "option1": "AAAAAA==",
+    "showName": "Yukari Takeba",
+    "option2": "AAAAAA=="
+  },
+  {
+    "sn": "1162005",
+    "strContent": "No way, it's locked...",
+    "option1": "AAAAAA==",
+    "showName": "Yukari Takeba",
+    "option2": "AAAAAA=="
+  },
+  {
+    "sn": "1162006",
+    "strContent": "Looks like we'll have to try another way.",
+    "option1": "AAAAAA==",
+    "showName": "Yukari Takeba",
+    "option2": "AAAAAA=="
+  },
+  {
+    "sn": "1162007",
+    "strContent": "It's over. We did it!",
+    "option1": "AAAAAA==",
+    "showName": "Yukari Takeba",
+    "option2": "AAAAAA=="
+  },
+  {
+    "sn": "1162008",
+    "strContent": "Hey, there's a treasure chest.",
+    "option1": "AAAAAA==",
+    "showName": "Yukari Takeba",
+    "option2": "AAAAAA=="
+  },
+  {
+    "sn": "1162009",
+    "strContent": "This looks bad...",
+    "option1": "AAAAAA==",
+    "showName": "Yukari Takeba",
+    "option2": "AAAAAA=="
+  },
+  {
+    "sn": "1162010",
+    "strContent": "What could be inside...",
+    "option1": "AAAAAA==",
+    "showName": "Yukari Takeba",
+    "option2": "AAAAAA=="
+  },
+  {
+    "sn": "1162011",
+    "strContent": "Yay! That went well!",
+    "option1": "AAAAAA==",
+    "showName": "Yukari Takeba",
+    "option2": "AAAAAA=="
+  },
+  {
+    "sn": "1162012",
+    "strContent": "Ah, a Shadow!",
+    "option1": "AAAAAA==",
+    "showName": "Yukari Takeba",
+    "option2": "AAAAAA=="
+  },
+  {
+    "sn": "1162013",
+    "strContent": "Found a safe room! Time for a breather.",
+    "option1": "AAAAAA==",
+    "showName": "Yukari Takeba",
+    "option2": "AAAAAA=="
+  },
+  {
+    "sn": "1162014",
+    "strContent": "Phew, time for a break. A nice, long break.",
+    "option1": "AAAAAA==",
+    "showName": "Yukari Takeba",
+    "option2": "AAAAAA=="
+  },
+  {
+    "sn": "1162015",
+    "strContent": "Not too shabby!",
+    "option1": "AAAAAA==",
+    "showName": "Yukari Takeba",
+    "option2": "AAAAAA=="
+  },
+  {
+    "sn": "1162016",
+    "strContent": "Shall we head out? There's always next time.",
+    "option1": "AAAAAA==",
+    "showName": "Yukari Takeba",
+    "option2": "AAAAAA=="
+  },
+  {
+    "sn": "1162017",
+    "strContent": "Hey... doesn't that one look different from the others?",
+    "option1": "AAAAAA==",
+    "showName": "Yukari Takeba",
+    "option2": "AAAAAA=="
+  },
+  {
+    "sn": "1162018",
+    "strContent": "Do you need some healing? Just let me know.",
+    "option1": "AAAAAA==",
+    "showName": "Yukari Takeba",
     "option2": "AAAAAA=="
   },
   {
@@ -30186,6 +30375,34 @@
   {
     "sn": "1206053",
     "strContent": "You unlocked the City Life activity\n<color=#ffc000>Spend time with Shirai</color>. There is a chance for it to appear each day.",
+    "option1": "AAAAAA==",
+    "showName": "AAAAAA==",
+    "option2": "AAAAAA=="
+  },
+  {
+    "sn": "1206054",
+    "strContent": "You unlocked the City Life activity <color=#ffc000>Work at Chagall Café</color>. There is a chance for it to appear each day.",
+    "option1": "AAAAAA==",
+    "showName": "AAAAAA==",
+    "option2": "AAAAAA=="
+  },
+  {
+    "sn": "1206055",
+    "strContent": "You unlocked the City Life activity <color=#ffc000>Help out at the police station</color>. There is a chance for it to appear each day.",
+    "option1": "AAAAAA==",
+    "showName": "AAAAAA==",
+    "option2": "AAAAAA=="
+  },
+  {
+    "sn": "1206056",
+    "strContent": "You unlocked the City Life activity <color=#ffc000>Help out at Aohige Pharmacy</color>. There is a chance for it to appear each day.",
+    "option1": "AAAAAA==",
+    "showName": "AAAAAA==",
+    "option2": "AAAAAA=="
+  },
+  {
+    "sn": "1206057",
+    "strContent": "You unlocked the City Life activity <color=#ffc000>Wish at the Fountain</color>. There is a chance for it to appear each day.",
     "option1": "AAAAAA==",
     "showName": "AAAAAA==",
     "option2": "AAAAAA=="
@@ -38410,7 +38627,7 @@
   },
   {
     "sn": "1134201",
-    "strContent": "I'm ready any time!",
+    "strContent": "I'm ready any time.",
     "option1": "AAAAAA==",
     "showName": "Makoto Yuki",
     "option2": "AAAAAA=="
@@ -38546,6 +38763,146 @@
     "strContent": "Hehe.",
     "option1": "AAAAAA==",
     "showName": "Makoto Yuki",
+    "option2": "AAAAAA=="
+  },
+  {
+    "sn": "1134301",
+    "strContent": "My turn!",
+    "option1": "AAAAAA==",
+    "showName": "Yukari Takeba",
+    "option2": "AAAAAA=="
+  },
+  {
+    "sn": "1134302",
+    "strContent": "Perfect timing. I was starting\nto get bored.",
+    "option1": "AAAAAA==",
+    "showName": "Yukari Takeba",
+    "option2": "AAAAAA=="
+  },
+  {
+    "sn": "1134303",
+    "strContent": "Mhm! Just leave it to me!",
+    "option1": "AAAAAA==",
+    "showName": "Yukari Takeba",
+    "option2": "AAAAAA=="
+  },
+  {
+    "sn": "1134304",
+    "strContent": "Count me in.",
+    "option1": "AAAAAA==",
+    "showName": "Yukari Takeba",
+    "option2": "AAAAAA=="
+  },
+  {
+    "sn": "1134305",
+    "strContent": "You called?",
+    "option1": "AAAAAA==",
+    "showName": "Yukari Takeba",
+    "option2": "AAAAAA=="
+  },
+  {
+    "sn": "1134306",
+    "strContent": "I'm going all out.",
+    "option1": "AAAAAA==",
+    "showName": "Yukari Takeba",
+    "option2": "AAAAAA=="
+  },
+  {
+    "sn": "1134307",
+    "strContent": "I'm on it!",
+    "option1": "AAAAAA==",
+    "showName": "Yukari Takeba",
+    "option2": "AAAAAA=="
+  },
+  {
+    "sn": "1134308",
+    "strContent": "Here I go!",
+    "option1": "AAAAAA==",
+    "showName": "Yukari Takeba",
+    "option2": "AAAAAA=="
+  },
+  {
+    "sn": "1134309",
+    "strContent": "All right, I hope you're ready!",
+    "option1": "AAAAAA==",
+    "showName": "Yukari Takeba",
+    "option2": "AAAAAA=="
+  },
+  {
+    "sn": "1134310",
+    "strContent": "Let's give this our best shot!",
+    "option1": "AAAAAA==",
+    "showName": "Yukari Takeba",
+    "option2": "AAAAAA=="
+  },
+  {
+    "sn": "1134311",
+    "strContent": "Let's try again another time.",
+    "option1": "AAAAAA==",
+    "showName": "Yukari Takeba",
+    "option2": "AAAAAA=="
+  },
+  {
+    "sn": "1134312",
+    "strContent": "Ugh, got it.",
+    "option1": "AAAAAA==",
+    "showName": "Yukari Takeba",
+    "option2": "AAAAAA=="
+  },
+  {
+    "sn": "1134313",
+    "strContent": "All right.",
+    "option1": "AAAAAA==",
+    "showName": "Yukari Takeba",
+    "option2": "AAAAAA=="
+  },
+  {
+    "sn": "1134314",
+    "strContent": "Okay!",
+    "option1": "AAAAAA==",
+    "showName": "Yukari Takeba",
+    "option2": "AAAAAA=="
+  },
+  {
+    "sn": "1134315",
+    "strContent": "Got it.",
+    "option1": "AAAAAA==",
+    "showName": "Yukari Takeba",
+    "option2": "AAAAAA=="
+  },
+  {
+    "sn": "1134316",
+    "strContent": "Yes, we did it!",
+    "option1": "AAAAAA==",
+    "showName": "Yukari Takeba",
+    "option2": "AAAAAA=="
+  },
+  {
+    "sn": "1134317",
+    "strContent": "It's over. We did it!",
+    "option1": "AAAAAA==",
+    "showName": "Yukari Takeba",
+    "option2": "AAAAAA=="
+  },
+  {
+    "sn": "1134318",
+    "strContent": "That went well!",
+    "option1": "AAAAAA==",
+    "showName": "Yukari Takeba",
+    "option2": "AAAAAA=="
+  },
+  {
+    "sn": "1134319",
+    "strContent": "Phew, made it back safe and sound.",
+    "option1": "AAAAAA==",
+    "showName": "Yukari Takeba",
+    "option2": "AAAAAA=="
+  },
+  {
+    "sn": "1134320",
+    "strContent": "Let's try again another time.",
+    "option1": "AAAAAA==",
+    "showName": "Yukari Takeba",
     "option2": "AAAAAA=="
   },
   {
@@ -39124,7 +39481,7 @@
   },
   {
     "sn": "1308003",
-    "strContent": "Do you want to go to Tatsumi East Police Station to check the missing person missions?",
+    "strContent": "Do you want to go to Tatsumi East Police Station to check the missing persons missions?",
     "option1": "Confirm",
     "showName": "AAAAAA==",
     "option2": "Cancel"
@@ -39796,7 +40153,7 @@
   },
   {
     "sn": "1308005",
-    "strContent": "Unlocked after watching the prologue.",
+    "strContent": "Unlocked after watching the previous story.",
     "option1": "AAAAAA==",
     "showName": "AAAAAA==",
     "option2": "AAAAAA=="
@@ -40217,6 +40574,13 @@
   {
     "sn": "1308026",
     "strContent": "No bonds can currently be reset.",
+    "option1": "AAAAAA==",
+    "showName": "AAAAAA==",
+    "option2": "AAAAAA=="
+  },
+  {
+    "sn": "1312004",
+    "strContent": "This Phantom Thief is currently locked, and can't be used.",
     "option1": "AAAAAA==",
     "showName": "AAAAAA==",
     "option2": "AAAAAA=="

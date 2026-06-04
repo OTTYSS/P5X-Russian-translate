@@ -1770,6 +1770,30 @@
     "strategy": "Weaknesses and resistances are different than normal.\nIncrease Seth's final Highlight damage taken by 20%. Decrease all other final skill damage taken by 30%."
   },
   {
+    "sn": "529101",
+    "name": "Lilith",
+    "desc": "Said to have been Adam's first wife, she desired to be his equal and refused to obey him. She was cast out of Eden and became a demon of the night. She is the mother of the demoness, Lilim.",
+    "strategy": "Shadows have different weaknesses and resistances than normal.\n1. Each turn, Lilith gains 1 <color=#FF423F>Cover of Night</color> stack.\nCover of Night: Decrease final damage taken by 15% for each stack. Stacks up to 2 times.\n2. When a Shadow with Cover of Night takes damage from a skill, remove 1 Cover of Night stack."
+  },
+  {
+    "sn": "529111",
+    "name": "Sraosha",
+    "desc": "In Zoroastrian lore, Sraosha's duty is to listen to the cry of humans for Ahura Mazda. He is also known to descend after sunset to vanquish evil. His name literally means \"observance.\"",
+    "strategy": "Weaknesses and resistances are different than normal.\n1. Sraosha will summon Shadows during the battle.\n2. Sraosha will restore all Phantom Thieves' SP each turn.\n3. When a summoned Shadow's Down Points are decreased, all Phantom Thieves' damage is increased by 15% for 1 turn."
+  },
+  {
+    "sn": "529112",
+    "name": "Apsaras",
+    "desc": "Hindu water spirits, they are beautiful young women who dance for the gods. They also guide heroes fallen in battle to paradise.",
+    "strategy": "AAAAAA=="
+  },
+  {
+    "sn": "529113",
+    "name": "Apsaras",
+    "desc": "Hindu water spirits, they are beautiful young women who dance for the gods. They also guide heroes fallen in battle to paradise.",
+    "strategy": "AAAAAA=="
+  },
+  {
     "sn": "526113",
     "name": "Apsaras",
     "desc": "Hindu water spirits, they are beautiful young women who dance for the gods. They also guide heroes fallen in battle to paradise.",
@@ -3915,7 +3939,7 @@
     "sn": "918503",
     "name": "Barbaric Beast Wheel",
     "desc": "A Shadow that roams the halls of Tartarus. It attacks any human that enters its domain.",
-    "strategy": "Weaknesses and resistances are different than normal.\n1. Barbaric Beast Wheel gains a small amount of Power at the end of each turn.\n2. Each time a Phantom Thief deals damage to Barbaric Beast Wheel, it loses a certain amount of Power.\n3. At the start of the second phase, Barbaric Beast Wheel's Power gain rate is doubled and it gains Shifting Gears. When Power reaches 80, final damage increases and it gains the Irreversible state, preventing Power from dropping below 80. If Barbaric Beast Wheel has gained a certain amount of Power in this state, it will use Rolling Pursuit 1 more time every 2 turns.\n4. At the start of the third phase, Barbaric Beast Wheel's final damage greatly increases and it gains Maximum Output, maintaining Power at 100. When Barbaric Beast Wheel spends Power to use a skill in this state, its final damage taken increases and it gains Overload for 2 turns.\n5. At the start of the third phase, Barbaric Beast Wheel summons 2 Wheel's Afterimages. When Wheel's Afterimage is defeated, Barbaric Beast Wheel will be Weakened and unable to act for 1 turn."
+    "strategy": "Weaknesses and resistances are different than normal.\n1. Barbaric Beast Wheel gains a small amount of Power at the end of each turn.\n2. Each time a Phantom Thief deals damage to Barbaric Beast Wheel, it loses a certain amount of Power.\n3. At the start of the second phase, Barbaric Beast Wheel's Power gain rate is doubled and it gains Shifting Gears. When Power reaches 80, final damage increases and it gains the Irreversible state, preventing Power from dropping below 80. If Barbaric Beast Wheel has gained a certain amount of Power in this state, it will use Rolling Pursuit 1 more time every 2 turns.\n4. At the start of the third phase, Barbaric Beast Wheel's final damage greatly increases and it gains Maximum Output, maintaining Power at 100. When Barbaric Beast Wheel spends Power to use a skill in this state, its final damage taken increases and it gains Overloader for 2 turns.\n5. At the start of the third phase, Barbaric Beast Wheel summons 2 Wheel's Afterimages. When Wheel's Afterimage is defeated, Barbaric Beast Wheel will be Weakened and unable to act for 1 turn."
   },
   {
     "sn": "918504",
@@ -4695,19 +4719,19 @@
     "sn": "918911",
     "name": "Barbaric Beast Wheel",
     "desc": "A Shadow that roams the halls of Tartarus. It attacks any human that enters its domain.",
-    "strategy": "Weaknesses and resistances are different than normal.\n1. Barbaric Beast Wheel gains a small amount of Power at the end of each turn.\n2. Each time a Phantom Thief deals damage to Barbaric Beast Wheel, it loses a certain amount of Power.\n3. At the start of the second phase, Barbaric Beast Wheel's Power gain rate is doubled and it gains Shifting Gears. When Power reaches 80, final damage increases and it gains the Irreversible state, preventing Power from dropping below 80. If Barbaric Beast Wheel has gained a certain amount of Power in this state, it will use Rolling Pursuit 1 more time every 2 turns.\n4. At the start of the third phase, Barbaric Beast Wheel's final damage greatly increases and it gains Maximum Output, maintaining Power at 100. When Barbaric Beast Wheel spends Power to use a skill in this state, its final damage taken increases and it gains Overload for 2 turns.\n5. At the start of the third phase, Barbaric Beast Wheel summons 2 Wheel's Afterimages. When Wheel's Afterimage is defeated, Barbaric Beast Wheel will be Weakened and unable to act for 1 turn."
+    "strategy": "Weaknesses and resistances are different than normal.\n1. Barbaric Beast Wheel gains a small amount of Power at the end of each turn.\n2. Each time a Phantom Thief deals damage to Barbaric Beast Wheel, it loses a certain amount of Power.\n3. At the start of the second phase, Barbaric Beast Wheel's Power gain rate is doubled and it gains Shifting Gears. When Power reaches 80, final damage increases and it gains the Irreversible state, preventing Power from dropping below 80. If Barbaric Beast Wheel has gained a certain amount of Power in this state, it will use Rolling Pursuit 1 more time every 2 turns.\n4. At the start of the third phase, Barbaric Beast Wheel's final damage greatly increases and it gains Maximum Output, maintaining Power at 100. When Barbaric Beast Wheel spends Power to use a skill in this state, its final damage taken increases and it gains Overloader for 2 turns.\n5. At the start of the third phase, Barbaric Beast Wheel summons 2 Wheel's Afterimages. When Wheel's Afterimage is defeated, Barbaric Beast Wheel will be Weakened and unable to act for 1 turn."
   },
   {
     "sn": "918912",
     "name": "Barbaric Beast Wheel",
     "desc": "A Shadow that roams the halls of Tartarus. It attacks any human that enters its domain.",
-    "strategy": "Weaknesses and resistances are different than normal.\n1. Barbaric Beast Wheel gains a small amount of Power at the end of each turn.\n2. Each time a Phantom Thief deals damage to Barbaric Beast Wheel, it loses a certain amount of Power.\n3. At the start of the second phase, Barbaric Beast Wheel's Power gain rate is doubled and it gains Shifting Gears. When Power reaches 80, final damage increases and it gains the Irreversible state, preventing Power from dropping below 80. If Barbaric Beast Wheel has gained a certain amount of Power in this state, it will use Rolling Pursuit 1 more time every 2 turns.\n4. At the start of the third phase, Barbaric Beast Wheel's final damage greatly increases and it gains Maximum Output, maintaining Power at 100. When Barbaric Beast Wheel spends Power to use a skill in this state, its final damage taken increases and it gains Overload for 2 turns.\n5. At the start of the third phase, Barbaric Beast Wheel summons 2 Wheel's Afterimages. When Wheel's Afterimage is defeated, Barbaric Beast Wheel will be Weakened and unable to act for 1 turn."
+    "strategy": "Weaknesses and resistances are different than normal.\n1. Barbaric Beast Wheel gains a small amount of Power at the end of each turn.\n2. Each time a Phantom Thief deals damage to Barbaric Beast Wheel, it loses a certain amount of Power.\n3. At the start of the second phase, Barbaric Beast Wheel's Power gain rate is doubled and it gains Shifting Gears. When Power reaches 80, final damage increases and it gains the Irreversible state, preventing Power from dropping below 80. If Barbaric Beast Wheel has gained a certain amount of Power in this state, it will use Rolling Pursuit 1 more time every 2 turns.\n4. At the start of the third phase, Barbaric Beast Wheel's final damage greatly increases and it gains Maximum Output, maintaining Power at 100. When Barbaric Beast Wheel spends Power to use a skill in this state, its final damage taken increases and it gains Overloader for 2 turns.\n5. At the start of the third phase, Barbaric Beast Wheel summons 2 Wheel's Afterimages. When Wheel's Afterimage is defeated, Barbaric Beast Wheel will be Weakened and unable to act for 1 turn."
   },
   {
     "sn": "918913",
     "name": "Barbaric Beast Wheel",
     "desc": "A Shadow that roams the halls of Tartarus. It attacks any human that enters its domain.",
-    "strategy": "Weaknesses and resistances are different than normal.\n1. Barbaric Beast Wheel gains a small amount of Power at the end of each turn.\n2. Each time a Phantom Thief deals damage to Barbaric Beast Wheel, it loses a certain amount of Power.\n3. At the start of the second phase, Barbaric Beast Wheel's Power gain rate is doubled and it gains Shifting Gears. When Power reaches 80, final damage increases and it gains the Irreversible state, preventing Power from dropping below 80. If Barbaric Beast Wheel has gained a certain amount of Power in this state, it will use Rolling Pursuit 1 more time every 2 turns.\n4. At the start of the third phase, Barbaric Beast Wheel's final damage greatly increases and it gains Maximum Output, maintaining Power at 100. When Barbaric Beast Wheel spends Power to use a skill in this state, its final damage taken increases and it gains Overload for 2 turns.\n5. At the start of the third phase, Barbaric Beast Wheel summons 2 Wheel's Afterimages. When Wheel's Afterimage is defeated, Barbaric Beast Wheel will be Weakened and unable to act for 1 turn."
+    "strategy": "Weaknesses and resistances are different than normal.\n1. Barbaric Beast Wheel gains a small amount of Power at the end of each turn.\n2. Each time a Phantom Thief deals damage to Barbaric Beast Wheel, it loses a certain amount of Power.\n3. At the start of the second phase, Barbaric Beast Wheel's Power gain rate is doubled and it gains Shifting Gears. When Power reaches 80, final damage increases and it gains the Irreversible state, preventing Power from dropping below 80. If Barbaric Beast Wheel has gained a certain amount of Power in this state, it will use Rolling Pursuit 1 more time every 2 turns.\n4. At the start of the third phase, Barbaric Beast Wheel's final damage greatly increases and it gains Maximum Output, maintaining Power at 100. When Barbaric Beast Wheel spends Power to use a skill in this state, its final damage taken increases and it gains Overloader for 2 turns.\n5. At the start of the third phase, Barbaric Beast Wheel summons 2 Wheel's Afterimages. When Wheel's Afterimage is defeated, Barbaric Beast Wheel will be Weakened and unable to act for 1 turn."
   },
   {
     "sn": "918914",
@@ -4725,19 +4749,19 @@
     "sn": "918921",
     "name": "Barbaric Beast Wheel",
     "desc": "A Shadow that roams the halls of Tartarus. It attacks any human that enters its domain.",
-    "strategy": "Weaknesses and resistances are different than normal.\n1. Barbaric Beast Wheel gains a small amount of Power at the end of each turn.\n2. Each time a Phantom Thief deals damage to Barbaric Beast Wheel, it loses a certain amount of Power.\n3. At the start of the second phase, Barbaric Beast Wheel's Power gain rate is doubled and it gains Shifting Gears. When Power reaches 80, final damage increases and it gains the Irreversible state, preventing Power from dropping below 80. If Barbaric Beast Wheel has gained a certain amount of Power in this state, it will use Rolling Pursuit 1 more time every 2 turns.\n4. At the start of the third phase, Barbaric Beast Wheel's final damage greatly increases and it gains Maximum Output, maintaining Power at 100. When Barbaric Beast Wheel spends Power to use a skill in this state, its final damage taken increases and it gains Overload for 2 turns.\n5. At the start of the third phase, Barbaric Beast Wheel summons 2 Wheel's Afterimages. When Wheel's Afterimage is defeated, Barbaric Beast Wheel will be Weakened and unable to act for 1 turn."
+    "strategy": "Weaknesses and resistances are different than normal.\n1. Barbaric Beast Wheel gains a small amount of Power at the end of each turn.\n2. Each time a Phantom Thief deals damage to Barbaric Beast Wheel, it loses a certain amount of Power.\n3. At the start of the second phase, Barbaric Beast Wheel's Power gain rate is doubled and it gains Shifting Gears. When Power reaches 80, final damage increases and it gains the Irreversible state, preventing Power from dropping below 80. If Barbaric Beast Wheel has gained a certain amount of Power in this state, it will use Rolling Pursuit 1 more time every 2 turns.\n4. At the start of the third phase, Barbaric Beast Wheel's final damage greatly increases and it gains Maximum Output, maintaining Power at 100. When Barbaric Beast Wheel spends Power to use a skill in this state, its final damage taken increases and it gains Overloader for 2 turns.\n5. At the start of the third phase, Barbaric Beast Wheel summons 2 Wheel's Afterimages. When Wheel's Afterimage is defeated, Barbaric Beast Wheel will be Weakened and unable to act for 1 turn."
   },
   {
     "sn": "918922",
     "name": "Barbaric Beast Wheel",
     "desc": "A Shadow that roams the halls of Tartarus. It attacks any human that enters its domain.",
-    "strategy": "Weaknesses and resistances are different than normal.\n1. Barbaric Beast Wheel gains a small amount of Power at the end of each turn.\n2. Each time a Phantom Thief deals damage to Barbaric Beast Wheel, it loses a certain amount of Power.\n3. At the start of the second phase, Barbaric Beast Wheel's Power gain rate is doubled and it gains Shifting Gears. When Power reaches 80, final damage increases and it gains the Irreversible state, preventing Power from dropping below 80. If Barbaric Beast Wheel has gained a certain amount of Power in this state, it will use Rolling Pursuit 1 more time every 2 turns.\n4. At the start of the third phase, Barbaric Beast Wheel's final damage greatly increases and it gains Maximum Output, maintaining Power at 100. When Barbaric Beast Wheel spends Power to use a skill in this state, its final damage taken increases and it gains Overload for 2 turns.\n5. At the start of the third phase, Barbaric Beast Wheel summons 2 Wheel's Afterimages. When Wheel's Afterimage is defeated, Barbaric Beast Wheel will be Weakened and unable to act for 1 turn."
+    "strategy": "Weaknesses and resistances are different than normal.\n1. Barbaric Beast Wheel gains a small amount of Power at the end of each turn.\n2. Each time a Phantom Thief deals damage to Barbaric Beast Wheel, it loses a certain amount of Power.\n3. At the start of the second phase, Barbaric Beast Wheel's Power gain rate is doubled and it gains Shifting Gears. When Power reaches 80, final damage increases and it gains the Irreversible state, preventing Power from dropping below 80. If Barbaric Beast Wheel has gained a certain amount of Power in this state, it will use Rolling Pursuit 1 more time every 2 turns.\n4. At the start of the third phase, Barbaric Beast Wheel's final damage greatly increases and it gains Maximum Output, maintaining Power at 100. When Barbaric Beast Wheel spends Power to use a skill in this state, its final damage taken increases and it gains Overloader for 2 turns.\n5. At the start of the third phase, Barbaric Beast Wheel summons 2 Wheel's Afterimages. When Wheel's Afterimage is defeated, Barbaric Beast Wheel will be Weakened and unable to act for 1 turn."
   },
   {
     "sn": "918923",
     "name": "Barbaric Beast Wheel",
     "desc": "A Shadow that roams the halls of Tartarus. It attacks any human that enters its domain.",
-    "strategy": "Weaknesses and resistances are different than normal.\n1. Barbaric Beast Wheel gains a small amount of Power at the end of each turn.\n2. Each time a Phantom Thief deals damage to Barbaric Beast Wheel, it loses a certain amount of Power.\n3. At the start of the second phase, Barbaric Beast Wheel's Power gain rate is doubled and it gains Shifting Gears. When Power reaches 80, final damage increases and it gains the Irreversible state, preventing Power from dropping below 80. If Barbaric Beast Wheel has gained a certain amount of Power in this state, it will use Rolling Pursuit 1 more time every 2 turns.\n4. At the start of the third phase, Barbaric Beast Wheel's final damage greatly increases and it gains Maximum Output, maintaining Power at 100. When Barbaric Beast Wheel spends Power to use a skill in this state, its final damage taken increases and it gains Overload for 2 turns.\n5. At the start of the third phase, Barbaric Beast Wheel summons 2 Wheel's Afterimages. When Wheel's Afterimage is defeated, Barbaric Beast Wheel will be Weakened and unable to act for 1 turn."
+    "strategy": "Weaknesses and resistances are different than normal.\n1. Barbaric Beast Wheel gains a small amount of Power at the end of each turn.\n2. Each time a Phantom Thief deals damage to Barbaric Beast Wheel, it loses a certain amount of Power.\n3. At the start of the second phase, Barbaric Beast Wheel's Power gain rate is doubled and it gains Shifting Gears. When Power reaches 80, final damage increases and it gains the Irreversible state, preventing Power from dropping below 80. If Barbaric Beast Wheel has gained a certain amount of Power in this state, it will use Rolling Pursuit 1 more time every 2 turns.\n4. At the start of the third phase, Barbaric Beast Wheel's final damage greatly increases and it gains Maximum Output, maintaining Power at 100. When Barbaric Beast Wheel spends Power to use a skill in this state, its final damage taken increases and it gains Overloader for 2 turns.\n5. At the start of the third phase, Barbaric Beast Wheel summons 2 Wheel's Afterimages. When Wheel's Afterimage is defeated, Barbaric Beast Wheel will be Weakened and unable to act for 1 turn."
   },
   {
     "sn": "918924",
@@ -4755,19 +4779,19 @@
     "sn": "918931",
     "name": "Barbaric Beast Wheel",
     "desc": "A Shadow that roams the halls of Tartarus. It attacks any human that enters its domain.",
-    "strategy": "Weaknesses and resistances are different than normal.\n1. Barbaric Beast Wheel gains a small amount of Power at the end of each turn.\n2. Each time a Phantom Thief deals damage to Barbaric Beast Wheel, it loses a certain amount of Power.\n3. At the start of the second phase, Barbaric Beast Wheel's Power gain rate is doubled and it gains Shifting Gears. When Power reaches 80, final damage increases and it gains the Irreversible state, preventing Power from dropping below 80. If Barbaric Beast Wheel has gained a certain amount of Power in this state, it will use Rolling Pursuit 1 more time every 2 turns.\n4. At the start of the third phase, Barbaric Beast Wheel's final damage greatly increases and it gains Maximum Output, maintaining Power at 100. When Barbaric Beast Wheel spends Power to use a skill in this state, its final damage taken increases and it gains Overload for 2 turns.\n5. At the start of the third phase, Barbaric Beast Wheel summons 2 Wheel's Afterimages. When Wheel's Afterimage is defeated, Barbaric Beast Wheel will be Weakened and unable to act for 1 turn."
+    "strategy": "Weaknesses and resistances are different than normal.\n1. Barbaric Beast Wheel gains a small amount of Power at the end of each turn.\n2. Each time a Phantom Thief deals damage to Barbaric Beast Wheel, it loses a certain amount of Power.\n3. At the start of the second phase, Barbaric Beast Wheel's Power gain rate is doubled and it gains Shifting Gears. When Power reaches 80, final damage increases and it gains the Irreversible state, preventing Power from dropping below 80. If Barbaric Beast Wheel has gained a certain amount of Power in this state, it will use Rolling Pursuit 1 more time every 2 turns.\n4. At the start of the third phase, Barbaric Beast Wheel's final damage greatly increases and it gains Maximum Output, maintaining Power at 100. When Barbaric Beast Wheel spends Power to use a skill in this state, its final damage taken increases and it gains Overloader for 2 turns.\n5. At the start of the third phase, Barbaric Beast Wheel summons 2 Wheel's Afterimages. When Wheel's Afterimage is defeated, Barbaric Beast Wheel will be Weakened and unable to act for 1 turn."
   },
   {
     "sn": "918932",
     "name": "Barbaric Beast Wheel",
     "desc": "A Shadow that roams the halls of Tartarus. It attacks any human that enters its domain.",
-    "strategy": "Weaknesses and resistances are different than normal.\n1. Barbaric Beast Wheel gains a small amount of Power at the end of each turn.\n2. Each time a Phantom Thief deals damage to Barbaric Beast Wheel, it loses a certain amount of Power.\n3. At the start of the second phase, Barbaric Beast Wheel's Power gain rate is doubled and it gains Shifting Gears. When Power reaches 80, final damage increases and it gains the Irreversible state, preventing Power from dropping below 80. If Barbaric Beast Wheel has gained a certain amount of Power in this state, it will use Rolling Pursuit 1 more time every 2 turns.\n4. At the start of the third phase, Barbaric Beast Wheel's final damage greatly increases and it gains Maximum Output, maintaining Power at 100. When Barbaric Beast Wheel spends Power to use a skill in this state, its final damage taken increases and it gains Overload for 2 turns.\n5. At the start of the third phase, Barbaric Beast Wheel summons 2 Wheel's Afterimages. When Wheel's Afterimage is defeated, Barbaric Beast Wheel will be Weakened and unable to act for 1 turn."
+    "strategy": "Weaknesses and resistances are different than normal.\n1. Barbaric Beast Wheel gains a small amount of Power at the end of each turn.\n2. Each time a Phantom Thief deals damage to Barbaric Beast Wheel, it loses a certain amount of Power.\n3. At the start of the second phase, Barbaric Beast Wheel's Power gain rate is doubled and it gains Shifting Gears. When Power reaches 80, final damage increases and it gains the Irreversible state, preventing Power from dropping below 80. If Barbaric Beast Wheel has gained a certain amount of Power in this state, it will use Rolling Pursuit 1 more time every 2 turns.\n4. At the start of the third phase, Barbaric Beast Wheel's final damage greatly increases and it gains Maximum Output, maintaining Power at 100. When Barbaric Beast Wheel spends Power to use a skill in this state, its final damage taken increases and it gains Overloader for 2 turns.\n5. At the start of the third phase, Barbaric Beast Wheel summons 2 Wheel's Afterimages. When Wheel's Afterimage is defeated, Barbaric Beast Wheel will be Weakened and unable to act for 1 turn."
   },
   {
     "sn": "918933",
     "name": "Barbaric Beast Wheel",
     "desc": "A Shadow that roams the halls of Tartarus. It attacks any human that enters its domain.",
-    "strategy": "Weaknesses and resistances are different than normal.\n1. Barbaric Beast Wheel gains a small amount of Power at the end of each turn.\n2. Each time a Phantom Thief deals damage to Barbaric Beast Wheel, it loses a certain amount of Power.\n3. At the start of the second phase, Barbaric Beast Wheel's Power gain rate is doubled and it gains Shifting Gears. When Power reaches 80, final damage increases and it gains the Irreversible state, preventing Power from dropping below 80. If Barbaric Beast Wheel has gained a certain amount of Power in this state, it will use Rolling Pursuit 1 more time every 2 turns.\n4. At the start of the third phase, Barbaric Beast Wheel's final damage greatly increases and it gains Maximum Output, maintaining Power at 100. When Barbaric Beast Wheel spends Power to use a skill in this state, its final damage taken increases and it gains Overload for 2 turns.\n5. At the start of the third phase, Barbaric Beast Wheel summons 2 Wheel's Afterimages. When Wheel's Afterimage is defeated, Barbaric Beast Wheel will be Weakened and unable to act for 1 turn."
+    "strategy": "Weaknesses and resistances are different than normal.\n1. Barbaric Beast Wheel gains a small amount of Power at the end of each turn.\n2. Each time a Phantom Thief deals damage to Barbaric Beast Wheel, it loses a certain amount of Power.\n3. At the start of the second phase, Barbaric Beast Wheel's Power gain rate is doubled and it gains Shifting Gears. When Power reaches 80, final damage increases and it gains the Irreversible state, preventing Power from dropping below 80. If Barbaric Beast Wheel has gained a certain amount of Power in this state, it will use Rolling Pursuit 1 more time every 2 turns.\n4. At the start of the third phase, Barbaric Beast Wheel's final damage greatly increases and it gains Maximum Output, maintaining Power at 100. When Barbaric Beast Wheel spends Power to use a skill in this state, its final damage taken increases and it gains Overloader for 2 turns.\n5. At the start of the third phase, Barbaric Beast Wheel summons 2 Wheel's Afterimages. When Wheel's Afterimage is defeated, Barbaric Beast Wheel will be Weakened and unable to act for 1 turn."
   },
   {
     "sn": "918934",
@@ -4785,19 +4809,19 @@
     "sn": "918941",
     "name": "Barbaric Beast Wheel",
     "desc": "A Shadow that roams the halls of Tartarus. It attacks any human that enters its domain.",
-    "strategy": "Weaknesses and resistances are different than normal.\n1. Barbaric Beast Wheel gains a small amount of Power at the end of each turn.\n2. Each time a Phantom Thief deals damage to Barbaric Beast Wheel, it loses a certain amount of Power.\n3. At the start of the second phase, Barbaric Beast Wheel's Power gain rate is doubled and it gains Shifting Gears. When Power reaches 80, final damage increases and it gains the Irreversible state, preventing Power from dropping below 80. If Barbaric Beast Wheel has gained a certain amount of Power in this state, it will use Rolling Pursuit 1 more time every 2 turns.\n4. At the start of the third phase, Barbaric Beast Wheel's final damage greatly increases and it gains Maximum Output, maintaining Power at 100. When Barbaric Beast Wheel spends Power to use a skill in this state, its final damage taken increases and it gains Overload for 2 turns.\n5. At the start of the third phase, Barbaric Beast Wheel summons 2 Wheel's Afterimages. When Wheel's Afterimage is defeated, Barbaric Beast Wheel will be Weakened and unable to act for 1 turn."
+    "strategy": "Weaknesses and resistances are different than normal.\n1. Barbaric Beast Wheel gains a small amount of Power at the end of each turn.\n2. Each time a Phantom Thief deals damage to Barbaric Beast Wheel, it loses a certain amount of Power.\n3. At the start of the second phase, Barbaric Beast Wheel's Power gain rate is doubled and it gains Shifting Gears. When Power reaches 80, final damage increases and it gains the Irreversible state, preventing Power from dropping below 80. If Barbaric Beast Wheel has gained a certain amount of Power in this state, it will use Rolling Pursuit 1 more time every 2 turns.\n4. At the start of the third phase, Barbaric Beast Wheel's final damage greatly increases and it gains Maximum Output, maintaining Power at 100. When Barbaric Beast Wheel spends Power to use a skill in this state, its final damage taken increases and it gains Overloader for 2 turns.\n5. At the start of the third phase, Barbaric Beast Wheel summons 2 Wheel's Afterimages. When Wheel's Afterimage is defeated, Barbaric Beast Wheel will be Weakened and unable to act for 1 turn."
   },
   {
     "sn": "918942",
     "name": "Barbaric Beast Wheel",
     "desc": "A Shadow that roams the halls of Tartarus. It attacks any human that enters its domain.",
-    "strategy": "Weaknesses and resistances are different than normal.\n1. Barbaric Beast Wheel gains a small amount of Power at the end of each turn.\n2. Each time a Phantom Thief deals damage to Barbaric Beast Wheel, it loses a certain amount of Power.\n3. At the start of the second phase, Barbaric Beast Wheel's Power gain rate is doubled and it gains Shifting Gears. When Power reaches 80, final damage increases and it gains the Irreversible state, preventing Power from dropping below 80. If Barbaric Beast Wheel has gained a certain amount of Power in this state, it will use Rolling Pursuit 1 more time every 2 turns.\n4. At the start of the third phase, Barbaric Beast Wheel's final damage greatly increases and it gains Maximum Output, maintaining Power at 100. When Barbaric Beast Wheel spends Power to use a skill in this state, its final damage taken increases and it gains Overload for 2 turns.\n5. At the start of the third phase, Barbaric Beast Wheel summons 2 Wheel's Afterimages. When Wheel's Afterimage is defeated, Barbaric Beast Wheel will be Weakened and unable to act for 1 turn."
+    "strategy": "Weaknesses and resistances are different than normal.\n1. Barbaric Beast Wheel gains a small amount of Power at the end of each turn.\n2. Each time a Phantom Thief deals damage to Barbaric Beast Wheel, it loses a certain amount of Power.\n3. At the start of the second phase, Barbaric Beast Wheel's Power gain rate is doubled and it gains Shifting Gears. When Power reaches 80, final damage increases and it gains the Irreversible state, preventing Power from dropping below 80. If Barbaric Beast Wheel has gained a certain amount of Power in this state, it will use Rolling Pursuit 1 more time every 2 turns.\n4. At the start of the third phase, Barbaric Beast Wheel's final damage greatly increases and it gains Maximum Output, maintaining Power at 100. When Barbaric Beast Wheel spends Power to use a skill in this state, its final damage taken increases and it gains Overloader for 2 turns.\n5. At the start of the third phase, Barbaric Beast Wheel summons 2 Wheel's Afterimages. When Wheel's Afterimage is defeated, Barbaric Beast Wheel will be Weakened and unable to act for 1 turn."
   },
   {
     "sn": "918943",
     "name": "Barbaric Beast Wheel",
     "desc": "A Shadow that roams the halls of Tartarus. It attacks any human that enters its domain.",
-    "strategy": "Weaknesses and resistances are different than normal.\n1. Barbaric Beast Wheel gains a small amount of Power at the end of each turn.\n2. Each time a Phantom Thief deals damage to Barbaric Beast Wheel, it loses a certain amount of Power.\n3. At the start of the second phase, Barbaric Beast Wheel's Power gain rate is doubled and it gains Shifting Gears. When Power reaches 80, final damage increases and it gains the Irreversible state, preventing Power from dropping below 80. If Barbaric Beast Wheel has gained a certain amount of Power in this state, it will use Rolling Pursuit 1 more time every 2 turns.\n4. At the start of the third phase, Barbaric Beast Wheel's final damage greatly increases and it gains Maximum Output, maintaining Power at 100. When Barbaric Beast Wheel spends Power to use a skill in this state, its final damage taken increases and it gains Overload for 2 turns.\n5. At the start of the third phase, Barbaric Beast Wheel summons 2 Wheel's Afterimages. When Wheel's Afterimage is defeated, Barbaric Beast Wheel will be Weakened and unable to act for 1 turn."
+    "strategy": "Weaknesses and resistances are different than normal.\n1. Barbaric Beast Wheel gains a small amount of Power at the end of each turn.\n2. Each time a Phantom Thief deals damage to Barbaric Beast Wheel, it loses a certain amount of Power.\n3. At the start of the second phase, Barbaric Beast Wheel's Power gain rate is doubled and it gains Shifting Gears. When Power reaches 80, final damage increases and it gains the Irreversible state, preventing Power from dropping below 80. If Barbaric Beast Wheel has gained a certain amount of Power in this state, it will use Rolling Pursuit 1 more time every 2 turns.\n4. At the start of the third phase, Barbaric Beast Wheel's final damage greatly increases and it gains Maximum Output, maintaining Power at 100. When Barbaric Beast Wheel spends Power to use a skill in this state, its final damage taken increases and it gains Overloader for 2 turns.\n5. At the start of the third phase, Barbaric Beast Wheel summons 2 Wheel's Afterimages. When Wheel's Afterimage is defeated, Barbaric Beast Wheel will be Weakened and unable to act for 1 turn."
   },
   {
     "sn": "918944",
@@ -4815,19 +4839,19 @@
     "sn": "918951",
     "name": "Barbaric Beast Wheel",
     "desc": "A Shadow that roams the halls of Tartarus. It attacks any human that enters its domain.",
-    "strategy": "Weaknesses and resistances are different than normal.\n1. Barbaric Beast Wheel gains a small amount of Power at the end of each turn.\n2. Each time a Phantom Thief deals damage to Barbaric Beast Wheel, it loses a certain amount of Power.\n3. At the start of the second phase, Barbaric Beast Wheel's Power gain rate is doubled and it gains Shifting Gears. When Power reaches 80, final damage increases and it gains the Irreversible state, preventing Power from dropping below 80. If Barbaric Beast Wheel has gained a certain amount of Power in this state, it will use Rolling Pursuit 1 more time every 2 turns.\n4. At the start of the third phase, Barbaric Beast Wheel's final damage greatly increases and it gains Maximum Output, maintaining Power at 100. When Barbaric Beast Wheel spends Power to use a skill in this state, its final damage taken increases and it gains Overload for 2 turns.\n5. At the start of the third phase, Barbaric Beast Wheel summons 2 Wheel's Afterimages. When Wheel's Afterimage is defeated, Barbaric Beast Wheel will be Weakened and unable to act for 1 turn."
+    "strategy": "Weaknesses and resistances are different than normal.\n1. Barbaric Beast Wheel gains a small amount of Power at the end of each turn.\n2. Each time a Phantom Thief deals damage to Barbaric Beast Wheel, it loses a certain amount of Power.\n3. At the start of the second phase, Barbaric Beast Wheel's Power gain rate is doubled and it gains Shifting Gears. When Power reaches 80, final damage increases and it gains the Irreversible state, preventing Power from dropping below 80. If Barbaric Beast Wheel has gained a certain amount of Power in this state, it will use Rolling Pursuit 1 more time every 2 turns.\n4. At the start of the third phase, Barbaric Beast Wheel's final damage greatly increases and it gains Maximum Output, maintaining Power at 100. When Barbaric Beast Wheel spends Power to use a skill in this state, its final damage taken increases and it gains Overloader for 2 turns.\n5. At the start of the third phase, Barbaric Beast Wheel summons 2 Wheel's Afterimages. When Wheel's Afterimage is defeated, Barbaric Beast Wheel will be Weakened and unable to act for 1 turn."
   },
   {
     "sn": "918952",
     "name": "Barbaric Beast Wheel",
     "desc": "A Shadow that roams the halls of Tartarus. It attacks any human that enters its domain.",
-    "strategy": "Weaknesses and resistances are different than normal.\n1. Barbaric Beast Wheel gains a small amount of Power at the end of each turn.\n2. Each time a Phantom Thief deals damage to Barbaric Beast Wheel, it loses a certain amount of Power.\n3. At the start of the second phase, Barbaric Beast Wheel's Power gain rate is doubled and it gains Shifting Gears. When Power reaches 80, final damage increases and it gains the Irreversible state, preventing Power from dropping below 80. If Barbaric Beast Wheel has gained a certain amount of Power in this state, it will use Rolling Pursuit 1 more time every 2 turns.\n4. At the start of the third phase, Barbaric Beast Wheel's final damage greatly increases and it gains Maximum Output, maintaining Power at 100. When Barbaric Beast Wheel spends Power to use a skill in this state, its final damage taken increases and it gains Overload for 2 turns.\n5. At the start of the third phase, Barbaric Beast Wheel summons 2 Wheel's Afterimages. When Wheel's Afterimage is defeated, Barbaric Beast Wheel will be Weakened and unable to act for 1 turn."
+    "strategy": "Weaknesses and resistances are different than normal.\n1. Barbaric Beast Wheel gains a small amount of Power at the end of each turn.\n2. Each time a Phantom Thief deals damage to Barbaric Beast Wheel, it loses a certain amount of Power.\n3. At the start of the second phase, Barbaric Beast Wheel's Power gain rate is doubled and it gains Shifting Gears. When Power reaches 80, final damage increases and it gains the Irreversible state, preventing Power from dropping below 80. If Barbaric Beast Wheel has gained a certain amount of Power in this state, it will use Rolling Pursuit 1 more time every 2 turns.\n4. At the start of the third phase, Barbaric Beast Wheel's final damage greatly increases and it gains Maximum Output, maintaining Power at 100. When Barbaric Beast Wheel spends Power to use a skill in this state, its final damage taken increases and it gains Overloader for 2 turns.\n5. At the start of the third phase, Barbaric Beast Wheel summons 2 Wheel's Afterimages. When Wheel's Afterimage is defeated, Barbaric Beast Wheel will be Weakened and unable to act for 1 turn."
   },
   {
     "sn": "918953",
     "name": "Barbaric Beast Wheel",
     "desc": "A Shadow that roams the halls of Tartarus. It attacks any human that enters its domain.",
-    "strategy": "Weaknesses and resistances are different than normal.\n1. Barbaric Beast Wheel gains a small amount of Power at the end of each turn.\n2. Each time a Phantom Thief deals damage to Barbaric Beast Wheel, it loses a certain amount of Power.\n3. At the start of the second phase, Barbaric Beast Wheel's Power gain rate is doubled and it gains Shifting Gears. When Power reaches 80, final damage increases and it gains the Irreversible state, preventing Power from dropping below 80. If Barbaric Beast Wheel has gained a certain amount of Power in this state, it will use Rolling Pursuit 1 more time every 2 turns.\n4. At the start of the third phase, Barbaric Beast Wheel's final damage greatly increases and it gains Maximum Output, maintaining Power at 100. When Barbaric Beast Wheel spends Power to use a skill in this state, its final damage taken increases and it gains Overload for 2 turns.\n5. At the start of the third phase, Barbaric Beast Wheel summons 2 Wheel's Afterimages. When Wheel's Afterimage is defeated, Barbaric Beast Wheel will be Weakened and unable to act for 1 turn."
+    "strategy": "Weaknesses and resistances are different than normal.\n1. Barbaric Beast Wheel gains a small amount of Power at the end of each turn.\n2. Each time a Phantom Thief deals damage to Barbaric Beast Wheel, it loses a certain amount of Power.\n3. At the start of the second phase, Barbaric Beast Wheel's Power gain rate is doubled and it gains Shifting Gears. When Power reaches 80, final damage increases and it gains the Irreversible state, preventing Power from dropping below 80. If Barbaric Beast Wheel has gained a certain amount of Power in this state, it will use Rolling Pursuit 1 more time every 2 turns.\n4. At the start of the third phase, Barbaric Beast Wheel's final damage greatly increases and it gains Maximum Output, maintaining Power at 100. When Barbaric Beast Wheel spends Power to use a skill in this state, its final damage taken increases and it gains Overloader for 2 turns.\n5. At the start of the third phase, Barbaric Beast Wheel summons 2 Wheel's Afterimages. When Wheel's Afterimage is defeated, Barbaric Beast Wheel will be Weakened and unable to act for 1 turn."
   },
   {
     "sn": "918954",
@@ -4845,19 +4869,19 @@
     "sn": "918961",
     "name": "Barbaric Beast Wheel",
     "desc": "A Shadow that roams the halls of Tartarus. It attacks any human that enters its domain.",
-    "strategy": "Weaknesses and resistances are different than normal.\n1. Barbaric Beast Wheel gains a small amount of Power at the end of each turn.\n2. Each time a Phantom Thief deals damage to Barbaric Beast Wheel, it loses a certain amount of Power.\n3. At the start of the second phase, Barbaric Beast Wheel's Power gain rate is doubled and it gains Shifting Gears. When Power reaches 80, final damage increases and it gains the Irreversible state, preventing Power from dropping below 80. If Barbaric Beast Wheel has gained a certain amount of Power in this state, it will use Rolling Pursuit 1 more time every 2 turns.\n4. At the start of the third phase, Barbaric Beast Wheel's final damage greatly increases and it gains Maximum Output, maintaining Power at 100. When Barbaric Beast Wheel spends Power to use a skill in this state, its final damage taken increases and it gains Overload for 2 turns.\n5. At the start of the third phase, Barbaric Beast Wheel summons 2 Wheel's Afterimages. When Wheel's Afterimage is defeated, Barbaric Beast Wheel will be Weakened and unable to act for 1 turn."
+    "strategy": "Weaknesses and resistances are different than normal.\n1. Barbaric Beast Wheel gains a small amount of Power at the end of each turn.\n2. Each time a Phantom Thief deals damage to Barbaric Beast Wheel, it loses a certain amount of Power.\n3. At the start of the second phase, Barbaric Beast Wheel's Power gain rate is doubled and it gains Shifting Gears. When Power reaches 80, final damage increases and it gains the Irreversible state, preventing Power from dropping below 80. If Barbaric Beast Wheel has gained a certain amount of Power in this state, it will use Rolling Pursuit 1 more time every 2 turns.\n4. At the start of the third phase, Barbaric Beast Wheel's final damage greatly increases and it gains Maximum Output, maintaining Power at 100. When Barbaric Beast Wheel spends Power to use a skill in this state, its final damage taken increases and it gains Overloader for 2 turns.\n5. At the start of the third phase, Barbaric Beast Wheel summons 2 Wheel's Afterimages. When Wheel's Afterimage is defeated, Barbaric Beast Wheel will be Weakened and unable to act for 1 turn."
   },
   {
     "sn": "918962",
     "name": "Barbaric Beast Wheel",
     "desc": "A Shadow that roams the halls of Tartarus. It attacks any human that enters its domain.",
-    "strategy": "Weaknesses and resistances are different than normal.\n1. Barbaric Beast Wheel gains a small amount of Power at the end of each turn.\n2. Each time a Phantom Thief deals damage to Barbaric Beast Wheel, it loses a certain amount of Power.\n3. At the start of the second phase, Barbaric Beast Wheel's Power gain rate is doubled and it gains Shifting Gears. When Power reaches 80, final damage increases and it gains the Irreversible state, preventing Power from dropping below 80. If Barbaric Beast Wheel has gained a certain amount of Power in this state, it will use Rolling Pursuit 1 more time every 2 turns.\n4. At the start of the third phase, Barbaric Beast Wheel's final damage greatly increases and it gains Maximum Output, maintaining Power at 100. When Barbaric Beast Wheel spends Power to use a skill in this state, its final damage taken increases and it gains Overload for 2 turns.\n5. At the start of the third phase, Barbaric Beast Wheel summons 2 Wheel's Afterimages. When Wheel's Afterimage is defeated, Barbaric Beast Wheel will be Weakened and unable to act for 1 turn."
+    "strategy": "Weaknesses and resistances are different than normal.\n1. Barbaric Beast Wheel gains a small amount of Power at the end of each turn.\n2. Each time a Phantom Thief deals damage to Barbaric Beast Wheel, it loses a certain amount of Power.\n3. At the start of the second phase, Barbaric Beast Wheel's Power gain rate is doubled and it gains Shifting Gears. When Power reaches 80, final damage increases and it gains the Irreversible state, preventing Power from dropping below 80. If Barbaric Beast Wheel has gained a certain amount of Power in this state, it will use Rolling Pursuit 1 more time every 2 turns.\n4. At the start of the third phase, Barbaric Beast Wheel's final damage greatly increases and it gains Maximum Output, maintaining Power at 100. When Barbaric Beast Wheel spends Power to use a skill in this state, its final damage taken increases and it gains Overloader for 2 turns.\n5. At the start of the third phase, Barbaric Beast Wheel summons 2 Wheel's Afterimages. When Wheel's Afterimage is defeated, Barbaric Beast Wheel will be Weakened and unable to act for 1 turn."
   },
   {
     "sn": "918963",
     "name": "Barbaric Beast Wheel",
     "desc": "A Shadow that roams the halls of Tartarus. It attacks any human that enters its domain.",
-    "strategy": "Weaknesses and resistances are different than normal.\n1. Barbaric Beast Wheel gains a small amount of Power at the end of each turn.\n2. Each time a Phantom Thief deals damage to Barbaric Beast Wheel, it loses a certain amount of Power.\n3. At the start of the second phase, Barbaric Beast Wheel's Power gain rate is doubled and it gains Shifting Gears. When Power reaches 80, final damage increases and it gains the Irreversible state, preventing Power from dropping below 80. If Barbaric Beast Wheel has gained a certain amount of Power in this state, it will use Rolling Pursuit 1 more time every 2 turns.\n4. At the start of the third phase, Barbaric Beast Wheel's final damage greatly increases and it gains Maximum Output, maintaining Power at 100. When Barbaric Beast Wheel spends Power to use a skill in this state, its final damage taken increases and it gains Overload for 2 turns.\n5. At the start of the third phase, Barbaric Beast Wheel summons 2 Wheel's Afterimages. When Wheel's Afterimage is defeated, Barbaric Beast Wheel will be Weakened and unable to act for 1 turn."
+    "strategy": "Weaknesses and resistances are different than normal.\n1. Barbaric Beast Wheel gains a small amount of Power at the end of each turn.\n2. Each time a Phantom Thief deals damage to Barbaric Beast Wheel, it loses a certain amount of Power.\n3. At the start of the second phase, Barbaric Beast Wheel's Power gain rate is doubled and it gains Shifting Gears. When Power reaches 80, final damage increases and it gains the Irreversible state, preventing Power from dropping below 80. If Barbaric Beast Wheel has gained a certain amount of Power in this state, it will use Rolling Pursuit 1 more time every 2 turns.\n4. At the start of the third phase, Barbaric Beast Wheel's final damage greatly increases and it gains Maximum Output, maintaining Power at 100. When Barbaric Beast Wheel spends Power to use a skill in this state, its final damage taken increases and it gains Overloader for 2 turns.\n5. At the start of the third phase, Barbaric Beast Wheel summons 2 Wheel's Afterimages. When Wheel's Afterimage is defeated, Barbaric Beast Wheel will be Weakened and unable to act for 1 turn."
   },
   {
     "sn": "918964",
@@ -4879,7 +4903,7 @@
   },
   {
     "sn": "919021",
-    "name": "Slaughter Twins",
+    "name": "Heat Balance",
     "desc": "A Shadow that roams the halls of Tartarus. It attacks any human that enters its domain.",
     "strategy": "AAAAAA=="
   },
@@ -4903,25 +4927,25 @@
   },
   {
     "sn": "919041",
-    "name": "Merciless Maya",
+    "name": "Bestial Wheel",
     "desc": "A Shadow that roams the halls of Tartarus. It attacks any human that enters its domain.",
     "strategy": "AAAAAA=="
   },
   {
     "sn": "919042",
-    "name": "Magic Hand",
+    "name": "Heat Balance",
     "desc": "A Shadow that roams the halls of Tartarus. It attacks any human that enters its domain.",
     "strategy": "AAAAAA=="
   },
   {
     "sn": "919043",
-    "name": "Magic Hand",
+    "name": "Heat Balance",
     "desc": "A Shadow that roams the halls of Tartarus. It attacks any human that enters its domain.",
     "strategy": "AAAAAA=="
   },
   {
     "sn": "919051",
-    "name": "Obsessed Cupid",
+    "name": "Heat Balance",
     "desc": "A Shadow that roams the halls of Tartarus. It attacks any human that enters its domain.",
     "strategy": "AAAAAA=="
   },
@@ -4945,91 +4969,91 @@
   },
   {
     "sn": "919071",
-    "name": "Obsessed Cupid",
+    "name": "Spurious Book",
     "desc": "A Shadow that roams the halls of Tartarus. It attacks any human that enters its domain.",
     "strategy": "AAAAAA=="
   },
   {
     "sn": "919072",
-    "name": "Grave Beetle",
+    "name": "Bestial Wheel",
     "desc": "A Shadow that roams the halls of Tartarus. It attacks any human that enters its domain.",
     "strategy": "AAAAAA=="
   },
   {
     "sn": "919073",
-    "name": "Grave Beetle",
+    "name": "Bestial Wheel",
     "desc": "A Shadow that roams the halls of Tartarus. It attacks any human that enters its domain.",
     "strategy": "AAAAAA=="
   },
   {
     "sn": "919081",
-    "name": "Merciless Maya",
+    "name": "Wild Beast",
     "desc": "A Shadow that roams the halls of Tartarus. It attacks any human that enters its domain.",
     "strategy": "AAAAAA=="
   },
   {
     "sn": "919082",
-    "name": "Magic Hand",
+    "name": "Spurious Book",
     "desc": "A Shadow that roams the halls of Tartarus. It attacks any human that enters its domain.",
     "strategy": "AAAAAA=="
   },
   {
     "sn": "919083",
-    "name": "Magic Hand",
+    "name": "Spurious Book",
     "desc": "A Shadow that roams the halls of Tartarus. It attacks any human that enters its domain.",
     "strategy": "AAAAAA=="
   },
   {
     "sn": "919091",
-    "name": "Obsessed Cupid",
+    "name": "Phantom Mage",
     "desc": "A Shadow that roams the halls of Tartarus. It attacks any human that enters its domain.",
     "strategy": "AAAAAA=="
   },
   {
     "sn": "919092",
-    "name": "Grave Beetle",
+    "name": "Wild Beast",
     "desc": "A Shadow that roams the halls of Tartarus. It attacks any human that enters its domain.",
     "strategy": "AAAAAA=="
   },
   {
     "sn": "919093",
-    "name": "Grave Beetle",
+    "name": "Wild Beast",
     "desc": "A Shadow that roams the halls of Tartarus. It attacks any human that enters its domain.",
     "strategy": "AAAAAA=="
   },
   {
     "sn": "919101",
-    "name": "Merciless Maya",
+    "name": "Venus Eagle",
     "desc": "A Shadow that roams the halls of Tartarus. It attacks any human that enters its domain.",
     "strategy": "AAAAAA=="
   },
   {
     "sn": "919102",
-    "name": "Magic Hand",
+    "name": "Phantom Mage",
     "desc": "A Shadow that roams the halls of Tartarus. It attacks any human that enters its domain.",
     "strategy": "AAAAAA=="
   },
   {
     "sn": "919103",
-    "name": "Magic Hand",
+    "name": "Phantom Mage",
     "desc": "A Shadow that roams the halls of Tartarus. It attacks any human that enters its domain.",
     "strategy": "AAAAAA=="
   },
   {
     "sn": "919111",
-    "name": "Merciless Maya",
+    "name": "Soul Dancer",
     "desc": "A Shadow that roams the halls of Tartarus. It attacks any human that enters its domain.",
     "strategy": "AAAAAA=="
   },
   {
     "sn": "919112",
-    "name": "Magic Hand",
+    "name": "Venus Eagle",
     "desc": "A Shadow that roams the halls of Tartarus. It attacks any human that enters its domain.",
     "strategy": "AAAAAA=="
   },
   {
     "sn": "919113",
-    "name": "Magic Hand",
+    "name": "Venus Eagle",
     "desc": "A Shadow that roams the halls of Tartarus. It attacks any human that enters its domain.",
     "strategy": "AAAAAA=="
   },
@@ -5037,31 +5061,31 @@
     "sn": "919501",
     "name": "Lascivious Lady",
     "desc": "A Shadow that roams the halls of Tartarus. It attacks any human that enters its domain.",
-    "strategy": "AAAAAA=="
+    "strategy": "1. Each time a certain number of turns pass, Lascivious Lady uses Temptation, inflicting all Phantom Thieves with Infatuation. Lose 1 Infatuation stack when healing is received.\n2. At the start of Lascivious Lady's turn, if any Phantom Thieves have reached 5, 10 or 15 total Infatuation stacks for the first time, select one of them, and spend 5 of the target's Infatuation stacks to use Spiral of Desire.\nSpiral of Desire: Become unable to act for 2 turns. This state is counted as a <color=#FF423F>spiritual ailment</color>.\n3. Each time a certain number of turns pass, Lascivious Lady inflicts Passionate Gaze on the Phantom Thieves, then uses Passionate Impulse on the next turn to deal Psychokinesis damage. Increase damage based on target's total Infatuation stacks."
   },
   {
     "sn": "919502",
     "name": "Lascivious Lady",
     "desc": "A Shadow that roams the halls of Tartarus. It attacks any human that enters its domain.",
-    "strategy": "AAAAAA=="
+    "strategy": "1. Each time a certain number of turns pass, Lascivious Lady uses Temptation, inflicting all Phantom Thieves with Infatuation. Lose 1 Infatuation stack when healing is received.\n2. At the start of Lascivious Lady's turn, if any Phantom Thieves have reached 5, 10 or 15 total Infatuation stacks for the first time, select one of them, and spend 5 of the target's Infatuation stacks to use Spiral of Desire.\nSpiral of Desire: Become unable to act for 2 turns. This state is counted as a <color=#FF423F>spiritual ailment</color>.\n3. Each time a certain number of turns pass, Lascivious Lady inflicts Passionate Gaze on the Phantom Thieves, then uses Passionate Impulse on the next turn to deal Psychokinesis damage. Increase damage based on target's total Infatuation stacks."
   },
   {
     "sn": "919503",
     "name": "Lascivious Lady",
     "desc": "A Shadow that roams the halls of Tartarus. It attacks any human that enters its domain.",
-    "strategy": "AAAAAA=="
+    "strategy": "1. Each time a certain number of turns pass, Lascivious Lady uses Temptation, inflicting all Phantom Thieves with Infatuation. Lose 1 Infatuation stack when healing is received.\n2. At the start of Lascivious Lady's turn, if any Phantom Thieves have reached 5, 10 or 15 total Infatuation stacks for the first time, select one of them, and spend 5 of the target's Infatuation stacks to use Spiral of Desire.\nSpiral of Desire: Become unable to act for 2 turns. This state is counted as a <color=#FF423F>spiritual ailment</color>.\n3. Each time a certain number of turns pass, Lascivious Lady inflicts Passionate Gaze on the Phantom Thieves, then uses Passionate Impulse on the next turn to deal Psychokinesis damage. Increase damage based on target's total Infatuation stacks."
   },
   {
     "sn": "919504",
     "name": "Cowardly Maya",
     "desc": "A Shadow that roams the halls of Tartarus. It attacks any human that enters its domain.",
-    "strategy": "AAAAAA=="
+    "strategy": "Party recovers HP when Cowardly Maya is defeated."
   },
   {
     "sn": "919505",
     "name": "Cowardly Maya",
     "desc": "A Shadow that roams the halls of Tartarus. It attacks any human that enters its domain.",
-    "strategy": "AAAAAA=="
+    "strategy": "Party recovers HP when Cowardly Maya is defeated."
   },
   {
     "sn": "919211",
@@ -5113,7 +5137,7 @@
   },
   {
     "sn": "919311",
-    "name": "Grieving Tiara",
+    "name": "Bestial Wheel",
     "desc": "A Shadow that roams the halls of Tartarus. It attacks any human that enters its domain.",
     "strategy": "AAAAAA=="
   },
@@ -5149,25 +5173,25 @@
   },
   {
     "sn": "919331",
-    "name": "Cowardly Maya",
+    "name": "Bestial Wheel",
     "desc": "A Shadow that roams the halls of Tartarus. It attacks any human that enters its domain.",
     "strategy": "AAAAAA=="
   },
   {
     "sn": "919332",
-    "name": "Merciless Maya",
+    "name": "Heat Balance",
     "desc": "A Shadow that roams the halls of Tartarus. It attacks any human that enters its domain.",
     "strategy": "AAAAAA=="
   },
   {
     "sn": "919333",
-    "name": "Merciless Maya",
+    "name": "Heat Balance",
     "desc": "A Shadow that roams the halls of Tartarus. It attacks any human that enters its domain.",
     "strategy": "AAAAAA=="
   },
   {
     "sn": "919341",
-    "name": "Merciless Maya",
+    "name": "Bestial Wheel",
     "desc": "A Shadow that roams the halls of Tartarus. It attacks any human that enters its domain.",
     "strategy": "AAAAAA=="
   },
@@ -5185,7 +5209,7 @@
   },
   {
     "sn": "919351",
-    "name": "Grave Beetle",
+    "name": "Heat Balance",
     "desc": "A Shadow that roams the halls of Tartarus. It attacks any human that enters its domain.",
     "strategy": "AAAAAA=="
   },
@@ -5203,7 +5227,7 @@
   },
   {
     "sn": "919361",
-    "name": "Obsessed Cupid",
+    "name": "Spurious Book",
     "desc": "A Shadow that roams the halls of Tartarus. It attacks any human that enters its domain.",
     "strategy": "AAAAAA=="
   },
@@ -5221,7 +5245,7 @@
   },
   {
     "sn": "919371",
-    "name": "Magic Hand",
+    "name": "Phantom Mage",
     "desc": "A Shadow that roams the halls of Tartarus. It attacks any human that enters its domain.",
     "strategy": "AAAAAA=="
   },
@@ -5239,7 +5263,7 @@
   },
   {
     "sn": "919381",
-    "name": "Grieving Tiara",
+    "name": "Soul Dancer",
     "desc": "A Shadow that roams the halls of Tartarus. It attacks any human that enters its domain.",
     "strategy": "AAAAAA=="
   },
@@ -5257,37 +5281,37 @@
   },
   {
     "sn": "919411",
-    "name": "Merciless Maya",
+    "name": "Spurious Book",
     "desc": "A Shadow that roams the halls of Tartarus. It attacks any human that enters its domain.",
     "strategy": "AAAAAA=="
   },
   {
     "sn": "919412",
-    "name": "Grave Beetle",
+    "name": "Cowardly Maya",
     "desc": "A Shadow that roams the halls of Tartarus. It attacks any human that enters its domain.",
     "strategy": "AAAAAA=="
   },
   {
     "sn": "919413",
-    "name": "Grave Beetle",
+    "name": "Cowardly Maya",
     "desc": "A Shadow that roams the halls of Tartarus. It attacks any human that enters its domain.",
     "strategy": "AAAAAA=="
   },
   {
     "sn": "919421",
-    "name": "Grave Beetle",
+    "name": "Phantom Mage",
     "desc": "A Shadow that roams the halls of Tartarus. It attacks any human that enters its domain.",
     "strategy": "AAAAAA=="
   },
   {
     "sn": "919422",
-    "name": "Obsessed Cupid",
+    "name": "Wild Beast",
     "desc": "A Shadow that roams the halls of Tartarus. It attacks any human that enters its domain.",
     "strategy": "AAAAAA=="
   },
   {
     "sn": "919423",
-    "name": "Obsessed Cupid",
+    "name": "Wild Beast",
     "desc": "A Shadow that roams the halls of Tartarus. It attacks any human that enters its domain.",
     "strategy": "AAAAAA=="
   },
@@ -5521,13 +5545,13 @@
   },
   {
     "sn": "919603",
-    "name": "Grave Beetle",
+    "name": "Merciless Maya",
     "desc": "A Shadow that roams the halls of Tartarus. It attacks any human that enters its domain.",
     "strategy": "AAAAAA=="
   },
   {
     "sn": "919604",
-    "name": "Grave Beetle",
+    "name": "Merciless Maya",
     "desc": "A Shadow that roams the halls of Tartarus. It attacks any human that enters its domain.",
     "strategy": "AAAAAA=="
   },
@@ -5557,109 +5581,109 @@
   },
   {
     "sn": "919621",
-    "name": "Grieving Tiara",
+    "name": "Bestial Wheel",
     "desc": "A Shadow that roams the halls of Tartarus. It attacks any human that enters its domain.",
     "strategy": "AAAAAA=="
   },
   {
     "sn": "919622",
-    "name": "Grieving Tiara",
+    "name": "Bestial Wheel",
     "desc": "A Shadow that roams the halls of Tartarus. It attacks any human that enters its domain.",
     "strategy": "AAAAAA=="
   },
   {
     "sn": "919623",
-    "name": "Merciless Maya",
+    "name": "Grieving Tiara",
     "desc": "A Shadow that roams the halls of Tartarus. It attacks any human that enters its domain.",
     "strategy": "AAAAAA=="
   },
   {
     "sn": "919624",
-    "name": "Merciless Maya",
+    "name": "Grieving Tiara",
     "desc": "A Shadow that roams the halls of Tartarus. It attacks any human that enters its domain.",
     "strategy": "AAAAAA=="
   },
   {
     "sn": "919631",
-    "name": "Merciless Maya",
+    "name": "Obsessed Cupid",
     "desc": "A Shadow that roams the halls of Tartarus. It attacks any human that enters its domain.",
     "strategy": "AAAAAA=="
   },
   {
     "sn": "919632",
-    "name": "Merciless Maya",
+    "name": "Obsessed Cupid",
     "desc": "A Shadow that roams the halls of Tartarus. It attacks any human that enters its domain.",
     "strategy": "AAAAAA=="
   },
   {
     "sn": "919633",
-    "name": "Grave Beetle",
+    "name": "Bestial Wheel",
     "desc": "A Shadow that roams the halls of Tartarus. It attacks any human that enters its domain.",
     "strategy": "AAAAAA=="
   },
   {
     "sn": "919634",
-    "name": "Grave Beetle",
+    "name": "Bestial Wheel",
     "desc": "A Shadow that roams the halls of Tartarus. It attacks any human that enters its domain.",
     "strategy": "AAAAAA=="
   },
   {
     "sn": "919641",
-    "name": "Magic Hand",
+    "name": "Heat Balance",
     "desc": "A Shadow that roams the halls of Tartarus. It attacks any human that enters its domain.",
     "strategy": "AAAAAA=="
   },
   {
     "sn": "919642",
-    "name": "Magic Hand",
+    "name": "Heat Balance",
     "desc": "A Shadow that roams the halls of Tartarus. It attacks any human that enters its domain.",
     "strategy": "AAAAAA=="
   },
   {
     "sn": "919643",
-    "name": "Slaughter Twins",
+    "name": "Grieving Tiara",
     "desc": "A Shadow that roams the halls of Tartarus. It attacks any human that enters its domain.",
     "strategy": "AAAAAA=="
   },
   {
     "sn": "919644",
-    "name": "Slaughter Twins",
+    "name": "Grieving Tiara",
     "desc": "A Shadow that roams the halls of Tartarus. It attacks any human that enters its domain.",
     "strategy": "AAAAAA=="
   },
   {
     "sn": "919651",
-    "name": "Slaughter Twins",
+    "name": "Bestial Wheel",
     "desc": "A Shadow that roams the halls of Tartarus. It attacks any human that enters its domain.",
     "strategy": "AAAAAA=="
   },
   {
     "sn": "919652",
-    "name": "Slaughter Twins",
+    "name": "Bestial Wheel",
     "desc": "A Shadow that roams the halls of Tartarus. It attacks any human that enters its domain.",
     "strategy": "AAAAAA=="
   },
   {
     "sn": "919653",
-    "name": "Grave Beetle",
+    "name": "Cowardly Maya",
     "desc": "A Shadow that roams the halls of Tartarus. It attacks any human that enters its domain.",
     "strategy": "AAAAAA=="
   },
   {
     "sn": "919654",
-    "name": "Grave Beetle",
+    "name": "Cowardly Maya",
     "desc": "A Shadow that roams the halls of Tartarus. It attacks any human that enters its domain.",
     "strategy": "AAAAAA=="
   },
   {
     "sn": "919661",
-    "name": "Grave Beetle",
+    "name": "Slaughter Twins",
     "desc": "A Shadow that roams the halls of Tartarus. It attacks any human that enters its domain.",
     "strategy": "AAAAAA=="
   },
   {
     "sn": "919662",
-    "name": "Grave Beetle",
+    "name": "Slaughter Twins",
     "desc": "A Shadow that roams the halls of Tartarus. It attacks any human that enters its domain.",
     "strategy": "AAAAAA=="
   },
@@ -5677,229 +5701,229 @@
   },
   {
     "sn": "919671",
-    "name": "Grieving Tiara",
+    "name": "Grave Beetle",
     "desc": "A Shadow that roams the halls of Tartarus. It attacks any human that enters its domain.",
     "strategy": "AAAAAA=="
   },
   {
     "sn": "919672",
-    "name": "Grieving Tiara",
+    "name": "Grave Beetle",
     "desc": "A Shadow that roams the halls of Tartarus. It attacks any human that enters its domain.",
     "strategy": "AAAAAA=="
   },
   {
     "sn": "919673",
-    "name": "Obsessed Cupid",
+    "name": "Slaughter Twins",
     "desc": "A Shadow that roams the halls of Tartarus. It attacks any human that enters its domain.",
     "strategy": "AAAAAA=="
   },
   {
     "sn": "919674",
-    "name": "Obsessed Cupid",
+    "name": "Slaughter Twins",
     "desc": "A Shadow that roams the halls of Tartarus. It attacks any human that enters its domain.",
     "strategy": "AAAAAA=="
   },
   {
     "sn": "919681",
-    "name": "Obsessed Cupid",
+    "name": "Bestial Wheel",
     "desc": "A Shadow that roams the halls of Tartarus. It attacks any human that enters its domain.",
     "strategy": "AAAAAA=="
   },
   {
     "sn": "919682",
-    "name": "Obsessed Cupid",
+    "name": "Bestial Wheel",
     "desc": "A Shadow that roams the halls of Tartarus. It attacks any human that enters its domain.",
     "strategy": "AAAAAA=="
   },
   {
     "sn": "919683",
-    "name": "Merciless Maya",
+    "name": "Magic Hand",
     "desc": "A Shadow that roams the halls of Tartarus. It attacks any human that enters its domain.",
     "strategy": "AAAAAA=="
   },
   {
     "sn": "919684",
-    "name": "Merciless Maya",
+    "name": "Magic Hand",
     "desc": "A Shadow that roams the halls of Tartarus. It attacks any human that enters its domain.",
     "strategy": "AAAAAA=="
   },
   {
     "sn": "919691",
-    "name": "Magic Hand",
+    "name": "Merciless Maya",
     "desc": "A Shadow that roams the halls of Tartarus. It attacks any human that enters its domain.",
     "strategy": "AAAAAA=="
   },
   {
     "sn": "919692",
-    "name": "Magic Hand",
+    "name": "Merciless Maya",
     "desc": "A Shadow that roams the halls of Tartarus. It attacks any human that enters its domain.",
     "strategy": "AAAAAA=="
   },
   {
     "sn": "919693",
-    "name": "Grieving Tiara",
+    "name": "Bestial Wheel",
     "desc": "A Shadow that roams the halls of Tartarus. It attacks any human that enters its domain.",
     "strategy": "AAAAAA=="
   },
   {
     "sn": "919694",
-    "name": "Grieving Tiara",
+    "name": "Bestial Wheel",
     "desc": "A Shadow that roams the halls of Tartarus. It attacks any human that enters its domain.",
     "strategy": "AAAAAA=="
   },
   {
     "sn": "919701",
-    "name": "Slaughter Twins",
+    "name": "Bestial Wheel",
     "desc": "A Shadow that roams the halls of Tartarus. It attacks any human that enters its domain.",
     "strategy": "AAAAAA=="
   },
   {
     "sn": "919702",
-    "name": "Slaughter Twins",
+    "name": "Bestial Wheel",
     "desc": "A Shadow that roams the halls of Tartarus. It attacks any human that enters its domain.",
     "strategy": "AAAAAA=="
   },
   {
     "sn": "919703",
-    "name": "Cowardly Maya",
+    "name": "Magic Hand",
     "desc": "A Shadow that roams the halls of Tartarus. It attacks any human that enters its domain.",
     "strategy": "AAAAAA=="
   },
   {
     "sn": "919704",
-    "name": "Cowardly Maya",
+    "name": "Magic Hand",
     "desc": "A Shadow that roams the halls of Tartarus. It attacks any human that enters its domain.",
     "strategy": "AAAAAA=="
   },
   {
     "sn": "919711",
-    "name": "Merciless Maya",
+    "name": "Obsessed Cupid",
     "desc": "A Shadow that roams the halls of Tartarus. It attacks any human that enters its domain.",
     "strategy": "AAAAAA=="
   },
   {
     "sn": "919712",
-    "name": "Merciless Maya",
+    "name": "Obsessed Cupid",
     "desc": "A Shadow that roams the halls of Tartarus. It attacks any human that enters its domain.",
     "strategy": "AAAAAA=="
   },
   {
     "sn": "919713",
-    "name": "Slaughter Twins",
+    "name": "Heat Balance",
     "desc": "A Shadow that roams the halls of Tartarus. It attacks any human that enters its domain.",
     "strategy": "AAAAAA=="
   },
   {
     "sn": "919714",
-    "name": "Slaughter Twins",
+    "name": "Heat Balance",
     "desc": "A Shadow that roams the halls of Tartarus. It attacks any human that enters its domain.",
     "strategy": "AAAAAA=="
   },
   {
     "sn": "919721",
-    "name": "Cowardly Maya",
+    "name": "Heat Balance",
     "desc": "A Shadow that roams the halls of Tartarus. It attacks any human that enters its domain.",
     "strategy": "AAAAAA=="
   },
   {
     "sn": "919722",
-    "name": "Cowardly Maya",
+    "name": "Heat Balance",
     "desc": "A Shadow that roams the halls of Tartarus. It attacks any human that enters its domain.",
     "strategy": "AAAAAA=="
   },
   {
     "sn": "919723",
-    "name": "Grieving Tiara",
+    "name": "Magic Hand",
     "desc": "A Shadow that roams the halls of Tartarus. It attacks any human that enters its domain.",
     "strategy": "AAAAAA=="
   },
   {
     "sn": "919724",
-    "name": "Grieving Tiara",
+    "name": "Magic Hand",
     "desc": "A Shadow that roams the halls of Tartarus. It attacks any human that enters its domain.",
     "strategy": "AAAAAA=="
   },
   {
     "sn": "919731",
-    "name": "Slaughter Twins",
+    "name": "Grave Beetle",
     "desc": "A Shadow that roams the halls of Tartarus. It attacks any human that enters its domain.",
     "strategy": "AAAAAA=="
   },
   {
     "sn": "919732",
-    "name": "Slaughter Twins",
+    "name": "Grave Beetle",
     "desc": "A Shadow that roams the halls of Tartarus. It attacks any human that enters its domain.",
     "strategy": "AAAAAA=="
   },
   {
     "sn": "919733",
-    "name": "Cowardly Maya",
+    "name": "Merciless Maya",
     "desc": "A Shadow that roams the halls of Tartarus. It attacks any human that enters its domain.",
     "strategy": "AAAAAA=="
   },
   {
     "sn": "919734",
-    "name": "Cowardly Maya",
+    "name": "Merciless Maya",
     "desc": "A Shadow that roams the halls of Tartarus. It attacks any human that enters its domain.",
     "strategy": "AAAAAA=="
   },
   {
     "sn": "919741",
-    "name": "Merciless Maya",
+    "name": "Obsessed Cupid",
     "desc": "A Shadow that roams the halls of Tartarus. It attacks any human that enters its domain.",
     "strategy": "AAAAAA=="
   },
   {
     "sn": "919742",
-    "name": "Merciless Maya",
+    "name": "Obsessed Cupid",
     "desc": "A Shadow that roams the halls of Tartarus. It attacks any human that enters its domain.",
     "strategy": "AAAAAA=="
   },
   {
     "sn": "919743",
-    "name": "Slaughter Twins",
+    "name": "Heat Balance",
     "desc": "A Shadow that roams the halls of Tartarus. It attacks any human that enters its domain.",
     "strategy": "AAAAAA=="
   },
   {
     "sn": "919744",
-    "name": "Slaughter Twins",
+    "name": "Heat Balance",
     "desc": "A Shadow that roams the halls of Tartarus. It attacks any human that enters its domain.",
     "strategy": "AAAAAA=="
   },
   {
     "sn": "919751",
-    "name": "Cowardly Maya",
+    "name": "Heat Balance",
     "desc": "A Shadow that roams the halls of Tartarus. It attacks any human that enters its domain.",
     "strategy": "AAAAAA=="
   },
   {
     "sn": "919752",
-    "name": "Cowardly Maya",
+    "name": "Heat Balance",
     "desc": "A Shadow that roams the halls of Tartarus. It attacks any human that enters its domain.",
     "strategy": "AAAAAA=="
   },
   {
     "sn": "919753",
-    "name": "Grieving Tiara",
+    "name": "Grave Beetle",
     "desc": "A Shadow that roams the halls of Tartarus. It attacks any human that enters its domain.",
     "strategy": "AAAAAA=="
   },
   {
     "sn": "919754",
-    "name": "Grieving Tiara",
+    "name": "Grave Beetle",
     "desc": "A Shadow that roams the halls of Tartarus. It attacks any human that enters its domain.",
     "strategy": "AAAAAA=="
   },
   {
     "sn": "919761",
-    "name": "Slaughter Twins",
+    "name": "Grave Beetle",
     "desc": "A Shadow that roams the halls of Tartarus. It attacks any human that enters its domain.",
     "strategy": "AAAAAA=="
   },
   {
     "sn": "919762",
-    "name": "Slaughter Twins",
+    "name": "Grave Beetle",
     "desc": "A Shadow that roams the halls of Tartarus. It attacks any human that enters its domain.",
     "strategy": "AAAAAA=="
   },
@@ -5929,37 +5953,37 @@
   },
   {
     "sn": "919773",
-    "name": "Slaughter Twins",
+    "name": "Grieving Tiara",
     "desc": "A Shadow that roams the halls of Tartarus. It attacks any human that enters its domain.",
     "strategy": "AAAAAA=="
   },
   {
     "sn": "919774",
-    "name": "Slaughter Twins",
+    "name": "Grieving Tiara",
     "desc": "A Shadow that roams the halls of Tartarus. It attacks any human that enters its domain.",
     "strategy": "AAAAAA=="
   },
   {
     "sn": "919781",
-    "name": "Cowardly Maya",
+    "name": "Magic Hand",
     "desc": "A Shadow that roams the halls of Tartarus. It attacks any human that enters its domain.",
     "strategy": "AAAAAA=="
   },
   {
     "sn": "919782",
-    "name": "Cowardly Maya",
+    "name": "Magic Hand",
     "desc": "A Shadow that roams the halls of Tartarus. It attacks any human that enters its domain.",
     "strategy": "AAAAAA=="
   },
   {
     "sn": "919783",
-    "name": "Grieving Tiara",
+    "name": "Slaughter Twins",
     "desc": "A Shadow that roams the halls of Tartarus. It attacks any human that enters its domain.",
     "strategy": "AAAAAA=="
   },
   {
     "sn": "919784",
-    "name": "Grieving Tiara",
+    "name": "Slaughter Twins",
     "desc": "A Shadow that roams the halls of Tartarus. It attacks any human that enters its domain.",
     "strategy": "AAAAAA=="
   },
@@ -5977,13 +6001,13 @@
   },
   {
     "sn": "919793",
-    "name": "Cowardly Maya",
+    "name": "Obsessed Cupid",
     "desc": "A Shadow that roams the halls of Tartarus. It attacks any human that enters its domain.",
     "strategy": "AAAAAA=="
   },
   {
     "sn": "919794",
-    "name": "Cowardly Maya",
+    "name": "Obsessed Cupid",
     "desc": "A Shadow that roams the halls of Tartarus. It attacks any human that enters its domain.",
     "strategy": "AAAAAA=="
   },
@@ -6001,73 +6025,73 @@
   },
   {
     "sn": "919803",
-    "name": "Slaughter Twins",
+    "name": "Grave Beetle",
     "desc": "A Shadow that roams the halls of Tartarus. It attacks any human that enters its domain.",
     "strategy": "AAAAAA=="
   },
   {
     "sn": "919804",
-    "name": "Slaughter Twins",
+    "name": "Grave Beetle",
     "desc": "A Shadow that roams the halls of Tartarus. It attacks any human that enters its domain.",
     "strategy": "AAAAAA=="
   },
   {
     "sn": "919811",
-    "name": "Slaughter Twins",
+    "name": "Heat Balance",
     "desc": "A Shadow that roams the halls of Tartarus. It attacks any human that enters its domain.",
     "strategy": "AAAAAA=="
   },
   {
     "sn": "919812",
-    "name": "Slaughter Twins",
+    "name": "Heat Balance",
     "desc": "A Shadow that roams the halls of Tartarus. It attacks any human that enters its domain.",
     "strategy": "AAAAAA=="
   },
   {
     "sn": "919813",
-    "name": "Cowardly Maya",
+    "name": "Grieving Tiara",
     "desc": "A Shadow that roams the halls of Tartarus. It attacks any human that enters its domain.",
     "strategy": "AAAAAA=="
   },
   {
     "sn": "919814",
-    "name": "Cowardly Maya",
+    "name": "Grieving Tiara",
     "desc": "A Shadow that roams the halls of Tartarus. It attacks any human that enters its domain.",
     "strategy": "AAAAAA=="
   },
   {
     "sn": "919821",
-    "name": "Merciless Maya",
+    "name": "Bestial Wheel",
     "desc": "A Shadow that roams the halls of Tartarus. It attacks any human that enters its domain.",
     "strategy": "AAAAAA=="
   },
   {
     "sn": "919822",
-    "name": "Merciless Maya",
+    "name": "Bestial Wheel",
     "desc": "A Shadow that roams the halls of Tartarus. It attacks any human that enters its domain.",
     "strategy": "AAAAAA=="
   },
   {
     "sn": "919823",
-    "name": "Slaughter Twins",
+    "name": "Merciless Maya",
     "desc": "A Shadow that roams the halls of Tartarus. It attacks any human that enters its domain.",
     "strategy": "AAAAAA=="
   },
   {
     "sn": "919824",
-    "name": "Slaughter Twins",
+    "name": "Merciless Maya",
     "desc": "A Shadow that roams the halls of Tartarus. It attacks any human that enters its domain.",
     "strategy": "AAAAAA=="
   },
   {
     "sn": "919831",
-    "name": "Cowardly Maya",
+    "name": "Heat Balance",
     "desc": "A Shadow that roams the halls of Tartarus. It attacks any human that enters its domain.",
     "strategy": "AAAAAA=="
   },
   {
     "sn": "919832",
-    "name": "Cowardly Maya",
+    "name": "Heat Balance",
     "desc": "A Shadow that roams the halls of Tartarus. It attacks any human that enters its domain.",
     "strategy": "AAAAAA=="
   },
@@ -6085,133 +6109,133 @@
   },
   {
     "sn": "919841",
-    "name": "Slaughter Twins",
+    "name": "Spurious Book",
     "desc": "A Shadow that roams the halls of Tartarus. It attacks any human that enters its domain.",
     "strategy": "AAAAAA=="
   },
   {
     "sn": "919842",
-    "name": "Slaughter Twins",
+    "name": "Spurious Book",
     "desc": "A Shadow that roams the halls of Tartarus. It attacks any human that enters its domain.",
     "strategy": "AAAAAA=="
   },
   {
     "sn": "919843",
-    "name": "Cowardly Maya",
+    "name": "Slaughter Twins",
     "desc": "A Shadow that roams the halls of Tartarus. It attacks any human that enters its domain.",
     "strategy": "AAAAAA=="
   },
   {
     "sn": "919844",
-    "name": "Cowardly Maya",
+    "name": "Slaughter Twins",
     "desc": "A Shadow that roams the halls of Tartarus. It attacks any human that enters its domain.",
     "strategy": "AAAAAA=="
   },
   {
     "sn": "919851",
-    "name": "Merciless Maya",
+    "name": "Wild Beast",
     "desc": "A Shadow that roams the halls of Tartarus. It attacks any human that enters its domain.",
     "strategy": "AAAAAA=="
   },
   {
     "sn": "919852",
-    "name": "Merciless Maya",
+    "name": "Wild Beast",
     "desc": "A Shadow that roams the halls of Tartarus. It attacks any human that enters its domain.",
     "strategy": "AAAAAA=="
   },
   {
     "sn": "919853",
-    "name": "Slaughter Twins",
+    "name": "Merciless Maya",
     "desc": "A Shadow that roams the halls of Tartarus. It attacks any human that enters its domain.",
     "strategy": "AAAAAA=="
   },
   {
     "sn": "919854",
-    "name": "Slaughter Twins",
+    "name": "Merciless Maya",
     "desc": "A Shadow that roams the halls of Tartarus. It attacks any human that enters its domain.",
     "strategy": "AAAAAA=="
   },
   {
     "sn": "919861",
-    "name": "Cowardly Maya",
+    "name": "Spurious Book",
     "desc": "A Shadow that roams the halls of Tartarus. It attacks any human that enters its domain.",
     "strategy": "AAAAAA=="
   },
   {
     "sn": "919862",
-    "name": "Cowardly Maya",
+    "name": "Spurious Book",
     "desc": "A Shadow that roams the halls of Tartarus. It attacks any human that enters its domain.",
     "strategy": "AAAAAA=="
   },
   {
     "sn": "919863",
-    "name": "Grieving Tiara",
+    "name": "Wild Beast",
     "desc": "A Shadow that roams the halls of Tartarus. It attacks any human that enters its domain.",
     "strategy": "AAAAAA=="
   },
   {
     "sn": "919864",
-    "name": "Grieving Tiara",
+    "name": "Wild Beast",
     "desc": "A Shadow that roams the halls of Tartarus. It attacks any human that enters its domain.",
     "strategy": "AAAAAA=="
   },
   {
     "sn": "919871",
-    "name": "Slaughter Twins",
+    "name": "Wild Beast",
     "desc": "A Shadow that roams the halls of Tartarus. It attacks any human that enters its domain.",
     "strategy": "AAAAAA=="
   },
   {
     "sn": "919872",
-    "name": "Slaughter Twins",
+    "name": "Wild Beast",
     "desc": "A Shadow that roams the halls of Tartarus. It attacks any human that enters its domain.",
     "strategy": "AAAAAA=="
   },
   {
     "sn": "919873",
-    "name": "Cowardly Maya",
+    "name": "Phantom Mage",
     "desc": "A Shadow that roams the halls of Tartarus. It attacks any human that enters its domain.",
     "strategy": "AAAAAA=="
   },
   {
     "sn": "919874",
-    "name": "Cowardly Maya",
+    "name": "Phantom Mage",
     "desc": "A Shadow that roams the halls of Tartarus. It attacks any human that enters its domain.",
     "strategy": "AAAAAA=="
   },
   {
     "sn": "919881",
-    "name": "Merciless Maya",
+    "name": "Phantom Mage",
     "desc": "A Shadow that roams the halls of Tartarus. It attacks any human that enters its domain.",
     "strategy": "AAAAAA=="
   },
   {
     "sn": "919882",
-    "name": "Merciless Maya",
+    "name": "Phantom Mage",
     "desc": "A Shadow that roams the halls of Tartarus. It attacks any human that enters its domain.",
     "strategy": "AAAAAA=="
   },
   {
     "sn": "919883",
-    "name": "Slaughter Twins",
+    "name": "Spurious Book",
     "desc": "A Shadow that roams the halls of Tartarus. It attacks any human that enters its domain.",
     "strategy": "AAAAAA=="
   },
   {
     "sn": "919884",
-    "name": "Slaughter Twins",
+    "name": "Spurious Book",
     "desc": "A Shadow that roams the halls of Tartarus. It attacks any human that enters its domain.",
     "strategy": "AAAAAA=="
   },
   {
     "sn": "919891",
-    "name": "Cowardly Maya",
+    "name": "Wild Beast",
     "desc": "A Shadow that roams the halls of Tartarus. It attacks any human that enters its domain.",
     "strategy": "AAAAAA=="
   },
   {
     "sn": "919892",
-    "name": "Cowardly Maya",
+    "name": "Wild Beast",
     "desc": "A Shadow that roams the halls of Tartarus. It attacks any human that enters its domain.",
     "strategy": "AAAAAA=="
   },
@@ -6229,123 +6253,309 @@
   },
   {
     "sn": "919901",
-    "name": "Slaughter Twins",
+    "name": "Phantom Mage",
     "desc": "A Shadow that roams the halls of Tartarus. It attacks any human that enters its domain.",
     "strategy": "AAAAAA=="
   },
   {
     "sn": "919902",
-    "name": "Slaughter Twins",
+    "name": "Phantom Mage",
     "desc": "A Shadow that roams the halls of Tartarus. It attacks any human that enters its domain.",
     "strategy": "AAAAAA=="
   },
   {
     "sn": "919903",
-    "name": "Cowardly Maya",
+    "name": "Spurious Book",
     "desc": "A Shadow that roams the halls of Tartarus. It attacks any human that enters its domain.",
     "strategy": "AAAAAA=="
   },
   {
     "sn": "919904",
-    "name": "Cowardly Maya",
+    "name": "Spurious Book",
+    "desc": "A Shadow that roams the halls of Tartarus. It attacks any human that enters its domain.",
+    "strategy": "AAAAAA=="
+  },
+  {
+    "sn": "919431",
+    "name": "Soul Dancer",
+    "desc": "A Shadow that roams the halls of Tartarus. It attacks any human that enters its domain.",
+    "strategy": "AAAAAA=="
+  },
+  {
+    "sn": "919432",
+    "name": "Soul Dancer",
+    "desc": "A Shadow that roams the halls of Tartarus. It attacks any human that enters its domain.",
+    "strategy": "AAAAAA=="
+  },
+  {
+    "sn": "919433",
+    "name": "Phantom Mage",
+    "desc": "A Shadow that roams the halls of Tartarus. It attacks any human that enters its domain.",
+    "strategy": "AAAAAA=="
+  },
+  {
+    "sn": "919434",
+    "name": "Phantom Mage",
+    "desc": "A Shadow that roams the halls of Tartarus. It attacks any human that enters its domain.",
+    "strategy": "AAAAAA=="
+  },
+  {
+    "sn": "919441",
+    "name": "Spurious Book",
+    "desc": "A Shadow that roams the halls of Tartarus. It attacks any human that enters its domain.",
+    "strategy": "AAAAAA=="
+  },
+  {
+    "sn": "919442",
+    "name": "Spurious Book",
+    "desc": "A Shadow that roams the halls of Tartarus. It attacks any human that enters its domain.",
+    "strategy": "AAAAAA=="
+  },
+  {
+    "sn": "919443",
+    "name": "Venus Eagle",
+    "desc": "A Shadow that roams the halls of Tartarus. It attacks any human that enters its domain.",
+    "strategy": "AAAAAA=="
+  },
+  {
+    "sn": "919444",
+    "name": "Venus Eagle",
+    "desc": "A Shadow that roams the halls of Tartarus. It attacks any human that enters its domain.",
+    "strategy": "AAAAAA=="
+  },
+  {
+    "sn": "919451",
+    "name": "Venus Eagle",
+    "desc": "A Shadow that roams the halls of Tartarus. It attacks any human that enters its domain.",
+    "strategy": "AAAAAA=="
+  },
+  {
+    "sn": "919452",
+    "name": "Venus Eagle",
+    "desc": "A Shadow that roams the halls of Tartarus. It attacks any human that enters its domain.",
+    "strategy": "AAAAAA=="
+  },
+  {
+    "sn": "919453",
+    "name": "Phantom Mage",
+    "desc": "A Shadow that roams the halls of Tartarus. It attacks any human that enters its domain.",
+    "strategy": "AAAAAA=="
+  },
+  {
+    "sn": "919454",
+    "name": "Phantom Mage",
+    "desc": "A Shadow that roams the halls of Tartarus. It attacks any human that enters its domain.",
+    "strategy": "AAAAAA=="
+  },
+  {
+    "sn": "919461",
+    "name": "Soul Dancer",
+    "desc": "A Shadow that roams the halls of Tartarus. It attacks any human that enters its domain.",
+    "strategy": "AAAAAA=="
+  },
+  {
+    "sn": "919462",
+    "name": "Soul Dancer",
+    "desc": "A Shadow that roams the halls of Tartarus. It attacks any human that enters its domain.",
+    "strategy": "AAAAAA=="
+  },
+  {
+    "sn": "919463",
+    "name": "Venus Eagle",
+    "desc": "A Shadow that roams the halls of Tartarus. It attacks any human that enters its domain.",
+    "strategy": "AAAAAA=="
+  },
+  {
+    "sn": "919464",
+    "name": "Venus Eagle",
     "desc": "A Shadow that roams the halls of Tartarus. It attacks any human that enters its domain.",
     "strategy": "AAAAAA=="
   },
   {
     "sn": "919911",
-    "name": "Merciless Maya",
+    "name": "Lascivious Lady",
     "desc": "A Shadow that roams the halls of Tartarus. It attacks any human that enters its domain.",
-    "strategy": "AAAAAA=="
+    "strategy": "1. Each time a certain number of turns pass, Lascivious Lady uses Temptation, inflicting all Phantom Thieves with Infatuation. Lose 1 Infatuation stack when healing is received.\n2. At the start of Lascivious Lady's turn, if any Phantom Thieves have reached 5, 10 or 15 total Infatuation stacks for the first time, select one of them, and spend 5 of the target's Infatuation stacks to use Spiral of Desire.\nSpiral of Desire: Become unable to act for 2 turns. This state is counted as a <color=#FF423F>spiritual ailment</color>.\n3. Each time a certain number of turns pass, Lascivious Lady inflicts Passionate Gaze on the Phantom Thieves, then uses Passionate Impulse on the next turn to deal Psychokinesis damage. Increase damage based on target's total Infatuation stacks."
   },
   {
     "sn": "919912",
-    "name": "Merciless Maya",
+    "name": "Lascivious Lady",
     "desc": "A Shadow that roams the halls of Tartarus. It attacks any human that enters its domain.",
-    "strategy": "AAAAAA=="
+    "strategy": "1. Each time a certain number of turns pass, Lascivious Lady uses Temptation, inflicting all Phantom Thieves with Infatuation. Lose 1 Infatuation stack when healing is received.\n2. At the start of Lascivious Lady's turn, if any Phantom Thieves have reached 5, 10 or 15 total Infatuation stacks for the first time, select one of them, and spend 5 of the target's Infatuation stacks to use Spiral of Desire.\nSpiral of Desire: Become unable to act for 2 turns. This state is counted as a <color=#FF423F>spiritual ailment</color>.\n3. Each time a certain number of turns pass, Lascivious Lady inflicts Passionate Gaze on the Phantom Thieves, then uses Passionate Impulse on the next turn to deal Psychokinesis damage. Increase damage based on target's total Infatuation stacks."
   },
   {
     "sn": "919913",
-    "name": "Slaughter Twins",
+    "name": "Lascivious Lady",
     "desc": "A Shadow that roams the halls of Tartarus. It attacks any human that enters its domain.",
-    "strategy": "AAAAAA=="
+    "strategy": "1. Each time a certain number of turns pass, Lascivious Lady uses Temptation, inflicting all Phantom Thieves with Infatuation. Lose 1 Infatuation stack when healing is received.\n2. At the start of Lascivious Lady's turn, if any Phantom Thieves have reached 5, 10 or 15 total Infatuation stacks for the first time, select one of them, and spend 5 of the target's Infatuation stacks to use Spiral of Desire.\nSpiral of Desire: Become unable to act for 2 turns. This state is counted as a <color=#FF423F>spiritual ailment</color>.\n3. Each time a certain number of turns pass, Lascivious Lady inflicts Passionate Gaze on the Phantom Thieves, then uses Passionate Impulse on the next turn to deal Psychokinesis damage. Increase damage based on target's total Infatuation stacks."
   },
   {
     "sn": "919914",
-    "name": "Slaughter Twins",
+    "name": "Cowardly Maya",
     "desc": "A Shadow that roams the halls of Tartarus. It attacks any human that enters its domain.",
-    "strategy": "AAAAAA=="
+    "strategy": "Party recovers HP when Cowardly Maya is defeated."
+  },
+  {
+    "sn": "919915",
+    "name": "Cowardly Maya",
+    "desc": "A Shadow that roams the halls of Tartarus. It attacks any human that enters its domain.",
+    "strategy": "Party recovers HP when Cowardly Maya is defeated."
   },
   {
     "sn": "919921",
-    "name": "Slaughter Twins",
+    "name": "Lascivious Lady",
     "desc": "A Shadow that roams the halls of Tartarus. It attacks any human that enters its domain.",
-    "strategy": "AAAAAA=="
+    "strategy": "1. Each time a certain number of turns pass, Lascivious Lady uses Temptation, inflicting all Phantom Thieves with Infatuation. Lose 1 Infatuation stack when healing is received.\n2. At the start of Lascivious Lady's turn, if any Phantom Thieves have reached 5, 10 or 15 total Infatuation stacks for the first time, select one of them, and spend 5 of the target's Infatuation stacks to use Spiral of Desire.\nSpiral of Desire: Become unable to act for 2 turns. This state is counted as a <color=#FF423F>spiritual ailment</color>.\n3. Each time a certain number of turns pass, Lascivious Lady inflicts Passionate Gaze on the Phantom Thieves, then uses Passionate Impulse on the next turn to deal Psychokinesis damage. Increase damage based on target's total Infatuation stacks."
   },
   {
     "sn": "919922",
-    "name": "Slaughter Twins",
+    "name": "Lascivious Lady",
     "desc": "A Shadow that roams the halls of Tartarus. It attacks any human that enters its domain.",
-    "strategy": "AAAAAA=="
+    "strategy": "1. Each time a certain number of turns pass, Lascivious Lady uses Temptation, inflicting all Phantom Thieves with Infatuation. Lose 1 Infatuation stack when healing is received.\n2. At the start of Lascivious Lady's turn, if any Phantom Thieves have reached 5, 10 or 15 total Infatuation stacks for the first time, select one of them, and spend 5 of the target's Infatuation stacks to use Spiral of Desire.\nSpiral of Desire: Become unable to act for 2 turns. This state is counted as a <color=#FF423F>spiritual ailment</color>.\n3. Each time a certain number of turns pass, Lascivious Lady inflicts Passionate Gaze on the Phantom Thieves, then uses Passionate Impulse on the next turn to deal Psychokinesis damage. Increase damage based on target's total Infatuation stacks."
   },
   {
     "sn": "919923",
-    "name": "Cowardly Maya",
+    "name": "Lascivious Lady",
     "desc": "A Shadow that roams the halls of Tartarus. It attacks any human that enters its domain.",
-    "strategy": "AAAAAA=="
+    "strategy": "1. Each time a certain number of turns pass, Lascivious Lady uses Temptation, inflicting all Phantom Thieves with Infatuation. Lose 1 Infatuation stack when healing is received.\n2. At the start of Lascivious Lady's turn, if any Phantom Thieves have reached 5, 10 or 15 total Infatuation stacks for the first time, select one of them, and spend 5 of the target's Infatuation stacks to use Spiral of Desire.\nSpiral of Desire: Become unable to act for 2 turns. This state is counted as a <color=#FF423F>spiritual ailment</color>.\n3. Each time a certain number of turns pass, Lascivious Lady inflicts Passionate Gaze on the Phantom Thieves, then uses Passionate Impulse on the next turn to deal Psychokinesis damage. Increase damage based on target's total Infatuation stacks."
   },
   {
     "sn": "919924",
     "name": "Cowardly Maya",
     "desc": "A Shadow that roams the halls of Tartarus. It attacks any human that enters its domain.",
-    "strategy": "AAAAAA=="
+    "strategy": "Party recovers HP when Cowardly Maya is defeated."
+  },
+  {
+    "sn": "919925",
+    "name": "Cowardly Maya",
+    "desc": "A Shadow that roams the halls of Tartarus. It attacks any human that enters its domain.",
+    "strategy": "Party recovers HP when Cowardly Maya is defeated."
   },
   {
     "sn": "919931",
-    "name": "Merciless Maya",
+    "name": "Lascivious Lady",
     "desc": "A Shadow that roams the halls of Tartarus. It attacks any human that enters its domain.",
-    "strategy": "AAAAAA=="
+    "strategy": "1. Each time a certain number of turns pass, Lascivious Lady uses Temptation, inflicting all Phantom Thieves with Infatuation. Lose 1 Infatuation stack when healing is received.\n2. At the start of Lascivious Lady's turn, if any Phantom Thieves have reached 5, 10 or 15 total Infatuation stacks for the first time, select one of them, and spend 5 of the target's Infatuation stacks to use Spiral of Desire.\nSpiral of Desire: Become unable to act for 2 turns. This state is counted as a <color=#FF423F>spiritual ailment</color>.\n3. Each time a certain number of turns pass, Lascivious Lady inflicts Passionate Gaze on the Phantom Thieves, then uses Passionate Impulse on the next turn to deal Psychokinesis damage. Increase damage based on target's total Infatuation stacks."
   },
   {
     "sn": "919932",
-    "name": "Merciless Maya",
+    "name": "Lascivious Lady",
     "desc": "A Shadow that roams the halls of Tartarus. It attacks any human that enters its domain.",
-    "strategy": "AAAAAA=="
+    "strategy": "1. Each time a certain number of turns pass, Lascivious Lady uses Temptation, inflicting all Phantom Thieves with Infatuation. Lose 1 Infatuation stack when healing is received.\n2. At the start of Lascivious Lady's turn, if any Phantom Thieves have reached 5, 10 or 15 total Infatuation stacks for the first time, select one of them, and spend 5 of the target's Infatuation stacks to use Spiral of Desire.\nSpiral of Desire: Become unable to act for 2 turns. This state is counted as a <color=#FF423F>spiritual ailment</color>.\n3. Each time a certain number of turns pass, Lascivious Lady inflicts Passionate Gaze on the Phantom Thieves, then uses Passionate Impulse on the next turn to deal Psychokinesis damage. Increase damage based on target's total Infatuation stacks."
   },
   {
     "sn": "919933",
-    "name": "Slaughter Twins",
+    "name": "Lascivious Lady",
     "desc": "A Shadow that roams the halls of Tartarus. It attacks any human that enters its domain.",
-    "strategy": "AAAAAA=="
+    "strategy": "1. Each time a certain number of turns pass, Lascivious Lady uses Temptation, inflicting all Phantom Thieves with Infatuation. Lose 1 Infatuation stack when healing is received.\n2. At the start of Lascivious Lady's turn, if any Phantom Thieves have reached 5, 10 or 15 total Infatuation stacks for the first time, select one of them, and spend 5 of the target's Infatuation stacks to use Spiral of Desire.\nSpiral of Desire: Become unable to act for 2 turns. This state is counted as a <color=#FF423F>spiritual ailment</color>.\n3. Each time a certain number of turns pass, Lascivious Lady inflicts Passionate Gaze on the Phantom Thieves, then uses Passionate Impulse on the next turn to deal Psychokinesis damage. Increase damage based on target's total Infatuation stacks."
   },
   {
     "sn": "919934",
-    "name": "Slaughter Twins",
+    "name": "Cowardly Maya",
     "desc": "A Shadow that roams the halls of Tartarus. It attacks any human that enters its domain.",
-    "strategy": "AAAAAA=="
+    "strategy": "Party recovers HP when Cowardly Maya is defeated."
+  },
+  {
+    "sn": "919935",
+    "name": "Cowardly Maya",
+    "desc": "A Shadow that roams the halls of Tartarus. It attacks any human that enters its domain.",
+    "strategy": "Party recovers HP when Cowardly Maya is defeated."
   },
   {
     "sn": "919941",
-    "name": "Cowardly Maya",
+    "name": "Lascivious Lady",
     "desc": "A Shadow that roams the halls of Tartarus. It attacks any human that enters its domain.",
-    "strategy": "AAAAAA=="
+    "strategy": "1. Each time a certain number of turns pass, Lascivious Lady uses Temptation, inflicting all Phantom Thieves with Infatuation. Lose 1 Infatuation stack when healing is received.\n2. At the start of Lascivious Lady's turn, if any Phantom Thieves have reached 5, 10 or 15 total Infatuation stacks for the first time, select one of them, and spend 5 of the target's Infatuation stacks to use Spiral of Desire.\nSpiral of Desire: Become unable to act for 2 turns. This state is counted as a <color=#FF423F>spiritual ailment</color>.\n3. Each time a certain number of turns pass, Lascivious Lady inflicts Passionate Gaze on the Phantom Thieves, then uses Passionate Impulse on the next turn to deal Psychokinesis damage. Increase damage based on target's total Infatuation stacks."
   },
   {
     "sn": "919942",
-    "name": "Cowardly Maya",
+    "name": "Lascivious Lady",
     "desc": "A Shadow that roams the halls of Tartarus. It attacks any human that enters its domain.",
-    "strategy": "AAAAAA=="
+    "strategy": "1. Each time a certain number of turns pass, Lascivious Lady uses Temptation, inflicting all Phantom Thieves with Infatuation. Lose 1 Infatuation stack when healing is received.\n2. At the start of Lascivious Lady's turn, if any Phantom Thieves have reached 5, 10 or 15 total Infatuation stacks for the first time, select one of them, and spend 5 of the target's Infatuation stacks to use Spiral of Desire.\nSpiral of Desire: Become unable to act for 2 turns. This state is counted as a <color=#FF423F>spiritual ailment</color>.\n3. Each time a certain number of turns pass, Lascivious Lady inflicts Passionate Gaze on the Phantom Thieves, then uses Passionate Impulse on the next turn to deal Psychokinesis damage. Increase damage based on target's total Infatuation stacks."
   },
   {
     "sn": "919943",
-    "name": "Grieving Tiara",
+    "name": "Lascivious Lady",
     "desc": "A Shadow that roams the halls of Tartarus. It attacks any human that enters its domain.",
-    "strategy": "AAAAAA=="
+    "strategy": "1. Each time a certain number of turns pass, Lascivious Lady uses Temptation, inflicting all Phantom Thieves with Infatuation. Lose 1 Infatuation stack when healing is received.\n2. At the start of Lascivious Lady's turn, if any Phantom Thieves have reached 5, 10 or 15 total Infatuation stacks for the first time, select one of them, and spend 5 of the target's Infatuation stacks to use Spiral of Desire.\nSpiral of Desire: Become unable to act for 2 turns. This state is counted as a <color=#FF423F>spiritual ailment</color>.\n3. Each time a certain number of turns pass, Lascivious Lady inflicts Passionate Gaze on the Phantom Thieves, then uses Passionate Impulse on the next turn to deal Psychokinesis damage. Increase damage based on target's total Infatuation stacks."
   },
   {
     "sn": "919944",
-    "name": "Grieving Tiara",
+    "name": "Cowardly Maya",
     "desc": "A Shadow that roams the halls of Tartarus. It attacks any human that enters its domain.",
-    "strategy": "AAAAAA=="
+    "strategy": "Party recovers HP when Cowardly Maya is defeated."
+  },
+  {
+    "sn": "919945",
+    "name": "Cowardly Maya",
+    "desc": "A Shadow that roams the halls of Tartarus. It attacks any human that enters its domain.",
+    "strategy": "Party recovers HP when Cowardly Maya is defeated."
+  },
+  {
+    "sn": "919951",
+    "name": "Lascivious Lady",
+    "desc": "A Shadow that roams the halls of Tartarus. It attacks any human that enters its domain.",
+    "strategy": "1. Each time a certain number of turns pass, Lascivious Lady uses Temptation, inflicting all Phantom Thieves with Infatuation. Lose 1 Infatuation stack when healing is received.\n2. At the start of Lascivious Lady's turn, if any Phantom Thieves have reached 5, 10 or 15 total Infatuation stacks for the first time, select one of them, and spend 5 of the target's Infatuation stacks to use Spiral of Desire.\nSpiral of Desire: Become unable to act for 2 turns. This state is counted as a <color=#FF423F>spiritual ailment</color>.\n3. Each time a certain number of turns pass, Lascivious Lady inflicts Passionate Gaze on the Phantom Thieves, then uses Passionate Impulse on the next turn to deal Psychokinesis damage. Increase damage based on target's total Infatuation stacks."
+  },
+  {
+    "sn": "919952",
+    "name": "Lascivious Lady",
+    "desc": "A Shadow that roams the halls of Tartarus. It attacks any human that enters its domain.",
+    "strategy": "1. Each time a certain number of turns pass, Lascivious Lady uses Temptation, inflicting all Phantom Thieves with Infatuation. Lose 1 Infatuation stack when healing is received.\n2. At the start of Lascivious Lady's turn, if any Phantom Thieves have reached 5, 10 or 15 total Infatuation stacks for the first time, select one of them, and spend 5 of the target's Infatuation stacks to use Spiral of Desire.\nSpiral of Desire: Become unable to act for 2 turns. This state is counted as a <color=#FF423F>spiritual ailment</color>.\n3. Each time a certain number of turns pass, Lascivious Lady inflicts Passionate Gaze on the Phantom Thieves, then uses Passionate Impulse on the next turn to deal Psychokinesis damage. Increase damage based on target's total Infatuation stacks."
+  },
+  {
+    "sn": "919953",
+    "name": "Lascivious Lady",
+    "desc": "A Shadow that roams the halls of Tartarus. It attacks any human that enters its domain.",
+    "strategy": "1. Each time a certain number of turns pass, Lascivious Lady uses Temptation, inflicting all Phantom Thieves with Infatuation. Lose 1 Infatuation stack when healing is received.\n2. At the start of Lascivious Lady's turn, if any Phantom Thieves have reached 5, 10 or 15 total Infatuation stacks for the first time, select one of them, and spend 5 of the target's Infatuation stacks to use Spiral of Desire.\nSpiral of Desire: Become unable to act for 2 turns. This state is counted as a <color=#FF423F>spiritual ailment</color>.\n3. Each time a certain number of turns pass, Lascivious Lady inflicts Passionate Gaze on the Phantom Thieves, then uses Passionate Impulse on the next turn to deal Psychokinesis damage. Increase damage based on target's total Infatuation stacks."
+  },
+  {
+    "sn": "919954",
+    "name": "Cowardly Maya",
+    "desc": "A Shadow that roams the halls of Tartarus. It attacks any human that enters its domain.",
+    "strategy": "Party recovers HP when Cowardly Maya is defeated."
+  },
+  {
+    "sn": "919955",
+    "name": "Cowardly Maya",
+    "desc": "A Shadow that roams the halls of Tartarus. It attacks any human that enters its domain.",
+    "strategy": "Party recovers HP when Cowardly Maya is defeated."
+  },
+  {
+    "sn": "919961",
+    "name": "Lascivious Lady",
+    "desc": "A Shadow that roams the halls of Tartarus. It attacks any human that enters its domain.",
+    "strategy": "1. Each time a certain number of turns pass, Lascivious Lady uses Temptation, inflicting all Phantom Thieves with Infatuation. Lose 1 Infatuation stack when healing is received.\n2. At the start of Lascivious Lady's turn, if any Phantom Thieves have reached 5, 10 or 15 total Infatuation stacks for the first time, select one of them, and spend 5 of the target's Infatuation stacks to use Spiral of Desire.\nSpiral of Desire: Become unable to act for 2 turns. This state is counted as a <color=#FF423F>spiritual ailment</color>.\n3. Each time a certain number of turns pass, Lascivious Lady inflicts Passionate Gaze on the Phantom Thieves, then uses Passionate Impulse on the next turn to deal Psychokinesis damage. Increase damage based on target's total Infatuation stacks."
+  },
+  {
+    "sn": "919962",
+    "name": "Lascivious Lady",
+    "desc": "A Shadow that roams the halls of Tartarus. It attacks any human that enters its domain.",
+    "strategy": "1. Each time a certain number of turns pass, Lascivious Lady uses Temptation, inflicting all Phantom Thieves with Infatuation. Lose 1 Infatuation stack when healing is received.\n2. At the start of Lascivious Lady's turn, if any Phantom Thieves have reached 5, 10 or 15 total Infatuation stacks for the first time, select one of them, and spend 5 of the target's Infatuation stacks to use Spiral of Desire.\nSpiral of Desire: Become unable to act for 2 turns. This state is counted as a <color=#FF423F>spiritual ailment</color>.\n3. Each time a certain number of turns pass, Lascivious Lady inflicts Passionate Gaze on the Phantom Thieves, then uses Passionate Impulse on the next turn to deal Psychokinesis damage. Increase damage based on target's total Infatuation stacks."
+  },
+  {
+    "sn": "919963",
+    "name": "Lascivious Lady",
+    "desc": "A Shadow that roams the halls of Tartarus. It attacks any human that enters its domain.",
+    "strategy": "1. Each time a certain number of turns pass, Lascivious Lady uses Temptation, inflicting all Phantom Thieves with Infatuation. Lose 1 Infatuation stack when healing is received.\n2. At the start of Lascivious Lady's turn, if any Phantom Thieves have reached 5, 10 or 15 total Infatuation stacks for the first time, select one of them, and spend 5 of the target's Infatuation stacks to use Spiral of Desire.\nSpiral of Desire: Become unable to act for 2 turns. This state is counted as a <color=#FF423F>spiritual ailment</color>.\n3. Each time a certain number of turns pass, Lascivious Lady inflicts Passionate Gaze on the Phantom Thieves, then uses Passionate Impulse on the next turn to deal Psychokinesis damage. Increase damage based on target's total Infatuation stacks."
+  },
+  {
+    "sn": "919964",
+    "name": "Cowardly Maya",
+    "desc": "A Shadow that roams the halls of Tartarus. It attacks any human that enters its domain.",
+    "strategy": "Party recovers HP when Cowardly Maya is defeated."
+  },
+  {
+    "sn": "919965",
+    "name": "Cowardly Maya",
+    "desc": "A Shadow that roams the halls of Tartarus. It attacks any human that enters its domain.",
+    "strategy": "Party recovers HP when Cowardly Maya is defeated."
+  },
+  {
+    "sn": "919971",
+    "name": "Lascivious Lady",
+    "desc": "A Shadow that roams the halls of Tartarus. It attacks any human that enters its domain.",
+    "strategy": "1. At the start of battle, Lascivious Lady inflicts all Phantom Thieves with 3 Infatuation stacks. Also, each time a certain number of turns pass, Lascivious Lady uses Temptation, inflicting all Phantom Thieves with Infatuation. Lose 1 Infatuation stack when healing is received.\n2. At the start of Lascivious Lady's turn, if any Phantom Thieves have reached 5, 10 or 15 total Infatuation stacks for the first time, select one of them, and spend 5 of the target's Infatuation stacks to use Spiral of Desire.\nSpiral of Desire: Become unable to act for 2 turns. This state is counted as a <color=#FF423F>spiritual ailment</color>.\n3. Each time a certain number of turns pass, Lascivious Lady inflicts Passionate Gaze on the Phantom Thieves, then uses Passionate Impulse on the next turn to deal Psychokinesis damage. Increase damage based on target's total Infatuation stacks.\n4. Lascivious Lady uses Garden of Paradise each turn, increasing final damage and decreasing final damage taken."
   },
   {
     "sn": "902311",
@@ -6643,109 +6853,109 @@
   },
   {
     "sn": "1201911",
-    "name": "Priestess",
+    "name": "Priestess of Desire",
     "desc": "A Shadow that roams the halls of Tartarus. It attacks any human that enters its domain.",
     "strategy": "AAAAAA=="
   },
   {
     "sn": "1201912",
-    "name": "Priestess",
+    "name": "Priestess of Desire",
     "desc": "A Shadow that roams the halls of Tartarus. It attacks any human that enters its domain.",
     "strategy": "AAAAAA=="
   },
   {
     "sn": "1201913",
-    "name": "Priestess",
+    "name": "Priestess of Desire",
     "desc": "A Shadow that roams the halls of Tartarus. It attacks any human that enters its domain.",
     "strategy": "AAAAAA=="
   },
   {
     "sn": "1201921",
-    "name": "Priestess",
+    "name": "Priestess of Desire",
     "desc": "A Shadow that roams the halls of Tartarus. It attacks any human that enters its domain.",
     "strategy": "AAAAAA=="
   },
   {
     "sn": "1201922",
-    "name": "Priestess",
+    "name": "Priestess of Desire",
     "desc": "A Shadow that roams the halls of Tartarus. It attacks any human that enters its domain.",
     "strategy": "AAAAAA=="
   },
   {
     "sn": "1201923",
-    "name": "Priestess",
+    "name": "Priestess of Desire",
     "desc": "A Shadow that roams the halls of Tartarus. It attacks any human that enters its domain.",
     "strategy": "AAAAAA=="
   },
   {
     "sn": "1201931",
-    "name": "Priestess",
+    "name": "Priestess of Desire",
     "desc": "A Shadow that roams the halls of Tartarus. It attacks any human that enters its domain.",
     "strategy": "AAAAAA=="
   },
   {
     "sn": "1201932",
-    "name": "Priestess",
+    "name": "Priestess of Desire",
     "desc": "A Shadow that roams the halls of Tartarus. It attacks any human that enters its domain.",
     "strategy": "AAAAAA=="
   },
   {
     "sn": "1201933",
-    "name": "Priestess",
+    "name": "Priestess of Desire",
     "desc": "A Shadow that roams the halls of Tartarus. It attacks any human that enters its domain.",
     "strategy": "AAAAAA=="
   },
   {
     "sn": "1201941",
-    "name": "Priestess",
+    "name": "Priestess of Desire",
     "desc": "A Shadow that roams the halls of Tartarus. It attacks any human that enters its domain.",
     "strategy": "AAAAAA=="
   },
   {
     "sn": "1201942",
-    "name": "Priestess",
+    "name": "Priestess of Desire",
     "desc": "A Shadow that roams the halls of Tartarus. It attacks any human that enters its domain.",
     "strategy": "AAAAAA=="
   },
   {
     "sn": "1201943",
-    "name": "Priestess",
+    "name": "Priestess of Desire",
     "desc": "A Shadow that roams the halls of Tartarus. It attacks any human that enters its domain.",
     "strategy": "AAAAAA=="
   },
   {
     "sn": "1201951",
-    "name": "Priestess",
+    "name": "Priestess of Desire",
     "desc": "A Shadow that roams the halls of Tartarus. It attacks any human that enters its domain.",
     "strategy": "AAAAAA=="
   },
   {
     "sn": "1201952",
-    "name": "Priestess",
+    "name": "Priestess of Desire",
     "desc": "A Shadow that roams the halls of Tartarus. It attacks any human that enters its domain.",
     "strategy": "AAAAAA=="
   },
   {
     "sn": "1201953",
-    "name": "Priestess",
+    "name": "Priestess of Desire",
     "desc": "A Shadow that roams the halls of Tartarus. It attacks any human that enters its domain.",
     "strategy": "AAAAAA=="
   },
   {
     "sn": "1201961",
-    "name": "Priestess",
+    "name": "Priestess of Desire",
     "desc": "A Shadow that roams the halls of Tartarus. It attacks any human that enters its domain.",
     "strategy": "AAAAAA=="
   },
   {
     "sn": "1201962",
-    "name": "Priestess",
+    "name": "Priestess of Desire",
     "desc": "A Shadow that roams the halls of Tartarus. It attacks any human that enters its domain.",
     "strategy": "AAAAAA=="
   },
   {
     "sn": "1201963",
-    "name": "Priestess",
+    "name": "Priestess of Desire",
     "desc": "A Shadow that roams the halls of Tartarus. It attacks any human that enters its domain.",
     "strategy": "AAAAAA=="
   },
@@ -6897,31 +7107,31 @@
     "sn": "1201101",
     "name": "Sky Balance",
     "desc": "A Shadow that roams the halls of Tartarus. It attacks any human that enters its domain.",
-    "strategy": "AAAAAA=="
+    "strategy": "1. Each time a certain number of turns pass, Lascivious Lady uses Temptation, inflicting all Phantom Thieves with Infatuation. Lose 1 Infatuation stack when healing is received.\n2. At the start of Lascivious Lady's turn, if any Phantom Thieves have reached 5, 10 or 15 total Infatuation stacks for the first time, select one of them, and spend 5 of the target's Infatuation stacks to use Spiral of Desire.\nSpiral of Desire: Become unable to act for 2 turns. This state is counted as a <color=#FF423F>spiritual ailment</color>.\n3. Each time a certain number of turns pass, Lascivious Lady inflicts Passionate Gaze on the Phantom Thieves, then uses Passionate Impulse on the next turn to deal Psychokinesis damage. Increase damage based on target's total Infatuation stacks."
   },
   {
     "sn": "1201102",
     "name": "Bronze Dice",
     "desc": "A Shadow that roams the halls of Tartarus. It attacks any human that enters its domain.",
-    "strategy": "AAAAAA=="
+    "strategy": "1. Each time a certain number of turns pass, Lascivious Lady uses Temptation, inflicting all Phantom Thieves with Infatuation. Lose 1 Infatuation stack when healing is received.\n2. At the start of Lascivious Lady's turn, if any Phantom Thieves have reached 5, 10 or 15 total Infatuation stacks for the first time, select one of them, and spend 5 of the target's Infatuation stacks to use Spiral of Desire.\nSpiral of Desire: Become unable to act for 2 turns. This state is counted as a <color=#FF423F>spiritual ailment</color>.\n3. Each time a certain number of turns pass, Lascivious Lady inflicts Passionate Gaze on the Phantom Thieves, then uses Passionate Impulse on the next turn to deal Psychokinesis damage. Increase damage based on target's total Infatuation stacks."
   },
   {
     "sn": "1201103",
     "name": "Bronze Dice",
     "desc": "A Shadow that roams the halls of Tartarus. It attacks any human that enters its domain.",
-    "strategy": "AAAAAA=="
+    "strategy": "1. Each time a certain number of turns pass, Lascivious Lady uses Temptation, inflicting all Phantom Thieves with Infatuation. Lose 1 Infatuation stack when healing is received.\n2. At the start of Lascivious Lady's turn, if any Phantom Thieves have reached 5, 10 or 15 total Infatuation stacks for the first time, select one of them, and spend 5 of the target's Infatuation stacks to use Spiral of Desire.\nSpiral of Desire: Become unable to act for 2 turns. This state is counted as a <color=#FF423F>spiritual ailment</color>.\n3. Each time a certain number of turns pass, Lascivious Lady inflicts Passionate Gaze on the Phantom Thieves, then uses Passionate Impulse on the next turn to deal Psychokinesis damage. Increase damage based on target's total Infatuation stacks."
   },
   {
     "sn": "1201111",
     "name": "Dark Eagle",
     "desc": "A Shadow that roams the halls of Tartarus. It attacks any human that enters its domain.",
-    "strategy": "AAAAAA=="
+    "strategy": "Party recovers HP when Cowardly Maya is defeated."
   },
   {
     "sn": "1201112",
     "name": "Phantom Mage",
     "desc": "A Shadow that roams the halls of Tartarus. It attacks any human that enters its domain.",
-    "strategy": "AAAAAA=="
+    "strategy": "Party recovers HP when Cowardly Maya is defeated."
   },
   {
     "sn": "1201113",
@@ -6985,19 +7195,19 @@
   },
   {
     "sn": "1201501",
-    "name": "Priestess",
+    "name": "Priestess of Desire",
     "desc": "A Shadow that roams the halls of Tartarus. It attacks any human that enters its domain.",
     "strategy": "AAAAAA=="
   },
   {
     "sn": "1201502",
-    "name": "Priestess",
+    "name": "Priestess of Desire",
     "desc": "A Shadow that roams the halls of Tartarus. It attacks any human that enters its domain.",
     "strategy": "AAAAAA=="
   },
   {
     "sn": "1201503",
-    "name": "Priestess",
+    "name": "Priestess of Desire",
     "desc": "A Shadow that roams the halls of Tartarus. It attacks any human that enters its domain.",
     "strategy": "AAAAAA=="
   },
@@ -8343,31 +8553,31 @@
     "sn": "1202211",
     "name": "Shining Hand",
     "desc": "A Shadow that roams the halls of Tartarus. It attacks any human that enters its domain.",
-    "strategy": "AAAAAA=="
+    "strategy": "1. Each time a certain number of turns pass, Lascivious Lady uses Temptation, inflicting all Phantom Thieves with Infatuation. Lose 1 Infatuation stack when healing is received.\n2. At the start of Lascivious Lady's turn, if any Phantom Thieves have reached 5, 10 or 15 total Infatuation stacks for the first time, select one of them, and spend 5 of the target's Infatuation stacks to use Spiral of Desire.\nSpiral of Desire: Become unable to act for 2 turns. This state is counted as a <color=#FF423F>spiritual ailment</color>.\n3. Each time a certain number of turns pass, Lascivious Lady inflicts Passionate Gaze on the Phantom Thieves, then uses Passionate Impulse on the next turn to deal Psychokinesis damage. Increase damage based on target's total Infatuation stacks."
   },
   {
     "sn": "1202221",
     "name": "Shining Hand",
     "desc": "A Shadow that roams the halls of Tartarus. It attacks any human that enters its domain.",
-    "strategy": "AAAAAA=="
+    "strategy": "1. Each time a certain number of turns pass, Lascivious Lady uses Temptation, inflicting all Phantom Thieves with Infatuation. Lose 1 Infatuation stack when healing is received.\n2. At the start of Lascivious Lady's turn, if any Phantom Thieves have reached 5, 10 or 15 total Infatuation stacks for the first time, select one of them, and spend 5 of the target's Infatuation stacks to use Spiral of Desire.\nSpiral of Desire: Become unable to act for 2 turns. This state is counted as a <color=#FF423F>spiritual ailment</color>.\n3. Each time a certain number of turns pass, Lascivious Lady inflicts Passionate Gaze on the Phantom Thieves, then uses Passionate Impulse on the next turn to deal Psychokinesis damage. Increase damage based on target's total Infatuation stacks."
   },
   {
     "sn": "1202231",
     "name": "Shining Hand",
     "desc": "A Shadow that roams the halls of Tartarus. It attacks any human that enters its domain.",
-    "strategy": "AAAAAA=="
+    "strategy": "1. Each time a certain number of turns pass, Lascivious Lady uses Temptation, inflicting all Phantom Thieves with Infatuation. Lose 1 Infatuation stack when healing is received.\n2. At the start of Lascivious Lady's turn, if any Phantom Thieves have reached 5, 10 or 15 total Infatuation stacks for the first time, select one of them, and spend 5 of the target's Infatuation stacks to use Spiral of Desire.\nSpiral of Desire: Become unable to act for 2 turns. This state is counted as a <color=#FF423F>spiritual ailment</color>.\n3. Each time a certain number of turns pass, Lascivious Lady inflicts Passionate Gaze on the Phantom Thieves, then uses Passionate Impulse on the next turn to deal Psychokinesis damage. Increase damage based on target's total Infatuation stacks."
   },
   {
     "sn": "1202241",
     "name": "Shining Hand",
     "desc": "A Shadow that roams the halls of Tartarus. It attacks any human that enters its domain.",
-    "strategy": "AAAAAA=="
+    "strategy": "Party recovers HP when Cowardly Maya is defeated."
   },
   {
     "sn": "1202251",
     "name": "Shining Hand",
     "desc": "A Shadow that roams the halls of Tartarus. It attacks any human that enters its domain.",
-    "strategy": "AAAAAA=="
+    "strategy": "Party recovers HP when Cowardly Maya is defeated."
   },
   {
     "sn": "1202261",
@@ -8433,37 +8643,37 @@
     "sn": "1202333",
     "name": "Acheron Seeker",
     "desc": "A Shadow that roams the halls of Tartarus. It attacks any human that enters its domain.",
-    "strategy": "AAAAAA=="
+    "strategy": "1. At the start of battle, Priestess of Desire imposes a time limit on the battle. When the time runs out, the battle is lost.\n2. Each time Priestess of Desire uses Invitation to Chaos, the remaining time is significantly reduced. Also, Priestess of Desire summons multiple Shadows, then becomes untargetable. When all of the summoned Shadows have either escaped or been defeated, Priestess of Desire will no longer be untargetable.\n3. After a summoned Shadow runs away, Priestess of Desire will start using Dogmatic Judgment every turn. Dogmatic Judgment's damage increases based on how many Shadows have run away."
   },
   {
     "sn": "1202341",
     "name": "Minotaur III",
     "desc": "A Shadow that roams the halls of Tartarus. It attacks any human that enters its domain.",
-    "strategy": "AAAAAA=="
+    "strategy": "1. At the start of battle, Priestess of Desire imposes a time limit on the battle. When the time runs out, the battle is lost.\n2. Each time Priestess of Desire uses Invitation to Chaos, the remaining time is significantly reduced. Also, Priestess of Desire summons multiple Shadows, then becomes untargetable. When all of the summoned Shadows have either escaped or been defeated, Priestess of Desire will no longer be untargetable.\n3. After a summoned Shadow runs away, Priestess of Desire will start using Dogmatic Judgment every turn. Dogmatic Judgment's damage increases based on how many Shadows have run away."
   },
   {
     "sn": "1202342",
     "name": "Perpetual Sand",
     "desc": "A Shadow that roams the halls of Tartarus. It attacks any human that enters its domain.",
-    "strategy": "AAAAAA=="
+    "strategy": "1. At the start of battle, Priestess of Desire imposes a time limit on the battle. When the time runs out, the battle is lost.\n2. Each time Priestess of Desire uses Invitation to Chaos, the remaining time is significantly reduced. Also, Priestess of Desire summons multiple Shadows, then becomes untargetable. When all of the summoned Shadows have either escaped or been defeated, Priestess of Desire will no longer be untargetable.\n3. After a summoned Shadow runs away, Priestess of Desire will start using Dogmatic Judgment every turn. Dogmatic Judgment's damage increases based on how many Shadows have run away."
   },
   {
     "sn": "1202343",
     "name": "Perpetual Sand",
     "desc": "A Shadow that roams the halls of Tartarus. It attacks any human that enters its domain.",
-    "strategy": "AAAAAA=="
+    "strategy": "When defeated, the remaining time limit is extended."
   },
   {
     "sn": "1202351",
     "name": "Minotaur III",
     "desc": "A Shadow that roams the halls of Tartarus. It attacks any human that enters its domain.",
-    "strategy": "AAAAAA=="
+    "strategy": "When defeated, the remaining time limit is extended, but escapes after 6 turns."
   },
   {
     "sn": "1202352",
     "name": "Ochlocratic Sand",
     "desc": "A Shadow that roams the halls of Tartarus. It attacks any human that enters its domain.",
-    "strategy": "AAAAAA=="
+    "strategy": "When defeated, the remaining time limit is extended, but escapes after 3 turns."
   },
   {
     "sn": "1202353",
@@ -9565,7 +9775,7 @@
   },
   {
     "sn": "2086",
-    "name": "Priestess",
+    "name": "Priestess of Desire",
     "desc": "-",
     "strategy": "AAAAAA=="
   },
@@ -10105,7 +10315,7 @@
   },
   {
     "sn": "5271",
-    "name": "Priestess",
+    "name": "Priestess of Desire",
     "desc": "A winter fairy of European descent. He leaves ice patterns on windows and nips people's noses. Though normally an innocent creature, he will freeze his victims to death if provoked.",
     "strategy": "AAAAAA=="
   },
@@ -11348,8 +11558,8 @@
   {
     "sn": "1010321",
     "name": "Barbaric Beast Wheel",
-    "desc": "Weaknesses and resistances are different than normal.\nA Shadow that roams the halls of Tartarus. It attacks any human that enters its domain.",
-    "strategy": "AAAAAA=="
+    "desc": "A Shadow that roams the halls of Tartarus. It attacks any human that enters its domain.",
+    "strategy": "Weaknesses and resistances are different than normal."
   },
   {
     "sn": "1010322",
@@ -11467,7 +11677,7 @@
   },
   {
     "sn": "1010921",
-    "name": "Phantom Mage",
+    "name": "Phantom King",
     "desc": "A Shadow that roams the halls of Tartarus. It attacks any human that enters its domain.",
     "strategy": "AAAAAA=="
   },
@@ -11865,7 +12075,7 @@
     "sn": "1017122",
     "name": "Conviction Sword",
     "desc": "A Shadow that roams the halls of Tartarus. It attacks any human that enters its domain.",
-    "strategy": "Order of Balance will allow Conviction Sword to use enhanced skills."
+    "strategy": "AAAAAA=="
   },
   {
     "sn": "1017123",
@@ -11877,7 +12087,7 @@
     "sn": "1017124",
     "name": "Conviction Sword",
     "desc": "A Shadow that roams the halls of Tartarus. It attacks any human that enters its domain.",
-    "strategy": "Order of Balance will allow Conviction Sword to use enhanced skills."
+    "strategy": "AAAAAA=="
   },
   {
     "sn": "1017125",
@@ -11889,7 +12099,7 @@
     "sn": "1017126",
     "name": "Conviction Sword",
     "desc": "A Shadow that roams the halls of Tartarus. It attacks any human that enters its domain.",
-    "strategy": "Order of Balance will allow Conviction Sword to use enhanced skills."
+    "strategy": "AAAAAA=="
   },
   {
     "sn": "1017011",
@@ -12075,19 +12285,19 @@
     "sn": "1019014",
     "name": "Writhing Tiara",
     "desc": "A Shadow that roams the halls of Tartarus. It attacks any human that enters its domain.",
-    "strategy": "AAAAAA=="
+    "strategy": "When defeated, the remaining time limit is extended."
   },
   {
     "sn": "1019015",
     "name": "Writhing Tiara",
     "desc": "A Shadow that roams the halls of Tartarus. It attacks any human that enters its domain.",
-    "strategy": "AAAAAA=="
+    "strategy": "When defeated, the remaining time limit is extended, but escapes after 6 turns."
   },
   {
     "sn": "1019016",
     "name": "Writhing Tiara",
     "desc": "A Shadow that roams the halls of Tartarus. It attacks any human that enters its domain.",
-    "strategy": "AAAAAA=="
+    "strategy": "When defeated, the remaining time limit is extended, but escapes after 3 turns."
   },
   {
     "sn": "1016011",
@@ -12163,7 +12373,7 @@
   },
   {
     "sn": "1004021",
-    "name": "Supreme Hand",
+    "name": "Precious Hand",
     "desc": "A Shadow that roams the halls of Tartarus. It attacks any human that enters its domain.",
     "strategy": "AAAAAA=="
   },
@@ -12193,7 +12403,7 @@
   },
   {
     "sn": "1004131",
-    "name": "Invaluable Hand",
+    "name": "Precious Hand",
     "desc": "A Shadow that roams the halls of Tartarus. It attacks any human that enters its domain.",
     "strategy": "AAAAAA=="
   },
@@ -12205,13 +12415,13 @@
   },
   {
     "sn": "1004141",
-    "name": "Supreme Hand",
+    "name": "Precious Hand",
     "desc": "A Shadow that roams the halls of Tartarus. It attacks any human that enters its domain.",
     "strategy": "AAAAAA=="
   },
   {
     "sn": "1004142",
-    "name": "Supreme Hand",
+    "name": "Precious Hand",
     "desc": "A Shadow that roams the halls of Tartarus. It attacks any human that enters its domain.",
     "strategy": "AAAAAA=="
   },
@@ -12265,13 +12475,13 @@
   },
   {
     "sn": "1004222",
-    "name": "Invaluable Hand",
+    "name": "Precious Hand",
     "desc": "A Shadow that roams the halls of Tartarus. It attacks any human that enters its domain.",
     "strategy": "AAAAAA=="
   },
   {
     "sn": "1004223",
-    "name": "Invaluable Hand",
+    "name": "Precious Hand",
     "desc": "A Shadow that roams the halls of Tartarus. It attacks any human that enters its domain.",
     "strategy": "AAAAAA=="
   },
@@ -12313,7 +12523,7 @@
   },
   {
     "sn": "1004251",
-    "name": "Supreme Hand",
+    "name": "Precious Hand",
     "desc": "A Shadow that roams the halls of Tartarus. It attacks any human that enters its domain.",
     "strategy": "AAAAAA=="
   },
@@ -12331,13 +12541,13 @@
   },
   {
     "sn": "1004311",
-    "name": "Supreme Hand",
+    "name": "Precious Hand",
     "desc": "A Shadow that roams the halls of Tartarus. It attacks any human that enters its domain.",
     "strategy": "AAAAAA=="
   },
   {
     "sn": "1004312",
-    "name": "Supreme Hand",
+    "name": "Precious Hand",
     "desc": "A Shadow that roams the halls of Tartarus. It attacks any human that enters its domain.",
     "strategy": "AAAAAA=="
   },
@@ -12427,7 +12637,7 @@
   },
   {
     "sn": "1004621",
-    "name": "Supreme Hand",
+    "name": "Precious Hand",
     "desc": "A Shadow that roams the halls of Tartarus. It attacks any human that enters its domain.",
     "strategy": "AAAAAA=="
   },
@@ -12445,13 +12655,13 @@
   },
   {
     "sn": "1004712",
-    "name": "Invaluable Hand",
+    "name": "Precious Hand",
     "desc": "A Shadow that roams the halls of Tartarus. It attacks any human that enters its domain.",
     "strategy": "AAAAAA=="
   },
   {
     "sn": "1004713",
-    "name": "Invaluable Hand",
+    "name": "Precious Hand",
     "desc": "A Shadow that roams the halls of Tartarus. It attacks any human that enters its domain.",
     "strategy": "AAAAAA=="
   },
@@ -12505,13 +12715,13 @@
   },
   {
     "sn": "1004813",
-    "name": "Supreme Hand",
+    "name": "Precious Hand",
     "desc": "A Shadow that roams the halls of Tartarus. It attacks any human that enters its domain.",
     "strategy": "AAAAAA=="
   },
   {
     "sn": "1004814",
-    "name": "Supreme Hand",
+    "name": "Precious Hand",
     "desc": "A Shadow that roams the halls of Tartarus. It attacks any human that enters its domain.",
     "strategy": "AAAAAA=="
   },
@@ -12547,13 +12757,13 @@
   },
   {
     "sn": "1012021",
-    "name": "Supreme Hand",
+    "name": "Precious Hand",
     "desc": "A Shadow that roams the halls of Tartarus. It attacks any human that enters its domain.",
     "strategy": "AAAAAA=="
   },
   {
     "sn": "1012022",
-    "name": "Supreme Hand",
+    "name": "Precious Hand",
     "desc": "A Shadow that roams the halls of Tartarus. It attacks any human that enters its domain.",
     "strategy": "AAAAAA=="
   },
@@ -12601,13 +12811,13 @@
   },
   {
     "sn": "1012212",
-    "name": "Supreme Hand",
+    "name": "Precious Hand",
     "desc": "A Shadow that roams the halls of Tartarus. It attacks any human that enters its domain.",
     "strategy": "AAAAAA=="
   },
   {
     "sn": "1012213",
-    "name": "Supreme Hand",
+    "name": "Precious Hand",
     "desc": "A Shadow that roams the halls of Tartarus. It attacks any human that enters its domain.",
     "strategy": "AAAAAA=="
   },
@@ -13083,6 +13293,18 @@
     "sn": "922411",
     "name": "Phantom Mage",
     "desc": "-",
+    "strategy": "AAAAAA=="
+  },
+  {
+    "sn": "922511",
+    "name": "Muttering Tiara",
+    "desc": "A Shadow that roams the halls of Tartarus. It attacks any human that enters its domain.",
+    "strategy": "AAAAAA=="
+  },
+  {
+    "sn": "922512",
+    "name": "Muttering Tiara",
+    "desc": "A Shadow that roams the halls of Tartarus. It attacks any human that enters its domain.",
     "strategy": "AAAAAA=="
   },
   {
@@ -44066,7 +44288,7 @@
   {
     "sn": "600151",
     "name": "Shadow Saito",
-    "desc": "The Hindu elephant-headed god. He was originally created by Parvati in order to prevent anyone from watching her bathe. Shiva batted off his original head and replaced it with an elephant's head.",
+    "desc": "-",
     "strategy": "AAAAAA=="
   },
   {
@@ -44079,6 +44301,12 @@
     "sn": "600171",
     "name": "Shadow Natsukawa",
     "desc": "\"Choosers of the slain\" in Norse lore. Armed with shining armor and swords, they look for brave warriors to take to Valhalla, so that they may fight in Ragnarok.",
+    "strategy": "AAAAAA=="
+  },
+  {
+    "sn": "600181",
+    "name": "Shadow Enjoji",
+    "desc": "-",
     "strategy": "AAAAAA=="
   },
   {
@@ -55755,13 +55983,13 @@
     "sn": "829141",
     "name": "King Frost",
     "desc": "The king of snow who rules over an infinite number of Jack Frosts. He has the power to freeze the entire world, but is unaware of it due to his naïve personality.",
-    "strategy": "When King Frost is attacked, it will use <color=#FF423F>Ice Age</color> and summon 2 Black Frosts."
+    "strategy": "When King Frost is defeated, it will use <color=#FF423F>Ice Age</color> and summon 2 Black Frosts."
   },
   {
     "sn": "829142",
     "name": "Jack Frost",
     "desc": "A winter fairy of European descent. He leaves ice patterns on windows and nips people's noses. Though normally an innocent creature, he will freeze his victims to death if provoked.",
-    "strategy": "Weaknesses and resistances are different than normal.\nWhen King Frost is attacked, Black Frost will be replaced with Jack Frost."
+    "strategy": "Weaknesses and resistances are different than normal.\nWhen King Frost is defeated, Black Frost will be replaced with Jack Frost."
   },
   {
     "sn": "829143",
@@ -55773,7 +56001,7 @@
     "sn": "829144",
     "name": "Black Frost",
     "desc": "A Jack Frost that yearned for evil. This powerful demon is born when a cute Jack Frost remembers its demonic nature.",
-    "strategy": "When attacked, it will use <color=#FF423F>Ice Age</color>, dealing heavy damage and inflicting targets with <color=#FF423F>Weakness</color>."
+    "strategy": "When defeated, it will use <color=#FF423F>Ice Age</color>, dealing heavy damage and inflicting targets with <color=#FF423F>Weakness</color>."
   },
   {
     "sn": "829145",

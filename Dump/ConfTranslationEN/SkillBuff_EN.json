@@ -3674,7 +3674,7 @@
   {
     "sn": "1321141",
     "title": "Catchy Hook",
-    "desc": "After activating a Theurgy, increase final dmg by %s.",
+    "desc": "When activating a Theurgy, gain %s final damage amplification.",
     "BuffDesc": "C<color=#000000>a</color>tchy Hook",
     "addText": "AAAAAA==",
     "removeText": "AAAAAA==",
@@ -5654,7 +5654,7 @@
   {
     "sn": "1361097",
     "title": "Circuit Queen",
-    "desc": "Increase damage to knocked down foes by %s.",
+    "desc": "Increase dmg to knocked down foes by %s.",
     "BuffDesc": "C<color=#000000>i</color>rcuit Queen",
     "addText": "AAAAAA==",
     "removeText": "AAAAAA==",
@@ -5753,7 +5753,7 @@
   {
     "sn": "1361311",
     "title": "Team Ambassador",
-    "desc": "When on an extra action, increase damage by %s.",
+    "desc": "When on an extra action, increase dmg by %s.",
     "BuffDesc": "T<color=#000000>e</color>am Ambassador",
     "addText": "AAAAAA==",
     "removeText": "AAAAAA==",
@@ -5762,7 +5762,7 @@
   {
     "sn": "1361321",
     "title": "Overtaking",
-    "desc": "Increase damage to knocked down foes by %s.",
+    "desc": "Increase dmg to knocked down foes by %s.",
     "BuffDesc": "O<color=#000000>v</color>ertaking",
     "addText": "AAAAAA==",
     "removeText": "AAAAAA==",
@@ -6277,6 +6277,186 @@
     "title": "Assist",
     "desc": "Increase Atk by %s.",
     "BuffDesc": "A<color=#000000>s</color>sist",
+    "addText": "AAAAAA==",
+    "removeText": "AAAAAA==",
+    "calText": "AAAAAA=="
+  },
+  {
+    "sn": "1401032",
+    "title": "Pull the Trigger",
+    "desc": "Increase pierce rate by %s.",
+    "BuffDesc": "P<color=#000000>u</color>ll the Trigger",
+    "addText": "AAAAAA==",
+    "removeText": "AAAAAA==",
+    "calText": "AAAAAA=="
+  },
+  {
+    "sn": "1401043",
+    "title": "Sign of the Lovers",
+    "desc": "Nullify spiritual ailments.",
+    "BuffDesc": "AAAAAA==",
+    "addText": "AAAAAA==",
+    "removeText": "AAAAAA==",
+    "calText": "AAAAAA=="
+  },
+  {
+    "sn": "1401044",
+    "title": "Sign of the Lovers",
+    "desc": "tnxct-[SkillBuff_desc_1401044]",
+    "BuffDesc": "AAAAAA==",
+    "addText": "AAAAAA==",
+    "removeText": "AAAAAA==",
+    "calText": "AAAAAA=="
+  },
+  {
+    "sn": "1401045",
+    "title": "Sign of the Lovers",
+    "desc": "Increase crit dmg by %s.",
+    "BuffDesc": "AAAAAA==",
+    "addText": "AAAAAA==",
+    "removeText": "AAAAAA==",
+    "calText": "AAAAAA=="
+  },
+  {
+    "sn": "1401091",
+    "title": "Whisperwind",
+    "desc": "Spend Arrow of Life when it is used to recover the Theurgy gauge of the selected target.",
+    "BuffDesc": "W<color=#000000>h</color>isperwind",
+    "addText": "AAAAAA==",
+    "removeText": "AAAAAA==",
+    "calText": "AAAAAA=="
+  },
+  {
+    "sn": "1401111",
+    "title": "Erosion",
+    "desc": "After taking skill damage, all Phantom Thieves recover HP",
+    "BuffDesc": "E<color=#000000>r</color>osion",
+    "addText": "AAAAAA==",
+    "removeText": "AAAAAA==",
+    "calText": "AAAAAA=="
+  },
+  {
+    "sn": "1401112",
+    "title": "Windswept",
+    "desc": "Decrease Def by 12%.",
+    "BuffDesc": "W<color=#000000>i</color>ndswept",
+    "addText": "AAAAAA==",
+    "removeText": "AAAAAA==",
+    "calText": "AAAAAA=="
+  },
+  {
+    "sn": "1401121",
+    "title": "Tailwind's Breath",
+    "desc": "Decrease dmg taken by %s.",
+    "BuffDesc": "T<color=#000000>a</color>ilwind's Breath",
+    "addText": "AAAAAA==",
+    "removeText": "AAAAAA==",
+    "calText": "AAAAAA=="
+  },
+  {
+    "sn": "1401122",
+    "title": "Tailwind's Breath",
+    "desc": "Increase Atk by %s.",
+    "BuffDesc": "T<color=#000000>a</color>ilwind's Breath",
+    "addText": "AAAAAA==",
+    "removeText": "AAAAAA==",
+    "calText": "AAAAAA=="
+  },
+  {
+    "sn": "1401123",
+    "title": "Tailwind's Breath",
+    "desc": "Increase dmg by %s.",
+    "BuffDesc": "T<color=#000000>a</color>ilwind's Breath",
+    "addText": "AAAAAA==",
+    "removeText": "AAAAAA==",
+    "calText": "AAAAAA=="
+  },
+  {
+    "sn": "1401131",
+    "title": "Arrow of Life",
+    "desc": "When activating a Highlight, increase final dmg amplification by %s.",
+    "BuffDesc": "A<color=#000000>r</color>row of Life",
+    "addText": "AAAAAA==",
+    "removeText": "AAAAAA==",
+    "calText": "AAAAAA=="
+  },
+  {
+    "sn": "1401139",
+    "title": "Arrow of Life",
+    "desc": "When activating a Highlight, increase final dmg amplification by %s.",
+    "BuffDesc": "A<color=#000000>r</color>row of Life",
+    "addText": "AAAAAA==",
+    "removeText": "AAAAAA==",
+    "calText": "AAAAAA=="
+  },
+  {
+    "sn": "1401151",
+    "title": "Arrow of Life",
+    "desc": "After activating a Theurgy, increase Atk.",
+    "BuffDesc": "A<color=#000000>r</color>row of Life",
+    "addText": "AAAAAA==",
+    "removeText": "AAAAAA==",
+    "calText": "AAAAAA=="
+  },
+  {
+    "sn": "1401152",
+    "title": "Arrow of Life",
+    "desc": "Increase Atk by %s.",
+    "BuffDesc": "A<color=#000000>r</color>row of Life",
+    "addText": "AAAAAA==",
+    "removeText": "AAAAAA==",
+    "calText": "AAAAAA=="
+  },
+  {
+    "sn": "1401153",
+    "title": "Arrow of Life",
+    "desc": "After activating a Theurgy, increase Atk.",
+    "BuffDesc": "A<color=#000000>r</color>row of Life",
+    "addText": "AAAAAA==",
+    "removeText": "AAAAAA==",
+    "calText": "AAAAAA=="
+  },
+  {
+    "sn": "1401311",
+    "title": "Tailwind's Air",
+    "desc": "When activating a Highlight or Theurgy, increase dmg dealt by %s.",
+    "BuffDesc": "T<color=#000000>a</color>ilwind's Air",
+    "addText": "AAAAAA==",
+    "removeText": "AAAAAA==",
+    "calText": "AAAAAA=="
+  },
+  {
+    "sn": "1401313",
+    "title": "Tailwind's Air",
+    "desc": "Increase dmg by %s.",
+    "BuffDesc": "T<color=#000000>a</color>ilwind's Air",
+    "addText": "AAAAAA==",
+    "removeText": "AAAAAA==",
+    "calText": "AAAAAA=="
+  },
+  {
+    "sn": "1401321",
+    "title": "Archer's Courage",
+    "desc": "Increase max HP by %s.",
+    "BuffDesc": "A<color=#000000>r</color>cher's Courage",
+    "addText": "AAAAAA==",
+    "removeText": "AAAAAA==",
+    "calText": "AAAAAA=="
+  },
+  {
+    "sn": "1401521",
+    "title": "Cyclone Arrow",
+    "desc": "Increase dmg by %s.",
+    "BuffDesc": "C<color=#000000>y</color>clone Arrow",
+    "addText": "AAAAAA==",
+    "removeText": "AAAAAA==",
+    "calText": "AAAAAA=="
+  },
+  {
+    "sn": "1401472",
+    "title": "Spring Day's Meeting",
+    "desc": "Increase critical dmg by 30%.",
+    "BuffDesc": "S<color=#000000>p</color>ring Day's Meeting",
     "addText": "AAAAAA==",
     "removeText": "AAAAAA==",
     "calText": "AAAAAA=="
@@ -15336,6 +15516,15 @@
     "calText": "AAAAAA=="
   },
   {
+    "sn": "63521",
+    "title": "Blessing",
+    "desc": "Continuously restore HP.",
+    "BuffDesc": "B<color=#000000>l</color>essing",
+    "addText": "AAAAAA==",
+    "removeText": "AAAAAA==",
+    "calText": "AAAAAA=="
+  },
+  {
     "sn": "63911",
     "title": "Reaper's Impetus",
     "desc": "Gain extra action.",
@@ -19217,7 +19406,7 @@
   {
     "sn": "23013",
     "title": "HP Recovery",
-    "desc": "All foes recover 30% HP when attacked.",
+    "desc": "All foes recover 30% HP when defeated.",
     "BuffDesc": "H<color=#000000>P</color> Recovery",
     "addText": "AAAAAA==",
     "removeText": "AAAAAA==",
@@ -22482,6 +22671,15 @@
     "calText": "AAAAAA=="
   },
   {
+    "sn": "25203",
+    "title": "Special Effect",
+    "desc": "Increase dmg by %s.",
+    "BuffDesc": "S<color=#000000>p</color>ecial Effect",
+    "addText": "AAAAAA==",
+    "removeText": "AAAAAA==",
+    "calText": "AAAAAA=="
+  },
+  {
     "sn": "25221",
     "title": "Special Effect",
     "desc": "Increase Atk by 30% and dmg dealt by 20%.",
@@ -22619,7 +22817,7 @@
   {
     "sn": "26735",
     "title": "Lock On",
-    "desc": "When Kiskil-lilla locks on, she will attack with Wings of Fury, greatly increasing damage dealt.",
+    "desc": "When locked on, be attacked with Wings of Fury, and greatly increase dmg taken.",
     "BuffDesc": "L<color=#000000>o</color>ck On",
     "addText": "%s is targeted...",
     "removeText": "AAAAAA==",
@@ -24125,6 +24323,24 @@
     "desc": "Increase dmg by 30%. Cannot exist at same time as Yang Energy.",
     "BuffDesc": "AAAAAA==",
     "addText": "Gained Yin Energy!",
+    "removeText": "AAAAAA==",
+    "calText": "AAAAAA=="
+  },
+  {
+    "sn": "31043",
+    "title": "Celestial Fragment",
+    "desc": "Increase final dmg dealt by %s per stack. Stacks up to 16 times.",
+    "BuffDesc": "C<color=#000000>e</color>lestial Fragment",
+    "addText": "Gained Celestial Fragment!",
+    "removeText": "AAAAAA==",
+    "calText": "AAAAAA=="
+  },
+  {
+    "sn": "31044",
+    "title": "Celestial Fragment",
+    "desc": "Increase final dmg dealt by %s per stack. Stacks up to 16 times.",
+    "BuffDesc": "C<color=#000000>e</color>lestial Fragment",
+    "addText": "Gained Celestial Fragment!",
     "removeText": "AAAAAA==",
     "calText": "AAAAAA=="
   },
@@ -26370,47 +26586,119 @@
     "calText": "AAAAAA=="
   },
   {
-    "sn": "36531",
-    "title": "AAAAAA==",
-    "desc": "AAAAAA==",
+    "sn": "36421",
+    "title": "Infatuation",
+    "desc": "Lose 1 stack when healing is received.",
+    "BuffDesc": "I<color=#000000>n</color>fatuation",
+    "addText": "Inflicted with Infatuation...",
+    "removeText": "AAAAAA==",
+    "calText": "AAAAAA=="
+  },
+  {
+    "sn": "36422",
+    "title": "Infatuation",
+    "desc": "Lose 1 stack when healing is received.",
+    "BuffDesc": "I<color=#000000>n</color>fatuation",
+    "addText": "Inflicted with Infatuation...",
+    "removeText": "AAAAAA==",
+    "calText": "AAAAAA=="
+  },
+  {
+    "sn": "36431",
+    "title": "Spiral of Desire",
+    "desc": "Unable to act.",
+    "BuffDesc": "S<color=#000000>p</color>iral of Desire",
+    "addText": "Inflicted with Spiral of Desire...",
+    "removeText": "Recovered from Spiral of Desire!",
+    "calText": "AAAAAA=="
+  },
+  {
+    "sn": "36441",
+    "title": "Passionate Gaze",
+    "desc": "Targeted by Lascivious Lady.",
+    "BuffDesc": "P<color=#000000>a</color>ssionate Gaze",
+    "addText": "%s is targeted...",
+    "removeText": "AAAAAA==",
+    "calText": "AAAAAA=="
+  },
+  {
+    "sn": "36443",
+    "title": "Passionate Gaze",
+    "desc": "Targeted by Lascivious Lady.",
+    "BuffDesc": "P<color=#000000>a</color>ssionate Gaze",
+    "addText": "%s is targeted...",
+    "removeText": "AAAAAA==",
+    "calText": "AAAAAA=="
+  },
+  {
+    "sn": "36451",
+    "title": "Special Effect",
+    "desc": "Decrease final dmg dealt by %s.",
     "BuffDesc": "AAAAAA==",
     "addText": "AAAAAA==",
+    "removeText": "AAAAAA==",
+    "calText": "AAAAAA=="
+  },
+  {
+    "sn": "36461",
+    "title": "Garden of Paradise",
+    "desc": "Increase final dmg dealt by %s.",
+    "BuffDesc": "G<color=#000000>a</color>rden of Paradise",
+    "addText": "Damage increased...",
+    "removeText": "AAAAAA==",
+    "calText": "AAAAAA=="
+  },
+  {
+    "sn": "36481",
+    "title": "Weakness Insight",
+    "desc": "Weakness revealed by Clairvoyant Relic!",
+    "BuffDesc": "W<color=#000000>e</color>akness Insight",
+    "addText": "Weakness revealed...",
+    "removeText": "AAAAAA==",
+    "calText": "AAAAAA=="
+  },
+  {
+    "sn": "36531",
+    "title": "Preparing Escape",
+    "desc": "Escapes after 5 turns.",
+    "BuffDesc": "AAAAAA==",
+    "addText": "Will escape after 5 turns...",
     "removeText": "AAAAAA==",
     "calText": "AAAAAA=="
   },
   {
     "sn": "36532",
-    "title": "AAAAAA==",
-    "desc": "AAAAAA==",
+    "title": "Preparing Escape",
+    "desc": "Escapes after 4 turns.",
     "BuffDesc": "AAAAAA==",
-    "addText": "AAAAAA==",
+    "addText": "Will escape after 4 turns...",
     "removeText": "AAAAAA==",
     "calText": "AAAAAA=="
   },
   {
     "sn": "36533",
-    "title": "AAAAAA==",
-    "desc": "AAAAAA==",
+    "title": "Preparing Escape",
+    "desc": "Escapes after 3 turns.",
     "BuffDesc": "AAAAAA==",
-    "addText": "AAAAAA==",
+    "addText": "Will escape after 3 turns...",
     "removeText": "AAAAAA==",
     "calText": "AAAAAA=="
   },
   {
     "sn": "36534",
-    "title": "AAAAAA==",
-    "desc": "AAAAAA==",
+    "title": "Preparing Escape",
+    "desc": "Escapes after 2 turns.",
     "BuffDesc": "AAAAAA==",
-    "addText": "AAAAAA==",
+    "addText": "Will escape after 2 turns...",
     "removeText": "AAAAAA==",
     "calText": "AAAAAA=="
   },
   {
     "sn": "36535",
-    "title": "AAAAAA==",
-    "desc": "AAAAAA==",
+    "title": "Preparing Escape",
+    "desc": "Escapes after 1 turn.",
     "BuffDesc": "AAAAAA==",
-    "addText": "AAAAAA==",
+    "addText": "Will escape after 1 turn...",
     "removeText": "AAAAAA==",
     "calText": "AAAAAA=="
   },
@@ -31050,6 +31338,33 @@
     "calText": "AAAAAA=="
   },
   {
+    "sn": "590631",
+    "title": "Magnetized Plasma",
+    "desc": "Increase crit rate by %s.",
+    "BuffDesc": "AAAAAA==",
+    "addText": "AAAAAA==",
+    "removeText": "AAAAAA==",
+    "calText": "AAAAAA=="
+  },
+  {
+    "sn": "590641",
+    "title": "Magnetized Plasma",
+    "desc": "Increase dmg by %s.",
+    "BuffDesc": "AAAAAA==",
+    "addText": "AAAAAA==",
+    "removeText": "AAAAAA==",
+    "calText": "AAAAAA=="
+  },
+  {
+    "sn": "590642",
+    "title": "Magnetized Plasma",
+    "desc": "When dealing Electric dmg, increase crit dmg by %s.",
+    "BuffDesc": "AAAAAA==",
+    "addText": "AAAAAA==",
+    "removeText": "AAAAAA==",
+    "calText": "AAAAAA=="
+  },
+  {
     "sn": "535311",
     "title": "Banishing Sword",
     "desc": "Increase Bless dmg by %s.",
@@ -31315,6 +31630,24 @@
     "title": "Radiance of Life",
     "desc": "Increase crit rate by %s.",
     "BuffDesc": "R<color=#000000>a</color>diance of Life",
+    "addText": "AAAAAA==",
+    "removeText": "AAAAAA==",
+    "calText": "AAAAAA=="
+  },
+  {
+    "sn": "540311",
+    "title": "Mystic Wind Arrow",
+    "desc": "Decrease dmg by %s.",
+    "BuffDesc": "AAAAAA==",
+    "addText": "AAAAAA==",
+    "removeText": "AAAAAA==",
+    "calText": "AAAAAA=="
+  },
+  {
+    "sn": "540512",
+    "title": "Crisp Wind Arrow",
+    "desc": "Increase dmg by %s.",
+    "BuffDesc": "C<color=#000000>r</color>isp Wind Arrow",
     "addText": "AAAAAA==",
     "removeText": "AAAAAA==",
     "calText": "AAAAAA=="
@@ -32638,7 +32971,7 @@
     "title": "AAAAAA==",
     "desc": "AAAAAA==",
     "BuffDesc": "AAAAAA==",
-    "addText": "AAAAAA==",
+    "addText": "Time is running low!",
     "removeText": "AAAAAA==",
     "calText": "AAAAAA=="
   },
@@ -32647,7 +32980,7 @@
     "title": "AAAAAA==",
     "desc": "AAAAAA==",
     "BuffDesc": "AAAAAA==",
-    "addText": "AAAAAA==",
+    "addText": "Time has been extended!",
     "removeText": "AAAAAA==",
     "calText": "AAAAAA=="
   },
